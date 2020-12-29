@@ -32,7 +32,7 @@ def create_files(filename_in):
         if line_counter == 0:
 
             # creating a file that will have the format of the rest of the files
-            fobj_out = open('format.txt', 'w', encoding='utf-8')
+            fobj_out = open('Cancer_Data_By_Area/format.txt', 'w', encoding='utf-8')
             fobj_out.write(line)
 
             # splitting the line at the delimiter (always going to be |)
