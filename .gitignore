@@ -1,4 +1,4 @@
-# Don't want to upload the massive raw file
+# Don't want to upload the massive raw file where we got the data from the CDC
 BYAREA.TXT
 
 # Byte-compiled / optimized / DLL files
