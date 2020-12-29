@@ -103,10 +103,9 @@ class DiseaseTypeArea:
         >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Incidence', 2293259,\
         "All Races", 'Female', 1999, 405.5)
         >>> area.add_yearly_data('Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|All Cancer Sites Combined|2000|397.3|413.8|405.5')
-        >>> print(area)
-        Disease: All Cancer Sites Combined	Area: Alabama
-        Incidence data: {1999: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}, 2000: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}}
-        Mortality data: {}
+        >>> area.incidence_data
+        {1999: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}, 2000: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}}
+
         """
 
         # splitting the input data at the delimiter (|)
@@ -167,9 +166,94 @@ class DiseaseTypeArea:
         else:
             raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
 
+    def get_incidence_count_by_year(self, year):
+        """
+        This instance method will get the incidence count for a given year. Will return a KeyError if there is no count
+        for that year
+        :param year: int
+        :return: int - The incidence count of the disease type
 
-alabama_all = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Incidence', 2293259, "All Races",
-                              'Female', 1999, 405.5)
+        Examples:
+        >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Incidence', 2293259,\
+        "All Races", 'Female', 1999, 405.5)
+        >>> area.get_incidence_count_by_year(1999)
+        9299
+        >>> area.get_incidence_count_by_year(1000)
+        That year of data has not been added and cannot be accessed
+        0
+        """
+
+        # trying to get the count of a given year. If not possible it's because that year has not been added yet
+        if year in self.incidence_data:
+            return self.incidence_data[year]['count']
+
+        # the following only runs if the year has not been recorded. Print a statement explaining the situation
+        # want to return 0 if there was no year
+        print("That year of data has not been added and cannot be accessed")
+        return 0
+
+    def get_mortality_count_by_year(self, year):
+        """
+        This instance method will get the mortality count for a given year. Will return 0 if there is no
+        count for that year
+        :param year: int
+        :return: int - mortality count for a given year
+
+        Examples:
+        >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Mortality', 2293259,\
+        "All Races", 'Female', 1999, 405.5)
+        >>> area.get_mortality_count_by_year(1999)
+        9299
+        """
+
+        # trying to get the count of a given year. If not possible it's because that year has not been added yet
+        if year in self.mortality_data:
+            return self.mortality_data[year]['count']
+
+        # the following only runs if the year has not been recorded. Print a statement explaining the situation
+        # want to return 0 if there was no year
+        print('That year has not been added to the data of mortality')
+        return 0
+
+    def get_incidence_crude_rate_by_year(self, year):
+        """
+        This method gets the incidence crude rate for a given input year. Will return 0 if that year does not exist
+        :param year: int
+        :return: incidence crude rate
+         >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Incidence', 2293259,\
+        "All Races", 'Female', 1999, 405.5)
+        >>> area.get_incidence_crude_rate_by_year(1999)
+        405.5
+        """
+
+        # trying to get the crude rate of a given year. If not possible it's because that year has not been added yet
+        if year in self.incidence_data:
+            return self.incidence_data[year]['crude rate']
+
+        # the following only runs if the year has not been recorded for that count_type
+        # Print a statement explaining the situation want to return 0 if there was no year
+        print('That year has not been added to the data of incidence data')
+        return 0.0
+
+    def get_mortality_crude_rate_by_year(self, year):
+        """
+        This method gets the mortality crude rate for a given input year. Will return 0 if that year does not exist
+        :param year: int
+        :return: the crude mortality rate. 0 if there is none
+        >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Mortality', 2293259,\
+        "All Races", 'Female', 1999, 405.5)
+        >>> area.get_mortality_crude_rate_by_year(1999)
+        405.5
+        """
+
+        # trying to get the crude rate of a given year. If not possible it's because that year has not been added yet
+        if year in self.mortality_data:
+            return self.mortality_data[year]['crude rate']
+
+        # the following only runs if the year has not been recorded for that count_type
+        # Print a statement explaining the situation want to return 0 if there was no year
+        return 0.0
+
 
 if __name__ == '__main__':
     doctest.testmod()
