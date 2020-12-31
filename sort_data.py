@@ -34,10 +34,10 @@ class DiseaseTypeArea:
 
         # creating the attributes that are simple
         self.area = area_name
-        self.disease = disease_type
+        self.disease = {}
         # creating the dictionaries that will hold the incidence and mortality data
-        self.incidence_data = {}
-        self.mortality_data = {}
+        incidence_data = {}
+        mortality_data = {}
         # making sure that the parameters are the proper type
         try:
             age_adjusted_rate = float(age_adjusted_rate)
@@ -68,19 +68,22 @@ class DiseaseTypeArea:
         # we sort the types of data by the parameter count_type which will either be incidence or mortality
         if count_type == "Incidence":
             # adding all the desired information to the incidence data dictionary at the specific year
-            self.incidence_data[data_year] = {'count': count, 'population': population,
-                                              'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
-                                              'race': race, 'sex': sex}
+            incidence_data[data_year] = {'count': count, 'population': population,
+                                         'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
+                                         'race': race, 'sex': sex}
 
         # doing the same as the above if statement but in the mortality_data dictionary
         elif count_type == "Mortality":
-            self.mortality_data[data_year] = {'count': count, 'population': population,
-                                              'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
-                                              'race': race, 'sex': sex}
+            mortality_data[data_year] = {'count': count, 'population': population,
+                                         'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
+                                         'race': race, 'sex': sex}
+
         # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the only types
         # of count_types we are taking into account for this type of disease
         else:
             raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
+
+        self.disease[disease_type] = {'Incidence data': incidence_data, 'Mortality data': mortality_data}
 
     def __str__(self):
         """
@@ -88,8 +91,7 @@ class DiseaseTypeArea:
         :return:
         """
 
-        return "Disease: " + self.disease + '\tArea: ' + self.area + '\nIncidence data: ' + str(self.incidence_data) + \
-               '\nMortality data: ' + str(self.mortality_data)
+        return "Disease: " + str(self.disease) + '\tArea: ' + self.area
 
     def add_yearly_data(self, data):
         """
@@ -165,12 +167,13 @@ class DiseaseTypeArea:
         count_type = data[5]
         race = data[7]
         sex = data[8]
+        disease_type = data[9]
 
         # adding a year of data to the incidence dictionary or replacing the data year with the new input
         if count_type == "Incidence":
-            self.incidence_data[data_year] = {'count': count, 'population': population,
-                                              'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
-                                              'race': race, 'sex': sex}
+            self.disease[disease_type]['Incidence'][data_year] = {'count': count, 'population': population,
+                                                                  'age adjusted rate': age_adjusted_rate, 'crude rate':
+                                                                      crude_rate, 'race': race, 'sex': sex}
 
         # adding a year of data to the mortality dictionary or replacing the data year with the new input
         elif count_type == "Mortality":
@@ -188,25 +191,7 @@ class DiseaseTypeArea:
         for that year
         :param year: int
         :return: int - The incidence count of the disease type
-
-        Examples:
-        >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Incidence', 2293259,\
-        "All Races", 'Female', 1999, 405.5)
-        >>> area.get_incidence_count_by_year(1999)
-        9299
-        >>> area.get_incidence_count_by_year(1000)
-        That year of data has not been added and cannot be accessed
-        0
         """
-
-        # trying to get the count of a given year. If not possible it's because that year has not been added yet
-        if year in self.incidence_data:
-            return self.incidence_data[year]['count']
-
-        # the following only runs if the year has not been recorded. Print a statement explaining the situation
-        # want to return 0 if there was no year
-        print("That year of data has not been added and cannot be accessed")
-        return 0
 
     def get_mortality_count_by_year(self, year):
         """
@@ -222,54 +207,6 @@ class DiseaseTypeArea:
         9299
         """
 
-        # trying to get the count of a given year. If not possible it's because that year has not been added yet
-        if year in self.mortality_data:
-            return self.mortality_data[year]['count']
-
-        # the following only runs if the year has not been recorded. Print a statement explaining the situation
-        # want to return 0 if there was no year
-        print('That year has not been added to the data of mortality')
-        return 0
-
-    def get_incidence_crude_rate_by_year(self, year):
-        """
-        This method gets the incidence crude rate for a given input year. Will return 0 if that year does not exist
-        :param year: int
-        :return: incidence crude rate
-         >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Incidence', 2293259,\
-        "All Races", 'Female', 1999, 405.5)
-        >>> area.get_incidence_crude_rate_by_year(1999)
-        405.5
-        """
-
-        # trying to get the crude rate of a given year. If not possible it's because that year has not been added yet
-        if year in self.incidence_data:
-            return self.incidence_data[year]['crude rate']
-
-        # the following only runs if the year has not been recorded for that count_type
-        # Print a statement explaining the situation want to return 0 if there was no year
-        print('That year has not been added to the data of incidence data')
-        return 0.0
-
-    def get_mortality_crude_rate_by_year(self, year):
-        """
-        This method gets the mortality crude rate for a given input year. Will return 0 if that year does not exist
-        :param year: int
-        :return: the crude mortality rate. 0 if there is none
-        >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Mortality', 2293259,\
-        "All Races", 'Female', 1999, 405.5)
-        >>> area.get_mortality_crude_rate_by_year(1999)
-        405.5
-        """
-
-        # trying to get the crude rate of a given year. If not possible it's because that year has not been added yet
-        if year in self.mortality_data:
-            return self.mortality_data[year]['crude rate']
-
-        # the following only runs if the year has not been recorded for that count_type
-        # Print a statement explaining the situation want to return 0 if there was no year
-        return 0.0
-
     def get_incidence_data_between_years(self, data_type, lower_end, upper_end):
         """
         This function will get the total incidence numbers between the lower_end and upper_end years
@@ -278,19 +215,6 @@ class DiseaseTypeArea:
         :param upper_end: The last year that data is to be obtained
         :return: int that represents the total number of incidences between the given years
         """
-
-        # this int variable will hold the sum of all the incidence cases of all the years within the range
-        incidence_counter = 0
-
-        # looping through the years in the data and checking if they are within the range
-        for year in self.incidence_data:
-
-            if lower_end <= year <= upper_end:
-                # if they are in the range, add the count of incidence to the incidence counter
-                incidence_counter += self.incidence_data[year][data_type]
-
-        # returning the incidence numbers in the age
-        return incidence_counter
 
     @classmethod
     def get_disease_from_data(cls, data):
@@ -347,7 +271,7 @@ class DiseaseTypeArea:
         count = data[4]
 
         if count == '.':
-            count = (crude_rate*population)/100000
+            count = (crude_rate * population) / 100000
         try:
             count = int(count)
         except:
@@ -378,9 +302,10 @@ def get_areas_from_file(filename):
         new_line = line.split('|')
 
         area_name = new_line[0]
+        disease_name = new_line[9]
 
-        if area_name == 'Female Breast, <i>in situ</i>':
-            area_name = 'Female Breast, In Situ'
+        if disease_name == 'Female Breast, <i>in situ</i>':
+            disease_name = 'Female Breast, In Situ'
 
         # This appears in the first line of the data. It is a format line and we want to skip it
         if new_line[0] == 'AREA':
@@ -404,8 +329,9 @@ def get_areas_from_file(filename):
     return area_dict
 
 
-dict_of_areas = get_areas_from_file('BYAREA.TXT')
-print(dict_of_areas)
-
-if __name__ == '__main__':
-    doctest.testmod()
+areas = DiseaseTypeArea.get_disease_from_data(
+    'Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|All Cancer Sites Combined|2000|397.3|413.8|405.5')
+areas.add_yearly_data('Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|Larynx|2000|397.3|413.8|405.5')
+print(areas.disease)
+# if __name__ == '__main__':
+#    doctest.testmod()
