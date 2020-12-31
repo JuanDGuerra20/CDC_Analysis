@@ -254,6 +254,28 @@ class DiseaseTypeArea:
         # Print a statement explaining the situation want to return 0 if there was no year
         return 0.0
 
+    def get_incidence_data_between_years(self, data_type, lower_end, upper_end):
+        """
+        This function will get the total incidence numbers between the lower_end and upper_end years
+        :param data_type:
+        :param lower_end:
+        :param upper_end:
+        :return: int
+        """
+
+        # this int variable will hold the sum of all the incidence cases of all the years within the range
+        incidence_counter = 0
+
+        # looping through the years in the data and checking if they are within the range
+        for year in self.incidence_data:
+
+            if lower_end <= year <= upper_end:
+                # if they are in the range, add the count of incidence to the incidence counter
+                incidence_counter += self.incidence_data[year][data_type]
+
+        # returning the incidence numbers in the age
+        return incidence_counter
+
 
 if __name__ == '__main__':
     doctest.testmod()
