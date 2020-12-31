@@ -4,8 +4,6 @@ Start Date: December 28, 2020
 Outline: This module will hold the classes and methods needed to organize the data so we can easily access it
 """
 
-import doctest
-
 
 class DiseaseTypeArea:
     """
@@ -71,19 +69,19 @@ class DiseaseTypeArea:
             incidence_data[data_year] = {'count': count, 'population': population,
                                          'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
                                          'race': race, 'sex': sex}
+            self.disease[disease_type] = {'Incidence': incidence_data, 'Mortality': {}}
 
         # doing the same as the above if statement but in the mortality_data dictionary
         elif count_type == "Mortality":
             mortality_data[data_year] = {'count': count, 'population': population,
                                          'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
                                          'race': race, 'sex': sex}
+            self.disease[disease_type] = {'Incidence': {}, 'Mortality': mortality_data}
 
         # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the only types
         # of count_types we are taking into account for this type of disease
         else:
             raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
-
-        self.disease[disease_type] = {'Incidence data': incidence_data, 'Mortality data': mortality_data}
 
     def __str__(self):
         """
@@ -91,7 +89,14 @@ class DiseaseTypeArea:
         :return:
         """
 
-        return "Disease: " + str(self.disease) + '\tArea: ' + self.area
+        diseases = []
+
+        for disease_type in self.disease:
+            diseases.append(disease_type)
+
+        diseases = ', '.join(diseases)
+
+        return 'Area: ' + self.area + '\nDiseases: ' + diseases
 
     def add_yearly_data(self, data):
         """
@@ -105,7 +110,7 @@ class DiseaseTypeArea:
         "All Races", 'Female', 1999, 405.5)
         >>> area.add_yearly_data('Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|All Cancer Sites Combined|2000|397.3|413.8|405.5')
         >>> area.add_yearly_data('Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|Melanoma|2000|397.3|413.8|405.5')
-        >>> area.incidence_data
+        >>> area.disease['Incidence']
         {1999: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}, 2000: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}}
 
         """
@@ -169,21 +174,46 @@ class DiseaseTypeArea:
         sex = data[8]
         disease_type = data[9]
 
-        # adding a year of data to the incidence dictionary or replacing the data year with the new input
-        if count_type == "Incidence":
-            self.disease[disease_type]['Incidence'][data_year] = {'count': count, 'population': population,
-                                                                  'age adjusted rate': age_adjusted_rate, 'crude rate':
-                                                                      crude_rate, 'race': race, 'sex': sex}
+        # Have to check if the disease is already in the dictionary
+        if disease_type in self.disease:
+            # adding a year of data to the incidence dictionary or replacing the data year with the new input
+            if count_type == "Incidence":
+                self.disease[disease_type]['Incidence'][data_year] = {'count': count, 'population': population,
+                                                                      'age adjusted rate': age_adjusted_rate,
+                                                                      'crude rate':
+                                                                          crude_rate, 'race': race, 'sex': sex}
 
-        # adding a year of data to the mortality dictionary or replacing the data year with the new input
-        elif count_type == "Mortality":
-            self.mortality_data[data_year] = {'count': count, 'population': population,
-                                              'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
-                                              'race': race, 'sex': sex}
-        # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the only types
-        # of count_types we are taking into account for this type of disease
+            # adding a year of data to the mortality dictionary or replacing the data year with the new input
+            elif count_type == "Mortality":
+                self.disease[disease_type]['Mortality'][data_year] = {'count': count, 'population': population,
+                                                                      'age adjusted rate': age_adjusted_rate,
+                                                                      'crude rate': crude_rate,
+                                                                      'race': race, 'sex': sex}
+
+            # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the
+            # only types of count_types we are taking into account for this type of disease
+            else:
+                raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
+
+        # If the disease type has not been added to the dictionary,
+        # we have to format the new dictionary and then add the data
         else:
-            raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
+            self.disease[disease_type] = {'Incidence': {}, 'Mortality': {}}
+
+            if count_type == 'Incidence':
+                self.disease[disease_type]['Incidence'][data_year] = {'count': count, 'population': population,
+                                                                      'age adjusted rate': age_adjusted_rate,
+                                                                      'crude rate':
+                                                                          crude_rate, 'race': race, 'sex': sex}
+            elif count_type == 'Mortality':
+                self.disease[disease_type]['Mortality'][data_year] = {'count': count, 'population': population,
+                                                                      'age adjusted rate': age_adjusted_rate,
+                                                                      'crude rate': crude_rate,
+                                                                      'race': race, 'sex': sex}
+            else:
+                # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the
+                # only types of count_types we are taking into account for this type of disease
+                raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
 
     def get_incidence_count_by_year(self, year):
         """
@@ -329,9 +359,3 @@ def get_areas_from_file(filename):
     return area_dict
 
 
-areas = DiseaseTypeArea.get_disease_from_data(
-    'Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|All Cancer Sites Combined|2000|397.3|413.8|405.5')
-areas.add_yearly_data('Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|Larynx|2000|397.3|413.8|405.5')
-print(areas.disease)
-# if __name__ == '__main__':
-#    doctest.testmod()
