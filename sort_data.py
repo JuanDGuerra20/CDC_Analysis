@@ -33,9 +33,11 @@ class DiseaseTypeArea:
         # creating the attributes that are simple
         self.area = area_name
         self.disease = {}
+
         # creating the dictionaries that will hold the incidence and mortality data
         incidence_data = {}
         mortality_data = {}
+
         # making sure that the parameters are the proper type
         try:
             age_adjusted_rate = float(age_adjusted_rate)
@@ -71,12 +73,20 @@ class DiseaseTypeArea:
                                          'race': race, 'sex': sex}
             self.disease[disease_type] = {'Incidence': incidence_data, 'Mortality': {}}
 
+            # Checking if the count is higher than the highest recorded incidence count
+            if count > DiseaseTypeArea.highest_incidence_year:
+                DiseaseTypeArea.highest_incidence_year = count
+
         # doing the same as the above if statement but in the mortality_data dictionary
         elif count_type == "Mortality":
             mortality_data[data_year] = {'count': count, 'population': population,
                                          'age adjusted rate': age_adjusted_rate, 'crude rate': crude_rate,
                                          'race': race, 'sex': sex}
             self.disease[disease_type] = {'Incidence': {}, 'Mortality': mortality_data}
+
+            # Checking if the count is higher than the highest recorded mortality count
+            if count > DiseaseTypeArea.highest_mortality_year:
+                DiseaseTypeArea.highest_mortality_year = count
 
         # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the only types
         # of count_types we are taking into account for this type of disease
@@ -186,12 +196,20 @@ class DiseaseTypeArea:
                                                                       'crude rate':
                                                                           crude_rate, 'race': race, 'sex': sex}
 
+                # Checking if the count is higher than the highest recorded incidence count
+                if count > DiseaseTypeArea.highest_incidence_year:
+                    DiseaseTypeArea.highest_incidence_year = count
+
             # adding a year of data to the mortality dictionary or replacing the data year with the new input
             elif count_type == "Mortality":
                 self.disease[disease_type]['Mortality'][data_year] = {'count': count, 'population': population,
                                                                       'age adjusted rate': age_adjusted_rate,
                                                                       'crude rate': crude_rate,
                                                                       'race': race, 'sex': sex}
+
+                # Checking if the count is higher than the highest recorded mortality count
+                if count > DiseaseTypeArea.highest_mortality_year:
+                    DiseaseTypeArea.highest_mortality_year = count
 
             # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the
             # only types of count_types we are taking into account for this type of disease
@@ -219,30 +237,31 @@ class DiseaseTypeArea:
             else:
                 raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
 
-    def get_count_by_disease_year(self, disease, count_type, year):
+    def get_data_by_disease_year(self, disease, cr_type, year, data):
         """
         This instance method will get the count of a input count_type for a given disease and year
-        Will return a KeyError if there is no count
-        for that year
-        :param disease: This string represents the disease that the user is searching for the count
-        :param count_type: This string represents the count type that the user wants
-        :param year: int representing the year of the desired count
-        :return: int - The incidence count of the disease type
+        Will return a KeyError if there is no count for that year
+        :param disease: This string represents the disease that the user is searching for the crude rate
+        :param cr_type: This string represents the crude rate type that the user wants
+        :param year: int representing the year of the desired crude rate
+        :param data: This is the data type that the user wants to collect
+        :return: int - The crude rate of the disease type
         """
 
         if disease not in self.disease:
             raise KeyError("The disease has not been added to the list of diseases for this area")
 
         # getting the count for the given parameters
-        count = self.disease[disease][count_type][year]['count']
+        count = self.disease[disease][cr_type][year][data]
 
         return count
 
-    def get_incidence_count_between_years(self, disease, count_type, lower_end, upper_end):
+    def get_data_between_years_by_disease_type(self, disease, data_type, count_type, lower_end, upper_end):
         """
-        This function will get the total incidence numbers between the lower_end and upper_end years
+        This function will get the total count numbers between the lower_end and upper_end years
         :param disease: This is the disease type that the user will be searching for
-        :param count_type: The data that the user wants to obtain. Could be 'count' or 'population', etc.
+        :param data_type: The data that the user wants to obtain. Could be 'count' or 'population', etc.
+        :param count_type: Th
         :param lower_end: The year that the person wants to start getting the data from
         :param upper_end: The last year that data is to be obtained
         :return: int that represents the total number of incidences between the given years
@@ -251,7 +270,7 @@ class DiseaseTypeArea:
         if disease not in self.disease:
             raise KeyError("The disease has not been added to the list of diseases for this area")
 
-        count = 0
+        data_sum = 0
 
         # looping through all the years for the given disease and checking if it is within the range given
         for year in self.disease[disease][count_type]:
@@ -259,10 +278,9 @@ class DiseaseTypeArea:
             if lower_end <= year <= upper_end:
 
                 # adding the count for the year iteration that meets the requirements to the sum of counts
-                count += self.disease[disease][count_type][year]['count']
+                data_sum += self.disease[disease][count_type][year][data_type]
 
-        return count
-
+        return data_sum
 
     @classmethod
     def get_disease_from_data(cls, data):
@@ -317,7 +335,6 @@ class DiseaseTypeArea:
             raise TypeError("Incorrect data type: crude rate must be a float: " + data)
 
         count = data[4]
-
         if count == '.':
             count = (crude_rate * population) / 100000
         try:
