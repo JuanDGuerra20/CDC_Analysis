@@ -89,8 +89,10 @@ class DiseaseTypeArea:
         :return:
         """
 
+        # This list will have all the diseases currently recorded in the class
         diseases = []
 
+        # adding all the diseases in the class to the list
         for disease_type in self.disease:
             diseases.append(disease_type)
 
@@ -111,8 +113,9 @@ class DiseaseTypeArea:
         >>> area.add_yearly_data('Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|All Cancer Sites Combined|2000|397.3|413.8|405.5')
         >>> area.add_yearly_data('Alabama|359.7|374.7|367.2|9299|Incidence|2293259|All Races|Female|Melanoma|2000|397.3|413.8|405.5')
         >>> area.disease['Incidence']
-        {1999: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}, 2000: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}}
-
+        {1999: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2, 'crude rate': 405.5,
+         'race': 'All Races', 'sex': 'Female'}, 2000: {'count': 9299, 'population': 2293259, 'age adjusted rate': 367.2,
+          'crude rate': 405.5, 'race': 'All Races', 'sex': 'Female'}}
         """
 
         # ~ is in the CDC data if there was insufficient data to report
@@ -126,8 +129,8 @@ class DiseaseTypeArea:
             data = data.replace('+', '-1')
 
         # - appears in the CDC data if the state requested that the certain ethnicity or race not be reported
-        if '-' in data:
-            data = data.replace('-', '-1')
+        if '|-|' in data:
+            data = data.replace('|-', '|-1')
 
         # splitting the input data at the delimiter (|)
         data = data.split('|')
@@ -158,7 +161,7 @@ class DiseaseTypeArea:
             crude_rate = float(crude_rate)
 
         except:
-            raise TypeError("Incorrect data type: crude rate must be a float")
+            raise TypeError("Incorrect data type: crude rate must be a float: " + str(data))
 
         count = data[4]
         if count == '.':
@@ -210,41 +213,56 @@ class DiseaseTypeArea:
                                                                       'age adjusted rate': age_adjusted_rate,
                                                                       'crude rate': crude_rate,
                                                                       'race': race, 'sex': sex}
+
+            # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the
+            # only types of count_types we are taking into account for this type of disease
             else:
-                # if the count_type is not Incidence or Mortality, we want to raise a value error since those are the
-                # only types of count_types we are taking into account for this type of disease
                 raise ValueError("Unsupported count_type: must be either Incidence or Mortality")
 
-    def get_incidence_count_by_year(self, year):
+    def get_count_by_disease_year(self, disease, count_type, year):
         """
-        This instance method will get the incidence count for a given year. Will return a KeyError if there is no count
+        This instance method will get the count of a input count_type for a given disease and year
+        Will return a KeyError if there is no count
         for that year
-        :param year: int
+        :param disease: This string represents the disease that the user is searching for the count
+        :param count_type: This string represents the count type that the user wants
+        :param year: int representing the year of the desired count
         :return: int - The incidence count of the disease type
         """
 
-    def get_mortality_count_by_year(self, year):
-        """
-        This instance method will get the mortality count for a given year. Will return 0 if there is no
-        count for that year
-        :param year: int
-        :return: int - mortality count for a given year
+        if disease not in self.disease:
+            raise KeyError("The disease has not been added to the list of diseases for this area")
 
-        Examples:
-        >>> area = DiseaseTypeArea('Alabama', 'All Cancer Sites Combined', 367.2, 9299, 'Mortality', 2293259,\
-        "All Races", 'Female', 1999, 405.5)
-        >>> area.get_mortality_count_by_year(1999)
-        9299
-        """
+        # getting the count for the given parameters
+        count = self.disease[disease][count_type][year]['count']
 
-    def get_incidence_data_between_years(self, data_type, lower_end, upper_end):
+        return count
+
+    def get_incidence_count_between_years(self, disease, count_type, lower_end, upper_end):
         """
         This function will get the total incidence numbers between the lower_end and upper_end years
-        :param data_type: The data that the user wants to obtain. Could be 'count' or 'population', etc.
+        :param disease: This is the disease type that the user will be searching for
+        :param count_type: The data that the user wants to obtain. Could be 'count' or 'population', etc.
         :param lower_end: The year that the person wants to start getting the data from
         :param upper_end: The last year that data is to be obtained
         :return: int that represents the total number of incidences between the given years
         """
+
+        if disease not in self.disease:
+            raise KeyError("The disease has not been added to the list of diseases for this area")
+
+        count = 0
+
+        # looping through all the years for the given disease and checking if it is within the range given
+        for year in self.disease[disease][count_type]:
+
+            if lower_end <= year <= upper_end:
+
+                # adding the count for the year iteration that meets the requirements to the sum of counts
+                count += self.disease[disease][count_type][year]['count']
+
+        return count
+
 
     @classmethod
     def get_disease_from_data(cls, data):
@@ -264,8 +282,8 @@ class DiseaseTypeArea:
             data = data.replace('+', '-1')
 
         # - appears in the CDC data if the state requested that the certain ethnicity or race not be reported
-        if '-' in data:
-            data = data.replace('-', '-1')
+        if '|-' in data:
+            data = data.replace('|-', '|-1')
 
         # splitting the input data at the delimiter (|)
         data = data.split('|')
@@ -296,7 +314,7 @@ class DiseaseTypeArea:
             crude_rate = float(crude_rate)
 
         except:
-            raise TypeError("Incorrect data type: crude rate must be a float")
+            raise TypeError("Incorrect data type: crude rate must be a float: " + data)
 
         count = data[4]
 
@@ -329,13 +347,20 @@ def get_areas_from_file(filename):
     area_dict = {}
     for line in fobj:
 
+        # formatting the data so that it can be used easily
+        line = line.strip("\n")
         new_line = line.split('|')
 
+        # these variables will be used to identify key things that must be fixed before adding the data
         area_name = new_line[0]
         disease_name = new_line[9]
 
+        # This chain of if statements is to facilitate the reading of the disease name. We replace the complicated name
+        # with the desired name
         if disease_name == 'Female Breast, <i>in situ</i>':
-            disease_name = 'Female Breast, In Situ'
+            line = line.replace('Female Breast, <i>in situ</i>', 'Female Breast - In Situ')
+        elif disease_name == 'Corpus and Uterus, NOS':
+            line = line.replace('Corpus and Uterus, NOS', 'Corpus and Uterus - NOS')
 
         # This appears in the first line of the data. It is a format line and we want to skip it
         if new_line[0] == 'AREA':
@@ -357,5 +382,3 @@ def get_areas_from_file(filename):
     fobj.close()
 
     return area_dict
-
-
