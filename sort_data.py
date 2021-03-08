@@ -262,7 +262,7 @@ class DiseaseTypeArea:
         This function will get the total count numbers between the lower_end and upper_end years
         :param disease: This is the disease type that the user will be searching for
         :param data_type: The data that the user wants to obtain. Could be 'count' or 'population', etc.
-        :param count_type: Th
+        :param count_type: The count type (whether it be incidence or mortality counts)
         :param lower_end: The year that the person wants to start getting the data from
         :param upper_end: The last year that data is to be obtained
         :return: int that represents the total number of incidences between the given years
