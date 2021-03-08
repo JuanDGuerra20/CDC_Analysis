@@ -242,9 +242,10 @@ class DiseaseTypeArea:
         This instance method will get the count of a input count_type for a given disease and year
         Will return a KeyError if there is no count for that year
         :param disease: This string represents the disease that the user is searching for the crude rate
-        :param cr_type: This string represents the crude rate type that the user wants
+        :param cr_type: This string represents the crude rate type that the user wants. This represents either mortality
+                        or incidence data as inputs
         :param year: int representing the year of the desired crude rate
-        :param data: This is the data type that the user wants to collect
+        :param data: This is the data type that the user wants to collect (count, population, race, etc)
         :return: int - The crude rate of the disease type
         """
 
@@ -355,9 +356,11 @@ class DiseaseTypeArea:
 
 def get_areas_from_file(filename):
     """
-    This function will create a dictionary
-    :param filename:
-    :return:
+    This function will create a dictionary that has state names as the key values and will have the appropriate
+    DiseaseTypeArea class as the value pair for that state key
+    :param filename: This is a string that represents the filename that will be used to gather the data for the state
+    class
+    :return: Will return a dictionary
     """
 
     fobj = open(filename, 'r', encoding='utf-8')
@@ -399,3 +402,7 @@ def get_areas_from_file(filename):
     fobj.close()
 
     return area_dict
+
+
+areas = get_areas_from_file("BYAREA.TXT")
+print(areas["Alabama"].get_data_by_disease_year("All Cancer Sites Combined", "Incidence", 2000, "sex"))
