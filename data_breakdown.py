@@ -116,6 +116,9 @@ def create_files_usgs_format(filename_in):
                     # setting the cancer location to be the index
                     data_location = i
                     break  # stopping the loop to not take up more time than needed
+                if line[i] == '':
+                    line.remove('')
+
 
             line_counter += 1
             continue
