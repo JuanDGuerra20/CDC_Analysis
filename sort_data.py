@@ -354,6 +354,211 @@ class DiseaseTypeArea:
                    race, sex, data_year, crude_rate)
 
 
+class PesticideData:
+    """
+    This class is going to organize all the pesticide data for any pesticide that we want to analyze
+    """
+
+    highest_pesticide_year = 0
+    lowest_pesticide_year = 999999
+
+    def __init__(self, statefipscode, stateName, year, units, corn, soybeans, wheat, cotton, vegetablesandfruit, rice, orchardsandgrapes, alfalfa, pastureandhay, other):
+        """
+        constructing the class with all the required info
+        :param statefipscode: the state fips code that identifies each state int
+        :param stateName: the name of the state, pretty simple String
+        :param year: the year that the data was taken int
+        :param units: the units that the data was collected with String
+        :param corn: float
+        :param soybeans: float
+        :param wheat: float
+        :param cotton: float
+        :param vegetablesandfruit: float
+        :param rice: float
+        :param orchardsandgrapes: float
+        :param alfalfa: float
+        :param pastureandhay: float
+        :param other:float. All other types of food that pesticides are used on
+        """
+
+        try:
+            fips = int(statefipscode)
+        except:
+            raise TypeError("state FIPS code is not valid, must be an integer")
+
+        self.compound = {}
+
+        try:
+            year = int(year)
+        except:
+            raise TypeError("Year must be an int")
+
+        try:
+            corn = float(corn)
+        except:
+            raise TypeError("Corn data must be a float")
+
+        try:
+            soybeans = float(soybeans)
+        except:
+            raise TypeError("Soybean data must be a float")
+
+        try:
+            wheat = float(wheat)
+        except:
+            raise TypeError("Wheat data must be a float")
+
+        try:
+            cotton = float(cotton)
+        except:
+            raise TypeError("Cotton data must be a float")
+
+        try:
+            vegetablesandfruit = float(vegetablesandfruit)
+        except:
+            raise TypeError("Vegetable and Fruit must be a float")
+
+        try:
+            rice = float(rice)
+        except:
+            raise TypeError("Rice data must be a float")
+
+        try:
+            orchardsandgrapes = float(orchardsandgrapes)
+        except:
+            raise TypeError("Orchard and Grape data must be a float")
+
+        try:
+            alfalfa = float(alfalfa)
+        except:
+            raise TypeError("Alfalfa data must be a float")
+
+        try:
+            pastureandhay = float(pastureandhay)
+        except:
+            raise TypeError("Pasture and Hay data must be a float")
+
+        try:
+            other = float(other)
+        except:
+            raise TypeError("All 'other' data must be a float")
+
+        totalData = corn + soybeans + wheat+ cotton + vegetablesandfruit + rice + orchardsandgrapes+ alfalfa + pastureandhay + other
+        year_data = {'Corn': corn, "Soybeans": soybeans, "Wheat": wheat, "Cotton": cotton, "Vegetables and Fruit": vegetablesandfruit, "Rice": rice, "Orchards and Grapes": orchardsandgrapes, "Alfalfa": alfalfa, "Pasture and Hay": pastureandhay, "Other": other, "Total": totalData}
+
+        self.compound[fips] = {year: year_data}
+
+        if totalData > self.highest_pesticide_year:
+            self.highest_pesticide_year = year
+        elif totalData < self.lowest_pesticide_year:
+            self.lowest_pesticide_year = year
+
+        # gotta check if the
+
+    def add_yearly_data(self, data):
+        """
+        adding yearly data by an input year string
+        :param data: the string that holds all the data for that year
+        :return: None
+        """
+
+        data = data.split("\t")
+
+        # Making sure that we don't get errors by changing all empty pesticide values into 0
+        for i in range(len(data)):
+            if data[i] == '':
+                data[i] = 0
+
+        fips = data[0]
+        try:
+            fips = int(fips)
+        except:
+            raise TypeError("FIPS must be an int")
+
+        state = data[1]
+
+        year = data[3]
+        try:
+            year = int(year)
+        except:
+            raise TypeError("Year must be an int")
+
+        units = data[4]
+
+        corn = data[5]
+        try:
+            corn = float(corn)
+        except:
+            raise TypeError("Corn data must be a float")
+
+        soybeans = data[6]
+        try:
+            soybeans = float(soybeans)
+        except:
+            raise TypeError("Soybean data must be a float")
+
+        wheat = data[7]
+        try:
+            wheat = float(wheat)
+        except:
+            raise TypeError("Wheat data must be a float")
+
+        cotton = data[8]
+        try:
+            cotton = float(cotton)
+        except:
+            raise TypeError("Cotton data must be a float")
+
+        vegetablesandfruit = data[9]
+        try:
+            vegetablesandfruit = float(vegetablesandfruit)
+        except:
+            raise TypeError("Vegetable and Fruit must be a float")
+
+        rice = data[10]
+        try:
+            rice = float(rice)
+        except:
+            raise TypeError("Rice data must be a float")
+
+        orchardsandgrapes = data[11]
+        try:
+            orchardsandgrapes = float(orchardsandgrapes)
+        except:
+            raise TypeError("Orchard and Grape data must be a float")
+
+        alfalfa = data[12]
+        try:
+            alfalfa = float(alfalfa)
+        except:
+            raise TypeError("Alfalfa data must be a float")
+
+        pastureandhay = data[13]
+        try:
+            pastureandhay = float(pastureandhay)
+        except:
+            raise TypeError("Pasture and Hay data must be a float")
+
+        other = data[14]
+        try:
+            other = float(other)
+        except:
+            raise TypeError("All 'other' data must be a float")
+
+        totalData = corn + soybeans + wheat + cotton + vegetablesandfruit + rice + orchardsandgrapes + alfalfa + pastureandhay + other
+        year_data = {"Units": units, 'Corn': corn, "Soybeans": soybeans, "Wheat": wheat, "Cotton": cotton,
+                     "Vegetables and Fruit": vegetablesandfruit, "Rice": rice, "Orchards and Grapes": orchardsandgrapes,
+                     "Alfalfa": alfalfa, "Pasture and Hay": pastureandhay, "Other": other, "Total": totalData}
+
+        if fips in self.compound:
+            self.compound[fips][year] = year_data
+
+        else:
+            self.compound[fips] = {year: year_data}
+
+
+
+
 def get_areas_from_file(filename):
     """
     This function will create a dictionary that has state names as the key values and will have the appropriate
@@ -403,4 +608,6 @@ def get_areas_from_file(filename):
 
     return area_dict
 
-1
+glyphosate = PesticideData(1, "Alabama", 1992, 'kg', 3171, 2485.7, 1677.9, 14089.4, 489.8, 0, 2413.8, 2696.7, 19767.3, 148805.9)
+
+glyphosate.add_yearly_data("01	Alabama	GLYPHOSATE	1993	kg	7509.8	5304.5	154.9	14438.9	463.5		11946.2	35.5	14608.4	19298.3")
