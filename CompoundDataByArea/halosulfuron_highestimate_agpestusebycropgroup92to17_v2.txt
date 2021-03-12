@@ -1,0 +1,992 @@
+01	Alabama	HALOSULFURON	1995	kg	4.4									
+01	Alabama	HALOSULFURON	1996	kg	76.8									
+01	Alabama	HALOSULFURON	1997	kg	257.2									
+01	Alabama	HALOSULFURON	1998	kg	11.1									
+01	Alabama	HALOSULFURON	1999	kg	122.9									
+01	Alabama	HALOSULFURON	2000	kg	63.1									
+01	Alabama	HALOSULFURON	2001	kg	91.7									
+01	Alabama	HALOSULFURON	2002	kg	104.4				2.5					
+01	Alabama	HALOSULFURON	2003	kg	382.8				12.1					
+01	Alabama	HALOSULFURON	2004	kg	67.1				18.5					
+01	Alabama	HALOSULFURON	2005	kg	22.3				39.9					
+01	Alabama	HALOSULFURON	2006	kg	72.5				32.3					
+01	Alabama	HALOSULFURON	2007	kg	155.4				22.3					
+01	Alabama	HALOSULFURON	2008	kg	105				15.5					
+01	Alabama	HALOSULFURON	2009	kg					13.6					
+01	Alabama	HALOSULFURON	2010	kg	2.2				16.1					
+01	Alabama	HALOSULFURON	2011	kg	12.7				0.6					
+01	Alabama	HALOSULFURON	2012	kg					1.8					
+01	Alabama	HALOSULFURON	2013	kg					15.1					
+01	Alabama	HALOSULFURON	2014	kg					13.7					
+01	Alabama	HALOSULFURON	2015	kg	199.4				1.9					
+01	Alabama	HALOSULFURON	2016	kg					15					
+01	Alabama	HALOSULFURON	2017	kg					4.2					
+04	Arizona	HALOSULFURON	1997	kg	52									
+04	Arizona	HALOSULFURON	2001	kg	1562									
+04	Arizona	HALOSULFURON	2002	kg	3.8									
+04	Arizona	HALOSULFURON	2004	kg					1.4					
+04	Arizona	HALOSULFURON	2005	kg					3.2					
+04	Arizona	HALOSULFURON	2007	kg					4.2					
+04	Arizona	HALOSULFURON	2009	kg					15.3					
+04	Arizona	HALOSULFURON	2010	kg					11.6					
+04	Arizona	HALOSULFURON	2011	kg					12.3					
+04	Arizona	HALOSULFURON	2012	kg					70.1					
+04	Arizona	HALOSULFURON	2013	kg					45.9			249.8		26.5
+04	Arizona	HALOSULFURON	2014	kg					28.1					
+04	Arizona	HALOSULFURON	2015	kg					15				47.2	
+04	Arizona	HALOSULFURON	2016	kg					140.9					
+04	Arizona	HALOSULFURON	2017	kg					0					
+05	Arkansas	HALOSULFURON	1999	kg	43.1					869.5				
+05	Arkansas	HALOSULFURON	2000	kg	1.2					1923.7				
+05	Arkansas	HALOSULFURON	2001	kg	14.4				0.3	2483.1				
+05	Arkansas	HALOSULFURON	2002	kg					0.3	3335.6				21.1
+05	Arkansas	HALOSULFURON	2003	kg					0.9	3981.6				
+05	Arkansas	HALOSULFURON	2004	kg					59.6	3892.1				
+05	Arkansas	HALOSULFURON	2005	kg					0.2	2685.5				
+05	Arkansas	HALOSULFURON	2006	kg					0.2	4117.5				
+05	Arkansas	HALOSULFURON	2007	kg					0.6	3458.5				123.5
+05	Arkansas	HALOSULFURON	2008	kg					1	2894				
+05	Arkansas	HALOSULFURON	2009	kg					4.2	4658				
+05	Arkansas	HALOSULFURON	2010	kg	0.1				2.9	3351.4				
+05	Arkansas	HALOSULFURON	2011	kg						5956.1				
+05	Arkansas	HALOSULFURON	2012	kg	72.3				1	3918.8				42.5
+05	Arkansas	HALOSULFURON	2013	kg	274.7	87.9			3.3	7045.6				
+05	Arkansas	HALOSULFURON	2014	kg		615.2			0.6	5937.9				
+05	Arkansas	HALOSULFURON	2015	kg					5.3	6376.3				
+05	Arkansas	HALOSULFURON	2016	kg	161.2					8915.3				
+05	Arkansas	HALOSULFURON	2017	kg						6419.4				
+06	California	HALOSULFURON	2001	kg	365.5				9.5		304.6	0	11.5	9.9
+06	California	HALOSULFURON	2008	kg	676.2				94.4	84	70.9	45.5		43.2
+06	California	HALOSULFURON	2009	kg	603.2				137.5	87.6	42.1	78.9	0.9	13
+06	California	HALOSULFURON	2010	kg	489.1				108.2	71.2	61.9	31.8	4	45
+06	California	HALOSULFURON	2011	kg	588.5				137.5	149.6	43.2	377.8	2.3	42.4
+06	California	HALOSULFURON	2012	kg	679.7				98.2	81.5	52.1	75.2	3.8	16.3
+06	California	HALOSULFURON	2013	kg	464.8		0		170.5	94.7	76.8	87.9		41.8
+06	California	HALOSULFURON	2014	kg	339.7				115.2	95.7	79.3	84.6	7.9	42.4
+06	California	HALOSULFURON	2015	kg	298.4		1.9		131.3	216.3	94.2	55.5	2.8	53.2
+06	California	HALOSULFURON	2016	kg	280.6				128.6	558	56.9	45.3	12.1	77.2
+06	California	HALOSULFURON	2017	kg	220.3				129.8	1376.2	88.9	49.3	0.8	16.5
+08	Colorado	HALOSULFURON	1995	kg	36.9									44.9
+08	Colorado	HALOSULFURON	1996	kg	824.9									179.2
+08	Colorado	HALOSULFURON	1997	kg	121.7									111
+08	Colorado	HALOSULFURON	1998	kg	637.1									41.4
+08	Colorado	HALOSULFURON	1999	kg	646.4									47.8
+08	Colorado	HALOSULFURON	2000	kg	356.7									49.4
+08	Colorado	HALOSULFURON	2001	kg	261.5									116.4
+08	Colorado	HALOSULFURON	2002	kg	317									56.3
+08	Colorado	HALOSULFURON	2003	kg	143.1									27.6
+08	Colorado	HALOSULFURON	2004	kg	168.5				3.6					24.5
+08	Colorado	HALOSULFURON	2005	kg	46.2				3					52.7
+08	Colorado	HALOSULFURON	2006	kg	94.8				5.1					12.6
+08	Colorado	HALOSULFURON	2007	kg	12.1									70.4
+08	Colorado	HALOSULFURON	2008	kg	449.5				20.7					103.3
+08	Colorado	HALOSULFURON	2009	kg	423.2				9.3					29.6
+08	Colorado	HALOSULFURON	2010	kg					228.7					39.4
+08	Colorado	HALOSULFURON	2011	kg					124.4					82.6
+08	Colorado	HALOSULFURON	2012	kg					73.3					
+08	Colorado	HALOSULFURON	2013	kg	61.9				20					45.4
+08	Colorado	HALOSULFURON	2014	kg					72.8					331.8
+08	Colorado	HALOSULFURON	2015	kg					99					741.8
+08	Colorado	HALOSULFURON	2016	kg	112.5				1.7					76.2
+08	Colorado	HALOSULFURON	2017	kg					2.7			10.4		323.1
+09	Connecticut	HALOSULFURON	1995	kg	4.1									
+09	Connecticut	HALOSULFURON	1996	kg	8									
+09	Connecticut	HALOSULFURON	1997	kg	2.2									
+09	Connecticut	HALOSULFURON	1998	kg	33.2									
+09	Connecticut	HALOSULFURON	1999	kg	18.5									
+09	Connecticut	HALOSULFURON	2000	kg	12.1									
+09	Connecticut	HALOSULFURON	2001	kg	11.8				0.8					
+09	Connecticut	HALOSULFURON	2002	kg	10.5				17.8					
+09	Connecticut	HALOSULFURON	2003	kg	98				1.1					
+09	Connecticut	HALOSULFURON	2004	kg	31				0.8					
+09	Connecticut	HALOSULFURON	2005	kg	6.6				0.8					
+09	Connecticut	HALOSULFURON	2006	kg	13.8				22.8					
+09	Connecticut	HALOSULFURON	2007	kg	34.5				7.5					
+09	Connecticut	HALOSULFURON	2008	kg	30.7				12.2					
+09	Connecticut	HALOSULFURON	2009	kg	33.3				10.8					
+09	Connecticut	HALOSULFURON	2010	kg	27.5				14.8					
+09	Connecticut	HALOSULFURON	2011	kg	4.4				16.8					
+09	Connecticut	HALOSULFURON	2012	kg					8.9					
+09	Connecticut	HALOSULFURON	2013	kg	33.9				22.7					
+09	Connecticut	HALOSULFURON	2014	kg	20.6				6					
+09	Connecticut	HALOSULFURON	2015	kg	226.4				12.2					
+09	Connecticut	HALOSULFURON	2016	kg	27.8				6.8					
+09	Connecticut	HALOSULFURON	2017	kg	151.7				0.4					
+10	Delaware	HALOSULFURON	1995	kg	10.6									
+10	Delaware	HALOSULFURON	1996	kg	39.3									
+10	Delaware	HALOSULFURON	1997	kg	59.8									
+10	Delaware	HALOSULFURON	1998	kg	11.2									
+10	Delaware	HALOSULFURON	1999	kg	371.6									
+10	Delaware	HALOSULFURON	2000	kg	11.5									
+10	Delaware	HALOSULFURON	2001	kg	27.9									
+10	Delaware	HALOSULFURON	2002	kg	102				0.5					
+10	Delaware	HALOSULFURON	2003	kg	36.9				16.5					
+10	Delaware	HALOSULFURON	2004	kg	25.8				51.8					
+10	Delaware	HALOSULFURON	2005	kg					22.9					
+10	Delaware	HALOSULFURON	2006	kg					68.5					
+10	Delaware	HALOSULFURON	2007	kg	85.9				67.2		0			
+10	Delaware	HALOSULFURON	2008	kg					12.1					
+10	Delaware	HALOSULFURON	2009	kg					72					
+10	Delaware	HALOSULFURON	2010	kg					12					
+10	Delaware	HALOSULFURON	2011	kg	2				52.4					
+10	Delaware	HALOSULFURON	2012	kg					89.2					
+10	Delaware	HALOSULFURON	2013	kg					79.5					
+10	Delaware	HALOSULFURON	2014	kg	10				113.2					
+10	Delaware	HALOSULFURON	2015	kg	3.8				97.3					
+10	Delaware	HALOSULFURON	2016	kg	4.9				89.2					
+10	Delaware	HALOSULFURON	2017	kg					91.1					
+12	Florida	HALOSULFURON	1997	kg	47.2									
+12	Florida	HALOSULFURON	1999	kg	2.7									
+12	Florida	HALOSULFURON	2000	kg										112.5
+12	Florida	HALOSULFURON	2001	kg					97.4					7.2
+12	Florida	HALOSULFURON	2002	kg										18.1
+12	Florida	HALOSULFURON	2003	kg	260.6				120.5					93
+12	Florida	HALOSULFURON	2004	kg					118					290.3
+12	Florida	HALOSULFURON	2005	kg					124.3					2633.5
+12	Florida	HALOSULFURON	2006	kg					205.9					82
+12	Florida	HALOSULFURON	2007	kg					109.6					1215.5
+12	Florida	HALOSULFURON	2008	kg					249.5					1427.6
+12	Florida	HALOSULFURON	2009	kg					232					1371.5
+12	Florida	HALOSULFURON	2010	kg	0.6				401.6					141.5
+12	Florida	HALOSULFURON	2011	kg					614.5					35.4
+12	Florida	HALOSULFURON	2012	kg					397.1					48.1
+12	Florida	HALOSULFURON	2013	kg	37				179.1					39
+12	Florida	HALOSULFURON	2014	kg					359.5					35.8
+12	Florida	HALOSULFURON	2015	kg					498.1				669.8	38.5
+12	Florida	HALOSULFURON	2016	kg					905.6					16.9
+12	Florida	HALOSULFURON	2017	kg					296.7					
+13	Georgia	HALOSULFURON	1996	kg	107.7									
+13	Georgia	HALOSULFURON	1997	kg	138.6									6.6
+13	Georgia	HALOSULFURON	1998	kg	26									
+13	Georgia	HALOSULFURON	1999	kg	55.7									
+13	Georgia	HALOSULFURON	2000	kg	75.7									
+13	Georgia	HALOSULFURON	2001	kg	106.4									
+13	Georgia	HALOSULFURON	2002	kg	139.2				0.1					
+13	Georgia	HALOSULFURON	2003	kg	1120.1				31.6					
+13	Georgia	HALOSULFURON	2004	kg	35.7				83					
+13	Georgia	HALOSULFURON	2005	kg					385.6					
+13	Georgia	HALOSULFURON	2006	kg					615.3					
+13	Georgia	HALOSULFURON	2007	kg	182.2				266.9					
+13	Georgia	HALOSULFURON	2008	kg					111.2					
+13	Georgia	HALOSULFURON	2009	kg					137.2					
+13	Georgia	HALOSULFURON	2010	kg	14.2				202.1					
+13	Georgia	HALOSULFURON	2011	kg					0.1					
+13	Georgia	HALOSULFURON	2012	kg					198.1					
+13	Georgia	HALOSULFURON	2013	kg	344.2				158.6					
+13	Georgia	HALOSULFURON	2014	kg					25.5					
+13	Georgia	HALOSULFURON	2015	kg					102.6					
+13	Georgia	HALOSULFURON	2016	kg					590.4					
+13	Georgia	HALOSULFURON	2017	kg					82.4					
+16	Idaho	HALOSULFURON	2003	kg					0.5					
+16	Idaho	HALOSULFURON	2005	kg					0.9					
+16	Idaho	HALOSULFURON	2009	kg					135.7					
+16	Idaho	HALOSULFURON	2010	kg	2749.6									
+16	Idaho	HALOSULFURON	2011	kg	125.7									
+16	Idaho	HALOSULFURON	2015	kg									10.3	
+16	Idaho	HALOSULFURON	2017	kg					0					
+17	Illinois	HALOSULFURON	1993	kg	83.7									
+17	Illinois	HALOSULFURON	1995	kg	2960.7									
+17	Illinois	HALOSULFURON	1996	kg	2704.2									
+17	Illinois	HALOSULFURON	1997	kg	3734.5									
+17	Illinois	HALOSULFURON	1998	kg	3046.9									
+17	Illinois	HALOSULFURON	1999	kg	3723.2									
+17	Illinois	HALOSULFURON	2000	kg	1120.6									
+17	Illinois	HALOSULFURON	2001	kg	2463.6				1.8					
+17	Illinois	HALOSULFURON	2002	kg	4390.4				42.4					
+17	Illinois	HALOSULFURON	2003	kg	2125.8				88.3					
+17	Illinois	HALOSULFURON	2004	kg	3202.3				94.8					
+17	Illinois	HALOSULFURON	2005	kg	3675.7				137.8					
+17	Illinois	HALOSULFURON	2006	kg	1613.8				126.3					
+17	Illinois	HALOSULFURON	2007	kg	2353				164.7					
+17	Illinois	HALOSULFURON	2008	kg	2036.8				80					
+17	Illinois	HALOSULFURON	2009	kg	1507.5				43.6					
+17	Illinois	HALOSULFURON	2010	kg	1246.4				89.8					
+17	Illinois	HALOSULFURON	2011	kg	1821.8				89.9					
+17	Illinois	HALOSULFURON	2012	kg	4704.1				75.9					
+17	Illinois	HALOSULFURON	2013	kg	3733.2				153.4					
+17	Illinois	HALOSULFURON	2014	kg	1252.8				109.9					
+17	Illinois	HALOSULFURON	2015	kg	1210.1				138					
+17	Illinois	HALOSULFURON	2016	kg	1906				80.1					
+17	Illinois	HALOSULFURON	2017	kg	2107.3				64.9					
+18	Indiana	HALOSULFURON	1993	kg	18.6									
+18	Indiana	HALOSULFURON	1995	kg	867.5									
+18	Indiana	HALOSULFURON	1996	kg	1887.6									
+18	Indiana	HALOSULFURON	1997	kg	594.9									
+18	Indiana	HALOSULFURON	1998	kg	2576.4									
+18	Indiana	HALOSULFURON	1999	kg	1087.7									
+18	Indiana	HALOSULFURON	2000	kg	1346.6									
+18	Indiana	HALOSULFURON	2001	kg	1047.1									
+18	Indiana	HALOSULFURON	2002	kg	886.3				8.4					
+18	Indiana	HALOSULFURON	2003	kg	428.1				71.7					
+18	Indiana	HALOSULFURON	2004	kg	536.9				41.7					
+18	Indiana	HALOSULFURON	2005	kg	770.1				65.7					
+18	Indiana	HALOSULFURON	2006	kg	650.9				52.2					
+18	Indiana	HALOSULFURON	2007	kg	484.9				69.8					
+18	Indiana	HALOSULFURON	2008	kg	958.6				22.8					
+18	Indiana	HALOSULFURON	2009	kg	1083.9				30.6					
+18	Indiana	HALOSULFURON	2010	kg	791.6				39.1					
+18	Indiana	HALOSULFURON	2011	kg	375.8				14.9					
+18	Indiana	HALOSULFURON	2012	kg	2840.6				70					
+18	Indiana	HALOSULFURON	2013	kg	1632.2				24.2					
+18	Indiana	HALOSULFURON	2014	kg	1077.3				168.9					
+18	Indiana	HALOSULFURON	2015	kg	935.8				20.2					
+18	Indiana	HALOSULFURON	2016	kg	1640.7				91.3					
+18	Indiana	HALOSULFURON	2017	kg	294.8				29.6					
+19	Iowa	HALOSULFURON	1995	kg	7768.3									2.2
+19	Iowa	HALOSULFURON	1996	kg	5034.7									2.6
+19	Iowa	HALOSULFURON	1997	kg	5003.4									1.6
+19	Iowa	HALOSULFURON	1998	kg	3991.3									4.4
+19	Iowa	HALOSULFURON	1999	kg	2176									3
+19	Iowa	HALOSULFURON	2000	kg	1870.5									8.6
+19	Iowa	HALOSULFURON	2001	kg	5217.3									5.5
+19	Iowa	HALOSULFURON	2002	kg	2114.7				0.8					3.8
+19	Iowa	HALOSULFURON	2003	kg	2894.4				2.1					1.4
+19	Iowa	HALOSULFURON	2004	kg	2939.2				2.6					14.4
+19	Iowa	HALOSULFURON	2005	kg	2335.9				5.4					17.2
+19	Iowa	HALOSULFURON	2006	kg	2225.6				2.6					0.6
+19	Iowa	HALOSULFURON	2007	kg	2009.9				3.1					3.8
+19	Iowa	HALOSULFURON	2008	kg	2091.6				7.1					0.7
+19	Iowa	HALOSULFURON	2009	kg	1442.5				2.7					0.5
+19	Iowa	HALOSULFURON	2010	kg	3143.9				2.8					
+19	Iowa	HALOSULFURON	2011	kg	1929.5				0.4					
+19	Iowa	HALOSULFURON	2012	kg	6488.3				2.6					
+19	Iowa	HALOSULFURON	2013	kg	3018.1				0.4					
+19	Iowa	HALOSULFURON	2014	kg	769.5				1.2					0.1
+19	Iowa	HALOSULFURON	2015	kg	1637.5	878.5			2.5					
+19	Iowa	HALOSULFURON	2016	kg	2248.2				2.7					
+19	Iowa	HALOSULFURON	2017	kg	585.4				3.4					
+20	Kansas	HALOSULFURON	1995	kg	511.1									809.2
+20	Kansas	HALOSULFURON	1996	kg	5965.1									7676.8
+20	Kansas	HALOSULFURON	1997	kg	1416.3									3017.2
+20	Kansas	HALOSULFURON	1998	kg	1516.2									753.7
+20	Kansas	HALOSULFURON	1999	kg	1988.6									1158.5
+20	Kansas	HALOSULFURON	2000	kg	1211.6									1123.6
+20	Kansas	HALOSULFURON	2001	kg	1996.1				0					1810.5
+20	Kansas	HALOSULFURON	2002	kg	1822				0.1					1386
+20	Kansas	HALOSULFURON	2003	kg	1171				0.3					547.9
+20	Kansas	HALOSULFURON	2004	kg	879.8				0.5					282.8
+20	Kansas	HALOSULFURON	2005	kg	226.4				0.7					686.5
+20	Kansas	HALOSULFURON	2006	kg	406.6				0.3					325.9
+20	Kansas	HALOSULFURON	2007	kg	140.5									610.8
+20	Kansas	HALOSULFURON	2008	kg	1292.3								753.4	1587.3
+20	Kansas	HALOSULFURON	2009	kg	560.6									479.2
+20	Kansas	HALOSULFURON	2010	kg	55.8				51.6					320.2
+20	Kansas	HALOSULFURON	2011	kg					45					1292.5
+20	Kansas	HALOSULFURON	2012	kg					33.6					249.2
+20	Kansas	HALOSULFURON	2013	kg										326.7
+20	Kansas	HALOSULFURON	2014	kg	399				32.2					2605.2
+20	Kansas	HALOSULFURON	2015	kg					38.3					1006.2
+20	Kansas	HALOSULFURON	2016	kg	801.8									491.4
+20	Kansas	HALOSULFURON	2017	kg										1476.1
+21	Kentucky	HALOSULFURON	1995	kg	38.7									
+21	Kentucky	HALOSULFURON	1996	kg	26.4									
+21	Kentucky	HALOSULFURON	1997	kg	58.5									
+21	Kentucky	HALOSULFURON	1998	kg	266.8									
+21	Kentucky	HALOSULFURON	1999	kg	590.1									
+21	Kentucky	HALOSULFURON	2000	kg	208.9									
+21	Kentucky	HALOSULFURON	2001	kg	180.8									
+21	Kentucky	HALOSULFURON	2002	kg	441.2				2.2					
+21	Kentucky	HALOSULFURON	2003	kg	92.2				6.4					
+21	Kentucky	HALOSULFURON	2004	kg	647.2				8.3					
+21	Kentucky	HALOSULFURON	2005	kg	200.6				5					
+21	Kentucky	HALOSULFURON	2006	kg	479.4				11.3					
+21	Kentucky	HALOSULFURON	2007	kg	396				5.7					
+21	Kentucky	HALOSULFURON	2008	kg	638.8				2.7					
+21	Kentucky	HALOSULFURON	2009	kg	89.3				2.3					
+21	Kentucky	HALOSULFURON	2010	kg	176.7				6.9					
+21	Kentucky	HALOSULFURON	2011	kg	198				2.9					
+21	Kentucky	HALOSULFURON	2012	kg	474.4				7.1					
+21	Kentucky	HALOSULFURON	2013	kg	270.7				3.4					
+21	Kentucky	HALOSULFURON	2014	kg	91.8				18.7					
+21	Kentucky	HALOSULFURON	2015	kg	1264.8				2.7					
+21	Kentucky	HALOSULFURON	2016	kg	809.9				6.9					
+21	Kentucky	HALOSULFURON	2017	kg					8.3					
+22	Louisiana	HALOSULFURON	1995	kg	0.3									
+22	Louisiana	HALOSULFURON	1996	kg										3.1
+22	Louisiana	HALOSULFURON	1997	kg	1.5									
+22	Louisiana	HALOSULFURON	1999	kg	165					496.9				
+22	Louisiana	HALOSULFURON	2000	kg						999				
+22	Louisiana	HALOSULFURON	2001	kg						812				172.9
+22	Louisiana	HALOSULFURON	2002	kg						1076				
+22	Louisiana	HALOSULFURON	2003	kg						493.9				
+22	Louisiana	HALOSULFURON	2004	kg					0	386.5				368.5
+22	Louisiana	HALOSULFURON	2005	kg						1164.2				
+22	Louisiana	HALOSULFURON	2006	kg					0	949.3				
+22	Louisiana	HALOSULFURON	2007	kg					0	914.7				920.3
+22	Louisiana	HALOSULFURON	2008	kg						1350.2				
+22	Louisiana	HALOSULFURON	2009	kg					0.1	2060.1				1.3
+22	Louisiana	HALOSULFURON	2010	kg					3	3217.9			643.4	
+22	Louisiana	HALOSULFURON	2011	kg					0.1	2900.5			307.5	
+22	Louisiana	HALOSULFURON	2012	kg					0.2	3473				483.6
+22	Louisiana	HALOSULFURON	2013	kg					0.2	3570.2			217.6	11
+22	Louisiana	HALOSULFURON	2014	kg	24.4				0.8	4359.2			437.2	
+22	Louisiana	HALOSULFURON	2015	kg					0.4	3707.8				128.9
+22	Louisiana	HALOSULFURON	2016	kg						4412.4			1152.3	11.5
+22	Louisiana	HALOSULFURON	2017	kg						2794.6				4.9
+23	Maine	HALOSULFURON	1995	kg	2.4									
+23	Maine	HALOSULFURON	1996	kg	2.6									
+23	Maine	HALOSULFURON	1997	kg	28.1									
+23	Maine	HALOSULFURON	1998	kg	6.5									
+23	Maine	HALOSULFURON	1999	kg	70.5									
+23	Maine	HALOSULFURON	2000	kg	3.8									
+23	Maine	HALOSULFURON	2001	kg	18.1									
+23	Maine	HALOSULFURON	2002	kg	3.2				4.7					
+23	Maine	HALOSULFURON	2003	kg	24.6				3.2					
+23	Maine	HALOSULFURON	2004	kg	6.4				9.8					
+23	Maine	HALOSULFURON	2005	kg	1.9				6					
+23	Maine	HALOSULFURON	2006	kg	4.2				5					
+23	Maine	HALOSULFURON	2007	kg	6.5				6					
+23	Maine	HALOSULFURON	2008	kg	10				2.7					
+23	Maine	HALOSULFURON	2009	kg	10.9				2.8					
+23	Maine	HALOSULFURON	2010	kg	9.1				3.7					
+23	Maine	HALOSULFURON	2011	kg	1.4				2.5					
+23	Maine	HALOSULFURON	2012	kg					0.9					
+23	Maine	HALOSULFURON	2013	kg	12.8									
+23	Maine	HALOSULFURON	2014	kg	8.5									
+23	Maine	HALOSULFURON	2015	kg	16.1									
+23	Maine	HALOSULFURON	2016	kg	13.7									
+23	Maine	HALOSULFURON	2017	kg	16.3									
+24	Maryland	HALOSULFURON	1995	kg	106.5									
+24	Maryland	HALOSULFURON	1996	kg	116.3									
+24	Maryland	HALOSULFURON	1997	kg	268.5									
+24	Maryland	HALOSULFURON	1998	kg	39.9									
+24	Maryland	HALOSULFURON	1999	kg	1463.1									
+24	Maryland	HALOSULFURON	2000	kg	78.3				3.7					
+24	Maryland	HALOSULFURON	2001	kg	333.3									
+24	Maryland	HALOSULFURON	2002	kg	513.9				13.6					
+24	Maryland	HALOSULFURON	2003	kg	78.9				29.3					
+24	Maryland	HALOSULFURON	2004	kg	135.5				63.2					
+24	Maryland	HALOSULFURON	2005	kg	40.6				75.9					
+24	Maryland	HALOSULFURON	2006	kg	426.8				83.9					
+24	Maryland	HALOSULFURON	2007	kg	218				61.7					
+24	Maryland	HALOSULFURON	2008	kg	285.3				17.6					
+24	Maryland	HALOSULFURON	2009	kg	191.7				55.3					
+24	Maryland	HALOSULFURON	2010	kg	153.9				42.5					
+24	Maryland	HALOSULFURON	2011	kg	38.2				49.8					
+24	Maryland	HALOSULFURON	2012	kg					70.1					
+24	Maryland	HALOSULFURON	2013	kg	154.9				63.1					
+24	Maryland	HALOSULFURON	2014	kg	1332.5				36.1					
+24	Maryland	HALOSULFURON	2015	kg	394.8				22					
+24	Maryland	HALOSULFURON	2016	kg	81.3				21.5		0.5			
+24	Maryland	HALOSULFURON	2017	kg	178.3				14.9					
+25	Massachusetts	HALOSULFURON	1995	kg	1.6									
+25	Massachusetts	HALOSULFURON	1996	kg	4									
+25	Massachusetts	HALOSULFURON	1997	kg	2.2									
+25	Massachusetts	HALOSULFURON	1998	kg	13.8									
+25	Massachusetts	HALOSULFURON	1999	kg	80.2									
+25	Massachusetts	HALOSULFURON	2000	kg	3.3									
+25	Massachusetts	HALOSULFURON	2001	kg	13.4				1.5					
+25	Massachusetts	HALOSULFURON	2002	kg	6.8				30.8					
+25	Massachusetts	HALOSULFURON	2003	kg	49				38					
+25	Massachusetts	HALOSULFURON	2004	kg	19.3				57.5					
+25	Massachusetts	HALOSULFURON	2005	kg	4				34.4					
+25	Massachusetts	HALOSULFURON	2006	kg	0				40.4					
+25	Massachusetts	HALOSULFURON	2007	kg	12.9				47.5					
+25	Massachusetts	HALOSULFURON	2008	kg	2.7				21.1					
+25	Massachusetts	HALOSULFURON	2009	kg	18.7				15.4					
+25	Massachusetts	HALOSULFURON	2010	kg	15.2				35.2					
+25	Massachusetts	HALOSULFURON	2011	kg	2.4				13.8					
+25	Massachusetts	HALOSULFURON	2012	kg					1.8					
+25	Massachusetts	HALOSULFURON	2013	kg	18.2				47.6					
+25	Massachusetts	HALOSULFURON	2014	kg	11.5				14.7					
+25	Massachusetts	HALOSULFURON	2015	kg	130.2				20.1					
+25	Massachusetts	HALOSULFURON	2016	kg	16.5				11.1					
+25	Massachusetts	HALOSULFURON	2017	kg	92.8				6.4					
+26	Michigan	HALOSULFURON	1995	kg	643.7								10.4	3.3
+26	Michigan	HALOSULFURON	1996	kg	716.8									18.2
+26	Michigan	HALOSULFURON	1997	kg	532.8									
+26	Michigan	HALOSULFURON	1998	kg	916									
+26	Michigan	HALOSULFURON	1999	kg	591.2									
+26	Michigan	HALOSULFURON	2000	kg	676.9				0					
+26	Michigan	HALOSULFURON	2001	kg	93.7									
+26	Michigan	HALOSULFURON	2002	kg	559.5				108.2					
+26	Michigan	HALOSULFURON	2003	kg	152.6				370.7					
+26	Michigan	HALOSULFURON	2004	kg	195.9				258.4					
+26	Michigan	HALOSULFURON	2005	kg	483.4				213.7					
+26	Michigan	HALOSULFURON	2006	kg	310.3				471.1					
+26	Michigan	HALOSULFURON	2007	kg	70				699.9					
+26	Michigan	HALOSULFURON	2008	kg	991.7				382.8					
+26	Michigan	HALOSULFURON	2009	kg	194.3				509.6					
+26	Michigan	HALOSULFURON	2010	kg	208.7				819					
+26	Michigan	HALOSULFURON	2011	kg	511.1				502.5					
+26	Michigan	HALOSULFURON	2012	kg	663.2				949.5					
+26	Michigan	HALOSULFURON	2013	kg	656.8				343.8					
+26	Michigan	HALOSULFURON	2014	kg	1060.1				257.6					
+26	Michigan	HALOSULFURON	2015	kg	313.4				633.8					
+26	Michigan	HALOSULFURON	2016	kg	389.4				687.9					
+26	Michigan	HALOSULFURON	2017	kg	1004.7				602.7					
+27	Minnesota	HALOSULFURON	1994	kg		207.1								
+27	Minnesota	HALOSULFURON	1995	kg	1289	737.2								
+27	Minnesota	HALOSULFURON	1996	kg	9726.9									
+27	Minnesota	HALOSULFURON	1997	kg	1156.3									
+27	Minnesota	HALOSULFURON	1998	kg	2541.8									
+27	Minnesota	HALOSULFURON	1999	kg	3329.7									
+27	Minnesota	HALOSULFURON	2000	kg	1763									
+27	Minnesota	HALOSULFURON	2001	kg	487									
+27	Minnesota	HALOSULFURON	2002	kg	1110.4				28.9					
+27	Minnesota	HALOSULFURON	2003	kg	794.3				12.7					
+27	Minnesota	HALOSULFURON	2004	kg	1164.3				45.1					
+27	Minnesota	HALOSULFURON	2005	kg	1514.4				43.7					
+27	Minnesota	HALOSULFURON	2006	kg	981.1				93.2					
+27	Minnesota	HALOSULFURON	2007	kg	220.1				93.4					
+27	Minnesota	HALOSULFURON	2008	kg	525.7				54.4					
+27	Minnesota	HALOSULFURON	2009	kg	288.6				118.6					
+27	Minnesota	HALOSULFURON	2010	kg	677.5				322					
+27	Minnesota	HALOSULFURON	2011	kg	1370.9				88					
+27	Minnesota	HALOSULFURON	2012	kg	3270.6				416					
+27	Minnesota	HALOSULFURON	2013	kg	2047.4				298.5					
+27	Minnesota	HALOSULFURON	2014	kg	633.2				417.1					
+27	Minnesota	HALOSULFURON	2015	kg	655.5				369.9					
+27	Minnesota	HALOSULFURON	2016	kg	13.6				57.8					
+27	Minnesota	HALOSULFURON	2017	kg	880.1				86.1					
+28	Mississippi	HALOSULFURON	1996	kg	3.1									
+28	Mississippi	HALOSULFURON	1997	kg	14.4									
+28	Mississippi	HALOSULFURON	1998	kg	3.5									
+28	Mississippi	HALOSULFURON	1999	kg	105.8					53.7				
+28	Mississippi	HALOSULFURON	2000	kg	3					864.9				
+28	Mississippi	HALOSULFURON	2001	kg	4.5					717.7				
+28	Mississippi	HALOSULFURON	2002	kg	48.9					1161.2				2.9
+28	Mississippi	HALOSULFURON	2003	kg	1.6					916.8				
+28	Mississippi	HALOSULFURON	2004	kg	0.7				0.6	275.7				
+28	Mississippi	HALOSULFURON	2005	kg					5.8	1039.9				
+28	Mississippi	HALOSULFURON	2006	kg					2.5	689.3				
+28	Mississippi	HALOSULFURON	2007	kg	3.8				4.1	478.7				221.3
+28	Mississippi	HALOSULFURON	2008	kg					0.6	471.2				
+28	Mississippi	HALOSULFURON	2009	kg					5	524.4				
+28	Mississippi	HALOSULFURON	2010	kg					3.9	1107.2				
+28	Mississippi	HALOSULFURON	2011	kg					1.7	340.1				
+28	Mississippi	HALOSULFURON	2012	kg					2.5	507				42.3
+28	Mississippi	HALOSULFURON	2013	kg					5.5	205.2				
+28	Mississippi	HALOSULFURON	2014	kg		161.8			14.2	2568.7			11.3	
+28	Mississippi	HALOSULFURON	2015	kg					1.8	840.3				
+28	Mississippi	HALOSULFURON	2016	kg	43.7				13.7	254.9				
+28	Mississippi	HALOSULFURON	2017	kg						402.5				
+29	Missouri	HALOSULFURON	1995	kg	144.2									20.2
+29	Missouri	HALOSULFURON	1996	kg	1104.4									593.4
+29	Missouri	HALOSULFURON	1997	kg	932									104.4
+29	Missouri	HALOSULFURON	1998	kg	606.5									44
+29	Missouri	HALOSULFURON	1999	kg	741.7					104.5				107
+29	Missouri	HALOSULFURON	2000	kg	1242.4					299.9				132.8
+29	Missouri	HALOSULFURON	2001	kg	982.5				27	145.8				35.7
+29	Missouri	HALOSULFURON	2002	kg	996.9				42.7	282.1				27.4
+29	Missouri	HALOSULFURON	2003	kg	594.4				76.2	364				31.6
+29	Missouri	HALOSULFURON	2004	kg	1059.5				258	459.8				42.3
+29	Missouri	HALOSULFURON	2005	kg	551.3				39.3	363.4				91.1
+29	Missouri	HALOSULFURON	2006	kg	303.8				47.1	902.2				15.4
+29	Missouri	HALOSULFURON	2007	kg	609.4				28.2	297.9				16.1
+29	Missouri	HALOSULFURON	2008	kg	603.1				17.2	100.5				11.6
+29	Missouri	HALOSULFURON	2009	kg	355.9				12.9	485.6				0.5
+29	Missouri	HALOSULFURON	2010	kg	672.3				19	568.7				2.8
+29	Missouri	HALOSULFURON	2011	kg	204.9				1.6	1017.6				20.2
+29	Missouri	HALOSULFURON	2012	kg	1473.4				3.2	41.5				5.9
+29	Missouri	HALOSULFURON	2013	kg	1059.1	37.5			6	387.7				
+29	Missouri	HALOSULFURON	2014	kg	414.5				0.9	642.1				17.9
+29	Missouri	HALOSULFURON	2015	kg	423.7	177.6			11.5	1012.5				
+29	Missouri	HALOSULFURON	2016	kg	852.2				11.8	586				
+29	Missouri	HALOSULFURON	2017	kg	127.3				5	1325.6				
+30	Montana	HALOSULFURON	2009	kg					2.5					
+31	Nebraska	HALOSULFURON	1995	kg	9974.5									707.5
+31	Nebraska	HALOSULFURON	1996	kg	4793.1									873.6
+31	Nebraska	HALOSULFURON	1997	kg	5051.5							526.2		791.8
+31	Nebraska	HALOSULFURON	1998	kg	7602.5									622.9
+31	Nebraska	HALOSULFURON	1999	kg	9821.3									330.7
+31	Nebraska	HALOSULFURON	2000	kg	6576.6									985.7
+31	Nebraska	HALOSULFURON	2001	kg	5538.8									520.2
+31	Nebraska	HALOSULFURON	2002	kg	4095.3									240.5
+31	Nebraska	HALOSULFURON	2003	kg	3144.7									307.2
+31	Nebraska	HALOSULFURON	2004	kg	1923.7									1630.6
+31	Nebraska	HALOSULFURON	2005	kg	909.9									1062.6
+31	Nebraska	HALOSULFURON	2006	kg	1720.9									91.6
+31	Nebraska	HALOSULFURON	2007	kg	751.6									148.2
+31	Nebraska	HALOSULFURON	2008	kg	2289.7				277					156.6
+31	Nebraska	HALOSULFURON	2009	kg	637.8				42.3					61.1
+31	Nebraska	HALOSULFURON	2010	kg	701.9				375.1					13.3
+31	Nebraska	HALOSULFURON	2011	kg	354.3				141.6					69.6
+31	Nebraska	HALOSULFURON	2012	kg	11871.8				220					9.4
+31	Nebraska	HALOSULFURON	2013	kg	1222.4				271.9					38.4
+31	Nebraska	HALOSULFURON	2014	kg	343.2				211.2					366
+31	Nebraska	HALOSULFURON	2015	kg	526	524			193					432.3
+31	Nebraska	HALOSULFURON	2016	kg	1680				17.7					21.9
+31	Nebraska	HALOSULFURON	2017	kg					46.5			11.7		203.3
+32	Nevada	HALOSULFURON	1997	kg	0.1									
+32	Nevada	HALOSULFURON	2001	kg	7.9									
+32	Nevada	HALOSULFURON	2003	kg					0.2					
+32	Nevada	HALOSULFURON	2004	kg					0.2					
+32	Nevada	HALOSULFURON	2005	kg					0.4					
+32	Nevada	HALOSULFURON	2009	kg					0.4					
+32	Nevada	HALOSULFURON	2010	kg	64.5				0.3					
+32	Nevada	HALOSULFURON	2011	kg	2.6				0.7					
+32	Nevada	HALOSULFURON	2012	kg					0.6					
+32	Nevada	HALOSULFURON	2013	kg					0.2			31.9		0
+32	Nevada	HALOSULFURON	2014	kg					0					
+32	Nevada	HALOSULFURON	2015	kg					0.1				19.3	
+32	Nevada	HALOSULFURON	2016	kg					0.4					
+32	Nevada	HALOSULFURON	2017	kg					0					
+33	New Hampshire	HALOSULFURON	1995	kg	3.5									
+33	New Hampshire	HALOSULFURON	1996	kg	2.5									
+33	New Hampshire	HALOSULFURON	1997	kg	38.5									
+33	New Hampshire	HALOSULFURON	1998	kg	9.1									
+33	New Hampshire	HALOSULFURON	1999	kg	102.5									
+33	New Hampshire	HALOSULFURON	2000	kg	2.5									
+33	New Hampshire	HALOSULFURON	2001	kg	27.7									
+33	New Hampshire	HALOSULFURON	2002	kg	5.2				5.7					
+33	New Hampshire	HALOSULFURON	2003	kg	40.3				7.3					
+33	New Hampshire	HALOSULFURON	2004	kg	16				7.6					
+33	New Hampshire	HALOSULFURON	2005	kg	3.4				7					
+33	New Hampshire	HALOSULFURON	2006	kg	7.3				8.2					
+33	New Hampshire	HALOSULFURON	2007	kg	11.3				8.1					
+33	New Hampshire	HALOSULFURON	2008	kg	14.1				3.4					
+33	New Hampshire	HALOSULFURON	2009	kg	14.9				4.4					
+33	New Hampshire	HALOSULFURON	2010	kg	11.9				6.8					
+33	New Hampshire	HALOSULFURON	2011	kg	1.7				2					
+33	New Hampshire	HALOSULFURON	2012	kg					0.8					
+33	New Hampshire	HALOSULFURON	2013	kg	14.4				9.5					
+33	New Hampshire	HALOSULFURON	2014	kg	8.7				3.2					
+33	New Hampshire	HALOSULFURON	2015	kg	15.3				5.4					
+33	New Hampshire	HALOSULFURON	2016	kg	12				2.9					
+33	New Hampshire	HALOSULFURON	2017	kg	13.2				3.6					
+34	New Jersey	HALOSULFURON	1995	kg	37.7									
+34	New Jersey	HALOSULFURON	1996	kg	24.4									
+34	New Jersey	HALOSULFURON	1997	kg	56.3									
+34	New Jersey	HALOSULFURON	1998	kg	52.6									
+34	New Jersey	HALOSULFURON	1999	kg	16.8				0					
+34	New Jersey	HALOSULFURON	2000	kg	29.4									
+34	New Jersey	HALOSULFURON	2001	kg	76									
+34	New Jersey	HALOSULFURON	2002	kg	14.4				45.7					
+34	New Jersey	HALOSULFURON	2003	kg	10.9				16.9					
+34	New Jersey	HALOSULFURON	2004	kg	71.4				76					
+34	New Jersey	HALOSULFURON	2005	kg	12.1				62.3					
+34	New Jersey	HALOSULFURON	2006	kg	25.7				21.4					
+34	New Jersey	HALOSULFURON	2007	kg	49.8				16.2		23.9			
+34	New Jersey	HALOSULFURON	2008	kg	93.6				34.5					
+34	New Jersey	HALOSULFURON	2009	kg	95.7				63.8					
+34	New Jersey	HALOSULFURON	2010	kg	79.9				50.2					
+34	New Jersey	HALOSULFURON	2011	kg	7.4				34.2					
+34	New Jersey	HALOSULFURON	2012	kg					47.3					
+34	New Jersey	HALOSULFURON	2013	kg	99.3				82.6					
+34	New Jersey	HALOSULFURON	2014	kg	48				18.3					
+34	New Jersey	HALOSULFURON	2015	kg	135.2				53.6					
+34	New Jersey	HALOSULFURON	2016	kg	20				35.1					
+34	New Jersey	HALOSULFURON	2017	kg	249.2				58.9					
+35	New Mexico	HALOSULFURON	1995	kg	10									35.5
+35	New Mexico	HALOSULFURON	1996	kg	150.4									1.1
+35	New Mexico	HALOSULFURON	1997	kg	300.3								16.1	20.1
+35	New Mexico	HALOSULFURON	1998	kg	67.5									16.8
+35	New Mexico	HALOSULFURON	1999	kg	70.9									70.3
+35	New Mexico	HALOSULFURON	2000	kg	39.2									104.8
+35	New Mexico	HALOSULFURON	2001	kg	50.9									76.8
+35	New Mexico	HALOSULFURON	2002	kg	43.3				1.2					41
+35	New Mexico	HALOSULFURON	2003	kg	21.3				5.4					12.7
+35	New Mexico	HALOSULFURON	2004	kg	11.8				48.6					13.1
+35	New Mexico	HALOSULFURON	2005	kg	6.3				78.4					9.3
+35	New Mexico	HALOSULFURON	2006	kg	14.1				216.8					7.5
+35	New Mexico	HALOSULFURON	2007	kg	1.6				54.4					39.7
+35	New Mexico	HALOSULFURON	2008	kg	31.9				177.8					6.4
+35	New Mexico	HALOSULFURON	2009	kg	310.1				4					6.3
+35	New Mexico	HALOSULFURON	2010	kg					54.6					18.5
+35	New Mexico	HALOSULFURON	2011	kg					114.6					2.1
+35	New Mexico	HALOSULFURON	2012	kg					25.9					91.6
+35	New Mexico	HALOSULFURON	2013	kg					94.7					76
+35	New Mexico	HALOSULFURON	2014	kg					2.1					43.8
+35	New Mexico	HALOSULFURON	2015	kg					14.6					15
+35	New Mexico	HALOSULFURON	2016	kg	17.3				12.3					15.6
+35	New Mexico	HALOSULFURON	2017	kg					3.9					87.5
+36	New York	HALOSULFURON	1994	kg	42.1									
+36	New York	HALOSULFURON	1995	kg	294.7									
+36	New York	HALOSULFURON	1996	kg	223.2									
+36	New York	HALOSULFURON	1997	kg	661.7									
+36	New York	HALOSULFURON	1998	kg	1039.5				8.7					
+36	New York	HALOSULFURON	1999	kg	1567.8				0					
+36	New York	HALOSULFURON	2000	kg	820.9									
+36	New York	HALOSULFURON	2001	kg	1244.1				0.5					
+36	New York	HALOSULFURON	2002	kg	398.3				51.4					
+36	New York	HALOSULFURON	2003	kg	471.2				67.5					
+36	New York	HALOSULFURON	2004	kg	806.8				212.8					
+36	New York	HALOSULFURON	2005	kg	538				393.9					
+36	New York	HALOSULFURON	2006	kg	5475				79.5					
+36	New York	HALOSULFURON	2007	kg	434.1				238.7					
+36	New York	HALOSULFURON	2008	kg	460.6				111.4					
+36	New York	HALOSULFURON	2009	kg	655.4				443.8					
+36	New York	HALOSULFURON	2010	kg	1058.5				203					
+36	New York	HALOSULFURON	2011	kg	200				81.1					
+36	New York	HALOSULFURON	2012	kg	198.1				219					
+36	New York	HALOSULFURON	2013	kg	1484.3				252.6					
+36	New York	HALOSULFURON	2014	kg	1090.3				192.3					
+36	New York	HALOSULFURON	2015	kg	2088.8				231					
+36	New York	HALOSULFURON	2016	kg	2122.3				199.2					
+36	New York	HALOSULFURON	2017	kg	1816.4				119.4				1478.2	
+37	North Carolina	HALOSULFURON	1995	kg	60.6									
+37	North Carolina	HALOSULFURON	1996	kg	276.6									
+37	North Carolina	HALOSULFURON	1997	kg	260.3									
+37	North Carolina	HALOSULFURON	1998	kg	80.5									
+37	North Carolina	HALOSULFURON	1999	kg	463.3									
+37	North Carolina	HALOSULFURON	2000	kg	596.2									
+37	North Carolina	HALOSULFURON	2001	kg	339.6									
+37	North Carolina	HALOSULFURON	2002	kg	506.7				50.9					
+37	North Carolina	HALOSULFURON	2003	kg	171.3				31.9					
+37	North Carolina	HALOSULFURON	2004	kg	112.4				116.7					
+37	North Carolina	HALOSULFURON	2005	kg	3.1				83.6					
+37	North Carolina	HALOSULFURON	2006	kg	13.5				76.4					
+37	North Carolina	HALOSULFURON	2007	kg	472.9				128.9					
+37	North Carolina	HALOSULFURON	2008	kg	15.7				53.4					
+37	North Carolina	HALOSULFURON	2009	kg					164					
+37	North Carolina	HALOSULFURON	2010	kg					116.6					
+37	North Carolina	HALOSULFURON	2011	kg	2.2				152.6					
+37	North Carolina	HALOSULFURON	2012	kg					115.7					
+37	North Carolina	HALOSULFURON	2013	kg					116.6					
+37	North Carolina	HALOSULFURON	2014	kg					175.5					
+37	North Carolina	HALOSULFURON	2015	kg	52.3				25.6					
+37	North Carolina	HALOSULFURON	2016	kg					221.5					
+37	North Carolina	HALOSULFURON	2017	kg					184.5					
+38	North Dakota	HALOSULFURON	1995	kg	96.3									
+38	North Dakota	HALOSULFURON	1996	kg	679.5									
+38	North Dakota	HALOSULFURON	1997	kg	38.6									
+38	North Dakota	HALOSULFURON	1998	kg	288.6									
+38	North Dakota	HALOSULFURON	1999	kg	243.8									
+38	North Dakota	HALOSULFURON	2000	kg	187.6									
+38	North Dakota	HALOSULFURON	2001	kg	160.1									
+38	North Dakota	HALOSULFURON	2002	kg	155.9									
+38	North Dakota	HALOSULFURON	2004	kg	221.5									
+38	North Dakota	HALOSULFURON	2008	kg					55.3					
+38	North Dakota	HALOSULFURON	2009	kg					266.2					
+38	North Dakota	HALOSULFURON	2010	kg					136.9					
+38	North Dakota	HALOSULFURON	2011	kg					1133.8					
+38	North Dakota	HALOSULFURON	2012	kg					2517.1					
+38	North Dakota	HALOSULFURON	2013	kg					1719.5					
+38	North Dakota	HALOSULFURON	2014	kg					3188.5					
+38	North Dakota	HALOSULFURON	2015	kg					2893					
+38	North Dakota	HALOSULFURON	2016	kg					724.2					
+38	North Dakota	HALOSULFURON	2017	kg					606.4					
+39	Ohio	HALOSULFURON	1995	kg	694.8									
+39	Ohio	HALOSULFURON	1996	kg	788.2									
+39	Ohio	HALOSULFURON	1997	kg	1005.9									
+39	Ohio	HALOSULFURON	1998	kg	409.8									
+39	Ohio	HALOSULFURON	1999	kg	518.3									
+39	Ohio	HALOSULFURON	2000	kg	772.6									
+39	Ohio	HALOSULFURON	2001	kg	691.8									
+39	Ohio	HALOSULFURON	2002	kg	579.9				11.8					
+39	Ohio	HALOSULFURON	2003	kg	487.8				68					
+39	Ohio	HALOSULFURON	2004	kg	1020.5				23.2					
+39	Ohio	HALOSULFURON	2005	kg	738.3				43.6					
+39	Ohio	HALOSULFURON	2006	kg	766.4				21.3					
+39	Ohio	HALOSULFURON	2007	kg	592.5				19.2					
+39	Ohio	HALOSULFURON	2008	kg	1300.6				9.3					
+39	Ohio	HALOSULFURON	2009	kg	1125				37.8					
+39	Ohio	HALOSULFURON	2010	kg	522				64.2					
+39	Ohio	HALOSULFURON	2011	kg	539.2				19.2		1.2			
+39	Ohio	HALOSULFURON	2012	kg	1892.4				52.2					
+39	Ohio	HALOSULFURON	2013	kg	1080.4				50.6		4.3			
+39	Ohio	HALOSULFURON	2014	kg	682.1				25.1					
+39	Ohio	HALOSULFURON	2015	kg	1015.9				31					
+39	Ohio	HALOSULFURON	2016	kg	770.1				18.8					
+39	Ohio	HALOSULFURON	2017	kg	370				40.4					
+40	Oklahoma	HALOSULFURON	1995	kg	30.4									67.9
+40	Oklahoma	HALOSULFURON	1996	kg	290									274.3
+40	Oklahoma	HALOSULFURON	1997	kg	72								22.7	268.6
+40	Oklahoma	HALOSULFURON	1998	kg	102.2									69.2
+40	Oklahoma	HALOSULFURON	1999	kg	132.9									180.7
+40	Oklahoma	HALOSULFURON	2000	kg	52.2									116.5
+40	Oklahoma	HALOSULFURON	2001	kg	40.2				0.4					199.1
+40	Oklahoma	HALOSULFURON	2002	kg	22				0.6					133.2
+40	Oklahoma	HALOSULFURON	2003	kg	21.9				25.3					42.1
+40	Oklahoma	HALOSULFURON	2004	kg	13.7				20.1					30
+40	Oklahoma	HALOSULFURON	2005	kg	7				7.8					101
+40	Oklahoma	HALOSULFURON	2006	kg	15.6				31.7					19.4
+40	Oklahoma	HALOSULFURON	2007	kg	1.7				27.3					96.8
+40	Oklahoma	HALOSULFURON	2008	kg	35.8				70.3					154.7
+40	Oklahoma	HALOSULFURON	2009	kg	296.2				53					61.1
+40	Oklahoma	HALOSULFURON	2010	kg	3.5				53.8					57.9
+40	Oklahoma	HALOSULFURON	2011	kg					27					14.6
+40	Oklahoma	HALOSULFURON	2012	kg					43.7					
+40	Oklahoma	HALOSULFURON	2013	kg					40.1					53.4
+40	Oklahoma	HALOSULFURON	2014	kg	27.7				50.9					354.7
+40	Oklahoma	HALOSULFURON	2015	kg					25.1					83.7
+40	Oklahoma	HALOSULFURON	2016	kg	45.8				0.5					78.3
+40	Oklahoma	HALOSULFURON	2017	kg					2.6				21.3	173.4
+41	Oregon	HALOSULFURON	1999	kg	285.7									
+41	Oregon	HALOSULFURON	2001	kg	22				86.1					
+41	Oregon	HALOSULFURON	2002	kg					24.4					
+41	Oregon	HALOSULFURON	2003	kg					28.5					
+41	Oregon	HALOSULFURON	2004	kg					21.3					
+41	Oregon	HALOSULFURON	2005	kg					2.4					
+41	Oregon	HALOSULFURON	2006	kg					10.1					
+41	Oregon	HALOSULFURON	2007	kg					9.2					
+41	Oregon	HALOSULFURON	2008	kg					8.9					
+41	Oregon	HALOSULFURON	2009	kg					25.3					
+41	Oregon	HALOSULFURON	2010	kg	354.4				18.4					
+41	Oregon	HALOSULFURON	2011	kg	14.4				7.7					
+41	Oregon	HALOSULFURON	2012	kg					21.6		1.4			
+41	Oregon	HALOSULFURON	2013	kg					20					
+41	Oregon	HALOSULFURON	2014	kg					18.9					
+41	Oregon	HALOSULFURON	2015	kg									581.1	
+41	Oregon	HALOSULFURON	2016	kg					6.5		31			
+41	Oregon	HALOSULFURON	2017	kg					11.2					
+42	Pennsylvania	HALOSULFURON	1995	kg	430.5									
+42	Pennsylvania	HALOSULFURON	1996	kg	409.8									
+42	Pennsylvania	HALOSULFURON	1997	kg	1094.4									
+42	Pennsylvania	HALOSULFURON	1998	kg	908.8									
+42	Pennsylvania	HALOSULFURON	1999	kg	480.2				0					
+42	Pennsylvania	HALOSULFURON	2000	kg	401.2				3.6					
+42	Pennsylvania	HALOSULFURON	2001	kg	1029.9									
+42	Pennsylvania	HALOSULFURON	2002	kg	654.9				62.3					
+42	Pennsylvania	HALOSULFURON	2003	kg	540.3				58.4					
+42	Pennsylvania	HALOSULFURON	2004	kg	652.1				151.1					
+42	Pennsylvania	HALOSULFURON	2005	kg	184.5				132.1					
+42	Pennsylvania	HALOSULFURON	2006	kg	534.9				116.3					
+42	Pennsylvania	HALOSULFURON	2007	kg	1179.1				75		3.4			
+42	Pennsylvania	HALOSULFURON	2008	kg	2867.2				111					
+42	Pennsylvania	HALOSULFURON	2009	kg	1626				124.6					
+42	Pennsylvania	HALOSULFURON	2010	kg	1271.7				180.7					
+42	Pennsylvania	HALOSULFURON	2011	kg	298.6				168		0.2			
+42	Pennsylvania	HALOSULFURON	2012	kg	64.1				213.4					
+42	Pennsylvania	HALOSULFURON	2013	kg	1165.6				187.5		1.8			
+42	Pennsylvania	HALOSULFURON	2014	kg	4304.4				98.3					
+42	Pennsylvania	HALOSULFURON	2015	kg	1458				126					
+42	Pennsylvania	HALOSULFURON	2016	kg	495.9				109.2		10.2			
+42	Pennsylvania	HALOSULFURON	2017	kg	1645.7				92.6					
+44	Rhode Island	HALOSULFURON	1995	kg	0.2									
+44	Rhode Island	HALOSULFURON	1996	kg	0.7									
+44	Rhode Island	HALOSULFURON	1997	kg	0.2									
+44	Rhode Island	HALOSULFURON	1998	kg	2.8									
+44	Rhode Island	HALOSULFURON	1999	kg	1.4									
+44	Rhode Island	HALOSULFURON	2000	kg	0.9									
+44	Rhode Island	HALOSULFURON	2001	kg	0.9				0					
+44	Rhode Island	HALOSULFURON	2002	kg	0.8				3					
+44	Rhode Island	HALOSULFURON	2003	kg	7.6				2					
+44	Rhode Island	HALOSULFURON	2004	kg	1.5				3					
+44	Rhode Island	HALOSULFURON	2005	kg	0.4				1.9					
+44	Rhode Island	HALOSULFURON	2006	kg	0.9				4.2					
+44	Rhode Island	HALOSULFURON	2007	kg	1.2				2.4					
+44	Rhode Island	HALOSULFURON	2008	kg	1.8				1.9					
+44	Rhode Island	HALOSULFURON	2009	kg	1.8				2.4					
+44	Rhode Island	HALOSULFURON	2010	kg	1.4				2.8					
+44	Rhode Island	HALOSULFURON	2011	kg	0.2				1.9					
+44	Rhode Island	HALOSULFURON	2012	kg					1					
+44	Rhode Island	HALOSULFURON	2013	kg	1.6				3.5					
+44	Rhode Island	HALOSULFURON	2014	kg	1				1					
+44	Rhode Island	HALOSULFURON	2015	kg	1.6				1.2					
+44	Rhode Island	HALOSULFURON	2016	kg	1.4				0.7					
+44	Rhode Island	HALOSULFURON	2017	kg	1.4				0.9					
+45	South Carolina	HALOSULFURON	1996	kg	12.6									
+45	South Carolina	HALOSULFURON	1997	kg	22.4									16
+45	South Carolina	HALOSULFURON	1998	kg	42.1									
+45	South Carolina	HALOSULFURON	1999	kg	142									
+45	South Carolina	HALOSULFURON	2000	kg	80.4									
+45	South Carolina	HALOSULFURON	2001	kg	108.9									
+45	South Carolina	HALOSULFURON	2002	kg	135.8									
+45	South Carolina	HALOSULFURON	2003	kg	41.9				7.1					
+45	South Carolina	HALOSULFURON	2004	kg	39.8				27					
+45	South Carolina	HALOSULFURON	2005	kg					83.7					
+45	South Carolina	HALOSULFURON	2006	kg					137.1					
+45	South Carolina	HALOSULFURON	2007	kg	147.8				39.7					
+45	South Carolina	HALOSULFURON	2008	kg					6.9					
+45	South Carolina	HALOSULFURON	2009	kg					10.8					
+45	South Carolina	HALOSULFURON	2010	kg					54.6					
+45	South Carolina	HALOSULFURON	2011	kg					4.2					
+45	South Carolina	HALOSULFURON	2012	kg					24.3					
+45	South Carolina	HALOSULFURON	2013	kg					68.6					
+45	South Carolina	HALOSULFURON	2014	kg					6.9					
+45	South Carolina	HALOSULFURON	2015	kg					18.3					
+45	South Carolina	HALOSULFURON	2016	kg					57.4					
+45	South Carolina	HALOSULFURON	2017	kg					9.4					
+46	South Dakota	HALOSULFURON	1995	kg	375.8									7.8
+46	South Dakota	HALOSULFURON	1996	kg	1609.2									47.7
+46	South Dakota	HALOSULFURON	1997	kg	301.4									17.2
+46	South Dakota	HALOSULFURON	1998	kg	1748.5									11.5
+46	South Dakota	HALOSULFURON	1999	kg	1113.7									9.6
+46	South Dakota	HALOSULFURON	2000	kg	1070.7									23.8
+46	South Dakota	HALOSULFURON	2001	kg	2888									6.4
+46	South Dakota	HALOSULFURON	2002	kg	450.9									5.6
+46	South Dakota	HALOSULFURON	2003	kg	1316.7									6.4
+46	South Dakota	HALOSULFURON	2004	kg	847.7									23.3
+46	South Dakota	HALOSULFURON	2005	kg	226.5									21.1
+46	South Dakota	HALOSULFURON	2006	kg	291.6									3.7
+46	South Dakota	HALOSULFURON	2007	kg	269.8									144.1
+46	South Dakota	HALOSULFURON	2008	kg	358.4				3.2					3.6
+46	South Dakota	HALOSULFURON	2009	kg	322.8				7.5					
+46	South Dakota	HALOSULFURON	2010	kg	418.7				13.1					
+46	South Dakota	HALOSULFURON	2011	kg	209.3				12.7					
+46	South Dakota	HALOSULFURON	2012	kg	3868.7				26.6					
+46	South Dakota	HALOSULFURON	2013	kg	659.6				39.5					
+46	South Dakota	HALOSULFURON	2014	kg	199.9				64.2					56.3
+46	South Dakota	HALOSULFURON	2015	kg	298.6				12					
+46	South Dakota	HALOSULFURON	2016	kg	376.6				2.6					
+46	South Dakota	HALOSULFURON	2017	kg					11.4			5.4		
+47	Tennessee	HALOSULFURON	1995	kg	11.4									
+47	Tennessee	HALOSULFURON	1996	kg	62.1									
+47	Tennessee	HALOSULFURON	1997	kg	180.7									
+47	Tennessee	HALOSULFURON	1998	kg	39.8									
+47	Tennessee	HALOSULFURON	1999	kg	303.9					0.5				
+47	Tennessee	HALOSULFURON	2000	kg	29.1					0.9				
+47	Tennessee	HALOSULFURON	2001	kg	108.5					1				
+47	Tennessee	HALOSULFURON	2002	kg	262.6				5.7	2.2				0.7
+47	Tennessee	HALOSULFURON	2003	kg	35.9				18.1	2.2				
+47	Tennessee	HALOSULFURON	2004	kg	343.2				25.3	3				
+47	Tennessee	HALOSULFURON	2005	kg	55				30.3	1.9				
+47	Tennessee	HALOSULFURON	2006	kg	210.6				16.6	4.8				
+47	Tennessee	HALOSULFURON	2007	kg	142				4.8	2.7				
+47	Tennessee	HALOSULFURON	2008	kg	256.2				6.1	3.3				
+47	Tennessee	HALOSULFURON	2009	kg					31.7	3.9				
+47	Tennessee	HALOSULFURON	2010	kg					29.8	2.8				
+47	Tennessee	HALOSULFURON	2011	kg	38				7.7	4.6				
+47	Tennessee	HALOSULFURON	2012	kg	84.5					1.5				
+47	Tennessee	HALOSULFURON	2013	kg	115.1	15.9			2.7	2.7				
+47	Tennessee	HALOSULFURON	2014	kg		95.7			5.2	3.2				
+47	Tennessee	HALOSULFURON	2015	kg	496				1.1	4.1				
+47	Tennessee	HALOSULFURON	2016	kg	162.1				1.3	1				
+47	Tennessee	HALOSULFURON	2017	kg					4.2	3.8				
+48	Texas	HALOSULFURON	1995	kg	181.6									362.9
+48	Texas	HALOSULFURON	1996	kg	5644.8									457.8
+48	Texas	HALOSULFURON	1997	kg	2923.9								138.9	249.9
+48	Texas	HALOSULFURON	1998	kg	857.8									304.2
+48	Texas	HALOSULFURON	1999	kg	1151.7					151.4				1252.9
+48	Texas	HALOSULFURON	2000	kg	418.5					904.9				2219.9
+48	Texas	HALOSULFURON	2001	kg	289.2					1082.5				775.4
+48	Texas	HALOSULFURON	2002	kg	205.9				8.5	1126.8				785.9
+48	Texas	HALOSULFURON	2003	kg	170.2				82.5	1082				324.7
+48	Texas	HALOSULFURON	2004	kg	190.2				160.4	795.9				153
+48	Texas	HALOSULFURON	2005	kg	100.7				269	900.9				473.6
+48	Texas	HALOSULFURON	2006	kg	188.8				439.1	641.7				84.4
+48	Texas	HALOSULFURON	2007	kg	24.5				313.9	508.8				655.5
+48	Texas	HALOSULFURON	2008	kg	465				271.5	733.7				310.7
+48	Texas	HALOSULFURON	2009	kg	2637				150.8	1092.7				338.5
+48	Texas	HALOSULFURON	2010	kg					404.9	1078.7			929.9	876.7
+48	Texas	HALOSULFURON	2011	kg					147.3	436.5				299.5
+48	Texas	HALOSULFURON	2012	kg					300.3	341				511.7
+48	Texas	HALOSULFURON	2013	kg					501.4	1592.3				715.5
+48	Texas	HALOSULFURON	2014	kg	3045.9				231.1	550.3			110.6	1213.8
+48	Texas	HALOSULFURON	2015	kg					695	1123.4	73.2			410.4
+48	Texas	HALOSULFURON	2016	kg	366.4				263.2	2516.9				200.2
+48	Texas	HALOSULFURON	2017	kg					77.5	1174.1			240.4	1807.8
+49	Utah	HALOSULFURON	2001	kg	7.5									
+49	Utah	HALOSULFURON	2002	kg	10.9									
+50	Vermont	HALOSULFURON	1994	kg	8									
+50	Vermont	HALOSULFURON	1995	kg	19.5									
+50	Vermont	HALOSULFURON	1996	kg	14.6									
+50	Vermont	HALOSULFURON	1997	kg	114.8									
+50	Vermont	HALOSULFURON	1998	kg	14.4									
+50	Vermont	HALOSULFURON	1999	kg	603.3									
+50	Vermont	HALOSULFURON	2000	kg	14.5									
+50	Vermont	HALOSULFURON	2001	kg	85.6									
+50	Vermont	HALOSULFURON	2002	kg	32				4					
+50	Vermont	HALOSULFURON	2003	kg	91.6				2.6					
+50	Vermont	HALOSULFURON	2004	kg	98.5				6.2					
+50	Vermont	HALOSULFURON	2005	kg	21.2				4.2					
+50	Vermont	HALOSULFURON	2006	kg	0.7				6.2					
+50	Vermont	HALOSULFURON	2007	kg	26.1				7.5					
+50	Vermont	HALOSULFURON	2008	kg	16.1				2.7					
+50	Vermont	HALOSULFURON	2009	kg	109.6				3.1					
+50	Vermont	HALOSULFURON	2010	kg	90.5				8.3					
+50	Vermont	HALOSULFURON	2011	kg	14.5				2.4					
+50	Vermont	HALOSULFURON	2012	kg					0.8					
+50	Vermont	HALOSULFURON	2013	kg	111.3				8.4					
+50	Vermont	HALOSULFURON	2014	kg	68.5				4.2					
+50	Vermont	HALOSULFURON	2015	kg	71.9				4.9					
+50	Vermont	HALOSULFURON	2016	kg	93.1				2.7					
+50	Vermont	HALOSULFURON	2017	kg	103.4				2.9					
+51	Virginia	HALOSULFURON	1995	kg	3.7									
+51	Virginia	HALOSULFURON	1996	kg	123.8									
+51	Virginia	HALOSULFURON	1997	kg	1504.3									
+51	Virginia	HALOSULFURON	1998	kg	417.5									
+51	Virginia	HALOSULFURON	1999	kg	473.3									
+51	Virginia	HALOSULFURON	2000	kg	668.6				0					
+51	Virginia	HALOSULFURON	2001	kg	414.4									
+51	Virginia	HALOSULFURON	2002	kg	416.4				1.8					
+51	Virginia	HALOSULFURON	2003	kg	118.4				7.3					
+51	Virginia	HALOSULFURON	2004	kg	36.2				47.2					
+51	Virginia	HALOSULFURON	2005	kg	17.1				22					
+51	Virginia	HALOSULFURON	2006	kg	437.3				11.6					
+51	Virginia	HALOSULFURON	2007	kg	299.3				11.2					
+51	Virginia	HALOSULFURON	2008	kg	65.3				31.8					
+51	Virginia	HALOSULFURON	2009	kg					12.1					
+51	Virginia	HALOSULFURON	2010	kg					11.3					
+51	Virginia	HALOSULFURON	2011	kg	64.5				11.9					
+51	Virginia	HALOSULFURON	2012	kg					7.7					
+51	Virginia	HALOSULFURON	2013	kg					17.9					
+51	Virginia	HALOSULFURON	2014	kg					11.3					
+51	Virginia	HALOSULFURON	2015	kg	86.6				1.7					
+51	Virginia	HALOSULFURON	2016	kg					6.8					
+51	Virginia	HALOSULFURON	2017	kg					36.7					
+53	Washington	HALOSULFURON	1999	kg	146.3									
+53	Washington	HALOSULFURON	2001	kg					104.6					
+53	Washington	HALOSULFURON	2002	kg					45.6					
+53	Washington	HALOSULFURON	2003	kg					51.8					
+53	Washington	HALOSULFURON	2004	kg					45.9					
+53	Washington	HALOSULFURON	2005	kg					46.1					
+53	Washington	HALOSULFURON	2006	kg					7.8					
+53	Washington	HALOSULFURON	2007	kg					19.7					
+53	Washington	HALOSULFURON	2008	kg					0.4					
+53	Washington	HALOSULFURON	2009	kg					173.3					
+53	Washington	HALOSULFURON	2010	kg					4.7					
+53	Washington	HALOSULFURON	2011	kg					14.9					
+53	Washington	HALOSULFURON	2012	kg					158.3		62.6			
+53	Washington	HALOSULFURON	2013	kg					36.4					
+53	Washington	HALOSULFURON	2014	kg					101.6					
+53	Washington	HALOSULFURON	2015	kg					6.3					
+53	Washington	HALOSULFURON	2016	kg					3.4		27.3			
+53	Washington	HALOSULFURON	2017	kg					32.3					
+54	West Virginia	HALOSULFURON	1995	kg	5.7									
+54	West Virginia	HALOSULFURON	1996	kg	19.2									
+54	West Virginia	HALOSULFURON	1997	kg	210									
+54	West Virginia	HALOSULFURON	1998	kg	12.2									
+54	West Virginia	HALOSULFURON	1999	kg	106.4									
+54	West Virginia	HALOSULFURON	2000	kg	29.4				0					
+54	West Virginia	HALOSULFURON	2001	kg	26.5									
+54	West Virginia	HALOSULFURON	2002	kg	64.9				0.5					
+54	West Virginia	HALOSULFURON	2003	kg	10.1				0.1					
+54	West Virginia	HALOSULFURON	2004	kg	11.4				0					
+54	West Virginia	HALOSULFURON	2005	kg	12.7				0.7					
+54	West Virginia	HALOSULFURON	2006	kg	52				1.8					
+54	West Virginia	HALOSULFURON	2007	kg	28.1				2.4					
+54	West Virginia	HALOSULFURON	2008	kg	63.4				1.9					
+54	West Virginia	HALOSULFURON	2009	kg	3.2				0.7					
+54	West Virginia	HALOSULFURON	2010	kg					0.5					
+54	West Virginia	HALOSULFURON	2011	kg	8.1				0.9		0			
+54	West Virginia	HALOSULFURON	2012	kg	3.1				2.4					
+54	West Virginia	HALOSULFURON	2013	kg	0.2				1.6		0.2			
+54	West Virginia	HALOSULFURON	2014	kg	520.7				0.6					
+54	West Virginia	HALOSULFURON	2015	kg	154.5				0.1					
+54	West Virginia	HALOSULFURON	2016	kg					0.1					
+54	West Virginia	HALOSULFURON	2017	kg					0.1					
+55	Wisconsin	HALOSULFURON	1995	kg	1123.4				15.4					
+55	Wisconsin	HALOSULFURON	1996	kg	1511.2									
+55	Wisconsin	HALOSULFURON	1997	kg	1895.8									
+55	Wisconsin	HALOSULFURON	1998	kg	1332									
+55	Wisconsin	HALOSULFURON	1999	kg	702.7									
+55	Wisconsin	HALOSULFURON	2000	kg	502.6				115.5					
+55	Wisconsin	HALOSULFURON	2001	kg	641.1				12.5					
+55	Wisconsin	HALOSULFURON	2002	kg	2019.7				83.3					
+55	Wisconsin	HALOSULFURON	2003	kg	435.9				161.9					
+55	Wisconsin	HALOSULFURON	2004	kg	867.6				499.1					
+55	Wisconsin	HALOSULFURON	2005	kg	1255.1				665.8					
+55	Wisconsin	HALOSULFURON	2006	kg	1117.5				778.6					
+55	Wisconsin	HALOSULFURON	2007	kg	723.7				580.1					
+55	Wisconsin	HALOSULFURON	2008	kg	1584.6				780.1					
+55	Wisconsin	HALOSULFURON	2009	kg	963.1				660.2					
+55	Wisconsin	HALOSULFURON	2010	kg	2795.6				446.2					
+55	Wisconsin	HALOSULFURON	2011	kg	1595.1				351.4					
+55	Wisconsin	HALOSULFURON	2012	kg	1190.7				444.3					
+55	Wisconsin	HALOSULFURON	2013	kg	942.1				632.3					
+55	Wisconsin	HALOSULFURON	2014	kg	483.7				293					
+55	Wisconsin	HALOSULFURON	2015	kg	809.5				427					
+55	Wisconsin	HALOSULFURON	2016	kg	423.5				330.9					
+55	Wisconsin	HALOSULFURON	2017	kg	2628.8				417.3					
+56	Wyoming	HALOSULFURON	1995	kg	12.3									
+56	Wyoming	HALOSULFURON	1996	kg	6.1									
+56	Wyoming	HALOSULFURON	1997	kg	4.3									
+56	Wyoming	HALOSULFURON	1998	kg	32.7									
+56	Wyoming	HALOSULFURON	1999	kg	30									
+56	Wyoming	HALOSULFURON	2000	kg	18.2									
+56	Wyoming	HALOSULFURON	2001	kg	10.6									
+56	Wyoming	HALOSULFURON	2002	kg	11.2									
+56	Wyoming	HALOSULFURON	2004	kg	14.8									
+56	Wyoming	HALOSULFURON	2008	kg	52.8				33.1					
+56	Wyoming	HALOSULFURON	2009	kg					29					
+56	Wyoming	HALOSULFURON	2010	kg					13.2					
+56	Wyoming	HALOSULFURON	2011	kg					8.6					
+56	Wyoming	HALOSULFURON	2012	kg					8.6					
+56	Wyoming	HALOSULFURON	2013	kg	14.4				31.6					
+56	Wyoming	HALOSULFURON	2014	kg					10.2					
+56	Wyoming	HALOSULFURON	2015	kg					5.7					
+56	Wyoming	HALOSULFURON	2016	kg					2.5					
+56	Wyoming	HALOSULFURON	2017	kg					3.3			24.9		

@@ -1,0 +1,7 @@
+06	California	FENAZAQUIN	2015	kg							5.1			
+06	California	FENAZAQUIN	2016	kg							8564			
+06	California	FENAZAQUIN	2017	kg							15435.4			
+41	Oregon	FENAZAQUIN	2015	kg							130.9			
+41	Oregon	FENAZAQUIN	2016	kg							16.9			
+53	Washington	FENAZAQUIN	2015	kg							424			
+53	Washington	FENAZAQUIN	2016	kg							55.6			

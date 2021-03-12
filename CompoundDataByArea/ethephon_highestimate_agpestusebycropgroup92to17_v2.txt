@@ -1,0 +1,1024 @@
+01	Alabama	ETHEPHON	1992	kg				8773.8						6.5
+01	Alabama	ETHEPHON	1993	kg				16269.4						289.5
+01	Alabama	ETHEPHON	1994	kg				32422.5						12.4
+01	Alabama	ETHEPHON	1995	kg				18799.2						3137.1
+01	Alabama	ETHEPHON	1996	kg				36009.9						6.3
+01	Alabama	ETHEPHON	1997	kg				40154.8						21.9
+01	Alabama	ETHEPHON	1998	kg				116252.1						12.6
+01	Alabama	ETHEPHON	1999	kg				109650						15.5
+01	Alabama	ETHEPHON	2000	kg				124816.9						8.5
+01	Alabama	ETHEPHON	2001	kg				180105.8						11.4
+01	Alabama	ETHEPHON	2002	kg				157074.8						25.9
+01	Alabama	ETHEPHON	2003	kg				175312.8						4.6
+01	Alabama	ETHEPHON	2004	kg				177248						3.4
+01	Alabama	ETHEPHON	2005	kg				171046.1						2.4
+01	Alabama	ETHEPHON	2006	kg				157554.1						0.3
+01	Alabama	ETHEPHON	2007	kg				120327						
+01	Alabama	ETHEPHON	2008	kg				47206.9						
+01	Alabama	ETHEPHON	2009	kg				134739.6						
+01	Alabama	ETHEPHON	2010	kg				199407.8						
+01	Alabama	ETHEPHON	2011	kg				178753.2						
+01	Alabama	ETHEPHON	2012	kg				134199.6						
+01	Alabama	ETHEPHON	2013	kg				161911.2						
+01	Alabama	ETHEPHON	2014	kg				141127						
+01	Alabama	ETHEPHON	2015	kg				206284.9						
+01	Alabama	ETHEPHON	2016	kg				176546.7						
+01	Alabama	ETHEPHON	2017	kg				160312.8						
+04	Arizona	ETHEPHON	1992	kg					1.7		0.1			
+04	Arizona	ETHEPHON	1993	kg				6525.5	50.1					
+04	Arizona	ETHEPHON	1994	kg				9472.3	30.3		174.8			
+04	Arizona	ETHEPHON	1995	kg				8103.2	329.9		187.7			
+04	Arizona	ETHEPHON	1996	kg				5964.6	135		316.5		205	
+04	Arizona	ETHEPHON	1997	kg				1403.3	231.3		479			
+04	Arizona	ETHEPHON	1998	kg				4954	5.8		70.9			
+04	Arizona	ETHEPHON	1999	kg				3344.8	2.8					
+04	Arizona	ETHEPHON	2000	kg				21792	2.8		341.5			
+04	Arizona	ETHEPHON	2001	kg				13342.4	3.9		231.4			
+04	Arizona	ETHEPHON	2002	kg				17527.8	9.7		165.6			
+04	Arizona	ETHEPHON	2003	kg				3739.1	3.8		194.7			
+04	Arizona	ETHEPHON	2004	kg				7152.9	3.4		243.4			
+04	Arizona	ETHEPHON	2005	kg				25256.7	4.4		225.2			
+04	Arizona	ETHEPHON	2006	kg				314.1	10.2		105.1			
+04	Arizona	ETHEPHON	2007	kg				3836.5	0.6		137.3			
+04	Arizona	ETHEPHON	2008	kg				229	1.3		29.5			
+04	Arizona	ETHEPHON	2009	kg				48891.1	2.6		25.1			
+04	Arizona	ETHEPHON	2010	kg				101804.7	4		40.7			
+04	Arizona	ETHEPHON	2011	kg				19466.2	2.2		41.1			
+04	Arizona	ETHEPHON	2012	kg				3509.8	1.3		20.7			
+04	Arizona	ETHEPHON	2013	kg				18812.3	2.1		1065.2			
+04	Arizona	ETHEPHON	2014	kg				6871.8	1.9					
+04	Arizona	ETHEPHON	2015	kg				4736.9	2.6		40.9			
+04	Arizona	ETHEPHON	2016	kg				10206.6	2.1		15.8			
+04	Arizona	ETHEPHON	2017	kg				1692.7	4.9		1.3			
+05	Arkansas	ETHEPHON	1992	kg				37003.2						
+05	Arkansas	ETHEPHON	1993	kg				29471						
+05	Arkansas	ETHEPHON	1994	kg				49725.9						
+05	Arkansas	ETHEPHON	1995	kg				43117.8	10					
+05	Arkansas	ETHEPHON	1996	kg				127863						
+05	Arkansas	ETHEPHON	1997	kg				71745.5						
+05	Arkansas	ETHEPHON	1998	kg				263785.9						
+05	Arkansas	ETHEPHON	1999	kg				277650.5						
+05	Arkansas	ETHEPHON	2000	kg				367771.5						
+05	Arkansas	ETHEPHON	2001	kg				532228.8						
+05	Arkansas	ETHEPHON	2002	kg				489710.3						
+05	Arkansas	ETHEPHON	2003	kg				497500.7						
+05	Arkansas	ETHEPHON	2004	kg				562025.8						
+05	Arkansas	ETHEPHON	2005	kg				556419.3						
+05	Arkansas	ETHEPHON	2006	kg				490876.3						
+05	Arkansas	ETHEPHON	2007	kg				442780.6						
+05	Arkansas	ETHEPHON	2008	kg				327256.5						
+05	Arkansas	ETHEPHON	2009	kg				339373.3						
+05	Arkansas	ETHEPHON	2010	kg				346727.9						
+05	Arkansas	ETHEPHON	2011	kg				493923.6						
+05	Arkansas	ETHEPHON	2012	kg				361889.1						
+05	Arkansas	ETHEPHON	2013	kg				136758.8						
+05	Arkansas	ETHEPHON	2014	kg				195430.7						
+05	Arkansas	ETHEPHON	2015	kg				145328.4						
+05	Arkansas	ETHEPHON	2016	kg				226500.3						
+05	Arkansas	ETHEPHON	2017	kg				247296.8						
+06	California	ETHEPHON	1992	kg			63.6	272630.1	9721		9409.2			386.1
+06	California	ETHEPHON	1993	kg			25.4	380475.1	17405.4		8549.2			480.5
+06	California	ETHEPHON	1994	kg			3.7	376872.4	19032.2		10290.4			547.8
+06	California	ETHEPHON	1995	kg			4.5	433954.9	17510.9		13081.6			436.1
+06	California	ETHEPHON	1996	kg			25.1	402368.4	17853.1		11363.6			634.2
+06	California	ETHEPHON	1997	kg			9.1	389518.7	7186.1		12133.5			493.6
+06	California	ETHEPHON	1998	kg	148.3		71.7	449567	15282.5		16368.1	27.4		324.7
+06	California	ETHEPHON	1999	kg	24.5		105.5	313264.9	23194.6		16792.1	61.2		189.9
+06	California	ETHEPHON	2000	kg				319326.4	9113.1		11312.8	29.8		164
+06	California	ETHEPHON	2001	kg	17			262118.1	11602.9		11642.8			
+06	California	ETHEPHON	2002	kg				215748.2	10373.6		15166.7	18.7	1.4	36.7
+06	California	ETHEPHON	2003	kg			1.8	231684	9922.9		14792			63.9
+06	California	ETHEPHON	2004	kg			45.4	267991.1	2928.1		13893.1			20.5
+06	California	ETHEPHON	2005	kg			104.4	256263.9	10017.7		16421.8		18.1	6.8
+06	California	ETHEPHON	2006	kg			9.1	214009.7	22792.8		19778.8		13.6	10.3
+06	California	ETHEPHON	2007	kg				163629.3	4309.4		20619.3	10.5	37.1	
+06	California	ETHEPHON	2008	kg				100869.6	6029.8		19191.2			19.3
+06	California	ETHEPHON	2009	kg			15.3	61516.8	5156.7		18171.4			110.2
+06	California	ETHEPHON	2010	kg			27.8	122396.1	8403.5		27406.2			16.1
+06	California	ETHEPHON	2011	kg				202419.2	6240.9		32388.5	12.3		66.2
+06	California	ETHEPHON	2012	kg			51.3	164763.7	9011.8		36398			35
+06	California	ETHEPHON	2013	kg	76.3			114586.6	21896.2		32520.8	4.3		
+06	California	ETHEPHON	2014	kg				95098.1	17465.8	4.7	33222.2	11.1		
+06	California	ETHEPHON	2015	kg				79029.3	11498.4		44533.9	3.9		
+06	California	ETHEPHON	2016	kg				109414.9	13339.8		46843.2			219
+06	California	ETHEPHON	2017	kg				143434	10654.7		55023.5			
+08	Colorado	ETHEPHON	1992	kg			33.1				11.4			310.6
+08	Colorado	ETHEPHON	1993	kg			77.7							169.5
+08	Colorado	ETHEPHON	1994	kg							91			1246.4
+08	Colorado	ETHEPHON	1995	kg			117.1		1.1		89.9			1691.5
+08	Colorado	ETHEPHON	1996	kg							64.1			767.6
+08	Colorado	ETHEPHON	1997	kg			448.1				83.2			462.4
+08	Colorado	ETHEPHON	1998	kg							32.3			
+08	Colorado	ETHEPHON	1999	kg							77			
+08	Colorado	ETHEPHON	2000	kg							65.4			
+08	Colorado	ETHEPHON	2001	kg							161.8			
+08	Colorado	ETHEPHON	2002	kg							79.8			
+08	Colorado	ETHEPHON	2003	kg							251.3			
+08	Colorado	ETHEPHON	2004	kg							74.9			
+08	Colorado	ETHEPHON	2009	kg							21.8			
+08	Colorado	ETHEPHON	2010	kg							111.5			
+08	Colorado	ETHEPHON	2013	kg							44.4			
+08	Colorado	ETHEPHON	2014	kg							153.1			
+09	Connecticut	ETHEPHON	1992	kg							21.4			
+09	Connecticut	ETHEPHON	1993	kg							7.7			
+09	Connecticut	ETHEPHON	1994	kg							3.1			
+09	Connecticut	ETHEPHON	1995	kg							7.7			
+09	Connecticut	ETHEPHON	1996	kg							1.5			
+09	Connecticut	ETHEPHON	1997	kg							72.3			
+09	Connecticut	ETHEPHON	1998	kg							10.9			
+09	Connecticut	ETHEPHON	1999	kg							23.2			
+09	Connecticut	ETHEPHON	2000	kg							49.1			
+09	Connecticut	ETHEPHON	2001	kg							54.1			
+09	Connecticut	ETHEPHON	2002	kg							11.8			
+09	Connecticut	ETHEPHON	2003	kg							34.5			
+09	Connecticut	ETHEPHON	2004	kg							1.6			
+09	Connecticut	ETHEPHON	2005	kg							23.3			
+09	Connecticut	ETHEPHON	2006	kg							17.5			
+09	Connecticut	ETHEPHON	2008	kg							2.9			
+09	Connecticut	ETHEPHON	2009	kg							73.7			
+09	Connecticut	ETHEPHON	2010	kg							70.4			
+09	Connecticut	ETHEPHON	2011	kg							23.5			
+09	Connecticut	ETHEPHON	2012	kg							213.2			
+09	Connecticut	ETHEPHON	2013	kg							128.4			
+09	Connecticut	ETHEPHON	2014	kg							17.9			
+10	Delaware	ETHEPHON	1992	kg			102		119.3					13.9
+10	Delaware	ETHEPHON	1993	kg							0			
+10	Delaware	ETHEPHON	1994	kg					1.3					
+10	Delaware	ETHEPHON	1995	kg					43.9		0			
+10	Delaware	ETHEPHON	1996	kg					47.8					
+10	Delaware	ETHEPHON	1997	kg			179.7		1.2		0.1			2768.6
+10	Delaware	ETHEPHON	1998	kg					11.6		0.1			
+10	Delaware	ETHEPHON	2000	kg							0			
+10	Delaware	ETHEPHON	2001	kg							0			
+10	Delaware	ETHEPHON	2003	kg							0.1			
+12	Florida	ETHEPHON	1992	kg				6872.5						81.3
+12	Florida	ETHEPHON	1993	kg				5749.1						286.7
+12	Florida	ETHEPHON	1994	kg				4680.7						2061.5
+12	Florida	ETHEPHON	1995	kg				2722.5						894.7
+12	Florida	ETHEPHON	1996	kg				2040.9						739.2
+12	Florida	ETHEPHON	1997	kg				11996.5						845.1
+12	Florida	ETHEPHON	1998	kg				22482.3						165.6
+12	Florida	ETHEPHON	1999	kg				20784.1						343.4
+12	Florida	ETHEPHON	2000	kg				16770.6						513.5
+12	Florida	ETHEPHON	2001	kg				46728.4						150.7
+12	Florida	ETHEPHON	2002	kg				38939.4						606.3
+12	Florida	ETHEPHON	2003	kg				36275						1602.7
+12	Florida	ETHEPHON	2004	kg				28198.7	1161					135.4
+12	Florida	ETHEPHON	2005	kg				44264.6						
+12	Florida	ETHEPHON	2006	kg				51227						99.1
+12	Florida	ETHEPHON	2007	kg				49896.1						
+12	Florida	ETHEPHON	2008	kg				10954.3						
+12	Florida	ETHEPHON	2009	kg				40615						671.3
+12	Florida	ETHEPHON	2010	kg				62321	654.5					
+12	Florida	ETHEPHON	2011	kg				63463.4						82.4
+12	Florida	ETHEPHON	2012	kg				48139.8						2.6
+12	Florida	ETHEPHON	2013	kg				86656.1						
+12	Florida	ETHEPHON	2014	kg				46962.9						233
+12	Florida	ETHEPHON	2015	kg				46753.2						39.3
+12	Florida	ETHEPHON	2016	kg				65741.3						381.9
+12	Florida	ETHEPHON	2017	kg				42422.5						593.1
+13	Georgia	ETHEPHON	1992	kg				12232.7	113.7					1307.1
+13	Georgia	ETHEPHON	1993	kg				21522.4						4469.5
+13	Georgia	ETHEPHON	1994	kg				30971						8109.4
+13	Georgia	ETHEPHON	1995	kg				77547.8			0.6			9586.1
+13	Georgia	ETHEPHON	1996	kg				109269.4						1724.9
+13	Georgia	ETHEPHON	1997	kg				186971.1			26.3			8621.3
+13	Georgia	ETHEPHON	1998	kg				409563	41.6		1.5			3261
+13	Georgia	ETHEPHON	1999	kg				286283.6						3023.7
+13	Georgia	ETHEPHON	2000	kg				436894.3			14.5			1502.2
+13	Georgia	ETHEPHON	2001	kg				426817.7			4			2333.1
+13	Georgia	ETHEPHON	2002	kg				461976.9			2.2			10639.8
+13	Georgia	ETHEPHON	2003	kg				509340.8			16.4			293.2
+13	Georgia	ETHEPHON	2004	kg				529382.8	38.3					1116.2
+13	Georgia	ETHEPHON	2005	kg				370660			10.4			488.5
+13	Georgia	ETHEPHON	2006	kg				809566.2			14.2			844.7
+13	Georgia	ETHEPHON	2007	kg				489185.5			215.1			5350.6
+13	Georgia	ETHEPHON	2008	kg				382475.1			14			4461
+13	Georgia	ETHEPHON	2009	kg				578503.3			5.2			4663.4
+13	Georgia	ETHEPHON	2010	kg				759536.9						580.3
+13	Georgia	ETHEPHON	2011	kg				799253						8137.8
+13	Georgia	ETHEPHON	2012	kg				579887.5			11.3			1629.4
+13	Georgia	ETHEPHON	2013	kg				808215.9						271
+13	Georgia	ETHEPHON	2014	kg				674939.9						5229.7
+13	Georgia	ETHEPHON	2015	kg				742666.2			50.1			5849.5
+13	Georgia	ETHEPHON	2016	kg				851189.6			14.2			10990.9
+13	Georgia	ETHEPHON	2017	kg				668281.8						9626.5
+16	Idaho	ETHEPHON	1992	kg			1152.9				60.1			2973.9
+16	Idaho	ETHEPHON	1993	kg			5036.3				99			2113.6
+16	Idaho	ETHEPHON	1994	kg			1386.9				57.8			3772.5
+16	Idaho	ETHEPHON	1995	kg			1979.6				141.3			17739.9
+16	Idaho	ETHEPHON	1996	kg			12159.8				368.9			4359.8
+16	Idaho	ETHEPHON	1997	kg			9605.6				38.9			4972
+16	Idaho	ETHEPHON	1998	kg							68.3			
+16	Idaho	ETHEPHON	1999	kg							172.7			
+16	Idaho	ETHEPHON	2000	kg							157.5			
+16	Idaho	ETHEPHON	2001	kg							716.5			
+16	Idaho	ETHEPHON	2002	kg							494.5			
+16	Idaho	ETHEPHON	2003	kg							833.8			
+16	Idaho	ETHEPHON	2004	kg							156.5			
+16	Idaho	ETHEPHON	2005	kg							245.4			
+16	Idaho	ETHEPHON	2006	kg							205.2			
+16	Idaho	ETHEPHON	2007	kg							9.2			
+16	Idaho	ETHEPHON	2008	kg							156.3			
+16	Idaho	ETHEPHON	2009	kg							40.5			
+16	Idaho	ETHEPHON	2010	kg							110.2			
+16	Idaho	ETHEPHON	2011	kg							131.4			
+16	Idaho	ETHEPHON	2012	kg							226.1			
+16	Idaho	ETHEPHON	2013	kg							101.3			
+16	Idaho	ETHEPHON	2014	kg							269.1			
+16	Idaho	ETHEPHON	2015	kg							163.2			
+16	Idaho	ETHEPHON	2016	kg							118.1			
+16	Idaho	ETHEPHON	2017	kg							41.5			
+17	Illinois	ETHEPHON	1992	kg					71.1					
+17	Illinois	ETHEPHON	1993	kg					520.6					
+17	Illinois	ETHEPHON	1994	kg					106.7					
+17	Illinois	ETHEPHON	1995	kg					109					
+17	Illinois	ETHEPHON	1996	kg					95.8					
+17	Illinois	ETHEPHON	1997	kg					82.8		432.8			
+17	Illinois	ETHEPHON	1998	kg					39.8		11.7			
+17	Illinois	ETHEPHON	1999	kg					81.2		22.6			
+17	Illinois	ETHEPHON	2000	kg					22.2					
+17	Illinois	ETHEPHON	2001	kg					25.3					
+17	Illinois	ETHEPHON	2002	kg					66.9		1.8			
+17	Illinois	ETHEPHON	2003	kg					41.5		477.5			
+17	Illinois	ETHEPHON	2004	kg					66.2		48.2			
+18	Indiana	ETHEPHON	1992	kg			95.8		478.7		0.1			
+18	Indiana	ETHEPHON	1993	kg					1677.8		0.7			
+18	Indiana	ETHEPHON	1994	kg					1379.6		5.5			
+18	Indiana	ETHEPHON	1995	kg					2678.2		3.1			
+18	Indiana	ETHEPHON	1996	kg					4017.8		0.8			
+18	Indiana	ETHEPHON	1997	kg					2028.7		4.6			
+18	Indiana	ETHEPHON	1998	kg					1269.4		0.7			
+18	Indiana	ETHEPHON	1999	kg					1295.6		5.6			
+18	Indiana	ETHEPHON	2000	kg					959.1		0.1			
+18	Indiana	ETHEPHON	2001	kg					1177.2		14.9			
+18	Indiana	ETHEPHON	2002	kg					1552.8		6			
+18	Indiana	ETHEPHON	2003	kg					1056.1		1			
+18	Indiana	ETHEPHON	2004	kg					1143.5		7.3			
+18	Indiana	ETHEPHON	2005	kg							0.1			
+18	Indiana	ETHEPHON	2006	kg							0			
+18	Indiana	ETHEPHON	2007	kg							0			
+18	Indiana	ETHEPHON	2008	kg							0.3			
+18	Indiana	ETHEPHON	2009	kg							0.5			
+18	Indiana	ETHEPHON	2010	kg							0.9			
+18	Indiana	ETHEPHON	2011	kg							0.9			
+18	Indiana	ETHEPHON	2012	kg							0.6			
+18	Indiana	ETHEPHON	2013	kg							0.7			
+18	Indiana	ETHEPHON	2014	kg							0.3			
+18	Indiana	ETHEPHON	2015	kg							0.8			
+18	Indiana	ETHEPHON	2016	kg							0.7			
+18	Indiana	ETHEPHON	2017	kg							0.3			
+19	Iowa	ETHEPHON	1992	kg							520.9			
+19	Iowa	ETHEPHON	1994	kg							3			
+19	Iowa	ETHEPHON	1997	kg							18			
+19	Iowa	ETHEPHON	1998	kg							6.3			
+19	Iowa	ETHEPHON	1999	kg							8.1			
+19	Iowa	ETHEPHON	2004	kg							18.3			
+20	Kansas	ETHEPHON	1992	kg				260.4						
+20	Kansas	ETHEPHON	1993	kg				407.8						
+20	Kansas	ETHEPHON	1994	kg				893.9						
+20	Kansas	ETHEPHON	1995	kg				724.3						
+20	Kansas	ETHEPHON	1996	kg				823.5						
+20	Kansas	ETHEPHON	1997	kg				1031.1						
+20	Kansas	ETHEPHON	1998	kg				1910						
+20	Kansas	ETHEPHON	1999	kg				13522.2						
+20	Kansas	ETHEPHON	2000	kg				2225.4						
+20	Kansas	ETHEPHON	2001	kg				3883.6						
+20	Kansas	ETHEPHON	2002	kg				2179.8						
+20	Kansas	ETHEPHON	2003	kg				22188.6						
+20	Kansas	ETHEPHON	2004	kg				15432.3						
+20	Kansas	ETHEPHON	2005	kg				19023.8						
+20	Kansas	ETHEPHON	2006	kg				43925.1						
+20	Kansas	ETHEPHON	2007	kg				14547.9						
+20	Kansas	ETHEPHON	2008	kg				3207.8						
+20	Kansas	ETHEPHON	2009	kg				9618.7						
+20	Kansas	ETHEPHON	2010	kg				15204.5						
+20	Kansas	ETHEPHON	2011	kg				42614.6						
+20	Kansas	ETHEPHON	2012	kg				10633.5						
+20	Kansas	ETHEPHON	2013	kg				17142.8						
+20	Kansas	ETHEPHON	2014	kg				7409.3						
+20	Kansas	ETHEPHON	2015	kg				8754.7						
+20	Kansas	ETHEPHON	2016	kg				11340.2						
+20	Kansas	ETHEPHON	2017	kg				35326.3						
+21	Kentucky	ETHEPHON	1992	kg			5.9		96.3		11.6			
+21	Kentucky	ETHEPHON	1993	kg					32.5					281.7
+21	Kentucky	ETHEPHON	1994	kg					35.5					
+21	Kentucky	ETHEPHON	1995	kg					203.2		0.4			3442.3
+21	Kentucky	ETHEPHON	1996	kg					383.7		2.3			
+21	Kentucky	ETHEPHON	1997	kg					31.6		14			4648.7
+21	Kentucky	ETHEPHON	1998	kg					140		13.3			1182.2
+21	Kentucky	ETHEPHON	1999	kg					107.6		0.1			2567.7
+21	Kentucky	ETHEPHON	2000	kg					72.2		3			
+21	Kentucky	ETHEPHON	2001	kg					110.1		1.7			1971.3
+21	Kentucky	ETHEPHON	2002	kg					125.4		2.4			3085.2
+21	Kentucky	ETHEPHON	2003	kg					70.9		16			311.6
+21	Kentucky	ETHEPHON	2004	kg					140.2		12.7			544.2
+21	Kentucky	ETHEPHON	2005	kg							6.1			691.4
+21	Kentucky	ETHEPHON	2006	kg							14			
+21	Kentucky	ETHEPHON	2007	kg										174.9
+21	Kentucky	ETHEPHON	2008	kg							14.2			51.6
+21	Kentucky	ETHEPHON	2009	kg							2.3			
+21	Kentucky	ETHEPHON	2010	kg							6.8			398.6
+21	Kentucky	ETHEPHON	2012	kg							12.5			1402.8
+21	Kentucky	ETHEPHON	2013	kg							17.2			
+21	Kentucky	ETHEPHON	2014	kg							2.4			
+21	Kentucky	ETHEPHON	2015	kg							30.1			256.6
+21	Kentucky	ETHEPHON	2016	kg							10.3			66.3
+22	Louisiana	ETHEPHON	1992	kg				48224.2						
+22	Louisiana	ETHEPHON	1993	kg				15480.3						
+22	Louisiana	ETHEPHON	1994	kg				23881.6						
+22	Louisiana	ETHEPHON	1995	kg				25533.6	49.1					
+22	Louisiana	ETHEPHON	1996	kg				32767.3						
+22	Louisiana	ETHEPHON	1997	kg				25323.3						
+22	Louisiana	ETHEPHON	1998	kg				52689.5						
+22	Louisiana	ETHEPHON	1999	kg				67537						1135.5
+22	Louisiana	ETHEPHON	2000	kg				113151.1						
+22	Louisiana	ETHEPHON	2001	kg				209013.6						
+22	Louisiana	ETHEPHON	2002	kg				177344.3						
+22	Louisiana	ETHEPHON	2003	kg				144227.1						
+22	Louisiana	ETHEPHON	2004	kg				189847.8						
+22	Louisiana	ETHEPHON	2005	kg				90975.1						
+22	Louisiana	ETHEPHON	2006	kg				274183.7						
+22	Louisiana	ETHEPHON	2007	kg				146364.5						
+22	Louisiana	ETHEPHON	2008	kg				112491.7						
+22	Louisiana	ETHEPHON	2009	kg				146690.4						
+22	Louisiana	ETHEPHON	2010	kg				145024.2						
+22	Louisiana	ETHEPHON	2011	kg				174972.8						
+22	Louisiana	ETHEPHON	2012	kg				176924.2						
+22	Louisiana	ETHEPHON	2013	kg				73780.8						
+22	Louisiana	ETHEPHON	2014	kg				88156.1						
+22	Louisiana	ETHEPHON	2015	kg				59137.7						
+22	Louisiana	ETHEPHON	2016	kg				95666.7						
+22	Louisiana	ETHEPHON	2017	kg				110659.4						
+23	Maine	ETHEPHON	1992	kg							46.5			
+23	Maine	ETHEPHON	1993	kg							31			
+23	Maine	ETHEPHON	1994	kg							0.1			
+23	Maine	ETHEPHON	1995	kg							736.6			
+23	Maine	ETHEPHON	1996	kg							549.9			
+23	Maine	ETHEPHON	1997	kg							5.8			
+23	Maine	ETHEPHON	1998	kg							14.4			
+23	Maine	ETHEPHON	1999	kg							15.3			
+23	Maine	ETHEPHON	2000	kg							56.9			
+23	Maine	ETHEPHON	2001	kg							16.9			
+23	Maine	ETHEPHON	2002	kg							19.5			
+23	Maine	ETHEPHON	2003	kg							33.5			
+23	Maine	ETHEPHON	2004	kg							1.9			
+23	Maine	ETHEPHON	2005	kg							28.5			
+23	Maine	ETHEPHON	2006	kg							56.3			
+23	Maine	ETHEPHON	2008	kg							2.6			
+23	Maine	ETHEPHON	2009	kg							100			
+23	Maine	ETHEPHON	2010	kg							101.8			
+23	Maine	ETHEPHON	2011	kg							143			
+23	Maine	ETHEPHON	2012	kg							352.8			
+23	Maine	ETHEPHON	2013	kg							204.2			
+23	Maine	ETHEPHON	2014	kg							27.4			
+24	Maryland	ETHEPHON	1992	kg			1446.5		1671.1		15.7			445.2
+24	Maryland	ETHEPHON	1993	kg			666.9				17.4			
+24	Maryland	ETHEPHON	1994	kg					29		32.5			
+24	Maryland	ETHEPHON	1995	kg			6295.1		1167		22.9			1453.3
+24	Maryland	ETHEPHON	1996	kg			1120.5		1066.2		12.5			
+24	Maryland	ETHEPHON	1997	kg			321.1		71		165.5			1052.5
+24	Maryland	ETHEPHON	1998	kg					508.3		65.1			
+24	Maryland	ETHEPHON	1999	kg							22.9			
+24	Maryland	ETHEPHON	2000	kg					0.6		37.2			
+24	Maryland	ETHEPHON	2001	kg							2.7			
+24	Maryland	ETHEPHON	2002	kg					0.6		11.9			
+24	Maryland	ETHEPHON	2003	kg					0.7		47.4			
+24	Maryland	ETHEPHON	2004	kg					1.2		34.4			
+24	Maryland	ETHEPHON	2005	kg							18.2			
+24	Maryland	ETHEPHON	2006	kg							281			
+24	Maryland	ETHEPHON	2007	kg							119.5			
+24	Maryland	ETHEPHON	2008	kg							85.4			
+24	Maryland	ETHEPHON	2009	kg							61.5			
+24	Maryland	ETHEPHON	2010	kg							58.2			
+24	Maryland	ETHEPHON	2011	kg							76.3			
+24	Maryland	ETHEPHON	2012	kg							174.6			
+24	Maryland	ETHEPHON	2013	kg							96.1			
+24	Maryland	ETHEPHON	2014	kg							12.3			
+24	Maryland	ETHEPHON	2015	kg							147.9			
+24	Maryland	ETHEPHON	2016	kg							54.4			
+24	Maryland	ETHEPHON	2017	kg							80.2			
+25	Massachusetts	ETHEPHON	1992	kg							42.6			
+25	Massachusetts	ETHEPHON	1993	kg							15.1			
+25	Massachusetts	ETHEPHON	1994	kg							6.1			
+25	Massachusetts	ETHEPHON	1995	kg							5.9			
+25	Massachusetts	ETHEPHON	1996	kg							2.9			
+25	Massachusetts	ETHEPHON	1997	kg							211.7			
+25	Massachusetts	ETHEPHON	1998	kg							21.1			
+25	Massachusetts	ETHEPHON	1999	kg							44.8			
+25	Massachusetts	ETHEPHON	2000	kg							13.6			
+25	Massachusetts	ETHEPHON	2001	kg							104.2			
+25	Massachusetts	ETHEPHON	2002	kg							22.5			
+25	Massachusetts	ETHEPHON	2003	kg							65			
+25	Massachusetts	ETHEPHON	2004	kg							3			
+25	Massachusetts	ETHEPHON	2005	kg							42.2			
+25	Massachusetts	ETHEPHON	2006	kg							31.2			
+25	Massachusetts	ETHEPHON	2008	kg							4.8			
+25	Massachusetts	ETHEPHON	2009	kg							125.6			
+25	Massachusetts	ETHEPHON	2010	kg							117.2			
+25	Massachusetts	ETHEPHON	2011	kg							38.4			
+25	Massachusetts	ETHEPHON	2012	kg							338.2			
+25	Massachusetts	ETHEPHON	2013	kg							212.4			
+25	Massachusetts	ETHEPHON	2014	kg							30.6			
+26	Michigan	ETHEPHON	1992	kg					915.9		3451.5			
+26	Michigan	ETHEPHON	1993	kg					3102.1		5233.6			
+26	Michigan	ETHEPHON	1994	kg					1333.5		3855.9			
+26	Michigan	ETHEPHON	1995	kg					270.4		3730.8			
+26	Michigan	ETHEPHON	1996	kg					584.4		1096.2			
+26	Michigan	ETHEPHON	1997	kg					1134.2		2286.2			
+26	Michigan	ETHEPHON	1998	kg					280		3070			
+26	Michigan	ETHEPHON	1999	kg					404.6		2823.8			
+26	Michigan	ETHEPHON	2000	kg					1589.7		2282.6			
+26	Michigan	ETHEPHON	2001	kg					795.6		4670.1			
+26	Michigan	ETHEPHON	2002	kg					966.1		1631.6			
+26	Michigan	ETHEPHON	2003	kg					851		3314.9			
+26	Michigan	ETHEPHON	2004	kg					431		5992.8			
+26	Michigan	ETHEPHON	2005	kg							3354.7			
+26	Michigan	ETHEPHON	2006	kg							3543.6			
+26	Michigan	ETHEPHON	2007	kg							2755.6			
+26	Michigan	ETHEPHON	2008	kg							2657.9			
+26	Michigan	ETHEPHON	2009	kg							3118.2			
+26	Michigan	ETHEPHON	2010	kg							3610.1			
+26	Michigan	ETHEPHON	2011	kg							3385.1			
+26	Michigan	ETHEPHON	2012	kg							1635.8			
+26	Michigan	ETHEPHON	2013	kg							4106.1			
+26	Michigan	ETHEPHON	2014	kg							3915.4			
+26	Michigan	ETHEPHON	2015	kg							3175.5			
+26	Michigan	ETHEPHON	2016	kg							2896.1			
+26	Michigan	ETHEPHON	2017	kg							2687.4			
+27	Minnesota	ETHEPHON	1992	kg			61.9				42.5			14.5
+27	Minnesota	ETHEPHON	1993	kg			299.9				281.4			91.9
+27	Minnesota	ETHEPHON	1994	kg							160.5			
+27	Minnesota	ETHEPHON	1995	kg			141.8				5.9			236.4
+27	Minnesota	ETHEPHON	1996	kg							0.5			
+27	Minnesota	ETHEPHON	1997	kg							21.4			
+27	Minnesota	ETHEPHON	1998	kg							51.8			
+27	Minnesota	ETHEPHON	1999	kg							15.2			
+27	Minnesota	ETHEPHON	2004	kg							345.6			
+28	Mississippi	ETHEPHON	1992	kg				7096						
+28	Mississippi	ETHEPHON	1993	kg				48145.6						
+28	Mississippi	ETHEPHON	1994	kg				16326.1						
+28	Mississippi	ETHEPHON	1995	kg				193838.3						
+28	Mississippi	ETHEPHON	1996	kg				20150.8						
+28	Mississippi	ETHEPHON	1997	kg				39364						
+28	Mississippi	ETHEPHON	1998	kg				227294.4						
+28	Mississippi	ETHEPHON	1999	kg				220816.4						
+28	Mississippi	ETHEPHON	2000	kg				215981.4						
+28	Mississippi	ETHEPHON	2001	kg				399406.6						
+28	Mississippi	ETHEPHON	2002	kg				299894.5						
+28	Mississippi	ETHEPHON	2003	kg				349734.2						
+28	Mississippi	ETHEPHON	2004	kg				418125.5						
+28	Mississippi	ETHEPHON	2005	kg				484536.7						
+28	Mississippi	ETHEPHON	2006	kg				477550.3						
+28	Mississippi	ETHEPHON	2007	kg				310752.9						
+28	Mississippi	ETHEPHON	2008	kg				227414.1						
+28	Mississippi	ETHEPHON	2009	kg				165990.3						
+28	Mississippi	ETHEPHON	2010	kg				270450.8						
+28	Mississippi	ETHEPHON	2011	kg				408852.9						
+28	Mississippi	ETHEPHON	2012	kg				388596.8						
+28	Mississippi	ETHEPHON	2013	kg				265254.6						
+28	Mississippi	ETHEPHON	2014	kg				137123.1						
+28	Mississippi	ETHEPHON	2015	kg				217751.1						
+28	Mississippi	ETHEPHON	2016	kg				326800.2						
+28	Mississippi	ETHEPHON	2017	kg				170855.4						
+29	Missouri	ETHEPHON	1992	kg				20438.7						
+29	Missouri	ETHEPHON	1993	kg				29870.3						
+29	Missouri	ETHEPHON	1994	kg				39518.3						
+29	Missouri	ETHEPHON	1995	kg				80599.5						
+29	Missouri	ETHEPHON	1996	kg				78715.9						
+29	Missouri	ETHEPHON	1997	kg				39809			73.2			
+29	Missouri	ETHEPHON	1998	kg				131546.5						
+29	Missouri	ETHEPHON	1999	kg				150776.3			3.2			
+29	Missouri	ETHEPHON	2000	kg				165499.5						
+29	Missouri	ETHEPHON	2001	kg				247355.7						
+29	Missouri	ETHEPHON	2002	kg				207232.3						
+29	Missouri	ETHEPHON	2003	kg				257118.5						
+29	Missouri	ETHEPHON	2004	kg				241923.5			7.1			
+29	Missouri	ETHEPHON	2005	kg				212813.6						
+29	Missouri	ETHEPHON	2006	kg				327625.4						
+29	Missouri	ETHEPHON	2007	kg				187642.1						
+29	Missouri	ETHEPHON	2008	kg				94837.6						
+29	Missouri	ETHEPHON	2009	kg				199760.8						
+29	Missouri	ETHEPHON	2010	kg				150208.7						
+29	Missouri	ETHEPHON	2011	kg				282483.4						
+29	Missouri	ETHEPHON	2012	kg				305067.6						
+29	Missouri	ETHEPHON	2013	kg				169018.6						
+29	Missouri	ETHEPHON	2014	kg				104776						
+29	Missouri	ETHEPHON	2015	kg				183488.9						
+29	Missouri	ETHEPHON	2016	kg				27323.3						
+29	Missouri	ETHEPHON	2017	kg				134141.1						
+30	Montana	ETHEPHON	1992	kg			217.7							1333.4
+30	Montana	ETHEPHON	1993	kg			626.3							2216.2
+30	Montana	ETHEPHON	1994	kg			72.4				7			2023
+30	Montana	ETHEPHON	1995	kg			24444.2				9.5			7649.9
+30	Montana	ETHEPHON	1996	kg			1209.3				13.5			3384.7
+30	Montana	ETHEPHON	1997	kg			4988.1				9			2338
+30	Montana	ETHEPHON	1998	kg							3.9			
+30	Montana	ETHEPHON	1999	kg							9.8			
+30	Montana	ETHEPHON	2000	kg							9.1			
+30	Montana	ETHEPHON	2001	kg							30.6			
+30	Montana	ETHEPHON	2002	kg							41.3			
+30	Montana	ETHEPHON	2003	kg							45.6			
+30	Montana	ETHEPHON	2004	kg							13.5			
+30	Montana	ETHEPHON	2009	kg							4.1			
+30	Montana	ETHEPHON	2010	kg							23.6			
+30	Montana	ETHEPHON	2013	kg							11.1			
+30	Montana	ETHEPHON	2014	kg							34.9			
+32	Nevada	ETHEPHON	1992	kg			9.8				4			19.9
+32	Nevada	ETHEPHON	1993	kg			20.5		0.5					9.8
+32	Nevada	ETHEPHON	1994	kg							2.8			138.7
+32	Nevada	ETHEPHON	1995	kg			24.1				2.2			70.6
+32	Nevada	ETHEPHON	1996	kg			27.5				3.9			43.5
+32	Nevada	ETHEPHON	1997	kg			68.4		0.1		4.2			22.6
+32	Nevada	ETHEPHON	1998	kg					2.2		0			
+32	Nevada	ETHEPHON	1999	kg					1.2		2.1			
+32	Nevada	ETHEPHON	2000	kg					1.4		2.9			
+32	Nevada	ETHEPHON	2001	kg					1.8		6			
+32	Nevada	ETHEPHON	2002	kg					5.3		2.2			
+32	Nevada	ETHEPHON	2003	kg							10			
+32	Nevada	ETHEPHON	2004	kg					1.1		3.3			
+32	Nevada	ETHEPHON	2005	kg					1.2		0.3			
+32	Nevada	ETHEPHON	2006	kg							0.2			
+32	Nevada	ETHEPHON	2007	kg					0.3		0.3			
+32	Nevada	ETHEPHON	2008	kg							1.4			
+32	Nevada	ETHEPHON	2009	kg							3.6			
+32	Nevada	ETHEPHON	2010	kg							18			
+32	Nevada	ETHEPHON	2011	kg					4.1		1.2			
+32	Nevada	ETHEPHON	2012	kg					2.8		0.5			
+32	Nevada	ETHEPHON	2013	kg					4.6		10.5			
+32	Nevada	ETHEPHON	2014	kg					3.4		31.5			
+32	Nevada	ETHEPHON	2015	kg					1.7		1.2			
+32	Nevada	ETHEPHON	2016	kg					2.9		0.4			
+32	Nevada	ETHEPHON	2017	kg							0			
+33	New Hampshire	ETHEPHON	1992	kg							9.5			
+33	New Hampshire	ETHEPHON	1993	kg							10			
+33	New Hampshire	ETHEPHON	1994	kg							0.1			
+33	New Hampshire	ETHEPHON	1995	kg							3.1			
+33	New Hampshire	ETHEPHON	1996	kg							195.3			
+33	New Hampshire	ETHEPHON	1997	kg							151.2			
+33	New Hampshire	ETHEPHON	1998	kg							8.8			
+33	New Hampshire	ETHEPHON	1999	kg							8.4			
+33	New Hampshire	ETHEPHON	2000	kg							6.9			
+33	New Hampshire	ETHEPHON	2001	kg							10.5			
+33	New Hampshire	ETHEPHON	2002	kg							12.4			
+33	New Hampshire	ETHEPHON	2003	kg							17.4			
+33	New Hampshire	ETHEPHON	2004	kg							1.4			
+33	New Hampshire	ETHEPHON	2005	kg							19.1			
+33	New Hampshire	ETHEPHON	2006	kg							38.5			
+33	New Hampshire	ETHEPHON	2008	kg							1.7			
+33	New Hampshire	ETHEPHON	2009	kg							60.4			
+33	New Hampshire	ETHEPHON	2010	kg							56.6			
+33	New Hampshire	ETHEPHON	2011	kg							72.5			
+33	New Hampshire	ETHEPHON	2012	kg							163			
+33	New Hampshire	ETHEPHON	2013	kg							97.3			
+33	New Hampshire	ETHEPHON	2014	kg							13.4			
+34	New Jersey	ETHEPHON	1992	kg			340.4		1855.1		26.5			64.1
+34	New Jersey	ETHEPHON	1993	kg							11.2			
+34	New Jersey	ETHEPHON	1994	kg					552.8		3.6			
+34	New Jersey	ETHEPHON	1995	kg					1819.2		24.8			
+34	New Jersey	ETHEPHON	1996	kg					155.4		11.3			
+34	New Jersey	ETHEPHON	1997	kg					389.8		71.6			
+34	New Jersey	ETHEPHON	1998	kg					96.8		10.7			
+34	New Jersey	ETHEPHON	1999	kg							22			
+34	New Jersey	ETHEPHON	2000	kg							51.1			
+34	New Jersey	ETHEPHON	2001	kg							31.4			
+34	New Jersey	ETHEPHON	2002	kg							13.1			
+34	New Jersey	ETHEPHON	2003	kg							30.7			
+34	New Jersey	ETHEPHON	2004	kg							1.4			
+34	New Jersey	ETHEPHON	2005	kg							20.4			
+34	New Jersey	ETHEPHON	2006	kg							28.8			
+34	New Jersey	ETHEPHON	2008	kg							2.2			
+34	New Jersey	ETHEPHON	2009	kg							63.9			
+34	New Jersey	ETHEPHON	2010	kg							60.7			
+34	New Jersey	ETHEPHON	2011	kg							55.4			
+34	New Jersey	ETHEPHON	2012	kg							182.8			
+34	New Jersey	ETHEPHON	2013	kg							114.5			
+34	New Jersey	ETHEPHON	2014	kg							16.6			
+35	New Mexico	ETHEPHON	1992	kg			0.2	398.5	1034		0.7			0.3
+35	New Mexico	ETHEPHON	1993	kg			0.5	1059.4	676.8					0.2
+35	New Mexico	ETHEPHON	1994	kg				1375.6	945.8		49.8			23.5
+35	New Mexico	ETHEPHON	1995	kg			0.8	1559	1475.2		30.2			1.6
+35	New Mexico	ETHEPHON	1996	kg				1371.7	1343.7		29.9		1779.6	0.8
+35	New Mexico	ETHEPHON	1997	kg			15.4	2404.1	3206.8		36.7			0.5
+35	New Mexico	ETHEPHON	1998	kg				7322.8			15.6			
+35	New Mexico	ETHEPHON	1999	kg				8428.4			40.3			
+35	New Mexico	ETHEPHON	2000	kg				7663.4			37.9			
+35	New Mexico	ETHEPHON	2001	kg				6752			105.6			
+35	New Mexico	ETHEPHON	2002	kg				6218.7			59.6			
+35	New Mexico	ETHEPHON	2003	kg				11448.1			186.4			
+35	New Mexico	ETHEPHON	2004	kg				9396.1			55.2			
+35	New Mexico	ETHEPHON	2005	kg				15554.9						
+35	New Mexico	ETHEPHON	2006	kg				5410.3						
+35	New Mexico	ETHEPHON	2007	kg				12250.3						
+35	New Mexico	ETHEPHON	2008	kg				3891.5						
+35	New Mexico	ETHEPHON	2009	kg				7172.6			18.1			
+35	New Mexico	ETHEPHON	2010	kg				16038.4			98.7			
+35	New Mexico	ETHEPHON	2011	kg				9193.6						
+35	New Mexico	ETHEPHON	2012	kg				4794.2						
+35	New Mexico	ETHEPHON	2013	kg				5642.7			42.4			
+35	New Mexico	ETHEPHON	2014	kg				6471			128.6			
+35	New Mexico	ETHEPHON	2015	kg				12352.9						
+35	New Mexico	ETHEPHON	2016	kg				9290.6						
+35	New Mexico	ETHEPHON	2017	kg				10949.5						
+36	New York	ETHEPHON	1992	kg					381.2		514.9			
+36	New York	ETHEPHON	1993	kg					162.7		276.1			
+36	New York	ETHEPHON	1994	kg					170.6		479			
+36	New York	ETHEPHON	1995	kg					886.9		191.2			
+36	New York	ETHEPHON	1996	kg					69		1083			
+36	New York	ETHEPHON	1997	kg					96		573.4			
+36	New York	ETHEPHON	1998	kg					59.6		521.8			
+36	New York	ETHEPHON	1999	kg							330.9			
+36	New York	ETHEPHON	2000	kg							578.7			
+36	New York	ETHEPHON	2001	kg							445.6			
+36	New York	ETHEPHON	2002	kg							155.4			
+36	New York	ETHEPHON	2003	kg							319.9			
+36	New York	ETHEPHON	2004	kg							27.1			
+36	New York	ETHEPHON	2005	kg							215.8			
+36	New York	ETHEPHON	2006	kg							869			
+36	New York	ETHEPHON	2008	kg							21.3			
+36	New York	ETHEPHON	2009	kg							480.6			
+36	New York	ETHEPHON	2010	kg							232.1			
+36	New York	ETHEPHON	2011	kg							1692			
+36	New York	ETHEPHON	2012	kg							4984.4			
+36	New York	ETHEPHON	2013	kg							3010.6			
+36	New York	ETHEPHON	2014	kg							422.5			
+37	North Carolina	ETHEPHON	1992	kg			2120.2	15729.1			1018.4			5338.8
+37	North Carolina	ETHEPHON	1993	kg			1294	16213.5			384.6			11837.7
+37	North Carolina	ETHEPHON	1994	kg				184811.5			4244.2			14193.8
+37	North Carolina	ETHEPHON	1995	kg				57147.6			378.5			27641
+37	North Carolina	ETHEPHON	1996	kg				88579.3			44.5			16848.7
+37	North Carolina	ETHEPHON	1997	kg				55239.4			231.8			19568.1
+37	North Carolina	ETHEPHON	1998	kg				231043.9			21.9			15326.7
+37	North Carolina	ETHEPHON	1999	kg				304667.6						7822.8
+37	North Carolina	ETHEPHON	2000	kg				361801.3			114.1			4436.9
+37	North Carolina	ETHEPHON	2001	kg				391371.1			13.2			7599.8
+37	North Carolina	ETHEPHON	2002	kg				409432.4			20.2			5936.2
+37	North Carolina	ETHEPHON	2003	kg				296228.9			983.3			4026.9
+37	North Carolina	ETHEPHON	2004	kg				356911.3			175.5			6821.2
+37	North Carolina	ETHEPHON	2005	kg				256469.8			102.9			5712
+37	North Carolina	ETHEPHON	2006	kg				325614.8			151.1			2011.4
+37	North Carolina	ETHEPHON	2007	kg				152034.4			2516			5884.6
+37	North Carolina	ETHEPHON	2008	kg				179666.2			197.9			996.8
+37	North Carolina	ETHEPHON	2009	kg				189761.8			75.9			2420.8
+37	North Carolina	ETHEPHON	2010	kg				271909.9			128.9			5514.3
+37	North Carolina	ETHEPHON	2011	kg				426694.6						10908.7
+37	North Carolina	ETHEPHON	2012	kg				361496.5			260.5			19882.4
+37	North Carolina	ETHEPHON	2013	kg				232079.1			308.9			5567.1
+37	North Carolina	ETHEPHON	2014	kg				238748.6			39.3			15907
+37	North Carolina	ETHEPHON	2015	kg				208860.7			562.9			11002.1
+37	North Carolina	ETHEPHON	2016	kg				139260.1			186.5			4757.3
+37	North Carolina	ETHEPHON	2017	kg				174843.2						13742
+38	North Dakota	ETHEPHON	1992	kg			196.1							49.2
+38	North Dakota	ETHEPHON	1993	kg			1143.9							315.6
+38	North Dakota	ETHEPHON	1995	kg			210.3							810.6
+38	North Dakota	ETHEPHON	1997	kg			4364.4							
+39	Ohio	ETHEPHON	1992	kg			485.9		2480.4		93.2			
+39	Ohio	ETHEPHON	1993	kg					2291.1		264.7			
+39	Ohio	ETHEPHON	1994	kg					3802.4		31.5			
+39	Ohio	ETHEPHON	1995	kg					2295.3		22.7			
+39	Ohio	ETHEPHON	1996	kg					2592.7		5.2			
+39	Ohio	ETHEPHON	1997	kg					3141.1		18.4			
+39	Ohio	ETHEPHON	1998	kg					1619.4		10.6			
+39	Ohio	ETHEPHON	1999	kg					1175.3		34.5			
+39	Ohio	ETHEPHON	2000	kg					972.5		3.4			
+39	Ohio	ETHEPHON	2001	kg					700.5		12.3			
+39	Ohio	ETHEPHON	2002	kg					2381.1		2.5			
+39	Ohio	ETHEPHON	2003	kg					1189.8		14.2			
+39	Ohio	ETHEPHON	2004	kg					1292.1		951.2			
+39	Ohio	ETHEPHON	2005	kg							5.2			
+39	Ohio	ETHEPHON	2006	kg							11.6			
+39	Ohio	ETHEPHON	2008	kg							15.7			
+39	Ohio	ETHEPHON	2009	kg							3			
+39	Ohio	ETHEPHON	2010	kg							33.5			
+39	Ohio	ETHEPHON	2012	kg							14.8			
+39	Ohio	ETHEPHON	2013	kg							15.2			
+39	Ohio	ETHEPHON	2014	kg							15.4			
+39	Ohio	ETHEPHON	2015	kg							21			
+39	Ohio	ETHEPHON	2016	kg							6.3			
+40	Oklahoma	ETHEPHON	1992	kg				2332.5						
+40	Oklahoma	ETHEPHON	1993	kg				1930.1						
+40	Oklahoma	ETHEPHON	1994	kg				9622.3						
+40	Oklahoma	ETHEPHON	1995	kg				3869.6	20					
+40	Oklahoma	ETHEPHON	1996	kg				1172.6						
+40	Oklahoma	ETHEPHON	1997	kg			107	11502.8					1057.5	
+40	Oklahoma	ETHEPHON	1998	kg				22186.4						
+40	Oklahoma	ETHEPHON	1999	kg				20820						
+40	Oklahoma	ETHEPHON	2000	kg				32993.1						
+40	Oklahoma	ETHEPHON	2001	kg				59943.5						
+40	Oklahoma	ETHEPHON	2002	kg				54655.7						
+40	Oklahoma	ETHEPHON	2003	kg				19778.4						
+40	Oklahoma	ETHEPHON	2004	kg				69208.2						
+40	Oklahoma	ETHEPHON	2005	kg				35985						
+40	Oklahoma	ETHEPHON	2006	kg				40195.7						
+40	Oklahoma	ETHEPHON	2007	kg				45763.4						
+40	Oklahoma	ETHEPHON	2008	kg				16467.2						
+40	Oklahoma	ETHEPHON	2009	kg				67625.4						
+40	Oklahoma	ETHEPHON	2010	kg				94915.8						
+40	Oklahoma	ETHEPHON	2011	kg				26694.6						
+40	Oklahoma	ETHEPHON	2012	kg				14402						
+40	Oklahoma	ETHEPHON	2013	kg				41248.1						
+40	Oklahoma	ETHEPHON	2014	kg				44524						
+40	Oklahoma	ETHEPHON	2015	kg				108952						
+40	Oklahoma	ETHEPHON	2016	kg				94781.4						
+40	Oklahoma	ETHEPHON	2017	kg				146136.3						
+41	Oregon	ETHEPHON	1992	kg			4487.7				310.2			335.9
+41	Oregon	ETHEPHON	1993	kg			589.6				763.7			234.8
+41	Oregon	ETHEPHON	1994	kg			10505.7				194.1			1901
+41	Oregon	ETHEPHON	1995	kg			2227.2				512.8			1566.3
+41	Oregon	ETHEPHON	1996	kg			2908.2				394.3			909.7
+41	Oregon	ETHEPHON	1997	kg			1043.5				762			591.5
+41	Oregon	ETHEPHON	1998	kg							163.9			
+41	Oregon	ETHEPHON	1999	kg							1805.2			
+41	Oregon	ETHEPHON	2000	kg							300.7			
+41	Oregon	ETHEPHON	2001	kg							448.9			
+41	Oregon	ETHEPHON	2002	kg							722.9			
+41	Oregon	ETHEPHON	2003	kg							1033.2			
+41	Oregon	ETHEPHON	2004	kg							295.4			
+41	Oregon	ETHEPHON	2005	kg							642.7			
+41	Oregon	ETHEPHON	2006	kg							462.6			
+41	Oregon	ETHEPHON	2007	kg							103.6			
+41	Oregon	ETHEPHON	2008	kg							358.8			
+41	Oregon	ETHEPHON	2009	kg							123			
+41	Oregon	ETHEPHON	2010	kg							891.9			
+41	Oregon	ETHEPHON	2011	kg							154.6			
+41	Oregon	ETHEPHON	2012	kg							939.1			
+41	Oregon	ETHEPHON	2013	kg							614.3			
+41	Oregon	ETHEPHON	2014	kg							1482.9			
+41	Oregon	ETHEPHON	2015	kg							118.7			
+41	Oregon	ETHEPHON	2016	kg							126.2			
+41	Oregon	ETHEPHON	2017	kg							152.3			
+42	Pennsylvania	ETHEPHON	1992	kg			1606.4		1291.2		614.3			717.5
+42	Pennsylvania	ETHEPHON	1993	kg					551		384.6			
+42	Pennsylvania	ETHEPHON	1994	kg					245		413.4			
+42	Pennsylvania	ETHEPHON	1995	kg			3548.3		1200.3		62.5			1060.9
+42	Pennsylvania	ETHEPHON	1996	kg					134.1		176.8			
+42	Pennsylvania	ETHEPHON	1997	kg					185.4		1781.7			
+42	Pennsylvania	ETHEPHON	1998	kg					224.8		663			
+42	Pennsylvania	ETHEPHON	1999	kg							184.6			
+42	Pennsylvania	ETHEPHON	2000	kg					23.8		734.5			
+42	Pennsylvania	ETHEPHON	2001	kg							55.4			
+42	Pennsylvania	ETHEPHON	2002	kg					33.2		141.9			
+42	Pennsylvania	ETHEPHON	2003	kg					23.6		382.5			
+42	Pennsylvania	ETHEPHON	2004	kg					29.3		193.6			
+42	Pennsylvania	ETHEPHON	2005	kg							407.3			
+42	Pennsylvania	ETHEPHON	2006	kg							3285.3			
+42	Pennsylvania	ETHEPHON	2007	kg							1546.4			
+42	Pennsylvania	ETHEPHON	2008	kg							911.2			
+42	Pennsylvania	ETHEPHON	2009	kg							1270.6			
+42	Pennsylvania	ETHEPHON	2010	kg							1120.6			
+42	Pennsylvania	ETHEPHON	2011	kg							1726.4			
+42	Pennsylvania	ETHEPHON	2012	kg							3755.2			
+42	Pennsylvania	ETHEPHON	2013	kg							1479.9			
+42	Pennsylvania	ETHEPHON	2014	kg							211.3			
+42	Pennsylvania	ETHEPHON	2015	kg							177.2			
+42	Pennsylvania	ETHEPHON	2016	kg							423.1			
+44	Rhode Island	ETHEPHON	1992	kg							3.1			
+44	Rhode Island	ETHEPHON	1993	kg							1.1			
+44	Rhode Island	ETHEPHON	1994	kg							0.4			
+44	Rhode Island	ETHEPHON	1995	kg							1			
+44	Rhode Island	ETHEPHON	1996	kg							1.8			
+44	Rhode Island	ETHEPHON	1997	kg							7.8			
+44	Rhode Island	ETHEPHON	1998	kg							1.3			
+44	Rhode Island	ETHEPHON	1999	kg							2.3			
+44	Rhode Island	ETHEPHON	2000	kg							0.8			
+44	Rhode Island	ETHEPHON	2001	kg							1.4			
+44	Rhode Island	ETHEPHON	2002	kg							1.6			
+44	Rhode Island	ETHEPHON	2003	kg							2.8			
+44	Rhode Island	ETHEPHON	2004	kg							0.2			
+44	Rhode Island	ETHEPHON	2005	kg							3.2			
+44	Rhode Island	ETHEPHON	2006	kg							7			
+44	Rhode Island	ETHEPHON	2008	kg							0.3			
+44	Rhode Island	ETHEPHON	2009	kg							11			
+44	Rhode Island	ETHEPHON	2010	kg							10			
+44	Rhode Island	ETHEPHON	2011	kg							12.6			
+44	Rhode Island	ETHEPHON	2012	kg							27.6			
+44	Rhode Island	ETHEPHON	2013	kg							16.1			
+44	Rhode Island	ETHEPHON	2014	kg							2.1			
+45	South Carolina	ETHEPHON	1992	kg				2019.3			179.4			1732.6
+45	South Carolina	ETHEPHON	1993	kg			367.5	3367.5			94.4			1817.9
+45	South Carolina	ETHEPHON	1994	kg				73821.6			902			2350.9
+45	South Carolina	ETHEPHON	1995	kg				22588.4			122.2			263.5
+45	South Carolina	ETHEPHON	1996	kg				25916.8						792.7
+45	South Carolina	ETHEPHON	1997	kg				47341.5			55.9			2378.8
+45	South Carolina	ETHEPHON	1998	kg				63653.8			3.9			3532.7
+45	South Carolina	ETHEPHON	1999	kg				103897.1						3016.9
+45	South Carolina	ETHEPHON	2000	kg				116972.2			34.6			382.2
+45	South Carolina	ETHEPHON	2001	kg				112107.4			10.3			1110.3
+45	South Carolina	ETHEPHON	2002	kg				76129.4			6.6			2459.3
+45	South Carolina	ETHEPHON	2003	kg				83540			266.9			147.6
+45	South Carolina	ETHEPHON	2004	kg				85907.2						302.7
+45	South Carolina	ETHEPHON	2005	kg				130776.3			17.3			1254
+45	South Carolina	ETHEPHON	2006	kg				86351.7			17.8			133.2
+45	South Carolina	ETHEPHON	2007	kg				48477.4			160.9			8781.4
+45	South Carolina	ETHEPHON	2008	kg				35285.6			10.9			13689
+45	South Carolina	ETHEPHON	2009	kg				63414.7			4.1			2687.3
+45	South Carolina	ETHEPHON	2010	kg				74888.7						5712.2
+45	South Carolina	ETHEPHON	2011	kg				116003.9						1926.4
+45	South Carolina	ETHEPHON	2012	kg				91441.3			7.6			1440.2
+45	South Carolina	ETHEPHON	2013	kg				151930.7						424.6
+45	South Carolina	ETHEPHON	2014	kg				114200.5						1635.3
+45	South Carolina	ETHEPHON	2015	kg				113099.1			30.6			898.2
+45	South Carolina	ETHEPHON	2016	kg				112360			8.2			590.1
+45	South Carolina	ETHEPHON	2017	kg				83158.3						1503.7
+46	South Dakota	ETHEPHON	1997	kg			5228.4							
+47	Tennessee	ETHEPHON	1992	kg			228.4	2094.2	21.5		14.4			
+47	Tennessee	ETHEPHON	1993	kg				3934.5						2220.4
+47	Tennessee	ETHEPHON	1994	kg				17575.8						
+47	Tennessee	ETHEPHON	1995	kg				38399.5	37		0.1			3413.5
+47	Tennessee	ETHEPHON	1996	kg				33192.2	23		3.5			
+47	Tennessee	ETHEPHON	1997	kg				27965.7			14.9			1736.5
+47	Tennessee	ETHEPHON	1998	kg				122750.9	20.8		9.3			1078.8
+47	Tennessee	ETHEPHON	1999	kg				159304.4						5497.3
+47	Tennessee	ETHEPHON	2000	kg				191108.8	10.5		9.6			
+47	Tennessee	ETHEPHON	2001	kg				214434.2			2.5			897.3
+47	Tennessee	ETHEPHON	2002	kg				264316.9	14.4		1.5			142.8
+47	Tennessee	ETHEPHON	2003	kg				280910.9	9.4		37.1			416.9
+47	Tennessee	ETHEPHON	2004	kg				328903.6	10.8		16.5			394.2
+47	Tennessee	ETHEPHON	2005	kg				251628.9			8.2			928.1
+47	Tennessee	ETHEPHON	2006	kg				240939.9			11.6			18.5
+47	Tennessee	ETHEPHON	2007	kg				178207.7			177.4			37.5
+47	Tennessee	ETHEPHON	2008	kg				72565.7			11.7			39.8
+47	Tennessee	ETHEPHON	2009	kg				203913.2			3.7			
+47	Tennessee	ETHEPHON	2010	kg				265756.3			9.5			315.8
+47	Tennessee	ETHEPHON	2011	kg				102608.6						2485.1
+47	Tennessee	ETHEPHON	2012	kg				197213.2			14.8			1130.6
+47	Tennessee	ETHEPHON	2013	kg				185934.8			16.4			
+47	Tennessee	ETHEPHON	2014	kg				85423.2			1.9			110.1
+47	Tennessee	ETHEPHON	2015	kg				118716			26.2			291.5
+47	Tennessee	ETHEPHON	2016	kg				165734.7			8.8			39.7
+47	Tennessee	ETHEPHON	2017	kg				246010.6						496.7
+48	Texas	ETHEPHON	1992	kg				45340.6	225.1					
+48	Texas	ETHEPHON	1993	kg				30998.7						
+48	Texas	ETHEPHON	1994	kg				97264.3						415.6
+48	Texas	ETHEPHON	1995	kg				142598.1	2301.5					
+48	Texas	ETHEPHON	1996	kg				89286	391.7					
+48	Texas	ETHEPHON	1997	kg		8.6	172.6	140221.7	963.6				12702.5	
+48	Texas	ETHEPHON	1998	kg				332474.5						
+48	Texas	ETHEPHON	1999	kg				341972						0
+48	Texas	ETHEPHON	2000	kg				280246.6						
+48	Texas	ETHEPHON	2001	kg				268688.2						
+48	Texas	ETHEPHON	2002	kg				445759.2						
+48	Texas	ETHEPHON	2003	kg				410618.1						
+48	Texas	ETHEPHON	2004	kg				1068731.6						
+48	Texas	ETHEPHON	2005	kg				1148394.6						
+48	Texas	ETHEPHON	2006	kg				483418.7						
+48	Texas	ETHEPHON	2007	kg				1402691.5						
+48	Texas	ETHEPHON	2008	kg				806354.1						
+48	Texas	ETHEPHON	2009	kg				1238968.4						
+48	Texas	ETHEPHON	2010	kg				1663463						
+48	Texas	ETHEPHON	2011	kg				1082927.3						
+48	Texas	ETHEPHON	2012	kg				1140461.3						
+48	Texas	ETHEPHON	2013	kg				1253922.2						
+48	Texas	ETHEPHON	2014	kg				1370583.6						
+48	Texas	ETHEPHON	2015	kg				1533494.2						
+48	Texas	ETHEPHON	2016	kg				1758080.1						
+48	Texas	ETHEPHON	2017	kg				2231997.4						
+49	Utah	ETHEPHON	1992	kg			108.3				364.5			461.5
+49	Utah	ETHEPHON	1993	kg			463.4							301.5
+49	Utah	ETHEPHON	1994	kg			130.6				191.9			576.7
+49	Utah	ETHEPHON	1995	kg			166.8		0		292.5			2258.6
+49	Utah	ETHEPHON	1996	kg			468				161.3			2774.1
+49	Utah	ETHEPHON	1997	kg			261.3				1046.6			705
+49	Utah	ETHEPHON	1998	kg							7.1			
+49	Utah	ETHEPHON	1999	kg							91.9			
+49	Utah	ETHEPHON	2000	kg							177.6			
+49	Utah	ETHEPHON	2001	kg							167.3			
+49	Utah	ETHEPHON	2002	kg							121.5			
+49	Utah	ETHEPHON	2003	kg							356.1			
+49	Utah	ETHEPHON	2004	kg							181.1			
+49	Utah	ETHEPHON	2009	kg							24.1			
+49	Utah	ETHEPHON	2010	kg							132.1			
+49	Utah	ETHEPHON	2013	kg							59.6			
+49	Utah	ETHEPHON	2014	kg							192.5			
+50	Vermont	ETHEPHON	1992	kg							29.9			
+50	Vermont	ETHEPHON	1993	kg							10.8			
+50	Vermont	ETHEPHON	1994	kg							4.1			
+50	Vermont	ETHEPHON	1995	kg							4			
+50	Vermont	ETHEPHON	1996	kg							18.7			
+50	Vermont	ETHEPHON	1997	kg							101.3			
+50	Vermont	ETHEPHON	1998	kg							11.9			
+50	Vermont	ETHEPHON	1999	kg							23.5			
+50	Vermont	ETHEPHON	2000	kg							8.9			
+50	Vermont	ETHEPHON	2001	kg							14.4			
+50	Vermont	ETHEPHON	2002	kg							16.5			
+50	Vermont	ETHEPHON	2003	kg							27.8			
+50	Vermont	ETHEPHON	2004	kg							2			
+50	Vermont	ETHEPHON	2005	kg							28.6			
+50	Vermont	ETHEPHON	2006	kg							59.6			
+50	Vermont	ETHEPHON	2008	kg							2.5			
+50	Vermont	ETHEPHON	2009	kg							89.2			
+50	Vermont	ETHEPHON	2010	kg							80.1			
+50	Vermont	ETHEPHON	2011	kg							98			
+50	Vermont	ETHEPHON	2012	kg							208.4			
+50	Vermont	ETHEPHON	2013	kg							130.7			
+50	Vermont	ETHEPHON	2014	kg							19			
+51	Virginia	ETHEPHON	1992	kg			488.2	203.2	1186.6		45.5			525.4
+51	Virginia	ETHEPHON	1993	kg			2281.5	1194.7						946.1
+51	Virginia	ETHEPHON	1994	kg				2530.7			84.6			1591.9
+51	Virginia	ETHEPHON	1995	kg			784.3	8239.4	993.6		1085.3			8752.2
+51	Virginia	ETHEPHON	1996	kg			4076.5	8064.4			1932.9			5511.3
+51	Virginia	ETHEPHON	1997	kg				20728.6			222.3			4002.6
+51	Virginia	ETHEPHON	1998	kg				46495	893.6		299.3			1456.3
+51	Virginia	ETHEPHON	1999	kg				45959.2			254.5			1699.2
+51	Virginia	ETHEPHON	2000	kg				54180.6			131.1			2239.9
+51	Virginia	ETHEPHON	2001	kg				48177.1			637.9			6701.6
+51	Virginia	ETHEPHON	2002	kg				33842.3			69.4			16584.1
+51	Virginia	ETHEPHON	2003	kg				38425.7			397.9			632.5
+51	Virginia	ETHEPHON	2004	kg				43735.8			505.8			1954.7
+51	Virginia	ETHEPHON	2005	kg				34418.2			26.5			807
+51	Virginia	ETHEPHON	2006	kg				46819			54.9			240.5
+51	Virginia	ETHEPHON	2007	kg				25212.9						928
+51	Virginia	ETHEPHON	2008	kg				26089.1			694.5			832.8
+51	Virginia	ETHEPHON	2009	kg				33112.3			98.2			389.9
+51	Virginia	ETHEPHON	2010	kg				41826.5			168.6			1658.1
+51	Virginia	ETHEPHON	2011	kg				51340.6			58.7			471.8
+51	Virginia	ETHEPHON	2012	kg				54393.7			116.2			1249.2
+51	Virginia	ETHEPHON	2013	kg				40353			105			512.3
+51	Virginia	ETHEPHON	2014	kg				42643.6			97.2			1296.1
+51	Virginia	ETHEPHON	2015	kg				47923.1			1872.4			607.8
+51	Virginia	ETHEPHON	2016	kg				44105.4			546.6			514
+51	Virginia	ETHEPHON	2017	kg				32878.2			881.6			1282.7
+53	Washington	ETHEPHON	1992	kg			7544.2				1419.8			828.2
+53	Washington	ETHEPHON	1993	kg			1041				3307.2			983.2
+53	Washington	ETHEPHON	1994	kg			767.7				6130.6			1536.1
+53	Washington	ETHEPHON	1995	kg			13350.3				12681.3			8327.7
+53	Washington	ETHEPHON	1996	kg			9358.4				25075.3			3145.3
+53	Washington	ETHEPHON	1997	kg			14231.7				8701.7			8999.5
+53	Washington	ETHEPHON	1998	kg							8593.1			
+53	Washington	ETHEPHON	1999	kg							8388.7			
+53	Washington	ETHEPHON	2000	kg							8431.6			
+53	Washington	ETHEPHON	2001	kg							10060.8			
+53	Washington	ETHEPHON	2002	kg							10301.7			
+53	Washington	ETHEPHON	2003	kg							10628.2			
+53	Washington	ETHEPHON	2004	kg							14404.8			
+53	Washington	ETHEPHON	2005	kg							12752.2			
+53	Washington	ETHEPHON	2006	kg							11565.2			
+53	Washington	ETHEPHON	2007	kg							7141.2			
+53	Washington	ETHEPHON	2008	kg							10232.6			
+53	Washington	ETHEPHON	2009	kg							6438.7			
+53	Washington	ETHEPHON	2010	kg							6531.2			
+53	Washington	ETHEPHON	2011	kg							8237			
+53	Washington	ETHEPHON	2012	kg							6634.7			
+53	Washington	ETHEPHON	2013	kg							5481.8			
+53	Washington	ETHEPHON	2014	kg							18925.3			
+53	Washington	ETHEPHON	2015	kg							15871.8			
+53	Washington	ETHEPHON	2016	kg							6705.4			
+53	Washington	ETHEPHON	2017	kg							4788.6			
+54	West Virginia	ETHEPHON	1992	kg					18.5		195.2			
+54	West Virginia	ETHEPHON	1993	kg										15.9
+54	West Virginia	ETHEPHON	1994	kg							44.4			
+54	West Virginia	ETHEPHON	1995	kg			329.5		38.5		404.7			244.2
+54	West Virginia	ETHEPHON	1996	kg					8.4		65.2			
+54	West Virginia	ETHEPHON	1997	kg							124.5			242
+54	West Virginia	ETHEPHON	1998	kg					30.1		198.3			66.3
+54	West Virginia	ETHEPHON	1999	kg							80.3			
+54	West Virginia	ETHEPHON	2000	kg					14.4		48.6			
+54	West Virginia	ETHEPHON	2001	kg							10			148.9
+54	West Virginia	ETHEPHON	2002	kg					17.9		66.1			270.5
+54	West Virginia	ETHEPHON	2003	kg					12		466.2			26.4
+54	West Virginia	ETHEPHON	2004	kg					7.2		159.9			43
+54	West Virginia	ETHEPHON	2005	kg							11.3			50.2
+54	West Virginia	ETHEPHON	2006	kg							169.6			
+54	West Virginia	ETHEPHON	2007	kg										8.4
+54	West Virginia	ETHEPHON	2008	kg							317.7			2
+54	West Virginia	ETHEPHON	2009	kg							35.8			
+54	West Virginia	ETHEPHON	2010	kg							63.7			11.7
+54	West Virginia	ETHEPHON	2011	kg							19			
+54	West Virginia	ETHEPHON	2012	kg							121.3			18.3
+54	West Virginia	ETHEPHON	2013	kg							288.8			
+54	West Virginia	ETHEPHON	2014	kg							34.1			
+54	West Virginia	ETHEPHON	2015	kg							598.2			4.1
+54	West Virginia	ETHEPHON	2016	kg							157.7			1.1
+54	West Virginia	ETHEPHON	2017	kg							155.4			
+55	Wisconsin	ETHEPHON	1992	kg							93.8			
+55	Wisconsin	ETHEPHON	1993	kg							780.9			
+55	Wisconsin	ETHEPHON	1994	kg							84.5			
+55	Wisconsin	ETHEPHON	1995	kg			47.3				183.2			
+55	Wisconsin	ETHEPHON	1996	kg							15.6			
+55	Wisconsin	ETHEPHON	1997	kg							144			747.1
+55	Wisconsin	ETHEPHON	1998	kg							211			
+55	Wisconsin	ETHEPHON	1999	kg							156.2			
+55	Wisconsin	ETHEPHON	2000	kg							144			
+55	Wisconsin	ETHEPHON	2001	kg							209.3			
+55	Wisconsin	ETHEPHON	2002	kg							119.4			
+55	Wisconsin	ETHEPHON	2003	kg							117.5			
+55	Wisconsin	ETHEPHON	2004	kg							1430.5			
+55	Wisconsin	ETHEPHON	2005	kg							186.4			
+55	Wisconsin	ETHEPHON	2006	kg							146.8			
+55	Wisconsin	ETHEPHON	2007	kg							147.6			
+55	Wisconsin	ETHEPHON	2008	kg							124.8			
+55	Wisconsin	ETHEPHON	2009	kg							167.6			
+55	Wisconsin	ETHEPHON	2010	kg							194.4			
+55	Wisconsin	ETHEPHON	2011	kg							208.3			
+55	Wisconsin	ETHEPHON	2012	kg							109.5			
+55	Wisconsin	ETHEPHON	2013	kg							191.6			
+55	Wisconsin	ETHEPHON	2014	kg							169.5			
+55	Wisconsin	ETHEPHON	2015	kg							136.3			
+55	Wisconsin	ETHEPHON	2016	kg							119.5			
+55	Wisconsin	ETHEPHON	2017	kg							78.6			
+56	Wyoming	ETHEPHON	1992	kg			0.3							58.4
+56	Wyoming	ETHEPHON	1993	kg			1							28.1
+56	Wyoming	ETHEPHON	1994	kg			0.3							48.1
+56	Wyoming	ETHEPHON	1995	kg			0.3							206.7
+56	Wyoming	ETHEPHON	1996	kg			1.9							222.1
+56	Wyoming	ETHEPHON	1997	kg			2							71.8

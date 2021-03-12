@@ -1,0 +1,27 @@
+06	California	KINOPRENE	1992	kg							154.7			
+06	California	KINOPRENE	1993	kg							139.8			
+06	California	KINOPRENE	1994	kg							148.1			
+06	California	KINOPRENE	1995	kg							114.2			
+06	California	KINOPRENE	1996	kg							90.4			
+06	California	KINOPRENE	1997	kg							111.9			
+06	California	KINOPRENE	1998	kg							66.7			
+06	California	KINOPRENE	1999	kg					0		58.9			
+06	California	KINOPRENE	2000	kg					0.1		35.5			
+06	California	KINOPRENE	2001	kg							45.5			
+06	California	KINOPRENE	2002	kg							51.2			
+06	California	KINOPRENE	2003	kg							15.9			
+06	California	KINOPRENE	2004	kg							26.4			
+06	California	KINOPRENE	2005	kg							18.2			
+06	California	KINOPRENE	2006	kg							20.4			
+06	California	KINOPRENE	2007	kg							18.5			
+06	California	KINOPRENE	2008	kg							21			
+06	California	KINOPRENE	2009	kg					0		13.9			0
+06	California	KINOPRENE	2010	kg							23.3			
+06	California	KINOPRENE	2011	kg							21.5			
+06	California	KINOPRENE	2012	kg					0		15.1			
+06	California	KINOPRENE	2013	kg							42.1			
+06	California	KINOPRENE	2014	kg							49.3			
+06	California	KINOPRENE	2015	kg			0				72.7			
+06	California	KINOPRENE	2016	kg							30.2			
+06	California	KINOPRENE	2017	kg							33.5			0
+12	Florida	KINOPRENE	1992	kg					2.9					

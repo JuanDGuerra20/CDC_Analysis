@@ -1,0 +1,591 @@
+04	Arizona	AVIGLYCINE	1997	kg							0			
+06	California	AVIGLYCINE	1998	kg							3.7			
+06	California	AVIGLYCINE	1999	kg										0.6
+06	California	AVIGLYCINE	2000	kg							0			
+06	California	AVIGLYCINE	2001	kg							0.3			
+06	California	AVIGLYCINE	2002	kg							0.4			
+06	California	AVIGLYCINE	2005	kg							10.9			
+06	California	AVIGLYCINE	2006	kg							315.2			
+06	California	AVIGLYCINE	2007	kg					3.9		432.1			
+06	California	AVIGLYCINE	2008	kg					1.4		485.3			
+06	California	AVIGLYCINE	2009	kg					11.7		233.1			
+06	California	AVIGLYCINE	2010	kg					67.3		396.7			
+06	California	AVIGLYCINE	2011	kg			1.5		57.2		480.7			
+06	California	AVIGLYCINE	2012	kg					17.6		595			
+06	California	AVIGLYCINE	2013	kg					7.6		647.7			
+06	California	AVIGLYCINE	2014	kg					7.5		788.6			
+06	California	AVIGLYCINE	2015	kg					33.4		868.4			
+06	California	AVIGLYCINE	2016	kg					32.1		589.9			
+06	California	AVIGLYCINE	2017	kg					32.9		551.9			
+08	Colorado	AVIGLYCINE	1997	kg							1.4			
+09	Connecticut	AVIGLYCINE	1997	kg							0.1			
+09	Connecticut	AVIGLYCINE	1998	kg							0.7			
+09	Connecticut	AVIGLYCINE	1999	kg							22.9			
+09	Connecticut	AVIGLYCINE	2000	kg							9			
+09	Connecticut	AVIGLYCINE	2001	kg							9			
+09	Connecticut	AVIGLYCINE	2002	kg							10.1			
+09	Connecticut	AVIGLYCINE	2003	kg							7.6			
+09	Connecticut	AVIGLYCINE	2004	kg							10.4			
+09	Connecticut	AVIGLYCINE	2005	kg							13.8			
+09	Connecticut	AVIGLYCINE	2006	kg							15.6			
+09	Connecticut	AVIGLYCINE	2007	kg							36.1			
+09	Connecticut	AVIGLYCINE	2008	kg							27.8			
+09	Connecticut	AVIGLYCINE	2009	kg							9.6			
+09	Connecticut	AVIGLYCINE	2010	kg							26.2			
+09	Connecticut	AVIGLYCINE	2011	kg							28.6			
+09	Connecticut	AVIGLYCINE	2012	kg							5.5			
+09	Connecticut	AVIGLYCINE	2013	kg							37.7			
+09	Connecticut	AVIGLYCINE	2014	kg							71.7			
+09	Connecticut	AVIGLYCINE	2015	kg							90			
+09	Connecticut	AVIGLYCINE	2016	kg							86.8			
+09	Connecticut	AVIGLYCINE	2017	kg							20.7			
+10	Delaware	AVIGLYCINE	1997	kg							0			
+10	Delaware	AVIGLYCINE	1998	kg							0			
+10	Delaware	AVIGLYCINE	1999	kg							0			
+10	Delaware	AVIGLYCINE	2000	kg							0			
+10	Delaware	AVIGLYCINE	2001	kg							0			
+10	Delaware	AVIGLYCINE	2002	kg							0			
+10	Delaware	AVIGLYCINE	2003	kg							0			
+10	Delaware	AVIGLYCINE	2004	kg							0			
+10	Delaware	AVIGLYCINE	2005	kg							0			
+10	Delaware	AVIGLYCINE	2006	kg							0			
+13	Georgia	AVIGLYCINE	1997	kg							7.4			
+13	Georgia	AVIGLYCINE	1998	kg							1.6			
+13	Georgia	AVIGLYCINE	1999	kg							1.1			
+13	Georgia	AVIGLYCINE	2000	kg							2.9			
+13	Georgia	AVIGLYCINE	2001	kg							1.3			
+13	Georgia	AVIGLYCINE	2002	kg							1.4			
+13	Georgia	AVIGLYCINE	2003	kg							2.8			
+13	Georgia	AVIGLYCINE	2004	kg							1.4			
+13	Georgia	AVIGLYCINE	2005	kg							0.7			
+13	Georgia	AVIGLYCINE	2006	kg							6.1			
+13	Georgia	AVIGLYCINE	2007	kg							24			
+13	Georgia	AVIGLYCINE	2008	kg							2.1			
+13	Georgia	AVIGLYCINE	2009	kg							1.9			
+13	Georgia	AVIGLYCINE	2010	kg							0.2			
+13	Georgia	AVIGLYCINE	2011	kg							1.3			
+13	Georgia	AVIGLYCINE	2012	kg							0.2			
+13	Georgia	AVIGLYCINE	2013	kg							0.9			
+13	Georgia	AVIGLYCINE	2014	kg							0			
+13	Georgia	AVIGLYCINE	2015	kg							0.6			
+13	Georgia	AVIGLYCINE	2017	kg							5.6			
+16	Idaho	AVIGLYCINE	1997	kg							2.6			
+16	Idaho	AVIGLYCINE	1998	kg							34.8			
+16	Idaho	AVIGLYCINE	1999	kg							1.5			
+16	Idaho	AVIGLYCINE	2000	kg							6.3			
+16	Idaho	AVIGLYCINE	2001	kg							31.9			
+16	Idaho	AVIGLYCINE	2002	kg							3			
+16	Idaho	AVIGLYCINE	2003	kg							20.4			
+16	Idaho	AVIGLYCINE	2004	kg							11.2			
+16	Idaho	AVIGLYCINE	2005	kg							12.5			
+16	Idaho	AVIGLYCINE	2006	kg							8.9			
+16	Idaho	AVIGLYCINE	2007	kg							9			
+16	Idaho	AVIGLYCINE	2008	kg							16			
+16	Idaho	AVIGLYCINE	2009	kg							4.1			
+16	Idaho	AVIGLYCINE	2010	kg							24.9			
+16	Idaho	AVIGLYCINE	2011	kg							12.5			
+16	Idaho	AVIGLYCINE	2012	kg							15.6			
+16	Idaho	AVIGLYCINE	2013	kg							13.7			
+16	Idaho	AVIGLYCINE	2014	kg							20.4			
+16	Idaho	AVIGLYCINE	2015	kg							38.2			
+16	Idaho	AVIGLYCINE	2016	kg							2			
+16	Idaho	AVIGLYCINE	2017	kg							37.5			
+17	Illinois	AVIGLYCINE	1997	kg							111.9			
+17	Illinois	AVIGLYCINE	1998	kg							92.4			
+17	Illinois	AVIGLYCINE	1999	kg							24.6			
+17	Illinois	AVIGLYCINE	2000	kg							15.9			
+17	Illinois	AVIGLYCINE	2001	kg							16			
+17	Illinois	AVIGLYCINE	2002	kg							4.6			
+17	Illinois	AVIGLYCINE	2003	kg							7.1			
+17	Illinois	AVIGLYCINE	2004	kg							5.1			
+17	Illinois	AVIGLYCINE	2006	kg							9.4			
+17	Illinois	AVIGLYCINE	2013	kg							3.1			
+17	Illinois	AVIGLYCINE	2015	kg							0.9			
+18	Indiana	AVIGLYCINE	1998	kg							19.2			
+18	Indiana	AVIGLYCINE	1999	kg							1.6			
+18	Indiana	AVIGLYCINE	2000	kg							0.9			
+18	Indiana	AVIGLYCINE	2001	kg							11.3			
+18	Indiana	AVIGLYCINE	2002	kg							2.8			
+18	Indiana	AVIGLYCINE	2003	kg							0.9			
+18	Indiana	AVIGLYCINE	2004	kg							2			
+18	Indiana	AVIGLYCINE	2005	kg							3.6			
+18	Indiana	AVIGLYCINE	2006	kg							5.2			
+18	Indiana	AVIGLYCINE	2007	kg							1.6			
+18	Indiana	AVIGLYCINE	2008	kg							1.8			
+18	Indiana	AVIGLYCINE	2009	kg							5.6			
+18	Indiana	AVIGLYCINE	2010	kg							1.2			
+18	Indiana	AVIGLYCINE	2011	kg							7.8			
+18	Indiana	AVIGLYCINE	2012	kg							1.2			
+18	Indiana	AVIGLYCINE	2013	kg							9.5			
+18	Indiana	AVIGLYCINE	2014	kg							4.1			
+18	Indiana	AVIGLYCINE	2015	kg							0.3			
+18	Indiana	AVIGLYCINE	2016	kg							5.3			
+18	Indiana	AVIGLYCINE	2017	kg							9.6			
+19	Iowa	AVIGLYCINE	1998	kg							24.3			
+19	Iowa	AVIGLYCINE	1999	kg							8.8			
+19	Iowa	AVIGLYCINE	2000	kg							4.8			
+19	Iowa	AVIGLYCINE	2001	kg							10.4			
+19	Iowa	AVIGLYCINE	2002	kg							0.3			
+19	Iowa	AVIGLYCINE	2003	kg							0.7			
+19	Iowa	AVIGLYCINE	2004	kg							0.4			
+19	Iowa	AVIGLYCINE	2006	kg							1			
+19	Iowa	AVIGLYCINE	2013	kg							0.1			
+19	Iowa	AVIGLYCINE	2015	kg							0.1			
+20	Kansas	AVIGLYCINE	1998	kg							0.1			
+20	Kansas	AVIGLYCINE	1999	kg							0			
+20	Kansas	AVIGLYCINE	2000	kg							0.6			
+21	Kentucky	AVIGLYCINE	1997	kg							0.9			
+21	Kentucky	AVIGLYCINE	1998	kg							0.3			
+21	Kentucky	AVIGLYCINE	1999	kg							1.2			
+21	Kentucky	AVIGLYCINE	2000	kg							1.2			
+21	Kentucky	AVIGLYCINE	2001	kg							0.7			
+21	Kentucky	AVIGLYCINE	2002	kg							1.7			
+21	Kentucky	AVIGLYCINE	2003	kg							0			
+21	Kentucky	AVIGLYCINE	2004	kg							0.7			
+21	Kentucky	AVIGLYCINE	2005	kg							0.3			
+21	Kentucky	AVIGLYCINE	2006	kg							2.9			
+21	Kentucky	AVIGLYCINE	2007	kg							0.9			
+21	Kentucky	AVIGLYCINE	2008	kg							1			
+21	Kentucky	AVIGLYCINE	2009	kg							0.8			
+21	Kentucky	AVIGLYCINE	2010	kg							0			
+21	Kentucky	AVIGLYCINE	2011	kg							1.9			
+21	Kentucky	AVIGLYCINE	2012	kg							0.4			
+21	Kentucky	AVIGLYCINE	2013	kg							0.6			
+21	Kentucky	AVIGLYCINE	2014	kg							1.1			
+21	Kentucky	AVIGLYCINE	2015	kg							0.4			
+21	Kentucky	AVIGLYCINE	2017	kg							1.1			
+23	Maine	AVIGLYCINE	1997	kg							15.1			
+23	Maine	AVIGLYCINE	1998	kg							10.1			
+23	Maine	AVIGLYCINE	1999	kg							17.7			
+23	Maine	AVIGLYCINE	2000	kg							17.7			
+23	Maine	AVIGLYCINE	2001	kg							2.6			
+23	Maine	AVIGLYCINE	2002	kg							83.9			
+23	Maine	AVIGLYCINE	2003	kg							19.3			
+23	Maine	AVIGLYCINE	2004	kg							1.6			
+23	Maine	AVIGLYCINE	2005	kg							16.9			
+23	Maine	AVIGLYCINE	2006	kg							20.1			
+23	Maine	AVIGLYCINE	2007	kg							12.2			
+23	Maine	AVIGLYCINE	2008	kg							22.3			
+23	Maine	AVIGLYCINE	2009	kg							18.7			
+23	Maine	AVIGLYCINE	2010	kg							19.2			
+23	Maine	AVIGLYCINE	2011	kg							29.1			
+23	Maine	AVIGLYCINE	2012	kg							9.9			
+23	Maine	AVIGLYCINE	2013	kg							24.6			
+23	Maine	AVIGLYCINE	2014	kg							43.9			
+23	Maine	AVIGLYCINE	2015	kg							32.4			
+23	Maine	AVIGLYCINE	2016	kg							81.2			
+23	Maine	AVIGLYCINE	2017	kg							45.5			
+24	Maryland	AVIGLYCINE	1997	kg							25.7			
+24	Maryland	AVIGLYCINE	1998	kg							4.6			
+24	Maryland	AVIGLYCINE	1999	kg							33			
+24	Maryland	AVIGLYCINE	2000	kg							4.1			
+24	Maryland	AVIGLYCINE	2001	kg							11.8			
+24	Maryland	AVIGLYCINE	2002	kg							9.2			
+24	Maryland	AVIGLYCINE	2003	kg							9.8			
+24	Maryland	AVIGLYCINE	2004	kg							4			
+24	Maryland	AVIGLYCINE	2005	kg							1.9			
+24	Maryland	AVIGLYCINE	2006	kg							14.6			
+24	Maryland	AVIGLYCINE	2007	kg							5.5			
+24	Maryland	AVIGLYCINE	2008	kg							9.1			
+24	Maryland	AVIGLYCINE	2009	kg							2.7			
+24	Maryland	AVIGLYCINE	2010	kg							5.3			
+24	Maryland	AVIGLYCINE	2011	kg							2.6			
+24	Maryland	AVIGLYCINE	2012	kg							14.7			
+24	Maryland	AVIGLYCINE	2013	kg							7.9			
+24	Maryland	AVIGLYCINE	2014	kg							14.1			
+24	Maryland	AVIGLYCINE	2015	kg							7.9			
+24	Maryland	AVIGLYCINE	2016	kg							4.3			
+24	Maryland	AVIGLYCINE	2017	kg							19.1			
+25	Massachusetts	AVIGLYCINE	1997	kg							16.9			
+25	Massachusetts	AVIGLYCINE	1998	kg							2.6			
+25	Massachusetts	AVIGLYCINE	1999	kg							48.9			
+25	Massachusetts	AVIGLYCINE	2000	kg							30.4			
+25	Massachusetts	AVIGLYCINE	2001	kg							18.9			
+25	Massachusetts	AVIGLYCINE	2002	kg							37.2			
+25	Massachusetts	AVIGLYCINE	2003	kg							27.6			
+25	Massachusetts	AVIGLYCINE	2004	kg							28.5			
+25	Massachusetts	AVIGLYCINE	2005	kg							14.9			
+25	Massachusetts	AVIGLYCINE	2006	kg							27.9			
+25	Massachusetts	AVIGLYCINE	2007	kg							40.8			
+25	Massachusetts	AVIGLYCINE	2008	kg							44.9			
+25	Massachusetts	AVIGLYCINE	2009	kg							26.8			
+25	Massachusetts	AVIGLYCINE	2010	kg							25.1			
+25	Massachusetts	AVIGLYCINE	2011	kg							51.9			
+25	Massachusetts	AVIGLYCINE	2012	kg							8.8			
+25	Massachusetts	AVIGLYCINE	2013	kg							62.3			
+25	Massachusetts	AVIGLYCINE	2014	kg							117.4			
+25	Massachusetts	AVIGLYCINE	2015	kg							158.7			
+25	Massachusetts	AVIGLYCINE	2016	kg							158			
+25	Massachusetts	AVIGLYCINE	2017	kg							38.9			
+26	Michigan	AVIGLYCINE	1997	kg							157.3			
+26	Michigan	AVIGLYCINE	1998	kg							48.5			
+26	Michigan	AVIGLYCINE	1999	kg							55.4			
+26	Michigan	AVIGLYCINE	2000	kg							55.9			
+26	Michigan	AVIGLYCINE	2001	kg							132.2			
+26	Michigan	AVIGLYCINE	2002	kg							225			
+26	Michigan	AVIGLYCINE	2003	kg							34.5			
+26	Michigan	AVIGLYCINE	2004	kg							72			
+26	Michigan	AVIGLYCINE	2005	kg							200.9			
+26	Michigan	AVIGLYCINE	2006	kg							188.8			
+26	Michigan	AVIGLYCINE	2007	kg							94.4			
+26	Michigan	AVIGLYCINE	2008	kg							86.2			
+26	Michigan	AVIGLYCINE	2009	kg							282.8			
+26	Michigan	AVIGLYCINE	2010	kg							68.2			
+26	Michigan	AVIGLYCINE	2011	kg							602.6			
+26	Michigan	AVIGLYCINE	2012	kg							120.5			
+26	Michigan	AVIGLYCINE	2013	kg							527.4			
+26	Michigan	AVIGLYCINE	2014	kg							363.9			
+26	Michigan	AVIGLYCINE	2015	kg							71.1			
+26	Michigan	AVIGLYCINE	2016	kg							746.8			
+26	Michigan	AVIGLYCINE	2017	kg							816.6			
+27	Minnesota	AVIGLYCINE	1997	kg							1.9			
+27	Minnesota	AVIGLYCINE	1998	kg							16.1			
+27	Minnesota	AVIGLYCINE	1999	kg							2.2			
+27	Minnesota	AVIGLYCINE	2000	kg							2.5			
+27	Minnesota	AVIGLYCINE	2001	kg							6.8			
+27	Minnesota	AVIGLYCINE	2002	kg							8.3			
+27	Minnesota	AVIGLYCINE	2003	kg							14.1			
+27	Minnesota	AVIGLYCINE	2004	kg							2.4			
+27	Minnesota	AVIGLYCINE	2005	kg							0.6			
+27	Minnesota	AVIGLYCINE	2006	kg							5.1			
+27	Minnesota	AVIGLYCINE	2007	kg							1.1			
+27	Minnesota	AVIGLYCINE	2008	kg							0.4			
+27	Minnesota	AVIGLYCINE	2009	kg							2.7			
+27	Minnesota	AVIGLYCINE	2010	kg							1.2			
+27	Minnesota	AVIGLYCINE	2011	kg							8.8			
+27	Minnesota	AVIGLYCINE	2012	kg							1.1			
+27	Minnesota	AVIGLYCINE	2013	kg							6.1			
+27	Minnesota	AVIGLYCINE	2014	kg							4.5			
+27	Minnesota	AVIGLYCINE	2015	kg							1.9			
+27	Minnesota	AVIGLYCINE	2016	kg							4.8			
+27	Minnesota	AVIGLYCINE	2017	kg							10.2			
+29	Missouri	AVIGLYCINE	1997	kg							18.3			
+29	Missouri	AVIGLYCINE	1998	kg							9.6			
+29	Missouri	AVIGLYCINE	1999	kg							2.5			
+29	Missouri	AVIGLYCINE	2000	kg							8			
+29	Missouri	AVIGLYCINE	2001	kg							11.3			
+29	Missouri	AVIGLYCINE	2002	kg							2.7			
+29	Missouri	AVIGLYCINE	2003	kg							3.6			
+29	Missouri	AVIGLYCINE	2004	kg							2.9			
+29	Missouri	AVIGLYCINE	2006	kg							5.3			
+29	Missouri	AVIGLYCINE	2013	kg							1.8			
+29	Missouri	AVIGLYCINE	2015	kg							0.2			
+32	Nevada	AVIGLYCINE	1999	kg							0			
+32	Nevada	AVIGLYCINE	2000	kg							0			
+32	Nevada	AVIGLYCINE	2001	kg							0.3			
+32	Nevada	AVIGLYCINE	2002	kg							0			
+32	Nevada	AVIGLYCINE	2003	kg							0.2			
+32	Nevada	AVIGLYCINE	2004	kg							0			
+32	Nevada	AVIGLYCINE	2006	kg							0			
+32	Nevada	AVIGLYCINE	2009	kg							0.3			
+33	New Hampshire	AVIGLYCINE	1997	kg							28.2			
+33	New Hampshire	AVIGLYCINE	1998	kg							3.5			
+33	New Hampshire	AVIGLYCINE	1999	kg							16.8			
+33	New Hampshire	AVIGLYCINE	2000	kg							10			
+33	New Hampshire	AVIGLYCINE	2001	kg							5.3			
+33	New Hampshire	AVIGLYCINE	2002	kg							32.8			
+33	New Hampshire	AVIGLYCINE	2003	kg							11.9			
+33	New Hampshire	AVIGLYCINE	2004	kg							7.8			
+33	New Hampshire	AVIGLYCINE	2005	kg							12.3			
+33	New Hampshire	AVIGLYCINE	2006	kg							13.8			
+33	New Hampshire	AVIGLYCINE	2007	kg							8.7			
+33	New Hampshire	AVIGLYCINE	2008	kg							23.2			
+33	New Hampshire	AVIGLYCINE	2009	kg							18			
+33	New Hampshire	AVIGLYCINE	2010	kg							10.8			
+33	New Hampshire	AVIGLYCINE	2011	kg							14.9			
+33	New Hampshire	AVIGLYCINE	2012	kg							4.5			
+33	New Hampshire	AVIGLYCINE	2013	kg							11.7			
+33	New Hampshire	AVIGLYCINE	2014	kg							21.7			
+33	New Hampshire	AVIGLYCINE	2015	kg							16.8			
+33	New Hampshire	AVIGLYCINE	2016	kg							42.9			
+33	New Hampshire	AVIGLYCINE	2017	kg							24.8			
+34	New Jersey	AVIGLYCINE	1997	kg							6.6			
+34	New Jersey	AVIGLYCINE	1998	kg							8.6			
+34	New Jersey	AVIGLYCINE	1999	kg							10.1			
+34	New Jersey	AVIGLYCINE	2000	kg							3.3			
+34	New Jersey	AVIGLYCINE	2001	kg							18.7			
+34	New Jersey	AVIGLYCINE	2002	kg							12.8			
+34	New Jersey	AVIGLYCINE	2003	kg							8.7			
+34	New Jersey	AVIGLYCINE	2004	kg							5.7			
+34	New Jersey	AVIGLYCINE	2005	kg							12.3			
+34	New Jersey	AVIGLYCINE	2006	kg							17.2			
+34	New Jersey	AVIGLYCINE	2007	kg							18.2			
+34	New Jersey	AVIGLYCINE	2008	kg							17.6			
+34	New Jersey	AVIGLYCINE	2009	kg							9.7			
+34	New Jersey	AVIGLYCINE	2010	kg							24.9			
+34	New Jersey	AVIGLYCINE	2011	kg							8.4			
+34	New Jersey	AVIGLYCINE	2012	kg							12.1			
+34	New Jersey	AVIGLYCINE	2013	kg							21.1			
+34	New Jersey	AVIGLYCINE	2014	kg							26.8			
+34	New Jersey	AVIGLYCINE	2015	kg							8.2			
+34	New Jersey	AVIGLYCINE	2016	kg							72.6			
+34	New Jersey	AVIGLYCINE	2017	kg							38.4			
+35	New Mexico	AVIGLYCINE	1997	kg							0			
+36	New York	AVIGLYCINE	1997	kg							163.9			
+36	New York	AVIGLYCINE	1998	kg							143.9			
+36	New York	AVIGLYCINE	1999	kg							70.2			
+36	New York	AVIGLYCINE	2000	kg							165.2			
+36	New York	AVIGLYCINE	2001	kg							106.1			
+36	New York	AVIGLYCINE	2002	kg							512.3			
+36	New York	AVIGLYCINE	2003	kg							74.7			
+36	New York	AVIGLYCINE	2004	kg							56.6			
+36	New York	AVIGLYCINE	2005	kg							157.9			
+36	New York	AVIGLYCINE	2006	kg							490.6			
+36	New York	AVIGLYCINE	2007	kg							387.2			
+36	New York	AVIGLYCINE	2008	kg							288.7			
+36	New York	AVIGLYCINE	2009	kg							289.6			
+36	New York	AVIGLYCINE	2010	kg							247.9			
+36	New York	AVIGLYCINE	2011	kg							672.9			
+36	New York	AVIGLYCINE	2012	kg							247.4			
+36	New York	AVIGLYCINE	2013	kg							754.5			
+36	New York	AVIGLYCINE	2014	kg							989.6			
+36	New York	AVIGLYCINE	2015	kg							1065.4			
+36	New York	AVIGLYCINE	2016	kg							1814.8			
+36	New York	AVIGLYCINE	2017	kg							1262.5			
+37	North Carolina	AVIGLYCINE	1997	kg							11.1			
+37	North Carolina	AVIGLYCINE	1998	kg							12.8			
+37	North Carolina	AVIGLYCINE	1999	kg							10.9			
+37	North Carolina	AVIGLYCINE	2000	kg							43.3			
+37	North Carolina	AVIGLYCINE	2001	kg							37.7			
+37	North Carolina	AVIGLYCINE	2002	kg							11.4			
+37	North Carolina	AVIGLYCINE	2003	kg							8.4			
+37	North Carolina	AVIGLYCINE	2004	kg							12.9			
+37	North Carolina	AVIGLYCINE	2005	kg							7.8			
+37	North Carolina	AVIGLYCINE	2006	kg							61			
+37	North Carolina	AVIGLYCINE	2007	kg							278.7			
+37	North Carolina	AVIGLYCINE	2008	kg							31			
+37	North Carolina	AVIGLYCINE	2009	kg							30			
+37	North Carolina	AVIGLYCINE	2010	kg							19.1			
+37	North Carolina	AVIGLYCINE	2011	kg							30.4			
+37	North Carolina	AVIGLYCINE	2012	kg							33.4			
+37	North Carolina	AVIGLYCINE	2013	kg							8.4			
+37	North Carolina	AVIGLYCINE	2014	kg							3.3			
+37	North Carolina	AVIGLYCINE	2015	kg							10.4			
+37	North Carolina	AVIGLYCINE	2017	kg							51.9			
+39	Ohio	AVIGLYCINE	1997	kg							12.5			
+39	Ohio	AVIGLYCINE	1998	kg							13.7			
+39	Ohio	AVIGLYCINE	1999	kg							15.5			
+39	Ohio	AVIGLYCINE	2000	kg							3.9			
+39	Ohio	AVIGLYCINE	2001	kg							14.2			
+39	Ohio	AVIGLYCINE	2002	kg							17.9			
+39	Ohio	AVIGLYCINE	2003	kg							8.4			
+39	Ohio	AVIGLYCINE	2004	kg							4.2			
+39	Ohio	AVIGLYCINE	2005	kg							3.6			
+39	Ohio	AVIGLYCINE	2006	kg							18.9			
+39	Ohio	AVIGLYCINE	2007	kg							10.3			
+39	Ohio	AVIGLYCINE	2008	kg							4.9			
+39	Ohio	AVIGLYCINE	2009	kg							24.7			
+39	Ohio	AVIGLYCINE	2010	kg							18.9			
+39	Ohio	AVIGLYCINE	2011	kg							47.6			
+39	Ohio	AVIGLYCINE	2012	kg							2.4			
+39	Ohio	AVIGLYCINE	2013	kg							10.1			
+39	Ohio	AVIGLYCINE	2014	kg							16.8			
+39	Ohio	AVIGLYCINE	2015	kg							23.7			
+39	Ohio	AVIGLYCINE	2016	kg							16.8			
+39	Ohio	AVIGLYCINE	2017	kg							40			
+41	Oregon	AVIGLYCINE	1997	kg							5.4			
+41	Oregon	AVIGLYCINE	1998	kg							52.9			
+41	Oregon	AVIGLYCINE	1999	kg							40.4			
+41	Oregon	AVIGLYCINE	2000	kg							25.6			
+41	Oregon	AVIGLYCINE	2001	kg							104.3			
+41	Oregon	AVIGLYCINE	2002	kg							13.7			
+41	Oregon	AVIGLYCINE	2003	kg							44.7			
+41	Oregon	AVIGLYCINE	2004	kg							38.3			
+41	Oregon	AVIGLYCINE	2005	kg							30			
+41	Oregon	AVIGLYCINE	2006	kg							25.1			
+41	Oregon	AVIGLYCINE	2007	kg							19.4			
+41	Oregon	AVIGLYCINE	2008	kg							52.3			
+41	Oregon	AVIGLYCINE	2009	kg							16.5			
+41	Oregon	AVIGLYCINE	2010	kg							58.6			
+41	Oregon	AVIGLYCINE	2011	kg							48.6			
+41	Oregon	AVIGLYCINE	2012	kg							42.1			
+41	Oregon	AVIGLYCINE	2013	kg							56.6			
+41	Oregon	AVIGLYCINE	2014	kg							60.6			
+41	Oregon	AVIGLYCINE	2015	kg							253.2			
+41	Oregon	AVIGLYCINE	2016	kg							43.3			
+41	Oregon	AVIGLYCINE	2017	kg							368.1			
+42	Pennsylvania	AVIGLYCINE	1997	kg							80			
+42	Pennsylvania	AVIGLYCINE	1998	kg							14.1			
+42	Pennsylvania	AVIGLYCINE	1999	kg							166.2			
+42	Pennsylvania	AVIGLYCINE	2000	kg							108.7			
+42	Pennsylvania	AVIGLYCINE	2001	kg							139.3			
+42	Pennsylvania	AVIGLYCINE	2002	kg							37.3			
+42	Pennsylvania	AVIGLYCINE	2003	kg							97.1			
+42	Pennsylvania	AVIGLYCINE	2004	kg							27.6			
+42	Pennsylvania	AVIGLYCINE	2005	kg							230.1			
+42	Pennsylvania	AVIGLYCINE	2006	kg							216.9			
+42	Pennsylvania	AVIGLYCINE	2007	kg							101.3			
+42	Pennsylvania	AVIGLYCINE	2008	kg							100.4			
+42	Pennsylvania	AVIGLYCINE	2009	kg							46.2			
+42	Pennsylvania	AVIGLYCINE	2010	kg							114.5			
+42	Pennsylvania	AVIGLYCINE	2011	kg							70.9			
+42	Pennsylvania	AVIGLYCINE	2012	kg							161.8			
+42	Pennsylvania	AVIGLYCINE	2013	kg							125.9			
+42	Pennsylvania	AVIGLYCINE	2014	kg							107.3			
+42	Pennsylvania	AVIGLYCINE	2015	kg							111.6			
+42	Pennsylvania	AVIGLYCINE	2016	kg							209.6			
+42	Pennsylvania	AVIGLYCINE	2017	kg							119.7			
+44	Rhode Island	AVIGLYCINE	1997	kg							1.3			
+44	Rhode Island	AVIGLYCINE	1998	kg							0.1			
+44	Rhode Island	AVIGLYCINE	1999	kg							3.2			
+44	Rhode Island	AVIGLYCINE	2000	kg							1.9			
+44	Rhode Island	AVIGLYCINE	2001	kg							1.3			
+44	Rhode Island	AVIGLYCINE	2002	kg							2.5			
+44	Rhode Island	AVIGLYCINE	2003	kg							2			
+44	Rhode Island	AVIGLYCINE	2004	kg							2.2			
+44	Rhode Island	AVIGLYCINE	2005	kg							1.9			
+44	Rhode Island	AVIGLYCINE	2006	kg							2.6			
+44	Rhode Island	AVIGLYCINE	2007	kg							1.7			
+44	Rhode Island	AVIGLYCINE	2008	kg							2.7			
+44	Rhode Island	AVIGLYCINE	2009	kg							2			
+44	Rhode Island	AVIGLYCINE	2010	kg							1.9			
+44	Rhode Island	AVIGLYCINE	2011	kg							2.6			
+44	Rhode Island	AVIGLYCINE	2012	kg							0.7			
+44	Rhode Island	AVIGLYCINE	2013	kg							1.9			
+44	Rhode Island	AVIGLYCINE	2014	kg							3.4			
+44	Rhode Island	AVIGLYCINE	2015	kg							2.5			
+44	Rhode Island	AVIGLYCINE	2016	kg							6.5			
+44	Rhode Island	AVIGLYCINE	2017	kg							3.7			
+45	South Carolina	AVIGLYCINE	1997	kg							16.3			
+45	South Carolina	AVIGLYCINE	1998	kg							3.7			
+45	South Carolina	AVIGLYCINE	1999	kg							2.9			
+45	South Carolina	AVIGLYCINE	2000	kg							7.4			
+45	South Carolina	AVIGLYCINE	2001	kg							3.5			
+45	South Carolina	AVIGLYCINE	2002	kg							3.4			
+45	South Carolina	AVIGLYCINE	2003	kg							7.2			
+45	South Carolina	AVIGLYCINE	2004	kg							2.8			
+45	South Carolina	AVIGLYCINE	2005	kg							1.3			
+45	South Carolina	AVIGLYCINE	2006	kg							7			
+45	South Carolina	AVIGLYCINE	2007	kg							17.8			
+45	South Carolina	AVIGLYCINE	2008	kg							1.7			
+45	South Carolina	AVIGLYCINE	2009	kg							1.4			
+45	South Carolina	AVIGLYCINE	2010	kg							0.2			
+45	South Carolina	AVIGLYCINE	2011	kg							1.1			
+45	South Carolina	AVIGLYCINE	2012	kg							0.2			
+45	South Carolina	AVIGLYCINE	2013	kg							0.5			
+45	South Carolina	AVIGLYCINE	2014	kg							0			
+45	South Carolina	AVIGLYCINE	2015	kg							0.3			
+45	South Carolina	AVIGLYCINE	2017	kg							1.9			
+47	Tennessee	AVIGLYCINE	1998	kg							0.2			
+47	Tennessee	AVIGLYCINE	1999	kg							0.7			
+47	Tennessee	AVIGLYCINE	2000	kg							2.4			
+47	Tennessee	AVIGLYCINE	2001	kg							0.5			
+47	Tennessee	AVIGLYCINE	2002	kg							1.1			
+47	Tennessee	AVIGLYCINE	2003	kg							0.1			
+47	Tennessee	AVIGLYCINE	2004	kg							1			
+47	Tennessee	AVIGLYCINE	2005	kg							0.3			
+47	Tennessee	AVIGLYCINE	2006	kg							6			
+47	Tennessee	AVIGLYCINE	2007	kg							20			
+47	Tennessee	AVIGLYCINE	2008	kg							2.3			
+47	Tennessee	AVIGLYCINE	2009	kg							1.7			
+47	Tennessee	AVIGLYCINE	2010	kg							0			
+47	Tennessee	AVIGLYCINE	2011	kg							2.2			
+47	Tennessee	AVIGLYCINE	2012	kg							0.1			
+47	Tennessee	AVIGLYCINE	2013	kg							0.3			
+47	Tennessee	AVIGLYCINE	2014	kg							0.4			
+47	Tennessee	AVIGLYCINE	2015	kg							0.3			
+47	Tennessee	AVIGLYCINE	2017	kg							3.7			
+49	Utah	AVIGLYCINE	1997	kg							0			
+50	Vermont	AVIGLYCINE	1997	kg							14.8			
+50	Vermont	AVIGLYCINE	1998	kg							25.9			
+50	Vermont	AVIGLYCINE	1999	kg							16.7			
+50	Vermont	AVIGLYCINE	2000	kg							20.2			
+50	Vermont	AVIGLYCINE	2001	kg							20.6			
+50	Vermont	AVIGLYCINE	2002	kg							24			
+50	Vermont	AVIGLYCINE	2003	kg							12.5			
+50	Vermont	AVIGLYCINE	2004	kg							7.5			
+50	Vermont	AVIGLYCINE	2005	kg							11.1			
+50	Vermont	AVIGLYCINE	2006	kg							2.7			
+50	Vermont	AVIGLYCINE	2007	kg							13.5			
+50	Vermont	AVIGLYCINE	2008	kg							37.8			
+50	Vermont	AVIGLYCINE	2009	kg							40.5			
+50	Vermont	AVIGLYCINE	2010	kg							4.4			
+50	Vermont	AVIGLYCINE	2011	kg							37.2			
+50	Vermont	AVIGLYCINE	2012	kg							5.8			
+50	Vermont	AVIGLYCINE	2013	kg							15.9			
+50	Vermont	AVIGLYCINE	2014	kg							69.3			
+50	Vermont	AVIGLYCINE	2015	kg							60.8			
+50	Vermont	AVIGLYCINE	2016	kg							11.3			
+50	Vermont	AVIGLYCINE	2017	kg							41.1			
+51	Virginia	AVIGLYCINE	1997	kg							206.9			
+51	Virginia	AVIGLYCINE	1998	kg							9.1			
+51	Virginia	AVIGLYCINE	1999	kg							459.7			
+51	Virginia	AVIGLYCINE	2000	kg							66.2			
+51	Virginia	AVIGLYCINE	2001	kg							36			
+51	Virginia	AVIGLYCINE	2002	kg							321.5			
+51	Virginia	AVIGLYCINE	2003	kg							52.7			
+51	Virginia	AVIGLYCINE	2004	kg							32.6			
+51	Virginia	AVIGLYCINE	2005	kg							12.2			
+51	Virginia	AVIGLYCINE	2006	kg							179.8			
+51	Virginia	AVIGLYCINE	2007	kg							4.8			
+51	Virginia	AVIGLYCINE	2008	kg							72.4			
+51	Virginia	AVIGLYCINE	2009	kg							54.5			
+51	Virginia	AVIGLYCINE	2010	kg							65.8			
+51	Virginia	AVIGLYCINE	2011	kg							92.8			
+51	Virginia	AVIGLYCINE	2012	kg							60.8			
+51	Virginia	AVIGLYCINE	2013	kg							177.5			
+51	Virginia	AVIGLYCINE	2014	kg							52.8			
+51	Virginia	AVIGLYCINE	2015	kg							17.7			
+51	Virginia	AVIGLYCINE	2017	kg							186.5			
+53	Washington	AVIGLYCINE	1997	kg							120.2			
+53	Washington	AVIGLYCINE	1998	kg							1619.8			
+53	Washington	AVIGLYCINE	1999	kg							965.3			
+53	Washington	AVIGLYCINE	2000	kg							775.6			
+53	Washington	AVIGLYCINE	2001	kg							1482.8			
+53	Washington	AVIGLYCINE	2002	kg							682.4			
+53	Washington	AVIGLYCINE	2003	kg							1161.6			
+53	Washington	AVIGLYCINE	2004	kg							708.4			
+53	Washington	AVIGLYCINE	2005	kg							707.8			
+53	Washington	AVIGLYCINE	2006	kg							807.4			
+53	Washington	AVIGLYCINE	2007	kg							681.7			
+53	Washington	AVIGLYCINE	2008	kg							920.1			
+53	Washington	AVIGLYCINE	2009	kg							1053.9			
+53	Washington	AVIGLYCINE	2010	kg							1645.1			
+53	Washington	AVIGLYCINE	2011	kg							730.3			
+53	Washington	AVIGLYCINE	2012	kg							1216.6			
+53	Washington	AVIGLYCINE	2013	kg							1289.2			
+53	Washington	AVIGLYCINE	2014	kg							1039.9			
+53	Washington	AVIGLYCINE	2015	kg							2015.4			
+53	Washington	AVIGLYCINE	2016	kg							523.8			
+53	Washington	AVIGLYCINE	2017	kg							4239.7			
+54	West Virginia	AVIGLYCINE	1997	kg							88.9			
+54	West Virginia	AVIGLYCINE	1998	kg							2.8			
+54	West Virginia	AVIGLYCINE	1999	kg							168.7			
+54	West Virginia	AVIGLYCINE	2000	kg							15.6			
+54	West Virginia	AVIGLYCINE	2001	kg							10.1			
+54	West Virginia	AVIGLYCINE	2002	kg							42.9			
+54	West Virginia	AVIGLYCINE	2003	kg							1.9			
+54	West Virginia	AVIGLYCINE	2004	kg							10.9			
+54	West Virginia	AVIGLYCINE	2005	kg							1.2			
+54	West Virginia	AVIGLYCINE	2006	kg							33			
+54	West Virginia	AVIGLYCINE	2007	kg							14			
+54	West Virginia	AVIGLYCINE	2008	kg							31.4			
+54	West Virginia	AVIGLYCINE	2009	kg							11.3			
+54	West Virginia	AVIGLYCINE	2010	kg							7.7			
+54	West Virginia	AVIGLYCINE	2011	kg							13			
+54	West Virginia	AVIGLYCINE	2012	kg							11.8			
+54	West Virginia	AVIGLYCINE	2013	kg							20.2			
+54	West Virginia	AVIGLYCINE	2014	kg							62.9			
+54	West Virginia	AVIGLYCINE	2015	kg							8.5			
+54	West Virginia	AVIGLYCINE	2017	kg							32.8			
+55	Wisconsin	AVIGLYCINE	1997	kg							24.9			
+55	Wisconsin	AVIGLYCINE	1998	kg							135.3			
+55	Wisconsin	AVIGLYCINE	1999	kg							28.2			
+55	Wisconsin	AVIGLYCINE	2000	kg							24			
+55	Wisconsin	AVIGLYCINE	2001	kg							14.7			
+55	Wisconsin	AVIGLYCINE	2002	kg							30			
+55	Wisconsin	AVIGLYCINE	2003	kg							26.8			
+55	Wisconsin	AVIGLYCINE	2004	kg							9.2			
+55	Wisconsin	AVIGLYCINE	2005	kg							6.5			
+55	Wisconsin	AVIGLYCINE	2006	kg							14.8			
+55	Wisconsin	AVIGLYCINE	2007	kg							10.8			
+55	Wisconsin	AVIGLYCINE	2008	kg							5			
+55	Wisconsin	AVIGLYCINE	2009	kg							30.9			
+55	Wisconsin	AVIGLYCINE	2010	kg							11			
+55	Wisconsin	AVIGLYCINE	2011	kg							74.3			
+55	Wisconsin	AVIGLYCINE	2012	kg							8.7			
+55	Wisconsin	AVIGLYCINE	2013	kg							25.8			
+55	Wisconsin	AVIGLYCINE	2014	kg							31			
+55	Wisconsin	AVIGLYCINE	2015	kg							4.6			
+55	Wisconsin	AVIGLYCINE	2016	kg							32.1			
+55	Wisconsin	AVIGLYCINE	2017	kg							66.9			

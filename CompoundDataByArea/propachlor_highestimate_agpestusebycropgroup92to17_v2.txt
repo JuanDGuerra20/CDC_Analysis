@@ -1,0 +1,243 @@
+01	Alabama	PROPACHLOR	1992	kg	21342.4				44.8					
+01	Alabama	PROPACHLOR	1996	kg	33434.9									
+01	Alabama	PROPACHLOR	1997	kg	1571.5									
+01	Alabama	PROPACHLOR	1999	kg	4504.7									
+05	Arkansas	PROPACHLOR	1992	kg										1682
+05	Arkansas	PROPACHLOR	1993	kg	30.1									1904.6
+05	Arkansas	PROPACHLOR	1994	kg										1134
+05	Arkansas	PROPACHLOR	1995	kg						28869.3				266.3
+05	Arkansas	PROPACHLOR	1996	kg										96.1
+05	Arkansas	PROPACHLOR	1997	kg										157.8
+05	Arkansas	PROPACHLOR	1998	kg										110
+05	Arkansas	PROPACHLOR	1999	kg										5945.3
+05	Arkansas	PROPACHLOR	2000	kg										72.5
+08	Colorado	PROPACHLOR	1992	kg	3459									14279.1
+08	Colorado	PROPACHLOR	1993	kg										19309.6
+08	Colorado	PROPACHLOR	1994	kg	1030									18551.7
+08	Colorado	PROPACHLOR	1995	kg										16713.4
+08	Colorado	PROPACHLOR	1996	kg										65047
+08	Colorado	PROPACHLOR	1997	kg										4145.3
+08	Colorado	PROPACHLOR	1998	kg										13847.3
+08	Colorado	PROPACHLOR	1999	kg										9469.1
+08	Colorado	PROPACHLOR	2000	kg										2015.5
+09	Connecticut	PROPACHLOR	1992	kg					1468.5					
+09	Connecticut	PROPACHLOR	1994	kg					22.7					
+09	Connecticut	PROPACHLOR	1998	kg					155.6					
+09	Connecticut	PROPACHLOR	1999	kg					401.6					
+10	Delaware	PROPACHLOR	1992	kg					104					
+10	Delaware	PROPACHLOR	1993	kg					67.4					
+10	Delaware	PROPACHLOR	1995	kg					65.3					
+12	Florida	PROPACHLOR	1997	kg	1113.6									
+13	Georgia	PROPACHLOR	1992	kg	55949.5									
+13	Georgia	PROPACHLOR	1996	kg	76840.6									
+13	Georgia	PROPACHLOR	1997	kg	4583.7									
+16	Idaho	PROPACHLOR	1992	kg					2753.9					
+16	Idaho	PROPACHLOR	1993	kg					22					
+17	Illinois	PROPACHLOR	1992	kg	74969.4				10563.4					177971.7
+17	Illinois	PROPACHLOR	1993	kg	93080				7566.6					23050.5
+17	Illinois	PROPACHLOR	1994	kg	118342.2				6717.8					15992.9
+17	Illinois	PROPACHLOR	1995	kg	58032.5				2619.6					15025
+17	Illinois	PROPACHLOR	1996	kg	66257.4				345.8					18647.3
+17	Illinois	PROPACHLOR	1997	kg	193666.1									22999.8
+17	Illinois	PROPACHLOR	1998	kg	47578.2									7781.9
+17	Illinois	PROPACHLOR	1999	kg	83266.6									36190.7
+17	Illinois	PROPACHLOR	2000	kg	98562.8									3415.9
+17	Illinois	PROPACHLOR	2001	kg	52352.1									
+17	Illinois	PROPACHLOR	2004	kg										5430.5
+18	Indiana	PROPACHLOR	1992	kg	58810.9				825.1					13315.2
+18	Indiana	PROPACHLOR	1993	kg	41575.5				148.9					2409.1
+18	Indiana	PROPACHLOR	1994	kg	45891.8				2533.8					1925.4
+18	Indiana	PROPACHLOR	1995	kg	37411.9				166.8					2082.8
+18	Indiana	PROPACHLOR	1996	kg	20570.9				25.1					1490.1
+18	Indiana	PROPACHLOR	1997	kg	38575.1									2371.3
+18	Indiana	PROPACHLOR	1998	kg	16044.3									748.4
+18	Indiana	PROPACHLOR	1999	kg	27908.3									374.7
+18	Indiana	PROPACHLOR	2000	kg	31281.5									311.7
+18	Indiana	PROPACHLOR	2001	kg	17154.1									
+19	Iowa	PROPACHLOR	1992	kg	405263.8	285.7			929.5				311	1733.3
+19	Iowa	PROPACHLOR	1993	kg	245567.9				443.8					1658.5
+19	Iowa	PROPACHLOR	1994	kg	260037.6	2151.1			1332.4					1168.7
+19	Iowa	PROPACHLOR	1995	kg	79634.6				240					1455.5
+19	Iowa	PROPACHLOR	1996	kg	81989				83.5					530.8
+19	Iowa	PROPACHLOR	1997	kg	166745.7				190.2					1694
+19	Iowa	PROPACHLOR	1998	kg	96880.8									757.8
+19	Iowa	PROPACHLOR	1999	kg	98792.2									435.9
+19	Iowa	PROPACHLOR	2000	kg	121271.4									158.6
+19	Iowa	PROPACHLOR	2001	kg	56958.4									1012.6
+19	Iowa	PROPACHLOR	2002	kg	101730.3									
+19	Iowa	PROPACHLOR	2004	kg										311.3
+20	Kansas	PROPACHLOR	1992	kg	55651.9									258437.5
+20	Kansas	PROPACHLOR	1993	kg	29035.4									487120.7
+20	Kansas	PROPACHLOR	1994	kg	31651.1									256856.8
+20	Kansas	PROPACHLOR	1995	kg	4371								18635.5	243948.9
+20	Kansas	PROPACHLOR	1996	kg	17812.7	53007.8								790841.4
+20	Kansas	PROPACHLOR	1997	kg									1497.8	160529.1
+20	Kansas	PROPACHLOR	1998	kg										345278.7
+20	Kansas	PROPACHLOR	1999	kg										80695.6
+20	Kansas	PROPACHLOR	2000	kg										42735.4
+20	Kansas	PROPACHLOR	2001	kg										10454.3
+20	Kansas	PROPACHLOR	2004	kg										10446.8
+20	Kansas	PROPACHLOR	2005	kg										36572
+21	Kentucky	PROPACHLOR	1992	kg	35480.2				296					2432.3
+21	Kentucky	PROPACHLOR	1993	kg	12511.9				33.7					1786.6
+21	Kentucky	PROPACHLOR	1994	kg	17804.2				452.6					2016.2
+21	Kentucky	PROPACHLOR	1995	kg	9077.6									4229.9
+21	Kentucky	PROPACHLOR	1996	kg	5176				5.5					3094.3
+21	Kentucky	PROPACHLOR	1997	kg	9951.1									3481.6
+21	Kentucky	PROPACHLOR	1998	kg	4152.5									1071.2
+21	Kentucky	PROPACHLOR	1999	kg	7360.7									597.9
+21	Kentucky	PROPACHLOR	2000	kg	8889.7									580.2
+21	Kentucky	PROPACHLOR	2001	kg	4449.5									
+22	Louisiana	PROPACHLOR	1993	kg						21674.6				
+22	Louisiana	PROPACHLOR	1995	kg						4156.3				
+24	Maryland	PROPACHLOR	1992	kg					1762.1					76.8
+24	Maryland	PROPACHLOR	1993	kg					1156.5					6538.7
+24	Maryland	PROPACHLOR	1995	kg					1147					
+25	Massachusetts	PROPACHLOR	1992	kg					3243					
+25	Massachusetts	PROPACHLOR	1994	kg					51.8					
+25	Massachusetts	PROPACHLOR	1998	kg					187.6					
+25	Massachusetts	PROPACHLOR	1999	kg					840.5					
+26	Michigan	PROPACHLOR	1992	kg	26486.4				30.8					
+26	Michigan	PROPACHLOR	1993	kg	30778.9									
+26	Michigan	PROPACHLOR	1994	kg	33046.8									
+26	Michigan	PROPACHLOR	1995	kg	31994.7									
+26	Michigan	PROPACHLOR	1996	kg	19843.8									
+26	Michigan	PROPACHLOR	1997	kg	51259									
+26	Michigan	PROPACHLOR	1998	kg	9226.3									
+27	Minnesota	PROPACHLOR	1992	kg	268708.9	406.3			25544.7				760.9	58.5
+27	Minnesota	PROPACHLOR	1993	kg	312970.3				6263.5					49.6
+27	Minnesota	PROPACHLOR	1994	kg	285827	752.7			30923.1					42.2
+27	Minnesota	PROPACHLOR	1995	kg	129915.5				6905.9					6407.2
+27	Minnesota	PROPACHLOR	1996	kg	50487				2484					37.7
+27	Minnesota	PROPACHLOR	1997	kg	83296.9				6276.4					64.9
+27	Minnesota	PROPACHLOR	1998	kg	50414.4									21.2
+27	Minnesota	PROPACHLOR	1999	kg	51136.9									17.1
+27	Minnesota	PROPACHLOR	2000	kg	65075.5									9.6
+27	Minnesota	PROPACHLOR	2001	kg	25715.2									
+28	Mississippi	PROPACHLOR	1995	kg						10227.9				
+28	Mississippi	PROPACHLOR	1996	kg	9602.5									
+28	Mississippi	PROPACHLOR	1999	kg	12758.5									
+29	Missouri	PROPACHLOR	1992	kg	31089.6				228.9					136299.4
+29	Missouri	PROPACHLOR	1993	kg	37437.7				260.2					55522
+29	Missouri	PROPACHLOR	1994	kg	49590									44978.2
+29	Missouri	PROPACHLOR	1995	kg	17822.3									130030.3
+29	Missouri	PROPACHLOR	1996	kg	18401.2	10559.3								77920.5
+29	Missouri	PROPACHLOR	1997	kg	74537.6									131681.9
+29	Missouri	PROPACHLOR	1998	kg	11886.9									27715.6
+29	Missouri	PROPACHLOR	1999	kg	20973.3									40606.1
+29	Missouri	PROPACHLOR	2000	kg	25970.5									16303.6
+29	Missouri	PROPACHLOR	2001	kg	13122.2									110
+29	Missouri	PROPACHLOR	2004	kg										52017.7
+29	Missouri	PROPACHLOR	2005	kg										826.4
+31	Nebraska	PROPACHLOR	1992	kg	117979.9									351261.1
+31	Nebraska	PROPACHLOR	1993	kg	12862.3									389278.8
+31	Nebraska	PROPACHLOR	1994	kg	75465.8									340458.2
+31	Nebraska	PROPACHLOR	1995	kg	57844.2								1584	265116.2
+31	Nebraska	PROPACHLOR	1996	kg	24761									275971.8
+31	Nebraska	PROPACHLOR	1997	kg	27098.3								3687.8	138277
+31	Nebraska	PROPACHLOR	1998	kg	19519.5									59809.4
+31	Nebraska	PROPACHLOR	1999	kg	44936.2									30059.2
+31	Nebraska	PROPACHLOR	2000	kg	33407.9									5555.1
+31	Nebraska	PROPACHLOR	2001	kg	19482									9417
+34	New Jersey	PROPACHLOR	1992	kg					4220.7					
+34	New Jersey	PROPACHLOR	1993	kg					3514.6					
+34	New Jersey	PROPACHLOR	1995	kg					1838.4					
+34	New Jersey	PROPACHLOR	1999	kg					217.4					
+34	New Jersey	PROPACHLOR	2001	kg					544.6					
+35	New Mexico	PROPACHLOR	1992	kg	937.3									1888.4
+35	New Mexico	PROPACHLOR	1993	kg										30382.1
+35	New Mexico	PROPACHLOR	1994	kg	1006.5									13804.9
+35	New Mexico	PROPACHLOR	1995	kg										8677
+35	New Mexico	PROPACHLOR	1996	kg										28532.2
+35	New Mexico	PROPACHLOR	1997	kg										353.5
+35	New Mexico	PROPACHLOR	1998	kg										6860.1
+35	New Mexico	PROPACHLOR	1999	kg	1177.1									857.6
+35	New Mexico	PROPACHLOR	2000	kg										716.7
+36	New York	PROPACHLOR	1992	kg	6573.7				13689.7					
+36	New York	PROPACHLOR	1993	kg					3042.2					
+36	New York	PROPACHLOR	1994	kg	3707.2				513					
+36	New York	PROPACHLOR	1995	kg					1845.9					
+36	New York	PROPACHLOR	1996	kg					275.7					
+36	New York	PROPACHLOR	1997	kg	1046				7893.8					
+36	New York	PROPACHLOR	1998	kg					186.6					
+36	New York	PROPACHLOR	1999	kg					906.6					
+37	North Carolina	PROPACHLOR	1998	kg	7023.5									
+38	North Dakota	PROPACHLOR	1992	kg	13503.7									
+38	North Dakota	PROPACHLOR	1993	kg	37370.5									
+38	North Dakota	PROPACHLOR	1994	kg	22119.8									
+38	North Dakota	PROPACHLOR	1995	kg										1152.8
+38	North Dakota	PROPACHLOR	1996	kg	3061.9									
+38	North Dakota	PROPACHLOR	1998	kg	2730.7									
+38	North Dakota	PROPACHLOR	1999	kg	25789.6									
+39	Ohio	PROPACHLOR	1992	kg	129604.1				4387.8					658.2
+39	Ohio	PROPACHLOR	1993	kg	60888.5				1612					
+39	Ohio	PROPACHLOR	1994	kg	66698.8				1636					
+39	Ohio	PROPACHLOR	1995	kg	26785				775.8					
+39	Ohio	PROPACHLOR	1996	kg	18417.4									
+39	Ohio	PROPACHLOR	1997	kg	37751.7				41					
+39	Ohio	PROPACHLOR	1998	kg	15230.2									
+39	Ohio	PROPACHLOR	1999	kg	44002.2									
+39	Ohio	PROPACHLOR	2000	kg	23495.6									
+39	Ohio	PROPACHLOR	2001	kg	12193.5									
+40	Oklahoma	PROPACHLOR	1992	kg	3443.7									13816.6
+40	Oklahoma	PROPACHLOR	1993	kg	1012.8									48667
+40	Oklahoma	PROPACHLOR	1994	kg	1340.6									9549.8
+40	Oklahoma	PROPACHLOR	1995	kg										20840.8
+40	Oklahoma	PROPACHLOR	1996	kg										18034.4
+40	Oklahoma	PROPACHLOR	1997	kg										10360.2
+40	Oklahoma	PROPACHLOR	1998	kg										28628.1
+40	Oklahoma	PROPACHLOR	1999	kg	2540.2									4522.3
+40	Oklahoma	PROPACHLOR	2000	kg										9099.2
+40	Oklahoma	PROPACHLOR	2005	kg										3019.3
+41	Oregon	PROPACHLOR	1993	kg					3022.3					
+42	Pennsylvania	PROPACHLOR	1992	kg					3923.1					5951.5
+42	Pennsylvania	PROPACHLOR	1993	kg					2126.1					7748.8
+42	Pennsylvania	PROPACHLOR	1994	kg	21279.7				349.2					
+42	Pennsylvania	PROPACHLOR	1995	kg	12945.8				2235.7			3876.4		
+42	Pennsylvania	PROPACHLOR	1996	kg					38.2					21199.8
+42	Pennsylvania	PROPACHLOR	1997	kg	3232.6				1213					
+42	Pennsylvania	PROPACHLOR	1999	kg					214.4					
+42	Pennsylvania	PROPACHLOR	2001	kg					77.1					
+44	Rhode Island	PROPACHLOR	1994	kg					4.2					
+44	Rhode Island	PROPACHLOR	1998	kg					29.3					
+45	South Carolina	PROPACHLOR	1998	kg	25318.8									
+46	South Dakota	PROPACHLOR	1992	kg	180936.8				52.2					66382
+46	South Dakota	PROPACHLOR	1993	kg	139005.7				6					29219.8
+46	South Dakota	PROPACHLOR	1994	kg	271223.3				16.1					35976.6
+46	South Dakota	PROPACHLOR	1995	kg	12416									39222.4
+46	South Dakota	PROPACHLOR	1996	kg	37198.9				2.6					150991
+46	South Dakota	PROPACHLOR	1997	kg	28531.5									33010.4
+46	South Dakota	PROPACHLOR	1998	kg	20374.4									10268.6
+46	South Dakota	PROPACHLOR	1999	kg	90856.6									5429.3
+46	South Dakota	PROPACHLOR	2000	kg	17238.3									2939.7
+46	South Dakota	PROPACHLOR	2001	kg	13300.9									32599.7
+47	Tennessee	PROPACHLOR	1992	kg	10691.9				260.7					246
+47	Tennessee	PROPACHLOR	1993	kg	65.3									280.7
+47	Tennessee	PROPACHLOR	1994	kg										104.1
+47	Tennessee	PROPACHLOR	1996	kg	9469.8									
+47	Tennessee	PROPACHLOR	1999	kg	22036.5									
+48	Texas	PROPACHLOR	1992	kg	10765.7									56175.4
+48	Texas	PROPACHLOR	1993	kg						10220.2				297584.3
+48	Texas	PROPACHLOR	1994	kg	11728.8									58369.7
+48	Texas	PROPACHLOR	1995	kg										80007
+48	Texas	PROPACHLOR	1996	kg										319729.1
+48	Texas	PROPACHLOR	1997	kg										37023.7
+48	Texas	PROPACHLOR	1998	kg										123584.5
+48	Texas	PROPACHLOR	1999	kg	11884.6									38832.4
+48	Texas	PROPACHLOR	2000	kg										12878
+48	Texas	PROPACHLOR	2005	kg										14404.5
+51	Virginia	PROPACHLOR	1993	kg										683.7
+53	Washington	PROPACHLOR	1992	kg					27868					
+53	Washington	PROPACHLOR	1993	kg					50.6					
+53	Washington	PROPACHLOR	2001	kg					1743.7					
+54	West Virginia	PROPACHLOR	1992	kg										520.9
+54	West Virginia	PROPACHLOR	1993	kg										440.4
+54	West Virginia	PROPACHLOR	1994	kg					49.5					
+54	West Virginia	PROPACHLOR	1995	kg					2.7					
+54	West Virginia	PROPACHLOR	1999	kg	142.6									
+55	Wisconsin	PROPACHLOR	1992	kg	20819.2				608.9					
+55	Wisconsin	PROPACHLOR	1993	kg	50181.6									
+55	Wisconsin	PROPACHLOR	1994	kg	61953.8									
+55	Wisconsin	PROPACHLOR	1996	kg	142639.2				36.2					
+55	Wisconsin	PROPACHLOR	1997	kg	40887.1									
+55	Wisconsin	PROPACHLOR	1998	kg	16319.4									

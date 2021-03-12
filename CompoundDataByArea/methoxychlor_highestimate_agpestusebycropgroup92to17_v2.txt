@@ -1,0 +1,261 @@
+01	Alabama	METHOXYCHLOR	1992	kg			11417.9	2146.4						
+01	Alabama	METHOXYCHLOR	1993	kg				1943.4			229.7			
+01	Alabama	METHOXYCHLOR	1994	kg				82.6						
+01	Alabama	METHOXYCHLOR	1995	kg							5.7			
+01	Alabama	METHOXYCHLOR	1996	kg				288.7						
+01	Alabama	METHOXYCHLOR	1997	kg				684.2			5.3			
+04	Arizona	METHOXYCHLOR	1996	kg					74.1					
+04	Arizona	METHOXYCHLOR	2000	kg					117.5					
+05	Arkansas	METHOXYCHLOR	1992	kg				3076.4		38.9		5243		
+05	Arkansas	METHOXYCHLOR	1994	kg			1409.7							
+05	Arkansas	METHOXYCHLOR	1995	kg				995.1			2243.1			
+05	Arkansas	METHOXYCHLOR	1996	kg				46484.3	7.2	33223.7				
+05	Arkansas	METHOXYCHLOR	1997	kg				5749.2	236.3					
+06	California	METHOXYCHLOR	1992	kg							129.1	30		
+06	California	METHOXYCHLOR	1993	kg					9.4		453.6	2.2		
+06	California	METHOXYCHLOR	1994	kg					14.5		1.8	7.3		99.1
+06	California	METHOXYCHLOR	1995	kg					0.1		0.1	0.9		
+06	California	METHOXYCHLOR	1996	kg							5.7			
+06	California	METHOXYCHLOR	1997	kg			0		12		3.2			
+06	California	METHOXYCHLOR	1998	kg					2.3		64.7			
+06	California	METHOXYCHLOR	1999	kg					0		6.2	0.9		
+06	California	METHOXYCHLOR	2000	kg					0.1		11.4	0		
+06	California	METHOXYCHLOR	2001	kg							18.1			
+06	California	METHOXYCHLOR	2002	kg							65.3			
+06	California	METHOXYCHLOR	2004	kg							0.1			
+06	California	METHOXYCHLOR	2005	kg					4.4					
+06	California	METHOXYCHLOR	2006	kg					5.9		53.1			
+06	California	METHOXYCHLOR	2007	kg					0.6		0			
+06	California	METHOXYCHLOR	2009	kg					3.6					
+06	California	METHOXYCHLOR	2010	kg							122.4			
+06	California	METHOXYCHLOR	2011	kg					17.3					
+06	California	METHOXYCHLOR	2016	kg							0			
+08	Colorado	METHOXYCHLOR	1992	kg									534.7	
+09	Connecticut	METHOXYCHLOR	1992	kg					326.9					
+09	Connecticut	METHOXYCHLOR	1993	kg					533.6					
+09	Connecticut	METHOXYCHLOR	1994	kg	2996.7				238.4		2.3			
+09	Connecticut	METHOXYCHLOR	1995	kg	1075.2				263.2					
+09	Connecticut	METHOXYCHLOR	1996	kg					207.1					
+09	Connecticut	METHOXYCHLOR	1997	kg					10.6					
+09	Connecticut	METHOXYCHLOR	2000	kg							60.7			
+10	Delaware	METHOXYCHLOR	1992	kg								9.1		
+10	Delaware	METHOXYCHLOR	1994	kg					2.2			11.7	1.9	
+10	Delaware	METHOXYCHLOR	2000	kg					3					
+12	Florida	METHOXYCHLOR	1992	kg			3270.2							
+12	Florida	METHOXYCHLOR	1993	kg				389.7			134.9			
+12	Florida	METHOXYCHLOR	1997	kg				393						
+12	Florida	METHOXYCHLOR	1998	kg				34.9						
+13	Georgia	METHOXYCHLOR	1992	kg			51966.7						292.1	
+13	Georgia	METHOXYCHLOR	1993	kg				3671.7			371.7			
+13	Georgia	METHOXYCHLOR	1994	kg									8.4	
+13	Georgia	METHOXYCHLOR	1995	kg							0.4			
+13	Georgia	METHOXYCHLOR	1996	kg									333.6	
+13	Georgia	METHOXYCHLOR	1997	kg				4961			3795.9		93	
+13	Georgia	METHOXYCHLOR	1998	kg				5941.6						
+13	Georgia	METHOXYCHLOR	2004	kg							29.6			
+16	Idaho	METHOXYCHLOR	1994	kg							9.6			
+16	Idaho	METHOXYCHLOR	1995	kg	37.5								607.3	
+16	Idaho	METHOXYCHLOR	1996	kg							9.9			
+16	Idaho	METHOXYCHLOR	1997	kg							63.4			
+16	Idaho	METHOXYCHLOR	1998	kg							443.2			
+16	Idaho	METHOXYCHLOR	1999	kg							39.2	3799.5		
+16	Idaho	METHOXYCHLOR	2000	kg							59.7			
+16	Idaho	METHOXYCHLOR	2001	kg							5.6			
+16	Idaho	METHOXYCHLOR	2002	kg					1079.8		73.4			
+17	Illinois	METHOXYCHLOR	1993	kg								906.6		
+17	Illinois	METHOXYCHLOR	1995	kg					3163.3		16.8			
+17	Illinois	METHOXYCHLOR	1996	kg					7.3				699.3	
+18	Indiana	METHOXYCHLOR	1995	kg	706.3				1179.6		28.8			
+18	Indiana	METHOXYCHLOR	1996	kg					109.2				1284.7	
+18	Indiana	METHOXYCHLOR	2002	kg					3.4					
+19	Iowa	METHOXYCHLOR	1997	kg							2.3			
+20	Kansas	METHOXYCHLOR	2004	kg								8092.4		
+21	Kentucky	METHOXYCHLOR	1992	kg							10.8		32.1	
+21	Kentucky	METHOXYCHLOR	1993	kg							493.6			
+21	Kentucky	METHOXYCHLOR	1994	kg					1196.8				10.4	
+21	Kentucky	METHOXYCHLOR	1995	kg					678.6		34.1			
+21	Kentucky	METHOXYCHLOR	1996	kg					9.8		3905		10516.4	
+21	Kentucky	METHOXYCHLOR	1997	kg									30.8	
+22	Louisiana	METHOXYCHLOR	1992	kg		123.4				2097.3				43.3
+22	Louisiana	METHOXYCHLOR	1995	kg									180.5	
+22	Louisiana	METHOXYCHLOR	1998	kg						1397.2				
+23	Maine	METHOXYCHLOR	1992	kg					64.8					
+23	Maine	METHOXYCHLOR	1993	kg					369.7					
+23	Maine	METHOXYCHLOR	1995	kg					428.9					
+23	Maine	METHOXYCHLOR	1996	kg					52.5					
+23	Maine	METHOXYCHLOR	1997	kg					13.6					
+24	Maryland	METHOXYCHLOR	1992	kg					134.2		102.1	369.5		
+24	Maryland	METHOXYCHLOR	1993	kg					201.3					
+24	Maryland	METHOXYCHLOR	1994	kg					523.6			487.2	173.6	
+24	Maryland	METHOXYCHLOR	1995	kg					68.9					
+24	Maryland	METHOXYCHLOR	1996	kg					16638		901.5		54.2	
+24	Maryland	METHOXYCHLOR	1997	kg					28.3		8.6			
+24	Maryland	METHOXYCHLOR	1998	kg					104.2					
+25	Massachusetts	METHOXYCHLOR	1992	kg					569.3					
+25	Massachusetts	METHOXYCHLOR	1993	kg					1110.4					
+25	Massachusetts	METHOXYCHLOR	1994	kg	1406.9				357.4		0.3			
+25	Massachusetts	METHOXYCHLOR	1995	kg	480.6				186.2					
+25	Massachusetts	METHOXYCHLOR	1996	kg					86.1					
+25	Massachusetts	METHOXYCHLOR	1997	kg					24.9					
+25	Massachusetts	METHOXYCHLOR	2000	kg							128.8			
+26	Michigan	METHOXYCHLOR	1995	kg	1773.9									
+26	Michigan	METHOXYCHLOR	1996	kg					41.1					
+26	Michigan	METHOXYCHLOR	1998	kg					510					
+26	Michigan	METHOXYCHLOR	2002	kg					36.4					
+27	Minnesota	METHOXYCHLOR	1997	kg							149.9			
+27	Minnesota	METHOXYCHLOR	1998	kg					432.9					
+27	Minnesota	METHOXYCHLOR	2001	kg							108.4			
+27	Minnesota	METHOXYCHLOR	2002	kg					14.4					
+27	Minnesota	METHOXYCHLOR	2004	kg					100.2					
+28	Mississippi	METHOXYCHLOR	1992	kg				512		4.1				
+28	Mississippi	METHOXYCHLOR	1993	kg				21.4						
+28	Mississippi	METHOXYCHLOR	1994	kg			142.8	77.2						
+28	Mississippi	METHOXYCHLOR	1995	kg				213.9			0			
+28	Mississippi	METHOXYCHLOR	1996	kg				70461.4		10652.6				
+28	Mississippi	METHOXYCHLOR	1997	kg				787.5	0.5					
+29	Missouri	METHOXYCHLOR	1992	kg				1321.4						
+29	Missouri	METHOXYCHLOR	1995	kg				601.6						
+29	Missouri	METHOXYCHLOR	1996	kg				284.3	13					
+29	Missouri	METHOXYCHLOR	1997	kg				3303.7						
+29	Missouri	METHOXYCHLOR	2004	kg								360.3		
+31	Nebraska	METHOXYCHLOR	1992	kg									183.6	
+32	Nevada	METHOXYCHLOR	1995	kg	0.6								259.6	
+32	Nevada	METHOXYCHLOR	1996	kg					5.1					
+32	Nevada	METHOXYCHLOR	1999	kg								779.6		
+33	New Hampshire	METHOXYCHLOR	1992	kg					19.5					
+33	New Hampshire	METHOXYCHLOR	1993	kg					154.7					
+33	New Hampshire	METHOXYCHLOR	1994	kg					50.6					
+33	New Hampshire	METHOXYCHLOR	1995	kg					28.1					
+33	New Hampshire	METHOXYCHLOR	1996	kg					14.9					
+33	New Hampshire	METHOXYCHLOR	1997	kg					5					
+33	New Hampshire	METHOXYCHLOR	2000	kg							63.8			
+34	New Jersey	METHOXYCHLOR	1992	kg					846.9			218.8		
+34	New Jersey	METHOXYCHLOR	1993	kg					1804.9					
+34	New Jersey	METHOXYCHLOR	1994	kg					59.2			265	92.7	
+34	New Jersey	METHOXYCHLOR	1995	kg					96.4					
+34	New Jersey	METHOXYCHLOR	1996	kg					553.9					
+34	New Jersey	METHOXYCHLOR	1997	kg					134.9					
+34	New Jersey	METHOXYCHLOR	2000	kg					253.7					
+35	New Mexico	METHOXYCHLOR	1994	kg								67.7		
+35	New Mexico	METHOXYCHLOR	1996	kg							223.3			
+36	New York	METHOXYCHLOR	1992	kg					1789.7					
+36	New York	METHOXYCHLOR	1993	kg		6147.8			3627.1					
+36	New York	METHOXYCHLOR	1994	kg	3104				167.9		0.5			
+36	New York	METHOXYCHLOR	1995	kg	1061.4				1709.1					
+36	New York	METHOXYCHLOR	1996	kg					780.7					
+36	New York	METHOXYCHLOR	1997	kg					134.2					
+36	New York	METHOXYCHLOR	1999	kg								908.5		
+36	New York	METHOXYCHLOR	2000	kg							358.3	737.1		
+36	New York	METHOXYCHLOR	2002	kg					16113.6					
+36	New York	METHOXYCHLOR	2004	kg					11.4					
+36	New York	METHOXYCHLOR	2007	kg					2013.1					
+37	North Carolina	METHOXYCHLOR	1992	kg									721.5	
+37	North Carolina	METHOXYCHLOR	1994	kg							8.2		7.6	
+37	North Carolina	METHOXYCHLOR	1995	kg							1.8			
+37	North Carolina	METHOXYCHLOR	1996	kg									776.5	
+37	North Carolina	METHOXYCHLOR	1997	kg							36.9		121.8	
+37	North Carolina	METHOXYCHLOR	2004	kg							271.3			
+39	Ohio	METHOXYCHLOR	1992	kg							2.2			
+39	Ohio	METHOXYCHLOR	1993	kg									179.6	
+39	Ohio	METHOXYCHLOR	1994	kg					111.7		262			
+39	Ohio	METHOXYCHLOR	1995	kg	44501.3				2.1					
+39	Ohio	METHOXYCHLOR	1996	kg					124.3		645.6		1568.7	
+39	Ohio	METHOXYCHLOR	1999	kg	1894.1							220.6		
+39	Ohio	METHOXYCHLOR	2000	kg								1927		
+39	Ohio	METHOXYCHLOR	2002	kg					2.4					
+40	Oklahoma	METHOXYCHLOR	1995	kg							3985.2			
+40	Oklahoma	METHOXYCHLOR	1996	kg			16276.1				88.3			
+40	Oklahoma	METHOXYCHLOR	1998	kg								2352.8		
+40	Oklahoma	METHOXYCHLOR	1999	kg								2176.5		
+40	Oklahoma	METHOXYCHLOR	2001	kg							185.9			
+41	Oregon	METHOXYCHLOR	1992	kg							310			
+41	Oregon	METHOXYCHLOR	1993	kg					25.1				13370.9	
+41	Oregon	METHOXYCHLOR	1994	kg					215.8		11.3	973	49680	
+41	Oregon	METHOXYCHLOR	1995	kg	9.2				1244.7		10.4		1685.2	
+41	Oregon	METHOXYCHLOR	1996	kg							237.7			
+41	Oregon	METHOXYCHLOR	1997	kg							1542.8			
+41	Oregon	METHOXYCHLOR	1998	kg					260.5		326.7			
+41	Oregon	METHOXYCHLOR	1999	kg							9.1	1219.2		
+41	Oregon	METHOXYCHLOR	2000	kg							2299.7			
+41	Oregon	METHOXYCHLOR	2001	kg					20.5					
+41	Oregon	METHOXYCHLOR	2002	kg					158.5		157.7			
+41	Oregon	METHOXYCHLOR	2003	kg							88.3			
+42	Pennsylvania	METHOXYCHLOR	1992	kg					546.4		2.3	2450.5		
+42	Pennsylvania	METHOXYCHLOR	1993	kg					3380.9				565.8	
+42	Pennsylvania	METHOXYCHLOR	1994	kg					310.3		64.5	4389.3	2068.2	
+42	Pennsylvania	METHOXYCHLOR	1995	kg					1562.4				4586.4	
+42	Pennsylvania	METHOXYCHLOR	1996	kg					174.5			2726.6	859.7	
+42	Pennsylvania	METHOXYCHLOR	1997	kg					118					
+42	Pennsylvania	METHOXYCHLOR	1999	kg	6535.4							3250		
+42	Pennsylvania	METHOXYCHLOR	2000	kg					70.9			3650.8		
+42	Pennsylvania	METHOXYCHLOR	2002	kg					833.2					
+42	Pennsylvania	METHOXYCHLOR	2005	kg								19348		
+42	Pennsylvania	METHOXYCHLOR	2006	kg								2616.9		
+44	Rhode Island	METHOXYCHLOR	1992	kg					13.2					
+44	Rhode Island	METHOXYCHLOR	1993	kg					84.7					
+44	Rhode Island	METHOXYCHLOR	1994	kg	150.5				29.8		0			
+44	Rhode Island	METHOXYCHLOR	1995	kg	53.3				30.4					
+44	Rhode Island	METHOXYCHLOR	1996	kg					21.4					
+44	Rhode Island	METHOXYCHLOR	1997	kg					2.4					
+44	Rhode Island	METHOXYCHLOR	2000	kg							8.6			
+45	South Carolina	METHOXYCHLOR	1993	kg				87.4						
+45	South Carolina	METHOXYCHLOR	1997	kg							6.6			
+45	South Carolina	METHOXYCHLOR	1998	kg				330						
+45	South Carolina	METHOXYCHLOR	2004	kg							58.6			
+46	South Dakota	METHOXYCHLOR	1997	kg							9.3			
+47	Tennessee	METHOXYCHLOR	1992	kg				1085.3		0	13.2		45.3	
+47	Tennessee	METHOXYCHLOR	1993	kg							481.3			
+47	Tennessee	METHOXYCHLOR	1994	kg			206.7	245.1					16.9	
+47	Tennessee	METHOXYCHLOR	1995	kg				949.8	193.2		22.7			
+47	Tennessee	METHOXYCHLOR	1996	kg				516.6	2.8		1412.2		5682.8	
+47	Tennessee	METHOXYCHLOR	1997	kg				4121.5	13.9		1.3		53.3	
+47	Tennessee	METHOXYCHLOR	2004	kg							22.6			
+48	Texas	METHOXYCHLOR	1992	kg		55.8		18319.3		2086.2				2123.5
+48	Texas	METHOXYCHLOR	1994	kg								15.1		
+48	Texas	METHOXYCHLOR	1995	kg									1184.3	
+48	Texas	METHOXYCHLOR	1996	kg			2703.5				720.4			
+48	Texas	METHOXYCHLOR	1998	kg						1065.1				
+48	Texas	METHOXYCHLOR	1999	kg								340.3		
+48	Texas	METHOXYCHLOR	2000	kg					102.5					
+48	Texas	METHOXYCHLOR	2001	kg							7342			
+48	Texas	METHOXYCHLOR	2002	kg										294.3
+49	Utah	METHOXYCHLOR	1998	kg							4812.5			
+49	Utah	METHOXYCHLOR	2001	kg							698.9			
+50	Vermont	METHOXYCHLOR	1992	kg					46.2					
+50	Vermont	METHOXYCHLOR	1993	kg					120.8					
+50	Vermont	METHOXYCHLOR	1994	kg					40.8					
+50	Vermont	METHOXYCHLOR	1995	kg					17.6					
+50	Vermont	METHOXYCHLOR	1996	kg					53.8					
+50	Vermont	METHOXYCHLOR	1997	kg					2.5					
+50	Vermont	METHOXYCHLOR	2000	kg							85.8			
+51	Virginia	METHOXYCHLOR	1992	kg					154.8		770.7		234.2	
+51	Virginia	METHOXYCHLOR	1994	kg					1548.8		3.6		6.3	
+51	Virginia	METHOXYCHLOR	1995	kg							1.3			
+51	Virginia	METHOXYCHLOR	1996	kg					291.5		1659.3		851	
+51	Virginia	METHOXYCHLOR	1997	kg					61.3		353.5		70.2	
+51	Virginia	METHOXYCHLOR	1998	kg					765.8					
+53	Washington	METHOXYCHLOR	1992	kg							688.2			
+53	Washington	METHOXYCHLOR	1993	kg					12.5		397.9		536.6	
+53	Washington	METHOXYCHLOR	1994	kg					17.1		263.5	3702.9	2131.3	
+53	Washington	METHOXYCHLOR	1995	kg					154.7		1477			
+53	Washington	METHOXYCHLOR	1996	kg							11943.7			
+53	Washington	METHOXYCHLOR	1997	kg							89278.3			
+53	Washington	METHOXYCHLOR	1998	kg					5668.1		10646.7			
+53	Washington	METHOXYCHLOR	1999	kg							1944			
+53	Washington	METHOXYCHLOR	2000	kg							5417.2			
+53	Washington	METHOXYCHLOR	2001	kg					512.6		175.8			
+53	Washington	METHOXYCHLOR	2002	kg					2922.9		2465.6			
+53	Washington	METHOXYCHLOR	2003	kg							240.3			
+54	West Virginia	METHOXYCHLOR	1992	kg					183.3		96.4			
+54	West Virginia	METHOXYCHLOR	1993	kg					28.8				120.3	
+54	West Virginia	METHOXYCHLOR	1994	kg					2002.4		8.8			
+54	West Virginia	METHOXYCHLOR	1996	kg					472.6		525.9		756.1	
+54	West Virginia	METHOXYCHLOR	1999	kg	68.3							30.4		
+55	Wisconsin	METHOXYCHLOR	1993	kg								8005.1		
+55	Wisconsin	METHOXYCHLOR	1996	kg					31.4					
+55	Wisconsin	METHOXYCHLOR	1998	kg					468.2					
+55	Wisconsin	METHOXYCHLOR	2000	kg					131.4					
+55	Wisconsin	METHOXYCHLOR	2001	kg							295.7			
+55	Wisconsin	METHOXYCHLOR	2002	kg					30					
+55	Wisconsin	METHOXYCHLOR	2004	kg					220.2					
+56	Wyoming	METHOXYCHLOR	1992	kg									99.1	

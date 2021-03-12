@@ -1,0 +1,598 @@
+01	Alabama	CYPRODINIL	2013	kg					92.2					
+01	Alabama	CYPRODINIL	2014	kg					2.1					
+01	Alabama	CYPRODINIL	2015	kg					7.2					
+04	Arizona	CYPRODINIL	1998	kg							53.8			
+04	Arizona	CYPRODINIL	1999	kg							47.3			
+04	Arizona	CYPRODINIL	2000	kg							104.7			
+04	Arizona	CYPRODINIL	2001	kg							331.4			
+04	Arizona	CYPRODINIL	2002	kg							68.3			
+04	Arizona	CYPRODINIL	2003	kg							264.8			
+04	Arizona	CYPRODINIL	2004	kg							404.3			
+04	Arizona	CYPRODINIL	2005	kg							186.9			
+04	Arizona	CYPRODINIL	2006	kg							39.1			
+04	Arizona	CYPRODINIL	2007	kg							220.3			
+04	Arizona	CYPRODINIL	2008	kg					0.2		51.4			
+04	Arizona	CYPRODINIL	2009	kg					1.5		61.2			
+04	Arizona	CYPRODINIL	2010	kg					57.6		86.1			
+04	Arizona	CYPRODINIL	2011	kg					3.4		178			
+04	Arizona	CYPRODINIL	2012	kg					2		286			
+04	Arizona	CYPRODINIL	2013	kg					8.1		127.9			
+04	Arizona	CYPRODINIL	2014	kg					2969		149.2			
+04	Arizona	CYPRODINIL	2015	kg					2496.5		145.9			
+04	Arizona	CYPRODINIL	2016	kg					2133.7		63.4			
+04	Arizona	CYPRODINIL	2017	kg					1721.3		199			
+06	California	CYPRODINIL	1998	kg	4.3						24150			
+06	California	CYPRODINIL	1999	kg							61159.5			
+06	California	CYPRODINIL	2000	kg							44343.1			4.3
+06	California	CYPRODINIL	2001	kg					6.1		38143.4			
+06	California	CYPRODINIL	2002	kg					2085		46466.9			22.5
+06	California	CYPRODINIL	2003	kg					3524.2		53580.6			
+06	California	CYPRODINIL	2004	kg					2960.9		49332.3		8.9	
+06	California	CYPRODINIL	2005	kg					4561.9		60744.6			
+06	California	CYPRODINIL	2006	kg					4194.1		51634.8			
+06	California	CYPRODINIL	2007	kg					5587.5		41137.4			
+06	California	CYPRODINIL	2008	kg					6738.7		36873.8			2.5
+06	California	CYPRODINIL	2009	kg					6686.1		48172.3			9.3
+06	California	CYPRODINIL	2010	kg					10143.2		52033.3			3.5
+06	California	CYPRODINIL	2011	kg					10099		71840.2			2.3
+06	California	CYPRODINIL	2012	kg					12559.9		67478.1			0.9
+06	California	CYPRODINIL	2013	kg					12026.6		64815.7			4
+06	California	CYPRODINIL	2014	kg					14145.2		59361			15.1
+06	California	CYPRODINIL	2015	kg	4.8				14341.8		61059.6			15.8
+06	California	CYPRODINIL	2016	kg			4.9		14536.6		66144.2			12.4
+06	California	CYPRODINIL	2017	kg					14309.6		73532.2			7.5
+08	Colorado	CYPRODINIL	2015	kg							266.7			
+09	Connecticut	CYPRODINIL	1999	kg							58.8			
+09	Connecticut	CYPRODINIL	2000	kg							52.8			
+09	Connecticut	CYPRODINIL	2001	kg							78.8			
+09	Connecticut	CYPRODINIL	2002	kg							46.8			
+09	Connecticut	CYPRODINIL	2003	kg					0.1		37.5			
+09	Connecticut	CYPRODINIL	2004	kg					0.7		33.5			
+09	Connecticut	CYPRODINIL	2005	kg							58.9			
+09	Connecticut	CYPRODINIL	2006	kg							13.9			
+09	Connecticut	CYPRODINIL	2007	kg							18.9			
+09	Connecticut	CYPRODINIL	2008	kg					7.3		369			
+09	Connecticut	CYPRODINIL	2009	kg					7.1		138.3			
+09	Connecticut	CYPRODINIL	2010	kg					131.1		268.5			
+09	Connecticut	CYPRODINIL	2011	kg					65.3		301.2			
+09	Connecticut	CYPRODINIL	2012	kg					192.2		64			
+09	Connecticut	CYPRODINIL	2013	kg					107.4		44.3			
+09	Connecticut	CYPRODINIL	2014	kg					83.6		166.5			
+09	Connecticut	CYPRODINIL	2015	kg					69.7		41.2			
+09	Connecticut	CYPRODINIL	2016	kg					56.4		62.6			
+09	Connecticut	CYPRODINIL	2017	kg					74.9		162			
+10	Delaware	CYPRODINIL	2000	kg							0.1			
+10	Delaware	CYPRODINIL	2001	kg							0.4			
+10	Delaware	CYPRODINIL	2002	kg							0.5			
+10	Delaware	CYPRODINIL	2003	kg							0.6			
+10	Delaware	CYPRODINIL	2004	kg							0.2			
+10	Delaware	CYPRODINIL	2005	kg							1.4			
+10	Delaware	CYPRODINIL	2006	kg							0.5			
+10	Delaware	CYPRODINIL	2007	kg							0			
+10	Delaware	CYPRODINIL	2008	kg					0.6		0			
+10	Delaware	CYPRODINIL	2009	kg					0.2		0			
+10	Delaware	CYPRODINIL	2010	kg							0			
+10	Delaware	CYPRODINIL	2011	kg					1.2		0.1			
+10	Delaware	CYPRODINIL	2012	kg					1.7		0			
+10	Delaware	CYPRODINIL	2013	kg							0			
+10	Delaware	CYPRODINIL	2014	kg					1.2		0.1			
+10	Delaware	CYPRODINIL	2015	kg							0			
+10	Delaware	CYPRODINIL	2016	kg							0.1			
+10	Delaware	CYPRODINIL	2017	kg							0.1			
+12	Florida	CYPRODINIL	2004	kg					397.1					
+12	Florida	CYPRODINIL	2005	kg					152.1					
+12	Florida	CYPRODINIL	2006	kg					71.9					
+12	Florida	CYPRODINIL	2007	kg					2776.5					
+12	Florida	CYPRODINIL	2008	kg					3484.6					
+12	Florida	CYPRODINIL	2009	kg					1704.3					
+12	Florida	CYPRODINIL	2010	kg					1107.7					
+12	Florida	CYPRODINIL	2011	kg					6264.7					
+12	Florida	CYPRODINIL	2012	kg					9056.9					
+12	Florida	CYPRODINIL	2013	kg					6489.3					
+12	Florida	CYPRODINIL	2014	kg					8714.7					
+12	Florida	CYPRODINIL	2015	kg					11339.3					
+12	Florida	CYPRODINIL	2016	kg					3638.5					
+12	Florida	CYPRODINIL	2017	kg					10198.7					
+13	Georgia	CYPRODINIL	2000	kg							17.4			
+13	Georgia	CYPRODINIL	2001	kg							51.6			
+13	Georgia	CYPRODINIL	2002	kg							4.3			
+13	Georgia	CYPRODINIL	2003	kg							4			
+13	Georgia	CYPRODINIL	2004	kg							362.2			
+13	Georgia	CYPRODINIL	2005	kg							527.8			
+13	Georgia	CYPRODINIL	2006	kg							37.9			
+13	Georgia	CYPRODINIL	2007	kg							107.3			
+13	Georgia	CYPRODINIL	2008	kg							397.1			
+13	Georgia	CYPRODINIL	2009	kg					1368.6		343.3			
+13	Georgia	CYPRODINIL	2010	kg							617.7			
+13	Georgia	CYPRODINIL	2011	kg					229.6		121.2			
+13	Georgia	CYPRODINIL	2012	kg					263.7		107.9			
+13	Georgia	CYPRODINIL	2013	kg					1045		391.3			
+13	Georgia	CYPRODINIL	2014	kg					321.7		758.5			
+13	Georgia	CYPRODINIL	2015	kg					4024.8		189.5			
+13	Georgia	CYPRODINIL	2016	kg					2048.5		1037.1			
+13	Georgia	CYPRODINIL	2017	kg					8123.6		622.3			
+16	Idaho	CYPRODINIL	2001	kg							7.3			
+16	Idaho	CYPRODINIL	2002	kg							22.9			
+16	Idaho	CYPRODINIL	2003	kg							15.6			
+16	Idaho	CYPRODINIL	2006	kg					5.7					
+16	Idaho	CYPRODINIL	2007	kg							17.8			
+16	Idaho	CYPRODINIL	2008	kg					1.7					
+16	Idaho	CYPRODINIL	2009	kg					1.4		145.6			
+16	Idaho	CYPRODINIL	2010	kg					2.5					
+16	Idaho	CYPRODINIL	2011	kg					1.9		9.6			
+16	Idaho	CYPRODINIL	2012	kg					2.6		6.1			
+16	Idaho	CYPRODINIL	2013	kg					1.3		11.7			
+16	Idaho	CYPRODINIL	2014	kg					1		29.9			
+16	Idaho	CYPRODINIL	2015	kg					0.9		7.5			
+16	Idaho	CYPRODINIL	2016	kg							14.3			
+16	Idaho	CYPRODINIL	2017	kg							48.1			
+17	Illinois	CYPRODINIL	1999	kg							25.3			
+17	Illinois	CYPRODINIL	2000	kg							63.9			
+17	Illinois	CYPRODINIL	2001	kg							378.3			
+17	Illinois	CYPRODINIL	2002	kg							205.4			
+17	Illinois	CYPRODINIL	2003	kg					3.6		31.1			
+17	Illinois	CYPRODINIL	2004	kg					1.9		52.4			
+17	Illinois	CYPRODINIL	2005	kg					7					
+17	Illinois	CYPRODINIL	2010	kg					226.9					
+17	Illinois	CYPRODINIL	2011	kg					95.6		226.4			
+17	Illinois	CYPRODINIL	2012	kg					11.1		37.6			
+17	Illinois	CYPRODINIL	2013	kg					66.2		80.7			
+17	Illinois	CYPRODINIL	2014	kg					69.2		159.8			
+17	Illinois	CYPRODINIL	2015	kg					741.8		99.2			
+17	Illinois	CYPRODINIL	2016	kg					75					
+17	Illinois	CYPRODINIL	2017	kg					1090.6					
+18	Indiana	CYPRODINIL	1999	kg							28			
+18	Indiana	CYPRODINIL	2000	kg							61.6			
+18	Indiana	CYPRODINIL	2001	kg							73.5			
+18	Indiana	CYPRODINIL	2002	kg					5.3		258.7			
+18	Indiana	CYPRODINIL	2003	kg					3.4		45.3			
+18	Indiana	CYPRODINIL	2004	kg					12.7		48.1			
+18	Indiana	CYPRODINIL	2005	kg					9.4		11.4			
+18	Indiana	CYPRODINIL	2006	kg					4.6		1.5			
+18	Indiana	CYPRODINIL	2007	kg					186.3		0.2			
+18	Indiana	CYPRODINIL	2008	kg					182.5					
+18	Indiana	CYPRODINIL	2009	kg							2.9			
+18	Indiana	CYPRODINIL	2010	kg					1637.4		25.6			
+18	Indiana	CYPRODINIL	2011	kg					1666.1		214.3			
+18	Indiana	CYPRODINIL	2012	kg					277.9		22.9			
+18	Indiana	CYPRODINIL	2013	kg					607.3		61.1			
+18	Indiana	CYPRODINIL	2014	kg					1094		103.4			
+18	Indiana	CYPRODINIL	2015	kg					215.8		67.6			
+18	Indiana	CYPRODINIL	2016	kg					647.5		7			
+18	Indiana	CYPRODINIL	2017	kg					2514.4		24.3			
+21	Kentucky	CYPRODINIL	1999	kg							33.8			
+21	Kentucky	CYPRODINIL	2000	kg							49.4			
+21	Kentucky	CYPRODINIL	2001	kg							36.9			
+21	Kentucky	CYPRODINIL	2002	kg							25.6			
+21	Kentucky	CYPRODINIL	2003	kg							21.7			
+21	Kentucky	CYPRODINIL	2004	kg							18			
+21	Kentucky	CYPRODINIL	2005	kg							20.2			
+21	Kentucky	CYPRODINIL	2006	kg							32.3			
+21	Kentucky	CYPRODINIL	2007	kg							14.8			
+21	Kentucky	CYPRODINIL	2008	kg							72			
+21	Kentucky	CYPRODINIL	2009	kg							18.7			
+21	Kentucky	CYPRODINIL	2010	kg					109.1		10.6			
+21	Kentucky	CYPRODINIL	2011	kg					158.1		90.9			
+21	Kentucky	CYPRODINIL	2012	kg					15.6		32.7			
+21	Kentucky	CYPRODINIL	2013	kg					92.3		42.8			
+21	Kentucky	CYPRODINIL	2014	kg					89.1		76.2			29.9
+21	Kentucky	CYPRODINIL	2015	kg					10.8		30.4			
+21	Kentucky	CYPRODINIL	2016	kg							48.2			
+21	Kentucky	CYPRODINIL	2017	kg					175		14.4			
+23	Maine	CYPRODINIL	1999	kg							99.6			
+23	Maine	CYPRODINIL	2000	kg							96			
+23	Maine	CYPRODINIL	2001	kg							130.5			
+23	Maine	CYPRODINIL	2002	kg							56.6			
+23	Maine	CYPRODINIL	2003	kg							14.8			
+23	Maine	CYPRODINIL	2004	kg							45.9			
+23	Maine	CYPRODINIL	2005	kg							79.7			
+23	Maine	CYPRODINIL	2006	kg							87.2			
+23	Maine	CYPRODINIL	2007	kg							22.5			
+23	Maine	CYPRODINIL	2008	kg							342.9			
+23	Maine	CYPRODINIL	2009	kg							116.1			
+23	Maine	CYPRODINIL	2010	kg							101.4			
+23	Maine	CYPRODINIL	2011	kg							220.1			
+23	Maine	CYPRODINIL	2012	kg							227.5			
+23	Maine	CYPRODINIL	2013	kg							213.2			
+23	Maine	CYPRODINIL	2014	kg							321.3			
+23	Maine	CYPRODINIL	2015	kg							113.7			
+23	Maine	CYPRODINIL	2016	kg							140.6			
+23	Maine	CYPRODINIL	2017	kg							305.6			
+24	Maryland	CYPRODINIL	1999	kg							56.7			
+24	Maryland	CYPRODINIL	2000	kg							282.5			
+24	Maryland	CYPRODINIL	2001	kg							157.3			
+24	Maryland	CYPRODINIL	2002	kg							24.2			
+24	Maryland	CYPRODINIL	2003	kg					1.4		47.9			
+24	Maryland	CYPRODINIL	2004	kg							76.5			
+24	Maryland	CYPRODINIL	2005	kg							101.8			
+24	Maryland	CYPRODINIL	2006	kg							120.1			
+24	Maryland	CYPRODINIL	2007	kg					1.5		15			
+24	Maryland	CYPRODINIL	2008	kg					5.9		186.6			
+24	Maryland	CYPRODINIL	2009	kg					1.9		83.7			
+24	Maryland	CYPRODINIL	2010	kg					5.5		104.3			
+24	Maryland	CYPRODINIL	2011	kg					14.1		209.3			
+24	Maryland	CYPRODINIL	2012	kg					14		232.7			
+24	Maryland	CYPRODINIL	2013	kg					13.8		190.1			
+24	Maryland	CYPRODINIL	2014	kg					32.5		269.7			
+24	Maryland	CYPRODINIL	2015	kg					23.6		88.2			
+24	Maryland	CYPRODINIL	2016	kg					25.3		158.6			
+24	Maryland	CYPRODINIL	2017	kg					75.6		157.3			
+25	Massachusetts	CYPRODINIL	1999	kg							104.4			
+25	Massachusetts	CYPRODINIL	2000	kg							90			
+25	Massachusetts	CYPRODINIL	2001	kg							151.7			
+25	Massachusetts	CYPRODINIL	2002	kg							97.5			
+25	Massachusetts	CYPRODINIL	2003	kg					1.2		67.4			
+25	Massachusetts	CYPRODINIL	2004	kg					2.7		36.5			
+25	Massachusetts	CYPRODINIL	2005	kg							106.3			
+25	Massachusetts	CYPRODINIL	2006	kg							25.1			
+25	Massachusetts	CYPRODINIL	2007	kg							163.9			
+25	Massachusetts	CYPRODINIL	2008	kg					12		346.2			
+25	Massachusetts	CYPRODINIL	2009	kg					10.9		236			
+25	Massachusetts	CYPRODINIL	2010	kg					238.4		263.6			
+25	Massachusetts	CYPRODINIL	2011	kg					126.4		434.7			
+25	Massachusetts	CYPRODINIL	2012	kg					249.4		190.5			
+25	Massachusetts	CYPRODINIL	2013	kg					171.6		54.2			
+25	Massachusetts	CYPRODINIL	2014	kg					394.7		223.5			
+25	Massachusetts	CYPRODINIL	2015	kg					168.6		51.1			
+25	Massachusetts	CYPRODINIL	2016	kg					112.7		114.1			
+25	Massachusetts	CYPRODINIL	2017	kg					115.2		383.8			
+26	Michigan	CYPRODINIL	1999	kg							1901.6			
+26	Michigan	CYPRODINIL	2000	kg							360.9			
+26	Michigan	CYPRODINIL	2001	kg							1258.1			
+26	Michigan	CYPRODINIL	2002	kg					83		2498.6			
+26	Michigan	CYPRODINIL	2003	kg					33.2		458.5			
+26	Michigan	CYPRODINIL	2004	kg					91.2		1026.8			
+26	Michigan	CYPRODINIL	2005	kg					92.3		1211.9			
+26	Michigan	CYPRODINIL	2006	kg					40.2		901.9			
+26	Michigan	CYPRODINIL	2007	kg					338.2		1134.2			
+26	Michigan	CYPRODINIL	2008	kg					376.6		2919.7			
+26	Michigan	CYPRODINIL	2009	kg					35		1296.4			
+26	Michigan	CYPRODINIL	2010	kg					82.4		1659.3			
+26	Michigan	CYPRODINIL	2011	kg					73.7		4106.4			
+26	Michigan	CYPRODINIL	2012	kg					32.5		1048.6			
+26	Michigan	CYPRODINIL	2013	kg					69.9		2712.2			
+26	Michigan	CYPRODINIL	2014	kg					146.6		2933.7			
+26	Michigan	CYPRODINIL	2015	kg							2852.4			
+26	Michigan	CYPRODINIL	2016	kg							3626.4			
+26	Michigan	CYPRODINIL	2017	kg					1172.1		3834.6			
+27	Minnesota	CYPRODINIL	1999	kg							16.1			
+27	Minnesota	CYPRODINIL	2000	kg							33.9			
+27	Minnesota	CYPRODINIL	2001	kg							59.1			
+27	Minnesota	CYPRODINIL	2002	kg					7.6		129.7			
+27	Minnesota	CYPRODINIL	2003	kg					7.9		21.8			
+27	Minnesota	CYPRODINIL	2004	kg					5.7		38			
+27	Minnesota	CYPRODINIL	2005	kg					9.4		16.7			
+27	Minnesota	CYPRODINIL	2006	kg							20			
+27	Minnesota	CYPRODINIL	2007	kg							13.4			
+27	Minnesota	CYPRODINIL	2008	kg					3.1		28.1			
+27	Minnesota	CYPRODINIL	2009	kg							14.1			
+27	Minnesota	CYPRODINIL	2010	kg					6.4		21.2			
+27	Minnesota	CYPRODINIL	2011	kg					6.2		194.5			
+27	Minnesota	CYPRODINIL	2012	kg					3.9		49.9			
+27	Minnesota	CYPRODINIL	2013	kg							73.4			
+27	Minnesota	CYPRODINIL	2014	kg							103.4			
+27	Minnesota	CYPRODINIL	2015	kg					24.8		70.3			
+27	Minnesota	CYPRODINIL	2016	kg							17.2			
+27	Minnesota	CYPRODINIL	2017	kg					189.5		34.4			
+28	Mississippi	CYPRODINIL	2013	kg					17.1					
+32	Nevada	CYPRODINIL	1998	kg							0.6			
+32	Nevada	CYPRODINIL	1999	kg							0.7			
+32	Nevada	CYPRODINIL	2000	kg							0.7			
+32	Nevada	CYPRODINIL	2001	kg							0.5			
+32	Nevada	CYPRODINIL	2002	kg							0.5			
+32	Nevada	CYPRODINIL	2003	kg							1.7			
+32	Nevada	CYPRODINIL	2004	kg							5.4			
+32	Nevada	CYPRODINIL	2005	kg							7.8			
+32	Nevada	CYPRODINIL	2006	kg							0.8			
+32	Nevada	CYPRODINIL	2007	kg							1.7			
+32	Nevada	CYPRODINIL	2008	kg					0		2.4			
+32	Nevada	CYPRODINIL	2009	kg					0		2.9			
+32	Nevada	CYPRODINIL	2010	kg					0.1		5.8			
+32	Nevada	CYPRODINIL	2011	kg					0.5		13.2			
+32	Nevada	CYPRODINIL	2012	kg					0.2		8.4			
+32	Nevada	CYPRODINIL	2013	kg					1.6		4.6			
+32	Nevada	CYPRODINIL	2014	kg					13.7		8.4			
+32	Nevada	CYPRODINIL	2015	kg					1.1		13.8			
+32	Nevada	CYPRODINIL	2016	kg					0.4		3.2			
+32	Nevada	CYPRODINIL	2017	kg					0.8		14.7			
+33	New Hampshire	CYPRODINIL	1999	kg							61.9			
+33	New Hampshire	CYPRODINIL	2000	kg							40.2			
+33	New Hampshire	CYPRODINIL	2001	kg							82.7			
+33	New Hampshire	CYPRODINIL	2002	kg							45.9			
+33	New Hampshire	CYPRODINIL	2003	kg							19.3			
+33	New Hampshire	CYPRODINIL	2004	kg							13.7			
+33	New Hampshire	CYPRODINIL	2005	kg							54.3			
+33	New Hampshire	CYPRODINIL	2006	kg							60.8			
+33	New Hampshire	CYPRODINIL	2007	kg							15.9			
+33	New Hampshire	CYPRODINIL	2008	kg					4.9		232.3			
+33	New Hampshire	CYPRODINIL	2009	kg					3.1		72.5			
+33	New Hampshire	CYPRODINIL	2010	kg					7.5		58.4			
+33	New Hampshire	CYPRODINIL	2011	kg					10.3		116.4			
+33	New Hampshire	CYPRODINIL	2012	kg					27.2		110.1			
+33	New Hampshire	CYPRODINIL	2013	kg					10.9		106.1			
+33	New Hampshire	CYPRODINIL	2014	kg					70		165.3			
+33	New Hampshire	CYPRODINIL	2015	kg					36.6		60.8			
+33	New Hampshire	CYPRODINIL	2016	kg					28.1		77.9			
+33	New Hampshire	CYPRODINIL	2017	kg					32.7		177.2			
+34	New Jersey	CYPRODINIL	1999	kg							86.5			
+34	New Jersey	CYPRODINIL	2000	kg							75.9			
+34	New Jersey	CYPRODINIL	2001	kg							321.6			
+34	New Jersey	CYPRODINIL	2002	kg							423			
+34	New Jersey	CYPRODINIL	2003	kg					0		376.3			
+34	New Jersey	CYPRODINIL	2004	kg					0.2		81.3			
+34	New Jersey	CYPRODINIL	2005	kg							1335.8			
+34	New Jersey	CYPRODINIL	2006	kg							231.5			
+34	New Jersey	CYPRODINIL	2007	kg							165.7			
+34	New Jersey	CYPRODINIL	2008	kg					9.2		470.8			
+34	New Jersey	CYPRODINIL	2009	kg					4.6		203.5			
+34	New Jersey	CYPRODINIL	2010	kg					15.8		401.3			
+34	New Jersey	CYPRODINIL	2011	kg					49.3		748.6			
+34	New Jersey	CYPRODINIL	2012	kg					69.5		579.8			
+34	New Jersey	CYPRODINIL	2013	kg					40.9		120.5			
+34	New Jersey	CYPRODINIL	2014	kg					125.3		368.3			
+34	New Jersey	CYPRODINIL	2015	kg					199.3		244.7			
+34	New Jersey	CYPRODINIL	2016	kg					209.6		141.5			
+34	New Jersey	CYPRODINIL	2017	kg					147.8		1768.9			
+35	New Mexico	CYPRODINIL	2003	kg					40.9					
+35	New Mexico	CYPRODINIL	2007	kg					21.2					
+35	New Mexico	CYPRODINIL	2010	kg					683.6					
+35	New Mexico	CYPRODINIL	2014	kg					0					
+35	New Mexico	CYPRODINIL	2015	kg					0		7.8			
+36	New York	CYPRODINIL	1999	kg							1416.9			
+36	New York	CYPRODINIL	2000	kg							722.9			
+36	New York	CYPRODINIL	2001	kg							1050.4			
+36	New York	CYPRODINIL	2002	kg							1163.4			
+36	New York	CYPRODINIL	2003	kg					113.5		989.2			
+36	New York	CYPRODINIL	2004	kg					399.6		1280			
+36	New York	CYPRODINIL	2005	kg							1312.3			
+36	New York	CYPRODINIL	2006	kg							260.9			
+36	New York	CYPRODINIL	2007	kg					12.5		3340.5			
+36	New York	CYPRODINIL	2008	kg					55.4		11107.3			
+36	New York	CYPRODINIL	2009	kg					52.1		1917.6			
+36	New York	CYPRODINIL	2010	kg					157.2		4132.4			
+36	New York	CYPRODINIL	2011	kg					3375.5		7996.8			
+36	New York	CYPRODINIL	2012	kg					3858.7		6102.5			
+36	New York	CYPRODINIL	2013	kg					1931.4		3947.6			
+36	New York	CYPRODINIL	2014	kg					2067.6		4786			
+36	New York	CYPRODINIL	2015	kg					2392.1		5429.7			
+36	New York	CYPRODINIL	2016	kg					4046.3		4462.2			
+36	New York	CYPRODINIL	2017	kg					629.4		7461			
+37	North Carolina	CYPRODINIL	1999	kg							203.3			
+37	North Carolina	CYPRODINIL	2000	kg							137.9			
+37	North Carolina	CYPRODINIL	2001	kg							409			
+37	North Carolina	CYPRODINIL	2002	kg							37			
+37	North Carolina	CYPRODINIL	2003	kg							131.8			
+37	North Carolina	CYPRODINIL	2004	kg							126.1			
+37	North Carolina	CYPRODINIL	2005	kg							151.4			
+37	North Carolina	CYPRODINIL	2006	kg							51.2			
+37	North Carolina	CYPRODINIL	2007	kg							1254.1			
+37	North Carolina	CYPRODINIL	2008	kg							278.9			
+37	North Carolina	CYPRODINIL	2009	kg							421.1			
+37	North Carolina	CYPRODINIL	2010	kg							246.5			
+37	North Carolina	CYPRODINIL	2011	kg							619.9			
+37	North Carolina	CYPRODINIL	2012	kg					88.6		160.1			
+37	North Carolina	CYPRODINIL	2013	kg					614.9		635.7			
+37	North Carolina	CYPRODINIL	2014	kg					130.9		78.6			
+37	North Carolina	CYPRODINIL	2015	kg					725.1		44.5			
+37	North Carolina	CYPRODINIL	2016	kg							538.8			
+37	North Carolina	CYPRODINIL	2017	kg					1336		134			
+39	Ohio	CYPRODINIL	1999	kg							127.7			
+39	Ohio	CYPRODINIL	2000	kg							265.8			
+39	Ohio	CYPRODINIL	2001	kg							165.9			
+39	Ohio	CYPRODINIL	2002	kg					117.1		301.3			
+39	Ohio	CYPRODINIL	2003	kg					93.9		209.3			
+39	Ohio	CYPRODINIL	2004	kg					19.4		145			
+39	Ohio	CYPRODINIL	2005	kg					46.9		23.9			
+39	Ohio	CYPRODINIL	2006	kg					3.8		176.7			
+39	Ohio	CYPRODINIL	2007	kg					38		85.1			
+39	Ohio	CYPRODINIL	2008	kg					64.8		373.1			
+39	Ohio	CYPRODINIL	2009	kg					7.6		110			
+39	Ohio	CYPRODINIL	2010	kg					45.3		95.1			
+39	Ohio	CYPRODINIL	2011	kg					21		365			
+39	Ohio	CYPRODINIL	2012	kg					16		223.1			
+39	Ohio	CYPRODINIL	2013	kg					5.3		217.4			
+39	Ohio	CYPRODINIL	2014	kg					12.7		1050.9			0.6
+39	Ohio	CYPRODINIL	2015	kg							220.6			
+39	Ohio	CYPRODINIL	2016	kg							180.9			
+39	Ohio	CYPRODINIL	2017	kg					141		90.2			
+40	Oklahoma	CYPRODINIL	2007	kg					0					
+41	Oregon	CYPRODINIL	1998	kg							71.5			
+41	Oregon	CYPRODINIL	1999	kg					24.1		240.1			
+41	Oregon	CYPRODINIL	2000	kg							254.1			
+41	Oregon	CYPRODINIL	2001	kg					61.9		544.3			
+41	Oregon	CYPRODINIL	2002	kg					1611		60.3			
+41	Oregon	CYPRODINIL	2003	kg					2259		100.1			
+41	Oregon	CYPRODINIL	2004	kg					271.2		1380.7			
+41	Oregon	CYPRODINIL	2005	kg					72.1					
+41	Oregon	CYPRODINIL	2006	kg					2889.9		63.6			
+41	Oregon	CYPRODINIL	2007	kg					4299.9		1821.8			
+41	Oregon	CYPRODINIL	2008	kg					2303.1		1830.8			
+41	Oregon	CYPRODINIL	2009	kg					3041.7		1965.1			
+41	Oregon	CYPRODINIL	2010	kg					2427.3		532.9			
+41	Oregon	CYPRODINIL	2011	kg					2247.7		470.8			
+41	Oregon	CYPRODINIL	2012	kg					1554.3		875.5			
+41	Oregon	CYPRODINIL	2013	kg					1638.9		1679.5			
+41	Oregon	CYPRODINIL	2014	kg					2012.4		1791.1			
+41	Oregon	CYPRODINIL	2015	kg					1274.6		544.4			
+41	Oregon	CYPRODINIL	2016	kg					923.4		640.8			
+41	Oregon	CYPRODINIL	2017	kg					1359.6		889.2			
+42	Pennsylvania	CYPRODINIL	1999	kg							749.1			
+42	Pennsylvania	CYPRODINIL	2000	kg							2116.1			
+42	Pennsylvania	CYPRODINIL	2001	kg							2083			
+42	Pennsylvania	CYPRODINIL	2002	kg					11.1		358.6			
+42	Pennsylvania	CYPRODINIL	2003	kg					17.1		506.1			
+42	Pennsylvania	CYPRODINIL	2004	kg					1.7		542.6			
+42	Pennsylvania	CYPRODINIL	2005	kg							1050.8			
+42	Pennsylvania	CYPRODINIL	2006	kg							1003.4			
+42	Pennsylvania	CYPRODINIL	2007	kg					91.8		277.9			
+42	Pennsylvania	CYPRODINIL	2008	kg					98.9		1478.5			
+42	Pennsylvania	CYPRODINIL	2009	kg					26.6		615			
+42	Pennsylvania	CYPRODINIL	2010	kg					71.6		1435.3			
+42	Pennsylvania	CYPRODINIL	2011	kg					157.5		3067.1			
+42	Pennsylvania	CYPRODINIL	2012	kg					150.3		2433.8			
+42	Pennsylvania	CYPRODINIL	2013	kg					139.9		1889.1			
+42	Pennsylvania	CYPRODINIL	2014	kg					246.2		2779.4			
+42	Pennsylvania	CYPRODINIL	2015	kg					247.7		1738.4			
+42	Pennsylvania	CYPRODINIL	2016	kg					538		1341.1			
+42	Pennsylvania	CYPRODINIL	2017	kg					283.1		3559.1			
+44	Rhode Island	CYPRODINIL	1999	kg							8.4			
+44	Rhode Island	CYPRODINIL	2000	kg							5.4			
+44	Rhode Island	CYPRODINIL	2001	kg							11.1			
+44	Rhode Island	CYPRODINIL	2002	kg							6.1			
+44	Rhode Island	CYPRODINIL	2003	kg							4.5			
+44	Rhode Island	CYPRODINIL	2004	kg							2.1			
+44	Rhode Island	CYPRODINIL	2005	kg							9.2			
+44	Rhode Island	CYPRODINIL	2006	kg							11.1			
+44	Rhode Island	CYPRODINIL	2007	kg							3			
+44	Rhode Island	CYPRODINIL	2008	kg							42.5			
+44	Rhode Island	CYPRODINIL	2009	kg							13			
+44	Rhode Island	CYPRODINIL	2010	kg					23.1		10.3			
+44	Rhode Island	CYPRODINIL	2011	kg					3.7		20.1			
+44	Rhode Island	CYPRODINIL	2012	kg					18		18.7			
+44	Rhode Island	CYPRODINIL	2013	kg					10.5		17.5			
+44	Rhode Island	CYPRODINIL	2014	kg					16.7		26.6			
+44	Rhode Island	CYPRODINIL	2015	kg					11.9		9.5			
+44	Rhode Island	CYPRODINIL	2016	kg					6.6		11.7			
+44	Rhode Island	CYPRODINIL	2017	kg					7.2		25.8			
+45	South Carolina	CYPRODINIL	2000	kg							40.8			
+45	South Carolina	CYPRODINIL	2001	kg							124.4			
+45	South Carolina	CYPRODINIL	2002	kg							11.7			
+45	South Carolina	CYPRODINIL	2003	kg							9.8			
+45	South Carolina	CYPRODINIL	2004	kg							431.1			
+45	South Carolina	CYPRODINIL	2005	kg							346.2			
+45	South Carolina	CYPRODINIL	2006	kg							1402.7			
+45	South Carolina	CYPRODINIL	2007	kg							80			
+45	South Carolina	CYPRODINIL	2008	kg							1316.5			
+45	South Carolina	CYPRODINIL	2009	kg							959.2			
+45	South Carolina	CYPRODINIL	2010	kg							2067.3			
+45	South Carolina	CYPRODINIL	2011	kg					12.9		957.7			
+45	South Carolina	CYPRODINIL	2012	kg					94		1101.7			
+45	South Carolina	CYPRODINIL	2013	kg					84.4		1183.1			
+45	South Carolina	CYPRODINIL	2014	kg					1230.7		2764.4			
+45	South Carolina	CYPRODINIL	2015	kg					454.5		2144			
+45	South Carolina	CYPRODINIL	2016	kg					229		4055.4			
+45	South Carolina	CYPRODINIL	2017	kg					661.7		2466.3			
+47	Tennessee	CYPRODINIL	1999	kg							19.1			
+47	Tennessee	CYPRODINIL	2000	kg							11.3			
+47	Tennessee	CYPRODINIL	2001	kg							35.7			
+47	Tennessee	CYPRODINIL	2002	kg							2.9			
+47	Tennessee	CYPRODINIL	2003	kg							13.1			
+47	Tennessee	CYPRODINIL	2004	kg							8.8			
+47	Tennessee	CYPRODINIL	2005	kg							12.1			
+47	Tennessee	CYPRODINIL	2006	kg							3.5			
+47	Tennessee	CYPRODINIL	2007	kg							88.7			
+47	Tennessee	CYPRODINIL	2008	kg							15.1			
+47	Tennessee	CYPRODINIL	2009	kg							21.4			
+47	Tennessee	CYPRODINIL	2010	kg							7.6			
+47	Tennessee	CYPRODINIL	2011	kg							39.4			
+47	Tennessee	CYPRODINIL	2012	kg							7.9			
+47	Tennessee	CYPRODINIL	2013	kg					22.9		21.2			
+47	Tennessee	CYPRODINIL	2014	kg							0			
+47	Tennessee	CYPRODINIL	2015	kg							0.8			
+47	Tennessee	CYPRODINIL	2016	kg							21.1			
+47	Tennessee	CYPRODINIL	2017	kg					12.8		6.4			
+48	Texas	CYPRODINIL	2003	kg					4.6					
+48	Texas	CYPRODINIL	2006	kg					526.7					
+48	Texas	CYPRODINIL	2007	kg					231.1					
+48	Texas	CYPRODINIL	2010	kg					89.4					
+48	Texas	CYPRODINIL	2011	kg					593.1					
+48	Texas	CYPRODINIL	2012	kg					599.8					
+48	Texas	CYPRODINIL	2013	kg					552.7					
+48	Texas	CYPRODINIL	2014	kg					654.7					
+49	Utah	CYPRODINIL	2015	kg							2.7			
+50	Vermont	CYPRODINIL	1999	kg							75.8			
+50	Vermont	CYPRODINIL	2000	kg							54.2			
+50	Vermont	CYPRODINIL	2001	kg							112.2			
+50	Vermont	CYPRODINIL	2002	kg							62.4			
+50	Vermont	CYPRODINIL	2003	kg							29.9			
+50	Vermont	CYPRODINIL	2004	kg							20			
+50	Vermont	CYPRODINIL	2005	kg							81			
+50	Vermont	CYPRODINIL	2006	kg							94.4			
+50	Vermont	CYPRODINIL	2007	kg							127.2			
+50	Vermont	CYPRODINIL	2008	kg					6.8		228.7			
+50	Vermont	CYPRODINIL	2009	kg					4.2		106.8			
+50	Vermont	CYPRODINIL	2010	kg					10.7		62.8			
+50	Vermont	CYPRODINIL	2011	kg					43.1		17.9			
+50	Vermont	CYPRODINIL	2012	kg					46.7		178.3			
+50	Vermont	CYPRODINIL	2013	kg					19		142.7			
+50	Vermont	CYPRODINIL	2014	kg					74.2		100.7			
+50	Vermont	CYPRODINIL	2015	kg					47.8		32.8			
+50	Vermont	CYPRODINIL	2016	kg					17.8		121.8			
+50	Vermont	CYPRODINIL	2017	kg					29		291.8			
+51	Virginia	CYPRODINIL	1999	kg							52.6			
+51	Virginia	CYPRODINIL	2000	kg							881.5			
+51	Virginia	CYPRODINIL	2001	kg							512.2			
+51	Virginia	CYPRODINIL	2002	kg							75.4			
+51	Virginia	CYPRODINIL	2003	kg							58.2			
+51	Virginia	CYPRODINIL	2004	kg							425.8			
+51	Virginia	CYPRODINIL	2005	kg							469.5			
+51	Virginia	CYPRODINIL	2006	kg							57.1			
+51	Virginia	CYPRODINIL	2007	kg							24.8			
+51	Virginia	CYPRODINIL	2008	kg							692.6			
+51	Virginia	CYPRODINIL	2009	kg							396.7			
+51	Virginia	CYPRODINIL	2010	kg							254.3			
+51	Virginia	CYPRODINIL	2011	kg							520.6			
+51	Virginia	CYPRODINIL	2012	kg							1738.1			
+51	Virginia	CYPRODINIL	2013	kg					22.1		1255.1			
+51	Virginia	CYPRODINIL	2014	kg					7.5		741.9			
+51	Virginia	CYPRODINIL	2015	kg					51.7		323.7			
+51	Virginia	CYPRODINIL	2016	kg					225.3		2662.1			
+51	Virginia	CYPRODINIL	2017	kg					548.2		93.2			
+53	Washington	CYPRODINIL	1998	kg							1887.8			
+53	Washington	CYPRODINIL	1999	kg					183		311.3			
+53	Washington	CYPRODINIL	2000	kg							1518.5			
+53	Washington	CYPRODINIL	2001	kg					32.5		371.4			
+53	Washington	CYPRODINIL	2002	kg					198.6		3551.2			
+53	Washington	CYPRODINIL	2003	kg					143.9		574.8			
+53	Washington	CYPRODINIL	2004	kg					156.3		78.4			
+53	Washington	CYPRODINIL	2005	kg					670.5					
+53	Washington	CYPRODINIL	2006	kg					1578					
+53	Washington	CYPRODINIL	2007	kg					348.1		33479.1			
+53	Washington	CYPRODINIL	2008	kg					1058.3		18.6			
+53	Washington	CYPRODINIL	2009	kg					1349.9		2013.4			
+53	Washington	CYPRODINIL	2010	kg					1915.3		93.1			
+53	Washington	CYPRODINIL	2011	kg					2669.5		341.2			
+53	Washington	CYPRODINIL	2012	kg					2182.2		882.5			
+53	Washington	CYPRODINIL	2013	kg					4955.6		1040.6			
+53	Washington	CYPRODINIL	2014	kg					3209.5		2236.3			
+53	Washington	CYPRODINIL	2015	kg					1631.2		4475.9			
+53	Washington	CYPRODINIL	2016	kg					354.7		7064.1			
+53	Washington	CYPRODINIL	2017	kg					1065.5		12622.5			
+54	West Virginia	CYPRODINIL	1999	kg							209.7			
+54	West Virginia	CYPRODINIL	2000	kg							426.8			
+54	West Virginia	CYPRODINIL	2001	kg							133.7			
+54	West Virginia	CYPRODINIL	2002	kg					1.3		241.9			
+54	West Virginia	CYPRODINIL	2003	kg					2.9		24.7			
+54	West Virginia	CYPRODINIL	2004	kg					0.1		118.8			
+54	West Virginia	CYPRODINIL	2005	kg							143.6			
+54	West Virginia	CYPRODINIL	2006	kg							179.2			
+54	West Virginia	CYPRODINIL	2007	kg					3.2		44.8			
+54	West Virginia	CYPRODINIL	2008	kg					4.7		254.3			
+54	West Virginia	CYPRODINIL	2009	kg					0.6		161.8			
+54	West Virginia	CYPRODINIL	2010	kg							71.5			
+54	West Virginia	CYPRODINIL	2011	kg							1222.1			
+54	West Virginia	CYPRODINIL	2012	kg					4.1		266.2			
+54	West Virginia	CYPRODINIL	2013	kg					0.9		584			
+54	West Virginia	CYPRODINIL	2014	kg					5.2		1340			
+54	West Virginia	CYPRODINIL	2015	kg							155			
+54	West Virginia	CYPRODINIL	2016	kg					12.5		380.3			
+54	West Virginia	CYPRODINIL	2017	kg					22.7		37.5			
+55	Wisconsin	CYPRODINIL	1999	kg							42.7			
+55	Wisconsin	CYPRODINIL	2000	kg							382.2			
+55	Wisconsin	CYPRODINIL	2001	kg							147			
+55	Wisconsin	CYPRODINIL	2002	kg					67.4		296.5			
+55	Wisconsin	CYPRODINIL	2003	kg					82.5		66.3			
+55	Wisconsin	CYPRODINIL	2004	kg					39.3		118.7			
+55	Wisconsin	CYPRODINIL	2005	kg					72.9		140.8			
+55	Wisconsin	CYPRODINIL	2006	kg							173.8			
+55	Wisconsin	CYPRODINIL	2007	kg							120.8			
+55	Wisconsin	CYPRODINIL	2008	kg					56.8		310.5			
+55	Wisconsin	CYPRODINIL	2009	kg							135.9			
+55	Wisconsin	CYPRODINIL	2010	kg					67.9		175.9			
+55	Wisconsin	CYPRODINIL	2011	kg					271.9		496.5			
+55	Wisconsin	CYPRODINIL	2012	kg					29.3		188.2			
+55	Wisconsin	CYPRODINIL	2013	kg					933.3		198.4			
+55	Wisconsin	CYPRODINIL	2014	kg					36.5		173.1			
+55	Wisconsin	CYPRODINIL	2015	kg					1559.4		165.1			
+55	Wisconsin	CYPRODINIL	2016	kg					867.6		104.1			
+55	Wisconsin	CYPRODINIL	2017	kg					928.2		206.2			

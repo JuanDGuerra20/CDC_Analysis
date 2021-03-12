@@ -1,0 +1,120 @@
+01	Alabama	SULFOXAFLOR	2013	kg				2035.4			50.7			
+01	Alabama	SULFOXAFLOR	2014	kg				1600			36.1			
+01	Alabama	SULFOXAFLOR	2015	kg				2254.9			27.3			47.5
+01	Alabama	SULFOXAFLOR	2016	kg				1560.1			53.9			9.6
+01	Alabama	SULFOXAFLOR	2017	kg				1897.5			391.4			
+04	Arizona	SULFOXAFLOR	2013	kg				1979.5						
+04	Arizona	SULFOXAFLOR	2014	kg				1529.3	36.7		197.9	169.8		
+04	Arizona	SULFOXAFLOR	2015	kg				2194.5	199					
+04	Arizona	SULFOXAFLOR	2016	kg					76.6					
+04	Arizona	SULFOXAFLOR	2017	kg				3522.8	336.9					
+05	Arkansas	SULFOXAFLOR	2012	kg				204.6						
+05	Arkansas	SULFOXAFLOR	2013	kg				2603.8						
+05	Arkansas	SULFOXAFLOR	2014	kg				8697.7						829.3
+05	Arkansas	SULFOXAFLOR	2015	kg				4225.1						3340.3
+05	Arkansas	SULFOXAFLOR	2016	kg				6960.9						43.5
+05	Arkansas	SULFOXAFLOR	2017	kg				6487.9						
+06	California	SULFOXAFLOR	2015	kg					919		0			0.2
+06	California	SULFOXAFLOR	2016	kg					8.8					
+06	California	SULFOXAFLOR	2017	kg				4864	946.4					0.5
+08	Colorado	SULFOXAFLOR	2013	kg					145.8					
+08	Colorado	SULFOXAFLOR	2014	kg										1644.5
+08	Colorado	SULFOXAFLOR	2015	kg										4.7
+08	Colorado	SULFOXAFLOR	2016	kg										47.4
+08	Colorado	SULFOXAFLOR	2017	kg										427.8
+10	Delaware	SULFOXAFLOR	2013	kg					0.2					
+12	Florida	SULFOXAFLOR	2013	kg							8.8			
+12	Florida	SULFOXAFLOR	2014	kg							1679.3			
+12	Florida	SULFOXAFLOR	2015	kg				37	74.8		3029			20.1
+12	Florida	SULFOXAFLOR	2016	kg							11.9			7.3
+12	Florida	SULFOXAFLOR	2017	kg				30.2			18.2			
+13	Georgia	SULFOXAFLOR	2013	kg				4217.3			266.4			
+13	Georgia	SULFOXAFLOR	2014	kg				3693.8			388.5			29.4
+13	Georgia	SULFOXAFLOR	2015	kg				454.5			704.2			428.4
+13	Georgia	SULFOXAFLOR	2016	kg				3064.9			654			82.4
+13	Georgia	SULFOXAFLOR	2017	kg				282.4			2789.6			
+16	Idaho	SULFOXAFLOR	2017	kg					671.6					103.3
+17	Illinois	SULFOXAFLOR	2016	kg			100.6							
+18	Indiana	SULFOXAFLOR	2015	kg							0			
+18	Indiana	SULFOXAFLOR	2016	kg			20.7							
+19	Iowa	SULFOXAFLOR	2015	kg		1464.7								
+20	Kansas	SULFOXAFLOR	2013	kg				3.9	4					
+20	Kansas	SULFOXAFLOR	2014	kg				250.7						14651.8
+20	Kansas	SULFOXAFLOR	2015	kg				253						2235.5
+20	Kansas	SULFOXAFLOR	2016	kg				308.5						1711.1
+20	Kansas	SULFOXAFLOR	2017	kg				89.8						3039.3
+22	Louisiana	SULFOXAFLOR	2012	kg				968.9						
+22	Louisiana	SULFOXAFLOR	2013	kg				1909						
+22	Louisiana	SULFOXAFLOR	2014	kg				2416.5						1463.1
+22	Louisiana	SULFOXAFLOR	2015	kg				2442.2						1444.1
+22	Louisiana	SULFOXAFLOR	2016	kg				2632.7						11.9
+22	Louisiana	SULFOXAFLOR	2017	kg				5153.9						254.2
+23	Maine	SULFOXAFLOR	2013	kg					5.2					
+23	Maine	SULFOXAFLOR	2014	kg					0.5					
+23	Maine	SULFOXAFLOR	2015	kg					116.4					
+24	Maryland	SULFOXAFLOR	2013	kg					0.8					
+26	Michigan	SULFOXAFLOR	2015	kg							5			
+27	Minnesota	SULFOXAFLOR	2015	kg		3513.1								
+28	Mississippi	SULFOXAFLOR	2012	kg				173.3						
+28	Mississippi	SULFOXAFLOR	2013	kg				2947.7			2.2			
+28	Mississippi	SULFOXAFLOR	2014	kg				3154.5			2.4			463.9
+28	Mississippi	SULFOXAFLOR	2015	kg				3304.5			3.9			393
+28	Mississippi	SULFOXAFLOR	2016	kg				1993.3			4.8			11.7
+28	Mississippi	SULFOXAFLOR	2017	kg				2083.1			18			8
+29	Missouri	SULFOXAFLOR	2013	kg				204.9						
+29	Missouri	SULFOXAFLOR	2014	kg				2825						78
+29	Missouri	SULFOXAFLOR	2015	kg				4408.7						491.8
+29	Missouri	SULFOXAFLOR	2016	kg				142.9						11.7
+29	Missouri	SULFOXAFLOR	2017	kg				228						
+30	Montana	SULFOXAFLOR	2017	kg					28.4					
+31	Nebraska	SULFOXAFLOR	2013	kg					589					
+32	Nevada	SULFOXAFLOR	2015	kg					0					
+34	New Jersey	SULFOXAFLOR	2013	kg					3					
+35	New Mexico	SULFOXAFLOR	2013	kg				52.4			2.3			
+35	New Mexico	SULFOXAFLOR	2014	kg				77.6	2.3		67.8	16.3		351.5
+35	New Mexico	SULFOXAFLOR	2015	kg				209.5	0.1		123.1			97.3
+35	New Mexico	SULFOXAFLOR	2016	kg					0					55.1
+35	New Mexico	SULFOXAFLOR	2017	kg				149.1	0		126.8			28.6
+37	North Carolina	SULFOXAFLOR	2013	kg				2019.5						
+37	North Carolina	SULFOXAFLOR	2014	kg				472.5						
+37	North Carolina	SULFOXAFLOR	2015	kg				700.8			0			
+37	North Carolina	SULFOXAFLOR	2016	kg				373.7			0.2			
+37	North Carolina	SULFOXAFLOR	2017	kg				221.8						
+38	North Dakota	SULFOXAFLOR	2015	kg		1024								
+40	Oklahoma	SULFOXAFLOR	2013	kg				19.3						
+40	Oklahoma	SULFOXAFLOR	2014	kg				749.4			41.5			2007.3
+40	Oklahoma	SULFOXAFLOR	2015	kg				975.3			88.7			1520.4
+40	Oklahoma	SULFOXAFLOR	2016	kg				541.6						401.2
+40	Oklahoma	SULFOXAFLOR	2017	kg				241.2			82.1			1555.3
+41	Oregon	SULFOXAFLOR	2017	kg										5.8
+42	Pennsylvania	SULFOXAFLOR	2013	kg					7.2					
+42	Pennsylvania	SULFOXAFLOR	2017	kg							169.7			
+45	South Carolina	SULFOXAFLOR	2013	kg							0.2			
+45	South Carolina	SULFOXAFLOR	2014	kg							1			
+45	South Carolina	SULFOXAFLOR	2015	kg							10			
+45	South Carolina	SULFOXAFLOR	2016	kg							1.2			
+45	South Carolina	SULFOXAFLOR	2017	kg							2.8			
+46	South Dakota	SULFOXAFLOR	2015	kg		637.3								
+47	Tennessee	SULFOXAFLOR	2012	kg				48.4						
+47	Tennessee	SULFOXAFLOR	2013	kg				1556.4						
+47	Tennessee	SULFOXAFLOR	2014	kg				3053						22.7
+47	Tennessee	SULFOXAFLOR	2015	kg				1723.8						51.4
+47	Tennessee	SULFOXAFLOR	2016	kg				1494.5						1.1
+47	Tennessee	SULFOXAFLOR	2017	kg				893.3						
+48	Texas	SULFOXAFLOR	2013	kg				2115.7			308.2			
+48	Texas	SULFOXAFLOR	2014	kg				2936	29.9		349.4			11415.8
+48	Texas	SULFOXAFLOR	2015	kg				7695.9	34.1		795.7			4594.3
+48	Texas	SULFOXAFLOR	2016	kg				513.8						4109.4
+48	Texas	SULFOXAFLOR	2017	kg				6023			287.3			5211.6
+51	Virginia	SULFOXAFLOR	2013	kg				323.6						
+51	Virginia	SULFOXAFLOR	2014	kg				127.2						
+51	Virginia	SULFOXAFLOR	2015	kg				505						
+51	Virginia	SULFOXAFLOR	2016	kg				62.9						
+51	Virginia	SULFOXAFLOR	2017	kg				26.6						
+53	Washington	SULFOXAFLOR	2013	kg							4.4			
+53	Washington	SULFOXAFLOR	2014	kg							357.4			
+53	Washington	SULFOXAFLOR	2015	kg					196.7		164.2			
+53	Washington	SULFOXAFLOR	2017	kg							534			
+55	Wisconsin	SULFOXAFLOR	2015	kg		291.7								
+55	Wisconsin	SULFOXAFLOR	2016	kg			112.4							
+56	Wyoming	SULFOXAFLOR	2017	kg					0					

@@ -1,0 +1,36 @@
+05	Arkansas	SILICATES	1993	kg					59					
+05	Arkansas	SILICATES	1996	kg									316.1	
+06	California	SILICATES	1993	kg					686.4		15.9			
+06	California	SILICATES	1994	kg				11.3	1816.6		214.6	546.8		
+06	California	SILICATES	1995	kg					967.7		2184.9			
+06	California	SILICATES	1996	kg				34	220.4		1390.8			
+06	California	SILICATES	1997	kg					29.8		772.6			
+06	California	SILICATES	1998	kg					228		2494.6			
+06	California	SILICATES	1999	kg					1688.5		3035.5			
+06	California	SILICATES	2000	kg					2107.4		1382			
+06	California	SILICATES	2001	kg					989		675.8			
+06	California	SILICATES	2002	kg					1456.6		29.8			
+06	California	SILICATES	2003	kg					1392.2		218.5			
+06	California	SILICATES	2004	kg					2729.2		6598.8			
+06	California	SILICATES	2005	kg					2267.7		10.4			
+06	California	SILICATES	2006	kg					815.3		519.6	37.4		
+06	California	SILICATES	2007	kg					6230.6		22.9			
+06	California	SILICATES	2008	kg					7190.5		376.6			5.8
+06	California	SILICATES	2009	kg					4639.7		1344.9			0.5
+06	California	SILICATES	2010	kg					962.6		20.9			
+06	California	SILICATES	2011	kg							3.6			
+06	California	SILICATES	2012	kg					4.4		19.6			
+06	California	SILICATES	2013	kg					0		14			
+06	California	SILICATES	2014	kg	0.1				0		0.2			
+06	California	SILICATES	2015	kg	0				68.1		0.4			
+06	California	SILICATES	2016	kg					2750		21.7			
+06	California	SILICATES	2017	kg					1061.2					
+22	Louisiana	SILICATES	1993	kg					238.6					
+29	Missouri	SILICATES	1996	kg									198.9	
+37	North Carolina	SILICATES	1994	kg					77868					
+40	Oklahoma	SILICATES	1992	kg										12315.9
+40	Oklahoma	SILICATES	1993	kg					118.1					
+47	Tennessee	SILICATES	1996	kg									34.8	
+48	Texas	SILICATES	1992	kg										1020521.9
+48	Texas	SILICATES	1993	kg					17750.8					
+51	Virginia	SILICATES	1994	kg					4503.7					

@@ -1,0 +1,854 @@
+01	Alabama	SPINOSYN	1997	kg				583.3						
+01	Alabama	SPINOSYN	1998	kg				1412.8	15					0
+01	Alabama	SPINOSYN	1999	kg				573.5						0
+01	Alabama	SPINOSYN	2000	kg				1444.7	24.8					0
+01	Alabama	SPINOSYN	2001	kg				1043.8	2.2					0
+01	Alabama	SPINOSYN	2002	kg				2004.5	177.9					24.6
+01	Alabama	SPINOSYN	2003	kg				698.2	0.4					0
+01	Alabama	SPINOSYN	2004	kg				140.9	48.9		86.6			84.9
+01	Alabama	SPINOSYN	2005	kg				2410.1	59.3					64.2
+01	Alabama	SPINOSYN	2006	kg				526.6						0
+01	Alabama	SPINOSYN	2007	kg				128.3	3.6					73.7
+01	Alabama	SPINOSYN	2008	kg				442.6	0		20.6			166.4
+01	Alabama	SPINOSYN	2009	kg				132.3	3.9					
+01	Alabama	SPINOSYN	2010	kg		24.9			0		201			88.8
+01	Alabama	SPINOSYN	2012	kg		715.1			0.4					
+01	Alabama	SPINOSYN	2013	kg		326.4								
+01	Alabama	SPINOSYN	2014	kg		77.6								1239.8
+01	Alabama	SPINOSYN	2016	kg		225.3								
+04	Arizona	SPINOSYN	1998	kg					2986.2		406.9			
+04	Arizona	SPINOSYN	1999	kg					14029.7		214			
+04	Arizona	SPINOSYN	2000	kg					4900.4		547.3			
+04	Arizona	SPINOSYN	2001	kg					5284.7		417.3			
+04	Arizona	SPINOSYN	2002	kg				430.7	5529.9		958.9			
+04	Arizona	SPINOSYN	2003	kg					7744.4		578.2			
+04	Arizona	SPINOSYN	2004	kg					6186.9		1155.1			
+04	Arizona	SPINOSYN	2005	kg					6535.3		832.3	620.4		
+04	Arizona	SPINOSYN	2006	kg					8130.6		892.3			
+04	Arizona	SPINOSYN	2007	kg					7620.9		659.6			
+04	Arizona	SPINOSYN	2008	kg					5282		738.8			
+04	Arizona	SPINOSYN	2009	kg					1212.7		806.1			
+04	Arizona	SPINOSYN	2010	kg					1987		457.8			
+04	Arizona	SPINOSYN	2011	kg					1116.2		241.8			
+04	Arizona	SPINOSYN	2012	kg					701.3		130.3			
+04	Arizona	SPINOSYN	2013	kg					388.8		58.9			
+04	Arizona	SPINOSYN	2014	kg					1368.1		236.9			
+04	Arizona	SPINOSYN	2015	kg					410.5		401.6			
+04	Arizona	SPINOSYN	2016	kg					380.2		24.2			
+04	Arizona	SPINOSYN	2017	kg					2422.6		41.2			
+05	Arkansas	SPINOSYN	1997	kg				3017.4						
+05	Arkansas	SPINOSYN	1998	kg				1726.6						
+05	Arkansas	SPINOSYN	1999	kg				341.6	7					
+05	Arkansas	SPINOSYN	2000	kg				7600.4	6					
+05	Arkansas	SPINOSYN	2001	kg			190.2	8051	4.5					
+05	Arkansas	SPINOSYN	2002	kg				11989	18.9					
+05	Arkansas	SPINOSYN	2003	kg				378.6	14.9		103.3			
+05	Arkansas	SPINOSYN	2004	kg				941.1	23.5					
+05	Arkansas	SPINOSYN	2005	kg				1876.6	28.1					
+05	Arkansas	SPINOSYN	2006	kg				644.1	31.3					
+05	Arkansas	SPINOSYN	2007	kg				147.4	11					
+05	Arkansas	SPINOSYN	2008	kg				293.5	0					
+05	Arkansas	SPINOSYN	2010	kg					0					
+05	Arkansas	SPINOSYN	2012	kg				220.5						
+05	Arkansas	SPINOSYN	2013	kg				182.9						
+05	Arkansas	SPINOSYN	2015	kg										722.3
+06	California	SPINOSYN	1997	kg					4783.6		107.9			
+06	California	SPINOSYN	1998	kg	3.9		1.3	46.7	11445		5632.6		3.4	8.5
+06	California	SPINOSYN	1999	kg	3.8			115.4	15084.6		7124.7	3.9	4.7	0.7
+06	California	SPINOSYN	2000	kg	24.5		4.1	57.8	14927.2		9602.4			5.9
+06	California	SPINOSYN	2001	kg	369.2		0.5	389.9	14768.2		7698.6			32.1
+06	California	SPINOSYN	2002	kg	82.8			16.9	16550.8		8103.4		0.2	104.8
+06	California	SPINOSYN	2003	kg	215.1		5.5	216.6	19998.8		7063.7			228.7
+06	California	SPINOSYN	2004	kg	158.1		16.8	51.7	20295.7		9081.7		0.2	345.6
+06	California	SPINOSYN	2005	kg	118.8		0.9	1300.3	20409.1		13046.2		0	187.4
+06	California	SPINOSYN	2006	kg	258			13.7	22300.3		13638.4	12.2	6.5	128.5
+06	California	SPINOSYN	2007	kg	250.6			20.6	23507.8		15721.2	74.1	7.6	151.1
+06	California	SPINOSYN	2008	kg	112.1			17.5	11345.9	0	9809.5	36.1	4.7	107.6
+06	California	SPINOSYN	2009	kg	53.4			4.6	8787.9		9980.4		1	54.3
+06	California	SPINOSYN	2010	kg	16.5		0	10.5	8193.1	0	8213.5			143.7
+06	California	SPINOSYN	2011	kg	96.6			6	5324.2		7070.9	17.2	0.3	160.7
+06	California	SPINOSYN	2012	kg	84			9.3	5935.2		4866.7	31.2		185.3
+06	California	SPINOSYN	2013	kg	50.6			21.3	6612.7		5097.5	30.1		153.5
+06	California	SPINOSYN	2014	kg	88.9		4.7	18.2	9705.2		6084.3	42.1		125.3
+06	California	SPINOSYN	2015	kg	86.3		0	25.8	9243.8		6158.6	49.9	0.4	142.9
+06	California	SPINOSYN	2016	kg	65.4			0.5	9204.8		4976.2	76.3		89.5
+06	California	SPINOSYN	2017	kg	138.9		5.4	2.9	9183.8		5672.6	59	2.8	88.8
+08	Colorado	SPINOSYN	1998	kg					37.3					
+08	Colorado	SPINOSYN	1999	kg					447.3					
+08	Colorado	SPINOSYN	2000	kg					6.7					
+08	Colorado	SPINOSYN	2001	kg					29.5		4			
+08	Colorado	SPINOSYN	2002	kg					14.3		34.3			
+08	Colorado	SPINOSYN	2003	kg					34.2		35.7			
+08	Colorado	SPINOSYN	2004	kg					2.7		44.7			
+08	Colorado	SPINOSYN	2006	kg					33.4					
+08	Colorado	SPINOSYN	2007	kg					17.1					
+08	Colorado	SPINOSYN	2008	kg					121.1					
+08	Colorado	SPINOSYN	2009	kg					18.4					
+08	Colorado	SPINOSYN	2010	kg					22.1					
+08	Colorado	SPINOSYN	2011	kg					65.7					
+08	Colorado	SPINOSYN	2013	kg					38					
+08	Colorado	SPINOSYN	2014	kg					14					
+08	Colorado	SPINOSYN	2015	kg					56.2		149.9			
+08	Colorado	SPINOSYN	2016	kg					43.2					
+08	Colorado	SPINOSYN	2017	kg					44.8					8.8
+09	Connecticut	SPINOSYN	1999	kg					1.5		7.7			
+09	Connecticut	SPINOSYN	2000	kg					0.8		90.9			
+09	Connecticut	SPINOSYN	2001	kg					2.3		19.3			
+09	Connecticut	SPINOSYN	2002	kg					0					
+09	Connecticut	SPINOSYN	2003	kg					39.1		84.7			
+09	Connecticut	SPINOSYN	2004	kg					1		10.2			
+09	Connecticut	SPINOSYN	2005	kg					3.2		21.1			
+09	Connecticut	SPINOSYN	2006	kg					9.5		14.1			
+09	Connecticut	SPINOSYN	2007	kg					0.1		23.2			
+09	Connecticut	SPINOSYN	2008	kg					2.1		40.7			
+09	Connecticut	SPINOSYN	2009	kg					31.2					
+09	Connecticut	SPINOSYN	2010	kg					5		2.4			
+09	Connecticut	SPINOSYN	2011	kg					4.2					
+09	Connecticut	SPINOSYN	2012	kg					3.7					
+09	Connecticut	SPINOSYN	2013	kg					25.8					
+09	Connecticut	SPINOSYN	2014	kg					99.2					
+09	Connecticut	SPINOSYN	2015	kg					0.1					
+09	Connecticut	SPINOSYN	2016	kg					0					
+09	Connecticut	SPINOSYN	2017	kg					1.7					
+10	Delaware	SPINOSYN	1998	kg					5.3					
+10	Delaware	SPINOSYN	1999	kg					79.3					
+10	Delaware	SPINOSYN	2000	kg					364.7		0.1			
+10	Delaware	SPINOSYN	2001	kg					64.2					
+10	Delaware	SPINOSYN	2002	kg					120.1					
+10	Delaware	SPINOSYN	2003	kg					63.7					
+10	Delaware	SPINOSYN	2004	kg					178.6					
+10	Delaware	SPINOSYN	2005	kg					4.8					
+10	Delaware	SPINOSYN	2006	kg					30.2		0			
+10	Delaware	SPINOSYN	2007	kg					59.4		0			
+10	Delaware	SPINOSYN	2008	kg					4.2					
+10	Delaware	SPINOSYN	2009	kg					0					
+10	Delaware	SPINOSYN	2010	kg		252			0					
+10	Delaware	SPINOSYN	2012	kg		136.8			0.5					
+10	Delaware	SPINOSYN	2013	kg		144.4								
+10	Delaware	SPINOSYN	2014	kg		35.5			1.6					
+10	Delaware	SPINOSYN	2016	kg		105.2								
+12	Florida	SPINOSYN	1997	kg				26.6						
+12	Florida	SPINOSYN	1998	kg				294.3	5006.8					8.1
+12	Florida	SPINOSYN	1999	kg				226.9	2328.7		76			30.9
+12	Florida	SPINOSYN	2000	kg				116.4	1687.3					126.6
+12	Florida	SPINOSYN	2001	kg				25.2	3212.4		14.6			15.1
+12	Florida	SPINOSYN	2002	kg				507.4	5009.8					76.9
+12	Florida	SPINOSYN	2003	kg				94.7	3849.1					34.2
+12	Florida	SPINOSYN	2004	kg				8.5	7674					108.5
+12	Florida	SPINOSYN	2005	kg				476.5	2534.6		32.4			63
+12	Florida	SPINOSYN	2006	kg				53.6	2864.4					47.4
+12	Florida	SPINOSYN	2007	kg		11.1		10.2	3845.1		105.8			35.2
+12	Florida	SPINOSYN	2008	kg				210.3	1839.2		167			2363.3
+12	Florida	SPINOSYN	2009	kg				58.2	1019.6					52.1
+12	Florida	SPINOSYN	2010	kg					1161.1		44.7			1424.2
+12	Florida	SPINOSYN	2011	kg					5718.7					31.5
+12	Florida	SPINOSYN	2012	kg					1279.6					9.3
+12	Florida	SPINOSYN	2013	kg					328.9					79.2
+12	Florida	SPINOSYN	2014	kg										18.8
+12	Florida	SPINOSYN	2015	kg					1329.6					8.5
+12	Florida	SPINOSYN	2016	kg										84.6
+12	Florida	SPINOSYN	2017	kg										26.2
+13	Georgia	SPINOSYN	1997	kg				1236.9						
+13	Georgia	SPINOSYN	1998	kg				1836.9	120.2					105.9
+13	Georgia	SPINOSYN	1999	kg				3405.4	430.9					293.2
+13	Georgia	SPINOSYN	2000	kg				4159.4	740.6					252.4
+13	Georgia	SPINOSYN	2001	kg				829.2	12289.6					135.1
+13	Georgia	SPINOSYN	2002	kg				4269.3	1124.5					747.8
+13	Georgia	SPINOSYN	2003	kg				1634.5	1633.4					296
+13	Georgia	SPINOSYN	2004	kg				184.9	1898.8					2164.5
+13	Georgia	SPINOSYN	2005	kg				5602.3	437.2		0			632
+13	Georgia	SPINOSYN	2006	kg				1737.6	314					270.8
+13	Georgia	SPINOSYN	2007	kg		1454.3		3026.2	1181.5					416.5
+13	Georgia	SPINOSYN	2008	kg				2363.9	811.1		5.9			647.1
+13	Georgia	SPINOSYN	2009	kg				608.2	270.1					914.5
+13	Georgia	SPINOSYN	2010	kg		15.2		724.8	181.9		1537.5			1480.6
+13	Georgia	SPINOSYN	2011	kg					19.8					1011.8
+13	Georgia	SPINOSYN	2012	kg		137.6			105					2245.2
+13	Georgia	SPINOSYN	2013	kg		135.6								515.1
+13	Georgia	SPINOSYN	2014	kg		33.6								3796.7
+13	Georgia	SPINOSYN	2015	kg										390.8
+13	Georgia	SPINOSYN	2016	kg		94.1								1096.8
+13	Georgia	SPINOSYN	2017	kg										814.5
+16	Idaho	SPINOSYN	1998	kg							16.7			
+16	Idaho	SPINOSYN	1999	kg							165.1			
+16	Idaho	SPINOSYN	2000	kg							517.5			
+16	Idaho	SPINOSYN	2001	kg							56.3			
+16	Idaho	SPINOSYN	2002	kg							88.8			
+16	Idaho	SPINOSYN	2003	kg					63.4		70.2			
+16	Idaho	SPINOSYN	2004	kg							95.9			
+16	Idaho	SPINOSYN	2005	kg							79.2			
+16	Idaho	SPINOSYN	2006	kg					55.8		93.5			
+16	Idaho	SPINOSYN	2007	kg					190.1		156.4			
+16	Idaho	SPINOSYN	2008	kg					81.2		57.3			
+16	Idaho	SPINOSYN	2009	kg					32.2		59.4			
+16	Idaho	SPINOSYN	2010	kg					367.5		27			
+16	Idaho	SPINOSYN	2011	kg					38.9		36.6			
+16	Idaho	SPINOSYN	2012	kg					346.1		17.2			
+16	Idaho	SPINOSYN	2013	kg					1358.1		33.1			
+16	Idaho	SPINOSYN	2014	kg					1524.2		26.6			
+16	Idaho	SPINOSYN	2015	kg					1523.1		55.3			
+16	Idaho	SPINOSYN	2016	kg					683.5		26.6			
+16	Idaho	SPINOSYN	2017	kg					1440.8		47.6			
+17	Illinois	SPINOSYN	1999	kg					5.7					0.3
+17	Illinois	SPINOSYN	2000	kg					24.2		32.3			1.6
+17	Illinois	SPINOSYN	2001	kg					28.6		100.3			3
+17	Illinois	SPINOSYN	2002	kg					3.4					0.4
+17	Illinois	SPINOSYN	2003	kg					14.1					0.1
+17	Illinois	SPINOSYN	2004	kg					9.5		30.9			0.7
+17	Illinois	SPINOSYN	2005	kg					20.8					0.1
+17	Illinois	SPINOSYN	2006	kg	51.7				171.7					0.5
+17	Illinois	SPINOSYN	2007	kg					24.8					0.5
+17	Illinois	SPINOSYN	2008	kg					1.8					0.2
+17	Illinois	SPINOSYN	2009	kg					3.9					
+17	Illinois	SPINOSYN	2010	kg										1.6
+17	Illinois	SPINOSYN	2011	kg					230.2					2.3
+17	Illinois	SPINOSYN	2012	kg					35.8					
+17	Illinois	SPINOSYN	2013	kg					2.9					
+17	Illinois	SPINOSYN	2014	kg					89.3					0.1
+17	Illinois	SPINOSYN	2015	kg					194					0.9
+17	Illinois	SPINOSYN	2016	kg			64.1		90.9					0.3
+17	Illinois	SPINOSYN	2017	kg					51.7					1
+18	Indiana	SPINOSYN	1999	kg					1.7		4.3			5
+18	Indiana	SPINOSYN	2000	kg					5.3		16.6			3.1
+18	Indiana	SPINOSYN	2001	kg					0.4		14.7			36.7
+18	Indiana	SPINOSYN	2002	kg							0.4			0.7
+18	Indiana	SPINOSYN	2003	kg					3.2		9.6			0.1
+18	Indiana	SPINOSYN	2004	kg					1.2		34.2			
+18	Indiana	SPINOSYN	2005	kg					2.6		7.5			0.1
+18	Indiana	SPINOSYN	2006	kg	42									3.2
+18	Indiana	SPINOSYN	2007	kg							13.5			0.4
+18	Indiana	SPINOSYN	2008	kg										0
+18	Indiana	SPINOSYN	2010	kg										4.6
+18	Indiana	SPINOSYN	2011	kg										1.2
+18	Indiana	SPINOSYN	2013	kg					42.9					3.6
+18	Indiana	SPINOSYN	2014	kg					32.1					1.9
+18	Indiana	SPINOSYN	2015	kg					53.3					1.6
+18	Indiana	SPINOSYN	2016	kg					8					
+19	Iowa	SPINOSYN	2001	kg					0.5					
+19	Iowa	SPINOSYN	2002	kg					0.7					
+19	Iowa	SPINOSYN	2006	kg					11					
+19	Iowa	SPINOSYN	2009	kg					1.7					
+19	Iowa	SPINOSYN	2011	kg					21.6					
+19	Iowa	SPINOSYN	2014	kg					8.5					
+19	Iowa	SPINOSYN	2015	kg					8.2					
+19	Iowa	SPINOSYN	2016	kg			3.5		3					
+19	Iowa	SPINOSYN	2017	kg					0					
+20	Kansas	SPINOSYN	2003	kg							2.1			
+20	Kansas	SPINOSYN	2004	kg							3.4			
+20	Kansas	SPINOSYN	2008	kg					3.3					
+20	Kansas	SPINOSYN	2009	kg					0					
+20	Kansas	SPINOSYN	2015	kg										202
+20	Kansas	SPINOSYN	2017	kg										784
+21	Kentucky	SPINOSYN	1999	kg										206
+21	Kentucky	SPINOSYN	2000	kg										181.8
+21	Kentucky	SPINOSYN	2001	kg										751.1
+21	Kentucky	SPINOSYN	2002	kg										334.4
+21	Kentucky	SPINOSYN	2003	kg										273.3
+21	Kentucky	SPINOSYN	2004	kg										226.1
+21	Kentucky	SPINOSYN	2005	kg					8.9					77.6
+21	Kentucky	SPINOSYN	2006	kg	14.9									159.6
+21	Kentucky	SPINOSYN	2007	kg										184.2
+21	Kentucky	SPINOSYN	2008	kg										14.6
+21	Kentucky	SPINOSYN	2009	kg										50.1
+21	Kentucky	SPINOSYN	2010	kg										360.2
+21	Kentucky	SPINOSYN	2011	kg										341.8
+21	Kentucky	SPINOSYN	2012	kg										393.7
+21	Kentucky	SPINOSYN	2013	kg										178.8
+21	Kentucky	SPINOSYN	2014	kg										117.7
+21	Kentucky	SPINOSYN	2015	kg										147
+21	Kentucky	SPINOSYN	2016	kg										297.3
+21	Kentucky	SPINOSYN	2017	kg										102.9
+22	Louisiana	SPINOSYN	1997	kg				545.7						
+22	Louisiana	SPINOSYN	1998	kg				6663.7						
+22	Louisiana	SPINOSYN	1999	kg				3173.6						
+22	Louisiana	SPINOSYN	2000	kg				4074.1	0					
+22	Louisiana	SPINOSYN	2001	kg				2609.7						
+22	Louisiana	SPINOSYN	2002	kg				7822.2	8.5					
+22	Louisiana	SPINOSYN	2003	kg				634.6			167.8			
+22	Louisiana	SPINOSYN	2004	kg				1538.8	9.8					
+22	Louisiana	SPINOSYN	2005	kg				257.4	7.6					
+22	Louisiana	SPINOSYN	2006	kg				539.8						
+22	Louisiana	SPINOSYN	2007	kg				167.3						
+22	Louisiana	SPINOSYN	2008	kg				130.4						
+22	Louisiana	SPINOSYN	2015	kg										1000.6
+22	Louisiana	SPINOSYN	2017	kg		42.9		1						
+23	Maine	SPINOSYN	1999	kg					795.6					
+23	Maine	SPINOSYN	2000	kg					1109.4					
+23	Maine	SPINOSYN	2001	kg					1435.5					
+23	Maine	SPINOSYN	2002	kg					8.4					
+23	Maine	SPINOSYN	2003	kg					95.6					
+23	Maine	SPINOSYN	2004	kg					6.7					
+23	Maine	SPINOSYN	2005	kg					85					
+23	Maine	SPINOSYN	2006	kg					242					
+23	Maine	SPINOSYN	2007	kg					80.4					
+23	Maine	SPINOSYN	2008	kg					206.2					
+23	Maine	SPINOSYN	2009	kg					79.9					
+23	Maine	SPINOSYN	2010	kg					59.7					
+23	Maine	SPINOSYN	2011	kg					88.6					
+23	Maine	SPINOSYN	2012	kg					212.7					
+23	Maine	SPINOSYN	2013	kg					77.4					
+23	Maine	SPINOSYN	2014	kg					38.3					
+23	Maine	SPINOSYN	2015	kg					167.3					
+23	Maine	SPINOSYN	2016	kg					191.8					
+23	Maine	SPINOSYN	2017	kg					78.3					
+24	Maryland	SPINOSYN	1998	kg					46.9					0.1
+24	Maryland	SPINOSYN	1999	kg					4.4		6.5			0.1
+24	Maryland	SPINOSYN	2000	kg					34.3		32.6			0.1
+24	Maryland	SPINOSYN	2001	kg					15.4		43.8			0.2
+24	Maryland	SPINOSYN	2002	kg					60.7		0.8			0.2
+24	Maryland	SPINOSYN	2003	kg					78.7		76.3			0.2
+24	Maryland	SPINOSYN	2004	kg					117.9		13.7			0.1
+24	Maryland	SPINOSYN	2005	kg					3.8		23.6			0.2
+24	Maryland	SPINOSYN	2006	kg					13.7		13.7			0.4
+24	Maryland	SPINOSYN	2007	kg					37.2		19			0.1
+24	Maryland	SPINOSYN	2008	kg					12.6		26.8			0.2
+24	Maryland	SPINOSYN	2009	kg					12.2					0
+24	Maryland	SPINOSYN	2010	kg		385.2			0					0.1
+24	Maryland	SPINOSYN	2011	kg					0.5					0.7
+24	Maryland	SPINOSYN	2012	kg		309.6			6.2					0
+24	Maryland	SPINOSYN	2013	kg		334.3			15					0.3
+24	Maryland	SPINOSYN	2014	kg		76.4			90.4					0.1
+24	Maryland	SPINOSYN	2015	kg					0.4					0.2
+24	Maryland	SPINOSYN	2016	kg		261.4			1.1					0.4
+24	Maryland	SPINOSYN	2017	kg					0.5					0.9
+25	Massachusetts	SPINOSYN	1999	kg					41		15			
+25	Massachusetts	SPINOSYN	2000	kg					29.6		175.7			
+25	Massachusetts	SPINOSYN	2001	kg					109.6		37			
+25	Massachusetts	SPINOSYN	2002	kg					26.5					
+25	Massachusetts	SPINOSYN	2003	kg					54.4		159.9			
+25	Massachusetts	SPINOSYN	2004	kg					30.8		1.7			
+25	Massachusetts	SPINOSYN	2005	kg					91.9		38.6			
+25	Massachusetts	SPINOSYN	2006	kg					94.2		25.2			
+25	Massachusetts	SPINOSYN	2007	kg					55.5		41.2			
+25	Massachusetts	SPINOSYN	2008	kg					54.8		70.9			
+25	Massachusetts	SPINOSYN	2009	kg					313					
+25	Massachusetts	SPINOSYN	2010	kg					171.1		3.9			
+25	Massachusetts	SPINOSYN	2011	kg					139					
+25	Massachusetts	SPINOSYN	2012	kg					155.4					
+25	Massachusetts	SPINOSYN	2013	kg					192.7					
+25	Massachusetts	SPINOSYN	2014	kg					187.7					
+25	Massachusetts	SPINOSYN	2015	kg					8.6					
+25	Massachusetts	SPINOSYN	2016	kg					6.1					
+25	Massachusetts	SPINOSYN	2017	kg					8.1					
+26	Michigan	SPINOSYN	1999	kg					33.7		399.8			
+26	Michigan	SPINOSYN	2000	kg					141		1643.2			
+26	Michigan	SPINOSYN	2001	kg					90.2		990.9			
+26	Michigan	SPINOSYN	2002	kg					561.4		119.7			
+26	Michigan	SPINOSYN	2003	kg					140.3		514.1			
+26	Michigan	SPINOSYN	2004	kg					65.9		796			
+26	Michigan	SPINOSYN	2005	kg					237.8		467.4			
+26	Michigan	SPINOSYN	2006	kg					121.3		264			
+26	Michigan	SPINOSYN	2007	kg					198.9		1254.6			
+26	Michigan	SPINOSYN	2008	kg					133.9		5.1			
+26	Michigan	SPINOSYN	2009	kg					663.2		100			
+26	Michigan	SPINOSYN	2010	kg					67.9		244			
+26	Michigan	SPINOSYN	2011	kg					975.1		47.7			
+26	Michigan	SPINOSYN	2012	kg					259.2		19.9			
+26	Michigan	SPINOSYN	2013	kg					605.4		53.5			
+26	Michigan	SPINOSYN	2014	kg					668.2		14.9			
+26	Michigan	SPINOSYN	2015	kg					1067.6		11			
+26	Michigan	SPINOSYN	2016	kg					206.1					
+26	Michigan	SPINOSYN	2017	kg					99.5					
+27	Minnesota	SPINOSYN	1999	kg					338.1					
+27	Minnesota	SPINOSYN	2000	kg					832.6					
+27	Minnesota	SPINOSYN	2001	kg					597.1					
+27	Minnesota	SPINOSYN	2002	kg					194					
+27	Minnesota	SPINOSYN	2003	kg					43.7					
+27	Minnesota	SPINOSYN	2005	kg					493.5					
+27	Minnesota	SPINOSYN	2006	kg					656.8					
+27	Minnesota	SPINOSYN	2007	kg					21.4					
+27	Minnesota	SPINOSYN	2008	kg					18.9					
+27	Minnesota	SPINOSYN	2009	kg					176.5					
+27	Minnesota	SPINOSYN	2010	kg					24.6					
+27	Minnesota	SPINOSYN	2011	kg					1339.5					
+27	Minnesota	SPINOSYN	2012	kg					146.3					
+27	Minnesota	SPINOSYN	2013	kg					1126.7					
+27	Minnesota	SPINOSYN	2014	kg					946.4					
+27	Minnesota	SPINOSYN	2015	kg					1350.5					
+27	Minnesota	SPINOSYN	2016	kg			2.9		397.9					
+27	Minnesota	SPINOSYN	2017	kg					339.9					
+28	Mississippi	SPINOSYN	1997	kg				1799.3						
+28	Mississippi	SPINOSYN	1998	kg				9370.3						
+28	Mississippi	SPINOSYN	1999	kg				6550.8						
+28	Mississippi	SPINOSYN	2000	kg				7615.3						
+28	Mississippi	SPINOSYN	2001	kg			28.2	11823.9						
+28	Mississippi	SPINOSYN	2002	kg				7780.9	77.1					
+28	Mississippi	SPINOSYN	2003	kg				1197.8						
+28	Mississippi	SPINOSYN	2004	kg				2072.2	132.1		18.2			2
+28	Mississippi	SPINOSYN	2005	kg				769.2	73.6					1.1
+28	Mississippi	SPINOSYN	2006	kg				1347.8						
+28	Mississippi	SPINOSYN	2007	kg				601.5						2.5
+28	Mississippi	SPINOSYN	2008	kg				258.3						5.6
+28	Mississippi	SPINOSYN	2009	kg				87.4						
+28	Mississippi	SPINOSYN	2010	kg		0.3		1869.5			20.6			14.3
+28	Mississippi	SPINOSYN	2012	kg		441								
+28	Mississippi	SPINOSYN	2013	kg		7.6								
+28	Mississippi	SPINOSYN	2014	kg		1.8								80
+28	Mississippi	SPINOSYN	2015	kg										137.6
+28	Mississippi	SPINOSYN	2016	kg		7.8								
+29	Missouri	SPINOSYN	1997	kg				2269.5						
+29	Missouri	SPINOSYN	1998	kg				96.2						
+29	Missouri	SPINOSYN	1999	kg				10						
+29	Missouri	SPINOSYN	2000	kg							18.9			
+29	Missouri	SPINOSYN	2001	kg			20.9	118.2			27.4			
+29	Missouri	SPINOSYN	2002	kg				3157						
+29	Missouri	SPINOSYN	2003	kg				394.9			18.6			
+29	Missouri	SPINOSYN	2004	kg				7.6			20.4			
+29	Missouri	SPINOSYN	2005	kg				1497.8						
+29	Missouri	SPINOSYN	2006	kg				1208						
+29	Missouri	SPINOSYN	2007	kg				13.3						
+29	Missouri	SPINOSYN	2008	kg										0
+29	Missouri	SPINOSYN	2010	kg										0.1
+29	Missouri	SPINOSYN	2012	kg				157.5						
+29	Missouri	SPINOSYN	2013	kg				139.8						
+29	Missouri	SPINOSYN	2014	kg										0
+29	Missouri	SPINOSYN	2015	kg										45.6
+29	Missouri	SPINOSYN	2016	kg										0
+29	Missouri	SPINOSYN	2017	kg										0.1
+30	Montana	SPINOSYN	2000	kg							26.2			
+30	Montana	SPINOSYN	2001	kg							2.7			
+30	Montana	SPINOSYN	2002	kg							3			
+30	Montana	SPINOSYN	2003	kg							14.1			
+30	Montana	SPINOSYN	2004	kg							4			
+30	Montana	SPINOSYN	2005	kg							7.1			
+30	Montana	SPINOSYN	2007	kg							12.8			
+30	Montana	SPINOSYN	2009	kg							5.2			
+30	Montana	SPINOSYN	2010	kg							0.7			
+30	Montana	SPINOSYN	2012	kg							1.2			
+30	Montana	SPINOSYN	2013	kg					4					
+30	Montana	SPINOSYN	2014	kg					10.1					
+30	Montana	SPINOSYN	2015	kg					44.2					
+30	Montana	SPINOSYN	2016	kg					1.4					
+30	Montana	SPINOSYN	2017	kg					38					
+31	Nebraska	SPINOSYN	1999	kg					82.2					
+31	Nebraska	SPINOSYN	2001	kg					21.9					
+31	Nebraska	SPINOSYN	2008	kg					138.2					
+31	Nebraska	SPINOSYN	2009	kg					7.6					
+31	Nebraska	SPINOSYN	2010	kg					4.6					
+31	Nebraska	SPINOSYN	2011	kg					0					
+32	Nevada	SPINOSYN	1998	kg					1.1					
+32	Nevada	SPINOSYN	1999	kg							0			
+32	Nevada	SPINOSYN	2000	kg					0.1		6.3			
+32	Nevada	SPINOSYN	2001	kg					0		4.2			
+32	Nevada	SPINOSYN	2002	kg					10.8		1.7			
+32	Nevada	SPINOSYN	2003	kg					0		1.1			
+32	Nevada	SPINOSYN	2004	kg					1.9		0.8			
+32	Nevada	SPINOSYN	2005	kg					0		1.6	84		
+32	Nevada	SPINOSYN	2006	kg					27.4		1.2			
+32	Nevada	SPINOSYN	2007	kg					38.1		2.8			
+32	Nevada	SPINOSYN	2008	kg					34.4		0.1			
+32	Nevada	SPINOSYN	2009	kg					65		3.2			
+32	Nevada	SPINOSYN	2010	kg					121		0.5			
+32	Nevada	SPINOSYN	2011	kg					88		3.5			
+32	Nevada	SPINOSYN	2012	kg					78.3		1.4			
+32	Nevada	SPINOSYN	2013	kg					67.3		0.2			
+32	Nevada	SPINOSYN	2014	kg					210		0			
+32	Nevada	SPINOSYN	2015	kg					69.7		2			
+32	Nevada	SPINOSYN	2016	kg					10.7		0.1			
+32	Nevada	SPINOSYN	2017	kg					3.2		0.5			
+33	New Hampshire	SPINOSYN	1999	kg					0.7		8.1			
+33	New Hampshire	SPINOSYN	2000	kg					0.5		95.6			
+33	New Hampshire	SPINOSYN	2001	kg					1.7		51.9			
+33	New Hampshire	SPINOSYN	2002	kg					0					
+33	New Hampshire	SPINOSYN	2003	kg					0.5		85.6			
+33	New Hampshire	SPINOSYN	2004	kg					0.1		0.8			
+33	New Hampshire	SPINOSYN	2005	kg					2.2		25.6			
+33	New Hampshire	SPINOSYN	2006	kg					5.8		26.5			
+33	New Hampshire	SPINOSYN	2007	kg					1.2		19.8			
+33	New Hampshire	SPINOSYN	2008	kg					1.5		27.9			
+33	New Hampshire	SPINOSYN	2009	kg					2.4					
+33	New Hampshire	SPINOSYN	2010	kg					0.8					
+33	New Hampshire	SPINOSYN	2011	kg					0.8					
+33	New Hampshire	SPINOSYN	2012	kg					4					
+33	New Hampshire	SPINOSYN	2013	kg					0.6					
+33	New Hampshire	SPINOSYN	2014	kg					1					
+33	New Hampshire	SPINOSYN	2015	kg					0					
+33	New Hampshire	SPINOSYN	2016	kg					0.8					
+33	New Hampshire	SPINOSYN	2017	kg					0					
+34	New Jersey	SPINOSYN	1998	kg					83.9					
+34	New Jersey	SPINOSYN	1999	kg					103.9		8.9			
+34	New Jersey	SPINOSYN	2000	kg					509.6		37.4			
+34	New Jersey	SPINOSYN	2001	kg					193.4		41.1			
+34	New Jersey	SPINOSYN	2002	kg					445.6					
+34	New Jersey	SPINOSYN	2003	kg					256.3		88.3			
+34	New Jersey	SPINOSYN	2004	kg					319.6		20.7			
+34	New Jersey	SPINOSYN	2005	kg					180.6		23.1			
+34	New Jersey	SPINOSYN	2006	kg					151.8		31.4			
+34	New Jersey	SPINOSYN	2007	kg					397.1		78.4			
+34	New Jersey	SPINOSYN	2008	kg					198.7		31.3			
+34	New Jersey	SPINOSYN	2009	kg					224.6		1.5			
+34	New Jersey	SPINOSYN	2010	kg					52.4		0.7			
+34	New Jersey	SPINOSYN	2011	kg					15.4					
+34	New Jersey	SPINOSYN	2012	kg					59.5					
+34	New Jersey	SPINOSYN	2013	kg					90.6					
+34	New Jersey	SPINOSYN	2014	kg					126.9					
+34	New Jersey	SPINOSYN	2015	kg					4.7					
+34	New Jersey	SPINOSYN	2016	kg					8.6					
+34	New Jersey	SPINOSYN	2017	kg					4.1					
+35	New Mexico	SPINOSYN	1997	kg				113.6						
+35	New Mexico	SPINOSYN	1998	kg				1.3	215.4					
+35	New Mexico	SPINOSYN	1999	kg				238.4	363.3					
+35	New Mexico	SPINOSYN	2000	kg				108.6	120.2					
+35	New Mexico	SPINOSYN	2001	kg				79.9	23.1		0.1			
+35	New Mexico	SPINOSYN	2002	kg				74.4	53.6		1.2			
+35	New Mexico	SPINOSYN	2003	kg				63	94.4		44.8			
+35	New Mexico	SPINOSYN	2004	kg				125.2	284.6		85			
+35	New Mexico	SPINOSYN	2005	kg				0.3	610.7					
+35	New Mexico	SPINOSYN	2006	kg					657.8					
+35	New Mexico	SPINOSYN	2007	kg					180.7					
+35	New Mexico	SPINOSYN	2008	kg					288.9					
+35	New Mexico	SPINOSYN	2009	kg					93.9		46.6			5.2
+35	New Mexico	SPINOSYN	2010	kg					138.7					
+35	New Mexico	SPINOSYN	2011	kg					94.4					1085.1
+35	New Mexico	SPINOSYN	2012	kg					6.8					
+35	New Mexico	SPINOSYN	2013	kg					226.5					
+35	New Mexico	SPINOSYN	2014	kg					0		158			13.3
+35	New Mexico	SPINOSYN	2015	kg					51.8		4.4			
+35	New Mexico	SPINOSYN	2016	kg					0					
+35	New Mexico	SPINOSYN	2017	kg					0					44.1
+36	New York	SPINOSYN	1998	kg					41.6					
+36	New York	SPINOSYN	1999	kg					661		505.6			
+36	New York	SPINOSYN	2000	kg					726.1		2397			
+36	New York	SPINOSYN	2001	kg					1211		1530.1			
+36	New York	SPINOSYN	2002	kg					863.8		2166.7			
+36	New York	SPINOSYN	2003	kg					1035		1856.9			
+36	New York	SPINOSYN	2004	kg					1253.2		906.3			
+36	New York	SPINOSYN	2005	kg					512.7		764.4			
+36	New York	SPINOSYN	2006	kg					710.9		2190.7			
+36	New York	SPINOSYN	2007	kg					1212.6		318.3			
+36	New York	SPINOSYN	2008	kg					678.2		737			
+36	New York	SPINOSYN	2009	kg					940.1		21.2			
+36	New York	SPINOSYN	2010	kg					263		14.5			
+36	New York	SPINOSYN	2011	kg					167.7					
+36	New York	SPINOSYN	2012	kg					433.1					
+36	New York	SPINOSYN	2013	kg					547.5					
+36	New York	SPINOSYN	2014	kg					1049.2					
+36	New York	SPINOSYN	2015	kg					41.2					
+36	New York	SPINOSYN	2016	kg					65.7					
+36	New York	SPINOSYN	2017	kg					33.4					
+37	North Carolina	SPINOSYN	1997	kg				207.4						
+37	North Carolina	SPINOSYN	1998	kg				324.9	220.2					682.8
+37	North Carolina	SPINOSYN	1999	kg				232.6	189.4					491.1
+37	North Carolina	SPINOSYN	2000	kg				994	891.8					768.6
+37	North Carolina	SPINOSYN	2001	kg				958.4	1087.6					974.4
+37	North Carolina	SPINOSYN	2002	kg				883.4	1086.2					922.7
+37	North Carolina	SPINOSYN	2003	kg				1064.2	1116.3					715.9
+37	North Carolina	SPINOSYN	2004	kg				185.5	519.3					812.2
+37	North Carolina	SPINOSYN	2005	kg				1900	781.7					821.4
+37	North Carolina	SPINOSYN	2006	kg				692.7	435.7					845.4
+37	North Carolina	SPINOSYN	2007	kg				334.3	965.5					534.3
+37	North Carolina	SPINOSYN	2008	kg				484.6	229.7					564.5
+37	North Carolina	SPINOSYN	2009	kg					385.8					1317
+37	North Carolina	SPINOSYN	2010	kg		123.1			61.9					1515.8
+37	North Carolina	SPINOSYN	2011	kg				965	48.3					2376.6
+37	North Carolina	SPINOSYN	2012	kg		1192.8		118.5	48.3					1414.5
+37	North Carolina	SPINOSYN	2013	kg		1776.8			82.9					1074.8
+37	North Carolina	SPINOSYN	2014	kg		322.7	737.4		11.6					1123.7
+37	North Carolina	SPINOSYN	2015	kg					312.7					757
+37	North Carolina	SPINOSYN	2016	kg		2315.3			228.8					1245.9
+37	North Carolina	SPINOSYN	2017	kg										2453
+38	North Dakota	SPINOSYN	1999	kg					667.7					
+38	North Dakota	SPINOSYN	2000	kg					472.8					
+38	North Dakota	SPINOSYN	2001	kg					235.5					
+38	North Dakota	SPINOSYN	2002	kg					16.9					
+38	North Dakota	SPINOSYN	2003	kg					342.9					
+38	North Dakota	SPINOSYN	2006	kg					1631.5					
+38	North Dakota	SPINOSYN	2007	kg					60.6					
+38	North Dakota	SPINOSYN	2008	kg					537.3					
+38	North Dakota	SPINOSYN	2009	kg					197.5					
+38	North Dakota	SPINOSYN	2010	kg					95.6					
+38	North Dakota	SPINOSYN	2011	kg					98.2					
+38	North Dakota	SPINOSYN	2012	kg					169.3					
+38	North Dakota	SPINOSYN	2013	kg					1959.7					
+38	North Dakota	SPINOSYN	2015	kg					281.2					
+38	North Dakota	SPINOSYN	2016	kg					221.8					
+38	North Dakota	SPINOSYN	2017	kg					63.3					
+39	Ohio	SPINOSYN	1999	kg					20		18.9			8.2
+39	Ohio	SPINOSYN	2000	kg					66.9		89.8			5.5
+39	Ohio	SPINOSYN	2001	kg					41.1		37.2			59.4
+39	Ohio	SPINOSYN	2002	kg					29.5					
+39	Ohio	SPINOSYN	2003	kg					324.2					
+39	Ohio	SPINOSYN	2004	kg					231.3		25.8			
+39	Ohio	SPINOSYN	2005	kg					65.5		20.4			
+39	Ohio	SPINOSYN	2006	kg					88.2					5.4
+39	Ohio	SPINOSYN	2007	kg					39.7		62.2			
+39	Ohio	SPINOSYN	2008	kg					28.7					1
+39	Ohio	SPINOSYN	2009	kg					320.8					
+39	Ohio	SPINOSYN	2010	kg					88.8		0.9			6.6
+39	Ohio	SPINOSYN	2011	kg					30.1					
+39	Ohio	SPINOSYN	2012	kg					5.4					
+39	Ohio	SPINOSYN	2013	kg					108.4					4.5
+39	Ohio	SPINOSYN	2014	kg					45.1					1.2
+39	Ohio	SPINOSYN	2015	kg					57.7					1.8
+39	Ohio	SPINOSYN	2016	kg					6.7					
+39	Ohio	SPINOSYN	2017	kg					13.9					1
+40	Oklahoma	SPINOSYN	1997	kg				89.1						
+40	Oklahoma	SPINOSYN	1998	kg				6.9						
+40	Oklahoma	SPINOSYN	1999	kg				475.4	14.5					
+40	Oklahoma	SPINOSYN	2000	kg				66.1	26.3					
+40	Oklahoma	SPINOSYN	2001	kg				6.8	10.4					
+40	Oklahoma	SPINOSYN	2002	kg				172.7	61					
+40	Oklahoma	SPINOSYN	2003	kg				121	41.9					
+40	Oklahoma	SPINOSYN	2004	kg				329.1	66.5					
+40	Oklahoma	SPINOSYN	2005	kg				85.3	86.5					
+40	Oklahoma	SPINOSYN	2006	kg				0.6	105.7		162.6			
+40	Oklahoma	SPINOSYN	2007	kg					47.7					
+40	Oklahoma	SPINOSYN	2008	kg					59.7		52.2			
+40	Oklahoma	SPINOSYN	2009	kg					0					
+40	Oklahoma	SPINOSYN	2010	kg					35.2		236			
+40	Oklahoma	SPINOSYN	2011	kg					0.5		114.6			
+40	Oklahoma	SPINOSYN	2013	kg					38.9		99			
+40	Oklahoma	SPINOSYN	2015	kg										27.3
+40	Oklahoma	SPINOSYN	2017	kg										116.4
+41	Oregon	SPINOSYN	1998	kg					0		164.5			
+41	Oregon	SPINOSYN	1999	kg					0.1		368.6			
+41	Oregon	SPINOSYN	2000	kg					2.3		148.7			
+41	Oregon	SPINOSYN	2001	kg					15.4		89.8			
+41	Oregon	SPINOSYN	2002	kg					0.9		398.4			
+41	Oregon	SPINOSYN	2003	kg					0		509.4			
+41	Oregon	SPINOSYN	2004	kg					1.2		664.8			
+41	Oregon	SPINOSYN	2005	kg							628.4			
+41	Oregon	SPINOSYN	2006	kg					606.9		838.2			
+41	Oregon	SPINOSYN	2007	kg					647.5		719.8			
+41	Oregon	SPINOSYN	2008	kg					429.2		497.9			
+41	Oregon	SPINOSYN	2009	kg					834.4		456.9			
+41	Oregon	SPINOSYN	2010	kg					840.7		461.3			
+41	Oregon	SPINOSYN	2011	kg					1005.8		608			
+41	Oregon	SPINOSYN	2012	kg					786.9		708			
+41	Oregon	SPINOSYN	2013	kg					772.6		419.4			
+41	Oregon	SPINOSYN	2014	kg					1702.6		170.7			
+41	Oregon	SPINOSYN	2015	kg					2189.5		1357			
+41	Oregon	SPINOSYN	2016	kg					1099		631.8			
+41	Oregon	SPINOSYN	2017	kg					405.7		1003.9			
+42	Pennsylvania	SPINOSYN	1998	kg					12.5					
+42	Pennsylvania	SPINOSYN	1999	kg					80.7		40.7			
+42	Pennsylvania	SPINOSYN	2000	kg					224.5		398.5			
+42	Pennsylvania	SPINOSYN	2001	kg					459.5		544.8			
+42	Pennsylvania	SPINOSYN	2002	kg					132.3		11.7			
+42	Pennsylvania	SPINOSYN	2003	kg					289.5		939.4			
+42	Pennsylvania	SPINOSYN	2004	kg					214.4		169.2			
+42	Pennsylvania	SPINOSYN	2005	kg					108		277.1			
+42	Pennsylvania	SPINOSYN	2006	kg					145.1		262			82.6
+42	Pennsylvania	SPINOSYN	2007	kg					185.4		226.4			
+42	Pennsylvania	SPINOSYN	2008	kg					269.4		313.5			
+42	Pennsylvania	SPINOSYN	2009	kg					219					3.9
+42	Pennsylvania	SPINOSYN	2010	kg					37.4		1.2			40.9
+42	Pennsylvania	SPINOSYN	2011	kg					115.2					172.4
+42	Pennsylvania	SPINOSYN	2012	kg					181.6					15.4
+42	Pennsylvania	SPINOSYN	2013	kg					226					
+42	Pennsylvania	SPINOSYN	2014	kg					312					
+42	Pennsylvania	SPINOSYN	2015	kg					101.6					
+42	Pennsylvania	SPINOSYN	2016	kg					29.2					
+42	Pennsylvania	SPINOSYN	2017	kg					13.3					
+44	Rhode Island	SPINOSYN	1999	kg					7.8		1.1			
+44	Rhode Island	SPINOSYN	2000	kg					4.9		12.9			
+44	Rhode Island	SPINOSYN	2001	kg					12.5		7.1			
+44	Rhode Island	SPINOSYN	2002	kg					0.7					
+44	Rhode Island	SPINOSYN	2003	kg					1.5		12.5			
+44	Rhode Island	SPINOSYN	2004	kg					4.6		0.1			
+44	Rhode Island	SPINOSYN	2005	kg					10		4.4			
+44	Rhode Island	SPINOSYN	2006	kg					12.1		4.9			
+44	Rhode Island	SPINOSYN	2007	kg					6.1		3.9			
+44	Rhode Island	SPINOSYN	2008	kg					10.9		5.1			
+44	Rhode Island	SPINOSYN	2009	kg					6.5					
+44	Rhode Island	SPINOSYN	2010	kg					0.9					
+44	Rhode Island	SPINOSYN	2011	kg					3.3					
+44	Rhode Island	SPINOSYN	2012	kg					6.9					
+44	Rhode Island	SPINOSYN	2013	kg					2.8					
+44	Rhode Island	SPINOSYN	2014	kg					4.9					
+44	Rhode Island	SPINOSYN	2015	kg					1.4					
+44	Rhode Island	SPINOSYN	2016	kg					2.8					
+44	Rhode Island	SPINOSYN	2017	kg					1.2					
+45	South Carolina	SPINOSYN	1997	kg				96.6						
+45	South Carolina	SPINOSYN	1998	kg				225.3	0.1					7.4
+45	South Carolina	SPINOSYN	1999	kg				183.7	2					209.8
+45	South Carolina	SPINOSYN	2000	kg				713.5	3.7					171.7
+45	South Carolina	SPINOSYN	2001	kg				272.8	12.3					708.9
+45	South Carolina	SPINOSYN	2002	kg				674.7	78.3					10.7
+45	South Carolina	SPINOSYN	2003	kg				362.2	60					152.3
+45	South Carolina	SPINOSYN	2004	kg				36.1	9.8					1072.6
+45	South Carolina	SPINOSYN	2005	kg				672.2	305		12.4			250.1
+45	South Carolina	SPINOSYN	2006	kg				171.4	419					231.1
+45	South Carolina	SPINOSYN	2007	kg		305.9		198.3	53					128.7
+45	South Carolina	SPINOSYN	2008	kg				162.8	5.1					92.4
+45	South Carolina	SPINOSYN	2009	kg					38.2					467.9
+45	South Carolina	SPINOSYN	2010	kg				523.9	2.6		13.3			683.5
+45	South Carolina	SPINOSYN	2011	kg										288.8
+45	South Carolina	SPINOSYN	2012	kg					2.9					418
+45	South Carolina	SPINOSYN	2013	kg		279.8			6.1					92.8
+45	South Carolina	SPINOSYN	2014	kg		109.1								318.5
+45	South Carolina	SPINOSYN	2015	kg										67.3
+45	South Carolina	SPINOSYN	2016	kg		273.4			54.3					28.7
+45	South Carolina	SPINOSYN	2017	kg										350.8
+46	South Dakota	SPINOSYN	1999	kg					23.5					
+46	South Dakota	SPINOSYN	2001	kg					6.6					
+46	South Dakota	SPINOSYN	2008	kg					0.8					
+46	South Dakota	SPINOSYN	2009	kg					0					
+46	South Dakota	SPINOSYN	2010	kg					0					
+46	South Dakota	SPINOSYN	2011	kg					1.5					
+46	South Dakota	SPINOSYN	2014	kg					0.8					
+46	South Dakota	SPINOSYN	2015	kg					1.2					
+46	South Dakota	SPINOSYN	2016	kg					0					
+46	South Dakota	SPINOSYN	2017	kg					0					
+47	Tennessee	SPINOSYN	1997	kg				657.4						
+47	Tennessee	SPINOSYN	1998	kg				2390.2						
+47	Tennessee	SPINOSYN	1999	kg				38.5						159
+47	Tennessee	SPINOSYN	2000	kg				2704.9						102.6
+47	Tennessee	SPINOSYN	2001	kg			17.8	257.1						248.7
+47	Tennessee	SPINOSYN	2002	kg				1532.1						116.2
+47	Tennessee	SPINOSYN	2003	kg				425.2						60.8
+47	Tennessee	SPINOSYN	2004	kg				291.5	12.9					67.1
+47	Tennessee	SPINOSYN	2005	kg				955.1	86.6					26.4
+47	Tennessee	SPINOSYN	2006	kg				895.3						18.5
+47	Tennessee	SPINOSYN	2007	kg				64.3	3.1					35.8
+47	Tennessee	SPINOSYN	2008	kg				46			0.3			15.1
+47	Tennessee	SPINOSYN	2009	kg				225						14
+47	Tennessee	SPINOSYN	2010	kg					0.7					69
+47	Tennessee	SPINOSYN	2011	kg					2					120.9
+47	Tennessee	SPINOSYN	2012	kg		69.7		45.2	0					97.9
+47	Tennessee	SPINOSYN	2013	kg				34.6						36.1
+47	Tennessee	SPINOSYN	2014	kg										20.4
+47	Tennessee	SPINOSYN	2015	kg										42.5
+47	Tennessee	SPINOSYN	2016	kg										70.5
+47	Tennessee	SPINOSYN	2017	kg										96.7
+48	Texas	SPINOSYN	1997	kg				2324.3						
+48	Texas	SPINOSYN	1998	kg				1173.4	181.1					
+48	Texas	SPINOSYN	1999	kg				6375.6	871.6					
+48	Texas	SPINOSYN	2000	kg				4439.7	566.4					
+48	Texas	SPINOSYN	2001	kg				2483.5	1529.2					100.4
+48	Texas	SPINOSYN	2002	kg				2356.6	947.8					
+48	Texas	SPINOSYN	2003	kg				3368.6	339.2		200.5			
+48	Texas	SPINOSYN	2004	kg				3840.8	701.4		82.1			
+48	Texas	SPINOSYN	2005	kg				539.5	718.8					
+48	Texas	SPINOSYN	2006	kg				642.5	869.5		394.7			
+48	Texas	SPINOSYN	2007	kg					251.3					
+48	Texas	SPINOSYN	2008	kg					180.9		100.1			
+48	Texas	SPINOSYN	2009	kg					71.1		29.6			96.8
+48	Texas	SPINOSYN	2010	kg					25		515.3			
+48	Texas	SPINOSYN	2011	kg					125.8		271.7			3359.9
+48	Texas	SPINOSYN	2013	kg					1.7		233.2			
+48	Texas	SPINOSYN	2014	kg							72.9			219.5
+48	Texas	SPINOSYN	2015	kg				337.7						
+48	Texas	SPINOSYN	2017	kg		270.6		521.7						834.4
+49	Utah	SPINOSYN	1998	kg					0.2					
+49	Utah	SPINOSYN	1999	kg					1.1					
+49	Utah	SPINOSYN	2000	kg							122			
+49	Utah	SPINOSYN	2001	kg					0		18.4			
+49	Utah	SPINOSYN	2002	kg					0.1		13.4			
+49	Utah	SPINOSYN	2003	kg					0		65.7			
+49	Utah	SPINOSYN	2004	kg							32.6			
+49	Utah	SPINOSYN	2005	kg							64.4			
+49	Utah	SPINOSYN	2006	kg					0.1		71			
+49	Utah	SPINOSYN	2007	kg					0.2		101.1			
+49	Utah	SPINOSYN	2008	kg					0		58.3			
+49	Utah	SPINOSYN	2009	kg					0		37.2			
+49	Utah	SPINOSYN	2010	kg					0.1		70.2			
+49	Utah	SPINOSYN	2011	kg					0.1		142.7			
+49	Utah	SPINOSYN	2012	kg							163			
+49	Utah	SPINOSYN	2013	kg					4.3		80.9			
+49	Utah	SPINOSYN	2014	kg					2					
+49	Utah	SPINOSYN	2015	kg					3		1.6			
+49	Utah	SPINOSYN	2016	kg					1		51.8			
+49	Utah	SPINOSYN	2017	kg					1.1		145.5			
+50	Vermont	SPINOSYN	1999	kg					3.2		11			
+50	Vermont	SPINOSYN	2000	kg					2.6		128.6			
+50	Vermont	SPINOSYN	2001	kg					15.4		70.3			
+50	Vermont	SPINOSYN	2002	kg					7.6					
+50	Vermont	SPINOSYN	2003	kg					0.2		120.2			
+50	Vermont	SPINOSYN	2004	kg					2.5		1.1			
+50	Vermont	SPINOSYN	2005	kg					3.4		38.3			
+50	Vermont	SPINOSYN	2006	kg					5.5		41.1			
+50	Vermont	SPINOSYN	2007	kg					8.1		57.6			
+50	Vermont	SPINOSYN	2008	kg					5.1		32			
+50	Vermont	SPINOSYN	2009	kg					5.8					
+50	Vermont	SPINOSYN	2010	kg					4.2					
+50	Vermont	SPINOSYN	2011	kg					1.4					
+50	Vermont	SPINOSYN	2012	kg					8					
+50	Vermont	SPINOSYN	2013	kg					15.8					
+50	Vermont	SPINOSYN	2014	kg					25					
+50	Vermont	SPINOSYN	2015	kg					0.1					
+50	Vermont	SPINOSYN	2016	kg					1.1					
+50	Vermont	SPINOSYN	2017	kg					0.1					
+51	Virginia	SPINOSYN	1997	kg				30.6						
+51	Virginia	SPINOSYN	1998	kg				36.1	0.7					69
+51	Virginia	SPINOSYN	1999	kg				32.4	2		99.5			55.2
+51	Virginia	SPINOSYN	2000	kg				106.6	27					243.7
+51	Virginia	SPINOSYN	2001	kg				95.6	3.3					64.9
+51	Virginia	SPINOSYN	2002	kg				24.2	88.7					221.2
+51	Virginia	SPINOSYN	2003	kg				112.8	84.8					229.2
+51	Virginia	SPINOSYN	2004	kg				23.1	271.7					67
+51	Virginia	SPINOSYN	2005	kg				210.7	0.7					106.9
+51	Virginia	SPINOSYN	2006	kg				100.3	4.5					114.7
+51	Virginia	SPINOSYN	2007	kg				35.2	62.5					109.9
+51	Virginia	SPINOSYN	2008	kg				68.2	18.5					147.2
+51	Virginia	SPINOSYN	2009	kg										59.6
+51	Virginia	SPINOSYN	2010	kg		25.3			3.8					131
+51	Virginia	SPINOSYN	2011	kg				157.2	5.5					122.8
+51	Virginia	SPINOSYN	2012	kg		199.3		22.8	2.6					130.6
+51	Virginia	SPINOSYN	2013	kg		77.5			4.2					182.5
+51	Virginia	SPINOSYN	2014	kg		57.3	140.2							31.1
+51	Virginia	SPINOSYN	2015	kg										99.1
+51	Virginia	SPINOSYN	2016	kg		38.5			0					108.4
+51	Virginia	SPINOSYN	2017	kg										59.8
+53	Washington	SPINOSYN	1998	kg							1846.8			
+53	Washington	SPINOSYN	1999	kg							5247.2			
+53	Washington	SPINOSYN	2000	kg					0.7		5829.3			
+53	Washington	SPINOSYN	2001	kg					84.1		6996.5			
+53	Washington	SPINOSYN	2002	kg					0.4		4426.6			
+53	Washington	SPINOSYN	2003	kg							4572.3			
+53	Washington	SPINOSYN	2004	kg					0.6		6482.8			
+53	Washington	SPINOSYN	2005	kg					124.4		6787.6			
+53	Washington	SPINOSYN	2006	kg					121.9		6282.2			
+53	Washington	SPINOSYN	2007	kg					85.3		6965.9			
+53	Washington	SPINOSYN	2008	kg					265.7		2851.4			
+53	Washington	SPINOSYN	2009	kg					139.4		4133.8			
+53	Washington	SPINOSYN	2010	kg					889.9		3507.1			
+53	Washington	SPINOSYN	2011	kg					354.4		2750.3			
+53	Washington	SPINOSYN	2012	kg					228.2		3244.4			
+53	Washington	SPINOSYN	2013	kg					1532.1		3897.7			
+53	Washington	SPINOSYN	2014	kg					307.9		2461.2			
+53	Washington	SPINOSYN	2015	kg					2611.4		8719.3			
+53	Washington	SPINOSYN	2016	kg					695.1		7808.8			
+53	Washington	SPINOSYN	2017	kg					3318.5		7345.2			
+54	West Virginia	SPINOSYN	1999	kg							37.4			1.9
+54	West Virginia	SPINOSYN	2000	kg										2.7
+54	West Virginia	SPINOSYN	2001	kg										9.7
+54	West Virginia	SPINOSYN	2002	kg										6.1
+54	West Virginia	SPINOSYN	2003	kg										4.5
+54	West Virginia	SPINOSYN	2004	kg					0.7					2.1
+54	West Virginia	SPINOSYN	2005	kg					0.7					1.1
+54	West Virginia	SPINOSYN	2006	kg										1.3
+54	West Virginia	SPINOSYN	2007	kg										0.6
+54	West Virginia	SPINOSYN	2008	kg										0.4
+54	West Virginia	SPINOSYN	2009	kg					0.6					0
+54	West Virginia	SPINOSYN	2010	kg					0.6					0.9
+54	West Virginia	SPINOSYN	2011	kg										0.4
+54	West Virginia	SPINOSYN	2012	kg										0.1
+54	West Virginia	SPINOSYN	2013	kg										0.1
+54	West Virginia	SPINOSYN	2014	kg										0
+54	West Virginia	SPINOSYN	2015	kg										0.1
+54	West Virginia	SPINOSYN	2016	kg										0.2
+54	West Virginia	SPINOSYN	2017	kg										0
+55	Wisconsin	SPINOSYN	1999	kg					84.8					
+55	Wisconsin	SPINOSYN	2000	kg					1358.8					
+55	Wisconsin	SPINOSYN	2001	kg					805.5					
+55	Wisconsin	SPINOSYN	2002	kg					777					
+55	Wisconsin	SPINOSYN	2003	kg					271.3					
+55	Wisconsin	SPINOSYN	2004	kg					220.3					
+55	Wisconsin	SPINOSYN	2005	kg					454.5					
+55	Wisconsin	SPINOSYN	2006	kg					1553					
+55	Wisconsin	SPINOSYN	2007	kg					401.7					
+55	Wisconsin	SPINOSYN	2008	kg					89.4					
+55	Wisconsin	SPINOSYN	2009	kg					1021.5					
+55	Wisconsin	SPINOSYN	2011	kg					3260.9					
+55	Wisconsin	SPINOSYN	2012	kg					444.2					
+55	Wisconsin	SPINOSYN	2013	kg					2090.1					
+55	Wisconsin	SPINOSYN	2014	kg					1267.8					
+55	Wisconsin	SPINOSYN	2015	kg					1337.4					
+55	Wisconsin	SPINOSYN	2016	kg			379.1		2030.2					
+55	Wisconsin	SPINOSYN	2017	kg					1309.9					
+56	Wyoming	SPINOSYN	2008	kg					0					
+56	Wyoming	SPINOSYN	2013	kg					0					
+56	Wyoming	SPINOSYN	2014	kg					0					
+56	Wyoming	SPINOSYN	2015	kg					0					
+56	Wyoming	SPINOSYN	2016	kg					0					

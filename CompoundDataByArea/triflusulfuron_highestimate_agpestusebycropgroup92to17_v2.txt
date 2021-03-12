@@ -1,0 +1,217 @@
+06	California	TRIFLUSULFURON	1996	kg										0.4
+06	California	TRIFLUSULFURON	1997	kg										282.4
+06	California	TRIFLUSULFURON	1998	kg					0					218.5
+06	California	TRIFLUSULFURON	1999	kg							10.9			339.3
+06	California	TRIFLUSULFURON	2000	kg					0.2					251.3
+06	California	TRIFLUSULFURON	2001	kg					0.1					180.8
+06	California	TRIFLUSULFURON	2002	kg										267.8
+06	California	TRIFLUSULFURON	2003	kg					0					204.1
+06	California	TRIFLUSULFURON	2004	kg										227.9
+06	California	TRIFLUSULFURON	2005	kg										201.8
+06	California	TRIFLUSULFURON	2006	kg										209.6
+06	California	TRIFLUSULFURON	2007	kg										178.4
+06	California	TRIFLUSULFURON	2008	kg										95.3
+06	California	TRIFLUSULFURON	2009	kg										139.2
+06	California	TRIFLUSULFURON	2010	kg										211.2
+06	California	TRIFLUSULFURON	2011	kg							9.1			434.5
+06	California	TRIFLUSULFURON	2012	kg					0.1					175.6
+06	California	TRIFLUSULFURON	2013	kg										110.8
+06	California	TRIFLUSULFURON	2014	kg					0.2					97.6
+06	California	TRIFLUSULFURON	2015	kg					2					75.3
+06	California	TRIFLUSULFURON	2016	kg					1.1					73.6
+06	California	TRIFLUSULFURON	2017	kg					0.3					80.7
+08	Colorado	TRIFLUSULFURON	1996	kg										270.1
+08	Colorado	TRIFLUSULFURON	1997	kg										763.6
+08	Colorado	TRIFLUSULFURON	1998	kg										284.3
+08	Colorado	TRIFLUSULFURON	1999	kg										330.6
+08	Colorado	TRIFLUSULFURON	2000	kg										185.5
+08	Colorado	TRIFLUSULFURON	2001	kg										195
+08	Colorado	TRIFLUSULFURON	2002	kg										254
+08	Colorado	TRIFLUSULFURON	2003	kg										118.3
+08	Colorado	TRIFLUSULFURON	2004	kg										205.3
+08	Colorado	TRIFLUSULFURON	2005	kg										157.5
+08	Colorado	TRIFLUSULFURON	2006	kg										343.3
+08	Colorado	TRIFLUSULFURON	2007	kg										198.2
+08	Colorado	TRIFLUSULFURON	2008	kg										21
+08	Colorado	TRIFLUSULFURON	2009	kg										16.3
+08	Colorado	TRIFLUSULFURON	2010	kg										16.7
+08	Colorado	TRIFLUSULFURON	2011	kg										25.4
+08	Colorado	TRIFLUSULFURON	2012	kg										1.9
+08	Colorado	TRIFLUSULFURON	2013	kg										0.9
+08	Colorado	TRIFLUSULFURON	2014	kg										2.7
+08	Colorado	TRIFLUSULFURON	2015	kg										20.5
+08	Colorado	TRIFLUSULFURON	2016	kg										15.1
+08	Colorado	TRIFLUSULFURON	2017	kg										25.2
+16	Idaho	TRIFLUSULFURON	1997	kg										956.6
+16	Idaho	TRIFLUSULFURON	1998	kg										683.8
+16	Idaho	TRIFLUSULFURON	1999	kg										842.2
+16	Idaho	TRIFLUSULFURON	2000	kg										576.9
+16	Idaho	TRIFLUSULFURON	2001	kg										933.9
+16	Idaho	TRIFLUSULFURON	2002	kg										1144.7
+16	Idaho	TRIFLUSULFURON	2003	kg										1078.5
+16	Idaho	TRIFLUSULFURON	2004	kg										807.6
+16	Idaho	TRIFLUSULFURON	2005	kg										699.9
+16	Idaho	TRIFLUSULFURON	2006	kg										547.6
+16	Idaho	TRIFLUSULFURON	2007	kg										1414.1
+16	Idaho	TRIFLUSULFURON	2008	kg										60.3
+16	Idaho	TRIFLUSULFURON	2017	kg										180.1
+26	Michigan	TRIFLUSULFURON	1996	kg										219.9
+26	Michigan	TRIFLUSULFURON	1997	kg										241.7
+26	Michigan	TRIFLUSULFURON	1998	kg										338.2
+26	Michigan	TRIFLUSULFURON	1999	kg										663.1
+26	Michigan	TRIFLUSULFURON	2000	kg										623.4
+26	Michigan	TRIFLUSULFURON	2001	kg										1179.1
+26	Michigan	TRIFLUSULFURON	2002	kg										1571.1
+26	Michigan	TRIFLUSULFURON	2003	kg										1211.1
+26	Michigan	TRIFLUSULFURON	2004	kg										1218.6
+26	Michigan	TRIFLUSULFURON	2005	kg										1325.7
+26	Michigan	TRIFLUSULFURON	2006	kg										1057.5
+26	Michigan	TRIFLUSULFURON	2007	kg										1874.3
+26	Michigan	TRIFLUSULFURON	2008	kg										574.5
+26	Michigan	TRIFLUSULFURON	2009	kg										21.1
+27	Minnesota	TRIFLUSULFURON	1996	kg										2704.1
+27	Minnesota	TRIFLUSULFURON	1997	kg										4285.6
+27	Minnesota	TRIFLUSULFURON	1998	kg										5290.1
+27	Minnesota	TRIFLUSULFURON	1999	kg										4345.4
+27	Minnesota	TRIFLUSULFURON	2000	kg										4222.6
+27	Minnesota	TRIFLUSULFURON	2001	kg										3584.9
+27	Minnesota	TRIFLUSULFURON	2002	kg										3794
+27	Minnesota	TRIFLUSULFURON	2003	kg										2640.9
+27	Minnesota	TRIFLUSULFURON	2004	kg										2239.5
+27	Minnesota	TRIFLUSULFURON	2005	kg										4861.3
+27	Minnesota	TRIFLUSULFURON	2006	kg										4341.6
+27	Minnesota	TRIFLUSULFURON	2007	kg										6069.9
+27	Minnesota	TRIFLUSULFURON	2008	kg										3035.4
+27	Minnesota	TRIFLUSULFURON	2009	kg										322
+27	Minnesota	TRIFLUSULFURON	2010	kg										486.7
+27	Minnesota	TRIFLUSULFURON	2011	kg										796.9
+27	Minnesota	TRIFLUSULFURON	2012	kg										52.2
+27	Minnesota	TRIFLUSULFURON	2013	kg										25.1
+27	Minnesota	TRIFLUSULFURON	2014	kg										63
+27	Minnesota	TRIFLUSULFURON	2015	kg										311.7
+27	Minnesota	TRIFLUSULFURON	2016	kg										267.9
+27	Minnesota	TRIFLUSULFURON	2017	kg										298.9
+30	Montana	TRIFLUSULFURON	1996	kg										169.9
+30	Montana	TRIFLUSULFURON	1997	kg										424.8
+30	Montana	TRIFLUSULFURON	1998	kg										324.3
+30	Montana	TRIFLUSULFURON	1999	kg										413.1
+30	Montana	TRIFLUSULFURON	2000	kg										372.8
+30	Montana	TRIFLUSULFURON	2001	kg										455.4
+30	Montana	TRIFLUSULFURON	2002	kg										494.1
+30	Montana	TRIFLUSULFURON	2003	kg										285.6
+30	Montana	TRIFLUSULFURON	2004	kg										1192.1
+30	Montana	TRIFLUSULFURON	2005	kg										394.6
+30	Montana	TRIFLUSULFURON	2006	kg										359.5
+30	Montana	TRIFLUSULFURON	2007	kg										902.7
+30	Montana	TRIFLUSULFURON	2008	kg										36.8
+30	Montana	TRIFLUSULFURON	2009	kg										11.9
+30	Montana	TRIFLUSULFURON	2010	kg										17.5
+30	Montana	TRIFLUSULFURON	2011	kg										25.2
+30	Montana	TRIFLUSULFURON	2012	kg										2.1
+30	Montana	TRIFLUSULFURON	2013	kg										1.1
+30	Montana	TRIFLUSULFURON	2014	kg										2.7
+30	Montana	TRIFLUSULFURON	2015	kg										23.3
+30	Montana	TRIFLUSULFURON	2016	kg										18.8
+30	Montana	TRIFLUSULFURON	2017	kg										25.6
+31	Nebraska	TRIFLUSULFURON	1996	kg										312.2
+31	Nebraska	TRIFLUSULFURON	1997	kg										297.9
+31	Nebraska	TRIFLUSULFURON	1998	kg										77
+31	Nebraska	TRIFLUSULFURON	1999	kg										141.6
+31	Nebraska	TRIFLUSULFURON	2000	kg										81.6
+31	Nebraska	TRIFLUSULFURON	2001	kg										165.8
+31	Nebraska	TRIFLUSULFURON	2002	kg										165.8
+31	Nebraska	TRIFLUSULFURON	2003	kg										137.2
+31	Nebraska	TRIFLUSULFURON	2004	kg										96.2
+31	Nebraska	TRIFLUSULFURON	2005	kg										217.1
+31	Nebraska	TRIFLUSULFURON	2006	kg										101.2
+31	Nebraska	TRIFLUSULFURON	2007	kg										333.4
+31	Nebraska	TRIFLUSULFURON	2008	kg										20.6
+31	Nebraska	TRIFLUSULFURON	2009	kg										22.3
+31	Nebraska	TRIFLUSULFURON	2010	kg										36.2
+31	Nebraska	TRIFLUSULFURON	2011	kg										58.8
+31	Nebraska	TRIFLUSULFURON	2012	kg										4.3
+31	Nebraska	TRIFLUSULFURON	2013	kg										2
+31	Nebraska	TRIFLUSULFURON	2014	kg										5.6
+31	Nebraska	TRIFLUSULFURON	2015	kg										44.2
+31	Nebraska	TRIFLUSULFURON	2016	kg										33.6
+31	Nebraska	TRIFLUSULFURON	2017	kg										47.2
+38	North Dakota	TRIFLUSULFURON	1996	kg										3176.9
+38	North Dakota	TRIFLUSULFURON	1997	kg										2333.7
+38	North Dakota	TRIFLUSULFURON	1998	kg										2130
+38	North Dakota	TRIFLUSULFURON	1999	kg										1084.1
+38	North Dakota	TRIFLUSULFURON	2000	kg										1575.5
+38	North Dakota	TRIFLUSULFURON	2001	kg										2063.1
+38	North Dakota	TRIFLUSULFURON	2002	kg										2027.2
+38	North Dakota	TRIFLUSULFURON	2003	kg										1835.6
+38	North Dakota	TRIFLUSULFURON	2004	kg										2325.8
+38	North Dakota	TRIFLUSULFURON	2005	kg										2302.2
+38	North Dakota	TRIFLUSULFURON	2006	kg										1373.2
+38	North Dakota	TRIFLUSULFURON	2007	kg										2241.2
+38	North Dakota	TRIFLUSULFURON	2008	kg										586.1
+38	North Dakota	TRIFLUSULFURON	2009	kg										207.1
+38	North Dakota	TRIFLUSULFURON	2010	kg										155.5
+38	North Dakota	TRIFLUSULFURON	2011	kg										231.2
+38	North Dakota	TRIFLUSULFURON	2012	kg										17.3
+38	North Dakota	TRIFLUSULFURON	2013	kg										11.7
+38	North Dakota	TRIFLUSULFURON	2014	kg										23.5
+38	North Dakota	TRIFLUSULFURON	2015	kg										165.2
+38	North Dakota	TRIFLUSULFURON	2016	kg										343
+38	North Dakota	TRIFLUSULFURON	2017	kg										192.3
+39	Ohio	TRIFLUSULFURON	1996	kg										17.8
+39	Ohio	TRIFLUSULFURON	1997	kg										16.9
+39	Ohio	TRIFLUSULFURON	1998	kg										16.8
+39	Ohio	TRIFLUSULFURON	1999	kg										9
+39	Ohio	TRIFLUSULFURON	2000	kg										27.1
+39	Ohio	TRIFLUSULFURON	2001	kg										38.3
+39	Ohio	TRIFLUSULFURON	2002	kg										27.4
+39	Ohio	TRIFLUSULFURON	2003	kg										7
+39	Ohio	TRIFLUSULFURON	2004	kg										18.5
+39	Ohio	TRIFLUSULFURON	2005	kg										14.8
+39	Ohio	TRIFLUSULFURON	2006	kg										14.2
+39	Ohio	TRIFLUSULFURON	2007	kg										18.3
+41	Oregon	TRIFLUSULFURON	1997	kg										43.6
+41	Oregon	TRIFLUSULFURON	1998	kg										128
+41	Oregon	TRIFLUSULFURON	1999	kg										93.2
+41	Oregon	TRIFLUSULFURON	2000	kg										22.2
+41	Oregon	TRIFLUSULFURON	2001	kg										75
+41	Oregon	TRIFLUSULFURON	2002	kg										150.6
+41	Oregon	TRIFLUSULFURON	2003	kg										25.7
+41	Oregon	TRIFLUSULFURON	2004	kg										76.6
+41	Oregon	TRIFLUSULFURON	2005	kg										85.2
+41	Oregon	TRIFLUSULFURON	2006	kg										50
+41	Oregon	TRIFLUSULFURON	2007	kg										176
+41	Oregon	TRIFLUSULFURON	2008	kg										3.1
+46	South Dakota	TRIFLUSULFURON	1996	kg										22.2
+53	Washington	TRIFLUSULFURON	1997	kg										88.9
+53	Washington	TRIFLUSULFURON	1998	kg										194.1
+53	Washington	TRIFLUSULFURON	1999	kg										133.8
+53	Washington	TRIFLUSULFURON	2000	kg										34.5
+53	Washington	TRIFLUSULFURON	2001	kg										81.6
+53	Washington	TRIFLUSULFURON	2002	kg										134.5
+53	Washington	TRIFLUSULFURON	2003	kg										113.6
+53	Washington	TRIFLUSULFURON	2004	kg										137.1
+53	Washington	TRIFLUSULFURON	2005	kg										105
+53	Washington	TRIFLUSULFURON	2006	kg										65.6
+53	Washington	TRIFLUSULFURON	2007	kg										174.5
+56	Wyoming	TRIFLUSULFURON	1996	kg										70.5
+56	Wyoming	TRIFLUSULFURON	1997	kg										371.5
+56	Wyoming	TRIFLUSULFURON	1998	kg										280.3
+56	Wyoming	TRIFLUSULFURON	1999	kg										298.5
+56	Wyoming	TRIFLUSULFURON	2000	kg										325.1
+56	Wyoming	TRIFLUSULFURON	2001	kg										125.6
+56	Wyoming	TRIFLUSULFURON	2002	kg										227.7
+56	Wyoming	TRIFLUSULFURON	2003	kg										158.3
+56	Wyoming	TRIFLUSULFURON	2004	kg										258.5
+56	Wyoming	TRIFLUSULFURON	2005	kg										154.6
+56	Wyoming	TRIFLUSULFURON	2006	kg										284.2
+56	Wyoming	TRIFLUSULFURON	2007	kg										142.4
+56	Wyoming	TRIFLUSULFURON	2008	kg										3
+56	Wyoming	TRIFLUSULFURON	2009	kg										1.8
+56	Wyoming	TRIFLUSULFURON	2010	kg										3.2
+56	Wyoming	TRIFLUSULFURON	2011	kg										4.8
+56	Wyoming	TRIFLUSULFURON	2012	kg										0.4
+56	Wyoming	TRIFLUSULFURON	2013	kg										0.2
+56	Wyoming	TRIFLUSULFURON	2014	kg										0.5
+56	Wyoming	TRIFLUSULFURON	2015	kg										3.6
+56	Wyoming	TRIFLUSULFURON	2016	kg										2.6
+56	Wyoming	TRIFLUSULFURON	2017	kg										3.9

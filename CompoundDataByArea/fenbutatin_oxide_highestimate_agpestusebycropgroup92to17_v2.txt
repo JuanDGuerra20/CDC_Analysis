@@ -1,0 +1,377 @@
+01	Alabama	FENBUTATIN OXIDE	1992	kg							152.6			
+01	Alabama	FENBUTATIN OXIDE	1999	kg							239.7			
+01	Alabama	FENBUTATIN OXIDE	2003	kg							1148			
+01	Alabama	FENBUTATIN OXIDE	2004	kg							103.6			
+04	Arizona	FENBUTATIN OXIDE	1992	kg							778.6			
+04	Arizona	FENBUTATIN OXIDE	1993	kg							563.1			
+04	Arizona	FENBUTATIN OXIDE	1994	kg							72			
+04	Arizona	FENBUTATIN OXIDE	1995	kg							99.3			
+04	Arizona	FENBUTATIN OXIDE	1996	kg							242.8			
+04	Arizona	FENBUTATIN OXIDE	1997	kg					87.7		219.3			
+04	Arizona	FENBUTATIN OXIDE	1998	kg							94.6			
+04	Arizona	FENBUTATIN OXIDE	1999	kg							132.5			
+04	Arizona	FENBUTATIN OXIDE	2000	kg							119.7			
+04	Arizona	FENBUTATIN OXIDE	2001	kg							113.7			
+04	Arizona	FENBUTATIN OXIDE	2002	kg							65.3			
+04	Arizona	FENBUTATIN OXIDE	2003	kg							72.9			
+04	Arizona	FENBUTATIN OXIDE	2004	kg							6.9			
+04	Arizona	FENBUTATIN OXIDE	2005	kg							11.9			
+04	Arizona	FENBUTATIN OXIDE	2006	kg							19.5			
+04	Arizona	FENBUTATIN OXIDE	2007	kg							65.6			
+04	Arizona	FENBUTATIN OXIDE	2008	kg							1.9			
+04	Arizona	FENBUTATIN OXIDE	2014	kg					0					
+05	Arkansas	FENBUTATIN OXIDE	1993	kg				10190.4			1339.7			
+05	Arkansas	FENBUTATIN OXIDE	1996	kg				88.4					0.5	
+05	Arkansas	FENBUTATIN OXIDE	1997	kg				793.9						
+05	Arkansas	FENBUTATIN OXIDE	2005	kg							6.3			
+06	California	FENBUTATIN OXIDE	1992	kg					6030.7		40849.5			
+06	California	FENBUTATIN OXIDE	1993	kg	0.3				4066.2		32256.5			
+06	California	FENBUTATIN OXIDE	1994	kg					4022.3		34078.3			
+06	California	FENBUTATIN OXIDE	1995	kg	1.8				2711.6		33493.4			
+06	California	FENBUTATIN OXIDE	1996	kg					5439.2		48280.5			
+06	California	FENBUTATIN OXIDE	1997	kg					1997.6		55276.6			
+06	California	FENBUTATIN OXIDE	1998	kg	17.9				888.4		47725			
+06	California	FENBUTATIN OXIDE	1999	kg					745.5		47635.1	1.9		
+06	California	FENBUTATIN OXIDE	2000	kg				1.6	377.8		32512.2			
+06	California	FENBUTATIN OXIDE	2001	kg					223.8	3.4	28242.5			
+06	California	FENBUTATIN OXIDE	2002	kg					168.5		15449.7			
+06	California	FENBUTATIN OXIDE	2003	kg					280.6		22053.6	908.4		
+06	California	FENBUTATIN OXIDE	2004	kg					132.4		20804.6			
+06	California	FENBUTATIN OXIDE	2005	kg					120.4		25811.5			0.7
+06	California	FENBUTATIN OXIDE	2006	kg					6.8		26289.4			
+06	California	FENBUTATIN OXIDE	2007	kg					50.3		9579			
+06	California	FENBUTATIN OXIDE	2008	kg					0.7		9828			
+06	California	FENBUTATIN OXIDE	2009	kg					17.7		3249			0
+06	California	FENBUTATIN OXIDE	2010	kg					1.4		946.5			
+06	California	FENBUTATIN OXIDE	2011	kg					907.7		1700.5			
+06	California	FENBUTATIN OXIDE	2012	kg					1200		3162.9			
+06	California	FENBUTATIN OXIDE	2013	kg					2687.1		4823.2			
+06	California	FENBUTATIN OXIDE	2014	kg					3003.8		2443.5			
+06	California	FENBUTATIN OXIDE	2015	kg					854.7		877.4			
+06	California	FENBUTATIN OXIDE	2016	kg					262.8		2929.4			
+06	California	FENBUTATIN OXIDE	2017	kg					176.3		2385.7			
+08	Colorado	FENBUTATIN OXIDE	1992	kg							144.1			
+08	Colorado	FENBUTATIN OXIDE	1994	kg							27.6			82.5
+08	Colorado	FENBUTATIN OXIDE	1995	kg							66.2			
+08	Colorado	FENBUTATIN OXIDE	1996	kg	6.8									
+08	Colorado	FENBUTATIN OXIDE	2000	kg							83.4			
+08	Colorado	FENBUTATIN OXIDE	2001	kg							97.8			
+08	Colorado	FENBUTATIN OXIDE	2002	kg							109.6			
+09	Connecticut	FENBUTATIN OXIDE	1993	kg							3			
+09	Connecticut	FENBUTATIN OXIDE	1994	kg							5.7			
+09	Connecticut	FENBUTATIN OXIDE	1995	kg							24.1			
+09	Connecticut	FENBUTATIN OXIDE	1996	kg							9.9			
+10	Delaware	FENBUTATIN OXIDE	1996	kg					0.1		0.8			
+10	Delaware	FENBUTATIN OXIDE	1997	kg	0.5									
+12	Florida	FENBUTATIN OXIDE	1992	kg							155979.8			
+12	Florida	FENBUTATIN OXIDE	1993	kg					185		127980.4			
+12	Florida	FENBUTATIN OXIDE	1994	kg					824.1		92018			3
+12	Florida	FENBUTATIN OXIDE	1995	kg					51.3		93303.2			
+12	Florida	FENBUTATIN OXIDE	1996	kg					131.2		72434.6			
+12	Florida	FENBUTATIN OXIDE	1997	kg					123.4		84891.5			
+12	Florida	FENBUTATIN OXIDE	1998	kg							106306.5			
+12	Florida	FENBUTATIN OXIDE	1999	kg					4904.3		34523.6			
+12	Florida	FENBUTATIN OXIDE	2000	kg							42929.4			
+12	Florida	FENBUTATIN OXIDE	2001	kg					6361.4		25365.9			
+12	Florida	FENBUTATIN OXIDE	2002	kg					487.4		16732.9			
+12	Florida	FENBUTATIN OXIDE	2003	kg					723.5		28640.6			
+12	Florida	FENBUTATIN OXIDE	2004	kg					1113.9		21303.6			
+12	Florida	FENBUTATIN OXIDE	2005	kg					928.5		28216.9			
+12	Florida	FENBUTATIN OXIDE	2006	kg							28308.4			
+12	Florida	FENBUTATIN OXIDE	2007	kg					2295.1		65773.8			
+12	Florida	FENBUTATIN OXIDE	2008	kg					202.8		17470.6			
+12	Florida	FENBUTATIN OXIDE	2009	kg					9227.2		8232.6			
+12	Florida	FENBUTATIN OXIDE	2010	kg							1471.2			
+12	Florida	FENBUTATIN OXIDE	2011	kg							4142.5			
+12	Florida	FENBUTATIN OXIDE	2012	kg							5628.6			
+12	Florida	FENBUTATIN OXIDE	2013	kg							8890.3			
+12	Florida	FENBUTATIN OXIDE	2014	kg							8890.5			
+12	Florida	FENBUTATIN OXIDE	2015	kg							12668.1			
+12	Florida	FENBUTATIN OXIDE	2016	kg							6051.7			
+12	Florida	FENBUTATIN OXIDE	2017	kg							1819.3			
+13	Georgia	FENBUTATIN OXIDE	1992	kg							2153.1			
+13	Georgia	FENBUTATIN OXIDE	1996	kg							97.6			
+13	Georgia	FENBUTATIN OXIDE	1999	kg							3891.1			
+13	Georgia	FENBUTATIN OXIDE	2003	kg							13407.2			
+13	Georgia	FENBUTATIN OXIDE	2004	kg							6872.1			
+13	Georgia	FENBUTATIN OXIDE	2005	kg							9607.4			
+13	Georgia	FENBUTATIN OXIDE	2006	kg							224			
+13	Georgia	FENBUTATIN OXIDE	2009	kg							2.5			
+13	Georgia	FENBUTATIN OXIDE	2011	kg							84.6			
+16	Idaho	FENBUTATIN OXIDE	1992	kg							0.6			
+16	Idaho	FENBUTATIN OXIDE	1996	kg	0.6						218.6			
+16	Idaho	FENBUTATIN OXIDE	1997	kg	8.2						163.1			
+16	Idaho	FENBUTATIN OXIDE	1999	kg							20.5			
+16	Idaho	FENBUTATIN OXIDE	2000	kg							2886.2			
+16	Idaho	FENBUTATIN OXIDE	2001	kg							117			
+16	Idaho	FENBUTATIN OXIDE	2002	kg							34.7			
+16	Idaho	FENBUTATIN OXIDE	2003	kg							341.8			
+16	Idaho	FENBUTATIN OXIDE	2004	kg							254.5			
+16	Idaho	FENBUTATIN OXIDE	2005	kg							12.5			
+16	Idaho	FENBUTATIN OXIDE	2006	kg							19.9			
+16	Idaho	FENBUTATIN OXIDE	2016	kg							1.7			
+17	Illinois	FENBUTATIN OXIDE	1993	kg							31.2			
+17	Illinois	FENBUTATIN OXIDE	1995	kg		66.8					32.1			
+17	Illinois	FENBUTATIN OXIDE	1996	kg							1172.2			
+17	Illinois	FENBUTATIN OXIDE	1999	kg							430.6			
+18	Indiana	FENBUTATIN OXIDE	1993	kg							8			
+18	Indiana	FENBUTATIN OXIDE	1994	kg							2.5			
+18	Indiana	FENBUTATIN OXIDE	1995	kg							9.9			
+18	Indiana	FENBUTATIN OXIDE	1996	kg	8.9									
+18	Indiana	FENBUTATIN OXIDE	1998	kg							4			
+18	Indiana	FENBUTATIN OXIDE	1999	kg							14.5			
+18	Indiana	FENBUTATIN OXIDE	2002	kg					4.6					
+18	Indiana	FENBUTATIN OXIDE	2003	kg							268.4			
+19	Iowa	FENBUTATIN OXIDE	1993	kg							1.4			
+19	Iowa	FENBUTATIN OXIDE	1994	kg										0.4
+19	Iowa	FENBUTATIN OXIDE	1995	kg							1.4			
+19	Iowa	FENBUTATIN OXIDE	1997	kg							0.6			
+20	Kansas	FENBUTATIN OXIDE	1993	kg							212.3			
+20	Kansas	FENBUTATIN OXIDE	1994	kg										453.4
+20	Kansas	FENBUTATIN OXIDE	1996	kg	124.8								1.3	
+20	Kansas	FENBUTATIN OXIDE	1997	kg	1.6									
+22	Louisiana	FENBUTATIN OXIDE	1996	kg				174			173			
+22	Louisiana	FENBUTATIN OXIDE	2005	kg							1.6			
+23	Maine	FENBUTATIN OXIDE	1993	kg							484.7			
+23	Maine	FENBUTATIN OXIDE	1994	kg							2			
+23	Maine	FENBUTATIN OXIDE	1995	kg							26.9			
+23	Maine	FENBUTATIN OXIDE	1996	kg							733.2			
+23	Maine	FENBUTATIN OXIDE	1997	kg							20.1			0.5
+23	Maine	FENBUTATIN OXIDE	1999	kg							40.7			
+23	Maine	FENBUTATIN OXIDE	2002	kg							212.8			
+24	Maryland	FENBUTATIN OXIDE	1993	kg							49.4			
+24	Maryland	FENBUTATIN OXIDE	1994	kg	83.2						2.2			
+24	Maryland	FENBUTATIN OXIDE	1995	kg							8.4			
+24	Maryland	FENBUTATIN OXIDE	1996	kg							182.4			
+24	Maryland	FENBUTATIN OXIDE	1997	kg	8.1									
+24	Maryland	FENBUTATIN OXIDE	2000	kg							24.9			
+25	Massachusetts	FENBUTATIN OXIDE	1993	kg							6			
+25	Massachusetts	FENBUTATIN OXIDE	1994	kg							39			
+25	Massachusetts	FENBUTATIN OXIDE	1995	kg							147.4			
+25	Massachusetts	FENBUTATIN OXIDE	1996	kg							14.5			
+25	Massachusetts	FENBUTATIN OXIDE	1999	kg							10.3			
+25	Massachusetts	FENBUTATIN OXIDE	2001	kg							7.7			
+26	Michigan	FENBUTATIN OXIDE	1993	kg							1108.1			
+26	Michigan	FENBUTATIN OXIDE	1994	kg	856	168					262.4			
+26	Michigan	FENBUTATIN OXIDE	1995	kg		3222.3					208.1			
+26	Michigan	FENBUTATIN OXIDE	1996	kg	6.6	0.6								
+26	Michigan	FENBUTATIN OXIDE	1998	kg							956			
+26	Michigan	FENBUTATIN OXIDE	1999	kg							1041			
+26	Michigan	FENBUTATIN OXIDE	2000	kg							752.6			
+26	Michigan	FENBUTATIN OXIDE	2001	kg							133.3			
+26	Michigan	FENBUTATIN OXIDE	2002	kg					31					
+26	Michigan	FENBUTATIN OXIDE	2003	kg							197			
+26	Michigan	FENBUTATIN OXIDE	2004	kg							126.2			
+26	Michigan	FENBUTATIN OXIDE	2005	kg							413.4			
+26	Michigan	FENBUTATIN OXIDE	2007	kg							1220.3			
+26	Michigan	FENBUTATIN OXIDE	2009	kg							316.5			
+27	Minnesota	FENBUTATIN OXIDE	1993	kg							57.3			
+27	Minnesota	FENBUTATIN OXIDE	1994	kg	1997.1						158.6			
+27	Minnesota	FENBUTATIN OXIDE	1995	kg							91.3			
+27	Minnesota	FENBUTATIN OXIDE	1996	kg	5.1									
+27	Minnesota	FENBUTATIN OXIDE	1997	kg							14.1			
+27	Minnesota	FENBUTATIN OXIDE	1998	kg							16.5			
+27	Minnesota	FENBUTATIN OXIDE	1999	kg							25.9			
+28	Mississippi	FENBUTATIN OXIDE	1996	kg				295.3						
+29	Missouri	FENBUTATIN OXIDE	1993	kg				9361.9			1293.4			
+29	Missouri	FENBUTATIN OXIDE	1994	kg										10.7
+29	Missouri	FENBUTATIN OXIDE	1995	kg							3.7			
+29	Missouri	FENBUTATIN OXIDE	1996	kg							171.1		1	
+29	Missouri	FENBUTATIN OXIDE	1997	kg				439.3						
+30	Montana	FENBUTATIN OXIDE	1992	kg							1.4			
+30	Montana	FENBUTATIN OXIDE	1996	kg							11.5			
+30	Montana	FENBUTATIN OXIDE	1997	kg	3.4						2.2			
+31	Nebraska	FENBUTATIN OXIDE	1994	kg										798.7
+31	Nebraska	FENBUTATIN OXIDE	1996	kg	177.9									
+31	Nebraska	FENBUTATIN OXIDE	1997	kg	22.6									
+32	Nevada	FENBUTATIN OXIDE	1992	kg							3.6			
+32	Nevada	FENBUTATIN OXIDE	1993	kg							6.2			
+32	Nevada	FENBUTATIN OXIDE	1994	kg							0.1			
+32	Nevada	FENBUTATIN OXIDE	1995	kg							8.7			
+32	Nevada	FENBUTATIN OXIDE	1996	kg	0						4.9			
+32	Nevada	FENBUTATIN OXIDE	1997	kg	0.1						12.4			
+32	Nevada	FENBUTATIN OXIDE	1998	kg							5.3			
+32	Nevada	FENBUTATIN OXIDE	1999	kg							5.8			
+32	Nevada	FENBUTATIN OXIDE	2000	kg							32.6			
+32	Nevada	FENBUTATIN OXIDE	2001	kg							3.7			
+32	Nevada	FENBUTATIN OXIDE	2002	kg							11.5			
+32	Nevada	FENBUTATIN OXIDE	2003	kg							3.8			
+32	Nevada	FENBUTATIN OXIDE	2004	kg							2.8			
+32	Nevada	FENBUTATIN OXIDE	2005	kg							0.4			
+32	Nevada	FENBUTATIN OXIDE	2006	kg							3.5			
+32	Nevada	FENBUTATIN OXIDE	2007	kg							10.3			
+32	Nevada	FENBUTATIN OXIDE	2014	kg					0					
+33	New Hampshire	FENBUTATIN OXIDE	1993	kg							154.3			
+33	New Hampshire	FENBUTATIN OXIDE	1994	kg							3.4			
+33	New Hampshire	FENBUTATIN OXIDE	1995	kg							3.8			
+33	New Hampshire	FENBUTATIN OXIDE	1996	kg							133			
+33	New Hampshire	FENBUTATIN OXIDE	1997	kg							9.4			
+33	New Hampshire	FENBUTATIN OXIDE	1999	kg							22.8			
+34	New Jersey	FENBUTATIN OXIDE	1993	kg							63.5			
+34	New Jersey	FENBUTATIN OXIDE	1994	kg							4			
+34	New Jersey	FENBUTATIN OXIDE	1995	kg							14.2			
+34	New Jersey	FENBUTATIN OXIDE	1996	kg	0				270.8		858.5			
+34	New Jersey	FENBUTATIN OXIDE	1997	kg	2.3									
+34	New Jersey	FENBUTATIN OXIDE	2001	kg							6.9			
+34	New Jersey	FENBUTATIN OXIDE	2003	kg							237.6			
+35	New Mexico	FENBUTATIN OXIDE	1992	kg							12.1			
+35	New Mexico	FENBUTATIN OXIDE	1994	kg							2.8			
+35	New Mexico	FENBUTATIN OXIDE	1995	kg							7.3			
+35	New Mexico	FENBUTATIN OXIDE	1996	kg	0.5									
+35	New Mexico	FENBUTATIN OXIDE	2000	kg							5.2			
+35	New Mexico	FENBUTATIN OXIDE	2001	kg							5.9			
+35	New Mexico	FENBUTATIN OXIDE	2002	kg							6			
+36	New York	FENBUTATIN OXIDE	1992	kg							76.6			
+36	New York	FENBUTATIN OXIDE	1993	kg							1276.9			
+36	New York	FENBUTATIN OXIDE	1994	kg	151						87.9			
+36	New York	FENBUTATIN OXIDE	1995	kg							304.5			
+36	New York	FENBUTATIN OXIDE	1996	kg	0						399.9			
+36	New York	FENBUTATIN OXIDE	1997	kg	18.9						103.1			
+36	New York	FENBUTATIN OXIDE	1998	kg	2.1				64.7					
+36	New York	FENBUTATIN OXIDE	1999	kg					112		44.3			
+36	New York	FENBUTATIN OXIDE	2001	kg							118.3			
+36	New York	FENBUTATIN OXIDE	2003	kg							2774.4			
+37	North Carolina	FENBUTATIN OXIDE	1996	kg							749.1			
+37	North Carolina	FENBUTATIN OXIDE	1998	kg					304.4					
+37	North Carolina	FENBUTATIN OXIDE	2002	kg					238.8					
+37	North Carolina	FENBUTATIN OXIDE	2009	kg							37.8			
+38	North Dakota	FENBUTATIN OXIDE	1997	kg	28.3									
+39	Ohio	FENBUTATIN OXIDE	1992	kg							809.7			
+39	Ohio	FENBUTATIN OXIDE	1993	kg							237.8			
+39	Ohio	FENBUTATIN OXIDE	1995	kg							37.2			
+39	Ohio	FENBUTATIN OXIDE	1996	kg	0.3	1			3227.4					
+39	Ohio	FENBUTATIN OXIDE	1998	kg							49.6			
+39	Ohio	FENBUTATIN OXIDE	1999	kg							74.8			
+39	Ohio	FENBUTATIN OXIDE	2002	kg					91.1					
+39	Ohio	FENBUTATIN OXIDE	2003	kg							96.5			
+40	Oklahoma	FENBUTATIN OXIDE	1993	kg							6831.3			
+40	Oklahoma	FENBUTATIN OXIDE	1996	kg	5								2.8	
+40	Oklahoma	FENBUTATIN OXIDE	1998	kg							18.6			
+40	Oklahoma	FENBUTATIN OXIDE	1999	kg							8.7			
+40	Oklahoma	FENBUTATIN OXIDE	2003	kg							26			
+40	Oklahoma	FENBUTATIN OXIDE	2005	kg							0.9			
+41	Oregon	FENBUTATIN OXIDE	1992	kg							2763.8			
+41	Oregon	FENBUTATIN OXIDE	1993	kg							14.3			
+41	Oregon	FENBUTATIN OXIDE	1994	kg					1075		77.8			
+41	Oregon	FENBUTATIN OXIDE	1996	kg	0.3						1128.6			3.8
+41	Oregon	FENBUTATIN OXIDE	1997	kg	1.6						1037.5			
+41	Oregon	FENBUTATIN OXIDE	1998	kg					36.2		313.9			
+41	Oregon	FENBUTATIN OXIDE	1999	kg					28.3		1274.8			
+41	Oregon	FENBUTATIN OXIDE	2000	kg							2090.2			
+41	Oregon	FENBUTATIN OXIDE	2001	kg					123.2		70.4			
+41	Oregon	FENBUTATIN OXIDE	2002	kg					21.4		863.1			
+41	Oregon	FENBUTATIN OXIDE	2003	kg					14.9		481.5			
+41	Oregon	FENBUTATIN OXIDE	2004	kg					87.2		4825.3			
+41	Oregon	FENBUTATIN OXIDE	2005	kg							77.2			
+41	Oregon	FENBUTATIN OXIDE	2006	kg					28.2		271.8			
+41	Oregon	FENBUTATIN OXIDE	2007	kg							113.1			
+41	Oregon	FENBUTATIN OXIDE	2008	kg							657.1			
+41	Oregon	FENBUTATIN OXIDE	2011	kg					591.1					
+41	Oregon	FENBUTATIN OXIDE	2012	kg					134.6		92.8			
+41	Oregon	FENBUTATIN OXIDE	2013	kg					312.8					
+41	Oregon	FENBUTATIN OXIDE	2014	kg					2441.6		575			
+41	Oregon	FENBUTATIN OXIDE	2015	kg							628.1			
+41	Oregon	FENBUTATIN OXIDE	2016	kg							226.6			
+41	Oregon	FENBUTATIN OXIDE	2017	kg							108.1			
+42	Pennsylvania	FENBUTATIN OXIDE	1992	kg							156.2			
+42	Pennsylvania	FENBUTATIN OXIDE	1993	kg							621.4			
+42	Pennsylvania	FENBUTATIN OXIDE	1994	kg	743.9						30.8			
+42	Pennsylvania	FENBUTATIN OXIDE	1995	kg							111.3			
+42	Pennsylvania	FENBUTATIN OXIDE	1996	kg	1.4				9.1		977.1			
+42	Pennsylvania	FENBUTATIN OXIDE	1997	kg	32.1									
+42	Pennsylvania	FENBUTATIN OXIDE	1998	kg	0.2				122.6					
+42	Pennsylvania	FENBUTATIN OXIDE	1999	kg					186.9					
+42	Pennsylvania	FENBUTATIN OXIDE	2002	kg							1055.8			
+44	Rhode Island	FENBUTATIN OXIDE	1993	kg							10.3			
+44	Rhode Island	FENBUTATIN OXIDE	1994	kg							0.6			
+44	Rhode Island	FENBUTATIN OXIDE	1995	kg							3.4			
+44	Rhode Island	FENBUTATIN OXIDE	1996	kg							0.9			
+45	South Carolina	FENBUTATIN OXIDE	1996	kg							199.7			
+45	South Carolina	FENBUTATIN OXIDE	2003	kg							26.3			
+45	South Carolina	FENBUTATIN OXIDE	2004	kg							131.9			
+45	South Carolina	FENBUTATIN OXIDE	2005	kg							177.8			
+45	South Carolina	FENBUTATIN OXIDE	2006	kg							952.3			
+45	South Carolina	FENBUTATIN OXIDE	2009	kg							2.1			
+45	South Carolina	FENBUTATIN OXIDE	2011	kg							539.1			
+46	South Dakota	FENBUTATIN OXIDE	1997	kg	3									
+47	Tennessee	FENBUTATIN OXIDE	1993	kg				5204.9						
+47	Tennessee	FENBUTATIN OXIDE	1996	kg							52			
+47	Tennessee	FENBUTATIN OXIDE	1997	kg				150.8						
+47	Tennessee	FENBUTATIN OXIDE	2009	kg							1.7			
+48	Texas	FENBUTATIN OXIDE	1992	kg					406.6		79.8			
+48	Texas	FENBUTATIN OXIDE	1993	kg							1805.2		12	
+48	Texas	FENBUTATIN OXIDE	1994	kg							7899			
+48	Texas	FENBUTATIN OXIDE	1995	kg							7464.1			
+48	Texas	FENBUTATIN OXIDE	1996	kg	6.1						2402.3		0	
+48	Texas	FENBUTATIN OXIDE	1997	kg							2648.1			
+48	Texas	FENBUTATIN OXIDE	1998	kg							3712.2			
+48	Texas	FENBUTATIN OXIDE	1999	kg							2433.8			
+48	Texas	FENBUTATIN OXIDE	2000	kg							4237.3			
+48	Texas	FENBUTATIN OXIDE	2001	kg							12084.9			
+48	Texas	FENBUTATIN OXIDE	2002	kg							10212.6			
+48	Texas	FENBUTATIN OXIDE	2003	kg							7368.7			
+48	Texas	FENBUTATIN OXIDE	2004	kg							2748.9			
+48	Texas	FENBUTATIN OXIDE	2005	kg							2336.8			
+48	Texas	FENBUTATIN OXIDE	2006	kg							315.7			
+48	Texas	FENBUTATIN OXIDE	2007	kg							1255.7			
+48	Texas	FENBUTATIN OXIDE	2013	kg							414			
+48	Texas	FENBUTATIN OXIDE	2015	kg							7582			
+49	Utah	FENBUTATIN OXIDE	1992	kg							71.7			
+49	Utah	FENBUTATIN OXIDE	1994	kg							0.4			
+49	Utah	FENBUTATIN OXIDE	1995	kg							1.2			
+49	Utah	FENBUTATIN OXIDE	1996	kg							159.6			
+49	Utah	FENBUTATIN OXIDE	1997	kg							1076.5			
+49	Utah	FENBUTATIN OXIDE	1999	kg							72.7			
+49	Utah	FENBUTATIN OXIDE	2000	kg							89.5			
+49	Utah	FENBUTATIN OXIDE	2001	kg							33.2			
+49	Utah	FENBUTATIN OXIDE	2002	kg							314			
+49	Utah	FENBUTATIN OXIDE	2003	kg							77.6			
+49	Utah	FENBUTATIN OXIDE	2004	kg							677.9			
+50	Vermont	FENBUTATIN OXIDE	1993	kg							101			
+50	Vermont	FENBUTATIN OXIDE	1994	kg							7.6			
+50	Vermont	FENBUTATIN OXIDE	1995	kg							19.1			
+50	Vermont	FENBUTATIN OXIDE	1996	kg							11.3			
+50	Vermont	FENBUTATIN OXIDE	1999	kg							7.6			
+50	Vermont	FENBUTATIN OXIDE	2001	kg							5.5			
+51	Virginia	FENBUTATIN OXIDE	1993	kg							29.1			
+51	Virginia	FENBUTATIN OXIDE	1994	kg	146.4									
+51	Virginia	FENBUTATIN OXIDE	1997	kg	5.3									
+51	Virginia	FENBUTATIN OXIDE	1998	kg					66.3					
+51	Virginia	FENBUTATIN OXIDE	2000	kg							46.5			
+53	Washington	FENBUTATIN OXIDE	1994	kg					85.9		1806.9			
+53	Washington	FENBUTATIN OXIDE	1996	kg							16183.8			
+53	Washington	FENBUTATIN OXIDE	1997	kg							1665.3			
+53	Washington	FENBUTATIN OXIDE	1998	kg					12		648.6			
+53	Washington	FENBUTATIN OXIDE	1999	kg					18		2929.6			
+53	Washington	FENBUTATIN OXIDE	2000	kg							235818.3			
+53	Washington	FENBUTATIN OXIDE	2001	kg					31.7		417.6			
+53	Washington	FENBUTATIN OXIDE	2002	kg					29		1809.8			
+53	Washington	FENBUTATIN OXIDE	2003	kg					23.6		69.5			
+53	Washington	FENBUTATIN OXIDE	2004	kg					44.6		8868.7			
+53	Washington	FENBUTATIN OXIDE	2005	kg							784.6			
+53	Washington	FENBUTATIN OXIDE	2006	kg					3.2		2216.9			
+53	Washington	FENBUTATIN OXIDE	2007	kg							1145.7			
+53	Washington	FENBUTATIN OXIDE	2008	kg							1956.1			
+53	Washington	FENBUTATIN OXIDE	2009	kg					69.2					
+53	Washington	FENBUTATIN OXIDE	2010	kg					400.9					
+53	Washington	FENBUTATIN OXIDE	2011	kg					787.4					
+53	Washington	FENBUTATIN OXIDE	2012	kg					191.2		318.1			
+53	Washington	FENBUTATIN OXIDE	2013	kg					521.7					
+53	Washington	FENBUTATIN OXIDE	2014	kg					4465.3		1207.6			
+53	Washington	FENBUTATIN OXIDE	2015	kg							1226.1			
+53	Washington	FENBUTATIN OXIDE	2016	kg							315.3			
+53	Washington	FENBUTATIN OXIDE	2017	kg							568.8			
+54	West Virginia	FENBUTATIN OXIDE	1992	kg							19.8			
+54	West Virginia	FENBUTATIN OXIDE	1993	kg							3.9			
+54	West Virginia	FENBUTATIN OXIDE	1994	kg	22.6									
+54	West Virginia	FENBUTATIN OXIDE	1997	kg	0.6									
+54	West Virginia	FENBUTATIN OXIDE	2000	kg							44.5			
+55	Wisconsin	FENBUTATIN OXIDE	1993	kg							133			
+55	Wisconsin	FENBUTATIN OXIDE	1994	kg	3222						776.4			
+55	Wisconsin	FENBUTATIN OXIDE	1995	kg		1008.6					242.8			
+55	Wisconsin	FENBUTATIN OXIDE	1996	kg	10.5									
+55	Wisconsin	FENBUTATIN OXIDE	1997	kg	35.1						10.9			
+55	Wisconsin	FENBUTATIN OXIDE	1998	kg							42.6			
+55	Wisconsin	FENBUTATIN OXIDE	1999	kg							65.5			
+56	Wyoming	FENBUTATIN OXIDE	1994	kg										31.7
+56	Wyoming	FENBUTATIN OXIDE	1997	kg	0.6									

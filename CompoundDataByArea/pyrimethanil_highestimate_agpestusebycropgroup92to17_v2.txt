@@ -1,0 +1,381 @@
+01	Alabama	PYRIMETHANIL	2010	kg					26.6					
+01	Alabama	PYRIMETHANIL	2011	kg					24					
+04	Arizona	PYRIMETHANIL	2006	kg							3			
+04	Arizona	PYRIMETHANIL	2007	kg							164.6			
+04	Arizona	PYRIMETHANIL	2008	kg					4.7		1.5			
+04	Arizona	PYRIMETHANIL	2009	kg					1.5		60			
+04	Arizona	PYRIMETHANIL	2010	kg					2.2		6			
+04	Arizona	PYRIMETHANIL	2011	kg					1.6		82.5			
+04	Arizona	PYRIMETHANIL	2012	kg					2.9		13			
+04	Arizona	PYRIMETHANIL	2013	kg					15.7		38.5			
+04	Arizona	PYRIMETHANIL	2014	kg					7.6		158.5			
+04	Arizona	PYRIMETHANIL	2015	kg					3.1		103.7			
+04	Arizona	PYRIMETHANIL	2016	kg					41.1		84			
+04	Arizona	PYRIMETHANIL	2017	kg							106.7			
+06	California	PYRIMETHANIL	2006	kg					4776.7		11908.2			
+06	California	PYRIMETHANIL	2007	kg					2707.3		16547.7			
+06	California	PYRIMETHANIL	2008	kg					3883.5		18080.1			
+06	California	PYRIMETHANIL	2009	kg					11716.3		12739.4			
+06	California	PYRIMETHANIL	2010	kg					6085.2		13353.3			
+06	California	PYRIMETHANIL	2011	kg					5189.2		14480			
+06	California	PYRIMETHANIL	2012	kg					6334.7		16042.3			
+06	California	PYRIMETHANIL	2013	kg					6878.9		16293			
+06	California	PYRIMETHANIL	2014	kg					6464.2		18100.4			
+06	California	PYRIMETHANIL	2015	kg					6741.8		18273.2			
+06	California	PYRIMETHANIL	2016	kg					5480.8		21990.5			
+06	California	PYRIMETHANIL	2017	kg					4388		29271.6			
+08	Colorado	PYRIMETHANIL	2008	kg					4327					
+08	Colorado	PYRIMETHANIL	2010	kg					1760.5					
+08	Colorado	PYRIMETHANIL	2011	kg					1125.5					
+08	Colorado	PYRIMETHANIL	2012	kg					1438.8					
+08	Colorado	PYRIMETHANIL	2013	kg					2001.3					
+08	Colorado	PYRIMETHANIL	2014	kg					11780.9					
+08	Colorado	PYRIMETHANIL	2015	kg					2893.1					
+08	Colorado	PYRIMETHANIL	2016	kg					734.3					
+08	Colorado	PYRIMETHANIL	2017	kg					1916.8					
+09	Connecticut	PYRIMETHANIL	2005	kg					9.4		99.4			
+09	Connecticut	PYRIMETHANIL	2006	kg					2.2		2.6			
+09	Connecticut	PYRIMETHANIL	2007	kg							54.4			
+09	Connecticut	PYRIMETHANIL	2008	kg							175.7			
+09	Connecticut	PYRIMETHANIL	2009	kg					2		62.7			
+09	Connecticut	PYRIMETHANIL	2010	kg					2.6		50.7			
+09	Connecticut	PYRIMETHANIL	2011	kg					2.1		86.7			
+09	Connecticut	PYRIMETHANIL	2012	kg					5.4		100.8			
+09	Connecticut	PYRIMETHANIL	2013	kg					5.2		86.7			
+09	Connecticut	PYRIMETHANIL	2014	kg							226.1			
+09	Connecticut	PYRIMETHANIL	2015	kg					10.6		194.5			
+09	Connecticut	PYRIMETHANIL	2016	kg							121.1			
+09	Connecticut	PYRIMETHANIL	2017	kg							58.5			
+12	Florida	PYRIMETHANIL	2008	kg					1546.8					
+12	Florida	PYRIMETHANIL	2009	kg					263.3					
+12	Florida	PYRIMETHANIL	2010	kg					310.2					
+12	Florida	PYRIMETHANIL	2011	kg					3886					
+12	Florida	PYRIMETHANIL	2012	kg					3750.4					
+12	Florida	PYRIMETHANIL	2013	kg					1429.2					
+12	Florida	PYRIMETHANIL	2014	kg					5017.5					
+12	Florida	PYRIMETHANIL	2015	kg					5209.9					
+12	Florida	PYRIMETHANIL	2016	kg					2259.4					
+12	Florida	PYRIMETHANIL	2017	kg					8556.6					
+13	Georgia	PYRIMETHANIL	2010	kg					81.9					
+13	Georgia	PYRIMETHANIL	2011	kg					154.6					
+13	Georgia	PYRIMETHANIL	2013	kg					496.9					
+16	Idaho	PYRIMETHANIL	2007	kg					267.1					
+16	Idaho	PYRIMETHANIL	2008	kg					316.6					
+16	Idaho	PYRIMETHANIL	2009	kg					14.1					
+16	Idaho	PYRIMETHANIL	2010	kg					480.3					
+16	Idaho	PYRIMETHANIL	2011	kg					5344.3					
+16	Idaho	PYRIMETHANIL	2012	kg					2688.1					
+16	Idaho	PYRIMETHANIL	2013	kg					9424.6					
+16	Idaho	PYRIMETHANIL	2014	kg					18326.8					
+16	Idaho	PYRIMETHANIL	2015	kg					21591.3					
+16	Idaho	PYRIMETHANIL	2016	kg					23150.5					
+16	Idaho	PYRIMETHANIL	2017	kg					18832.8					
+17	Illinois	PYRIMETHANIL	2008	kg					148.1					
+17	Illinois	PYRIMETHANIL	2009	kg					201.1					
+17	Illinois	PYRIMETHANIL	2010	kg					164.6					
+17	Illinois	PYRIMETHANIL	2011	kg					400.8					
+17	Illinois	PYRIMETHANIL	2012	kg					69.5					
+17	Illinois	PYRIMETHANIL	2013	kg					166.6					
+17	Illinois	PYRIMETHANIL	2016	kg					270.8					
+17	Illinois	PYRIMETHANIL	2017	kg					117.2					
+18	Indiana	PYRIMETHANIL	2007	kg							1.2			
+18	Indiana	PYRIMETHANIL	2008	kg					82.2					
+18	Indiana	PYRIMETHANIL	2009	kg					116.7					
+18	Indiana	PYRIMETHANIL	2010	kg					61.7					
+18	Indiana	PYRIMETHANIL	2011	kg					164.3		0.3			
+18	Indiana	PYRIMETHANIL	2012	kg					55.3					
+18	Indiana	PYRIMETHANIL	2013	kg					900.1					
+18	Indiana	PYRIMETHANIL	2014	kg							58			
+18	Indiana	PYRIMETHANIL	2015	kg					868		7.2			
+18	Indiana	PYRIMETHANIL	2016	kg					928		15.7			
+18	Indiana	PYRIMETHANIL	2017	kg					245.9		3.6			
+19	Iowa	PYRIMETHANIL	2008	kg					43.6					
+19	Iowa	PYRIMETHANIL	2009	kg					56.7					
+19	Iowa	PYRIMETHANIL	2010	kg					46.8					
+19	Iowa	PYRIMETHANIL	2011	kg					118.2					
+19	Iowa	PYRIMETHANIL	2012	kg					19.1					
+19	Iowa	PYRIMETHANIL	2013	kg					113.4					
+19	Iowa	PYRIMETHANIL	2016	kg					31.3					
+19	Iowa	PYRIMETHANIL	2017	kg					10.9					
+20	Kansas	PYRIMETHANIL	2008	kg					178.2					
+20	Kansas	PYRIMETHANIL	2009	kg					105.8					
+20	Kansas	PYRIMETHANIL	2010	kg					116.7					
+20	Kansas	PYRIMETHANIL	2011	kg					169.2					
+20	Kansas	PYRIMETHANIL	2012	kg					296.7					
+20	Kansas	PYRIMETHANIL	2013	kg					602.6					
+20	Kansas	PYRIMETHANIL	2014	kg					563					
+20	Kansas	PYRIMETHANIL	2015	kg					112.6					
+20	Kansas	PYRIMETHANIL	2016	kg					24.8					
+21	Kentucky	PYRIMETHANIL	2013	kg							17.9			
+21	Kentucky	PYRIMETHANIL	2014	kg							23			
+21	Kentucky	PYRIMETHANIL	2015	kg							22.9			
+23	Maine	PYRIMETHANIL	2014	kg					8.3					
+23	Maine	PYRIMETHANIL	2015	kg					764.4					
+23	Maine	PYRIMETHANIL	2016	kg					1640.9					
+23	Maine	PYRIMETHANIL	2017	kg					557.9					
+24	Maryland	PYRIMETHANIL	2005	kg							107.1			
+24	Maryland	PYRIMETHANIL	2006	kg							32			
+24	Maryland	PYRIMETHANIL	2007	kg							31.1			
+24	Maryland	PYRIMETHANIL	2008	kg							92.9			
+24	Maryland	PYRIMETHANIL	2009	kg							70.2			
+24	Maryland	PYRIMETHANIL	2010	kg							38			
+24	Maryland	PYRIMETHANIL	2011	kg							125.2			
+24	Maryland	PYRIMETHANIL	2012	kg							33.8			
+24	Maryland	PYRIMETHANIL	2013	kg							166.2			
+24	Maryland	PYRIMETHANIL	2014	kg							213.8			
+24	Maryland	PYRIMETHANIL	2015	kg							233.3			
+24	Maryland	PYRIMETHANIL	2016	kg							23.1			
+24	Maryland	PYRIMETHANIL	2017	kg							41.7			
+25	Massachusetts	PYRIMETHANIL	2005	kg					44.5		104.9			
+25	Massachusetts	PYRIMETHANIL	2006	kg					11.1		4.6			
+25	Massachusetts	PYRIMETHANIL	2007	kg							96.4			
+25	Massachusetts	PYRIMETHANIL	2008	kg							305.5			
+25	Massachusetts	PYRIMETHANIL	2009	kg					25.5		106.8			
+25	Massachusetts	PYRIMETHANIL	2010	kg					35.7		84.5			
+25	Massachusetts	PYRIMETHANIL	2011	kg					27.4		141.5			
+25	Massachusetts	PYRIMETHANIL	2012	kg					63.3		22.4			
+25	Massachusetts	PYRIMETHANIL	2013	kg					46.5		143.5			
+25	Massachusetts	PYRIMETHANIL	2014	kg							386.5			
+25	Massachusetts	PYRIMETHANIL	2015	kg					61.2		347			
+25	Massachusetts	PYRIMETHANIL	2016	kg							221			
+25	Massachusetts	PYRIMETHANIL	2017	kg							140.1			
+26	Michigan	PYRIMETHANIL	2005	kg							304.6			
+26	Michigan	PYRIMETHANIL	2006	kg					1060.4		2816.8			
+26	Michigan	PYRIMETHANIL	2007	kg					1741.8		1056.5			
+26	Michigan	PYRIMETHANIL	2008	kg					3197.2		1488.5			
+26	Michigan	PYRIMETHANIL	2009	kg							849.8			
+26	Michigan	PYRIMETHANIL	2010	kg					2014.4		1054.9			
+26	Michigan	PYRIMETHANIL	2011	kg					5146.4		754.5			
+26	Michigan	PYRIMETHANIL	2012	kg							1686.6			
+26	Michigan	PYRIMETHANIL	2013	kg					12911.5		1730.1			
+26	Michigan	PYRIMETHANIL	2014	kg					9676.3		3892.2			
+26	Michigan	PYRIMETHANIL	2015	kg					10206.4		2027.4			
+26	Michigan	PYRIMETHANIL	2016	kg					6639		2468.4			
+26	Michigan	PYRIMETHANIL	2017	kg					2108.5		504			
+27	Minnesota	PYRIMETHANIL	2006	kg					1478					
+27	Minnesota	PYRIMETHANIL	2007	kg					4581.8					
+27	Minnesota	PYRIMETHANIL	2008	kg					4753.1					
+27	Minnesota	PYRIMETHANIL	2009	kg					508.8					
+27	Minnesota	PYRIMETHANIL	2010	kg					2955.5					
+27	Minnesota	PYRIMETHANIL	2011	kg					7316.3					
+27	Minnesota	PYRIMETHANIL	2012	kg					601.3					
+27	Minnesota	PYRIMETHANIL	2013	kg					888.7					
+27	Minnesota	PYRIMETHANIL	2014	kg					1821.8					
+27	Minnesota	PYRIMETHANIL	2015	kg					1276					
+27	Minnesota	PYRIMETHANIL	2016	kg					1445.3					
+27	Minnesota	PYRIMETHANIL	2017	kg					1752.4					
+30	Montana	PYRIMETHANIL	2010	kg					4.6					
+30	Montana	PYRIMETHANIL	2011	kg					150.2					
+30	Montana	PYRIMETHANIL	2012	kg					29.3					
+30	Montana	PYRIMETHANIL	2013	kg					259.1					
+30	Montana	PYRIMETHANIL	2014	kg					331.7					
+30	Montana	PYRIMETHANIL	2015	kg					485.8					
+30	Montana	PYRIMETHANIL	2016	kg					393.4					
+30	Montana	PYRIMETHANIL	2017	kg					380.6					
+31	Nebraska	PYRIMETHANIL	2008	kg					4964.9					
+31	Nebraska	PYRIMETHANIL	2009	kg					3668.7					
+31	Nebraska	PYRIMETHANIL	2010	kg					4041.4					
+31	Nebraska	PYRIMETHANIL	2011	kg					6700.6					
+31	Nebraska	PYRIMETHANIL	2012	kg					10739.3					
+31	Nebraska	PYRIMETHANIL	2013	kg					13256.7					
+31	Nebraska	PYRIMETHANIL	2014	kg					14014.8					
+31	Nebraska	PYRIMETHANIL	2015	kg					2634.2					
+31	Nebraska	PYRIMETHANIL	2016	kg					810.1					
+31	Nebraska	PYRIMETHANIL	2017	kg					244.7					
+32	Nevada	PYRIMETHANIL	2007	kg					17.8		0.4			
+32	Nevada	PYRIMETHANIL	2008	kg					0.2					
+32	Nevada	PYRIMETHANIL	2009	kg					4.8		3.7			
+32	Nevada	PYRIMETHANIL	2010	kg					0.1					
+32	Nevada	PYRIMETHANIL	2011	kg					4.5		2.5			
+32	Nevada	PYRIMETHANIL	2012	kg					92.9					
+32	Nevada	PYRIMETHANIL	2013	kg					257.7					
+32	Nevada	PYRIMETHANIL	2014	kg					259.4		12			
+32	Nevada	PYRIMETHANIL	2015	kg					238.7		0.9			
+32	Nevada	PYRIMETHANIL	2016	kg					235.8		0.8			
+32	Nevada	PYRIMETHANIL	2017	kg					53.7		0.8			
+33	New Hampshire	PYRIMETHANIL	2017	kg					5.9					
+34	New Jersey	PYRIMETHANIL	2005	kg					3.4		93.8			
+34	New Jersey	PYRIMETHANIL	2006	kg					0.8		20.4			
+34	New Jersey	PYRIMETHANIL	2007	kg							71.5			
+34	New Jersey	PYRIMETHANIL	2008	kg							152.7			
+34	New Jersey	PYRIMETHANIL	2009	kg					7.1		42.2			
+34	New Jersey	PYRIMETHANIL	2010	kg					9.7		47.7			
+34	New Jersey	PYRIMETHANIL	2011	kg					7.3		179.9			
+34	New Jersey	PYRIMETHANIL	2012	kg					16.5		58.6			
+34	New Jersey	PYRIMETHANIL	2013	kg					14.6		77.3			
+34	New Jersey	PYRIMETHANIL	2014	kg							1311.1			
+34	New Jersey	PYRIMETHANIL	2015	kg					20.9		188.5			
+34	New Jersey	PYRIMETHANIL	2016	kg							121.5			
+34	New Jersey	PYRIMETHANIL	2017	kg							79			
+35	New Mexico	PYRIMETHANIL	2008	kg					499.9					
+35	New Mexico	PYRIMETHANIL	2010	kg					464.5					
+35	New Mexico	PYRIMETHANIL	2011	kg					858.5					
+35	New Mexico	PYRIMETHANIL	2012	kg					74.9					
+35	New Mexico	PYRIMETHANIL	2013	kg					60.4					
+35	New Mexico	PYRIMETHANIL	2014	kg					1779.9					
+35	New Mexico	PYRIMETHANIL	2015	kg					55.5					
+35	New Mexico	PYRIMETHANIL	2016	kg					11.1					
+35	New Mexico	PYRIMETHANIL	2017	kg					34.3					
+36	New York	PYRIMETHANIL	2005	kg					3327.8		491.5			
+36	New York	PYRIMETHANIL	2006	kg					3392.2		79.4			
+36	New York	PYRIMETHANIL	2007	kg					3071.1		598.9			
+36	New York	PYRIMETHANIL	2008	kg							3686.8			
+36	New York	PYRIMETHANIL	2009	kg					2561.3		1590.4			
+36	New York	PYRIMETHANIL	2010	kg					2206.7		2111.6			
+36	New York	PYRIMETHANIL	2011	kg					906.9		1664.3			
+36	New York	PYRIMETHANIL	2012	kg					3709.2		1685.8			
+36	New York	PYRIMETHANIL	2013	kg					3232.4		2033.7			
+36	New York	PYRIMETHANIL	2014	kg					3368		7966.5			
+36	New York	PYRIMETHANIL	2015	kg					2621.4		4631			
+36	New York	PYRIMETHANIL	2016	kg					2913.9		4251.8			
+36	New York	PYRIMETHANIL	2017	kg					278.6		3344.6			
+37	North Carolina	PYRIMETHANIL	2007	kg					618.3					
+38	North Dakota	PYRIMETHANIL	2006	kg					5953.6					
+38	North Dakota	PYRIMETHANIL	2007	kg					14567.1					
+38	North Dakota	PYRIMETHANIL	2008	kg					5959.1					
+38	North Dakota	PYRIMETHANIL	2010	kg					4452.1					
+38	North Dakota	PYRIMETHANIL	2011	kg					10714.8					
+38	North Dakota	PYRIMETHANIL	2012	kg					990					
+38	North Dakota	PYRIMETHANIL	2014	kg					426.9					
+38	North Dakota	PYRIMETHANIL	2015	kg					9402.1					
+38	North Dakota	PYRIMETHANIL	2017	kg					1501					
+39	Ohio	PYRIMETHANIL	2005	kg							310.1			
+39	Ohio	PYRIMETHANIL	2006	kg					71.9		533.7			
+39	Ohio	PYRIMETHANIL	2007	kg					117.7		300.9			
+39	Ohio	PYRIMETHANIL	2008	kg					54.1		288.9			
+39	Ohio	PYRIMETHANIL	2009	kg					53.5		890.5			
+39	Ohio	PYRIMETHANIL	2010	kg					24.3		88.1			
+39	Ohio	PYRIMETHANIL	2011	kg					44.2		100.9			
+39	Ohio	PYRIMETHANIL	2012	kg					10.6		152.5			
+39	Ohio	PYRIMETHANIL	2013	kg					181.3		103.1			
+39	Ohio	PYRIMETHANIL	2014	kg					23.1		378.8			
+39	Ohio	PYRIMETHANIL	2015	kg					193.4		133			
+39	Ohio	PYRIMETHANIL	2016	kg					186.1		150.9			
+39	Ohio	PYRIMETHANIL	2017	kg					43.8		47.8			
+40	Oklahoma	PYRIMETHANIL	2008	kg					5.9					
+40	Oklahoma	PYRIMETHANIL	2010	kg					6.5					
+40	Oklahoma	PYRIMETHANIL	2011	kg					12.9					
+40	Oklahoma	PYRIMETHANIL	2012	kg					5.2					
+40	Oklahoma	PYRIMETHANIL	2013	kg					29.8					
+40	Oklahoma	PYRIMETHANIL	2014	kg					100.7					
+40	Oklahoma	PYRIMETHANIL	2015	kg					19.6					
+40	Oklahoma	PYRIMETHANIL	2016	kg					3.6					
+41	Oregon	PYRIMETHANIL	2005	kg					552.8		89.9			
+41	Oregon	PYRIMETHANIL	2006	kg					76.8					
+41	Oregon	PYRIMETHANIL	2007	kg					433.7					
+41	Oregon	PYRIMETHANIL	2008	kg					5174.2		1850.1			
+41	Oregon	PYRIMETHANIL	2009	kg					561.6					
+41	Oregon	PYRIMETHANIL	2010	kg					856.3		42.9			
+41	Oregon	PYRIMETHANIL	2011	kg					683.5					
+41	Oregon	PYRIMETHANIL	2012	kg					953.3					
+41	Oregon	PYRIMETHANIL	2013	kg					2424.4					
+41	Oregon	PYRIMETHANIL	2014	kg					2676.6					
+41	Oregon	PYRIMETHANIL	2015	kg					1832.5					
+41	Oregon	PYRIMETHANIL	2016	kg					2059.4					
+41	Oregon	PYRIMETHANIL	2017	kg					2882.8		6.6			
+42	Pennsylvania	PYRIMETHANIL	2005	kg					12.5		1149			
+42	Pennsylvania	PYRIMETHANIL	2006	kg					6.5		601.1			
+42	Pennsylvania	PYRIMETHANIL	2007	kg							1043.8			
+42	Pennsylvania	PYRIMETHANIL	2008	kg							2238.7			
+42	Pennsylvania	PYRIMETHANIL	2009	kg					5.9		1894.8			
+42	Pennsylvania	PYRIMETHANIL	2010	kg					5.8		539.4			
+42	Pennsylvania	PYRIMETHANIL	2011	kg					4.5		2558.5			
+42	Pennsylvania	PYRIMETHANIL	2012	kg					6.3		1071.3			
+42	Pennsylvania	PYRIMETHANIL	2013	kg					7.6		1902			
+42	Pennsylvania	PYRIMETHANIL	2014	kg					5.2		5719			
+42	Pennsylvania	PYRIMETHANIL	2015	kg					26.9		3483.3			
+42	Pennsylvania	PYRIMETHANIL	2016	kg							597.6			
+42	Pennsylvania	PYRIMETHANIL	2017	kg							787.2			
+45	South Carolina	PYRIMETHANIL	2013	kg					0.5					
+46	South Dakota	PYRIMETHANIL	2008	kg					96.3					
+46	South Dakota	PYRIMETHANIL	2009	kg					26.1					
+46	South Dakota	PYRIMETHANIL	2010	kg					47.6					
+46	South Dakota	PYRIMETHANIL	2011	kg					80.4					
+46	South Dakota	PYRIMETHANIL	2012	kg					2.9					
+46	South Dakota	PYRIMETHANIL	2013	kg					12.7					
+46	South Dakota	PYRIMETHANIL	2014	kg					1.7					
+46	South Dakota	PYRIMETHANIL	2015	kg					9.1					
+46	South Dakota	PYRIMETHANIL	2016	kg					5.3					
+46	South Dakota	PYRIMETHANIL	2017	kg					6.8					
+48	Texas	PYRIMETHANIL	2008	kg					2246.4					
+48	Texas	PYRIMETHANIL	2010	kg					1342.5					
+48	Texas	PYRIMETHANIL	2011	kg					2517.3					
+48	Texas	PYRIMETHANIL	2012	kg					368.9					
+48	Texas	PYRIMETHANIL	2013	kg					834.3					
+48	Texas	PYRIMETHANIL	2014	kg					2804.4					
+48	Texas	PYRIMETHANIL	2015	kg					548					
+48	Texas	PYRIMETHANIL	2016	kg					102.1					
+49	Utah	PYRIMETHANIL	2010	kg					0.2					
+49	Utah	PYRIMETHANIL	2011	kg					7.3					
+49	Utah	PYRIMETHANIL	2012	kg					8.2					
+49	Utah	PYRIMETHANIL	2013	kg					21.5					
+49	Utah	PYRIMETHANIL	2014	kg					48.9					
+49	Utah	PYRIMETHANIL	2015	kg					39.6					
+49	Utah	PYRIMETHANIL	2016	kg					32.6					
+49	Utah	PYRIMETHANIL	2017	kg					21.7					
+50	Vermont	PYRIMETHANIL	2005	kg							80			
+50	Vermont	PYRIMETHANIL	2006	kg							53			
+50	Vermont	PYRIMETHANIL	2007	kg							187.4			
+50	Vermont	PYRIMETHANIL	2008	kg							224.2			
+50	Vermont	PYRIMETHANIL	2009	kg							75.9			
+50	Vermont	PYRIMETHANIL	2010	kg							57.7			
+50	Vermont	PYRIMETHANIL	2011	kg							131.7			
+50	Vermont	PYRIMETHANIL	2012	kg							14			
+50	Vermont	PYRIMETHANIL	2013	kg							88.2			
+50	Vermont	PYRIMETHANIL	2014	kg							239.5			
+50	Vermont	PYRIMETHANIL	2015	kg							216.4			
+50	Vermont	PYRIMETHANIL	2016	kg							138.8			
+50	Vermont	PYRIMETHANIL	2017	kg							107.7			
+51	Virginia	PYRIMETHANIL	2005	kg							153.5			
+51	Virginia	PYRIMETHANIL	2006	kg							157.4			
+51	Virginia	PYRIMETHANIL	2007	kg					1		95.6			
+51	Virginia	PYRIMETHANIL	2008	kg							580.5			
+51	Virginia	PYRIMETHANIL	2009	kg							132.1			
+51	Virginia	PYRIMETHANIL	2010	kg							134.3			
+51	Virginia	PYRIMETHANIL	2011	kg							561			
+51	Virginia	PYRIMETHANIL	2012	kg							1586.1			
+51	Virginia	PYRIMETHANIL	2013	kg							3183.6			
+51	Virginia	PYRIMETHANIL	2014	kg							1846.7			
+51	Virginia	PYRIMETHANIL	2015	kg							101			
+53	Washington	PYRIMETHANIL	2005	kg					1914		13.6			
+53	Washington	PYRIMETHANIL	2006	kg					257					
+53	Washington	PYRIMETHANIL	2007	kg					1253.5					
+53	Washington	PYRIMETHANIL	2008	kg					6143.6		18.8			
+53	Washington	PYRIMETHANIL	2009	kg					3					
+53	Washington	PYRIMETHANIL	2010	kg					8105.6		16.3			
+53	Washington	PYRIMETHANIL	2011	kg					1932.4					
+53	Washington	PYRIMETHANIL	2012	kg					1975.6					
+53	Washington	PYRIMETHANIL	2013	kg					6884					
+53	Washington	PYRIMETHANIL	2014	kg					10826.2					
+53	Washington	PYRIMETHANIL	2015	kg					3057.5					
+53	Washington	PYRIMETHANIL	2016	kg					9922.2					
+53	Washington	PYRIMETHANIL	2017	kg					6450.7		344.2			
+54	West Virginia	PYRIMETHANIL	2005	kg							592.6			
+54	West Virginia	PYRIMETHANIL	2006	kg							61.1			
+54	West Virginia	PYRIMETHANIL	2007	kg							179			
+54	West Virginia	PYRIMETHANIL	2008	kg							129			
+54	West Virginia	PYRIMETHANIL	2009	kg							422.8			
+54	West Virginia	PYRIMETHANIL	2010	kg							96.4			
+54	West Virginia	PYRIMETHANIL	2011	kg							405.4			
+54	West Virginia	PYRIMETHANIL	2012	kg							51			
+54	West Virginia	PYRIMETHANIL	2013	kg							437.4			
+54	West Virginia	PYRIMETHANIL	2014	kg					0.3		497.8			
+54	West Virginia	PYRIMETHANIL	2015	kg							295.4			
+55	Wisconsin	PYRIMETHANIL	2008	kg					1123.8					
+55	Wisconsin	PYRIMETHANIL	2010	kg					2255.3					
+55	Wisconsin	PYRIMETHANIL	2011	kg					1478.1					
+55	Wisconsin	PYRIMETHANIL	2012	kg					652.8					
+55	Wisconsin	PYRIMETHANIL	2013	kg					4279.6					
+55	Wisconsin	PYRIMETHANIL	2014	kg					5470.3					
+55	Wisconsin	PYRIMETHANIL	2015	kg					2681.5					
+55	Wisconsin	PYRIMETHANIL	2016	kg					4280.1					
+55	Wisconsin	PYRIMETHANIL	2017	kg					1463.4					
+56	Wyoming	PYRIMETHANIL	2008	kg					88.5					
+56	Wyoming	PYRIMETHANIL	2010	kg					82.5					
+56	Wyoming	PYRIMETHANIL	2011	kg					29.7					
+56	Wyoming	PYRIMETHANIL	2012	kg					26.7					
+56	Wyoming	PYRIMETHANIL	2013	kg					0.4					
+56	Wyoming	PYRIMETHANIL	2014	kg					10.6					
+56	Wyoming	PYRIMETHANIL	2015	kg					38.7					
+56	Wyoming	PYRIMETHANIL	2016	kg					0.1					
+56	Wyoming	PYRIMETHANIL	2017	kg					0					

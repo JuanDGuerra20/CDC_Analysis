@@ -1,0 +1,570 @@
+01	Alabama	ISOXAFLUTOLE	2004	kg	21.1									
+01	Alabama	ISOXAFLUTOLE	2005	kg	405.4									
+01	Alabama	ISOXAFLUTOLE	2007	kg	109.3									
+01	Alabama	ISOXAFLUTOLE	2009	kg	1170.9									
+01	Alabama	ISOXAFLUTOLE	2011	kg	174.3									
+01	Alabama	ISOXAFLUTOLE	2013	kg	286.3									
+01	Alabama	ISOXAFLUTOLE	2014	kg	1414.7									
+01	Alabama	ISOXAFLUTOLE	2015	kg	57									
+01	Alabama	ISOXAFLUTOLE	2016	kg	584									
+01	Alabama	ISOXAFLUTOLE	2017	kg	91.3									
+05	Arkansas	ISOXAFLUTOLE	2001	kg	7.9									
+05	Arkansas	ISOXAFLUTOLE	2010	kg	17.4									
+05	Arkansas	ISOXAFLUTOLE	2011	kg	983.2									
+05	Arkansas	ISOXAFLUTOLE	2012	kg	315									
+05	Arkansas	ISOXAFLUTOLE	2013	kg	2487.8									
+05	Arkansas	ISOXAFLUTOLE	2014	kg	1728.2									
+05	Arkansas	ISOXAFLUTOLE	2015	kg	323.6									
+05	Arkansas	ISOXAFLUTOLE	2016	kg	896									
+05	Arkansas	ISOXAFLUTOLE	2017	kg	1098.8									
+08	Colorado	ISOXAFLUTOLE	1999	kg	900.2									
+08	Colorado	ISOXAFLUTOLE	2000	kg	858.9									
+08	Colorado	ISOXAFLUTOLE	2001	kg	2688.2									
+08	Colorado	ISOXAFLUTOLE	2002	kg	788.9									
+08	Colorado	ISOXAFLUTOLE	2003	kg	1370.6									
+08	Colorado	ISOXAFLUTOLE	2004	kg	2101.6									
+08	Colorado	ISOXAFLUTOLE	2005	kg	1378.7									
+08	Colorado	ISOXAFLUTOLE	2006	kg	368.6									
+08	Colorado	ISOXAFLUTOLE	2007	kg	1227.7									
+08	Colorado	ISOXAFLUTOLE	2008	kg	888.9									
+08	Colorado	ISOXAFLUTOLE	2009	kg	1744									
+08	Colorado	ISOXAFLUTOLE	2010	kg	1741.1									
+08	Colorado	ISOXAFLUTOLE	2011	kg	4324.9									
+08	Colorado	ISOXAFLUTOLE	2012	kg	1691									
+08	Colorado	ISOXAFLUTOLE	2013	kg	3319.6								1535.1	
+08	Colorado	ISOXAFLUTOLE	2014	kg	6358.5								2574.7	
+08	Colorado	ISOXAFLUTOLE	2015	kg	5538								3749.4	
+08	Colorado	ISOXAFLUTOLE	2016	kg	5759.9								1294.9	
+08	Colorado	ISOXAFLUTOLE	2017	kg	3098.7								5928.8	
+10	Delaware	ISOXAFLUTOLE	2002	kg	15.3									
+10	Delaware	ISOXAFLUTOLE	2003	kg	6.4									
+10	Delaware	ISOXAFLUTOLE	2004	kg	6.8									
+10	Delaware	ISOXAFLUTOLE	2005	kg	34									
+10	Delaware	ISOXAFLUTOLE	2006	kg	9.5									
+10	Delaware	ISOXAFLUTOLE	2012	kg	5.8									
+10	Delaware	ISOXAFLUTOLE	2013	kg	287.7									
+10	Delaware	ISOXAFLUTOLE	2014	kg	1008.2									
+10	Delaware	ISOXAFLUTOLE	2015	kg	760.9									
+10	Delaware	ISOXAFLUTOLE	2016	kg	371									
+10	Delaware	ISOXAFLUTOLE	2017	kg	649.3									
+17	Illinois	ISOXAFLUTOLE	1999	kg	17553.9									
+17	Illinois	ISOXAFLUTOLE	2000	kg	18157.6									
+17	Illinois	ISOXAFLUTOLE	2001	kg	26061.4									
+17	Illinois	ISOXAFLUTOLE	2002	kg	27784.4									
+17	Illinois	ISOXAFLUTOLE	2003	kg	30527.1									
+17	Illinois	ISOXAFLUTOLE	2004	kg	31652.2									
+17	Illinois	ISOXAFLUTOLE	2005	kg	32649.7									
+17	Illinois	ISOXAFLUTOLE	2006	kg	21151.5									
+17	Illinois	ISOXAFLUTOLE	2007	kg	19428.3									
+17	Illinois	ISOXAFLUTOLE	2008	kg	9385.2									
+17	Illinois	ISOXAFLUTOLE	2009	kg	16643.7									
+17	Illinois	ISOXAFLUTOLE	2010	kg	22110.6									
+17	Illinois	ISOXAFLUTOLE	2011	kg	24324.5									
+17	Illinois	ISOXAFLUTOLE	2012	kg	57666.8									
+17	Illinois	ISOXAFLUTOLE	2013	kg	43814									
+17	Illinois	ISOXAFLUTOLE	2014	kg	45878.7									
+17	Illinois	ISOXAFLUTOLE	2015	kg	44156.9									
+17	Illinois	ISOXAFLUTOLE	2016	kg	57651.5									
+17	Illinois	ISOXAFLUTOLE	2017	kg	43731.2									
+18	Indiana	ISOXAFLUTOLE	1999	kg	5245.8									
+18	Indiana	ISOXAFLUTOLE	2000	kg	7296.4									
+18	Indiana	ISOXAFLUTOLE	2001	kg	19057.9									
+18	Indiana	ISOXAFLUTOLE	2002	kg	22165									
+18	Indiana	ISOXAFLUTOLE	2003	kg	28367.3									
+18	Indiana	ISOXAFLUTOLE	2004	kg	21481.9									
+18	Indiana	ISOXAFLUTOLE	2005	kg	14330.2									
+18	Indiana	ISOXAFLUTOLE	2006	kg	10208.8									
+18	Indiana	ISOXAFLUTOLE	2007	kg	6034.4									
+18	Indiana	ISOXAFLUTOLE	2008	kg	10165.6									
+18	Indiana	ISOXAFLUTOLE	2009	kg	11692.3									
+18	Indiana	ISOXAFLUTOLE	2010	kg	13630.3									
+18	Indiana	ISOXAFLUTOLE	2011	kg	22809.9									
+18	Indiana	ISOXAFLUTOLE	2012	kg	21390.5				0.8					
+18	Indiana	ISOXAFLUTOLE	2013	kg	26331.6									
+18	Indiana	ISOXAFLUTOLE	2014	kg	36604.5									
+18	Indiana	ISOXAFLUTOLE	2015	kg	31648.3									
+18	Indiana	ISOXAFLUTOLE	2016	kg	30064									
+18	Indiana	ISOXAFLUTOLE	2017	kg	23950.6									
+19	Iowa	ISOXAFLUTOLE	1999	kg	39020.9									
+19	Iowa	ISOXAFLUTOLE	2000	kg	29035.7									
+19	Iowa	ISOXAFLUTOLE	2001	kg	48141.8									
+19	Iowa	ISOXAFLUTOLE	2002	kg	58519.8									
+19	Iowa	ISOXAFLUTOLE	2003	kg	60898.8									
+19	Iowa	ISOXAFLUTOLE	2004	kg	60131.2									
+19	Iowa	ISOXAFLUTOLE	2005	kg	50990.2									
+19	Iowa	ISOXAFLUTOLE	2006	kg	49992.5									
+19	Iowa	ISOXAFLUTOLE	2007	kg	28197.8									
+19	Iowa	ISOXAFLUTOLE	2008	kg	39102.8									
+19	Iowa	ISOXAFLUTOLE	2009	kg	39830.5									
+19	Iowa	ISOXAFLUTOLE	2010	kg	40098.3									
+19	Iowa	ISOXAFLUTOLE	2011	kg	51830.1									
+19	Iowa	ISOXAFLUTOLE	2012	kg	56258									
+19	Iowa	ISOXAFLUTOLE	2013	kg	44792.6									
+19	Iowa	ISOXAFLUTOLE	2014	kg	53441.2									
+19	Iowa	ISOXAFLUTOLE	2015	kg	52836.4									
+19	Iowa	ISOXAFLUTOLE	2016	kg	40465.4									
+19	Iowa	ISOXAFLUTOLE	2017	kg	36474									
+20	Kansas	ISOXAFLUTOLE	1999	kg	8106.3									
+20	Kansas	ISOXAFLUTOLE	2000	kg	4890.9									
+20	Kansas	ISOXAFLUTOLE	2001	kg	4085.3									
+20	Kansas	ISOXAFLUTOLE	2002	kg	8185.5									
+20	Kansas	ISOXAFLUTOLE	2003	kg	9085.4									
+20	Kansas	ISOXAFLUTOLE	2004	kg	7846.2									
+20	Kansas	ISOXAFLUTOLE	2005	kg	4662.7									
+20	Kansas	ISOXAFLUTOLE	2006	kg	1555.2									
+20	Kansas	ISOXAFLUTOLE	2007	kg	4742.2									
+20	Kansas	ISOXAFLUTOLE	2008	kg	6773									
+20	Kansas	ISOXAFLUTOLE	2009	kg	14807.2									
+20	Kansas	ISOXAFLUTOLE	2010	kg	21190.6									
+20	Kansas	ISOXAFLUTOLE	2011	kg	17743.4									
+20	Kansas	ISOXAFLUTOLE	2012	kg	11775.6									
+20	Kansas	ISOXAFLUTOLE	2013	kg	19515.3								1796.5	
+20	Kansas	ISOXAFLUTOLE	2014	kg	34928.1								1832.2	
+20	Kansas	ISOXAFLUTOLE	2015	kg	12940.4								6713.2	
+20	Kansas	ISOXAFLUTOLE	2016	kg	21410.7								2841.4	
+20	Kansas	ISOXAFLUTOLE	2017	kg	35601.9								5237	
+21	Kentucky	ISOXAFLUTOLE	1999	kg	329									
+21	Kentucky	ISOXAFLUTOLE	2000	kg	550									
+21	Kentucky	ISOXAFLUTOLE	2001	kg	302.9									
+21	Kentucky	ISOXAFLUTOLE	2002	kg	1106.1									
+21	Kentucky	ISOXAFLUTOLE	2003	kg	660.9									
+21	Kentucky	ISOXAFLUTOLE	2004	kg	1731									
+21	Kentucky	ISOXAFLUTOLE	2005	kg	1350									
+21	Kentucky	ISOXAFLUTOLE	2006	kg	1005									
+21	Kentucky	ISOXAFLUTOLE	2007	kg	674.7									
+21	Kentucky	ISOXAFLUTOLE	2008	kg	1150.1									
+21	Kentucky	ISOXAFLUTOLE	2009	kg	3440.8									
+21	Kentucky	ISOXAFLUTOLE	2010	kg	3229.8									
+21	Kentucky	ISOXAFLUTOLE	2011	kg	3072.5									
+21	Kentucky	ISOXAFLUTOLE	2012	kg	6349.7				0.1					
+21	Kentucky	ISOXAFLUTOLE	2013	kg	3803.6									
+21	Kentucky	ISOXAFLUTOLE	2014	kg	6320.8									
+21	Kentucky	ISOXAFLUTOLE	2015	kg	2128									
+21	Kentucky	ISOXAFLUTOLE	2016	kg	2344									
+21	Kentucky	ISOXAFLUTOLE	2017	kg	2575.3									
+22	Louisiana	ISOXAFLUTOLE	2013	kg	14									
+22	Louisiana	ISOXAFLUTOLE	2014	kg	22									
+22	Louisiana	ISOXAFLUTOLE	2015	kg	2.6									
+22	Louisiana	ISOXAFLUTOLE	2016	kg	62									
+22	Louisiana	ISOXAFLUTOLE	2017	kg	22									
+24	Maryland	ISOXAFLUTOLE	1999	kg	5.9									
+24	Maryland	ISOXAFLUTOLE	2000	kg	14.5									
+24	Maryland	ISOXAFLUTOLE	2001	kg	5.9									
+24	Maryland	ISOXAFLUTOLE	2002	kg	297.5									
+24	Maryland	ISOXAFLUTOLE	2003	kg	96.3									
+24	Maryland	ISOXAFLUTOLE	2004	kg	118.8									
+24	Maryland	ISOXAFLUTOLE	2005	kg	604									
+24	Maryland	ISOXAFLUTOLE	2006	kg	188.3									
+24	Maryland	ISOXAFLUTOLE	2007	kg	6.4									
+24	Maryland	ISOXAFLUTOLE	2008	kg	5.6									
+24	Maryland	ISOXAFLUTOLE	2009	kg	11.3									
+24	Maryland	ISOXAFLUTOLE	2010	kg	17.9									
+24	Maryland	ISOXAFLUTOLE	2011	kg	436									
+24	Maryland	ISOXAFLUTOLE	2012	kg	413.2									
+24	Maryland	ISOXAFLUTOLE	2013	kg	610.7									
+24	Maryland	ISOXAFLUTOLE	2014	kg	966.3									
+24	Maryland	ISOXAFLUTOLE	2015	kg	2565.4									
+24	Maryland	ISOXAFLUTOLE	2016	kg	922.9									
+24	Maryland	ISOXAFLUTOLE	2017	kg	1713.8									
+26	Michigan	ISOXAFLUTOLE	1999	kg	1662.1									
+26	Michigan	ISOXAFLUTOLE	2000	kg	3854.5									
+26	Michigan	ISOXAFLUTOLE	2001	kg	1997.3									
+26	Michigan	ISOXAFLUTOLE	2002	kg	7911.4									
+26	Michigan	ISOXAFLUTOLE	2003	kg	6434.7									
+26	Michigan	ISOXAFLUTOLE	2004	kg	7946.6									
+26	Michigan	ISOXAFLUTOLE	2005	kg	8668.5									
+26	Michigan	ISOXAFLUTOLE	2006	kg	4533.9									
+26	Michigan	ISOXAFLUTOLE	2007	kg	7765.8									
+26	Michigan	ISOXAFLUTOLE	2008	kg	4682.9									
+26	Michigan	ISOXAFLUTOLE	2009	kg	3918.7									
+26	Michigan	ISOXAFLUTOLE	2010	kg	6223.5									
+26	Michigan	ISOXAFLUTOLE	2011	kg	7359.9									
+26	Michigan	ISOXAFLUTOLE	2012	kg	11987.5									
+26	Michigan	ISOXAFLUTOLE	2013	kg	10286.2									
+26	Michigan	ISOXAFLUTOLE	2014	kg	2186.6									
+26	Michigan	ISOXAFLUTOLE	2015	kg	8065.9									
+26	Michigan	ISOXAFLUTOLE	2016	kg	1614.5									
+26	Michigan	ISOXAFLUTOLE	2017	kg	8114.5									
+27	Minnesota	ISOXAFLUTOLE	1999	kg	11871.2									
+27	Minnesota	ISOXAFLUTOLE	2000	kg	10651.3									
+27	Minnesota	ISOXAFLUTOLE	2001	kg	10210.9									
+27	Minnesota	ISOXAFLUTOLE	2002	kg	14035									
+27	Minnesota	ISOXAFLUTOLE	2003	kg	33000.9									
+27	Minnesota	ISOXAFLUTOLE	2004	kg	20600.5									
+27	Minnesota	ISOXAFLUTOLE	2005	kg	24109.6									
+27	Minnesota	ISOXAFLUTOLE	2006	kg	30356.1									
+27	Minnesota	ISOXAFLUTOLE	2007	kg	23629.4									
+27	Minnesota	ISOXAFLUTOLE	2008	kg	14194.9									
+27	Minnesota	ISOXAFLUTOLE	2009	kg	10816.1									
+27	Minnesota	ISOXAFLUTOLE	2010	kg	11883.8									
+27	Minnesota	ISOXAFLUTOLE	2011	kg	15803.4									
+27	Minnesota	ISOXAFLUTOLE	2012	kg	13511									
+27	Minnesota	ISOXAFLUTOLE	2013	kg	13430.1									
+27	Minnesota	ISOXAFLUTOLE	2014	kg	14317.1									
+27	Minnesota	ISOXAFLUTOLE	2015	kg	9663.3									
+27	Minnesota	ISOXAFLUTOLE	2016	kg	10558.5									
+27	Minnesota	ISOXAFLUTOLE	2017	kg	7838.5									
+28	Mississippi	ISOXAFLUTOLE	2001	kg	19									
+28	Mississippi	ISOXAFLUTOLE	2004	kg	20.1									
+28	Mississippi	ISOXAFLUTOLE	2005	kg	336.1									
+28	Mississippi	ISOXAFLUTOLE	2007	kg	96.5									
+28	Mississippi	ISOXAFLUTOLE	2011	kg	1658									
+28	Mississippi	ISOXAFLUTOLE	2012	kg	240.9									
+28	Mississippi	ISOXAFLUTOLE	2013	kg	3070.6									
+28	Mississippi	ISOXAFLUTOLE	2014	kg	3110.9									
+28	Mississippi	ISOXAFLUTOLE	2015	kg	367.5									
+28	Mississippi	ISOXAFLUTOLE	2016	kg	886.9									
+28	Mississippi	ISOXAFLUTOLE	2017	kg	2087.4									
+29	Missouri	ISOXAFLUTOLE	1999	kg	3687.8									
+29	Missouri	ISOXAFLUTOLE	2000	kg	2922									
+29	Missouri	ISOXAFLUTOLE	2001	kg	380.4									
+29	Missouri	ISOXAFLUTOLE	2002	kg	2752.4									
+29	Missouri	ISOXAFLUTOLE	2003	kg	1713									660.2
+29	Missouri	ISOXAFLUTOLE	2004	kg	4072.9									
+29	Missouri	ISOXAFLUTOLE	2005	kg	5334.2									
+29	Missouri	ISOXAFLUTOLE	2006	kg	3818.7									
+29	Missouri	ISOXAFLUTOLE	2007	kg	3396.6									
+29	Missouri	ISOXAFLUTOLE	2008	kg	4358.4									
+29	Missouri	ISOXAFLUTOLE	2009	kg	3113.3									
+29	Missouri	ISOXAFLUTOLE	2010	kg	5783.5									
+29	Missouri	ISOXAFLUTOLE	2011	kg	5854.2									
+29	Missouri	ISOXAFLUTOLE	2012	kg	15258									
+29	Missouri	ISOXAFLUTOLE	2013	kg	11070.3									
+29	Missouri	ISOXAFLUTOLE	2014	kg	8742.6									
+29	Missouri	ISOXAFLUTOLE	2015	kg	7544.3									
+29	Missouri	ISOXAFLUTOLE	2016	kg	6854.5									
+29	Missouri	ISOXAFLUTOLE	2017	kg	5006.1									
+30	Montana	ISOXAFLUTOLE	1999	kg	801.5									
+30	Montana	ISOXAFLUTOLE	2000	kg	123.2									
+30	Montana	ISOXAFLUTOLE	2001	kg	30.1									
+30	Montana	ISOXAFLUTOLE	2002	kg	163.3									
+30	Montana	ISOXAFLUTOLE	2003	kg	363.6									
+30	Montana	ISOXAFLUTOLE	2004	kg	102.2									
+30	Montana	ISOXAFLUTOLE	2005	kg	257									
+30	Montana	ISOXAFLUTOLE	2006	kg	78.8									
+30	Montana	ISOXAFLUTOLE	2007	kg	58.5									
+30	Montana	ISOXAFLUTOLE	2008	kg	33.4									
+30	Montana	ISOXAFLUTOLE	2009	kg	135.9									
+30	Montana	ISOXAFLUTOLE	2010	kg	224.7									
+30	Montana	ISOXAFLUTOLE	2011	kg	75.8									
+30	Montana	ISOXAFLUTOLE	2012	kg	151.6									
+30	Montana	ISOXAFLUTOLE	2013	kg	333.3									
+30	Montana	ISOXAFLUTOLE	2014	kg	231									
+30	Montana	ISOXAFLUTOLE	2015	kg	44.1									
+30	Montana	ISOXAFLUTOLE	2016	kg	360.3									
+30	Montana	ISOXAFLUTOLE	2017	kg	290.4									
+31	Nebraska	ISOXAFLUTOLE	1999	kg	19931.2									
+31	Nebraska	ISOXAFLUTOLE	2000	kg	16385.6									
+31	Nebraska	ISOXAFLUTOLE	2001	kg	19743.5									
+31	Nebraska	ISOXAFLUTOLE	2002	kg	27214.8									
+31	Nebraska	ISOXAFLUTOLE	2003	kg	20252.5									
+31	Nebraska	ISOXAFLUTOLE	2004	kg	20578									
+31	Nebraska	ISOXAFLUTOLE	2005	kg	15468.1									
+31	Nebraska	ISOXAFLUTOLE	2006	kg	15483.8									
+31	Nebraska	ISOXAFLUTOLE	2007	kg	15447.7									
+31	Nebraska	ISOXAFLUTOLE	2008	kg	11745									
+31	Nebraska	ISOXAFLUTOLE	2009	kg	16672.3									
+31	Nebraska	ISOXAFLUTOLE	2010	kg	21120.8									
+31	Nebraska	ISOXAFLUTOLE	2011	kg	48942									
+31	Nebraska	ISOXAFLUTOLE	2012	kg	40958.3									
+31	Nebraska	ISOXAFLUTOLE	2013	kg	58031.7									
+31	Nebraska	ISOXAFLUTOLE	2014	kg	46791.6								315.4	
+31	Nebraska	ISOXAFLUTOLE	2015	kg	60420.4								1298.4	
+31	Nebraska	ISOXAFLUTOLE	2016	kg	46859.4								400.7	
+31	Nebraska	ISOXAFLUTOLE	2017	kg	49000.1								3036	
+34	New Jersey	ISOXAFLUTOLE	2002	kg	68.1									
+34	New Jersey	ISOXAFLUTOLE	2003	kg	23.8									
+34	New Jersey	ISOXAFLUTOLE	2004	kg	33									
+34	New Jersey	ISOXAFLUTOLE	2005	kg	188.3									
+34	New Jersey	ISOXAFLUTOLE	2006	kg	39.1									
+34	New Jersey	ISOXAFLUTOLE	2011	kg	246.8									
+34	New Jersey	ISOXAFLUTOLE	2012	kg	23.3									
+34	New Jersey	ISOXAFLUTOLE	2013	kg	129.3									
+34	New Jersey	ISOXAFLUTOLE	2014	kg	120.7									
+34	New Jersey	ISOXAFLUTOLE	2015	kg	317									
+34	New Jersey	ISOXAFLUTOLE	2016	kg	131.4									
+34	New Jersey	ISOXAFLUTOLE	2017	kg	546.2									
+35	New Mexico	ISOXAFLUTOLE	1999	kg	92.2									
+35	New Mexico	ISOXAFLUTOLE	2000	kg	88.1									
+35	New Mexico	ISOXAFLUTOLE	2001	kg	327.3									
+35	New Mexico	ISOXAFLUTOLE	2002	kg	598.6									
+35	New Mexico	ISOXAFLUTOLE	2003	kg	397.9									
+35	New Mexico	ISOXAFLUTOLE	2004	kg	186.2									
+35	New Mexico	ISOXAFLUTOLE	2005	kg	675.6									
+35	New Mexico	ISOXAFLUTOLE	2006	kg	300									
+35	New Mexico	ISOXAFLUTOLE	2007	kg	190									
+35	New Mexico	ISOXAFLUTOLE	2008	kg	1082.6									
+35	New Mexico	ISOXAFLUTOLE	2009	kg	176.6									
+35	New Mexico	ISOXAFLUTOLE	2010	kg	473									
+35	New Mexico	ISOXAFLUTOLE	2011	kg	823.3									
+35	New Mexico	ISOXAFLUTOLE	2012	kg	647.1									
+35	New Mexico	ISOXAFLUTOLE	2013	kg	2431.6								57.7	
+35	New Mexico	ISOXAFLUTOLE	2014	kg	829.5									
+35	New Mexico	ISOXAFLUTOLE	2015	kg	681								130.7	
+35	New Mexico	ISOXAFLUTOLE	2016	kg	581.4								53.2	
+35	New Mexico	ISOXAFLUTOLE	2017	kg	409.8								140.4	
+36	New York	ISOXAFLUTOLE	2001	kg	45.2									
+36	New York	ISOXAFLUTOLE	2002	kg	90.3									
+36	New York	ISOXAFLUTOLE	2003	kg	42.7									
+36	New York	ISOXAFLUTOLE	2004	kg	43.9									
+36	New York	ISOXAFLUTOLE	2005	kg	332.5									
+36	New York	ISOXAFLUTOLE	2010	kg	522.9									
+36	New York	ISOXAFLUTOLE	2011	kg	548.2									
+36	New York	ISOXAFLUTOLE	2012	kg	637.1									
+36	New York	ISOXAFLUTOLE	2013	kg	412.2									
+36	New York	ISOXAFLUTOLE	2014	kg	185.6									
+36	New York	ISOXAFLUTOLE	2015	kg	567.5									
+36	New York	ISOXAFLUTOLE	2016	kg	551.3									
+36	New York	ISOXAFLUTOLE	2017	kg	1181.5									
+37	North Carolina	ISOXAFLUTOLE	2001	kg	117.1									
+37	North Carolina	ISOXAFLUTOLE	2002	kg	242.3									
+37	North Carolina	ISOXAFLUTOLE	2008	kg	9.1									
+37	North Carolina	ISOXAFLUTOLE	2009	kg	16.7									
+37	North Carolina	ISOXAFLUTOLE	2010	kg	25.1									
+37	North Carolina	ISOXAFLUTOLE	2011	kg	5512.7									
+37	North Carolina	ISOXAFLUTOLE	2012	kg	8119									
+37	North Carolina	ISOXAFLUTOLE	2013	kg	5131.3									
+37	North Carolina	ISOXAFLUTOLE	2014	kg	8207.6									
+37	North Carolina	ISOXAFLUTOLE	2015	kg	1644.5									
+37	North Carolina	ISOXAFLUTOLE	2016	kg	2577.3									
+37	North Carolina	ISOXAFLUTOLE	2017	kg	3044.4									
+38	North Dakota	ISOXAFLUTOLE	1999	kg	7036.1									
+38	North Dakota	ISOXAFLUTOLE	2000	kg	1894.3									
+38	North Dakota	ISOXAFLUTOLE	2001	kg	1814.1									
+38	North Dakota	ISOXAFLUTOLE	2002	kg	1447									
+38	North Dakota	ISOXAFLUTOLE	2003	kg	1194.4									
+38	North Dakota	ISOXAFLUTOLE	2004	kg	599.3									
+38	North Dakota	ISOXAFLUTOLE	2005	kg	1055.8									
+38	North Dakota	ISOXAFLUTOLE	2006	kg	31910									
+38	North Dakota	ISOXAFLUTOLE	2007	kg	5981.1									
+38	North Dakota	ISOXAFLUTOLE	2008	kg	1325									
+38	North Dakota	ISOXAFLUTOLE	2009	kg	5824									
+38	North Dakota	ISOXAFLUTOLE	2010	kg	2914.5									
+38	North Dakota	ISOXAFLUTOLE	2011	kg	1618.8									
+38	North Dakota	ISOXAFLUTOLE	2012	kg	3624.2									
+38	North Dakota	ISOXAFLUTOLE	2013	kg	1801									
+38	North Dakota	ISOXAFLUTOLE	2014	kg	2656.4									
+38	North Dakota	ISOXAFLUTOLE	2015	kg	1902.2									
+38	North Dakota	ISOXAFLUTOLE	2016	kg	6852.1									
+38	North Dakota	ISOXAFLUTOLE	2017	kg	9073.8									
+39	Ohio	ISOXAFLUTOLE	1999	kg	2426.5									
+39	Ohio	ISOXAFLUTOLE	2000	kg	4078.8									
+39	Ohio	ISOXAFLUTOLE	2001	kg	7767									
+39	Ohio	ISOXAFLUTOLE	2002	kg	7154.8				24.4					
+39	Ohio	ISOXAFLUTOLE	2003	kg	9779.6									
+39	Ohio	ISOXAFLUTOLE	2004	kg	5275.3									
+39	Ohio	ISOXAFLUTOLE	2005	kg	6751.3									
+39	Ohio	ISOXAFLUTOLE	2006	kg	6571									
+39	Ohio	ISOXAFLUTOLE	2007	kg	22612.9									
+39	Ohio	ISOXAFLUTOLE	2008	kg	6977.1									
+39	Ohio	ISOXAFLUTOLE	2009	kg	3282.2									
+39	Ohio	ISOXAFLUTOLE	2010	kg	12955.1									
+39	Ohio	ISOXAFLUTOLE	2011	kg	7695									
+39	Ohio	ISOXAFLUTOLE	2012	kg	15289.5				17					
+39	Ohio	ISOXAFLUTOLE	2013	kg	18723.4									
+39	Ohio	ISOXAFLUTOLE	2014	kg	16940.7									
+39	Ohio	ISOXAFLUTOLE	2015	kg	21392.1									
+39	Ohio	ISOXAFLUTOLE	2016	kg	23305.5									
+39	Ohio	ISOXAFLUTOLE	2017	kg	21731.7									
+40	Oklahoma	ISOXAFLUTOLE	1999	kg	616									
+40	Oklahoma	ISOXAFLUTOLE	2000	kg	121.7									
+40	Oklahoma	ISOXAFLUTOLE	2001	kg	373.6									
+40	Oklahoma	ISOXAFLUTOLE	2002	kg	737.5									
+40	Oklahoma	ISOXAFLUTOLE	2003	kg	793									
+40	Oklahoma	ISOXAFLUTOLE	2004	kg	414.4									
+40	Oklahoma	ISOXAFLUTOLE	2005	kg	259.5									
+40	Oklahoma	ISOXAFLUTOLE	2006	kg	512.5									
+40	Oklahoma	ISOXAFLUTOLE	2007	kg	240									
+40	Oklahoma	ISOXAFLUTOLE	2008	kg	1406.7									
+40	Oklahoma	ISOXAFLUTOLE	2009	kg	906.2									
+40	Oklahoma	ISOXAFLUTOLE	2010	kg	4195									
+40	Oklahoma	ISOXAFLUTOLE	2011	kg	1550.9									
+40	Oklahoma	ISOXAFLUTOLE	2012	kg	1166.5									
+40	Oklahoma	ISOXAFLUTOLE	2013	kg	1005.7								156.7	
+40	Oklahoma	ISOXAFLUTOLE	2014	kg	3118.4									
+40	Oklahoma	ISOXAFLUTOLE	2015	kg	2396.3								321.5	
+40	Oklahoma	ISOXAFLUTOLE	2016	kg	1436.5								115.5	
+40	Oklahoma	ISOXAFLUTOLE	2017	kg	961.7								269.1	
+41	Oregon	ISOXAFLUTOLE	1999	kg	41.9									
+41	Oregon	ISOXAFLUTOLE	2000	kg	33.5									
+41	Oregon	ISOXAFLUTOLE	2002	kg	258									
+41	Oregon	ISOXAFLUTOLE	2003	kg	93.6									
+41	Oregon	ISOXAFLUTOLE	2005	kg	493.3									
+41	Oregon	ISOXAFLUTOLE	2010	kg	194.8									
+41	Oregon	ISOXAFLUTOLE	2012	kg	53.5									
+41	Oregon	ISOXAFLUTOLE	2013	kg	355.6									
+41	Oregon	ISOXAFLUTOLE	2014	kg	201									
+41	Oregon	ISOXAFLUTOLE	2016	kg	389.4									
+41	Oregon	ISOXAFLUTOLE	2017	kg	149.3									
+42	Pennsylvania	ISOXAFLUTOLE	1998	kg	115.6									
+42	Pennsylvania	ISOXAFLUTOLE	1999	kg	105.6									
+42	Pennsylvania	ISOXAFLUTOLE	2000	kg	264.4									
+42	Pennsylvania	ISOXAFLUTOLE	2001	kg	204.8									
+42	Pennsylvania	ISOXAFLUTOLE	2002	kg	774.7									
+42	Pennsylvania	ISOXAFLUTOLE	2003	kg	1589.1									
+42	Pennsylvania	ISOXAFLUTOLE	2004	kg	678.8									
+42	Pennsylvania	ISOXAFLUTOLE	2005	kg	2802.9									
+42	Pennsylvania	ISOXAFLUTOLE	2006	kg	1484.9									
+42	Pennsylvania	ISOXAFLUTOLE	2007	kg	129.7									
+42	Pennsylvania	ISOXAFLUTOLE	2008	kg	288.2									
+42	Pennsylvania	ISOXAFLUTOLE	2009	kg	211.3									
+42	Pennsylvania	ISOXAFLUTOLE	2010	kg	2779.4									
+42	Pennsylvania	ISOXAFLUTOLE	2011	kg	2353.9									
+42	Pennsylvania	ISOXAFLUTOLE	2012	kg	3510.2									
+42	Pennsylvania	ISOXAFLUTOLE	2013	kg	2980.8									
+42	Pennsylvania	ISOXAFLUTOLE	2014	kg	3047									
+42	Pennsylvania	ISOXAFLUTOLE	2015	kg	5663.5									
+42	Pennsylvania	ISOXAFLUTOLE	2016	kg	2191.2									
+42	Pennsylvania	ISOXAFLUTOLE	2017	kg	4999.3									
+45	South Carolina	ISOXAFLUTOLE	2001	kg	133.3									
+45	South Carolina	ISOXAFLUTOLE	2002	kg	33.5									
+45	South Carolina	ISOXAFLUTOLE	2013	kg	494.4									
+45	South Carolina	ISOXAFLUTOLE	2014	kg	1432.5									
+45	South Carolina	ISOXAFLUTOLE	2015	kg	1070.5									
+45	South Carolina	ISOXAFLUTOLE	2016	kg	769.9									
+45	South Carolina	ISOXAFLUTOLE	2017	kg	1000.3									
+46	South Dakota	ISOXAFLUTOLE	1999	kg	4309.1									
+46	South Dakota	ISOXAFLUTOLE	2000	kg	2547.6									
+46	South Dakota	ISOXAFLUTOLE	2001	kg	7000.2									
+46	South Dakota	ISOXAFLUTOLE	2002	kg	12205.5									
+46	South Dakota	ISOXAFLUTOLE	2003	kg	11481.2									
+46	South Dakota	ISOXAFLUTOLE	2004	kg	14750.2									
+46	South Dakota	ISOXAFLUTOLE	2005	kg	14338									
+46	South Dakota	ISOXAFLUTOLE	2006	kg	15365.9									
+46	South Dakota	ISOXAFLUTOLE	2007	kg	9915									
+46	South Dakota	ISOXAFLUTOLE	2008	kg	4217.7									
+46	South Dakota	ISOXAFLUTOLE	2009	kg	26705.9									
+46	South Dakota	ISOXAFLUTOLE	2010	kg	11901.4									
+46	South Dakota	ISOXAFLUTOLE	2011	kg	16794.4									
+46	South Dakota	ISOXAFLUTOLE	2012	kg	13122									
+46	South Dakota	ISOXAFLUTOLE	2013	kg	19590.5									
+46	South Dakota	ISOXAFLUTOLE	2014	kg	13884.8									
+46	South Dakota	ISOXAFLUTOLE	2015	kg	10101.9									
+46	South Dakota	ISOXAFLUTOLE	2016	kg	27740.8									
+46	South Dakota	ISOXAFLUTOLE	2017	kg	27110.7									
+47	Tennessee	ISOXAFLUTOLE	1999	kg	110.9									
+47	Tennessee	ISOXAFLUTOLE	2000	kg	204.3									
+47	Tennessee	ISOXAFLUTOLE	2001	kg	185.1									
+47	Tennessee	ISOXAFLUTOLE	2002	kg	202.4									
+47	Tennessee	ISOXAFLUTOLE	2003	kg	286.1									
+47	Tennessee	ISOXAFLUTOLE	2004	kg	386.4									
+47	Tennessee	ISOXAFLUTOLE	2005	kg	3278.1									
+47	Tennessee	ISOXAFLUTOLE	2006	kg	445.6									
+47	Tennessee	ISOXAFLUTOLE	2007	kg	683.5									
+47	Tennessee	ISOXAFLUTOLE	2008	kg	150.5									
+47	Tennessee	ISOXAFLUTOLE	2009	kg	4238.6									
+47	Tennessee	ISOXAFLUTOLE	2010	kg	1285.2									
+47	Tennessee	ISOXAFLUTOLE	2011	kg	2709.2									
+47	Tennessee	ISOXAFLUTOLE	2012	kg	2697.6									
+47	Tennessee	ISOXAFLUTOLE	2013	kg	3720.9									
+47	Tennessee	ISOXAFLUTOLE	2014	kg	7374.3									
+47	Tennessee	ISOXAFLUTOLE	2015	kg	735.5									
+47	Tennessee	ISOXAFLUTOLE	2016	kg	1800.7									
+47	Tennessee	ISOXAFLUTOLE	2017	kg	1505.5									
+48	Texas	ISOXAFLUTOLE	1999	kg	3196.2									
+48	Texas	ISOXAFLUTOLE	2000	kg	920.5									
+48	Texas	ISOXAFLUTOLE	2001	kg	3096.2									
+48	Texas	ISOXAFLUTOLE	2002	kg	9283.3									
+48	Texas	ISOXAFLUTOLE	2003	kg	4754.7									
+48	Texas	ISOXAFLUTOLE	2004	kg	2933.1									
+48	Texas	ISOXAFLUTOLE	2005	kg	2465.8									
+48	Texas	ISOXAFLUTOLE	2006	kg	3235.4									
+48	Texas	ISOXAFLUTOLE	2007	kg	4259.6									
+48	Texas	ISOXAFLUTOLE	2008	kg	20793.2									
+48	Texas	ISOXAFLUTOLE	2009	kg	2814.3									
+48	Texas	ISOXAFLUTOLE	2010	kg	6264.2									
+48	Texas	ISOXAFLUTOLE	2011	kg	3756.8									
+48	Texas	ISOXAFLUTOLE	2012	kg	11671.3									
+48	Texas	ISOXAFLUTOLE	2013	kg	3402.7									
+48	Texas	ISOXAFLUTOLE	2014	kg	13206.9									
+48	Texas	ISOXAFLUTOLE	2015	kg	17094.5								929.3	
+48	Texas	ISOXAFLUTOLE	2016	kg	12448.9								348.4	
+48	Texas	ISOXAFLUTOLE	2017	kg	9415.4								891.3	
+49	Utah	ISOXAFLUTOLE	1999	kg	10.9									
+49	Utah	ISOXAFLUTOLE	2000	kg	11.8									
+49	Utah	ISOXAFLUTOLE	2002	kg	31.2									
+49	Utah	ISOXAFLUTOLE	2003	kg	24.5									
+49	Utah	ISOXAFLUTOLE	2005	kg	1.6									
+49	Utah	ISOXAFLUTOLE	2010	kg	49.8									
+49	Utah	ISOXAFLUTOLE	2012	kg	11.8									
+49	Utah	ISOXAFLUTOLE	2013	kg	21.9									
+49	Utah	ISOXAFLUTOLE	2014	kg	43.1									
+49	Utah	ISOXAFLUTOLE	2016	kg	80.9									
+49	Utah	ISOXAFLUTOLE	2017	kg	23.8									
+51	Virginia	ISOXAFLUTOLE	1999	kg	23									
+51	Virginia	ISOXAFLUTOLE	2000	kg	49.1									
+51	Virginia	ISOXAFLUTOLE	2001	kg	18.5									
+51	Virginia	ISOXAFLUTOLE	2002	kg	29.5									
+51	Virginia	ISOXAFLUTOLE	2003	kg	206.3									
+51	Virginia	ISOXAFLUTOLE	2004	kg	29.5									
+51	Virginia	ISOXAFLUTOLE	2005	kg	38.4									
+51	Virginia	ISOXAFLUTOLE	2006	kg	33.1									
+51	Virginia	ISOXAFLUTOLE	2007	kg	19.3									
+51	Virginia	ISOXAFLUTOLE	2008	kg	41.6									
+51	Virginia	ISOXAFLUTOLE	2009	kg	66.6									
+51	Virginia	ISOXAFLUTOLE	2010	kg	273.4									
+51	Virginia	ISOXAFLUTOLE	2011	kg	1184.3									
+51	Virginia	ISOXAFLUTOLE	2012	kg	355.4									
+51	Virginia	ISOXAFLUTOLE	2013	kg	419.9									
+51	Virginia	ISOXAFLUTOLE	2014	kg	1509.8									
+51	Virginia	ISOXAFLUTOLE	2015	kg	2351.4									
+51	Virginia	ISOXAFLUTOLE	2016	kg	2681									
+51	Virginia	ISOXAFLUTOLE	2017	kg	6472									
+53	Washington	ISOXAFLUTOLE	2002	kg	130.7									
+54	West Virginia	ISOXAFLUTOLE	1999	kg	66.3									
+54	West Virginia	ISOXAFLUTOLE	2000	kg	77.4									
+54	West Virginia	ISOXAFLUTOLE	2001	kg	54.3									
+54	West Virginia	ISOXAFLUTOLE	2002	kg	80.8									
+54	West Virginia	ISOXAFLUTOLE	2003	kg	434.5									
+54	West Virginia	ISOXAFLUTOLE	2004	kg	52.1									
+54	West Virginia	ISOXAFLUTOLE	2005	kg	81.9									
+54	West Virginia	ISOXAFLUTOLE	2006	kg	86.8									
+54	West Virginia	ISOXAFLUTOLE	2007	kg	58.3									
+54	West Virginia	ISOXAFLUTOLE	2008	kg	36.3									
+54	West Virginia	ISOXAFLUTOLE	2009	kg	66.8									
+54	West Virginia	ISOXAFLUTOLE	2010	kg	116.2									
+54	West Virginia	ISOXAFLUTOLE	2011	kg	151.5									
+54	West Virginia	ISOXAFLUTOLE	2012	kg	248.6									
+54	West Virginia	ISOXAFLUTOLE	2013	kg	63									
+54	West Virginia	ISOXAFLUTOLE	2014	kg	287.2									
+54	West Virginia	ISOXAFLUTOLE	2015	kg	147.1									
+54	West Virginia	ISOXAFLUTOLE	2016	kg	332.1									
+54	West Virginia	ISOXAFLUTOLE	2017	kg	737.5									
+55	Wisconsin	ISOXAFLUTOLE	1999	kg	4336.3									
+55	Wisconsin	ISOXAFLUTOLE	2000	kg	9378.9									
+55	Wisconsin	ISOXAFLUTOLE	2001	kg	10605.5									
+55	Wisconsin	ISOXAFLUTOLE	2002	kg	6702									
+55	Wisconsin	ISOXAFLUTOLE	2003	kg	6132.9									
+55	Wisconsin	ISOXAFLUTOLE	2004	kg	11955									
+55	Wisconsin	ISOXAFLUTOLE	2005	kg	10546.3									
+55	Wisconsin	ISOXAFLUTOLE	2006	kg	7083.2									
+55	Wisconsin	ISOXAFLUTOLE	2007	kg	8194.7									
+55	Wisconsin	ISOXAFLUTOLE	2008	kg	2655.3									
+55	Wisconsin	ISOXAFLUTOLE	2009	kg	6369.5									
+55	Wisconsin	ISOXAFLUTOLE	2010	kg	5943.9									
+55	Wisconsin	ISOXAFLUTOLE	2011	kg	7596.7									
+55	Wisconsin	ISOXAFLUTOLE	2012	kg	16605.8									
+55	Wisconsin	ISOXAFLUTOLE	2013	kg	12323.7									
+55	Wisconsin	ISOXAFLUTOLE	2014	kg	14472.7									
+55	Wisconsin	ISOXAFLUTOLE	2015	kg	9796.4									
+55	Wisconsin	ISOXAFLUTOLE	2016	kg	7300.3									
+55	Wisconsin	ISOXAFLUTOLE	2017	kg	4788.8									
+56	Wyoming	ISOXAFLUTOLE	1999	kg	661.4									
+56	Wyoming	ISOXAFLUTOLE	2000	kg	167									
+56	Wyoming	ISOXAFLUTOLE	2001	kg	113.8									
+56	Wyoming	ISOXAFLUTOLE	2002	kg	141.6									
+56	Wyoming	ISOXAFLUTOLE	2003	kg	151.1									
+56	Wyoming	ISOXAFLUTOLE	2004	kg	176									
+56	Wyoming	ISOXAFLUTOLE	2005	kg	140.8									
+56	Wyoming	ISOXAFLUTOLE	2006	kg	122.2									
+56	Wyoming	ISOXAFLUTOLE	2007	kg	77.3									
+56	Wyoming	ISOXAFLUTOLE	2008	kg	43.1									
+56	Wyoming	ISOXAFLUTOLE	2009	kg	201.5									
+56	Wyoming	ISOXAFLUTOLE	2010	kg	145.5									
+56	Wyoming	ISOXAFLUTOLE	2011	kg	119.1									
+56	Wyoming	ISOXAFLUTOLE	2012	kg	158									
+56	Wyoming	ISOXAFLUTOLE	2013	kg	241.3									
+56	Wyoming	ISOXAFLUTOLE	2014	kg	126.7									
+56	Wyoming	ISOXAFLUTOLE	2015	kg	41.8								227.3	
+56	Wyoming	ISOXAFLUTOLE	2016	kg	385.5								61.2	
+56	Wyoming	ISOXAFLUTOLE	2017	kg	137.9								590	

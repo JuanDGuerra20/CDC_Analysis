@@ -1,0 +1,986 @@
+01	Alabama	MEFENOXAM	1997	kg				1789.4	40.5				90.5	0.2
+01	Alabama	MEFENOXAM	1998	kg				831.8	128.2					0.5
+01	Alabama	MEFENOXAM	1999	kg				823.9	182.7					0.3
+01	Alabama	MEFENOXAM	2000	kg				1761.8	252.7					0.6
+01	Alabama	MEFENOXAM	2001	kg				837.9	523.3					0.2
+01	Alabama	MEFENOXAM	2002	kg				768.7	1126.6					0.5
+01	Alabama	MEFENOXAM	2003	kg				737.3	156.5					0.1
+01	Alabama	MEFENOXAM	2004	kg				1087.8	329.2					0.1
+01	Alabama	MEFENOXAM	2005	kg				655.5	238.9					0.2
+01	Alabama	MEFENOXAM	2006	kg		56.2		272.9	326.2					0
+01	Alabama	MEFENOXAM	2007	kg		97.7		101.1	79.2					
+01	Alabama	MEFENOXAM	2008	kg		156.4		35.2	133.5					
+01	Alabama	MEFENOXAM	2009	kg		283.3	13	125.4	142.4					92.3
+01	Alabama	MEFENOXAM	2010	kg		184.3	2.7	190.4	44.5					42.2
+01	Alabama	MEFENOXAM	2011	kg		1077.2	78.8	166.2						41.6
+01	Alabama	MEFENOXAM	2012	kg		177.9	20.5	82.9						47.3
+01	Alabama	MEFENOXAM	2013	kg		208.8	33.9	79.5	11.1					23.3
+01	Alabama	MEFENOXAM	2014	kg		104.7	88.6	117.5	16.9					35
+01	Alabama	MEFENOXAM	2017	kg					2.8					
+04	Arizona	MEFENOXAM	1997	kg					16.4		6.5			
+04	Arizona	MEFENOXAM	1998	kg					3475.2		65			
+04	Arizona	MEFENOXAM	1999	kg					25511.5		173.9			
+04	Arizona	MEFENOXAM	2000	kg					705.9		306.9			
+04	Arizona	MEFENOXAM	2001	kg					6777.6		176.7			
+04	Arizona	MEFENOXAM	2002	kg					2466.9		328.6			
+04	Arizona	MEFENOXAM	2003	kg					2579.8		30.9			
+04	Arizona	MEFENOXAM	2004	kg					2335.6		1068.2			
+04	Arizona	MEFENOXAM	2005	kg					2581.8		281.4			
+04	Arizona	MEFENOXAM	2006	kg				14.2	2178.3		243.3			
+04	Arizona	MEFENOXAM	2007	kg				6.4	1451.4		1363.2			
+04	Arizona	MEFENOXAM	2008	kg				3.7	4551.3		389.3			
+04	Arizona	MEFENOXAM	2009	kg				41.4	1444.1		55.2			
+04	Arizona	MEFENOXAM	2010	kg				55.3	1825.1		177.9			
+04	Arizona	MEFENOXAM	2011	kg			18.4	9.9	2247.2		61.6			
+04	Arizona	MEFENOXAM	2012	kg			41.6	29.1	1545.9		659.6			
+04	Arizona	MEFENOXAM	2013	kg			3.4	25	2931.2		226.5			
+04	Arizona	MEFENOXAM	2014	kg			20.3	15.9	2634.8		965.6			
+04	Arizona	MEFENOXAM	2015	kg					12224.5		860.7			
+04	Arizona	MEFENOXAM	2016	kg					3124.9		68.1			
+04	Arizona	MEFENOXAM	2017	kg					4951.8		31.8			
+05	Arkansas	MEFENOXAM	1997	kg				1413.4						
+05	Arkansas	MEFENOXAM	1998	kg				2085.4	104					
+05	Arkansas	MEFENOXAM	1999	kg				1535.5	17.3					
+05	Arkansas	MEFENOXAM	2000	kg				3199.7	66.4					
+05	Arkansas	MEFENOXAM	2001	kg				1680.4						
+05	Arkansas	MEFENOXAM	2002	kg				1525.2	35.2					
+05	Arkansas	MEFENOXAM	2003	kg				2179.1	10.3					
+05	Arkansas	MEFENOXAM	2004	kg				2809.1	25.5					
+05	Arkansas	MEFENOXAM	2005	kg				1293.9	0.9	38.3				
+05	Arkansas	MEFENOXAM	2006	kg		515.5		1359.6	25.6					
+05	Arkansas	MEFENOXAM	2007	kg		616.4		117.1	19.1					
+05	Arkansas	MEFENOXAM	2008	kg		1207.9		211.8	16.3					
+05	Arkansas	MEFENOXAM	2009	kg		1374.4	17.2	688.7						
+05	Arkansas	MEFENOXAM	2010	kg		2082.2	33.8	305.2	10.9					
+05	Arkansas	MEFENOXAM	2011	kg		2073.4	92.4	137.5	9.1					
+05	Arkansas	MEFENOXAM	2012	kg		1732.5	115.1	170.2	103					
+05	Arkansas	MEFENOXAM	2013	kg		1488.2	107.7	72	64.2					
+05	Arkansas	MEFENOXAM	2014	kg		1347.6	346.2	28.9	104.9					
+05	Arkansas	MEFENOXAM	2015	kg					4.4					
+05	Arkansas	MEFENOXAM	2016	kg					5.1					
+05	Arkansas	MEFENOXAM	2017	kg					16					
+06	California	MEFENOXAM	1996	kg									20	
+06	California	MEFENOXAM	1997	kg			41.9	24.6	12643		971.5	5.6		35.7
+06	California	MEFENOXAM	1998	kg	4.4			16.2	26024.8		3112.9	0.4	345.4	98.8
+06	California	MEFENOXAM	1999	kg	0.5			285.3	22600.3		2076.5		514.9	141.6
+06	California	MEFENOXAM	2000	kg	0		0	460.2	24353.4		2181.4	12.2	549.7	65
+06	California	MEFENOXAM	2001	kg	0			157.8	20980.6		1640	0.5	1077.6	22.5
+06	California	MEFENOXAM	2002	kg				96.5	21846.9		2044	0	447.2	
+06	California	MEFENOXAM	2003	kg			3	46.6	23026		2442.7	3.8	511.4	25.4
+06	California	MEFENOXAM	2004	kg				24.2	25153.3		2544.4	2.7	382.2	
+06	California	MEFENOXAM	2005	kg				10.9	24918.7		2440.2		385.7	9.5
+06	California	MEFENOXAM	2006	kg				1.5	24548.8		2485.2		542	2
+06	California	MEFENOXAM	2007	kg				3.4	19106.9		1768.4	11.2	387.7	4.3
+06	California	MEFENOXAM	2008	kg	4.9			43.3	18273.9		1712.9	132.6		8.4
+06	California	MEFENOXAM	2009	kg	0		3.1	196.6	18931.4		2166.1	70.8		70.2
+06	California	MEFENOXAM	2010	kg			4.7	159.6	20276.8		3453.7	40.9		10.7
+06	California	MEFENOXAM	2011	kg			22.8	300.4	21953.8		2284.1	118.7		147.3
+06	California	MEFENOXAM	2012	kg	2.1		27.2	106	22762.1		2927.9	202.9		79.5
+06	California	MEFENOXAM	2013	kg	0.5		19.7	53.6	21738.9		4555.3	56		21.6
+06	California	MEFENOXAM	2014	kg	32		3.7	41.5	22733.5		3664.4	241	0.7	333.4
+06	California	MEFENOXAM	2015	kg			12.6	47.4	25643.9		7348.1	184.3		144.8
+06	California	MEFENOXAM	2016	kg			29.9	41.5	28166.4		8974.6	591.6		5410.1
+06	California	MEFENOXAM	2017	kg			21.3	314.2	29408.4		15816.2	225.6		6.4
+08	Colorado	MEFENOXAM	1997	kg					596					
+08	Colorado	MEFENOXAM	1998	kg					163.4					
+08	Colorado	MEFENOXAM	1999	kg					2248.6					
+08	Colorado	MEFENOXAM	2000	kg					618.4					
+08	Colorado	MEFENOXAM	2001	kg					1130.5					
+08	Colorado	MEFENOXAM	2002	kg					3412.9					
+08	Colorado	MEFENOXAM	2003	kg					1637.4					
+08	Colorado	MEFENOXAM	2004	kg					4236.8					
+08	Colorado	MEFENOXAM	2005	kg					925.8					
+08	Colorado	MEFENOXAM	2006	kg		0.5			1165.6					
+08	Colorado	MEFENOXAM	2007	kg		0.7			236.3					
+08	Colorado	MEFENOXAM	2008	kg		0.6			274.7					
+08	Colorado	MEFENOXAM	2009	kg		0.1	8.9		1209.6					1.1
+08	Colorado	MEFENOXAM	2010	kg		1.6	36.2		1244.6					0.1
+08	Colorado	MEFENOXAM	2011	kg		5.9	126		1486					1.1
+08	Colorado	MEFENOXAM	2012	kg		1.1	113.2		2141.7					1
+08	Colorado	MEFENOXAM	2013	kg		1.1	177.7		3239.2					0.1
+08	Colorado	MEFENOXAM	2014	kg		2.3	418.7		3962					
+08	Colorado	MEFENOXAM	2015	kg					1027.6					
+08	Colorado	MEFENOXAM	2016	kg					1165.2					
+08	Colorado	MEFENOXAM	2017	kg					5249.1					
+09	Connecticut	MEFENOXAM	1997	kg					5					
+09	Connecticut	MEFENOXAM	1998	kg					57.5					
+09	Connecticut	MEFENOXAM	1999	kg					21.3					
+09	Connecticut	MEFENOXAM	2000	kg					15.3		2.1			908.3
+09	Connecticut	MEFENOXAM	2001	kg					41.6					200.9
+09	Connecticut	MEFENOXAM	2002	kg					14					61.2
+09	Connecticut	MEFENOXAM	2003	kg					16.1		5.8			430.2
+09	Connecticut	MEFENOXAM	2004	kg					45.2		0			298.9
+09	Connecticut	MEFENOXAM	2005	kg					7.2					
+09	Connecticut	MEFENOXAM	2006	kg					42.3					
+09	Connecticut	MEFENOXAM	2007	kg					106.1					
+09	Connecticut	MEFENOXAM	2008	kg		0			91.9					
+09	Connecticut	MEFENOXAM	2009	kg		0			98.4					
+09	Connecticut	MEFENOXAM	2010	kg		0			3.3					
+09	Connecticut	MEFENOXAM	2011	kg		0			22.5		7.7			
+09	Connecticut	MEFENOXAM	2012	kg		0.1			61.8					
+09	Connecticut	MEFENOXAM	2013	kg		0			56.7					
+09	Connecticut	MEFENOXAM	2014	kg		0			2.8					
+09	Connecticut	MEFENOXAM	2015	kg					4.7					
+09	Connecticut	MEFENOXAM	2016	kg					1.9					
+09	Connecticut	MEFENOXAM	2017	kg					23.8					
+10	Delaware	MEFENOXAM	1997	kg					0.2					
+10	Delaware	MEFENOXAM	1998	kg					423.8					
+10	Delaware	MEFENOXAM	1999	kg					241.1					
+10	Delaware	MEFENOXAM	2000	kg					1162.6					
+10	Delaware	MEFENOXAM	2001	kg					439.7					
+10	Delaware	MEFENOXAM	2002	kg					914					
+10	Delaware	MEFENOXAM	2003	kg					502.7					
+10	Delaware	MEFENOXAM	2004	kg					565.1					
+10	Delaware	MEFENOXAM	2005	kg					392.9					
+10	Delaware	MEFENOXAM	2006	kg		4.4			333.7					
+10	Delaware	MEFENOXAM	2007	kg		22.9			457.4					
+10	Delaware	MEFENOXAM	2008	kg		53.1			149.8					
+10	Delaware	MEFENOXAM	2009	kg		94.9			512					
+10	Delaware	MEFENOXAM	2010	kg		30.2			73.8					
+10	Delaware	MEFENOXAM	2011	kg		8.4			373.4					
+10	Delaware	MEFENOXAM	2012	kg		15.3			395.6					
+10	Delaware	MEFENOXAM	2013	kg		11.3			127.1					
+10	Delaware	MEFENOXAM	2014	kg		1.2			412.8					
+10	Delaware	MEFENOXAM	2015	kg					264.2					
+12	Florida	MEFENOXAM	1997	kg				3.8	22485.1		1503.5			169.3
+12	Florida	MEFENOXAM	1998	kg				21.1	10277.3		14436.5			865.5
+12	Florida	MEFENOXAM	1999	kg				60.6	24572.2		24223			140.1
+12	Florida	MEFENOXAM	2000	kg				338.7	11168.6		30803.1			137
+12	Florida	MEFENOXAM	2001	kg				106	14366.7		11681.8			116.2
+12	Florida	MEFENOXAM	2002	kg				99.2	11649		19253.4			946.9
+12	Florida	MEFENOXAM	2003	kg				82.5	14561.9		13971.5			271.8
+12	Florida	MEFENOXAM	2004	kg				14.8	13773.6		20129.1			84.7
+12	Florida	MEFENOXAM	2005	kg				198.8	6873.4		10849.1			19.4
+12	Florida	MEFENOXAM	2006	kg				12.9	8616.3		9127.4			23.6
+12	Florida	MEFENOXAM	2007	kg				9.3	21782.6		18638.1			
+12	Florida	MEFENOXAM	2008	kg		8.2		22.6	7662.8		6229.7			28.4
+12	Florida	MEFENOXAM	2009	kg		12.9		65.9	10567.1		3656.4			26.2
+12	Florida	MEFENOXAM	2010	kg		9		67.2	8851.3		3247			13.9
+12	Florida	MEFENOXAM	2011	kg		1.9	8.5	40.8	9008.4		15776.1			236
+12	Florida	MEFENOXAM	2012	kg		4	0.5	40.7	8499.8		22625.8			46.7
+12	Florida	MEFENOXAM	2013	kg		2.7		48	4782.2		44951.3			21.9
+12	Florida	MEFENOXAM	2014	kg		1	2.4	37.2	9985.1		21581.2			42.6
+12	Florida	MEFENOXAM	2015	kg					12681.2		5830.8			1
+12	Florida	MEFENOXAM	2016	kg					7006.8		15781.7			6.2
+12	Florida	MEFENOXAM	2017	kg					12234.2		9872.2			228
+13	Georgia	MEFENOXAM	1997	kg				855.5	2157					893.8
+13	Georgia	MEFENOXAM	1998	kg				700.6	589.2		12185.2			2524.2
+13	Georgia	MEFENOXAM	1999	kg				1030.1	1031.1					1038.7
+13	Georgia	MEFENOXAM	2000	kg				3684.4	8427.6					1140.7
+13	Georgia	MEFENOXAM	2001	kg				1300.5	3902					900.4
+13	Georgia	MEFENOXAM	2002	kg				410.8	1803.4					2103.8
+13	Georgia	MEFENOXAM	2003	kg				1520	1822.2					1567.5
+13	Georgia	MEFENOXAM	2004	kg				264.1	1781.4					561
+13	Georgia	MEFENOXAM	2005	kg				2325.7	843.5					206.7
+13	Georgia	MEFENOXAM	2006	kg		29.1		165.9	2210.7					165.4
+13	Georgia	MEFENOXAM	2007	kg		130.8		138.7	8036.1					304.6
+13	Georgia	MEFENOXAM	2008	kg		138.1		284.8	1551.1					853.3
+13	Georgia	MEFENOXAM	2009	kg		166	7.6	595.2	9676.7					398.2
+13	Georgia	MEFENOXAM	2010	kg		91.2	8.1	633.1	457.9					1142.8
+13	Georgia	MEFENOXAM	2011	kg		83.3	128.8	375.8	2554.9					954.9
+13	Georgia	MEFENOXAM	2012	kg		61.5	15.3	493.3	1493.7					745.8
+13	Georgia	MEFENOXAM	2013	kg		44.7	70.5	491.4	1910.6					188.3
+13	Georgia	MEFENOXAM	2014	kg		22.1	33.2	352	2597.2					3858.9
+13	Georgia	MEFENOXAM	2015	kg					60.1					163.4
+13	Georgia	MEFENOXAM	2016	kg					2904.2					1874.4
+13	Georgia	MEFENOXAM	2017	kg					1					2875.5
+16	Idaho	MEFENOXAM	1997	kg					257.2					
+16	Idaho	MEFENOXAM	1998	kg					812.4					
+16	Idaho	MEFENOXAM	1999	kg					1143.3					
+16	Idaho	MEFENOXAM	2000	kg					592.7					
+16	Idaho	MEFENOXAM	2001	kg					2744.7					
+16	Idaho	MEFENOXAM	2002	kg					2983.4					
+16	Idaho	MEFENOXAM	2003	kg					7067.9					1576.7
+16	Idaho	MEFENOXAM	2004	kg					6167					
+16	Idaho	MEFENOXAM	2005	kg					1525.6					
+16	Idaho	MEFENOXAM	2006	kg					4583.7					
+16	Idaho	MEFENOXAM	2007	kg					3129.3					
+16	Idaho	MEFENOXAM	2008	kg					1445.4					
+16	Idaho	MEFENOXAM	2009	kg			200.8		1040.7		0.4			
+16	Idaho	MEFENOXAM	2010	kg			283.1		633.7					1.6
+16	Idaho	MEFENOXAM	2011	kg			433.8		1656		14.6			3
+16	Idaho	MEFENOXAM	2012	kg			333.8		1221.7					2.8
+16	Idaho	MEFENOXAM	2013	kg			748.9		1611.6					1.9
+16	Idaho	MEFENOXAM	2014	kg			680.5		5164.5		3			5.6
+16	Idaho	MEFENOXAM	2015	kg					6273.7					
+16	Idaho	MEFENOXAM	2016	kg					5894.2					
+16	Idaho	MEFENOXAM	2017	kg					7771.5					
+17	Illinois	MEFENOXAM	1997	kg										42.3
+17	Illinois	MEFENOXAM	1998	kg					13.8					18
+17	Illinois	MEFENOXAM	1999	kg					651.8					12.9
+17	Illinois	MEFENOXAM	2000	kg					1263.7					13.4
+17	Illinois	MEFENOXAM	2001	kg					844.6					41.8
+17	Illinois	MEFENOXAM	2002	kg					330					21
+17	Illinois	MEFENOXAM	2003	kg					262.2					15.4
+17	Illinois	MEFENOXAM	2004	kg					388					9.1
+17	Illinois	MEFENOXAM	2005	kg					565.5					16.7
+17	Illinois	MEFENOXAM	2006	kg		448.4			226.5					15.2
+17	Illinois	MEFENOXAM	2007	kg		545.9			1211.3					35.3
+17	Illinois	MEFENOXAM	2008	kg		1145.8			78.4					45.6
+17	Illinois	MEFENOXAM	2009	kg		1707.4	143		137.9					14.3
+17	Illinois	MEFENOXAM	2010	kg		2539.5	44.7		37.3					22.9
+17	Illinois	MEFENOXAM	2011	kg		3809	84.2		31.7					17.3
+17	Illinois	MEFENOXAM	2012	kg		2906.1	116.3		58.7					43.7
+17	Illinois	MEFENOXAM	2013	kg		2879.6	170.3		96.7					33
+17	Illinois	MEFENOXAM	2014	kg		3121.8	386.7		28.8					29
+17	Illinois	MEFENOXAM	2015	kg										61.7
+17	Illinois	MEFENOXAM	2016	kg					24.4					10.6
+17	Illinois	MEFENOXAM	2017	kg					238.5					40.2
+18	Indiana	MEFENOXAM	1997	kg					124.4					530.7
+18	Indiana	MEFENOXAM	1998	kg					85.9		0			53.7
+18	Indiana	MEFENOXAM	1999	kg					532					473
+18	Indiana	MEFENOXAM	2000	kg					599					204.2
+18	Indiana	MEFENOXAM	2001	kg					594.3		0			368.4
+18	Indiana	MEFENOXAM	2002	kg					969.7					103.1
+18	Indiana	MEFENOXAM	2003	kg					387.5		0			170.2
+18	Indiana	MEFENOXAM	2004	kg					199		0			570.5
+18	Indiana	MEFENOXAM	2005	kg		124.2			831.3					158.6
+18	Indiana	MEFENOXAM	2006	kg		746.7			236.7					89.2
+18	Indiana	MEFENOXAM	2007	kg		640.7			466.5		16.9			68.7
+18	Indiana	MEFENOXAM	2008	kg		1327.1			59.4					86.1
+18	Indiana	MEFENOXAM	2009	kg		2261.1	65.4		79.3					81.7
+18	Indiana	MEFENOXAM	2010	kg		2591.5	11.7		68.4					91.7
+18	Indiana	MEFENOXAM	2011	kg		2908.3	32.3		66.7					48.8
+18	Indiana	MEFENOXAM	2012	kg		3111.8	77.1		140.6		19.2			42.3
+18	Indiana	MEFENOXAM	2013	kg		2440.4	48.4		82.9					52.2
+18	Indiana	MEFENOXAM	2014	kg		3836.6	134.5		50.2					49.9
+18	Indiana	MEFENOXAM	2015	kg					142.4					64.9
+18	Indiana	MEFENOXAM	2016	kg					295.3					17
+18	Indiana	MEFENOXAM	2017	kg					583.3					82.3
+19	Iowa	MEFENOXAM	1999	kg					26.3					
+19	Iowa	MEFENOXAM	2000	kg					36.8					
+19	Iowa	MEFENOXAM	2001	kg					21.1					
+19	Iowa	MEFENOXAM	2002	kg					19.7					
+19	Iowa	MEFENOXAM	2003	kg					18.4					
+19	Iowa	MEFENOXAM	2004	kg					4.4					
+19	Iowa	MEFENOXAM	2005	kg		981.2			9.6					
+19	Iowa	MEFENOXAM	2006	kg		1172			11.4					
+19	Iowa	MEFENOXAM	2007	kg		1478.8			19.5					
+19	Iowa	MEFENOXAM	2008	kg		2205.3			3.6					
+19	Iowa	MEFENOXAM	2009	kg		3153.9	0.8		28					
+19	Iowa	MEFENOXAM	2010	kg		2093.8	0.8		15.6					
+19	Iowa	MEFENOXAM	2011	kg		2993.5	1.8		4.8					
+19	Iowa	MEFENOXAM	2012	kg		2340.3	1.1							
+19	Iowa	MEFENOXAM	2013	kg		2051.3	0.9		5.7					
+19	Iowa	MEFENOXAM	2014	kg		2474.2	5.4							
+19	Iowa	MEFENOXAM	2017	kg					19.4					
+20	Kansas	MEFENOXAM	1997	kg					6					
+20	Kansas	MEFENOXAM	1998	kg					37.7					
+20	Kansas	MEFENOXAM	1999	kg					90.4					0.5
+20	Kansas	MEFENOXAM	2000	kg					96.1					
+20	Kansas	MEFENOXAM	2001	kg					81.6					
+20	Kansas	MEFENOXAM	2002	kg					175.4					
+20	Kansas	MEFENOXAM	2003	kg					877.4					
+20	Kansas	MEFENOXAM	2004	kg					493.3					
+20	Kansas	MEFENOXAM	2006	kg		190.6		5.2	83.1					
+20	Kansas	MEFENOXAM	2007	kg		427		3.7	4.3					
+20	Kansas	MEFENOXAM	2008	kg		899.5		8.8	107.9					
+20	Kansas	MEFENOXAM	2009	kg		1338.2	366.9	11	143.2					
+20	Kansas	MEFENOXAM	2010	kg		449.1	415.4	8.3	94.3					
+20	Kansas	MEFENOXAM	2011	kg		839	372.9	29.7	120.3					
+20	Kansas	MEFENOXAM	2012	kg		772.5	640.8	19.5	265.5					
+20	Kansas	MEFENOXAM	2013	kg		817.9	487.7	3	439.9					
+20	Kansas	MEFENOXAM	2014	kg		759.5	1029.3	5.6	312.7					
+20	Kansas	MEFENOXAM	2015	kg					111.5					
+20	Kansas	MEFENOXAM	2017	kg					51.9					
+21	Kentucky	MEFENOXAM	1997	kg										11333.4
+21	Kentucky	MEFENOXAM	1998	kg					10.6					5914.2
+21	Kentucky	MEFENOXAM	1999	kg					113.5					13712.4
+21	Kentucky	MEFENOXAM	2000	kg					221.6					5441.4
+21	Kentucky	MEFENOXAM	2001	kg					47.9					6980.4
+21	Kentucky	MEFENOXAM	2002	kg					149.3		171.8			7059.3
+21	Kentucky	MEFENOXAM	2003	kg					51.5					4768.6
+21	Kentucky	MEFENOXAM	2004	kg					125.8					5816.7
+21	Kentucky	MEFENOXAM	2005	kg					93.1					3356.9
+21	Kentucky	MEFENOXAM	2006	kg		112.5			95.8					6294.8
+21	Kentucky	MEFENOXAM	2007	kg		75.8			76.8					7007.9
+21	Kentucky	MEFENOXAM	2008	kg		327			9.6					3266.7
+21	Kentucky	MEFENOXAM	2009	kg		222.8	78.7		30.8					2048.8
+21	Kentucky	MEFENOXAM	2010	kg		452.5	22.7		4					2922
+21	Kentucky	MEFENOXAM	2011	kg		1334.9	116.2		21.1					1651.3
+21	Kentucky	MEFENOXAM	2012	kg		1133.8	109.3		10.1					2854.9
+21	Kentucky	MEFENOXAM	2013	kg		560.9	42.8		37.3					5009
+21	Kentucky	MEFENOXAM	2014	kg		1308.4	276		7.1					4269.3
+21	Kentucky	MEFENOXAM	2015	kg					11.2					4102.6
+21	Kentucky	MEFENOXAM	2016	kg					7.5					5068.2
+21	Kentucky	MEFENOXAM	2017	kg					92.2					4162.4
+22	Louisiana	MEFENOXAM	1997	kg				818.1						
+22	Louisiana	MEFENOXAM	1998	kg				1148.3						
+22	Louisiana	MEFENOXAM	1999	kg				1181.7						
+22	Louisiana	MEFENOXAM	2000	kg				482.3						
+22	Louisiana	MEFENOXAM	2001	kg				749.6						
+22	Louisiana	MEFENOXAM	2002	kg				296.7						
+22	Louisiana	MEFENOXAM	2003	kg				1115.4	4.9					
+22	Louisiana	MEFENOXAM	2004	kg				1053.6	12.9					
+22	Louisiana	MEFENOXAM	2005	kg				824.9	2.1					
+22	Louisiana	MEFENOXAM	2006	kg		137.6		610.3	10.2					
+22	Louisiana	MEFENOXAM	2007	kg		279.9		386.1	22.5					
+22	Louisiana	MEFENOXAM	2008	kg		644.7		88.1	4.7					
+22	Louisiana	MEFENOXAM	2009	kg		3571.2	34.7	168.7						
+22	Louisiana	MEFENOXAM	2010	kg		131.6	16.1	86.2	8.6					
+22	Louisiana	MEFENOXAM	2011	kg		898.2	45.5	43.6	7.1					
+22	Louisiana	MEFENOXAM	2012	kg		887	22.3	86	0.6					
+22	Louisiana	MEFENOXAM	2013	kg		875.2	13.2	51.1	11.7					
+22	Louisiana	MEFENOXAM	2014	kg		1228.6	13.5	37.3	2.7					
+22	Louisiana	MEFENOXAM	2015	kg					1.4					
+22	Louisiana	MEFENOXAM	2017	kg					6.7					
+23	Maine	MEFENOXAM	1997	kg					2338.2					
+23	Maine	MEFENOXAM	1998	kg					153					
+23	Maine	MEFENOXAM	1999	kg					715.6					
+23	Maine	MEFENOXAM	2000	kg					324.3					
+23	Maine	MEFENOXAM	2001	kg					425.9					
+23	Maine	MEFENOXAM	2002	kg					712.1					
+23	Maine	MEFENOXAM	2003	kg					1050.6					
+23	Maine	MEFENOXAM	2004	kg					108.7					
+23	Maine	MEFENOXAM	2005	kg					239.9					
+23	Maine	MEFENOXAM	2006	kg					455.7					
+23	Maine	MEFENOXAM	2007	kg					810.6					
+23	Maine	MEFENOXAM	2008	kg					448.1					
+23	Maine	MEFENOXAM	2009	kg					656.2					
+23	Maine	MEFENOXAM	2010	kg					165.6					
+23	Maine	MEFENOXAM	2011	kg					287.4					
+23	Maine	MEFENOXAM	2012	kg					540.1					
+23	Maine	MEFENOXAM	2013	kg					248.7					
+23	Maine	MEFENOXAM	2014	kg					116.4					
+23	Maine	MEFENOXAM	2015	kg					345.9					
+23	Maine	MEFENOXAM	2016	kg					620.5					
+23	Maine	MEFENOXAM	2017	kg					200.5					
+24	Maryland	MEFENOXAM	1997	kg					14.4					126.8
+24	Maryland	MEFENOXAM	1998	kg					438					393.9
+24	Maryland	MEFENOXAM	1999	kg					245.1					108.1
+24	Maryland	MEFENOXAM	2000	kg					1328.7					116.4
+24	Maryland	MEFENOXAM	2001	kg					1503.7					140.9
+24	Maryland	MEFENOXAM	2002	kg					554.9		37.8			52.2
+24	Maryland	MEFENOXAM	2003	kg					310.6		2			24.7
+24	Maryland	MEFENOXAM	2004	kg					1135.1		13.1			31.7
+24	Maryland	MEFENOXAM	2005	kg					467.3					20.6
+24	Maryland	MEFENOXAM	2006	kg		40.5			354.6					12.4
+24	Maryland	MEFENOXAM	2007	kg		62.4			416.8					14.8
+24	Maryland	MEFENOXAM	2008	kg		68			193.8		62.6			11
+24	Maryland	MEFENOXAM	2009	kg		111	1.7		63.4					8.3
+24	Maryland	MEFENOXAM	2010	kg		46.9	1.3		88.3		15			17.5
+24	Maryland	MEFENOXAM	2011	kg		31.4	7		61.1					19.9
+24	Maryland	MEFENOXAM	2012	kg		5.6	4.6		99.1					10.5
+24	Maryland	MEFENOXAM	2013	kg		86	19.8		20.7					8.9
+24	Maryland	MEFENOXAM	2014	kg		27.7	30.3		136.1					19.3
+24	Maryland	MEFENOXAM	2015	kg					57.2					10.8
+24	Maryland	MEFENOXAM	2016	kg					4.5					5
+24	Maryland	MEFENOXAM	2017	kg					17.9					23.7
+25	Massachusetts	MEFENOXAM	1997	kg					11.8					
+25	Massachusetts	MEFENOXAM	1998	kg					160.2					
+25	Massachusetts	MEFENOXAM	1999	kg					232.8					
+25	Massachusetts	MEFENOXAM	2000	kg					220.2		1.2			278.2
+25	Massachusetts	MEFENOXAM	2001	kg					102.2					65.4
+25	Massachusetts	MEFENOXAM	2002	kg					933.4					139.2
+25	Massachusetts	MEFENOXAM	2003	kg					344.4		2.9			350.5
+25	Massachusetts	MEFENOXAM	2004	kg					119.5		0			44.4
+25	Massachusetts	MEFENOXAM	2005	kg					68.4					
+25	Massachusetts	MEFENOXAM	2006	kg					53.2					
+25	Massachusetts	MEFENOXAM	2007	kg					172.4					
+25	Massachusetts	MEFENOXAM	2008	kg		0			272.6					
+25	Massachusetts	MEFENOXAM	2009	kg		0			239.6					
+25	Massachusetts	MEFENOXAM	2010	kg		0			105.1					
+25	Massachusetts	MEFENOXAM	2011	kg		0			163.4		2.8			
+25	Massachusetts	MEFENOXAM	2012	kg		0.5			227.8					
+25	Massachusetts	MEFENOXAM	2013	kg		0			165.4					
+25	Massachusetts	MEFENOXAM	2014	kg		0			436.1					
+25	Massachusetts	MEFENOXAM	2015	kg					174.5					
+25	Massachusetts	MEFENOXAM	2016	kg					62.5					
+25	Massachusetts	MEFENOXAM	2017	kg					90.2					
+26	Michigan	MEFENOXAM	1997	kg					1372.8					
+26	Michigan	MEFENOXAM	1998	kg					1989.2		1.9			
+26	Michigan	MEFENOXAM	1999	kg					4846.1					
+26	Michigan	MEFENOXAM	2000	kg					3693.2					
+26	Michigan	MEFENOXAM	2001	kg					10454.1		42.7			
+26	Michigan	MEFENOXAM	2002	kg					5056.1					
+26	Michigan	MEFENOXAM	2003	kg					1795.2		89.8			
+26	Michigan	MEFENOXAM	2004	kg					2971.6		225.5			
+26	Michigan	MEFENOXAM	2005	kg		223.4			2206.4					
+26	Michigan	MEFENOXAM	2006	kg		211.8			6106.7					
+26	Michigan	MEFENOXAM	2007	kg		393.8			3686.6					
+26	Michigan	MEFENOXAM	2008	kg		503.9			1275.1					
+26	Michigan	MEFENOXAM	2009	kg		644.2	61.4		274.8					0.8
+26	Michigan	MEFENOXAM	2010	kg		744.9	30.7		1405.6					1.4
+26	Michigan	MEFENOXAM	2011	kg		730.5	98.7		966.9					2
+26	Michigan	MEFENOXAM	2012	kg		464.2	149.7		636		658.9			0.3
+26	Michigan	MEFENOXAM	2013	kg		587.3	116		1475.8					3.7
+26	Michigan	MEFENOXAM	2014	kg		659	104.4		1938.4					2.9
+26	Michigan	MEFENOXAM	2015	kg					1942.6					
+26	Michigan	MEFENOXAM	2016	kg					3689.2					
+26	Michigan	MEFENOXAM	2017	kg					3076.8					
+27	Minnesota	MEFENOXAM	1997	kg					53.6					
+27	Minnesota	MEFENOXAM	1998	kg					1323.9					
+27	Minnesota	MEFENOXAM	1999	kg					453.2					
+27	Minnesota	MEFENOXAM	2000	kg					348.4					7790.6
+27	Minnesota	MEFENOXAM	2001	kg					573.8					2365.3
+27	Minnesota	MEFENOXAM	2002	kg					587.6					447
+27	Minnesota	MEFENOXAM	2003	kg					5983.7					
+27	Minnesota	MEFENOXAM	2004	kg					3129.8					
+27	Minnesota	MEFENOXAM	2005	kg		369			784.4					
+27	Minnesota	MEFENOXAM	2006	kg		891.5			3835.8					
+27	Minnesota	MEFENOXAM	2007	kg		1011.3			1680.7					
+27	Minnesota	MEFENOXAM	2008	kg		1785.2			250					
+27	Minnesota	MEFENOXAM	2009	kg		1839.6	35.4		2886					5.3
+27	Minnesota	MEFENOXAM	2010	kg		1526.5	36.8		859.9					2.7
+27	Minnesota	MEFENOXAM	2011	kg		1998.2	89.4		822.8					8.4
+27	Minnesota	MEFENOXAM	2012	kg		1114.5	90.5		370.3					8.6
+27	Minnesota	MEFENOXAM	2013	kg		1210.1	53.1		278.4					7.6
+27	Minnesota	MEFENOXAM	2014	kg		1832.7	76.4		626.3					0.6
+27	Minnesota	MEFENOXAM	2015	kg					431.6					
+27	Minnesota	MEFENOXAM	2016	kg					729.4					
+27	Minnesota	MEFENOXAM	2017	kg					235.3					
+28	Mississippi	MEFENOXAM	1997	kg				551.5	3.3				44.8	
+28	Mississippi	MEFENOXAM	1998	kg				2668.7	0.7					
+28	Mississippi	MEFENOXAM	1999	kg				1712.6	21.1					
+28	Mississippi	MEFENOXAM	2000	kg				3448.2	23.2					
+28	Mississippi	MEFENOXAM	2001	kg				2907.7	118.3					
+28	Mississippi	MEFENOXAM	2002	kg				565.3	71.3					
+28	Mississippi	MEFENOXAM	2003	kg				1038.1	11.2					
+28	Mississippi	MEFENOXAM	2004	kg				1958.4	36.1					
+28	Mississippi	MEFENOXAM	2005	kg				2735.3	7.7					
+28	Mississippi	MEFENOXAM	2006	kg		651.4		2091.2	6.5					
+28	Mississippi	MEFENOXAM	2007	kg		1398.6		350.8						
+28	Mississippi	MEFENOXAM	2008	kg		1380.1		140.1	28.3					
+28	Mississippi	MEFENOXAM	2009	kg		744.6	32.7	275.1						1.2
+28	Mississippi	MEFENOXAM	2010	kg		533.4	12.1	189.8	5.7					2.1
+28	Mississippi	MEFENOXAM	2011	kg		978.1	67.2	155						2.8
+28	Mississippi	MEFENOXAM	2012	kg		618	62.9	97.7						1.9
+28	Mississippi	MEFENOXAM	2013	kg		423.2	54.1	67	0.6					2
+28	Mississippi	MEFENOXAM	2014	kg		1225.3	100.5	71.3	1.7					5.5
+29	Missouri	MEFENOXAM	1997	kg				376						203.4
+29	Missouri	MEFENOXAM	1998	kg				418.3	419.4					102.5
+29	Missouri	MEFENOXAM	1999	kg				377.7	130.6					197.9
+29	Missouri	MEFENOXAM	2000	kg				879.6	204					66.8
+29	Missouri	MEFENOXAM	2001	kg				217.1	120.8					132.3
+29	Missouri	MEFENOXAM	2002	kg				346.4	455.5					44.1
+29	Missouri	MEFENOXAM	2003	kg				103.6	362.8					78
+29	Missouri	MEFENOXAM	2004	kg				202.9	95.9					43.8
+29	Missouri	MEFENOXAM	2005	kg				126	78.7	12.2				71.5
+29	Missouri	MEFENOXAM	2006	kg		378.6		67.2	49.4					73.5
+29	Missouri	MEFENOXAM	2007	kg		588.5		87.1	124.1					95.7
+29	Missouri	MEFENOXAM	2008	kg		1069		130.2	52.9					58
+29	Missouri	MEFENOXAM	2009	kg		1122.1	78.8	173.2						40
+29	Missouri	MEFENOXAM	2010	kg		598.5	74.7	109.8						39.3
+29	Missouri	MEFENOXAM	2011	kg		1032.6	45.1	87.5						18.7
+29	Missouri	MEFENOXAM	2012	kg		955.2	68.6	108.5	1998.5					17.1
+29	Missouri	MEFENOXAM	2013	kg		937.9	88.4	58.3	983.3					16.6
+29	Missouri	MEFENOXAM	2014	kg		1858.9	310.3	437.1	391.8					8.3
+29	Missouri	MEFENOXAM	2015	kg										11.9
+29	Missouri	MEFENOXAM	2016	kg					40.9					3.5
+29	Missouri	MEFENOXAM	2017	kg					46.9					10.5
+30	Montana	MEFENOXAM	1997	kg					4.8					413.6
+30	Montana	MEFENOXAM	1998	kg					19.9					
+30	Montana	MEFENOXAM	1999	kg					35					
+30	Montana	MEFENOXAM	2000	kg					18					1537.5
+30	Montana	MEFENOXAM	2001	kg					109.8					
+30	Montana	MEFENOXAM	2002	kg					103.6					
+30	Montana	MEFENOXAM	2003	kg					80.8					
+30	Montana	MEFENOXAM	2004	kg					273.8					
+30	Montana	MEFENOXAM	2005	kg					133					
+30	Montana	MEFENOXAM	2006	kg					243.9					
+30	Montana	MEFENOXAM	2007	kg					533.5					
+30	Montana	MEFENOXAM	2008	kg		0			137.2					
+30	Montana	MEFENOXAM	2009	kg		0.2	594.6		1038.6					1.2
+30	Montana	MEFENOXAM	2010	kg		0	698.2		207.6					0.2
+30	Montana	MEFENOXAM	2011	kg		0	490.4		96.7					2.2
+30	Montana	MEFENOXAM	2012	kg		0	650.6		228.5					1.2
+30	Montana	MEFENOXAM	2013	kg		1	860		15.4					0.7
+30	Montana	MEFENOXAM	2014	kg		1.4	908		157.8					0.6
+30	Montana	MEFENOXAM	2015	kg					180.3					
+30	Montana	MEFENOXAM	2016	kg					91.2					
+30	Montana	MEFENOXAM	2017	kg					400					
+31	Nebraska	MEFENOXAM	1997	kg					14.3					
+31	Nebraska	MEFENOXAM	1998	kg					135					
+31	Nebraska	MEFENOXAM	1999	kg					616.9					
+31	Nebraska	MEFENOXAM	2000	kg					1670					
+31	Nebraska	MEFENOXAM	2001	kg					2309.5					
+31	Nebraska	MEFENOXAM	2002	kg					1941					
+31	Nebraska	MEFENOXAM	2003	kg					2306.1					
+31	Nebraska	MEFENOXAM	2004	kg					688.7					
+31	Nebraska	MEFENOXAM	2005	kg					1273.8					
+31	Nebraska	MEFENOXAM	2006	kg		385.8			1721.6					
+31	Nebraska	MEFENOXAM	2007	kg		703.3			282.3					
+31	Nebraska	MEFENOXAM	2008	kg		1122.8			776.8					
+31	Nebraska	MEFENOXAM	2009	kg		1187.6	113.2		2556.9					3.2
+31	Nebraska	MEFENOXAM	2010	kg		1650.1	82.7		1080.5					0.3
+31	Nebraska	MEFENOXAM	2011	kg		1614.6	350.6		1299.1					0.8
+31	Nebraska	MEFENOXAM	2012	kg		1509.7	156.9		1670.1					1.1
+31	Nebraska	MEFENOXAM	2013	kg		1840.5	82.5		2471.7					0.3
+31	Nebraska	MEFENOXAM	2014	kg		1505.8	367.6		1409.8					
+31	Nebraska	MEFENOXAM	2015	kg					1006.6					
+31	Nebraska	MEFENOXAM	2017	kg					4026.6					
+32	Nevada	MEFENOXAM	1997	kg					8.3					
+32	Nevada	MEFENOXAM	1998	kg					187.9		0			
+32	Nevada	MEFENOXAM	1999	kg					94.4		0.1			
+32	Nevada	MEFENOXAM	2000	kg					43.9		0.1			
+32	Nevada	MEFENOXAM	2001	kg					120.1		0			
+32	Nevada	MEFENOXAM	2002	kg					1026.1		0.1			
+32	Nevada	MEFENOXAM	2003	kg					130.1		0			
+32	Nevada	MEFENOXAM	2004	kg					362.1					
+32	Nevada	MEFENOXAM	2005	kg					113.7					
+32	Nevada	MEFENOXAM	2006	kg					145.7					
+32	Nevada	MEFENOXAM	2007	kg					363.1					
+32	Nevada	MEFENOXAM	2008	kg					417.1					
+32	Nevada	MEFENOXAM	2009	kg			0.5		106.9					
+32	Nevada	MEFENOXAM	2010	kg			1.1		86.1					
+32	Nevada	MEFENOXAM	2011	kg			4.4		194.2					
+32	Nevada	MEFENOXAM	2012	kg			4.1		172.3					
+32	Nevada	MEFENOXAM	2013	kg			10.3		100.5					
+32	Nevada	MEFENOXAM	2014	kg			7.6		176.1					
+32	Nevada	MEFENOXAM	2015	kg					287.9					
+32	Nevada	MEFENOXAM	2016	kg					294.3					
+32	Nevada	MEFENOXAM	2017	kg					340.3		1			
+33	New Hampshire	MEFENOXAM	1997	kg					0.7					
+33	New Hampshire	MEFENOXAM	1998	kg					23.3					
+33	New Hampshire	MEFENOXAM	1999	kg					40.1					
+33	New Hampshire	MEFENOXAM	2000	kg					20.6					
+33	New Hampshire	MEFENOXAM	2001	kg					5.1					
+33	New Hampshire	MEFENOXAM	2002	kg					174.3					
+33	New Hampshire	MEFENOXAM	2003	kg					57.4					
+33	New Hampshire	MEFENOXAM	2004	kg					8					
+33	New Hampshire	MEFENOXAM	2005	kg					1.7					
+33	New Hampshire	MEFENOXAM	2006	kg					3.3					
+33	New Hampshire	MEFENOXAM	2007	kg					25.2					
+33	New Hampshire	MEFENOXAM	2008	kg					18.2					
+33	New Hampshire	MEFENOXAM	2009	kg					0.7					
+33	New Hampshire	MEFENOXAM	2010	kg					4.2					
+33	New Hampshire	MEFENOXAM	2011	kg					7.8					
+33	New Hampshire	MEFENOXAM	2012	kg					6.3					
+33	New Hampshire	MEFENOXAM	2013	kg					23.5					
+33	New Hampshire	MEFENOXAM	2014	kg					2.7					
+33	New Hampshire	MEFENOXAM	2015	kg					6.3					
+33	New Hampshire	MEFENOXAM	2016	kg					2.1					
+33	New Hampshire	MEFENOXAM	2017	kg					10.4					
+34	New Jersey	MEFENOXAM	1997	kg					587.9					
+34	New Jersey	MEFENOXAM	1998	kg					1050		2.4			
+34	New Jersey	MEFENOXAM	1999	kg					1908.8					
+34	New Jersey	MEFENOXAM	2000	kg					1304.2		1.7			
+34	New Jersey	MEFENOXAM	2001	kg					1642.4					
+34	New Jersey	MEFENOXAM	2002	kg					1859.5					
+34	New Jersey	MEFENOXAM	2003	kg					2734.8		3.7			
+34	New Jersey	MEFENOXAM	2004	kg					2379.3		3.6			
+34	New Jersey	MEFENOXAM	2005	kg					1707.6					
+34	New Jersey	MEFENOXAM	2006	kg		7.6			1317.3		84.2			
+34	New Jersey	MEFENOXAM	2007	kg		11.6			460.1					
+34	New Jersey	MEFENOXAM	2008	kg		6.6			300.2					
+34	New Jersey	MEFENOXAM	2009	kg		19.1			369.7					
+34	New Jersey	MEFENOXAM	2010	kg		9.4			1035.4					
+34	New Jersey	MEFENOXAM	2011	kg		6.9			671.2		4.4			
+34	New Jersey	MEFENOXAM	2012	kg		12			78.9		10.7			
+34	New Jersey	MEFENOXAM	2013	kg		13			480.5					
+34	New Jersey	MEFENOXAM	2014	kg		3.7			43.6					
+34	New Jersey	MEFENOXAM	2015	kg					1689					
+34	New Jersey	MEFENOXAM	2016	kg					39.7					
+34	New Jersey	MEFENOXAM	2017	kg					71					
+35	New Mexico	MEFENOXAM	1997	kg					88.4					
+35	New Mexico	MEFENOXAM	1998	kg					141.5					540.1
+35	New Mexico	MEFENOXAM	1999	kg					843.5					123.4
+35	New Mexico	MEFENOXAM	2000	kg					296.2					157.8
+35	New Mexico	MEFENOXAM	2001	kg					1024.7					175.6
+35	New Mexico	MEFENOXAM	2002	kg					500.8					771.6
+35	New Mexico	MEFENOXAM	2003	kg					219.6					0
+35	New Mexico	MEFENOXAM	2004	kg				179.1	634.8					125.1
+35	New Mexico	MEFENOXAM	2005	kg					429.2					91.6
+35	New Mexico	MEFENOXAM	2006	kg		0		2	1444.8					85.4
+35	New Mexico	MEFENOXAM	2007	kg				2.4	142.9					
+35	New Mexico	MEFENOXAM	2008	kg				1.5	1205.9					4.2
+35	New Mexico	MEFENOXAM	2009	kg			1.2	9.3	1039.5					226.6
+35	New Mexico	MEFENOXAM	2010	kg			2	6.1	1078.1					46.6
+35	New Mexico	MEFENOXAM	2011	kg			115.2	1.2	836.5					1
+35	New Mexico	MEFENOXAM	2012	kg			10	3.1	256.3					208.8
+35	New Mexico	MEFENOXAM	2013	kg		0.2	548.2	3.6	1818.2					7.3
+35	New Mexico	MEFENOXAM	2014	kg			41.5	4.4	331.6					1.1
+35	New Mexico	MEFENOXAM	2015	kg					759.7					11.5
+35	New Mexico	MEFENOXAM	2016	kg					53.1					
+35	New Mexico	MEFENOXAM	2017	kg					1403.8					
+36	New York	MEFENOXAM	1997	kg					908.8					
+36	New York	MEFENOXAM	1998	kg					1892.7		37.8			
+36	New York	MEFENOXAM	1999	kg					1842		108.1			
+36	New York	MEFENOXAM	2000	kg					2048.1		150.3			
+36	New York	MEFENOXAM	2001	kg					1694.4		43.3			
+36	New York	MEFENOXAM	2002	kg					840.9		3			
+36	New York	MEFENOXAM	2003	kg					749.1		82.4			
+36	New York	MEFENOXAM	2004	kg					1039.3		69.7			
+36	New York	MEFENOXAM	2005	kg					5319		65.3			
+36	New York	MEFENOXAM	2006	kg		71.6			1186.6		1407.9			
+36	New York	MEFENOXAM	2007	kg		12.7			1359.4					
+36	New York	MEFENOXAM	2008	kg		70.3			4525.6					
+36	New York	MEFENOXAM	2009	kg		25.2			1335.5		77.9			
+36	New York	MEFENOXAM	2010	kg		26.9			2497.7					
+36	New York	MEFENOXAM	2011	kg		97.3			1365.4		262.6			
+36	New York	MEFENOXAM	2012	kg		71.2			1256.7		119.6			
+36	New York	MEFENOXAM	2013	kg		70.8			2319.5		324.7			
+36	New York	MEFENOXAM	2014	kg		25.9			923.2		1.7			
+36	New York	MEFENOXAM	2015	kg					1209.8					
+36	New York	MEFENOXAM	2016	kg					412.4					
+36	New York	MEFENOXAM	2017	kg					1560.4					
+37	North Carolina	MEFENOXAM	1997	kg				328.1						7421.3
+37	North Carolina	MEFENOXAM	1998	kg				273.8	2335.6					13192
+37	North Carolina	MEFENOXAM	1999	kg				918.9	820.8					11037
+37	North Carolina	MEFENOXAM	2000	kg				2396.6	2347.7					6704.1
+37	North Carolina	MEFENOXAM	2001	kg				3196.3	4529.4					5315.7
+37	North Carolina	MEFENOXAM	2002	kg				1002.8	1572.6		212			6034.6
+37	North Carolina	MEFENOXAM	2003	kg				2709.5	1735.4					2321.1
+37	North Carolina	MEFENOXAM	2004	kg				1307.7	1062.2					8467.2
+37	North Carolina	MEFENOXAM	2005	kg				1379	1243.1					3303.1
+37	North Carolina	MEFENOXAM	2006	kg		53.8		244.2	1178.5					3526.3
+37	North Carolina	MEFENOXAM	2007	kg		109.7		75.7	909.7					3829.3
+37	North Carolina	MEFENOXAM	2008	kg		318.5		93.2	1509.3					5290.6
+37	North Carolina	MEFENOXAM	2009	kg		856.5	30.1	170.5	534.2					6382.1
+37	North Carolina	MEFENOXAM	2010	kg		73.7	26.5	220.4	1082.5					7325.4
+37	North Carolina	MEFENOXAM	2011	kg		498.9	93.8	336.7	295.9					9268.6
+37	North Carolina	MEFENOXAM	2012	kg		216	87.4	203						5375
+37	North Carolina	MEFENOXAM	2013	kg		240.2	32.3	205.6	1242.9					5018
+37	North Carolina	MEFENOXAM	2014	kg		285.4	101.3	281.2	590.9					5971.8
+37	North Carolina	MEFENOXAM	2015	kg					128.7					6946.3
+37	North Carolina	MEFENOXAM	2016	kg					824.2					9494.9
+37	North Carolina	MEFENOXAM	2017	kg					828					13195.6
+38	North Dakota	MEFENOXAM	1997	kg					79					205
+38	North Dakota	MEFENOXAM	1998	kg					421.7					
+38	North Dakota	MEFENOXAM	1999	kg					1136.9					
+38	North Dakota	MEFENOXAM	2000	kg					657.4					3867
+38	North Dakota	MEFENOXAM	2001	kg					1575					1806.7
+38	North Dakota	MEFENOXAM	2002	kg					206.1					341.3
+38	North Dakota	MEFENOXAM	2003	kg					444.1					
+38	North Dakota	MEFENOXAM	2004	kg					5182.9					
+38	North Dakota	MEFENOXAM	2005	kg					1776.2					
+38	North Dakota	MEFENOXAM	2006	kg		478.8			3815.5					
+38	North Dakota	MEFENOXAM	2007	kg		795.4			2288.5					
+38	North Dakota	MEFENOXAM	2008	kg		1138.3			2162.4					
+38	North Dakota	MEFENOXAM	2009	kg		1562.2	371.5		3806.6					3.1
+38	North Dakota	MEFENOXAM	2010	kg		1089.4	229.8		1744.1					5.4
+38	North Dakota	MEFENOXAM	2011	kg		1586.1	241.6		3367.2					8
+38	North Dakota	MEFENOXAM	2012	kg		1365.7	342.2		948.7					4.8
+38	North Dakota	MEFENOXAM	2013	kg		865.2	665		296.2					6.3
+38	North Dakota	MEFENOXAM	2014	kg		2644.4	1414.9		3102.8					0.2
+38	North Dakota	MEFENOXAM	2015	kg					4105.1					
+38	North Dakota	MEFENOXAM	2016	kg					2643.1					
+38	North Dakota	MEFENOXAM	2017	kg					3083.5					
+39	Ohio	MEFENOXAM	1997	kg										34
+39	Ohio	MEFENOXAM	1998	kg					266.4		0.9			156.3
+39	Ohio	MEFENOXAM	1999	kg					500.4					646.9
+39	Ohio	MEFENOXAM	2000	kg					381.4		7.3			245.6
+39	Ohio	MEFENOXAM	2001	kg					508.1		2.6			366
+39	Ohio	MEFENOXAM	2002	kg					611.5		126.3			208.2
+39	Ohio	MEFENOXAM	2003	kg					304.9					162.1
+39	Ohio	MEFENOXAM	2004	kg					208.1		0.2			67.4
+39	Ohio	MEFENOXAM	2005	kg		516.7			1106.8		4.5			19.9
+39	Ohio	MEFENOXAM	2006	kg		622.9			319.3					280.6
+39	Ohio	MEFENOXAM	2007	kg		393.5			372.6		259.7			200.1
+39	Ohio	MEFENOXAM	2008	kg		1875			238.6					88.3
+39	Ohio	MEFENOXAM	2009	kg		1523.8	63.8		90					82.2
+39	Ohio	MEFENOXAM	2010	kg		1738.8	47.6		57.7					105.5
+39	Ohio	MEFENOXAM	2011	kg		2907.1	135.4		83.9					64.4
+39	Ohio	MEFENOXAM	2012	kg		1777.5	145.8		2.7					45.6
+39	Ohio	MEFENOXAM	2013	kg		1977.4	54.1		500.8					16.5
+39	Ohio	MEFENOXAM	2014	kg		2496.5	124.4		86.1		453.3			40.3
+39	Ohio	MEFENOXAM	2015	kg					108.9					49.6
+39	Ohio	MEFENOXAM	2016	kg					67.3					19.4
+39	Ohio	MEFENOXAM	2017	kg					474.1					54.7
+40	Oklahoma	MEFENOXAM	1997	kg					0					
+40	Oklahoma	MEFENOXAM	1998	kg				5.9	0.1					91.7
+40	Oklahoma	MEFENOXAM	1999	kg				2.8	99.9					6
+40	Oklahoma	MEFENOXAM	2000	kg				7.7	825.8					195.2
+40	Oklahoma	MEFENOXAM	2001	kg				8.1	382.1					25.1
+40	Oklahoma	MEFENOXAM	2002	kg				2.7	442.4					201
+40	Oklahoma	MEFENOXAM	2003	kg				4.3	136					
+40	Oklahoma	MEFENOXAM	2004	kg				12.7	135.8					126.9
+40	Oklahoma	MEFENOXAM	2005	kg				1.6	55.3					
+40	Oklahoma	MEFENOXAM	2006	kg		14.2		18.2	206					
+40	Oklahoma	MEFENOXAM	2007	kg		32.1		1	212.6					
+40	Oklahoma	MEFENOXAM	2008	kg		153.1		37.8	121.1					
+40	Oklahoma	MEFENOXAM	2009	kg		57.3	139.7	58.5	5.6					1
+40	Oklahoma	MEFENOXAM	2010	kg		48.8	142.3	38.8	344.4					1.7
+40	Oklahoma	MEFENOXAM	2011	kg		49.7	95.6	14.4	112					5.3
+40	Oklahoma	MEFENOXAM	2012	kg		97.7	169	12.5	51.5					6.3
+40	Oklahoma	MEFENOXAM	2013	kg		129.8	181.8	13.8	645.1					3.1
+40	Oklahoma	MEFENOXAM	2014	kg		65.5	393.8	17	24					2.9
+40	Oklahoma	MEFENOXAM	2015	kg					9.4					
+40	Oklahoma	MEFENOXAM	2016	kg										146
+40	Oklahoma	MEFENOXAM	2017	kg					109.7					
+41	Oregon	MEFENOXAM	1997	kg					129.8					
+41	Oregon	MEFENOXAM	1998	kg					1755.9					
+41	Oregon	MEFENOXAM	1999	kg					2227.7					
+41	Oregon	MEFENOXAM	2000	kg					3076.5					
+41	Oregon	MEFENOXAM	2001	kg					3500		245.8			
+41	Oregon	MEFENOXAM	2002	kg					2003.7		19			
+41	Oregon	MEFENOXAM	2003	kg					1541.7		29.3			100
+41	Oregon	MEFENOXAM	2004	kg					2159.8		0.5			
+41	Oregon	MEFENOXAM	2005	kg					2006.4					
+41	Oregon	MEFENOXAM	2006	kg					1387.4		1.1			
+41	Oregon	MEFENOXAM	2007	kg					3544.4					
+41	Oregon	MEFENOXAM	2008	kg					1681.6		44.6			
+41	Oregon	MEFENOXAM	2009	kg			81.7		1633.4		16.5			0.3
+41	Oregon	MEFENOXAM	2010	kg			326.6		4564.5					0.1
+41	Oregon	MEFENOXAM	2011	kg			270.6		1023.6		38			0.1
+41	Oregon	MEFENOXAM	2012	kg			456.7		4376.8		341.8			0.1
+41	Oregon	MEFENOXAM	2013	kg			577.4		4822.4					0.1
+41	Oregon	MEFENOXAM	2014	kg			584.2		1177.4		35.7			0.3
+41	Oregon	MEFENOXAM	2015	kg					3828.3					
+41	Oregon	MEFENOXAM	2016	kg					6047.8					
+41	Oregon	MEFENOXAM	2017	kg					3528.3					
+42	Pennsylvania	MEFENOXAM	1997	kg					181.9					
+42	Pennsylvania	MEFENOXAM	1998	kg					351		9.1			452.1
+42	Pennsylvania	MEFENOXAM	1999	kg					1212.4		11.4			310.2
+42	Pennsylvania	MEFENOXAM	2000	kg					445.4		70.4			692.4
+42	Pennsylvania	MEFENOXAM	2001	kg					2972.3		25.9			273
+42	Pennsylvania	MEFENOXAM	2002	kg					552.8		334.4			66.6
+42	Pennsylvania	MEFENOXAM	2003	kg					1052.7		3.6			
+42	Pennsylvania	MEFENOXAM	2004	kg					952		2.4			51
+42	Pennsylvania	MEFENOXAM	2005	kg					935.4		15.5			232
+42	Pennsylvania	MEFENOXAM	2006	kg		42			1137.5		693.8			
+42	Pennsylvania	MEFENOXAM	2007	kg		92.1			427.7					621.6
+42	Pennsylvania	MEFENOXAM	2008	kg		186.8			561.3					248.1
+42	Pennsylvania	MEFENOXAM	2009	kg		112.9	0.2		169.4		23.7			
+42	Pennsylvania	MEFENOXAM	2010	kg		80	2.5		366.3		170.9			
+42	Pennsylvania	MEFENOXAM	2011	kg		61.7	0.5		1587.3		9			1380.9
+42	Pennsylvania	MEFENOXAM	2012	kg		103.3	1.5		371.8					882.6
+42	Pennsylvania	MEFENOXAM	2013	kg		108.8	0.3		303.6		94.7			
+42	Pennsylvania	MEFENOXAM	2014	kg		103.4	3.7		95.9		0.6			1593.3
+42	Pennsylvania	MEFENOXAM	2015	kg					579.4					
+42	Pennsylvania	MEFENOXAM	2016	kg					169.8					250.3
+42	Pennsylvania	MEFENOXAM	2017	kg					328.3					565.2
+44	Rhode Island	MEFENOXAM	1997	kg					1.1					
+44	Rhode Island	MEFENOXAM	1998	kg					11.9					
+44	Rhode Island	MEFENOXAM	1999	kg					12.3					
+44	Rhode Island	MEFENOXAM	2000	kg					6.2					
+44	Rhode Island	MEFENOXAM	2001	kg					4.6					
+44	Rhode Island	MEFENOXAM	2002	kg					45.7					
+44	Rhode Island	MEFENOXAM	2003	kg					15.9					
+44	Rhode Island	MEFENOXAM	2004	kg					5.2					
+44	Rhode Island	MEFENOXAM	2005	kg					0.4					
+44	Rhode Island	MEFENOXAM	2006	kg					4					
+44	Rhode Island	MEFENOXAM	2007	kg					13.2					
+44	Rhode Island	MEFENOXAM	2008	kg					8.1					
+44	Rhode Island	MEFENOXAM	2011	kg					0.8					
+44	Rhode Island	MEFENOXAM	2013	kg					8.3					
+44	Rhode Island	MEFENOXAM	2017	kg					2					
+45	South Carolina	MEFENOXAM	1997	kg				111.2	702.9					1598
+45	South Carolina	MEFENOXAM	1998	kg				178.8	373.2					430.3
+45	South Carolina	MEFENOXAM	1999	kg				268.8	54.6					500
+45	South Carolina	MEFENOXAM	2000	kg				399.3	1142.7					725.2
+45	South Carolina	MEFENOXAM	2001	kg				134	522.1					811
+45	South Carolina	MEFENOXAM	2002	kg				13.9	522.6					487.6
+45	South Carolina	MEFENOXAM	2003	kg				241.2	315.3					4732.4
+45	South Carolina	MEFENOXAM	2004	kg				34.3	317.7					379.4
+45	South Carolina	MEFENOXAM	2005	kg				58.5	116.8					786.2
+45	South Carolina	MEFENOXAM	2006	kg		9.3		97.6	541.1					476.2
+45	South Carolina	MEFENOXAM	2007	kg		32		30.8	351.8					92.4
+45	South Carolina	MEFENOXAM	2008	kg		167.9		40.7	432					707.9
+45	South Carolina	MEFENOXAM	2009	kg		218.1	6.4	73.9	262.4					186.2
+45	South Carolina	MEFENOXAM	2010	kg		31.1	3.5	103.1	129.1					2618
+45	South Carolina	MEFENOXAM	2011	kg		174.5	16.9	91	95.4					2815
+45	South Carolina	MEFENOXAM	2012	kg		24.8	18.6	89.9	288.5					156.2
+45	South Carolina	MEFENOXAM	2013	kg		16.8	6.6	140.3	484.6					519.6
+45	South Carolina	MEFENOXAM	2014	kg		10.7	27	134.9						146.9
+45	South Carolina	MEFENOXAM	2015	kg					246.1					3004.5
+45	South Carolina	MEFENOXAM	2016	kg					175.4					263.6
+45	South Carolina	MEFENOXAM	2017	kg										456.5
+46	South Dakota	MEFENOXAM	1998	kg					9.4					
+46	South Dakota	MEFENOXAM	1999	kg					22.6					
+46	South Dakota	MEFENOXAM	2000	kg					11.9					
+46	South Dakota	MEFENOXAM	2001	kg					31					
+46	South Dakota	MEFENOXAM	2002	kg					53.9					
+46	South Dakota	MEFENOXAM	2003	kg					77.3					
+46	South Dakota	MEFENOXAM	2004	kg					245.8					
+46	South Dakota	MEFENOXAM	2005	kg					39.1					
+46	South Dakota	MEFENOXAM	2006	kg		476.2			121.7					
+46	South Dakota	MEFENOXAM	2007	kg		789.8			47.8					
+46	South Dakota	MEFENOXAM	2008	kg		1052.3			2.8					
+46	South Dakota	MEFENOXAM	2009	kg		1281.8	402.4		52.9					
+46	South Dakota	MEFENOXAM	2010	kg		1486.7	66.6		7.5					
+46	South Dakota	MEFENOXAM	2011	kg		1745.6	209.1		3.1					
+46	South Dakota	MEFENOXAM	2012	kg		1233.3	416.7		2.4					
+46	South Dakota	MEFENOXAM	2013	kg		862.4	146		0					
+46	South Dakota	MEFENOXAM	2014	kg		1349.6	277.9		3					
+46	South Dakota	MEFENOXAM	2015	kg					3.1					
+46	South Dakota	MEFENOXAM	2017	kg					2					
+47	Tennessee	MEFENOXAM	1997	kg				5287.5					162.1	2680.3
+47	Tennessee	MEFENOXAM	1998	kg				523.2	19.7					3756.6
+47	Tennessee	MEFENOXAM	1999	kg				1208.9	205.7					3515.3
+47	Tennessee	MEFENOXAM	2000	kg				1090.5	514.6					5301.9
+47	Tennessee	MEFENOXAM	2001	kg				470.2	16.2					2859.1
+47	Tennessee	MEFENOXAM	2002	kg				918.8	185.1		392.7			3942
+47	Tennessee	MEFENOXAM	2003	kg				1533.1	77.8					1521.7
+47	Tennessee	MEFENOXAM	2004	kg				1834.4	669.2					2855.6
+47	Tennessee	MEFENOXAM	2005	kg				564.8	55.3	0				2370.8
+47	Tennessee	MEFENOXAM	2006	kg		457		662.6	180.7					1078.2
+47	Tennessee	MEFENOXAM	2007	kg		342		465.9	127.2					1409.8
+47	Tennessee	MEFENOXAM	2008	kg		308.5		21.2	57					1859.9
+47	Tennessee	MEFENOXAM	2009	kg		692	102.5	131.8	363.9					687.9
+47	Tennessee	MEFENOXAM	2010	kg		676.3	13.5	197.5	4.6					1196.8
+47	Tennessee	MEFENOXAM	2011	kg		1621.2	162.8	219.1						1204.3
+47	Tennessee	MEFENOXAM	2012	kg		576.1	45.3	150.5	12					527.3
+47	Tennessee	MEFENOXAM	2013	kg		451.8	95.9	85.3	220.5					1500
+47	Tennessee	MEFENOXAM	2014	kg		889.7	340.3	62.9	3					3048
+47	Tennessee	MEFENOXAM	2015	kg					11.7					498.6
+47	Tennessee	MEFENOXAM	2016	kg					16.1					1151.8
+47	Tennessee	MEFENOXAM	2017	kg					52.9					1671.6
+48	Texas	MEFENOXAM	1997	kg					172.2					
+48	Texas	MEFENOXAM	1998	kg					20016.2					4159.3
+48	Texas	MEFENOXAM	1999	kg				1016.4	7699.3					1710.1
+48	Texas	MEFENOXAM	2000	kg					11433					1481.9
+48	Texas	MEFENOXAM	2001	kg				106.1	4925					1265.8
+48	Texas	MEFENOXAM	2002	kg					3103.9					1068
+48	Texas	MEFENOXAM	2003	kg				110.4	3258.7					1.4
+48	Texas	MEFENOXAM	2004	kg				7455.9	10565.7					105.4
+48	Texas	MEFENOXAM	2005	kg				93.5	4175.6					1070.9
+48	Texas	MEFENOXAM	2006	kg		28.1		231.3	4296.3					918.1
+48	Texas	MEFENOXAM	2007	kg		22		214.7	3816.3					
+48	Texas	MEFENOXAM	2008	kg		22.1		203.3	5828.6		92.9			97.5
+48	Texas	MEFENOXAM	2009	kg		106.2	88.9	869.8	2721.3					3602
+48	Texas	MEFENOXAM	2010	kg		10.7	51.1	565.1	3785.7					677.2
+48	Texas	MEFENOXAM	2011	kg		53.6	182.1	435.5	2463.3					17.2
+48	Texas	MEFENOXAM	2012	kg		18.9	340.5	931.2	1822.8		903.1			623.3
+48	Texas	MEFENOXAM	2013	kg		94.4	1061.7	638.9	3339.1		1322.2			93.5
+48	Texas	MEFENOXAM	2014	kg		19.1	1151.2	441.5	2449.9					16
+48	Texas	MEFENOXAM	2015	kg					1689.5		291.4			255.5
+48	Texas	MEFENOXAM	2016	kg					113.6					
+48	Texas	MEFENOXAM	2017	kg					4357.9					
+49	Utah	MEFENOXAM	1997	kg					4.3					
+49	Utah	MEFENOXAM	1998	kg					7					
+49	Utah	MEFENOXAM	1999	kg					135.9					
+49	Utah	MEFENOXAM	2000	kg					8.7					
+49	Utah	MEFENOXAM	2001	kg					25					
+49	Utah	MEFENOXAM	2002	kg					50.3					
+49	Utah	MEFENOXAM	2003	kg					41.2					
+49	Utah	MEFENOXAM	2004	kg					62.9					
+49	Utah	MEFENOXAM	2005	kg					16.2					
+49	Utah	MEFENOXAM	2006	kg					32					
+49	Utah	MEFENOXAM	2007	kg					64.3					
+49	Utah	MEFENOXAM	2008	kg					2.7					
+49	Utah	MEFENOXAM	2009	kg			4		2.2					
+49	Utah	MEFENOXAM	2010	kg			5.4		3.2					
+49	Utah	MEFENOXAM	2011	kg			41.9		3.9					
+49	Utah	MEFENOXAM	2012	kg			17.2		6.8					
+49	Utah	MEFENOXAM	2013	kg			57.3		5.3					
+49	Utah	MEFENOXAM	2014	kg			66.2		10.1					
+49	Utah	MEFENOXAM	2015	kg					12.9					
+49	Utah	MEFENOXAM	2016	kg					11.1					
+49	Utah	MEFENOXAM	2017	kg					13.6					
+50	Vermont	MEFENOXAM	1997	kg					0.7					
+50	Vermont	MEFENOXAM	1998	kg					39					
+50	Vermont	MEFENOXAM	1999	kg					29.1		33			
+50	Vermont	MEFENOXAM	2000	kg					18.3					
+50	Vermont	MEFENOXAM	2001	kg					35.3					
+50	Vermont	MEFENOXAM	2002	kg					123.6					
+50	Vermont	MEFENOXAM	2003	kg					25.8					
+50	Vermont	MEFENOXAM	2004	kg					9.8					
+50	Vermont	MEFENOXAM	2005	kg					4					
+50	Vermont	MEFENOXAM	2006	kg					48.9					
+50	Vermont	MEFENOXAM	2007	kg					19.4					
+50	Vermont	MEFENOXAM	2008	kg					29.2					
+50	Vermont	MEFENOXAM	2009	kg					2.5					
+50	Vermont	MEFENOXAM	2010	kg					8.1					
+50	Vermont	MEFENOXAM	2011	kg					11.5					
+50	Vermont	MEFENOXAM	2012	kg					14.7					
+50	Vermont	MEFENOXAM	2013	kg					25.4					
+50	Vermont	MEFENOXAM	2014	kg					29.2					
+50	Vermont	MEFENOXAM	2015	kg					11.9					
+50	Vermont	MEFENOXAM	2016	kg					4.1					
+50	Vermont	MEFENOXAM	2017	kg					11.6					
+51	Virginia	MEFENOXAM	1997	kg				47.6	17.7					774.3
+51	Virginia	MEFENOXAM	1998	kg				28.7	937.8					1648.7
+51	Virginia	MEFENOXAM	1999	kg				111.7	71.1					449.6
+51	Virginia	MEFENOXAM	2000	kg				163.2	179.2					1240.1
+51	Virginia	MEFENOXAM	2001	kg				91.7	474.6					899.5
+51	Virginia	MEFENOXAM	2002	kg				33.6	1129.4		1362			1085.6
+51	Virginia	MEFENOXAM	2003	kg				94.5	389.3		21			276.1
+51	Virginia	MEFENOXAM	2004	kg				122.2	695.5		115			869.7
+51	Virginia	MEFENOXAM	2005	kg				18	219.7					196
+51	Virginia	MEFENOXAM	2006	kg		54.2		61.2	267.1					582.6
+51	Virginia	MEFENOXAM	2007	kg		159.3		3.3	169.2					369
+51	Virginia	MEFENOXAM	2008	kg		111.5		5.9	183.8		262			205.4
+51	Virginia	MEFENOXAM	2009	kg		358	9.3	22	34.6					672.1
+51	Virginia	MEFENOXAM	2010	kg		19.6	17.7	25.7	184.1					445.3
+51	Virginia	MEFENOXAM	2011	kg		102.8	41.7	34.8						759.3
+51	Virginia	MEFENOXAM	2012	kg		36.7	40.4	27.8						1341.7
+51	Virginia	MEFENOXAM	2013	kg		14.6	58	24.2	79.2					1147.6
+51	Virginia	MEFENOXAM	2014	kg		81.3	122	20.2	145					1307
+51	Virginia	MEFENOXAM	2015	kg					17.8					1221.8
+51	Virginia	MEFENOXAM	2016	kg					12					266.9
+51	Virginia	MEFENOXAM	2017	kg					16.7					1343.2
+53	Washington	MEFENOXAM	1997	kg					186.6					
+53	Washington	MEFENOXAM	1998	kg					2585.9					
+53	Washington	MEFENOXAM	1999	kg					2739					
+53	Washington	MEFENOXAM	2000	kg					2525.5					
+53	Washington	MEFENOXAM	2001	kg					4558.4		1489.4			
+53	Washington	MEFENOXAM	2002	kg					1550.4		796.6			
+53	Washington	MEFENOXAM	2003	kg					1741.8		93.4			
+53	Washington	MEFENOXAM	2004	kg					10403.2		6123.7			
+53	Washington	MEFENOXAM	2005	kg					12053.5					
+53	Washington	MEFENOXAM	2006	kg					4901.5		41.5			
+53	Washington	MEFENOXAM	2007	kg					6065.3		152.3			
+53	Washington	MEFENOXAM	2008	kg					10010.8		1620.7			
+53	Washington	MEFENOXAM	2009	kg			560.3		5818.4		999.7			
+53	Washington	MEFENOXAM	2010	kg			887.7		4365.4		530.3			
+53	Washington	MEFENOXAM	2011	kg			722		4940.6		780.9			
+53	Washington	MEFENOXAM	2012	kg			617.5		8841.6		1921.8			
+53	Washington	MEFENOXAM	2013	kg			1117.8		9173.7					
+53	Washington	MEFENOXAM	2014	kg			825.7		9433.8		2216			
+53	Washington	MEFENOXAM	2015	kg					8339					
+53	Washington	MEFENOXAM	2016	kg					17006.9					
+53	Washington	MEFENOXAM	2017	kg					10954.7					
+54	West Virginia	MEFENOXAM	1997	kg										75.9
+54	West Virginia	MEFENOXAM	1998	kg					27.6					116.9
+54	West Virginia	MEFENOXAM	1999	kg					25.1					71.1
+54	West Virginia	MEFENOXAM	2000	kg					9.1					188.2
+54	West Virginia	MEFENOXAM	2001	kg					21.6					66.2
+54	West Virginia	MEFENOXAM	2002	kg					13.3		3567.5			49.7
+54	West Virginia	MEFENOXAM	2003	kg					24.2		6.5			63.4
+54	West Virginia	MEFENOXAM	2004	kg					40.1		38.2			17.6
+54	West Virginia	MEFENOXAM	2005	kg					37.4		0.1			6.1
+54	West Virginia	MEFENOXAM	2006	kg		1.6			23.8					23.5
+54	West Virginia	MEFENOXAM	2007	kg		3.4			21.5					9.7
+54	West Virginia	MEFENOXAM	2008	kg		4.2			13.2		188.9			4.1
+54	West Virginia	MEFENOXAM	2009	kg		6	0.1		10.3					2.5
+54	West Virginia	MEFENOXAM	2010	kg		2.7	0.1		9.1					2
+54	West Virginia	MEFENOXAM	2011	kg		5.4	0.7		2.6					8.3
+54	West Virginia	MEFENOXAM	2012	kg		2.1	0.3							2.3
+54	West Virginia	MEFENOXAM	2013	kg		3.2	1.3		3.3					3.1
+54	West Virginia	MEFENOXAM	2014	kg		11.3	2.4							1.1
+54	West Virginia	MEFENOXAM	2015	kg					1.2					1.2
+54	West Virginia	MEFENOXAM	2016	kg					0.1					1.2
+54	West Virginia	MEFENOXAM	2017	kg					7.8					4.9
+55	Wisconsin	MEFENOXAM	1997	kg					1107.7					
+55	Wisconsin	MEFENOXAM	1998	kg					529.4					426.8
+55	Wisconsin	MEFENOXAM	1999	kg					1231.3					223.2
+55	Wisconsin	MEFENOXAM	2000	kg					1909.2					81.6
+55	Wisconsin	MEFENOXAM	2001	kg					735.3					91.3
+55	Wisconsin	MEFENOXAM	2002	kg					2569.7					
+55	Wisconsin	MEFENOXAM	2003	kg					2191					107.3
+55	Wisconsin	MEFENOXAM	2004	kg					2115.1					
+55	Wisconsin	MEFENOXAM	2005	kg					1450.1					
+55	Wisconsin	MEFENOXAM	2006	kg		309			2452.9					
+55	Wisconsin	MEFENOXAM	2007	kg		270.2			3301.2					
+55	Wisconsin	MEFENOXAM	2008	kg		697.2			752.7					
+55	Wisconsin	MEFENOXAM	2009	kg		768.8	95		912.6					
+55	Wisconsin	MEFENOXAM	2010	kg		407.9	41.3		1912.3					
+55	Wisconsin	MEFENOXAM	2011	kg		541.4	41.7		587.3					
+55	Wisconsin	MEFENOXAM	2012	kg		486.6	26.6		991.3					
+55	Wisconsin	MEFENOXAM	2013	kg		393.3	24		1690.9					
+55	Wisconsin	MEFENOXAM	2014	kg		413.6	41.5		905.8					
+55	Wisconsin	MEFENOXAM	2015	kg					1442.7					
+55	Wisconsin	MEFENOXAM	2016	kg					1355.5					
+55	Wisconsin	MEFENOXAM	2017	kg					4898.6					
+56	Wyoming	MEFENOXAM	1997	kg					0					
+56	Wyoming	MEFENOXAM	1998	kg					5.2					
+56	Wyoming	MEFENOXAM	1999	kg					12.5					
+56	Wyoming	MEFENOXAM	2000	kg					8.2					
+56	Wyoming	MEFENOXAM	2001	kg					15.2					
+56	Wyoming	MEFENOXAM	2002	kg					20.1					
+56	Wyoming	MEFENOXAM	2003	kg					50.7					
+56	Wyoming	MEFENOXAM	2004	kg					73					
+56	Wyoming	MEFENOXAM	2005	kg					148.8					
+56	Wyoming	MEFENOXAM	2006	kg					140.1					
+56	Wyoming	MEFENOXAM	2007	kg					32					
+56	Wyoming	MEFENOXAM	2008	kg					9.5					
+56	Wyoming	MEFENOXAM	2009	kg			13.3		69.7					1
+56	Wyoming	MEFENOXAM	2010	kg			10.2		27.1					0.2
+56	Wyoming	MEFENOXAM	2011	kg			24.2		32.5					0.9
+56	Wyoming	MEFENOXAM	2012	kg			13		36.3					0.1
+56	Wyoming	MEFENOXAM	2013	kg			9.2		2.5					0.4
+56	Wyoming	MEFENOXAM	2014	kg			26.7		18					0.5
+56	Wyoming	MEFENOXAM	2015	kg					14					
+56	Wyoming	MEFENOXAM	2016	kg					0.3					
+56	Wyoming	MEFENOXAM	2017	kg					0.9					

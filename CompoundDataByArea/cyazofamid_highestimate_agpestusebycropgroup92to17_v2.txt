@@ -1,0 +1,353 @@
+01	Alabama	CYAZOFAMID	2013	kg					5.5					
+01	Alabama	CYAZOFAMID	2014	kg					15.5					
+01	Alabama	CYAZOFAMID	2015	kg					6.5					
+01	Alabama	CYAZOFAMID	2016	kg					33.4					
+04	Arizona	CYAZOFAMID	2009	kg					24.6					
+04	Arizona	CYAZOFAMID	2010	kg					11.6					
+04	Arizona	CYAZOFAMID	2011	kg					263.8					
+04	Arizona	CYAZOFAMID	2012	kg					21.6					
+04	Arizona	CYAZOFAMID	2013	kg					61.4					
+04	Arizona	CYAZOFAMID	2014	kg					106.6					
+04	Arizona	CYAZOFAMID	2015	kg					273.5					
+04	Arizona	CYAZOFAMID	2016	kg					110.4					
+04	Arizona	CYAZOFAMID	2017	kg					105.9					
+06	California	CYAZOFAMID	2008	kg					0.7		0			
+06	California	CYAZOFAMID	2009	kg					251.9		1.8			
+06	California	CYAZOFAMID	2010	kg					1278.4		8			
+06	California	CYAZOFAMID	2011	kg					1121.7		20.3			0.5
+06	California	CYAZOFAMID	2012	kg					1869.8		13			1.4
+06	California	CYAZOFAMID	2013	kg					2649.8		24.3			1.1
+06	California	CYAZOFAMID	2014	kg					1535.7		25.3		0.9	30.2
+06	California	CYAZOFAMID	2015	kg					1263		29.3			2.2
+06	California	CYAZOFAMID	2016	kg					2257.2		21.2			13.4
+06	California	CYAZOFAMID	2017	kg					1410.2		15.7			3.9
+08	Colorado	CYAZOFAMID	2012	kg					54.6					
+08	Colorado	CYAZOFAMID	2013	kg					197.3					
+08	Colorado	CYAZOFAMID	2015	kg					99					
+08	Colorado	CYAZOFAMID	2016	kg					166.7					
+08	Colorado	CYAZOFAMID	2017	kg					237.8					
+09	Connecticut	CYAZOFAMID	2007	kg					77.7					
+09	Connecticut	CYAZOFAMID	2008	kg					25.1					
+09	Connecticut	CYAZOFAMID	2009	kg					7.3					
+09	Connecticut	CYAZOFAMID	2010	kg					37.6					
+09	Connecticut	CYAZOFAMID	2011	kg					37.4					
+09	Connecticut	CYAZOFAMID	2012	kg					22.7					
+09	Connecticut	CYAZOFAMID	2013	kg					33.1					
+09	Connecticut	CYAZOFAMID	2014	kg					35.2					
+09	Connecticut	CYAZOFAMID	2015	kg					57.2					
+09	Connecticut	CYAZOFAMID	2016	kg					0.7					
+09	Connecticut	CYAZOFAMID	2017	kg					24.4					
+10	Delaware	CYAZOFAMID	2006	kg					110.1					
+10	Delaware	CYAZOFAMID	2007	kg					159.5					
+10	Delaware	CYAZOFAMID	2008	kg					35.8					
+10	Delaware	CYAZOFAMID	2009	kg					179.8					
+10	Delaware	CYAZOFAMID	2010	kg					37.7					
+10	Delaware	CYAZOFAMID	2011	kg					83.3					
+10	Delaware	CYAZOFAMID	2012	kg					177.8					
+10	Delaware	CYAZOFAMID	2013	kg					166					
+10	Delaware	CYAZOFAMID	2014	kg					75.1					
+10	Delaware	CYAZOFAMID	2015	kg					346.7					
+10	Delaware	CYAZOFAMID	2016	kg					51.8					
+10	Delaware	CYAZOFAMID	2017	kg					10.9					
+12	Florida	CYAZOFAMID	2007	kg					47.4					
+12	Florida	CYAZOFAMID	2008	kg					18.5					
+12	Florida	CYAZOFAMID	2009	kg					452.5					
+12	Florida	CYAZOFAMID	2010	kg					235					
+12	Florida	CYAZOFAMID	2011	kg					3506.5					
+12	Florida	CYAZOFAMID	2012	kg					3347					
+12	Florida	CYAZOFAMID	2013	kg					3101					
+12	Florida	CYAZOFAMID	2014	kg					1653.1					
+12	Florida	CYAZOFAMID	2015	kg					1841.6					
+12	Florida	CYAZOFAMID	2016	kg					2666.3					
+12	Florida	CYAZOFAMID	2017	kg					3928.2					
+13	Georgia	CYAZOFAMID	2006	kg					331.6					
+13	Georgia	CYAZOFAMID	2007	kg					606.6					
+13	Georgia	CYAZOFAMID	2009	kg					130.1					
+13	Georgia	CYAZOFAMID	2010	kg					41					
+13	Georgia	CYAZOFAMID	2011	kg					903.3					
+13	Georgia	CYAZOFAMID	2012	kg					2123.4					
+13	Georgia	CYAZOFAMID	2013	kg					807.4					
+13	Georgia	CYAZOFAMID	2014	kg					2164.4					
+13	Georgia	CYAZOFAMID	2015	kg					749.6					
+13	Georgia	CYAZOFAMID	2016	kg					1123					
+13	Georgia	CYAZOFAMID	2017	kg					2397					
+16	Idaho	CYAZOFAMID	2007	kg					135					
+16	Idaho	CYAZOFAMID	2009	kg					323.9					
+16	Idaho	CYAZOFAMID	2011	kg					358					
+16	Idaho	CYAZOFAMID	2014	kg					196.3					
+16	Idaho	CYAZOFAMID	2016	kg					155.8					
+16	Idaho	CYAZOFAMID	2017	kg					6217.4					
+17	Illinois	CYAZOFAMID	2007	kg					52.2					
+17	Illinois	CYAZOFAMID	2008	kg					5					
+17	Illinois	CYAZOFAMID	2010	kg					146.7					
+17	Illinois	CYAZOFAMID	2011	kg					366.6					
+17	Illinois	CYAZOFAMID	2012	kg					130.9					
+17	Illinois	CYAZOFAMID	2013	kg					586					
+17	Illinois	CYAZOFAMID	2014	kg					245					
+17	Illinois	CYAZOFAMID	2015	kg					257.7					
+17	Illinois	CYAZOFAMID	2016	kg					7.8					
+17	Illinois	CYAZOFAMID	2017	kg					218.1					
+18	Indiana	CYAZOFAMID	2006	kg					1.1					
+18	Indiana	CYAZOFAMID	2007	kg					87.4					
+18	Indiana	CYAZOFAMID	2008	kg					202.9					
+18	Indiana	CYAZOFAMID	2009	kg					17.1					
+18	Indiana	CYAZOFAMID	2010	kg					12.8					
+18	Indiana	CYAZOFAMID	2011	kg					30.3					
+18	Indiana	CYAZOFAMID	2012	kg					53.7					
+18	Indiana	CYAZOFAMID	2013	kg					57.2					
+18	Indiana	CYAZOFAMID	2014	kg					36.6					
+18	Indiana	CYAZOFAMID	2015	kg					120.2					
+18	Indiana	CYAZOFAMID	2016	kg					6.7					
+18	Indiana	CYAZOFAMID	2017	kg					332.2					
+19	Iowa	CYAZOFAMID	2007	kg					0.1					
+19	Iowa	CYAZOFAMID	2011	kg					13.6					
+19	Iowa	CYAZOFAMID	2012	kg					0.6					
+19	Iowa	CYAZOFAMID	2013	kg					7.7					
+19	Iowa	CYAZOFAMID	2014	kg					3.8					
+19	Iowa	CYAZOFAMID	2015	kg					5.7					
+21	Kentucky	CYAZOFAMID	2007	kg					5.2					
+21	Kentucky	CYAZOFAMID	2008	kg					6.8					
+21	Kentucky	CYAZOFAMID	2009	kg					5.3					
+21	Kentucky	CYAZOFAMID	2011	kg					2					
+21	Kentucky	CYAZOFAMID	2013	kg					20.8					
+21	Kentucky	CYAZOFAMID	2014	kg					31.5					
+21	Kentucky	CYAZOFAMID	2015	kg					10.1					
+21	Kentucky	CYAZOFAMID	2016	kg					16.6					
+21	Kentucky	CYAZOFAMID	2017	kg					42					
+22	Louisiana	CYAZOFAMID	2017	kg					0.4					
+23	Maine	CYAZOFAMID	2007	kg					9.9					
+23	Maine	CYAZOFAMID	2009	kg					11.5					
+23	Maine	CYAZOFAMID	2010	kg					751.4					
+23	Maine	CYAZOFAMID	2013	kg					78					
+24	Maryland	CYAZOFAMID	2006	kg					109.4					
+24	Maryland	CYAZOFAMID	2007	kg					178.7					
+24	Maryland	CYAZOFAMID	2008	kg					196.8					
+24	Maryland	CYAZOFAMID	2009	kg					72.4					
+24	Maryland	CYAZOFAMID	2010	kg					45.5					
+24	Maryland	CYAZOFAMID	2011	kg					136.8					
+24	Maryland	CYAZOFAMID	2012	kg					84.4					
+24	Maryland	CYAZOFAMID	2013	kg					136.3					
+24	Maryland	CYAZOFAMID	2014	kg					132.9					
+24	Maryland	CYAZOFAMID	2015	kg					112.6					
+24	Maryland	CYAZOFAMID	2016	kg					80.7					
+24	Maryland	CYAZOFAMID	2017	kg					37.7					
+25	Massachusetts	CYAZOFAMID	2007	kg					136.4					
+25	Massachusetts	CYAZOFAMID	2008	kg					36.4					
+25	Massachusetts	CYAZOFAMID	2009	kg					10.9					
+25	Massachusetts	CYAZOFAMID	2010	kg					43.9					
+25	Massachusetts	CYAZOFAMID	2011	kg					8.2					
+25	Massachusetts	CYAZOFAMID	2012	kg					41.7					
+25	Massachusetts	CYAZOFAMID	2013	kg					47.4					
+25	Massachusetts	CYAZOFAMID	2014	kg					50.3					
+25	Massachusetts	CYAZOFAMID	2015	kg					132.2					
+25	Massachusetts	CYAZOFAMID	2016	kg					1.3					
+25	Massachusetts	CYAZOFAMID	2017	kg					37.9					
+26	Michigan	CYAZOFAMID	2006	kg					119.5					
+26	Michigan	CYAZOFAMID	2007	kg					1644.8					
+26	Michigan	CYAZOFAMID	2008	kg					462.7					
+26	Michigan	CYAZOFAMID	2010	kg					402.2					
+26	Michigan	CYAZOFAMID	2011	kg					827.8					
+26	Michigan	CYAZOFAMID	2012	kg					1026.5					
+26	Michigan	CYAZOFAMID	2013	kg					1287.1					
+26	Michigan	CYAZOFAMID	2014	kg					1221.3					
+26	Michigan	CYAZOFAMID	2015	kg					1532.4					
+26	Michigan	CYAZOFAMID	2016	kg					977.2					
+26	Michigan	CYAZOFAMID	2017	kg					1744.1					
+27	Minnesota	CYAZOFAMID	2009	kg					80.7					
+27	Minnesota	CYAZOFAMID	2011	kg					512.5					
+27	Minnesota	CYAZOFAMID	2012	kg					4.6					
+27	Minnesota	CYAZOFAMID	2013	kg					4.4					
+27	Minnesota	CYAZOFAMID	2014	kg					1.9					
+27	Minnesota	CYAZOFAMID	2015	kg					2.2					
+27	Minnesota	CYAZOFAMID	2017	kg					337.4					
+29	Missouri	CYAZOFAMID	2012	kg					37.9					
+29	Missouri	CYAZOFAMID	2013	kg					13.5					
+29	Missouri	CYAZOFAMID	2014	kg					7					
+29	Missouri	CYAZOFAMID	2015	kg					11.1					
+30	Montana	CYAZOFAMID	2007	kg					3.9					
+30	Montana	CYAZOFAMID	2009	kg					7					
+30	Montana	CYAZOFAMID	2011	kg					8					
+30	Montana	CYAZOFAMID	2014	kg					4.3					
+30	Montana	CYAZOFAMID	2017	kg					47.5					
+32	Nevada	CYAZOFAMID	2009	kg					0					
+32	Nevada	CYAZOFAMID	2010	kg					0					
+32	Nevada	CYAZOFAMID	2011	kg					0.1					
+32	Nevada	CYAZOFAMID	2012	kg					0					
+32	Nevada	CYAZOFAMID	2014	kg					0					
+32	Nevada	CYAZOFAMID	2015	kg					0					
+32	Nevada	CYAZOFAMID	2016	kg					0					
+32	Nevada	CYAZOFAMID	2017	kg					0.1					
+33	New Hampshire	CYAZOFAMID	2007	kg					28.7					
+33	New Hampshire	CYAZOFAMID	2009	kg					3.3					
+33	New Hampshire	CYAZOFAMID	2011	kg					2.4					
+33	New Hampshire	CYAZOFAMID	2012	kg					16					
+33	New Hampshire	CYAZOFAMID	2013	kg					11.8					
+33	New Hampshire	CYAZOFAMID	2014	kg					9.6					
+33	New Hampshire	CYAZOFAMID	2015	kg					0.2					
+33	New Hampshire	CYAZOFAMID	2016	kg					4.7					
+33	New Hampshire	CYAZOFAMID	2017	kg					10.5					
+34	New Jersey	CYAZOFAMID	2006	kg					38.2					
+34	New Jersey	CYAZOFAMID	2007	kg					218.2					
+34	New Jersey	CYAZOFAMID	2008	kg					18					
+34	New Jersey	CYAZOFAMID	2009	kg					83.6					
+34	New Jersey	CYAZOFAMID	2010	kg					30.9					
+34	New Jersey	CYAZOFAMID	2011	kg					216					
+34	New Jersey	CYAZOFAMID	2012	kg					26.1					
+34	New Jersey	CYAZOFAMID	2013	kg					136.3					
+34	New Jersey	CYAZOFAMID	2014	kg					89.7					
+34	New Jersey	CYAZOFAMID	2015	kg					220.1					
+34	New Jersey	CYAZOFAMID	2016	kg					57					
+34	New Jersey	CYAZOFAMID	2017	kg					40.1					
+35	New Mexico	CYAZOFAMID	2012	kg					5.6					
+35	New Mexico	CYAZOFAMID	2013	kg					19.1					
+35	New Mexico	CYAZOFAMID	2015	kg					6.4					
+35	New Mexico	CYAZOFAMID	2016	kg					8.8					
+35	New Mexico	CYAZOFAMID	2017	kg					9.2					
+36	New York	CYAZOFAMID	2006	kg					98.2					
+36	New York	CYAZOFAMID	2007	kg					423.1					
+36	New York	CYAZOFAMID	2008	kg					72.2					
+36	New York	CYAZOFAMID	2009	kg					133					
+36	New York	CYAZOFAMID	2010	kg					265					
+36	New York	CYAZOFAMID	2011	kg					184.4					
+36	New York	CYAZOFAMID	2012	kg					295.4					
+36	New York	CYAZOFAMID	2013	kg					647.9					
+36	New York	CYAZOFAMID	2014	kg					200.2		77.9			
+36	New York	CYAZOFAMID	2015	kg					444.8					
+36	New York	CYAZOFAMID	2016	kg					86.9					
+36	New York	CYAZOFAMID	2017	kg					113.8					
+37	North Carolina	CYAZOFAMID	2006	kg					295.9					
+37	North Carolina	CYAZOFAMID	2007	kg					524.2					
+37	North Carolina	CYAZOFAMID	2009	kg					134.7					
+37	North Carolina	CYAZOFAMID	2010	kg					185					
+37	North Carolina	CYAZOFAMID	2011	kg					566.8					
+37	North Carolina	CYAZOFAMID	2012	kg					632.3					
+37	North Carolina	CYAZOFAMID	2013	kg					236.8					
+37	North Carolina	CYAZOFAMID	2014	kg					497.8					
+37	North Carolina	CYAZOFAMID	2015	kg					508.1					
+37	North Carolina	CYAZOFAMID	2016	kg					655.3					
+37	North Carolina	CYAZOFAMID	2017	kg					427.7					
+38	North Dakota	CYAZOFAMID	2009	kg					134.4					
+38	North Dakota	CYAZOFAMID	2011	kg					511.4					
+38	North Dakota	CYAZOFAMID	2012	kg					32.5					
+38	North Dakota	CYAZOFAMID	2017	kg					1340.4					
+39	Ohio	CYAZOFAMID	2006	kg					11.4					
+39	Ohio	CYAZOFAMID	2007	kg					55.5					
+39	Ohio	CYAZOFAMID	2008	kg					6.9					
+39	Ohio	CYAZOFAMID	2009	kg					91.8					
+39	Ohio	CYAZOFAMID	2010	kg					89.5					
+39	Ohio	CYAZOFAMID	2011	kg					163.8					
+39	Ohio	CYAZOFAMID	2012	kg					375.3					
+39	Ohio	CYAZOFAMID	2013	kg					179.5					
+39	Ohio	CYAZOFAMID	2014	kg					256.5					
+39	Ohio	CYAZOFAMID	2015	kg					167.4					
+39	Ohio	CYAZOFAMID	2016	kg					35.3					
+39	Ohio	CYAZOFAMID	2017	kg					72.2					
+41	Oregon	CYAZOFAMID	2013	kg					39.5					
+41	Oregon	CYAZOFAMID	2016	kg					214					
+41	Oregon	CYAZOFAMID	2017	kg					523.6					
+42	Pennsylvania	CYAZOFAMID	2006	kg					185					
+42	Pennsylvania	CYAZOFAMID	2007	kg					376.2					
+42	Pennsylvania	CYAZOFAMID	2008	kg					100.1					
+42	Pennsylvania	CYAZOFAMID	2009	kg					174.4					
+42	Pennsylvania	CYAZOFAMID	2010	kg					221.7					
+42	Pennsylvania	CYAZOFAMID	2011	kg					214.8					
+42	Pennsylvania	CYAZOFAMID	2012	kg					582.9					
+42	Pennsylvania	CYAZOFAMID	2013	kg					304.2					
+42	Pennsylvania	CYAZOFAMID	2014	kg					261.2		23.3			
+42	Pennsylvania	CYAZOFAMID	2015	kg					345.4					
+42	Pennsylvania	CYAZOFAMID	2016	kg					241.6					
+42	Pennsylvania	CYAZOFAMID	2017	kg					159					
+44	Rhode Island	CYAZOFAMID	2007	kg					14.6					
+44	Rhode Island	CYAZOFAMID	2009	kg					1.1					
+44	Rhode Island	CYAZOFAMID	2010	kg					5.3					
+44	Rhode Island	CYAZOFAMID	2011	kg					2.8					
+44	Rhode Island	CYAZOFAMID	2012	kg					2.6					
+44	Rhode Island	CYAZOFAMID	2013	kg					4.3					
+44	Rhode Island	CYAZOFAMID	2014	kg					5.3					
+44	Rhode Island	CYAZOFAMID	2015	kg					12.7					
+44	Rhode Island	CYAZOFAMID	2016	kg					1.1					
+44	Rhode Island	CYAZOFAMID	2017	kg					2.3					
+45	South Carolina	CYAZOFAMID	2006	kg					57.5					
+45	South Carolina	CYAZOFAMID	2007	kg					97.2					
+45	South Carolina	CYAZOFAMID	2008	kg					16.1					
+45	South Carolina	CYAZOFAMID	2009	kg					7.7					
+45	South Carolina	CYAZOFAMID	2010	kg					1.4					
+45	South Carolina	CYAZOFAMID	2011	kg					20.4					
+45	South Carolina	CYAZOFAMID	2012	kg					113.3					
+45	South Carolina	CYAZOFAMID	2013	kg					136.9					
+45	South Carolina	CYAZOFAMID	2014	kg					66.7					
+45	South Carolina	CYAZOFAMID	2015	kg					65.7					
+45	South Carolina	CYAZOFAMID	2016	kg					127.2					
+45	South Carolina	CYAZOFAMID	2017	kg					18.2					
+47	Tennessee	CYAZOFAMID	2011	kg					12.4					
+47	Tennessee	CYAZOFAMID	2013	kg					59.8					
+47	Tennessee	CYAZOFAMID	2014	kg					47.9					
+47	Tennessee	CYAZOFAMID	2015	kg					13.8					
+47	Tennessee	CYAZOFAMID	2016	kg					8.2					
+47	Tennessee	CYAZOFAMID	2017	kg					7.5					
+48	Texas	CYAZOFAMID	2008	kg					58.3					
+48	Texas	CYAZOFAMID	2009	kg					64.4					
+48	Texas	CYAZOFAMID	2010	kg					473					
+48	Texas	CYAZOFAMID	2011	kg					15.8					
+48	Texas	CYAZOFAMID	2012	kg					149.5					
+48	Texas	CYAZOFAMID	2017	kg					138.8					
+49	Utah	CYAZOFAMID	2007	kg					0					
+49	Utah	CYAZOFAMID	2009	kg					0.3					
+49	Utah	CYAZOFAMID	2011	kg					0.5					
+49	Utah	CYAZOFAMID	2014	kg					0.2					
+49	Utah	CYAZOFAMID	2017	kg					0.9					
+50	Vermont	CYAZOFAMID	2007	kg					21.9					
+50	Vermont	CYAZOFAMID	2009	kg					4.4					
+50	Vermont	CYAZOFAMID	2010	kg					9.6					
+50	Vermont	CYAZOFAMID	2011	kg					14.9					
+50	Vermont	CYAZOFAMID	2012	kg					47.6					
+50	Vermont	CYAZOFAMID	2013	kg					11.3					
+50	Vermont	CYAZOFAMID	2014	kg					10.3					
+50	Vermont	CYAZOFAMID	2015	kg					19.9					
+50	Vermont	CYAZOFAMID	2016	kg					4.4					
+50	Vermont	CYAZOFAMID	2017	kg					9					
+51	Virginia	CYAZOFAMID	2006	kg					64.6					
+51	Virginia	CYAZOFAMID	2007	kg					92.3					
+51	Virginia	CYAZOFAMID	2008	kg					20.9					
+51	Virginia	CYAZOFAMID	2009	kg					2.9					
+51	Virginia	CYAZOFAMID	2010	kg					6.1					
+51	Virginia	CYAZOFAMID	2011	kg					51.5					
+51	Virginia	CYAZOFAMID	2012	kg					11.2					
+51	Virginia	CYAZOFAMID	2013	kg					34.9					
+51	Virginia	CYAZOFAMID	2014	kg					142					
+51	Virginia	CYAZOFAMID	2015	kg					293.3					
+51	Virginia	CYAZOFAMID	2016	kg					29.4					
+51	Virginia	CYAZOFAMID	2017	kg					24.3					
+53	Washington	CYAZOFAMID	2012	kg					127					
+53	Washington	CYAZOFAMID	2013	kg					534.9					
+53	Washington	CYAZOFAMID	2015	kg					135.6					
+53	Washington	CYAZOFAMID	2016	kg					359.3					
+53	Washington	CYAZOFAMID	2017	kg					3896.9					
+54	West Virginia	CYAZOFAMID	2006	kg					5.4					
+54	West Virginia	CYAZOFAMID	2007	kg					5.2					
+54	West Virginia	CYAZOFAMID	2008	kg					2.4					
+54	West Virginia	CYAZOFAMID	2009	kg					4.1					
+54	West Virginia	CYAZOFAMID	2010	kg					1.1					
+54	West Virginia	CYAZOFAMID	2011	kg					7.2					
+54	West Virginia	CYAZOFAMID	2012	kg					11.1					
+54	West Virginia	CYAZOFAMID	2013	kg					3					
+54	West Virginia	CYAZOFAMID	2014	kg					16.6					
+54	West Virginia	CYAZOFAMID	2015	kg					10.8					
+54	West Virginia	CYAZOFAMID	2016	kg					2.2					
+54	West Virginia	CYAZOFAMID	2017	kg					2.8					
+55	Wisconsin	CYAZOFAMID	2006	kg					22.2					
+55	Wisconsin	CYAZOFAMID	2007	kg					28.8					
+55	Wisconsin	CYAZOFAMID	2008	kg					19.3					
+55	Wisconsin	CYAZOFAMID	2009	kg					34.4					
+55	Wisconsin	CYAZOFAMID	2010	kg					48.1					
+55	Wisconsin	CYAZOFAMID	2011	kg					285.9					
+55	Wisconsin	CYAZOFAMID	2012	kg					54.3					
+55	Wisconsin	CYAZOFAMID	2013	kg					204					
+55	Wisconsin	CYAZOFAMID	2014	kg					348.4					
+55	Wisconsin	CYAZOFAMID	2015	kg					53.7					
+55	Wisconsin	CYAZOFAMID	2016	kg					63.8					
+55	Wisconsin	CYAZOFAMID	2017	kg					243.4					
+56	Wyoming	CYAZOFAMID	2007	kg					0					
+56	Wyoming	CYAZOFAMID	2009	kg					0					
+56	Wyoming	CYAZOFAMID	2011	kg					0					
+56	Wyoming	CYAZOFAMID	2014	kg					0					

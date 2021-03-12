@@ -1,0 +1,227 @@
+01	Alabama	DINOTEFURAN	2007	kg					140.7					
+01	Alabama	DINOTEFURAN	2008	kg					4.3					
+01	Alabama	DINOTEFURAN	2017	kg				1652.6						
+04	Arizona	DINOTEFURAN	2006	kg					10.1		2			
+04	Arizona	DINOTEFURAN	2007	kg					786.3		32.6			
+04	Arizona	DINOTEFURAN	2008	kg					959.2		5.9			
+04	Arizona	DINOTEFURAN	2009	kg					1789.3		0.4			
+04	Arizona	DINOTEFURAN	2010	kg					2358.7		0.6			
+04	Arizona	DINOTEFURAN	2011	kg					2895.3		0.1			
+04	Arizona	DINOTEFURAN	2012	kg					2814.9					
+04	Arizona	DINOTEFURAN	2013	kg					3385.9					
+04	Arizona	DINOTEFURAN	2014	kg					844.2					
+04	Arizona	DINOTEFURAN	2015	kg					3101.9					
+04	Arizona	DINOTEFURAN	2016	kg					2068.1		6.4			
+04	Arizona	DINOTEFURAN	2017	kg					1575.9					
+05	Arkansas	DINOTEFURAN	2014	kg						63.8				
+05	Arkansas	DINOTEFURAN	2015	kg						4933.4				
+06	California	DINOTEFURAN	2005	kg					1.4		30.8			
+06	California	DINOTEFURAN	2006	kg				57.6	727.8		717.3			
+06	California	DINOTEFURAN	2007	kg				97.2	1476.1		4341.7	3.6		
+06	California	DINOTEFURAN	2008	kg				865.8	1397.7		3090.9	2.1		
+06	California	DINOTEFURAN	2009	kg	9			133.1	1388		1923.2			0.3
+06	California	DINOTEFURAN	2010	kg				175.4	1297.2		1466.1			0.3
+06	California	DINOTEFURAN	2011	kg				258.7	1471.1		570.9			
+06	California	DINOTEFURAN	2012	kg				305.3	1624.7		576.9			0.2
+06	California	DINOTEFURAN	2013	kg				1464.2	3159.9		482.6			2.8
+06	California	DINOTEFURAN	2014	kg	1			734	3227.5		540.5			0
+06	California	DINOTEFURAN	2015	kg				278	5611.3		714.4	0		0
+06	California	DINOTEFURAN	2016	kg				461.9	4869.4		753.4			
+06	California	DINOTEFURAN	2017	kg				558.6	3460.6		1208.6			0
+08	Colorado	DINOTEFURAN	2010	kg					514.4					
+08	Colorado	DINOTEFURAN	2012	kg					129.3					
+10	Delaware	DINOTEFURAN	2013	kg							0			
+10	Delaware	DINOTEFURAN	2016	kg					3.4					
+12	Florida	DINOTEFURAN	2007	kg					782					
+12	Florida	DINOTEFURAN	2008	kg					1114.9					
+12	Florida	DINOTEFURAN	2009	kg					1385.9					
+12	Florida	DINOTEFURAN	2010	kg					2416.3					
+12	Florida	DINOTEFURAN	2011	kg					2487.5					
+12	Florida	DINOTEFURAN	2012	kg					7204.2					
+12	Florida	DINOTEFURAN	2013	kg					1543.3					
+12	Florida	DINOTEFURAN	2014	kg					2853.3					
+12	Florida	DINOTEFURAN	2015	kg					2361.9					
+12	Florida	DINOTEFURAN	2016	kg					1525					
+12	Florida	DINOTEFURAN	2017	kg				916.2	3255.5					
+13	Georgia	DINOTEFURAN	2006	kg					0					
+13	Georgia	DINOTEFURAN	2007	kg					1.5					
+13	Georgia	DINOTEFURAN	2008	kg					0					
+13	Georgia	DINOTEFURAN	2009	kg					913.1					
+13	Georgia	DINOTEFURAN	2010	kg					1.5					
+13	Georgia	DINOTEFURAN	2011	kg					1107.1					
+13	Georgia	DINOTEFURAN	2012	kg					2488.6					
+13	Georgia	DINOTEFURAN	2013	kg					867.6					
+13	Georgia	DINOTEFURAN	2014	kg					2588.8					
+13	Georgia	DINOTEFURAN	2015	kg					863.3		1.9			
+13	Georgia	DINOTEFURAN	2016	kg					3282.2					
+13	Georgia	DINOTEFURAN	2017	kg				7830.2	1831.9					
+16	Idaho	DINOTEFURAN	2013	kg					176.8					
+16	Idaho	DINOTEFURAN	2017	kg							8.1			
+17	Illinois	DINOTEFURAN	2008	kg					8.9					
+17	Illinois	DINOTEFURAN	2009	kg					22.5					
+17	Illinois	DINOTEFURAN	2010	kg					17.8					
+17	Illinois	DINOTEFURAN	2011	kg					15.1					
+17	Illinois	DINOTEFURAN	2012	kg					47.5					
+17	Illinois	DINOTEFURAN	2013	kg					37.8					
+17	Illinois	DINOTEFURAN	2015	kg					103.1					
+17	Illinois	DINOTEFURAN	2017	kg					376.3					
+18	Indiana	DINOTEFURAN	2012	kg					26.9					
+19	Iowa	DINOTEFURAN	2008	kg					0.1					
+19	Iowa	DINOTEFURAN	2010	kg					4					
+19	Iowa	DINOTEFURAN	2011	kg					7.4					
+19	Iowa	DINOTEFURAN	2012	kg					1					
+19	Iowa	DINOTEFURAN	2015	kg					24.3					
+19	Iowa	DINOTEFURAN	2017	kg					1.2					
+20	Kansas	DINOTEFURAN	2010	kg					13.2					
+20	Kansas	DINOTEFURAN	2012	kg					0					
+21	Kentucky	DINOTEFURAN	2006	kg					0					
+21	Kentucky	DINOTEFURAN	2007	kg					35.1					
+21	Kentucky	DINOTEFURAN	2008	kg					1.5					
+21	Kentucky	DINOTEFURAN	2010	kg					6.2					
+21	Kentucky	DINOTEFURAN	2012	kg					3.7					
+22	Louisiana	DINOTEFURAN	2008	kg						782.8				
+22	Louisiana	DINOTEFURAN	2009	kg						1051.1				
+22	Louisiana	DINOTEFURAN	2010	kg						2607.2				
+22	Louisiana	DINOTEFURAN	2011	kg						1193.7				
+22	Louisiana	DINOTEFURAN	2012	kg						2159.8				
+22	Louisiana	DINOTEFURAN	2013	kg						5802				
+22	Louisiana	DINOTEFURAN	2014	kg						3638.4				
+22	Louisiana	DINOTEFURAN	2015	kg						1428.8				
+22	Louisiana	DINOTEFURAN	2016	kg						4347.7				
+22	Louisiana	DINOTEFURAN	2017	kg						3718.9				
+24	Maryland	DINOTEFURAN	2011	kg							0			
+24	Maryland	DINOTEFURAN	2012	kg							46.8			
+24	Maryland	DINOTEFURAN	2013	kg							66.8			
+24	Maryland	DINOTEFURAN	2015	kg							2.2			
+24	Maryland	DINOTEFURAN	2016	kg					17.1					
+24	Maryland	DINOTEFURAN	2017	kg							3.5			
+26	Michigan	DINOTEFURAN	2011	kg					6.9					
+26	Michigan	DINOTEFURAN	2012	kg					162.8					
+26	Michigan	DINOTEFURAN	2013	kg					17.9					
+26	Michigan	DINOTEFURAN	2014	kg					11.3					
+26	Michigan	DINOTEFURAN	2015	kg					19.3					
+26	Michigan	DINOTEFURAN	2016	kg					52.7					
+26	Michigan	DINOTEFURAN	2017	kg					28.1					
+27	Minnesota	DINOTEFURAN	2008	kg					2.4					
+27	Minnesota	DINOTEFURAN	2010	kg					8.8					
+27	Minnesota	DINOTEFURAN	2011	kg					13.2					
+27	Minnesota	DINOTEFURAN	2012	kg					6					
+27	Minnesota	DINOTEFURAN	2013	kg					5.9					
+27	Minnesota	DINOTEFURAN	2014	kg					2.2					
+27	Minnesota	DINOTEFURAN	2015	kg					110.7					
+27	Minnesota	DINOTEFURAN	2016	kg					4.1					
+27	Minnesota	DINOTEFURAN	2017	kg					210.1					
+28	Mississippi	DINOTEFURAN	2014	kg						5.5				
+28	Mississippi	DINOTEFURAN	2015	kg						510.2				
+30	Montana	DINOTEFURAN	2013	kg					1.9					
+31	Nebraska	DINOTEFURAN	2010	kg					369.8					
+31	Nebraska	DINOTEFURAN	2012	kg					402.7					
+32	Nevada	DINOTEFURAN	2006	kg							0			
+32	Nevada	DINOTEFURAN	2007	kg							0.1			
+32	Nevada	DINOTEFURAN	2008	kg					0		0			
+32	Nevada	DINOTEFURAN	2009	kg					0.8		0			
+32	Nevada	DINOTEFURAN	2010	kg					0.9		0			
+32	Nevada	DINOTEFURAN	2011	kg					0.2					
+32	Nevada	DINOTEFURAN	2013	kg					29.8					
+32	Nevada	DINOTEFURAN	2014	kg					0					
+32	Nevada	DINOTEFURAN	2015	kg					1.4					
+32	Nevada	DINOTEFURAN	2016	kg					3		0.1			
+32	Nevada	DINOTEFURAN	2017	kg					0					
+34	New Jersey	DINOTEFURAN	2012	kg							220.8			
+34	New Jersey	DINOTEFURAN	2013	kg							30.5			
+34	New Jersey	DINOTEFURAN	2014	kg							315.4			
+34	New Jersey	DINOTEFURAN	2016	kg					50.3					
+35	New Mexico	DINOTEFURAN	2006	kg					0.4					
+35	New Mexico	DINOTEFURAN	2007	kg					1.3					
+35	New Mexico	DINOTEFURAN	2008	kg					1.6					
+35	New Mexico	DINOTEFURAN	2009	kg					2.5					
+35	New Mexico	DINOTEFURAN	2010	kg					39.4					
+35	New Mexico	DINOTEFURAN	2011	kg					3					
+35	New Mexico	DINOTEFURAN	2012	kg					2					
+35	New Mexico	DINOTEFURAN	2013	kg					6					
+35	New Mexico	DINOTEFURAN	2014	kg					1.3					
+35	New Mexico	DINOTEFURAN	2015	kg					4.9					
+35	New Mexico	DINOTEFURAN	2016	kg					1.2					
+35	New Mexico	DINOTEFURAN	2017	kg					3.7					
+36	New York	DINOTEFURAN	2012	kg							35.2			
+36	New York	DINOTEFURAN	2014	kg							32.8			
+37	North Carolina	DINOTEFURAN	2006	kg					0.9					
+37	North Carolina	DINOTEFURAN	2007	kg					7.1					
+37	North Carolina	DINOTEFURAN	2008	kg					0.3					
+37	North Carolina	DINOTEFURAN	2009	kg					117.4					
+37	North Carolina	DINOTEFURAN	2010	kg					28.4					
+37	North Carolina	DINOTEFURAN	2013	kg							168.8			
+37	North Carolina	DINOTEFURAN	2014	kg					369.4					
+37	North Carolina	DINOTEFURAN	2015	kg					271.5		113.9			
+37	North Carolina	DINOTEFURAN	2016	kg					135.8					
+37	North Carolina	DINOTEFURAN	2017	kg					44.9					
+39	Ohio	DINOTEFURAN	2012	kg					15		38.2			
+39	Ohio	DINOTEFURAN	2013	kg							74.8			
+39	Ohio	DINOTEFURAN	2015	kg					0.8					
+39	Ohio	DINOTEFURAN	2016	kg					3.6					
+41	Oregon	DINOTEFURAN	2009	kg					3.7					
+41	Oregon	DINOTEFURAN	2011	kg					2					
+41	Oregon	DINOTEFURAN	2013	kg					127.3					
+41	Oregon	DINOTEFURAN	2017	kg							26.9			
+42	Pennsylvania	DINOTEFURAN	2011	kg							0.8			
+42	Pennsylvania	DINOTEFURAN	2012	kg							784.1			
+42	Pennsylvania	DINOTEFURAN	2013	kg							710.7			
+42	Pennsylvania	DINOTEFURAN	2014	kg					87.5		219.7			
+42	Pennsylvania	DINOTEFURAN	2015	kg					41.4		298			
+42	Pennsylvania	DINOTEFURAN	2016	kg					227.5		1782.1			
+42	Pennsylvania	DINOTEFURAN	2017	kg							301			
+45	South Carolina	DINOTEFURAN	2009	kg					182.3					
+45	South Carolina	DINOTEFURAN	2014	kg					499.4					
+45	South Carolina	DINOTEFURAN	2015	kg					45.2		1.1			
+45	South Carolina	DINOTEFURAN	2016	kg					1.4					
+45	South Carolina	DINOTEFURAN	2017	kg					0.1					
+46	South Dakota	DINOTEFURAN	2010	kg					0					
+47	Tennessee	DINOTEFURAN	2006	kg					1.5					
+47	Tennessee	DINOTEFURAN	2007	kg					211.7					
+47	Tennessee	DINOTEFURAN	2008	kg					24.5					
+47	Tennessee	DINOTEFURAN	2010	kg					90.6					
+47	Tennessee	DINOTEFURAN	2013	kg							10.6			
+47	Tennessee	DINOTEFURAN	2014	kg						0				
+47	Tennessee	DINOTEFURAN	2015	kg					3.9	2.5	10.8			
+47	Tennessee	DINOTEFURAN	2016	kg					0.9					
+48	Texas	DINOTEFURAN	2006	kg					893					
+48	Texas	DINOTEFURAN	2007	kg					1411.5					
+48	Texas	DINOTEFURAN	2008	kg					336.6	571.2				
+48	Texas	DINOTEFURAN	2009	kg					166.5	1586.4				
+48	Texas	DINOTEFURAN	2010	kg						1589.8				
+48	Texas	DINOTEFURAN	2011	kg						930.9				
+48	Texas	DINOTEFURAN	2012	kg						1099.6				
+48	Texas	DINOTEFURAN	2013	kg						2583.5				
+48	Texas	DINOTEFURAN	2014	kg						1825.5				
+48	Texas	DINOTEFURAN	2015	kg						3223.6				
+48	Texas	DINOTEFURAN	2016	kg					185.9	7105.4				
+48	Texas	DINOTEFURAN	2017	kg						3654.7				
+49	Utah	DINOTEFURAN	2013	kg					0.1					
+51	Virginia	DINOTEFURAN	2006	kg					0.5					
+51	Virginia	DINOTEFURAN	2007	kg					4.1					
+51	Virginia	DINOTEFURAN	2008	kg					0					
+51	Virginia	DINOTEFURAN	2009	kg					5.7					
+51	Virginia	DINOTEFURAN	2010	kg					47.4					
+51	Virginia	DINOTEFURAN	2011	kg							176.2			
+51	Virginia	DINOTEFURAN	2012	kg							17			
+51	Virginia	DINOTEFURAN	2013	kg							46.5			
+51	Virginia	DINOTEFURAN	2015	kg							541			
+53	Washington	DINOTEFURAN	2009	kg					131					
+53	Washington	DINOTEFURAN	2011	kg					66.8					
+53	Washington	DINOTEFURAN	2015	kg							325.8			
+53	Washington	DINOTEFURAN	2017	kg							6735			
+54	West Virginia	DINOTEFURAN	2012	kg							15.3			
+54	West Virginia	DINOTEFURAN	2013	kg							14.5			
+54	West Virginia	DINOTEFURAN	2015	kg							12.2			
+55	Wisconsin	DINOTEFURAN	2008	kg					320.4					
+55	Wisconsin	DINOTEFURAN	2009	kg					40					
+55	Wisconsin	DINOTEFURAN	2010	kg					273.4					
+55	Wisconsin	DINOTEFURAN	2011	kg					499.5					
+55	Wisconsin	DINOTEFURAN	2012	kg					478.8					
+55	Wisconsin	DINOTEFURAN	2013	kg					716.2					
+55	Wisconsin	DINOTEFURAN	2014	kg					137.7					
+55	Wisconsin	DINOTEFURAN	2015	kg					1125					
+55	Wisconsin	DINOTEFURAN	2016	kg					189.7					
+55	Wisconsin	DINOTEFURAN	2017	kg					1208.1					
+56	Wyoming	DINOTEFURAN	2010	kg					26.6					
+56	Wyoming	DINOTEFURAN	2013	kg					0					

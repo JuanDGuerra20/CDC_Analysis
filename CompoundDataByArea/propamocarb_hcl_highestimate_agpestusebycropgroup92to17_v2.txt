@@ -1,0 +1,494 @@
+01	Alabama	PROPAMOCARB HCL	2005	kg					393.9					
+01	Alabama	PROPAMOCARB HCL	2006	kg					938.8					
+01	Alabama	PROPAMOCARB HCL	2007	kg					313.4					
+01	Alabama	PROPAMOCARB HCL	2010	kg					387.2					
+01	Alabama	PROPAMOCARB HCL	2013	kg					263.2					
+01	Alabama	PROPAMOCARB HCL	2014	kg					523.1					
+01	Alabama	PROPAMOCARB HCL	2016	kg					461.6					
+04	Arizona	PROPAMOCARB HCL	1993	kg					90.5					
+04	Arizona	PROPAMOCARB HCL	1997	kg					6					
+04	Arizona	PROPAMOCARB HCL	1998	kg					3.8					
+04	Arizona	PROPAMOCARB HCL	1999	kg					0.9					
+04	Arizona	PROPAMOCARB HCL	2000	kg					18.5					
+04	Arizona	PROPAMOCARB HCL	2001	kg					1					
+04	Arizona	PROPAMOCARB HCL	2007	kg					6942.6					
+04	Arizona	PROPAMOCARB HCL	2008	kg					17481.9					
+04	Arizona	PROPAMOCARB HCL	2009	kg					32298.2					
+04	Arizona	PROPAMOCARB HCL	2010	kg					9886.7					
+04	Arizona	PROPAMOCARB HCL	2011	kg					19711.3					
+04	Arizona	PROPAMOCARB HCL	2012	kg					10589.4					
+04	Arizona	PROPAMOCARB HCL	2013	kg					977.2					
+04	Arizona	PROPAMOCARB HCL	2014	kg					8869.9					
+04	Arizona	PROPAMOCARB HCL	2015	kg					4482.7					
+04	Arizona	PROPAMOCARB HCL	2016	kg					5736.7					
+04	Arizona	PROPAMOCARB HCL	2017	kg					14326.2					
+05	Arkansas	PROPAMOCARB HCL	2007	kg					74.3					
+05	Arkansas	PROPAMOCARB HCL	2008	kg					0.1					
+05	Arkansas	PROPAMOCARB HCL	2009	kg					11.9					
+05	Arkansas	PROPAMOCARB HCL	2010	kg					12.2					
+06	California	PROPAMOCARB HCL	1996	kg					7387.5		4.4			
+06	California	PROPAMOCARB HCL	1997	kg					5275.6		5.6			
+06	California	PROPAMOCARB HCL	1998	kg	11.5				25802.8	12.1	5.7			26.2
+06	California	PROPAMOCARB HCL	1999	kg					4446.8		0.5			
+06	California	PROPAMOCARB HCL	2000	kg					2190.4		1.4			14.2
+06	California	PROPAMOCARB HCL	2001	kg					988.4		5.3			
+06	California	PROPAMOCARB HCL	2002	kg					305.2		10.9			
+06	California	PROPAMOCARB HCL	2003	kg							1.9			
+06	California	PROPAMOCARB HCL	2006	kg					154.6					
+06	California	PROPAMOCARB HCL	2007	kg					62377.6		6.2			
+06	California	PROPAMOCARB HCL	2008	kg					52142		1.9			4.5
+06	California	PROPAMOCARB HCL	2009	kg					47739.6		6.2			
+06	California	PROPAMOCARB HCL	2010	kg			12.4		44497.1		7.2			
+06	California	PROPAMOCARB HCL	2011	kg					40904.6		17.8			0.1
+06	California	PROPAMOCARB HCL	2012	kg					48122		31.3			
+06	California	PROPAMOCARB HCL	2013	kg					42103.6		15.9			
+06	California	PROPAMOCARB HCL	2014	kg					44210.6		35.2			
+06	California	PROPAMOCARB HCL	2015	kg					34592.5		42			
+06	California	PROPAMOCARB HCL	2016	kg					29304.5		62.8			
+06	California	PROPAMOCARB HCL	2017	kg					28907.1		16.5			
+08	Colorado	PROPAMOCARB HCL	1996	kg					1817.6					
+08	Colorado	PROPAMOCARB HCL	1998	kg					276.5					
+09	Connecticut	PROPAMOCARB HCL	1995	kg					35.6					
+09	Connecticut	PROPAMOCARB HCL	1996	kg					18.8					
+09	Connecticut	PROPAMOCARB HCL	1998	kg					9.7					
+09	Connecticut	PROPAMOCARB HCL	2004	kg					13.9					
+09	Connecticut	PROPAMOCARB HCL	2006	kg					300.6					
+09	Connecticut	PROPAMOCARB HCL	2007	kg					495.9					
+09	Connecticut	PROPAMOCARB HCL	2008	kg					91.5					
+09	Connecticut	PROPAMOCARB HCL	2009	kg					19.3					
+09	Connecticut	PROPAMOCARB HCL	2010	kg					538.7					
+09	Connecticut	PROPAMOCARB HCL	2011	kg					502.1					
+09	Connecticut	PROPAMOCARB HCL	2012	kg					299.1					
+09	Connecticut	PROPAMOCARB HCL	2013	kg					133.3					
+09	Connecticut	PROPAMOCARB HCL	2014	kg					207.2					
+09	Connecticut	PROPAMOCARB HCL	2015	kg					531.3					
+09	Connecticut	PROPAMOCARB HCL	2016	kg					15.7					
+09	Connecticut	PROPAMOCARB HCL	2017	kg					223.6					
+10	Delaware	PROPAMOCARB HCL	1995	kg					330.2					
+10	Delaware	PROPAMOCARB HCL	1998	kg					30.2					
+10	Delaware	PROPAMOCARB HCL	2005	kg					1103.6					
+10	Delaware	PROPAMOCARB HCL	2006	kg					1771.9					
+10	Delaware	PROPAMOCARB HCL	2007	kg					955.7					
+10	Delaware	PROPAMOCARB HCL	2008	kg					2773.3					
+10	Delaware	PROPAMOCARB HCL	2009	kg					2865.2					
+10	Delaware	PROPAMOCARB HCL	2010	kg					447.5					
+10	Delaware	PROPAMOCARB HCL	2011	kg					1586.1					
+10	Delaware	PROPAMOCARB HCL	2012	kg					4981.7					
+10	Delaware	PROPAMOCARB HCL	2013	kg					2819.3					
+10	Delaware	PROPAMOCARB HCL	2014	kg					2476.6					
+10	Delaware	PROPAMOCARB HCL	2015	kg					2784.8					
+10	Delaware	PROPAMOCARB HCL	2016	kg					771.5					
+10	Delaware	PROPAMOCARB HCL	2017	kg					17.9					
+12	Florida	PROPAMOCARB HCL	1996	kg					15368.8					
+12	Florida	PROPAMOCARB HCL	1997	kg					8624					
+12	Florida	PROPAMOCARB HCL	1998	kg					2792.1					
+12	Florida	PROPAMOCARB HCL	2005	kg					198.7					
+12	Florida	PROPAMOCARB HCL	2006	kg					2477.7					
+12	Florida	PROPAMOCARB HCL	2007	kg					12295.3					
+12	Florida	PROPAMOCARB HCL	2008	kg					4103.9					
+12	Florida	PROPAMOCARB HCL	2009	kg					21385					
+12	Florida	PROPAMOCARB HCL	2010	kg					15159					
+12	Florida	PROPAMOCARB HCL	2011	kg					55138.2					
+12	Florida	PROPAMOCARB HCL	2012	kg					26069.4					
+12	Florida	PROPAMOCARB HCL	2013	kg					15124.9					101.6
+12	Florida	PROPAMOCARB HCL	2014	kg					36900.9					
+12	Florida	PROPAMOCARB HCL	2015	kg					16525.8					
+12	Florida	PROPAMOCARB HCL	2016	kg					37793.7					
+12	Florida	PROPAMOCARB HCL	2017	kg					67888.6					
+13	Georgia	PROPAMOCARB HCL	2005	kg					10831.9					
+13	Georgia	PROPAMOCARB HCL	2006	kg					23398.5					
+13	Georgia	PROPAMOCARB HCL	2007	kg					10494.5					
+13	Georgia	PROPAMOCARB HCL	2009	kg					1824.3					
+13	Georgia	PROPAMOCARB HCL	2010	kg					914.2					
+13	Georgia	PROPAMOCARB HCL	2011	kg					3579.9					
+13	Georgia	PROPAMOCARB HCL	2012	kg					18491.8					
+13	Georgia	PROPAMOCARB HCL	2013	kg					3385.4					399.5
+13	Georgia	PROPAMOCARB HCL	2014	kg					2835.4					
+13	Georgia	PROPAMOCARB HCL	2016	kg					20708.2					
+13	Georgia	PROPAMOCARB HCL	2017	kg					21519					
+16	Idaho	PROPAMOCARB HCL	1996	kg					2195.7					
+16	Idaho	PROPAMOCARB HCL	1997	kg					4100.1					
+16	Idaho	PROPAMOCARB HCL	1998	kg					34638.5					
+16	Idaho	PROPAMOCARB HCL	2001	kg					144657.5					
+16	Idaho	PROPAMOCARB HCL	2017	kg					219496.7					
+17	Illinois	PROPAMOCARB HCL	1996	kg					52.7					
+17	Illinois	PROPAMOCARB HCL	1998	kg					100.1					
+17	Illinois	PROPAMOCARB HCL	2000	kg					87.1					
+17	Illinois	PROPAMOCARB HCL	2006	kg					5857.1					
+17	Illinois	PROPAMOCARB HCL	2007	kg					1943.6					
+17	Illinois	PROPAMOCARB HCL	2008	kg					1227.9					
+17	Illinois	PROPAMOCARB HCL	2009	kg					613.5					
+17	Illinois	PROPAMOCARB HCL	2010	kg					465.5					
+17	Illinois	PROPAMOCARB HCL	2011	kg					365.8					
+17	Illinois	PROPAMOCARB HCL	2012	kg					4141					
+17	Illinois	PROPAMOCARB HCL	2013	kg					693.5					
+17	Illinois	PROPAMOCARB HCL	2014	kg					6988.8					
+18	Indiana	PROPAMOCARB HCL	1996	kg					62.9					
+18	Indiana	PROPAMOCARB HCL	2005	kg					198.9					
+18	Indiana	PROPAMOCARB HCL	2006	kg					4514.2					
+18	Indiana	PROPAMOCARB HCL	2007	kg					1962.8					
+18	Indiana	PROPAMOCARB HCL	2008	kg					2861.4					
+18	Indiana	PROPAMOCARB HCL	2009	kg					3085.7					
+18	Indiana	PROPAMOCARB HCL	2010	kg					1431.9					
+18	Indiana	PROPAMOCARB HCL	2011	kg					912.8					
+18	Indiana	PROPAMOCARB HCL	2012	kg					4142.7					
+18	Indiana	PROPAMOCARB HCL	2013	kg					3537.9					
+18	Indiana	PROPAMOCARB HCL	2014	kg					3412.1					
+18	Indiana	PROPAMOCARB HCL	2015	kg					157					
+18	Indiana	PROPAMOCARB HCL	2016	kg					520.9					
+18	Indiana	PROPAMOCARB HCL	2017	kg					37.5					
+19	Iowa	PROPAMOCARB HCL	2010	kg					2.1					
+19	Iowa	PROPAMOCARB HCL	2011	kg					20.3					
+19	Iowa	PROPAMOCARB HCL	2014	kg					78.7					
+20	Kansas	PROPAMOCARB HCL	2007	kg					14.1					
+20	Kansas	PROPAMOCARB HCL	2008	kg					0					
+20	Kansas	PROPAMOCARB HCL	2009	kg					1.3					
+20	Kansas	PROPAMOCARB HCL	2010	kg					1.6					
+20	Kansas	PROPAMOCARB HCL	2015	kg					1.8					
+21	Kentucky	PROPAMOCARB HCL	2006	kg					280.4					
+21	Kentucky	PROPAMOCARB HCL	2007	kg					132.9					
+21	Kentucky	PROPAMOCARB HCL	2008	kg					208.7					
+21	Kentucky	PROPAMOCARB HCL	2009	kg					153.4					
+21	Kentucky	PROPAMOCARB HCL	2010	kg					50.1					
+21	Kentucky	PROPAMOCARB HCL	2012	kg					463.8					
+21	Kentucky	PROPAMOCARB HCL	2013	kg					421.9					
+21	Kentucky	PROPAMOCARB HCL	2014	kg					220.9					
+21	Kentucky	PROPAMOCARB HCL	2015	kg					87					
+23	Maine	PROPAMOCARB HCL	1995	kg					12471.2					
+23	Maine	PROPAMOCARB HCL	1996	kg					5366.7					
+23	Maine	PROPAMOCARB HCL	1997	kg					666.5					
+23	Maine	PROPAMOCARB HCL	1998	kg					209.9					
+23	Maine	PROPAMOCARB HCL	1999	kg					396					
+23	Maine	PROPAMOCARB HCL	2004	kg					704.9					
+23	Maine	PROPAMOCARB HCL	2006	kg					1147.9					
+23	Maine	PROPAMOCARB HCL	2008	kg					1822.4					
+23	Maine	PROPAMOCARB HCL	2009	kg					5768.5					
+23	Maine	PROPAMOCARB HCL	2010	kg					5919.3					
+23	Maine	PROPAMOCARB HCL	2011	kg					5984.8					
+23	Maine	PROPAMOCARB HCL	2012	kg					4691					
+23	Maine	PROPAMOCARB HCL	2013	kg					12432.5					
+23	Maine	PROPAMOCARB HCL	2014	kg					11721.1					
+23	Maine	PROPAMOCARB HCL	2015	kg					5821.2					
+23	Maine	PROPAMOCARB HCL	2016	kg					3159.6					
+23	Maine	PROPAMOCARB HCL	2017	kg					752.6					
+24	Maryland	PROPAMOCARB HCL	1998	kg					734.8					
+24	Maryland	PROPAMOCARB HCL	2005	kg					4573.3					
+24	Maryland	PROPAMOCARB HCL	2006	kg					2989.6					
+24	Maryland	PROPAMOCARB HCL	2007	kg					1100.5					
+24	Maryland	PROPAMOCARB HCL	2008	kg					1885.4					
+24	Maryland	PROPAMOCARB HCL	2009	kg					3044.2					
+24	Maryland	PROPAMOCARB HCL	2010	kg					304.1					
+24	Maryland	PROPAMOCARB HCL	2011	kg					496.5					
+24	Maryland	PROPAMOCARB HCL	2012	kg					2108.8					
+24	Maryland	PROPAMOCARB HCL	2013	kg					957.7					
+24	Maryland	PROPAMOCARB HCL	2014	kg					1466					
+24	Maryland	PROPAMOCARB HCL	2015	kg					842.2					
+24	Maryland	PROPAMOCARB HCL	2016	kg					899.4					
+24	Maryland	PROPAMOCARB HCL	2017	kg					133.6					
+25	Massachusetts	PROPAMOCARB HCL	1995	kg					499.1					
+25	Massachusetts	PROPAMOCARB HCL	1996	kg					290					
+25	Massachusetts	PROPAMOCARB HCL	1998	kg					188.8					
+25	Massachusetts	PROPAMOCARB HCL	2000	kg					163.1					
+25	Massachusetts	PROPAMOCARB HCL	2001	kg					434					
+25	Massachusetts	PROPAMOCARB HCL	2004	kg					425.1					
+25	Massachusetts	PROPAMOCARB HCL	2006	kg					583.9					
+25	Massachusetts	PROPAMOCARB HCL	2007	kg					869.6					
+25	Massachusetts	PROPAMOCARB HCL	2008	kg					194.9					
+25	Massachusetts	PROPAMOCARB HCL	2009	kg					260					
+25	Massachusetts	PROPAMOCARB HCL	2010	kg					964.8					
+25	Massachusetts	PROPAMOCARB HCL	2011	kg					62.7					
+25	Massachusetts	PROPAMOCARB HCL	2012	kg					1060.5					
+25	Massachusetts	PROPAMOCARB HCL	2013	kg					1313.7					
+25	Massachusetts	PROPAMOCARB HCL	2014	kg					1532.9					
+25	Massachusetts	PROPAMOCARB HCL	2015	kg					1004.8					
+25	Massachusetts	PROPAMOCARB HCL	2016	kg					200.3					
+25	Massachusetts	PROPAMOCARB HCL	2017	kg					450.3					
+26	Michigan	PROPAMOCARB HCL	1995	kg					13153.6					
+26	Michigan	PROPAMOCARB HCL	1996	kg					18339.6					
+26	Michigan	PROPAMOCARB HCL	1997	kg					1125.6					
+26	Michigan	PROPAMOCARB HCL	1998	kg					779.6					
+26	Michigan	PROPAMOCARB HCL	2000	kg					14165.4					
+26	Michigan	PROPAMOCARB HCL	2001	kg					7382.2					
+26	Michigan	PROPAMOCARB HCL	2004	kg					1063.3					
+26	Michigan	PROPAMOCARB HCL	2005	kg					6053.4					
+26	Michigan	PROPAMOCARB HCL	2006	kg					26467.6					
+26	Michigan	PROPAMOCARB HCL	2007	kg					34562.1					
+26	Michigan	PROPAMOCARB HCL	2008	kg					23295.1					
+26	Michigan	PROPAMOCARB HCL	2009	kg					22712.1					
+26	Michigan	PROPAMOCARB HCL	2010	kg					41128.1					
+26	Michigan	PROPAMOCARB HCL	2011	kg					29653.4					
+26	Michigan	PROPAMOCARB HCL	2012	kg					30319.5					
+26	Michigan	PROPAMOCARB HCL	2013	kg					34836.8					
+26	Michigan	PROPAMOCARB HCL	2014	kg					32811.7					
+26	Michigan	PROPAMOCARB HCL	2015	kg					28082.4					
+26	Michigan	PROPAMOCARB HCL	2016	kg					10841.9					
+26	Michigan	PROPAMOCARB HCL	2017	kg					4351.1					
+27	Minnesota	PROPAMOCARB HCL	1995	kg					25959					
+27	Minnesota	PROPAMOCARB HCL	1996	kg					8626.7					
+27	Minnesota	PROPAMOCARB HCL	1997	kg					419.2					
+27	Minnesota	PROPAMOCARB HCL	1998	kg					671.4					
+27	Minnesota	PROPAMOCARB HCL	1999	kg					1367.9					
+27	Minnesota	PROPAMOCARB HCL	2000	kg					1597.8					
+27	Minnesota	PROPAMOCARB HCL	2002	kg					1124.3					
+27	Minnesota	PROPAMOCARB HCL	2010	kg					1168.3					
+27	Minnesota	PROPAMOCARB HCL	2011	kg					36.4					
+27	Minnesota	PROPAMOCARB HCL	2012	kg					2170					
+27	Minnesota	PROPAMOCARB HCL	2013	kg					2639.2					
+27	Minnesota	PROPAMOCARB HCL	2014	kg					3764					
+27	Minnesota	PROPAMOCARB HCL	2015	kg					1457.1					
+27	Minnesota	PROPAMOCARB HCL	2016	kg					842.4					
+28	Mississippi	PROPAMOCARB HCL	2007	kg					12.2					
+29	Missouri	PROPAMOCARB HCL	2006	kg					575.6					
+29	Missouri	PROPAMOCARB HCL	2007	kg					3446.9					
+29	Missouri	PROPAMOCARB HCL	2008	kg					146.2					
+29	Missouri	PROPAMOCARB HCL	2009	kg					7428.9					
+29	Missouri	PROPAMOCARB HCL	2010	kg					5998.3					
+29	Missouri	PROPAMOCARB HCL	2014	kg					121.7					
+30	Montana	PROPAMOCARB HCL	1997	kg					92.3					
+30	Montana	PROPAMOCARB HCL	1998	kg					702.9					
+31	Nebraska	PROPAMOCARB HCL	1996	kg					8779.7					
+31	Nebraska	PROPAMOCARB HCL	1998	kg					1983.4					
+32	Nevada	PROPAMOCARB HCL	1993	kg					0					
+32	Nevada	PROPAMOCARB HCL	1997	kg					679.7					
+32	Nevada	PROPAMOCARB HCL	1998	kg					243					
+32	Nevada	PROPAMOCARB HCL	1999	kg					0.2					
+32	Nevada	PROPAMOCARB HCL	2000	kg					8.3					
+32	Nevada	PROPAMOCARB HCL	2008	kg					8.9					
+32	Nevada	PROPAMOCARB HCL	2009	kg					3.6					
+32	Nevada	PROPAMOCARB HCL	2010	kg					35					
+32	Nevada	PROPAMOCARB HCL	2011	kg					77.4					
+32	Nevada	PROPAMOCARB HCL	2012	kg					18.7					
+32	Nevada	PROPAMOCARB HCL	2013	kg					37.2					
+32	Nevada	PROPAMOCARB HCL	2014	kg					0.3					
+32	Nevada	PROPAMOCARB HCL	2015	kg					0.1					
+32	Nevada	PROPAMOCARB HCL	2016	kg					16.2					
+32	Nevada	PROPAMOCARB HCL	2017	kg					1.1					
+33	New Hampshire	PROPAMOCARB HCL	2009	kg					8.8					
+33	New Hampshire	PROPAMOCARB HCL	2010	kg					7.7					
+33	New Hampshire	PROPAMOCARB HCL	2011	kg					17.1					
+33	New Hampshire	PROPAMOCARB HCL	2012	kg					203.4					
+33	New Hampshire	PROPAMOCARB HCL	2013	kg					38.3					
+33	New Hampshire	PROPAMOCARB HCL	2014	kg					144.1					
+33	New Hampshire	PROPAMOCARB HCL	2015	kg					238.6					
+33	New Hampshire	PROPAMOCARB HCL	2016	kg					104.3					
+33	New Hampshire	PROPAMOCARB HCL	2017	kg					114.5					
+34	New Jersey	PROPAMOCARB HCL	1995	kg					819.1					
+34	New Jersey	PROPAMOCARB HCL	1996	kg					206.2					
+34	New Jersey	PROPAMOCARB HCL	1998	kg					167.6					
+34	New Jersey	PROPAMOCARB HCL	2004	kg					344.2					
+34	New Jersey	PROPAMOCARB HCL	2006	kg					1835.5					
+34	New Jersey	PROPAMOCARB HCL	2007	kg					553.9					
+34	New Jersey	PROPAMOCARB HCL	2009	kg					760.7					
+34	New Jersey	PROPAMOCARB HCL	2010	kg					314.9					
+34	New Jersey	PROPAMOCARB HCL	2011	kg					334.2					
+34	New Jersey	PROPAMOCARB HCL	2012	kg					827.1					
+34	New Jersey	PROPAMOCARB HCL	2013	kg					1088.3					
+34	New Jersey	PROPAMOCARB HCL	2014	kg					801.6					
+34	New Jersey	PROPAMOCARB HCL	2015	kg					1349.3					
+34	New Jersey	PROPAMOCARB HCL	2016	kg					363.6					
+34	New Jersey	PROPAMOCARB HCL	2017	kg					759.4					
+35	New Mexico	PROPAMOCARB HCL	1994	kg					132.3					
+35	New Mexico	PROPAMOCARB HCL	2007	kg					262					
+35	New Mexico	PROPAMOCARB HCL	2008	kg					0.8					
+35	New Mexico	PROPAMOCARB HCL	2009	kg					97.9					
+35	New Mexico	PROPAMOCARB HCL	2013	kg					0					
+35	New Mexico	PROPAMOCARB HCL	2015	kg					70.1					
+35	New Mexico	PROPAMOCARB HCL	2017	kg					127.2					
+36	New York	PROPAMOCARB HCL	1995	kg					4457.4					
+36	New York	PROPAMOCARB HCL	1996	kg					3714.7					
+36	New York	PROPAMOCARB HCL	1997	kg					268.6					
+36	New York	PROPAMOCARB HCL	1998	kg					1946.5					
+36	New York	PROPAMOCARB HCL	1999	kg					218.2					
+36	New York	PROPAMOCARB HCL	2000	kg					192.1					
+36	New York	PROPAMOCARB HCL	2001	kg					707.9					
+36	New York	PROPAMOCARB HCL	2003	kg					2224.8					
+36	New York	PROPAMOCARB HCL	2004	kg					2999.1					
+36	New York	PROPAMOCARB HCL	2005	kg					3672.1					
+36	New York	PROPAMOCARB HCL	2006	kg					1044.8					
+36	New York	PROPAMOCARB HCL	2007	kg					2387.8					
+36	New York	PROPAMOCARB HCL	2008	kg					43.5					
+36	New York	PROPAMOCARB HCL	2009	kg					5839					
+36	New York	PROPAMOCARB HCL	2010	kg					7926.7					
+36	New York	PROPAMOCARB HCL	2011	kg					2519.1					
+36	New York	PROPAMOCARB HCL	2012	kg					7851.4					
+36	New York	PROPAMOCARB HCL	2013	kg					9344.2					
+36	New York	PROPAMOCARB HCL	2014	kg					8390.7					
+36	New York	PROPAMOCARB HCL	2015	kg					5557.7					
+36	New York	PROPAMOCARB HCL	2016	kg					2025.2					
+36	New York	PROPAMOCARB HCL	2017	kg					6933.8					
+37	North Carolina	PROPAMOCARB HCL	2005	kg					4062.9					
+37	North Carolina	PROPAMOCARB HCL	2006	kg					2947.1					
+37	North Carolina	PROPAMOCARB HCL	2007	kg					2250.1					
+37	North Carolina	PROPAMOCARB HCL	2008	kg					54.2					
+37	North Carolina	PROPAMOCARB HCL	2009	kg					988.2					
+37	North Carolina	PROPAMOCARB HCL	2010	kg					2034.7					
+37	North Carolina	PROPAMOCARB HCL	2012	kg					6214.1					
+37	North Carolina	PROPAMOCARB HCL	2013	kg					2276.3					
+37	North Carolina	PROPAMOCARB HCL	2014	kg					7124.8					
+37	North Carolina	PROPAMOCARB HCL	2015	kg					1158					
+37	North Carolina	PROPAMOCARB HCL	2016	kg					4295.1					
+37	North Carolina	PROPAMOCARB HCL	2017	kg					1838.6					
+38	North Dakota	PROPAMOCARB HCL	1995	kg					75054.5					
+38	North Dakota	PROPAMOCARB HCL	1996	kg					1333.8					
+38	North Dakota	PROPAMOCARB HCL	1997	kg					715.9					
+38	North Dakota	PROPAMOCARB HCL	1998	kg					798.7					
+38	North Dakota	PROPAMOCARB HCL	1999	kg					2648.9					
+38	North Dakota	PROPAMOCARB HCL	2010	kg					1689.8					
+39	Ohio	PROPAMOCARB HCL	1996	kg					4297.1					
+39	Ohio	PROPAMOCARB HCL	1997	kg					25.9					
+39	Ohio	PROPAMOCARB HCL	1998	kg					26.1					
+39	Ohio	PROPAMOCARB HCL	2000	kg					150.4					
+39	Ohio	PROPAMOCARB HCL	2003	kg					703.9					
+39	Ohio	PROPAMOCARB HCL	2005	kg					495.4					
+39	Ohio	PROPAMOCARB HCL	2006	kg					758.4					
+39	Ohio	PROPAMOCARB HCL	2007	kg					257.9					
+39	Ohio	PROPAMOCARB HCL	2008	kg					413.7					
+39	Ohio	PROPAMOCARB HCL	2009	kg					1387					
+39	Ohio	PROPAMOCARB HCL	2010	kg					751.5					
+39	Ohio	PROPAMOCARB HCL	2011	kg					1131					
+39	Ohio	PROPAMOCARB HCL	2012	kg					805.5					
+39	Ohio	PROPAMOCARB HCL	2013	kg					1696.9					
+39	Ohio	PROPAMOCARB HCL	2014	kg					2798.5					
+39	Ohio	PROPAMOCARB HCL	2015	kg					5845.1					
+39	Ohio	PROPAMOCARB HCL	2016	kg					670					
+39	Ohio	PROPAMOCARB HCL	2017	kg					268.7					
+40	Oklahoma	PROPAMOCARB HCL	2007	kg					61.3					
+40	Oklahoma	PROPAMOCARB HCL	2008	kg					2.3					
+40	Oklahoma	PROPAMOCARB HCL	2009	kg					9.4					
+40	Oklahoma	PROPAMOCARB HCL	2010	kg					8.6					
+40	Oklahoma	PROPAMOCARB HCL	2015	kg					97.1					
+40	Oklahoma	PROPAMOCARB HCL	2017	kg					76.2					
+41	Oregon	PROPAMOCARB HCL	1996	kg					1.5					
+41	Oregon	PROPAMOCARB HCL	1997	kg					4145.2					
+41	Oregon	PROPAMOCARB HCL	1998	kg					4736.4					
+41	Oregon	PROPAMOCARB HCL	2000	kg					119.8					
+41	Oregon	PROPAMOCARB HCL	2001	kg					6916.9					
+41	Oregon	PROPAMOCARB HCL	2002	kg					6170.9					
+41	Oregon	PROPAMOCARB HCL	2005	kg					4254.3					
+41	Oregon	PROPAMOCARB HCL	2017	kg					34494.8					
+42	Pennsylvania	PROPAMOCARB HCL	1995	kg					1346.1					
+42	Pennsylvania	PROPAMOCARB HCL	1996	kg					863.4					
+42	Pennsylvania	PROPAMOCARB HCL	1997	kg					67					
+42	Pennsylvania	PROPAMOCARB HCL	1998	kg					1145.7					
+42	Pennsylvania	PROPAMOCARB HCL	2003	kg					1872.9					
+42	Pennsylvania	PROPAMOCARB HCL	2004	kg					1461.8					
+42	Pennsylvania	PROPAMOCARB HCL	2005	kg					1884.2					
+42	Pennsylvania	PROPAMOCARB HCL	2006	kg					1500.7					
+42	Pennsylvania	PROPAMOCARB HCL	2007	kg					2695.6					
+42	Pennsylvania	PROPAMOCARB HCL	2008	kg					1490.1					
+42	Pennsylvania	PROPAMOCARB HCL	2009	kg					1999.2					
+42	Pennsylvania	PROPAMOCARB HCL	2010	kg					3952.5					
+42	Pennsylvania	PROPAMOCARB HCL	2011	kg					368.3					
+42	Pennsylvania	PROPAMOCARB HCL	2012	kg					2716.4					
+42	Pennsylvania	PROPAMOCARB HCL	2013	kg					5005.6					
+42	Pennsylvania	PROPAMOCARB HCL	2014	kg					4165.7					
+42	Pennsylvania	PROPAMOCARB HCL	2015	kg					2417.6					
+42	Pennsylvania	PROPAMOCARB HCL	2016	kg					2612.6					
+42	Pennsylvania	PROPAMOCARB HCL	2017	kg					2314.1					
+44	Rhode Island	PROPAMOCARB HCL	2006	kg					54.9					
+44	Rhode Island	PROPAMOCARB HCL	2007	kg					93.3					
+44	Rhode Island	PROPAMOCARB HCL	2008	kg					18.8					
+44	Rhode Island	PROPAMOCARB HCL	2009	kg					1.5					
+44	Rhode Island	PROPAMOCARB HCL	2010	kg					73					
+44	Rhode Island	PROPAMOCARB HCL	2011	kg					35.3					
+44	Rhode Island	PROPAMOCARB HCL	2012	kg					62.9					
+44	Rhode Island	PROPAMOCARB HCL	2013	kg					7.5					
+44	Rhode Island	PROPAMOCARB HCL	2014	kg					39.3					
+44	Rhode Island	PROPAMOCARB HCL	2015	kg					57.1					
+44	Rhode Island	PROPAMOCARB HCL	2016	kg					23.3					
+44	Rhode Island	PROPAMOCARB HCL	2017	kg					21.8					
+45	South Carolina	PROPAMOCARB HCL	2005	kg					1936.8					
+45	South Carolina	PROPAMOCARB HCL	2006	kg					1877.6					
+45	South Carolina	PROPAMOCARB HCL	2007	kg					233.7					
+45	South Carolina	PROPAMOCARB HCL	2008	kg					1.2					
+45	South Carolina	PROPAMOCARB HCL	2009	kg					837.6					
+45	South Carolina	PROPAMOCARB HCL	2010	kg					67.8					
+45	South Carolina	PROPAMOCARB HCL	2012	kg					1455.3					
+45	South Carolina	PROPAMOCARB HCL	2013	kg					1111.7					
+45	South Carolina	PROPAMOCARB HCL	2014	kg					572.2					
+45	South Carolina	PROPAMOCARB HCL	2016	kg					526.6					
+46	South Dakota	PROPAMOCARB HCL	1996	kg					197.3					
+46	South Dakota	PROPAMOCARB HCL	1998	kg					49.2					
+47	Tennessee	PROPAMOCARB HCL	2007	kg					169.5					
+48	Texas	PROPAMOCARB HCL	1994	kg					88.6					
+48	Texas	PROPAMOCARB HCL	2007	kg					5575.8					
+48	Texas	PROPAMOCARB HCL	2008	kg					4977.1					
+48	Texas	PROPAMOCARB HCL	2009	kg					3360.8					
+48	Texas	PROPAMOCARB HCL	2010	kg					7763.4					
+48	Texas	PROPAMOCARB HCL	2011	kg					7744.4					
+48	Texas	PROPAMOCARB HCL	2012	kg					12833.8					
+48	Texas	PROPAMOCARB HCL	2013	kg					10167.2					
+48	Texas	PROPAMOCARB HCL	2015	kg					18656.5					
+48	Texas	PROPAMOCARB HCL	2017	kg					2483.6					
+49	Utah	PROPAMOCARB HCL	1996	kg					1.3					
+49	Utah	PROPAMOCARB HCL	1997	kg					0.9					
+49	Utah	PROPAMOCARB HCL	1998	kg					8.3					
+50	Vermont	PROPAMOCARB HCL	1995	kg					21.9					
+50	Vermont	PROPAMOCARB HCL	1996	kg					13.2					
+50	Vermont	PROPAMOCARB HCL	1998	kg					9.1					
+50	Vermont	PROPAMOCARB HCL	2000	kg					8					
+50	Vermont	PROPAMOCARB HCL	2001	kg					21.7					
+50	Vermont	PROPAMOCARB HCL	2004	kg					25.9					
+50	Vermont	PROPAMOCARB HCL	2006	kg					4.2					
+50	Vermont	PROPAMOCARB HCL	2009	kg					20.6					
+50	Vermont	PROPAMOCARB HCL	2010	kg					124.4					
+50	Vermont	PROPAMOCARB HCL	2011	kg					16.1					
+50	Vermont	PROPAMOCARB HCL	2012	kg					202.9					
+50	Vermont	PROPAMOCARB HCL	2013	kg					127					
+50	Vermont	PROPAMOCARB HCL	2014	kg					286.6					
+50	Vermont	PROPAMOCARB HCL	2015	kg					235.1					
+50	Vermont	PROPAMOCARB HCL	2016	kg					28.2					
+50	Vermont	PROPAMOCARB HCL	2017	kg					129.9					
+51	Virginia	PROPAMOCARB HCL	1998	kg					827.2					
+51	Virginia	PROPAMOCARB HCL	2005	kg					1153.2					
+51	Virginia	PROPAMOCARB HCL	2006	kg					1519					
+51	Virginia	PROPAMOCARB HCL	2007	kg					424.5					
+51	Virginia	PROPAMOCARB HCL	2008	kg					115.9					
+51	Virginia	PROPAMOCARB HCL	2009	kg					379.2					
+51	Virginia	PROPAMOCARB HCL	2010	kg					14.8					
+51	Virginia	PROPAMOCARB HCL	2012	kg					451.4					
+51	Virginia	PROPAMOCARB HCL	2013	kg					211.9					
+51	Virginia	PROPAMOCARB HCL	2014	kg					300.4					
+51	Virginia	PROPAMOCARB HCL	2015	kg					3.1					
+51	Virginia	PROPAMOCARB HCL	2016	kg					167.9					
+51	Virginia	PROPAMOCARB HCL	2017	kg					8.8					
+53	Washington	PROPAMOCARB HCL	1997	kg					5036.9					
+53	Washington	PROPAMOCARB HCL	1998	kg					13916.1					
+53	Washington	PROPAMOCARB HCL	2000	kg					542.5					
+53	Washington	PROPAMOCARB HCL	2001	kg					68203.4					
+53	Washington	PROPAMOCARB HCL	2002	kg					2461.4					
+53	Washington	PROPAMOCARB HCL	2004	kg					3351.4					
+53	Washington	PROPAMOCARB HCL	2005	kg					15096.6					
+53	Washington	PROPAMOCARB HCL	2017	kg					54429.7					
+54	West Virginia	PROPAMOCARB HCL	2007	kg					36.4					
+54	West Virginia	PROPAMOCARB HCL	2008	kg					13.6					
+54	West Virginia	PROPAMOCARB HCL	2009	kg					112.9					
+54	West Virginia	PROPAMOCARB HCL	2010	kg					42.6					
+54	West Virginia	PROPAMOCARB HCL	2012	kg					193.9					
+54	West Virginia	PROPAMOCARB HCL	2013	kg					60.9					
+54	West Virginia	PROPAMOCARB HCL	2014	kg					116.6					
+54	West Virginia	PROPAMOCARB HCL	2015	kg					159.3					
+54	West Virginia	PROPAMOCARB HCL	2016	kg					16.2					
+54	West Virginia	PROPAMOCARB HCL	2017	kg					9.4					
+55	Wisconsin	PROPAMOCARB HCL	1995	kg					1678.6					
+55	Wisconsin	PROPAMOCARB HCL	1996	kg					5287.2					
+55	Wisconsin	PROPAMOCARB HCL	1997	kg					1705.4					
+55	Wisconsin	PROPAMOCARB HCL	1998	kg					2587.4					
+55	Wisconsin	PROPAMOCARB HCL	1999	kg					199.1					
+55	Wisconsin	PROPAMOCARB HCL	2000	kg					3991.4					
+55	Wisconsin	PROPAMOCARB HCL	2005	kg					730.6					
+55	Wisconsin	PROPAMOCARB HCL	2006	kg					3204.6					
+55	Wisconsin	PROPAMOCARB HCL	2007	kg					1263					
+55	Wisconsin	PROPAMOCARB HCL	2008	kg					1988.5					
+55	Wisconsin	PROPAMOCARB HCL	2009	kg					2222.5					
+55	Wisconsin	PROPAMOCARB HCL	2010	kg					6675.5					
+55	Wisconsin	PROPAMOCARB HCL	2011	kg					9479.8					
+55	Wisconsin	PROPAMOCARB HCL	2012	kg					9306.8					
+55	Wisconsin	PROPAMOCARB HCL	2013	kg					7595.5					
+55	Wisconsin	PROPAMOCARB HCL	2014	kg					7532.8					
+55	Wisconsin	PROPAMOCARB HCL	2015	kg					8382.3					
+55	Wisconsin	PROPAMOCARB HCL	2016	kg					6610.1					
+55	Wisconsin	PROPAMOCARB HCL	2017	kg					244.9					
+56	Wyoming	PROPAMOCARB HCL	1996	kg					530.4					
+56	Wyoming	PROPAMOCARB HCL	1997	kg					0					
+56	Wyoming	PROPAMOCARB HCL	1998	kg					87.6					

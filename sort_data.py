@@ -403,6 +403,3 @@ def get_areas_from_file(filename):
 
     return area_dict
 
-class
-areas = get_areas_from_file("BYAREA.TXT")
-print(areas["Alabama"].get_data_by_disease_year("All Cancer Sites Combined", "Incidence", 2000, "sex"))

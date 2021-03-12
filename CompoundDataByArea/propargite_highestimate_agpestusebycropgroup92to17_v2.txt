@@ -1,0 +1,610 @@
+01	Alabama	PROPARGITE	1992	kg							302.8			
+01	Alabama	PROPARGITE	1993	kg							0.6			5829.6
+01	Alabama	PROPARGITE	1994	kg							14.1			11753.2
+01	Alabama	PROPARGITE	1995	kg							18.3			19960.8
+01	Alabama	PROPARGITE	1997	kg										2026.2
+01	Alabama	PROPARGITE	1998	kg					16					
+01	Alabama	PROPARGITE	1999	kg										66586.1
+01	Alabama	PROPARGITE	2005	kg							113.4			
+01	Alabama	PROPARGITE	2006	kg							20.8			130.2
+01	Alabama	PROPARGITE	2007	kg										1304.5
+01	Alabama	PROPARGITE	2009	kg							184.3			
+01	Alabama	PROPARGITE	2011	kg										2197.6
+01	Alabama	PROPARGITE	2015	kg										5620.8
+01	Alabama	PROPARGITE	2016	kg										909.9
+01	Alabama	PROPARGITE	2017	kg										1302.9
+04	Arizona	PROPARGITE	1992	kg	2821.8				498.7		417.1			
+04	Arizona	PROPARGITE	1993	kg	5924			9493	276.4		3277	500.2		
+04	Arizona	PROPARGITE	1994	kg	8061.7						427.1			
+04	Arizona	PROPARGITE	1995	kg	4546.2						2687.3	532.9		
+04	Arizona	PROPARGITE	1996	kg	8671.6				2442		1725.6			
+04	Arizona	PROPARGITE	1997	kg	16412.2			63101.7	840.6		1916.7	196.1		
+04	Arizona	PROPARGITE	1998	kg	3738			35029.3	1888.4		252.1			
+04	Arizona	PROPARGITE	1999	kg	20780.8			74341.5	2057.8		4194.7			
+04	Arizona	PROPARGITE	2000	kg	43.4			34341.1	913.7		978.4	114		
+04	Arizona	PROPARGITE	2001	kg	50306.3				1358.7		78.7			
+04	Arizona	PROPARGITE	2002	kg	8588.2				277.9		598.7			
+04	Arizona	PROPARGITE	2003	kg	3635.6			4353.9	346.2		649			
+04	Arizona	PROPARGITE	2004	kg	43137.9			57697.3	264		450.9			
+04	Arizona	PROPARGITE	2005	kg	2353.2				539.6		432.1			
+04	Arizona	PROPARGITE	2006	kg	110.1				298.7		766.6			
+04	Arizona	PROPARGITE	2007	kg	33				263.8		436.7			
+04	Arizona	PROPARGITE	2008	kg	249.7				2459.6		85.2			
+04	Arizona	PROPARGITE	2009	kg	11239.5				313.1		18.1			
+04	Arizona	PROPARGITE	2010	kg	60				628		10.3			
+04	Arizona	PROPARGITE	2011	kg	8196.5				156.2		14.8			
+04	Arizona	PROPARGITE	2012	kg	35.2						6.4	1093.7		
+04	Arizona	PROPARGITE	2013	kg	2878.5						3.4			
+04	Arizona	PROPARGITE	2014	kg	4777.7									
+04	Arizona	PROPARGITE	2015	kg	5932.4				1450.3		0.2			
+04	Arizona	PROPARGITE	2016	kg	175.9						9.1			
+04	Arizona	PROPARGITE	2017	kg	239.5						1.8			
+05	Arkansas	PROPARGITE	1995	kg				343.6						
+05	Arkansas	PROPARGITE	2003	kg				272.5						
+05	Arkansas	PROPARGITE	2005	kg				19306.4						
+05	Arkansas	PROPARGITE	2006	kg				1784						
+05	Arkansas	PROPARGITE	2008	kg				44210.1						
+05	Arkansas	PROPARGITE	2011	kg				1001.4						
+06	California	PROPARGITE	1992	kg	145093			124027	30884.4		524695.5	26337		114.9
+06	California	PROPARGITE	1993	kg	138785.9			120155.5	30237.1		460802.3	18485.9		59.6
+06	California	PROPARGITE	1994	kg	134228.5			180047	38505.9		458226.2	20194.5		264
+06	California	PROPARGITE	1995	kg	126885.1			237952.2	38034		396707.1	22595		402.5
+06	California	PROPARGITE	1996	kg	197910.6			136788.1	29443.9		404635.9	30754.8		37.5
+06	California	PROPARGITE	1997	kg	225250.1			99514.5	58477.7		493166.9	22558.4		168.9
+06	California	PROPARGITE	1998	kg	211634.8		1239.5	52128.2	26340.4		355831.5	8375	246.2	357.3
+06	California	PROPARGITE	1999	kg	195125.8		907.3	27968.8	28060.5		526605.9	5437.1	54.8	283.2
+06	California	PROPARGITE	2000	kg	178163.1		565	37260.7	24536.2	9	338333.7	7000.9	144.2	417.3
+06	California	PROPARGITE	2001	kg	140274		45	35865.1	15584.7		334926.5	1152.5	13.5	0.7
+06	California	PROPARGITE	2002	kg	167971.3			24555.9	16628		234164.4	909.4		63.9
+06	California	PROPARGITE	2003	kg	181908	366.9		38955.7	9684.2		245840.2	1610.6		186.1
+06	California	PROPARGITE	2004	kg	190745		104.6	48320.3	10493.6		209186.5	667.1		238.1
+06	California	PROPARGITE	2005	kg	195363.4			37593.2	15607.9		208028.3	1007.9		94.9
+06	California	PROPARGITE	2006	kg	76490.7			8620.4	17269		159599	232.2		53.7
+06	California	PROPARGITE	2007	kg	99234.2			2794.4	12776.7		128329.2	321.4		111.7
+06	California	PROPARGITE	2008	kg	74159.3		60.3	2716.4	8470.8		88744.6	68.1	104.3	102.4
+06	California	PROPARGITE	2009	kg	87411.5			1051.7	8809.2		72346.7	2713.2		30.5
+06	California	PROPARGITE	2010	kg	77568.3			1397.9	2626.9		47866	3793.8		0.3
+06	California	PROPARGITE	2011	kg	87657.1			6256.3	2320.7		25588.4	12533		4.6
+06	California	PROPARGITE	2012	kg	64721.1			1084.5	1275.8		44317.5	2762.2		3123.5
+06	California	PROPARGITE	2013	kg	45294.8		301.5	1311.3	981.2		72064.9	8273.1		714.5
+06	California	PROPARGITE	2014	kg	31989.9			134.1	78.8		72722.6	5604.8		971.8
+06	California	PROPARGITE	2015	kg	26835.4			664.1	225.2		62567.3	5761.8		742
+06	California	PROPARGITE	2016	kg	36550.3		202.5	536.2			50673.6	5036.2		296.5
+06	California	PROPARGITE	2017	kg	45972.8			2892.9	519.8		52469.5	6887.6		1419.9
+08	Colorado	PROPARGITE	1992	kg	10724.1				793.8		1491.7	4324.1		1133.1
+08	Colorado	PROPARGITE	1993	kg	57800.6						622.7			
+08	Colorado	PROPARGITE	1994	kg	108880.9						751	16603.8		
+08	Colorado	PROPARGITE	1995	kg	57406.6						192.7	30451.1		
+08	Colorado	PROPARGITE	1996	kg	77153.2				369.2					
+08	Colorado	PROPARGITE	1997	kg	44753.3									
+08	Colorado	PROPARGITE	1998	kg	60192.3				410.4		77.7	10916.7		
+08	Colorado	PROPARGITE	1999	kg	72541.9									
+08	Colorado	PROPARGITE	2000	kg	59522.8							3890.1		
+08	Colorado	PROPARGITE	2001	kg	1428.1									
+08	Colorado	PROPARGITE	2002	kg	57702.1				295.7					
+08	Colorado	PROPARGITE	2003	kg	140825.1				180.9					
+08	Colorado	PROPARGITE	2004	kg	9788.6				213.9					
+08	Colorado	PROPARGITE	2005	kg	81390.9									
+08	Colorado	PROPARGITE	2006	kg	7401.1				1525.8					
+08	Colorado	PROPARGITE	2007	kg	143316.6				4159.8					
+08	Colorado	PROPARGITE	2008	kg	10636.9									
+08	Colorado	PROPARGITE	2009	kg	233583.9				0					
+08	Colorado	PROPARGITE	2010	kg	4104.1									
+08	Colorado	PROPARGITE	2011	kg	25446.9									
+08	Colorado	PROPARGITE	2012	kg	65998.2							23784		
+08	Colorado	PROPARGITE	2013	kg	263794.2									
+08	Colorado	PROPARGITE	2014	kg	66035.3									
+08	Colorado	PROPARGITE	2015	kg	66745									612.5
+08	Colorado	PROPARGITE	2016	kg	207046.3									
+08	Colorado	PROPARGITE	2017	kg	74332.3									2490.5
+09	Connecticut	PROPARGITE	1992	kg							48.5			
+09	Connecticut	PROPARGITE	1993	kg							71.2			
+09	Connecticut	PROPARGITE	1994	kg					801.8		950.5			
+09	Connecticut	PROPARGITE	1995	kg					55		1767.9			
+09	Connecticut	PROPARGITE	1996	kg							29.3			
+10	Delaware	PROPARGITE	1992	kg							2.7			
+10	Delaware	PROPARGITE	1993	kg							0.2			
+10	Delaware	PROPARGITE	1994	kg							0.6			
+10	Delaware	PROPARGITE	1995	kg							0.1			
+10	Delaware	PROPARGITE	2005	kg							1.9			
+12	Florida	PROPARGITE	1992	kg							127238.1			1888.2
+12	Florida	PROPARGITE	1993	kg							987			1645.9
+12	Florida	PROPARGITE	1994	kg				818.3	92.9		50710.6			404
+12	Florida	PROPARGITE	1995	kg					19.9					
+12	Florida	PROPARGITE	1996	kg							8843.6			
+12	Florida	PROPARGITE	1997	kg							8038.3			
+12	Florida	PROPARGITE	1998	kg							304.8			
+12	Florida	PROPARGITE	1999	kg							12134.9			
+12	Florida	PROPARGITE	2001	kg							1393.4			
+12	Florida	PROPARGITE	2002	kg							26676.4			
+12	Florida	PROPARGITE	2004	kg							9207.8			
+12	Florida	PROPARGITE	2005	kg							9740.8			
+12	Florida	PROPARGITE	2006	kg							16.2			81.5
+12	Florida	PROPARGITE	2007	kg										961.8
+12	Florida	PROPARGITE	2008	kg					43		227.6			
+12	Florida	PROPARGITE	2009	kg							151.4			
+12	Florida	PROPARGITE	2014	kg										335.5
+12	Florida	PROPARGITE	2015	kg										2079.1
+12	Florida	PROPARGITE	2016	kg										163.8
+13	Georgia	PROPARGITE	1992	kg							3620.7			17065.5
+13	Georgia	PROPARGITE	1993	kg							61.8			7994.5
+13	Georgia	PROPARGITE	1994	kg				87087.4			367.1			34662.4
+13	Georgia	PROPARGITE	1995	kg							317.1			53639.8
+13	Georgia	PROPARGITE	1996	kg							0.9			
+13	Georgia	PROPARGITE	1997	kg							65.5			5357.4
+13	Georgia	PROPARGITE	1998	kg					1.4					
+13	Georgia	PROPARGITE	1999	kg										1205.9
+13	Georgia	PROPARGITE	2005	kg							1725.3			
+13	Georgia	PROPARGITE	2006	kg							313.3			543.4
+13	Georgia	PROPARGITE	2007	kg										5398.5
+13	Georgia	PROPARGITE	2008	kg							4544			
+13	Georgia	PROPARGITE	2009	kg							2930.5			
+13	Georgia	PROPARGITE	2010	kg							637.7			
+13	Georgia	PROPARGITE	2011	kg										6201.5
+13	Georgia	PROPARGITE	2014	kg										1420.6
+13	Georgia	PROPARGITE	2015	kg										12649.7
+13	Georgia	PROPARGITE	2016	kg										2220.4
+13	Georgia	PROPARGITE	2017	kg										5418.7
+16	Idaho	PROPARGITE	1992	kg	11.8				8705.3		946.2	6327.3	344.6	
+16	Idaho	PROPARGITE	1993	kg	370.1				1898.3		711.7		81.1	1931.5
+16	Idaho	PROPARGITE	1994	kg	305.1				6050.8		1878.7	18328.1		
+16	Idaho	PROPARGITE	1995	kg	967.7				2063.9		1052.5	9146.5		
+16	Idaho	PROPARGITE	1996	kg	15.8				958.6			182779.4		3951.8
+16	Idaho	PROPARGITE	1997	kg	21.5				152770.5			4001.7		
+16	Idaho	PROPARGITE	1998	kg	7.5				118251.5			2783.6		
+16	Idaho	PROPARGITE	1999	kg	14.3				1189.8		4.2	10201		
+16	Idaho	PROPARGITE	2000	kg	5				90160.8		1.9			1870.9
+16	Idaho	PROPARGITE	2001	kg	19.5				51808.3		5.2			
+16	Idaho	PROPARGITE	2002	kg	52.1				18632.6		1.3			
+16	Idaho	PROPARGITE	2003	kg	31.6				4150.3		216.2			5950.1
+16	Idaho	PROPARGITE	2004	kg	29				14649		38.3			
+16	Idaho	PROPARGITE	2005	kg	17.4				8502.2		8			
+16	Idaho	PROPARGITE	2006	kg	3.8				91737.1					
+16	Idaho	PROPARGITE	2007	kg	2.1				25537.6					
+16	Idaho	PROPARGITE	2008	kg	35.7				139785.6					
+16	Idaho	PROPARGITE	2009	kg	64.4				17429.3					
+16	Idaho	PROPARGITE	2010	kg					16002.9					
+16	Idaho	PROPARGITE	2011	kg	12.1				19752.5					
+16	Idaho	PROPARGITE	2013	kg							21.8			
+16	Idaho	PROPARGITE	2014	kg					51598.3		40.8			
+16	Idaho	PROPARGITE	2015	kg	41596.5						23.9			
+17	Illinois	PROPARGITE	1992	kg							924.8			
+17	Illinois	PROPARGITE	1993	kg							1790.2			
+17	Illinois	PROPARGITE	1994	kg							8069.5			
+17	Illinois	PROPARGITE	1995	kg							596.2			
+17	Illinois	PROPARGITE	1996	kg							2151.2			
+17	Illinois	PROPARGITE	1997	kg							802.8			
+17	Illinois	PROPARGITE	1998	kg							43.5			
+18	Indiana	PROPARGITE	1992	kg							580.3			
+18	Indiana	PROPARGITE	1993	kg							5575.9			
+18	Indiana	PROPARGITE	1994	kg							6381.7			
+18	Indiana	PROPARGITE	1995	kg							273.3			
+18	Indiana	PROPARGITE	1996	kg							1472.8			
+18	Indiana	PROPARGITE	1997	kg					259.9		8966			
+18	Indiana	PROPARGITE	1998	kg	26805						58.6			
+18	Indiana	PROPARGITE	2000	kg							181			
+18	Indiana	PROPARGITE	2003	kg							0.6			
+18	Indiana	PROPARGITE	2007	kg	7025.4									
+19	Iowa	PROPARGITE	1992	kg							41			
+19	Iowa	PROPARGITE	1993	kg							587.9			
+19	Iowa	PROPARGITE	1994	kg							572.5			
+19	Iowa	PROPARGITE	1995	kg							238.7			
+19	Iowa	PROPARGITE	1996	kg							873.4			
+19	Iowa	PROPARGITE	1997	kg							629.8			
+20	Kansas	PROPARGITE	1993	kg	120147.2									
+20	Kansas	PROPARGITE	1994	kg	284337.4						100.9			
+20	Kansas	PROPARGITE	1995	kg	41071.8						155.5			
+20	Kansas	PROPARGITE	1996	kg	55132.8									
+20	Kansas	PROPARGITE	1997	kg	40267.7									
+20	Kansas	PROPARGITE	1998	kg	176599.2									
+20	Kansas	PROPARGITE	1999	kg	279701.3									
+20	Kansas	PROPARGITE	2000	kg	143008.3									
+20	Kansas	PROPARGITE	2001	kg	2512.2									
+20	Kansas	PROPARGITE	2002	kg	209283.3									
+20	Kansas	PROPARGITE	2003	kg	350383.6									
+20	Kansas	PROPARGITE	2004	kg	298181.9									
+20	Kansas	PROPARGITE	2005	kg	37482.4									
+20	Kansas	PROPARGITE	2007	kg	282754.2									
+20	Kansas	PROPARGITE	2008	kg	252562.4									
+20	Kansas	PROPARGITE	2009	kg	381182.8									
+20	Kansas	PROPARGITE	2010	kg	26056.1									
+20	Kansas	PROPARGITE	2011	kg	771601									
+20	Kansas	PROPARGITE	2012	kg	1494942.6									
+20	Kansas	PROPARGITE	2013	kg	309893.8									
+20	Kansas	PROPARGITE	2014	kg	337277.3									
+20	Kansas	PROPARGITE	2015	kg	793734.1									6952.4
+20	Kansas	PROPARGITE	2016	kg	1791405.7									
+20	Kansas	PROPARGITE	2017	kg	2039441.7									25964.6
+21	Kentucky	PROPARGITE	1992	kg							535			
+21	Kentucky	PROPARGITE	1993	kg							1880.3			
+21	Kentucky	PROPARGITE	1994	kg							1638.9			
+21	Kentucky	PROPARGITE	1995	kg							93.7			
+21	Kentucky	PROPARGITE	1996	kg							110.2			
+21	Kentucky	PROPARGITE	1997	kg					7207.5		4748.8			
+21	Kentucky	PROPARGITE	1998	kg					14.8					
+21	Kentucky	PROPARGITE	2007	kg	181.4									
+22	Louisiana	PROPARGITE	2003	kg				334.1						
+22	Louisiana	PROPARGITE	2005	kg				6726.8						
+22	Louisiana	PROPARGITE	2006	kg				2380.7						
+22	Louisiana	PROPARGITE	2008	kg				78195.5						
+22	Louisiana	PROPARGITE	2011	kg				1886						
+23	Maine	PROPARGITE	1992	kg							4010.8			
+23	Maine	PROPARGITE	1993	kg							3498.7			
+23	Maine	PROPARGITE	1994	kg							2374.7			
+23	Maine	PROPARGITE	1995	kg							2424			
+23	Maine	PROPARGITE	1996	kg							3.7			
+24	Maryland	PROPARGITE	1992	kg							522.2			
+24	Maryland	PROPARGITE	1993	kg							89.5			
+24	Maryland	PROPARGITE	1994	kg							80.2			
+24	Maryland	PROPARGITE	1995	kg							3084.3			
+24	Maryland	PROPARGITE	1996	kg							16.1			
+25	Massachusetts	PROPARGITE	1992	kg							96.4			
+25	Massachusetts	PROPARGITE	1993	kg							643.5			
+25	Massachusetts	PROPARGITE	1994	kg					2544.6		6811.1			
+25	Massachusetts	PROPARGITE	1995	kg					4004.5		3942.8			
+25	Massachusetts	PROPARGITE	1996	kg							57.6			
+25	Massachusetts	PROPARGITE	2004	kg							1465.5			
+26	Michigan	PROPARGITE	1992	kg							1567.9			
+26	Michigan	PROPARGITE	1993	kg							7142.7			
+26	Michigan	PROPARGITE	1994	kg							7463.9			
+26	Michigan	PROPARGITE	1995	kg							10500.9			
+26	Michigan	PROPARGITE	1996	kg							22981.4			
+26	Michigan	PROPARGITE	1998	kg	22133.9						2150.1			
+26	Michigan	PROPARGITE	2003	kg							274.1			
+26	Michigan	PROPARGITE	2004	kg							201.9			
+27	Minnesota	PROPARGITE	1992	kg							74.9			
+27	Minnesota	PROPARGITE	1993	kg							773.1			
+27	Minnesota	PROPARGITE	1994	kg							1825.9			
+27	Minnesota	PROPARGITE	1995	kg							684.1			
+27	Minnesota	PROPARGITE	1996	kg							2198.5			
+27	Minnesota	PROPARGITE	1997	kg							4901.4			
+28	Mississippi	PROPARGITE	1993	kg										58.7
+28	Mississippi	PROPARGITE	1994	kg										94.6
+28	Mississippi	PROPARGITE	1995	kg										168.1
+28	Mississippi	PROPARGITE	1997	kg										19.1
+28	Mississippi	PROPARGITE	1999	kg										798.2
+28	Mississippi	PROPARGITE	2003	kg				1060						
+28	Mississippi	PROPARGITE	2005	kg				21328.4						
+28	Mississippi	PROPARGITE	2006	kg				6824.5						
+28	Mississippi	PROPARGITE	2011	kg				1367.2						114.9
+28	Mississippi	PROPARGITE	2015	kg										354.1
+28	Mississippi	PROPARGITE	2016	kg										65.2
+28	Mississippi	PROPARGITE	2017	kg										91.5
+29	Missouri	PROPARGITE	1992	kg							210.9			
+29	Missouri	PROPARGITE	1993	kg							862			
+29	Missouri	PROPARGITE	1994	kg							1823.6			
+29	Missouri	PROPARGITE	1995	kg				167.3			2660.7			
+29	Missouri	PROPARGITE	1996	kg							1153.5			
+29	Missouri	PROPARGITE	1997	kg							790.3			
+29	Missouri	PROPARGITE	1998	kg	10612.2									
+30	Montana	PROPARGITE	1992	kg							47.7			
+30	Montana	PROPARGITE	1993	kg							36.6			
+30	Montana	PROPARGITE	1994	kg							88.8			
+30	Montana	PROPARGITE	1995	kg							83.7			
+30	Montana	PROPARGITE	2015	kg								1486.7		
+31	Nebraska	PROPARGITE	1992	kg	8489.4				1320.6					2451.1
+31	Nebraska	PROPARGITE	1993	kg	37430									
+31	Nebraska	PROPARGITE	1994	kg	84130.2							7374.2		
+31	Nebraska	PROPARGITE	1995	kg	61708.7									
+31	Nebraska	PROPARGITE	1996	kg	106317.5									
+31	Nebraska	PROPARGITE	1997	kg	35045.4									
+31	Nebraska	PROPARGITE	1998	kg	38442									
+31	Nebraska	PROPARGITE	1999	kg	67601.3									
+31	Nebraska	PROPARGITE	2000	kg	65054									
+31	Nebraska	PROPARGITE	2002	kg	48437.5									
+31	Nebraska	PROPARGITE	2003	kg	34556.4									
+31	Nebraska	PROPARGITE	2004	kg	5657.9									
+31	Nebraska	PROPARGITE	2005	kg	89366.2									
+31	Nebraska	PROPARGITE	2006	kg	5931.9									
+31	Nebraska	PROPARGITE	2007	kg	300434.8									
+31	Nebraska	PROPARGITE	2008	kg	95538.2									
+31	Nebraska	PROPARGITE	2009	kg	148433.6									
+31	Nebraska	PROPARGITE	2011	kg	167472.4									
+31	Nebraska	PROPARGITE	2012	kg	3718.3									
+31	Nebraska	PROPARGITE	2013	kg	93899									
+31	Nebraska	PROPARGITE	2014	kg	30274.8									
+31	Nebraska	PROPARGITE	2015	kg	133159									
+31	Nebraska	PROPARGITE	2016	kg	872942.9									
+31	Nebraska	PROPARGITE	2017	kg	753695									
+32	Nevada	PROPARGITE	1992	kg	289.2				0.6		20.1	3151.2	112.5	
+32	Nevada	PROPARGITE	1993	kg	33.8						26.2		21	
+32	Nevada	PROPARGITE	1994	kg	32.7						15.8	4401.5		
+32	Nevada	PROPARGITE	1995	kg	278.9				0.5		56.6	33444.9		
+32	Nevada	PROPARGITE	1996	kg	176.5				207.5		49.3	40577.2		
+32	Nevada	PROPARGITE	1997	kg	465.6						5	1130.1		
+32	Nevada	PROPARGITE	1998	kg	146.3				1567.9		7.6	3414.9		
+32	Nevada	PROPARGITE	1999	kg	262.2				0.2		7.5	7336.2		
+32	Nevada	PROPARGITE	2000	kg	89				2.9		12			
+32	Nevada	PROPARGITE	2001	kg	745.5				433.8		2			
+32	Nevada	PROPARGITE	2002	kg	1352.1				117.1		7			
+32	Nevada	PROPARGITE	2003	kg	699.8						10.4			
+32	Nevada	PROPARGITE	2004	kg	805.6				10.5		5.5			
+32	Nevada	PROPARGITE	2005	kg	425.2						1			
+32	Nevada	PROPARGITE	2006	kg	95.7				408.7		2.4			
+32	Nevada	PROPARGITE	2007	kg	53.6				319.5					
+32	Nevada	PROPARGITE	2008	kg	1175.3						2.2			
+32	Nevada	PROPARGITE	2009	kg	3195				202.8					
+32	Nevada	PROPARGITE	2011	kg	2219.5									
+32	Nevada	PROPARGITE	2012	kg	193.5									
+32	Nevada	PROPARGITE	2014	kg	323.5									
+32	Nevada	PROPARGITE	2015	kg	1826.7									
+32	Nevada	PROPARGITE	2017	kg	3145.5									
+33	New Hampshire	PROPARGITE	1992	kg							1003			
+33	New Hampshire	PROPARGITE	1993	kg							1119.7			
+33	New Hampshire	PROPARGITE	1994	kg					173.2		1211.8			
+33	New Hampshire	PROPARGITE	1995	kg					29.9		676.4			
+33	New Hampshire	PROPARGITE	1996	kg							1.2			
+34	New Jersey	PROPARGITE	1992	kg							1632			
+34	New Jersey	PROPARGITE	1993	kg							205.2			
+34	New Jersey	PROPARGITE	1994	kg							912.3			
+34	New Jersey	PROPARGITE	1995	kg							112.9			
+34	New Jersey	PROPARGITE	1996	kg							35.2			
+34	New Jersey	PROPARGITE	2005	kg							3173.1			
+34	New Jersey	PROPARGITE	2006	kg					890.4					
+34	New Jersey	PROPARGITE	2007	kg							286			
+35	New Mexico	PROPARGITE	1992	kg	1843.9						373.2	987.7		
+35	New Mexico	PROPARGITE	1993	kg	24207.8						197.5			
+35	New Mexico	PROPARGITE	1994	kg	23846.2			500.8	490.9		239.5	2088.5		188.3
+35	New Mexico	PROPARGITE	1995	kg	9003						100.9	7377.2		
+35	New Mexico	PROPARGITE	1996	kg	9322				204					
+35	New Mexico	PROPARGITE	1997	kg	6592.4									167.5
+35	New Mexico	PROPARGITE	1998	kg	8936.8				174.4		35.3			
+35	New Mexico	PROPARGITE	1999	kg	91655.5									1357.2
+35	New Mexico	PROPARGITE	2000	kg	7139.9							743.2		12651.4
+35	New Mexico	PROPARGITE	2001	kg	5940.4									844.9
+35	New Mexico	PROPARGITE	2002	kg	26378.3				1.2			5439.2		
+35	New Mexico	PROPARGITE	2003	kg	18310.1			25	0.9					
+35	New Mexico	PROPARGITE	2004	kg	37021				1.1					
+35	New Mexico	PROPARGITE	2005	kg	3555.5									416.2
+35	New Mexico	PROPARGITE	2006	kg	694.3				14.2					
+35	New Mexico	PROPARGITE	2007	kg	4518.5				33.2					
+35	New Mexico	PROPARGITE	2008	kg	16076.2				1396.4					
+35	New Mexico	PROPARGITE	2009	kg	33096.7									
+35	New Mexico	PROPARGITE	2010	kg	584									
+35	New Mexico	PROPARGITE	2011	kg	64179.6									
+35	New Mexico	PROPARGITE	2012	kg	5513.9							5520.1		272.1
+35	New Mexico	PROPARGITE	2013	kg	28634.2									94.4
+35	New Mexico	PROPARGITE	2014	kg	1171.4									
+35	New Mexico	PROPARGITE	2015	kg	9691									
+35	New Mexico	PROPARGITE	2016	kg	40461.8									
+35	New Mexico	PROPARGITE	2017	kg	17761									744.2
+36	New York	PROPARGITE	1992	kg							4290.4			
+36	New York	PROPARGITE	1993	kg							3111.7			
+36	New York	PROPARGITE	1994	kg					957.7		10312.1			
+36	New York	PROPARGITE	1995	kg					58.3		11597.3			
+36	New York	PROPARGITE	1996	kg							2068.1			
+36	New York	PROPARGITE	2004	kg							6346.3			
+36	New York	PROPARGITE	2007	kg							3700.8			
+37	North Carolina	PROPARGITE	1992	kg				2122.3			287.9			
+37	North Carolina	PROPARGITE	1993	kg				6610.1			3816.9			5733
+37	North Carolina	PROPARGITE	1994	kg							996.9			14366.9
+37	North Carolina	PROPARGITE	1995	kg							7747.2			9386
+37	North Carolina	PROPARGITE	1996	kg							67			
+37	North Carolina	PROPARGITE	1997	kg				5479.7			586.6			2200.7
+37	North Carolina	PROPARGITE	1998	kg										2246.3
+37	North Carolina	PROPARGITE	1999	kg							1038.2			129.5
+37	North Carolina	PROPARGITE	2001	kg					292.2					
+37	North Carolina	PROPARGITE	2002	kg										503.1
+37	North Carolina	PROPARGITE	2007	kg										5755.4
+37	North Carolina	PROPARGITE	2010	kg										1129.1
+37	North Carolina	PROPARGITE	2011	kg										1190.5
+37	North Carolina	PROPARGITE	2013	kg										2577.2
+37	North Carolina	PROPARGITE	2015	kg										3422.4
+37	North Carolina	PROPARGITE	2016	kg										1321.8
+37	North Carolina	PROPARGITE	2017	kg										950.8
+39	Ohio	PROPARGITE	1992	kg							3830.6			
+39	Ohio	PROPARGITE	1993	kg							1666.5			
+39	Ohio	PROPARGITE	1994	kg							3029.3			
+39	Ohio	PROPARGITE	1995	kg							636.4			
+39	Ohio	PROPARGITE	1996	kg							2042.7			
+39	Ohio	PROPARGITE	1997	kg							1665.6	1373.2		
+39	Ohio	PROPARGITE	2007	kg	19835.2									
+40	Oklahoma	PROPARGITE	1992	kg										180.4
+40	Oklahoma	PROPARGITE	1993	kg	5257.9									
+40	Oklahoma	PROPARGITE	1994	kg	12997.4			4412.8						177
+40	Oklahoma	PROPARGITE	1995	kg	2822.4									
+40	Oklahoma	PROPARGITE	1996	kg	2482.4									
+40	Oklahoma	PROPARGITE	1997	kg	1159.4									
+40	Oklahoma	PROPARGITE	1998	kg	1948.6									
+40	Oklahoma	PROPARGITE	1999	kg	17856.7									5781.9
+40	Oklahoma	PROPARGITE	2000	kg	1386.3									5416.5
+40	Oklahoma	PROPARGITE	2001	kg	194.4									4485.3
+40	Oklahoma	PROPARGITE	2002	kg	13725.4						45			8162.5
+40	Oklahoma	PROPARGITE	2003	kg	5647.9			45.4						
+40	Oklahoma	PROPARGITE	2004	kg	3881.5									
+40	Oklahoma	PROPARGITE	2005	kg	1996.6									
+40	Oklahoma	PROPARGITE	2007	kg	7906.5									
+40	Oklahoma	PROPARGITE	2008	kg	23653.5									
+40	Oklahoma	PROPARGITE	2009	kg	35143.6									
+40	Oklahoma	PROPARGITE	2010	kg	1646.8									
+40	Oklahoma	PROPARGITE	2011	kg	26058.8									
+40	Oklahoma	PROPARGITE	2012	kg	50789.8									670.6
+40	Oklahoma	PROPARGITE	2013	kg	35470									149.8
+40	Oklahoma	PROPARGITE	2014	kg	3957									
+40	Oklahoma	PROPARGITE	2015	kg	87839.5									577
+40	Oklahoma	PROPARGITE	2016	kg	222075									
+40	Oklahoma	PROPARGITE	2017	kg	227469.2									4779.1
+41	Oregon	PROPARGITE	1992	kg	1007.4				8981.7		2534.5	12898.4	574.9	
+41	Oregon	PROPARGITE	1993	kg	522.7				1244.2		780.4		116.7	
+41	Oregon	PROPARGITE	1994	kg	1934.1				3849.2		1367	8989.9		
+41	Oregon	PROPARGITE	1995	kg	1558				4734		370.2	22424.8		
+41	Oregon	PROPARGITE	1996	kg	2855.9				1708			68176.6		1620.3
+41	Oregon	PROPARGITE	1997	kg	3650.9				11544.6		27.7	1514.7		
+41	Oregon	PROPARGITE	1998	kg	1729.7				23158.2			2918.3		
+41	Oregon	PROPARGITE	1999	kg	2591.9				154.2		2635	21021.7		
+41	Oregon	PROPARGITE	2000	kg	845.6				9293.7		5540.5			
+41	Oregon	PROPARGITE	2001	kg	2631.7				6809.6		64.8			
+41	Oregon	PROPARGITE	2002	kg	8099.3				2615.5		2.7			
+41	Oregon	PROPARGITE	2003	kg	6319.7				417.8		463.2			
+41	Oregon	PROPARGITE	2004	kg	5543.3				1670.3		602.9			
+41	Oregon	PROPARGITE	2005	kg	2904.2				675.9		4067.2			
+41	Oregon	PROPARGITE	2006	kg	749.8				10909.3					
+41	Oregon	PROPARGITE	2007	kg	410.1				12636.5					
+41	Oregon	PROPARGITE	2008	kg	6544.4				6915.7		120.8			
+41	Oregon	PROPARGITE	2009	kg	17194.9				7416					
+41	Oregon	PROPARGITE	2010	kg					2352.3		186.2			
+41	Oregon	PROPARGITE	2011	kg	11348.5				2011.8					
+41	Oregon	PROPARGITE	2012	kg	970						194.5			
+41	Oregon	PROPARGITE	2013	kg							842.3			
+41	Oregon	PROPARGITE	2014	kg	1206.7				5228.8		549.4			
+41	Oregon	PROPARGITE	2015	kg	8757				149.7		126.1			
+41	Oregon	PROPARGITE	2016	kg							45.4			
+41	Oregon	PROPARGITE	2017	kg	10310.1									
+42	Pennsylvania	PROPARGITE	1992	kg							5394.7			
+42	Pennsylvania	PROPARGITE	1993	kg							2012.1			
+42	Pennsylvania	PROPARGITE	1994	kg							994.5			
+42	Pennsylvania	PROPARGITE	1995	kg							14746.8			
+42	Pennsylvania	PROPARGITE	1996	kg							304.2			
+42	Pennsylvania	PROPARGITE	2005	kg							501.4			
+42	Pennsylvania	PROPARGITE	2006	kg					274.5					
+44	Rhode Island	PROPARGITE	1992	kg							6.9			
+44	Rhode Island	PROPARGITE	1993	kg							29.5			
+44	Rhode Island	PROPARGITE	1994	kg					130.4		135.3			
+44	Rhode Island	PROPARGITE	1995	kg					15		134.7			
+44	Rhode Island	PROPARGITE	1996	kg							4.1			
+45	South Carolina	PROPARGITE	1992	kg							488.5			
+45	South Carolina	PROPARGITE	1993	kg							75.8			316
+45	South Carolina	PROPARGITE	1994	kg				4758.9			481.3			732.2
+45	South Carolina	PROPARGITE	1995	kg							2771			888.9
+45	South Carolina	PROPARGITE	1997	kg							137.6			99.3
+45	South Carolina	PROPARGITE	1999	kg							314.8			21.2
+45	South Carolina	PROPARGITE	2007	kg										2081.9
+45	South Carolina	PROPARGITE	2011	kg										286.8
+45	South Carolina	PROPARGITE	2015	kg										5316.1
+45	South Carolina	PROPARGITE	2016	kg										583.8
+45	South Carolina	PROPARGITE	2017	kg										635.6
+47	Tennessee	PROPARGITE	1992	kg							22			
+47	Tennessee	PROPARGITE	1993	kg							330			
+47	Tennessee	PROPARGITE	1994	kg							2.3			
+47	Tennessee	PROPARGITE	1995	kg				70.3			18			
+47	Tennessee	PROPARGITE	1996	kg							5.3			
+47	Tennessee	PROPARGITE	1997	kg					781.9		36.4			
+47	Tennessee	PROPARGITE	1998	kg					763.5					
+47	Tennessee	PROPARGITE	2005	kg				12841.1						
+48	Texas	PROPARGITE	1992	kg							1.7			218.2
+48	Texas	PROPARGITE	1993	kg	37290.4									
+48	Texas	PROPARGITE	1994	kg	108590.8			255964.7	134.8					1197.2
+48	Texas	PROPARGITE	1995	kg	14269									260.7
+48	Texas	PROPARGITE	1996	kg	27938.6			13459.5						
+48	Texas	PROPARGITE	1997	kg	29003.6			4627.8						1824.6
+48	Texas	PROPARGITE	1998	kg	50051.3						700			
+48	Texas	PROPARGITE	1999	kg	158627.2									16586.9
+48	Texas	PROPARGITE	2000	kg	43773.4									152339.3
+48	Texas	PROPARGITE	2001	kg	2047.6									11692.8
+48	Texas	PROPARGITE	2002	kg	309557.5						555.3	1606.9		8931.5
+48	Texas	PROPARGITE	2003	kg	163899.1			6836.3						
+48	Texas	PROPARGITE	2004	kg	97601.6									
+48	Texas	PROPARGITE	2005	kg	27046.7									4869.7
+48	Texas	PROPARGITE	2007	kg	175430.9									
+48	Texas	PROPARGITE	2008	kg	329652.9				2251.9					
+48	Texas	PROPARGITE	2009	kg	404930.5									
+48	Texas	PROPARGITE	2011	kg	46853.6									
+48	Texas	PROPARGITE	2012	kg	42153.3									5305
+48	Texas	PROPARGITE	2013	kg	148250.1									1377.8
+48	Texas	PROPARGITE	2014	kg	7556.7									
+48	Texas	PROPARGITE	2015	kg	60546.1									
+48	Texas	PROPARGITE	2016	kg	708892.5									
+48	Texas	PROPARGITE	2017	kg	502044.3									3755.1
+49	Utah	PROPARGITE	1992	kg	4584.7						577.5	2666.8		
+49	Utah	PROPARGITE	1993	kg	4436.7						413.6			
+49	Utah	PROPARGITE	1994	kg	659				123.9		3058.6	6142.1		
+49	Utah	PROPARGITE	1995	kg	1866.2						2469.3	21980.1		
+49	Utah	PROPARGITE	1996	kg	6531.4				20.6		375.6			
+49	Utah	PROPARGITE	1997	kg	10832.3									
+49	Utah	PROPARGITE	1998	kg	2905.8				139.2		1.9	1506.6		
+49	Utah	PROPARGITE	1999	kg	5419.9									
+49	Utah	PROPARGITE	2000	kg	1867.5							1036.7		
+49	Utah	PROPARGITE	2001	kg	6760.4						671.8			
+49	Utah	PROPARGITE	2002	kg	23193.5				30.8		39.2			
+49	Utah	PROPARGITE	2003	kg	13086.7				24		1005.2			
+49	Utah	PROPARGITE	2004	kg	10068.3				28.6		724.1			
+49	Utah	PROPARGITE	2005	kg	6967.9									
+49	Utah	PROPARGITE	2006	kg	1711.4				165					
+49	Utah	PROPARGITE	2007	kg	877.8				267.6					
+49	Utah	PROPARGITE	2008	kg	14581.3									
+49	Utah	PROPARGITE	2009	kg	31599				7.7					
+49	Utah	PROPARGITE	2010	kg	791.5									
+49	Utah	PROPARGITE	2011	kg	18416.6									
+49	Utah	PROPARGITE	2012	kg	1865.2							8353.5		
+49	Utah	PROPARGITE	2014	kg	1799.6									
+49	Utah	PROPARGITE	2015	kg	12091.7									
+49	Utah	PROPARGITE	2016	kg	2075.6									
+49	Utah	PROPARGITE	2017	kg	17658.2									
+50	Vermont	PROPARGITE	1992	kg							1947.6			
+50	Vermont	PROPARGITE	1993	kg							801			
+50	Vermont	PROPARGITE	1994	kg					129.8		1029.3			
+50	Vermont	PROPARGITE	1995	kg					31.8		199.4			
+50	Vermont	PROPARGITE	1996	kg							40.9			
+50	Vermont	PROPARGITE	2004	kg							1109.8			
+51	Virginia	PROPARGITE	1992	kg				157.5			1561.2			
+51	Virginia	PROPARGITE	1993	kg				547.2			698.2			5012
+51	Virginia	PROPARGITE	1994	kg							586.7			166.7
+51	Virginia	PROPARGITE	1995	kg							13227.4			11524.5
+51	Virginia	PROPARGITE	1996	kg							265			
+51	Virginia	PROPARGITE	1997	kg				978.8						220
+51	Virginia	PROPARGITE	1998	kg										1496
+51	Virginia	PROPARGITE	1999	kg										204.3
+51	Virginia	PROPARGITE	2002	kg										287.5
+51	Virginia	PROPARGITE	2010	kg										305.3
+51	Virginia	PROPARGITE	2011	kg										237
+51	Virginia	PROPARGITE	2015	kg										544
+51	Virginia	PROPARGITE	2016	kg										121
+51	Virginia	PROPARGITE	2017	kg										168.1
+53	Washington	PROPARGITE	1992	kg					2108.8		10243	1119.7		
+53	Washington	PROPARGITE	1993	kg					16378.9		10052.2			
+53	Washington	PROPARGITE	1994	kg					2905.4		16160	3539.7		
+53	Washington	PROPARGITE	1995	kg					12489.8		1121			
+53	Washington	PROPARGITE	1996	kg	2328.4				43583.8					
+53	Washington	PROPARGITE	1997	kg					45833.1					
+53	Washington	PROPARGITE	1998	kg	6122.3				27151.6					
+53	Washington	PROPARGITE	1999	kg					47471.7		13881.3			
+53	Washington	PROPARGITE	2000	kg					23764.6		13052.1			
+53	Washington	PROPARGITE	2001	kg					47178.8		2738.4			
+53	Washington	PROPARGITE	2002	kg							766.5			
+53	Washington	PROPARGITE	2003	kg					2283.4		1079.8			
+53	Washington	PROPARGITE	2004	kg					6097.9		1737.2			
+53	Washington	PROPARGITE	2005	kg					10992		1107			
+53	Washington	PROPARGITE	2006	kg					26684.2		663.3			
+53	Washington	PROPARGITE	2007	kg					85753					
+53	Washington	PROPARGITE	2008	kg					67881.9					
+53	Washington	PROPARGITE	2009	kg					28011.8					
+53	Washington	PROPARGITE	2010	kg					22289.7		2518.5			
+53	Washington	PROPARGITE	2012	kg					3314.6		667.5			
+53	Washington	PROPARGITE	2013	kg					2754.4		1286.1			
+53	Washington	PROPARGITE	2014	kg	2709.1				30774.7		2389.8			
+53	Washington	PROPARGITE	2015	kg					2625.9		1368.3			
+53	Washington	PROPARGITE	2016	kg					5465.9		149.3			
+53	Washington	PROPARGITE	2017	kg					13459.7					
+54	West Virginia	PROPARGITE	1992	kg							1216.1			
+54	West Virginia	PROPARGITE	1993	kg							447.7			
+54	West Virginia	PROPARGITE	1994	kg							320.8			
+54	West Virginia	PROPARGITE	1995	kg							6198.1			
+54	West Virginia	PROPARGITE	1996	kg							21.9			
+55	Wisconsin	PROPARGITE	1992	kg							167.3			
+55	Wisconsin	PROPARGITE	1993	kg							630.7			
+55	Wisconsin	PROPARGITE	1994	kg							865.2			
+55	Wisconsin	PROPARGITE	1995	kg							1394.6			
+55	Wisconsin	PROPARGITE	1996	kg							1787.1			
+56	Wyoming	PROPARGITE	1992	kg	545.6				142.4			501.6		616
+56	Wyoming	PROPARGITE	1993	kg	2396									
+56	Wyoming	PROPARGITE	1994	kg	4459.1							4337.8		
+56	Wyoming	PROPARGITE	1995	kg	3299.8							3996.4		
+56	Wyoming	PROPARGITE	1996	kg	5774.6									
+56	Wyoming	PROPARGITE	1997	kg	1722.4									
+56	Wyoming	PROPARGITE	1998	kg	2047.9							807.1		
+56	Wyoming	PROPARGITE	1999	kg	3347.5									
+56	Wyoming	PROPARGITE	2000	kg	3368.7									
+56	Wyoming	PROPARGITE	2001	kg	127.1									
+56	Wyoming	PROPARGITE	2002	kg	2498.7									
+56	Wyoming	PROPARGITE	2003	kg	1786.6									
+56	Wyoming	PROPARGITE	2004	kg	338.2									
+56	Wyoming	PROPARGITE	2005	kg	4135.9									
+56	Wyoming	PROPARGITE	2006	kg	287.8									
+56	Wyoming	PROPARGITE	2007	kg	11922.2									
+56	Wyoming	PROPARGITE	2008	kg	37.5									
+56	Wyoming	PROPARGITE	2009	kg	138.1									
+56	Wyoming	PROPARGITE	2011	kg	131.7									
+56	Wyoming	PROPARGITE	2012	kg	173.6									
+56	Wyoming	PROPARGITE	2014	kg	42									
+56	Wyoming	PROPARGITE	2015	kg	305.8							1798.9		
+56	Wyoming	PROPARGITE	2017	kg	652.7									

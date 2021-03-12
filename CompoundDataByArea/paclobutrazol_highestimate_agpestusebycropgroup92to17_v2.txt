@@ -1,0 +1,30 @@
+01	Alabama	PACLOBUTRAZOL	1997	kg				15.4						
+06	California	PACLOBUTRAZOL	1992	kg							0.2			
+06	California	PACLOBUTRAZOL	1993	kg							0.4			
+06	California	PACLOBUTRAZOL	1994	kg							4.3			
+06	California	PACLOBUTRAZOL	1995	kg							4.3			
+06	California	PACLOBUTRAZOL	1996	kg							7			
+06	California	PACLOBUTRAZOL	1997	kg							14.1			
+06	California	PACLOBUTRAZOL	1998	kg							8.8			
+06	California	PACLOBUTRAZOL	1999	kg							13.9			0
+06	California	PACLOBUTRAZOL	2000	kg							12.9			
+06	California	PACLOBUTRAZOL	2001	kg							14			
+06	California	PACLOBUTRAZOL	2002	kg							12			
+06	California	PACLOBUTRAZOL	2003	kg							11.6			
+06	California	PACLOBUTRAZOL	2004	kg							12			
+06	California	PACLOBUTRAZOL	2005	kg							13.3			
+06	California	PACLOBUTRAZOL	2006	kg							12.4			
+06	California	PACLOBUTRAZOL	2007	kg							13.9		0.2	
+06	California	PACLOBUTRAZOL	2008	kg							13.6			
+06	California	PACLOBUTRAZOL	2009	kg							14.7			
+06	California	PACLOBUTRAZOL	2010	kg							59.3			
+06	California	PACLOBUTRAZOL	2011	kg							23			
+06	California	PACLOBUTRAZOL	2012	kg					80.6		46.4			
+06	California	PACLOBUTRAZOL	2013	kg							25.5			
+06	California	PACLOBUTRAZOL	2014	kg							16.6			
+06	California	PACLOBUTRAZOL	2015	kg							19.4			
+06	California	PACLOBUTRAZOL	2016	kg							17.1			
+06	California	PACLOBUTRAZOL	2017	kg							13.1			
+12	Florida	PACLOBUTRAZOL	1997	kg				3.4						
+28	Mississippi	PACLOBUTRAZOL	1997	kg				0.1						
+36	New York	PACLOBUTRAZOL	1992	kg									0	

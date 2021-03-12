@@ -1,0 +1,1175 @@
+01	Alabama	PHOSMET	1992	kg							2243.8			
+01	Alabama	PHOSMET	1993	kg							2097.2			
+01	Alabama	PHOSMET	1994	kg							4156.2			
+01	Alabama	PHOSMET	1995	kg							4875.3			
+01	Alabama	PHOSMET	1996	kg					80		6637.4			
+01	Alabama	PHOSMET	1997	kg					8.1		57633.3			
+01	Alabama	PHOSMET	1998	kg							755.8			
+01	Alabama	PHOSMET	1999	kg							4209.3			
+01	Alabama	PHOSMET	2000	kg							16933.6			
+01	Alabama	PHOSMET	2001	kg							6668			
+01	Alabama	PHOSMET	2002	kg							12752.3			
+01	Alabama	PHOSMET	2003	kg							4865.2			
+01	Alabama	PHOSMET	2004	kg					13.2		4272.1			
+01	Alabama	PHOSMET	2005	kg							11301.6			
+01	Alabama	PHOSMET	2006	kg							3975.2			
+01	Alabama	PHOSMET	2007	kg							6816.8			
+01	Alabama	PHOSMET	2008	kg							9389			
+01	Alabama	PHOSMET	2009	kg							15604.2			
+01	Alabama	PHOSMET	2010	kg							4398.8			
+01	Alabama	PHOSMET	2011	kg							3084.4			
+01	Alabama	PHOSMET	2012	kg							3504.7			
+01	Alabama	PHOSMET	2013	kg							4545.8			
+01	Alabama	PHOSMET	2014	kg							396.5			
+01	Alabama	PHOSMET	2015	kg							1840.3			
+01	Alabama	PHOSMET	2016	kg							1955			
+01	Alabama	PHOSMET	2017	kg							1472			
+04	Arizona	PHOSMET	1992	kg							915.5			
+04	Arizona	PHOSMET	1993	kg					1.7		848.2			
+04	Arizona	PHOSMET	1994	kg							1136			
+04	Arizona	PHOSMET	1995	kg							263.1			
+04	Arizona	PHOSMET	1996	kg							1699.7			
+04	Arizona	PHOSMET	1997	kg							3874.9			
+04	Arizona	PHOSMET	1998	kg							9714			
+04	Arizona	PHOSMET	1999	kg							2714.6			
+04	Arizona	PHOSMET	2000	kg							2620.7			
+04	Arizona	PHOSMET	2001	kg							968.3			
+04	Arizona	PHOSMET	2002	kg							2368.4			
+04	Arizona	PHOSMET	2003	kg							2967.4			
+04	Arizona	PHOSMET	2004	kg							965.8			
+04	Arizona	PHOSMET	2005	kg							6133.7			
+04	Arizona	PHOSMET	2006	kg							1761.7			
+04	Arizona	PHOSMET	2007	kg							2654.8			
+04	Arizona	PHOSMET	2008	kg							467.3			
+04	Arizona	PHOSMET	2009	kg							435.6			
+04	Arizona	PHOSMET	2010	kg							55.3			
+04	Arizona	PHOSMET	2011	kg							0			
+04	Arizona	PHOSMET	2012	kg							335			
+04	Arizona	PHOSMET	2013	kg							413.8			
+04	Arizona	PHOSMET	2014	kg							320.6			
+04	Arizona	PHOSMET	2015	kg							11.7			
+04	Arizona	PHOSMET	2016	kg							249.7			
+04	Arizona	PHOSMET	2017	kg							27.2			
+05	Arkansas	PHOSMET	1992	kg							9234.1			
+05	Arkansas	PHOSMET	1993	kg							105.9			
+05	Arkansas	PHOSMET	1994	kg							639.9			
+05	Arkansas	PHOSMET	1995	kg				3832.3			6354.1			
+05	Arkansas	PHOSMET	1996	kg							12492			
+05	Arkansas	PHOSMET	1997	kg							5476.2			
+05	Arkansas	PHOSMET	1999	kg							3021.3			
+05	Arkansas	PHOSMET	2000	kg				231.2			1783.5			
+05	Arkansas	PHOSMET	2001	kg							120.7			
+05	Arkansas	PHOSMET	2002	kg							1686.7			
+05	Arkansas	PHOSMET	2003	kg							6792.9			
+05	Arkansas	PHOSMET	2004	kg							7693.7			
+05	Arkansas	PHOSMET	2005	kg							2354.2			
+05	Arkansas	PHOSMET	2006	kg							359.5			
+05	Arkansas	PHOSMET	2007	kg							486.4			
+05	Arkansas	PHOSMET	2008	kg							2594			
+05	Arkansas	PHOSMET	2009	kg							2259.9			
+05	Arkansas	PHOSMET	2010	kg							2015.2			
+05	Arkansas	PHOSMET	2011	kg							798.1			
+05	Arkansas	PHOSMET	2014	kg							237.7			
+05	Arkansas	PHOSMET	2015	kg							69.7			
+06	California	PHOSMET	1992	kg				359.3	1.8		89563.5	30348.5		
+06	California	PHOSMET	1993	kg							73977.7	29853.8		
+06	California	PHOSMET	1994	kg				5.1			65698.2	27860.2		
+06	California	PHOSMET	1995	kg				70.9			90612	30679.5		
+06	California	PHOSMET	1996	kg				0			154296.9	26567.7		20.4
+06	California	PHOSMET	1997	kg				41.5			243918.5	18459.1		
+06	California	PHOSMET	1998	kg	31.7				0.5		262167.7	31725.8		
+06	California	PHOSMET	1999	kg	19			41.6	3.2		281223.6	11967.2		19.4
+06	California	PHOSMET	2000	kg	19						251203	9243.4		
+06	California	PHOSMET	2001	kg							266722.1	5791.1		0.6
+06	California	PHOSMET	2002	kg							178956.4	4733.7		9.1
+06	California	PHOSMET	2003	kg							152248.3	2723.8		4.8
+06	California	PHOSMET	2004	kg							297054.8	1241		4.8
+06	California	PHOSMET	2005	kg							246691.8	1372.6		
+06	California	PHOSMET	2006	kg							282568.2	829.9		
+06	California	PHOSMET	2007	kg							191735.8	384		14
+06	California	PHOSMET	2008	kg					0		153921.6	95.2		
+06	California	PHOSMET	2009	kg							59967.8	135.4		
+06	California	PHOSMET	2010	kg					8.3		52068.9	63.8		
+06	California	PHOSMET	2011	kg					0		43087.1	182.7		
+06	California	PHOSMET	2012	kg	1.9				1.9		24266.6	32.8		
+06	California	PHOSMET	2013	kg							27507.8	66.9		
+06	California	PHOSMET	2014	kg					166.9		17960.8	1953.7		
+06	California	PHOSMET	2015	kg							8453.7	1024		
+06	California	PHOSMET	2016	kg					6		12922.8	179.5		
+06	California	PHOSMET	2017	kg					62.5		6845.1	559		
+08	Colorado	PHOSMET	1992	kg							1196.5			
+08	Colorado	PHOSMET	1993	kg							2789.9			
+08	Colorado	PHOSMET	1994	kg							502.7			
+08	Colorado	PHOSMET	1995	kg							310			
+08	Colorado	PHOSMET	1996	kg							1300.7			
+08	Colorado	PHOSMET	1997	kg							2311.9			
+08	Colorado	PHOSMET	1998	kg							1076.1			
+08	Colorado	PHOSMET	1999	kg							1234.7			
+08	Colorado	PHOSMET	2000	kg							3648.2			
+08	Colorado	PHOSMET	2001	kg							2941.8			
+08	Colorado	PHOSMET	2002	kg							1557.7			
+08	Colorado	PHOSMET	2003	kg							3577.8			
+08	Colorado	PHOSMET	2004	kg							1918.6			
+08	Colorado	PHOSMET	2005	kg							1019.1			
+08	Colorado	PHOSMET	2006	kg							403.1			
+08	Colorado	PHOSMET	2007	kg							442.1			
+08	Colorado	PHOSMET	2008	kg							451.3			
+08	Colorado	PHOSMET	2009	kg							2182.3			
+08	Colorado	PHOSMET	2010	kg							96.9			
+08	Colorado	PHOSMET	2012	kg							587.5			
+08	Colorado	PHOSMET	2013	kg							893.5			
+08	Colorado	PHOSMET	2014	kg							165			
+08	Colorado	PHOSMET	2015	kg							350.8			
+08	Colorado	PHOSMET	2017	kg							222.5			
+09	Connecticut	PHOSMET	1992	kg					181.4		580.3			
+09	Connecticut	PHOSMET	1993	kg					37.9		755.3			
+09	Connecticut	PHOSMET	1994	kg					58		4487.1			
+09	Connecticut	PHOSMET	1995	kg					17.1		1099.9			
+09	Connecticut	PHOSMET	1996	kg					74		3083			
+09	Connecticut	PHOSMET	1997	kg					79.6		12129.3			
+09	Connecticut	PHOSMET	1998	kg							395.5			
+09	Connecticut	PHOSMET	1999	kg							3756.2			
+09	Connecticut	PHOSMET	2000	kg							2299.2			
+09	Connecticut	PHOSMET	2001	kg							4571.1			
+09	Connecticut	PHOSMET	2002	kg							1982.6			
+09	Connecticut	PHOSMET	2003	kg							2668.2			
+09	Connecticut	PHOSMET	2004	kg							4049.5			
+09	Connecticut	PHOSMET	2005	kg							3436.1			
+09	Connecticut	PHOSMET	2006	kg							3572.5			
+09	Connecticut	PHOSMET	2007	kg							4168.5			
+09	Connecticut	PHOSMET	2008	kg							2196.3			
+09	Connecticut	PHOSMET	2009	kg							2674.5			
+09	Connecticut	PHOSMET	2010	kg							3901.6			
+09	Connecticut	PHOSMET	2011	kg							4034.5			
+09	Connecticut	PHOSMET	2012	kg							1192.5			
+09	Connecticut	PHOSMET	2013	kg							11529.7			
+09	Connecticut	PHOSMET	2014	kg							1173.5			
+09	Connecticut	PHOSMET	2015	kg							3633.8			
+09	Connecticut	PHOSMET	2016	kg							647.2			
+09	Connecticut	PHOSMET	2017	kg					2.2		3239.3			
+10	Delaware	PHOSMET	1992	kg					0.5		4.3			
+10	Delaware	PHOSMET	1993	kg							2.7			
+10	Delaware	PHOSMET	1994	kg							2.1			
+10	Delaware	PHOSMET	1995	kg							6.2			
+10	Delaware	PHOSMET	1996	kg					1.3		3.1			
+10	Delaware	PHOSMET	1997	kg							3.9			
+10	Delaware	PHOSMET	1998	kg							3			
+10	Delaware	PHOSMET	1999	kg							5.8			
+10	Delaware	PHOSMET	2000	kg							16.4			
+10	Delaware	PHOSMET	2001	kg							24.2			
+10	Delaware	PHOSMET	2002	kg							21.2			
+10	Delaware	PHOSMET	2003	kg							41.5			
+10	Delaware	PHOSMET	2004	kg							14.7			
+10	Delaware	PHOSMET	2005	kg							36.9			
+10	Delaware	PHOSMET	2006	kg					1.2		27.6			
+10	Delaware	PHOSMET	2007	kg							14.2			
+10	Delaware	PHOSMET	2008	kg							1.5			
+10	Delaware	PHOSMET	2009	kg							1.9			
+10	Delaware	PHOSMET	2010	kg							2.6			
+10	Delaware	PHOSMET	2011	kg							2.9			
+10	Delaware	PHOSMET	2012	kg							0.8			
+10	Delaware	PHOSMET	2013	kg							0.3			
+10	Delaware	PHOSMET	2014	kg							0.1			
+10	Delaware	PHOSMET	2015	kg							1.1			
+10	Delaware	PHOSMET	2016	kg							1.1			
+10	Delaware	PHOSMET	2017	kg							0.5			
+12	Florida	PHOSMET	1995	kg							87.2			
+12	Florida	PHOSMET	1996	kg							234.9			
+12	Florida	PHOSMET	1997	kg							423.8			
+12	Florida	PHOSMET	1999	kg							152.6			
+12	Florida	PHOSMET	2000	kg							617.7			
+12	Florida	PHOSMET	2001	kg							3393.2			
+12	Florida	PHOSMET	2002	kg							1045.4			
+12	Florida	PHOSMET	2003	kg							1144.9			
+12	Florida	PHOSMET	2004	kg							455.8			
+12	Florida	PHOSMET	2005	kg							492.7			
+12	Florida	PHOSMET	2006	kg							202.7			
+12	Florida	PHOSMET	2007	kg							2854.4			
+12	Florida	PHOSMET	2008	kg							17568.8			
+12	Florida	PHOSMET	2009	kg							33138.8			
+12	Florida	PHOSMET	2010	kg							37868.2			
+12	Florida	PHOSMET	2011	kg							62307.2			
+12	Florida	PHOSMET	2012	kg							50792.4			
+12	Florida	PHOSMET	2013	kg							64542.5			
+12	Florida	PHOSMET	2014	kg							27796.7			
+12	Florida	PHOSMET	2015	kg							59708.7			
+12	Florida	PHOSMET	2016	kg							53366.8			
+12	Florida	PHOSMET	2017	kg							16285.7			
+13	Georgia	PHOSMET	1992	kg							7085.4			
+13	Georgia	PHOSMET	1993	kg							66471.6			
+13	Georgia	PHOSMET	1994	kg							53813.2			
+13	Georgia	PHOSMET	1995	kg							28363.6			
+13	Georgia	PHOSMET	1996	kg					0		12853.2			
+13	Georgia	PHOSMET	1997	kg							25745.6			
+13	Georgia	PHOSMET	1998	kg							4844.1			
+13	Georgia	PHOSMET	1999	kg							22706.4			
+13	Georgia	PHOSMET	2000	kg							72262.8			
+13	Georgia	PHOSMET	2001	kg							68388.7			
+13	Georgia	PHOSMET	2002	kg							91986.6			
+13	Georgia	PHOSMET	2003	kg							48108.3			
+13	Georgia	PHOSMET	2004	kg					0		53711			
+13	Georgia	PHOSMET	2005	kg							65723.5			
+13	Georgia	PHOSMET	2006	kg							30220.6			
+13	Georgia	PHOSMET	2007	kg							20097.3			
+13	Georgia	PHOSMET	2008	kg							27923.8			
+13	Georgia	PHOSMET	2009	kg							42479.2			
+13	Georgia	PHOSMET	2010	kg							40648.3			
+13	Georgia	PHOSMET	2011	kg							34873.8			
+13	Georgia	PHOSMET	2012	kg							38558			
+13	Georgia	PHOSMET	2013	kg							68753.1			
+13	Georgia	PHOSMET	2014	kg							6849.9			
+13	Georgia	PHOSMET	2015	kg							46760.1			
+13	Georgia	PHOSMET	2016	kg							31388.9			
+13	Georgia	PHOSMET	2017	kg							33586.6			
+16	Idaho	PHOSMET	1992	kg			805.5		11180.5		1895.6	1291.2	1503.7	
+16	Idaho	PHOSMET	1993	kg					8989.7		1192.3		287	
+16	Idaho	PHOSMET	1994	kg					11072.5		1373.7			
+16	Idaho	PHOSMET	1995	kg					7502.4		319.6			
+16	Idaho	PHOSMET	1996	kg					5021.4		1493.9			
+16	Idaho	PHOSMET	1997	kg					364.5		823			
+16	Idaho	PHOSMET	1998	kg					6895		494.5			
+16	Idaho	PHOSMET	1999	kg					6627.6		750.5	4875.9		
+16	Idaho	PHOSMET	2000	kg					14056.3		9571.7			
+16	Idaho	PHOSMET	2001	kg					13100.9		1061.9			
+16	Idaho	PHOSMET	2002	kg					4151		804.1			
+16	Idaho	PHOSMET	2003	kg					5780.7		3822	12865.8		
+16	Idaho	PHOSMET	2004	kg							8884.8			
+16	Idaho	PHOSMET	2005	kg					2096.2		1025.3			
+16	Idaho	PHOSMET	2006	kg					6.3		752.8			
+16	Idaho	PHOSMET	2007	kg					2526.9		210.1			
+16	Idaho	PHOSMET	2008	kg					4780.3		5518.1			
+16	Idaho	PHOSMET	2009	kg					156.9		840.8			
+16	Idaho	PHOSMET	2010	kg					1636.2		305.7			
+16	Idaho	PHOSMET	2011	kg					1767.2		116.7			
+16	Idaho	PHOSMET	2012	kg					1552.7		205			
+16	Idaho	PHOSMET	2013	kg					11083.9		1186			
+16	Idaho	PHOSMET	2014	kg					1993.9		534.1			
+16	Idaho	PHOSMET	2015	kg					4278.8		197.9			
+16	Idaho	PHOSMET	2016	kg					735.7		82.3			
+16	Idaho	PHOSMET	2017	kg					1118		378			
+17	Illinois	PHOSMET	1992	kg					18.2		5457.5	1386.4		
+17	Illinois	PHOSMET	1993	kg							19176.5	8524.5		
+17	Illinois	PHOSMET	1994	kg					42.6		17013.8	3361.3		
+17	Illinois	PHOSMET	1995	kg					105.9		9577.2	2557.7	1850	
+17	Illinois	PHOSMET	1996	kg					117.5		17547.9	2071.9		
+17	Illinois	PHOSMET	1997	kg					129.3		3672.7			
+17	Illinois	PHOSMET	1998	kg							6527.4			
+17	Illinois	PHOSMET	1999	kg							11234.5			
+17	Illinois	PHOSMET	2000	kg					33.8		29657.2			
+17	Illinois	PHOSMET	2001	kg							10333.5			
+17	Illinois	PHOSMET	2002	kg					541.2		6814.7			
+17	Illinois	PHOSMET	2003	kg							11524.1			
+17	Illinois	PHOSMET	2004	kg							10916.3			
+17	Illinois	PHOSMET	2005	kg							13938.4			
+17	Illinois	PHOSMET	2006	kg					8		13090.7			
+17	Illinois	PHOSMET	2007	kg							4295.7			
+17	Illinois	PHOSMET	2008	kg							5293			
+17	Illinois	PHOSMET	2009	kg							7053.6			
+17	Illinois	PHOSMET	2010	kg							3293			
+17	Illinois	PHOSMET	2011	kg							5074.3			
+17	Illinois	PHOSMET	2012	kg							3615.9			
+17	Illinois	PHOSMET	2013	kg							3732.6			
+17	Illinois	PHOSMET	2014	kg					364.7		5347.1			
+17	Illinois	PHOSMET	2015	kg							4815.4			
+17	Illinois	PHOSMET	2016	kg								454.2		
+18	Indiana	PHOSMET	1992	kg					151.4		31677.7			
+18	Indiana	PHOSMET	1993	kg					99.1		19812.7			
+18	Indiana	PHOSMET	1994	kg					3820.2		27095.5			
+18	Indiana	PHOSMET	1995	kg					389.5		11231.3	3154.4	3443.6	
+18	Indiana	PHOSMET	1996	kg	1189.1				503.2		21699.9	31.4		
+18	Indiana	PHOSMET	1997	kg					623.7		23530.8			
+18	Indiana	PHOSMET	1998	kg					217.8		8374.9			
+18	Indiana	PHOSMET	1999	kg							18416.4			
+18	Indiana	PHOSMET	2000	kg					1740.5		13448.8			
+18	Indiana	PHOSMET	2001	kg							8558.8			
+18	Indiana	PHOSMET	2002	kg					5.1		10064.6			
+18	Indiana	PHOSMET	2003	kg					23		11528.3			
+18	Indiana	PHOSMET	2004	kg					645		3885.9			
+18	Indiana	PHOSMET	2005	kg					165.4		5349.2			
+18	Indiana	PHOSMET	2006	kg					159.6		3548.9			
+18	Indiana	PHOSMET	2007	kg					14		2063.4			
+18	Indiana	PHOSMET	2008	kg							4015.5			
+18	Indiana	PHOSMET	2009	kg							2975.4			
+18	Indiana	PHOSMET	2010	kg							2147.9			
+18	Indiana	PHOSMET	2011	kg							2832.6			
+18	Indiana	PHOSMET	2012	kg							1964.4			
+18	Indiana	PHOSMET	2013	kg							2512.3			
+18	Indiana	PHOSMET	2014	kg							3302.2			
+18	Indiana	PHOSMET	2015	kg					89.2		3934.3			
+18	Indiana	PHOSMET	2016	kg							259.8			
+18	Indiana	PHOSMET	2017	kg							100.8			
+19	Iowa	PHOSMET	1992	kg							2704.5			
+19	Iowa	PHOSMET	1993	kg							2060.1			
+19	Iowa	PHOSMET	1994	kg							1718.9			
+19	Iowa	PHOSMET	1995	kg							2870.8	4592		
+19	Iowa	PHOSMET	1996	kg							7586.3			
+19	Iowa	PHOSMET	1997	kg							1706.9	4954.1		
+19	Iowa	PHOSMET	1998	kg							2452.2			
+19	Iowa	PHOSMET	1999	kg							5043.8			
+19	Iowa	PHOSMET	2000	kg							13329.1	1536.1		
+19	Iowa	PHOSMET	2001	kg							1210.3			
+19	Iowa	PHOSMET	2002	kg							3409.3			
+19	Iowa	PHOSMET	2003	kg							1409.8			
+19	Iowa	PHOSMET	2004	kg							2016.8			
+19	Iowa	PHOSMET	2005	kg							4735.6			
+19	Iowa	PHOSMET	2006	kg							4214.7			
+19	Iowa	PHOSMET	2007	kg							1524.9			
+19	Iowa	PHOSMET	2008	kg							2141.7			
+19	Iowa	PHOSMET	2009	kg							1443.3			
+19	Iowa	PHOSMET	2010	kg					76.8		550			
+19	Iowa	PHOSMET	2011	kg							1807			
+19	Iowa	PHOSMET	2012	kg							1400.2			
+19	Iowa	PHOSMET	2013	kg							1200.3			
+19	Iowa	PHOSMET	2014	kg					13.4		1598.6			
+19	Iowa	PHOSMET	2015	kg							2097.2			
+19	Iowa	PHOSMET	2016	kg								713.4		
+20	Kansas	PHOSMET	1992	kg							109.9			
+20	Kansas	PHOSMET	1993	kg							392.8			
+20	Kansas	PHOSMET	1994	kg							516.1			128.7
+20	Kansas	PHOSMET	1995	kg							1858.2			
+20	Kansas	PHOSMET	1996	kg							3493.9			
+20	Kansas	PHOSMET	1997	kg							12618.1	682.2		
+20	Kansas	PHOSMET	1999	kg							139			
+20	Kansas	PHOSMET	2000	kg							1210.7	223.8		
+20	Kansas	PHOSMET	2001	kg							1287.3			
+20	Kansas	PHOSMET	2002	kg							250.7			
+20	Kansas	PHOSMET	2003	kg				511.2			385.1			
+20	Kansas	PHOSMET	2004	kg							26.4			
+20	Kansas	PHOSMET	2005	kg							67			
+20	Kansas	PHOSMET	2006	kg							29.7			
+20	Kansas	PHOSMET	2008	kg							49.1			
+20	Kansas	PHOSMET	2009	kg							12.1			
+20	Kansas	PHOSMET	2010	kg							193			
+20	Kansas	PHOSMET	2011	kg							67.2			
+20	Kansas	PHOSMET	2012	kg							127.6			
+20	Kansas	PHOSMET	2013	kg							40			
+20	Kansas	PHOSMET	2014	kg							95.4			
+20	Kansas	PHOSMET	2015	kg							38.5			
+20	Kansas	PHOSMET	2016	kg							13.7	19393.4		
+20	Kansas	PHOSMET	2017	kg							60.1			
+21	Kentucky	PHOSMET	1992	kg					163.2		4598.3	66.9		
+21	Kentucky	PHOSMET	1993	kg							5079.6	359.3		
+21	Kentucky	PHOSMET	1994	kg					8.6		3004.5	200.9		
+21	Kentucky	PHOSMET	1995	kg					15.3		5141	126.6	8093.7	
+21	Kentucky	PHOSMET	1996	kg	64.4				11.7		7071.7	98.8		
+21	Kentucky	PHOSMET	1997	kg					27.5		5503.1			
+21	Kentucky	PHOSMET	1998	kg							2487.6			
+21	Kentucky	PHOSMET	1999	kg							8496.1			
+21	Kentucky	PHOSMET	2000	kg					396.6		12300.3			
+21	Kentucky	PHOSMET	2001	kg							5391.3			
+21	Kentucky	PHOSMET	2002	kg							4399.4			
+21	Kentucky	PHOSMET	2003	kg							5712.4			
+21	Kentucky	PHOSMET	2004	kg							3989.6			
+21	Kentucky	PHOSMET	2005	kg							3838.8			
+21	Kentucky	PHOSMET	2006	kg							5809.7			
+21	Kentucky	PHOSMET	2007	kg							2388.7			
+21	Kentucky	PHOSMET	2008	kg							2326.5			
+21	Kentucky	PHOSMET	2009	kg							3086			
+21	Kentucky	PHOSMET	2010	kg							1205.2			
+21	Kentucky	PHOSMET	2011	kg							2177.5			
+21	Kentucky	PHOSMET	2012	kg							1285.2			
+21	Kentucky	PHOSMET	2013	kg							1230.4			
+21	Kentucky	PHOSMET	2014	kg							2521.2			
+21	Kentucky	PHOSMET	2015	kg							2162.5			
+21	Kentucky	PHOSMET	2016	kg							737.2			
+21	Kentucky	PHOSMET	2017	kg							656			
+22	Louisiana	PHOSMET	1992	kg							232.2			
+22	Louisiana	PHOSMET	1993	kg							27.5			
+22	Louisiana	PHOSMET	1995	kg							975			
+22	Louisiana	PHOSMET	1996	kg					2087.5		1447.5			
+22	Louisiana	PHOSMET	1997	kg							1833.8			
+22	Louisiana	PHOSMET	1999	kg							5230.7			
+22	Louisiana	PHOSMET	2000	kg				415.1						
+22	Louisiana	PHOSMET	2001	kg							9526.2			
+22	Louisiana	PHOSMET	2002	kg							2153.4			
+22	Louisiana	PHOSMET	2003	kg							1470.5			
+22	Louisiana	PHOSMET	2004	kg							4400.7			
+22	Louisiana	PHOSMET	2005	kg							727.5			
+22	Louisiana	PHOSMET	2006	kg							121.3			
+22	Louisiana	PHOSMET	2007	kg							127.3			
+22	Louisiana	PHOSMET	2008	kg							1077.1			
+22	Louisiana	PHOSMET	2009	kg							922			
+22	Louisiana	PHOSMET	2010	kg							900.9			
+22	Louisiana	PHOSMET	2011	kg							308.5			
+22	Louisiana	PHOSMET	2014	kg							69.7			
+22	Louisiana	PHOSMET	2015	kg							7.6			
+23	Maine	PHOSMET	1992	kg					9674.2		14208.2			
+23	Maine	PHOSMET	1993	kg					3874.9		18393.7			
+23	Maine	PHOSMET	1994	kg					2052.3		8270.2			
+23	Maine	PHOSMET	1995	kg					4977.5		11809.4			
+23	Maine	PHOSMET	1996	kg					118.5		12420.5			
+23	Maine	PHOSMET	1997	kg					34308.7		7058			
+23	Maine	PHOSMET	1998	kg							3533.1			
+23	Maine	PHOSMET	1999	kg							12832.9			
+23	Maine	PHOSMET	2000	kg							10312.7			
+23	Maine	PHOSMET	2001	kg							5409.3			
+23	Maine	PHOSMET	2002	kg							4626.3			
+23	Maine	PHOSMET	2003	kg							9953			
+23	Maine	PHOSMET	2004	kg							12657.9			
+23	Maine	PHOSMET	2005	kg							4075.4			
+23	Maine	PHOSMET	2006	kg							2870.2			
+23	Maine	PHOSMET	2007	kg							3677.8			
+23	Maine	PHOSMET	2008	kg							2052.7			
+23	Maine	PHOSMET	2009	kg							3012.8			
+23	Maine	PHOSMET	2010	kg							5719.5			
+23	Maine	PHOSMET	2011	kg							4295.7			
+23	Maine	PHOSMET	2012	kg							2668.7			
+23	Maine	PHOSMET	2013	kg							4570.8			
+23	Maine	PHOSMET	2014	kg							2278.7			
+23	Maine	PHOSMET	2015	kg							2080.2			
+23	Maine	PHOSMET	2016	kg							1371.7			
+23	Maine	PHOSMET	2017	kg							1125.9			
+24	Maryland	PHOSMET	1992	kg					517.6		3485.7			
+24	Maryland	PHOSMET	1993	kg					127		301.3			
+24	Maryland	PHOSMET	1994	kg					1030.8		872.6	320.4		
+24	Maryland	PHOSMET	1995	kg					214.8		2837.6			
+24	Maryland	PHOSMET	1996	kg					83.8		5232.5	22.9		756.7
+24	Maryland	PHOSMET	1997	kg					22.6		9489.4			
+24	Maryland	PHOSMET	1998	kg					6.8		612.7			
+24	Maryland	PHOSMET	1999	kg							2712.2			
+24	Maryland	PHOSMET	2000	kg					11.7		4122.8			
+24	Maryland	PHOSMET	2001	kg					18.6		5287.5			
+24	Maryland	PHOSMET	2002	kg							2783.1			
+24	Maryland	PHOSMET	2003	kg							4794.6			
+24	Maryland	PHOSMET	2004	kg							3597.2			
+24	Maryland	PHOSMET	2005	kg							6178.3			
+24	Maryland	PHOSMET	2006	kg					316.7		4401.1			
+24	Maryland	PHOSMET	2007	kg							4003.9			
+24	Maryland	PHOSMET	2008	kg							2753.1			
+24	Maryland	PHOSMET	2009	kg							2839.9			
+24	Maryland	PHOSMET	2010	kg							3058.7			
+24	Maryland	PHOSMET	2011	kg							2863.7			
+24	Maryland	PHOSMET	2012	kg							901.9			
+24	Maryland	PHOSMET	2013	kg							849.9			
+24	Maryland	PHOSMET	2014	kg							721.2			
+24	Maryland	PHOSMET	2015	kg							1441.5			
+24	Maryland	PHOSMET	2016	kg							518.3			
+24	Maryland	PHOSMET	2017	kg							600			
+25	Massachusetts	PHOSMET	1992	kg					411.9		1150.9			
+25	Massachusetts	PHOSMET	1993	kg					453.8		4153			
+25	Massachusetts	PHOSMET	1994	kg					749.7		2651.3			
+25	Massachusetts	PHOSMET	1995	kg					251.6		8899.9			61.2
+25	Massachusetts	PHOSMET	1996	kg					407.8		5328.8			
+25	Massachusetts	PHOSMET	1997	kg					1350.5		6291			
+25	Massachusetts	PHOSMET	1998	kg							711.1			
+25	Massachusetts	PHOSMET	1999	kg							14127.8			
+25	Massachusetts	PHOSMET	2000	kg							6557			
+25	Massachusetts	PHOSMET	2001	kg							9071.4			
+25	Massachusetts	PHOSMET	2002	kg							5671.9			
+25	Massachusetts	PHOSMET	2003	kg							5617.4			
+25	Massachusetts	PHOSMET	2004	kg							8014.1			
+25	Massachusetts	PHOSMET	2005	kg							3578.2			
+25	Massachusetts	PHOSMET	2006	kg							3153.8			
+25	Massachusetts	PHOSMET	2007	kg							6944.2			
+25	Massachusetts	PHOSMET	2008	kg							3436.6			
+25	Massachusetts	PHOSMET	2009	kg							4233.9			
+25	Massachusetts	PHOSMET	2010	kg							6091.8			
+25	Massachusetts	PHOSMET	2011	kg							3748.8			
+25	Massachusetts	PHOSMET	2012	kg							1618.5			
+25	Massachusetts	PHOSMET	2013	kg							18983.3			
+25	Massachusetts	PHOSMET	2014	kg							2168.2			
+25	Massachusetts	PHOSMET	2015	kg							5437.6			
+25	Massachusetts	PHOSMET	2016	kg							2724.9			
+25	Massachusetts	PHOSMET	2017	kg					84.6		3414.5			
+26	Michigan	PHOSMET	1992	kg					8732.6		159969.3			
+26	Michigan	PHOSMET	1993	kg					19847.1		57206.7			
+26	Michigan	PHOSMET	1994	kg					35693.1		40112.5			
+26	Michigan	PHOSMET	1995	kg					31936.9		51897.3	5209		
+26	Michigan	PHOSMET	1996	kg					9480		57537.6	180		
+26	Michigan	PHOSMET	1997	kg					6564.8		60199.5			
+26	Michigan	PHOSMET	1998	kg					8114		71786.5			
+26	Michigan	PHOSMET	1999	kg							98344.9			
+26	Michigan	PHOSMET	2000	kg							85200.6			
+26	Michigan	PHOSMET	2001	kg							86291			
+26	Michigan	PHOSMET	2002	kg					679		74012			
+26	Michigan	PHOSMET	2003	kg					3860.1		95058			
+26	Michigan	PHOSMET	2004	kg					25547.3		106545.1			
+26	Michigan	PHOSMET	2005	kg					4972.7		77932.9			
+26	Michigan	PHOSMET	2006	kg					4614.8		85506.6			
+26	Michigan	PHOSMET	2007	kg					223.9		66366.1			
+26	Michigan	PHOSMET	2008	kg							81641			
+26	Michigan	PHOSMET	2009	kg							72979.6			
+26	Michigan	PHOSMET	2010	kg							114277.7			
+26	Michigan	PHOSMET	2011	kg							89071.3			
+26	Michigan	PHOSMET	2012	kg					1286.7		57281.4			
+26	Michigan	PHOSMET	2013	kg					4413.5		110829.6			
+26	Michigan	PHOSMET	2014	kg					6405.6		93968.4			
+26	Michigan	PHOSMET	2015	kg					620.6		144637			
+26	Michigan	PHOSMET	2016	kg							97184.4			
+26	Michigan	PHOSMET	2017	kg							68287.1			
+27	Minnesota	PHOSMET	1992	kg					3268.4		12188.1			
+27	Minnesota	PHOSMET	1993	kg					1954.5		3255.2			
+27	Minnesota	PHOSMET	1994	kg					865.7		6352.2			
+27	Minnesota	PHOSMET	1995	kg					5442.9		6853.6			
+27	Minnesota	PHOSMET	1996	kg							12672.4			
+27	Minnesota	PHOSMET	1997	kg					6.5		17508.7			
+27	Minnesota	PHOSMET	1998	kg							5332.1			
+27	Minnesota	PHOSMET	1999	kg							4354			
+27	Minnesota	PHOSMET	2000	kg							7310			
+27	Minnesota	PHOSMET	2001	kg							2399.9			
+27	Minnesota	PHOSMET	2002	kg							4889.7			
+27	Minnesota	PHOSMET	2003	kg					1050.4		7081			
+27	Minnesota	PHOSMET	2004	kg							5290.5			
+27	Minnesota	PHOSMET	2005	kg							7528.3			
+27	Minnesota	PHOSMET	2006	kg					1896.9		6957.7			
+27	Minnesota	PHOSMET	2007	kg							3552.7			
+27	Minnesota	PHOSMET	2008	kg							5148.7			
+27	Minnesota	PHOSMET	2009	kg							4500.3			
+27	Minnesota	PHOSMET	2010	kg							2772.2			
+27	Minnesota	PHOSMET	2011	kg							5469.3			
+27	Minnesota	PHOSMET	2012	kg					611.3		2808			
+27	Minnesota	PHOSMET	2013	kg					1167.8		3781.9			
+27	Minnesota	PHOSMET	2014	kg					2964		5233.6			
+27	Minnesota	PHOSMET	2015	kg							6779.4			
+27	Minnesota	PHOSMET	2016	kg							945.3			
+27	Minnesota	PHOSMET	2017	kg							1865.6			
+28	Mississippi	PHOSMET	1992	kg							1093.9			
+28	Mississippi	PHOSMET	1993	kg							143.6			
+28	Mississippi	PHOSMET	1994	kg							524.7			
+28	Mississippi	PHOSMET	1995	kg				17578.5			2138.8			
+28	Mississippi	PHOSMET	1996	kg					0		1727.7			
+28	Mississippi	PHOSMET	1997	kg							4389.1			
+28	Mississippi	PHOSMET	1998	kg							112.5			
+28	Mississippi	PHOSMET	1999	kg							3092			
+28	Mississippi	PHOSMET	2000	kg				1079.2			350.6			
+28	Mississippi	PHOSMET	2001	kg							10211.8			
+28	Mississippi	PHOSMET	2002	kg							4048.4			
+28	Mississippi	PHOSMET	2003	kg							1240			
+28	Mississippi	PHOSMET	2004	kg							2237.8			
+28	Mississippi	PHOSMET	2005	kg							1562.8			
+28	Mississippi	PHOSMET	2006	kg							617.6			
+28	Mississippi	PHOSMET	2007	kg							702.3			
+28	Mississippi	PHOSMET	2008	kg							1296			
+28	Mississippi	PHOSMET	2009	kg							1243.5			
+28	Mississippi	PHOSMET	2010	kg							1007			
+28	Mississippi	PHOSMET	2011	kg							529.4			
+28	Mississippi	PHOSMET	2012	kg							79.6			
+28	Mississippi	PHOSMET	2013	kg							179.1			
+28	Mississippi	PHOSMET	2014	kg							13.4			
+28	Mississippi	PHOSMET	2015	kg							279.8			
+28	Mississippi	PHOSMET	2016	kg							127.1			
+28	Mississippi	PHOSMET	2017	kg							64.7			
+29	Missouri	PHOSMET	1992	kg							6958.9	498.4		
+29	Missouri	PHOSMET	1993	kg							9647.4	2331		
+29	Missouri	PHOSMET	1994	kg					6		5611.2	1182.5		193.3
+29	Missouri	PHOSMET	1995	kg					39		28218.3	3485.2		
+29	Missouri	PHOSMET	1996	kg					264.4		4677.9	477.9		
+29	Missouri	PHOSMET	1997	kg					40.4		6155.9	2587		
+29	Missouri	PHOSMET	1998	kg							14116			
+29	Missouri	PHOSMET	1999	kg							3425.6			
+29	Missouri	PHOSMET	2000	kg							8688.9	728		
+29	Missouri	PHOSMET	2001	kg							11020.6			
+29	Missouri	PHOSMET	2002	kg							5080.2			
+29	Missouri	PHOSMET	2003	kg							6785.3			
+29	Missouri	PHOSMET	2004	kg							2957.5			
+29	Missouri	PHOSMET	2005	kg							8365			
+29	Missouri	PHOSMET	2006	kg							7605.7			
+29	Missouri	PHOSMET	2007	kg							2240.3			
+29	Missouri	PHOSMET	2008	kg							4238.2			
+29	Missouri	PHOSMET	2009	kg							5235.3			
+29	Missouri	PHOSMET	2010	kg							2104			
+29	Missouri	PHOSMET	2011	kg							2973.4			
+29	Missouri	PHOSMET	2012	kg							2076.4			
+29	Missouri	PHOSMET	2013	kg							1900.2			
+29	Missouri	PHOSMET	2014	kg							2747.1			
+29	Missouri	PHOSMET	2015	kg							2963			
+29	Missouri	PHOSMET	2016	kg								2442.5		
+30	Montana	PHOSMET	1992	kg					11.3		42.8	1144.4		
+30	Montana	PHOSMET	1993	kg					17.3		59.2		95.3	
+30	Montana	PHOSMET	1994	kg					27.8		70.7			
+30	Montana	PHOSMET	1995	kg					34.3		14.8			
+30	Montana	PHOSMET	1996	kg					43.5		103.5			
+30	Montana	PHOSMET	1997	kg					3		49.1			
+30	Montana	PHOSMET	1998	kg					32.3		517.5			
+30	Montana	PHOSMET	1999	kg					101.7		108			
+30	Montana	PHOSMET	2000	kg					6.3		355.3			
+30	Montana	PHOSMET	2001	kg					5.7		287.8			
+30	Montana	PHOSMET	2002	kg							53.1			
+30	Montana	PHOSMET	2003	kg					101.8		201.7			
+30	Montana	PHOSMET	2004	kg							598			
+30	Montana	PHOSMET	2005	kg					29.2		88.3			
+30	Montana	PHOSMET	2006	kg							72.8			
+30	Montana	PHOSMET	2007	kg					37.5		24.5			
+30	Montana	PHOSMET	2008	kg					95.6		86.4			
+30	Montana	PHOSMET	2009	kg							398.8			
+30	Montana	PHOSMET	2010	kg					30					
+30	Montana	PHOSMET	2011	kg					36.5					
+30	Montana	PHOSMET	2012	kg					30.8					
+30	Montana	PHOSMET	2013	kg					313.9		229.5			
+30	Montana	PHOSMET	2014	kg					66		40			
+30	Montana	PHOSMET	2015	kg					123.9		79.3			
+30	Montana	PHOSMET	2016	kg					11.4					
+30	Montana	PHOSMET	2017	kg					31.2		43.6			
+31	Nebraska	PHOSMET	1992	kg							263.6			
+31	Nebraska	PHOSMET	1993	kg							397.5			
+31	Nebraska	PHOSMET	1994	kg							843.6			27.2
+31	Nebraska	PHOSMET	1995	kg							686			
+31	Nebraska	PHOSMET	1996	kg							550.9			
+31	Nebraska	PHOSMET	1997	kg							1618.7	1297.3		
+31	Nebraska	PHOSMET	1998	kg							253.5			
+31	Nebraska	PHOSMET	1999	kg							446.4			
+31	Nebraska	PHOSMET	2000	kg							1198.3	353.6		
+31	Nebraska	PHOSMET	2001	kg							229.8			
+31	Nebraska	PHOSMET	2002	kg							278.4			
+31	Nebraska	PHOSMET	2003	kg							274.4			
+31	Nebraska	PHOSMET	2004	kg							384.5			
+31	Nebraska	PHOSMET	2005	kg							787			
+31	Nebraska	PHOSMET	2006	kg							728.3			
+31	Nebraska	PHOSMET	2007	kg							275.6			
+31	Nebraska	PHOSMET	2008	kg							332.1			
+31	Nebraska	PHOSMET	2009	kg							216.8			
+31	Nebraska	PHOSMET	2010	kg					3985.7		94			
+31	Nebraska	PHOSMET	2011	kg							274.4			
+31	Nebraska	PHOSMET	2012	kg							215.8			
+31	Nebraska	PHOSMET	2013	kg							180.4			
+31	Nebraska	PHOSMET	2014	kg							250.6			
+31	Nebraska	PHOSMET	2015	kg							331.3			
+31	Nebraska	PHOSMET	2016	kg							0.9			
+31	Nebraska	PHOSMET	2017	kg							5			
+32	Nevada	PHOSMET	1992	kg							91.3	400.4	312.6	
+32	Nevada	PHOSMET	1993	kg							31.8			
+32	Nevada	PHOSMET	1994	kg							17.9			
+32	Nevada	PHOSMET	1995	kg							4			
+32	Nevada	PHOSMET	1996	kg							45.9			
+32	Nevada	PHOSMET	1997	kg							41.8	645.3		
+32	Nevada	PHOSMET	1998	kg					186.4		118.8			
+32	Nevada	PHOSMET	1999	kg					0.5		86	1000.6		
+32	Nevada	PHOSMET	2000	kg					0		95.8			
+32	Nevada	PHOSMET	2001	kg					0.2		85.9			
+32	Nevada	PHOSMET	2002	kg							79.9			
+32	Nevada	PHOSMET	2003	kg							106.6	901.3		
+32	Nevada	PHOSMET	2004	kg							145.3			
+32	Nevada	PHOSMET	2005	kg							86.4			
+32	Nevada	PHOSMET	2006	kg							94.3			
+32	Nevada	PHOSMET	2007	kg							50			
+32	Nevada	PHOSMET	2008	kg							67.4			
+32	Nevada	PHOSMET	2009	kg							165.7			
+32	Nevada	PHOSMET	2010	kg							54.7			
+32	Nevada	PHOSMET	2012	kg							106.5			
+32	Nevada	PHOSMET	2013	kg							83.4			
+32	Nevada	PHOSMET	2014	kg							67.8			
+32	Nevada	PHOSMET	2015	kg							6.3			
+32	Nevada	PHOSMET	2017	kg							32.5			
+33	New Hampshire	PHOSMET	1992	kg					236.8		884.3			
+33	New Hampshire	PHOSMET	1993	kg					14.3		3824.7			
+33	New Hampshire	PHOSMET	1994	kg					47.8		10957.9			
+33	New Hampshire	PHOSMET	1995	kg					18.2		365.1			71.1
+33	New Hampshire	PHOSMET	1996	kg					144.5		5750			
+33	New Hampshire	PHOSMET	1997	kg					57.3		3774.5			
+33	New Hampshire	PHOSMET	1998	kg							1166.8			
+33	New Hampshire	PHOSMET	1999	kg							7144.5			
+33	New Hampshire	PHOSMET	2000	kg							4920.4			
+33	New Hampshire	PHOSMET	2001	kg							3282.4			
+33	New Hampshire	PHOSMET	2002	kg							2901.8			
+33	New Hampshire	PHOSMET	2003	kg							3869.8			
+33	New Hampshire	PHOSMET	2004	kg							5592.9			
+33	New Hampshire	PHOSMET	2005	kg							2947.4			
+33	New Hampshire	PHOSMET	2006	kg							2167.8			
+33	New Hampshire	PHOSMET	2007	kg							2740.6			
+33	New Hampshire	PHOSMET	2008	kg							1491.9			
+33	New Hampshire	PHOSMET	2009	kg							1940.9			
+33	New Hampshire	PHOSMET	2010	kg							3322.2			
+33	New Hampshire	PHOSMET	2011	kg							2327.4			
+33	New Hampshire	PHOSMET	2012	kg							1328.4			
+33	New Hampshire	PHOSMET	2013	kg							2208.1			
+33	New Hampshire	PHOSMET	2014	kg							1138.8			
+33	New Hampshire	PHOSMET	2015	kg							1898.1			
+33	New Hampshire	PHOSMET	2016	kg							759.5			
+33	New Hampshire	PHOSMET	2017	kg							663.5			
+34	New Jersey	PHOSMET	1992	kg					288.8		7091.3			
+34	New Jersey	PHOSMET	1993	kg					5.2		6240.6			
+34	New Jersey	PHOSMET	1994	kg					13		10991.4			
+34	New Jersey	PHOSMET	1995	kg					3.5		3561.2			
+34	New Jersey	PHOSMET	1996	kg					699.1		7228.5			
+34	New Jersey	PHOSMET	1997	kg					1002.1		5739.9			
+34	New Jersey	PHOSMET	1998	kg							2249.8			
+34	New Jersey	PHOSMET	1999	kg							3947.4			
+34	New Jersey	PHOSMET	2000	kg							9412.4			
+34	New Jersey	PHOSMET	2001	kg							7869.7			
+34	New Jersey	PHOSMET	2002	kg							14571.6			
+34	New Jersey	PHOSMET	2003	kg							23335.3			
+34	New Jersey	PHOSMET	2004	kg							17391.8			
+34	New Jersey	PHOSMET	2005	kg							15373.7			
+34	New Jersey	PHOSMET	2006	kg					116.1		19757.1			
+34	New Jersey	PHOSMET	2007	kg							23462.6			
+34	New Jersey	PHOSMET	2008	kg							12537.3			
+34	New Jersey	PHOSMET	2009	kg							23615.3			
+34	New Jersey	PHOSMET	2010	kg							25121.5			
+34	New Jersey	PHOSMET	2011	kg							18197.6			
+34	New Jersey	PHOSMET	2012	kg					18.9		13887.2			
+34	New Jersey	PHOSMET	2013	kg							2606.8			
+34	New Jersey	PHOSMET	2014	kg							6442.5			
+34	New Jersey	PHOSMET	2015	kg							4939.4			
+34	New Jersey	PHOSMET	2016	kg							4152			
+34	New Jersey	PHOSMET	2017	kg					6.6		4288.2			
+35	New Mexico	PHOSMET	1992	kg							5116.5			
+35	New Mexico	PHOSMET	1993	kg							3236.3			
+35	New Mexico	PHOSMET	1994	kg							1963			
+35	New Mexico	PHOSMET	1995	kg							7852			
+35	New Mexico	PHOSMET	1996	kg							2718.9			
+35	New Mexico	PHOSMET	1997	kg							2544.6			
+35	New Mexico	PHOSMET	1998	kg							630			
+35	New Mexico	PHOSMET	1999	kg							1537			
+35	New Mexico	PHOSMET	2000	kg							3553.6			
+35	New Mexico	PHOSMET	2001	kg							1183			
+35	New Mexico	PHOSMET	2002	kg							319.1			
+35	New Mexico	PHOSMET	2003	kg							1138.7			
+35	New Mexico	PHOSMET	2004	kg							1153			
+35	New Mexico	PHOSMET	2005	kg							4731.5			
+35	New Mexico	PHOSMET	2006	kg							339.9			
+35	New Mexico	PHOSMET	2007	kg							167.7			
+35	New Mexico	PHOSMET	2008	kg							418			
+35	New Mexico	PHOSMET	2009	kg							1827.7			
+35	New Mexico	PHOSMET	2010	kg					297.1		172.9			
+35	New Mexico	PHOSMET	2011	kg							47.8			
+35	New Mexico	PHOSMET	2012	kg							362.9			
+35	New Mexico	PHOSMET	2013	kg							968.4			
+35	New Mexico	PHOSMET	2014	kg							209.8			
+35	New Mexico	PHOSMET	2015	kg							310.8			
+35	New Mexico	PHOSMET	2016	kg							6.7	6509		
+35	New Mexico	PHOSMET	2017	kg							160.6			
+36	New York	PHOSMET	1992	kg					4841.8		41577.3			
+36	New York	PHOSMET	1993	kg					5320.4		27052.5			
+36	New York	PHOSMET	1994	kg					19166.4		29222.2			
+36	New York	PHOSMET	1995	kg					1626.3		16161.1			84.6
+36	New York	PHOSMET	1996	kg					369.9		23427.6			
+36	New York	PHOSMET	1997	kg					15115.4		19470.8			
+36	New York	PHOSMET	1998	kg							40571.8			
+36	New York	PHOSMET	1999	kg							47778.9			
+36	New York	PHOSMET	2000	kg							43693.6			
+36	New York	PHOSMET	2001	kg							34987.5			
+36	New York	PHOSMET	2002	kg							78651.1			
+36	New York	PHOSMET	2003	kg					63.4		90635.8			
+36	New York	PHOSMET	2004	kg							62428.2			
+36	New York	PHOSMET	2005	kg							78078			
+36	New York	PHOSMET	2006	kg					197.3		73619.2			
+36	New York	PHOSMET	2007	kg							72495.7			
+36	New York	PHOSMET	2008	kg							41270.5			
+36	New York	PHOSMET	2009	kg							43000.4			
+36	New York	PHOSMET	2010	kg							44712.7			
+36	New York	PHOSMET	2011	kg							37529.1			
+36	New York	PHOSMET	2012	kg					87.3		25856.2			
+36	New York	PHOSMET	2013	kg							123281.8			
+36	New York	PHOSMET	2014	kg							24752			
+36	New York	PHOSMET	2015	kg							32042.3			
+36	New York	PHOSMET	2016	kg							19216.6			
+36	New York	PHOSMET	2017	kg					82.8		80690.7			
+37	North Carolina	PHOSMET	1992	kg							17551.8			
+37	North Carolina	PHOSMET	1993	kg							5348.6			
+37	North Carolina	PHOSMET	1994	kg							8728.2			
+37	North Carolina	PHOSMET	1995	kg							6160.3			
+37	North Carolina	PHOSMET	1996	kg							3222.4			
+37	North Carolina	PHOSMET	1997	kg							6514.8			
+37	North Carolina	PHOSMET	1998	kg							5552.8			
+37	North Carolina	PHOSMET	1999	kg							26034.8			
+37	North Carolina	PHOSMET	2000	kg							3883.9			
+37	North Carolina	PHOSMET	2001	kg					5412.9		8726.3			
+37	North Carolina	PHOSMET	2002	kg							7496.6			
+37	North Carolina	PHOSMET	2003	kg							5768.3			
+37	North Carolina	PHOSMET	2004	kg					391.7		18246.4			
+37	North Carolina	PHOSMET	2005	kg							10030.7			
+37	North Carolina	PHOSMET	2006	kg					428.5		8706.4			
+37	North Carolina	PHOSMET	2007	kg							6637.8			
+37	North Carolina	PHOSMET	2008	kg							8389.5			
+37	North Carolina	PHOSMET	2009	kg							6148.8			
+37	North Carolina	PHOSMET	2010	kg							8166.4			
+37	North Carolina	PHOSMET	2011	kg							9598.5			
+37	North Carolina	PHOSMET	2012	kg							9122.7			
+37	North Carolina	PHOSMET	2013	kg							7151			
+37	North Carolina	PHOSMET	2014	kg							2006			
+37	North Carolina	PHOSMET	2015	kg							6266.3			
+37	North Carolina	PHOSMET	2016	kg							4807.1			
+37	North Carolina	PHOSMET	2017	kg							4233.3			
+38	North Dakota	PHOSMET	1993	kg					2663.8					
+38	North Dakota	PHOSMET	1994	kg					1125.8					
+38	North Dakota	PHOSMET	1997	kg					8023.2					
+39	Ohio	PHOSMET	1992	kg					366.1		19866			
+39	Ohio	PHOSMET	1993	kg					262.1		15803.7	4346		
+39	Ohio	PHOSMET	1994	kg					721.2		30093.8			
+39	Ohio	PHOSMET	1995	kg					736		35268.9	1354.7		
+39	Ohio	PHOSMET	1996	kg	3554.1				60.5		31423.8			316.2
+39	Ohio	PHOSMET	1997	kg					265.6		25745.3			
+39	Ohio	PHOSMET	1998	kg					403		12320.5			
+39	Ohio	PHOSMET	1999	kg							25324			
+39	Ohio	PHOSMET	2000	kg							41640.9			
+39	Ohio	PHOSMET	2001	kg							26111.9			
+39	Ohio	PHOSMET	2002	kg					104.9		24633			
+39	Ohio	PHOSMET	2003	kg					97.6		29836.9			
+39	Ohio	PHOSMET	2004	kg					1067.2		34449.8			
+39	Ohio	PHOSMET	2005	kg					2055.8		39940.6			
+39	Ohio	PHOSMET	2006	kg					125.2		32806.8			
+39	Ohio	PHOSMET	2007	kg							23665.2			
+39	Ohio	PHOSMET	2008	kg							20137			
+39	Ohio	PHOSMET	2009	kg							27246.5			
+39	Ohio	PHOSMET	2010	kg							20693.3			
+39	Ohio	PHOSMET	2011	kg							28365.7			
+39	Ohio	PHOSMET	2012	kg					34.2		8496.7			
+39	Ohio	PHOSMET	2013	kg					57.1		7307.8			
+39	Ohio	PHOSMET	2014	kg					99.7		15521.1			
+39	Ohio	PHOSMET	2015	kg							9505.5			
+39	Ohio	PHOSMET	2016	kg							4861.8			
+39	Ohio	PHOSMET	2017	kg					379.1		7390.6			
+40	Oklahoma	PHOSMET	1992	kg							2460.8			
+40	Oklahoma	PHOSMET	1993	kg							232.8			
+40	Oklahoma	PHOSMET	1994	kg							2063.7			
+40	Oklahoma	PHOSMET	1995	kg							3363.5			
+40	Oklahoma	PHOSMET	1996	kg							29583.6			
+40	Oklahoma	PHOSMET	1997	kg					31.4		939.3			
+40	Oklahoma	PHOSMET	1998	kg							1326.2			
+40	Oklahoma	PHOSMET	1999	kg							1761.2			
+40	Oklahoma	PHOSMET	2000	kg							603.5			
+40	Oklahoma	PHOSMET	2001	kg							31			
+40	Oklahoma	PHOSMET	2002	kg							349			
+40	Oklahoma	PHOSMET	2003	kg				64.4			1213			
+40	Oklahoma	PHOSMET	2004	kg							919.7			
+40	Oklahoma	PHOSMET	2005	kg							477.6			
+40	Oklahoma	PHOSMET	2006	kg							195.3			
+40	Oklahoma	PHOSMET	2007	kg							186.6			
+40	Oklahoma	PHOSMET	2008	kg							332.9			
+40	Oklahoma	PHOSMET	2009	kg							1595.8			
+40	Oklahoma	PHOSMET	2010	kg					4.2		1701.4			
+40	Oklahoma	PHOSMET	2011	kg							1050.3			
+40	Oklahoma	PHOSMET	2012	kg							896.9			
+40	Oklahoma	PHOSMET	2013	kg							292.4			
+40	Oklahoma	PHOSMET	2014	kg							781.4			
+40	Oklahoma	PHOSMET	2015	kg							327			
+40	Oklahoma	PHOSMET	2016	kg							102.1	13150.6		
+40	Oklahoma	PHOSMET	2017	kg							448			
+41	Oregon	PHOSMET	1992	kg			724.1		350.5		12322.7	449.9		
+41	Oregon	PHOSMET	1993	kg					288.9		8049.9		5894.1	
+41	Oregon	PHOSMET	1994	kg					3697.8		25242.9			
+41	Oregon	PHOSMET	1995	kg					4870		41829.7			
+41	Oregon	PHOSMET	1996	kg					326.3		27398.9			
+41	Oregon	PHOSMET	1997	kg					22.3		18192.4	2011.2		
+41	Oregon	PHOSMET	1998	kg					1715.9		39715.4			
+41	Oregon	PHOSMET	1999	kg					4750.9		30573.9	1564.6		
+41	Oregon	PHOSMET	2000	kg					375.1		28135.2			
+41	Oregon	PHOSMET	2001	kg					1814.1		16311.9			
+41	Oregon	PHOSMET	2002	kg					147.1		45125.5			
+41	Oregon	PHOSMET	2003	kg					1065		61888.9			
+41	Oregon	PHOSMET	2004	kg							29080			
+41	Oregon	PHOSMET	2005	kg					319.6		35973.8			
+41	Oregon	PHOSMET	2006	kg					67.6		29871.5			
+41	Oregon	PHOSMET	2007	kg					245.7		19346.4			
+41	Oregon	PHOSMET	2008	kg					500		21444.3			
+41	Oregon	PHOSMET	2009	kg					106.7		21154.8			
+41	Oregon	PHOSMET	2010	kg					673.8		11329.7			
+41	Oregon	PHOSMET	2011	kg					3617		38677			
+41	Oregon	PHOSMET	2012	kg					119.5		26563.2			
+41	Oregon	PHOSMET	2013	kg					987		7428.4			
+41	Oregon	PHOSMET	2014	kg					181.6		4426			
+41	Oregon	PHOSMET	2015	kg					303.1		7923.6			
+41	Oregon	PHOSMET	2016	kg					25.1		1253.2			
+41	Oregon	PHOSMET	2017	kg					61.8		1135.7			
+42	Pennsylvania	PHOSMET	1992	kg					2981.6		15480.7			
+42	Pennsylvania	PHOSMET	1993	kg					4107.4		6319.1			
+42	Pennsylvania	PHOSMET	1994	kg					3784.7		11815.6			
+42	Pennsylvania	PHOSMET	1995	kg					1226.6		10344.9			
+42	Pennsylvania	PHOSMET	1996	kg					280.2		4388.5			
+42	Pennsylvania	PHOSMET	1997	kg					7653.3		29931.3			
+42	Pennsylvania	PHOSMET	1998	kg					461.7		8741.8			
+42	Pennsylvania	PHOSMET	1999	kg							15486.3			
+42	Pennsylvania	PHOSMET	2000	kg					669.6		49829.1			
+42	Pennsylvania	PHOSMET	2001	kg					861.2		30073.9			
+42	Pennsylvania	PHOSMET	2002	kg							21690.5			
+42	Pennsylvania	PHOSMET	2003	kg							49757			
+42	Pennsylvania	PHOSMET	2004	kg							41734.6			
+42	Pennsylvania	PHOSMET	2005	kg					517.8		54899.1			
+42	Pennsylvania	PHOSMET	2006	kg					1499.5		44316.1			
+42	Pennsylvania	PHOSMET	2007	kg							24017.4			
+42	Pennsylvania	PHOSMET	2008	kg							22491.2			
+42	Pennsylvania	PHOSMET	2009	kg							23404.6			
+42	Pennsylvania	PHOSMET	2010	kg							31614			
+42	Pennsylvania	PHOSMET	2011	kg							25120.4			
+42	Pennsylvania	PHOSMET	2012	kg					1018.8		12701.5			
+42	Pennsylvania	PHOSMET	2013	kg							17261.4			
+42	Pennsylvania	PHOSMET	2014	kg							9432.8			
+42	Pennsylvania	PHOSMET	2015	kg							8764.3			
+42	Pennsylvania	PHOSMET	2016	kg							20657.6			
+42	Pennsylvania	PHOSMET	2017	kg					34		9613.4			
+44	Rhode Island	PHOSMET	1992	kg					103.7		63.8			
+44	Rhode Island	PHOSMET	1993	kg					116.1		153.7			
+44	Rhode Island	PHOSMET	1994	kg					195		165.3			
+44	Rhode Island	PHOSMET	1995	kg					63.3		204.8			
+44	Rhode Island	PHOSMET	1996	kg					17.9		4012.7			
+44	Rhode Island	PHOSMET	1997	kg					370.5		248			
+44	Rhode Island	PHOSMET	1998	kg							50.1			
+44	Rhode Island	PHOSMET	1999	kg							944.8			
+44	Rhode Island	PHOSMET	2000	kg							442.4			
+44	Rhode Island	PHOSMET	2001	kg							625.8			
+44	Rhode Island	PHOSMET	2002	kg							383.2			
+44	Rhode Island	PHOSMET	2003	kg							401			
+44	Rhode Island	PHOSMET	2004	kg							647.3			
+44	Rhode Island	PHOSMET	2005	kg							541.9			
+44	Rhode Island	PHOSMET	2006	kg							434.3			
+44	Rhode Island	PHOSMET	2007	kg							566.4			
+44	Rhode Island	PHOSMET	2008	kg							293.2			
+44	Rhode Island	PHOSMET	2009	kg							366.1			
+44	Rhode Island	PHOSMET	2010	kg							608.5			
+44	Rhode Island	PHOSMET	2011	kg							424			
+44	Rhode Island	PHOSMET	2012	kg							238.1			
+44	Rhode Island	PHOSMET	2013	kg							370.5			
+44	Rhode Island	PHOSMET	2014	kg							186.8			
+44	Rhode Island	PHOSMET	2015	kg							186.4			
+44	Rhode Island	PHOSMET	2016	kg							126.3			
+44	Rhode Island	PHOSMET	2017	kg							115.3			
+45	South Carolina	PHOSMET	1992	kg							15225.3			
+45	South Carolina	PHOSMET	1993	kg							52138			
+45	South Carolina	PHOSMET	1994	kg							2869.1			
+45	South Carolina	PHOSMET	1995	kg							3299.7			
+45	South Carolina	PHOSMET	1996	kg							13514.3			
+45	South Carolina	PHOSMET	1997	kg							11177.1			
+45	South Carolina	PHOSMET	1998	kg							14028.4			
+45	South Carolina	PHOSMET	1999	kg							27196.8			
+45	South Carolina	PHOSMET	2000	kg							28050			
+45	South Carolina	PHOSMET	2001	kg							29781.7			
+45	South Carolina	PHOSMET	2002	kg							49915.3			
+45	South Carolina	PHOSMET	2003	kg							42863.3			
+45	South Carolina	PHOSMET	2004	kg							37126.2			
+45	South Carolina	PHOSMET	2005	kg							45938.9			
+45	South Carolina	PHOSMET	2006	kg							41177.4			
+45	South Carolina	PHOSMET	2007	kg							15411.9			
+45	South Carolina	PHOSMET	2008	kg							32169.6			
+45	South Carolina	PHOSMET	2009	kg							26150			
+45	South Carolina	PHOSMET	2010	kg							38491.4			
+45	South Carolina	PHOSMET	2011	kg							58633.1			
+45	South Carolina	PHOSMET	2012	kg							15753.1			
+45	South Carolina	PHOSMET	2013	kg							49167.5			
+45	South Carolina	PHOSMET	2014	kg							50641.5			
+45	South Carolina	PHOSMET	2015	kg							29850.5			
+45	South Carolina	PHOSMET	2016	kg							29306.9			
+45	South Carolina	PHOSMET	2017	kg							12012.3			
+46	South Dakota	PHOSMET	1992	kg							41.1			
+46	South Dakota	PHOSMET	1993	kg							75.9			
+46	South Dakota	PHOSMET	1994	kg							83.5			
+46	South Dakota	PHOSMET	1995	kg							84.7			
+46	South Dakota	PHOSMET	1996	kg							103.6			
+46	South Dakota	PHOSMET	1997	kg							85.9			
+46	South Dakota	PHOSMET	1998	kg							66.4			
+46	South Dakota	PHOSMET	1999	kg							117			
+46	South Dakota	PHOSMET	2000	kg							192.9			
+46	South Dakota	PHOSMET	2001	kg							60.2			
+46	South Dakota	PHOSMET	2002	kg							72.9			
+46	South Dakota	PHOSMET	2003	kg							72.6			
+46	South Dakota	PHOSMET	2004	kg							102.7			
+46	South Dakota	PHOSMET	2005	kg							212.3			
+46	South Dakota	PHOSMET	2006	kg							198.5			
+46	South Dakota	PHOSMET	2007	kg							75.9			
+46	South Dakota	PHOSMET	2008	kg							178.8			
+46	South Dakota	PHOSMET	2009	kg							109.6			
+46	South Dakota	PHOSMET	2010	kg							39			
+46	South Dakota	PHOSMET	2011	kg							117.3			
+46	South Dakota	PHOSMET	2012	kg							82.4			
+46	South Dakota	PHOSMET	2013	kg							84.4			
+46	South Dakota	PHOSMET	2014	kg							113.1			
+46	South Dakota	PHOSMET	2015	kg							149.7			
+47	Tennessee	PHOSMET	1992	kg					41.2		11057.8			
+47	Tennessee	PHOSMET	1993	kg							1683.6			
+47	Tennessee	PHOSMET	1994	kg							12827.9			
+47	Tennessee	PHOSMET	1995	kg				8306.4			12005.2		4325.6	
+47	Tennessee	PHOSMET	1996	kg					5.7		10929			
+47	Tennessee	PHOSMET	1997	kg					85		8723.8			
+47	Tennessee	PHOSMET	1998	kg							967			
+47	Tennessee	PHOSMET	1999	kg							5328.1			
+47	Tennessee	PHOSMET	2000	kg							1334.8			
+47	Tennessee	PHOSMET	2001	kg							2733.3			
+47	Tennessee	PHOSMET	2002	kg							3027			
+47	Tennessee	PHOSMET	2003	kg							2373.5			
+47	Tennessee	PHOSMET	2004	kg					0.8		4391.6			
+47	Tennessee	PHOSMET	2005	kg							2758.9			
+47	Tennessee	PHOSMET	2006	kg					54.8		2035.8			
+47	Tennessee	PHOSMET	2007	kg							1884.3			
+47	Tennessee	PHOSMET	2008	kg							2296.8			
+47	Tennessee	PHOSMET	2009	kg							2367			
+47	Tennessee	PHOSMET	2010	kg							3106.7			
+47	Tennessee	PHOSMET	2011	kg							2402.9			
+47	Tennessee	PHOSMET	2012	kg							1434.2			
+47	Tennessee	PHOSMET	2013	kg							1769.8			
+47	Tennessee	PHOSMET	2014	kg							1576.3			
+47	Tennessee	PHOSMET	2015	kg							1126.2			
+47	Tennessee	PHOSMET	2016	kg							762.6			
+47	Tennessee	PHOSMET	2017	kg							747.6			
+48	Texas	PHOSMET	1992	kg							25544.3			
+48	Texas	PHOSMET	1993	kg							1725.7			
+48	Texas	PHOSMET	1994	kg							2204.7			
+48	Texas	PHOSMET	1995	kg				11645.6			19123.1			
+48	Texas	PHOSMET	1996	kg							17733.7			
+48	Texas	PHOSMET	1997	kg					488.8		16304.5			
+48	Texas	PHOSMET	1998	kg							46205.3			
+48	Texas	PHOSMET	1999	kg							12283.5			
+48	Texas	PHOSMET	2000	kg							1563.8			
+48	Texas	PHOSMET	2001	kg							13459			
+48	Texas	PHOSMET	2002	kg							2599.8			
+48	Texas	PHOSMET	2003	kg							7706.5			
+48	Texas	PHOSMET	2004	kg							19008.8			
+48	Texas	PHOSMET	2005	kg							25740.6			
+48	Texas	PHOSMET	2006	kg							3539.8			
+48	Texas	PHOSMET	2007	kg							8305.6			
+48	Texas	PHOSMET	2008	kg							9480.9			
+48	Texas	PHOSMET	2009	kg							10285.4			
+48	Texas	PHOSMET	2010	kg					858.6		15952.2			
+48	Texas	PHOSMET	2011	kg							8677.4			
+48	Texas	PHOSMET	2012	kg							9247.9			
+48	Texas	PHOSMET	2013	kg							2515.1			
+48	Texas	PHOSMET	2014	kg							5222.5			
+48	Texas	PHOSMET	2015	kg							1135.4			
+48	Texas	PHOSMET	2016	kg							3154.1	12288.6		
+48	Texas	PHOSMET	2017	kg							3048.7			
+49	Utah	PHOSMET	1992	kg							7968.9	742.2	1065	
+49	Utah	PHOSMET	1993	kg							1260.4			
+49	Utah	PHOSMET	1994	kg							833.8			
+49	Utah	PHOSMET	1995	kg							673.5			
+49	Utah	PHOSMET	1996	kg							1479.5			
+49	Utah	PHOSMET	1997	kg							1082.4			
+49	Utah	PHOSMET	1998	kg					19.7		2689.3			
+49	Utah	PHOSMET	1999	kg					137.6		872.7			
+49	Utah	PHOSMET	2000	kg					9.5		2250.1			
+49	Utah	PHOSMET	2001	kg					9.1		2125.8			
+49	Utah	PHOSMET	2002	kg					0.9		353.9			
+49	Utah	PHOSMET	2003	kg					1.1		2984.1	6785.8		
+49	Utah	PHOSMET	2004	kg							2236.2			
+49	Utah	PHOSMET	2005	kg							682.6			
+49	Utah	PHOSMET	2006	kg							396			
+49	Utah	PHOSMET	2007	kg							239.5			
+49	Utah	PHOSMET	2008	kg							466.6			
+49	Utah	PHOSMET	2009	kg							2235.5			
+49	Utah	PHOSMET	2010	kg							36.9			
+49	Utah	PHOSMET	2012	kg							242.8			
+49	Utah	PHOSMET	2013	kg							1200.2			
+49	Utah	PHOSMET	2014	kg							207.9			
+49	Utah	PHOSMET	2015	kg							411.9			
+49	Utah	PHOSMET	2017	kg							223.8			
+50	Vermont	PHOSMET	1992	kg					32		1011.9			
+50	Vermont	PHOSMET	1993	kg					18.4		2050.8			
+50	Vermont	PHOSMET	1994	kg					20.1		296.3			
+50	Vermont	PHOSMET	1995	kg					8.6		1601.1			144.7
+50	Vermont	PHOSMET	1996	kg					3121.8		4518.6			
+50	Vermont	PHOSMET	1997	kg					54.3		887.1			
+50	Vermont	PHOSMET	1998	kg							1569.1			
+50	Vermont	PHOSMET	1999	kg							5014.8			
+50	Vermont	PHOSMET	2000	kg							1843.3			
+50	Vermont	PHOSMET	2001	kg							1636.9			
+50	Vermont	PHOSMET	2002	kg							1946.5			
+50	Vermont	PHOSMET	2003	kg							2362.8			
+50	Vermont	PHOSMET	2004	kg							2906.8			
+50	Vermont	PHOSMET	2005	kg							614.7			
+50	Vermont	PHOSMET	2006	kg							122.7			
+50	Vermont	PHOSMET	2007	kg							1112.6			
+50	Vermont	PHOSMET	2008	kg							1902.6			
+50	Vermont	PHOSMET	2009	kg							799.7			
+50	Vermont	PHOSMET	2010	kg							3750.4			
+50	Vermont	PHOSMET	2011	kg							510.8			
+50	Vermont	PHOSMET	2012	kg							1582			
+50	Vermont	PHOSMET	2013	kg							2926.6			
+50	Vermont	PHOSMET	2014	kg							1433.7			
+50	Vermont	PHOSMET	2015	kg							1949.5			
+50	Vermont	PHOSMET	2016	kg							2650.2			
+50	Vermont	PHOSMET	2017	kg							402.7			
+51	Virginia	PHOSMET	1992	kg					1792.4		3732.1			
+51	Virginia	PHOSMET	1993	kg					429.3		2041.7	195.5		
+51	Virginia	PHOSMET	1994	kg					4468.8		5480.2	314.7		
+51	Virginia	PHOSMET	1995	kg							4455.6			
+51	Virginia	PHOSMET	1996	kg					87.8		12787.6	47.1		
+51	Virginia	PHOSMET	1997	kg					457.4		2267.4			
+51	Virginia	PHOSMET	1998	kg							7580			
+51	Virginia	PHOSMET	1999	kg							12870.6			
+51	Virginia	PHOSMET	2000	kg							10984.2			
+51	Virginia	PHOSMET	2001	kg							37079.4	1165.9		
+51	Virginia	PHOSMET	2002	kg							17055.6			
+51	Virginia	PHOSMET	2003	kg							16147.4			
+51	Virginia	PHOSMET	2004	kg					0.9		25232.3			
+51	Virginia	PHOSMET	2005	kg							32204.8			
+51	Virginia	PHOSMET	2006	kg					134.6		12609.2			
+51	Virginia	PHOSMET	2007	kg							52238.1			
+51	Virginia	PHOSMET	2008	kg							10516.6			
+51	Virginia	PHOSMET	2009	kg							14937.8			
+51	Virginia	PHOSMET	2010	kg							10815.1			
+51	Virginia	PHOSMET	2011	kg							44244.5			
+51	Virginia	PHOSMET	2012	kg							15479.8			
+51	Virginia	PHOSMET	2013	kg							9934.2			
+51	Virginia	PHOSMET	2014	kg							11941.9			
+51	Virginia	PHOSMET	2015	kg							7663			
+51	Virginia	PHOSMET	2016	kg							4978			
+51	Virginia	PHOSMET	2017	kg							8617.2			
+53	Washington	PHOSMET	1992	kg			5388.6		1791.8		37758			
+53	Washington	PHOSMET	1993	kg					3693.8		4744.2		36	
+53	Washington	PHOSMET	1994	kg					6721.1		23313.4			
+53	Washington	PHOSMET	1995	kg					9419.7		1897.1			
+53	Washington	PHOSMET	1996	kg					6339.4		15097.8			
+53	Washington	PHOSMET	1997	kg					2449.1		6000.6			
+53	Washington	PHOSMET	1998	kg					9652.5		6483.2			
+53	Washington	PHOSMET	1999	kg					1658.7		83844.9			
+53	Washington	PHOSMET	2000	kg					2347.7		17281.1			
+53	Washington	PHOSMET	2001	kg					2226.8		78330.3			
+53	Washington	PHOSMET	2002	kg					2711.5		58758.9			
+53	Washington	PHOSMET	2003	kg					4113.4		54391.8			
+53	Washington	PHOSMET	2004	kg							67507.5			
+53	Washington	PHOSMET	2005	kg					2485.7		73990.3			
+53	Washington	PHOSMET	2006	kg					35.2		24593.7			
+53	Washington	PHOSMET	2007	kg					2595.5		36322			
+53	Washington	PHOSMET	2008	kg					7352.2		28018.2			
+53	Washington	PHOSMET	2009	kg					1900.7		32528.8			
+53	Washington	PHOSMET	2010	kg					5088.4		17256.6			
+53	Washington	PHOSMET	2011	kg					8509.6		15044.6			
+53	Washington	PHOSMET	2012	kg					1897.8		10063			
+53	Washington	PHOSMET	2013	kg					10051.4		22274.9			
+53	Washington	PHOSMET	2014	kg					1822.8		35625.5			
+53	Washington	PHOSMET	2015	kg					2655.2		10685.3			
+53	Washington	PHOSMET	2016	kg					320.6		9368.6			
+53	Washington	PHOSMET	2017	kg					1606.8		25011.6			
+54	West Virginia	PHOSMET	1992	kg							5645.3			
+54	West Virginia	PHOSMET	1993	kg							1656.5	278.5		
+54	West Virginia	PHOSMET	1994	kg							2518.1	95.2		
+54	West Virginia	PHOSMET	1995	kg					17		5133.4			
+54	West Virginia	PHOSMET	1996	kg							7401	12.4		
+54	West Virginia	PHOSMET	1997	kg					20.5		3806.7			
+54	West Virginia	PHOSMET	1998	kg							13412.4			
+54	West Virginia	PHOSMET	1999	kg							8829.8			
+54	West Virginia	PHOSMET	2000	kg							11265			
+54	West Virginia	PHOSMET	2001	kg							7248	237.4		
+54	West Virginia	PHOSMET	2002	kg							3369.1			
+54	West Virginia	PHOSMET	2003	kg							14164.8			
+54	West Virginia	PHOSMET	2004	kg							14018			
+54	West Virginia	PHOSMET	2005	kg					22.9		11119.4			
+54	West Virginia	PHOSMET	2006	kg							7671.4			
+54	West Virginia	PHOSMET	2007	kg							9212.7			
+54	West Virginia	PHOSMET	2008	kg							3196.6			
+54	West Virginia	PHOSMET	2009	kg							4551.9			
+54	West Virginia	PHOSMET	2010	kg							5740.6			
+54	West Virginia	PHOSMET	2011	kg							11513.1			
+54	West Virginia	PHOSMET	2012	kg							8966.9			
+54	West Virginia	PHOSMET	2013	kg							5559.5			
+54	West Virginia	PHOSMET	2014	kg							9488.8			
+54	West Virginia	PHOSMET	2015	kg							11765.3			
+54	West Virginia	PHOSMET	2016	kg							4246			
+54	West Virginia	PHOSMET	2017	kg							4361.2			
+55	Wisconsin	PHOSMET	1992	kg					12715.4		10700.7			
+55	Wisconsin	PHOSMET	1993	kg					1037.2		14113			
+55	Wisconsin	PHOSMET	1994	kg					24229.7		7139.5			
+55	Wisconsin	PHOSMET	1995	kg					1032.9		11103.4			
+55	Wisconsin	PHOSMET	1996	kg					6626.6		16481.7			
+55	Wisconsin	PHOSMET	1997	kg					263.5		13868			
+55	Wisconsin	PHOSMET	1998	kg					277.2		18864			
+55	Wisconsin	PHOSMET	1999	kg					251.2		27906.3			
+55	Wisconsin	PHOSMET	2000	kg					4800.7		20862.3			
+55	Wisconsin	PHOSMET	2001	kg					22968.9		9923.5			
+55	Wisconsin	PHOSMET	2002	kg					62779.2		13208.3			
+55	Wisconsin	PHOSMET	2003	kg					4162.5		18107.1			
+55	Wisconsin	PHOSMET	2004	kg					3274.3		17524.6			
+55	Wisconsin	PHOSMET	2005	kg					6582		11123.6			
+55	Wisconsin	PHOSMET	2006	kg					8471.5		10062.7			
+55	Wisconsin	PHOSMET	2007	kg					4120.6		8227.3			
+55	Wisconsin	PHOSMET	2008	kg					17384.1		6903.3			
+55	Wisconsin	PHOSMET	2009	kg					250.8		9057.2			
+55	Wisconsin	PHOSMET	2010	kg					15955.9		8479.5			
+55	Wisconsin	PHOSMET	2011	kg					9316.4		10159			
+55	Wisconsin	PHOSMET	2012	kg					6131.8		3643.6			
+55	Wisconsin	PHOSMET	2013	kg					4841.2		7510.4			
+55	Wisconsin	PHOSMET	2014	kg					5096.8		9210.4			
+55	Wisconsin	PHOSMET	2015	kg							10557.3			
+55	Wisconsin	PHOSMET	2016	kg					4268.5		3772.8	861.7		
+55	Wisconsin	PHOSMET	2017	kg							5600.7			
+56	Wyoming	PHOSMET	1992	kg								984.4	116.5	
+56	Wyoming	PHOSMET	1998	kg					0					
+56	Wyoming	PHOSMET	1999	kg					0					
+56	Wyoming	PHOSMET	2003	kg					0			988.6		

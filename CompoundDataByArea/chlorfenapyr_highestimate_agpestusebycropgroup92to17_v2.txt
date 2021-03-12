@@ -1,0 +1,79 @@
+01	Alabama	CHLORFENAPYR	1995	kg				3671.6						
+01	Alabama	CHLORFENAPYR	1996	kg				15699.1						
+01	Alabama	CHLORFENAPYR	1997	kg				696.4						
+01	Alabama	CHLORFENAPYR	1998	kg				420.3						
+04	Arizona	CHLORFENAPYR	1997	kg					272.9					
+05	Arkansas	CHLORFENAPYR	1995	kg				3906.5						
+05	Arkansas	CHLORFENAPYR	1996	kg				22.9						
+05	Arkansas	CHLORFENAPYR	1997	kg				696.9						
+05	Arkansas	CHLORFENAPYR	1998	kg				3119.3						
+05	Arkansas	CHLORFENAPYR	1999	kg				2283						
+05	Arkansas	CHLORFENAPYR	2000	kg				911						
+05	Arkansas	CHLORFENAPYR	2002	kg				22.5						
+06	California	CHLORFENAPYR	1996	kg					53.9		1.5			
+06	California	CHLORFENAPYR	1997	kg				3839.2	100.4					
+06	California	CHLORFENAPYR	1998	kg				13295.1				1		
+06	California	CHLORFENAPYR	2002	kg							0.3			
+06	California	CHLORFENAPYR	2003	kg							6.9			
+06	California	CHLORFENAPYR	2004	kg							5			
+06	California	CHLORFENAPYR	2005	kg							5.8			
+06	California	CHLORFENAPYR	2006	kg					0.4		5			
+06	California	CHLORFENAPYR	2007	kg					0.1		9.6			
+06	California	CHLORFENAPYR	2008	kg					0		7.1			0
+06	California	CHLORFENAPYR	2009	kg					0.2		16.3			0
+06	California	CHLORFENAPYR	2010	kg					0		12.4			0
+06	California	CHLORFENAPYR	2011	kg					4.6		19.7			
+06	California	CHLORFENAPYR	2012	kg					28		26.9			
+06	California	CHLORFENAPYR	2013	kg					51.5		18.9			
+06	California	CHLORFENAPYR	2014	kg					71.5		25.7			0
+06	California	CHLORFENAPYR	2015	kg					19.7		21.5	0		
+06	California	CHLORFENAPYR	2016	kg					8.9		16.9	0		
+06	California	CHLORFENAPYR	2017	kg					14.7		22.6	0		
+12	Florida	CHLORFENAPYR	1995	kg				99.4						
+12	Florida	CHLORFENAPYR	1996	kg				2133.8						
+12	Florida	CHLORFENAPYR	1997	kg				103.6	1835.5					
+12	Florida	CHLORFENAPYR	1998	kg				106.6						
+13	Georgia	CHLORFENAPYR	1995	kg				2321.1						
+13	Georgia	CHLORFENAPYR	1996	kg				26080.7						
+13	Georgia	CHLORFENAPYR	1997	kg				5327.4						
+13	Georgia	CHLORFENAPYR	1998	kg				671.4						
+22	Louisiana	CHLORFENAPYR	1995	kg				5722.5						
+22	Louisiana	CHLORFENAPYR	1996	kg				328.7						
+22	Louisiana	CHLORFENAPYR	1997	kg				117.4						
+22	Louisiana	CHLORFENAPYR	1998	kg				5436.3						
+22	Louisiana	CHLORFENAPYR	1999	kg				1449.7						
+26	Michigan	CHLORFENAPYR	1995	kg					418.4					
+28	Mississippi	CHLORFENAPYR	1995	kg				3319.2						
+28	Mississippi	CHLORFENAPYR	1996	kg				104.6						
+28	Mississippi	CHLORFENAPYR	1997	kg				4833.7						
+28	Mississippi	CHLORFENAPYR	1998	kg				6981.5						
+28	Mississippi	CHLORFENAPYR	1999	kg				2881.3						
+28	Mississippi	CHLORFENAPYR	2000	kg				1896.4						
+29	Missouri	CHLORFENAPYR	1999	kg				849.4						
+29	Missouri	CHLORFENAPYR	2002	kg				20.3						
+35	New Mexico	CHLORFENAPYR	1996	kg				48.2						
+35	New Mexico	CHLORFENAPYR	1997	kg					0.5					
+35	New Mexico	CHLORFENAPYR	1998	kg				55						
+35	New Mexico	CHLORFENAPYR	1999	kg				48.2						
+37	North Carolina	CHLORFENAPYR	1995	kg				858.2						
+37	North Carolina	CHLORFENAPYR	1996	kg				4605						
+37	North Carolina	CHLORFENAPYR	1997	kg				218.6						
+37	North Carolina	CHLORFENAPYR	1998	kg				113.3						
+40	Oklahoma	CHLORFENAPYR	1996	kg				596.4						
+40	Oklahoma	CHLORFENAPYR	1998	kg				1971.1						
+40	Oklahoma	CHLORFENAPYR	1999	kg				106.7						
+45	South Carolina	CHLORFENAPYR	1995	kg				1291.2						
+45	South Carolina	CHLORFENAPYR	1996	kg				5940.6						
+45	South Carolina	CHLORFENAPYR	1997	kg				306.9						
+45	South Carolina	CHLORFENAPYR	1998	kg				357.8						
+47	Tennessee	CHLORFENAPYR	1995	kg				3329.7						
+47	Tennessee	CHLORFENAPYR	1997	kg				481.1						
+47	Tennessee	CHLORFENAPYR	1998	kg				2268.9						
+47	Tennessee	CHLORFENAPYR	1999	kg				1288.5						
+47	Tennessee	CHLORFENAPYR	2002	kg				7.6						
+48	Texas	CHLORFENAPYR	1995	kg				7128.3						
+48	Texas	CHLORFENAPYR	1996	kg				5616.6						
+48	Texas	CHLORFENAPYR	1997	kg				12860.2						
+48	Texas	CHLORFENAPYR	1998	kg				7218.2						
+48	Texas	CHLORFENAPYR	1999	kg				1238.7						
+48	Texas	CHLORFENAPYR	2000	kg				8499.4						

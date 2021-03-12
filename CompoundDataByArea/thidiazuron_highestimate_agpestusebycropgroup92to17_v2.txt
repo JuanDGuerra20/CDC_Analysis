@@ -1,0 +1,442 @@
+01	Alabama	THIDIAZURON	1992	kg				1031.8						
+01	Alabama	THIDIAZURON	1993	kg				1937.7						
+01	Alabama	THIDIAZURON	1994	kg				1853						
+01	Alabama	THIDIAZURON	1995	kg				2528.1						
+01	Alabama	THIDIAZURON	1996	kg				2021.2						
+01	Alabama	THIDIAZURON	1997	kg				1153.4						
+01	Alabama	THIDIAZURON	1998	kg				2857.7						
+01	Alabama	THIDIAZURON	1999	kg				6334.7						
+01	Alabama	THIDIAZURON	2000	kg				4312						
+01	Alabama	THIDIAZURON	2001	kg				3613.5						
+01	Alabama	THIDIAZURON	2002	kg				7700.2						
+01	Alabama	THIDIAZURON	2003	kg				2932.2						
+01	Alabama	THIDIAZURON	2004	kg				3863.5						
+01	Alabama	THIDIAZURON	2005	kg				1826.3						
+01	Alabama	THIDIAZURON	2006	kg				4755						
+01	Alabama	THIDIAZURON	2007	kg				7381.9						
+01	Alabama	THIDIAZURON	2008	kg				704.2						
+01	Alabama	THIDIAZURON	2009	kg				1898.2						
+01	Alabama	THIDIAZURON	2010	kg				4206.7						
+01	Alabama	THIDIAZURON	2011	kg				2954.6						
+01	Alabama	THIDIAZURON	2012	kg				1840.1						
+01	Alabama	THIDIAZURON	2013	kg				2444.9						
+01	Alabama	THIDIAZURON	2014	kg				5350.3						
+01	Alabama	THIDIAZURON	2015	kg				7212.4						
+01	Alabama	THIDIAZURON	2016	kg				5708.4						
+01	Alabama	THIDIAZURON	2017	kg				7432.6						
+04	Arizona	THIDIAZURON	1992	kg				779.2						
+04	Arizona	THIDIAZURON	1993	kg				13025.1						
+04	Arizona	THIDIAZURON	1994	kg				1217						
+04	Arizona	THIDIAZURON	1995	kg				6763.9						
+04	Arizona	THIDIAZURON	1996	kg				1423						
+04	Arizona	THIDIAZURON	1997	kg				2271.4						
+04	Arizona	THIDIAZURON	1998	kg				3473.2						
+04	Arizona	THIDIAZURON	1999	kg				5311.9						
+04	Arizona	THIDIAZURON	2000	kg				7706.5						
+04	Arizona	THIDIAZURON	2001	kg				5848.1						
+04	Arizona	THIDIAZURON	2002	kg				5635.8						
+04	Arizona	THIDIAZURON	2003	kg				4350						
+04	Arizona	THIDIAZURON	2004	kg				6408.6						
+04	Arizona	THIDIAZURON	2005	kg				6189						
+04	Arizona	THIDIAZURON	2006	kg				4792.5						
+04	Arizona	THIDIAZURON	2007	kg				4977.8						
+04	Arizona	THIDIAZURON	2008	kg				1447.1						
+04	Arizona	THIDIAZURON	2009	kg				3313.1						
+04	Arizona	THIDIAZURON	2010	kg				3183.8						
+04	Arizona	THIDIAZURON	2011	kg				7602.5						
+04	Arizona	THIDIAZURON	2012	kg				4421.8						
+04	Arizona	THIDIAZURON	2013	kg				5754.1						
+04	Arizona	THIDIAZURON	2014	kg				4623.6						
+04	Arizona	THIDIAZURON	2015	kg				2624.3						
+04	Arizona	THIDIAZURON	2016	kg				5196.6						
+04	Arizona	THIDIAZURON	2017	kg				5610.7						
+05	Arkansas	THIDIAZURON	1992	kg				654.4						
+05	Arkansas	THIDIAZURON	1993	kg				449.8						
+05	Arkansas	THIDIAZURON	1994	kg				887.2						
+05	Arkansas	THIDIAZURON	1995	kg				1860.1						
+05	Arkansas	THIDIAZURON	1996	kg				2542.7			0			
+05	Arkansas	THIDIAZURON	1997	kg				1117.1						
+05	Arkansas	THIDIAZURON	1998	kg				9013.5						
+05	Arkansas	THIDIAZURON	1999	kg				3629.4						
+05	Arkansas	THIDIAZURON	2000	kg				4523.4						
+05	Arkansas	THIDIAZURON	2001	kg				12798.7						
+05	Arkansas	THIDIAZURON	2002	kg				8436.9						
+05	Arkansas	THIDIAZURON	2003	kg				7237.4						
+05	Arkansas	THIDIAZURON	2004	kg				9974.2						
+05	Arkansas	THIDIAZURON	2005	kg				11355.9						
+05	Arkansas	THIDIAZURON	2006	kg				12503.4						
+05	Arkansas	THIDIAZURON	2007	kg				20814.5						
+05	Arkansas	THIDIAZURON	2008	kg				4704.2						
+05	Arkansas	THIDIAZURON	2009	kg				7813.6						
+05	Arkansas	THIDIAZURON	2010	kg				8206.9						
+05	Arkansas	THIDIAZURON	2011	kg				12002.4						
+05	Arkansas	THIDIAZURON	2012	kg				13411.5						
+05	Arkansas	THIDIAZURON	2013	kg				3808.7						
+05	Arkansas	THIDIAZURON	2014	kg				10078.1						
+05	Arkansas	THIDIAZURON	2015	kg				7041.6						
+05	Arkansas	THIDIAZURON	2016	kg				12517.9						
+05	Arkansas	THIDIAZURON	2017	kg				7894.1						
+06	California	THIDIAZURON	1992	kg				7634						
+06	California	THIDIAZURON	1993	kg				4262.1						
+06	California	THIDIAZURON	1994	kg				5934.4						
+06	California	THIDIAZURON	1995	kg				7456						
+06	California	THIDIAZURON	1996	kg				9305.8						
+06	California	THIDIAZURON	1997	kg				13412.9						
+06	California	THIDIAZURON	1998	kg	3.8		1.5	14543.6	2.4		2.5	2.3		
+06	California	THIDIAZURON	1999	kg	1		6.6	36045.8	2.2			1.1		
+06	California	THIDIAZURON	2000	kg				10880			0.6	2.3		
+06	California	THIDIAZURON	2001	kg				12281.6						
+06	California	THIDIAZURON	2002	kg				9572.7	2.3			1.9		
+06	California	THIDIAZURON	2003	kg				10079.8				1.4		
+06	California	THIDIAZURON	2004	kg				13081.2			0			
+06	California	THIDIAZURON	2005	kg				12787.6						
+06	California	THIDIAZURON	2006	kg				11481.5						
+06	California	THIDIAZURON	2007	kg				9965.1						
+06	California	THIDIAZURON	2008	kg	0			6326.4	0					
+06	California	THIDIAZURON	2009	kg				3783.8						
+06	California	THIDIAZURON	2010	kg				8154.7	1.4					
+06	California	THIDIAZURON	2011	kg				11026.8	6.8		1.3	0.5		
+06	California	THIDIAZURON	2012	kg				8825.7						
+06	California	THIDIAZURON	2013	kg	4.6			7308	2.9		3.9	0.1		
+06	California	THIDIAZURON	2014	kg				5936.2	3.1					
+06	California	THIDIAZURON	2015	kg				4592.8				0.3		
+06	California	THIDIAZURON	2016	kg				7015.1						
+06	California	THIDIAZURON	2017	kg				8519.7						
+12	Florida	THIDIAZURON	1992	kg				514.4						
+12	Florida	THIDIAZURON	1993	kg				80.1						
+12	Florida	THIDIAZURON	1994	kg				79.7						
+12	Florida	THIDIAZURON	1995	kg				262.8						
+12	Florida	THIDIAZURON	1996	kg				283.2						
+12	Florida	THIDIAZURON	1997	kg				179.7						
+12	Florida	THIDIAZURON	1998	kg				590.4						
+12	Florida	THIDIAZURON	1999	kg				789.3						
+12	Florida	THIDIAZURON	2000	kg				104.3						
+12	Florida	THIDIAZURON	2001	kg				1135.6						
+12	Florida	THIDIAZURON	2002	kg				674.7						
+12	Florida	THIDIAZURON	2003	kg				92.2						
+12	Florida	THIDIAZURON	2004	kg				95.6						
+12	Florida	THIDIAZURON	2005	kg				454.8						
+12	Florida	THIDIAZURON	2006	kg				518.2						
+12	Florida	THIDIAZURON	2007	kg				1309.8						
+12	Florida	THIDIAZURON	2008	kg				637						
+12	Florida	THIDIAZURON	2009	kg				1412.5						
+12	Florida	THIDIAZURON	2010	kg				1146.5						
+12	Florida	THIDIAZURON	2011	kg				657.6						
+12	Florida	THIDIAZURON	2012	kg				1833.3						
+12	Florida	THIDIAZURON	2013	kg				5623.1						
+12	Florida	THIDIAZURON	2014	kg				865.4						
+12	Florida	THIDIAZURON	2015	kg				391.2						
+12	Florida	THIDIAZURON	2016	kg				2705.9						
+12	Florida	THIDIAZURON	2017	kg				2785.3						
+13	Georgia	THIDIAZURON	1992	kg				1728.8						
+13	Georgia	THIDIAZURON	1993	kg				1981.2						
+13	Georgia	THIDIAZURON	1994	kg				999						
+13	Georgia	THIDIAZURON	1995	kg				4651.8						
+13	Georgia	THIDIAZURON	1996	kg				3462.8						
+13	Georgia	THIDIAZURON	1997	kg				4213.4						
+13	Georgia	THIDIAZURON	1998	kg				18991.5						
+13	Georgia	THIDIAZURON	1999	kg				13349.5						
+13	Georgia	THIDIAZURON	2000	kg				9965.8						
+13	Georgia	THIDIAZURON	2001	kg				11001.1						
+13	Georgia	THIDIAZURON	2002	kg				24008.7						
+13	Georgia	THIDIAZURON	2003	kg				9709.5						
+13	Georgia	THIDIAZURON	2004	kg				14643.9						
+13	Georgia	THIDIAZURON	2005	kg				10226						
+13	Georgia	THIDIAZURON	2006	kg				17671.6						
+13	Georgia	THIDIAZURON	2007	kg				13838.3						
+13	Georgia	THIDIAZURON	2008	kg				11945.3						
+13	Georgia	THIDIAZURON	2009	kg				19778.8						
+13	Georgia	THIDIAZURON	2010	kg				31180.8						
+13	Georgia	THIDIAZURON	2011	kg				35779						
+13	Georgia	THIDIAZURON	2012	kg				30954.3						
+13	Georgia	THIDIAZURON	2013	kg				37222.9						
+13	Georgia	THIDIAZURON	2014	kg				28856.9						
+13	Georgia	THIDIAZURON	2015	kg				34791.6						
+13	Georgia	THIDIAZURON	2016	kg				41185.4						
+13	Georgia	THIDIAZURON	2017	kg				34091.6						
+20	Kansas	THIDIAZURON	1992	kg				16.9						
+20	Kansas	THIDIAZURON	1993	kg				99.1						
+20	Kansas	THIDIAZURON	1994	kg				25.1						
+20	Kansas	THIDIAZURON	1995	kg				40.8						
+20	Kansas	THIDIAZURON	1996	kg				9.4						
+20	Kansas	THIDIAZURON	1997	kg				29.7						
+20	Kansas	THIDIAZURON	1998	kg				293.1						
+20	Kansas	THIDIAZURON	1999	kg				28						
+20	Kansas	THIDIAZURON	2000	kg				16.7						
+20	Kansas	THIDIAZURON	2001	kg				56.6						
+20	Kansas	THIDIAZURON	2002	kg				136.2						
+20	Kansas	THIDIAZURON	2003	kg				61						
+20	Kansas	THIDIAZURON	2004	kg				352.3						
+20	Kansas	THIDIAZURON	2005	kg				237.1						
+20	Kansas	THIDIAZURON	2006	kg				120.8						
+20	Kansas	THIDIAZURON	2007	kg				197.2						
+20	Kansas	THIDIAZURON	2008	kg				162.2						
+20	Kansas	THIDIAZURON	2009	kg				110.2						
+20	Kansas	THIDIAZURON	2010	kg				183.3						
+20	Kansas	THIDIAZURON	2011	kg				32.2						
+20	Kansas	THIDIAZURON	2012	kg				93.2						
+20	Kansas	THIDIAZURON	2013	kg				83.5						
+20	Kansas	THIDIAZURON	2014	kg				58.3						
+20	Kansas	THIDIAZURON	2015	kg				177						
+20	Kansas	THIDIAZURON	2016	kg				340.4						
+20	Kansas	THIDIAZURON	2017	kg				1521.5						
+22	Louisiana	THIDIAZURON	1992	kg				1415						
+22	Louisiana	THIDIAZURON	1993	kg				3031						
+22	Louisiana	THIDIAZURON	1994	kg				3584.1						
+22	Louisiana	THIDIAZURON	1995	kg				6365.9						
+22	Louisiana	THIDIAZURON	1996	kg				7368.9			0			
+22	Louisiana	THIDIAZURON	1997	kg				2222.3						
+22	Louisiana	THIDIAZURON	1998	kg				8604						
+22	Louisiana	THIDIAZURON	1999	kg				6637						
+22	Louisiana	THIDIAZURON	2000	kg				16863						
+22	Louisiana	THIDIAZURON	2001	kg				12551.5						
+22	Louisiana	THIDIAZURON	2002	kg				8911						
+22	Louisiana	THIDIAZURON	2003	kg				11570.9						
+22	Louisiana	THIDIAZURON	2004	kg				12576.2						
+22	Louisiana	THIDIAZURON	2005	kg				8684.4						
+22	Louisiana	THIDIAZURON	2006	kg				13728.9						
+22	Louisiana	THIDIAZURON	2007	kg				8518.2						
+22	Louisiana	THIDIAZURON	2008	kg				6360.9						
+22	Louisiana	THIDIAZURON	2009	kg				10958.6						
+22	Louisiana	THIDIAZURON	2010	kg				5795.2						
+22	Louisiana	THIDIAZURON	2011	kg				11799.9						
+22	Louisiana	THIDIAZURON	2012	kg				7257.2						
+22	Louisiana	THIDIAZURON	2013	kg				5245.3						
+22	Louisiana	THIDIAZURON	2014	kg				5932.1						
+22	Louisiana	THIDIAZURON	2015	kg				3174.7						
+22	Louisiana	THIDIAZURON	2016	kg				7860.4						
+22	Louisiana	THIDIAZURON	2017	kg				10223.7						
+28	Mississippi	THIDIAZURON	1992	kg				3493.6						
+28	Mississippi	THIDIAZURON	1993	kg				4475.9						
+28	Mississippi	THIDIAZURON	1994	kg				4194.7						
+28	Mississippi	THIDIAZURON	1995	kg				13710.8						
+28	Mississippi	THIDIAZURON	1996	kg				3834.2			0			
+28	Mississippi	THIDIAZURON	1997	kg				2535						
+28	Mississippi	THIDIAZURON	1998	kg				14375.8						
+28	Mississippi	THIDIAZURON	1999	kg				13259.9						
+28	Mississippi	THIDIAZURON	2000	kg				18234.9						
+28	Mississippi	THIDIAZURON	2001	kg				35217.5						
+28	Mississippi	THIDIAZURON	2002	kg				29296.4						
+28	Mississippi	THIDIAZURON	2003	kg				22286.1						
+28	Mississippi	THIDIAZURON	2004	kg				23142.6						
+28	Mississippi	THIDIAZURON	2005	kg				20806.1						
+28	Mississippi	THIDIAZURON	2006	kg				24671.6						
+28	Mississippi	THIDIAZURON	2007	kg				20014.3						
+28	Mississippi	THIDIAZURON	2008	kg				9760.6						
+28	Mississippi	THIDIAZURON	2009	kg				8387						
+28	Mississippi	THIDIAZURON	2010	kg				13999.6						
+28	Mississippi	THIDIAZURON	2011	kg				15239.6						
+28	Mississippi	THIDIAZURON	2012	kg				23663						
+28	Mississippi	THIDIAZURON	2013	kg				13677.1						
+28	Mississippi	THIDIAZURON	2014	kg				9922.1						
+28	Mississippi	THIDIAZURON	2015	kg				12920.8						
+28	Mississippi	THIDIAZURON	2016	kg				20443						
+28	Mississippi	THIDIAZURON	2017	kg				15643						
+29	Missouri	THIDIAZURON	1992	kg				0.5						
+29	Missouri	THIDIAZURON	1993	kg				551.9						
+29	Missouri	THIDIAZURON	1994	kg				694.3						
+29	Missouri	THIDIAZURON	1995	kg				1017.8						
+29	Missouri	THIDIAZURON	1996	kg				2177.6						
+29	Missouri	THIDIAZURON	1997	kg				593.7						
+29	Missouri	THIDIAZURON	1998	kg				1911.5						
+29	Missouri	THIDIAZURON	1999	kg				846.9						
+29	Missouri	THIDIAZURON	2000	kg				2549.9						
+29	Missouri	THIDIAZURON	2001	kg				2341.9						
+29	Missouri	THIDIAZURON	2002	kg				2143.7						
+29	Missouri	THIDIAZURON	2003	kg				1785						
+29	Missouri	THIDIAZURON	2004	kg				5749.3						
+29	Missouri	THIDIAZURON	2005	kg				3549.9						
+29	Missouri	THIDIAZURON	2006	kg				6523.4						
+29	Missouri	THIDIAZURON	2007	kg				6926						
+29	Missouri	THIDIAZURON	2008	kg				3659.9						
+29	Missouri	THIDIAZURON	2009	kg				8453.2						
+29	Missouri	THIDIAZURON	2010	kg				7015						
+29	Missouri	THIDIAZURON	2011	kg				4673.9						
+29	Missouri	THIDIAZURON	2012	kg				9339.6						
+29	Missouri	THIDIAZURON	2013	kg				4033.6						
+29	Missouri	THIDIAZURON	2014	kg				7565						
+29	Missouri	THIDIAZURON	2015	kg				7059.5						
+29	Missouri	THIDIAZURON	2016	kg				3374						
+29	Missouri	THIDIAZURON	2017	kg				6948.7						
+35	New Mexico	THIDIAZURON	1992	kg				29.2						
+35	New Mexico	THIDIAZURON	1993	kg				115						
+35	New Mexico	THIDIAZURON	1994	kg				19.1						
+35	New Mexico	THIDIAZURON	1995	kg				147.1						
+35	New Mexico	THIDIAZURON	1996	kg				44.8						
+35	New Mexico	THIDIAZURON	1997	kg				65.5						
+35	New Mexico	THIDIAZURON	1998	kg				109.6						
+35	New Mexico	THIDIAZURON	1999	kg				251.3						
+35	New Mexico	THIDIAZURON	2000	kg				96.9						
+35	New Mexico	THIDIAZURON	2001	kg				102.2						
+35	New Mexico	THIDIAZURON	2002	kg				292.9						
+35	New Mexico	THIDIAZURON	2003	kg				61						
+35	New Mexico	THIDIAZURON	2004	kg				518.9						
+35	New Mexico	THIDIAZURON	2005	kg				181.1						
+35	New Mexico	THIDIAZURON	2006	kg				111.7						
+35	New Mexico	THIDIAZURON	2007	kg				102.4						
+35	New Mexico	THIDIAZURON	2008	kg				81.9						
+35	New Mexico	THIDIAZURON	2009	kg				83.6						
+35	New Mexico	THIDIAZURON	2010	kg				72						
+35	New Mexico	THIDIAZURON	2011	kg				80.6						
+35	New Mexico	THIDIAZURON	2012	kg				124.2						
+35	New Mexico	THIDIAZURON	2013	kg				160						
+35	New Mexico	THIDIAZURON	2014	kg				184.8						
+35	New Mexico	THIDIAZURON	2015	kg				180.9						
+35	New Mexico	THIDIAZURON	2016	kg				471.4						
+35	New Mexico	THIDIAZURON	2017	kg				341.3						
+37	North Carolina	THIDIAZURON	1992	kg				360.9			32.1			
+37	North Carolina	THIDIAZURON	1993	kg				3797.1						
+37	North Carolina	THIDIAZURON	1994	kg				1736.1						
+37	North Carolina	THIDIAZURON	1995	kg				3889.1						
+37	North Carolina	THIDIAZURON	1996	kg				4519						
+37	North Carolina	THIDIAZURON	1997	kg				2274.7						
+37	North Carolina	THIDIAZURON	1998	kg				7042						
+37	North Carolina	THIDIAZURON	1999	kg				5328.9						
+37	North Carolina	THIDIAZURON	2000	kg				2991.4						
+37	North Carolina	THIDIAZURON	2001	kg				857.4						
+37	North Carolina	THIDIAZURON	2002	kg				9160.9						
+37	North Carolina	THIDIAZURON	2003	kg				2270.2						
+37	North Carolina	THIDIAZURON	2004	kg				6132.9						
+37	North Carolina	THIDIAZURON	2005	kg				4101.1						
+37	North Carolina	THIDIAZURON	2006	kg				4890.1						
+37	North Carolina	THIDIAZURON	2007	kg				4949.8						
+37	North Carolina	THIDIAZURON	2008	kg				2190.1						
+37	North Carolina	THIDIAZURON	2009	kg				5387.4						
+37	North Carolina	THIDIAZURON	2010	kg				6565.1						
+37	North Carolina	THIDIAZURON	2011	kg				14684.5						
+37	North Carolina	THIDIAZURON	2012	kg				11260.9						
+37	North Carolina	THIDIAZURON	2013	kg				8805.2						
+37	North Carolina	THIDIAZURON	2014	kg				9624.7						809.3
+37	North Carolina	THIDIAZURON	2015	kg				11930.1						
+37	North Carolina	THIDIAZURON	2016	kg				9297.3						
+37	North Carolina	THIDIAZURON	2017	kg				6888.2						
+40	Oklahoma	THIDIAZURON	1992	kg				116.3						
+40	Oklahoma	THIDIAZURON	1993	kg				746.6						
+40	Oklahoma	THIDIAZURON	1994	kg				118.6						
+40	Oklahoma	THIDIAZURON	1995	kg				501.3						
+40	Oklahoma	THIDIAZURON	1996	kg				40.2						
+40	Oklahoma	THIDIAZURON	1997	kg				148.6						
+40	Oklahoma	THIDIAZURON	1998	kg				220						
+40	Oklahoma	THIDIAZURON	1999	kg				343.2						
+40	Oklahoma	THIDIAZURON	2000	kg				141.5						
+40	Oklahoma	THIDIAZURON	2001	kg				201						
+40	Oklahoma	THIDIAZURON	2002	kg				186.9						
+40	Oklahoma	THIDIAZURON	2003	kg				64.7						
+40	Oklahoma	THIDIAZURON	2004	kg				375.7						
+40	Oklahoma	THIDIAZURON	2005	kg				603.7						
+40	Oklahoma	THIDIAZURON	2006	kg				971.2						
+40	Oklahoma	THIDIAZURON	2007	kg				1701.1						
+40	Oklahoma	THIDIAZURON	2008	kg				106.8						
+40	Oklahoma	THIDIAZURON	2009	kg				133.7						
+40	Oklahoma	THIDIAZURON	2010	kg				988.3						
+40	Oklahoma	THIDIAZURON	2011	kg				1893.6						
+40	Oklahoma	THIDIAZURON	2012	kg				169.9						
+40	Oklahoma	THIDIAZURON	2013	kg				364.3						
+40	Oklahoma	THIDIAZURON	2014	kg				256.5						
+40	Oklahoma	THIDIAZURON	2015	kg				310.3						
+40	Oklahoma	THIDIAZURON	2016	kg				117.4						
+40	Oklahoma	THIDIAZURON	2017	kg				3271.8						
+45	South Carolina	THIDIAZURON	1992	kg				342.8			5.6			
+45	South Carolina	THIDIAZURON	1993	kg				269.5						
+45	South Carolina	THIDIAZURON	1994	kg				612.9						
+45	South Carolina	THIDIAZURON	1995	kg				567.5						
+45	South Carolina	THIDIAZURON	1996	kg				892.2						
+45	South Carolina	THIDIAZURON	1997	kg				441.9						
+45	South Carolina	THIDIAZURON	1998	kg				2047.3						
+45	South Carolina	THIDIAZURON	1999	kg				981						
+45	South Carolina	THIDIAZURON	2000	kg				947.6						
+45	South Carolina	THIDIAZURON	2001	kg				467						
+45	South Carolina	THIDIAZURON	2002	kg				2027						
+45	South Carolina	THIDIAZURON	2003	kg				448.1						
+45	South Carolina	THIDIAZURON	2004	kg				662.8						
+45	South Carolina	THIDIAZURON	2005	kg				145						
+45	South Carolina	THIDIAZURON	2006	kg				146.5						
+45	South Carolina	THIDIAZURON	2007	kg				256.3						
+45	South Carolina	THIDIAZURON	2008	kg				398.2						
+45	South Carolina	THIDIAZURON	2009	kg				910.5						
+45	South Carolina	THIDIAZURON	2010	kg				3460.5						
+45	South Carolina	THIDIAZURON	2011	kg				2934.6						
+45	South Carolina	THIDIAZURON	2012	kg				656.4						
+45	South Carolina	THIDIAZURON	2013	kg				2608.3						
+45	South Carolina	THIDIAZURON	2014	kg				6109.4						
+45	South Carolina	THIDIAZURON	2015	kg				1956.8						
+45	South Carolina	THIDIAZURON	2016	kg				1752.3						
+45	South Carolina	THIDIAZURON	2017	kg				3892.2						
+47	Tennessee	THIDIAZURON	1992	kg				361.1						
+47	Tennessee	THIDIAZURON	1993	kg				3026.7						
+47	Tennessee	THIDIAZURON	1994	kg				660.8						
+47	Tennessee	THIDIAZURON	1995	kg				3174.4						
+47	Tennessee	THIDIAZURON	1996	kg				2132						
+47	Tennessee	THIDIAZURON	1997	kg				368.9						
+47	Tennessee	THIDIAZURON	1998	kg				1076.5						
+47	Tennessee	THIDIAZURON	1999	kg				1258.7						
+47	Tennessee	THIDIAZURON	2000	kg				909.7						
+47	Tennessee	THIDIAZURON	2001	kg				5581.5						
+47	Tennessee	THIDIAZURON	2002	kg				1998.5						
+47	Tennessee	THIDIAZURON	2003	kg				691.1						
+47	Tennessee	THIDIAZURON	2004	kg				2171.8						
+47	Tennessee	THIDIAZURON	2005	kg				1323.8						
+47	Tennessee	THIDIAZURON	2006	kg				1169.8						
+47	Tennessee	THIDIAZURON	2007	kg				2636.1						
+47	Tennessee	THIDIAZURON	2008	kg				1201.4						
+47	Tennessee	THIDIAZURON	2009	kg				2529						
+47	Tennessee	THIDIAZURON	2010	kg				5244.1						
+47	Tennessee	THIDIAZURON	2011	kg				2395.1						
+47	Tennessee	THIDIAZURON	2012	kg				5531.2						
+47	Tennessee	THIDIAZURON	2013	kg				410.4						
+47	Tennessee	THIDIAZURON	2014	kg				785.7						
+47	Tennessee	THIDIAZURON	2015	kg				2193.9						
+47	Tennessee	THIDIAZURON	2016	kg				1649.9						
+47	Tennessee	THIDIAZURON	2017	kg				5097.5						
+48	Texas	THIDIAZURON	1992	kg				4072.4						
+48	Texas	THIDIAZURON	1993	kg				26713.2						
+48	Texas	THIDIAZURON	1994	kg				5625.5						
+48	Texas	THIDIAZURON	1995	kg				13576						
+48	Texas	THIDIAZURON	1996	kg				5298.9						
+48	Texas	THIDIAZURON	1997	kg				7890.8						
+48	Texas	THIDIAZURON	1998	kg				16193.7						
+48	Texas	THIDIAZURON	1999	kg				27917.3						
+48	Texas	THIDIAZURON	2000	kg				30272.6						
+48	Texas	THIDIAZURON	2001	kg				26428						
+48	Texas	THIDIAZURON	2002	kg				27647.7						
+48	Texas	THIDIAZURON	2003	kg				28853.4						
+48	Texas	THIDIAZURON	2004	kg				32994.2						
+48	Texas	THIDIAZURON	2005	kg				29544.3						
+48	Texas	THIDIAZURON	2006	kg				11203						
+48	Texas	THIDIAZURON	2007	kg				39377.5						
+48	Texas	THIDIAZURON	2008	kg				14655.7						
+48	Texas	THIDIAZURON	2009	kg				7894.5						
+48	Texas	THIDIAZURON	2010	kg				38771.6						
+48	Texas	THIDIAZURON	2011	kg				27181.8						
+48	Texas	THIDIAZURON	2012	kg				42109.1						
+48	Texas	THIDIAZURON	2013	kg				34515.3						
+48	Texas	THIDIAZURON	2014	kg				53613.6						
+48	Texas	THIDIAZURON	2015	kg				44917.8						
+48	Texas	THIDIAZURON	2016	kg				49196.1						
+48	Texas	THIDIAZURON	2017	kg				53168.1						
+51	Virginia	THIDIAZURON	1992	kg				21.1						
+51	Virginia	THIDIAZURON	1993	kg				304						
+51	Virginia	THIDIAZURON	1994	kg				62.8						
+51	Virginia	THIDIAZURON	1995	kg				826						
+51	Virginia	THIDIAZURON	1996	kg				947						
+51	Virginia	THIDIAZURON	1997	kg				1485.7						
+51	Virginia	THIDIAZURON	1998	kg				1043.5						
+51	Virginia	THIDIAZURON	1999	kg				716.7						
+51	Virginia	THIDIAZURON	2000	kg				359.8						
+51	Virginia	THIDIAZURON	2001	kg				323.7						
+51	Virginia	THIDIAZURON	2002	kg				1041.5						
+51	Virginia	THIDIAZURON	2003	kg				111.4						
+51	Virginia	THIDIAZURON	2004	kg				410.5						
+51	Virginia	THIDIAZURON	2005	kg				555.4						
+51	Virginia	THIDIAZURON	2006	kg				778.9						
+51	Virginia	THIDIAZURON	2007	kg				730.7						
+51	Virginia	THIDIAZURON	2008	kg				408						
+51	Virginia	THIDIAZURON	2009	kg				1231.6						
+51	Virginia	THIDIAZURON	2010	kg				1163.2						
+51	Virginia	THIDIAZURON	2011	kg				1916.6						
+51	Virginia	THIDIAZURON	2012	kg				2531.4						
+51	Virginia	THIDIAZURON	2013	kg				1426.2						
+51	Virginia	THIDIAZURON	2014	kg				1895.8						117.2
+51	Virginia	THIDIAZURON	2015	kg				2618.8						
+51	Virginia	THIDIAZURON	2016	kg				3033.5						
+51	Virginia	THIDIAZURON	2017	kg				1550.8						

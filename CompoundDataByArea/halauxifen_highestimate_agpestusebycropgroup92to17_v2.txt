@@ -1,0 +1,18 @@
+01	Alabama	HALAUXIFEN	2017	kg			4.1							
+08	Colorado	HALAUXIFEN	2017	kg			5.2							
+18	Indiana	HALAUXIFEN	2017	kg			3.1							
+20	Kansas	HALAUXIFEN	2017	kg			176.5							
+21	Kentucky	HALAUXIFEN	2017	kg			4.1							
+24	Maryland	HALAUXIFEN	2017	kg			3.9							1.3
+26	Michigan	HALAUXIFEN	2017	kg			14.8							
+28	Mississippi	HALAUXIFEN	2017	kg			0.6							
+29	Missouri	HALAUXIFEN	2017	kg			21.8							
+31	Nebraska	HALAUXIFEN	2017	kg			66.7							
+35	New Mexico	HALAUXIFEN	2017	kg			2.8							
+37	North Carolina	HALAUXIFEN	2017	kg			130.2							
+39	Ohio	HALAUXIFEN	2017	kg			179							
+40	Oklahoma	HALAUXIFEN	2017	kg			368.7							
+42	Pennsylvania	HALAUXIFEN	2017	kg										5.4
+47	Tennessee	HALAUXIFEN	2017	kg			15.5							
+48	Texas	HALAUXIFEN	2017	kg			102.1							
+51	Virginia	HALAUXIFEN	2017	kg			23.5							

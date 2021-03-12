@@ -1,0 +1,808 @@
+01	Alabama	LACTOFEN	1992	kg		683.9								
+01	Alabama	LACTOFEN	1993	kg		1439.9		70.1						
+01	Alabama	LACTOFEN	1994	kg		1023.7		945.2						
+01	Alabama	LACTOFEN	1995	kg		542		3946.9						
+01	Alabama	LACTOFEN	1996	kg		661.5		152.9						
+01	Alabama	LACTOFEN	1997	kg		485.2		492.5						
+01	Alabama	LACTOFEN	1998	kg		1010.1		1922.9						
+01	Alabama	LACTOFEN	1999	kg		207.8		124.1						
+01	Alabama	LACTOFEN	2000	kg		550.9		130						
+01	Alabama	LACTOFEN	2001	kg		61.2		379.5	0.1					
+01	Alabama	LACTOFEN	2002	kg		430.3		2258.7						
+01	Alabama	LACTOFEN	2003	kg		18.8		76.6	3.3					
+01	Alabama	LACTOFEN	2004	kg		39			5.4					
+01	Alabama	LACTOFEN	2005	kg		34.5		140	3.8					85.5
+01	Alabama	LACTOFEN	2006	kg		90		97.1	4.4					271.3
+01	Alabama	LACTOFEN	2007	kg				8910.4	0.3					409
+01	Alabama	LACTOFEN	2008	kg					0.3					420
+01	Alabama	LACTOFEN	2009	kg		108.2		959.5	0.6					576.4
+01	Alabama	LACTOFEN	2010	kg		111.4		137.9						1526.5
+01	Alabama	LACTOFEN	2011	kg		35.1			2.2					3110.7
+01	Alabama	LACTOFEN	2012	kg		2721		431.6						552.3
+01	Alabama	LACTOFEN	2013	kg		498.2								317.2
+01	Alabama	LACTOFEN	2014	kg		1179.8								469.4
+01	Alabama	LACTOFEN	2015	kg		357.9								1003.1
+01	Alabama	LACTOFEN	2016	kg		537.9								117.3
+01	Alabama	LACTOFEN	2017	kg										1825.1
+05	Arkansas	LACTOFEN	1992	kg		10892.9		951.2	0.3					
+05	Arkansas	LACTOFEN	1993	kg		3175.2		1123						
+05	Arkansas	LACTOFEN	1994	kg		4630.8		1507.5						85.9
+05	Arkansas	LACTOFEN	1995	kg		7049.5	243	2100						
+05	Arkansas	LACTOFEN	1996	kg		4159.6		3025.2			0			
+05	Arkansas	LACTOFEN	1997	kg		8471.6		197.1						
+05	Arkansas	LACTOFEN	1998	kg		1070.9		2554.6						
+05	Arkansas	LACTOFEN	1999	kg		2289.4		122.8						
+05	Arkansas	LACTOFEN	2000	kg		1664.4		1187.3						
+05	Arkansas	LACTOFEN	2001	kg		2058		3855.4						
+05	Arkansas	LACTOFEN	2002	kg		4289								
+05	Arkansas	LACTOFEN	2003	kg		2130								
+05	Arkansas	LACTOFEN	2004	kg		1123.7								
+05	Arkansas	LACTOFEN	2005	kg		3.9								
+05	Arkansas	LACTOFEN	2007	kg		1.4								
+05	Arkansas	LACTOFEN	2009	kg		7263.5								
+05	Arkansas	LACTOFEN	2010	kg		563.8								
+05	Arkansas	LACTOFEN	2011	kg		2382								
+05	Arkansas	LACTOFEN	2012	kg		9714.3								
+05	Arkansas	LACTOFEN	2013	kg		3430.6		507.4						
+05	Arkansas	LACTOFEN	2014	kg		3892.8								
+05	Arkansas	LACTOFEN	2015	kg		20095								
+05	Arkansas	LACTOFEN	2016	kg		18394.2								
+05	Arkansas	LACTOFEN	2017	kg		14001.9								
+08	Colorado	LACTOFEN	1992	kg		1.8								
+08	Colorado	LACTOFEN	1993	kg		6								
+08	Colorado	LACTOFEN	1994	kg		21.1								
+08	Colorado	LACTOFEN	1995	kg		6.1								
+08	Colorado	LACTOFEN	1996	kg		73.5								
+08	Colorado	LACTOFEN	1997	kg		81.5								
+08	Colorado	LACTOFEN	1998	kg		2								
+08	Colorado	LACTOFEN	1999	kg		4								
+08	Colorado	LACTOFEN	2000	kg		8.1								
+08	Colorado	LACTOFEN	2001	kg		3.2								
+08	Colorado	LACTOFEN	2002	kg		6.1								
+08	Colorado	LACTOFEN	2003	kg		4.2								
+08	Colorado	LACTOFEN	2004	kg		1.5								
+08	Colorado	LACTOFEN	2005	kg		2.1								
+08	Colorado	LACTOFEN	2011	kg		35.9								
+08	Colorado	LACTOFEN	2012	kg		21								
+08	Colorado	LACTOFEN	2013	kg		22.7								
+08	Colorado	LACTOFEN	2014	kg		62.9								
+08	Colorado	LACTOFEN	2015	kg		194.3								
+08	Colorado	LACTOFEN	2016	kg		121.2								
+08	Colorado	LACTOFEN	2017	kg		53.2								
+10	Delaware	LACTOFEN	1992	kg		413.4								
+10	Delaware	LACTOFEN	1993	kg		830.1								
+10	Delaware	LACTOFEN	1994	kg		186.8								
+10	Delaware	LACTOFEN	1995	kg		318.2								
+10	Delaware	LACTOFEN	1996	kg		2220.9								
+10	Delaware	LACTOFEN	1997	kg		302								
+10	Delaware	LACTOFEN	1998	kg		545.9								
+10	Delaware	LACTOFEN	2000	kg		71.2								
+10	Delaware	LACTOFEN	2002	kg		705.6								
+10	Delaware	LACTOFEN	2012	kg		1672.5								
+10	Delaware	LACTOFEN	2013	kg		115.9								
+10	Delaware	LACTOFEN	2014	kg		523.3								
+10	Delaware	LACTOFEN	2015	kg		152.3								
+10	Delaware	LACTOFEN	2016	kg		230.5								
+12	Florida	LACTOFEN	1992	kg		36.6								
+12	Florida	LACTOFEN	1993	kg					2569.5					
+12	Florida	LACTOFEN	1994	kg		13		402.5	1644.2					62.3
+12	Florida	LACTOFEN	1995	kg		93.5		58.9	1097.6					
+12	Florida	LACTOFEN	1996	kg		253.7			873.3					15.2
+12	Florida	LACTOFEN	1997	kg		140.6		22	312		28.9			
+12	Florida	LACTOFEN	1998	kg		97.8		266.3						4.8
+12	Florida	LACTOFEN	2000	kg				29.3						
+12	Florida	LACTOFEN	2001	kg				60.3						
+12	Florida	LACTOFEN	2002	kg		51		75.5						
+12	Florida	LACTOFEN	2003	kg				6.9						
+12	Florida	LACTOFEN	2005	kg				30						52.1
+12	Florida	LACTOFEN	2006	kg										112.2
+12	Florida	LACTOFEN	2007	kg				61.4						1545.4
+12	Florida	LACTOFEN	2008	kg										1816.1
+12	Florida	LACTOFEN	2009	kg										77.8
+12	Florida	LACTOFEN	2010	kg				110.7						653.7
+12	Florida	LACTOFEN	2011	kg										205.6
+12	Florida	LACTOFEN	2012	kg										367.9
+12	Florida	LACTOFEN	2013	kg										1657.3
+12	Florida	LACTOFEN	2014	kg		375.1								1876.4
+12	Florida	LACTOFEN	2015	kg										967.7
+12	Florida	LACTOFEN	2016	kg										248.1
+12	Florida	LACTOFEN	2017	kg					380.5					
+13	Georgia	LACTOFEN	1992	kg		3695.3								
+13	Georgia	LACTOFEN	1993	kg		1702.8								
+13	Georgia	LACTOFEN	1994	kg		422		2198.9						502.2
+13	Georgia	LACTOFEN	1995	kg		851.7		654.1						
+13	Georgia	LACTOFEN	1996	kg		7147.9		425.8						112.2
+13	Georgia	LACTOFEN	1997	kg		1690.7		514.7						
+13	Georgia	LACTOFEN	1998	kg		812.6		3552.3						34
+13	Georgia	LACTOFEN	1999	kg		191.7								
+13	Georgia	LACTOFEN	2000	kg		269.9		298.8						
+13	Georgia	LACTOFEN	2001	kg		306.5		602.5	0					
+13	Georgia	LACTOFEN	2002	kg		466.5		1139.6						
+13	Georgia	LACTOFEN	2003	kg		3.9		69.5	0.2					
+13	Georgia	LACTOFEN	2004	kg		8.4			0.3					
+13	Georgia	LACTOFEN	2005	kg		7.1		385.9	0.3					359.2
+13	Georgia	LACTOFEN	2006	kg		16.7			0.3					7435.7
+13	Georgia	LACTOFEN	2007	kg				2911.2	0					819.1
+13	Georgia	LACTOFEN	2008	kg					0.4					367.8
+13	Georgia	LACTOFEN	2009	kg		16.6		244.1	0.4					519.5
+13	Georgia	LACTOFEN	2010	kg		13.3		1120.7						2436.5
+13	Georgia	LACTOFEN	2011	kg		8.4			0.3					965.2
+13	Georgia	LACTOFEN	2012	kg		1662		71						1090.5
+13	Georgia	LACTOFEN	2013	kg		185.3								3963.7
+13	Georgia	LACTOFEN	2014	kg		14251.4								8617.4
+13	Georgia	LACTOFEN	2015	kg		355.9								2361.9
+13	Georgia	LACTOFEN	2016	kg		278.6								2816.9
+13	Georgia	LACTOFEN	2017	kg										6801.5
+17	Illinois	LACTOFEN	1992	kg		6955								
+17	Illinois	LACTOFEN	1993	kg		3594.5								
+17	Illinois	LACTOFEN	1994	kg	271.1	11709.5								
+17	Illinois	LACTOFEN	1995	kg		20266.1	275.9							
+17	Illinois	LACTOFEN	1996	kg		25574.7			16.8					
+17	Illinois	LACTOFEN	1997	kg		20219.5								
+17	Illinois	LACTOFEN	1998	kg		7397.1								
+17	Illinois	LACTOFEN	1999	kg		10343.2								
+17	Illinois	LACTOFEN	2000	kg		13585.7								
+17	Illinois	LACTOFEN	2001	kg		13232.6								
+17	Illinois	LACTOFEN	2002	kg		13835.9								
+17	Illinois	LACTOFEN	2003	kg		11269.9								
+17	Illinois	LACTOFEN	2004	kg		13514.5								
+17	Illinois	LACTOFEN	2005	kg		14457.3								
+17	Illinois	LACTOFEN	2006	kg		8694.7								
+17	Illinois	LACTOFEN	2007	kg		9259.1								
+17	Illinois	LACTOFEN	2008	kg		7921.8								
+17	Illinois	LACTOFEN	2009	kg		10845.3								
+17	Illinois	LACTOFEN	2010	kg		10248.4								
+17	Illinois	LACTOFEN	2011	kg	2569.9	13442								
+17	Illinois	LACTOFEN	2012	kg		16793.2			65.9					
+17	Illinois	LACTOFEN	2013	kg		43367.9								
+17	Illinois	LACTOFEN	2014	kg		37836.8								
+17	Illinois	LACTOFEN	2015	kg	16609.9	57843.9								
+17	Illinois	LACTOFEN	2016	kg		51329.3								
+17	Illinois	LACTOFEN	2017	kg		26932.6								
+18	Indiana	LACTOFEN	1992	kg		10407.8								
+18	Indiana	LACTOFEN	1993	kg		10890.8								
+18	Indiana	LACTOFEN	1994	kg	471.4	14908.9								
+18	Indiana	LACTOFEN	1995	kg		14874.5								
+18	Indiana	LACTOFEN	1996	kg		17207.9								
+18	Indiana	LACTOFEN	1997	kg		7722.8								
+18	Indiana	LACTOFEN	1998	kg		4516.3								
+18	Indiana	LACTOFEN	1999	kg		1043.8								
+18	Indiana	LACTOFEN	2000	kg		2541.1								
+18	Indiana	LACTOFEN	2001	kg		4268.2								
+18	Indiana	LACTOFEN	2002	kg		1273.9								
+18	Indiana	LACTOFEN	2003	kg		2564.1								
+18	Indiana	LACTOFEN	2004	kg		2765.6								
+18	Indiana	LACTOFEN	2005	kg		4585								
+18	Indiana	LACTOFEN	2006	kg		3957.2								
+18	Indiana	LACTOFEN	2007	kg		4536.5								
+18	Indiana	LACTOFEN	2008	kg		5875.3								
+18	Indiana	LACTOFEN	2009	kg		3962.7								
+18	Indiana	LACTOFEN	2010	kg		8960.3								
+18	Indiana	LACTOFEN	2011	kg		9349.5								
+18	Indiana	LACTOFEN	2012	kg		2867.7			2.8					
+18	Indiana	LACTOFEN	2013	kg		15510.6								
+18	Indiana	LACTOFEN	2014	kg		16007.1								
+18	Indiana	LACTOFEN	2015	kg	6678.3	5146.1								
+18	Indiana	LACTOFEN	2016	kg		14204								
+18	Indiana	LACTOFEN	2017	kg		6407.9								
+19	Iowa	LACTOFEN	1992	kg		2504.3			1.7					
+19	Iowa	LACTOFEN	1993	kg		6509.5								
+19	Iowa	LACTOFEN	1994	kg		4535								
+19	Iowa	LACTOFEN	1995	kg		12203.4								
+19	Iowa	LACTOFEN	1996	kg		19709.7								
+19	Iowa	LACTOFEN	1997	kg		25599.9							949.7	
+19	Iowa	LACTOFEN	1998	kg		14457.2								
+19	Iowa	LACTOFEN	1999	kg		10431.6								
+19	Iowa	LACTOFEN	2000	kg		10980.4								
+19	Iowa	LACTOFEN	2001	kg		15014.3								
+19	Iowa	LACTOFEN	2002	kg		8424.7								
+19	Iowa	LACTOFEN	2003	kg		2671.6								
+19	Iowa	LACTOFEN	2004	kg		4557.2								
+19	Iowa	LACTOFEN	2005	kg		12651.9								
+19	Iowa	LACTOFEN	2006	kg		8717.3								
+19	Iowa	LACTOFEN	2007	kg		2735.4								
+19	Iowa	LACTOFEN	2008	kg		5294.4								
+19	Iowa	LACTOFEN	2009	kg		7992.1								
+19	Iowa	LACTOFEN	2010	kg		26704.9								
+19	Iowa	LACTOFEN	2011	kg	340.9	9968.8			0					
+19	Iowa	LACTOFEN	2012	kg		21438.1								
+19	Iowa	LACTOFEN	2013	kg		66392.4								
+19	Iowa	LACTOFEN	2014	kg	746.7	69907								
+19	Iowa	LACTOFEN	2015	kg	13610.3	54241.1								
+19	Iowa	LACTOFEN	2016	kg		34141.5								
+19	Iowa	LACTOFEN	2017	kg		27905.1								
+20	Kansas	LACTOFEN	1992	kg		1951.2		99.4						
+20	Kansas	LACTOFEN	1993	kg		5143.7								
+20	Kansas	LACTOFEN	1994	kg		5923.8								
+20	Kansas	LACTOFEN	1995	kg		15420.5								
+20	Kansas	LACTOFEN	1996	kg		12756.8								
+20	Kansas	LACTOFEN	1997	kg		8716								
+20	Kansas	LACTOFEN	1998	kg		3469.5								
+20	Kansas	LACTOFEN	1999	kg		4872.1		168.6						
+20	Kansas	LACTOFEN	2000	kg		4752.8								
+20	Kansas	LACTOFEN	2001	kg		10152.2								
+20	Kansas	LACTOFEN	2002	kg		6492.6								
+20	Kansas	LACTOFEN	2003	kg		4545.7								
+20	Kansas	LACTOFEN	2004	kg		747								
+20	Kansas	LACTOFEN	2005	kg		1990.1								
+20	Kansas	LACTOFEN	2007	kg		1234.7								
+20	Kansas	LACTOFEN	2009	kg		5178.1								
+20	Kansas	LACTOFEN	2010	kg		8066.6								
+20	Kansas	LACTOFEN	2011	kg		13573.4								
+20	Kansas	LACTOFEN	2012	kg		20185.3								
+20	Kansas	LACTOFEN	2013	kg		15904.8								
+20	Kansas	LACTOFEN	2014	kg		29250.6								
+20	Kansas	LACTOFEN	2015	kg		36150.7								
+20	Kansas	LACTOFEN	2016	kg		29495.2								
+20	Kansas	LACTOFEN	2017	kg		29346								
+21	Kentucky	LACTOFEN	1992	kg		4151.5								
+21	Kentucky	LACTOFEN	1993	kg		1738.7								
+21	Kentucky	LACTOFEN	1994	kg		5406.2								
+21	Kentucky	LACTOFEN	1995	kg		3659.5	117							
+21	Kentucky	LACTOFEN	1996	kg		2078.1								
+21	Kentucky	LACTOFEN	1997	kg		1520.3								
+21	Kentucky	LACTOFEN	1998	kg		1106.1								
+21	Kentucky	LACTOFEN	1999	kg		1918.1								
+21	Kentucky	LACTOFEN	2000	kg		358.5								
+21	Kentucky	LACTOFEN	2001	kg		2816.5			0					
+21	Kentucky	LACTOFEN	2002	kg		747.3								
+21	Kentucky	LACTOFEN	2003	kg		1398.6			2					
+21	Kentucky	LACTOFEN	2004	kg		1387.8			4.9					
+21	Kentucky	LACTOFEN	2005	kg		1747.8			3.4					
+21	Kentucky	LACTOFEN	2006	kg		739.7			4.3					
+21	Kentucky	LACTOFEN	2007	kg		649.6			0					
+21	Kentucky	LACTOFEN	2008	kg		400.6			0.2					
+21	Kentucky	LACTOFEN	2009	kg		5596			0.5					
+21	Kentucky	LACTOFEN	2010	kg		1362.5								
+21	Kentucky	LACTOFEN	2011	kg		25728.6			1.2					
+21	Kentucky	LACTOFEN	2012	kg		7931.1								
+21	Kentucky	LACTOFEN	2013	kg		7671.8								
+21	Kentucky	LACTOFEN	2014	kg		11992.7								
+21	Kentucky	LACTOFEN	2015	kg		6888.7								
+21	Kentucky	LACTOFEN	2016	kg		5902.8								
+21	Kentucky	LACTOFEN	2017	kg		1184.2								
+22	Louisiana	LACTOFEN	1992	kg		2329.1		4952.9						
+22	Louisiana	LACTOFEN	1993	kg		1145.8		2885.8						
+22	Louisiana	LACTOFEN	1994	kg		11024.9		265.9						116.9
+22	Louisiana	LACTOFEN	1995	kg		9532.5		2469.4						
+22	Louisiana	LACTOFEN	1996	kg		2655.7		3469.2			0			
+22	Louisiana	LACTOFEN	1997	kg		2444.9		1163.5						
+22	Louisiana	LACTOFEN	1998	kg		505.3		2059.4						
+22	Louisiana	LACTOFEN	1999	kg		410.3		747.1						
+22	Louisiana	LACTOFEN	2000	kg		272.4		751.4						
+22	Louisiana	LACTOFEN	2001	kg		220.1		3758.9						
+22	Louisiana	LACTOFEN	2002	kg		943.1								
+22	Louisiana	LACTOFEN	2009	kg		3908.5								
+22	Louisiana	LACTOFEN	2011	kg		2855.4								
+22	Louisiana	LACTOFEN	2012	kg		3398.9								
+22	Louisiana	LACTOFEN	2013	kg		4287								
+22	Louisiana	LACTOFEN	2014	kg		2539.4								
+22	Louisiana	LACTOFEN	2015	kg		7573.9								
+22	Louisiana	LACTOFEN	2016	kg		6758.1								
+22	Louisiana	LACTOFEN	2017	kg		5228.9								
+24	Maryland	LACTOFEN	1992	kg		672.3								
+24	Maryland	LACTOFEN	1993	kg		1753.8								
+24	Maryland	LACTOFEN	1994	kg		363.2								
+24	Maryland	LACTOFEN	1995	kg		494								
+24	Maryland	LACTOFEN	1996	kg		2590.2								
+24	Maryland	LACTOFEN	1997	kg		381.5								
+24	Maryland	LACTOFEN	1998	kg		1164.3								
+24	Maryland	LACTOFEN	2000	kg		126.9								
+24	Maryland	LACTOFEN	2002	kg		1279.4								
+24	Maryland	LACTOFEN	2012	kg		3277								
+24	Maryland	LACTOFEN	2013	kg		230.9								
+24	Maryland	LACTOFEN	2014	kg		2965.4								
+24	Maryland	LACTOFEN	2015	kg		308.1								
+24	Maryland	LACTOFEN	2016	kg		492								
+26	Michigan	LACTOFEN	1992	kg		1085.4								
+26	Michigan	LACTOFEN	1993	kg		1868								
+26	Michigan	LACTOFEN	1994	kg		3288.8								
+26	Michigan	LACTOFEN	1995	kg		3047.5								
+26	Michigan	LACTOFEN	1996	kg		3107.7								
+26	Michigan	LACTOFEN	1997	kg		1936.6								
+26	Michigan	LACTOFEN	1998	kg		2785.9								
+26	Michigan	LACTOFEN	1999	kg		2104.5								
+26	Michigan	LACTOFEN	2000	kg		1196.3								
+26	Michigan	LACTOFEN	2001	kg		1550.2								
+26	Michigan	LACTOFEN	2002	kg		770.1								
+26	Michigan	LACTOFEN	2003	kg		2465.1								
+26	Michigan	LACTOFEN	2004	kg		314.6								
+26	Michigan	LACTOFEN	2005	kg		1781.3								
+26	Michigan	LACTOFEN	2006	kg		735.5								
+26	Michigan	LACTOFEN	2007	kg		533								
+26	Michigan	LACTOFEN	2008	kg		1609.7								
+26	Michigan	LACTOFEN	2009	kg		1605.4								
+26	Michigan	LACTOFEN	2010	kg		6284.8								
+26	Michigan	LACTOFEN	2011	kg		2185.4								
+26	Michigan	LACTOFEN	2012	kg		1412.5								
+26	Michigan	LACTOFEN	2013	kg		10278.4								
+26	Michigan	LACTOFEN	2014	kg		5318.2								
+26	Michigan	LACTOFEN	2015	kg		1914.8								
+26	Michigan	LACTOFEN	2016	kg		2805.1								
+26	Michigan	LACTOFEN	2017	kg		1675.7								
+27	Minnesota	LACTOFEN	1992	kg		5985.3			109.9					
+27	Minnesota	LACTOFEN	1993	kg		6284.2								
+27	Minnesota	LACTOFEN	1994	kg		22304.8							0.2	38.5
+27	Minnesota	LACTOFEN	1995	kg	888.1	15183							6.7	
+27	Minnesota	LACTOFEN	1996	kg		15847.1								
+27	Minnesota	LACTOFEN	1997	kg		25156.3							425.8	
+27	Minnesota	LACTOFEN	1998	kg		12433.8								
+27	Minnesota	LACTOFEN	1999	kg		7618.1								
+27	Minnesota	LACTOFEN	2000	kg		5551.5								
+27	Minnesota	LACTOFEN	2001	kg		4135.2								
+27	Minnesota	LACTOFEN	2002	kg		2806.8								
+27	Minnesota	LACTOFEN	2003	kg		1971.5								
+27	Minnesota	LACTOFEN	2004	kg		627.4								
+27	Minnesota	LACTOFEN	2005	kg		1646.8			83.3					
+27	Minnesota	LACTOFEN	2006	kg		2066.8								
+27	Minnesota	LACTOFEN	2007	kg		1391.9								
+27	Minnesota	LACTOFEN	2008	kg		1571.7								
+27	Minnesota	LACTOFEN	2009	kg		2681.5								
+27	Minnesota	LACTOFEN	2010	kg		6746.7								
+27	Minnesota	LACTOFEN	2011	kg		4465.6			26.9					
+27	Minnesota	LACTOFEN	2012	kg		1944.6								
+27	Minnesota	LACTOFEN	2013	kg		3824.8								
+27	Minnesota	LACTOFEN	2014	kg	296.3	12705.4			32					
+27	Minnesota	LACTOFEN	2015	kg	9098.6	19483.2								
+27	Minnesota	LACTOFEN	2016	kg		9191.9								
+27	Minnesota	LACTOFEN	2017	kg		10236.6								
+28	Mississippi	LACTOFEN	1992	kg		3802.9		10903.2	167.1					
+28	Mississippi	LACTOFEN	1993	kg		1293.1		6084						
+28	Mississippi	LACTOFEN	1994	kg		2210.3		6984						221.5
+28	Mississippi	LACTOFEN	1995	kg		1894.6		7529.9						
+28	Mississippi	LACTOFEN	1996	kg		2867.9		1389			0.1			
+28	Mississippi	LACTOFEN	1997	kg		1108.5		3252						
+28	Mississippi	LACTOFEN	1998	kg		945.2		3904.2						
+28	Mississippi	LACTOFEN	1999	kg		3229.2		1269.9						
+28	Mississippi	LACTOFEN	2000	kg		564		2076.7						
+28	Mississippi	LACTOFEN	2001	kg		3697.2		4413.3						
+28	Mississippi	LACTOFEN	2002	kg		1925.3		343.5						
+28	Mississippi	LACTOFEN	2003	kg				42.4						
+28	Mississippi	LACTOFEN	2005	kg				19.5						
+28	Mississippi	LACTOFEN	2006	kg				63.8						9
+28	Mississippi	LACTOFEN	2007	kg				54						14.6
+28	Mississippi	LACTOFEN	2008	kg										28.3
+28	Mississippi	LACTOFEN	2009	kg		8315.4								28.5
+28	Mississippi	LACTOFEN	2010	kg										67
+28	Mississippi	LACTOFEN	2011	kg		5354.6								341.4
+28	Mississippi	LACTOFEN	2012	kg		6428.3								42.5
+28	Mississippi	LACTOFEN	2013	kg		1682.4								82.9
+28	Mississippi	LACTOFEN	2014	kg		10551.5								36.7
+28	Mississippi	LACTOFEN	2015	kg		6251.6								80.7
+28	Mississippi	LACTOFEN	2016	kg		12030.4								84.1
+28	Mississippi	LACTOFEN	2017	kg		8036.7								128
+29	Missouri	LACTOFEN	1992	kg		4785.8		147						
+29	Missouri	LACTOFEN	1993	kg		6894.2		1349.8						
+29	Missouri	LACTOFEN	1994	kg		7265.5		639.5						
+29	Missouri	LACTOFEN	1995	kg		39206.8	363.5	738.2						
+29	Missouri	LACTOFEN	1996	kg		20813.5		416.4						
+29	Missouri	LACTOFEN	1997	kg		16037.1		39.2						
+29	Missouri	LACTOFEN	1998	kg		9029.8		230.8						
+29	Missouri	LACTOFEN	1999	kg		11003.9		33.7						
+29	Missouri	LACTOFEN	2000	kg		11698.2		82.5						
+29	Missouri	LACTOFEN	2001	kg		6295.1		84.1						
+29	Missouri	LACTOFEN	2002	kg		5922								
+29	Missouri	LACTOFEN	2003	kg		7492.4								
+29	Missouri	LACTOFEN	2004	kg		4631.1								
+29	Missouri	LACTOFEN	2005	kg		7008.5								
+29	Missouri	LACTOFEN	2006	kg		6672.6								
+29	Missouri	LACTOFEN	2007	kg		3669.6								
+29	Missouri	LACTOFEN	2008	kg		5052.2								
+29	Missouri	LACTOFEN	2009	kg		8228.3								
+29	Missouri	LACTOFEN	2010	kg		17581.8								
+29	Missouri	LACTOFEN	2011	kg	216.7	22820.6								
+29	Missouri	LACTOFEN	2012	kg		47150.1								
+29	Missouri	LACTOFEN	2013	kg		104935.5		656.3						
+29	Missouri	LACTOFEN	2014	kg		63245.9								
+29	Missouri	LACTOFEN	2015	kg	959	80065.5								
+29	Missouri	LACTOFEN	2016	kg		63331.1								
+29	Missouri	LACTOFEN	2017	kg		40340								
+30	Montana	LACTOFEN	1994	kg										669.8
+31	Nebraska	LACTOFEN	1992	kg		1066.9								
+31	Nebraska	LACTOFEN	1993	kg		3565.9								
+31	Nebraska	LACTOFEN	1994	kg		4433.1								
+31	Nebraska	LACTOFEN	1995	kg		4262.1								
+31	Nebraska	LACTOFEN	1996	kg		12162.1								
+31	Nebraska	LACTOFEN	1997	kg		2829.6								
+31	Nebraska	LACTOFEN	1998	kg		2450.3								
+31	Nebraska	LACTOFEN	1999	kg		4677.4								
+31	Nebraska	LACTOFEN	2000	kg		9005.5								
+31	Nebraska	LACTOFEN	2001	kg		1575.3								
+31	Nebraska	LACTOFEN	2002	kg		1922.9								
+31	Nebraska	LACTOFEN	2003	kg		3791.3								
+31	Nebraska	LACTOFEN	2004	kg		2404.5								
+31	Nebraska	LACTOFEN	2005	kg		1907.5								
+31	Nebraska	LACTOFEN	2006	kg		1283.1								
+31	Nebraska	LACTOFEN	2007	kg		360.2								
+31	Nebraska	LACTOFEN	2008	kg		628.6								
+31	Nebraska	LACTOFEN	2009	kg		355								
+31	Nebraska	LACTOFEN	2010	kg		4282.6								
+31	Nebraska	LACTOFEN	2011	kg		9546								
+31	Nebraska	LACTOFEN	2012	kg		1915.2								
+31	Nebraska	LACTOFEN	2013	kg		2741.6								
+31	Nebraska	LACTOFEN	2014	kg		14883.5								
+31	Nebraska	LACTOFEN	2015	kg		32377.2								
+31	Nebraska	LACTOFEN	2016	kg		48762.6								
+31	Nebraska	LACTOFEN	2017	kg		22959.6								
+34	New Jersey	LACTOFEN	1993	kg		116.6								
+34	New Jersey	LACTOFEN	1995	kg		117.2								
+34	New Jersey	LACTOFEN	1996	kg		37.7								
+34	New Jersey	LACTOFEN	1997	kg		57.7								
+34	New Jersey	LACTOFEN	1998	kg		66.2								
+34	New Jersey	LACTOFEN	1999	kg		155.3								
+34	New Jersey	LACTOFEN	2014	kg		1613.9								
+35	New Mexico	LACTOFEN	1992	kg		0.6		292.4						
+35	New Mexico	LACTOFEN	1993	kg		0.9		0.7						
+35	New Mexico	LACTOFEN	1994	kg		1.6								
+35	New Mexico	LACTOFEN	1995	kg		0.8								
+35	New Mexico	LACTOFEN	1996	kg		2.6								
+35	New Mexico	LACTOFEN	1997	kg		0		0.7						
+35	New Mexico	LACTOFEN	1998	kg		0.4								
+35	New Mexico	LACTOFEN	1999	kg		0.4		54.1						
+35	New Mexico	LACTOFEN	2000	kg		0.5								
+35	New Mexico	LACTOFEN	2001	kg		0.2								
+35	New Mexico	LACTOFEN	2002	kg		0.3		19.9						
+35	New Mexico	LACTOFEN	2003	kg		0.1			17.6					
+35	New Mexico	LACTOFEN	2004	kg		0			23.2					
+35	New Mexico	LACTOFEN	2005	kg		0			56.3					41.7
+35	New Mexico	LACTOFEN	2006	kg					17.2					206
+35	New Mexico	LACTOFEN	2007	kg					45.4					
+35	New Mexico	LACTOFEN	2008	kg										26.2
+35	New Mexico	LACTOFEN	2009	kg										1.1
+35	New Mexico	LACTOFEN	2010	kg					67.4					0.4
+35	New Mexico	LACTOFEN	2011	kg										10.2
+35	New Mexico	LACTOFEN	2012	kg										7.9
+36	New York	LACTOFEN	1993	kg		44.2								
+36	New York	LACTOFEN	1995	kg		36.3								
+36	New York	LACTOFEN	1996	kg		2691.1								
+36	New York	LACTOFEN	1997	kg		7.6								
+36	New York	LACTOFEN	1998	kg		637.5								
+36	New York	LACTOFEN	2003	kg		442.5								
+36	New York	LACTOFEN	2014	kg		5051.5								
+37	North Carolina	LACTOFEN	1992	kg		2173								
+37	North Carolina	LACTOFEN	1993	kg		791.3								
+37	North Carolina	LACTOFEN	1994	kg		404.6		1182.9						
+37	North Carolina	LACTOFEN	1995	kg		921.4		1337.6						457.4
+37	North Carolina	LACTOFEN	1996	kg		1195		148.6						
+37	North Carolina	LACTOFEN	1997	kg		1894.4		98.7						
+37	North Carolina	LACTOFEN	1998	kg		2557.9		862.1						
+37	North Carolina	LACTOFEN	1999	kg		200.3								
+37	North Carolina	LACTOFEN	2000	kg		455.5		327.7						
+37	North Carolina	LACTOFEN	2001	kg		4.1		500.4						
+37	North Carolina	LACTOFEN	2002	kg		5017.3		960.2						
+37	North Carolina	LACTOFEN	2003	kg		0.6								
+37	North Carolina	LACTOFEN	2004	kg		1.6								
+37	North Carolina	LACTOFEN	2005	kg		1.5		228.9						8.7
+37	North Carolina	LACTOFEN	2006	kg		4								950.1
+37	North Carolina	LACTOFEN	2007	kg				8372.5						307.2
+37	North Carolina	LACTOFEN	2008	kg										514.9
+37	North Carolina	LACTOFEN	2009	kg		29569.5								1019.8
+37	North Carolina	LACTOFEN	2010	kg		6796.7								2054.8
+37	North Carolina	LACTOFEN	2011	kg		314								564.4
+37	North Carolina	LACTOFEN	2012	kg		11503.9								5337.2
+37	North Carolina	LACTOFEN	2013	kg		1295.7								1179.1
+37	North Carolina	LACTOFEN	2014	kg		7823								821.2
+37	North Carolina	LACTOFEN	2015	kg		4050.5								937.9
+37	North Carolina	LACTOFEN	2016	kg		2204.9								683.2
+37	North Carolina	LACTOFEN	2017	kg										1152.9
+38	North Dakota	LACTOFEN	1992	kg		4948.1								
+38	North Dakota	LACTOFEN	1993	kg		1444								
+38	North Dakota	LACTOFEN	1994	kg		4893.2							0.6	
+38	North Dakota	LACTOFEN	1995	kg		1410.1								
+38	North Dakota	LACTOFEN	1996	kg		3811.2								
+38	North Dakota	LACTOFEN	1997	kg		693.9								
+38	North Dakota	LACTOFEN	1998	kg		3551.1								
+38	North Dakota	LACTOFEN	1999	kg		9785.7								
+38	North Dakota	LACTOFEN	2000	kg		579.9								
+38	North Dakota	LACTOFEN	2001	kg		789.5								
+38	North Dakota	LACTOFEN	2002	kg		914.4								
+38	North Dakota	LACTOFEN	2003	kg		812.2								
+38	North Dakota	LACTOFEN	2004	kg		1647.1								
+38	North Dakota	LACTOFEN	2005	kg		246			218.9					
+38	North Dakota	LACTOFEN	2006	kg		240.5								
+38	North Dakota	LACTOFEN	2007	kg		382.5								
+38	North Dakota	LACTOFEN	2008	kg		213.2								
+38	North Dakota	LACTOFEN	2009	kg		490.8								
+38	North Dakota	LACTOFEN	2010	kg		3147.6								
+38	North Dakota	LACTOFEN	2012	kg		7229.9								
+38	North Dakota	LACTOFEN	2013	kg		8530.7								
+38	North Dakota	LACTOFEN	2014	kg		6548.9								
+38	North Dakota	LACTOFEN	2015	kg		3852.2								
+38	North Dakota	LACTOFEN	2016	kg		15603.2								
+38	North Dakota	LACTOFEN	2017	kg		9320.1								
+39	Ohio	LACTOFEN	1992	kg		8717.7								
+39	Ohio	LACTOFEN	1993	kg	201.4	5036.2								
+39	Ohio	LACTOFEN	1994	kg		8758								
+39	Ohio	LACTOFEN	1995	kg		11467.9			59.2				241.2	
+39	Ohio	LACTOFEN	1996	kg		7351.5			3145.8					
+39	Ohio	LACTOFEN	1997	kg		13476.6								
+39	Ohio	LACTOFEN	1998	kg		7377.6								
+39	Ohio	LACTOFEN	1999	kg		2452								
+39	Ohio	LACTOFEN	2000	kg		1319.1								
+39	Ohio	LACTOFEN	2001	kg		5356.2								
+39	Ohio	LACTOFEN	2002	kg		1298.3								
+39	Ohio	LACTOFEN	2003	kg		1243.4								
+39	Ohio	LACTOFEN	2004	kg		1437.6								
+39	Ohio	LACTOFEN	2005	kg		1864.2								
+39	Ohio	LACTOFEN	2006	kg		4383.9								
+39	Ohio	LACTOFEN	2007	kg		1069.9								
+39	Ohio	LACTOFEN	2008	kg		13213								
+39	Ohio	LACTOFEN	2009	kg		4557								
+39	Ohio	LACTOFEN	2010	kg		9979.8								
+39	Ohio	LACTOFEN	2011	kg		5423.5								
+39	Ohio	LACTOFEN	2012	kg		4637.5								
+39	Ohio	LACTOFEN	2013	kg		26276.6								
+39	Ohio	LACTOFEN	2014	kg		6598								
+39	Ohio	LACTOFEN	2015	kg	3354.6	2209.5								
+39	Ohio	LACTOFEN	2016	kg		8091.4								
+39	Ohio	LACTOFEN	2017	kg		3902.6								
+40	Oklahoma	LACTOFEN	1992	kg		2071.1		12						
+40	Oklahoma	LACTOFEN	1993	kg		841		9.3						
+40	Oklahoma	LACTOFEN	1994	kg		1975.7		1.1						
+40	Oklahoma	LACTOFEN	1995	kg		1509.3		1.5						
+40	Oklahoma	LACTOFEN	1996	kg		809.8		1.5						
+40	Oklahoma	LACTOFEN	1997	kg		3223.1		0.2						
+40	Oklahoma	LACTOFEN	1998	kg		962.8		0.9						
+40	Oklahoma	LACTOFEN	1999	kg		854.3		74.8						
+40	Oklahoma	LACTOFEN	2000	kg		143.7		0.9						
+40	Oklahoma	LACTOFEN	2001	kg		641.4		2.6						
+40	Oklahoma	LACTOFEN	2002	kg		654.5								
+40	Oklahoma	LACTOFEN	2003	kg		971.7			0					
+40	Oklahoma	LACTOFEN	2004	kg		47.9			0					
+40	Oklahoma	LACTOFEN	2005	kg		520			0.2					
+40	Oklahoma	LACTOFEN	2006	kg					0					484.7
+40	Oklahoma	LACTOFEN	2007	kg		173.8			13.6					240.2
+40	Oklahoma	LACTOFEN	2008	kg										40.3
+40	Oklahoma	LACTOFEN	2009	kg		1320.5								
+40	Oklahoma	LACTOFEN	2010	kg		2694			15.3					699.6
+40	Oklahoma	LACTOFEN	2011	kg		5558.3								411.3
+40	Oklahoma	LACTOFEN	2012	kg		501.6								143.6
+40	Oklahoma	LACTOFEN	2013	kg		3525.7								315.4
+40	Oklahoma	LACTOFEN	2014	kg		2353.1								
+40	Oklahoma	LACTOFEN	2015	kg		1407								
+40	Oklahoma	LACTOFEN	2016	kg		2527.5								
+40	Oklahoma	LACTOFEN	2017	kg		2158								
+41	Oregon	LACTOFEN	1993	kg					457					
+41	Oregon	LACTOFEN	1995	kg					160.1					
+41	Oregon	LACTOFEN	1996	kg					265.4					
+41	Oregon	LACTOFEN	1997	kg					415.6					
+41	Oregon	LACTOFEN	1998	kg					347.4					
+41	Oregon	LACTOFEN	1999	kg					202.5					
+41	Oregon	LACTOFEN	2000	kg					306.5					
+41	Oregon	LACTOFEN	2001	kg					468					
+41	Oregon	LACTOFEN	2002	kg					256.3					
+41	Oregon	LACTOFEN	2003	kg					169.6					
+41	Oregon	LACTOFEN	2004	kg					191.1					
+41	Oregon	LACTOFEN	2005	kg					207.3					
+41	Oregon	LACTOFEN	2006	kg					212.4					
+41	Oregon	LACTOFEN	2007	kg					133					
+41	Oregon	LACTOFEN	2008	kg					115.9					
+41	Oregon	LACTOFEN	2009	kg					196.1					
+41	Oregon	LACTOFEN	2010	kg					356.5					
+41	Oregon	LACTOFEN	2011	kg					242.1					
+41	Oregon	LACTOFEN	2012	kg					136.3					
+41	Oregon	LACTOFEN	2013	kg					116.5					
+41	Oregon	LACTOFEN	2014	kg					43					
+41	Oregon	LACTOFEN	2015	kg					76.5					
+41	Oregon	LACTOFEN	2016	kg					29.1					
+41	Oregon	LACTOFEN	2017	kg					93.8					
+42	Pennsylvania	LACTOFEN	1992	kg		56.2								
+42	Pennsylvania	LACTOFEN	1993	kg		222.2								
+42	Pennsylvania	LACTOFEN	1994	kg		47								
+42	Pennsylvania	LACTOFEN	1995	kg		274.7								
+42	Pennsylvania	LACTOFEN	1996	kg		216.7								
+42	Pennsylvania	LACTOFEN	1997	kg		235.5								
+42	Pennsylvania	LACTOFEN	1998	kg		1552.4								
+42	Pennsylvania	LACTOFEN	1999	kg		224.8								
+42	Pennsylvania	LACTOFEN	2000	kg		23.4								
+42	Pennsylvania	LACTOFEN	2001	kg		36.2								
+42	Pennsylvania	LACTOFEN	2003	kg		7.6								
+42	Pennsylvania	LACTOFEN	2004	kg		18.5								
+42	Pennsylvania	LACTOFEN	2005	kg		22								
+42	Pennsylvania	LACTOFEN	2006	kg		56.3								
+42	Pennsylvania	LACTOFEN	2009	kg		52.7								
+42	Pennsylvania	LACTOFEN	2010	kg		105.4								
+42	Pennsylvania	LACTOFEN	2011	kg		26.2								
+42	Pennsylvania	LACTOFEN	2013	kg		219.4								
+42	Pennsylvania	LACTOFEN	2014	kg		4020.2								
+42	Pennsylvania	LACTOFEN	2015	kg		30.7								
+42	Pennsylvania	LACTOFEN	2016	kg		89.3								
+45	South Carolina	LACTOFEN	1992	kg		1051								
+45	South Carolina	LACTOFEN	1993	kg		1702.7								
+45	South Carolina	LACTOFEN	1994	kg		77.8		485.2						
+45	South Carolina	LACTOFEN	1995	kg		166.4		924.4						
+45	South Carolina	LACTOFEN	1996	kg		1075.3		116.3						
+45	South Carolina	LACTOFEN	1997	kg		926.5		80						
+45	South Carolina	LACTOFEN	1998	kg		190.6		835.6						
+45	South Carolina	LACTOFEN	2000	kg		130.5		70.6						
+45	South Carolina	LACTOFEN	2001	kg		111.5		129.4						
+45	South Carolina	LACTOFEN	2002	kg		1216.3		423.6						
+45	South Carolina	LACTOFEN	2005	kg				64.7						25.9
+45	South Carolina	LACTOFEN	2006	kg										1270
+45	South Carolina	LACTOFEN	2007	kg				2165.8						78.5
+45	South Carolina	LACTOFEN	2008	kg										51.6
+45	South Carolina	LACTOFEN	2009	kg										221.5
+45	South Carolina	LACTOFEN	2010	kg		1695.9								683.5
+45	South Carolina	LACTOFEN	2011	kg		69.8								409.7
+45	South Carolina	LACTOFEN	2012	kg		4155.3								411.5
+45	South Carolina	LACTOFEN	2013	kg		199.8								1181.5
+45	South Carolina	LACTOFEN	2014	kg		2460.1								1877.6
+45	South Carolina	LACTOFEN	2015	kg		744.1								600.3
+45	South Carolina	LACTOFEN	2016	kg		530.4								649.6
+45	South Carolina	LACTOFEN	2017	kg										983.6
+46	South Dakota	LACTOFEN	1992	kg		1460.3								
+46	South Dakota	LACTOFEN	1993	kg		2895.5								
+46	South Dakota	LACTOFEN	1994	kg		4435.6							0.1	
+46	South Dakota	LACTOFEN	1995	kg		1093								
+46	South Dakota	LACTOFEN	1996	kg		1817.9								
+46	South Dakota	LACTOFEN	1997	kg		965.9								
+46	South Dakota	LACTOFEN	1998	kg		1013.7								
+46	South Dakota	LACTOFEN	1999	kg		8946								
+46	South Dakota	LACTOFEN	2000	kg		3153.4								
+46	South Dakota	LACTOFEN	2001	kg		4483.2								
+46	South Dakota	LACTOFEN	2002	kg		3228.5								
+46	South Dakota	LACTOFEN	2003	kg		1218.2								
+46	South Dakota	LACTOFEN	2004	kg		2489.2								
+46	South Dakota	LACTOFEN	2005	kg		2384.7								
+46	South Dakota	LACTOFEN	2006	kg		1315.8								
+46	South Dakota	LACTOFEN	2007	kg		481.7								
+46	South Dakota	LACTOFEN	2008	kg		504								
+46	South Dakota	LACTOFEN	2009	kg		1511.5								
+46	South Dakota	LACTOFEN	2010	kg		2986.2								
+46	South Dakota	LACTOFEN	2011	kg		1639.1								
+46	South Dakota	LACTOFEN	2012	kg		4128								
+46	South Dakota	LACTOFEN	2013	kg		8671.6								
+46	South Dakota	LACTOFEN	2014	kg	203.5	3449.6								
+46	South Dakota	LACTOFEN	2015	kg	3465.6	11610.3								
+46	South Dakota	LACTOFEN	2016	kg		8425.4								
+46	South Dakota	LACTOFEN	2017	kg		6747.8								
+47	Tennessee	LACTOFEN	1992	kg		4193		403	11.9					
+47	Tennessee	LACTOFEN	1993	kg		1421.1		340						
+47	Tennessee	LACTOFEN	1994	kg		3125		282.4						
+47	Tennessee	LACTOFEN	1995	kg		1814.1	110.7	1065.3						
+47	Tennessee	LACTOFEN	1996	kg		2100		251.3						
+47	Tennessee	LACTOFEN	1997	kg		643.7		199.7						
+47	Tennessee	LACTOFEN	1998	kg		1845.4		856.9						
+47	Tennessee	LACTOFEN	1999	kg		3354		63.7						
+47	Tennessee	LACTOFEN	2000	kg		856.3		458.9						
+47	Tennessee	LACTOFEN	2001	kg		428.1		323.1	13.8					
+47	Tennessee	LACTOFEN	2002	kg		650.9		87.1						
+47	Tennessee	LACTOFEN	2003	kg		42.1		163.9	139.8					
+47	Tennessee	LACTOFEN	2004	kg		689.2			206.2					
+47	Tennessee	LACTOFEN	2005	kg		89.3		74.7	167.6					
+47	Tennessee	LACTOFEN	2006	kg		224.4		292.4	181.2					
+47	Tennessee	LACTOFEN	2007	kg				143.8	24.8					
+47	Tennessee	LACTOFEN	2008	kg					39.5					
+47	Tennessee	LACTOFEN	2009	kg		4801.2		46.3	54.1					
+47	Tennessee	LACTOFEN	2010	kg		480.8								
+47	Tennessee	LACTOFEN	2011	kg		6968.7			143.4					
+47	Tennessee	LACTOFEN	2012	kg		6568.7		12.9						
+47	Tennessee	LACTOFEN	2013	kg		4307.9		160.2						
+47	Tennessee	LACTOFEN	2014	kg		5912								
+47	Tennessee	LACTOFEN	2015	kg		7879.4								
+47	Tennessee	LACTOFEN	2016	kg		8547.3								
+47	Tennessee	LACTOFEN	2017	kg		4308.3								
+48	Texas	LACTOFEN	1992	kg		359.3		5133.2						
+48	Texas	LACTOFEN	1993	kg		526.4		1045.4						
+48	Texas	LACTOFEN	1994	kg		2196.9								
+48	Texas	LACTOFEN	1995	kg		3178.7		70.1						
+48	Texas	LACTOFEN	1996	kg		1723.2		37.9						
+48	Texas	LACTOFEN	1997	kg		1201.3		80.1						
+48	Texas	LACTOFEN	1998	kg		619.8		32.1						
+48	Texas	LACTOFEN	1999	kg		1227.4		254.8						
+48	Texas	LACTOFEN	2000	kg		366.6		47.2						
+48	Texas	LACTOFEN	2001	kg		127		1036.6						
+48	Texas	LACTOFEN	2002	kg		286.9		671.1						
+48	Texas	LACTOFEN	2003	kg		153.6			101.2					
+48	Texas	LACTOFEN	2004	kg		66.1			234.6					
+48	Texas	LACTOFEN	2005	kg		92.2			598					487.6
+48	Texas	LACTOFEN	2006	kg					149.9					2394.9
+48	Texas	LACTOFEN	2007	kg					408.5					400.4
+48	Texas	LACTOFEN	2008	kg										603.4
+48	Texas	LACTOFEN	2009	kg										20.3
+48	Texas	LACTOFEN	2010	kg					325.1					277
+48	Texas	LACTOFEN	2011	kg		353.7								377.1
+48	Texas	LACTOFEN	2012	kg		169.6								498
+48	Texas	LACTOFEN	2013	kg		1335.5								2507.5
+48	Texas	LACTOFEN	2014	kg		476.3								
+48	Texas	LACTOFEN	2015	kg		624.9								531.6
+48	Texas	LACTOFEN	2016	kg		703.2								
+48	Texas	LACTOFEN	2017	kg		1599.2								
+51	Virginia	LACTOFEN	1992	kg		456.8								
+51	Virginia	LACTOFEN	1993	kg		1026.3								
+51	Virginia	LACTOFEN	1994	kg		241.5		100.9						
+51	Virginia	LACTOFEN	1995	kg		328.8		41.9						266.5
+51	Virginia	LACTOFEN	1996	kg		249.6		13.3						
+51	Virginia	LACTOFEN	1997	kg		100.2		15.9						
+51	Virginia	LACTOFEN	1998	kg		591		33.9						
+51	Virginia	LACTOFEN	1999	kg		15.3								
+51	Virginia	LACTOFEN	2000	kg		79.4		37.5						
+51	Virginia	LACTOFEN	2001	kg		5.9		47.1						
+51	Virginia	LACTOFEN	2002	kg		913.1		53.1						
+51	Virginia	LACTOFEN	2003	kg		0.8								
+51	Virginia	LACTOFEN	2004	kg		2.3								
+51	Virginia	LACTOFEN	2005	kg		2.7		25.3						
+51	Virginia	LACTOFEN	2006	kg		6.6								244.6
+51	Virginia	LACTOFEN	2007	kg				897.2						92.5
+51	Virginia	LACTOFEN	2008	kg										120.1
+51	Virginia	LACTOFEN	2009	kg		5954.6								55
+51	Virginia	LACTOFEN	2010	kg		13.1								80.3
+51	Virginia	LACTOFEN	2011	kg		3.2								44.8
+51	Virginia	LACTOFEN	2012	kg		3314.5								100.9
+51	Virginia	LACTOFEN	2013	kg		117.6								126.7
+51	Virginia	LACTOFEN	2014	kg		21.3								208.5
+51	Virginia	LACTOFEN	2015	kg		311.7								594
+51	Virginia	LACTOFEN	2016	kg		601.2								896.3
+51	Virginia	LACTOFEN	2017	kg										452.1
+53	Washington	LACTOFEN	1993	kg					230					
+53	Washington	LACTOFEN	1995	kg					117.8					
+53	Washington	LACTOFEN	1996	kg					153.4					
+53	Washington	LACTOFEN	1997	kg					237					
+53	Washington	LACTOFEN	1998	kg					245.4					
+53	Washington	LACTOFEN	1999	kg					128.5					
+53	Washington	LACTOFEN	2000	kg					105.1					
+53	Washington	LACTOFEN	2001	kg					174.1					
+53	Washington	LACTOFEN	2002	kg					80.4					
+53	Washington	LACTOFEN	2003	kg					66.1					
+53	Washington	LACTOFEN	2004	kg					77.2					
+53	Washington	LACTOFEN	2005	kg					76.9					
+53	Washington	LACTOFEN	2006	kg					79.4					
+53	Washington	LACTOFEN	2007	kg					52.3					
+53	Washington	LACTOFEN	2008	kg					6.1					
+53	Washington	LACTOFEN	2009	kg					8.9					
+53	Washington	LACTOFEN	2010	kg					15.6					
+53	Washington	LACTOFEN	2011	kg					8.5					
+53	Washington	LACTOFEN	2012	kg					4.5					
+53	Washington	LACTOFEN	2013	kg					4.3					
+53	Washington	LACTOFEN	2014	kg					1.7					
+53	Washington	LACTOFEN	2015	kg					3.4					
+53	Washington	LACTOFEN	2016	kg					1.5					
+53	Washington	LACTOFEN	2017	kg					5.9					
+54	West Virginia	LACTOFEN	1992	kg		37.9								
+54	West Virginia	LACTOFEN	1993	kg		61.1								
+54	West Virginia	LACTOFEN	1994	kg		476.1								
+54	West Virginia	LACTOFEN	1995	kg		27.2								
+54	West Virginia	LACTOFEN	1996	kg		17.4								
+54	West Virginia	LACTOFEN	1997	kg		13								
+54	West Virginia	LACTOFEN	1998	kg		58.8								
+54	West Virginia	LACTOFEN	1999	kg		48.3								
+54	West Virginia	LACTOFEN	2000	kg		5.3								
+54	West Virginia	LACTOFEN	2001	kg		24.6								
+54	West Virginia	LACTOFEN	2003	kg		4.1								
+54	West Virginia	LACTOFEN	2004	kg		8.8								
+54	West Virginia	LACTOFEN	2005	kg		8.8								
+54	West Virginia	LACTOFEN	2006	kg		20.4								
+54	West Virginia	LACTOFEN	2009	kg		17.5								
+54	West Virginia	LACTOFEN	2010	kg		31.7								
+54	West Virginia	LACTOFEN	2011	kg		8.2								
+54	West Virginia	LACTOFEN	2013	kg		63.7								
+54	West Virginia	LACTOFEN	2014	kg		45.8								
+54	West Virginia	LACTOFEN	2015	kg		8.9								
+54	West Virginia	LACTOFEN	2016	kg		27.9								
+55	Wisconsin	LACTOFEN	1992	kg		1413.5								
+55	Wisconsin	LACTOFEN	1993	kg		405.1								
+55	Wisconsin	LACTOFEN	1994	kg		790.2								
+55	Wisconsin	LACTOFEN	1995	kg		951.7								
+55	Wisconsin	LACTOFEN	1996	kg		1561.4			154.7					
+55	Wisconsin	LACTOFEN	1997	kg		5231.6								
+55	Wisconsin	LACTOFEN	1998	kg		1340.4								
+55	Wisconsin	LACTOFEN	1999	kg		2777.3								
+55	Wisconsin	LACTOFEN	2000	kg		1216.1								
+55	Wisconsin	LACTOFEN	2001	kg		517.6								
+55	Wisconsin	LACTOFEN	2002	kg		292.6								
+55	Wisconsin	LACTOFEN	2003	kg		3468.9								
+55	Wisconsin	LACTOFEN	2004	kg		714.4								
+55	Wisconsin	LACTOFEN	2005	kg		1610.1								
+55	Wisconsin	LACTOFEN	2006	kg		3080.2								
+55	Wisconsin	LACTOFEN	2007	kg		802.9								
+55	Wisconsin	LACTOFEN	2008	kg		2268.5								
+55	Wisconsin	LACTOFEN	2009	kg		1144.5								
+55	Wisconsin	LACTOFEN	2010	kg		1808.2								
+55	Wisconsin	LACTOFEN	2011	kg		2819.7			0.3					
+55	Wisconsin	LACTOFEN	2012	kg		5069.9			50.7					
+55	Wisconsin	LACTOFEN	2013	kg		7874.6								
+55	Wisconsin	LACTOFEN	2014	kg		5124								
+55	Wisconsin	LACTOFEN	2015	kg	1866.8	3638.9								
+55	Wisconsin	LACTOFEN	2016	kg		4158.4								
+55	Wisconsin	LACTOFEN	2017	kg		8319.1								
+56	Wyoming	LACTOFEN	1994	kg										874.1

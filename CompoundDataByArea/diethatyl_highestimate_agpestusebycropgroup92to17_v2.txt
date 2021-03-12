@@ -1,0 +1,104 @@
+04	Arizona	DIETHATYL	1992	kg					1072					
+04	Arizona	DIETHATYL	1993	kg					762.2					
+04	Arizona	DIETHATYL	1994	kg					3182.5					
+04	Arizona	DIETHATYL	1995	kg					611.5					
+04	Arizona	DIETHATYL	1997	kg					753.7					
+05	Arkansas	DIETHATYL	1992	kg						1005.3				
+06	California	DIETHATYL	1992	kg					10718.4				249.4	30399.7
+06	California	DIETHATYL	1993	kg					14550.2					20074.5
+06	California	DIETHATYL	1994	kg					10776.3		1.7		127	5976.3
+06	California	DIETHATYL	1995	kg					8456.7		0.9			1584.9
+06	California	DIETHATYL	1996	kg					6317.4					152.5
+06	California	DIETHATYL	1997	kg					4191					24.3
+06	California	DIETHATYL	1998	kg					3385.1					
+06	California	DIETHATYL	1999	kg					3016.2					
+06	California	DIETHATYL	2000	kg					2012.3					
+06	California	DIETHATYL	2001	kg					1122.1					6
+06	California	DIETHATYL	2002	kg					279					
+06	California	DIETHATYL	2003	kg					512.5					
+06	California	DIETHATYL	2004	kg					109					
+06	California	DIETHATYL	2012	kg										6.1
+06	California	DIETHATYL	2014	kg										6.8
+06	California	DIETHATYL	2015	kg										1.8
+08	Colorado	DIETHATYL	1992	kg			261							5137
+08	Colorado	DIETHATYL	1993	kg										949.7
+08	Colorado	DIETHATYL	1994	kg					74					856.5
+08	Colorado	DIETHATYL	1995	kg					190.8					896.8
+08	Colorado	DIETHATYL	1996	kg					1227.3					
+10	Delaware	DIETHATYL	1993	kg					0.2					
+16	Idaho	DIETHATYL	1992	kg										17703.4
+16	Idaho	DIETHATYL	1993	kg										8010.5
+16	Idaho	DIETHATYL	1994	kg										6529
+17	Illinois	DIETHATYL	1992	kg					8.5					
+17	Illinois	DIETHATYL	1993	kg					5.3					
+17	Illinois	DIETHATYL	1994	kg					10.4					
+18	Indiana	DIETHATYL	1992	kg					2790.2					
+18	Indiana	DIETHATYL	1993	kg					5.2					
+19	Iowa	DIETHATYL	1992	kg					0.2					
+19	Iowa	DIETHATYL	1993	kg					6.3					
+26	Michigan	DIETHATYL	1992	kg					5702.8					38393.9
+26	Michigan	DIETHATYL	1993	kg					398.5					25897.2
+26	Michigan	DIETHATYL	1994	kg					914.1					5072.2
+26	Michigan	DIETHATYL	1995	kg										1866.3
+26	Michigan	DIETHATYL	1996	kg										3666.8
+27	Minnesota	DIETHATYL	1992	kg					0.2					10368.2
+27	Minnesota	DIETHATYL	1993	kg					5.2					7600.4
+27	Minnesota	DIETHATYL	1994	kg										26325.9
+27	Minnesota	DIETHATYL	1995	kg										13386
+30	Montana	DIETHATYL	1992	kg										6907.6
+30	Montana	DIETHATYL	1993	kg										8371.2
+30	Montana	DIETHATYL	1994	kg										2806.3
+30	Montana	DIETHATYL	1995	kg										5732.9
+31	Nebraska	DIETHATYL	1992	kg			1015.1							2350.6
+31	Nebraska	DIETHATYL	1993	kg										584.3
+31	Nebraska	DIETHATYL	1994	kg										146.8
+31	Nebraska	DIETHATYL	1995	kg										1520.4
+34	New Jersey	DIETHATYL	1992	kg					2738.4					
+34	New Jersey	DIETHATYL	1993	kg					540.4					
+34	New Jersey	DIETHATYL	1995	kg					3731.6					
+34	New Jersey	DIETHATYL	1996	kg					2802.6					
+35	New Mexico	DIETHATYL	1992	kg				2.6						
+35	New Mexico	DIETHATYL	1993	kg					0.9					
+35	New Mexico	DIETHATYL	1994	kg					956.4					
+35	New Mexico	DIETHATYL	1995	kg					1676.7					
+35	New Mexico	DIETHATYL	1996	kg					294.5					
+36	New York	DIETHATYL	1992	kg					1759.2					
+36	New York	DIETHATYL	1993	kg					150.7					
+38	North Dakota	DIETHATYL	1992	kg										12339.7
+38	North Dakota	DIETHATYL	1993	kg										3866.3
+38	North Dakota	DIETHATYL	1994	kg										11554.5
+38	North Dakota	DIETHATYL	1995	kg										9030.1
+39	Ohio	DIETHATYL	1992	kg					163.6					3381.6
+39	Ohio	DIETHATYL	1993	kg										2862.2
+39	Ohio	DIETHATYL	1994	kg										1560.1
+39	Ohio	DIETHATYL	1995	kg										2656.5
+40	Oklahoma	DIETHATYL	1992	kg				30.3						
+41	Oregon	DIETHATYL	1992	kg					103.9					3120
+41	Oregon	DIETHATYL	1993	kg					187.7					70.9
+41	Oregon	DIETHATYL	1994	kg					574.6					34.8
+41	Oregon	DIETHATYL	1995	kg					37.5					907.7
+41	Oregon	DIETHATYL	1996	kg					1.2					
+41	Oregon	DIETHATYL	1997	kg					74.2					
+42	Pennsylvania	DIETHATYL	1992	kg					49.4					
+42	Pennsylvania	DIETHATYL	1993	kg					18.3					
+42	Pennsylvania	DIETHATYL	1995	kg					59.1					
+42	Pennsylvania	DIETHATYL	1996	kg					57.7					
+46	South Dakota	DIETHATYL	1992	kg			38							
+48	Texas	DIETHATYL	1992	kg	2375.9			1179.3	660.7					5769.6
+48	Texas	DIETHATYL	1993	kg					17505.2					6420.4
+48	Texas	DIETHATYL	1994	kg					10601.5					441.3
+48	Texas	DIETHATYL	1995	kg					213					190.5
+48	Texas	DIETHATYL	1999	kg					1320.5					
+53	Washington	DIETHATYL	1992	kg					865.4					
+53	Washington	DIETHATYL	1993	kg					3.7					
+53	Washington	DIETHATYL	1994	kg					2408.5					
+53	Washington	DIETHATYL	1995	kg					388.4					
+53	Washington	DIETHATYL	1996	kg					14.4					
+53	Washington	DIETHATYL	1997	kg					28.6					
+55	Wisconsin	DIETHATYL	1992	kg					363					
+55	Wisconsin	DIETHATYL	1993	kg					1846.1					
+55	Wisconsin	DIETHATYL	1994	kg					390.6					
+56	Wyoming	DIETHATYL	1992	kg			108.7							5489
+56	Wyoming	DIETHATYL	1993	kg										1627.9
+56	Wyoming	DIETHATYL	1994	kg										1762.8
+56	Wyoming	DIETHATYL	1995	kg										5743.2

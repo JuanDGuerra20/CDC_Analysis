@@ -1,0 +1,460 @@
+01	Alabama	OXYTETRACYCLINE	1996	kg		30.4								
+01	Alabama	OXYTETRACYCLINE	1999	kg							5.4			
+01	Alabama	OXYTETRACYCLINE	2000	kg							8.9			
+01	Alabama	OXYTETRACYCLINE	2001	kg							47.9			
+01	Alabama	OXYTETRACYCLINE	2002	kg							15.3			
+01	Alabama	OXYTETRACYCLINE	2003	kg							18.6			
+01	Alabama	OXYTETRACYCLINE	2004	kg							62.6			
+01	Alabama	OXYTETRACYCLINE	2005	kg							26.1			
+01	Alabama	OXYTETRACYCLINE	2006	kg							18.8			
+01	Alabama	OXYTETRACYCLINE	2007	kg							11.3			
+01	Alabama	OXYTETRACYCLINE	2008	kg							138.6			
+01	Alabama	OXYTETRACYCLINE	2009	kg							554.3			
+01	Alabama	OXYTETRACYCLINE	2010	kg							84.2			
+01	Alabama	OXYTETRACYCLINE	2011	kg							22.4			
+01	Alabama	OXYTETRACYCLINE	2012	kg							152.9			
+01	Alabama	OXYTETRACYCLINE	2013	kg							17.1			
+01	Alabama	OXYTETRACYCLINE	2014	kg							78.9			
+01	Alabama	OXYTETRACYCLINE	2015	kg							72.5			
+01	Alabama	OXYTETRACYCLINE	2016	kg							188			
+01	Alabama	OXYTETRACYCLINE	2017	kg							130.2			
+04	Arizona	OXYTETRACYCLINE	1992	kg							2.4			
+04	Arizona	OXYTETRACYCLINE	1993	kg							3.5			
+04	Arizona	OXYTETRACYCLINE	1994	kg							1			
+04	Arizona	OXYTETRACYCLINE	1995	kg							3.3			
+04	Arizona	OXYTETRACYCLINE	1996	kg							2.1			
+04	Arizona	OXYTETRACYCLINE	1997	kg							1.1			
+04	Arizona	OXYTETRACYCLINE	1998	kg							3.3			
+04	Arizona	OXYTETRACYCLINE	1999	kg							3.6			
+04	Arizona	OXYTETRACYCLINE	2000	kg							1.2			
+04	Arizona	OXYTETRACYCLINE	2001	kg							4.5			
+04	Arizona	OXYTETRACYCLINE	2002	kg							7.9			
+04	Arizona	OXYTETRACYCLINE	2003	kg							5.4			
+04	Arizona	OXYTETRACYCLINE	2004	kg							5.5			
+04	Arizona	OXYTETRACYCLINE	2005	kg							16			
+04	Arizona	OXYTETRACYCLINE	2006	kg							2.3			
+04	Arizona	OXYTETRACYCLINE	2007	kg							25.5			
+04	Arizona	OXYTETRACYCLINE	2008	kg							23.6			
+04	Arizona	OXYTETRACYCLINE	2009	kg							15.1			
+04	Arizona	OXYTETRACYCLINE	2010	kg							3.3			
+04	Arizona	OXYTETRACYCLINE	2011	kg							2.2			
+04	Arizona	OXYTETRACYCLINE	2012	kg							14.9			
+04	Arizona	OXYTETRACYCLINE	2013	kg							4.9			
+04	Arizona	OXYTETRACYCLINE	2014	kg							26			
+04	Arizona	OXYTETRACYCLINE	2015	kg							16.4			
+04	Arizona	OXYTETRACYCLINE	2016	kg							5.8			
+05	Arkansas	OXYTETRACYCLINE	1992	kg						315.9				
+05	Arkansas	OXYTETRACYCLINE	1994	kg							362.7			
+05	Arkansas	OXYTETRACYCLINE	1996	kg		885	1603.5							
+05	Arkansas	OXYTETRACYCLINE	2001	kg							76.4			
+06	California	OXYTETRACYCLINE	1992	kg							4411.3			
+06	California	OXYTETRACYCLINE	1993	kg							4886.3			
+06	California	OXYTETRACYCLINE	1994	kg							4852.3			
+06	California	OXYTETRACYCLINE	1995	kg							5469.8			
+06	California	OXYTETRACYCLINE	1996	kg							5560.8			
+06	California	OXYTETRACYCLINE	1997	kg							6391.2			
+06	California	OXYTETRACYCLINE	1998	kg							6713.7			
+06	California	OXYTETRACYCLINE	1999	kg							5099.3			
+06	California	OXYTETRACYCLINE	2000	kg							6452.9			
+06	California	OXYTETRACYCLINE	2001	kg							6279.3			
+06	California	OXYTETRACYCLINE	2002	kg					5.1		5790.8			
+06	California	OXYTETRACYCLINE	2003	kg							5196.3			
+06	California	OXYTETRACYCLINE	2004	kg							5554.6			
+06	California	OXYTETRACYCLINE	2005	kg							6097.8			
+06	California	OXYTETRACYCLINE	2006	kg							4226.6			
+06	California	OXYTETRACYCLINE	2007	kg							5462.6			
+06	California	OXYTETRACYCLINE	2008	kg							6532.6			
+06	California	OXYTETRACYCLINE	2009	kg							4352.9			
+06	California	OXYTETRACYCLINE	2010	kg							5281.3			
+06	California	OXYTETRACYCLINE	2011	kg							5269.1			
+06	California	OXYTETRACYCLINE	2012	kg							5565			
+06	California	OXYTETRACYCLINE	2013	kg					5.4		6315.3			
+06	California	OXYTETRACYCLINE	2014	kg							6097.4			
+06	California	OXYTETRACYCLINE	2015	kg							6724.2			
+06	California	OXYTETRACYCLINE	2016	kg					0.3		5324.2		0.4	
+06	California	OXYTETRACYCLINE	2017	kg					0.5		4519.8			
+08	Colorado	OXYTETRACYCLINE	1993	kg							15.7			
+08	Colorado	OXYTETRACYCLINE	2002	kg							0.9			
+08	Colorado	OXYTETRACYCLINE	2005	kg							6			
+08	Colorado	OXYTETRACYCLINE	2009	kg							82.2			
+09	Connecticut	OXYTETRACYCLINE	2013	kg							8.7			
+09	Connecticut	OXYTETRACYCLINE	2014	kg							15.7			
+09	Connecticut	OXYTETRACYCLINE	2015	kg							4.1			
+09	Connecticut	OXYTETRACYCLINE	2016	kg							26			
+09	Connecticut	OXYTETRACYCLINE	2017	kg							19.9			
+10	Delaware	OXYTETRACYCLINE	1997	kg							0.5			
+10	Delaware	OXYTETRACYCLINE	1999	kg							0.1			
+10	Delaware	OXYTETRACYCLINE	2000	kg							0.1			
+10	Delaware	OXYTETRACYCLINE	2001	kg							0.6			
+10	Delaware	OXYTETRACYCLINE	2002	kg							0			
+10	Delaware	OXYTETRACYCLINE	2003	kg							0.2			
+10	Delaware	OXYTETRACYCLINE	2004	kg							0.9			
+10	Delaware	OXYTETRACYCLINE	2005	kg							0			
+10	Delaware	OXYTETRACYCLINE	2006	kg							0.2			
+10	Delaware	OXYTETRACYCLINE	2007	kg							0			
+10	Delaware	OXYTETRACYCLINE	2008	kg							0.2			
+10	Delaware	OXYTETRACYCLINE	2009	kg							0			
+10	Delaware	OXYTETRACYCLINE	2011	kg							0			
+10	Delaware	OXYTETRACYCLINE	2013	kg							0.1			
+10	Delaware	OXYTETRACYCLINE	2014	kg							0			
+10	Delaware	OXYTETRACYCLINE	2015	kg							0			
+10	Delaware	OXYTETRACYCLINE	2016	kg							0.1			
+10	Delaware	OXYTETRACYCLINE	2017	kg							0			
+12	Florida	OXYTETRACYCLINE	2016	kg							19646.4			
+12	Florida	OXYTETRACYCLINE	2017	kg							35560			
+13	Georgia	OXYTETRACYCLINE	1994	kg							8.5			
+13	Georgia	OXYTETRACYCLINE	1999	kg							160.3			
+13	Georgia	OXYTETRACYCLINE	2000	kg							50.1			
+13	Georgia	OXYTETRACYCLINE	2001	kg							197.2			
+13	Georgia	OXYTETRACYCLINE	2002	kg							74.5			
+13	Georgia	OXYTETRACYCLINE	2003	kg							236.2			
+13	Georgia	OXYTETRACYCLINE	2004	kg							71.8			
+13	Georgia	OXYTETRACYCLINE	2005	kg							1135.9			
+13	Georgia	OXYTETRACYCLINE	2006	kg							827.8			
+13	Georgia	OXYTETRACYCLINE	2007	kg							549.2			
+13	Georgia	OXYTETRACYCLINE	2008	kg							41.3			
+13	Georgia	OXYTETRACYCLINE	2009	kg							1128.2			
+13	Georgia	OXYTETRACYCLINE	2010	kg							93.9			
+13	Georgia	OXYTETRACYCLINE	2011	kg							1442.5			
+13	Georgia	OXYTETRACYCLINE	2012	kg							13.1			
+13	Georgia	OXYTETRACYCLINE	2013	kg							1157.7			
+13	Georgia	OXYTETRACYCLINE	2014	kg							78.6			
+13	Georgia	OXYTETRACYCLINE	2015	kg							298.2			
+13	Georgia	OXYTETRACYCLINE	2016	kg							5224.5			
+13	Georgia	OXYTETRACYCLINE	2017	kg							81			
+16	Idaho	OXYTETRACYCLINE	1994	kg							18.7			
+16	Idaho	OXYTETRACYCLINE	1995	kg							21.2			
+16	Idaho	OXYTETRACYCLINE	1996	kg							13			
+16	Idaho	OXYTETRACYCLINE	1997	kg							2.7			
+16	Idaho	OXYTETRACYCLINE	1998	kg							1.3			
+16	Idaho	OXYTETRACYCLINE	1999	kg							14			
+16	Idaho	OXYTETRACYCLINE	2000	kg							3.8			
+16	Idaho	OXYTETRACYCLINE	2001	kg							6.4			
+16	Idaho	OXYTETRACYCLINE	2002	kg							7.4			
+16	Idaho	OXYTETRACYCLINE	2003	kg							2.7			
+16	Idaho	OXYTETRACYCLINE	2004	kg							11.2			
+16	Idaho	OXYTETRACYCLINE	2005	kg							8.6			
+16	Idaho	OXYTETRACYCLINE	2006	kg							6.4			
+16	Idaho	OXYTETRACYCLINE	2007	kg							5.5			
+16	Idaho	OXYTETRACYCLINE	2008	kg							38.6			
+16	Idaho	OXYTETRACYCLINE	2009	kg							52.2			
+16	Idaho	OXYTETRACYCLINE	2010	kg							38			
+16	Idaho	OXYTETRACYCLINE	2011	kg							101.2			
+16	Idaho	OXYTETRACYCLINE	2012	kg							195.9			
+16	Idaho	OXYTETRACYCLINE	2013	kg							109.1			
+16	Idaho	OXYTETRACYCLINE	2014	kg							146.6			
+16	Idaho	OXYTETRACYCLINE	2015	kg							10.6			
+16	Idaho	OXYTETRACYCLINE	2016	kg							44.1			
+16	Idaho	OXYTETRACYCLINE	2017	kg							9.7			
+17	Illinois	OXYTETRACYCLINE	2002	kg							69.6			
+17	Illinois	OXYTETRACYCLINE	2003	kg							141.2			
+17	Illinois	OXYTETRACYCLINE	2006	kg							59.1			
+17	Illinois	OXYTETRACYCLINE	2010	kg							41.6			
+18	Indiana	OXYTETRACYCLINE	1992	kg							1.6			
+18	Indiana	OXYTETRACYCLINE	1995	kg							0.9			
+18	Indiana	OXYTETRACYCLINE	1996	kg							0.7			
+18	Indiana	OXYTETRACYCLINE	1997	kg							6.8			
+18	Indiana	OXYTETRACYCLINE	1999	kg							0.5			
+18	Indiana	OXYTETRACYCLINE	2000	kg							5.8			
+18	Indiana	OXYTETRACYCLINE	2001	kg							3.9			
+18	Indiana	OXYTETRACYCLINE	2004	kg							1.3			
+18	Indiana	OXYTETRACYCLINE	2006	kg							2.3			
+18	Indiana	OXYTETRACYCLINE	2007	kg							2.6			
+18	Indiana	OXYTETRACYCLINE	2008	kg							11.7			
+18	Indiana	OXYTETRACYCLINE	2009	kg							12.9			
+18	Indiana	OXYTETRACYCLINE	2010	kg							23.7			
+18	Indiana	OXYTETRACYCLINE	2011	kg							16.4			
+18	Indiana	OXYTETRACYCLINE	2012	kg							30.3			
+18	Indiana	OXYTETRACYCLINE	2013	kg							14.9			
+18	Indiana	OXYTETRACYCLINE	2014	kg							47.4			
+18	Indiana	OXYTETRACYCLINE	2015	kg							25.2			
+18	Indiana	OXYTETRACYCLINE	2016	kg							20.4			
+18	Indiana	OXYTETRACYCLINE	2017	kg							6.1			
+20	Kansas	OXYTETRACYCLINE	1994	kg							59.7			
+21	Kentucky	OXYTETRACYCLINE	1996	kg		103.7	237.7							
+21	Kentucky	OXYTETRACYCLINE	2002	kg							2.5			
+21	Kentucky	OXYTETRACYCLINE	2003	kg							5.9			
+21	Kentucky	OXYTETRACYCLINE	2006	kg							2.5			
+24	Maryland	OXYTETRACYCLINE	1997	kg							82.3			
+24	Maryland	OXYTETRACYCLINE	1998	kg							13.5			
+24	Maryland	OXYTETRACYCLINE	1999	kg							32.6			
+24	Maryland	OXYTETRACYCLINE	2000	kg							6.5			
+24	Maryland	OXYTETRACYCLINE	2001	kg							11.4			
+24	Maryland	OXYTETRACYCLINE	2002	kg							4.3			
+24	Maryland	OXYTETRACYCLINE	2003	kg							35.6			
+24	Maryland	OXYTETRACYCLINE	2004	kg							55.2			
+24	Maryland	OXYTETRACYCLINE	2005	kg							73.7			
+24	Maryland	OXYTETRACYCLINE	2006	kg							65.2			
+24	Maryland	OXYTETRACYCLINE	2007	kg							33.8			
+24	Maryland	OXYTETRACYCLINE	2008	kg							150.1			
+24	Maryland	OXYTETRACYCLINE	2009	kg							15.1			
+24	Maryland	OXYTETRACYCLINE	2010	kg							49.1			
+24	Maryland	OXYTETRACYCLINE	2011	kg							28.7			
+24	Maryland	OXYTETRACYCLINE	2012	kg							4.1			
+24	Maryland	OXYTETRACYCLINE	2013	kg							20.8			
+24	Maryland	OXYTETRACYCLINE	2014	kg							28.1			
+24	Maryland	OXYTETRACYCLINE	2015	kg							32.3			
+24	Maryland	OXYTETRACYCLINE	2016	kg							60.8			
+24	Maryland	OXYTETRACYCLINE	2017	kg							44.4			
+25	Massachusetts	OXYTETRACYCLINE	2013	kg							8.2			
+25	Massachusetts	OXYTETRACYCLINE	2014	kg							15.7			
+25	Massachusetts	OXYTETRACYCLINE	2015	kg							4.4			
+25	Massachusetts	OXYTETRACYCLINE	2016	kg							28.9			
+25	Massachusetts	OXYTETRACYCLINE	2017	kg							23.3			
+26	Michigan	OXYTETRACYCLINE	1992	kg							168.9			
+26	Michigan	OXYTETRACYCLINE	1993	kg							0.4			
+26	Michigan	OXYTETRACYCLINE	1995	kg							76.3			
+26	Michigan	OXYTETRACYCLINE	1996	kg							52.8			
+26	Michigan	OXYTETRACYCLINE	1997	kg							464.5			
+26	Michigan	OXYTETRACYCLINE	1998	kg							220.6			
+26	Michigan	OXYTETRACYCLINE	1999	kg							30.1			
+26	Michigan	OXYTETRACYCLINE	2000	kg							326.6			
+26	Michigan	OXYTETRACYCLINE	2001	kg							218.9			
+26	Michigan	OXYTETRACYCLINE	2004	kg							70			
+26	Michigan	OXYTETRACYCLINE	2006	kg							135.5			
+26	Michigan	OXYTETRACYCLINE	2007	kg							261.2			
+26	Michigan	OXYTETRACYCLINE	2008	kg							400			
+26	Michigan	OXYTETRACYCLINE	2009	kg							452.5			
+26	Michigan	OXYTETRACYCLINE	2010	kg							1128.7			
+26	Michigan	OXYTETRACYCLINE	2011	kg							604.1			
+26	Michigan	OXYTETRACYCLINE	2012	kg							1201			
+26	Michigan	OXYTETRACYCLINE	2013	kg							674.4			
+26	Michigan	OXYTETRACYCLINE	2014	kg							2235.7			
+26	Michigan	OXYTETRACYCLINE	2015	kg							1455.4			
+26	Michigan	OXYTETRACYCLINE	2016	kg							1056.7			
+26	Michigan	OXYTETRACYCLINE	2017	kg							706.5			
+28	Mississippi	OXYTETRACYCLINE	1996	kg		84.4	38							
+29	Missouri	OXYTETRACYCLINE	1992	kg						28.7				
+29	Missouri	OXYTETRACYCLINE	1994	kg							352.5			
+29	Missouri	OXYTETRACYCLINE	1996	kg		280.7	525							
+29	Missouri	OXYTETRACYCLINE	2001	kg							22.4			
+29	Missouri	OXYTETRACYCLINE	2002	kg							16.3			
+29	Missouri	OXYTETRACYCLINE	2003	kg							36.2			
+29	Missouri	OXYTETRACYCLINE	2006	kg							15.4			
+29	Missouri	OXYTETRACYCLINE	2010	kg							8.7			
+30	Montana	OXYTETRACYCLINE	2002	kg							0.2			
+30	Montana	OXYTETRACYCLINE	2005	kg							1			
+30	Montana	OXYTETRACYCLINE	2009	kg							4.7			
+32	Nevada	OXYTETRACYCLINE	1992	kg							0.5			
+32	Nevada	OXYTETRACYCLINE	1994	kg							0.1			
+32	Nevada	OXYTETRACYCLINE	1995	kg							1			
+32	Nevada	OXYTETRACYCLINE	1996	kg							0.3			
+32	Nevada	OXYTETRACYCLINE	1997	kg							0			
+32	Nevada	OXYTETRACYCLINE	1998	kg							0.3			
+32	Nevada	OXYTETRACYCLINE	1999	kg							0.3			
+32	Nevada	OXYTETRACYCLINE	2000	kg							0.1			
+32	Nevada	OXYTETRACYCLINE	2001	kg							0			
+32	Nevada	OXYTETRACYCLINE	2002	kg							1.5			
+32	Nevada	OXYTETRACYCLINE	2003	kg							0.4			
+32	Nevada	OXYTETRACYCLINE	2004	kg							1.4			
+32	Nevada	OXYTETRACYCLINE	2005	kg							3.4			
+32	Nevada	OXYTETRACYCLINE	2006	kg							0.6			
+32	Nevada	OXYTETRACYCLINE	2007	kg							4.4			
+32	Nevada	OXYTETRACYCLINE	2008	kg							0.4			
+32	Nevada	OXYTETRACYCLINE	2009	kg							8.8			
+32	Nevada	OXYTETRACYCLINE	2010	kg							0.9			
+32	Nevada	OXYTETRACYCLINE	2011	kg							0.9			
+32	Nevada	OXYTETRACYCLINE	2012	kg							0.2			
+32	Nevada	OXYTETRACYCLINE	2013	kg							3.6			
+32	Nevada	OXYTETRACYCLINE	2014	kg							1.7			
+32	Nevada	OXYTETRACYCLINE	2015	kg							3.1			
+32	Nevada	OXYTETRACYCLINE	2016	kg							0.1			
+34	New Jersey	OXYTETRACYCLINE	1992	kg							968.9			
+34	New Jersey	OXYTETRACYCLINE	1994	kg					1439.6		1592.7			
+34	New Jersey	OXYTETRACYCLINE	1997	kg							579.7			
+34	New Jersey	OXYTETRACYCLINE	2000	kg							24.4			
+34	New Jersey	OXYTETRACYCLINE	2001	kg							529.2			
+34	New Jersey	OXYTETRACYCLINE	2003	kg							228.5			
+34	New Jersey	OXYTETRACYCLINE	2005	kg							133.4			
+34	New Jersey	OXYTETRACYCLINE	2006	kg							596.4			
+34	New Jersey	OXYTETRACYCLINE	2007	kg							230.8			
+34	New Jersey	OXYTETRACYCLINE	2008	kg							975.3			
+34	New Jersey	OXYTETRACYCLINE	2009	kg							51			
+34	New Jersey	OXYTETRACYCLINE	2010	kg							64.1			
+34	New Jersey	OXYTETRACYCLINE	2011	kg							494.6			
+34	New Jersey	OXYTETRACYCLINE	2012	kg							1395.2			
+34	New Jersey	OXYTETRACYCLINE	2013	kg							442			
+34	New Jersey	OXYTETRACYCLINE	2014	kg							130.5			
+34	New Jersey	OXYTETRACYCLINE	2015	kg							120.6			
+34	New Jersey	OXYTETRACYCLINE	2016	kg							259.7			
+34	New Jersey	OXYTETRACYCLINE	2017	kg							83.3			
+35	New Mexico	OXYTETRACYCLINE	1993	kg							3.8			
+35	New Mexico	OXYTETRACYCLINE	2002	kg							0.8			
+35	New Mexico	OXYTETRACYCLINE	2005	kg							4.6			
+35	New Mexico	OXYTETRACYCLINE	2009	kg							67.2			
+36	New York	OXYTETRACYCLINE	1997	kg							25.8			
+36	New York	OXYTETRACYCLINE	2000	kg							21.9			
+36	New York	OXYTETRACYCLINE	2001	kg							13.1			
+36	New York	OXYTETRACYCLINE	2003	kg							16.6			
+36	New York	OXYTETRACYCLINE	2005	kg							54.7			
+36	New York	OXYTETRACYCLINE	2006	kg							58.8			
+36	New York	OXYTETRACYCLINE	2007	kg							20.7			
+36	New York	OXYTETRACYCLINE	2008	kg							14.3			
+36	New York	OXYTETRACYCLINE	2009	kg							39.9			
+36	New York	OXYTETRACYCLINE	2010	kg							30.5			
+36	New York	OXYTETRACYCLINE	2011	kg							78.4			
+36	New York	OXYTETRACYCLINE	2012	kg							234.1			
+36	New York	OXYTETRACYCLINE	2013	kg							294.4			
+36	New York	OXYTETRACYCLINE	2014	kg							57.4			
+36	New York	OXYTETRACYCLINE	2015	kg							75.3			
+36	New York	OXYTETRACYCLINE	2016	kg							356.7			
+36	New York	OXYTETRACYCLINE	2017	kg							72.2			
+37	North Carolina	OXYTETRACYCLINE	1999	kg							14.1			
+37	North Carolina	OXYTETRACYCLINE	2000	kg							22.2			
+37	North Carolina	OXYTETRACYCLINE	2001	kg							20.1			
+37	North Carolina	OXYTETRACYCLINE	2002	kg							4			
+37	North Carolina	OXYTETRACYCLINE	2003	kg							50.9			
+37	North Carolina	OXYTETRACYCLINE	2004	kg							182.3			
+37	North Carolina	OXYTETRACYCLINE	2005	kg							176.1			
+37	North Carolina	OXYTETRACYCLINE	2006	kg							46.6			
+37	North Carolina	OXYTETRACYCLINE	2007	kg							26.2			
+37	North Carolina	OXYTETRACYCLINE	2009	kg							65.3			
+37	North Carolina	OXYTETRACYCLINE	2010	kg							8.5			
+37	North Carolina	OXYTETRACYCLINE	2011	kg							63.8			
+37	North Carolina	OXYTETRACYCLINE	2012	kg							89.6			
+37	North Carolina	OXYTETRACYCLINE	2013	kg							45.4			
+37	North Carolina	OXYTETRACYCLINE	2014	kg							10.6			
+37	North Carolina	OXYTETRACYCLINE	2015	kg							9.4			
+37	North Carolina	OXYTETRACYCLINE	2016	kg							11.3			
+37	North Carolina	OXYTETRACYCLINE	2017	kg							15			
+39	Ohio	OXYTETRACYCLINE	2008	kg							11.9			
+39	Ohio	OXYTETRACYCLINE	2009	kg							11.1			
+39	Ohio	OXYTETRACYCLINE	2010	kg							3.3			
+39	Ohio	OXYTETRACYCLINE	2012	kg							15			
+39	Ohio	OXYTETRACYCLINE	2013	kg							28.3			
+39	Ohio	OXYTETRACYCLINE	2014	kg							1.9			
+39	Ohio	OXYTETRACYCLINE	2015	kg							22.7			
+39	Ohio	OXYTETRACYCLINE	2016	kg							16.4			
+39	Ohio	OXYTETRACYCLINE	2017	kg							7.7			
+40	Oklahoma	OXYTETRACYCLINE	1994	kg							3358.5			
+40	Oklahoma	OXYTETRACYCLINE	2001	kg							35.5			
+41	Oregon	OXYTETRACYCLINE	1992	kg							124.1			
+41	Oregon	OXYTETRACYCLINE	1993	kg							325.8			
+41	Oregon	OXYTETRACYCLINE	1994	kg							370.1			
+41	Oregon	OXYTETRACYCLINE	1995	kg							1232.6			
+41	Oregon	OXYTETRACYCLINE	1996	kg							637.8			
+41	Oregon	OXYTETRACYCLINE	1997	kg							525.8			
+41	Oregon	OXYTETRACYCLINE	1998	kg							2039.7			
+41	Oregon	OXYTETRACYCLINE	1999	kg							638			
+41	Oregon	OXYTETRACYCLINE	2000	kg							1108.2			
+41	Oregon	OXYTETRACYCLINE	2001	kg							572.8			
+41	Oregon	OXYTETRACYCLINE	2002	kg							1544.1			
+41	Oregon	OXYTETRACYCLINE	2003	kg							1466.8			
+41	Oregon	OXYTETRACYCLINE	2004	kg							628.8			
+41	Oregon	OXYTETRACYCLINE	2005	kg							346.3			
+41	Oregon	OXYTETRACYCLINE	2006	kg							1446.3			
+41	Oregon	OXYTETRACYCLINE	2007	kg							625.8			
+41	Oregon	OXYTETRACYCLINE	2008	kg							697.2			
+41	Oregon	OXYTETRACYCLINE	2009	kg							870.7			
+41	Oregon	OXYTETRACYCLINE	2010	kg							836.9			
+41	Oregon	OXYTETRACYCLINE	2011	kg							1146.1			
+41	Oregon	OXYTETRACYCLINE	2012	kg							645.8			
+41	Oregon	OXYTETRACYCLINE	2013	kg							2854.4			
+41	Oregon	OXYTETRACYCLINE	2014	kg							989.7			
+41	Oregon	OXYTETRACYCLINE	2015	kg							959.9			
+41	Oregon	OXYTETRACYCLINE	2016	kg							1548.9			
+41	Oregon	OXYTETRACYCLINE	2017	kg							1462.4			
+42	Pennsylvania	OXYTETRACYCLINE	1992	kg							61.9			
+42	Pennsylvania	OXYTETRACYCLINE	1994	kg					127		184			
+42	Pennsylvania	OXYTETRACYCLINE	1997	kg							273.6			
+42	Pennsylvania	OXYTETRACYCLINE	1999	kg							53.1			
+42	Pennsylvania	OXYTETRACYCLINE	2000	kg							120.8			
+42	Pennsylvania	OXYTETRACYCLINE	2001	kg							57.2			
+42	Pennsylvania	OXYTETRACYCLINE	2002	kg							18.6			
+42	Pennsylvania	OXYTETRACYCLINE	2003	kg							163.5			
+42	Pennsylvania	OXYTETRACYCLINE	2005	kg							392.5			
+42	Pennsylvania	OXYTETRACYCLINE	2006	kg							388.8			
+42	Pennsylvania	OXYTETRACYCLINE	2007	kg							163.5			
+42	Pennsylvania	OXYTETRACYCLINE	2008	kg							457.7			
+42	Pennsylvania	OXYTETRACYCLINE	2009	kg							75.6			
+42	Pennsylvania	OXYTETRACYCLINE	2010	kg							313.6			
+42	Pennsylvania	OXYTETRACYCLINE	2011	kg							131.8			
+42	Pennsylvania	OXYTETRACYCLINE	2012	kg							238.1			
+42	Pennsylvania	OXYTETRACYCLINE	2013	kg							90.5			
+42	Pennsylvania	OXYTETRACYCLINE	2014	kg							258.1			
+42	Pennsylvania	OXYTETRACYCLINE	2015	kg							265.4			
+42	Pennsylvania	OXYTETRACYCLINE	2016	kg							551.1			
+42	Pennsylvania	OXYTETRACYCLINE	2017	kg							671.8			
+45	South Carolina	OXYTETRACYCLINE	1994	kg							633.1			
+45	South Carolina	OXYTETRACYCLINE	1999	kg							240.3			
+45	South Carolina	OXYTETRACYCLINE	2000	kg							831			
+45	South Carolina	OXYTETRACYCLINE	2001	kg							695.8			
+45	South Carolina	OXYTETRACYCLINE	2002	kg							513.5			
+45	South Carolina	OXYTETRACYCLINE	2003	kg							864.7			
+45	South Carolina	OXYTETRACYCLINE	2004	kg							4167.8			
+45	South Carolina	OXYTETRACYCLINE	2005	kg							2166.4			
+45	South Carolina	OXYTETRACYCLINE	2006	kg							1103.5			
+45	South Carolina	OXYTETRACYCLINE	2007	kg							1127.7			
+45	South Carolina	OXYTETRACYCLINE	2009	kg							2109.6			
+45	South Carolina	OXYTETRACYCLINE	2010	kg							1030.3			
+45	South Carolina	OXYTETRACYCLINE	2011	kg							3594.7			
+45	South Carolina	OXYTETRACYCLINE	2012	kg							1413.1			
+45	South Carolina	OXYTETRACYCLINE	2013	kg							1802			
+45	South Carolina	OXYTETRACYCLINE	2014	kg							315.2			
+45	South Carolina	OXYTETRACYCLINE	2015	kg							1520.5			
+47	Tennessee	OXYTETRACYCLINE	1992	kg						0.1				
+47	Tennessee	OXYTETRACYCLINE	1996	kg		307.6	454.3							
+47	Tennessee	OXYTETRACYCLINE	2008	kg							2.4			
+47	Tennessee	OXYTETRACYCLINE	2009	kg							13.2			
+47	Tennessee	OXYTETRACYCLINE	2010	kg							2.3			
+47	Tennessee	OXYTETRACYCLINE	2012	kg							5.4			
+47	Tennessee	OXYTETRACYCLINE	2014	kg							5.2			
+47	Tennessee	OXYTETRACYCLINE	2015	kg							5.2			
+47	Tennessee	OXYTETRACYCLINE	2016	kg							6.8			
+47	Tennessee	OXYTETRACYCLINE	2017	kg							10			
+49	Utah	OXYTETRACYCLINE	1993	kg							0			
+49	Utah	OXYTETRACYCLINE	2002	kg							0			
+49	Utah	OXYTETRACYCLINE	2005	kg							0.2			
+49	Utah	OXYTETRACYCLINE	2009	kg							3.3			
+51	Virginia	OXYTETRACYCLINE	1998	kg							370.7			
+51	Virginia	OXYTETRACYCLINE	1999	kg							92			
+51	Virginia	OXYTETRACYCLINE	2000	kg							28.3			
+51	Virginia	OXYTETRACYCLINE	2001	kg							26			
+51	Virginia	OXYTETRACYCLINE	2002	kg							5.5			
+51	Virginia	OXYTETRACYCLINE	2003	kg							61.6			
+51	Virginia	OXYTETRACYCLINE	2004	kg							201.7			
+51	Virginia	OXYTETRACYCLINE	2005	kg							81.1			
+51	Virginia	OXYTETRACYCLINE	2006	kg							57.3			
+51	Virginia	OXYTETRACYCLINE	2007	kg							33.1			
+51	Virginia	OXYTETRACYCLINE	2009	kg							105.2			
+51	Virginia	OXYTETRACYCLINE	2010	kg							2.2			
+51	Virginia	OXYTETRACYCLINE	2011	kg							118.8			
+51	Virginia	OXYTETRACYCLINE	2012	kg							4.8			
+51	Virginia	OXYTETRACYCLINE	2013	kg							84.3			
+51	Virginia	OXYTETRACYCLINE	2014	kg							3.4			
+51	Virginia	OXYTETRACYCLINE	2015	kg							3.5			
+51	Virginia	OXYTETRACYCLINE	2016	kg							5.2			
+51	Virginia	OXYTETRACYCLINE	2017	kg							8.1			
+53	Washington	OXYTETRACYCLINE	1992	kg							329.7			
+53	Washington	OXYTETRACYCLINE	1993	kg							813.1			
+53	Washington	OXYTETRACYCLINE	1994	kg							996.9			
+53	Washington	OXYTETRACYCLINE	1995	kg							8497.4			
+53	Washington	OXYTETRACYCLINE	1996	kg							14371.7			
+53	Washington	OXYTETRACYCLINE	1997	kg							566.6			
+53	Washington	OXYTETRACYCLINE	1998	kg							344.9			
+53	Washington	OXYTETRACYCLINE	1999	kg							1088.3			
+53	Washington	OXYTETRACYCLINE	2000	kg							666.7			
+53	Washington	OXYTETRACYCLINE	2001	kg							735.3			
+53	Washington	OXYTETRACYCLINE	2002	kg							888.6			
+53	Washington	OXYTETRACYCLINE	2003	kg							577.4			
+53	Washington	OXYTETRACYCLINE	2004	kg							937			
+53	Washington	OXYTETRACYCLINE	2005	kg							1166.2			
+53	Washington	OXYTETRACYCLINE	2006	kg							1180			
+53	Washington	OXYTETRACYCLINE	2007	kg							1182.4			
+53	Washington	OXYTETRACYCLINE	2008	kg							2790.5			
+53	Washington	OXYTETRACYCLINE	2009	kg							1490.8			
+53	Washington	OXYTETRACYCLINE	2010	kg							3677.8			
+53	Washington	OXYTETRACYCLINE	2011	kg							6215.2			
+53	Washington	OXYTETRACYCLINE	2012	kg							10436.7			
+53	Washington	OXYTETRACYCLINE	2013	kg							5058.2			
+53	Washington	OXYTETRACYCLINE	2014	kg							9640.6			
+53	Washington	OXYTETRACYCLINE	2015	kg							1435.6			
+53	Washington	OXYTETRACYCLINE	2016	kg							5549.1			
+53	Washington	OXYTETRACYCLINE	2017	kg							1518.5			
+54	West Virginia	OXYTETRACYCLINE	1999	kg							89.6			
+54	West Virginia	OXYTETRACYCLINE	2010	kg							48.1			
+54	West Virginia	OXYTETRACYCLINE	2012	kg							104.6			
+54	West Virginia	OXYTETRACYCLINE	2014	kg							53.5			
+54	West Virginia	OXYTETRACYCLINE	2015	kg							48.5			
+54	West Virginia	OXYTETRACYCLINE	2016	kg							61.9			
+54	West Virginia	OXYTETRACYCLINE	2017	kg							84.7			

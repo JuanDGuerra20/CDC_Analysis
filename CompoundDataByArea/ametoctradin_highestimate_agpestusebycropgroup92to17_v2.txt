@@ -1,0 +1,96 @@
+04	Arizona	AMETOCTRADIN	2014	kg					1079					
+04	Arizona	AMETOCTRADIN	2015	kg					4262					
+04	Arizona	AMETOCTRADIN	2016	kg					3498.8					
+04	Arizona	AMETOCTRADIN	2017	kg					2423.4					
+06	California	AMETOCTRADIN	2013	kg					1952.7		71.5			0.4
+06	California	AMETOCTRADIN	2014	kg					3451.3		94.6			92.8
+06	California	AMETOCTRADIN	2015	kg					8255.6		45.6			17.5
+06	California	AMETOCTRADIN	2016	kg					10665.2		35	0.8		0.2
+06	California	AMETOCTRADIN	2017	kg					12251.3		62.8			3.3
+09	Connecticut	AMETOCTRADIN	2013	kg					35.2					
+09	Connecticut	AMETOCTRADIN	2014	kg					92.4					
+09	Connecticut	AMETOCTRADIN	2015	kg					119.8					
+09	Connecticut	AMETOCTRADIN	2016	kg					52.6					
+10	Delaware	AMETOCTRADIN	2017	kg					10.8					
+12	Florida	AMETOCTRADIN	2012	kg					417.6					
+12	Florida	AMETOCTRADIN	2013	kg					889.4					
+12	Florida	AMETOCTRADIN	2014	kg					245.8					
+12	Florida	AMETOCTRADIN	2015	kg					3705.8					
+12	Florida	AMETOCTRADIN	2016	kg					262.9					
+12	Florida	AMETOCTRADIN	2017	kg					2665.4					
+13	Georgia	AMETOCTRADIN	2012	kg					2108.3					
+13	Georgia	AMETOCTRADIN	2013	kg					3081.6					
+13	Georgia	AMETOCTRADIN	2014	kg					600.4					
+13	Georgia	AMETOCTRADIN	2015	kg					3138.6					
+13	Georgia	AMETOCTRADIN	2016	kg					388.3					
+13	Georgia	AMETOCTRADIN	2017	kg					27.2					
+17	Illinois	AMETOCTRADIN	2015	kg					653.6					
+17	Illinois	AMETOCTRADIN	2016	kg					254.7					
+18	Indiana	AMETOCTRADIN	2013	kg					40.1					
+18	Indiana	AMETOCTRADIN	2014	kg					23.7					
+18	Indiana	AMETOCTRADIN	2015	kg					169.7					
+18	Indiana	AMETOCTRADIN	2016	kg					407.9					
+18	Indiana	AMETOCTRADIN	2017	kg					22.9					
+21	Kentucky	AMETOCTRADIN	2015	kg					8.7					
+21	Kentucky	AMETOCTRADIN	2016	kg					38.3					
+24	Maryland	AMETOCTRADIN	2014	kg					54.4					
+24	Maryland	AMETOCTRADIN	2015	kg					177.4					
+24	Maryland	AMETOCTRADIN	2016	kg					31					
+24	Maryland	AMETOCTRADIN	2017	kg					52.9					
+25	Massachusetts	AMETOCTRADIN	2013	kg					67					
+25	Massachusetts	AMETOCTRADIN	2014	kg					599.2					
+25	Massachusetts	AMETOCTRADIN	2015	kg					427.8					
+25	Massachusetts	AMETOCTRADIN	2016	kg					183.5					
+26	Michigan	AMETOCTRADIN	2013	kg					203.3					
+26	Michigan	AMETOCTRADIN	2014	kg					1169.9					
+26	Michigan	AMETOCTRADIN	2015	kg					411.5					
+26	Michigan	AMETOCTRADIN	2016	kg					2893					
+26	Michigan	AMETOCTRADIN	2017	kg					2476.5					
+32	Nevada	AMETOCTRADIN	2014	kg					0					
+32	Nevada	AMETOCTRADIN	2015	kg					43.2					
+32	Nevada	AMETOCTRADIN	2016	kg					0					
+32	Nevada	AMETOCTRADIN	2017	kg					0					
+33	New Hampshire	AMETOCTRADIN	2013	kg					12.9					
+33	New Hampshire	AMETOCTRADIN	2014	kg					116.7					
+33	New Hampshire	AMETOCTRADIN	2015	kg					99					
+33	New Hampshire	AMETOCTRADIN	2016	kg					35.2					
+34	New Jersey	AMETOCTRADIN	2014	kg					187.1					
+34	New Jersey	AMETOCTRADIN	2015	kg					119.1					
+34	New Jersey	AMETOCTRADIN	2016	kg					154.9					
+34	New Jersey	AMETOCTRADIN	2017	kg					151					
+35	New Mexico	AMETOCTRADIN	2015	kg					0					
+35	New Mexico	AMETOCTRADIN	2016	kg					0					
+35	New Mexico	AMETOCTRADIN	2017	kg					0					
+36	New York	AMETOCTRADIN	2013	kg					52.1					
+36	New York	AMETOCTRADIN	2014	kg					678.5					
+36	New York	AMETOCTRADIN	2015	kg					461.4					
+36	New York	AMETOCTRADIN	2016	kg					714.2					
+36	New York	AMETOCTRADIN	2017	kg					2060.5					
+37	North Carolina	AMETOCTRADIN	2013	kg					692.7					
+37	North Carolina	AMETOCTRADIN	2014	kg					321.7					
+37	North Carolina	AMETOCTRADIN	2015	kg					1457.3					
+37	North Carolina	AMETOCTRADIN	2017	kg					17.6					
+39	Ohio	AMETOCTRADIN	2016	kg					13.9					
+41	Oregon	AMETOCTRADIN	2016	kg					987					
+41	Oregon	AMETOCTRADIN	2017	kg					1331.8					
+42	Pennsylvania	AMETOCTRADIN	2013	kg					19.4					
+42	Pennsylvania	AMETOCTRADIN	2014	kg					538.6					
+42	Pennsylvania	AMETOCTRADIN	2015	kg					1501.5					
+42	Pennsylvania	AMETOCTRADIN	2016	kg					365					
+42	Pennsylvania	AMETOCTRADIN	2017	kg					369.8					
+44	Rhode Island	AMETOCTRADIN	2013	kg					5.6					
+44	Rhode Island	AMETOCTRADIN	2014	kg					34.5					
+44	Rhode Island	AMETOCTRADIN	2015	kg					26.6					
+44	Rhode Island	AMETOCTRADIN	2016	kg					6.6					
+45	South Carolina	AMETOCTRADIN	2014	kg					9.4					
+45	South Carolina	AMETOCTRADIN	2015	kg					403.4					
+47	Tennessee	AMETOCTRADIN	2017	kg					22.8					
+50	Vermont	AMETOCTRADIN	2013	kg					12.7					
+50	Vermont	AMETOCTRADIN	2014	kg					115.4					
+50	Vermont	AMETOCTRADIN	2015	kg					94.5					
+50	Vermont	AMETOCTRADIN	2016	kg					27					
+53	Washington	AMETOCTRADIN	2016	kg					4.1					
+53	Washington	AMETOCTRADIN	2017	kg					6.7					
+55	Wisconsin	AMETOCTRADIN	2015	kg					172.4					
+55	Wisconsin	AMETOCTRADIN	2016	kg					4717.6					
+55	Wisconsin	AMETOCTRADIN	2017	kg					184.3					

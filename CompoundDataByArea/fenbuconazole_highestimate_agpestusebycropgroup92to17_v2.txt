@@ -1,0 +1,837 @@
+01	Alabama	FENBUCONAZOLE	1995	kg							318.2			
+01	Alabama	FENBUCONAZOLE	1996	kg							2262.1			
+01	Alabama	FENBUCONAZOLE	1997	kg							471.2			
+01	Alabama	FENBUCONAZOLE	1998	kg							2792.6			
+01	Alabama	FENBUCONAZOLE	1999	kg							822.2			
+01	Alabama	FENBUCONAZOLE	2000	kg							2516.6			
+01	Alabama	FENBUCONAZOLE	2001	kg							724.6			
+01	Alabama	FENBUCONAZOLE	2002	kg							2080			
+01	Alabama	FENBUCONAZOLE	2003	kg							758.8			
+01	Alabama	FENBUCONAZOLE	2004	kg							536.2			
+01	Alabama	FENBUCONAZOLE	2005	kg							603.2			
+01	Alabama	FENBUCONAZOLE	2006	kg							307.3			
+01	Alabama	FENBUCONAZOLE	2007	kg							1158.6			
+01	Alabama	FENBUCONAZOLE	2008	kg							359.3			
+01	Alabama	FENBUCONAZOLE	2009	kg							345.4			
+01	Alabama	FENBUCONAZOLE	2010	kg							374.7			
+01	Alabama	FENBUCONAZOLE	2011	kg							88.4			
+01	Alabama	FENBUCONAZOLE	2012	kg							319.5			
+01	Alabama	FENBUCONAZOLE	2013	kg							190.3			
+01	Alabama	FENBUCONAZOLE	2014	kg							58.8			
+01	Alabama	FENBUCONAZOLE	2015	kg							163.2			
+01	Alabama	FENBUCONAZOLE	2017	kg							107.8			
+04	Arizona	FENBUCONAZOLE	1999	kg							1.9			
+04	Arizona	FENBUCONAZOLE	2000	kg							1.4			
+04	Arizona	FENBUCONAZOLE	2001	kg							0.6			
+04	Arizona	FENBUCONAZOLE	2002	kg							1			
+04	Arizona	FENBUCONAZOLE	2003	kg							6.8			
+04	Arizona	FENBUCONAZOLE	2012	kg							1.6			
+04	Arizona	FENBUCONAZOLE	2013	kg							1.7			
+04	Arizona	FENBUCONAZOLE	2014	kg							1.7			
+04	Arizona	FENBUCONAZOLE	2015	kg							0.3			
+04	Arizona	FENBUCONAZOLE	2016	kg							0.2			
+04	Arizona	FENBUCONAZOLE	2017	kg							1.8			
+05	Arkansas	FENBUCONAZOLE	1995	kg							63.6			
+05	Arkansas	FENBUCONAZOLE	1996	kg							6.4			
+05	Arkansas	FENBUCONAZOLE	1997	kg							60.6			
+05	Arkansas	FENBUCONAZOLE	1998	kg							58.3			
+05	Arkansas	FENBUCONAZOLE	1999	kg							644			
+05	Arkansas	FENBUCONAZOLE	2000	kg							240.5			
+05	Arkansas	FENBUCONAZOLE	2001	kg							211.1			
+05	Arkansas	FENBUCONAZOLE	2002	kg							268.5			
+05	Arkansas	FENBUCONAZOLE	2003	kg							914.7			
+05	Arkansas	FENBUCONAZOLE	2004	kg							150.1			
+05	Arkansas	FENBUCONAZOLE	2005	kg							223.1			
+05	Arkansas	FENBUCONAZOLE	2006	kg							16.4			
+05	Arkansas	FENBUCONAZOLE	2007	kg							46.9			
+05	Arkansas	FENBUCONAZOLE	2008	kg							337.9			
+05	Arkansas	FENBUCONAZOLE	2009	kg							54.5			
+05	Arkansas	FENBUCONAZOLE	2010	kg							41			
+05	Arkansas	FENBUCONAZOLE	2011	kg							16.4			
+05	Arkansas	FENBUCONAZOLE	2012	kg							0.2			
+05	Arkansas	FENBUCONAZOLE	2013	kg							0			
+05	Arkansas	FENBUCONAZOLE	2014	kg							0.5			
+05	Arkansas	FENBUCONAZOLE	2015	kg							413.3			
+05	Arkansas	FENBUCONAZOLE	2016	kg							21			
+05	Arkansas	FENBUCONAZOLE	2017	kg							1.2			
+06	California	FENBUCONAZOLE	1999	kg							1430.3	2.5		
+06	California	FENBUCONAZOLE	2000	kg							1256.2			
+06	California	FENBUCONAZOLE	2001	kg							1092.1			
+06	California	FENBUCONAZOLE	2002	kg							901.4			
+06	California	FENBUCONAZOLE	2003	kg					1		824.4			
+06	California	FENBUCONAZOLE	2004	kg							539.3			
+06	California	FENBUCONAZOLE	2005	kg							562.8			
+06	California	FENBUCONAZOLE	2006	kg							189.2			
+06	California	FENBUCONAZOLE	2007	kg							195.3			
+06	California	FENBUCONAZOLE	2008	kg							664.2			
+06	California	FENBUCONAZOLE	2009	kg					2		3710.7			
+06	California	FENBUCONAZOLE	2010	kg					7		4249.9			
+06	California	FENBUCONAZOLE	2011	kg					2.9		2387.5			
+06	California	FENBUCONAZOLE	2012	kg					2.6		2054.1			
+06	California	FENBUCONAZOLE	2013	kg					4.6		2433.3			
+06	California	FENBUCONAZOLE	2014	kg					3.5		2001.7			
+06	California	FENBUCONAZOLE	2015	kg					2.9		1764.1			
+06	California	FENBUCONAZOLE	2016	kg							1281.4			
+06	California	FENBUCONAZOLE	2017	kg							2029			
+08	Colorado	FENBUCONAZOLE	2007	kg										48.7
+09	Connecticut	FENBUCONAZOLE	1995	kg							9.4			
+09	Connecticut	FENBUCONAZOLE	1996	kg							27.8			
+09	Connecticut	FENBUCONAZOLE	1997	kg							597.6			
+09	Connecticut	FENBUCONAZOLE	1998	kg							7.8			
+09	Connecticut	FENBUCONAZOLE	2000	kg							13			
+09	Connecticut	FENBUCONAZOLE	2001	kg							26.8			
+09	Connecticut	FENBUCONAZOLE	2002	kg							10.8			
+09	Connecticut	FENBUCONAZOLE	2003	kg							30.2			
+09	Connecticut	FENBUCONAZOLE	2004	kg							23.9			
+09	Connecticut	FENBUCONAZOLE	2005	kg							21.8			
+09	Connecticut	FENBUCONAZOLE	2006	kg							22.2			
+09	Connecticut	FENBUCONAZOLE	2007	kg							16.2			
+09	Connecticut	FENBUCONAZOLE	2008	kg							14.7			
+09	Connecticut	FENBUCONAZOLE	2009	kg							72.4			
+09	Connecticut	FENBUCONAZOLE	2010	kg							91.4			
+09	Connecticut	FENBUCONAZOLE	2011	kg							27.6			
+09	Connecticut	FENBUCONAZOLE	2012	kg							53.2			
+09	Connecticut	FENBUCONAZOLE	2013	kg							80.9			
+09	Connecticut	FENBUCONAZOLE	2014	kg							48.8			
+09	Connecticut	FENBUCONAZOLE	2015	kg							37.9			
+09	Connecticut	FENBUCONAZOLE	2016	kg							15.2			
+09	Connecticut	FENBUCONAZOLE	2017	kg							35			
+10	Delaware	FENBUCONAZOLE	1995	kg							0.2			
+10	Delaware	FENBUCONAZOLE	1996	kg							0.1			
+10	Delaware	FENBUCONAZOLE	1997	kg							0			
+10	Delaware	FENBUCONAZOLE	1999	kg							0.1			
+10	Delaware	FENBUCONAZOLE	2000	kg							0.2			
+10	Delaware	FENBUCONAZOLE	2001	kg							0.5			
+10	Delaware	FENBUCONAZOLE	2002	kg							0.2			
+10	Delaware	FENBUCONAZOLE	2003	kg							1			
+10	Delaware	FENBUCONAZOLE	2004	kg							0.2			
+10	Delaware	FENBUCONAZOLE	2005	kg							0.3			
+10	Delaware	FENBUCONAZOLE	2006	kg							0.1			
+10	Delaware	FENBUCONAZOLE	2007	kg							0			
+10	Delaware	FENBUCONAZOLE	2008	kg							0			
+10	Delaware	FENBUCONAZOLE	2009	kg							0			
+10	Delaware	FENBUCONAZOLE	2010	kg							0			
+10	Delaware	FENBUCONAZOLE	2011	kg							0.1			
+10	Delaware	FENBUCONAZOLE	2012	kg							0			
+10	Delaware	FENBUCONAZOLE	2013	kg							0			
+10	Delaware	FENBUCONAZOLE	2014	kg							0			
+10	Delaware	FENBUCONAZOLE	2015	kg							0			
+10	Delaware	FENBUCONAZOLE	2016	kg							0			
+12	Florida	FENBUCONAZOLE	1995	kg							54.5			
+12	Florida	FENBUCONAZOLE	1996	kg							519.7			
+12	Florida	FENBUCONAZOLE	1997	kg							163			
+12	Florida	FENBUCONAZOLE	1998	kg							1573.1			
+12	Florida	FENBUCONAZOLE	1999	kg							2605.1			
+12	Florida	FENBUCONAZOLE	2000	kg							6096.5			
+12	Florida	FENBUCONAZOLE	2001	kg							7319.5			
+12	Florida	FENBUCONAZOLE	2002	kg							4072.4			
+12	Florida	FENBUCONAZOLE	2003	kg							4561.6			
+12	Florida	FENBUCONAZOLE	2004	kg							4635.8			
+12	Florida	FENBUCONAZOLE	2005	kg							3611.1			
+12	Florida	FENBUCONAZOLE	2006	kg							2437.3			
+12	Florida	FENBUCONAZOLE	2007	kg							3274.6			
+12	Florida	FENBUCONAZOLE	2008	kg							4327.6			
+12	Florida	FENBUCONAZOLE	2009	kg							2077.9			
+12	Florida	FENBUCONAZOLE	2010	kg							3230.5			
+12	Florida	FENBUCONAZOLE	2011	kg							6982.7			
+12	Florida	FENBUCONAZOLE	2012	kg							8788.8			
+12	Florida	FENBUCONAZOLE	2013	kg							8492.5			
+12	Florida	FENBUCONAZOLE	2014	kg							8296.1			
+12	Florida	FENBUCONAZOLE	2015	kg							6470.1			
+12	Florida	FENBUCONAZOLE	2016	kg							6876			
+12	Florida	FENBUCONAZOLE	2017	kg							6234.1			
+13	Georgia	FENBUCONAZOLE	1995	kg							9247.9			
+13	Georgia	FENBUCONAZOLE	1996	kg							2621.1			
+13	Georgia	FENBUCONAZOLE	1997	kg							2838.5			
+13	Georgia	FENBUCONAZOLE	1998	kg							2937.3			
+13	Georgia	FENBUCONAZOLE	1999	kg							7455.8			
+13	Georgia	FENBUCONAZOLE	2000	kg							8068			
+13	Georgia	FENBUCONAZOLE	2001	kg							6746.1			
+13	Georgia	FENBUCONAZOLE	2002	kg							8249.7			
+13	Georgia	FENBUCONAZOLE	2003	kg							8419.2			
+13	Georgia	FENBUCONAZOLE	2004	kg							2289.2			
+13	Georgia	FENBUCONAZOLE	2005	kg							3061.6			
+13	Georgia	FENBUCONAZOLE	2006	kg							3110.7			
+13	Georgia	FENBUCONAZOLE	2007	kg							2147.6			
+13	Georgia	FENBUCONAZOLE	2008	kg							2657.9			
+13	Georgia	FENBUCONAZOLE	2009	kg							2615.5			
+13	Georgia	FENBUCONAZOLE	2010	kg							2202.9			
+13	Georgia	FENBUCONAZOLE	2011	kg							627.2			
+13	Georgia	FENBUCONAZOLE	2012	kg							687			
+13	Georgia	FENBUCONAZOLE	2013	kg							1726.4			
+13	Georgia	FENBUCONAZOLE	2014	kg							1516.5			
+13	Georgia	FENBUCONAZOLE	2015	kg							1548.7			
+13	Georgia	FENBUCONAZOLE	2017	kg							67.2			
+16	Idaho	FENBUCONAZOLE	1996	kg							1			
+16	Idaho	FENBUCONAZOLE	1997	kg							6.8			
+16	Idaho	FENBUCONAZOLE	1999	kg							16.3			
+16	Idaho	FENBUCONAZOLE	2000	kg							7.8			
+16	Idaho	FENBUCONAZOLE	2001	kg							14.1			
+16	Idaho	FENBUCONAZOLE	2002	kg							30.1			
+16	Idaho	FENBUCONAZOLE	2003	kg							18			
+16	Idaho	FENBUCONAZOLE	2004	kg							21.7			
+16	Idaho	FENBUCONAZOLE	2005	kg							21.5			
+16	Idaho	FENBUCONAZOLE	2007	kg							6.1			245.7
+16	Idaho	FENBUCONAZOLE	2008	kg							13			200.9
+16	Idaho	FENBUCONAZOLE	2009	kg							14.4			
+16	Idaho	FENBUCONAZOLE	2010	kg							13.7			1495.5
+16	Idaho	FENBUCONAZOLE	2011	kg							7.6			160.8
+16	Idaho	FENBUCONAZOLE	2012	kg							0.2			674.6
+16	Idaho	FENBUCONAZOLE	2013	kg							5.5			185.5
+16	Idaho	FENBUCONAZOLE	2014	kg							0			101.4
+16	Idaho	FENBUCONAZOLE	2015	kg							2.1			
+16	Idaho	FENBUCONAZOLE	2016	kg										1751.4
+16	Idaho	FENBUCONAZOLE	2017	kg										274.8
+17	Illinois	FENBUCONAZOLE	1995	kg							9.5			
+17	Illinois	FENBUCONAZOLE	1997	kg							55.7			
+17	Illinois	FENBUCONAZOLE	1998	kg							50.3			
+17	Illinois	FENBUCONAZOLE	1999	kg							106.7			
+17	Illinois	FENBUCONAZOLE	2000	kg							18.4			
+17	Illinois	FENBUCONAZOLE	2001	kg							92.3			
+17	Illinois	FENBUCONAZOLE	2002	kg							118.4			
+17	Illinois	FENBUCONAZOLE	2003	kg							13			
+17	Illinois	FENBUCONAZOLE	2004	kg							29.2			
+17	Illinois	FENBUCONAZOLE	2005	kg							443.7			
+17	Illinois	FENBUCONAZOLE	2006	kg							33.6			
+17	Illinois	FENBUCONAZOLE	2007	kg							336.8			
+17	Illinois	FENBUCONAZOLE	2008	kg							184.8			
+17	Illinois	FENBUCONAZOLE	2009	kg							37.3			
+17	Illinois	FENBUCONAZOLE	2013	kg							28			
+17	Illinois	FENBUCONAZOLE	2014	kg							96.3			
+18	Indiana	FENBUCONAZOLE	1995	kg							0.6			
+18	Indiana	FENBUCONAZOLE	1996	kg							2			
+18	Indiana	FENBUCONAZOLE	1997	kg							12.6			
+18	Indiana	FENBUCONAZOLE	1998	kg							12			
+18	Indiana	FENBUCONAZOLE	1999	kg							6.3			
+18	Indiana	FENBUCONAZOLE	2000	kg							4			
+18	Indiana	FENBUCONAZOLE	2001	kg							20.8			
+18	Indiana	FENBUCONAZOLE	2002	kg							13.9			
+18	Indiana	FENBUCONAZOLE	2003	kg							10.6			
+18	Indiana	FENBUCONAZOLE	2004	kg							5.2			
+18	Indiana	FENBUCONAZOLE	2005	kg							42.2			
+18	Indiana	FENBUCONAZOLE	2006	kg							23.6			
+18	Indiana	FENBUCONAZOLE	2007	kg							41			
+18	Indiana	FENBUCONAZOLE	2008	kg							61.8			
+18	Indiana	FENBUCONAZOLE	2009	kg							41.3			
+18	Indiana	FENBUCONAZOLE	2010	kg							37.7			
+18	Indiana	FENBUCONAZOLE	2011	kg							117.5			
+18	Indiana	FENBUCONAZOLE	2012	kg							11.6			
+18	Indiana	FENBUCONAZOLE	2013	kg							40.1			
+18	Indiana	FENBUCONAZOLE	2014	kg							14.7			
+18	Indiana	FENBUCONAZOLE	2015	kg							52.3			
+18	Indiana	FENBUCONAZOLE	2016	kg							8.9			
+18	Indiana	FENBUCONAZOLE	2017	kg							9.7			
+20	Kansas	FENBUCONAZOLE	1995	kg							136.4			
+20	Kansas	FENBUCONAZOLE	1996	kg							67.8			
+20	Kansas	FENBUCONAZOLE	1997	kg							164.8			
+20	Kansas	FENBUCONAZOLE	1998	kg							4.3			
+20	Kansas	FENBUCONAZOLE	1999	kg							70.4			
+20	Kansas	FENBUCONAZOLE	2000	kg							5.4			
+20	Kansas	FENBUCONAZOLE	2001	kg							35.9			
+20	Kansas	FENBUCONAZOLE	2002	kg							83.3			
+20	Kansas	FENBUCONAZOLE	2003	kg							23.2			
+20	Kansas	FENBUCONAZOLE	2004	kg							3.8			
+20	Kansas	FENBUCONAZOLE	2005	kg							19.9			
+20	Kansas	FENBUCONAZOLE	2006	kg							16.5			
+20	Kansas	FENBUCONAZOLE	2007	kg							13.7			
+20	Kansas	FENBUCONAZOLE	2008	kg							2.2			
+20	Kansas	FENBUCONAZOLE	2009	kg							20.4			
+20	Kansas	FENBUCONAZOLE	2010	kg							53.1			
+20	Kansas	FENBUCONAZOLE	2011	kg							7.9			
+20	Kansas	FENBUCONAZOLE	2012	kg							10.8			
+20	Kansas	FENBUCONAZOLE	2013	kg							0.5			
+20	Kansas	FENBUCONAZOLE	2014	kg							1			
+20	Kansas	FENBUCONAZOLE	2015	kg							1.7			
+20	Kansas	FENBUCONAZOLE	2016	kg							4.3			
+20	Kansas	FENBUCONAZOLE	2017	kg							6.3			
+21	Kentucky	FENBUCONAZOLE	1995	kg							2.8			
+21	Kentucky	FENBUCONAZOLE	1996	kg							0.6			
+21	Kentucky	FENBUCONAZOLE	1997	kg							9.3			
+21	Kentucky	FENBUCONAZOLE	1998	kg							1.5			
+21	Kentucky	FENBUCONAZOLE	1999	kg							18.7			
+21	Kentucky	FENBUCONAZOLE	2000	kg							4.9			
+21	Kentucky	FENBUCONAZOLE	2001	kg							18.7			
+21	Kentucky	FENBUCONAZOLE	2002	kg							26.1			
+21	Kentucky	FENBUCONAZOLE	2003	kg							13.1			
+21	Kentucky	FENBUCONAZOLE	2004	kg							20.7			
+21	Kentucky	FENBUCONAZOLE	2005	kg							25.6			
+21	Kentucky	FENBUCONAZOLE	2006	kg							18.4			
+21	Kentucky	FENBUCONAZOLE	2007	kg							54.4			
+21	Kentucky	FENBUCONAZOLE	2008	kg							38.5			
+21	Kentucky	FENBUCONAZOLE	2009	kg							21.2			
+21	Kentucky	FENBUCONAZOLE	2010	kg							7.1			
+21	Kentucky	FENBUCONAZOLE	2011	kg							4.9			
+21	Kentucky	FENBUCONAZOLE	2012	kg							10.3			
+21	Kentucky	FENBUCONAZOLE	2013	kg							3.3			
+21	Kentucky	FENBUCONAZOLE	2014	kg							42.2			
+21	Kentucky	FENBUCONAZOLE	2015	kg							10.3			
+21	Kentucky	FENBUCONAZOLE	2016	kg							10.5			
+21	Kentucky	FENBUCONAZOLE	2017	kg							16.9			
+22	Louisiana	FENBUCONAZOLE	1995	kg							26			
+22	Louisiana	FENBUCONAZOLE	1996	kg							30.3		91.3	
+22	Louisiana	FENBUCONAZOLE	1997	kg							2280.5			
+22	Louisiana	FENBUCONAZOLE	1998	kg							46.3			
+22	Louisiana	FENBUCONAZOLE	1999	kg							829.3			
+22	Louisiana	FENBUCONAZOLE	2000	kg							100.1			
+22	Louisiana	FENBUCONAZOLE	2001	kg							856.6			
+22	Louisiana	FENBUCONAZOLE	2002	kg							1317.3			
+22	Louisiana	FENBUCONAZOLE	2003	kg							1083.6			
+22	Louisiana	FENBUCONAZOLE	2004	kg							1256.5			
+22	Louisiana	FENBUCONAZOLE	2005	kg							311.9			
+22	Louisiana	FENBUCONAZOLE	2006	kg							40.7			
+22	Louisiana	FENBUCONAZOLE	2007	kg							32.5			
+22	Louisiana	FENBUCONAZOLE	2008	kg							329.1			
+22	Louisiana	FENBUCONAZOLE	2009	kg							71			
+22	Louisiana	FENBUCONAZOLE	2010	kg							5.1			
+22	Louisiana	FENBUCONAZOLE	2011	kg							4			
+22	Louisiana	FENBUCONAZOLE	2014	kg							10.7			
+22	Louisiana	FENBUCONAZOLE	2015	kg							666			
+22	Louisiana	FENBUCONAZOLE	2016	kg							31.2			
+22	Louisiana	FENBUCONAZOLE	2017	kg							80.8			
+24	Maryland	FENBUCONAZOLE	1995	kg							35.4			
+24	Maryland	FENBUCONAZOLE	1996	kg							10.1			
+24	Maryland	FENBUCONAZOLE	1997	kg							21.1			
+24	Maryland	FENBUCONAZOLE	1998	kg							26.4			
+24	Maryland	FENBUCONAZOLE	1999	kg							78.7			
+24	Maryland	FENBUCONAZOLE	2000	kg							28.3			
+24	Maryland	FENBUCONAZOLE	2001	kg							148			
+24	Maryland	FENBUCONAZOLE	2002	kg							35.6			
+24	Maryland	FENBUCONAZOLE	2003	kg							85.9			
+24	Maryland	FENBUCONAZOLE	2004	kg							54			
+24	Maryland	FENBUCONAZOLE	2005	kg							41			
+24	Maryland	FENBUCONAZOLE	2006	kg							46.9			
+24	Maryland	FENBUCONAZOLE	2007	kg							35.3			
+24	Maryland	FENBUCONAZOLE	2008	kg							100.4			
+24	Maryland	FENBUCONAZOLE	2009	kg							76.6			
+24	Maryland	FENBUCONAZOLE	2010	kg							80.1			
+24	Maryland	FENBUCONAZOLE	2011	kg							118.1			
+24	Maryland	FENBUCONAZOLE	2012	kg							55.3			
+24	Maryland	FENBUCONAZOLE	2013	kg							18.4			
+24	Maryland	FENBUCONAZOLE	2014	kg							27.5			
+24	Maryland	FENBUCONAZOLE	2015	kg							12.9			
+24	Maryland	FENBUCONAZOLE	2016	kg							20.3			
+24	Maryland	FENBUCONAZOLE	2017	kg							62.5			
+25	Massachusetts	FENBUCONAZOLE	1995	kg							27.2			
+25	Massachusetts	FENBUCONAZOLE	1996	kg							67.1			
+25	Massachusetts	FENBUCONAZOLE	1997	kg							30			
+25	Massachusetts	FENBUCONAZOLE	1998	kg							7.4			
+25	Massachusetts	FENBUCONAZOLE	2000	kg							12.1			
+25	Massachusetts	FENBUCONAZOLE	2001	kg							24.8			
+25	Massachusetts	FENBUCONAZOLE	2002	kg							9.8			
+25	Massachusetts	FENBUCONAZOLE	2003	kg							29.3			
+25	Massachusetts	FENBUCONAZOLE	2004	kg							24.3			
+25	Massachusetts	FENBUCONAZOLE	2005	kg							23			
+25	Massachusetts	FENBUCONAZOLE	2006	kg							31.3			
+25	Massachusetts	FENBUCONAZOLE	2007	kg							18.5			
+25	Massachusetts	FENBUCONAZOLE	2008	kg							16.2			
+25	Massachusetts	FENBUCONAZOLE	2009	kg							109			
+25	Massachusetts	FENBUCONAZOLE	2010	kg							148.9			
+25	Massachusetts	FENBUCONAZOLE	2011	kg							28.2			
+25	Massachusetts	FENBUCONAZOLE	2012	kg							67			
+25	Massachusetts	FENBUCONAZOLE	2013	kg							123.5			
+25	Massachusetts	FENBUCONAZOLE	2014	kg							70.3			
+25	Massachusetts	FENBUCONAZOLE	2015	kg							53.2			
+25	Massachusetts	FENBUCONAZOLE	2016	kg							18.5			
+25	Massachusetts	FENBUCONAZOLE	2017	kg							44.4			
+26	Michigan	FENBUCONAZOLE	1995	kg							3420.9			
+26	Michigan	FENBUCONAZOLE	1996	kg							2729.6			
+26	Michigan	FENBUCONAZOLE	1997	kg							1978.2			
+26	Michigan	FENBUCONAZOLE	1998	kg							3305			
+26	Michigan	FENBUCONAZOLE	1999	kg							3786.6			
+26	Michigan	FENBUCONAZOLE	2000	kg							2211.7			
+26	Michigan	FENBUCONAZOLE	2001	kg							3359			
+26	Michigan	FENBUCONAZOLE	2002	kg							2314.9			
+26	Michigan	FENBUCONAZOLE	2003	kg							2264.8			
+26	Michigan	FENBUCONAZOLE	2004	kg							3037.7			
+26	Michigan	FENBUCONAZOLE	2005	kg							1765.2			
+26	Michigan	FENBUCONAZOLE	2006	kg							1867.6			
+26	Michigan	FENBUCONAZOLE	2007	kg							2565.8			186.5
+26	Michigan	FENBUCONAZOLE	2008	kg							2276.6			
+26	Michigan	FENBUCONAZOLE	2009	kg							2613.4			
+26	Michigan	FENBUCONAZOLE	2010	kg							5338.4			
+26	Michigan	FENBUCONAZOLE	2011	kg							5804.6			
+26	Michigan	FENBUCONAZOLE	2012	kg							2744.6			477.7
+26	Michigan	FENBUCONAZOLE	2013	kg							4587			368.1
+26	Michigan	FENBUCONAZOLE	2014	kg							4015.2			601.9
+26	Michigan	FENBUCONAZOLE	2015	kg							5373.2			923.5
+26	Michigan	FENBUCONAZOLE	2016	kg							5080.7			1362.2
+26	Michigan	FENBUCONAZOLE	2017	kg							4550.8			715.8
+27	Minnesota	FENBUCONAZOLE	1995	kg							0.3			
+27	Minnesota	FENBUCONAZOLE	1996	kg							0.3			
+27	Minnesota	FENBUCONAZOLE	1997	kg							1.8			
+27	Minnesota	FENBUCONAZOLE	1998	kg							0.3			
+27	Minnesota	FENBUCONAZOLE	1999	kg							0.6			
+27	Minnesota	FENBUCONAZOLE	2000	kg							0.3			
+27	Minnesota	FENBUCONAZOLE	2001	kg							0.4			
+27	Minnesota	FENBUCONAZOLE	2002	kg							0.1			
+27	Minnesota	FENBUCONAZOLE	2003	kg							0.3			
+27	Minnesota	FENBUCONAZOLE	2004	kg							0.4			
+27	Minnesota	FENBUCONAZOLE	2005	kg							0.1			
+27	Minnesota	FENBUCONAZOLE	2006	kg							0.6			
+27	Minnesota	FENBUCONAZOLE	2007	kg							0.4			2133.2
+27	Minnesota	FENBUCONAZOLE	2008	kg							0.2			698.2
+27	Minnesota	FENBUCONAZOLE	2009	kg							0.5			
+27	Minnesota	FENBUCONAZOLE	2010	kg							0.3			
+27	Minnesota	FENBUCONAZOLE	2011	kg							0.3			
+27	Minnesota	FENBUCONAZOLE	2012	kg							0			
+27	Minnesota	FENBUCONAZOLE	2013	kg							0.4			670.8
+27	Minnesota	FENBUCONAZOLE	2014	kg							0.4			1027.8
+27	Minnesota	FENBUCONAZOLE	2015	kg							0.1			1011.4
+27	Minnesota	FENBUCONAZOLE	2016	kg							0			
+27	Minnesota	FENBUCONAZOLE	2017	kg							0.2			2631.6
+28	Mississippi	FENBUCONAZOLE	1995	kg							246.3			
+28	Mississippi	FENBUCONAZOLE	1996	kg							260.8			
+28	Mississippi	FENBUCONAZOLE	1997	kg							643.7			
+28	Mississippi	FENBUCONAZOLE	1998	kg							154.1			
+28	Mississippi	FENBUCONAZOLE	1999	kg							67			
+28	Mississippi	FENBUCONAZOLE	2000	kg							1077.7			
+28	Mississippi	FENBUCONAZOLE	2001	kg							1253.2			
+28	Mississippi	FENBUCONAZOLE	2002	kg							672.9			
+28	Mississippi	FENBUCONAZOLE	2003	kg							481.5			
+28	Mississippi	FENBUCONAZOLE	2004	kg							178.3			
+28	Mississippi	FENBUCONAZOLE	2005	kg							431.4			
+28	Mississippi	FENBUCONAZOLE	2006	kg							44.5			
+28	Mississippi	FENBUCONAZOLE	2007	kg							293.2			
+28	Mississippi	FENBUCONAZOLE	2008	kg							17.5			
+28	Mississippi	FENBUCONAZOLE	2009	kg							14.7			
+28	Mississippi	FENBUCONAZOLE	2010	kg							28.1			
+28	Mississippi	FENBUCONAZOLE	2011	kg							2.2			
+28	Mississippi	FENBUCONAZOLE	2012	kg							13.1			
+28	Mississippi	FENBUCONAZOLE	2013	kg							22.8			
+28	Mississippi	FENBUCONAZOLE	2015	kg							15.9			
+29	Missouri	FENBUCONAZOLE	1995	kg							9.7			
+29	Missouri	FENBUCONAZOLE	1996	kg							3.9			
+29	Missouri	FENBUCONAZOLE	1997	kg							53.5			
+29	Missouri	FENBUCONAZOLE	1998	kg							10.1			
+29	Missouri	FENBUCONAZOLE	1999	kg							44.5			
+29	Missouri	FENBUCONAZOLE	2000	kg							5.3			
+29	Missouri	FENBUCONAZOLE	2001	kg							17.7			
+29	Missouri	FENBUCONAZOLE	2002	kg							35.3			
+29	Missouri	FENBUCONAZOLE	2003	kg							19.5			
+29	Missouri	FENBUCONAZOLE	2004	kg							6.2			
+29	Missouri	FENBUCONAZOLE	2005	kg							40.9			
+29	Missouri	FENBUCONAZOLE	2006	kg							10.4			
+29	Missouri	FENBUCONAZOLE	2007	kg							131.1			
+29	Missouri	FENBUCONAZOLE	2008	kg							115.4			
+29	Missouri	FENBUCONAZOLE	2009	kg							32.1			
+29	Missouri	FENBUCONAZOLE	2010	kg							6.7			
+29	Missouri	FENBUCONAZOLE	2011	kg							0.9			
+29	Missouri	FENBUCONAZOLE	2012	kg							1			
+29	Missouri	FENBUCONAZOLE	2013	kg							7.1			
+29	Missouri	FENBUCONAZOLE	2014	kg							24.2			
+29	Missouri	FENBUCONAZOLE	2015	kg							0.7			
+29	Missouri	FENBUCONAZOLE	2016	kg							2.5			
+29	Missouri	FENBUCONAZOLE	2017	kg							4.2			
+31	Nebraska	FENBUCONAZOLE	2007	kg										118.5
+32	Nevada	FENBUCONAZOLE	2000	kg							0			
+32	Nevada	FENBUCONAZOLE	2001	kg							0.2			
+32	Nevada	FENBUCONAZOLE	2002	kg							0.2			
+32	Nevada	FENBUCONAZOLE	2003	kg							1.2			
+32	Nevada	FENBUCONAZOLE	2010	kg							0			
+32	Nevada	FENBUCONAZOLE	2011	kg							0			
+32	Nevada	FENBUCONAZOLE	2012	kg							0			
+32	Nevada	FENBUCONAZOLE	2014	kg							0			
+32	Nevada	FENBUCONAZOLE	2017	kg							0			
+33	New Hampshire	FENBUCONAZOLE	1995	kg							2.3			
+33	New Hampshire	FENBUCONAZOLE	1996	kg							14.5			
+33	New Hampshire	FENBUCONAZOLE	1997	kg							1			
+33	New Hampshire	FENBUCONAZOLE	1998	kg							1.6			
+33	New Hampshire	FENBUCONAZOLE	2000	kg							3.3			
+33	New Hampshire	FENBUCONAZOLE	2001	kg							7			
+33	New Hampshire	FENBUCONAZOLE	2002	kg							2.9			
+33	New Hampshire	FENBUCONAZOLE	2003	kg							8			
+33	New Hampshire	FENBUCONAZOLE	2004	kg							6.3			
+33	New Hampshire	FENBUCONAZOLE	2005	kg							6			
+33	New Hampshire	FENBUCONAZOLE	2006	kg							3.3			
+33	New Hampshire	FENBUCONAZOLE	2007	kg							4.4			
+33	New Hampshire	FENBUCONAZOLE	2008	kg							3.7			
+33	New Hampshire	FENBUCONAZOLE	2009	kg							6			
+33	New Hampshire	FENBUCONAZOLE	2010	kg							1.4			
+33	New Hampshire	FENBUCONAZOLE	2011	kg							6.7			
+33	New Hampshire	FENBUCONAZOLE	2012	kg							7			
+33	New Hampshire	FENBUCONAZOLE	2013	kg							3.7			
+33	New Hampshire	FENBUCONAZOLE	2014	kg							4.6			
+33	New Hampshire	FENBUCONAZOLE	2015	kg							2.5			
+33	New Hampshire	FENBUCONAZOLE	2016	kg							2.9			
+33	New Hampshire	FENBUCONAZOLE	2017	kg							6.6			
+34	New Jersey	FENBUCONAZOLE	1995	kg							227.4			
+34	New Jersey	FENBUCONAZOLE	1996	kg							100.3			
+34	New Jersey	FENBUCONAZOLE	1997	kg							74.1			
+34	New Jersey	FENBUCONAZOLE	1998	kg							222			
+34	New Jersey	FENBUCONAZOLE	2000	kg							231.8			
+34	New Jersey	FENBUCONAZOLE	2001	kg							109.4			
+34	New Jersey	FENBUCONAZOLE	2002	kg							165.3			
+34	New Jersey	FENBUCONAZOLE	2003	kg							907.9			
+34	New Jersey	FENBUCONAZOLE	2004	kg							414.2			
+34	New Jersey	FENBUCONAZOLE	2005	kg							550.8			
+34	New Jersey	FENBUCONAZOLE	2006	kg							216.5			
+34	New Jersey	FENBUCONAZOLE	2007	kg							242.2			
+34	New Jersey	FENBUCONAZOLE	2008	kg					0.5		232.2			
+34	New Jersey	FENBUCONAZOLE	2009	kg							534.7			
+34	New Jersey	FENBUCONAZOLE	2010	kg							153.7			
+34	New Jersey	FENBUCONAZOLE	2011	kg							755.8			
+34	New Jersey	FENBUCONAZOLE	2012	kg							188			
+34	New Jersey	FENBUCONAZOLE	2013	kg							97.2			
+34	New Jersey	FENBUCONAZOLE	2014	kg							780.6			
+34	New Jersey	FENBUCONAZOLE	2015	kg							57.5			
+34	New Jersey	FENBUCONAZOLE	2016	kg							368.3			
+34	New Jersey	FENBUCONAZOLE	2017	kg							322.4			
+35	New Mexico	FENBUCONAZOLE	1995	kg							343.9			
+35	New Mexico	FENBUCONAZOLE	1996	kg							431.5			
+35	New Mexico	FENBUCONAZOLE	1997	kg							1101.5			
+35	New Mexico	FENBUCONAZOLE	1998	kg							165.5			
+35	New Mexico	FENBUCONAZOLE	1999	kg							518.7			
+35	New Mexico	FENBUCONAZOLE	2000	kg							200.7			
+35	New Mexico	FENBUCONAZOLE	2001	kg							294.4			
+35	New Mexico	FENBUCONAZOLE	2002	kg							700.5			
+35	New Mexico	FENBUCONAZOLE	2003	kg							328.8			
+35	New Mexico	FENBUCONAZOLE	2004	kg							269			
+35	New Mexico	FENBUCONAZOLE	2005	kg							497.6			
+35	New Mexico	FENBUCONAZOLE	2006	kg							147.2			
+35	New Mexico	FENBUCONAZOLE	2007	kg							121.6			
+35	New Mexico	FENBUCONAZOLE	2008	kg							30.6			
+35	New Mexico	FENBUCONAZOLE	2009	kg							157			
+35	New Mexico	FENBUCONAZOLE	2010	kg							97.4			
+35	New Mexico	FENBUCONAZOLE	2011	kg							126.6			
+35	New Mexico	FENBUCONAZOLE	2012	kg							90.1			
+35	New Mexico	FENBUCONAZOLE	2013	kg							87.1			
+35	New Mexico	FENBUCONAZOLE	2014	kg							14			
+35	New Mexico	FENBUCONAZOLE	2015	kg							46.6			
+35	New Mexico	FENBUCONAZOLE	2016	kg							91.7			
+35	New Mexico	FENBUCONAZOLE	2017	kg							198.1			
+36	New York	FENBUCONAZOLE	1995	kg							104.1			
+36	New York	FENBUCONAZOLE	1996	kg							1351.1			
+36	New York	FENBUCONAZOLE	1997	kg							147.5			
+36	New York	FENBUCONAZOLE	1998	kg							431			
+36	New York	FENBUCONAZOLE	2000	kg							66.9			
+36	New York	FENBUCONAZOLE	2001	kg							137.9			
+36	New York	FENBUCONAZOLE	2002	kg							55.3			
+36	New York	FENBUCONAZOLE	2003	kg							130.9			
+36	New York	FENBUCONAZOLE	2004	kg							121.3			
+36	New York	FENBUCONAZOLE	2005	kg							109.6			
+36	New York	FENBUCONAZOLE	2006	kg							120.1			
+36	New York	FENBUCONAZOLE	2007	kg							248.6			
+36	New York	FENBUCONAZOLE	2008	kg					0.4		60.3			
+36	New York	FENBUCONAZOLE	2009	kg							1205.2			
+36	New York	FENBUCONAZOLE	2010	kg							2100.5			
+36	New York	FENBUCONAZOLE	2011	kg							804.9			
+36	New York	FENBUCONAZOLE	2012	kg							1647.6			
+36	New York	FENBUCONAZOLE	2013	kg							927.5			
+36	New York	FENBUCONAZOLE	2014	kg							799.2			
+36	New York	FENBUCONAZOLE	2015	kg							575.6			
+36	New York	FENBUCONAZOLE	2016	kg							379.6			
+36	New York	FENBUCONAZOLE	2017	kg							292.1			
+37	North Carolina	FENBUCONAZOLE	1995	kg							47.5			
+37	North Carolina	FENBUCONAZOLE	1996	kg							18.2			
+37	North Carolina	FENBUCONAZOLE	1997	kg							298.9			
+37	North Carolina	FENBUCONAZOLE	1998	kg							39.8			
+37	North Carolina	FENBUCONAZOLE	1999	kg							34.3			
+37	North Carolina	FENBUCONAZOLE	2000	kg							86			
+37	North Carolina	FENBUCONAZOLE	2001	kg							126.1			
+37	North Carolina	FENBUCONAZOLE	2002	kg							107.3			
+37	North Carolina	FENBUCONAZOLE	2003	kg							58.1			
+37	North Carolina	FENBUCONAZOLE	2004	kg							59			
+37	North Carolina	FENBUCONAZOLE	2005	kg							44.3			
+37	North Carolina	FENBUCONAZOLE	2006	kg							21.5			
+37	North Carolina	FENBUCONAZOLE	2007	kg							31.2			
+37	North Carolina	FENBUCONAZOLE	2008	kg							25.7			
+37	North Carolina	FENBUCONAZOLE	2009	kg							61.5			
+37	North Carolina	FENBUCONAZOLE	2010	kg							24.8			
+37	North Carolina	FENBUCONAZOLE	2011	kg							46.6			
+37	North Carolina	FENBUCONAZOLE	2012	kg							29.4			
+37	North Carolina	FENBUCONAZOLE	2013	kg							10.5			
+37	North Carolina	FENBUCONAZOLE	2014	kg							202.1			
+37	North Carolina	FENBUCONAZOLE	2015	kg							51			
+37	North Carolina	FENBUCONAZOLE	2016	kg							95.5			
+37	North Carolina	FENBUCONAZOLE	2017	kg							40.1			
+38	North Dakota	FENBUCONAZOLE	2017	kg										455.2
+39	Ohio	FENBUCONAZOLE	1995	kg							15.1			
+39	Ohio	FENBUCONAZOLE	1996	kg							32.3			
+39	Ohio	FENBUCONAZOLE	1997	kg							55.7			
+39	Ohio	FENBUCONAZOLE	1998	kg							84.3			
+39	Ohio	FENBUCONAZOLE	1999	kg							2.5			
+39	Ohio	FENBUCONAZOLE	2000	kg							25.4			
+39	Ohio	FENBUCONAZOLE	2001	kg							27.9			
+39	Ohio	FENBUCONAZOLE	2002	kg							59.9			
+39	Ohio	FENBUCONAZOLE	2003	kg							71			
+39	Ohio	FENBUCONAZOLE	2004	kg							78.9			
+39	Ohio	FENBUCONAZOLE	2005	kg							132.4			
+39	Ohio	FENBUCONAZOLE	2006	kg							69.4			
+39	Ohio	FENBUCONAZOLE	2007	kg							169.1			
+39	Ohio	FENBUCONAZOLE	2008	kg							84.9			
+39	Ohio	FENBUCONAZOLE	2009	kg							110.3			
+39	Ohio	FENBUCONAZOLE	2010	kg							842.1			
+39	Ohio	FENBUCONAZOLE	2011	kg							463.1			
+39	Ohio	FENBUCONAZOLE	2012	kg							101.1			
+39	Ohio	FENBUCONAZOLE	2013	kg							133.3			
+39	Ohio	FENBUCONAZOLE	2014	kg							166.8			
+39	Ohio	FENBUCONAZOLE	2015	kg							141.3			
+39	Ohio	FENBUCONAZOLE	2016	kg							50.8			
+39	Ohio	FENBUCONAZOLE	2017	kg							106.1			
+40	Oklahoma	FENBUCONAZOLE	1995	kg							944.2			
+40	Oklahoma	FENBUCONAZOLE	1996	kg							739.1			
+40	Oklahoma	FENBUCONAZOLE	1997	kg							1830			
+40	Oklahoma	FENBUCONAZOLE	1998	kg							231			
+40	Oklahoma	FENBUCONAZOLE	1999	kg							1829.8			
+40	Oklahoma	FENBUCONAZOLE	2000	kg							336.5			
+40	Oklahoma	FENBUCONAZOLE	2001	kg							444.9			
+40	Oklahoma	FENBUCONAZOLE	2002	kg							979.6			
+40	Oklahoma	FENBUCONAZOLE	2003	kg							846.6			
+40	Oklahoma	FENBUCONAZOLE	2004	kg							221.7			
+40	Oklahoma	FENBUCONAZOLE	2005	kg							241.3			
+40	Oklahoma	FENBUCONAZOLE	2006	kg							236.9			
+40	Oklahoma	FENBUCONAZOLE	2007	kg							53.7			
+40	Oklahoma	FENBUCONAZOLE	2008	kg							467.6			
+40	Oklahoma	FENBUCONAZOLE	2009	kg							379.3			
+40	Oklahoma	FENBUCONAZOLE	2010	kg							872.5			
+40	Oklahoma	FENBUCONAZOLE	2011	kg							181.1			
+40	Oklahoma	FENBUCONAZOLE	2012	kg							281			
+40	Oklahoma	FENBUCONAZOLE	2013	kg					0		136.9			
+40	Oklahoma	FENBUCONAZOLE	2014	kg							21.4			
+40	Oklahoma	FENBUCONAZOLE	2015	kg							146.7			
+40	Oklahoma	FENBUCONAZOLE	2016	kg							497.5			
+40	Oklahoma	FENBUCONAZOLE	2017	kg							586.3			
+41	Oregon	FENBUCONAZOLE	1996	kg							18.8			
+41	Oregon	FENBUCONAZOLE	1997	kg							134.8			
+41	Oregon	FENBUCONAZOLE	1998	kg							143.3			
+41	Oregon	FENBUCONAZOLE	1999	kg							518.8			
+41	Oregon	FENBUCONAZOLE	2000	kg							250.3			
+41	Oregon	FENBUCONAZOLE	2001	kg							410			
+41	Oregon	FENBUCONAZOLE	2002	kg							1039.8			
+41	Oregon	FENBUCONAZOLE	2003	kg							589.7			
+41	Oregon	FENBUCONAZOLE	2004	kg							594.3			
+41	Oregon	FENBUCONAZOLE	2005	kg							271.7			
+41	Oregon	FENBUCONAZOLE	2006	kg							726			
+41	Oregon	FENBUCONAZOLE	2007	kg							213.2			22.4
+41	Oregon	FENBUCONAZOLE	2008	kg							314.9			10.2
+41	Oregon	FENBUCONAZOLE	2009	kg							205.8			
+41	Oregon	FENBUCONAZOLE	2010	kg							376.4			83.3
+41	Oregon	FENBUCONAZOLE	2011	kg							341.9			9.8
+41	Oregon	FENBUCONAZOLE	2012	kg							250.2			34.6
+41	Oregon	FENBUCONAZOLE	2013	kg							517			9.9
+41	Oregon	FENBUCONAZOLE	2014	kg							583.9			4.3
+41	Oregon	FENBUCONAZOLE	2015	kg							140.4			
+41	Oregon	FENBUCONAZOLE	2016	kg										90.4
+41	Oregon	FENBUCONAZOLE	2017	kg										15.2
+42	Pennsylvania	FENBUCONAZOLE	1995	kg							184.4			
+42	Pennsylvania	FENBUCONAZOLE	1996	kg							90.7			
+42	Pennsylvania	FENBUCONAZOLE	1997	kg							52.6			
+42	Pennsylvania	FENBUCONAZOLE	1998	kg							262.8			
+42	Pennsylvania	FENBUCONAZOLE	1999	kg							135.8			
+42	Pennsylvania	FENBUCONAZOLE	2000	kg							216.8			
+42	Pennsylvania	FENBUCONAZOLE	2001	kg							255.9			
+42	Pennsylvania	FENBUCONAZOLE	2002	kg							128.4			
+42	Pennsylvania	FENBUCONAZOLE	2003	kg							332.5			
+42	Pennsylvania	FENBUCONAZOLE	2004	kg							421.3			
+42	Pennsylvania	FENBUCONAZOLE	2005	kg							281.9			
+42	Pennsylvania	FENBUCONAZOLE	2006	kg							229.6			
+42	Pennsylvania	FENBUCONAZOLE	2007	kg							391.8			
+42	Pennsylvania	FENBUCONAZOLE	2008	kg					7		895.8			
+42	Pennsylvania	FENBUCONAZOLE	2009	kg							919.2			
+42	Pennsylvania	FENBUCONAZOLE	2010	kg							986.1			
+42	Pennsylvania	FENBUCONAZOLE	2011	kg							539.7			
+42	Pennsylvania	FENBUCONAZOLE	2012	kg							540.2			
+42	Pennsylvania	FENBUCONAZOLE	2013	kg							556.7			
+42	Pennsylvania	FENBUCONAZOLE	2014	kg							329.3			
+42	Pennsylvania	FENBUCONAZOLE	2015	kg							211.3			
+42	Pennsylvania	FENBUCONAZOLE	2016	kg							650.1			
+42	Pennsylvania	FENBUCONAZOLE	2017	kg							890.2			
+44	Rhode Island	FENBUCONAZOLE	1995	kg							0.5			
+44	Rhode Island	FENBUCONAZOLE	1996	kg							2.4			
+44	Rhode Island	FENBUCONAZOLE	1997	kg							4.2			
+44	Rhode Island	FENBUCONAZOLE	1998	kg							0.4			
+44	Rhode Island	FENBUCONAZOLE	2000	kg							1.1			
+44	Rhode Island	FENBUCONAZOLE	2001	kg							2.3			
+44	Rhode Island	FENBUCONAZOLE	2002	kg							1			
+44	Rhode Island	FENBUCONAZOLE	2003	kg							2.8			
+44	Rhode Island	FENBUCONAZOLE	2004	kg							2.2			
+44	Rhode Island	FENBUCONAZOLE	2005	kg							2			
+44	Rhode Island	FENBUCONAZOLE	2006	kg							1.1			
+44	Rhode Island	FENBUCONAZOLE	2007	kg							1.5			
+44	Rhode Island	FENBUCONAZOLE	2008	kg							1.2			
+44	Rhode Island	FENBUCONAZOLE	2009	kg							1.8			
+44	Rhode Island	FENBUCONAZOLE	2010	kg							0.4			
+44	Rhode Island	FENBUCONAZOLE	2011	kg							2			
+44	Rhode Island	FENBUCONAZOLE	2012	kg							2			
+44	Rhode Island	FENBUCONAZOLE	2013	kg							1.2			
+44	Rhode Island	FENBUCONAZOLE	2014	kg							1.5			
+44	Rhode Island	FENBUCONAZOLE	2015	kg							0.9			
+44	Rhode Island	FENBUCONAZOLE	2016	kg							1.3			
+44	Rhode Island	FENBUCONAZOLE	2017	kg							3.4			
+45	South Carolina	FENBUCONAZOLE	1995	kg							713.3			
+45	South Carolina	FENBUCONAZOLE	1996	kg							1168.3			
+45	South Carolina	FENBUCONAZOLE	1997	kg							1019.5			
+45	South Carolina	FENBUCONAZOLE	1998	kg							306			
+45	South Carolina	FENBUCONAZOLE	1999	kg							385.8			
+45	South Carolina	FENBUCONAZOLE	2000	kg							743.5			
+45	South Carolina	FENBUCONAZOLE	2001	kg							888.3			
+45	South Carolina	FENBUCONAZOLE	2002	kg							1129.1			
+45	South Carolina	FENBUCONAZOLE	2003	kg							497.6			
+45	South Carolina	FENBUCONAZOLE	2004	kg							131.6			
+45	South Carolina	FENBUCONAZOLE	2005	kg							322.1			
+45	South Carolina	FENBUCONAZOLE	2006	kg							120.6			
+45	South Carolina	FENBUCONAZOLE	2007	kg							431.7			
+45	South Carolina	FENBUCONAZOLE	2008	kg							389.5			
+45	South Carolina	FENBUCONAZOLE	2009	kg							376.2			
+45	South Carolina	FENBUCONAZOLE	2010	kg							126.4			
+45	South Carolina	FENBUCONAZOLE	2011	kg							332.2			
+45	South Carolina	FENBUCONAZOLE	2012	kg							12.7			
+45	South Carolina	FENBUCONAZOLE	2013	kg							269.3			
+45	South Carolina	FENBUCONAZOLE	2014	kg							634.1			
+45	South Carolina	FENBUCONAZOLE	2015	kg							394			
+47	Tennessee	FENBUCONAZOLE	1995	kg							5.1			
+47	Tennessee	FENBUCONAZOLE	1996	kg							0.9			
+47	Tennessee	FENBUCONAZOLE	1997	kg							21.3			
+47	Tennessee	FENBUCONAZOLE	1999	kg							14			
+47	Tennessee	FENBUCONAZOLE	2000	kg							9.5			
+47	Tennessee	FENBUCONAZOLE	2001	kg							37.9			
+47	Tennessee	FENBUCONAZOLE	2002	kg							75.7			
+47	Tennessee	FENBUCONAZOLE	2003	kg							24.7			
+47	Tennessee	FENBUCONAZOLE	2004	kg							33			
+47	Tennessee	FENBUCONAZOLE	2005	kg							23.9			
+47	Tennessee	FENBUCONAZOLE	2006	kg							13.2			
+47	Tennessee	FENBUCONAZOLE	2007	kg							20.7			
+47	Tennessee	FENBUCONAZOLE	2008	kg							13			
+47	Tennessee	FENBUCONAZOLE	2009	kg							16.3			
+47	Tennessee	FENBUCONAZOLE	2010	kg							18.3			
+47	Tennessee	FENBUCONAZOLE	2011	kg							9.1			
+47	Tennessee	FENBUCONAZOLE	2012	kg							20.5			
+47	Tennessee	FENBUCONAZOLE	2013	kg							0.1			
+47	Tennessee	FENBUCONAZOLE	2014	kg							20.6			
+47	Tennessee	FENBUCONAZOLE	2015	kg							15.1			
+47	Tennessee	FENBUCONAZOLE	2016	kg							5.3			
+47	Tennessee	FENBUCONAZOLE	2017	kg							30.1			
+48	Texas	FENBUCONAZOLE	1993	kg							98.4			
+48	Texas	FENBUCONAZOLE	1995	kg							1996.2			
+48	Texas	FENBUCONAZOLE	1996	kg							2421.5		1829.4	
+48	Texas	FENBUCONAZOLE	1997	kg							7457.9			
+48	Texas	FENBUCONAZOLE	1998	kg							1591.5			
+48	Texas	FENBUCONAZOLE	1999	kg							2412.4			
+48	Texas	FENBUCONAZOLE	2000	kg							4157.3			
+48	Texas	FENBUCONAZOLE	2001	kg							4601.4			
+48	Texas	FENBUCONAZOLE	2002	kg							5114			
+48	Texas	FENBUCONAZOLE	2003	kg							3569.8			
+48	Texas	FENBUCONAZOLE	2004	kg							3220.5			
+48	Texas	FENBUCONAZOLE	2005	kg							5652.2			
+48	Texas	FENBUCONAZOLE	2006	kg							1823.6			
+48	Texas	FENBUCONAZOLE	2007	kg							2992.3			
+48	Texas	FENBUCONAZOLE	2008	kg							1558.4			
+48	Texas	FENBUCONAZOLE	2009	kg							1978.2			
+48	Texas	FENBUCONAZOLE	2010	kg							1650.3			
+48	Texas	FENBUCONAZOLE	2011	kg							829			
+48	Texas	FENBUCONAZOLE	2012	kg							1115.6			
+48	Texas	FENBUCONAZOLE	2013	kg					0.4		1311.1			
+48	Texas	FENBUCONAZOLE	2014	kg							741			
+48	Texas	FENBUCONAZOLE	2015	kg							823.9			
+48	Texas	FENBUCONAZOLE	2016	kg							2095.1			
+48	Texas	FENBUCONAZOLE	2017	kg							1479.7			
+50	Vermont	FENBUCONAZOLE	1995	kg							1.1			
+50	Vermont	FENBUCONAZOLE	1996	kg							4			
+50	Vermont	FENBUCONAZOLE	1997	kg							0.9			
+50	Vermont	FENBUCONAZOLE	1998	kg							1.5			
+50	Vermont	FENBUCONAZOLE	2000	kg							0.7			
+50	Vermont	FENBUCONAZOLE	2001	kg							1.8			
+50	Vermont	FENBUCONAZOLE	2002	kg							0.6			
+50	Vermont	FENBUCONAZOLE	2003	kg							2.2			
+50	Vermont	FENBUCONAZOLE	2004	kg							1.8			
+50	Vermont	FENBUCONAZOLE	2005	kg							1.7			
+50	Vermont	FENBUCONAZOLE	2006	kg							0.8			
+50	Vermont	FENBUCONAZOLE	2007	kg							1.4			
+50	Vermont	FENBUCONAZOLE	2008	kg							0.6			
+50	Vermont	FENBUCONAZOLE	2009	kg							61.2			
+50	Vermont	FENBUCONAZOLE	2010	kg							97.7			
+50	Vermont	FENBUCONAZOLE	2011	kg							26.8			
+50	Vermont	FENBUCONAZOLE	2012	kg							46.6			
+50	Vermont	FENBUCONAZOLE	2013	kg							67.9			
+50	Vermont	FENBUCONAZOLE	2014	kg							32.9			
+50	Vermont	FENBUCONAZOLE	2015	kg							21.1			
+50	Vermont	FENBUCONAZOLE	2016	kg							15.6			
+50	Vermont	FENBUCONAZOLE	2017	kg							24.7			
+51	Virginia	FENBUCONAZOLE	1995	kg							26.4			
+51	Virginia	FENBUCONAZOLE	1996	kg							528.3			
+51	Virginia	FENBUCONAZOLE	1997	kg							41.5			
+51	Virginia	FENBUCONAZOLE	1999	kg							239.1			
+51	Virginia	FENBUCONAZOLE	2000	kg							21.9			
+51	Virginia	FENBUCONAZOLE	2001	kg							337.7			
+51	Virginia	FENBUCONAZOLE	2002	kg							137.7			
+51	Virginia	FENBUCONAZOLE	2003	kg							248.3			
+51	Virginia	FENBUCONAZOLE	2004	kg							117.1			
+51	Virginia	FENBUCONAZOLE	2005	kg							54.8			
+51	Virginia	FENBUCONAZOLE	2006	kg							53.4			
+51	Virginia	FENBUCONAZOLE	2007	kg							47.5			
+51	Virginia	FENBUCONAZOLE	2008	kg							615.1			
+51	Virginia	FENBUCONAZOLE	2009	kg							516.8			
+51	Virginia	FENBUCONAZOLE	2010	kg							568.3			
+51	Virginia	FENBUCONAZOLE	2011	kg							536.2			
+51	Virginia	FENBUCONAZOLE	2012	kg							183.3			
+51	Virginia	FENBUCONAZOLE	2013	kg							10.6			
+51	Virginia	FENBUCONAZOLE	2014	kg							148.1			
+51	Virginia	FENBUCONAZOLE	2015	kg							42.6			
+51	Virginia	FENBUCONAZOLE	2016	kg							28.1			
+51	Virginia	FENBUCONAZOLE	2017	kg							72.3			
+53	Washington	FENBUCONAZOLE	1996	kg							17.5			
+53	Washington	FENBUCONAZOLE	1997	kg							103.9			
+53	Washington	FENBUCONAZOLE	1998	kg							180.5			
+53	Washington	FENBUCONAZOLE	1999	kg							81			
+53	Washington	FENBUCONAZOLE	2000	kg							18.1			
+53	Washington	FENBUCONAZOLE	2001	kg							8.8			
+53	Washington	FENBUCONAZOLE	2002	kg							11.9			
+53	Washington	FENBUCONAZOLE	2003	kg							129			
+53	Washington	FENBUCONAZOLE	2004	kg							23.8			
+53	Washington	FENBUCONAZOLE	2005	kg							482.7			
+53	Washington	FENBUCONAZOLE	2006	kg							1141.5			
+53	Washington	FENBUCONAZOLE	2007	kg							13.1			
+53	Washington	FENBUCONAZOLE	2008	kg							352.2			
+53	Washington	FENBUCONAZOLE	2009	kg							395.3			
+53	Washington	FENBUCONAZOLE	2010	kg							756.6			
+53	Washington	FENBUCONAZOLE	2011	kg							698.3			
+53	Washington	FENBUCONAZOLE	2012	kg							13.1			
+53	Washington	FENBUCONAZOLE	2013	kg							1882.2			
+53	Washington	FENBUCONAZOLE	2014	kg							88.4			
+53	Washington	FENBUCONAZOLE	2015	kg							169.5			
+54	West Virginia	FENBUCONAZOLE	1995	kg							27.6			
+54	West Virginia	FENBUCONAZOLE	1996	kg							189.8			
+54	West Virginia	FENBUCONAZOLE	1997	kg							51.6			
+54	West Virginia	FENBUCONAZOLE	1999	kg							221.3			
+54	West Virginia	FENBUCONAZOLE	2000	kg							8.8			
+54	West Virginia	FENBUCONAZOLE	2001	kg							215.4			
+54	West Virginia	FENBUCONAZOLE	2002	kg							104.9			
+54	West Virginia	FENBUCONAZOLE	2003	kg							69.1			
+54	West Virginia	FENBUCONAZOLE	2004	kg							60.9			
+54	West Virginia	FENBUCONAZOLE	2005	kg							64.6			
+54	West Virginia	FENBUCONAZOLE	2006	kg							42.4			
+54	West Virginia	FENBUCONAZOLE	2007	kg							67.5			
+54	West Virginia	FENBUCONAZOLE	2008	kg							232.9			
+54	West Virginia	FENBUCONAZOLE	2009	kg							318.1			
+54	West Virginia	FENBUCONAZOLE	2010	kg							189.9			
+54	West Virginia	FENBUCONAZOLE	2011	kg							199.3			
+54	West Virginia	FENBUCONAZOLE	2012	kg							187.5			
+54	West Virginia	FENBUCONAZOLE	2013	kg							62.4			
+54	West Virginia	FENBUCONAZOLE	2014	kg							226.1			
+54	West Virginia	FENBUCONAZOLE	2015	kg							62.5			
+54	West Virginia	FENBUCONAZOLE	2016	kg							45.6			
+54	West Virginia	FENBUCONAZOLE	2017	kg							97.3			
+55	Wisconsin	FENBUCONAZOLE	1995	kg							139.6			
+55	Wisconsin	FENBUCONAZOLE	1996	kg							71.1			
+55	Wisconsin	FENBUCONAZOLE	1997	kg							55.8			
+55	Wisconsin	FENBUCONAZOLE	1998	kg							177.2			
+55	Wisconsin	FENBUCONAZOLE	1999	kg							179.5			
+55	Wisconsin	FENBUCONAZOLE	2000	kg							86.5			
+55	Wisconsin	FENBUCONAZOLE	2001	kg							157.4			
+55	Wisconsin	FENBUCONAZOLE	2002	kg							69.9			
+55	Wisconsin	FENBUCONAZOLE	2003	kg							100			
+55	Wisconsin	FENBUCONAZOLE	2004	kg							133.5			
+55	Wisconsin	FENBUCONAZOLE	2005	kg							67			
+55	Wisconsin	FENBUCONAZOLE	2006	kg							197.6			
+55	Wisconsin	FENBUCONAZOLE	2007	kg							152.8			
+55	Wisconsin	FENBUCONAZOLE	2008	kg							114.3			
+55	Wisconsin	FENBUCONAZOLE	2009	kg							241.7			
+55	Wisconsin	FENBUCONAZOLE	2010	kg							209.6			
+55	Wisconsin	FENBUCONAZOLE	2011	kg							183.1			
+55	Wisconsin	FENBUCONAZOLE	2012	kg							76.4			
+55	Wisconsin	FENBUCONAZOLE	2013	kg							171.6			
+55	Wisconsin	FENBUCONAZOLE	2014	kg							161.6			
+55	Wisconsin	FENBUCONAZOLE	2015	kg							115.5			
+55	Wisconsin	FENBUCONAZOLE	2016	kg							41.9			
+55	Wisconsin	FENBUCONAZOLE	2017	kg							117.2			
+56	Wyoming	FENBUCONAZOLE	2007	kg										9.3

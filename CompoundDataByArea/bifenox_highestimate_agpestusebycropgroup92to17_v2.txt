@@ -1,0 +1,11 @@
+06	California	BIFENOX	1992	kg							5.4			
+06	California	BIFENOX	1993	kg							2.7			
+06	California	BIFENOX	2003	kg							1.1			
+06	California	BIFENOX	2004	kg							0.2			
+06	California	BIFENOX	2005	kg							5.1			
+19	Iowa	BIFENOX	1992	kg										4.5
+20	Kansas	BIFENOX	1992	kg										4979.1
+22	Louisiana	BIFENOX	1992	kg						665.2				
+29	Missouri	BIFENOX	1992	kg										186.7
+31	Nebraska	BIFENOX	1992	kg										7309.6
+48	Texas	BIFENOX	1992	kg						342.6				

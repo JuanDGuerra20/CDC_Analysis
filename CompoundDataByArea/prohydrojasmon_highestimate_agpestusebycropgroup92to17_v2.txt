@@ -1,0 +1,3 @@
+41	Oregon	PROHYDROJASMON	2014	kg							1.7			
+53	Washington	PROHYDROJASMON	2014	kg							78			
+53	Washington	PROHYDROJASMON	2017	kg							99.6			

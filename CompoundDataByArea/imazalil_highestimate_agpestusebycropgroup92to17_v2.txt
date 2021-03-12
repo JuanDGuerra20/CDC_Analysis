@@ -1,0 +1,140 @@
+01	Alabama	IMAZALIL	2010	kg			26.1							
+04	Arizona	IMAZALIL	2010	kg			1.7							
+05	Arkansas	IMAZALIL	2011	kg			14.5							
+05	Arkansas	IMAZALIL	2014	kg			0.3							
+06	California	IMAZALIL	1994	kg							4462.7			
+06	California	IMAZALIL	1995	kg							1165.6			
+06	California	IMAZALIL	1997	kg							890.4			
+06	California	IMAZALIL	2004	kg							0.2			
+06	California	IMAZALIL	2008	kg			2.9				11137			
+06	California	IMAZALIL	2009	kg							5742.9			
+06	California	IMAZALIL	2010	kg							11521.5			
+06	California	IMAZALIL	2011	kg							11536.2			
+06	California	IMAZALIL	2012	kg							14338.9			
+06	California	IMAZALIL	2013	kg							14322.6			
+06	California	IMAZALIL	2014	kg							10354.3			
+06	California	IMAZALIL	2015	kg							11028.5			
+06	California	IMAZALIL	2016	kg							16643.2			
+06	California	IMAZALIL	2017	kg							18284			
+08	Colorado	IMAZALIL	2009	kg			373.1							
+08	Colorado	IMAZALIL	2011	kg			36							
+08	Colorado	IMAZALIL	2012	kg			51							
+08	Colorado	IMAZALIL	2013	kg			213.1							
+08	Colorado	IMAZALIL	2014	kg			150.5							
+16	Idaho	IMAZALIL	2009	kg			269.8							
+16	Idaho	IMAZALIL	2010	kg			49.9							
+16	Idaho	IMAZALIL	2011	kg			26.8							
+16	Idaho	IMAZALIL	2012	kg			67.9							
+16	Idaho	IMAZALIL	2013	kg			97.6							
+16	Idaho	IMAZALIL	2014	kg			29.1							
+17	Illinois	IMAZALIL	2009	kg			12.6							
+17	Illinois	IMAZALIL	2010	kg			20.8							
+17	Illinois	IMAZALIL	2011	kg			28.9							
+17	Illinois	IMAZALIL	2013	kg			47.2							
+18	Indiana	IMAZALIL	2009	kg			5.7							
+18	Indiana	IMAZALIL	2010	kg			4.7							
+18	Indiana	IMAZALIL	2013	kg			7.7							
+19	Iowa	IMAZALIL	2009	kg			0							
+19	Iowa	IMAZALIL	2010	kg			0.1							
+19	Iowa	IMAZALIL	2011	kg			0							
+19	Iowa	IMAZALIL	2013	kg			0.1							
+20	Kansas	IMAZALIL	2009	kg			1810.3							
+20	Kansas	IMAZALIL	2010	kg			257.3							
+20	Kansas	IMAZALIL	2011	kg			145.9							
+20	Kansas	IMAZALIL	2012	kg			338.4							
+20	Kansas	IMAZALIL	2013	kg			1422.5							
+20	Kansas	IMAZALIL	2014	kg			543.4							
+21	Kentucky	IMAZALIL	2009	kg			4.9							
+21	Kentucky	IMAZALIL	2010	kg			18.3							
+21	Kentucky	IMAZALIL	2011	kg			14.4							
+21	Kentucky	IMAZALIL	2013	kg			24.7							
+24	Maryland	IMAZALIL	2010	kg			1.3							
+24	Maryland	IMAZALIL	2013	kg			5.5							
+26	Michigan	IMAZALIL	2013	kg			3.2							
+27	Minnesota	IMAZALIL	2009	kg			269							
+27	Minnesota	IMAZALIL	2010	kg			249.1							
+27	Minnesota	IMAZALIL	2011	kg			238.8							
+27	Minnesota	IMAZALIL	2012	kg			201.2							
+27	Minnesota	IMAZALIL	2013	kg			214.9							
+27	Minnesota	IMAZALIL	2014	kg			125.8							
+28	Mississippi	IMAZALIL	2010	kg			9.3							
+29	Missouri	IMAZALIL	2009	kg			25.1							
+29	Missouri	IMAZALIL	2010	kg			23.9							
+29	Missouri	IMAZALIL	2011	kg			43.7							
+29	Missouri	IMAZALIL	2012	kg			3.8							
+29	Missouri	IMAZALIL	2013	kg			89.3							
+29	Missouri	IMAZALIL	2014	kg			42.4							
+30	Montana	IMAZALIL	2009	kg			854.7							
+30	Montana	IMAZALIL	2010	kg			603.4							
+30	Montana	IMAZALIL	2011	kg			565.4							
+30	Montana	IMAZALIL	2012	kg			895.8							
+30	Montana	IMAZALIL	2013	kg			673.7							
+30	Montana	IMAZALIL	2014	kg			699.7							
+31	Nebraska	IMAZALIL	2009	kg			39.4							
+31	Nebraska	IMAZALIL	2010	kg			4.3							
+31	Nebraska	IMAZALIL	2011	kg			9.4							
+31	Nebraska	IMAZALIL	2012	kg			18.8							
+31	Nebraska	IMAZALIL	2013	kg			71.3							
+31	Nebraska	IMAZALIL	2014	kg			24.7							
+32	Nevada	IMAZALIL	2009	kg			0.9							
+32	Nevada	IMAZALIL	2010	kg			1.8							
+32	Nevada	IMAZALIL	2011	kg			0.2							
+32	Nevada	IMAZALIL	2012	kg			2							
+32	Nevada	IMAZALIL	2013	kg			4.2							
+35	New Mexico	IMAZALIL	2009	kg			69.3							
+35	New Mexico	IMAZALIL	2011	kg			3.6							
+35	New Mexico	IMAZALIL	2012	kg			0.2							
+35	New Mexico	IMAZALIL	2013	kg			23.7							
+35	New Mexico	IMAZALIL	2014	kg			10.4							
+37	North Carolina	IMAZALIL	2010	kg			10.1							
+38	North Dakota	IMAZALIL	2009	kg			1671.8							
+38	North Dakota	IMAZALIL	2010	kg			1214.1							
+38	North Dakota	IMAZALIL	2011	kg			952.5							
+38	North Dakota	IMAZALIL	2012	kg			865.1							
+38	North Dakota	IMAZALIL	2013	kg			708.2							
+38	North Dakota	IMAZALIL	2014	kg			789.4							
+39	Ohio	IMAZALIL	2009	kg			8.7							
+39	Ohio	IMAZALIL	2010	kg			130.8							
+39	Ohio	IMAZALIL	2013	kg			38.4							
+40	Oklahoma	IMAZALIL	2009	kg			904.5							
+40	Oklahoma	IMAZALIL	2011	kg			61.9							
+40	Oklahoma	IMAZALIL	2012	kg			45.5							
+40	Oklahoma	IMAZALIL	2013	kg			797.8							
+40	Oklahoma	IMAZALIL	2014	kg			426.3							
+41	Oregon	IMAZALIL	2009	kg			68							
+41	Oregon	IMAZALIL	2010	kg			41.6							
+41	Oregon	IMAZALIL	2011	kg			9.1							
+41	Oregon	IMAZALIL	2012	kg			12							
+41	Oregon	IMAZALIL	2013	kg			415.9							
+46	South Dakota	IMAZALIL	2009	kg			550.8							
+46	South Dakota	IMAZALIL	2010	kg			417.9							
+46	South Dakota	IMAZALIL	2011	kg			476.2							
+46	South Dakota	IMAZALIL	2012	kg			330.5							
+46	South Dakota	IMAZALIL	2013	kg			470.2							
+46	South Dakota	IMAZALIL	2014	kg			176.1							
+47	Tennessee	IMAZALIL	2010	kg			68							
+47	Tennessee	IMAZALIL	2011	kg			5.9							
+48	Texas	IMAZALIL	2009	kg			639.6							
+48	Texas	IMAZALIL	2011	kg			38.4							
+48	Texas	IMAZALIL	2012	kg			36.3							
+48	Texas	IMAZALIL	2013	kg			445							
+48	Texas	IMAZALIL	2014	kg			145							
+49	Utah	IMAZALIL	2009	kg			2.5							
+49	Utah	IMAZALIL	2010	kg			0.2							
+49	Utah	IMAZALIL	2011	kg			0.2							
+49	Utah	IMAZALIL	2012	kg			0.5							
+49	Utah	IMAZALIL	2013	kg			0							
+51	Virginia	IMAZALIL	2010	kg			15							
+51	Virginia	IMAZALIL	2013	kg			26							
+53	Washington	IMAZALIL	2009	kg			182.5							
+53	Washington	IMAZALIL	2010	kg			95.2							
+53	Washington	IMAZALIL	2012	kg			39.9							
+53	Washington	IMAZALIL	2013	kg			1029							
+53	Washington	IMAZALIL	2014	kg			43.6							
+55	Wisconsin	IMAZALIL	2013	kg			41.5							
+56	Wyoming	IMAZALIL	2009	kg			33.1							
+56	Wyoming	IMAZALIL	2010	kg			24.2							
+56	Wyoming	IMAZALIL	2011	kg			27.4							
+56	Wyoming	IMAZALIL	2012	kg			25.3							
+56	Wyoming	IMAZALIL	2013	kg			33.5							
+56	Wyoming	IMAZALIL	2014	kg			18							

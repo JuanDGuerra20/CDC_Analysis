@@ -1,0 +1,18 @@
+06	California	DEMETON	1992	kg					1563.4		8.9			
+06	California	DEMETON	1993	kg					1877.5		7.3			
+06	California	DEMETON	1994	kg					696.5		8.6			
+06	California	DEMETON	1995	kg					347		4.5			
+06	California	DEMETON	1996	kg					184.9		1.5			
+06	California	DEMETON	1998	kg					0.5					
+06	California	DEMETON	1999	kg					0.1					
+06	California	DEMETON	2001	kg							1	0.2		
+06	California	DEMETON	2003	kg							0			
+06	California	DEMETON	2005	kg							0.5			
+06	California	DEMETON	2007	kg					0.3					
+06	California	DEMETON	2009	kg							1.1			
+16	Idaho	DEMETON	1993	kg			2198.7							2837.3
+18	Indiana	DEMETON	1992	kg										214.3
+23	Maine	DEMETON	1992	kg										129.7
+26	Michigan	DEMETON	1992	kg										719.6
+32	Nevada	DEMETON	1993	kg			11.6							14
+41	Oregon	DEMETON	1993	kg			903.4							341.5

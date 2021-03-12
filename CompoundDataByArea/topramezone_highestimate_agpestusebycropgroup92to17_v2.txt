@@ -1,0 +1,398 @@
+01	Alabama	TOPRAMEZONE	2013	kg	138.1									
+01	Alabama	TOPRAMEZONE	2014	kg	334.8									
+01	Alabama	TOPRAMEZONE	2015	kg	136.9									
+01	Alabama	TOPRAMEZONE	2016	kg	62.8									
+01	Alabama	TOPRAMEZONE	2017	kg	195.5									
+05	Arkansas	TOPRAMEZONE	2008	kg	8									
+05	Arkansas	TOPRAMEZONE	2011	kg	22.8									
+05	Arkansas	TOPRAMEZONE	2012	kg	18.8									
+05	Arkansas	TOPRAMEZONE	2013	kg	191.4									
+05	Arkansas	TOPRAMEZONE	2014	kg	5.5									
+05	Arkansas	TOPRAMEZONE	2015	kg	136.4									
+05	Arkansas	TOPRAMEZONE	2016	kg	580.4									
+05	Arkansas	TOPRAMEZONE	2017	kg	684.4									
+08	Colorado	TOPRAMEZONE	2007	kg	59.9									
+08	Colorado	TOPRAMEZONE	2008	kg	123.3									
+08	Colorado	TOPRAMEZONE	2009	kg	500									
+08	Colorado	TOPRAMEZONE	2010	kg	364									
+08	Colorado	TOPRAMEZONE	2011	kg	226.1									
+08	Colorado	TOPRAMEZONE	2012	kg	205.6									
+08	Colorado	TOPRAMEZONE	2013	kg	205.6									
+08	Colorado	TOPRAMEZONE	2014	kg	491.1									
+08	Colorado	TOPRAMEZONE	2015	kg	1168.9									
+08	Colorado	TOPRAMEZONE	2016	kg	408									
+08	Colorado	TOPRAMEZONE	2017	kg	3665.4									
+09	Connecticut	TOPRAMEZONE	2009	kg					4					
+09	Connecticut	TOPRAMEZONE	2010	kg					9.1					
+09	Connecticut	TOPRAMEZONE	2011	kg					2.5					
+09	Connecticut	TOPRAMEZONE	2012	kg					2.5					
+09	Connecticut	TOPRAMEZONE	2013	kg					0.8					
+09	Connecticut	TOPRAMEZONE	2014	kg					0.3					
+09	Connecticut	TOPRAMEZONE	2015	kg					5.5					
+09	Connecticut	TOPRAMEZONE	2016	kg					0.2					
+09	Connecticut	TOPRAMEZONE	2017	kg					0.7					
+10	Delaware	TOPRAMEZONE	2009	kg	5									
+10	Delaware	TOPRAMEZONE	2013	kg	12.8									
+10	Delaware	TOPRAMEZONE	2014	kg	14.6									
+10	Delaware	TOPRAMEZONE	2015	kg	16.3				0.4					
+10	Delaware	TOPRAMEZONE	2016	kg	9.8									
+10	Delaware	TOPRAMEZONE	2017	kg	28.9									
+13	Georgia	TOPRAMEZONE	2013	kg	14.6									
+13	Georgia	TOPRAMEZONE	2014	kg	18									
+13	Georgia	TOPRAMEZONE	2015	kg	11.3									
+13	Georgia	TOPRAMEZONE	2016	kg	9.2									
+13	Georgia	TOPRAMEZONE	2017	kg	11.2									
+16	Idaho	TOPRAMEZONE	2006	kg					3.7					
+16	Idaho	TOPRAMEZONE	2007	kg					4.3					
+16	Idaho	TOPRAMEZONE	2008	kg	481.7				5.5					
+16	Idaho	TOPRAMEZONE	2009	kg	6				9					
+16	Idaho	TOPRAMEZONE	2010	kg	59.3				19.5					
+16	Idaho	TOPRAMEZONE	2011	kg	9				29.4					
+16	Idaho	TOPRAMEZONE	2012	kg					40.7					
+16	Idaho	TOPRAMEZONE	2013	kg	92.4				14.2					
+16	Idaho	TOPRAMEZONE	2014	kg					9.2					
+16	Idaho	TOPRAMEZONE	2015	kg	115.7				24.7					
+16	Idaho	TOPRAMEZONE	2016	kg	189.9				14.1					
+16	Idaho	TOPRAMEZONE	2017	kg	254.4				23.7					
+17	Illinois	TOPRAMEZONE	2006	kg	796.8				11					
+17	Illinois	TOPRAMEZONE	2007	kg	1835.2				13.8					
+17	Illinois	TOPRAMEZONE	2008	kg	1502				33.8					
+17	Illinois	TOPRAMEZONE	2009	kg	1098.7				52.8					
+17	Illinois	TOPRAMEZONE	2010	kg	1178.6				77.3					
+17	Illinois	TOPRAMEZONE	2011	kg	3183.9				49.2					
+17	Illinois	TOPRAMEZONE	2012	kg	1930.6				33.4					
+17	Illinois	TOPRAMEZONE	2013	kg	4090.7				34.6					
+17	Illinois	TOPRAMEZONE	2014	kg	3662.2				75.7					
+17	Illinois	TOPRAMEZONE	2015	kg	4770.7				97.7					
+17	Illinois	TOPRAMEZONE	2016	kg	4707.4				77.1					
+17	Illinois	TOPRAMEZONE	2017	kg	5826.7				29.2					
+18	Indiana	TOPRAMEZONE	2006	kg	238.3				2.6					
+18	Indiana	TOPRAMEZONE	2007	kg	1240.9				2.5					
+18	Indiana	TOPRAMEZONE	2008	kg	1784.9				2.4					
+18	Indiana	TOPRAMEZONE	2009	kg	1106.3				5.5					
+18	Indiana	TOPRAMEZONE	2010	kg	503.1				5.1					
+18	Indiana	TOPRAMEZONE	2011	kg	674.5				4.3					
+18	Indiana	TOPRAMEZONE	2012	kg	3191.9				2.7					
+18	Indiana	TOPRAMEZONE	2013	kg	5104.3				4.5					
+18	Indiana	TOPRAMEZONE	2014	kg	1524.7				5.9					
+18	Indiana	TOPRAMEZONE	2015	kg	5143.8				9.3					
+18	Indiana	TOPRAMEZONE	2016	kg	3521.3				9					
+18	Indiana	TOPRAMEZONE	2017	kg	2327.7				6.2					
+19	Iowa	TOPRAMEZONE	2006	kg	420.4									
+19	Iowa	TOPRAMEZONE	2007	kg	2662.6				4.9					
+19	Iowa	TOPRAMEZONE	2008	kg	2275.9				1.9					
+19	Iowa	TOPRAMEZONE	2009	kg	2064.9				1					
+19	Iowa	TOPRAMEZONE	2010	kg	2179.5				2.5					
+19	Iowa	TOPRAMEZONE	2011	kg	2430.1				0.9					
+19	Iowa	TOPRAMEZONE	2012	kg	5002.8				0.3					
+19	Iowa	TOPRAMEZONE	2013	kg	5631.8				1.7					
+19	Iowa	TOPRAMEZONE	2014	kg	8123.7				7.4					
+19	Iowa	TOPRAMEZONE	2015	kg	6839.6				5.8					
+19	Iowa	TOPRAMEZONE	2016	kg	10363.8				5.5					
+19	Iowa	TOPRAMEZONE	2017	kg	8346.6				3.1					
+20	Kansas	TOPRAMEZONE	2006	kg	27.8									
+20	Kansas	TOPRAMEZONE	2007	kg	251.6									
+20	Kansas	TOPRAMEZONE	2008	kg	114.2									
+20	Kansas	TOPRAMEZONE	2009	kg	930.7									
+20	Kansas	TOPRAMEZONE	2010	kg	903.8									
+20	Kansas	TOPRAMEZONE	2011	kg	788.9									
+20	Kansas	TOPRAMEZONE	2012	kg	862.1									
+20	Kansas	TOPRAMEZONE	2013	kg	876.6									
+20	Kansas	TOPRAMEZONE	2014	kg	2069.3									
+20	Kansas	TOPRAMEZONE	2015	kg	3719									
+20	Kansas	TOPRAMEZONE	2016	kg	3713.2									
+20	Kansas	TOPRAMEZONE	2017	kg	5488.1									
+21	Kentucky	TOPRAMEZONE	2006	kg	43.9				1.5					
+21	Kentucky	TOPRAMEZONE	2007	kg	95.6				3.9					
+21	Kentucky	TOPRAMEZONE	2008	kg	167.2				0.2					
+21	Kentucky	TOPRAMEZONE	2009	kg	183.8				0.2					
+21	Kentucky	TOPRAMEZONE	2010	kg	200.3				2.3					
+21	Kentucky	TOPRAMEZONE	2011	kg	299.8				0					
+21	Kentucky	TOPRAMEZONE	2012	kg	352.4				0					
+21	Kentucky	TOPRAMEZONE	2013	kg	923.4				0.2					
+21	Kentucky	TOPRAMEZONE	2014	kg	942.3				0.2					
+21	Kentucky	TOPRAMEZONE	2015	kg	642.3				1.1					
+21	Kentucky	TOPRAMEZONE	2016	kg	610.8				0.7					
+21	Kentucky	TOPRAMEZONE	2017	kg	937.3				0.4					
+22	Louisiana	TOPRAMEZONE	2015	kg	23.9									
+22	Louisiana	TOPRAMEZONE	2016	kg	379.7									
+22	Louisiana	TOPRAMEZONE	2017	kg	588.5									
+24	Maryland	TOPRAMEZONE	2009	kg	87.6				1.3					
+24	Maryland	TOPRAMEZONE	2010	kg					3.2					
+24	Maryland	TOPRAMEZONE	2011	kg					2.1					
+24	Maryland	TOPRAMEZONE	2012	kg					0.8					
+24	Maryland	TOPRAMEZONE	2013	kg	115.9				0					
+24	Maryland	TOPRAMEZONE	2014	kg	157.2				0					
+24	Maryland	TOPRAMEZONE	2015	kg	155.5				12.4					
+24	Maryland	TOPRAMEZONE	2016	kg	98.6				0.4					
+24	Maryland	TOPRAMEZONE	2017	kg	333.9				2.3					
+25	Massachusetts	TOPRAMEZONE	2009	kg					4.5					
+25	Massachusetts	TOPRAMEZONE	2010	kg					11					
+25	Massachusetts	TOPRAMEZONE	2011	kg					3.1					
+25	Massachusetts	TOPRAMEZONE	2012	kg					3.1					
+25	Massachusetts	TOPRAMEZONE	2013	kg					1.1					
+25	Massachusetts	TOPRAMEZONE	2014	kg					0.4					
+25	Massachusetts	TOPRAMEZONE	2015	kg					7.3					
+25	Massachusetts	TOPRAMEZONE	2016	kg					0.1					
+25	Massachusetts	TOPRAMEZONE	2017	kg					0.9					
+26	Michigan	TOPRAMEZONE	2006	kg	100.8				0.1					
+26	Michigan	TOPRAMEZONE	2007	kg	179.2				0.4					
+26	Michigan	TOPRAMEZONE	2008	kg	283.5				1.2					
+26	Michigan	TOPRAMEZONE	2009	kg	402.5				6.8					
+26	Michigan	TOPRAMEZONE	2010	kg	150.1				4.4					
+26	Michigan	TOPRAMEZONE	2011	kg	177.6				2.6					
+26	Michigan	TOPRAMEZONE	2012	kg	651.9				5.2					
+26	Michigan	TOPRAMEZONE	2013	kg	1545.9				2.1					
+26	Michigan	TOPRAMEZONE	2014	kg	794.6				0.8					
+26	Michigan	TOPRAMEZONE	2015	kg	646.7				0.9					
+26	Michigan	TOPRAMEZONE	2016	kg	1136				5					
+26	Michigan	TOPRAMEZONE	2017	kg	1848.6				3.7					
+27	Minnesota	TOPRAMEZONE	2006	kg	396.5				4.6					
+27	Minnesota	TOPRAMEZONE	2007	kg	647				58.5					
+27	Minnesota	TOPRAMEZONE	2008	kg	261.2				111.9					
+27	Minnesota	TOPRAMEZONE	2009	kg	1070.4				136.5					
+27	Minnesota	TOPRAMEZONE	2010	kg	938.3				89.2					
+27	Minnesota	TOPRAMEZONE	2011	kg	984.4				80.2					
+27	Minnesota	TOPRAMEZONE	2012	kg	2095.5				57.3					
+27	Minnesota	TOPRAMEZONE	2013	kg	1396.9				56.5					
+27	Minnesota	TOPRAMEZONE	2014	kg	2320.9				56.3					
+27	Minnesota	TOPRAMEZONE	2015	kg	3149.7				137					
+27	Minnesota	TOPRAMEZONE	2016	kg	4235.6				154.4					
+27	Minnesota	TOPRAMEZONE	2017	kg	2725.3				103.8					
+28	Mississippi	TOPRAMEZONE	2015	kg	109									
+28	Mississippi	TOPRAMEZONE	2016	kg	400.2									
+28	Mississippi	TOPRAMEZONE	2017	kg	625.9									
+29	Missouri	TOPRAMEZONE	2006	kg	298.9									
+29	Missouri	TOPRAMEZONE	2007	kg	633.2									
+29	Missouri	TOPRAMEZONE	2008	kg	864.9									
+29	Missouri	TOPRAMEZONE	2009	kg	740.6									
+29	Missouri	TOPRAMEZONE	2010	kg	333.9									
+29	Missouri	TOPRAMEZONE	2011	kg	693.6									
+29	Missouri	TOPRAMEZONE	2012	kg	855.6									
+29	Missouri	TOPRAMEZONE	2013	kg	1964.2									
+29	Missouri	TOPRAMEZONE	2014	kg	2012.9									
+29	Missouri	TOPRAMEZONE	2015	kg	2087.5									
+29	Missouri	TOPRAMEZONE	2016	kg	3229.3									
+29	Missouri	TOPRAMEZONE	2017	kg	2470.7									
+30	Montana	TOPRAMEZONE	2013	kg	8.6									
+30	Montana	TOPRAMEZONE	2014	kg	11.1									
+30	Montana	TOPRAMEZONE	2015	kg	35									
+30	Montana	TOPRAMEZONE	2016	kg	19.8									
+30	Montana	TOPRAMEZONE	2017	kg	36.9									
+31	Nebraska	TOPRAMEZONE	2006	kg	119.4									
+31	Nebraska	TOPRAMEZONE	2007	kg	753.6									
+31	Nebraska	TOPRAMEZONE	2008	kg	250.5									
+31	Nebraska	TOPRAMEZONE	2009	kg	1148									
+31	Nebraska	TOPRAMEZONE	2010	kg	2457.4									
+31	Nebraska	TOPRAMEZONE	2011	kg	1619.7									
+31	Nebraska	TOPRAMEZONE	2012	kg	1923.8									
+31	Nebraska	TOPRAMEZONE	2013	kg	4212.9									
+31	Nebraska	TOPRAMEZONE	2014	kg	3889.2									
+31	Nebraska	TOPRAMEZONE	2015	kg	3805.6									
+31	Nebraska	TOPRAMEZONE	2016	kg	5640.9									
+31	Nebraska	TOPRAMEZONE	2017	kg	5157.9									
+32	Nevada	TOPRAMEZONE	2006	kg					0					
+32	Nevada	TOPRAMEZONE	2008	kg	7.9				0					
+32	Nevada	TOPRAMEZONE	2009	kg	0				0					
+32	Nevada	TOPRAMEZONE	2010	kg	0				0.3					
+32	Nevada	TOPRAMEZONE	2011	kg	0.1				0.4					
+32	Nevada	TOPRAMEZONE	2012	kg					0.6					
+32	Nevada	TOPRAMEZONE	2013	kg	2.4				0.3					
+32	Nevada	TOPRAMEZONE	2014	kg					0.1					
+32	Nevada	TOPRAMEZONE	2015	kg	9				0.3					
+32	Nevada	TOPRAMEZONE	2016	kg	10.6									
+32	Nevada	TOPRAMEZONE	2017	kg	8.7				0.3					
+34	New Jersey	TOPRAMEZONE	2009	kg	20.3				2					
+34	New Jersey	TOPRAMEZONE	2010	kg					3					
+34	New Jersey	TOPRAMEZONE	2011	kg					0.7					
+34	New Jersey	TOPRAMEZONE	2012	kg					0.4					
+34	New Jersey	TOPRAMEZONE	2013	kg					2.2					
+34	New Jersey	TOPRAMEZONE	2014	kg					0.9					
+34	New Jersey	TOPRAMEZONE	2015	kg					22.4					
+34	New Jersey	TOPRAMEZONE	2016	kg					1.9					
+34	New Jersey	TOPRAMEZONE	2017	kg	34.5				8.6					
+35	New Mexico	TOPRAMEZONE	2008	kg	2.2									
+35	New Mexico	TOPRAMEZONE	2009	kg	12.1									
+35	New Mexico	TOPRAMEZONE	2010	kg	15									
+35	New Mexico	TOPRAMEZONE	2011	kg	11.7									
+35	New Mexico	TOPRAMEZONE	2012	kg	14.3									
+35	New Mexico	TOPRAMEZONE	2013	kg	7.9									
+35	New Mexico	TOPRAMEZONE	2014	kg	32.3									
+35	New Mexico	TOPRAMEZONE	2015	kg	116									
+35	New Mexico	TOPRAMEZONE	2016	kg	260.5									
+35	New Mexico	TOPRAMEZONE	2017	kg	296.1									
+36	New York	TOPRAMEZONE	2009	kg					30.9					
+36	New York	TOPRAMEZONE	2010	kg					56.6					
+36	New York	TOPRAMEZONE	2011	kg					31.5					
+36	New York	TOPRAMEZONE	2012	kg					49.6					
+36	New York	TOPRAMEZONE	2013	kg					5.6					
+36	New York	TOPRAMEZONE	2014	kg					5					
+36	New York	TOPRAMEZONE	2015	kg					7.2					
+36	New York	TOPRAMEZONE	2016	kg	118.2				20.9					
+36	New York	TOPRAMEZONE	2017	kg	309				47.4					
+37	North Carolina	TOPRAMEZONE	2008	kg	1.8									
+37	North Carolina	TOPRAMEZONE	2011	kg	2.6									
+37	North Carolina	TOPRAMEZONE	2013	kg	487.3									
+37	North Carolina	TOPRAMEZONE	2014	kg	607.4									
+37	North Carolina	TOPRAMEZONE	2015	kg	536.5									
+37	North Carolina	TOPRAMEZONE	2016	kg	549.3									
+37	North Carolina	TOPRAMEZONE	2017	kg	1179.2									
+38	North Dakota	TOPRAMEZONE	2007	kg	86.7									
+38	North Dakota	TOPRAMEZONE	2008	kg	49.8									
+38	North Dakota	TOPRAMEZONE	2009	kg	221.7									
+38	North Dakota	TOPRAMEZONE	2010	kg	66.7									
+38	North Dakota	TOPRAMEZONE	2011	kg	584.4									
+38	North Dakota	TOPRAMEZONE	2012	kg	122.8									
+38	North Dakota	TOPRAMEZONE	2013	kg	519.2									
+38	North Dakota	TOPRAMEZONE	2014	kg	1192.2									
+38	North Dakota	TOPRAMEZONE	2015	kg	1960.6									
+38	North Dakota	TOPRAMEZONE	2016	kg	3455									
+38	North Dakota	TOPRAMEZONE	2017	kg	6010.3									
+39	Ohio	TOPRAMEZONE	2006	kg	150.2				0					
+39	Ohio	TOPRAMEZONE	2007	kg	269.3				33.6					
+39	Ohio	TOPRAMEZONE	2008	kg	381.8				2.4					
+39	Ohio	TOPRAMEZONE	2009	kg	690.4				3.7					
+39	Ohio	TOPRAMEZONE	2010	kg	247.9				38.7					
+39	Ohio	TOPRAMEZONE	2011	kg	492.5				23.9					
+39	Ohio	TOPRAMEZONE	2012	kg	738.3				5.7					
+39	Ohio	TOPRAMEZONE	2013	kg	602.6				20.6					
+39	Ohio	TOPRAMEZONE	2014	kg	533.1				6.3					
+39	Ohio	TOPRAMEZONE	2015	kg	849.2				11.2					
+39	Ohio	TOPRAMEZONE	2016	kg	588.5				13					
+39	Ohio	TOPRAMEZONE	2017	kg	298.4				49.9					
+40	Oklahoma	TOPRAMEZONE	2007	kg	2.8									
+40	Oklahoma	TOPRAMEZONE	2008	kg	4.6									
+40	Oklahoma	TOPRAMEZONE	2009	kg	37.1									
+40	Oklahoma	TOPRAMEZONE	2010	kg	18.6									
+40	Oklahoma	TOPRAMEZONE	2011	kg	27.1									
+40	Oklahoma	TOPRAMEZONE	2012	kg	50.6									
+40	Oklahoma	TOPRAMEZONE	2013	kg	56									
+40	Oklahoma	TOPRAMEZONE	2014	kg	107.8									
+40	Oklahoma	TOPRAMEZONE	2015	kg	383.5									
+40	Oklahoma	TOPRAMEZONE	2016	kg	2463.9									
+40	Oklahoma	TOPRAMEZONE	2017	kg	1587.5									
+41	Oregon	TOPRAMEZONE	2006	kg					53.5					
+41	Oregon	TOPRAMEZONE	2007	kg					84.3					
+41	Oregon	TOPRAMEZONE	2008	kg	46.8				90.4					
+41	Oregon	TOPRAMEZONE	2009	kg					89.5					
+41	Oregon	TOPRAMEZONE	2010	kg					82.7					
+41	Oregon	TOPRAMEZONE	2011	kg	1				68.7					
+41	Oregon	TOPRAMEZONE	2012	kg	119				125.3					
+41	Oregon	TOPRAMEZONE	2013	kg	39.2				94.4					
+41	Oregon	TOPRAMEZONE	2014	kg					78.8					
+41	Oregon	TOPRAMEZONE	2015	kg	105.2				148.4					
+41	Oregon	TOPRAMEZONE	2016	kg	52.4				149.1					
+41	Oregon	TOPRAMEZONE	2017	kg	28.3				185.4					
+42	Pennsylvania	TOPRAMEZONE	2007	kg					12.4					
+42	Pennsylvania	TOPRAMEZONE	2008	kg	16.9				0.7					
+42	Pennsylvania	TOPRAMEZONE	2009	kg	247				22.6					
+42	Pennsylvania	TOPRAMEZONE	2010	kg					36.6					
+42	Pennsylvania	TOPRAMEZONE	2011	kg	24.4				14.7					
+42	Pennsylvania	TOPRAMEZONE	2012	kg					11.9					
+42	Pennsylvania	TOPRAMEZONE	2013	kg	50				4.2					
+42	Pennsylvania	TOPRAMEZONE	2014	kg	110.8				2.3					
+42	Pennsylvania	TOPRAMEZONE	2015	kg	46.7				25.5					
+42	Pennsylvania	TOPRAMEZONE	2016	kg	66.8				2.4					
+42	Pennsylvania	TOPRAMEZONE	2017	kg	707.5				11.6					
+45	South Carolina	TOPRAMEZONE	2013	kg	786.5									
+45	South Carolina	TOPRAMEZONE	2014	kg	247.6									
+45	South Carolina	TOPRAMEZONE	2015	kg	360.9									
+45	South Carolina	TOPRAMEZONE	2016	kg	524.1									
+45	South Carolina	TOPRAMEZONE	2017	kg	813.4									
+46	South Dakota	TOPRAMEZONE	2006	kg	57.1									
+46	South Dakota	TOPRAMEZONE	2007	kg	542.1				0.1					
+46	South Dakota	TOPRAMEZONE	2008	kg	145.8				0					
+46	South Dakota	TOPRAMEZONE	2009	kg	550.2				0					
+46	South Dakota	TOPRAMEZONE	2010	kg	210.1				0					
+46	South Dakota	TOPRAMEZONE	2011	kg	1579.3				0					
+46	South Dakota	TOPRAMEZONE	2012	kg	664.9				0					
+46	South Dakota	TOPRAMEZONE	2013	kg	1148.1				0					
+46	South Dakota	TOPRAMEZONE	2014	kg	558.9				0					
+46	South Dakota	TOPRAMEZONE	2015	kg	1228				0					
+46	South Dakota	TOPRAMEZONE	2016	kg	2386.8				0					
+46	South Dakota	TOPRAMEZONE	2017	kg	1883.8				0					
+47	Tennessee	TOPRAMEZONE	2008	kg	24.4									
+47	Tennessee	TOPRAMEZONE	2010	kg	76.6									
+47	Tennessee	TOPRAMEZONE	2011	kg	171.5									
+47	Tennessee	TOPRAMEZONE	2012	kg	28.3									
+47	Tennessee	TOPRAMEZONE	2013	kg	618.9									
+47	Tennessee	TOPRAMEZONE	2014	kg	949.6									
+47	Tennessee	TOPRAMEZONE	2015	kg	374									
+47	Tennessee	TOPRAMEZONE	2016	kg	330.7									
+47	Tennessee	TOPRAMEZONE	2017	kg	1139									
+48	Texas	TOPRAMEZONE	2008	kg	50.3									
+48	Texas	TOPRAMEZONE	2009	kg	303.9									
+48	Texas	TOPRAMEZONE	2010	kg	393.5									
+48	Texas	TOPRAMEZONE	2011	kg	212.3									
+48	Texas	TOPRAMEZONE	2012	kg	526.9									
+48	Texas	TOPRAMEZONE	2013	kg	262.3									
+48	Texas	TOPRAMEZONE	2014	kg	904.1									
+48	Texas	TOPRAMEZONE	2015	kg	1808.2									
+48	Texas	TOPRAMEZONE	2016	kg	7202.6									
+48	Texas	TOPRAMEZONE	2017	kg	4699.9									
+49	Utah	TOPRAMEZONE	2009	kg	0.4									
+49	Utah	TOPRAMEZONE	2010	kg	4.8									
+49	Utah	TOPRAMEZONE	2015	kg	3.4									
+49	Utah	TOPRAMEZONE	2016	kg	6.7									
+50	Vermont	TOPRAMEZONE	2009	kg					0.6					
+50	Vermont	TOPRAMEZONE	2010	kg					3.6					
+50	Vermont	TOPRAMEZONE	2011	kg					7					
+50	Vermont	TOPRAMEZONE	2012	kg					0.3					
+50	Vermont	TOPRAMEZONE	2013	kg					0.1					
+50	Vermont	TOPRAMEZONE	2014	kg					0					
+50	Vermont	TOPRAMEZONE	2015	kg					1.1					
+50	Vermont	TOPRAMEZONE	2016	kg					0.1					
+50	Vermont	TOPRAMEZONE	2017	kg					1.1					
+51	Virginia	TOPRAMEZONE	2008	kg	4.9									
+51	Virginia	TOPRAMEZONE	2011	kg	5.8									
+51	Virginia	TOPRAMEZONE	2013	kg	84.3									
+51	Virginia	TOPRAMEZONE	2014	kg	323.7									
+51	Virginia	TOPRAMEZONE	2015	kg	296.5									
+51	Virginia	TOPRAMEZONE	2016	kg	232.7									
+51	Virginia	TOPRAMEZONE	2017	kg	593.3									
+53	Washington	TOPRAMEZONE	2006	kg					116.3					
+53	Washington	TOPRAMEZONE	2007	kg	179.5				338					
+53	Washington	TOPRAMEZONE	2008	kg					350.9					
+53	Washington	TOPRAMEZONE	2009	kg					552.3					
+53	Washington	TOPRAMEZONE	2010	kg	6.3				439.6					
+53	Washington	TOPRAMEZONE	2011	kg					424.6					
+53	Washington	TOPRAMEZONE	2012	kg	748.8				557.6					
+53	Washington	TOPRAMEZONE	2013	kg	203.9				459.8					
+53	Washington	TOPRAMEZONE	2014	kg					294.7					
+53	Washington	TOPRAMEZONE	2015	kg	1302.3				518.3					
+53	Washington	TOPRAMEZONE	2016	kg	100.4				359.1					
+53	Washington	TOPRAMEZONE	2017	kg	529.5				238.9					
+54	West Virginia	TOPRAMEZONE	2007	kg					1.5					
+54	West Virginia	TOPRAMEZONE	2008	kg	9.8				0					
+54	West Virginia	TOPRAMEZONE	2009	kg					0.1					
+54	West Virginia	TOPRAMEZONE	2010	kg					2.2					
+54	West Virginia	TOPRAMEZONE	2011	kg	9.4				2.7					
+54	West Virginia	TOPRAMEZONE	2012	kg					0					
+54	West Virginia	TOPRAMEZONE	2013	kg	4.2				2.5					
+54	West Virginia	TOPRAMEZONE	2014	kg	26				0					
+54	West Virginia	TOPRAMEZONE	2015	kg	9.4				0					
+54	West Virginia	TOPRAMEZONE	2016	kg	14									
+54	West Virginia	TOPRAMEZONE	2017	kg	6.5									
+55	Wisconsin	TOPRAMEZONE	2006	kg	208.3				11.1					
+55	Wisconsin	TOPRAMEZONE	2007	kg	359.7				15.7					
+55	Wisconsin	TOPRAMEZONE	2008	kg	431.1				23.1					
+55	Wisconsin	TOPRAMEZONE	2009	kg	316.7				30.4					
+55	Wisconsin	TOPRAMEZONE	2010	kg	347.9				53.4					
+55	Wisconsin	TOPRAMEZONE	2011	kg	419.1				33.7					
+55	Wisconsin	TOPRAMEZONE	2012	kg	974				71					
+55	Wisconsin	TOPRAMEZONE	2013	kg	535.4				46.4					
+55	Wisconsin	TOPRAMEZONE	2014	kg	692.3				52.2					
+55	Wisconsin	TOPRAMEZONE	2015	kg	1047.3				8.5					
+55	Wisconsin	TOPRAMEZONE	2016	kg	1888.9				48.9					
+55	Wisconsin	TOPRAMEZONE	2017	kg	880.6				17.3					
+56	Wyoming	TOPRAMEZONE	2007	kg	3.4									
+56	Wyoming	TOPRAMEZONE	2008	kg	8.3									
+56	Wyoming	TOPRAMEZONE	2009	kg	8.1									
+56	Wyoming	TOPRAMEZONE	2010	kg	20.8									
+56	Wyoming	TOPRAMEZONE	2011	kg	19									
+56	Wyoming	TOPRAMEZONE	2012	kg	7.5									
+56	Wyoming	TOPRAMEZONE	2013	kg	9.4									
+56	Wyoming	TOPRAMEZONE	2014	kg	10.1									
+56	Wyoming	TOPRAMEZONE	2015	kg	19.8									
+56	Wyoming	TOPRAMEZONE	2016	kg	28.8									
+56	Wyoming	TOPRAMEZONE	2017	kg	56.1									

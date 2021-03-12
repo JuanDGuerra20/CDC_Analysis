@@ -1,0 +1,986 @@
+01	Alabama	FLUMETSULAM	1994	kg	412.2	1198.5							5.4	
+01	Alabama	FLUMETSULAM	1995	kg	314.8	211.5			1					
+01	Alabama	FLUMETSULAM	1996	kg	170.3	2045							30.3	
+01	Alabama	FLUMETSULAM	1997	kg	262.8	2092								
+01	Alabama	FLUMETSULAM	1998	kg	557.1	940.6								
+01	Alabama	FLUMETSULAM	1999	kg	149.7	114								
+01	Alabama	FLUMETSULAM	2000	kg	324	1204.1								
+01	Alabama	FLUMETSULAM	2001	kg	354.6	403.3								
+01	Alabama	FLUMETSULAM	2002	kg	128.8	29.7								
+01	Alabama	FLUMETSULAM	2003	kg	85.9	92.9								
+01	Alabama	FLUMETSULAM	2004	kg	104.1									
+01	Alabama	FLUMETSULAM	2005	kg	188.1	228.7								
+01	Alabama	FLUMETSULAM	2006	kg	406.8									
+01	Alabama	FLUMETSULAM	2007	kg	574.7									
+01	Alabama	FLUMETSULAM	2008	kg	23.9									
+01	Alabama	FLUMETSULAM	2009	kg	87.5	41								
+01	Alabama	FLUMETSULAM	2010	kg	91.2	6188								
+01	Alabama	FLUMETSULAM	2011	kg	245.1									
+01	Alabama	FLUMETSULAM	2012	kg	109.1	96.2								
+01	Alabama	FLUMETSULAM	2013	kg	72.9									
+01	Alabama	FLUMETSULAM	2014	kg	117.4	538.4								
+01	Alabama	FLUMETSULAM	2015	kg	100.5	623.8								
+01	Alabama	FLUMETSULAM	2016	kg	34.1	2129.6								
+01	Alabama	FLUMETSULAM	2017	kg	47.7	695								
+04	Arizona	FLUMETSULAM	1998	kg	121.6									
+04	Arizona	FLUMETSULAM	1999	kg	36.1									
+04	Arizona	FLUMETSULAM	2001	kg	143.8									
+04	Arizona	FLUMETSULAM	2003	kg	0.6									
+04	Arizona	FLUMETSULAM	2004	kg	11.7									
+05	Arkansas	FLUMETSULAM	1993	kg		2.6								
+05	Arkansas	FLUMETSULAM	1994	kg	94	458.1								
+05	Arkansas	FLUMETSULAM	1995	kg	43.2	3759.2		122.1					7.1	
+05	Arkansas	FLUMETSULAM	1996	kg	29.6	5459.5		6.1						
+05	Arkansas	FLUMETSULAM	1997	kg	44.7	1637							1.4	
+05	Arkansas	FLUMETSULAM	1998	kg	116.7	5756.2								
+05	Arkansas	FLUMETSULAM	1999	kg	153.2	8605.6								
+05	Arkansas	FLUMETSULAM	2000	kg	2371.9	3822.1								
+05	Arkansas	FLUMETSULAM	2001	kg	124.8	1385								
+05	Arkansas	FLUMETSULAM	2002	kg	576.6	238.5								
+05	Arkansas	FLUMETSULAM	2003	kg	100.1	1795.3								
+05	Arkansas	FLUMETSULAM	2004	kg	124.6	898.3								
+05	Arkansas	FLUMETSULAM	2005	kg	108.2	280.2								
+05	Arkansas	FLUMETSULAM	2006	kg	0.6	928.5								
+05	Arkansas	FLUMETSULAM	2007	kg	314.6	214.8								
+05	Arkansas	FLUMETSULAM	2008	kg		1536.3								
+05	Arkansas	FLUMETSULAM	2009	kg		3755.5								
+05	Arkansas	FLUMETSULAM	2010	kg	220.5	4009.1								
+05	Arkansas	FLUMETSULAM	2011	kg		399.9								
+05	Arkansas	FLUMETSULAM	2012	kg	181.9	459.6								
+05	Arkansas	FLUMETSULAM	2013	kg	498.7	360.5								
+05	Arkansas	FLUMETSULAM	2014	kg		890.2								
+05	Arkansas	FLUMETSULAM	2015	kg		14097.3								
+05	Arkansas	FLUMETSULAM	2016	kg	618	1176								
+05	Arkansas	FLUMETSULAM	2017	kg	1703.4	620.4								
+08	Colorado	FLUMETSULAM	1994	kg	309.2	6.6								
+08	Colorado	FLUMETSULAM	1995	kg	527.1	10.1								
+08	Colorado	FLUMETSULAM	1996	kg	563.8	3.8								
+08	Colorado	FLUMETSULAM	1997	kg	135.3	14.6								
+08	Colorado	FLUMETSULAM	1998	kg	682.9	4.2								
+08	Colorado	FLUMETSULAM	1999	kg	332.7	3.3								
+08	Colorado	FLUMETSULAM	2000	kg	892.1	2.2								
+08	Colorado	FLUMETSULAM	2001	kg	266.8	1.5								
+08	Colorado	FLUMETSULAM	2002	kg	517.3	2.1								
+08	Colorado	FLUMETSULAM	2003	kg	97.8	3.6								
+08	Colorado	FLUMETSULAM	2004	kg	658.8									
+08	Colorado	FLUMETSULAM	2005	kg	297	2.5								
+08	Colorado	FLUMETSULAM	2006	kg	785.2									
+08	Colorado	FLUMETSULAM	2007	kg	197.2									
+08	Colorado	FLUMETSULAM	2008	kg	234.7									
+08	Colorado	FLUMETSULAM	2009	kg	579.5									
+08	Colorado	FLUMETSULAM	2010	kg	653.3									
+08	Colorado	FLUMETSULAM	2011	kg	1003									
+08	Colorado	FLUMETSULAM	2012	kg	316.4									
+08	Colorado	FLUMETSULAM	2013	kg	1064.8									
+08	Colorado	FLUMETSULAM	2014	kg	1368.9									
+08	Colorado	FLUMETSULAM	2015	kg	1916.8									
+08	Colorado	FLUMETSULAM	2016	kg	4290.5									
+08	Colorado	FLUMETSULAM	2017	kg	613.2									
+09	Connecticut	FLUMETSULAM	1994	kg	164.2									
+09	Connecticut	FLUMETSULAM	1995	kg	685.3									
+09	Connecticut	FLUMETSULAM	1996	kg	294.3									
+09	Connecticut	FLUMETSULAM	1997	kg	137.9									
+09	Connecticut	FLUMETSULAM	1998	kg	25.4									
+09	Connecticut	FLUMETSULAM	1999	kg	64.8									
+09	Connecticut	FLUMETSULAM	2000	kg	46.2									
+09	Connecticut	FLUMETSULAM	2001	kg	117.3									
+09	Connecticut	FLUMETSULAM	2002	kg	246									
+09	Connecticut	FLUMETSULAM	2003	kg	179									
+09	Connecticut	FLUMETSULAM	2004	kg	97.6									
+09	Connecticut	FLUMETSULAM	2005	kg	14.8									
+09	Connecticut	FLUMETSULAM	2006	kg	7.6									
+09	Connecticut	FLUMETSULAM	2007	kg	11.6									
+09	Connecticut	FLUMETSULAM	2008	kg	22.5									
+09	Connecticut	FLUMETSULAM	2009	kg	40.6									
+09	Connecticut	FLUMETSULAM	2010	kg	42									
+09	Connecticut	FLUMETSULAM	2011	kg	46.7									
+09	Connecticut	FLUMETSULAM	2012	kg	39.3									
+09	Connecticut	FLUMETSULAM	2014	kg	11.6									
+09	Connecticut	FLUMETSULAM	2016	kg	14.4									
+10	Delaware	FLUMETSULAM	1994	kg	230.3	227.4								
+10	Delaware	FLUMETSULAM	1995	kg	237.5	449.4								
+10	Delaware	FLUMETSULAM	1996	kg	92	526.4								
+10	Delaware	FLUMETSULAM	1997	kg	79.1	378.7								
+10	Delaware	FLUMETSULAM	1998	kg	79.6	547.6								
+10	Delaware	FLUMETSULAM	1999	kg	106.9	234.1								
+10	Delaware	FLUMETSULAM	2000	kg	413.4	938.5								
+10	Delaware	FLUMETSULAM	2001	kg	21.1	186.5								
+10	Delaware	FLUMETSULAM	2002	kg	138.4	49.7								
+10	Delaware	FLUMETSULAM	2003	kg	60.1	40.9								
+10	Delaware	FLUMETSULAM	2004	kg	205.9									
+10	Delaware	FLUMETSULAM	2005	kg	12.6	275.2								
+10	Delaware	FLUMETSULAM	2006	kg	380.3									
+10	Delaware	FLUMETSULAM	2007	kg	32.8									
+10	Delaware	FLUMETSULAM	2011	kg	43.8									
+10	Delaware	FLUMETSULAM	2015	kg		208.7								
+10	Delaware	FLUMETSULAM	2016	kg		611.3								
+10	Delaware	FLUMETSULAM	2017	kg		505.9								
+12	Florida	FLUMETSULAM	1994	kg		75								
+12	Florida	FLUMETSULAM	1995	kg		17.9								
+12	Florida	FLUMETSULAM	1996	kg		143.8								
+12	Florida	FLUMETSULAM	1997	kg		657.6								
+12	Florida	FLUMETSULAM	1998	kg	46.5	52.5								
+12	Florida	FLUMETSULAM	2000	kg		23.8								
+12	Florida	FLUMETSULAM	2001	kg	57.3	145.3								
+12	Florida	FLUMETSULAM	2004	kg	2.2									
+12	Florida	FLUMETSULAM	2006	kg	28.9									
+12	Florida	FLUMETSULAM	2007	kg	74									
+13	Georgia	FLUMETSULAM	1994	kg	1067.4	701.3								
+13	Georgia	FLUMETSULAM	1995	kg	605.2	384.9								
+13	Georgia	FLUMETSULAM	1996	kg	371.6	1019.7							7.8	
+13	Georgia	FLUMETSULAM	1997	kg	249.6	667.4								
+13	Georgia	FLUMETSULAM	1998	kg	547.5	1333.5								
+13	Georgia	FLUMETSULAM	1999	kg	179.2	42.9								
+13	Georgia	FLUMETSULAM	2000	kg	1267.5	880								
+13	Georgia	FLUMETSULAM	2001	kg	360	274.6								
+13	Georgia	FLUMETSULAM	2002	kg	247.1	38.6								
+13	Georgia	FLUMETSULAM	2003	kg	340.8	38								
+13	Georgia	FLUMETSULAM	2004	kg	100.7									
+13	Georgia	FLUMETSULAM	2005	kg	113.7	251.2								
+13	Georgia	FLUMETSULAM	2006	kg	1643.4									
+13	Georgia	FLUMETSULAM	2007	kg	1526.6									
+13	Georgia	FLUMETSULAM	2008	kg	4.4									
+13	Georgia	FLUMETSULAM	2009	kg	19.2									
+13	Georgia	FLUMETSULAM	2010	kg	47									
+13	Georgia	FLUMETSULAM	2011	kg	69									
+13	Georgia	FLUMETSULAM	2012	kg	35.4									
+13	Georgia	FLUMETSULAM	2013	kg	19									
+13	Georgia	FLUMETSULAM	2014	kg	22.8									
+13	Georgia	FLUMETSULAM	2015	kg	20.7	266.5								
+13	Georgia	FLUMETSULAM	2016	kg	5.7	695.5								
+13	Georgia	FLUMETSULAM	2017	kg	7	381.5								
+16	Idaho	FLUMETSULAM	2002	kg	668.3									
+16	Idaho	FLUMETSULAM	2003	kg	37.8									
+16	Idaho	FLUMETSULAM	2004	kg	625.7									
+16	Idaho	FLUMETSULAM	2005	kg	5.2									
+16	Idaho	FLUMETSULAM	2007	kg	51.2									
+17	Illinois	FLUMETSULAM	1994	kg	3301	1690.8								
+17	Illinois	FLUMETSULAM	1995	kg	1956	7090.2							6.8	
+17	Illinois	FLUMETSULAM	1996	kg	6094.6	8347.4							14.1	
+17	Illinois	FLUMETSULAM	1997	kg	8450.3	8253.5								
+17	Illinois	FLUMETSULAM	1998	kg	13895.1	12781.2								
+17	Illinois	FLUMETSULAM	1999	kg	11199.5	9077								
+17	Illinois	FLUMETSULAM	2000	kg	12997.3	2735.3			192.6					
+17	Illinois	FLUMETSULAM	2001	kg	10156.3	2785.7								
+17	Illinois	FLUMETSULAM	2002	kg	13790.5	1889.8								
+17	Illinois	FLUMETSULAM	2003	kg	12237.9	1194.8			2.5					
+17	Illinois	FLUMETSULAM	2004	kg	9246	4785.2			3.8					
+17	Illinois	FLUMETSULAM	2005	kg	9647.5	1676.1			24.2					
+17	Illinois	FLUMETSULAM	2006	kg	5445.4	2007.1			1.2					
+17	Illinois	FLUMETSULAM	2007	kg	4189.9	2636.4			1.5					
+17	Illinois	FLUMETSULAM	2008	kg	3932	2779.7			8.1					
+17	Illinois	FLUMETSULAM	2009	kg	7914.5	4408.9			0.2					
+17	Illinois	FLUMETSULAM	2010	kg	7613.5	2504.7								
+17	Illinois	FLUMETSULAM	2011	kg	11172.9	1753.9			12.2					
+17	Illinois	FLUMETSULAM	2012	kg	10725	2544.8								
+17	Illinois	FLUMETSULAM	2013	kg	13546.4	2022.7			0					
+17	Illinois	FLUMETSULAM	2014	kg	12822.4									
+17	Illinois	FLUMETSULAM	2015	kg	14418	6432.2								
+17	Illinois	FLUMETSULAM	2016	kg	9156	624.6			2.9					
+17	Illinois	FLUMETSULAM	2017	kg	9842.3	2968.9								
+18	Indiana	FLUMETSULAM	1994	kg	2040.4	3023.4								
+18	Indiana	FLUMETSULAM	1995	kg	2547.7	6538.9								
+18	Indiana	FLUMETSULAM	1996	kg	1487.8	9590.1								
+18	Indiana	FLUMETSULAM	1997	kg	3851	5956.3								
+18	Indiana	FLUMETSULAM	1998	kg	5262.9	4958.3								
+18	Indiana	FLUMETSULAM	1999	kg	6970.3	3731								
+18	Indiana	FLUMETSULAM	2000	kg	8159.5	2086.6								
+18	Indiana	FLUMETSULAM	2001	kg	9163.5	3507.1								
+18	Indiana	FLUMETSULAM	2002	kg	7519.1	906.4								
+18	Indiana	FLUMETSULAM	2003	kg	3512.5	1509.1			0.1					
+18	Indiana	FLUMETSULAM	2004	kg	6208.2	1968.8			0					
+18	Indiana	FLUMETSULAM	2005	kg	5259.5	1486.1			0					
+18	Indiana	FLUMETSULAM	2006	kg	5379.2	1387.5			0					
+18	Indiana	FLUMETSULAM	2007	kg	7648.3	2147.5			0					
+18	Indiana	FLUMETSULAM	2008	kg	5816.4	1727.8			0					
+18	Indiana	FLUMETSULAM	2009	kg	9917.3	2356.7								
+18	Indiana	FLUMETSULAM	2010	kg	10687.3	1475.1								
+18	Indiana	FLUMETSULAM	2011	kg	10504.1	1044.9			0.9					
+18	Indiana	FLUMETSULAM	2012	kg	13482.8	2165.5								
+18	Indiana	FLUMETSULAM	2013	kg	12744.3	1110.4			0					
+18	Indiana	FLUMETSULAM	2014	kg	12101.5									
+18	Indiana	FLUMETSULAM	2015	kg	10514.8	4127.5								
+18	Indiana	FLUMETSULAM	2016	kg	9038	36.5								
+18	Indiana	FLUMETSULAM	2017	kg	8580.3	450.4								
+19	Iowa	FLUMETSULAM	1994	kg	14598.2	8586.4							49.6	
+19	Iowa	FLUMETSULAM	1995	kg	1422.4	5846.6								
+19	Iowa	FLUMETSULAM	1996	kg	3390.9	10695.3							9.8	
+19	Iowa	FLUMETSULAM	1997	kg	5986	18111.2								
+19	Iowa	FLUMETSULAM	1998	kg	17758	5587.5								
+19	Iowa	FLUMETSULAM	1999	kg	20187.2	6337.5								
+19	Iowa	FLUMETSULAM	2000	kg	22391	4012								
+19	Iowa	FLUMETSULAM	2001	kg	28011.9	3333								
+19	Iowa	FLUMETSULAM	2002	kg	25234.9	3020.8								
+19	Iowa	FLUMETSULAM	2003	kg	17688.9	1469.5			1.1					
+19	Iowa	FLUMETSULAM	2004	kg	20276	4259.4			0.6					
+19	Iowa	FLUMETSULAM	2005	kg	12686.1	2652.7			0.3					
+19	Iowa	FLUMETSULAM	2006	kg	13023.3	3055.9			0.4					
+19	Iowa	FLUMETSULAM	2007	kg	11617	3967.2			0.5					
+19	Iowa	FLUMETSULAM	2008	kg	13572.8	3020.8			0					
+19	Iowa	FLUMETSULAM	2009	kg	7938.5	2410.9								
+19	Iowa	FLUMETSULAM	2010	kg	12521.1	2587.7								
+19	Iowa	FLUMETSULAM	2011	kg	21806.1	1458.7			0.4					
+19	Iowa	FLUMETSULAM	2012	kg	31053.2	4061.4								
+19	Iowa	FLUMETSULAM	2013	kg	34818.6	3108.5			0					
+19	Iowa	FLUMETSULAM	2014	kg	31009.9	380.6								
+19	Iowa	FLUMETSULAM	2015	kg	40223.8	7156.6			4.8					
+19	Iowa	FLUMETSULAM	2016	kg	39916.5									
+19	Iowa	FLUMETSULAM	2017	kg	38012.7	650.5								
+20	Kansas	FLUMETSULAM	1994	kg	2149.2	3378.9								
+20	Kansas	FLUMETSULAM	1995	kg	1162.8	1102.9								
+20	Kansas	FLUMETSULAM	1996	kg	1223.1	1072.2								
+20	Kansas	FLUMETSULAM	1997	kg	2311.1	2156.8								
+20	Kansas	FLUMETSULAM	1998	kg	605.7	3689.1								
+20	Kansas	FLUMETSULAM	1999	kg	1034.5	2359.5								
+20	Kansas	FLUMETSULAM	2000	kg	4556	1283.6								
+20	Kansas	FLUMETSULAM	2001	kg	2475.6	634								
+20	Kansas	FLUMETSULAM	2002	kg	1143.9	1197.6								
+20	Kansas	FLUMETSULAM	2003	kg	751.5	2640.3								
+20	Kansas	FLUMETSULAM	2004	kg	2038.9									
+20	Kansas	FLUMETSULAM	2005	kg	2495.8	5153.1								
+20	Kansas	FLUMETSULAM	2006	kg	981.4	128.9								
+20	Kansas	FLUMETSULAM	2007	kg	2664.4									
+20	Kansas	FLUMETSULAM	2008	kg	1241.1	1483.5								
+20	Kansas	FLUMETSULAM	2009	kg	1809.2									
+20	Kansas	FLUMETSULAM	2010	kg	17200.4	967								
+20	Kansas	FLUMETSULAM	2011	kg	3626									
+20	Kansas	FLUMETSULAM	2012	kg	12487.8									
+20	Kansas	FLUMETSULAM	2013	kg	2250.1									
+20	Kansas	FLUMETSULAM	2014	kg	8976.4	1575.9								
+20	Kansas	FLUMETSULAM	2015	kg	6175.5									
+20	Kansas	FLUMETSULAM	2016	kg	6373.7									
+20	Kansas	FLUMETSULAM	2017	kg	7110.2									
+21	Kentucky	FLUMETSULAM	1993	kg		0								
+21	Kentucky	FLUMETSULAM	1994	kg	216.6	1373.4			0.1					
+21	Kentucky	FLUMETSULAM	1995	kg	994.9	847.9			2.8		0.1		5.2	
+21	Kentucky	FLUMETSULAM	1996	kg	915.4	1729.4							56.7	
+21	Kentucky	FLUMETSULAM	1997	kg	540.6	3263.1								
+21	Kentucky	FLUMETSULAM	1998	kg	1406.6	946.2								
+21	Kentucky	FLUMETSULAM	1999	kg	461.7	1243.2								
+21	Kentucky	FLUMETSULAM	2000	kg	1194.1	420.7								
+21	Kentucky	FLUMETSULAM	2001	kg	223.5	585.6								
+21	Kentucky	FLUMETSULAM	2002	kg	174	329.8								
+21	Kentucky	FLUMETSULAM	2003	kg	533.1	55.3								
+21	Kentucky	FLUMETSULAM	2004	kg	794.1	552.8								
+21	Kentucky	FLUMETSULAM	2005	kg	377.5	587.7								
+21	Kentucky	FLUMETSULAM	2006	kg	1710	379.6								
+21	Kentucky	FLUMETSULAM	2007	kg	127.3	284								
+21	Kentucky	FLUMETSULAM	2008	kg	526	1200.2								
+21	Kentucky	FLUMETSULAM	2009	kg	1819.9	431								
+21	Kentucky	FLUMETSULAM	2010	kg	2001.3	284.1								
+21	Kentucky	FLUMETSULAM	2011	kg	2919.1	207.8								
+21	Kentucky	FLUMETSULAM	2012	kg	1788.9	310.9								
+21	Kentucky	FLUMETSULAM	2013	kg	1494.1	236.4								
+21	Kentucky	FLUMETSULAM	2014	kg	1206.6									
+21	Kentucky	FLUMETSULAM	2015	kg	721.2	859.4								
+21	Kentucky	FLUMETSULAM	2016	kg	1103.6	181.3								
+21	Kentucky	FLUMETSULAM	2017	kg	694.2									
+22	Louisiana	FLUMETSULAM	1994	kg	202	358.4								
+22	Louisiana	FLUMETSULAM	1995	kg	87.6	429.7								
+22	Louisiana	FLUMETSULAM	1996	kg	54.1	672.5								
+22	Louisiana	FLUMETSULAM	1997	kg	123	909								
+22	Louisiana	FLUMETSULAM	1998	kg	1170.7	130.2								
+22	Louisiana	FLUMETSULAM	1999	kg	228.4	120.9								
+22	Louisiana	FLUMETSULAM	2000	kg	279.1	772.5								
+22	Louisiana	FLUMETSULAM	2001	kg	16.6	4025.8								
+22	Louisiana	FLUMETSULAM	2002	kg	39.5	90.5								
+22	Louisiana	FLUMETSULAM	2003	kg	499.7	62.1								
+22	Louisiana	FLUMETSULAM	2004	kg	96.4	303.1								
+22	Louisiana	FLUMETSULAM	2005	kg	147.2									
+22	Louisiana	FLUMETSULAM	2007	kg	26.2									
+22	Louisiana	FLUMETSULAM	2008	kg		1138.2								
+22	Louisiana	FLUMETSULAM	2009	kg		747.2								
+22	Louisiana	FLUMETSULAM	2010	kg	299.8	499.1								
+22	Louisiana	FLUMETSULAM	2011	kg		76.9								
+22	Louisiana	FLUMETSULAM	2012	kg		156								
+22	Louisiana	FLUMETSULAM	2013	kg	424.2	1981.2								
+22	Louisiana	FLUMETSULAM	2014	kg		1733.4								
+22	Louisiana	FLUMETSULAM	2015	kg		430.1								
+22	Louisiana	FLUMETSULAM	2016	kg	254.7	766.9								
+22	Louisiana	FLUMETSULAM	2017	kg	473.9	210.7								
+23	Maine	FLUMETSULAM	1994	kg	48									
+23	Maine	FLUMETSULAM	1995	kg	15.6									
+23	Maine	FLUMETSULAM	1996	kg	160									
+23	Maine	FLUMETSULAM	1997	kg	223.8									
+23	Maine	FLUMETSULAM	1998	kg	148.5									
+23	Maine	FLUMETSULAM	1999	kg	642.7									
+23	Maine	FLUMETSULAM	2000	kg	41.9									
+23	Maine	FLUMETSULAM	2001	kg	101.4									
+23	Maine	FLUMETSULAM	2002	kg	63									
+23	Maine	FLUMETSULAM	2003	kg	73.1									
+23	Maine	FLUMETSULAM	2004	kg	63.9									
+23	Maine	FLUMETSULAM	2005	kg	13.6									
+23	Maine	FLUMETSULAM	2006	kg	7									
+23	Maine	FLUMETSULAM	2007	kg	11									
+23	Maine	FLUMETSULAM	2008	kg	22									
+23	Maine	FLUMETSULAM	2009	kg	40.2									
+23	Maine	FLUMETSULAM	2010	kg	42.7									
+23	Maine	FLUMETSULAM	2011	kg	48.3									
+23	Maine	FLUMETSULAM	2012	kg	40.9									
+23	Maine	FLUMETSULAM	2014	kg	12.8									
+23	Maine	FLUMETSULAM	2016	kg	17.3									
+24	Maryland	FLUMETSULAM	1993	kg	25.2									
+24	Maryland	FLUMETSULAM	1994	kg	1100.9	1273.9								1.5
+24	Maryland	FLUMETSULAM	1995	kg	2037	841.9								
+24	Maryland	FLUMETSULAM	1996	kg	828.5	1388.5								
+24	Maryland	FLUMETSULAM	1997	kg	221.5	893.6								
+24	Maryland	FLUMETSULAM	1998	kg	324.7	685.9								
+24	Maryland	FLUMETSULAM	1999	kg	818.1	1094.8								
+24	Maryland	FLUMETSULAM	2000	kg	781.3	781.5								
+24	Maryland	FLUMETSULAM	2001	kg	338.2	478.2								
+24	Maryland	FLUMETSULAM	2002	kg	714.2	101.6								
+24	Maryland	FLUMETSULAM	2003	kg	177.3	618.3								
+24	Maryland	FLUMETSULAM	2004	kg	538.3									
+24	Maryland	FLUMETSULAM	2005	kg	128.4	525.2								
+24	Maryland	FLUMETSULAM	2006	kg	474.9									
+24	Maryland	FLUMETSULAM	2007	kg	272.6									
+24	Maryland	FLUMETSULAM	2008	kg	125.3									
+24	Maryland	FLUMETSULAM	2009	kg	228.4									
+24	Maryland	FLUMETSULAM	2010	kg	247.5									
+24	Maryland	FLUMETSULAM	2011	kg	1615									
+24	Maryland	FLUMETSULAM	2012	kg	1017.5									
+24	Maryland	FLUMETSULAM	2013	kg	4.8									
+24	Maryland	FLUMETSULAM	2014	kg	249.2									
+24	Maryland	FLUMETSULAM	2015	kg	11.4	466.7								
+24	Maryland	FLUMETSULAM	2016	kg	78.6	1436.6								
+24	Maryland	FLUMETSULAM	2017	kg	7.1	1058.3								
+25	Massachusetts	FLUMETSULAM	1994	kg	123.1	3.3								
+25	Massachusetts	FLUMETSULAM	1995	kg	16.3	2.8								
+25	Massachusetts	FLUMETSULAM	1996	kg	103.3	4								
+25	Massachusetts	FLUMETSULAM	1997	kg	28.7	1.1								
+25	Massachusetts	FLUMETSULAM	1998	kg	33.7	0.1								
+25	Massachusetts	FLUMETSULAM	1999	kg	6.8	0.2								
+25	Massachusetts	FLUMETSULAM	2000	kg	96.5	0.1								
+25	Massachusetts	FLUMETSULAM	2001	kg	8.1									
+25	Massachusetts	FLUMETSULAM	2002	kg	172.8									
+25	Massachusetts	FLUMETSULAM	2003	kg	128.9									
+25	Massachusetts	FLUMETSULAM	2004	kg	50.7									
+25	Massachusetts	FLUMETSULAM	2005	kg	9.1									
+25	Massachusetts	FLUMETSULAM	2006	kg	6.8									
+25	Massachusetts	FLUMETSULAM	2007	kg	12.8									
+25	Massachusetts	FLUMETSULAM	2008	kg	13.2									
+25	Massachusetts	FLUMETSULAM	2009	kg	22.6									
+25	Massachusetts	FLUMETSULAM	2010	kg	35.8									
+25	Massachusetts	FLUMETSULAM	2011	kg	12.9									
+25	Massachusetts	FLUMETSULAM	2012	kg	20.6									
+25	Massachusetts	FLUMETSULAM	2014	kg	6.3									
+25	Massachusetts	FLUMETSULAM	2016	kg	8.6									
+26	Michigan	FLUMETSULAM	1994	kg	2632.1	1204.1								
+26	Michigan	FLUMETSULAM	1995	kg	2038.3	2187.7			295.7					
+26	Michigan	FLUMETSULAM	1996	kg	4170.7	5204.5								296.1
+26	Michigan	FLUMETSULAM	1997	kg	6088.4	5275.2								
+26	Michigan	FLUMETSULAM	1998	kg	6215.9	3692.9								
+26	Michigan	FLUMETSULAM	1999	kg	5836.7	964.8								
+26	Michigan	FLUMETSULAM	2000	kg	6859.3	3300.8			4.6				1.2	
+26	Michigan	FLUMETSULAM	2001	kg	6404.5	2113.7								
+26	Michigan	FLUMETSULAM	2002	kg	3918.8	1341			126.4					
+26	Michigan	FLUMETSULAM	2003	kg	5757.2	710.5			0.7					
+26	Michigan	FLUMETSULAM	2004	kg	4732.8	1126.1			1.5					
+26	Michigan	FLUMETSULAM	2005	kg	3072.4	680.5			22.6					
+26	Michigan	FLUMETSULAM	2006	kg	3485.4	646			0					
+26	Michigan	FLUMETSULAM	2007	kg	3713.3	1651.1			0					
+26	Michigan	FLUMETSULAM	2008	kg	8922.6	570.7			0.2					
+26	Michigan	FLUMETSULAM	2009	kg	3185.3				0.3					
+26	Michigan	FLUMETSULAM	2010	kg	3821.5									
+26	Michigan	FLUMETSULAM	2011	kg	3823.5				6.4					
+26	Michigan	FLUMETSULAM	2012	kg	3442.4									
+26	Michigan	FLUMETSULAM	2013	kg	3607.5				0.5					
+26	Michigan	FLUMETSULAM	2014	kg	3439.5									
+26	Michigan	FLUMETSULAM	2015	kg	8005.6									
+26	Michigan	FLUMETSULAM	2016	kg	3315.3	0.9								
+26	Michigan	FLUMETSULAM	2017	kg	4285.1	2.5								
+27	Minnesota	FLUMETSULAM	1994	kg	223.6	4807.6			123.2					
+27	Minnesota	FLUMETSULAM	1995	kg	1378.6	1400.3								
+27	Minnesota	FLUMETSULAM	1996	kg	2229.9	2249.1	441.4							
+27	Minnesota	FLUMETSULAM	1997	kg	7831.9	2980.6								
+27	Minnesota	FLUMETSULAM	1998	kg	23949	8239.9								
+27	Minnesota	FLUMETSULAM	1999	kg	27951	6846.3								
+27	Minnesota	FLUMETSULAM	2000	kg	23270.9	2736.2			21.4					
+27	Minnesota	FLUMETSULAM	2001	kg	23373.4	1256.9								
+27	Minnesota	FLUMETSULAM	2002	kg	16989.6	1938.9								
+27	Minnesota	FLUMETSULAM	2003	kg	18948.8	1908.6			38.2					
+27	Minnesota	FLUMETSULAM	2004	kg	13292.7	2620.4			31.8					
+27	Minnesota	FLUMETSULAM	2005	kg	11000.1	1261.2			9.9					7.8
+27	Minnesota	FLUMETSULAM	2006	kg	4602.1	1567.3			17.2					
+27	Minnesota	FLUMETSULAM	2007	kg	3664.8	1881.1			10.5					
+27	Minnesota	FLUMETSULAM	2008	kg	4539.1	2180.1			10.3					
+27	Minnesota	FLUMETSULAM	2009	kg	6266.4	2152.8			0.3					
+27	Minnesota	FLUMETSULAM	2010	kg	7471.4	374.2								
+27	Minnesota	FLUMETSULAM	2011	kg	16755.6	1215.6			237.8					
+27	Minnesota	FLUMETSULAM	2012	kg	23178.3	1529.5								
+27	Minnesota	FLUMETSULAM	2013	kg	34498.8	902.3			2.6					
+27	Minnesota	FLUMETSULAM	2014	kg	36520									
+27	Minnesota	FLUMETSULAM	2015	kg	38806.9	3535			460.7					
+27	Minnesota	FLUMETSULAM	2016	kg	45724.9				12.2					
+27	Minnesota	FLUMETSULAM	2017	kg	31852.7	298.7								
+28	Mississippi	FLUMETSULAM	1993	kg		0								
+28	Mississippi	FLUMETSULAM	1994	kg	239.3	2221.8							6.8	
+28	Mississippi	FLUMETSULAM	1995	kg	147.7	2870		560.9	26.1					
+28	Mississippi	FLUMETSULAM	1996	kg	102.3	3662								
+28	Mississippi	FLUMETSULAM	1997	kg	93.6	4147.3							0.4	
+28	Mississippi	FLUMETSULAM	1998	kg	852.7	10194.8								
+28	Mississippi	FLUMETSULAM	1999	kg	227.2	3083.3								
+28	Mississippi	FLUMETSULAM	2000	kg	247.2	3174.2								
+28	Mississippi	FLUMETSULAM	2001	kg	70.2	1253.8								
+28	Mississippi	FLUMETSULAM	2002	kg	57.8	346.8								
+28	Mississippi	FLUMETSULAM	2003	kg	367.5	359.1								
+28	Mississippi	FLUMETSULAM	2004	kg	86.5	523.4								
+28	Mississippi	FLUMETSULAM	2005	kg	184.3	89.1								
+28	Mississippi	FLUMETSULAM	2006	kg	41.7									
+28	Mississippi	FLUMETSULAM	2007	kg	32.1	139.2								
+28	Mississippi	FLUMETSULAM	2008	kg		3993.2								
+28	Mississippi	FLUMETSULAM	2009	kg		1570								
+28	Mississippi	FLUMETSULAM	2010	kg	456.8	23921								
+28	Mississippi	FLUMETSULAM	2011	kg		178.2								
+28	Mississippi	FLUMETSULAM	2012	kg		526.6								
+28	Mississippi	FLUMETSULAM	2013	kg	574.1	688.9								
+28	Mississippi	FLUMETSULAM	2014	kg		2634.3								
+28	Mississippi	FLUMETSULAM	2015	kg		4411.7								
+28	Mississippi	FLUMETSULAM	2016	kg	370.9	3961.9								
+28	Mississippi	FLUMETSULAM	2017	kg	1506.1	1393.6								
+29	Missouri	FLUMETSULAM	1993	kg		0.9								
+29	Missouri	FLUMETSULAM	1994	kg	1397.1	4079.3							13.1	
+29	Missouri	FLUMETSULAM	1995	kg	445.4	3757.4							27.2	
+29	Missouri	FLUMETSULAM	1996	kg	2350.1	5714		5.9					3.3	
+29	Missouri	FLUMETSULAM	1997	kg	4370.5	6704.6								
+29	Missouri	FLUMETSULAM	1998	kg	4780.7	4375.6								
+29	Missouri	FLUMETSULAM	1999	kg	2361.3	2214								
+29	Missouri	FLUMETSULAM	2000	kg	2325.5	1262.3								
+29	Missouri	FLUMETSULAM	2001	kg	3782.1	770.1								
+29	Missouri	FLUMETSULAM	2002	kg	4581.5	1173.8								
+29	Missouri	FLUMETSULAM	2003	kg	1710.6	580.4								
+29	Missouri	FLUMETSULAM	2004	kg	1728.7	1456.2								
+29	Missouri	FLUMETSULAM	2005	kg	1614.2	1314.3								
+29	Missouri	FLUMETSULAM	2006	kg	1776.3	1957.2								
+29	Missouri	FLUMETSULAM	2007	kg	7642.5	1535.7								
+29	Missouri	FLUMETSULAM	2008	kg	694.5	4481.7								
+29	Missouri	FLUMETSULAM	2009	kg	1222.3	2683.7								
+29	Missouri	FLUMETSULAM	2010	kg	1575	1346.2								
+29	Missouri	FLUMETSULAM	2011	kg	2257.8	977.5								
+29	Missouri	FLUMETSULAM	2012	kg	3618.2	1753.1								
+29	Missouri	FLUMETSULAM	2013	kg	3705.1	1126.9								
+29	Missouri	FLUMETSULAM	2014	kg	5403.9	2405.5								
+29	Missouri	FLUMETSULAM	2015	kg	3376.8	3521.4								
+29	Missouri	FLUMETSULAM	2016	kg	7244.1	1381.3								
+29	Missouri	FLUMETSULAM	2017	kg	4730									
+30	Montana	FLUMETSULAM	1994	kg	4.8									
+30	Montana	FLUMETSULAM	1995	kg	9.9									
+30	Montana	FLUMETSULAM	1996	kg	16.9									
+30	Montana	FLUMETSULAM	1997	kg	4.9									
+30	Montana	FLUMETSULAM	1998	kg	208									
+30	Montana	FLUMETSULAM	1999	kg	464.1									
+30	Montana	FLUMETSULAM	2000	kg	212.3									
+30	Montana	FLUMETSULAM	2001	kg	30									
+30	Montana	FLUMETSULAM	2002	kg	45.6									
+30	Montana	FLUMETSULAM	2003	kg	2.8									
+30	Montana	FLUMETSULAM	2004	kg	67.5									
+30	Montana	FLUMETSULAM	2005	kg	17.6									
+30	Montana	FLUMETSULAM	2006	kg	4.4									
+30	Montana	FLUMETSULAM	2007	kg	5.1									
+30	Montana	FLUMETSULAM	2008	kg	9.3									
+30	Montana	FLUMETSULAM	2009	kg	21.5									
+30	Montana	FLUMETSULAM	2010	kg	15.7									
+30	Montana	FLUMETSULAM	2011	kg	34.1									
+30	Montana	FLUMETSULAM	2012	kg	33.8									
+30	Montana	FLUMETSULAM	2013	kg	175.4									
+30	Montana	FLUMETSULAM	2014	kg	168.8									
+30	Montana	FLUMETSULAM	2015	kg	128.1									
+30	Montana	FLUMETSULAM	2016	kg	73.9									
+30	Montana	FLUMETSULAM	2017	kg	53.1									
+31	Nebraska	FLUMETSULAM	1994	kg	4409.9	2761.1							24.2	
+31	Nebraska	FLUMETSULAM	1995	kg	3068.7	3211.8								
+31	Nebraska	FLUMETSULAM	1996	kg	2779.3	4686.5								
+31	Nebraska	FLUMETSULAM	1997	kg	2934.7	10823.6								
+31	Nebraska	FLUMETSULAM	1998	kg	9548.7	3341.8								
+31	Nebraska	FLUMETSULAM	1999	kg	7782.4	3622.9								
+31	Nebraska	FLUMETSULAM	2000	kg	13318	5316.5								
+31	Nebraska	FLUMETSULAM	2001	kg	11327.9	3261.5								
+31	Nebraska	FLUMETSULAM	2002	kg	6702.2	1797.1								
+31	Nebraska	FLUMETSULAM	2003	kg	8461.7	804								
+31	Nebraska	FLUMETSULAM	2004	kg	7952.2	1237.2								
+31	Nebraska	FLUMETSULAM	2005	kg	9663.2	787.7								
+31	Nebraska	FLUMETSULAM	2006	kg	2191.9	1343.5								
+31	Nebraska	FLUMETSULAM	2007	kg	2682.8	269.6								
+31	Nebraska	FLUMETSULAM	2008	kg	3910.1	948.1								
+31	Nebraska	FLUMETSULAM	2009	kg	9279.8	117								
+31	Nebraska	FLUMETSULAM	2010	kg	7396.2	979.3								
+31	Nebraska	FLUMETSULAM	2011	kg	15062.9	206								
+31	Nebraska	FLUMETSULAM	2012	kg	12169.4	2043.8								
+31	Nebraska	FLUMETSULAM	2013	kg	13595	768.8								
+31	Nebraska	FLUMETSULAM	2014	kg	9409.3	180.5								
+31	Nebraska	FLUMETSULAM	2015	kg	12257.3	2064.1								
+31	Nebraska	FLUMETSULAM	2016	kg	13004.3									
+31	Nebraska	FLUMETSULAM	2017	kg	12222.9									
+32	Nevada	FLUMETSULAM	1998	kg	0.5									
+32	Nevada	FLUMETSULAM	1999	kg	0.1									
+32	Nevada	FLUMETSULAM	2000	kg	0.5									
+32	Nevada	FLUMETSULAM	2001	kg	0.1									
+32	Nevada	FLUMETSULAM	2002	kg	0.5									
+32	Nevada	FLUMETSULAM	2003	kg	0									
+33	New Hampshire	FLUMETSULAM	1994	kg	103.8									
+33	New Hampshire	FLUMETSULAM	1995	kg	10.8									
+33	New Hampshire	FLUMETSULAM	1996	kg	93.1									
+33	New Hampshire	FLUMETSULAM	1997	kg	13.3									
+33	New Hampshire	FLUMETSULAM	1998	kg	261.4									
+33	New Hampshire	FLUMETSULAM	1999	kg	45.7									
+33	New Hampshire	FLUMETSULAM	2000	kg	122									
+33	New Hampshire	FLUMETSULAM	2001	kg	58									
+33	New Hampshire	FLUMETSULAM	2002	kg	45.8									
+33	New Hampshire	FLUMETSULAM	2003	kg	5.1									
+33	New Hampshire	FLUMETSULAM	2004	kg	33									
+33	New Hampshire	FLUMETSULAM	2005	kg	7.8									
+33	New Hampshire	FLUMETSULAM	2006	kg	3.8									
+33	New Hampshire	FLUMETSULAM	2007	kg	6.1									
+33	New Hampshire	FLUMETSULAM	2008	kg	10.3									
+33	New Hampshire	FLUMETSULAM	2009	kg	17.8									
+33	New Hampshire	FLUMETSULAM	2010	kg	18.4									
+33	New Hampshire	FLUMETSULAM	2011	kg	19.9									
+33	New Hampshire	FLUMETSULAM	2012	kg	16.7									
+33	New Hampshire	FLUMETSULAM	2014	kg	5									
+33	New Hampshire	FLUMETSULAM	2016	kg	6.2									
+34	New Jersey	FLUMETSULAM	1994	kg	76.5	51.7								
+34	New Jersey	FLUMETSULAM	1995	kg	155.9	184.9								
+34	New Jersey	FLUMETSULAM	1996	kg	46.2	467.9								
+34	New Jersey	FLUMETSULAM	1997	kg	200.1	377.8								
+34	New Jersey	FLUMETSULAM	1998	kg	153.9	67								
+34	New Jersey	FLUMETSULAM	1999	kg	45.8	23.8								
+34	New Jersey	FLUMETSULAM	2000	kg	40.3	249.5								
+34	New Jersey	FLUMETSULAM	2001	kg	59.5									
+34	New Jersey	FLUMETSULAM	2002	kg	93.2	81.8								
+34	New Jersey	FLUMETSULAM	2003	kg	29.6									
+34	New Jersey	FLUMETSULAM	2004	kg	50.9									
+34	New Jersey	FLUMETSULAM	2005	kg	5.9									
+34	New Jersey	FLUMETSULAM	2006	kg	32.4									
+34	New Jersey	FLUMETSULAM	2007	kg	21.2									
+34	New Jersey	FLUMETSULAM	2008	kg	68.6									
+34	New Jersey	FLUMETSULAM	2009	kg	116.8				1					
+34	New Jersey	FLUMETSULAM	2010	kg	122.1				4.5					
+34	New Jersey	FLUMETSULAM	2011	kg	153.7									
+34	New Jersey	FLUMETSULAM	2012	kg	131.3									
+34	New Jersey	FLUMETSULAM	2014	kg	32.9									
+34	New Jersey	FLUMETSULAM	2016	kg	38.7									
+35	New Mexico	FLUMETSULAM	1994	kg	60.2									
+35	New Mexico	FLUMETSULAM	1995	kg	195.6									
+35	New Mexico	FLUMETSULAM	1996	kg	46.6									
+35	New Mexico	FLUMETSULAM	1997	kg	74.3									
+35	New Mexico	FLUMETSULAM	1998	kg	473.6									
+35	New Mexico	FLUMETSULAM	1999	kg	102.7									
+35	New Mexico	FLUMETSULAM	2000	kg	450.3									
+35	New Mexico	FLUMETSULAM	2001	kg	106.7									
+35	New Mexico	FLUMETSULAM	2002	kg	68.9									
+35	New Mexico	FLUMETSULAM	2003	kg	36.9									
+35	New Mexico	FLUMETSULAM	2004	kg	961.3									
+35	New Mexico	FLUMETSULAM	2005	kg	68.5									
+35	New Mexico	FLUMETSULAM	2006	kg	30.6									
+35	New Mexico	FLUMETSULAM	2007	kg	33.3									
+35	New Mexico	FLUMETSULAM	2008	kg	25.5									
+35	New Mexico	FLUMETSULAM	2009	kg	46.2									
+35	New Mexico	FLUMETSULAM	2010	kg	51.8									
+35	New Mexico	FLUMETSULAM	2011	kg	78.6									
+35	New Mexico	FLUMETSULAM	2012	kg	131.2									
+35	New Mexico	FLUMETSULAM	2013	kg	41.9									
+35	New Mexico	FLUMETSULAM	2014	kg	108.7									
+35	New Mexico	FLUMETSULAM	2015	kg	127.1									
+35	New Mexico	FLUMETSULAM	2016	kg	56.6									
+35	New Mexico	FLUMETSULAM	2017	kg	56.1									
+36	New York	FLUMETSULAM	1993	kg	42.2									
+36	New York	FLUMETSULAM	1994	kg	2666.8	209.2								
+36	New York	FLUMETSULAM	1995	kg	849.8	502.7								
+36	New York	FLUMETSULAM	1996	kg	1729.2	1437.5			215.8					
+36	New York	FLUMETSULAM	1997	kg	3096.2	1716.1								
+36	New York	FLUMETSULAM	1998	kg	5551.7	287.8								
+36	New York	FLUMETSULAM	1999	kg	3749.1	371.6								
+36	New York	FLUMETSULAM	2000	kg	2412.9	353.9								
+36	New York	FLUMETSULAM	2001	kg	2172.5	5								
+36	New York	FLUMETSULAM	2002	kg	3011.5									
+36	New York	FLUMETSULAM	2003	kg	1780.2	425								
+36	New York	FLUMETSULAM	2004	kg	1064.7									
+36	New York	FLUMETSULAM	2005	kg	488.5				55.8					
+36	New York	FLUMETSULAM	2006	kg	142.7									
+36	New York	FLUMETSULAM	2007	kg	217.7									
+36	New York	FLUMETSULAM	2008	kg	847.1									
+36	New York	FLUMETSULAM	2009	kg	1548.7				3					
+36	New York	FLUMETSULAM	2010	kg	1908.5				5.8					
+36	New York	FLUMETSULAM	2011	kg	1587.2				2.9					
+36	New York	FLUMETSULAM	2012	kg	1647.8									
+36	New York	FLUMETSULAM	2013	kg	44.5									
+36	New York	FLUMETSULAM	2014	kg	347.4									
+36	New York	FLUMETSULAM	2015	kg		261.9								
+36	New York	FLUMETSULAM	2016	kg	612.4									
+36	New York	FLUMETSULAM	2017	kg	190.9									
+37	North Carolina	FLUMETSULAM	1994	kg	2202	2611.9			0.1					
+37	North Carolina	FLUMETSULAM	1995	kg	445.2	3210.8		30.8	1.1		0.3			51.9
+37	North Carolina	FLUMETSULAM	1996	kg	1145.8	3362.2								
+37	North Carolina	FLUMETSULAM	1997	kg	308.2	2087.5								
+37	North Carolina	FLUMETSULAM	1998	kg	514.5	2602								
+37	North Carolina	FLUMETSULAM	1999	kg	976	1143.9								
+37	North Carolina	FLUMETSULAM	2000	kg	4287.3	1675.7								
+37	North Carolina	FLUMETSULAM	2001	kg	325.3	1288.1								
+37	North Carolina	FLUMETSULAM	2002	kg	555.3	240.4								
+37	North Carolina	FLUMETSULAM	2003	kg	370.8	209.4								
+37	North Carolina	FLUMETSULAM	2004	kg	2250.9	162.2								
+37	North Carolina	FLUMETSULAM	2005	kg	284.5	2207.4								
+37	North Carolina	FLUMETSULAM	2006	kg	5663.9									
+37	North Carolina	FLUMETSULAM	2007	kg	1403.7	1412.9								
+37	North Carolina	FLUMETSULAM	2008	kg	3.3									
+37	North Carolina	FLUMETSULAM	2009	kg	15.4	310.8								
+37	North Carolina	FLUMETSULAM	2010	kg	14.9									
+37	North Carolina	FLUMETSULAM	2011	kg	46.3									
+37	North Carolina	FLUMETSULAM	2012	kg	18.2									
+37	North Carolina	FLUMETSULAM	2013	kg	11.4									
+37	North Carolina	FLUMETSULAM	2014	kg	18.7									
+37	North Carolina	FLUMETSULAM	2015	kg	20.2	2161.8								
+37	North Carolina	FLUMETSULAM	2016	kg	7.9	6183.4								
+37	North Carolina	FLUMETSULAM	2017	kg	1845.4	5098.8								
+38	North Dakota	FLUMETSULAM	1994	kg	103.8	1812.6			612.7					
+38	North Dakota	FLUMETSULAM	1995	kg	170.5	521.7								
+38	North Dakota	FLUMETSULAM	1996	kg	742.4	700.8	116							
+38	North Dakota	FLUMETSULAM	1997	kg	157.3	2933.8								
+38	North Dakota	FLUMETSULAM	1998	kg	2722.3	1380.3								
+38	North Dakota	FLUMETSULAM	1999	kg	1583.7	836.3								
+38	North Dakota	FLUMETSULAM	2000	kg	346.2	227.3								
+38	North Dakota	FLUMETSULAM	2001	kg	442.3	1362.5								
+38	North Dakota	FLUMETSULAM	2002	kg	618.6	1256.7								
+38	North Dakota	FLUMETSULAM	2003	kg	665.7	988.1								
+38	North Dakota	FLUMETSULAM	2004	kg	895.7	962.5								
+38	North Dakota	FLUMETSULAM	2005	kg	1123.9	580.4								143
+38	North Dakota	FLUMETSULAM	2006	kg	114									
+38	North Dakota	FLUMETSULAM	2007	kg	214.3	1705.3								
+38	North Dakota	FLUMETSULAM	2008	kg	612.4	561.2								
+38	North Dakota	FLUMETSULAM	2009	kg	971.9									
+38	North Dakota	FLUMETSULAM	2010	kg	791.4									
+38	North Dakota	FLUMETSULAM	2011	kg	3390.6				0.5					
+38	North Dakota	FLUMETSULAM	2012	kg	3303.6									
+38	North Dakota	FLUMETSULAM	2013	kg	12257.1									
+38	North Dakota	FLUMETSULAM	2014	kg	10287.3									
+38	North Dakota	FLUMETSULAM	2015	kg	5431.3									
+38	North Dakota	FLUMETSULAM	2016	kg	8162									
+38	North Dakota	FLUMETSULAM	2017	kg	1659.1									
+39	Ohio	FLUMETSULAM	1993	kg		6.1								
+39	Ohio	FLUMETSULAM	1994	kg	2876.9	4154.4								
+39	Ohio	FLUMETSULAM	1995	kg	1072.1	5019.9								
+39	Ohio	FLUMETSULAM	1996	kg	926.1	5126.4								
+39	Ohio	FLUMETSULAM	1997	kg	2240.8	5938.8								
+39	Ohio	FLUMETSULAM	1998	kg	5796.6	3492.3								
+39	Ohio	FLUMETSULAM	1999	kg	4549.4	4937.3								
+39	Ohio	FLUMETSULAM	2000	kg	4327.2	5406			3.1					
+39	Ohio	FLUMETSULAM	2001	kg	4347.4	2451.8								
+39	Ohio	FLUMETSULAM	2002	kg	4330.9	2340			20.5					
+39	Ohio	FLUMETSULAM	2003	kg	4008.3	564			0.6					
+39	Ohio	FLUMETSULAM	2004	kg	1712.9	1092.4			1.8					
+39	Ohio	FLUMETSULAM	2005	kg	2926.3	3749			10.8					
+39	Ohio	FLUMETSULAM	2006	kg	3158.3	797			0.1					
+39	Ohio	FLUMETSULAM	2007	kg	7571.9	2185			0.1					
+39	Ohio	FLUMETSULAM	2008	kg	1361.9	1103.4			0.1					
+39	Ohio	FLUMETSULAM	2009	kg	1656.1	1609.1			0					
+39	Ohio	FLUMETSULAM	2010	kg	2412	982								
+39	Ohio	FLUMETSULAM	2011	kg	3285.9	693.8			1.5					
+39	Ohio	FLUMETSULAM	2012	kg	4007	1461.2								
+39	Ohio	FLUMETSULAM	2013	kg	8295.1	741.2			0.1					
+39	Ohio	FLUMETSULAM	2014	kg	6170									
+39	Ohio	FLUMETSULAM	2015	kg	8375.1	2655.6								
+39	Ohio	FLUMETSULAM	2016	kg	11590.9									
+39	Ohio	FLUMETSULAM	2017	kg	5089.1									
+40	Oklahoma	FLUMETSULAM	1994	kg	95	151.6								
+40	Oklahoma	FLUMETSULAM	1995	kg	75.7	138.2								
+40	Oklahoma	FLUMETSULAM	1996	kg	80.1	145								
+40	Oklahoma	FLUMETSULAM	1997	kg	73	425.4								
+40	Oklahoma	FLUMETSULAM	1998	kg	77.3	494								
+40	Oklahoma	FLUMETSULAM	1999	kg	461.5	1478.1								
+40	Oklahoma	FLUMETSULAM	2000	kg	1343.4	253.1								
+40	Oklahoma	FLUMETSULAM	2001	kg	221.1	55.6								
+40	Oklahoma	FLUMETSULAM	2002	kg	691.5	58.8								
+40	Oklahoma	FLUMETSULAM	2003	kg	705.7	126.7								
+40	Oklahoma	FLUMETSULAM	2004	kg	164.5	5								
+40	Oklahoma	FLUMETSULAM	2005	kg	169.6	86.5								
+40	Oklahoma	FLUMETSULAM	2006	kg	88.5									
+40	Oklahoma	FLUMETSULAM	2007	kg	326.3									
+40	Oklahoma	FLUMETSULAM	2008	kg	61.7									
+40	Oklahoma	FLUMETSULAM	2009	kg	113.6									
+40	Oklahoma	FLUMETSULAM	2010	kg	367.7									
+40	Oklahoma	FLUMETSULAM	2011	kg	154.6									
+40	Oklahoma	FLUMETSULAM	2012	kg	1090.2									
+40	Oklahoma	FLUMETSULAM	2013	kg	150.4									
+40	Oklahoma	FLUMETSULAM	2014	kg	527.7									
+40	Oklahoma	FLUMETSULAM	2015	kg	191.7									
+40	Oklahoma	FLUMETSULAM	2016	kg	300									
+40	Oklahoma	FLUMETSULAM	2017	kg	504.8									
+41	Oregon	FLUMETSULAM	1998	kg	38.9									
+41	Oregon	FLUMETSULAM	1999	kg	3.6									
+41	Oregon	FLUMETSULAM	2000	kg	25.6									
+41	Oregon	FLUMETSULAM	2001	kg	1.7									
+41	Oregon	FLUMETSULAM	2002	kg	6.4									
+41	Oregon	FLUMETSULAM	2003	kg					22.1					
+41	Oregon	FLUMETSULAM	2006	kg	95.2									
+42	Pennsylvania	FLUMETSULAM	1993	kg	36.5									
+42	Pennsylvania	FLUMETSULAM	1994	kg	1648.6	426			32.4					52.8
+42	Pennsylvania	FLUMETSULAM	1995	kg	1671.8	575.5								
+42	Pennsylvania	FLUMETSULAM	1996	kg	1316.6	1053.1								
+42	Pennsylvania	FLUMETSULAM	1997	kg	1258.8	874.6								
+42	Pennsylvania	FLUMETSULAM	1998	kg	3211.7	645.8								
+42	Pennsylvania	FLUMETSULAM	1999	kg	2105.7	552.7								
+42	Pennsylvania	FLUMETSULAM	2000	kg	3938.6	854.7								
+42	Pennsylvania	FLUMETSULAM	2001	kg	2465.5	213.6								
+42	Pennsylvania	FLUMETSULAM	2002	kg	1910.5	157.4			8.7					
+42	Pennsylvania	FLUMETSULAM	2003	kg	1848.6	3.2								
+42	Pennsylvania	FLUMETSULAM	2004	kg	1247.7									
+42	Pennsylvania	FLUMETSULAM	2005	kg	996	49								
+42	Pennsylvania	FLUMETSULAM	2006	kg	558.7	636.2								
+42	Pennsylvania	FLUMETSULAM	2007	kg	895.7									
+42	Pennsylvania	FLUMETSULAM	2008	kg	4275.7	2336.6								
+42	Pennsylvania	FLUMETSULAM	2009	kg	1986.1				1.3					
+42	Pennsylvania	FLUMETSULAM	2010	kg	1949.4				5.2					
+42	Pennsylvania	FLUMETSULAM	2011	kg	2488.6									
+42	Pennsylvania	FLUMETSULAM	2012	kg	1428.1									
+42	Pennsylvania	FLUMETSULAM	2013	kg	756.7									
+42	Pennsylvania	FLUMETSULAM	2014	kg	1208.7									
+42	Pennsylvania	FLUMETSULAM	2015	kg	640.7									
+42	Pennsylvania	FLUMETSULAM	2016	kg	2324									
+42	Pennsylvania	FLUMETSULAM	2017	kg	892									
+44	Rhode Island	FLUMETSULAM	1994	kg	8.4									
+44	Rhode Island	FLUMETSULAM	1995	kg	17.9									
+44	Rhode Island	FLUMETSULAM	1996	kg	15.3									
+44	Rhode Island	FLUMETSULAM	1997	kg	2.5									
+44	Rhode Island	FLUMETSULAM	1998	kg	3.7									
+44	Rhode Island	FLUMETSULAM	1999	kg	0.7									
+44	Rhode Island	FLUMETSULAM	2000	kg	3.4									
+44	Rhode Island	FLUMETSULAM	2001	kg	5.2									
+44	Rhode Island	FLUMETSULAM	2002	kg	19.8									
+44	Rhode Island	FLUMETSULAM	2003	kg	13.9									
+44	Rhode Island	FLUMETSULAM	2004	kg	7.3									
+44	Rhode Island	FLUMETSULAM	2005	kg	1									
+44	Rhode Island	FLUMETSULAM	2006	kg	0.4									
+44	Rhode Island	FLUMETSULAM	2007	kg	0.7									
+44	Rhode Island	FLUMETSULAM	2008	kg	1.1									
+44	Rhode Island	FLUMETSULAM	2009	kg	2.3									
+44	Rhode Island	FLUMETSULAM	2010	kg	2.2									
+44	Rhode Island	FLUMETSULAM	2011	kg	2.4									
+44	Rhode Island	FLUMETSULAM	2012	kg	2									
+44	Rhode Island	FLUMETSULAM	2014	kg	0.5									
+44	Rhode Island	FLUMETSULAM	2016	kg	0.6									
+45	South Carolina	FLUMETSULAM	1994	kg	533.5	653.5								
+45	South Carolina	FLUMETSULAM	1995	kg	324.9	1089.2								
+45	South Carolina	FLUMETSULAM	1996	kg	66.9	1789								
+45	South Carolina	FLUMETSULAM	1997	kg	118.5	1682.2								
+45	South Carolina	FLUMETSULAM	1998	kg	151.5	2151.1								
+45	South Carolina	FLUMETSULAM	1999	kg	74.4	2469.6								
+45	South Carolina	FLUMETSULAM	2000	kg	713.3	3025.2								
+45	South Carolina	FLUMETSULAM	2001	kg	74.9	171							448.2	
+45	South Carolina	FLUMETSULAM	2002	kg	153	232.3								
+45	South Carolina	FLUMETSULAM	2003	kg	136.2	59.8								
+45	South Carolina	FLUMETSULAM	2004	kg	341	160.4								
+45	South Carolina	FLUMETSULAM	2005	kg	125.5	587.6								
+45	South Carolina	FLUMETSULAM	2006	kg	1530.9									
+45	South Carolina	FLUMETSULAM	2007	kg	325.7	362								
+45	South Carolina	FLUMETSULAM	2009	kg		81.4								
+45	South Carolina	FLUMETSULAM	2010	kg	18.5									
+45	South Carolina	FLUMETSULAM	2015	kg		404.8								
+45	South Carolina	FLUMETSULAM	2016	kg		1406.3								
+45	South Carolina	FLUMETSULAM	2017	kg	588.8	911.8								
+46	South Dakota	FLUMETSULAM	1994	kg	1008	10233.3								
+46	South Dakota	FLUMETSULAM	1995	kg	807.5	1175.5								
+46	South Dakota	FLUMETSULAM	1996	kg	3391.5	3213.9	165.3							
+46	South Dakota	FLUMETSULAM	1997	kg	7018.3	5581.3								
+46	South Dakota	FLUMETSULAM	1998	kg	14423.2	1905.1								
+46	South Dakota	FLUMETSULAM	1999	kg	11411.3	854								
+46	South Dakota	FLUMETSULAM	2000	kg	13693.4	2440.3								
+46	South Dakota	FLUMETSULAM	2001	kg	5159.9	2149.1								
+46	South Dakota	FLUMETSULAM	2002	kg	5308.1	1346.9								
+46	South Dakota	FLUMETSULAM	2003	kg	1640.6	620.4			0					
+46	South Dakota	FLUMETSULAM	2004	kg	1993.5	477.6			0					
+46	South Dakota	FLUMETSULAM	2005	kg	4482.3	867.2			0					38.7
+46	South Dakota	FLUMETSULAM	2006	kg	398.7	441.4			0					
+46	South Dakota	FLUMETSULAM	2007	kg	607.1	860.7			0					
+46	South Dakota	FLUMETSULAM	2008	kg	865.6	586.8			0					
+46	South Dakota	FLUMETSULAM	2009	kg	4988.7	477.6								
+46	South Dakota	FLUMETSULAM	2010	kg	1336.8	674.4								
+46	South Dakota	FLUMETSULAM	2011	kg	7435.2	305.4			0					
+46	South Dakota	FLUMETSULAM	2012	kg	4761.6	757.2								
+46	South Dakota	FLUMETSULAM	2013	kg	15303.2	633.2			0					
+46	South Dakota	FLUMETSULAM	2014	kg	15318.8	62.8								
+46	South Dakota	FLUMETSULAM	2015	kg	21864.1	1508.8								
+46	South Dakota	FLUMETSULAM	2016	kg	15436.3									15.2
+46	South Dakota	FLUMETSULAM	2017	kg	20312	229.7								
+47	Tennessee	FLUMETSULAM	1993	kg		0.4								
+47	Tennessee	FLUMETSULAM	1994	kg	469.5	1033.5			0.9					
+47	Tennessee	FLUMETSULAM	1995	kg	467.1	1687.4		265.1	10.5		0.3		2.9	
+47	Tennessee	FLUMETSULAM	1996	kg	571.3	3743.2		2.1					60.4	
+47	Tennessee	FLUMETSULAM	1997	kg	547.3	2060.2							0.1	
+47	Tennessee	FLUMETSULAM	1998	kg	785.8	2608.8								
+47	Tennessee	FLUMETSULAM	1999	kg	397	1749								
+47	Tennessee	FLUMETSULAM	2000	kg	344.7	1138.4								
+47	Tennessee	FLUMETSULAM	2001	kg	209.4	1044.5								
+47	Tennessee	FLUMETSULAM	2002	kg	110.4	94.3								
+47	Tennessee	FLUMETSULAM	2003	kg	143.7	1196.9								
+47	Tennessee	FLUMETSULAM	2004	kg	285	312.8								
+47	Tennessee	FLUMETSULAM	2005	kg	288.3	235.2								
+47	Tennessee	FLUMETSULAM	2006	kg	511.5	392.5								
+47	Tennessee	FLUMETSULAM	2007	kg	150.8									
+47	Tennessee	FLUMETSULAM	2008	kg	119.1	3027.9								
+47	Tennessee	FLUMETSULAM	2009	kg	356.2	1429.5								
+47	Tennessee	FLUMETSULAM	2010	kg	739.9	23187.2								
+47	Tennessee	FLUMETSULAM	2011	kg	562.6	116								
+47	Tennessee	FLUMETSULAM	2012	kg	389.2	369.6								
+47	Tennessee	FLUMETSULAM	2013	kg	798.3	267.1								
+47	Tennessee	FLUMETSULAM	2014	kg	603	1924.8								
+47	Tennessee	FLUMETSULAM	2015	kg	405	5405.7								
+47	Tennessee	FLUMETSULAM	2016	kg	411.6	609.3								
+47	Tennessee	FLUMETSULAM	2017	kg	599.5	1974.2								
+48	Texas	FLUMETSULAM	1994	kg	940.8	151.9								
+48	Texas	FLUMETSULAM	1995	kg	953.8	82.1								
+48	Texas	FLUMETSULAM	1996	kg	697.5	122.6								
+48	Texas	FLUMETSULAM	1997	kg	715.7	434.6								
+48	Texas	FLUMETSULAM	1998	kg	1275.7	51.6								
+48	Texas	FLUMETSULAM	1999	kg	448	82.2								
+48	Texas	FLUMETSULAM	2000	kg	849.3	36.7								
+48	Texas	FLUMETSULAM	2001	kg	1261.5	271.6								
+48	Texas	FLUMETSULAM	2002	kg	8607.9	31.2								
+48	Texas	FLUMETSULAM	2003	kg	560.7	36								
+48	Texas	FLUMETSULAM	2004	kg	832.8	5.4								
+48	Texas	FLUMETSULAM	2005	kg	1075.8	65.8								
+48	Texas	FLUMETSULAM	2006	kg	408									
+48	Texas	FLUMETSULAM	2007	kg	509.9									
+48	Texas	FLUMETSULAM	2008	kg	372.8									
+48	Texas	FLUMETSULAM	2009	kg	741.1									
+48	Texas	FLUMETSULAM	2010	kg	1007.1									
+48	Texas	FLUMETSULAM	2011	kg	956.9									
+48	Texas	FLUMETSULAM	2012	kg	1839.7									
+48	Texas	FLUMETSULAM	2013	kg	699.3									
+48	Texas	FLUMETSULAM	2014	kg	1977.6									
+48	Texas	FLUMETSULAM	2015	kg	2109.1									
+48	Texas	FLUMETSULAM	2016	kg	1336.7									
+48	Texas	FLUMETSULAM	2017	kg	1010.3									
+49	Utah	FLUMETSULAM	1998	kg	241.5									
+49	Utah	FLUMETSULAM	1999	kg	30.2									
+49	Utah	FLUMETSULAM	2000	kg	176									
+49	Utah	FLUMETSULAM	2001	kg	31.1									
+49	Utah	FLUMETSULAM	2002	kg	267									
+49	Utah	FLUMETSULAM	2003	kg	6.1									
+49	Utah	FLUMETSULAM	2004	kg	252.8									
+49	Utah	FLUMETSULAM	2005	kg	0.3									
+49	Utah	FLUMETSULAM	2007	kg	4.3									
+50	Vermont	FLUMETSULAM	1993	kg	7.9									
+50	Vermont	FLUMETSULAM	1994	kg	560.9	53.1								
+50	Vermont	FLUMETSULAM	1995	kg	239.4	23.7								
+50	Vermont	FLUMETSULAM	1996	kg	121.9	33.8								
+50	Vermont	FLUMETSULAM	1997	kg	66.3	1.3								
+50	Vermont	FLUMETSULAM	1998	kg	180.9	2.3								
+50	Vermont	FLUMETSULAM	1999	kg	217.2	2.8								
+50	Vermont	FLUMETSULAM	2000	kg	264.9	3.2								
+50	Vermont	FLUMETSULAM	2001	kg	418.6									
+50	Vermont	FLUMETSULAM	2002	kg	60.5									
+50	Vermont	FLUMETSULAM	2003	kg	1046.7									
+50	Vermont	FLUMETSULAM	2004	kg	203.3									
+50	Vermont	FLUMETSULAM	2005	kg	48.4									
+50	Vermont	FLUMETSULAM	2006	kg	37.4									
+50	Vermont	FLUMETSULAM	2007	kg	70.1									
+50	Vermont	FLUMETSULAM	2008	kg	76.2									
+50	Vermont	FLUMETSULAM	2009	kg	133.9									
+50	Vermont	FLUMETSULAM	2010	kg	215.8									
+50	Vermont	FLUMETSULAM	2011	kg	79.9									
+50	Vermont	FLUMETSULAM	2012	kg	128.1									
+50	Vermont	FLUMETSULAM	2014	kg	38.5									
+50	Vermont	FLUMETSULAM	2016	kg	48.7									
+51	Virginia	FLUMETSULAM	1993	kg	6.5									
+51	Virginia	FLUMETSULAM	1994	kg	147.7	1068.4			2.3					
+51	Virginia	FLUMETSULAM	1995	kg	726	771.8		4.5	5.2		1.2			9.1
+51	Virginia	FLUMETSULAM	1996	kg	873.7	1046.5								
+51	Virginia	FLUMETSULAM	1997	kg	324	960.8								
+51	Virginia	FLUMETSULAM	1998	kg	1390.8	923								
+51	Virginia	FLUMETSULAM	1999	kg	601.4	581.9								
+51	Virginia	FLUMETSULAM	2000	kg	1284.9	1612.8								
+51	Virginia	FLUMETSULAM	2001	kg	438.3	436.6								
+51	Virginia	FLUMETSULAM	2002	kg	894.4	127.8								
+51	Virginia	FLUMETSULAM	2003	kg	295.6	2108.1								
+51	Virginia	FLUMETSULAM	2004	kg	639.7									
+51	Virginia	FLUMETSULAM	2005	kg	669.5	827.1								
+51	Virginia	FLUMETSULAM	2006	kg	579.1									
+51	Virginia	FLUMETSULAM	2007	kg	582.1									
+51	Virginia	FLUMETSULAM	2008	kg	16.2									
+51	Virginia	FLUMETSULAM	2009	kg	492.9									
+51	Virginia	FLUMETSULAM	2010	kg	63.8									
+51	Virginia	FLUMETSULAM	2011	kg	582.6									
+51	Virginia	FLUMETSULAM	2012	kg	304.8									
+51	Virginia	FLUMETSULAM	2013	kg	43									
+51	Virginia	FLUMETSULAM	2014	kg	54									
+51	Virginia	FLUMETSULAM	2015	kg	43	732.7								
+51	Virginia	FLUMETSULAM	2016	kg	22.5	2232.1								
+51	Virginia	FLUMETSULAM	2017	kg	45.7	1667.8								
+53	Washington	FLUMETSULAM	1998	kg	230.1									
+53	Washington	FLUMETSULAM	2003	kg					16.8					
+53	Washington	FLUMETSULAM	2005	kg					6.3					
+53	Washington	FLUMETSULAM	2006	kg	401.2				3.8					
+53	Washington	FLUMETSULAM	2007	kg					4.7					
+54	West Virginia	FLUMETSULAM	1993	kg	3									
+54	West Virginia	FLUMETSULAM	1994	kg	23.8	47.2			1					0.6
+54	West Virginia	FLUMETSULAM	1995	kg	54	24.1			7.3		4.6			
+54	West Virginia	FLUMETSULAM	1996	kg	111.6	152.8								
+54	West Virginia	FLUMETSULAM	1997	kg	839	43								
+54	West Virginia	FLUMETSULAM	1998	kg	24.5	26.4								
+54	West Virginia	FLUMETSULAM	1999	kg	110.9	39.6								
+54	West Virginia	FLUMETSULAM	2000	kg	147.7	21.2								
+54	West Virginia	FLUMETSULAM	2001	kg	71.6	17.7								
+54	West Virginia	FLUMETSULAM	2002	kg	131.8	10.7			0.3					
+54	West Virginia	FLUMETSULAM	2003	kg	90.3	70.9								
+54	West Virginia	FLUMETSULAM	2004	kg	51.6									
+54	West Virginia	FLUMETSULAM	2005	kg	72.2	19.7								
+54	West Virginia	FLUMETSULAM	2006	kg	45.9									
+54	West Virginia	FLUMETSULAM	2007	kg	71.2									
+54	West Virginia	FLUMETSULAM	2008	kg	30.4									
+54	West Virginia	FLUMETSULAM	2009	kg	52.4									
+54	West Virginia	FLUMETSULAM	2010	kg	50									
+54	West Virginia	FLUMETSULAM	2011	kg	194.2									
+54	West Virginia	FLUMETSULAM	2012	kg	97.7									
+54	West Virginia	FLUMETSULAM	2013	kg	12									
+54	West Virginia	FLUMETSULAM	2014	kg	37.4									
+54	West Virginia	FLUMETSULAM	2015	kg	61.7									
+54	West Virginia	FLUMETSULAM	2016	kg	11.4									
+54	West Virginia	FLUMETSULAM	2017	kg	32.9									
+55	Wisconsin	FLUMETSULAM	1994	kg	3898.6	2262.8			84.5					
+55	Wisconsin	FLUMETSULAM	1995	kg	3843.6	2336.5								
+55	Wisconsin	FLUMETSULAM	1996	kg	2894.7	1703.8							22.4	
+55	Wisconsin	FLUMETSULAM	1997	kg	4686.7	3443.7			211.4					
+55	Wisconsin	FLUMETSULAM	1998	kg	13211.3	2016								
+55	Wisconsin	FLUMETSULAM	1999	kg	15983.4	5284.3								
+55	Wisconsin	FLUMETSULAM	2000	kg	16689.8	1085.1			54.1				4.8	
+55	Wisconsin	FLUMETSULAM	2001	kg	16944.1	1337.5								
+55	Wisconsin	FLUMETSULAM	2002	kg	18156.9	335.6								
+55	Wisconsin	FLUMETSULAM	2003	kg	13490.3	358.6			15.5					
+55	Wisconsin	FLUMETSULAM	2004	kg	15556.1	490.3			39.5					
+55	Wisconsin	FLUMETSULAM	2005	kg	11391.7	236.8			146.7					
+55	Wisconsin	FLUMETSULAM	2006	kg	8509.6	497.9			5.3					
+55	Wisconsin	FLUMETSULAM	2007	kg	9776.7	1048.9			5.6					
+55	Wisconsin	FLUMETSULAM	2008	kg	4051.7				50.7					
+55	Wisconsin	FLUMETSULAM	2009	kg	4143.4	98.8			12.9					
+55	Wisconsin	FLUMETSULAM	2010	kg	7794.1	22.7								
+55	Wisconsin	FLUMETSULAM	2011	kg	10177.9	112.8								
+55	Wisconsin	FLUMETSULAM	2012	kg	4982.5									
+55	Wisconsin	FLUMETSULAM	2013	kg	6243.2	62.9			33.5					
+55	Wisconsin	FLUMETSULAM	2014	kg	6115.2	723.4								
+55	Wisconsin	FLUMETSULAM	2015	kg	5136.4	523.5			219.3					
+55	Wisconsin	FLUMETSULAM	2016	kg	9038.8	590.1			17.8					
+55	Wisconsin	FLUMETSULAM	2017	kg	8887.3	2247.6								
+56	Wyoming	FLUMETSULAM	1994	kg	9.2									
+56	Wyoming	FLUMETSULAM	1995	kg	20.3									
+56	Wyoming	FLUMETSULAM	1996	kg	39.7									
+56	Wyoming	FLUMETSULAM	1997	kg	2.7									
+56	Wyoming	FLUMETSULAM	1998	kg	73									
+56	Wyoming	FLUMETSULAM	1999	kg	274.8									
+56	Wyoming	FLUMETSULAM	2000	kg	102.3									
+56	Wyoming	FLUMETSULAM	2001	kg	67.3									
+56	Wyoming	FLUMETSULAM	2002	kg	27.7									
+56	Wyoming	FLUMETSULAM	2003	kg	12.4									
+56	Wyoming	FLUMETSULAM	2004	kg	264.7									
+56	Wyoming	FLUMETSULAM	2005	kg	13.6									
+56	Wyoming	FLUMETSULAM	2006	kg	49.4									
+56	Wyoming	FLUMETSULAM	2007	kg	10.6									
+56	Wyoming	FLUMETSULAM	2008	kg	14.6									
+56	Wyoming	FLUMETSULAM	2009	kg	31.8									
+56	Wyoming	FLUMETSULAM	2010	kg	24.2									
+56	Wyoming	FLUMETSULAM	2011	kg	53.4									
+56	Wyoming	FLUMETSULAM	2012	kg	10.8									
+56	Wyoming	FLUMETSULAM	2013	kg	152.8									
+56	Wyoming	FLUMETSULAM	2014	kg	30.6									
+56	Wyoming	FLUMETSULAM	2015	kg	15.3									
+56	Wyoming	FLUMETSULAM	2016	kg	426.6									
+56	Wyoming	FLUMETSULAM	2017	kg	55.2									

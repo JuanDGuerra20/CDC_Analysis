@@ -1,0 +1,1484 @@
+01	Alabama	SULFUR	1992	kg					364.4		123509.1			64135.3
+01	Alabama	SULFUR	1993	kg							73326.2			1941.9
+01	Alabama	SULFUR	1994	kg							144592.1			72311.9
+01	Alabama	SULFUR	1995	kg			4072		1524.3		57560.1			5195
+01	Alabama	SULFUR	1996	kg			9250.6	986.1	2842		13733.8		592.3	2666.4
+01	Alabama	SULFUR	1997	kg				43459.3			23884.5			32543.9
+01	Alabama	SULFUR	1998	kg							94181.5			20990.6
+01	Alabama	SULFUR	1999	kg			23386.7		3159.6		75868.2			2025.4
+01	Alabama	SULFUR	2000	kg				3260.8			34802.3			7099.8
+01	Alabama	SULFUR	2001	kg				44314.9			78003.7			183132.9
+01	Alabama	SULFUR	2002	kg					901.5		16907.6			5163.1
+01	Alabama	SULFUR	2003	kg					124.1		35937.9			9076.7
+01	Alabama	SULFUR	2004	kg					9842.8		108788.8			20755.4
+01	Alabama	SULFUR	2005	kg					1067.6		61692.6			7058.2
+01	Alabama	SULFUR	2006	kg				75.3	8913.1		65595.4			11289.3
+01	Alabama	SULFUR	2007	kg							41636			9043.3
+01	Alabama	SULFUR	2008	kg							87964.4			4495.7
+01	Alabama	SULFUR	2009	kg							83434.6			43589.2
+01	Alabama	SULFUR	2010	kg							9999.6			3205.4
+01	Alabama	SULFUR	2011	kg					9.1		30793.3			25151.5
+01	Alabama	SULFUR	2012	kg							31050.8			
+01	Alabama	SULFUR	2013	kg							12028.9			4517.1
+01	Alabama	SULFUR	2014	kg							17503.9			14098.2
+01	Alabama	SULFUR	2015	kg							25062.6			
+01	Alabama	SULFUR	2016	kg							31058			
+01	Alabama	SULFUR	2017	kg							6217.8			50503.1
+04	Arizona	SULFUR	1992	kg				79325.2	677.9		73380.1	5685		
+04	Arizona	SULFUR	1993	kg					2040.6		74539.1	92477.5		
+04	Arizona	SULFUR	1994	kg	785.2				137405.5		13727.6			
+04	Arizona	SULFUR	1995	kg					7309.6		66479.5		5176.4	
+04	Arizona	SULFUR	1996	kg					49563.1		6114.5	3812.7	11.9	
+04	Arizona	SULFUR	1997	kg					26816.5		166300.7	186705.1	14007.6	
+04	Arizona	SULFUR	1998	kg					203485.8		167464.1			
+04	Arizona	SULFUR	1999	kg					53262.8		157405.5			
+04	Arizona	SULFUR	2000	kg					154485.2		150002.8			
+04	Arizona	SULFUR	2001	kg					53549.4		135967.8			
+04	Arizona	SULFUR	2002	kg					97053.2		229532.8			
+04	Arizona	SULFUR	2003	kg					137057.8		182652.1			
+04	Arizona	SULFUR	2004	kg					65698.4		237797.3			
+04	Arizona	SULFUR	2005	kg					101060.5		189682.9			
+04	Arizona	SULFUR	2006	kg				159447.5	179336.9		132230.1			
+04	Arizona	SULFUR	2007	kg				354819.4	145519.2		76013.8			
+04	Arizona	SULFUR	2008	kg					131211.2		21388			
+04	Arizona	SULFUR	2009	kg					79065.4		19958.7			
+04	Arizona	SULFUR	2010	kg					113993.1		19060.9			
+04	Arizona	SULFUR	2011	kg					123080.6		94797.4			
+04	Arizona	SULFUR	2012	kg					68464.8		14344.6			
+04	Arizona	SULFUR	2013	kg					60125.5		13724.4			
+04	Arizona	SULFUR	2014	kg					73320.6		23617.6			
+04	Arizona	SULFUR	2015	kg				1220.1	141667.4		20888.8			
+04	Arizona	SULFUR	2016	kg					127912.8		9978.8			
+04	Arizona	SULFUR	2017	kg					95864.4		23591.6			
+04	Arizona	SULFURIC ACID	1993	kg					9125.3					
+04	Arizona	SULFURIC ACID	1997	kg					6697.9					
+04	Arizona	SULFURIC ACID	2000	kg					93446.9					
+04	Arizona	SULFURIC ACID	2002	kg					257008					
+04	Arizona	SULFURIC ACID	2007	kg					35578.7					
+05	Arkansas	SULFUR	1992	kg		38027.3			3.6	1435.2	38235.5	413.4		
+05	Arkansas	SULFUR	1993	kg							100477.9			
+05	Arkansas	SULFUR	1994	kg				39864.8			246600.4		571.2	2010.5
+05	Arkansas	SULFUR	1995	kg				8466.5	0.6	1958.4	84141.9			469.3
+05	Arkansas	SULFUR	1996	kg		4587	266393.2	6411		15708.2	2987.8		4488.6	5555.6
+05	Arkansas	SULFUR	1997	kg			96899.8	12854.5	0.4		54048.6		1694.8	596.4
+05	Arkansas	SULFUR	1998	kg				30275.8	442.3					
+05	Arkansas	SULFUR	1999	kg							94307.8			
+05	Arkansas	SULFUR	2000	kg	17535.9		77549.2				41437.7			
+05	Arkansas	SULFUR	2001	kg							120469.3			
+05	Arkansas	SULFUR	2002	kg							1342			
+05	Arkansas	SULFUR	2003	kg							8049.1			
+05	Arkansas	SULFUR	2004	kg							67563.4			
+05	Arkansas	SULFUR	2005	kg							758.4			
+05	Arkansas	SULFUR	2006	kg					224.4		97.3			
+05	Arkansas	SULFUR	2007	kg				3763.8						
+05	Arkansas	SULFUR	2012	kg						78403.3	0.6			
+05	Arkansas	SULFUR	2017	kg			347.7							
+06	California	SULFUR	1992	kg	5545.4			195957.5	4195657.7		19399777	118075.6	17266.7	4063742.4
+06	California	SULFUR	1993	kg	9605.4		722.2	144538.7	4985780.4		24983548.8	63234.2	28377.8	3117074.3
+06	California	SULFUR	1994	kg	9921.9			108847.7	5100494.8		23564249.8	102969.2	14207.4	3064721.1
+06	California	SULFUR	1995	kg	3670.2		8341.5	208682.3	4649372.8		24184880.3	133124.2	74886.5	2405281.4
+06	California	SULFUR	1996	kg	11608.5		2448.6	161185.9	5463822.6		21319001.9	169559.8	102080.6	1868615.6
+06	California	SULFUR	1997	kg	9643.7		1191.1	122849.8	4422531.4		23322396.5	193110.6	140606.3	2798269.9
+06	California	SULFUR	1998	kg	6207.9		1367	80338.6	4459723.1	158.4	28915800.4	256507	147377.2	2065665.6
+06	California	SULFUR	1999	kg	25924.6		1391.8	88909.2	4383284.3		24614933.7	285713.2	186018.5	2475864.5
+06	California	SULFUR	2000	kg	40787.4		2091.1	85892.8	3964941.7		21897326.2	219972.6	210823.2	2131284.7
+06	California	SULFUR	2001	kg	22335.3		1286.5	39817.9	2853737.1		17324722.6	218875.8	295324.8	820835.4
+06	California	SULFUR	2002	kg	30428.5		2916.7	35851.5	3879586.1		19413677.2	254899.6	123086.8	776417.3
+06	California	SULFUR	2003	kg	54972.1		6388.9	83319.9	4093842.2		18644162	235107.5	193467.4	879813.7
+06	California	SULFUR	2004	kg	36387.8	619.5	1238.8	55261.1	4579629.7		18629221.3	179318	178604.4	954791.9
+06	California	SULFUR	2005	kg	22148.4		256.1	34839.4	4612070.1		22092965.5	184142.2	135099.5	881732.5
+06	California	SULFUR	2006	kg	22340.5		132.8	32211.2	4417038.9		15561171.3	167765	71281.8	605053.7
+06	California	SULFUR	2007	kg	19335.6			2615.4	4172742.7		15939752.3	250769.5	21847.7	559325.5
+06	California	SULFUR	2008	kg	14357.8		66.7	5100.1	4395490.4		13331507.5	262514.5	20498.5	334045.3
+06	California	SULFUR	2009	kg	19232.3			3199.4	5302710		13227909.7	339049.1	45913.2	233864.9
+06	California	SULFUR	2010	kg	18612.2		3328.8	3200.9	5307514.8		15361158	204834.6	56533.3	306908.3
+06	California	SULFUR	2011	kg	33728.1		11428	6514.8	5116349.6		17445324.6	326141.9	11098.6	340642.4
+06	California	SULFUR	2012	kg	27124.9		11331.9	2461.8	5196958.5		15399266.6	401834.3	89700	299050.9
+06	California	SULFUR	2013	kg	24642.9			614.1	5731073.6		15116457.6	200219.5	79189.8	301709.2
+06	California	SULFUR	2014	kg	11913.9		299.3	6868.8	6455129.4		15435656.9	174481.2	138430.1	275916.4
+06	California	SULFUR	2015	kg	17167.4		1180.2	2709.2	6304232.4		15830700.7	154039.4	132160.2	358075.3
+06	California	SULFUR	2016	kg	2663.9		400	8156.7	5635804.4		15732111.4	137917.9	163474.1	378073.9
+06	California	SULFUR	2017	kg	2525.6		2462.1	9.4	4569965.2		15903065.3	120193.8	158313	296856.5
+06	California	SULFURIC ACID	2014	kg							1329.3			
+06	California	SULFURIC ACID	2015	kg							2462.4			
+06	California	SULFURIC ACID	2017	kg							0			
+08	Colorado	SULFUR	1992	kg					5829.2		3798.1			
+08	Colorado	SULFUR	1993	kg					9458.8		45234.3			
+08	Colorado	SULFUR	1994	kg					10780.1		9986.3			9928.9
+08	Colorado	SULFUR	1995	kg					1546.7		19805.7			33575.1
+08	Colorado	SULFUR	1996	kg					20556.9		28820.3			23782.5
+08	Colorado	SULFUR	1997	kg			2995.4		15624.7		32386.8			6708.2
+08	Colorado	SULFUR	1998	kg					6515		24022.1			34655.6
+08	Colorado	SULFUR	1999	kg							13386.3			17092
+08	Colorado	SULFUR	2000	kg					12650.6		15858.7			17917
+08	Colorado	SULFUR	2001	kg					294.2		19803.6			24338.5
+08	Colorado	SULFUR	2002	kg					5613.1		15295.1			16077.1
+08	Colorado	SULFUR	2003	kg					5801.9		24515.2			19441.2
+08	Colorado	SULFUR	2004	kg					5284.4		9027.9			6983.3
+08	Colorado	SULFUR	2005	kg					24013.5		15013.9			2621.4
+08	Colorado	SULFUR	2006	kg					17332.2		12151			12612.3
+08	Colorado	SULFUR	2007	kg					38155.6		7889.6			
+08	Colorado	SULFUR	2008	kg					11017.7		10763.7			6540
+08	Colorado	SULFUR	2009	kg					20901.9		8833.1			
+08	Colorado	SULFUR	2010	kg					7254.3		3411.4			
+08	Colorado	SULFUR	2011	kg							1880.5			892.8
+08	Colorado	SULFUR	2012	kg							8464.5			
+08	Colorado	SULFUR	2013	kg							8249.4			
+08	Colorado	SULFUR	2014	kg					593.5		11712.4			
+08	Colorado	SULFUR	2015	kg							10581.2			
+08	Colorado	SULFUR	2016	kg							4581.5			
+08	Colorado	SULFUR	2017	kg							4228.1			
+08	Colorado	SULFURIC ACID	1992	kg					14389.7					
+08	Colorado	SULFURIC ACID	1993	kg					27405.8					
+08	Colorado	SULFURIC ACID	1995	kg					89684.8					
+08	Colorado	SULFURIC ACID	1996	kg					68047.3					
+08	Colorado	SULFURIC ACID	1997	kg					186529.8					
+08	Colorado	SULFURIC ACID	1998	kg					29475.6					
+08	Colorado	SULFURIC ACID	1999	kg					49268.1					
+08	Colorado	SULFURIC ACID	2000	kg					458679.7					
+08	Colorado	SULFURIC ACID	2001	kg					2738251.8					
+08	Colorado	SULFURIC ACID	2002	kg					3329053					
+08	Colorado	SULFURIC ACID	2003	kg					3147395.7					
+08	Colorado	SULFURIC ACID	2004	kg					1213545.3					
+08	Colorado	SULFURIC ACID	2005	kg					639771.7					
+08	Colorado	SULFURIC ACID	2006	kg					2712820.3					
+08	Colorado	SULFURIC ACID	2007	kg					927910.8					
+08	Colorado	SULFURIC ACID	2009	kg					167523.4					
+08	Colorado	SULFURIC ACID	2010	kg					1183141.4					
+08	Colorado	SULFURIC ACID	2011	kg					172927.7					
+08	Colorado	SULFURIC ACID	2012	kg					1256533.4					
+08	Colorado	SULFURIC ACID	2013	kg					1671897.5					
+08	Colorado	SULFURIC ACID	2014	kg					1973800.7					
+08	Colorado	SULFURIC ACID	2015	kg					110408.1					
+08	Colorado	SULFURIC ACID	2016	kg					1035012.1					
+08	Colorado	SULFURIC ACID	2017	kg					685177.9					
+09	Connecticut	SULFUR	1992	kg							8142.6			
+09	Connecticut	SULFUR	1993	kg							1801.7			
+09	Connecticut	SULFUR	1994	kg							3893.6			
+09	Connecticut	SULFUR	1995	kg							2070.7			
+09	Connecticut	SULFUR	1996	kg					628.9		2101.4			
+09	Connecticut	SULFUR	1997	kg							8890.1			
+09	Connecticut	SULFUR	1998	kg							4610			
+09	Connecticut	SULFUR	1999	kg							8306.5			
+09	Connecticut	SULFUR	2000	kg							5699.4			
+09	Connecticut	SULFUR	2001	kg							8672.1			
+09	Connecticut	SULFUR	2002	kg					1117.6		1289.6			
+09	Connecticut	SULFUR	2003	kg							10206.2			
+09	Connecticut	SULFUR	2004	kg					480.3		12713.8			
+09	Connecticut	SULFUR	2005	kg							12888.9			
+09	Connecticut	SULFUR	2006	kg					980.5		5295.9			
+09	Connecticut	SULFUR	2007	kg					593.8		10591.5			
+09	Connecticut	SULFUR	2008	kg					302.6		14240.6			
+09	Connecticut	SULFUR	2009	kg					4077.7		7188.3			
+09	Connecticut	SULFUR	2010	kg					2580.8		5262.4			
+09	Connecticut	SULFUR	2011	kg					137.8		6364.6			
+09	Connecticut	SULFUR	2012	kg					2904.8		2265.8			
+09	Connecticut	SULFUR	2013	kg					299		9507.3			
+09	Connecticut	SULFUR	2014	kg					18.3		6625.6			
+09	Connecticut	SULFUR	2015	kg					3248.2		2435.7			
+09	Connecticut	SULFUR	2016	kg					1846.2		2923.6			
+09	Connecticut	SULFUR	2017	kg					49.5		519.3			
+10	Delaware	SULFUR	1992	kg							85.7			
+10	Delaware	SULFUR	1993	kg							34.9			
+10	Delaware	SULFUR	1994	kg					0.3		2.2			
+10	Delaware	SULFUR	1995	kg							182			
+10	Delaware	SULFUR	1996	kg					75.8		63.9			
+10	Delaware	SULFUR	1997	kg							63.3			
+10	Delaware	SULFUR	1998	kg							23.6			
+10	Delaware	SULFUR	1999	kg							123.7			
+10	Delaware	SULFUR	2000	kg							280.6			
+10	Delaware	SULFUR	2001	kg							55			
+10	Delaware	SULFUR	2002	kg							56.2			
+10	Delaware	SULFUR	2003	kg					1660.7		24.6			
+10	Delaware	SULFUR	2004	kg					18.6		20.3			
+10	Delaware	SULFUR	2005	kg							16.1			
+10	Delaware	SULFUR	2006	kg					302		83.2			
+10	Delaware	SULFUR	2007	kg					15.3		33.6			
+10	Delaware	SULFUR	2008	kg					22.2		12.6			
+10	Delaware	SULFUR	2009	kg					37.7		4.8			
+10	Delaware	SULFUR	2010	kg					22.5		8.4			
+10	Delaware	SULFUR	2011	kg					37		5.9			
+10	Delaware	SULFUR	2012	kg					218.2		1			
+10	Delaware	SULFUR	2013	kg					88.8		19.5			
+10	Delaware	SULFUR	2014	kg							1.4			
+10	Delaware	SULFUR	2015	kg							10.7			
+10	Delaware	SULFUR	2016	kg							3.8			
+10	Delaware	SULFUR	2017	kg							0.9			
+12	Florida	SULFUR	1992	kg					15658		1053965.2		605.7	17503.3
+12	Florida	SULFUR	1993	kg				30.7	99807.2		604774.6		1849	8738.4
+12	Florida	SULFUR	1994	kg				16600	69846.7		313770			1637.5
+12	Florida	SULFUR	1995	kg					10991.8		334710.4			17791.1
+12	Florida	SULFUR	1996	kg					247536.5		491681.3		577.4	4480.6
+12	Florida	SULFUR	1997	kg				11124.4	20171		466467.5			10828.2
+12	Florida	SULFUR	1998	kg					262980.5		1175745.7			46467
+12	Florida	SULFUR	1999	kg					289699.9		1626220.4			2677.2
+12	Florida	SULFUR	2000	kg					139987.1		1194146.4			9632.5
+12	Florida	SULFUR	2001	kg				14256.3	140115.7		2103671.5			20398.8
+12	Florida	SULFUR	2002	kg					211149.7		937398.1			1101.1
+12	Florida	SULFUR	2003	kg					307672.6		710118.8			15973.6
+12	Florida	SULFUR	2004	kg					107243.6		839784.8			18921.2
+12	Florida	SULFUR	2005	kg					79788.3		1127648.4			4593
+12	Florida	SULFUR	2006	kg				49.5	65753.7		1008513.9			5233
+12	Florida	SULFUR	2007	kg					397255		905315.2			3179
+12	Florida	SULFUR	2008	kg					83768.1		983149.3			22770.1
+12	Florida	SULFUR	2009	kg					56787.8		1052702.7			787.4
+12	Florida	SULFUR	2010	kg					32117.9		711127.7			
+12	Florida	SULFUR	2011	kg					100542.3		878586.9			
+12	Florida	SULFUR	2012	kg					82285.3		1657092.6			
+12	Florida	SULFUR	2013	kg					57584.2		1410990			5580.2
+12	Florida	SULFUR	2014	kg					19161.9		1748332			12640.8
+12	Florida	SULFUR	2015	kg					78971.6		1782960.8			
+12	Florida	SULFUR	2016	kg					134490.6		1704755.6			
+12	Florida	SULFUR	2017	kg					37879.8		2443820.1			
+12	Florida	SULFURIC ACID	1999	kg					6452.4					
+13	Georgia	SULFUR	1992	kg					8504.2		434817.2		2446	180062.2
+13	Georgia	SULFUR	1993	kg	2504			276.4	10217.4		390330.5			288662.4
+13	Georgia	SULFUR	1994	kg				82507.9	1967.6		716929.7			295657.5
+13	Georgia	SULFUR	1995	kg	16554.6			329099.3	8010.9		1133876.5		7939.4	176821.8
+13	Georgia	SULFUR	1996	kg				9080.8	158192.9		254271.9		1261.2	6220.1
+13	Georgia	SULFUR	1997	kg				58257.7	105.1		485999.6			40763.1
+13	Georgia	SULFUR	1998	kg					26100.1		306727.9			59910.8
+13	Georgia	SULFUR	1999	kg					659.1		274416.4			50069.1
+13	Georgia	SULFUR	2000	kg					8127.7		303769			93000.5
+13	Georgia	SULFUR	2001	kg				203123.6	6251.4		327650.4			117084
+13	Georgia	SULFUR	2002	kg					10588.4		641033.9			43051.4
+13	Georgia	SULFUR	2003	kg					17483.6		235400.8			44269.7
+13	Georgia	SULFUR	2004	kg					5221.7		435464.5			34446
+13	Georgia	SULFUR	2005	kg					64450.5		434550.6			62567.8
+13	Georgia	SULFUR	2006	kg				496.4	67261.9		371338.5			40729.7
+13	Georgia	SULFUR	2007	kg					3878.3		270404.9			18798.2
+13	Georgia	SULFUR	2008	kg							187685.4			64251.2
+13	Georgia	SULFUR	2009	kg							276440.4			17593.7
+13	Georgia	SULFUR	2010	kg							362974.9			9021.2
+13	Georgia	SULFUR	2011	kg					17.4		441526.4			1028.5
+13	Georgia	SULFUR	2012	kg					70.8		391236.1			
+13	Georgia	SULFUR	2013	kg					339.9		103402.2			7678.9
+13	Georgia	SULFUR	2014	kg							248736.2			35838.2
+13	Georgia	SULFUR	2015	kg							242676.4			
+13	Georgia	SULFUR	2016	kg					4874.4		209452.7			
+13	Georgia	SULFUR	2017	kg							119880.7			204409.5
+16	Idaho	SULFUR	1992	kg					39818		6675.8		1008.6	273399.8
+16	Idaho	SULFUR	1993	kg					9047.6		55731.7			121738.3
+16	Idaho	SULFUR	1994	kg					10475.9		6771.8			122318.2
+16	Idaho	SULFUR	1995	kg					13755.6		20943		223.3	252343.4
+16	Idaho	SULFUR	1996	kg					15396.5		9810.1			114690.2
+16	Idaho	SULFUR	1997	kg					15433.8		14917.3			129972.6
+16	Idaho	SULFUR	1998	kg					4100.1		23870.2			165844.5
+16	Idaho	SULFUR	1999	kg					33924.5		40202.2			79551.2
+16	Idaho	SULFUR	2000	kg							24593.4			348099.5
+16	Idaho	SULFUR	2001	kg					28908.9		85745.1			94641.7
+16	Idaho	SULFUR	2002	kg					45021.4		99820.5			29338.7
+16	Idaho	SULFUR	2003	kg					5111.9		42836.4			42700.7
+16	Idaho	SULFUR	2004	kg					4882.1		9240			47734.8
+16	Idaho	SULFUR	2005	kg					2527.7		14856.5			65099.2
+16	Idaho	SULFUR	2006	kg					624.7		2196.5			25940
+16	Idaho	SULFUR	2007	kg					13980.4		20836.4			10590.4
+16	Idaho	SULFUR	2008	kg					19745.8		6788.5			65523.5
+16	Idaho	SULFUR	2009	kg					104327.3		4307.3			50510.8
+16	Idaho	SULFUR	2010	kg					30		6035.3			24448.5
+16	Idaho	SULFUR	2011	kg					7975		22030.9			127907.3
+16	Idaho	SULFUR	2012	kg					22167.7		20250.6			34703
+16	Idaho	SULFUR	2013	kg					11397.6		5233.4			67784.6
+16	Idaho	SULFUR	2014	kg	90697.7				21.6		14173.5			46714.1
+16	Idaho	SULFUR	2015	kg					1827.5		11206.3			42281.4
+16	Idaho	SULFUR	2016	kg							6242.4			69519.4
+16	Idaho	SULFUR	2017	kg							6864.8			101438
+16	Idaho	SULFURIC ACID	1992	kg					120551.8					
+16	Idaho	SULFURIC ACID	1993	kg					96013.4					
+16	Idaho	SULFURIC ACID	1994	kg					143769.8					
+16	Idaho	SULFURIC ACID	1995	kg					125970.9					
+16	Idaho	SULFURIC ACID	1996	kg					513863.1					
+16	Idaho	SULFURIC ACID	1997	kg					351960.4					
+16	Idaho	SULFURIC ACID	1998	kg					164594.4					
+16	Idaho	SULFURIC ACID	1999	kg					451380.1					
+16	Idaho	SULFURIC ACID	2000	kg					10702912.6					
+16	Idaho	SULFURIC ACID	2001	kg					11185502.5					
+16	Idaho	SULFURIC ACID	2002	kg					10824910.9					
+16	Idaho	SULFURIC ACID	2003	kg					11778135.8					
+16	Idaho	SULFURIC ACID	2004	kg					12136860.8					
+16	Idaho	SULFURIC ACID	2005	kg					8130571.1					
+16	Idaho	SULFURIC ACID	2006	kg					10323610.7					
+16	Idaho	SULFURIC ACID	2007	kg					8169960.6					
+16	Idaho	SULFURIC ACID	2008	kg					118173.2					
+16	Idaho	SULFURIC ACID	2009	kg					7302557					
+16	Idaho	SULFURIC ACID	2010	kg					9148333.8					
+16	Idaho	SULFURIC ACID	2011	kg					2888222.1					
+16	Idaho	SULFURIC ACID	2012	kg					3859346.3					
+16	Idaho	SULFURIC ACID	2013	kg					5267969.8					
+16	Idaho	SULFURIC ACID	2014	kg					4062932.5					
+16	Idaho	SULFURIC ACID	2015	kg					3787866.3					
+16	Idaho	SULFURIC ACID	2016	kg					5129299.3					
+16	Idaho	SULFURIC ACID	2017	kg					3211633.5					
+17	Illinois	SULFUR	1992	kg					1158.1		52834.5			
+17	Illinois	SULFUR	1993	kg					3837.2		33966			
+17	Illinois	SULFUR	1994	kg		11035.3					147835.9			
+17	Illinois	SULFUR	1995	kg		54976.4			941.3		72017.9		3.1	
+17	Illinois	SULFUR	1996	kg					1189.3		118777.4			
+17	Illinois	SULFUR	1997	kg	106386.2				2438.4		45046.8			
+17	Illinois	SULFUR	1998	kg					11.5		55470.5			
+17	Illinois	SULFUR	1999	kg							20153.6			
+17	Illinois	SULFUR	2000	kg	17160.8						31151.9			
+17	Illinois	SULFUR	2001	kg							87785.8			
+17	Illinois	SULFUR	2002	kg					1233.4		25233.7			
+17	Illinois	SULFUR	2003	kg							54849.6			
+17	Illinois	SULFUR	2004	kg							37855.8			
+17	Illinois	SULFUR	2005	kg	43767.6	74871.6					46484.3			
+17	Illinois	SULFUR	2006	kg					4		88286.6			
+17	Illinois	SULFUR	2007	kg					484.3		26755.7			
+17	Illinois	SULFUR	2008	kg							12266.7			
+17	Illinois	SULFUR	2009	kg							42044.2			
+17	Illinois	SULFUR	2010	kg							25752.5			
+17	Illinois	SULFUR	2011	kg							43188.1			
+17	Illinois	SULFUR	2012	kg							13604.5			
+17	Illinois	SULFUR	2013	kg					2752.9		24191.2			
+17	Illinois	SULFUR	2014	kg							38640			
+17	Illinois	SULFUR	2016	kg	153312									
+17	Illinois	SULFURIC ACID	1995	kg					15166.1					
+18	Indiana	SULFUR	1992	kg							8855.1			
+18	Indiana	SULFUR	1993	kg							12556.6			
+18	Indiana	SULFUR	1994	kg					5.8		14292.6			
+18	Indiana	SULFUR	1995	kg					355.7		11365.9		7.3	
+18	Indiana	SULFUR	1996	kg		3529.9			19.1		6875			
+18	Indiana	SULFUR	1997	kg					1694.8		75868.3			
+18	Indiana	SULFUR	1998	kg							31420.8			
+18	Indiana	SULFUR	1999	kg							7567.1			
+18	Indiana	SULFUR	2000	kg					7626.3		9556			
+18	Indiana	SULFUR	2001	kg							72715.7			
+18	Indiana	SULFUR	2002	kg							8688.8			
+18	Indiana	SULFUR	2003	kg							11547.5			
+18	Indiana	SULFUR	2004	kg							8163.2			
+18	Indiana	SULFUR	2005	kg					162.8		7811.4			
+18	Indiana	SULFUR	2006	kg							4436.5			
+18	Indiana	SULFUR	2007	kg							8280.2			
+18	Indiana	SULFUR	2008	kg							6671.4			
+18	Indiana	SULFUR	2009	kg					1.3		8945.8			
+18	Indiana	SULFUR	2010	kg					218.8		4080.3			
+18	Indiana	SULFUR	2011	kg							8481.6			
+18	Indiana	SULFUR	2012	kg							4891.8			
+18	Indiana	SULFUR	2013	kg							8859.5			
+18	Indiana	SULFUR	2014	kg							2284.8			
+18	Indiana	SULFUR	2015	kg							1476.8			
+18	Indiana	SULFUR	2016	kg							630.9			
+18	Indiana	SULFUR	2017	kg							684			
+19	Iowa	SULFUR	1992	kg							680.9			
+19	Iowa	SULFUR	1993	kg		37067.6					285.2			
+19	Iowa	SULFUR	1994	kg							890.1			
+19	Iowa	SULFUR	1995	kg	21983.5				2.7		1142.8			
+19	Iowa	SULFUR	1996	kg		4632.7	295.4		7.7		651.9			
+19	Iowa	SULFUR	1997	kg							2874.1			
+19	Iowa	SULFUR	1998	kg							1411.9			
+19	Iowa	SULFUR	1999	kg							564			
+19	Iowa	SULFUR	2000	kg	201013.9						1474.3			
+19	Iowa	SULFUR	2001	kg	41657.7						6854.4			
+19	Iowa	SULFUR	2002	kg					151		785.2			
+19	Iowa	SULFUR	2003	kg							1374.1			
+19	Iowa	SULFUR	2004	kg							2867.4			
+19	Iowa	SULFUR	2005	kg	171135.9	13062					810.2			
+19	Iowa	SULFUR	2006	kg							349.9	23134.7		
+19	Iowa	SULFUR	2007	kg		126923.6	855.6				1259.1			
+19	Iowa	SULFUR	2008	kg							481.1			
+19	Iowa	SULFUR	2009	kg							151.6			
+19	Iowa	SULFUR	2010	kg							520.8			
+19	Iowa	SULFUR	2011	kg							1670.4			
+19	Iowa	SULFUR	2012	kg							866.8			
+19	Iowa	SULFUR	2013	kg							1549.3			
+19	Iowa	SULFUR	2014	kg	318750.1									
+19	Iowa	SULFUR	2016	kg	445182.9									
+19	Iowa	SULFUR	2017	kg		43113.9								
+20	Kansas	SULFUR	1992	kg							3688.2			
+20	Kansas	SULFUR	1993	kg							2355			
+20	Kansas	SULFUR	1994	kg							14652			
+20	Kansas	SULFUR	1995	kg							2622.8			286216.8
+20	Kansas	SULFUR	1996	kg		1801.6	6916.3				218.2		12076.2	
+20	Kansas	SULFUR	1997	kg					3424.3		6824.2		141.2	
+20	Kansas	SULFUR	1998	kg					1398.8		884.3			
+20	Kansas	SULFUR	1999	kg							5085.3			
+20	Kansas	SULFUR	2000	kg							145.8			
+20	Kansas	SULFUR	2001	kg							1884.3			
+20	Kansas	SULFUR	2003	kg							1141.1			
+20	Kansas	SULFUR	2004	kg							469.8			
+20	Kansas	SULFUR	2005	kg							353.1			
+20	Kansas	SULFUR	2006	kg										9094.8
+20	Kansas	SULFUR	2010	kg					144.8		675.7			
+20	Kansas	SULFUR	2011	kg							31.2			
+20	Kansas	SULFUR	2012	kg							289.2			
+20	Kansas	SULFUR	2015	kg							112.9			
+20	Kansas	SULFUR	2016	kg							91.3			
+20	Kansas	SULFUR	2017	kg			90789.3							
+20	Kansas	SULFURIC ACID	1993	kg					4269.1					
+20	Kansas	SULFURIC ACID	1995	kg					4507.1					
+20	Kansas	SULFURIC ACID	1997	kg					12381					
+20	Kansas	SULFURIC ACID	1999	kg					9056					
+20	Kansas	SULFURIC ACID	2000	kg					63901.6					
+20	Kansas	SULFURIC ACID	2002	kg					115640.5					
+20	Kansas	SULFURIC ACID	2003	kg					33089.9					
+20	Kansas	SULFURIC ACID	2004	kg					25292.3					
+20	Kansas	SULFURIC ACID	2005	kg					124090.5					
+20	Kansas	SULFURIC ACID	2006	kg					99966					
+20	Kansas	SULFURIC ACID	2011	kg					10894.1					
+20	Kansas	SULFURIC ACID	2016	kg					41410.7					
+21	Kentucky	SULFUR	1992	kg					53.9		7304			
+21	Kentucky	SULFUR	1993	kg					612.4		5997.2			
+21	Kentucky	SULFUR	1994	kg							8181			
+21	Kentucky	SULFUR	1995	kg					210.1		3858.9		43.5	
+21	Kentucky	SULFUR	1996	kg					192.1		19489.2			
+21	Kentucky	SULFUR	1997	kg							63711			
+21	Kentucky	SULFUR	1998	kg					10.5		16154.2			
+21	Kentucky	SULFUR	1999	kg					1127.7		10080.9			
+21	Kentucky	SULFUR	2000	kg					1738.1		12503.9			
+21	Kentucky	SULFUR	2001	kg							9566.7			
+21	Kentucky	SULFUR	2002	kg							10319.1			
+21	Kentucky	SULFUR	2003	kg							7644.1			
+21	Kentucky	SULFUR	2004	kg					3137.6		17620.4			
+21	Kentucky	SULFUR	2005	kg					134.8		7993.4			
+21	Kentucky	SULFUR	2006	kg					632		9848			
+21	Kentucky	SULFUR	2007	kg					41.7		10140.7			
+21	Kentucky	SULFUR	2008	kg							5768			
+21	Kentucky	SULFUR	2009	kg							8802.1			
+21	Kentucky	SULFUR	2010	kg							5820.3			
+21	Kentucky	SULFUR	2011	kg					49.2		4758			
+21	Kentucky	SULFUR	2012	kg					132.1		5461.5			
+21	Kentucky	SULFUR	2013	kg							4830.5			
+21	Kentucky	SULFUR	2014	kg							5870.5			
+21	Kentucky	SULFUR	2015	kg							2302			
+21	Kentucky	SULFUR	2016	kg							2333.9			
+21	Kentucky	SULFUR	2017	kg							737.4			
+22	Louisiana	SULFUR	1992	kg		15450.7		1307438.5	12.9		1840.5			
+22	Louisiana	SULFUR	1993	kg							244.8			
+22	Louisiana	SULFUR	1994	kg				45408.2			3528.5		805.5	
+22	Louisiana	SULFUR	1995	kg					1.1		2829.7			
+22	Louisiana	SULFUR	1996	kg				9693.7	8.2	6989.7				27054.3
+22	Louisiana	SULFUR	1997	kg			17099.3		0	2639.4	91.4			
+22	Louisiana	SULFUR	1998	kg				26099.9						
+22	Louisiana	SULFUR	1999	kg							662.3			
+22	Louisiana	SULFUR	2000	kg						1405.3	258.9			
+22	Louisiana	SULFUR	2001	kg				15315.7	123.2		435.9			
+22	Louisiana	SULFUR	2002	kg				22160.7			21454.3			
+22	Louisiana	SULFUR	2003	kg							437.1			
+22	Louisiana	SULFUR	2004	kg					124.1		5131.2			
+22	Louisiana	SULFUR	2005	kg							200.4			
+22	Louisiana	SULFUR	2006	kg					159.3		25.6			
+22	Louisiana	SULFUR	2007	kg				2292.6						
+22	Louisiana	SULFUR	2012	kg					3.5	4569.1				
+23	Maine	SULFUR	1992	kg							3102.1			
+23	Maine	SULFUR	1993	kg							4474.1			
+23	Maine	SULFUR	1994	kg							4325.2			
+23	Maine	SULFUR	1995	kg							3179.6			
+23	Maine	SULFUR	1996	kg					6872.7		4873.5			
+23	Maine	SULFUR	1997	kg					24832.4		12893.6			
+23	Maine	SULFUR	1998	kg							5453.9			
+23	Maine	SULFUR	1999	kg							12056.1			
+23	Maine	SULFUR	2000	kg							5819.6			
+23	Maine	SULFUR	2001	kg							3713.8			
+23	Maine	SULFUR	2002	kg							11234.5			
+23	Maine	SULFUR	2003	kg							6603.5			
+23	Maine	SULFUR	2004	kg					292.5		29406.3			
+23	Maine	SULFUR	2005	kg					1152.2		13225			
+23	Maine	SULFUR	2006	kg							4751.1			
+23	Maine	SULFUR	2007	kg					23199		7976.1			
+23	Maine	SULFUR	2008	kg							8120.2			
+23	Maine	SULFUR	2009	kg					1753		6241.2			
+23	Maine	SULFUR	2010	kg							3189.9			
+23	Maine	SULFUR	2011	kg							3676.3			
+23	Maine	SULFUR	2012	kg							14720.6			
+23	Maine	SULFUR	2013	kg							9265			
+23	Maine	SULFUR	2014	kg							6820.4			
+23	Maine	SULFUR	2015	kg							508.8			
+23	Maine	SULFUR	2016	kg					1021.2		1557.6			
+23	Maine	SULFUR	2017	kg							37.6			
+23	Maine	SULFURIC ACID	1993	kg					2353.7					
+23	Maine	SULFURIC ACID	1994	kg					755.5					
+23	Maine	SULFURIC ACID	1995	kg					1964.5					
+23	Maine	SULFURIC ACID	1996	kg					5926.9					
+23	Maine	SULFURIC ACID	1997	kg					6875.8					
+23	Maine	SULFURIC ACID	2000	kg					15234.7					
+24	Maryland	SULFUR	1992	kg							25703.9			
+24	Maryland	SULFUR	1993	kg							12354.4			
+24	Maryland	SULFUR	1994	kg							17656.3			
+24	Maryland	SULFUR	1995	kg							12486.5			1493.9
+24	Maryland	SULFUR	1996	kg					269.7		21346.2		210.7	
+24	Maryland	SULFUR	1997	kg					43.9		30225.4			
+24	Maryland	SULFUR	1998	kg							6174.9			
+24	Maryland	SULFUR	1999	kg							10948.2			
+24	Maryland	SULFUR	2000	kg							18326.1			
+24	Maryland	SULFUR	2001	kg							2893.9			
+24	Maryland	SULFUR	2002	kg					339.5		18286.1			
+24	Maryland	SULFUR	2003	kg					1446		20519.4			
+24	Maryland	SULFUR	2004	kg					510.2		11485			
+24	Maryland	SULFUR	2005	kg					3.1		11279.2			
+24	Maryland	SULFUR	2006	kg					5609.6		12550.3			
+24	Maryland	SULFUR	2007	kg					484.9		10769.5			
+24	Maryland	SULFUR	2008	kg					278.6		11617.5			
+24	Maryland	SULFUR	2009	kg					287.8		7997.5			
+24	Maryland	SULFUR	2010	kg					185.1		8152.5			
+24	Maryland	SULFUR	2011	kg					268.7		10607.4			
+24	Maryland	SULFUR	2012	kg					1280.7		4600.4			
+24	Maryland	SULFUR	2013	kg					60.6		7496.7			
+24	Maryland	SULFUR	2014	kg					57.3		3868.1			
+24	Maryland	SULFUR	2015	kg					637.4		7166.4			
+24	Maryland	SULFUR	2016	kg					738.9		4587.2			
+24	Maryland	SULFUR	2017	kg	1178.5						3430.4			
+25	Massachusetts	SULFUR	1992	kg							12130.9			
+25	Massachusetts	SULFUR	1993	kg							9457.2			
+25	Massachusetts	SULFUR	1994	kg							5399			
+25	Massachusetts	SULFUR	1995	kg							3103.7			
+25	Massachusetts	SULFUR	1996	kg					772.1		5470.1			
+25	Massachusetts	SULFUR	1997	kg							16104.4			
+25	Massachusetts	SULFUR	1998	kg							7392.6			
+25	Massachusetts	SULFUR	1999	kg							8896.6			
+25	Massachusetts	SULFUR	2000	kg							8557.4			
+25	Massachusetts	SULFUR	2001	kg							9808.4			
+25	Massachusetts	SULFUR	2002	kg					1952		1238.1			
+25	Massachusetts	SULFUR	2003	kg							2031.8			
+25	Massachusetts	SULFUR	2004	kg					840		20231.6			
+25	Massachusetts	SULFUR	2005	kg							19997.1			
+25	Massachusetts	SULFUR	2006	kg					4998.1		6516			
+25	Massachusetts	SULFUR	2007	kg					1041		15415.2			
+25	Massachusetts	SULFUR	2008	kg					1467.6		21034.8			
+25	Massachusetts	SULFUR	2009	kg					783.7		10298.4			
+25	Massachusetts	SULFUR	2010	kg					4506.1		5304.4			
+25	Massachusetts	SULFUR	2011	kg					206		6236.1			
+25	Massachusetts	SULFUR	2012	kg					6981.1		1463.4			
+25	Massachusetts	SULFUR	2013	kg					167.5		12320			
+25	Massachusetts	SULFUR	2014	kg					243.1		9670.1			
+25	Massachusetts	SULFUR	2015	kg					2531.7		2556.5			
+25	Massachusetts	SULFUR	2016	kg					3362.4		3969.2			
+25	Massachusetts	SULFUR	2017	kg					117.5		606.6			
+26	Michigan	SULFUR	1992	kg					2108.7		416975.4			
+26	Michigan	SULFUR	1993	kg							893335.1			
+26	Michigan	SULFUR	1994	kg					875.5		672433.2			
+26	Michigan	SULFUR	1995	kg		15470.7			4987		563333.9			
+26	Michigan	SULFUR	1996	kg		698.2			859.3		548763.5			
+26	Michigan	SULFUR	1997	kg					999.1		581410.6			
+26	Michigan	SULFUR	1998	kg							628431.9			
+26	Michigan	SULFUR	1999	kg					10126.2		645266.2			
+26	Michigan	SULFUR	2000	kg							790658.3			
+26	Michigan	SULFUR	2001	kg					17042.2		910907.6			
+26	Michigan	SULFUR	2002	kg					24444.1		504531.6			3717.6
+26	Michigan	SULFUR	2003	kg					1122.3		521337.4			
+26	Michigan	SULFUR	2004	kg							540868			
+26	Michigan	SULFUR	2005	kg					2743.8		402102.2			
+26	Michigan	SULFUR	2006	kg					2401		412705.9			
+26	Michigan	SULFUR	2007	kg							346991.7			
+26	Michigan	SULFUR	2008	kg					193.5		426304			
+26	Michigan	SULFUR	2009	kg					3103.9		344224.1			
+26	Michigan	SULFUR	2010	kg					8861.8		405119.7			
+26	Michigan	SULFUR	2011	kg							526128.2			
+26	Michigan	SULFUR	2012	kg					610		206285.1			
+26	Michigan	SULFUR	2013	kg					150		301089.6			
+26	Michigan	SULFUR	2014	kg					16112		133125			
+26	Michigan	SULFUR	2015	kg					9056.8		171544.9			
+26	Michigan	SULFUR	2016	kg							245185.1			
+26	Michigan	SULFUR	2017	kg							270776.4			
+26	Michigan	SULFURIC ACID	2007	kg					67228.4					
+27	Minnesota	SULFUR	1992	kg					5586.2		5371.9			
+27	Minnesota	SULFUR	1993	kg		14042.6					3485.1			
+27	Minnesota	SULFUR	1994	kg							6227.3			
+27	Minnesota	SULFUR	1995	kg	27879.4	19691.4			84504.7		8725			
+27	Minnesota	SULFUR	1996	kg					146.1		5695.3			
+27	Minnesota	SULFUR	1997	kg	90958.3						44086.9			
+27	Minnesota	SULFUR	1998	kg							8593.9			
+27	Minnesota	SULFUR	1999	kg							4655.3			
+27	Minnesota	SULFUR	2000	kg	9803.3						16413.3			176586.6
+27	Minnesota	SULFUR	2001	kg							32738.4			156182.9
+27	Minnesota	SULFUR	2002	kg					852.8		5170.9			14426
+27	Minnesota	SULFUR	2003	kg							8479.3			
+27	Minnesota	SULFUR	2004	kg							6476.6			
+27	Minnesota	SULFUR	2005	kg	39334.3	21925.8					6152			
+27	Minnesota	SULFUR	2006	kg					3359.6		2632.4			48859.8
+27	Minnesota	SULFUR	2007	kg		187781.1					10277.9			
+27	Minnesota	SULFUR	2008	kg							3932.9			
+27	Minnesota	SULFUR	2009	kg							3172.5			
+27	Minnesota	SULFUR	2010	kg					267.6		5260.9			
+27	Minnesota	SULFUR	2011	kg							8792.9			
+27	Minnesota	SULFUR	2012	kg							4056.8			
+27	Minnesota	SULFUR	2013	kg							7560.1			
+27	Minnesota	SULFUR	2014	kg							815.8			
+27	Minnesota	SULFUR	2015	kg							299.3			
+27	Minnesota	SULFUR	2016	kg	121912.1						572.1			
+27	Minnesota	SULFUR	2017	kg							284.8			
+27	Minnesota	SULFURIC ACID	1996	kg			40354.9		64852.6					
+27	Minnesota	SULFURIC ACID	1997	kg					26224.9					
+27	Minnesota	SULFURIC ACID	1998	kg					8563.7					
+27	Minnesota	SULFURIC ACID	1999	kg					51401.8					
+27	Minnesota	SULFURIC ACID	2000	kg					198177.4					
+27	Minnesota	SULFURIC ACID	2001	kg					35556.6					
+28	Mississippi	SULFUR	1992	kg		11672.4		81917.5	138.9	156.5	8537.1			360.2
+28	Mississippi	SULFUR	1993	kg							7337.8			344.6
+28	Mississippi	SULFUR	1994	kg				56498.2			10711.8			2853.1
+28	Mississippi	SULFUR	1995	kg			3890.3	14323	0.4	230.7	22791.9			2095.8
+28	Mississippi	SULFUR	1996	kg		2899.8	39868.1	13603.9	470.3	4587.1	3815.1			1249.7
+28	Mississippi	SULFUR	1997	kg				53632.4			5749.4		6321.3	4151.4
+28	Mississippi	SULFUR	1998	kg				40975			6339.9			190.9
+28	Mississippi	SULFUR	1999	kg			25986.6				16321			161.3
+28	Mississippi	SULFUR	2000	kg				4245.7			10940.2			194.2
+28	Mississippi	SULFUR	2001	kg				1533.3			6643.6			155.9
+28	Mississippi	SULFUR	2002	kg				1530.2			14849.9			93
+28	Mississippi	SULFUR	2003	kg							5871.5			183.2
+28	Mississippi	SULFUR	2004	kg							18924.5			128.6
+28	Mississippi	SULFUR	2005	kg							5612.3			22.8
+28	Mississippi	SULFUR	2006	kg							8007.1			381.5
+28	Mississippi	SULFUR	2007	kg				5533.4			4673.8			297.6
+28	Mississippi	SULFUR	2008	kg							3631			552
+28	Mississippi	SULFUR	2009	kg							2293.1			2927.3
+28	Mississippi	SULFUR	2010	kg							1587.5			140.6
+28	Mississippi	SULFUR	2011	kg							3245			822.8
+28	Mississippi	SULFUR	2012	kg						13537.7	1665			
+28	Mississippi	SULFUR	2013	kg							747.5			202.1
+28	Mississippi	SULFUR	2014	kg							813.8			
+28	Mississippi	SULFUR	2015	kg							2119.9			
+28	Mississippi	SULFUR	2016	kg							1369.3			
+28	Mississippi	SULFUR	2017	kg							538.2			3455.1
+29	Missouri	SULFUR	1992	kg					376.2		60964.7	3099.1		
+29	Missouri	SULFUR	1993	kg					5194.6		47915.9			
+29	Missouri	SULFUR	1994	kg							108240.3			
+29	Missouri	SULFUR	1995	kg					16.8		43123.9			104172.9
+29	Missouri	SULFUR	1996	kg		6239	14763.5		3704.4		26159.3		7820.5	
+29	Missouri	SULFUR	1997	kg							16553			
+29	Missouri	SULFUR	1998	kg					1786.2		30123.4			
+29	Missouri	SULFUR	1999	kg							9510.6			
+29	Missouri	SULFUR	2000	kg							14443.7			
+29	Missouri	SULFUR	2001	kg							71330.5			
+29	Missouri	SULFUR	2002	kg							8666.2			
+29	Missouri	SULFUR	2003	kg							22906.9			
+29	Missouri	SULFUR	2004	kg							50378			
+29	Missouri	SULFUR	2005	kg		13906.7					19237			
+29	Missouri	SULFUR	2006	kg					488.9		32137.5			
+29	Missouri	SULFUR	2007	kg					228.9		11440.8			
+29	Missouri	SULFUR	2008	kg							12700.4			
+29	Missouri	SULFUR	2009	kg							30123.4			
+29	Missouri	SULFUR	2010	kg							15564.7			
+29	Missouri	SULFUR	2011	kg							16199.8			
+29	Missouri	SULFUR	2012	kg							5575.5			
+29	Missouri	SULFUR	2013	kg							9499.5			
+29	Missouri	SULFUR	2014	kg							9757.6			
+29	Missouri	SULFUR	2017	kg			59204.4							
+30	Montana	SULFUR	1992	kg					987.4		388.4			37597.1
+30	Montana	SULFUR	1993	kg					5625		1035.3			43888.9
+30	Montana	SULFUR	1994	kg					240.8		53.7			21327
+30	Montana	SULFUR	1995	kg					94.8		415.9		55.3	37352.9
+30	Montana	SULFUR	1996	kg					360.4		227.9			55557.7
+30	Montana	SULFUR	1997	kg					190.9		494.6			19102.7
+30	Montana	SULFUR	1998	kg							1215.6			467.9
+30	Montana	SULFUR	1999	kg							1072.4			7142.4
+30	Montana	SULFUR	2000	kg							1158.1			17510.7
+30	Montana	SULFUR	2001	kg			137774.4				634.2			17577.2
+30	Montana	SULFUR	2002	kg					621		289.3			9407.4
+30	Montana	SULFUR	2003	kg							296.5			15333.4
+30	Montana	SULFUR	2004	kg							449.7			4530.3
+30	Montana	SULFUR	2005	kg							615.3			9086.8
+30	Montana	SULFUR	2006	kg							757.2			7643.8
+30	Montana	SULFUR	2007	kg							309.7			
+30	Montana	SULFUR	2008	kg					5990		121.2			12229.3
+30	Montana	SULFUR	2009	kg							256.5			
+30	Montana	SULFUR	2010	kg					554		472.7			
+30	Montana	SULFUR	2011	kg					36.3		208.2			
+30	Montana	SULFUR	2012	kg							610.7			4037.7
+30	Montana	SULFUR	2013	kg					252.6		405.6			
+30	Montana	SULFUR	2014	kg							489.9			
+30	Montana	SULFUR	2015	kg					43.3		261			
+30	Montana	SULFUR	2016	kg							597.3			
+30	Montana	SULFUR	2017	kg							367.7			
+30	Montana	SULFURIC ACID	1992	kg					2928.4					
+30	Montana	SULFURIC ACID	1993	kg					2821.7					
+30	Montana	SULFURIC ACID	1994	kg					2805.2					
+30	Montana	SULFURIC ACID	1995	kg					3524					
+30	Montana	SULFURIC ACID	1996	kg					13798.5					
+30	Montana	SULFURIC ACID	1997	kg					13456					
+30	Montana	SULFURIC ACID	1998	kg					4705.5					
+30	Montana	SULFURIC ACID	1999	kg					15256					
+30	Montana	SULFURIC ACID	2000	kg					323221.9					
+30	Montana	SULFURIC ACID	2001	kg					326876.9					
+30	Montana	SULFURIC ACID	2002	kg					307557.4					
+30	Montana	SULFURIC ACID	2003	kg					337989.4					
+30	Montana	SULFURIC ACID	2004	kg					358183.6					
+30	Montana	SULFURIC ACID	2005	kg					258756.7					
+30	Montana	SULFURIC ACID	2006	kg					121534.1					
+30	Montana	SULFURIC ACID	2007	kg					257342.4					
+30	Montana	SULFURIC ACID	2008	kg					2547.2					
+30	Montana	SULFURIC ACID	2009	kg					173668.9					
+30	Montana	SULFURIC ACID	2010	kg					226515					
+30	Montana	SULFURIC ACID	2011	kg					31187.6					
+30	Montana	SULFURIC ACID	2012	kg					92417.4					
+30	Montana	SULFURIC ACID	2013	kg					145126.2					
+30	Montana	SULFURIC ACID	2014	kg					126344.7					
+30	Montana	SULFURIC ACID	2015	kg					111573.2					
+30	Montana	SULFURIC ACID	2016	kg					137469.5					
+30	Montana	SULFURIC ACID	2017	kg					92330.6					
+31	Nebraska	SULFUR	1992	kg					1229.2		6.7			
+31	Nebraska	SULFUR	1993	kg					10776.1		0.2			
+31	Nebraska	SULFUR	1994	kg					2016.9		3.2			17763.9
+31	Nebraska	SULFUR	1995	kg					899.9		0.9			56918.4
+31	Nebraska	SULFUR	1996	kg		2508.3	6406.3		5778.3		2.7			21389.3
+31	Nebraska	SULFUR	1997	kg			1890.7				0.5			5355.3
+31	Nebraska	SULFUR	1998	kg					2804.1		2.4			21005.1
+31	Nebraska	SULFUR	1999	kg							14.7			17213.9
+31	Nebraska	SULFUR	2000	kg	71706.1						0.5			116882.9
+31	Nebraska	SULFUR	2001	kg	114643						6.3			43010.4
+31	Nebraska	SULFUR	2002	kg					0.5					538.5
+31	Nebraska	SULFUR	2003	kg							4.1			28530.3
+31	Nebraska	SULFUR	2004	kg							1.7			9034.6
+31	Nebraska	SULFUR	2005	kg	100857.4						1.3			3550.8
+31	Nebraska	SULFUR	2006	kg								16105.4		2084.8
+31	Nebraska	SULFUR	2007	kg			90046.4							
+31	Nebraska	SULFUR	2008	kg					1					2129.2
+31	Nebraska	SULFUR	2009	kg					78635.6					
+31	Nebraska	SULFUR	2010	kg					9878.9		19			
+31	Nebraska	SULFUR	2011	kg							0.8			2484
+31	Nebraska	SULFUR	2012	kg							7.9			
+31	Nebraska	SULFUR	2014	kg					2832.3					
+31	Nebraska	SULFUR	2015	kg							4.1			
+31	Nebraska	SULFUR	2016	kg	77264.9									
+31	Nebraska	SULFUR	2017	kg		21256.6								
+31	Nebraska	SULFURIC ACID	1993	kg					9442					
+31	Nebraska	SULFURIC ACID	1995	kg					9780.8					
+31	Nebraska	SULFURIC ACID	1996	kg					6567.8					
+31	Nebraska	SULFURIC ACID	1997	kg					78302.3					
+31	Nebraska	SULFURIC ACID	1998	kg					52867.9					
+31	Nebraska	SULFURIC ACID	1999	kg					16866.6					
+31	Nebraska	SULFURIC ACID	2000	kg					177255.8					
+31	Nebraska	SULFURIC ACID	2002	kg					277863.7					
+31	Nebraska	SULFURIC ACID	2003	kg					302988.1					
+31	Nebraska	SULFURIC ACID	2004	kg					15301.7					
+31	Nebraska	SULFURIC ACID	2005	kg					351678.5					
+31	Nebraska	SULFURIC ACID	2006	kg					1838892					
+31	Nebraska	SULFURIC ACID	2007	kg					914130.3					
+31	Nebraska	SULFURIC ACID	2011	kg					73511.4					
+31	Nebraska	SULFURIC ACID	2016	kg					224189.4					
+32	Nevada	SULFUR	1992	kg					478.3		396.7	1317.2	329.2	
+32	Nevada	SULFUR	1993	kg					197.3		798.5	15966.4		
+32	Nevada	SULFUR	1994	kg	2.8				319.9		142.5			
+32	Nevada	SULFUR	1995	kg					102		327.6		2831.1	
+32	Nevada	SULFUR	1996	kg					275.1		350.4	654.9	46.9	
+32	Nevada	SULFUR	1997	kg					294.8		2134.6	129.6	768.9	
+32	Nevada	SULFUR	1998	kg					92.9		3062			
+32	Nevada	SULFUR	1999	kg					85.5		634.3			
+32	Nevada	SULFUR	2000	kg					274.1		1211.4			
+32	Nevada	SULFUR	2001	kg					1915.9		1567.5			
+32	Nevada	SULFUR	2002	kg					1504.6		1638.9			
+32	Nevada	SULFUR	2003	kg					1954.3		1191.5			
+32	Nevada	SULFUR	2004	kg					1157.3		508.2			
+32	Nevada	SULFUR	2005	kg					409.5		744.3			
+32	Nevada	SULFUR	2006	kg					161.1		685.6			
+32	Nevada	SULFUR	2007	kg					5187.9		313.3			
+32	Nevada	SULFUR	2008	kg					3523		569.2			
+32	Nevada	SULFUR	2009	kg					3081		540.3			
+32	Nevada	SULFUR	2010	kg					4683.9		703.3			
+32	Nevada	SULFUR	2011	kg					6284.4		680.5			
+32	Nevada	SULFUR	2012	kg					3580.7		962.5			
+32	Nevada	SULFUR	2013	kg					2823.8		842.5			
+32	Nevada	SULFUR	2014	kg	116.6				1036.2		1235.6			
+32	Nevada	SULFUR	2015	kg					8298.1		1123.3			
+32	Nevada	SULFUR	2016	kg					3008.2		960.2			
+32	Nevada	SULFUR	2017	kg					5853.8		667.9			
+32	Nevada	SULFURIC ACID	1992	kg					1748.8					
+32	Nevada	SULFURIC ACID	1993	kg					14846					
+32	Nevada	SULFURIC ACID	1995	kg					4378					
+32	Nevada	SULFURIC ACID	1996	kg					6409					
+32	Nevada	SULFURIC ACID	1997	kg					8147.4					
+32	Nevada	SULFURIC ACID	1998	kg					2364.5					
+32	Nevada	SULFURIC ACID	1999	kg					5547.5					
+32	Nevada	SULFURIC ACID	2000	kg					35345.8					
+32	Nevada	SULFURIC ACID	2001	kg					237018.2					
+32	Nevada	SULFURIC ACID	2002	kg					148747.7					
+32	Nevada	SULFURIC ACID	2003	kg					199147.4					
+32	Nevada	SULFURIC ACID	2004	kg					139992.1					
+32	Nevada	SULFURIC ACID	2005	kg					114281.8					
+32	Nevada	SULFURIC ACID	2006	kg					211741.1					
+32	Nevada	SULFURIC ACID	2007	kg					169305.5					
+32	Nevada	SULFURIC ACID	2009	kg					107459.1					
+32	Nevada	SULFURIC ACID	2010	kg					122813.6					
+32	Nevada	SULFURIC ACID	2011	kg					40249.4					
+32	Nevada	SULFURIC ACID	2012	kg					66973					
+32	Nevada	SULFURIC ACID	2013	kg					101648.9					
+32	Nevada	SULFURIC ACID	2014	kg					43698.9					
+32	Nevada	SULFURIC ACID	2015	kg					24127.2					
+32	Nevada	SULFURIC ACID	2016	kg					28070.7					
+32	Nevada	SULFURIC ACID	2017	kg					7415.3					
+33	New Hampshire	SULFUR	1992	kg							1416.9			
+33	New Hampshire	SULFUR	1993	kg							2159			
+33	New Hampshire	SULFUR	1994	kg							932.7			
+33	New Hampshire	SULFUR	1995	kg							247.7			
+33	New Hampshire	SULFUR	1996	kg					141.2		4152.3			
+33	New Hampshire	SULFUR	1997	kg							8058.2			
+33	New Hampshire	SULFUR	1998	kg							3590.8			
+33	New Hampshire	SULFUR	1999	kg							8067.1			
+33	New Hampshire	SULFUR	2000	kg							4037.3			
+33	New Hampshire	SULFUR	2001	kg							3032.4			
+33	New Hampshire	SULFUR	2002	kg					262.3		342.2			
+33	New Hampshire	SULFUR	2003	kg							3800.3			
+33	New Hampshire	SULFUR	2004	kg					158.3		17401.4			
+33	New Hampshire	SULFUR	2005	kg							9316.1			
+33	New Hampshire	SULFUR	2006	kg					1018.9		4041.2			
+33	New Hampshire	SULFUR	2007	kg					219.6		6348.5			
+33	New Hampshire	SULFUR	2008	kg					451.9		6179.2			
+33	New Hampshire	SULFUR	2009	kg					205.8		4327			
+33	New Hampshire	SULFUR	2010	kg							2339.1			
+33	New Hampshire	SULFUR	2011	kg					61.8		2589.1			
+33	New Hampshire	SULFUR	2012	kg					1390.1		7023			
+33	New Hampshire	SULFUR	2013	kg					40.9		4868.9			
+33	New Hampshire	SULFUR	2014	kg					73.5		3824.8			
+33	New Hampshire	SULFUR	2015	kg					639		784			
+33	New Hampshire	SULFUR	2016	kg					861.3		1202.6			
+33	New Hampshire	SULFUR	2017	kg							115.8			
+34	New Jersey	SULFUR	1992	kg							260883.1			
+34	New Jersey	SULFUR	1993	kg					14.1		76048.3			
+34	New Jersey	SULFUR	1994	kg					358.9		7697.6			
+34	New Jersey	SULFUR	1995	kg							204536.9			
+34	New Jersey	SULFUR	1996	kg					6621.9		123059.8			
+34	New Jersey	SULFUR	1997	kg					674.5		74087.8			
+34	New Jersey	SULFUR	1998	kg					2188.5		25649.3			
+34	New Jersey	SULFUR	1999	kg							138068.1			
+34	New Jersey	SULFUR	2000	kg							258379.6			
+34	New Jersey	SULFUR	2001	kg							95764.7			
+34	New Jersey	SULFUR	2002	kg					2768.6		100650			
+34	New Jersey	SULFUR	2003	kg							62231.2			
+34	New Jersey	SULFUR	2004	kg					1661.6		59772.9			
+34	New Jersey	SULFUR	2005	kg					580		60267			
+34	New Jersey	SULFUR	2006	kg					1941.8		110952.1			
+34	New Jersey	SULFUR	2007	kg					1555.8		94402.6			
+34	New Jersey	SULFUR	2008	kg					648.9		98415.4			
+34	New Jersey	SULFUR	2009	kg					954.5		56455.6			
+34	New Jersey	SULFUR	2010	kg					519.3		85969.1			
+34	New Jersey	SULFUR	2011	kg					816.1		18321.8			
+34	New Jersey	SULFUR	2012	kg					3505.2		12214.5			
+34	New Jersey	SULFUR	2013	kg					1054.6		173648.7			
+34	New Jersey	SULFUR	2014	kg					341.9		11737.4			
+34	New Jersey	SULFUR	2015	kg					2307.2		43299.2			
+34	New Jersey	SULFUR	2016	kg					3579.1		15116.5			
+34	New Jersey	SULFUR	2017	kg							3306.2			
+35	New Mexico	SULFUR	1992	kg		0.9		1179.5	485.2		9780.1			
+35	New Mexico	SULFUR	1993	kg					2329.9		20302.9			
+35	New Mexico	SULFUR	1994	kg				1343.9	5953.7		4581.3			4598.1
+35	New Mexico	SULFUR	1995	kg				11.6	6492.5		8270.3		68.8	3246
+35	New Mexico	SULFUR	1996	kg					7697.4		8286.4			351
+35	New Mexico	SULFUR	1997	kg					7888.6		25146.4	13495.4	155.8	
+35	New Mexico	SULFUR	1998	kg					101939.7		18260.3			
+35	New Mexico	SULFUR	1999	kg					3457.7		13986.6			336.8
+35	New Mexico	SULFUR	2000	kg					698.6		27300.7			
+35	New Mexico	SULFUR	2001	kg					2757.1		14000.5			392.6
+35	New Mexico	SULFUR	2002	kg					5528.6		9093.3			101.8
+35	New Mexico	SULFUR	2003	kg					4116.4		10438.7			
+35	New Mexico	SULFUR	2004	kg			1582.6		14517.6		93300.8			
+35	New Mexico	SULFUR	2005	kg					35800.4		5937.7			
+35	New Mexico	SULFUR	2006	kg				2821.3	12200.5		112426.8			
+35	New Mexico	SULFUR	2007	kg				7989.2	5567.1		2760.5			
+35	New Mexico	SULFUR	2008	kg					18092.6		3110.1			
+35	New Mexico	SULFUR	2009	kg					6100.4		3482.3			
+35	New Mexico	SULFUR	2010	kg					15380.8		2485.7			
+35	New Mexico	SULFUR	2011	kg					6.5		1218.1			
+35	New Mexico	SULFUR	2012	kg					2719.4		5182			
+35	New Mexico	SULFUR	2013	kg					491.9		4667			
+35	New Mexico	SULFUR	2014	kg					2589		6892.2			
+35	New Mexico	SULFUR	2015	kg					27.8		6695.1			
+35	New Mexico	SULFUR	2016	kg					0.2		4857.7			
+35	New Mexico	SULFUR	2017	kg					30.2		2443.8			
+35	New Mexico	SULFURIC ACID	1992	kg					1388.6					
+35	New Mexico	SULFURIC ACID	1993	kg					15130.8					
+35	New Mexico	SULFURIC ACID	1995	kg					84298.3					
+35	New Mexico	SULFURIC ACID	1996	kg					8625.6					
+35	New Mexico	SULFURIC ACID	1997	kg					85441.5					
+35	New Mexico	SULFURIC ACID	1998	kg					2812.2					
+35	New Mexico	SULFURIC ACID	1999	kg					27373.9					
+35	New Mexico	SULFURIC ACID	2000	kg					139450.8					
+35	New Mexico	SULFURIC ACID	2001	kg					400714.2					
+35	New Mexico	SULFURIC ACID	2002	kg					432083.7					
+35	New Mexico	SULFURIC ACID	2003	kg					450677.6					
+35	New Mexico	SULFURIC ACID	2004	kg					174318.3					
+35	New Mexico	SULFURIC ACID	2005	kg					158534.1					
+35	New Mexico	SULFURIC ACID	2006	kg					335417.1					
+35	New Mexico	SULFURIC ACID	2007	kg					96271.8					
+35	New Mexico	SULFURIC ACID	2009	kg					17950.7					
+35	New Mexico	SULFURIC ACID	2010	kg					123399.4					
+35	New Mexico	SULFURIC ACID	2011	kg					7068.2					
+35	New Mexico	SULFURIC ACID	2012	kg					130032.5					
+35	New Mexico	SULFURIC ACID	2013	kg					171121.2					
+35	New Mexico	SULFURIC ACID	2014	kg					166553.8					
+35	New Mexico	SULFURIC ACID	2015	kg					18506.4					
+35	New Mexico	SULFURIC ACID	2016	kg					68880.3					
+35	New Mexico	SULFURIC ACID	2017	kg					46858.5					
+36	New York	SULFUR	1992	kg							234147.9			
+36	New York	SULFUR	1993	kg					160.1		122803.5			
+36	New York	SULFUR	1994	kg					14.1		246087.2			
+36	New York	SULFUR	1995	kg					114.8		87331			
+36	New York	SULFUR	1996	kg					1126.5		293229.1			
+36	New York	SULFUR	1997	kg					250.3		306733.8			
+36	New York	SULFUR	1998	kg					1478.7		175249.4			
+36	New York	SULFUR	1999	kg					39.8		280945.4			
+36	New York	SULFUR	2000	kg					587.1		109977.2			
+36	New York	SULFUR	2001	kg					2016.8		205542.9			
+36	New York	SULFUR	2002	kg					4018		253985.9			
+36	New York	SULFUR	2003	kg					2001.6		653152.5			
+36	New York	SULFUR	2004	kg					1697.9		323913.5			
+36	New York	SULFUR	2005	kg					2483.8		324780.5			
+36	New York	SULFUR	2006	kg					58796		176722.6			
+36	New York	SULFUR	2007	kg					2647.5		208603.7			
+36	New York	SULFUR	2008	kg					1719.1		299246.8			
+36	New York	SULFUR	2009	kg					18022.7		148054.8			
+36	New York	SULFUR	2010	kg					6774.5		188598			
+36	New York	SULFUR	2011	kg					4007.6		253264.8			
+36	New York	SULFUR	2012	kg					9364.4		233482.8			
+36	New York	SULFUR	2013	kg					725.3		162235.9			
+36	New York	SULFUR	2014	kg					1399.3		146731			
+36	New York	SULFUR	2015	kg					5176.5		43695.6			
+36	New York	SULFUR	2016	kg	20375.6				9151.6		50354.7			
+36	New York	SULFUR	2017	kg	50000.3				455.7		208258.5			
+37	North Carolina	SULFUR	1992	kg					4200.2		15865.1		1420.5	17669.4
+37	North Carolina	SULFUR	1993	kg	75924.1				4597		34659.4			28079.9
+37	North Carolina	SULFUR	1994	kg							62932.5			28842.7
+37	North Carolina	SULFUR	1995	kg							80036.6			14231.9
+37	North Carolina	SULFUR	1996	kg					6427.9		33529.4			5986.5
+37	North Carolina	SULFUR	1997	kg					2040.9		354488.5			7462.8
+37	North Carolina	SULFUR	1998	kg					81376.8		41590.8			8637.8
+37	North Carolina	SULFUR	1999	kg							31828.8			3348.8
+37	North Carolina	SULFUR	2000	kg					206649.3		50901.9			18138.8
+37	North Carolina	SULFUR	2001	kg				77618.8			18431.1			5090.3
+37	North Carolina	SULFUR	2002	kg					330.4		46796.6			847.1
+37	North Carolina	SULFUR	2003	kg					4720		20102.7			2099.2
+37	North Carolina	SULFUR	2004	kg					4673		29490.3			1483.8
+37	North Carolina	SULFUR	2005	kg					1512.9		24502.1			1431.3
+37	North Carolina	SULFUR	2006	kg				6276	87929.3		33018.4			4239.6
+37	North Carolina	SULFUR	2007	kg					280.2		22790.8			1731.1
+37	North Carolina	SULFUR	2008	kg							46152.5			5089.8
+37	North Carolina	SULFUR	2009	kg							48919.8			2364
+37	North Carolina	SULFUR	2010	kg							26360			1791.7
+37	North Carolina	SULFUR	2011	kg					1790.3		110824.1			1539
+37	North Carolina	SULFUR	2012	kg					439.6		25599.7			127.4
+37	North Carolina	SULFUR	2013	kg					8769.8		33395.9			920.5
+37	North Carolina	SULFUR	2014	kg					5672.7		182230.5			106841.8
+37	North Carolina	SULFUR	2015	kg							54207			
+37	North Carolina	SULFUR	2016	kg					279.8		8351.3			
+37	North Carolina	SULFUR	2017	kg	6499.4						3081.7			54034.9
+38	North Dakota	SULFUR	1992	kg					69056.9					
+38	North Dakota	SULFUR	1995	kg					907.8				17727.2	
+38	North Dakota	SULFUR	2000	kg										149253.7
+38	North Dakota	SULFUR	2001	kg			110337.5							132889.1
+38	North Dakota	SULFUR	2002	kg										14461.6
+38	North Dakota	SULFUR	2005	kg		38178.7								
+38	North Dakota	SULFUR	2006	kg					14546.8					39525.5
+38	North Dakota	SULFUR	2010	kg					30579.8					
+38	North Dakota	SULFURIC ACID	1996	kg			86275.2		54920.8					
+38	North Dakota	SULFURIC ACID	1998	kg					40361.7					
+38	North Dakota	SULFURIC ACID	2000	kg					55988.8					
+39	Ohio	SULFUR	1992	kg	12373.5						58334.5			
+39	Ohio	SULFUR	1993	kg					600.4		23737.9			
+39	Ohio	SULFUR	1994	kg					62.7		32446.1			
+39	Ohio	SULFUR	1995	kg					13088.5		93335.4			
+39	Ohio	SULFUR	1996	kg					134.4		34477.3			
+39	Ohio	SULFUR	1997	kg	42339.8						122640.9			
+39	Ohio	SULFUR	1998	kg							73499.4			
+39	Ohio	SULFUR	1999	kg					118.5		29198			
+39	Ohio	SULFUR	2000	kg							53032.1			
+39	Ohio	SULFUR	2001	kg							79733.1			
+39	Ohio	SULFUR	2002	kg	130577.5				1161.8		18696.7			
+39	Ohio	SULFUR	2003	kg							36495.5			
+39	Ohio	SULFUR	2004	kg					954.5		34025.9			
+39	Ohio	SULFUR	2005	kg					624.4		27458.6			
+39	Ohio	SULFUR	2006	kg					1054.7		17531.8			
+39	Ohio	SULFUR	2007	kg							67038.5			
+39	Ohio	SULFUR	2008	kg							16316.1			
+39	Ohio	SULFUR	2009	kg							33540.6			
+39	Ohio	SULFUR	2010	kg					104.4		18196.7			
+39	Ohio	SULFUR	2011	kg							25028.1			
+39	Ohio	SULFUR	2012	kg							24422.5			
+39	Ohio	SULFUR	2013	kg							18320.1			
+39	Ohio	SULFUR	2014	kg							12851.5			
+39	Ohio	SULFUR	2015	kg					3543.6		6015.3			
+39	Ohio	SULFUR	2016	kg							3924.2			
+39	Ohio	SULFUR	2017	kg	149183.6						3125.8			
+40	Oklahoma	SULFUR	1992	kg		10.1			1687.7		61353.2			2520
+40	Oklahoma	SULFUR	1993	kg					10.8		87098.4			
+40	Oklahoma	SULFUR	1994	kg				10244.6	1930		754165.1		688.5	14402.3
+40	Oklahoma	SULFUR	1995	kg					177.4		1389.9			13514.4
+40	Oklahoma	SULFUR	1996	kg							739.2		31362.6	1383.1
+40	Oklahoma	SULFUR	1997	kg			11314.8		349.6		1583.5		409.4	446.9
+40	Oklahoma	SULFUR	1998	kg							1423.6			
+40	Oklahoma	SULFUR	1999	kg			78992.5		5.7		22956.2			1227.6
+40	Oklahoma	SULFUR	2000	kg	122477.8				7987.9		789.3			809.1
+40	Oklahoma	SULFUR	2001	kg					925.8		26118.5			1138.3
+40	Oklahoma	SULFUR	2002	kg					85.4					4968.5
+40	Oklahoma	SULFUR	2003	kg					0.5		9001.8			203.4
+40	Oklahoma	SULFUR	2004	kg			7829.1		423.9		32506.4			
+40	Oklahoma	SULFUR	2005	kg			362.5				12901.6			676.9
+40	Oklahoma	SULFUR	2006	kg					370.6		42853.4			4312.7
+40	Oklahoma	SULFUR	2007	kg					22202		51822.3			
+40	Oklahoma	SULFUR	2008	kg							2220.5			
+40	Oklahoma	SULFUR	2009	kg							13203.7			
+40	Oklahoma	SULFUR	2010	kg							3715.2			
+40	Oklahoma	SULFUR	2011	kg							3035.1			645
+40	Oklahoma	SULFUR	2012	kg							7388.7			
+40	Oklahoma	SULFUR	2013	kg					26.4		6335.3			
+40	Oklahoma	SULFUR	2014	kg					7.9		2589.5			
+40	Oklahoma	SULFUR	2015	kg							10335.8			
+40	Oklahoma	SULFUR	2016	kg							4329.5			
+40	Oklahoma	SULFUR	2017	kg			16706.1	55097.4						
+40	Oklahoma	SULFURIC ACID	1993	kg					2.8					
+40	Oklahoma	SULFURIC ACID	1995	kg					2					
+40	Oklahoma	SULFURIC ACID	1997	kg					4.4					
+40	Oklahoma	SULFURIC ACID	1999	kg					21.8					
+40	Oklahoma	SULFURIC ACID	2000	kg					167.9					
+40	Oklahoma	SULFURIC ACID	2002	kg					130.6					
+40	Oklahoma	SULFURIC ACID	2003	kg					48.5					
+40	Oklahoma	SULFURIC ACID	2004	kg					43.4					
+40	Oklahoma	SULFURIC ACID	2005	kg					246.7					
+40	Oklahoma	SULFURIC ACID	2006	kg					228.3					
+40	Oklahoma	SULFURIC ACID	2011	kg					229.6					
+40	Oklahoma	SULFURIC ACID	2016	kg					2546.1					
+41	Oregon	SULFUR	1992	kg					6541.4		153088.2		1682.5	14991.6
+41	Oregon	SULFUR	1993	kg					1082		168573.9			22102.5
+41	Oregon	SULFUR	1994	kg					9230.7		174427.9			60593
+41	Oregon	SULFUR	1995	kg					1589		170282.4		13195.1	24356.7
+41	Oregon	SULFUR	1996	kg					21662		299222.9			57267.6
+41	Oregon	SULFUR	1997	kg					24278.8		163142			12597.8
+41	Oregon	SULFUR	1998	kg					3061.1		368826.3			9619
+41	Oregon	SULFUR	1999	kg					3333.3		467766.3			15856.6
+41	Oregon	SULFUR	2000	kg					463.1		338732.8			32786.6
+41	Oregon	SULFUR	2001	kg					7256.5		277900.7			17407.6
+41	Oregon	SULFUR	2002	kg					15058.7		312943.7			15685
+41	Oregon	SULFUR	2003	kg					31194.1		291691.5			22290.3
+41	Oregon	SULFUR	2004	kg					22510		303550.2			11783.8
+41	Oregon	SULFUR	2005	kg			27944		1755.1		269597.1			17449.5
+41	Oregon	SULFUR	2006	kg					31057.1		301706.1			8368.9
+41	Oregon	SULFUR	2007	kg					43801.8		223084.3			965.3
+41	Oregon	SULFUR	2008	kg					36833.7		186901.1			3303.5
+41	Oregon	SULFUR	2009	kg					26574.5		202584.4			3284.5
+41	Oregon	SULFUR	2010	kg					2757.5		189013.2			1363.7
+41	Oregon	SULFUR	2011	kg					36436.7		239820.1			7884.1
+41	Oregon	SULFUR	2012	kg					9616		270694.9			1526.2
+41	Oregon	SULFUR	2013	kg					16309.1		216346			3147.9
+41	Oregon	SULFUR	2014	kg					1916.7		295364.5			1994.4
+41	Oregon	SULFUR	2015	kg					503.7		459685.5			1925.8
+41	Oregon	SULFUR	2016	kg					33977.5		226357			3588
+41	Oregon	SULFUR	2017	kg					11073.9		301381.9			5672.3
+41	Oregon	SULFURIC ACID	1992	kg					10782.2					
+41	Oregon	SULFURIC ACID	1993	kg					48930.5		1428.5			
+41	Oregon	SULFURIC ACID	1995	kg					25570.1					
+41	Oregon	SULFURIC ACID	1996	kg					51033.4					
+41	Oregon	SULFURIC ACID	1997	kg					107860.1					
+41	Oregon	SULFURIC ACID	1998	kg					18163.8					
+41	Oregon	SULFURIC ACID	1999	kg					39764.4					
+41	Oregon	SULFURIC ACID	2000	kg					189206					
+41	Oregon	SULFURIC ACID	2001	kg					1156753.1					
+41	Oregon	SULFURIC ACID	2002	kg					1114267.7					
+41	Oregon	SULFURIC ACID	2003	kg					1104954.3					
+41	Oregon	SULFURIC ACID	2004	kg					755354					
+41	Oregon	SULFURIC ACID	2005	kg					620495.1					
+41	Oregon	SULFURIC ACID	2006	kg					940940.4					
+41	Oregon	SULFURIC ACID	2007	kg					764774.5					
+41	Oregon	SULFURIC ACID	2009	kg					691637					
+41	Oregon	SULFURIC ACID	2010	kg					773848.6					
+41	Oregon	SULFURIC ACID	2011	kg					202469.2					
+41	Oregon	SULFURIC ACID	2012	kg					419802.5					
+41	Oregon	SULFURIC ACID	2013	kg					758818.2					
+41	Oregon	SULFURIC ACID	2014	kg					474428.8					
+41	Oregon	SULFURIC ACID	2015	kg					392345.3					
+41	Oregon	SULFURIC ACID	2016	kg					650595.2					
+41	Oregon	SULFURIC ACID	2017	kg					476770.8					
+42	Pennsylvania	SULFUR	1992	kg	2606.1						246482.4			
+42	Pennsylvania	SULFUR	1993	kg					59		86453.5			
+42	Pennsylvania	SULFUR	1994	kg					22682.1		127972.2			
+42	Pennsylvania	SULFUR	1995	kg					9841.3		63863			4070.6
+42	Pennsylvania	SULFUR	1996	kg					931.3		281321.3			
+42	Pennsylvania	SULFUR	1997	kg					260		214590.3			
+42	Pennsylvania	SULFUR	1998	kg					1563.6		61462.3			
+42	Pennsylvania	SULFUR	1999	kg							322319			
+42	Pennsylvania	SULFUR	2000	kg							126313.2			
+42	Pennsylvania	SULFUR	2001	kg							52703.8			
+42	Pennsylvania	SULFUR	2002	kg	31684.7				1775.8		97783			
+42	Pennsylvania	SULFUR	2003	kg							116071			
+42	Pennsylvania	SULFUR	2004	kg					3809.5		89223.5			
+42	Pennsylvania	SULFUR	2005	kg					472.4		146467.7			
+42	Pennsylvania	SULFUR	2006	kg					8600.8		98279.2			
+42	Pennsylvania	SULFUR	2007	kg					2676.9		99373.3			
+42	Pennsylvania	SULFUR	2008	kg					1615.7		44362.4			
+42	Pennsylvania	SULFUR	2009	kg					1827.6		95899.3			
+42	Pennsylvania	SULFUR	2010	kg					1529.4		44792.2			
+42	Pennsylvania	SULFUR	2011	kg					2098.3		43081.3			
+42	Pennsylvania	SULFUR	2012	kg					8793.8		69984.5			
+42	Pennsylvania	SULFUR	2013	kg					1362.8		100618			
+42	Pennsylvania	SULFUR	2014	kg					1596.6		76750			
+42	Pennsylvania	SULFUR	2015	kg					5868.2		34270			
+42	Pennsylvania	SULFUR	2016	kg	100768.9				5851.4		42585.6			
+42	Pennsylvania	SULFUR	2017	kg	295218.2						32112			
+44	Rhode Island	SULFUR	1992	kg							770.3			
+44	Rhode Island	SULFUR	1993	kg							328			
+44	Rhode Island	SULFUR	1994	kg							186.2			
+44	Rhode Island	SULFUR	1995	kg							47.8			
+44	Rhode Island	SULFUR	1996	kg					137.9		500.1			
+44	Rhode Island	SULFUR	1997	kg							1159.9			
+44	Rhode Island	SULFUR	1998	kg							534.8			
+44	Rhode Island	SULFUR	1999	kg							948.1			
+44	Rhode Island	SULFUR	2000	kg							639.2			
+44	Rhode Island	SULFUR	2001	kg							581.5			
+44	Rhode Island	SULFUR	2002	kg					135		90.1			
+44	Rhode Island	SULFUR	2003	kg							1350.6			
+44	Rhode Island	SULFUR	2004	kg					85.1		1424.2			
+44	Rhode Island	SULFUR	2005	kg							1667.1			
+44	Rhode Island	SULFUR	2006	kg					342.9		887.9			
+44	Rhode Island	SULFUR	2007	kg					111.5		1377.8			
+44	Rhode Island	SULFUR	2008	kg					102.1		1247.5			
+44	Rhode Island	SULFUR	2009	kg					343.8		855.2			
+44	Rhode Island	SULFUR	2010	kg					455.4		491.4			
+44	Rhode Island	SULFUR	2011	kg					18.1		545.5			
+44	Rhode Island	SULFUR	2012	kg					614.5		1219.2			
+44	Rhode Island	SULFUR	2013	kg					24.5		881.7			
+44	Rhode Island	SULFUR	2014	kg					10.3		715.1			
+44	Rhode Island	SULFUR	2015	kg					262.6		263.6			
+44	Rhode Island	SULFUR	2016	kg					228.9		310.1			
+44	Rhode Island	SULFUR	2017	kg					10.9		58.9			
+45	South Carolina	SULFUR	1992	kg					2763.3		657470.9			5841.7
+45	South Carolina	SULFUR	1993	kg	28778.3				2248.6		631549.2			11036.5
+45	South Carolina	SULFUR	1994	kg					465.2		159460.7			5615.3
+45	South Carolina	SULFUR	1995	kg	48399			401500.6	5060		272195.6		14534.5	1149.3
+45	South Carolina	SULFUR	1996	kg				9922.5	1521		338968.2			1182.4
+45	South Carolina	SULFUR	1997	kg					407.3		248132.2			2990.1
+45	South Carolina	SULFUR	1998	kg					18949.2		645586.6			3136.3
+45	South Carolina	SULFUR	1999	kg							183998.4			3262.5
+45	South Carolina	SULFUR	2000	kg					31698.6		341302.8			3631.3
+45	South Carolina	SULFUR	2001	kg				28554.7	105.7		296215			2660.3
+45	South Carolina	SULFUR	2002	kg					338.8		390467.8			65084
+45	South Carolina	SULFUR	2003	kg					7256.3		174839.8			2240.8
+45	South Carolina	SULFUR	2004	kg					427.2		584611.6			1654.4
+45	South Carolina	SULFUR	2005	kg					80.4		287743.3			93.4
+45	South Carolina	SULFUR	2006	kg					9793.2		249526			3297.1
+45	South Carolina	SULFUR	2007	kg					2131.7		104970.2			2090.2
+45	South Carolina	SULFUR	2008	kg					4359.7		344307.6			1420
+45	South Carolina	SULFUR	2009	kg							396806.2			1935.4
+45	South Carolina	SULFUR	2010	kg							374544.4			1080.4
+45	South Carolina	SULFUR	2011	kg							554131.1			
+45	South Carolina	SULFUR	2012	kg							433695.6			
+45	South Carolina	SULFUR	2013	kg					2807.3		469796			3079.4
+45	South Carolina	SULFUR	2014	kg							200541.8			
+45	South Carolina	SULFUR	2015	kg							280693.3			
+45	South Carolina	SULFUR	2016	kg							262675.5			
+45	South Carolina	SULFUR	2017	kg							83774.6			23976.8
+46	South Dakota	SULFUR	1993	kg		6447.6								
+46	South Dakota	SULFUR	2000	kg	108203.3									
+46	South Dakota	SULFUR	2001	kg	22398.9									
+46	South Dakota	SULFUR	2005	kg	43391	26850.6								
+46	South Dakota	SULFUR	2006	kg								7724.3		
+46	South Dakota	SULFUR	2010	kg					0.3					
+46	South Dakota	SULFUR	2016	kg	63845.2									
+46	South Dakota	SULFUR	2017	kg		42762.9								
+46	South Dakota	SULFURIC ACID	2011	kg					5.5					
+47	Tennessee	SULFUR	1992	kg						0.5	24697.9	137		
+47	Tennessee	SULFUR	1993	kg							47407.8			
+47	Tennessee	SULFUR	1994	kg							11915.6			
+47	Tennessee	SULFUR	1995	kg					699.1	1	68591.7		33.8	
+47	Tennessee	SULFUR	1996	kg			82614.1	3059.7	3.5		7026.1			165.8
+47	Tennessee	SULFUR	1997	kg				26966.7	459.8		21293.6		1944.6	
+47	Tennessee	SULFUR	1998	kg					30.9		12144			
+47	Tennessee	SULFUR	1999	kg			92125		54500.9		21874.5			
+47	Tennessee	SULFUR	2000	kg					1242.3		9918.4			
+47	Tennessee	SULFUR	2001	kg							10820.1			
+47	Tennessee	SULFUR	2002	kg							8994.4			
+47	Tennessee	SULFUR	2003	kg							9304			
+47	Tennessee	SULFUR	2004	kg					23502.9		19459			
+47	Tennessee	SULFUR	2005	kg					649.3		2359.3			
+47	Tennessee	SULFUR	2006	kg					2558.2		2412			
+47	Tennessee	SULFUR	2007	kg				4838.1	176.7		6539.2			
+47	Tennessee	SULFUR	2008	kg							8189.2			
+47	Tennessee	SULFUR	2009	kg							4635.4			
+47	Tennessee	SULFUR	2010	kg							4369.6			
+47	Tennessee	SULFUR	2011	kg					878.8		5789			
+47	Tennessee	SULFUR	2012	kg					1031.6		5146.1			
+47	Tennessee	SULFUR	2013	kg							4711.6			
+47	Tennessee	SULFUR	2014	kg							11325.1			
+47	Tennessee	SULFUR	2015	kg							4254.2			
+47	Tennessee	SULFUR	2016	kg					145.3		1943.8			
+47	Tennessee	SULFUR	2017	kg							839.6			
+48	Texas	SULFUR	1992	kg		423			19226.3		135210.7			71421.2
+48	Texas	SULFUR	1993	kg					776.1		31098.6			167648.5
+48	Texas	SULFUR	1994	kg				582165.6	38510		45978.8		8021.2	114942.7
+48	Texas	SULFUR	1995	kg				924.6	110083.2		15080.5			62291.5
+48	Texas	SULFUR	1996	kg					19315.9	4834.1	5352			47195.5
+48	Texas	SULFUR	1997	kg			17054.9		26037.8	2078.8	68121.9		1217.1	22685.7
+48	Texas	SULFUR	1998	kg					45734.9		10864			39433.5
+48	Texas	SULFUR	1999	kg			19815.7		40285.6		139098.4			223311.3
+48	Texas	SULFUR	2000	kg					54031.3	582.5	12806.6			185.9
+48	Texas	SULFUR	2001	kg					14166.6		67727			15311
+48	Texas	SULFUR	2002	kg					18414.7					10122.7
+48	Texas	SULFUR	2003	kg					9524.6		32452.9			791.4
+48	Texas	SULFUR	2004	kg			16756.4		37659.4		96625.8			
+48	Texas	SULFUR	2005	kg			7233		118597.3		61820.2			3335.1
+48	Texas	SULFUR	2006	kg				54762	23362.7		172345.7			
+48	Texas	SULFUR	2007	kg				14278.5	16830.9		109845.8			
+48	Texas	SULFUR	2008	kg				7767.4	11282.2		4274.4			
+48	Texas	SULFUR	2009	kg					8305.3		28014.3			
+48	Texas	SULFUR	2010	kg					15656.2		92313.9			
+48	Texas	SULFUR	2011	kg							100195.4			624
+48	Texas	SULFUR	2012	kg					6421.1		31819.2			
+48	Texas	SULFUR	2013	kg					25409.1		74129.3			
+48	Texas	SULFUR	2014	kg					2972.5		159361.4			
+48	Texas	SULFUR	2015	kg							121112			
+48	Texas	SULFUR	2016	kg							11836.3			
+48	Texas	SULFUR	2017	kg				154283.2						
+48	Texas	SULFURIC ACID	1992	kg				206790						
+48	Texas	SULFURIC ACID	1993	kg					75249.2					
+48	Texas	SULFURIC ACID	1995	kg					32010.3					
+48	Texas	SULFURIC ACID	1997	kg					26771.7					
+48	Texas	SULFURIC ACID	1999	kg					82375.3					
+48	Texas	SULFURIC ACID	2000	kg					390655.5					
+48	Texas	SULFURIC ACID	2002	kg					216167					
+48	Texas	SULFURIC ACID	2003	kg					69861.8					
+48	Texas	SULFURIC ACID	2004	kg					55250.8					
+48	Texas	SULFURIC ACID	2005	kg					1448816.3					
+48	Texas	SULFURIC ACID	2006	kg					234956.9					
+48	Texas	SULFURIC ACID	2011	kg					18199.8					
+48	Texas	SULFURIC ACID	2016	kg					114376.8					
+49	Utah	SULFUR	1992	kg					651.8		114158.6			
+49	Utah	SULFUR	1993	kg					15.2		57153.7			
+49	Utah	SULFUR	1994	kg					15.3		20060.5			
+49	Utah	SULFUR	1995	kg					15.9		140516.3			
+49	Utah	SULFUR	1996	kg					9.1		36881.8			
+49	Utah	SULFUR	1997	kg					102.6		24614			
+49	Utah	SULFUR	1998	kg							39960.3			
+49	Utah	SULFUR	1999	kg					5.5		22232.2			
+49	Utah	SULFUR	2000	kg							43282.5			
+49	Utah	SULFUR	2001	kg					494.4		25045.4			
+49	Utah	SULFUR	2002	kg					648.3		11549.7			
+49	Utah	SULFUR	2003	kg					100.7		35577.1			
+49	Utah	SULFUR	2004	kg					150		10251.1			
+49	Utah	SULFUR	2005	kg					58.6		19267.3			
+49	Utah	SULFUR	2006	kg					117.6		10158.8			
+49	Utah	SULFUR	2007	kg					914.4		10284.1			
+49	Utah	SULFUR	2008	kg							8142.3			
+49	Utah	SULFUR	2009	kg					1367.7		10092.7			
+49	Utah	SULFUR	2010	kg							8002.7			
+49	Utah	SULFUR	2011	kg					3.3		6670.9			
+49	Utah	SULFUR	2012	kg							10719.7			
+49	Utah	SULFUR	2013	kg					19.6		13948.7			
+49	Utah	SULFUR	2014	kg	8478.3						15094.6			
+49	Utah	SULFUR	2015	kg					2		10433.2			
+49	Utah	SULFUR	2016	kg							8361.7			
+49	Utah	SULFUR	2017	kg							12032.4			
+49	Utah	SULFURIC ACID	1992	kg					1548.7					
+49	Utah	SULFURIC ACID	1993	kg					1905.6					
+49	Utah	SULFURIC ACID	1994	kg					195.4					
+49	Utah	SULFURIC ACID	1995	kg					2823					
+49	Utah	SULFURIC ACID	1996	kg					3888.2					
+49	Utah	SULFURIC ACID	1997	kg					33728.2					
+49	Utah	SULFURIC ACID	1998	kg					1187.1					
+49	Utah	SULFURIC ACID	1999	kg					2586.6					
+49	Utah	SULFURIC ACID	2000	kg					20952					
+49	Utah	SULFURIC ACID	2001	kg					92629.4					
+49	Utah	SULFURIC ACID	2002	kg					69819.8					
+49	Utah	SULFURIC ACID	2003	kg					67836					
+49	Utah	SULFURIC ACID	2004	kg					46841.2					
+49	Utah	SULFURIC ACID	2005	kg					35744.2					
+49	Utah	SULFURIC ACID	2006	kg					62615.6					
+49	Utah	SULFURIC ACID	2007	kg					41787.7					
+49	Utah	SULFURIC ACID	2008	kg					122.3					
+49	Utah	SULFURIC ACID	2009	kg					12817.2					
+49	Utah	SULFURIC ACID	2010	kg					16860.3					
+49	Utah	SULFURIC ACID	2011	kg					9499.1					
+49	Utah	SULFURIC ACID	2012	kg					10011					
+49	Utah	SULFURIC ACID	2013	kg					18244.2					
+49	Utah	SULFURIC ACID	2014	kg					9942.6					
+49	Utah	SULFURIC ACID	2015	kg					6968					
+49	Utah	SULFURIC ACID	2016	kg					9828.7					
+49	Utah	SULFURIC ACID	2017	kg					5047.9					
+50	Vermont	SULFUR	1992	kg							6164.1			
+50	Vermont	SULFUR	1993	kg							2722.9			
+50	Vermont	SULFUR	1994	kg							580.4			
+50	Vermont	SULFUR	1995	kg							260.6			
+50	Vermont	SULFUR	1996	kg					7		32782.2			
+50	Vermont	SULFUR	1997	kg							34540.9			
+50	Vermont	SULFUR	1998	kg							5058.3			
+50	Vermont	SULFUR	1999	kg							2365.9			
+50	Vermont	SULFUR	2000	kg							4906.4			
+50	Vermont	SULFUR	2001	kg							4475.3			
+50	Vermont	SULFUR	2002	kg					183.6		246.8			
+50	Vermont	SULFUR	2003	kg							210.2			
+50	Vermont	SULFUR	2004	kg					114.4		10179.9			
+50	Vermont	SULFUR	2005	kg							13319.8			
+50	Vermont	SULFUR	2006	kg					760.9		5086.7			
+50	Vermont	SULFUR	2007	kg					167.2		9024.8			
+50	Vermont	SULFUR	2008	kg					331.3		17658.3			
+50	Vermont	SULFUR	2009	kg					165.2		5596.6			
+50	Vermont	SULFUR	2010	kg					1127.6		2544.3			
+50	Vermont	SULFUR	2011	kg					58.5		2578.6			
+50	Vermont	SULFUR	2012	kg					1436.2		8718.1			
+50	Vermont	SULFUR	2013	kg					41.1		5966.9			
+50	Vermont	SULFUR	2014	kg					71.6		4765.8			
+50	Vermont	SULFUR	2015	kg					610.4		3011.7			
+50	Vermont	SULFUR	2016	kg					797.8		1266.9			
+50	Vermont	SULFUR	2017	kg							18			
+51	Virginia	SULFUR	1992	kg					327.9		170880.2			18421.6
+51	Virginia	SULFUR	1993	kg					165.3		281241.2			12040.3
+51	Virginia	SULFUR	1994	kg							23613.1			8881
+51	Virginia	SULFUR	1995	kg							279147.8			8683.7
+51	Virginia	SULFUR	1996	kg					676.9		30380		713.5	8862.5
+51	Virginia	SULFUR	1997	kg					24.1		50300.1			5677.2
+51	Virginia	SULFUR	1998	kg							32881.3			2547.5
+51	Virginia	SULFUR	1999	kg							42778.7			11625.6
+51	Virginia	SULFUR	2000	kg							122238.9			4564.6
+51	Virginia	SULFUR	2001	kg				10650.2			10056.1			1332.3
+51	Virginia	SULFUR	2002	kg							135876.6			5174.4
+51	Virginia	SULFUR	2003	kg					423.5		157500			506.6
+51	Virginia	SULFUR	2004	kg					2304.7		82502.8			456.3
+51	Virginia	SULFUR	2005	kg					434.6		65329.2			362.9
+51	Virginia	SULFUR	2006	kg				969	7030.4		18231.4			1293.1
+51	Virginia	SULFUR	2007	kg							48432.6			157.5
+51	Virginia	SULFUR	2008	kg							46262.3			812
+51	Virginia	SULFUR	2009	kg							23320.2			476.5
+51	Virginia	SULFUR	2010	kg							40140.4			380.2
+51	Virginia	SULFUR	2011	kg					476.9		42088.6			394.8
+51	Virginia	SULFUR	2012	kg					1482.8		26552.6			28.4
+51	Virginia	SULFUR	2013	kg					142.8		29652.7			96.5
+51	Virginia	SULFUR	2014	kg							16972.6			
+51	Virginia	SULFUR	2015	kg					641.1		14588.7			
+51	Virginia	SULFUR	2016	kg					17155.8		7581.9			
+51	Virginia	SULFUR	2017	kg							11555.5			3020.9
+53	Washington	SULFUR	1992	kg					71955.2		117869.3			17589.8
+53	Washington	SULFUR	1993	kg					2838.6		188553.6			15705
+53	Washington	SULFUR	1994	kg					69258.9		75405.1			20006.9
+53	Washington	SULFUR	1995	kg					3398.1		105388.6		233.8	20365.8
+53	Washington	SULFUR	1996	kg					36420.5		587772.9			29627.2
+53	Washington	SULFUR	1997	kg					5035.5		206998.5			25807
+53	Washington	SULFUR	1998	kg					9956.3		419089.6			66628.4
+53	Washington	SULFUR	1999	kg					57649.5		756996.5			13652.8
+53	Washington	SULFUR	2000	kg					30249.4		685695.7			23014.3
+53	Washington	SULFUR	2001	kg					22530.2		588459.6			24948.4
+53	Washington	SULFUR	2002	kg					266665.6		832693.9			8442.5
+53	Washington	SULFUR	2003	kg					153472		896329.1			13905
+53	Washington	SULFUR	2004	kg					80319.8		635204.6			9429.7
+53	Washington	SULFUR	2005	kg			156005.3		17387.1		665945.4			14532.4
+53	Washington	SULFUR	2006	kg					49147.9		743847.6			5540.8
+53	Washington	SULFUR	2007	kg					164869.4		451839.5			
+53	Washington	SULFUR	2008	kg					74835.6		448619.2			
+53	Washington	SULFUR	2009	kg					63954.7		419400.1			
+53	Washington	SULFUR	2010	kg					72225.9		616719.6			
+53	Washington	SULFUR	2011	kg					80410.7		725196.7			
+53	Washington	SULFUR	2012	kg					39225		987320.8			282.7
+53	Washington	SULFUR	2013	kg					239623.9		554969.7			
+53	Washington	SULFUR	2014	kg	25805.9				164539		1146786.6			
+53	Washington	SULFUR	2015	kg					38081		1086966.2			
+53	Washington	SULFUR	2016	kg					76728.9		1539778			
+53	Washington	SULFUR	2017	kg					162056.9		884297.3			
+53	Washington	SULFURIC ACID	1992	kg					28087.3					
+53	Washington	SULFURIC ACID	1993	kg					25662.1		1046.4			
+53	Washington	SULFURIC ACID	1995	kg					39815.6					
+53	Washington	SULFURIC ACID	1996	kg					131874.1					
+53	Washington	SULFURIC ACID	1997	kg					7687.6					
+53	Washington	SULFURIC ACID	1998	kg					51435.9					
+53	Washington	SULFURIC ACID	1999	kg					34681.2					
+53	Washington	SULFURIC ACID	2000	kg					338415.7					
+53	Washington	SULFURIC ACID	2001	kg					192893.2					
+53	Washington	SULFURIC ACID	2002	kg					3007936.3					
+53	Washington	SULFURIC ACID	2003	kg					3932678.4					
+53	Washington	SULFURIC ACID	2004	kg					7801660					
+53	Washington	SULFURIC ACID	2005	kg					2798135.2					
+53	Washington	SULFURIC ACID	2006	kg					3958814.9					
+53	Washington	SULFURIC ACID	2007	kg					3397024.2					
+53	Washington	SULFURIC ACID	2009	kg					2576668.4					
+53	Washington	SULFURIC ACID	2010	kg					2930550.4					
+53	Washington	SULFURIC ACID	2011	kg					800314					
+53	Washington	SULFURIC ACID	2012	kg					1449328.3					
+53	Washington	SULFURIC ACID	2013	kg					2690835.2					
+53	Washington	SULFURIC ACID	2014	kg					1608142.7					
+53	Washington	SULFURIC ACID	2015	kg					1464443.8					
+53	Washington	SULFURIC ACID	2016	kg					2241650.3					
+53	Washington	SULFURIC ACID	2017	kg					1393101.4					
+54	West Virginia	SULFUR	1992	kg	141.3						60311.5			
+54	West Virginia	SULFUR	1993	kg							35682.1			
+54	West Virginia	SULFUR	1994	kg							73842.6			
+54	West Virginia	SULFUR	1995	kg							35578.7			
+54	West Virginia	SULFUR	1996	kg					2.3		243830.6		824.4	
+54	West Virginia	SULFUR	1997	kg					21.3		77104.7			
+54	West Virginia	SULFUR	1998	kg							6879.8			
+54	West Virginia	SULFUR	1999	kg							21569.9			
+54	West Virginia	SULFUR	2000	kg							29603.6			
+54	West Virginia	SULFUR	2001	kg							5835.9			
+54	West Virginia	SULFUR	2002	kg	1021.5				112.3		76460.2			
+54	West Virginia	SULFUR	2003	kg							85059.9			
+54	West Virginia	SULFUR	2004	kg					671.1		100350.5			
+54	West Virginia	SULFUR	2005	kg					103.4		16337.6			
+54	West Virginia	SULFUR	2006	kg					444.1		11808.2			
+54	West Virginia	SULFUR	2007	kg							25857.8			
+54	West Virginia	SULFUR	2008	kg							9277.4			
+54	West Virginia	SULFUR	2009	kg							10555.2			
+54	West Virginia	SULFUR	2010	kg							21712.1			
+54	West Virginia	SULFUR	2011	kg							13345.1			
+54	West Virginia	SULFUR	2012	kg							24013.7			
+54	West Virginia	SULFUR	2013	kg							12588.3			
+54	West Virginia	SULFUR	2014	kg							10528.2			
+54	West Virginia	SULFUR	2015	kg					121.8		8306.7			
+54	West Virginia	SULFUR	2016	kg							7920.2			
+54	West Virginia	SULFUR	2017	kg	2011.9						3812.2			
+55	Wisconsin	SULFUR	1992	kg	14242.8				5313.8		31450.7			
+55	Wisconsin	SULFUR	1993	kg							12379.6			
+55	Wisconsin	SULFUR	1994	kg		4315.1					6713.8			
+55	Wisconsin	SULFUR	1995	kg	7183.5	17290.1			4551.9		28428			
+55	Wisconsin	SULFUR	1996	kg					1425.7		27334.5			
+55	Wisconsin	SULFUR	1997	kg	140818.4				20583.3		39768.6			
+55	Wisconsin	SULFUR	1998	kg							27517.7			
+55	Wisconsin	SULFUR	1999	kg							31778.4			
+55	Wisconsin	SULFUR	2000	kg	5116.6				5402.6		46379.3			
+55	Wisconsin	SULFUR	2001	kg							36569.4			
+55	Wisconsin	SULFUR	2002	kg					8501.2		34446.4			
+55	Wisconsin	SULFUR	2003	kg							21165.9			
+55	Wisconsin	SULFUR	2004	kg							26713			
+55	Wisconsin	SULFUR	2005	kg	7045.7						26231.5			
+55	Wisconsin	SULFUR	2006	kg					7099.6		14770.1			
+55	Wisconsin	SULFUR	2007	kg							23372.7			
+55	Wisconsin	SULFUR	2008	kg							25098.5			
+55	Wisconsin	SULFUR	2009	kg							18075.1			
+55	Wisconsin	SULFUR	2010	kg							18477.7			
+55	Wisconsin	SULFUR	2011	kg							28604.5			
+55	Wisconsin	SULFUR	2012	kg							10612.7			
+55	Wisconsin	SULFUR	2013	kg					3459.5		12371.1			
+55	Wisconsin	SULFUR	2014	kg					341.5		5616.4			
+55	Wisconsin	SULFUR	2015	kg							4377.3			
+55	Wisconsin	SULFUR	2016	kg	26891.8				8796.9		3266.2			
+55	Wisconsin	SULFUR	2017	kg							3023.9			
+55	Wisconsin	SULFURIC ACID	1997	kg					9600.7					
+56	Wyoming	SULFUR	1992	kg					132.9					60163
+56	Wyoming	SULFUR	1993	kg					10217					68988.3
+56	Wyoming	SULFUR	1994	kg					197.4					38465.8
+56	Wyoming	SULFUR	1995	kg					65.7					71223.4
+56	Wyoming	SULFUR	1996	kg					569.3					90322.5
+56	Wyoming	SULFUR	1997	kg			241		0					34221
+56	Wyoming	SULFUR	1998	kg										5522.7
+56	Wyoming	SULFUR	1999	kg										15104.8
+56	Wyoming	SULFUR	2000	kg										34775.7
+56	Wyoming	SULFUR	2001	kg										24623.4
+56	Wyoming	SULFUR	2002	kg					0.2					12452.8
+56	Wyoming	SULFUR	2003	kg										21997.8
+56	Wyoming	SULFUR	2004	kg										6550.1
+56	Wyoming	SULFUR	2005	kg										12115.5
+56	Wyoming	SULFUR	2006	kg										11102.2
+56	Wyoming	SULFUR	2008	kg					1.7					13706.3
+56	Wyoming	SULFUR	2009	kg					7117.3					
+56	Wyoming	SULFUR	2010	kg					771.1					
+56	Wyoming	SULFUR	2011	kg					0					169.6
+56	Wyoming	SULFUR	2012	kg										5073.7
+56	Wyoming	SULFUR	2013	kg					0.4					
+56	Wyoming	SULFUR	2014	kg					310.7					
+56	Wyoming	SULFUR	2015	kg					0					
+56	Wyoming	SULFURIC ACID	1992	kg					1.5					
+56	Wyoming	SULFURIC ACID	1993	kg					1.7					
+56	Wyoming	SULFURIC ACID	1994	kg					1					
+56	Wyoming	SULFURIC ACID	1995	kg					2.3					
+56	Wyoming	SULFURIC ACID	1996	kg					1005.6					
+56	Wyoming	SULFURIC ACID	1997	kg					6655.5					
+56	Wyoming	SULFURIC ACID	1998	kg					2331.9					
+56	Wyoming	SULFURIC ACID	1999	kg					6.3					
+56	Wyoming	SULFURIC ACID	2000	kg					4331.5					
+56	Wyoming	SULFURIC ACID	2001	kg					169.6					
+56	Wyoming	SULFURIC ACID	2002	kg					146					
+56	Wyoming	SULFURIC ACID	2003	kg					166.8					
+56	Wyoming	SULFURIC ACID	2004	kg					159.6					
+56	Wyoming	SULFURIC ACID	2005	kg					117.6					
+56	Wyoming	SULFURIC ACID	2006	kg					138127.5					
+56	Wyoming	SULFURIC ACID	2007	kg					105478.8					
+56	Wyoming	SULFURIC ACID	2008	kg					1.8					
+56	Wyoming	SULFURIC ACID	2009	kg					1310.1					
+56	Wyoming	SULFURIC ACID	2010	kg					1915					
+56	Wyoming	SULFURIC ACID	2011	kg					5028.7					
+56	Wyoming	SULFURIC ACID	2012	kg					1278.7					
+56	Wyoming	SULFURIC ACID	2013	kg					1854.9					
+56	Wyoming	SULFURIC ACID	2014	kg					877.3					
+56	Wyoming	SULFURIC ACID	2015	kg					438.9					
+56	Wyoming	SULFURIC ACID	2016	kg					368.1					
+56	Wyoming	SULFURIC ACID	2017	kg					26					

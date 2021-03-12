@@ -1,0 +1,429 @@
+01	Alabama	FLUOMETURON	1992	kg	1333.6	3181.2		138034						
+01	Alabama	FLUOMETURON	1993	kg	273.8	409.8		192090.2						
+01	Alabama	FLUOMETURON	1994	kg				167395.8						3596.3
+01	Alabama	FLUOMETURON	1995	kg				211585.1						
+01	Alabama	FLUOMETURON	1996	kg		1254.7		185439						
+01	Alabama	FLUOMETURON	1997	kg				161534.2					126.5	
+01	Alabama	FLUOMETURON	1998	kg				115341.9						
+01	Alabama	FLUOMETURON	1999	kg				51250.3						
+01	Alabama	FLUOMETURON	2000	kg				38415.2						
+01	Alabama	FLUOMETURON	2001	kg				19303.9						
+01	Alabama	FLUOMETURON	2002	kg				16329.2						
+01	Alabama	FLUOMETURON	2003	kg				23649.7						
+01	Alabama	FLUOMETURON	2004	kg				38608.4						
+01	Alabama	FLUOMETURON	2005	kg				10682						
+01	Alabama	FLUOMETURON	2006	kg				25322.4						
+01	Alabama	FLUOMETURON	2007	kg				8686.2						
+01	Alabama	FLUOMETURON	2008	kg				28335						
+01	Alabama	FLUOMETURON	2009	kg				14413						
+01	Alabama	FLUOMETURON	2010	kg				32573.9						
+01	Alabama	FLUOMETURON	2011	kg				51685.8						
+01	Alabama	FLUOMETURON	2012	kg				20749						
+01	Alabama	FLUOMETURON	2013	kg				30273.1						
+01	Alabama	FLUOMETURON	2014	kg				20973.8						
+01	Alabama	FLUOMETURON	2015	kg				35221.6						
+01	Alabama	FLUOMETURON	2016	kg				30840.8						
+01	Alabama	FLUOMETURON	2017	kg				58881.7						
+04	Arizona	FLUOMETURON	1994	kg				2015.5						
+04	Arizona	FLUOMETURON	1995	kg				3144.6						
+04	Arizona	FLUOMETURON	1996	kg				13845.9						
+04	Arizona	FLUOMETURON	1997	kg				919.7						
+04	Arizona	FLUOMETURON	1998	kg				3400						
+04	Arizona	FLUOMETURON	1999	kg				2076.8						
+04	Arizona	FLUOMETURON	2000	kg				835.5						
+04	Arizona	FLUOMETURON	2002	kg				2987.7						
+05	Arkansas	FLUOMETURON	1992	kg				335376.4						
+05	Arkansas	FLUOMETURON	1993	kg				366586.5		470.6				
+05	Arkansas	FLUOMETURON	1994	kg	106.3			260105.4		3872.3				
+05	Arkansas	FLUOMETURON	1995	kg				557779.2					210.6	
+05	Arkansas	FLUOMETURON	1996	kg	1730.6			294643.2						20101.7
+05	Arkansas	FLUOMETURON	1997	kg				200996.3					916.9	
+05	Arkansas	FLUOMETURON	1998	kg				306866.2						
+05	Arkansas	FLUOMETURON	1999	kg				151901.8						
+05	Arkansas	FLUOMETURON	2000	kg				178957.8						
+05	Arkansas	FLUOMETURON	2001	kg				89431.9						
+05	Arkansas	FLUOMETURON	2002	kg				54315						
+05	Arkansas	FLUOMETURON	2003	kg				14564.6						
+05	Arkansas	FLUOMETURON	2004	kg				9531.6						
+05	Arkansas	FLUOMETURON	2005	kg				5519.3						
+05	Arkansas	FLUOMETURON	2006	kg				20366.6						
+05	Arkansas	FLUOMETURON	2007	kg				26194.4						
+05	Arkansas	FLUOMETURON	2008	kg				3246.4						
+05	Arkansas	FLUOMETURON	2009	kg				49065.8						
+05	Arkansas	FLUOMETURON	2010	kg				37665						
+05	Arkansas	FLUOMETURON	2011	kg				84345.3						
+05	Arkansas	FLUOMETURON	2012	kg				23310.7						
+05	Arkansas	FLUOMETURON	2013	kg				14536.8						
+05	Arkansas	FLUOMETURON	2014	kg				20686						
+05	Arkansas	FLUOMETURON	2015	kg				5594.4						
+05	Arkansas	FLUOMETURON	2016	kg				40025.1						
+05	Arkansas	FLUOMETURON	2017	kg				15306.9						
+06	California	FLUOMETURON	1992	kg				146.5			0.1			
+06	California	FLUOMETURON	1994	kg				2.5						
+06	California	FLUOMETURON	1998	kg							0.1			
+06	California	FLUOMETURON	2006	kg				57.7						
+10	Delaware	FLUOMETURON	1994	kg					0.3					
+12	Florida	FLUOMETURON	1992	kg	370.1			12978.7						493.6
+12	Florida	FLUOMETURON	1993	kg	87.6			7334.1						
+12	Florida	FLUOMETURON	1994	kg	295.9			35386.8						1000.2
+12	Florida	FLUOMETURON	1995	kg				27319.7						
+12	Florida	FLUOMETURON	1996	kg				25353.7						
+12	Florida	FLUOMETURON	1997	kg				12742.2						
+12	Florida	FLUOMETURON	1998	kg				15405.2						
+12	Florida	FLUOMETURON	1999	kg				1754						
+12	Florida	FLUOMETURON	2000	kg				4789.9						
+12	Florida	FLUOMETURON	2001	kg				674.1						
+12	Florida	FLUOMETURON	2002	kg				2142.2						
+12	Florida	FLUOMETURON	2003	kg				1685.4						
+12	Florida	FLUOMETURON	2004	kg				1263						
+12	Florida	FLUOMETURON	2005	kg				490.7						
+12	Florida	FLUOMETURON	2006	kg				1261						
+12	Florida	FLUOMETURON	2007	kg				619.7						
+12	Florida	FLUOMETURON	2008	kg				333.5						
+12	Florida	FLUOMETURON	2009	kg				818.9						
+12	Florida	FLUOMETURON	2010	kg				1546.5						
+12	Florida	FLUOMETURON	2011	kg				8869.9						
+12	Florida	FLUOMETURON	2012	kg				1595.5						
+12	Florida	FLUOMETURON	2013	kg				1294.5						
+12	Florida	FLUOMETURON	2014	kg				1391.5						
+12	Florida	FLUOMETURON	2015	kg				340.6						
+12	Florida	FLUOMETURON	2016	kg				1633.9						
+12	Florida	FLUOMETURON	2017	kg				641						
+13	Georgia	FLUOMETURON	1992	kg	1758.8	945.4		92487.2						4461.9
+13	Georgia	FLUOMETURON	1993	kg	271.5			158621.4						
+13	Georgia	FLUOMETURON	1994	kg	4930.1			223632						4300
+13	Georgia	FLUOMETURON	1995	kg				482074.7						
+13	Georgia	FLUOMETURON	1996	kg				457391.5			2.8			
+13	Georgia	FLUOMETURON	1997	kg				379366.4						
+13	Georgia	FLUOMETURON	1998	kg				314697.1						
+13	Georgia	FLUOMETURON	1999	kg				159924						
+13	Georgia	FLUOMETURON	2000	kg				92580.8						
+13	Georgia	FLUOMETURON	2001	kg				63012.6						
+13	Georgia	FLUOMETURON	2002	kg				41260.9						
+13	Georgia	FLUOMETURON	2003	kg				26275.3						
+13	Georgia	FLUOMETURON	2004	kg				55358.8						
+13	Georgia	FLUOMETURON	2005	kg				30096.6						
+13	Georgia	FLUOMETURON	2006	kg				19858.5						
+13	Georgia	FLUOMETURON	2007	kg				5864.8						
+13	Georgia	FLUOMETURON	2008	kg				7918.5						
+13	Georgia	FLUOMETURON	2009	kg				15686.3						
+13	Georgia	FLUOMETURON	2010	kg				20581						
+13	Georgia	FLUOMETURON	2011	kg				119000.6						
+13	Georgia	FLUOMETURON	2012	kg				51129.1						
+13	Georgia	FLUOMETURON	2013	kg				15906						
+13	Georgia	FLUOMETURON	2014	kg				19448.2						
+13	Georgia	FLUOMETURON	2015	kg				12369.8						
+13	Georgia	FLUOMETURON	2016	kg				106085						
+13	Georgia	FLUOMETURON	2017	kg				41397.5						
+16	Idaho	FLUOMETURON	1995	kg					2329.6					
+17	Illinois	FLUOMETURON	1994	kg	148.8									
+17	Illinois	FLUOMETURON	1995	kg									200	
+17	Illinois	FLUOMETURON	1997	kg									573.8	
+19	Iowa	FLUOMETURON	1997	kg							1436.5			
+20	Kansas	FLUOMETURON	1992	kg				355						
+20	Kansas	FLUOMETURON	1993	kg				337.1						
+20	Kansas	FLUOMETURON	1994	kg				442.2						
+20	Kansas	FLUOMETURON	1995	kg				603						
+20	Kansas	FLUOMETURON	1996	kg				5175.2						
+20	Kansas	FLUOMETURON	1997	kg				2534.8						
+20	Kansas	FLUOMETURON	1998	kg				3765.9						
+20	Kansas	FLUOMETURON	1999	kg				8162.4						
+20	Kansas	FLUOMETURON	2000	kg				19352.4						
+20	Kansas	FLUOMETURON	2001	kg				605.8						
+20	Kansas	FLUOMETURON	2002	kg				449.6						
+20	Kansas	FLUOMETURON	2003	kg				1192						
+20	Kansas	FLUOMETURON	2004	kg				8715.8						
+20	Kansas	FLUOMETURON	2005	kg				3604.8						
+20	Kansas	FLUOMETURON	2006	kg				376						
+20	Kansas	FLUOMETURON	2007	kg				929.4						
+20	Kansas	FLUOMETURON	2008	kg				284						
+20	Kansas	FLUOMETURON	2009	kg				461.4						
+20	Kansas	FLUOMETURON	2010	kg				41.2						
+20	Kansas	FLUOMETURON	2011	kg				250						
+20	Kansas	FLUOMETURON	2012	kg				1520.6						
+20	Kansas	FLUOMETURON	2013	kg				982.7						
+20	Kansas	FLUOMETURON	2014	kg				3737.8						
+20	Kansas	FLUOMETURON	2015	kg				1391.9						
+20	Kansas	FLUOMETURON	2016	kg				1329.7						
+20	Kansas	FLUOMETURON	2017	kg				3115.1						
+21	Kentucky	FLUOMETURON	1993	kg		1770.6								
+21	Kentucky	FLUOMETURON	1994	kg	63.9									
+21	Kentucky	FLUOMETURON	1995	kg									152.3	
+21	Kentucky	FLUOMETURON	1996	kg										1039.6
+21	Kentucky	FLUOMETURON	1997	kg									448	
+22	Louisiana	FLUOMETURON	1992	kg				323953.5						
+22	Louisiana	FLUOMETURON	1993	kg				304003.6		1329.4				
+22	Louisiana	FLUOMETURON	1994	kg	3259.4			572209.9						
+22	Louisiana	FLUOMETURON	1995	kg				268464.5						
+22	Louisiana	FLUOMETURON	1996	kg	48669.9	70.6		287535.8						
+22	Louisiana	FLUOMETURON	1997	kg				227768.2					258.7	
+22	Louisiana	FLUOMETURON	1998	kg				270248.5						
+22	Louisiana	FLUOMETURON	1999	kg				166088						
+22	Louisiana	FLUOMETURON	2000	kg				155926.5						
+22	Louisiana	FLUOMETURON	2001	kg				49129.5						
+22	Louisiana	FLUOMETURON	2002	kg				23018.8						
+22	Louisiana	FLUOMETURON	2003	kg				20844.9						
+22	Louisiana	FLUOMETURON	2004	kg				15929.8						
+22	Louisiana	FLUOMETURON	2005	kg				7617.1						
+22	Louisiana	FLUOMETURON	2006	kg				15742.8						
+22	Louisiana	FLUOMETURON	2007	kg				5129.4						
+22	Louisiana	FLUOMETURON	2008	kg				1358.7						
+22	Louisiana	FLUOMETURON	2009	kg				4163.6						
+22	Louisiana	FLUOMETURON	2010	kg				3347.4						
+22	Louisiana	FLUOMETURON	2011	kg				4464.2						
+22	Louisiana	FLUOMETURON	2012	kg				5037.7						
+22	Louisiana	FLUOMETURON	2013	kg				4411.9						
+22	Louisiana	FLUOMETURON	2014	kg				6529						
+22	Louisiana	FLUOMETURON	2015	kg				7550.2						
+22	Louisiana	FLUOMETURON	2016	kg				16297.7						
+22	Louisiana	FLUOMETURON	2017	kg				44776.3						
+24	Maryland	FLUOMETURON	1994	kg					3.8					
+26	Michigan	FLUOMETURON	1992	kg					1334					
+27	Minnesota	FLUOMETURON	1992	kg			8275							
+28	Mississippi	FLUOMETURON	1992	kg				536028						
+28	Mississippi	FLUOMETURON	1993	kg		1816		492652.6		814.8				
+28	Mississippi	FLUOMETURON	1994	kg	959.2			493596.8		464.2				
+28	Mississippi	FLUOMETURON	1995	kg	794.7			505816.5						
+28	Mississippi	FLUOMETURON	1996	kg		2071.9		362467.7						672.4
+28	Mississippi	FLUOMETURON	1997	kg				282112					127.2	
+28	Mississippi	FLUOMETURON	1998	kg				394506.6						
+28	Mississippi	FLUOMETURON	1999	kg				312801.9						
+28	Mississippi	FLUOMETURON	2000	kg				208844						
+28	Mississippi	FLUOMETURON	2001	kg				148456.1						
+28	Mississippi	FLUOMETURON	2002	kg				76931.8						
+28	Mississippi	FLUOMETURON	2003	kg				38772.4						
+28	Mississippi	FLUOMETURON	2004	kg				80162.6						
+28	Mississippi	FLUOMETURON	2005	kg				11961.6						
+28	Mississippi	FLUOMETURON	2006	kg				11266.1						
+28	Mississippi	FLUOMETURON	2007	kg				8948.9						
+28	Mississippi	FLUOMETURON	2008	kg				3087.5						
+28	Mississippi	FLUOMETURON	2009	kg				6712.9						
+28	Mississippi	FLUOMETURON	2010	kg				13523.6						
+28	Mississippi	FLUOMETURON	2011	kg				33481.2						
+28	Mississippi	FLUOMETURON	2012	kg				48649.6						
+28	Mississippi	FLUOMETURON	2013	kg				45726.1						
+28	Mississippi	FLUOMETURON	2014	kg				69518.2						
+28	Mississippi	FLUOMETURON	2015	kg				60254.6						
+28	Mississippi	FLUOMETURON	2016	kg				97492.9						
+28	Mississippi	FLUOMETURON	2017	kg				94184.2						
+29	Missouri	FLUOMETURON	1992	kg				128126.5						
+29	Missouri	FLUOMETURON	1993	kg				87561.1						
+29	Missouri	FLUOMETURON	1994	kg	226.4			149052.5						
+29	Missouri	FLUOMETURON	1995	kg				171480.1					794.4	
+29	Missouri	FLUOMETURON	1996	kg				121926						20333
+29	Missouri	FLUOMETURON	1997	kg				84296.1					2115.1	
+29	Missouri	FLUOMETURON	1998	kg				109357.2						
+29	Missouri	FLUOMETURON	1999	kg				63733.2						
+29	Missouri	FLUOMETURON	2000	kg				66249.8						
+29	Missouri	FLUOMETURON	2001	kg				32712.2						
+29	Missouri	FLUOMETURON	2002	kg				30181.5						
+29	Missouri	FLUOMETURON	2003	kg				13892.9						
+29	Missouri	FLUOMETURON	2004	kg				4962.1						
+29	Missouri	FLUOMETURON	2005	kg				1122.3						
+29	Missouri	FLUOMETURON	2006	kg				3838.8						
+29	Missouri	FLUOMETURON	2007	kg				7865.9						
+29	Missouri	FLUOMETURON	2008	kg				9279.4						
+29	Missouri	FLUOMETURON	2009	kg				10053.8						
+29	Missouri	FLUOMETURON	2010	kg				22450.5						
+29	Missouri	FLUOMETURON	2011	kg				24678.6						
+29	Missouri	FLUOMETURON	2012	kg				24309.3						
+29	Missouri	FLUOMETURON	2013	kg				27844.4						
+29	Missouri	FLUOMETURON	2014	kg				4529.6						
+29	Missouri	FLUOMETURON	2015	kg				11637.8						
+29	Missouri	FLUOMETURON	2016	kg				2491.6						
+29	Missouri	FLUOMETURON	2017	kg				4610.4						
+30	Montana	FLUOMETURON	1995	kg					50.8					
+31	Nebraska	FLUOMETURON	1997	kg							2036.5			
+32	Nevada	FLUOMETURON	1997	kg							0.1			
+34	New Jersey	FLUOMETURON	1994	kg					7.6					
+34	New Jersey	FLUOMETURON	1996	kg										10.5
+35	New Mexico	FLUOMETURON	1992	kg				168.2						
+35	New Mexico	FLUOMETURON	1993	kg				71.6						
+35	New Mexico	FLUOMETURON	1994	kg				121.8						
+35	New Mexico	FLUOMETURON	1995	kg				1665.5						
+35	New Mexico	FLUOMETURON	1996	kg				3113.2						
+35	New Mexico	FLUOMETURON	1997	kg				1850.1						
+35	New Mexico	FLUOMETURON	1998	kg				4922.8						
+35	New Mexico	FLUOMETURON	1999	kg				1106.3						
+35	New Mexico	FLUOMETURON	2000	kg				2125.5						
+35	New Mexico	FLUOMETURON	2001	kg				1712.8						
+35	New Mexico	FLUOMETURON	2002	kg				1021.1						
+35	New Mexico	FLUOMETURON	2003	kg				475.1						
+35	New Mexico	FLUOMETURON	2004	kg				716.9						
+35	New Mexico	FLUOMETURON	2005	kg				366					729.9	
+35	New Mexico	FLUOMETURON	2006	kg				68.8						
+35	New Mexico	FLUOMETURON	2007	kg				280.2						
+35	New Mexico	FLUOMETURON	2008	kg				75.7						
+35	New Mexico	FLUOMETURON	2009	kg				149.2						
+35	New Mexico	FLUOMETURON	2010	kg				163.7						
+35	New Mexico	FLUOMETURON	2011	kg				2004.4						
+35	New Mexico	FLUOMETURON	2012	kg				100.1						
+35	New Mexico	FLUOMETURON	2013	kg				1273.9						
+35	New Mexico	FLUOMETURON	2014	kg				967.5						
+35	New Mexico	FLUOMETURON	2015	kg				756.2						
+35	New Mexico	FLUOMETURON	2016	kg				35.1						
+35	New Mexico	FLUOMETURON	2017	kg				1113.6						
+36	New York	FLUOMETURON	1996	kg					80					7.1
+37	North Carolina	FLUOMETURON	1992	kg				151984						2918.5
+37	North Carolina	FLUOMETURON	1993	kg				127392.9					125.9	
+37	North Carolina	FLUOMETURON	1994	kg				309055.3						
+37	North Carolina	FLUOMETURON	1995	kg				259941.4						
+37	North Carolina	FLUOMETURON	1996	kg				264491.4						
+37	North Carolina	FLUOMETURON	1997	kg				252232.2						
+37	North Carolina	FLUOMETURON	1998	kg				145745.9						
+37	North Carolina	FLUOMETURON	1999	kg				159859.8						
+37	North Carolina	FLUOMETURON	2000	kg				183475.7						
+37	North Carolina	FLUOMETURON	2001	kg				90006.3						
+37	North Carolina	FLUOMETURON	2002	kg				60492.3						
+37	North Carolina	FLUOMETURON	2003	kg				28255						
+37	North Carolina	FLUOMETURON	2004	kg				17524.2						
+37	North Carolina	FLUOMETURON	2005	kg				38950.6						
+37	North Carolina	FLUOMETURON	2006	kg				80656.8						
+37	North Carolina	FLUOMETURON	2007	kg				68355.8						
+37	North Carolina	FLUOMETURON	2008	kg				20101.9						
+37	North Carolina	FLUOMETURON	2009	kg				9483.1						
+37	North Carolina	FLUOMETURON	2010	kg				58064.5						
+37	North Carolina	FLUOMETURON	2011	kg				21298.9						
+37	North Carolina	FLUOMETURON	2012	kg				27062.4						
+37	North Carolina	FLUOMETURON	2013	kg				11076.8						
+37	North Carolina	FLUOMETURON	2014	kg				19612.8						
+37	North Carolina	FLUOMETURON	2015	kg				25242.6						
+37	North Carolina	FLUOMETURON	2016	kg				17832.1						
+37	North Carolina	FLUOMETURON	2017	kg				8990.4						
+38	North Dakota	FLUOMETURON	1992	kg			157.6							
+39	Ohio	FLUOMETURON	1996	kg					202.5					
+40	Oklahoma	FLUOMETURON	1992	kg				3302.1						
+40	Oklahoma	FLUOMETURON	1993	kg				4887.7						
+40	Oklahoma	FLUOMETURON	1994	kg				6608.5						
+40	Oklahoma	FLUOMETURON	1995	kg				6900.6						
+40	Oklahoma	FLUOMETURON	1996	kg				2833.7						
+40	Oklahoma	FLUOMETURON	1997	kg				11437						
+40	Oklahoma	FLUOMETURON	1998	kg				3626.1						
+40	Oklahoma	FLUOMETURON	1999	kg				3480.1						
+40	Oklahoma	FLUOMETURON	2000	kg				9043.7						
+40	Oklahoma	FLUOMETURON	2001	kg				2283.1						
+40	Oklahoma	FLUOMETURON	2002	kg				1979.8						
+40	Oklahoma	FLUOMETURON	2003	kg				1098.1						
+40	Oklahoma	FLUOMETURON	2004	kg				2379						
+40	Oklahoma	FLUOMETURON	2005	kg				6687.5					2438.7	
+40	Oklahoma	FLUOMETURON	2006	kg				1288.3						
+40	Oklahoma	FLUOMETURON	2007	kg				3499.9						
+40	Oklahoma	FLUOMETURON	2008	kg				1498.8						
+40	Oklahoma	FLUOMETURON	2009	kg				1698						
+40	Oklahoma	FLUOMETURON	2010	kg				2457						
+40	Oklahoma	FLUOMETURON	2011	kg				943.7						
+40	Oklahoma	FLUOMETURON	2012	kg				4105.4						
+40	Oklahoma	FLUOMETURON	2013	kg				3861.8						
+40	Oklahoma	FLUOMETURON	2014	kg				3719.5						
+40	Oklahoma	FLUOMETURON	2015	kg				1927.5						
+40	Oklahoma	FLUOMETURON	2016	kg				2467.5						
+40	Oklahoma	FLUOMETURON	2017	kg				14295.7						
+42	Pennsylvania	FLUOMETURON	1994	kg					39.7					
+42	Pennsylvania	FLUOMETURON	1996	kg					234.1					225.7
+45	South Carolina	FLUOMETURON	1992	kg				81455.8						
+45	South Carolina	FLUOMETURON	1993	kg				64129					454.7	
+45	South Carolina	FLUOMETURON	1994	kg	1294.3			109479						
+45	South Carolina	FLUOMETURON	1995	kg				155203.8					3555.5	
+45	South Carolina	FLUOMETURON	1996	kg				109881.8			199.8			
+45	South Carolina	FLUOMETURON	1997	kg				108702.6						
+45	South Carolina	FLUOMETURON	1998	kg				76825						
+45	South Carolina	FLUOMETURON	1999	kg				53446.4						
+45	South Carolina	FLUOMETURON	2000	kg				38558.7						
+45	South Carolina	FLUOMETURON	2001	kg				21544.7						
+45	South Carolina	FLUOMETURON	2002	kg				31297.4						
+45	South Carolina	FLUOMETURON	2003	kg				14607						
+45	South Carolina	FLUOMETURON	2004	kg				21316						
+45	South Carolina	FLUOMETURON	2005	kg				22962.9						
+45	South Carolina	FLUOMETURON	2006	kg				23396.8						
+45	South Carolina	FLUOMETURON	2007	kg				63246						
+45	South Carolina	FLUOMETURON	2008	kg				17900.3						
+45	South Carolina	FLUOMETURON	2009	kg				6680.2						
+45	South Carolina	FLUOMETURON	2010	kg				19875.4						
+45	South Carolina	FLUOMETURON	2011	kg				2308						
+45	South Carolina	FLUOMETURON	2012	kg				2740.8						
+45	South Carolina	FLUOMETURON	2013	kg				2654						
+45	South Carolina	FLUOMETURON	2014	kg				6092.8						
+45	South Carolina	FLUOMETURON	2015	kg				5848.5						
+45	South Carolina	FLUOMETURON	2016	kg				35120.4						
+45	South Carolina	FLUOMETURON	2017	kg				17401.4						
+47	Tennessee	FLUOMETURON	1992	kg		887.7		236369.8						
+47	Tennessee	FLUOMETURON	1993	kg		5216.9		306101.7						
+47	Tennessee	FLUOMETURON	1994	kg	28.2			269491.2		1.7				
+47	Tennessee	FLUOMETURON	1995	kg				345147.7					82.9	
+47	Tennessee	FLUOMETURON	1996	kg				234311.9						2202
+47	Tennessee	FLUOMETURON	1997	kg				207697.7					422.7	
+47	Tennessee	FLUOMETURON	1998	kg				183142.2						
+47	Tennessee	FLUOMETURON	1999	kg				110203.6						
+47	Tennessee	FLUOMETURON	2000	kg				62192.6						
+47	Tennessee	FLUOMETURON	2001	kg				36869.2						
+47	Tennessee	FLUOMETURON	2002	kg				18609						
+47	Tennessee	FLUOMETURON	2003	kg				13310.7						
+47	Tennessee	FLUOMETURON	2004	kg				41111.4						
+47	Tennessee	FLUOMETURON	2005	kg				47308.7						
+47	Tennessee	FLUOMETURON	2006	kg				44531.5						
+47	Tennessee	FLUOMETURON	2007	kg				32109.1						
+47	Tennessee	FLUOMETURON	2008	kg				26570.1						
+47	Tennessee	FLUOMETURON	2009	kg				20790.5						
+47	Tennessee	FLUOMETURON	2010	kg				64246.5						
+47	Tennessee	FLUOMETURON	2011	kg				35405.3						
+47	Tennessee	FLUOMETURON	2012	kg				89717.6						
+47	Tennessee	FLUOMETURON	2013	kg				37953.7						
+47	Tennessee	FLUOMETURON	2014	kg				37053.5						
+47	Tennessee	FLUOMETURON	2015	kg				24025.8						
+47	Tennessee	FLUOMETURON	2016	kg				40215.3						
+47	Tennessee	FLUOMETURON	2017	kg				48184.7						
+48	Texas	FLUOMETURON	1992	kg				76069.9						
+48	Texas	FLUOMETURON	1993	kg				82513.6		1001.9				
+48	Texas	FLUOMETURON	1994	kg				93900.9						
+48	Texas	FLUOMETURON	1995	kg		30210.7		181984.1						
+48	Texas	FLUOMETURON	1996	kg				128813.5						
+48	Texas	FLUOMETURON	1997	kg				237851.3					207.6	
+48	Texas	FLUOMETURON	1998	kg				227179.5						
+48	Texas	FLUOMETURON	1999	kg				166318.1						
+48	Texas	FLUOMETURON	2000	kg				185560.8						
+48	Texas	FLUOMETURON	2001	kg				134250.5						
+48	Texas	FLUOMETURON	2002	kg				117595.9						
+48	Texas	FLUOMETURON	2003	kg				134192.1						
+48	Texas	FLUOMETURON	2004	kg				97006.5						
+48	Texas	FLUOMETURON	2005	kg				73114.7					7392.7	
+48	Texas	FLUOMETURON	2006	kg				21733						
+48	Texas	FLUOMETURON	2007	kg				81550.7						
+48	Texas	FLUOMETURON	2008	kg				53544.2						
+48	Texas	FLUOMETURON	2009	kg				44294.3						
+48	Texas	FLUOMETURON	2010	kg				89867.6						
+48	Texas	FLUOMETURON	2011	kg				95662.6						
+48	Texas	FLUOMETURON	2012	kg				70452.9						
+48	Texas	FLUOMETURON	2013	kg				114248.8						
+48	Texas	FLUOMETURON	2014	kg				109783.6						
+48	Texas	FLUOMETURON	2015	kg				153107.5						
+48	Texas	FLUOMETURON	2016	kg				46670.1						
+48	Texas	FLUOMETURON	2017	kg				95953.1						
+49	Utah	FLUOMETURON	1995	kg					2.4					
+51	Virginia	FLUOMETURON	1992	kg				6758.3						1803.6
+51	Virginia	FLUOMETURON	1993	kg				8631.9						
+51	Virginia	FLUOMETURON	1994	kg				17834.9						
+51	Virginia	FLUOMETURON	1995	kg				41579.1						
+51	Virginia	FLUOMETURON	1996	kg				43982						
+51	Virginia	FLUOMETURON	1997	kg				41208.1						
+51	Virginia	FLUOMETURON	1998	kg				35226.2						
+51	Virginia	FLUOMETURON	1999	kg				35744.5						
+51	Virginia	FLUOMETURON	2000	kg				31410.4						
+51	Virginia	FLUOMETURON	2001	kg				17707.9						
+51	Virginia	FLUOMETURON	2002	kg				13639.9						
+51	Virginia	FLUOMETURON	2003	kg				10039.5						
+51	Virginia	FLUOMETURON	2004	kg				3340.1						
+51	Virginia	FLUOMETURON	2005	kg				4660.6						
+51	Virginia	FLUOMETURON	2006	kg				5667.2						
+51	Virginia	FLUOMETURON	2007	kg				8334.6						
+51	Virginia	FLUOMETURON	2008	kg				4522.3						
+51	Virginia	FLUOMETURON	2009	kg				2327.5						
+51	Virginia	FLUOMETURON	2010	kg				9546.2						
+51	Virginia	FLUOMETURON	2011	kg				2327.2						
+51	Virginia	FLUOMETURON	2012	kg				4542.6						
+51	Virginia	FLUOMETURON	2013	kg				2202						
+51	Virginia	FLUOMETURON	2014	kg				1506						
+51	Virginia	FLUOMETURON	2015	kg				4010.6						
+51	Virginia	FLUOMETURON	2016	kg				2401.3						
+51	Virginia	FLUOMETURON	2017	kg				975						
+53	Washington	FLUOMETURON	1994	kg										1322.4
+56	Wyoming	FLUOMETURON	1995	kg					0					

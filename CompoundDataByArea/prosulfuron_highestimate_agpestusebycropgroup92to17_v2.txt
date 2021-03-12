@@ -1,0 +1,875 @@
+01	Alabama	PROSULFURON	1995	kg	10.7									
+01	Alabama	PROSULFURON	1996	kg	133.5									
+01	Alabama	PROSULFURON	1997	kg	92.7									
+01	Alabama	PROSULFURON	1998	kg	122.5									
+01	Alabama	PROSULFURON	1999	kg	146.6									
+01	Alabama	PROSULFURON	2000	kg	35.6									
+01	Alabama	PROSULFURON	2001	kg	105.2									
+01	Alabama	PROSULFURON	2002	kg	67.1									
+01	Alabama	PROSULFURON	2003	kg	106.1									
+01	Alabama	PROSULFURON	2004	kg	157.5									
+01	Alabama	PROSULFURON	2005	kg	73.9									
+01	Alabama	PROSULFURON	2006	kg	15.3									
+01	Alabama	PROSULFURON	2009	kg	4.5									
+01	Alabama	PROSULFURON	2012	kg	18.6									
+01	Alabama	PROSULFURON	2013	kg	24.7									
+01	Alabama	PROSULFURON	2014	kg	17.5									
+01	Alabama	PROSULFURON	2015	kg	115.4									
+05	Arkansas	PROSULFURON	1996	kg	32.1									3.2
+05	Arkansas	PROSULFURON	1997	kg	71.7									82.2
+05	Arkansas	PROSULFURON	1998	kg	12.2		18							15.1
+05	Arkansas	PROSULFURON	1999	kg	41.4		513.8							152.2
+05	Arkansas	PROSULFURON	2000	kg	18.4		177.6							11
+05	Arkansas	PROSULFURON	2001	kg	36.8									0.2
+05	Arkansas	PROSULFURON	2002	kg	30.5									
+05	Arkansas	PROSULFURON	2003	kg	8									696.5
+05	Arkansas	PROSULFURON	2004	kg	14.9		64.4			17.8				16.6
+05	Arkansas	PROSULFURON	2005	kg	14.5									203.1
+05	Arkansas	PROSULFURON	2006	kg	1.1									8.7
+05	Arkansas	PROSULFURON	2007	kg										6.8
+05	Arkansas	PROSULFURON	2008	kg										15.3
+05	Arkansas	PROSULFURON	2009	kg										4.4
+05	Arkansas	PROSULFURON	2011	kg										59.3
+05	Arkansas	PROSULFURON	2013	kg			476.5							916.8
+05	Arkansas	PROSULFURON	2014	kg										98.8
+05	Arkansas	PROSULFURON	2016	kg			11							
+08	Colorado	PROSULFURON	1995	kg	496.2									
+08	Colorado	PROSULFURON	1996	kg	172.1									83.9
+08	Colorado	PROSULFURON	1997	kg	140.5		20.1							565
+08	Colorado	PROSULFURON	1998	kg	287.3		135							79.4
+08	Colorado	PROSULFURON	1999	kg	62.8		88.9							264.3
+08	Colorado	PROSULFURON	2000	kg	34.5		29.3							55.2
+08	Colorado	PROSULFURON	2001	kg	95.2		159.9							64.5
+08	Colorado	PROSULFURON	2002	kg	105.3		100.4							10.4
+08	Colorado	PROSULFURON	2003	kg	76.1		768.7							65.9
+08	Colorado	PROSULFURON	2004	kg	263.7		653.9							130.1
+08	Colorado	PROSULFURON	2005	kg	139									40
+08	Colorado	PROSULFURON	2006	kg	603									49.6
+08	Colorado	PROSULFURON	2007	kg	90.7									185.2
+08	Colorado	PROSULFURON	2008	kg	89.9									229.1
+08	Colorado	PROSULFURON	2009	kg	32.3									70
+08	Colorado	PROSULFURON	2010	kg	101.4		171.9							137.3
+08	Colorado	PROSULFURON	2011	kg	47									143.7
+08	Colorado	PROSULFURON	2012	kg	32.2									97.7
+08	Colorado	PROSULFURON	2013	kg									498.8	256.1
+08	Colorado	PROSULFURON	2014	kg			142.7							225.1
+08	Colorado	PROSULFURON	2015	kg										89.5
+08	Colorado	PROSULFURON	2016	kg	57									31.7
+08	Colorado	PROSULFURON	2017	kg										139.3
+09	Connecticut	PROSULFURON	1995	kg	1.2									
+09	Connecticut	PROSULFURON	1996	kg	3									
+09	Connecticut	PROSULFURON	1997	kg	2.2									
+09	Connecticut	PROSULFURON	1998	kg	6.1									
+09	Connecticut	PROSULFURON	1999	kg	0									
+09	Connecticut	PROSULFURON	2000	kg	2.3									
+09	Connecticut	PROSULFURON	2001	kg	81.9									
+09	Connecticut	PROSULFURON	2002	kg	8									
+09	Connecticut	PROSULFURON	2003	kg	30.8									
+09	Connecticut	PROSULFURON	2004	kg	3.9									
+09	Connecticut	PROSULFURON	2008	kg	1.9									
+09	Connecticut	PROSULFURON	2009	kg	7.7									
+09	Connecticut	PROSULFURON	2010	kg	6.9									
+09	Connecticut	PROSULFURON	2011	kg	6.2									
+09	Connecticut	PROSULFURON	2012	kg	8.3									
+09	Connecticut	PROSULFURON	2013	kg	5.3									
+09	Connecticut	PROSULFURON	2014	kg	5.6									
+09	Connecticut	PROSULFURON	2015	kg	9.6									
+10	Delaware	PROSULFURON	1995	kg	9.7									
+10	Delaware	PROSULFURON	1996	kg	13.1									
+10	Delaware	PROSULFURON	1997	kg	34									
+10	Delaware	PROSULFURON	1998	kg	8.1									
+10	Delaware	PROSULFURON	1999	kg	17.4									
+10	Delaware	PROSULFURON	2000	kg	39.1									
+10	Delaware	PROSULFURON	2001	kg	17.5									
+10	Delaware	PROSULFURON	2002	kg	55.8									
+10	Delaware	PROSULFURON	2003	kg	120									
+10	Delaware	PROSULFURON	2004	kg	109.2									
+10	Delaware	PROSULFURON	2005	kg	48									
+10	Delaware	PROSULFURON	2006	kg	3.1									
+10	Delaware	PROSULFURON	2007	kg	0.5									
+10	Delaware	PROSULFURON	2008	kg	1									
+10	Delaware	PROSULFURON	2009	kg	2.6									
+10	Delaware	PROSULFURON	2010	kg	4.4									
+10	Delaware	PROSULFURON	2011	kg	5.2									
+10	Delaware	PROSULFURON	2012	kg	8.3									
+10	Delaware	PROSULFURON	2013	kg	0.9									
+10	Delaware	PROSULFURON	2014	kg	3									
+10	Delaware	PROSULFURON	2015	kg	117.4									
+10	Delaware	PROSULFURON	2016	kg	24									
+13	Georgia	PROSULFURON	1995	kg	1.5									
+13	Georgia	PROSULFURON	1996	kg	26.3									
+13	Georgia	PROSULFURON	1997	kg	13.2									
+13	Georgia	PROSULFURON	1998	kg	38.8									
+13	Georgia	PROSULFURON	1999	kg	41.3									
+13	Georgia	PROSULFURON	2000	kg	27.6									
+13	Georgia	PROSULFURON	2001	kg	45.7									
+13	Georgia	PROSULFURON	2002	kg	56									
+13	Georgia	PROSULFURON	2003	kg	38.4									
+13	Georgia	PROSULFURON	2004	kg	46.4									
+13	Georgia	PROSULFURON	2005	kg	20.3									
+13	Georgia	PROSULFURON	2006	kg	3.3									
+13	Georgia	PROSULFURON	2009	kg	0.9									
+13	Georgia	PROSULFURON	2012	kg	45.3									
+13	Georgia	PROSULFURON	2013	kg	76.9									
+13	Georgia	PROSULFURON	2014	kg	66.9									
+13	Georgia	PROSULFURON	2015	kg	71.1									
+13	Georgia	PROSULFURON	2017	kg	0.4									
+16	Idaho	PROSULFURON	1997	kg			1241		113.5				64.2	67
+16	Idaho	PROSULFURON	1998	kg			142.2							66.7
+16	Idaho	PROSULFURON	1999	kg			2638.8							323.4
+16	Idaho	PROSULFURON	2000	kg			883.6							949.2
+16	Idaho	PROSULFURON	2001	kg			482.2							522.5
+16	Idaho	PROSULFURON	2002	kg			95.5							19.1
+16	Idaho	PROSULFURON	2003	kg			130							47.5
+16	Idaho	PROSULFURON	2004	kg			822.4							454.4
+16	Idaho	PROSULFURON	2005	kg			6538.4							
+16	Idaho	PROSULFURON	2006	kg			258.2							15.3
+16	Idaho	PROSULFURON	2007	kg			1121.9							396.5
+16	Idaho	PROSULFURON	2008	kg			369.5							238
+16	Idaho	PROSULFURON	2009	kg			165.7							190
+16	Idaho	PROSULFURON	2010	kg			749							7.3
+16	Idaho	PROSULFURON	2011	kg			265.6							
+16	Idaho	PROSULFURON	2012	kg			476							
+16	Idaho	PROSULFURON	2013	kg			1865.2							422.6
+16	Idaho	PROSULFURON	2014	kg			918.8							393.1
+16	Idaho	PROSULFURON	2015	kg			1533.3							797.1
+16	Idaho	PROSULFURON	2016	kg			570.3							16.1
+16	Idaho	PROSULFURON	2017	kg			1300.7							
+17	Illinois	PROSULFURON	1995	kg	1202.8									
+17	Illinois	PROSULFURON	1996	kg	5704.4									46.2
+17	Illinois	PROSULFURON	1997	kg	5136.1		158.3							52.6
+17	Illinois	PROSULFURON	1998	kg	2662		98.3							25.6
+17	Illinois	PROSULFURON	1999	kg	1182.2		82.6							25.3
+17	Illinois	PROSULFURON	2000	kg	1680.9		186.6							82.3
+17	Illinois	PROSULFURON	2001	kg	1391.1		234.5							308.6
+17	Illinois	PROSULFURON	2002	kg	1777.6		41.9							4.3
+17	Illinois	PROSULFURON	2003	kg	1295.9									16.6
+17	Illinois	PROSULFURON	2004	kg	514.7		1229.9							81.4
+17	Illinois	PROSULFURON	2005	kg	1054.5		283.2							78
+17	Illinois	PROSULFURON	2006	kg	984.3		950.5							13.3
+17	Illinois	PROSULFURON	2007	kg	418.6		1320.7							
+17	Illinois	PROSULFURON	2008	kg	619.1		330.7							11.2
+17	Illinois	PROSULFURON	2009	kg	319.7		258.1							19.1
+17	Illinois	PROSULFURON	2010	kg	1378		192.8							
+17	Illinois	PROSULFURON	2011	kg	332.8		371.8							17.2
+17	Illinois	PROSULFURON	2012	kg	744.6									
+17	Illinois	PROSULFURON	2013	kg	2215.4									
+17	Illinois	PROSULFURON	2014	kg	1157.5		338							
+17	Illinois	PROSULFURON	2015	kg	987.6									
+17	Illinois	PROSULFURON	2016	kg	1784.6									
+17	Illinois	PROSULFURON	2017	kg	622.8									
+18	Indiana	PROSULFURON	1995	kg	1608.4									
+18	Indiana	PROSULFURON	1996	kg	5062.4									
+18	Indiana	PROSULFURON	1997	kg	3187.2		88.5							3.3
+18	Indiana	PROSULFURON	1998	kg	1216.2		72.2							
+18	Indiana	PROSULFURON	1999	kg	1380.7		47.2							
+18	Indiana	PROSULFURON	2000	kg	1149.3		266.7							
+18	Indiana	PROSULFURON	2001	kg	1109.3		124.1							
+18	Indiana	PROSULFURON	2002	kg	1455.7		21.1							
+18	Indiana	PROSULFURON	2003	kg	1079.6		1.4							
+18	Indiana	PROSULFURON	2004	kg	523.3		883.7							
+18	Indiana	PROSULFURON	2005	kg	622.5		144							
+18	Indiana	PROSULFURON	2006	kg	442.6		565.1							
+18	Indiana	PROSULFURON	2007	kg	330.1		539.1							
+18	Indiana	PROSULFURON	2008	kg	356.5		168.5							
+18	Indiana	PROSULFURON	2009	kg	144.2		98.3							
+18	Indiana	PROSULFURON	2010	kg	996.1		96.9							
+18	Indiana	PROSULFURON	2011	kg	203.1		133.2							
+18	Indiana	PROSULFURON	2012	kg	397.2		16.1							
+18	Indiana	PROSULFURON	2013	kg	906.7		18.8							
+18	Indiana	PROSULFURON	2014	kg	755.5		158.1							
+18	Indiana	PROSULFURON	2015	kg	449.5		16.9							
+18	Indiana	PROSULFURON	2016	kg	536.7									
+18	Indiana	PROSULFURON	2017	kg	442									
+19	Iowa	PROSULFURON	1995	kg	860.6									0
+19	Iowa	PROSULFURON	1996	kg	5384.5				0.1					0.4
+19	Iowa	PROSULFURON	1997	kg	3430									0.4
+19	Iowa	PROSULFURON	1998	kg	671.6									0.4
+19	Iowa	PROSULFURON	1999	kg	684									0.2
+19	Iowa	PROSULFURON	2000	kg	1044.4									1.9
+19	Iowa	PROSULFURON	2001	kg	1011.5									0.2
+19	Iowa	PROSULFURON	2002	kg	1145.3									0
+19	Iowa	PROSULFURON	2003	kg	1132.1									0
+19	Iowa	PROSULFURON	2004	kg	960.4									3.1
+19	Iowa	PROSULFURON	2005	kg	1105.9									2.4
+19	Iowa	PROSULFURON	2006	kg	627.6									0
+19	Iowa	PROSULFURON	2007	kg	359.6									
+19	Iowa	PROSULFURON	2008	kg	487.5									0.1
+19	Iowa	PROSULFURON	2009	kg	652.2									2.2
+19	Iowa	PROSULFURON	2010	kg	1974.6									0.3
+19	Iowa	PROSULFURON	2011	kg	751.6									0.1
+19	Iowa	PROSULFURON	2012	kg	1137.4									
+19	Iowa	PROSULFURON	2013	kg	1627.8									
+19	Iowa	PROSULFURON	2014	kg	1073.7									
+19	Iowa	PROSULFURON	2015	kg	979.9									
+19	Iowa	PROSULFURON	2016	kg	891.6									
+19	Iowa	PROSULFURON	2017	kg	1023.6									
+20	Kansas	PROSULFURON	1995	kg	1202.2									
+20	Kansas	PROSULFURON	1996	kg	2854.1				0.2				9.9	2200.9
+20	Kansas	PROSULFURON	1997	kg	4773.4		1066.9						136.5	3925.8
+20	Kansas	PROSULFURON	1998	kg	3075.3		454.2							4643.6
+20	Kansas	PROSULFURON	1999	kg	1871.3		413							3580.9
+20	Kansas	PROSULFURON	2000	kg	1194		604.5							1012.6
+20	Kansas	PROSULFURON	2001	kg	1115		820.4							910.5
+20	Kansas	PROSULFURON	2002	kg	1056.6		524.4							940.8
+20	Kansas	PROSULFURON	2003	kg	697.8		1345							1373.4
+20	Kansas	PROSULFURON	2004	kg	1056.5		404.3							869
+20	Kansas	PROSULFURON	2005	kg	1207.7									1017.6
+20	Kansas	PROSULFURON	2006	kg	1388.9									932.8
+20	Kansas	PROSULFURON	2007	kg	532.6		935.8							2365
+20	Kansas	PROSULFURON	2008	kg	532.4									2137.3
+20	Kansas	PROSULFURON	2009	kg	167.6									950
+20	Kansas	PROSULFURON	2010	kg	533.6		742.2							1264
+20	Kansas	PROSULFURON	2011	kg	366.9									1386.1
+20	Kansas	PROSULFURON	2012	kg	128.2									821.4
+20	Kansas	PROSULFURON	2013	kg									353.2	1952.1
+20	Kansas	PROSULFURON	2014	kg			590.2						337.8	1517.2
+20	Kansas	PROSULFURON	2015	kg										595.7
+20	Kansas	PROSULFURON	2016	kg	233.7									199.5
+20	Kansas	PROSULFURON	2017	kg										501.9
+21	Kentucky	PROSULFURON	1995	kg	200.6									
+21	Kentucky	PROSULFURON	1996	kg	390.1									2.6
+21	Kentucky	PROSULFURON	1997	kg	938.3		23.1							4.1
+21	Kentucky	PROSULFURON	1998	kg	897.4		26							0.4
+21	Kentucky	PROSULFURON	1999	kg	1245.7		11.2							8.4
+21	Kentucky	PROSULFURON	2000	kg	1710.1		26.5							5.1
+21	Kentucky	PROSULFURON	2001	kg	325.5		39.5							16.4
+21	Kentucky	PROSULFURON	2002	kg	284.6		7.6							0.2
+21	Kentucky	PROSULFURON	2003	kg	401									67.5
+21	Kentucky	PROSULFURON	2004	kg	461.3		173.4							5.3
+21	Kentucky	PROSULFURON	2005	kg	246.2		37.9							5.6
+21	Kentucky	PROSULFURON	2006	kg	60.6		78.6							1
+21	Kentucky	PROSULFURON	2007	kg	117.8		116.8							
+21	Kentucky	PROSULFURON	2008	kg	59.9		121.3							0.2
+21	Kentucky	PROSULFURON	2009	kg	47.4		55.4							0.8
+21	Kentucky	PROSULFURON	2010	kg	231		83.5							
+21	Kentucky	PROSULFURON	2011	kg	350		263.4							0.9
+21	Kentucky	PROSULFURON	2012	kg	115.8									
+21	Kentucky	PROSULFURON	2013	kg	247									
+21	Kentucky	PROSULFURON	2014	kg	275.3		222.5							
+21	Kentucky	PROSULFURON	2015	kg	305.3									
+21	Kentucky	PROSULFURON	2016	kg	61									
+21	Kentucky	PROSULFURON	2017	kg	73									
+22	Louisiana	PROSULFURON	1996	kg	91.9									
+22	Louisiana	PROSULFURON	1997	kg	122									5.2
+22	Louisiana	PROSULFURON	1998	kg	72.1									1.2
+22	Louisiana	PROSULFURON	1999	kg	204.2									5.8
+22	Louisiana	PROSULFURON	2000	kg	17.3									0.2
+22	Louisiana	PROSULFURON	2001	kg	53.1									7.8
+22	Louisiana	PROSULFURON	2002	kg	70.3									
+22	Louisiana	PROSULFURON	2003	kg										732.1
+22	Louisiana	PROSULFURON	2004	kg	1.1									12.2
+22	Louisiana	PROSULFURON	2006	kg										9.5
+22	Louisiana	PROSULFURON	2007	kg										821.6
+22	Louisiana	PROSULFURON	2008	kg										3.4
+22	Louisiana	PROSULFURON	2009	kg										5.6
+22	Louisiana	PROSULFURON	2010	kg										12.7
+22	Louisiana	PROSULFURON	2011	kg										33.5
+22	Louisiana	PROSULFURON	2012	kg										6.6
+22	Louisiana	PROSULFURON	2013	kg			136.4							5.9
+22	Louisiana	PROSULFURON	2014	kg										0.9
+22	Louisiana	PROSULFURON	2015	kg										5.9
+22	Louisiana	PROSULFURON	2016	kg			4.3							5
+22	Louisiana	PROSULFURON	2017	kg										3.6
+23	Maine	PROSULFURON	1995	kg	4.2									
+23	Maine	PROSULFURON	1996	kg	14.1									
+23	Maine	PROSULFURON	1997	kg	13.3									
+23	Maine	PROSULFURON	1998	kg	8.3									
+23	Maine	PROSULFURON	1999	kg	4.5									
+23	Maine	PROSULFURON	2000	kg	4.6									
+23	Maine	PROSULFURON	2001	kg	6.9									
+23	Maine	PROSULFURON	2002	kg	126.6									
+23	Maine	PROSULFURON	2003	kg	6.9									
+23	Maine	PROSULFURON	2004	kg	6.2									
+23	Maine	PROSULFURON	2008	kg	1.7									
+23	Maine	PROSULFURON	2009	kg	7.5									
+23	Maine	PROSULFURON	2010	kg	6.8									
+23	Maine	PROSULFURON	2011	kg	6.2									
+23	Maine	PROSULFURON	2012	kg	8.4									
+23	Maine	PROSULFURON	2013	kg	5.7									
+23	Maine	PROSULFURON	2014	kg	6.2									
+23	Maine	PROSULFURON	2015	kg	10.7									
+24	Maryland	PROSULFURON	1995	kg	45.9									
+24	Maryland	PROSULFURON	1996	kg	45.1									
+24	Maryland	PROSULFURON	1997	kg	95.7									
+24	Maryland	PROSULFURON	1998	kg	139.4		6.2							13.3
+24	Maryland	PROSULFURON	1999	kg	223.1									
+24	Maryland	PROSULFURON	2000	kg	67.6									
+24	Maryland	PROSULFURON	2001	kg	55.2									
+24	Maryland	PROSULFURON	2002	kg	114.2									
+24	Maryland	PROSULFURON	2003	kg	223.3									
+24	Maryland	PROSULFURON	2004	kg	133.2		11.4							13.1
+24	Maryland	PROSULFURON	2005	kg	58.7									
+24	Maryland	PROSULFURON	2006	kg	59.2									
+24	Maryland	PROSULFURON	2007	kg	10.9									
+24	Maryland	PROSULFURON	2008	kg	18.2									
+24	Maryland	PROSULFURON	2009	kg	47									
+24	Maryland	PROSULFURON	2010	kg	65.1									
+24	Maryland	PROSULFURON	2011	kg	78.8									0.2
+24	Maryland	PROSULFURON	2012	kg	123.9									
+24	Maryland	PROSULFURON	2013	kg	15.2									
+24	Maryland	PROSULFURON	2014	kg	57.9									
+24	Maryland	PROSULFURON	2015	kg	162.9									
+24	Maryland	PROSULFURON	2016	kg	402									7.6
+25	Massachusetts	PROSULFURON	1995	kg	0.5									
+25	Massachusetts	PROSULFURON	1996	kg	2.1									
+25	Massachusetts	PROSULFURON	1997	kg	16.1									
+25	Massachusetts	PROSULFURON	1998	kg	4.2									
+25	Massachusetts	PROSULFURON	1999	kg	0									
+25	Massachusetts	PROSULFURON	2000	kg	1.1									
+25	Massachusetts	PROSULFURON	2001	kg	86.5									
+25	Massachusetts	PROSULFURON	2002	kg	5.1									
+25	Massachusetts	PROSULFURON	2003	kg	14.1									
+25	Massachusetts	PROSULFURON	2004	kg	2.5									
+25	Massachusetts	PROSULFURON	2008	kg	1									
+25	Massachusetts	PROSULFURON	2009	kg	4.2									
+25	Massachusetts	PROSULFURON	2010	kg	3.9									
+25	Massachusetts	PROSULFURON	2011	kg	3.4									
+25	Massachusetts	PROSULFURON	2012	kg	4.4									
+25	Massachusetts	PROSULFURON	2013	kg	2.7									
+25	Massachusetts	PROSULFURON	2014	kg	3.2									
+25	Massachusetts	PROSULFURON	2015	kg	5.5									
+26	Michigan	PROSULFURON	1995	kg	462.5									
+26	Michigan	PROSULFURON	1996	kg	475.3									
+26	Michigan	PROSULFURON	1997	kg	164.8		143.1							25.1
+26	Michigan	PROSULFURON	1998	kg	63.4		278.8							
+26	Michigan	PROSULFURON	1999	kg	342.8		120.6							
+26	Michigan	PROSULFURON	2000	kg	122.1		692.3							
+26	Michigan	PROSULFURON	2001	kg	88.4		248.9							45.5
+26	Michigan	PROSULFURON	2002	kg	337.9		107.1							34.6
+26	Michigan	PROSULFURON	2003	kg	300.7		6							
+26	Michigan	PROSULFURON	2004	kg	71.7		1810							
+26	Michigan	PROSULFURON	2005	kg	183.2		228.1							
+26	Michigan	PROSULFURON	2006	kg	150.3		1052.1							
+26	Michigan	PROSULFURON	2007	kg	11.9		933.7							
+26	Michigan	PROSULFURON	2008	kg	121.2		378.1							
+26	Michigan	PROSULFURON	2009	kg			188.2							
+26	Michigan	PROSULFURON	2010	kg			389.9							
+26	Michigan	PROSULFURON	2011	kg	49.3		199.3							
+26	Michigan	PROSULFURON	2012	kg			69.3							
+26	Michigan	PROSULFURON	2013	kg			176.8							
+26	Michigan	PROSULFURON	2014	kg			350.8							
+26	Michigan	PROSULFURON	2015	kg			83.9							
+26	Michigan	PROSULFURON	2016	kg	386.8									
+27	Minnesota	PROSULFURON	1995	kg	1292.4									
+27	Minnesota	PROSULFURON	1996	kg	2106									
+27	Minnesota	PROSULFURON	1997	kg	2921.6		39.2							41.6
+27	Minnesota	PROSULFURON	1998	kg	663.6		2660.7							
+27	Minnesota	PROSULFURON	1999	kg	551.5		201.2							
+27	Minnesota	PROSULFURON	2000	kg	408.7									42
+27	Minnesota	PROSULFURON	2001	kg	714.9		72							67.6
+27	Minnesota	PROSULFURON	2002	kg	603.2		118.2							
+27	Minnesota	PROSULFURON	2003	kg	1079.9									
+27	Minnesota	PROSULFURON	2004	kg	547.9									
+27	Minnesota	PROSULFURON	2005	kg	209.6									
+27	Minnesota	PROSULFURON	2006	kg	332.9									
+27	Minnesota	PROSULFURON	2007	kg	242									
+27	Minnesota	PROSULFURON	2008	kg	378.1									
+27	Minnesota	PROSULFURON	2009	kg	242.1									
+27	Minnesota	PROSULFURON	2010	kg	998.9									
+27	Minnesota	PROSULFURON	2011	kg	208									
+27	Minnesota	PROSULFURON	2012	kg	411.1									
+27	Minnesota	PROSULFURON	2013	kg	899.7									
+27	Minnesota	PROSULFURON	2014	kg	664.8									
+27	Minnesota	PROSULFURON	2015	kg	466.4									
+27	Minnesota	PROSULFURON	2016	kg	610.2									
+27	Minnesota	PROSULFURON	2017	kg	511.9									
+28	Mississippi	PROSULFURON	1995	kg	1.1									
+28	Mississippi	PROSULFURON	1996	kg	126.4									
+28	Mississippi	PROSULFURON	1997	kg	76									3.2
+28	Mississippi	PROSULFURON	1998	kg	75.8									
+28	Mississippi	PROSULFURON	1999	kg	115.8									8.6
+28	Mississippi	PROSULFURON	2000	kg	14.4									
+28	Mississippi	PROSULFURON	2001	kg	49.1									
+28	Mississippi	PROSULFURON	2002	kg	86.3									
+28	Mississippi	PROSULFURON	2003	kg	14									143.7
+28	Mississippi	PROSULFURON	2004	kg	12.1									10.4
+28	Mississippi	PROSULFURON	2005	kg	5.8									127.7
+28	Mississippi	PROSULFURON	2007	kg										5.5
+28	Mississippi	PROSULFURON	2013	kg			294.6							281.1
+28	Mississippi	PROSULFURON	2014	kg										35.5
+28	Mississippi	PROSULFURON	2015	kg	8.4									
+28	Mississippi	PROSULFURON	2016	kg			4.8							
+29	Missouri	PROSULFURON	1995	kg	194.9									
+29	Missouri	PROSULFURON	1996	kg	440.4				0					160.4
+29	Missouri	PROSULFURON	1997	kg	524.8		153.8							233.4
+29	Missouri	PROSULFURON	1998	kg	148.1		105.6							180.4
+29	Missouri	PROSULFURON	1999	kg	429.6		392							180.6
+29	Missouri	PROSULFURON	2000	kg	870.3		160.1							196.9
+29	Missouri	PROSULFURON	2001	kg	599.9		223.9							265.3
+29	Missouri	PROSULFURON	2002	kg	358.7		114.3							21.7
+29	Missouri	PROSULFURON	2003	kg	589									802.1
+29	Missouri	PROSULFURON	2004	kg	566.6		760.2			5				116
+29	Missouri	PROSULFURON	2005	kg	327.8		212.3							132.8
+29	Missouri	PROSULFURON	2006	kg	77		765.8							25.2
+29	Missouri	PROSULFURON	2007	kg	313.7		1089.1							85.2
+29	Missouri	PROSULFURON	2008	kg	225.6		307.2							15.7
+29	Missouri	PROSULFURON	2009	kg	405.9		101.6							33.7
+29	Missouri	PROSULFURON	2010	kg	590.2		109.3							9.7
+29	Missouri	PROSULFURON	2011	kg	152.7									32.2
+29	Missouri	PROSULFURON	2012	kg	255.4									
+29	Missouri	PROSULFURON	2013	kg	477.6									
+29	Missouri	PROSULFURON	2014	kg	357.6		284.1							12.5
+29	Missouri	PROSULFURON	2015	kg	251.9									
+29	Missouri	PROSULFURON	2016	kg	194.3									
+29	Missouri	PROSULFURON	2017	kg	261.7									
+30	Montana	PROSULFURON	1997	kg			198.8							0.9
+30	Montana	PROSULFURON	1998	kg			821							1.7
+30	Montana	PROSULFURON	1999	kg			1102.5							83.6
+30	Montana	PROSULFURON	2000	kg			621.8							308
+30	Montana	PROSULFURON	2001	kg			702.3							468.4
+30	Montana	PROSULFURON	2002	kg			279.9							30.3
+30	Montana	PROSULFURON	2003	kg			180.6							140.4
+30	Montana	PROSULFURON	2004	kg			499.7							39.6
+30	Montana	PROSULFURON	2005	kg			799.4							
+30	Montana	PROSULFURON	2007	kg			25.4							56.8
+30	Montana	PROSULFURON	2008	kg			6.2							6.1
+30	Montana	PROSULFURON	2009	kg			7.9							5.2
+30	Montana	PROSULFURON	2010	kg			9.9							
+30	Montana	PROSULFURON	2011	kg			8.4							
+30	Montana	PROSULFURON	2012	kg			22.9							
+30	Montana	PROSULFURON	2013	kg			114.9							7.9
+30	Montana	PROSULFURON	2014	kg			46.1							7.4
+30	Montana	PROSULFURON	2015	kg			114.7							15.5
+30	Montana	PROSULFURON	2016	kg			42							
+30	Montana	PROSULFURON	2017	kg			82.5							
+31	Nebraska	PROSULFURON	1995	kg	1418.6									70.8
+31	Nebraska	PROSULFURON	1996	kg	12307.2				7.1				3.1	708.8
+31	Nebraska	PROSULFURON	1997	kg	11173.4		94.2						18.8	395.6
+31	Nebraska	PROSULFURON	1998	kg	5166		102							174.9
+31	Nebraska	PROSULFURON	1999	kg	3028.2		36.9							116.8
+31	Nebraska	PROSULFURON	2000	kg	1775.6		101.4							699.4
+31	Nebraska	PROSULFURON	2001	kg	3392.6		10085.1							220
+31	Nebraska	PROSULFURON	2002	kg	2826		0							24.7
+31	Nebraska	PROSULFURON	2003	kg	1832.7		267.1							126.4
+31	Nebraska	PROSULFURON	2004	kg	2799.3		146.4							451
+31	Nebraska	PROSULFURON	2005	kg	1400.5		3.6							211.3
+31	Nebraska	PROSULFURON	2006	kg	1651.9		15.7							46.2
+31	Nebraska	PROSULFURON	2007	kg	553.1		115.8							131
+31	Nebraska	PROSULFURON	2008	kg	637.4		27.2							141.4
+31	Nebraska	PROSULFURON	2009	kg	315.1		13.2							304.7
+31	Nebraska	PROSULFURON	2010	kg	1233.9		100.2							67
+31	Nebraska	PROSULFURON	2011	kg	687.7									55
+31	Nebraska	PROSULFURON	2012	kg	423.5									30.8
+31	Nebraska	PROSULFURON	2013	kg	618.2								61.3	28.6
+31	Nebraska	PROSULFURON	2014	kg	420.1		28.7							229.7
+31	Nebraska	PROSULFURON	2015	kg	313.1									94.7
+31	Nebraska	PROSULFURON	2016	kg	547.3									14.1
+31	Nebraska	PROSULFURON	2017	kg	312.2									52.4
+33	New Hampshire	PROSULFURON	1995	kg	2.5									
+33	New Hampshire	PROSULFURON	1996	kg	1.3									
+33	New Hampshire	PROSULFURON	1997	kg	11.4									
+33	New Hampshire	PROSULFURON	1998	kg	22.2									
+33	New Hampshire	PROSULFURON	1999	kg	1.1									
+33	New Hampshire	PROSULFURON	2000	kg	0.8									
+33	New Hampshire	PROSULFURON	2001	kg	1.7									
+33	New Hampshire	PROSULFURON	2002	kg	71.5									
+33	New Hampshire	PROSULFURON	2003	kg	4									
+33	New Hampshire	PROSULFURON	2004	kg	3.6									
+33	New Hampshire	PROSULFURON	2008	kg	0.8									
+33	New Hampshire	PROSULFURON	2009	kg	3.5									
+33	New Hampshire	PROSULFURON	2010	kg	3									
+33	New Hampshire	PROSULFURON	2011	kg	2.6									
+33	New Hampshire	PROSULFURON	2012	kg	3.5									
+33	New Hampshire	PROSULFURON	2013	kg	2.2									
+33	New Hampshire	PROSULFURON	2014	kg	2.2									
+33	New Hampshire	PROSULFURON	2015	kg	4									
+34	New Jersey	PROSULFURON	1995	kg	13.5									
+34	New Jersey	PROSULFURON	1996	kg	11									
+34	New Jersey	PROSULFURON	1997	kg	33.8									
+34	New Jersey	PROSULFURON	1998	kg	29.5									
+34	New Jersey	PROSULFURON	1999	kg	63									
+34	New Jersey	PROSULFURON	2000	kg	21.6									
+34	New Jersey	PROSULFURON	2001	kg	26.8									
+34	New Jersey	PROSULFURON	2002	kg	24.2									
+34	New Jersey	PROSULFURON	2003	kg	3.5									
+34	New Jersey	PROSULFURON	2004	kg	11.2									
+34	New Jersey	PROSULFURON	2005	kg	3.2									
+34	New Jersey	PROSULFURON	2006	kg	12.8									
+34	New Jersey	PROSULFURON	2007	kg	2.4									
+34	New Jersey	PROSULFURON	2008	kg	4.5									
+34	New Jersey	PROSULFURON	2009	kg	10.6									
+34	New Jersey	PROSULFURON	2010	kg	15.5									
+34	New Jersey	PROSULFURON	2011	kg	20.8									
+34	New Jersey	PROSULFURON	2012	kg	32.8									
+34	New Jersey	PROSULFURON	2013	kg	3.6									
+34	New Jersey	PROSULFURON	2014	kg	14.7									
+34	New Jersey	PROSULFURON	2015	kg	21.2									
+34	New Jersey	PROSULFURON	2016	kg	99.2									
+35	New Mexico	PROSULFURON	1995	kg	19									
+35	New Mexico	PROSULFURON	1996	kg	78.4			0					4	403.4
+35	New Mexico	PROSULFURON	1997	kg	173.3		1.9							111
+35	New Mexico	PROSULFURON	1998	kg	74.3		11.5							75.6
+35	New Mexico	PROSULFURON	1999	kg	60.1		9.9							24.9
+35	New Mexico	PROSULFURON	2000	kg	146.4		2.3							33.3
+35	New Mexico	PROSULFURON	2001	kg	25.3		2							36.6
+35	New Mexico	PROSULFURON	2002	kg	21.2		7.8							21
+35	New Mexico	PROSULFURON	2003	kg	58.4		23.4							13.5
+35	New Mexico	PROSULFURON	2004	kg	26									3.6
+35	New Mexico	PROSULFURON	2005	kg	39.1									109.7
+35	New Mexico	PROSULFURON	2006	kg	11.8									8
+35	New Mexico	PROSULFURON	2007	kg	12.5								3.6	104.5
+35	New Mexico	PROSULFURON	2008	kg	12.6									63.8
+35	New Mexico	PROSULFURON	2009	kg	28.9									58.9
+35	New Mexico	PROSULFURON	2010	kg	11.5		5.3							88.9
+35	New Mexico	PROSULFURON	2011	kg	7.9									5.8
+35	New Mexico	PROSULFURON	2012	kg	4.3								17.6	5.6
+35	New Mexico	PROSULFURON	2013	kg										12.1
+35	New Mexico	PROSULFURON	2014	kg	8.8									42.8
+35	New Mexico	PROSULFURON	2015	kg	26.5									7.7
+35	New Mexico	PROSULFURON	2016	kg	5									13.1
+35	New Mexico	PROSULFURON	2017	kg										3.4
+36	New York	PROSULFURON	1995	kg	181									
+36	New York	PROSULFURON	1996	kg	79.7									
+36	New York	PROSULFURON	1997	kg	353.8		90							
+36	New York	PROSULFURON	1998	kg	113									
+36	New York	PROSULFURON	1999	kg	249.1		144.2							
+36	New York	PROSULFURON	2000	kg	162		381.1							
+36	New York	PROSULFURON	2001	kg	193.2									
+36	New York	PROSULFURON	2002	kg	249.9									
+36	New York	PROSULFURON	2003	kg	160.1									
+36	New York	PROSULFURON	2004	kg	128									
+36	New York	PROSULFURON	2008	kg	77.4									
+36	New York	PROSULFURON	2009	kg	292.3									
+36	New York	PROSULFURON	2010	kg	255.9									
+36	New York	PROSULFURON	2011	kg	244.2									
+36	New York	PROSULFURON	2012	kg	349.2									
+36	New York	PROSULFURON	2013	kg	202									
+36	New York	PROSULFURON	2014	kg	169.7									
+36	New York	PROSULFURON	2015	kg	330.9									
+37	North Carolina	PROSULFURON	1995	kg	37.2									
+37	North Carolina	PROSULFURON	1996	kg	266.7									
+37	North Carolina	PROSULFURON	1997	kg	206.6									
+37	North Carolina	PROSULFURON	1998	kg	438.6		59.8							
+37	North Carolina	PROSULFURON	1999	kg	270.7		69.8							47.3
+37	North Carolina	PROSULFURON	2000	kg	1602.7									
+37	North Carolina	PROSULFURON	2001	kg	329.9									
+37	North Carolina	PROSULFURON	2002	kg	793.7									
+37	North Carolina	PROSULFURON	2003	kg	579.4									
+37	North Carolina	PROSULFURON	2004	kg	626.7									
+37	North Carolina	PROSULFURON	2005	kg	255.6									
+37	North Carolina	PROSULFURON	2006	kg	77.8									
+37	North Carolina	PROSULFURON	2009	kg	0.6									
+37	North Carolina	PROSULFURON	2012	kg	814.6									
+37	North Carolina	PROSULFURON	2013	kg	1881.4									
+37	North Carolina	PROSULFURON	2014	kg	1406.7									
+37	North Carolina	PROSULFURON	2015	kg	901.7									
+37	North Carolina	PROSULFURON	2017	kg	3.3									
+38	North Dakota	PROSULFURON	1995	kg	202.6									
+38	North Dakota	PROSULFURON	1996	kg	38.1									
+38	North Dakota	PROSULFURON	1997	kg	113.1		364							127.1
+38	North Dakota	PROSULFURON	1998	kg	191.6		6158.3							
+38	North Dakota	PROSULFURON	1999	kg	100		903.5							
+38	North Dakota	PROSULFURON	2000	kg	22		0.1							300.9
+38	North Dakota	PROSULFURON	2001	kg	78.4		518.2							742
+38	North Dakota	PROSULFURON	2002	kg			516.7							
+38	North Dakota	PROSULFURON	2003	kg			43.5							86.4
+38	North Dakota	PROSULFURON	2007	kg										25.1
+39	Ohio	PROSULFURON	1995	kg	444.4									
+39	Ohio	PROSULFURON	1996	kg	647.7									
+39	Ohio	PROSULFURON	1997	kg	1070.3		250.8							1.3
+39	Ohio	PROSULFURON	1998	kg	393.8		228.1							
+39	Ohio	PROSULFURON	1999	kg	287.3		83.5							
+39	Ohio	PROSULFURON	2000	kg	235.8		641.8							
+39	Ohio	PROSULFURON	2001	kg	150.9		383.2							
+39	Ohio	PROSULFURON	2002	kg	438		49.1							
+39	Ohio	PROSULFURON	2003	kg	669.3		12.7							
+39	Ohio	PROSULFURON	2004	kg	693		964.1							
+39	Ohio	PROSULFURON	2005	kg	223.3		237.4							
+39	Ohio	PROSULFURON	2006	kg	203.5		384.6							
+39	Ohio	PROSULFURON	2007	kg	690.4		624.9							
+39	Ohio	PROSULFURON	2008	kg	164.8		188.6							
+39	Ohio	PROSULFURON	2009	kg	98.5		90.8							
+39	Ohio	PROSULFURON	2010	kg	448.8		230.7							
+39	Ohio	PROSULFURON	2011	kg	76.9		414.4							
+39	Ohio	PROSULFURON	2012	kg	243.8		115.6							
+39	Ohio	PROSULFURON	2013	kg	482.4		150.3							
+39	Ohio	PROSULFURON	2014	kg	328.8		183.2							
+39	Ohio	PROSULFURON	2015	kg	256.7		158.3							
+39	Ohio	PROSULFURON	2016	kg	277.4		12.4							
+39	Ohio	PROSULFURON	2017	kg	625									
+40	Oklahoma	PROSULFURON	1995	kg	52.7									
+40	Oklahoma	PROSULFURON	1996	kg	123.3			0.3					3	214.8
+40	Oklahoma	PROSULFURON	1997	kg	287.4		54						0	352
+40	Oklahoma	PROSULFURON	1998	kg	141.6		268.4							245.8
+40	Oklahoma	PROSULFURON	1999	kg	192.3		206.6							509.9
+40	Oklahoma	PROSULFURON	2000	kg	42.3		294.8							173.4
+40	Oklahoma	PROSULFURON	2001	kg	45		263.2							150.7
+40	Oklahoma	PROSULFURON	2002	kg	7.9		47.3							53.4
+40	Oklahoma	PROSULFURON	2003	kg	51.5		527.4							56.9
+40	Oklahoma	PROSULFURON	2004	kg	117.4									30
+40	Oklahoma	PROSULFURON	2005	kg	93.3									190.7
+40	Oklahoma	PROSULFURON	2006	kg	22.3		16.9							255.3
+40	Oklahoma	PROSULFURON	2007	kg	28.2		0.8						27	932.9
+40	Oklahoma	PROSULFURON	2008	kg	25.5									233.2
+40	Oklahoma	PROSULFURON	2009	kg	9.9									65.5
+40	Oklahoma	PROSULFURON	2010	kg	27		263.2							100.6
+40	Oklahoma	PROSULFURON	2011	kg	15.2		130.7							71.5
+40	Oklahoma	PROSULFURON	2012	kg	4.9									45.9
+40	Oklahoma	PROSULFURON	2013	kg	6.4		7.9							108.7
+40	Oklahoma	PROSULFURON	2014	kg	22.4									381.7
+40	Oklahoma	PROSULFURON	2015	kg	61.7									77.2
+40	Oklahoma	PROSULFURON	2016	kg	15.1									71.5
+40	Oklahoma	PROSULFURON	2017	kg										36.9
+41	Oregon	PROSULFURON	1997	kg			477.8		27.4				115.5	38.7
+41	Oregon	PROSULFURON	1998	kg			56.8							15.2
+41	Oregon	PROSULFURON	1999	kg			289.7							39.9
+41	Oregon	PROSULFURON	2000	kg			592.8							80
+41	Oregon	PROSULFURON	2001	kg			291.5							69.4
+41	Oregon	PROSULFURON	2002	kg			241.7							14
+41	Oregon	PROSULFURON	2003	kg			155.5							1.1
+41	Oregon	PROSULFURON	2004	kg			423							18.3
+41	Oregon	PROSULFURON	2005	kg			1505.1							
+41	Oregon	PROSULFURON	2006	kg			197.2							4
+41	Oregon	PROSULFURON	2007	kg			1044.3							8.1
+41	Oregon	PROSULFURON	2008	kg			77.2							4.7
+41	Oregon	PROSULFURON	2009	kg			132.9							4.4
+41	Oregon	PROSULFURON	2010	kg			73.2							1.2
+41	Oregon	PROSULFURON	2011	kg			120.7							
+41	Oregon	PROSULFURON	2012	kg			90.7							
+41	Oregon	PROSULFURON	2013	kg			393.9							19.1
+41	Oregon	PROSULFURON	2014	kg			138.2							3.8
+41	Oregon	PROSULFURON	2015	kg			375.2							18.2
+41	Oregon	PROSULFURON	2016	kg			36.7							4.1
+41	Oregon	PROSULFURON	2017	kg			244.8							
+42	Pennsylvania	PROSULFURON	1995	kg	328.4									
+42	Pennsylvania	PROSULFURON	1996	kg	124.1									
+42	Pennsylvania	PROSULFURON	1997	kg	660.1									
+42	Pennsylvania	PROSULFURON	1998	kg	228.9		11.7							14.6
+42	Pennsylvania	PROSULFURON	1999	kg	703									
+42	Pennsylvania	PROSULFURON	2000	kg	293.8									
+42	Pennsylvania	PROSULFURON	2001	kg	385.8		7							
+42	Pennsylvania	PROSULFURON	2002	kg	341									
+42	Pennsylvania	PROSULFURON	2003	kg	167.6									
+42	Pennsylvania	PROSULFURON	2004	kg	246.3		9							12.3
+42	Pennsylvania	PROSULFURON	2005	kg	100									
+42	Pennsylvania	PROSULFURON	2006	kg	204									
+42	Pennsylvania	PROSULFURON	2007	kg	30									
+42	Pennsylvania	PROSULFURON	2008	kg	97.7									
+42	Pennsylvania	PROSULFURON	2009	kg	393.1									
+42	Pennsylvania	PROSULFURON	2010	kg	340.8									
+42	Pennsylvania	PROSULFURON	2011	kg	323.6									
+42	Pennsylvania	PROSULFURON	2012	kg	414.3									
+42	Pennsylvania	PROSULFURON	2013	kg	324.7		5.2							
+42	Pennsylvania	PROSULFURON	2014	kg	281.3									
+42	Pennsylvania	PROSULFURON	2015	kg	478.8									
+42	Pennsylvania	PROSULFURON	2016	kg	1212.6									31.1
+44	Rhode Island	PROSULFURON	1995	kg	0									
+44	Rhode Island	PROSULFURON	1996	kg	0.2									
+44	Rhode Island	PROSULFURON	1997	kg	1.9									
+44	Rhode Island	PROSULFURON	1998	kg	0.4									
+44	Rhode Island	PROSULFURON	1999	kg	0									
+44	Rhode Island	PROSULFURON	2000	kg	0									
+44	Rhode Island	PROSULFURON	2001	kg	10.5									
+44	Rhode Island	PROSULFURON	2002	kg	0.6									
+44	Rhode Island	PROSULFURON	2003	kg	2.4									
+44	Rhode Island	PROSULFURON	2004	kg	0.2									
+44	Rhode Island	PROSULFURON	2008	kg	0									
+44	Rhode Island	PROSULFURON	2009	kg	0.4									
+44	Rhode Island	PROSULFURON	2010	kg	0.3									
+44	Rhode Island	PROSULFURON	2011	kg	0.3									
+44	Rhode Island	PROSULFURON	2012	kg	0.3									
+44	Rhode Island	PROSULFURON	2013	kg	0.2									
+44	Rhode Island	PROSULFURON	2014	kg	0.2									
+44	Rhode Island	PROSULFURON	2015	kg	0.3									
+45	South Carolina	PROSULFURON	1995	kg	3.8									
+45	South Carolina	PROSULFURON	1996	kg	28.7									
+45	South Carolina	PROSULFURON	1997	kg	3.3									
+45	South Carolina	PROSULFURON	1998	kg	37.7									
+45	South Carolina	PROSULFURON	1999	kg	31.5									
+45	South Carolina	PROSULFURON	2000	kg	28.1									
+45	South Carolina	PROSULFURON	2001	kg	52.3									
+45	South Carolina	PROSULFURON	2002	kg	30.1									
+45	South Carolina	PROSULFURON	2003	kg	62.2									
+45	South Carolina	PROSULFURON	2004	kg	73.7									
+45	South Carolina	PROSULFURON	2005	kg	31.6									
+45	South Carolina	PROSULFURON	2012	kg	13.7									
+45	South Carolina	PROSULFURON	2013	kg	33.4									
+45	South Carolina	PROSULFURON	2014	kg	27.6									
+45	South Carolina	PROSULFURON	2015	kg	85.4									
+46	South Dakota	PROSULFURON	1995	kg	678.9									
+46	South Dakota	PROSULFURON	1996	kg	757.8									7.4
+46	South Dakota	PROSULFURON	1997	kg	1284.2		66							20.8
+46	South Dakota	PROSULFURON	1998	kg	870		973.3							3.9
+46	South Dakota	PROSULFURON	1999	kg	311.9		272.5							6.9
+46	South Dakota	PROSULFURON	2000	kg	94.2		9.6							54.3
+46	South Dakota	PROSULFURON	2001	kg	367.1		1033.6							15.7
+46	South Dakota	PROSULFURON	2002	kg	294.8		110.2							0.3
+46	South Dakota	PROSULFURON	2003	kg	208.9									1.6
+46	South Dakota	PROSULFURON	2004	kg	202.9		137.3							8.8
+46	South Dakota	PROSULFURON	2005	kg	151.5		57.8							5.1
+46	South Dakota	PROSULFURON	2006	kg	78.6		160.7							1.3
+46	South Dakota	PROSULFURON	2007	kg	98.7		275							
+46	South Dakota	PROSULFURON	2008	kg	107.4		59.6							0.7
+46	South Dakota	PROSULFURON	2009	kg	96.6		28							14.6
+46	South Dakota	PROSULFURON	2010	kg	394.6		34.6							
+46	South Dakota	PROSULFURON	2011	kg	74.4									1.7
+46	South Dakota	PROSULFURON	2012	kg	160.7									
+46	South Dakota	PROSULFURON	2013	kg	358.6									
+46	South Dakota	PROSULFURON	2014	kg	244.5		36.5							
+46	South Dakota	PROSULFURON	2015	kg	177.9									
+46	South Dakota	PROSULFURON	2016	kg	126.4									
+46	South Dakota	PROSULFURON	2017	kg	173.7									
+47	Tennessee	PROSULFURON	1995	kg	49.5									
+47	Tennessee	PROSULFURON	1996	kg	534									
+47	Tennessee	PROSULFURON	1997	kg	201.6									14.4
+47	Tennessee	PROSULFURON	1998	kg	143.7		3.1							0.5
+47	Tennessee	PROSULFURON	1999	kg	392.1		117.7							32.8
+47	Tennessee	PROSULFURON	2000	kg	164.7		2.2							
+47	Tennessee	PROSULFURON	2001	kg	227.9									
+47	Tennessee	PROSULFURON	2002	kg	259.3									
+47	Tennessee	PROSULFURON	2003	kg	65.5									506.7
+47	Tennessee	PROSULFURON	2004	kg	542.4		10.3			0				2.9
+47	Tennessee	PROSULFURON	2005	kg	87									27.2
+47	Tennessee	PROSULFURON	2006	kg	27.9									
+47	Tennessee	PROSULFURON	2009	kg	12.1									
+47	Tennessee	PROSULFURON	2010	kg	39.7									
+47	Tennessee	PROSULFURON	2011	kg	67.2									4.7
+47	Tennessee	PROSULFURON	2012	kg	227.6									
+47	Tennessee	PROSULFURON	2013	kg	337.6									40.4
+47	Tennessee	PROSULFURON	2014	kg	288									3
+47	Tennessee	PROSULFURON	2015	kg	209.3									
+47	Tennessee	PROSULFURON	2017	kg	6.4									
+48	Texas	PROSULFURON	1995	kg	291.5									
+48	Texas	PROSULFURON	1996	kg	864			30.8					23.9	1175
+48	Texas	PROSULFURON	1997	kg	1711.9		42.2						11.8	1868.6
+48	Texas	PROSULFURON	1998	kg	1958.3		175.7							3160.5
+48	Texas	PROSULFURON	1999	kg	1488.8		126.3							2876.1
+48	Texas	PROSULFURON	2000	kg	682.7		1062.7							1868.8
+48	Texas	PROSULFURON	2001	kg	1053.7		211.4							2112.7
+48	Texas	PROSULFURON	2002	kg	1356.4		153							1366.5
+48	Texas	PROSULFURON	2003	kg	279.3		617.2							2041.1
+48	Texas	PROSULFURON	2004	kg	511.2									2080.8
+48	Texas	PROSULFURON	2005	kg	579									5827.7
+48	Texas	PROSULFURON	2006	kg	195.2		193.6							1157.8
+48	Texas	PROSULFURON	2007	kg	190.6		25.7						305.1	2589.3
+48	Texas	PROSULFURON	2008	kg	233									1604.8
+48	Texas	PROSULFURON	2009	kg	308.9									2218.7
+48	Texas	PROSULFURON	2010	kg	336.3		439.6							2685.9
+48	Texas	PROSULFURON	2011	kg	96.3		2064.7							1085.2
+48	Texas	PROSULFURON	2012	kg	60.4								186.2	1557.6
+48	Texas	PROSULFURON	2013	kg	230.5		225							2546.2
+48	Texas	PROSULFURON	2014	kg	135									2994.2
+48	Texas	PROSULFURON	2015	kg	417.7		172.7							1784.1
+48	Texas	PROSULFURON	2016	kg	123.5									1501.6
+48	Texas	PROSULFURON	2017	kg										1943.2
+49	Utah	PROSULFURON	1996	kg	1.3									
+49	Utah	PROSULFURON	1997	kg	0.6									0.4
+49	Utah	PROSULFURON	1999	kg	0.9									12.5
+49	Utah	PROSULFURON	2000	kg										17.4
+49	Utah	PROSULFURON	2001	kg										29.8
+49	Utah	PROSULFURON	2002	kg										0.3
+49	Utah	PROSULFURON	2004	kg										7
+50	Vermont	PROSULFURON	1995	kg	14									
+50	Vermont	PROSULFURON	1996	kg	8.2									
+50	Vermont	PROSULFURON	1997	kg	69.3									
+50	Vermont	PROSULFURON	1998	kg	65.4									
+50	Vermont	PROSULFURON	1999	kg	13.3									
+50	Vermont	PROSULFURON	2000	kg	5.4									
+50	Vermont	PROSULFURON	2001	kg	1.1									
+50	Vermont	PROSULFURON	2002	kg	24.3									
+50	Vermont	PROSULFURON	2003	kg	43.7									
+50	Vermont	PROSULFURON	2004	kg	12.7									
+50	Vermont	PROSULFURON	2008	kg	6.6									
+50	Vermont	PROSULFURON	2009	kg	25.2									
+50	Vermont	PROSULFURON	2010	kg	22.4									
+50	Vermont	PROSULFURON	2011	kg	20.5									
+50	Vermont	PROSULFURON	2012	kg	27.1									
+50	Vermont	PROSULFURON	2013	kg	17.6									
+50	Vermont	PROSULFURON	2014	kg	18.8									
+50	Vermont	PROSULFURON	2015	kg	32									
+51	Virginia	PROSULFURON	1995	kg	23.4									
+51	Virginia	PROSULFURON	1996	kg	106.5									
+51	Virginia	PROSULFURON	1997	kg	294.3									
+51	Virginia	PROSULFURON	1998	kg	207.2		3.4							2.9
+51	Virginia	PROSULFURON	1999	kg	412		14.3							16.9
+51	Virginia	PROSULFURON	2000	kg	116.6									
+51	Virginia	PROSULFURON	2001	kg	89.9									
+51	Virginia	PROSULFURON	2002	kg	146.1									
+51	Virginia	PROSULFURON	2003	kg	403.8									
+51	Virginia	PROSULFURON	2004	kg	105.7		0.6							2.2
+51	Virginia	PROSULFURON	2005	kg	162.2									
+51	Virginia	PROSULFURON	2006	kg	367.2									
+51	Virginia	PROSULFURON	2009	kg	3.3		293							
+51	Virginia	PROSULFURON	2011	kg										0.5
+51	Virginia	PROSULFURON	2012	kg	13.5									
+51	Virginia	PROSULFURON	2013	kg	11									
+51	Virginia	PROSULFURON	2014	kg	6									
+51	Virginia	PROSULFURON	2015	kg	241.1		415							
+51	Virginia	PROSULFURON	2016	kg										9.1
+51	Virginia	PROSULFURON	2017	kg	1.5									
+53	Washington	PROSULFURON	1997	kg			3281.8		127.2				907	475.9
+53	Washington	PROSULFURON	1998	kg			419.5							105.9
+53	Washington	PROSULFURON	1999	kg			1311.4							116.4
+53	Washington	PROSULFURON	2000	kg			4251.5							877.8
+53	Washington	PROSULFURON	2001	kg			3484.7							787
+53	Washington	PROSULFURON	2002	kg			2681.4							262.3
+53	Washington	PROSULFURON	2003	kg			1245							20.4
+53	Washington	PROSULFURON	2004	kg			3264.7							48.6
+53	Washington	PROSULFURON	2005	kg			2772.9							
+53	Washington	PROSULFURON	2006	kg			1317.8							64.3
+53	Washington	PROSULFURON	2007	kg			2189.9							95.3
+53	Washington	PROSULFURON	2008	kg			755.1							70.8
+53	Washington	PROSULFURON	2009	kg			1381.9							37.4
+53	Washington	PROSULFURON	2010	kg			1474							20.8
+53	Washington	PROSULFURON	2011	kg			1232.9							279.3
+53	Washington	PROSULFURON	2012	kg			401.6							
+53	Washington	PROSULFURON	2013	kg			1505.2							72.6
+53	Washington	PROSULFURON	2014	kg			473.7							18.4
+53	Washington	PROSULFURON	2015	kg			1056.5							136.5
+53	Washington	PROSULFURON	2016	kg			217.2							35
+53	Washington	PROSULFURON	2017	kg			1031.6							
+54	West Virginia	PROSULFURON	1995	kg	4									
+54	West Virginia	PROSULFURON	1996	kg	5.1									
+54	West Virginia	PROSULFURON	1997	kg	4.1									
+54	West Virginia	PROSULFURON	1998	kg	22.6		2.3							0.3
+54	West Virginia	PROSULFURON	1999	kg	37.9									
+54	West Virginia	PROSULFURON	2000	kg	2.6									
+54	West Virginia	PROSULFURON	2001	kg	3.7		0.1							
+54	West Virginia	PROSULFURON	2002	kg	11.1									
+54	West Virginia	PROSULFURON	2003	kg	53.7									
+54	West Virginia	PROSULFURON	2004	kg	158.6		0.4							0.3
+54	West Virginia	PROSULFURON	2005	kg	9.9									
+54	West Virginia	PROSULFURON	2006	kg	11									
+54	West Virginia	PROSULFURON	2007	kg	1.1									
+54	West Virginia	PROSULFURON	2009	kg	2.8		19.9							
+54	West Virginia	PROSULFURON	2011	kg										0
+54	West Virginia	PROSULFURON	2012	kg	11.5									
+54	West Virginia	PROSULFURON	2013	kg	12.1		0							
+54	West Virginia	PROSULFURON	2014	kg	7.6									
+54	West Virginia	PROSULFURON	2015	kg	14		27.3							
+54	West Virginia	PROSULFURON	2016	kg										0.4
+54	West Virginia	PROSULFURON	2017	kg	1.6									
+55	Wisconsin	PROSULFURON	1995	kg	260.3									
+55	Wisconsin	PROSULFURON	1996	kg	1305.8								20.8	
+55	Wisconsin	PROSULFURON	1997	kg	917		20.4							
+55	Wisconsin	PROSULFURON	1998	kg	770.4		51.5							
+55	Wisconsin	PROSULFURON	1999	kg	581.9		26.3							
+55	Wisconsin	PROSULFURON	2000	kg	363.3		218							
+55	Wisconsin	PROSULFURON	2001	kg	310.2		52							
+55	Wisconsin	PROSULFURON	2002	kg	607.9		22.2							
+55	Wisconsin	PROSULFURON	2003	kg	712.4									
+55	Wisconsin	PROSULFURON	2004	kg	237.8		566.3							
+55	Wisconsin	PROSULFURON	2005	kg	419.7		38.7							
+55	Wisconsin	PROSULFURON	2006	kg	301.7		299.7							
+55	Wisconsin	PROSULFURON	2007	kg	24.8		222							
+55	Wisconsin	PROSULFURON	2008	kg	192		128.1							
+55	Wisconsin	PROSULFURON	2009	kg	63.3		75.7							
+55	Wisconsin	PROSULFURON	2010	kg	102.5		136.2							
+55	Wisconsin	PROSULFURON	2011	kg	82.1									
+55	Wisconsin	PROSULFURON	2013	kg	284.8		72.4							
+55	Wisconsin	PROSULFURON	2014	kg	89.9		117							
+55	Wisconsin	PROSULFURON	2015	kg	118.4									
+55	Wisconsin	PROSULFURON	2016	kg	686.8									
+55	Wisconsin	PROSULFURON	2017	kg	41.2									
+56	Wyoming	PROSULFURON	1995	kg	19									
+56	Wyoming	PROSULFURON	1996	kg	9.1									
+56	Wyoming	PROSULFURON	1997	kg	0		0.1							20.3
+56	Wyoming	PROSULFURON	1998	kg	15.6		30.8							
+56	Wyoming	PROSULFURON	1999	kg	4.6		6.4							34.5
+56	Wyoming	PROSULFURON	2000	kg	1.4		2.4							33.8
+56	Wyoming	PROSULFURON	2001	kg	5.9		2							49.2
+56	Wyoming	PROSULFURON	2002	kg			5.1							2.7
+56	Wyoming	PROSULFURON	2003	kg			0.3							
+56	Wyoming	PROSULFURON	2004	kg			7.4							18.1
+56	Wyoming	PROSULFURON	2005	kg			10							

@@ -1,0 +1,31 @@
+06	California	PRODIAMINE	1992	kg							0.8			
+06	California	PRODIAMINE	1993	kg							56.9			
+06	California	PRODIAMINE	1995	kg							0.1			
+06	California	PRODIAMINE	1996	kg							523.5			
+06	California	PRODIAMINE	1997	kg							879.6		2.5	
+06	California	PRODIAMINE	1998	kg					0.4		1341.6		15.6	0.3
+06	California	PRODIAMINE	1999	kg							911.4		24.8	
+06	California	PRODIAMINE	2000	kg							794.6		37.7	
+06	California	PRODIAMINE	2001	kg					0.9		3348.6		3.5	
+06	California	PRODIAMINE	2002	kg							1435.9		5	3.3
+06	California	PRODIAMINE	2003	kg							1568.3		55.7	0.9
+06	California	PRODIAMINE	2004	kg					3.7		1810.1	0	30.6	
+06	California	PRODIAMINE	2005	kg							1241.7		14.6	0.7
+06	California	PRODIAMINE	2006	kg					4.3		1405.3		12.3	4.9
+06	California	PRODIAMINE	2007	kg							1827.3		51.3	3.6
+06	California	PRODIAMINE	2008	kg							1354.6			
+06	California	PRODIAMINE	2009	kg							2860.5			
+06	California	PRODIAMINE	2010	kg							1724.3			
+06	California	PRODIAMINE	2011	kg							1585.3			
+06	California	PRODIAMINE	2012	kg							1725.8			
+06	California	PRODIAMINE	2013	kg							2170.1			
+06	California	PRODIAMINE	2014	kg							1625.7			
+06	California	PRODIAMINE	2015	kg							2191.7			
+06	California	PRODIAMINE	2016	kg					1.5		2110.3			
+06	California	PRODIAMINE	2017	kg							2105.5			
+12	Florida	PRODIAMINE	1994	kg									185.8	
+12	Florida	PRODIAMINE	1995	kg							231.4			
+17	Illinois	PRODIAMINE	1995	kg					25.9					
+18	Indiana	PRODIAMINE	1995	kg					27.4					
+21	Kentucky	PRODIAMINE	1995	kg					29.3					
+47	Tennessee	PRODIAMINE	1995	kg					15.6					

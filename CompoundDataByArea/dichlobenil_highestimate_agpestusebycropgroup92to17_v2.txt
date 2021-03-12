@@ -1,0 +1,289 @@
+01	Alabama	DICHLOBENIL	1996	kg				8638.7						
+06	California	DICHLOBENIL	1992	kg							260.9			
+06	California	DICHLOBENIL	1993	kg							232.5			
+06	California	DICHLOBENIL	1994	kg							680.9			
+06	California	DICHLOBENIL	1995	kg							176.1			
+06	California	DICHLOBENIL	1996	kg							120.9			
+06	California	DICHLOBENIL	1997	kg					1.8		331.6			
+06	California	DICHLOBENIL	1998	kg					1.4		179.7			
+06	California	DICHLOBENIL	1999	kg					2.7		296			
+06	California	DICHLOBENIL	2000	kg					1.8		519.1			
+06	California	DICHLOBENIL	2001	kg							947.7			
+06	California	DICHLOBENIL	2002	kg					1.4		8.2			
+06	California	DICHLOBENIL	2003	kg							156			
+06	California	DICHLOBENIL	2004	kg					3.6		112.1			
+06	California	DICHLOBENIL	2005	kg					0.8		120.9			
+06	California	DICHLOBENIL	2006	kg							128.5			
+06	California	DICHLOBENIL	2007	kg					176		212.6			
+06	California	DICHLOBENIL	2008	kg							44			
+06	California	DICHLOBENIL	2009	kg							0.5			
+06	California	DICHLOBENIL	2010	kg							258.5			
+06	California	DICHLOBENIL	2011	kg							8.2			
+06	California	DICHLOBENIL	2012	kg							161.4			
+06	California	DICHLOBENIL	2017	kg							3.2			
+09	Connecticut	DICHLOBENIL	1994	kg					48.5					
+09	Connecticut	DICHLOBENIL	1995	kg					99.1		44.4			
+09	Connecticut	DICHLOBENIL	1996	kg					176.4		7.6			
+09	Connecticut	DICHLOBENIL	1997	kg					119.6					
+09	Connecticut	DICHLOBENIL	1999	kg							586.9			
+09	Connecticut	DICHLOBENIL	2003	kg							408.5			
+09	Connecticut	DICHLOBENIL	2004	kg							17.7			
+09	Connecticut	DICHLOBENIL	2005	kg							184.4			
+09	Connecticut	DICHLOBENIL	2012	kg							36.3			
+12	Florida	DICHLOBENIL	1994	kg										20.6
+12	Florida	DICHLOBENIL	1996	kg				2272.8						
+13	Georgia	DICHLOBENIL	1995	kg										23.1
+13	Georgia	DICHLOBENIL	1996	kg				11196.1						
+13	Georgia	DICHLOBENIL	1997	kg							8.2			
+13	Georgia	DICHLOBENIL	1998	kg							90.4			
+13	Georgia	DICHLOBENIL	1999	kg							24.4			
+13	Georgia	DICHLOBENIL	2000	kg							117			
+13	Georgia	DICHLOBENIL	2001	kg							22.3			
+13	Georgia	DICHLOBENIL	2009	kg							11.3			
+13	Georgia	DICHLOBENIL	2010	kg							7.7			
+13	Georgia	DICHLOBENIL	2012	kg							9.7			
+13	Georgia	DICHLOBENIL	2013	kg							39.7			
+13	Georgia	DICHLOBENIL	2014	kg							0.6			
+13	Georgia	DICHLOBENIL	2015	kg							3.2			
+16	Idaho	DICHLOBENIL	1992	kg							220.2			
+16	Idaho	DICHLOBENIL	1993	kg							50.8			1872
+16	Idaho	DICHLOBENIL	1994	kg							78.1		24.1	
+16	Idaho	DICHLOBENIL	1995	kg							44.6			
+16	Idaho	DICHLOBENIL	1997	kg									61.8	
+17	Illinois	DICHLOBENIL	1996	kg					62.3		6.4			
+17	Illinois	DICHLOBENIL	1997	kg							26			
+17	Illinois	DICHLOBENIL	1998	kg							24			
+17	Illinois	DICHLOBENIL	1999	kg							678.8			
+18	Indiana	DICHLOBENIL	1992	kg							0.1			
+18	Indiana	DICHLOBENIL	1993	kg							0			
+18	Indiana	DICHLOBENIL	1994	kg					39.9					
+18	Indiana	DICHLOBENIL	1996	kg							763.8			
+18	Indiana	DICHLOBENIL	1998	kg							1.8			
+18	Indiana	DICHLOBENIL	2002	kg					19.3					
+18	Indiana	DICHLOBENIL	2004	kg							35.2			
+18	Indiana	DICHLOBENIL	2005	kg							59.3			
+18	Indiana	DICHLOBENIL	2010	kg							40.1			
+18	Indiana	DICHLOBENIL	2012	kg					6.4					
+19	Iowa	DICHLOBENIL	1996	kg					6.7					
+19	Iowa	DICHLOBENIL	1999	kg							233.5			
+21	Kentucky	DICHLOBENIL	2010	kg							14.9			
+23	Maine	DICHLOBENIL	1992	kg							82			
+23	Maine	DICHLOBENIL	1994	kg							964.7			
+23	Maine	DICHLOBENIL	1995	kg							20.5			
+23	Maine	DICHLOBENIL	1996	kg							2170.8			
+23	Maine	DICHLOBENIL	1997	kg							279.8			
+23	Maine	DICHLOBENIL	1999	kg							60.4			
+23	Maine	DICHLOBENIL	2004	kg							1090.9			
+23	Maine	DICHLOBENIL	2005	kg							256			
+24	Maryland	DICHLOBENIL	1992	kg							29.8			
+24	Maryland	DICHLOBENIL	1994	kg					377.2					
+24	Maryland	DICHLOBENIL	1996	kg					74.9					
+24	Maryland	DICHLOBENIL	2012	kg							3.5			
+25	Massachusetts	DICHLOBENIL	1992	kg							107.7			
+25	Massachusetts	DICHLOBENIL	1994	kg					181.8		1284.2			
+25	Massachusetts	DICHLOBENIL	1995	kg					7205.4		277.8			
+25	Massachusetts	DICHLOBENIL	1996	kg					11170.6		781.4			
+25	Massachusetts	DICHLOBENIL	1997	kg					979.2		543.2			
+25	Massachusetts	DICHLOBENIL	1999	kg							1253.9			
+25	Massachusetts	DICHLOBENIL	2003	kg							854.4			
+25	Massachusetts	DICHLOBENIL	2004	kg							33.6			
+25	Massachusetts	DICHLOBENIL	2005	kg							337.1			
+25	Massachusetts	DICHLOBENIL	2012	kg							57.5			
+26	Michigan	DICHLOBENIL	1992	kg							216.2			
+26	Michigan	DICHLOBENIL	1993	kg							2.8			
+26	Michigan	DICHLOBENIL	1994	kg					1435.2					
+26	Michigan	DICHLOBENIL	1996	kg					92.7		4652.1			
+26	Michigan	DICHLOBENIL	1997	kg					330.4					
+26	Michigan	DICHLOBENIL	1998	kg							1712.1			
+26	Michigan	DICHLOBENIL	1999	kg							11925.4			
+26	Michigan	DICHLOBENIL	2002	kg					207.5					
+26	Michigan	DICHLOBENIL	2004	kg							3638.8			
+26	Michigan	DICHLOBENIL	2005	kg							4371.1			
+26	Michigan	DICHLOBENIL	2012	kg					650.5					
+27	Minnesota	DICHLOBENIL	1994	kg									382.1	
+27	Minnesota	DICHLOBENIL	1996	kg					11.4					
+27	Minnesota	DICHLOBENIL	1997	kg					78.2					
+30	Montana	DICHLOBENIL	1993	kg									1326.5	
+30	Montana	DICHLOBENIL	1994	kg									230.4	
+33	New Hampshire	DICHLOBENIL	1992	kg							57.2			
+33	New Hampshire	DICHLOBENIL	1994	kg							684.3			
+33	New Hampshire	DICHLOBENIL	1995	kg					53.7		16.3			
+33	New Hampshire	DICHLOBENIL	1996	kg					99.7		2803.6			
+33	New Hampshire	DICHLOBENIL	1997	kg					70.7		252.6			
+33	New Hampshire	DICHLOBENIL	1999	kg							617.8			
+33	New Hampshire	DICHLOBENIL	2003	kg							413.2			
+33	New Hampshire	DICHLOBENIL	2004	kg							17.3			
+33	New Hampshire	DICHLOBENIL	2005	kg							172			
+34	New Jersey	DICHLOBENIL	1995	kg							7.2			
+34	New Jersey	DICHLOBENIL	1996	kg							264.3			
+34	New Jersey	DICHLOBENIL	1999	kg							252.6			
+34	New Jersey	DICHLOBENIL	2004	kg							1061.1			
+34	New Jersey	DICHLOBENIL	2005	kg							74.8			
+34	New Jersey	DICHLOBENIL	2007	kg							570.8			
+34	New Jersey	DICHLOBENIL	2009	kg							187.8			
+34	New Jersey	DICHLOBENIL	2012	kg							12.8			
+36	New York	DICHLOBENIL	1993	kg							14673.6			
+36	New York	DICHLOBENIL	1994	kg					49.6		3497.4			
+36	New York	DICHLOBENIL	1995	kg					114.8		13767			
+36	New York	DICHLOBENIL	1996	kg					641.3		9437.7			
+36	New York	DICHLOBENIL	1997	kg					128.6					
+36	New York	DICHLOBENIL	1998	kg							1123.6			
+36	New York	DICHLOBENIL	1999	kg							12407.2			
+36	New York	DICHLOBENIL	2000	kg							58408.1			
+36	New York	DICHLOBENIL	2002	kg							1889.4			
+36	New York	DICHLOBENIL	2003	kg							2325.8			
+36	New York	DICHLOBENIL	2004	kg							18912			
+36	New York	DICHLOBENIL	2005	kg							1918.3			
+36	New York	DICHLOBENIL	2007	kg							7383.8			
+36	New York	DICHLOBENIL	2008	kg							804.9			
+36	New York	DICHLOBENIL	2009	kg							2700.8			
+36	New York	DICHLOBENIL	2012	kg							278.2			
+36	New York	DICHLOBENIL	2015	kg							6730.9			
+37	North Carolina	DICHLOBENIL	1993	kg							5327.1			
+37	North Carolina	DICHLOBENIL	1994	kg							703.1			
+37	North Carolina	DICHLOBENIL	1995	kg							957.5			61.2
+37	North Carolina	DICHLOBENIL	1997	kg							76.9			
+37	North Carolina	DICHLOBENIL	1998	kg							702.3			
+37	North Carolina	DICHLOBENIL	1999	kg							191.5			
+37	North Carolina	DICHLOBENIL	2000	kg							916.4			
+37	North Carolina	DICHLOBENIL	2001	kg							177.8			
+37	North Carolina	DICHLOBENIL	2009	kg							153			
+37	North Carolina	DICHLOBENIL	2010	kg							91			
+37	North Carolina	DICHLOBENIL	2012	kg							73.3			
+37	North Carolina	DICHLOBENIL	2013	kg							323.5			
+37	North Carolina	DICHLOBENIL	2014	kg							7.5			
+37	North Carolina	DICHLOBENIL	2015	kg							49.9			
+38	North Dakota	DICHLOBENIL	1993	kg									2932.5	
+38	North Dakota	DICHLOBENIL	1994	kg									1547.1	
+39	Ohio	DICHLOBENIL	1993	kg							660.4			
+39	Ohio	DICHLOBENIL	1994	kg							789.5			
+39	Ohio	DICHLOBENIL	1995	kg									625	
+39	Ohio	DICHLOBENIL	1996	kg					47.2		762.3			
+39	Ohio	DICHLOBENIL	1997	kg					135.9					
+39	Ohio	DICHLOBENIL	1999	kg							1070.7			
+39	Ohio	DICHLOBENIL	2002	kg					14.1		114.7			
+39	Ohio	DICHLOBENIL	2004	kg							2807.7			
+39	Ohio	DICHLOBENIL	2005	kg							1610.5			
+39	Ohio	DICHLOBENIL	2006	kg							2239.6			
+39	Ohio	DICHLOBENIL	2010	kg							211			
+39	Ohio	DICHLOBENIL	2013	kg							302.5			
+41	Oregon	DICHLOBENIL	1992	kg							36.3			
+41	Oregon	DICHLOBENIL	1993	kg									143.9	525
+41	Oregon	DICHLOBENIL	1994	kg					172.7		42.5		63.5	
+41	Oregon	DICHLOBENIL	1995	kg					30.8		32.9		615	
+41	Oregon	DICHLOBENIL	1996	kg					921		4688.3			
+41	Oregon	DICHLOBENIL	1997	kg					1095.8		446.3		177.4	
+41	Oregon	DICHLOBENIL	1998	kg							208.2			
+41	Oregon	DICHLOBENIL	1999	kg							206.8			
+41	Oregon	DICHLOBENIL	2000	kg							529.1			
+41	Oregon	DICHLOBENIL	2001	kg							647.2			
+41	Oregon	DICHLOBENIL	2002	kg							444.3			
+41	Oregon	DICHLOBENIL	2005	kg							78.4			
+41	Oregon	DICHLOBENIL	2006	kg					37.2					
+41	Oregon	DICHLOBENIL	2007	kg					11.8					
+41	Oregon	DICHLOBENIL	2008	kg					336					
+41	Oregon	DICHLOBENIL	2009	kg					415.6		814.9			
+41	Oregon	DICHLOBENIL	2010	kg					2069.5					
+41	Oregon	DICHLOBENIL	2011	kg					415.9					
+41	Oregon	DICHLOBENIL	2012	kg					1472.8					
+41	Oregon	DICHLOBENIL	2013	kg					2936.3					
+41	Oregon	DICHLOBENIL	2014	kg					2143.1					
+41	Oregon	DICHLOBENIL	2015	kg					3687					
+41	Oregon	DICHLOBENIL	2017	kg					7066.7					
+42	Pennsylvania	DICHLOBENIL	1994	kg					413.7		198.9			
+42	Pennsylvania	DICHLOBENIL	1995	kg							833.2			
+42	Pennsylvania	DICHLOBENIL	1996	kg					502.8		886.7			
+42	Pennsylvania	DICHLOBENIL	1997	kg					306					
+42	Pennsylvania	DICHLOBENIL	1998	kg							223.5			
+42	Pennsylvania	DICHLOBENIL	1999	kg							1223.9			
+42	Pennsylvania	DICHLOBENIL	2000	kg							13242.5			
+42	Pennsylvania	DICHLOBENIL	2002	kg							1135.6			
+42	Pennsylvania	DICHLOBENIL	2004	kg							520.1			
+42	Pennsylvania	DICHLOBENIL	2005	kg							430.6			
+42	Pennsylvania	DICHLOBENIL	2012	kg							1616.6			
+44	Rhode Island	DICHLOBENIL	1994	kg					44.3					
+44	Rhode Island	DICHLOBENIL	1995	kg					27.1		4.4			
+44	Rhode Island	DICHLOBENIL	1996	kg					47.2		1			
+44	Rhode Island	DICHLOBENIL	1997	kg					31.3					
+44	Rhode Island	DICHLOBENIL	1999	kg							83.4			
+44	Rhode Island	DICHLOBENIL	2003	kg							60.2			
+44	Rhode Island	DICHLOBENIL	2004	kg							2.7			
+44	Rhode Island	DICHLOBENIL	2005	kg							29.1			
+45	South Carolina	DICHLOBENIL	1995	kg										14.4
+45	South Carolina	DICHLOBENIL	1997	kg							18.2			
+45	South Carolina	DICHLOBENIL	1998	kg							196.3			
+45	South Carolina	DICHLOBENIL	1999	kg							55			
+45	South Carolina	DICHLOBENIL	2000	kg							270.4			
+45	South Carolina	DICHLOBENIL	2001	kg							54.1			
+45	South Carolina	DICHLOBENIL	2009	kg							8.4			
+45	South Carolina	DICHLOBENIL	2010	kg							5.6			
+45	South Carolina	DICHLOBENIL	2012	kg							6.2			
+45	South Carolina	DICHLOBENIL	2013	kg							23.6			
+45	South Carolina	DICHLOBENIL	2014	kg							0.3			
+45	South Carolina	DICHLOBENIL	2015	kg							1.9			
+46	South Dakota	DICHLOBENIL	1994	kg									464.9	
+47	Tennessee	DICHLOBENIL	1993	kg							270.7			
+47	Tennessee	DICHLOBENIL	1994	kg							45.5			
+47	Tennessee	DICHLOBENIL	1995	kg							67.3			35.9
+47	Tennessee	DICHLOBENIL	1997	kg							4.7			
+47	Tennessee	DICHLOBENIL	1998	kg							53			
+47	Tennessee	DICHLOBENIL	1999	kg							15.1			
+47	Tennessee	DICHLOBENIL	2000	kg							76			
+47	Tennessee	DICHLOBENIL	2001	kg							15.5			
+47	Tennessee	DICHLOBENIL	2009	kg							7.8			
+47	Tennessee	DICHLOBENIL	2010	kg							4.4			
+47	Tennessee	DICHLOBENIL	2012	kg							3.3			
+47	Tennessee	DICHLOBENIL	2013	kg							17.9			
+47	Tennessee	DICHLOBENIL	2014	kg							0			
+47	Tennessee	DICHLOBENIL	2015	kg							1.5			
+50	Vermont	DICHLOBENIL	1992	kg							75.1			
+50	Vermont	DICHLOBENIL	1994	kg							902.5			
+50	Vermont	DICHLOBENIL	1995	kg					56.8		23.6			
+50	Vermont	DICHLOBENIL	1996	kg					101.3		980.3			
+50	Vermont	DICHLOBENIL	1997	kg					69		293.6			
+50	Vermont	DICHLOBENIL	1999	kg							828.1			
+50	Vermont	DICHLOBENIL	2000	kg							120.3			
+50	Vermont	DICHLOBENIL	2003	kg							578.8			
+50	Vermont	DICHLOBENIL	2004	kg							25.2			
+50	Vermont	DICHLOBENIL	2005	kg							257.1			
+50	Vermont	DICHLOBENIL	2015	kg							1821			
+51	Virginia	DICHLOBENIL	1992	kg							78.1			
+51	Virginia	DICHLOBENIL	1993	kg							934.3			
+51	Virginia	DICHLOBENIL	1994	kg					50.4		152.5			
+51	Virginia	DICHLOBENIL	1995	kg							218.4			
+53	Washington	DICHLOBENIL	1992	kg							26131.4			
+53	Washington	DICHLOBENIL	1993	kg							20050.8		81.6	
+53	Washington	DICHLOBENIL	1994	kg					13.5		13697.9		177.2	
+53	Washington	DICHLOBENIL	1995	kg					62.9		13161.5		1090.4	
+53	Washington	DICHLOBENIL	1996	kg					2029.1		3282.7			
+53	Washington	DICHLOBENIL	1997	kg					4528.1		6292.8		1646.9	
+53	Washington	DICHLOBENIL	1998	kg							1689.3			
+53	Washington	DICHLOBENIL	1999	kg							2490.8			
+53	Washington	DICHLOBENIL	2000	kg							3368.3			
+53	Washington	DICHLOBENIL	2001	kg							3482			
+53	Washington	DICHLOBENIL	2002	kg							3746.6			
+53	Washington	DICHLOBENIL	2005	kg							977.4			
+53	Washington	DICHLOBENIL	2006	kg					4.2					
+53	Washington	DICHLOBENIL	2007	kg					1.1					
+53	Washington	DICHLOBENIL	2008	kg					248.9		1492.6			
+53	Washington	DICHLOBENIL	2009	kg					308.3		212.3			
+53	Washington	DICHLOBENIL	2010	kg					2509					
+53	Washington	DICHLOBENIL	2011	kg					292.7					
+53	Washington	DICHLOBENIL	2012	kg					622.4		1204.6			
+53	Washington	DICHLOBENIL	2013	kg					2344.8					
+53	Washington	DICHLOBENIL	2014	kg					1544.8					
+53	Washington	DICHLOBENIL	2015	kg					2677.8					
+53	Washington	DICHLOBENIL	2017	kg					61.8					
+54	West Virginia	DICHLOBENIL	1992	kg							66.3			
+54	West Virginia	DICHLOBENIL	1994	kg					30.1					
+54	West Virginia	DICHLOBENIL	1996	kg					1.6					
+54	West Virginia	DICHLOBENIL	2006	kg							559.4			
+54	West Virginia	DICHLOBENIL	2012	kg							29.1			
+55	Wisconsin	DICHLOBENIL	1996	kg					230.7		252			
+55	Wisconsin	DICHLOBENIL	1997	kg					3269.5		186.1			
+55	Wisconsin	DICHLOBENIL	1998	kg							111.4			
+55	Wisconsin	DICHLOBENIL	1999	kg							802.1			
+55	Wisconsin	DICHLOBENIL	2000	kg							175.9			
+55	Wisconsin	DICHLOBENIL	2002	kg							34.8			
+55	Wisconsin	DICHLOBENIL	2004	kg							1379.9			
+55	Wisconsin	DICHLOBENIL	2005	kg							965.8			

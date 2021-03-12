@@ -1,0 +1,12 @@
+06	California	CARBOPHENOTHION	1992	kg							287.9			
+06	California	CARBOPHENOTHION	1993	kg							67.9			
+06	California	CARBOPHENOTHION	1994	kg							9.1			
+06	California	CARBOPHENOTHION	1997	kg							1			
+06	California	CARBOPHENOTHION	2004	kg							0			
+06	California	CARBOPHENOTHION	2005	kg							0			
+06	California	CARBOPHENOTHION	2007	kg							0			
+06	California	CARBOPHENOTHION	2009	kg					1.6					
+06	California	CARBOPHENOTHION	2010	kg					3.7		17.4			
+06	California	CARBOPHENOTHION	2011	kg							1.7			
+06	California	CARBOPHENOTHION	2012	kg							546.2			
+06	California	CARBOPHENOTHION	2017	kg							0			

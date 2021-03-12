@@ -1,0 +1,432 @@
+01	Alabama	LINDANE	1992	kg	71.9						2244.7			
+01	Alabama	LINDANE	1993	kg							1874.4			
+01	Alabama	LINDANE	1994	kg							195.5			509.6
+01	Alabama	LINDANE	1995	kg	93.3						1618.4			299.1
+01	Alabama	LINDANE	1996	kg							1001.4			
+01	Alabama	LINDANE	1997	kg							166.5			
+01	Alabama	LINDANE	1998	kg							1157.9			
+01	Alabama	LINDANE	1999	kg							463.9			
+01	Alabama	LINDANE	2000	kg							2818.7			
+01	Alabama	LINDANE	2001	kg							1388.8			
+01	Alabama	LINDANE	2002	kg							206.8			
+01	Alabama	LINDANE	2004	kg	243.3									
+01	Alabama	LINDANE	2005	kg	163.3									
+01	Alabama	LINDANE	2006	kg	127.3									
+01	Alabama	LINDANE	2007	kg	151.7									
+01	Alabama	LINDANE	2008	kg	33.1									
+04	Arizona	LINDANE	1996	kg				6.9						
+04	Arizona	LINDANE	1998	kg					48.2					
+04	Arizona	LINDANE	2001	kg					126.6					
+05	Arkansas	LINDANE	1993	kg										68.5
+05	Arkansas	LINDANE	1995	kg							5.1			
+05	Arkansas	LINDANE	1996	kg							260.5		12.5	
+05	Arkansas	LINDANE	1999	kg							390.6			
+05	Arkansas	LINDANE	2004	kg	380.4									
+05	Arkansas	LINDANE	2005	kg	101.4									
+05	Arkansas	LINDANE	2006	kg	179.8									
+05	Arkansas	LINDANE	2007	kg	24.2									
+06	California	LINDANE	1992	kg	149.2		0.6		864.3		1017.1			367.7
+06	California	LINDANE	1993	kg	111.3			148	1458.4		859.5			2943.6
+06	California	LINDANE	1994	kg	108.3			45.5	507.3		100			56.7
+06	California	LINDANE	1995	kg	178.8			193.7	513.3		69.9	0.4		32.2
+06	California	LINDANE	1996	kg	228.9		2.6	3.8	596.1		128.3			46.5
+06	California	LINDANE	1997	kg	238.8		0.4	137.9	969.1		129.6			128.7
+06	California	LINDANE	1998	kg	302.7			25.8	852.5		507			29.9
+06	California	LINDANE	1999	kg	176.5			3.2	1258.9		89.4			19.7
+06	California	LINDANE	2000	kg	144.3			9.1	441.7		54.4			881.4
+06	California	LINDANE	2001	kg	151.4		1	10.2	482.3		22.8			26.1
+06	California	LINDANE	2002	kg	123.2			83.8	247		53.6	1.4		8.2
+06	California	LINDANE	2003	kg	107.3			8.7	45.9		1.4			1.3
+06	California	LINDANE	2004	kg	248.1			1.3	14.8		5.4			1.2
+06	California	LINDANE	2005	kg	15.1			2						
+06	California	LINDANE	2006	kg							2.1			
+06	California	LINDANE	2008	kg							3.4	4.8		
+06	California	LINDANE	2009	kg							3.6			
+06	California	LINDANE	2010	kg							3.2			
+06	California	LINDANE	2011	kg							0.2			
+06	California	LINDANE	2015	kg								1.9		
+08	Colorado	LINDANE	1992	kg	67.5									
+08	Colorado	LINDANE	1993	kg					41					
+08	Colorado	LINDANE	1994	kg	66.6									
+08	Colorado	LINDANE	1996	kg	451.3									
+08	Colorado	LINDANE	1997	kg	121.4									
+08	Colorado	LINDANE	2004	kg	47.4									
+08	Colorado	LINDANE	2005	kg	140.2									
+08	Colorado	LINDANE	2006	kg	303.6									
+08	Colorado	LINDANE	2007	kg	260.3									
+08	Colorado	LINDANE	2008	kg	155.2									
+08	Colorado	LINDANE	2009	kg										6.3
+08	Colorado	LINDANE	2010	kg										9.1
+09	Connecticut	LINDANE	1995	kg	107.8									
+09	Connecticut	LINDANE	2004	kg	46.6									
+09	Connecticut	LINDANE	2005	kg	11.6									
+09	Connecticut	LINDANE	2006	kg	1.1									
+09	Connecticut	LINDANE	2007	kg	7.8									
+09	Connecticut	LINDANE	2008	kg	40.3									
+10	Delaware	LINDANE	1995	kg	79.7									
+10	Delaware	LINDANE	1996	kg	270.9									
+10	Delaware	LINDANE	2004	kg	72.7									
+10	Delaware	LINDANE	2005	kg	201.6									
+10	Delaware	LINDANE	2006	kg	52.7									
+10	Delaware	LINDANE	2007	kg	340.3									
+12	Florida	LINDANE	1992	kg							423.6			66.3
+12	Florida	LINDANE	1993	kg							120			
+12	Florida	LINDANE	1994	kg							35		32.6	
+12	Florida	LINDANE	1995	kg	9.5						524.9			44.4
+12	Florida	LINDANE	1996	kg							282.2			
+12	Florida	LINDANE	1997	kg							128.3			
+12	Florida	LINDANE	1998	kg							644.1			
+12	Florida	LINDANE	1999	kg							4749.4			
+12	Florida	LINDANE	2000	kg							778			
+12	Florida	LINDANE	2001	kg							161.5			
+12	Florida	LINDANE	2002	kg							145.8			
+12	Florida	LINDANE	2005	kg	1									
+13	Georgia	LINDANE	1992	kg	12.9						14752.9			454
+13	Georgia	LINDANE	1993	kg							6348.8		207.6	
+13	Georgia	LINDANE	1994	kg							3723.6		2.7	
+13	Georgia	LINDANE	1995	kg	96.5						10268.5		446.9	47.7
+13	Georgia	LINDANE	1996	kg							7615.9			
+13	Georgia	LINDANE	1997	kg							2815			240.7
+13	Georgia	LINDANE	1998	kg							16331.3			
+13	Georgia	LINDANE	1999	kg							2931.7			
+13	Georgia	LINDANE	2000	kg							15973.4			
+13	Georgia	LINDANE	2001	kg							9609.8			
+13	Georgia	LINDANE	2002	kg							3638.9			
+13	Georgia	LINDANE	2004	kg	198.9									
+13	Georgia	LINDANE	2005	kg	97.7									
+13	Georgia	LINDANE	2006	kg	69.1									
+13	Georgia	LINDANE	2007	kg	309.3									
+13	Georgia	LINDANE	2008	kg	4.9									
+16	Idaho	LINDANE	1992	kg										3374.3
+16	Idaho	LINDANE	1995	kg	36.6									
+16	Idaho	LINDANE	2000	kg					0.1					
+16	Idaho	LINDANE	2004	kg	400.4									
+16	Idaho	LINDANE	2005	kg	0									
+17	Illinois	LINDANE	1993	kg							140.8			39.7
+17	Illinois	LINDANE	1994	kg	66									
+17	Illinois	LINDANE	1996	kg								542.4		
+17	Illinois	LINDANE	2004	kg	916.1									
+17	Illinois	LINDANE	2005	kg	1255.4									
+17	Illinois	LINDANE	2006	kg	276.8									
+17	Illinois	LINDANE	2007	kg	374.4									
+17	Illinois	LINDANE	2008	kg	216.8									
+18	Indiana	LINDANE	1992	kg	201.3									
+18	Indiana	LINDANE	1993	kg	84						1731.1			
+18	Indiana	LINDANE	1995	kg										51.2
+18	Indiana	LINDANE	1996	kg							0			
+18	Indiana	LINDANE	2004	kg	455.7									
+18	Indiana	LINDANE	2005	kg	573.4									
+18	Indiana	LINDANE	2006	kg	585.5									
+18	Indiana	LINDANE	2007	kg	255.9									
+18	Indiana	LINDANE	2008	kg	332									
+19	Iowa	LINDANE	1993	kg	827.5									
+19	Iowa	LINDANE	1995	kg	8396.7									
+19	Iowa	LINDANE	2004	kg	482.9									
+19	Iowa	LINDANE	2005	kg	601									
+19	Iowa	LINDANE	2006	kg	478.7									
+19	Iowa	LINDANE	2007	kg	806.4									
+19	Iowa	LINDANE	2008	kg	4217									
+20	Kansas	LINDANE	1992	kg	1422.9						9.3			
+20	Kansas	LINDANE	1993	kg							45.7			734.7
+20	Kansas	LINDANE	1994	kg	870.9						41.1			
+20	Kansas	LINDANE	1995	kg							15.8			
+20	Kansas	LINDANE	1996	kg	5749.7						274.7			
+20	Kansas	LINDANE	2004	kg	2478.4									
+20	Kansas	LINDANE	2005	kg	926.2									
+20	Kansas	LINDANE	2006	kg	769									
+20	Kansas	LINDANE	2007	kg	319.9									
+20	Kansas	LINDANE	2008	kg	267.1									
+20	Kansas	LINDANE	2009	kg			504.8							48
+20	Kansas	LINDANE	2010	kg										92.2
+21	Kentucky	LINDANE	1992	kg	339.9									15.7
+21	Kentucky	LINDANE	1993	kg										3.2
+21	Kentucky	LINDANE	1994	kg										1601.5
+21	Kentucky	LINDANE	1995	kg										54.1
+21	Kentucky	LINDANE	1996	kg								328.7		
+21	Kentucky	LINDANE	2004	kg	693.4									
+21	Kentucky	LINDANE	2005	kg	346.7									
+21	Kentucky	LINDANE	2006	kg	391.2									
+21	Kentucky	LINDANE	2007	kg	116.6									
+21	Kentucky	LINDANE	2008	kg	364.1									
+22	Louisiana	LINDANE	1993	kg							28.2			
+22	Louisiana	LINDANE	1995	kg							0.3			
+22	Louisiana	LINDANE	1996	kg							1.9		21.7	
+22	Louisiana	LINDANE	2004	kg	285.4									
+22	Louisiana	LINDANE	2005	kg	152.7									
+22	Louisiana	LINDANE	2006	kg	290.9									
+22	Louisiana	LINDANE	2007	kg	8.6									
+24	Maryland	LINDANE	1992	kg	13.4									
+24	Maryland	LINDANE	1993	kg	52.6									
+24	Maryland	LINDANE	1994	kg	31.4									
+24	Maryland	LINDANE	1995	kg	246.3									2.3
+24	Maryland	LINDANE	1996	kg	826.9									
+24	Maryland	LINDANE	2004	kg	126.5									
+24	Maryland	LINDANE	2005	kg	114.7									
+24	Maryland	LINDANE	2006	kg	168.4									
+24	Maryland	LINDANE	2007	kg	321.9									
+24	Maryland	LINDANE	2008	kg	2.5									
+24	Maryland	LINDANE	2009	kg	111.9									
+25	Massachusetts	LINDANE	1995	kg	77.7									
+25	Massachusetts	LINDANE	2004	kg	4.8									
+25	Massachusetts	LINDANE	2005	kg	8.2									
+25	Massachusetts	LINDANE	2006	kg	0									
+25	Massachusetts	LINDANE	2007	kg	4.7									
+25	Massachusetts	LINDANE	2008	kg	23.2									
+26	Michigan	LINDANE	1992	kg	497.8	1322.9			154.4					1273.6
+26	Michigan	LINDANE	1993	kg	77.2									560.2
+26	Michigan	LINDANE	1995	kg	360.3				153.7					166.6
+26	Michigan	LINDANE	1996	kg							32.2			
+26	Michigan	LINDANE	2004	kg	459									
+26	Michigan	LINDANE	2005	kg	336.3									
+26	Michigan	LINDANE	2006	kg	256.3									
+26	Michigan	LINDANE	2007	kg	96.5									
+26	Michigan	LINDANE	2008	kg	861.6									
+27	Minnesota	LINDANE	1992	kg	370.7									
+27	Minnesota	LINDANE	1993	kg			1798.5							682.8
+27	Minnesota	LINDANE	1994	kg			5916.5							
+27	Minnesota	LINDANE	1995	kg	494.6									
+27	Minnesota	LINDANE	2004	kg	525.5									
+27	Minnesota	LINDANE	2005	kg	469.5									
+27	Minnesota	LINDANE	2006	kg	330.4									
+27	Minnesota	LINDANE	2007	kg	278.7									
+27	Minnesota	LINDANE	2008	kg	2231.4									
+28	Mississippi	LINDANE	1992	kg							322.8			
+28	Mississippi	LINDANE	1993	kg							148.9			
+28	Mississippi	LINDANE	1994	kg							80.2			
+28	Mississippi	LINDANE	1995	kg	19.7						278.1			143.2
+28	Mississippi	LINDANE	1996	kg							398.2			
+28	Mississippi	LINDANE	1997	kg							44.5		69.3	428.5
+28	Mississippi	LINDANE	1998	kg							228.3			
+28	Mississippi	LINDANE	1999	kg							456.4			
+28	Mississippi	LINDANE	2000	kg							469.2			
+28	Mississippi	LINDANE	2001	kg							272.3			
+28	Mississippi	LINDANE	2004	kg	847.9									
+28	Mississippi	LINDANE	2005	kg	321.9									
+28	Mississippi	LINDANE	2006	kg	363.6									
+28	Mississippi	LINDANE	2007	kg	55.5									
+29	Missouri	LINDANE	1993	kg	106.4									179.2
+29	Missouri	LINDANE	1995	kg	814.2						0.4			
+29	Missouri	LINDANE	1996	kg							16.4	97.8		
+29	Missouri	LINDANE	2004	kg	349.6									
+29	Missouri	LINDANE	2005	kg	387.6									
+29	Missouri	LINDANE	2006	kg	268.3									
+29	Missouri	LINDANE	2007	kg	482.5									
+29	Missouri	LINDANE	2008	kg	191.2									
+30	Montana	LINDANE	1993	kg			3133.6							
+30	Montana	LINDANE	2004	kg	75.7									
+30	Montana	LINDANE	2005	kg	90.2									
+30	Montana	LINDANE	2006	kg	2									
+30	Montana	LINDANE	2008	kg	14.8									
+30	Montana	LINDANE	2010	kg			403.1							
+31	Nebraska	LINDANE	1992	kg	495.9									
+31	Nebraska	LINDANE	1993	kg					114.9					1446.1
+31	Nebraska	LINDANE	1996	kg	6279.3									
+31	Nebraska	LINDANE	1997	kg	158.4									
+31	Nebraska	LINDANE	2004	kg	394.7									
+31	Nebraska	LINDANE	2005	kg	1411.8									
+31	Nebraska	LINDANE	2006	kg	925.2									
+31	Nebraska	LINDANE	2007	kg	963.4									
+31	Nebraska	LINDANE	2008	kg	2265.5									
+31	Nebraska	LINDANE	2009	kg			30.7							6.2
+31	Nebraska	LINDANE	2010	kg										2
+32	Nevada	LINDANE	1992	kg										0.5
+32	Nevada	LINDANE	1995	kg	0.6									
+32	Nevada	LINDANE	2004	kg	6.7									
+32	Nevada	LINDANE	2005	kg	0.7									
+33	New Hampshire	LINDANE	1995	kg	48.1									
+33	New Hampshire	LINDANE	2004	kg	14.2									
+33	New Hampshire	LINDANE	2005	kg	6.1									
+33	New Hampshire	LINDANE	2006	kg	0.5									
+33	New Hampshire	LINDANE	2007	kg	4									
+34	New Jersey	LINDANE	1992	kg										370.6
+34	New Jersey	LINDANE	1995	kg	61.1									
+34	New Jersey	LINDANE	1997	kg					22.4					
+34	New Jersey	LINDANE	2000	kg					5.5					
+34	New Jersey	LINDANE	2004	kg	38.5									
+34	New Jersey	LINDANE	2005	kg	68.2									
+34	New Jersey	LINDANE	2006	kg	3.4									
+34	New Jersey	LINDANE	2007	kg	3.6									
+34	New Jersey	LINDANE	2008	kg	57									
+35	New Mexico	LINDANE	1992	kg	4.1									
+35	New Mexico	LINDANE	1996	kg	162.5			0.1						
+35	New Mexico	LINDANE	1998	kg					92					
+35	New Mexico	LINDANE	2001	kg					6.8					
+35	New Mexico	LINDANE	2004	kg	3									
+35	New Mexico	LINDANE	2005	kg	7.1									
+35	New Mexico	LINDANE	2006	kg	29.3									
+35	New Mexico	LINDANE	2007	kg	5.9									
+35	New Mexico	LINDANE	2008	kg	5.1									
+35	New Mexico	LINDANE	2009	kg			3.5							2.5
+35	New Mexico	LINDANE	2010	kg										2.7
+36	New York	LINDANE	1992	kg										668.3
+36	New York	LINDANE	1995	kg	579.7									
+36	New York	LINDANE	1997	kg					207.4					
+36	New York	LINDANE	2000	kg					14.9					
+36	New York	LINDANE	2004	kg	635.8									
+36	New York	LINDANE	2005	kg	823.8									
+36	New York	LINDANE	2006	kg	36.1									
+36	New York	LINDANE	2007	kg	442.6									
+36	New York	LINDANE	2008	kg	674									
+36	New York	LINDANE	2009	kg	49.6									
+37	North Carolina	LINDANE	1992	kg	17.2									6.9
+37	North Carolina	LINDANE	1993	kg									762.7	319.2
+37	North Carolina	LINDANE	1994	kg										206.4
+37	North Carolina	LINDANE	1995	kg	414.2								56.7	196
+37	North Carolina	LINDANE	1996	kg										1379.8
+37	North Carolina	LINDANE	1997	kg					960.4					641.8
+37	North Carolina	LINDANE	2004	kg	1023.8									
+37	North Carolina	LINDANE	2005	kg	864									
+37	North Carolina	LINDANE	2006	kg	344.3									
+37	North Carolina	LINDANE	2007	kg	847.2									
+37	North Carolina	LINDANE	2008	kg	3.9									
+38	North Dakota	LINDANE	1993	kg			2139							980.4
+38	North Dakota	LINDANE	1994	kg			7587.5							
+38	North Dakota	LINDANE	2004	kg	2692.1									
+38	North Dakota	LINDANE	2005	kg	598.4									
+38	North Dakota	LINDANE	2006	kg	65.8									
+38	North Dakota	LINDANE	2008	kg	407									
+38	North Dakota	LINDANE	2010	kg			47.9							
+39	Ohio	LINDANE	1992	kg	650.6									
+39	Ohio	LINDANE	1994	kg	563				7.2					
+39	Ohio	LINDANE	1995	kg	102.2									
+39	Ohio	LINDANE	2004	kg	848.3									
+39	Ohio	LINDANE	2005	kg	1028.8									
+39	Ohio	LINDANE	2006	kg	524.2									
+39	Ohio	LINDANE	2007	kg	327									
+39	Ohio	LINDANE	2008	kg	534.2									
+39	Ohio	LINDANE	2009	kg	121.3									
+40	Oklahoma	LINDANE	1992	kg	116						48.1			
+40	Oklahoma	LINDANE	1993	kg			185.9				246.7			
+40	Oklahoma	LINDANE	1994	kg	77.5			77.5			171.7			
+40	Oklahoma	LINDANE	1995	kg	0.1						152.5			
+40	Oklahoma	LINDANE	1996	kg	503.4						2722.2		14.7	
+40	Oklahoma	LINDANE	1997	kg										19.7
+40	Oklahoma	LINDANE	1998	kg							496.5			
+40	Oklahoma	LINDANE	1999	kg							196.4			
+40	Oklahoma	LINDANE	2001	kg							91.4			
+40	Oklahoma	LINDANE	2004	kg	390.2									
+40	Oklahoma	LINDANE	2005	kg	192.4									
+40	Oklahoma	LINDANE	2006	kg	60.1									
+40	Oklahoma	LINDANE	2007	kg	17.6									
+40	Oklahoma	LINDANE	2008	kg	19.6									
+40	Oklahoma	LINDANE	2009	kg			85.6							1.6
+40	Oklahoma	LINDANE	2010	kg										2.8
+41	Oregon	LINDANE	1992	kg							151.4			
+41	Oregon	LINDANE	1993	kg							123.7			
+41	Oregon	LINDANE	1995	kg	8.9									
+41	Oregon	LINDANE	1997	kg					18.9					
+41	Oregon	LINDANE	2000	kg					22.5					
+41	Oregon	LINDANE	2004	kg	50.2									
+41	Oregon	LINDANE	2005	kg	161.8									
+42	Pennsylvania	LINDANE	1992	kg	930.7									442.9
+42	Pennsylvania	LINDANE	1994	kg	118.9									
+42	Pennsylvania	LINDANE	1995	kg	744.9									
+42	Pennsylvania	LINDANE	1996	kg	612.3									
+42	Pennsylvania	LINDANE	2000	kg					31.3					
+42	Pennsylvania	LINDANE	2004	kg	1089.3									
+42	Pennsylvania	LINDANE	2005	kg	819.5									
+42	Pennsylvania	LINDANE	2006	kg	236.2									
+42	Pennsylvania	LINDANE	2007	kg	90.6									
+42	Pennsylvania	LINDANE	2008	kg	182.4									
+42	Pennsylvania	LINDANE	2009	kg	792.8									
+44	Rhode Island	LINDANE	1995	kg	8.7									
+44	Rhode Island	LINDANE	2004	kg	6.3									
+44	Rhode Island	LINDANE	2005	kg	0.8									
+44	Rhode Island	LINDANE	2006	kg	0									
+44	Rhode Island	LINDANE	2007	kg	0.4									
+45	South Carolina	LINDANE	1992	kg							111.9			
+45	South Carolina	LINDANE	1993	kg							48.7		71.3	
+45	South Carolina	LINDANE	1994	kg							34.4			
+45	South Carolina	LINDANE	1995	kg	112.2						101.4			29.4
+45	South Carolina	LINDANE	1996	kg							140.8			
+45	South Carolina	LINDANE	1997	kg										150.6
+45	South Carolina	LINDANE	1998	kg							494.3			
+45	South Carolina	LINDANE	1999	kg							40.5			
+45	South Carolina	LINDANE	2000	kg							185.6			
+45	South Carolina	LINDANE	2001	kg							116.1			
+45	South Carolina	LINDANE	2004	kg	224									
+45	South Carolina	LINDANE	2005	kg	1365.3									
+45	South Carolina	LINDANE	2006	kg	83.4									
+45	South Carolina	LINDANE	2007	kg	231.4									
+46	South Dakota	LINDANE	1993	kg					0.6					
+46	South Dakota	LINDANE	2004	kg	453.5									
+46	South Dakota	LINDANE	2005	kg	1215.2									
+46	South Dakota	LINDANE	2006	kg	208.1									
+46	South Dakota	LINDANE	2007	kg	95.6									
+46	South Dakota	LINDANE	2008	kg	5507.5									
+46	South Dakota	LINDANE	2009	kg										131.4
+47	Tennessee	LINDANE	1992	kg	174.5									16.1
+47	Tennessee	LINDANE	1993	kg										160.7
+47	Tennessee	LINDANE	1994	kg										674.8
+47	Tennessee	LINDANE	1995	kg							1.1		178.2	56.4
+47	Tennessee	LINDANE	1996	kg							10.7	116		625.2
+47	Tennessee	LINDANE	1997	kg							7.2			360.4
+47	Tennessee	LINDANE	1999	kg							17			
+47	Tennessee	LINDANE	2004	kg	680.1									
+47	Tennessee	LINDANE	2005	kg	226.6									
+47	Tennessee	LINDANE	2006	kg	584.4									
+47	Tennessee	LINDANE	2007	kg	61.3									
+47	Tennessee	LINDANE	2008	kg	105.6									
+48	Texas	LINDANE	1992	kg	87.9						1365			
+48	Texas	LINDANE	1993	kg	303.9		285.4				2064.8			
+48	Texas	LINDANE	1994	kg	321.3			110			1458.3			
+48	Texas	LINDANE	1995	kg	7.2						1318			19.3
+48	Texas	LINDANE	1996	kg	2847.9						367.5		187.4	
+48	Texas	LINDANE	1997	kg										1790.9
+48	Texas	LINDANE	1998	kg							1574.3			
+48	Texas	LINDANE	1999	kg							594.9			
+48	Texas	LINDANE	2001	kg							253.7			
+48	Texas	LINDANE	2004	kg	79.3									
+48	Texas	LINDANE	2005	kg	278.7									
+48	Texas	LINDANE	2006	kg	214.8									
+48	Texas	LINDANE	2007	kg	130.8									
+48	Texas	LINDANE	2008	kg	118.5									
+48	Texas	LINDANE	2009	kg			323.7							70.2
+48	Texas	LINDANE	2010	kg										40.2
+49	Utah	LINDANE	1992	kg										790.9
+50	Vermont	LINDANE	1995	kg	266.6									
+50	Vermont	LINDANE	2004	kg	148.7									
+50	Vermont	LINDANE	2005	kg	57.7									
+50	Vermont	LINDANE	2006	kg	0.2									
+50	Vermont	LINDANE	2007	kg	25.9									
+51	Virginia	LINDANE	1992	kg	11.7									18.5
+51	Virginia	LINDANE	1993	kg	49.5									242
+51	Virginia	LINDANE	1994	kg										1948
+51	Virginia	LINDANE	1995	kg	235.7									96.7
+51	Virginia	LINDANE	1996	kg										1023.5
+51	Virginia	LINDANE	1997	kg					19.9					
+51	Virginia	LINDANE	2004	kg	858.5									
+51	Virginia	LINDANE	2005	kg	1117.5									
+51	Virginia	LINDANE	2006	kg	88.1									
+51	Virginia	LINDANE	2007	kg	361.5									
+51	Virginia	LINDANE	2008	kg	40.5									
+53	Washington	LINDANE	1992	kg							2.3			
+53	Washington	LINDANE	1993	kg							2.4			
+53	Washington	LINDANE	1997	kg					183.8					
+53	Washington	LINDANE	2000	kg					198.6					
+53	Washington	LINDANE	2004	kg	16									
+53	Washington	LINDANE	2007	kg	43.6									
+54	West Virginia	LINDANE	1992	kg	11.2									0.7
+54	West Virginia	LINDANE	1993	kg	18.9									
+54	West Virginia	LINDANE	1994	kg	6.2									1749.9
+54	West Virginia	LINDANE	1995	kg	26.6									6
+54	West Virginia	LINDANE	2004	kg	22.4									
+54	West Virginia	LINDANE	2005	kg	23.1									
+54	West Virginia	LINDANE	2006	kg	9.3									
+54	West Virginia	LINDANE	2007	kg	4.7									
+54	West Virginia	LINDANE	2008	kg	22.6									
+55	Wisconsin	LINDANE	1992	kg	1038.9									
+55	Wisconsin	LINDANE	1994	kg	53.2									
+55	Wisconsin	LINDANE	1995	kg	351.3									
+55	Wisconsin	LINDANE	2004	kg	800.7									
+55	Wisconsin	LINDANE	2005	kg	860.6									
+55	Wisconsin	LINDANE	2006	kg	575.3									
+55	Wisconsin	LINDANE	2007	kg	436.6									
+55	Wisconsin	LINDANE	2008	kg	2647.8									
+56	Wyoming	LINDANE	1992	kg										106.8
+56	Wyoming	LINDANE	1993	kg					5.9					
+56	Wyoming	LINDANE	1997	kg	7.7									
+56	Wyoming	LINDANE	2004	kg	4.8									
+56	Wyoming	LINDANE	2005	kg	32									
+56	Wyoming	LINDANE	2006	kg	27									
+56	Wyoming	LINDANE	2008	kg	22.6									

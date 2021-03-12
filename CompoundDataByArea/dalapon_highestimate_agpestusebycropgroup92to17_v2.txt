@@ -1,0 +1,13 @@
+06	California	DALAPON	1992	kg										134.1
+06	California	DALAPON	1993	kg							3.3			
+06	California	DALAPON	1994	kg					229.9		46			
+06	California	DALAPON	1995	kg							0.3			
+06	California	DALAPON	2003	kg							0.5			
+06	California	DALAPON	2004	kg							6.8			
+06	California	DALAPON	2006	kg					3.1		3.9			
+06	California	DALAPON	2008	kg							0.5			
+06	California	DALAPON	2009	kg							1			
+23	Maine	DALAPON	1993	kg					839.3					
+26	Michigan	DALAPON	1993	kg					16396.9					
+41	Oregon	DALAPON	1992	kg							215.1			
+53	Washington	DALAPON	1992	kg							5238.7			

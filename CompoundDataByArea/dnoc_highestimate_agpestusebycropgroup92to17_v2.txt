@@ -1,0 +1,7 @@
+16	Idaho	DNOC	1992	kg							5.3			
+37	North Carolina	DNOC	1992	kg										8693.3
+41	Oregon	DNOC	1992	kg							6.8			
+41	Oregon	DNOC	1993	kg							7.2			
+45	South Carolina	DNOC	1992	kg										3713.9
+53	Washington	DNOC	1992	kg							905.9			
+53	Washington	DNOC	1993	kg							165.4			

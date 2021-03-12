@@ -1,0 +1,11 @@
+06	California	CAPTAFOL	1992	kg							2.7			
+12	Florida	CAPTAFOL	1992	kg					371.2					
+12	Florida	CAPTAFOL	1993	kg					232.6					
+12	Florida	CAPTAFOL	1994	kg							25778.8			
+13	Georgia	CAPTAFOL	1993	kg					180.3					
+18	Indiana	CAPTAFOL	1992	kg					6.3					
+26	Michigan	CAPTAFOL	1992	kg					150.5					
+35	New Mexico	CAPTAFOL	1992	kg					2098.1					
+39	Ohio	CAPTAFOL	1992	kg					353.1					
+40	Oklahoma	CAPTAFOL	1992	kg					0.5					
+48	Texas	CAPTAFOL	1992	kg					18879.8					

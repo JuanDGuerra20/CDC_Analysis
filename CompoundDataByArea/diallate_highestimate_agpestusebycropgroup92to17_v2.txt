@@ -1,0 +1,10 @@
+16	Idaho	DIALLATE	1992	kg			271.1							1161.8
+22	Louisiana	DIALLATE	1992	kg										307
+27	Minnesota	DIALLATE	1992	kg										8101
+27	Minnesota	DIALLATE	1994	kg										385.9
+30	Montana	DIALLATE	1992	kg			22							163.1
+38	North Dakota	DIALLATE	1992	kg										3427.7
+38	North Dakota	DIALLATE	1994	kg										151.8
+49	Utah	DIALLATE	1992	kg			6.8							86.8
+55	Wisconsin	DIALLATE	1992	kg	3612.8									
+56	Wyoming	DIALLATE	1992	kg			0.1							27.7

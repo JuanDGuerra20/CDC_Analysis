@@ -1,0 +1,242 @@
+04	Arizona	DIFENZOQUAT	1992	kg			219.2							
+04	Arizona	DIFENZOQUAT	1993	kg			1855.1							
+04	Arizona	DIFENZOQUAT	1994	kg			1373.1							1225.9
+04	Arizona	DIFENZOQUAT	1995	kg			3227.1							15.3
+04	Arizona	DIFENZOQUAT	1996	kg			295.5							7748.6
+04	Arizona	DIFENZOQUAT	1997	kg			401.5							
+04	Arizona	DIFENZOQUAT	1998	kg										1753.3
+04	Arizona	DIFENZOQUAT	1999	kg										1316.6
+04	Arizona	DIFENZOQUAT	2000	kg										4276.3
+04	Arizona	DIFENZOQUAT	2002	kg										0.1
+04	Arizona	DIFENZOQUAT	2004	kg			117.5							
+06	California	DIFENZOQUAT	1992	kg			9837.5							4443.2
+06	California	DIFENZOQUAT	1993	kg			11929.1							5380.4
+06	California	DIFENZOQUAT	1994	kg			10326							5291.9
+06	California	DIFENZOQUAT	1995	kg			8523.1							4846.7
+06	California	DIFENZOQUAT	1996	kg			12364.9							7603.3
+06	California	DIFENZOQUAT	1997	kg			5640							3353.2
+06	California	DIFENZOQUAT	1998	kg			6008.2					0.3		3803.4
+06	California	DIFENZOQUAT	1999	kg			2466.2					7.9		3158.9
+06	California	DIFENZOQUAT	2000	kg			5346.4						3.3	2052.6
+06	California	DIFENZOQUAT	2001	kg			2623.9							127.8
+06	California	DIFENZOQUAT	2002	kg			1342.7		18.4					1085
+06	California	DIFENZOQUAT	2003	kg			1206.2							289.3
+06	California	DIFENZOQUAT	2004	kg			396.7							121.3
+06	California	DIFENZOQUAT	2005	kg			21							314.2
+06	California	DIFENZOQUAT	2007	kg										43.3
+06	California	DIFENZOQUAT	2008	kg										17
+08	Colorado	DIFENZOQUAT	1992	kg										159.1
+08	Colorado	DIFENZOQUAT	1993	kg										82.5
+08	Colorado	DIFENZOQUAT	1994	kg										119.5
+08	Colorado	DIFENZOQUAT	1995	kg										161.3
+08	Colorado	DIFENZOQUAT	1996	kg										422.5
+08	Colorado	DIFENZOQUAT	1997	kg										374.2
+08	Colorado	DIFENZOQUAT	1998	kg										1495.9
+08	Colorado	DIFENZOQUAT	1999	kg										195.8
+08	Colorado	DIFENZOQUAT	2000	kg										173
+08	Colorado	DIFENZOQUAT	2001	kg										51.4
+08	Colorado	DIFENZOQUAT	2002	kg										267.7
+08	Colorado	DIFENZOQUAT	2003	kg										76.6
+08	Colorado	DIFENZOQUAT	2004	kg										2.5
+08	Colorado	DIFENZOQUAT	2006	kg										7.5
+08	Colorado	DIFENZOQUAT	2007	kg										8.4
+08	Colorado	DIFENZOQUAT	2008	kg										15.8
+08	Colorado	DIFENZOQUAT	2010	kg										4.5
+16	Idaho	DIFENZOQUAT	1992	kg			25375							7941.3
+16	Idaho	DIFENZOQUAT	1993	kg			51701.3							10244.4
+16	Idaho	DIFENZOQUAT	1994	kg			27767.3						2914.3	13280.9
+16	Idaho	DIFENZOQUAT	1995	kg			36140.7							12242.6
+16	Idaho	DIFENZOQUAT	1996	kg			51158.2							35375.5
+16	Idaho	DIFENZOQUAT	1997	kg			43008.7					5983		8727.4
+16	Idaho	DIFENZOQUAT	1998	kg			5998.1							24056
+16	Idaho	DIFENZOQUAT	1999	kg			32754.3							13695.8
+16	Idaho	DIFENZOQUAT	2000	kg			25545.7							24096.2
+16	Idaho	DIFENZOQUAT	2001	kg			12077.1							20350
+16	Idaho	DIFENZOQUAT	2002	kg			13378.5							14337.7
+16	Idaho	DIFENZOQUAT	2003	kg			9218.1							14252.3
+16	Idaho	DIFENZOQUAT	2004	kg			14240.7							17769.4
+16	Idaho	DIFENZOQUAT	2005	kg									37	817.8
+16	Idaho	DIFENZOQUAT	2006	kg										1426.6
+16	Idaho	DIFENZOQUAT	2007	kg										170.4
+16	Idaho	DIFENZOQUAT	2008	kg			1183							4825.2
+16	Idaho	DIFENZOQUAT	2010	kg										187.3
+16	Idaho	DIFENZOQUAT	2011	kg			1007							
+27	Minnesota	DIFENZOQUAT	1992	kg			17570.5							14375.5
+27	Minnesota	DIFENZOQUAT	1993	kg			32690.3							44776
+27	Minnesota	DIFENZOQUAT	1994	kg			10563.6							30420
+27	Minnesota	DIFENZOQUAT	1995	kg			8457.2							19558
+27	Minnesota	DIFENZOQUAT	1996	kg			31927.3							5857.7
+27	Minnesota	DIFENZOQUAT	1997	kg			5053.6							7032.1
+27	Minnesota	DIFENZOQUAT	1998	kg			26416.8							3415.4
+27	Minnesota	DIFENZOQUAT	1999	kg			15188.6							379.4
+27	Minnesota	DIFENZOQUAT	2000	kg			8825							1672.4
+27	Minnesota	DIFENZOQUAT	2001	kg			1176.9							
+27	Minnesota	DIFENZOQUAT	2002	kg			64.1							1100
+27	Minnesota	DIFENZOQUAT	2003	kg			7248.7							
+27	Minnesota	DIFENZOQUAT	2005	kg			1492.1							
+27	Minnesota	DIFENZOQUAT	2010	kg			2508.5							
+28	Mississippi	DIFENZOQUAT	1995	kg	595									
+30	Montana	DIFENZOQUAT	1992	kg			3850.3							871.6
+30	Montana	DIFENZOQUAT	1993	kg			16381.7							1148.6
+30	Montana	DIFENZOQUAT	1994	kg			15183.2					164.5	164.7	4392.1
+30	Montana	DIFENZOQUAT	1995	kg			26305							4009.8
+30	Montana	DIFENZOQUAT	1996	kg			57419.5							3763.4
+30	Montana	DIFENZOQUAT	1997	kg			264485.1							11826.8
+30	Montana	DIFENZOQUAT	1998	kg			71903.4							5205.5
+30	Montana	DIFENZOQUAT	1999	kg			30350.9							3623.3
+30	Montana	DIFENZOQUAT	2000	kg			62429.9							8051.4
+30	Montana	DIFENZOQUAT	2001	kg			17845.6							9018.9
+30	Montana	DIFENZOQUAT	2002	kg			2172							7943.6
+30	Montana	DIFENZOQUAT	2003	kg			35601.1							21332.7
+30	Montana	DIFENZOQUAT	2004	kg			28338.5							6910.7
+30	Montana	DIFENZOQUAT	2005	kg			6675.6							
+30	Montana	DIFENZOQUAT	2006	kg										846.8
+30	Montana	DIFENZOQUAT	2007	kg										1106.5
+30	Montana	DIFENZOQUAT	2008	kg			191.3							2658.2
+30	Montana	DIFENZOQUAT	2010	kg										718
+30	Montana	DIFENZOQUAT	2011	kg			144.1							
+31	Nebraska	DIFENZOQUAT	1992	kg										19.7
+31	Nebraska	DIFENZOQUAT	1993	kg										9.6
+31	Nebraska	DIFENZOQUAT	1994	kg										14.7
+31	Nebraska	DIFENZOQUAT	1995	kg										33.6
+31	Nebraska	DIFENZOQUAT	1996	kg										57.2
+31	Nebraska	DIFENZOQUAT	1997	kg										123
+31	Nebraska	DIFENZOQUAT	1998	kg										468.3
+31	Nebraska	DIFENZOQUAT	1999	kg										43.6
+31	Nebraska	DIFENZOQUAT	2000	kg										42.7
+31	Nebraska	DIFENZOQUAT	2002	kg										60.5
+32	Nevada	DIFENZOQUAT	1992	kg			55.8							200.7
+32	Nevada	DIFENZOQUAT	1993	kg			224.5							406.5
+32	Nevada	DIFENZOQUAT	1994	kg			324.3							349.5
+32	Nevada	DIFENZOQUAT	1995	kg			166.8							20.5
+32	Nevada	DIFENZOQUAT	1996	kg			393.8							653.1
+32	Nevada	DIFENZOQUAT	1997	kg			157.2					4864.7		237.5
+32	Nevada	DIFENZOQUAT	1998	kg			1430.1							68.7
+32	Nevada	DIFENZOQUAT	1999	kg			312.2							297.5
+32	Nevada	DIFENZOQUAT	2000	kg			252.8							64.9
+32	Nevada	DIFENZOQUAT	2001	kg			31.9							89.3
+32	Nevada	DIFENZOQUAT	2002	kg			20.7							30.4
+32	Nevada	DIFENZOQUAT	2003	kg			92.3							114.4
+32	Nevada	DIFENZOQUAT	2004	kg										1.2
+32	Nevada	DIFENZOQUAT	2005	kg										0.1
+32	Nevada	DIFENZOQUAT	2006	kg										3.2
+32	Nevada	DIFENZOQUAT	2007	kg										3.1
+32	Nevada	DIFENZOQUAT	2008	kg										15.2
+32	Nevada	DIFENZOQUAT	2010	kg										8.5
+35	New Mexico	DIFENZOQUAT	1992	kg										3.9
+35	New Mexico	DIFENZOQUAT	1993	kg										11.7
+35	New Mexico	DIFENZOQUAT	1994	kg										12.4
+35	New Mexico	DIFENZOQUAT	1995	kg										0.7
+35	New Mexico	DIFENZOQUAT	1996	kg										35.1
+35	New Mexico	DIFENZOQUAT	1997	kg										19
+35	New Mexico	DIFENZOQUAT	1998	kg										12.6
+35	New Mexico	DIFENZOQUAT	1999	kg										10
+35	New Mexico	DIFENZOQUAT	2000	kg										7.6
+35	New Mexico	DIFENZOQUAT	2001	kg										9.4
+35	New Mexico	DIFENZOQUAT	2002	kg										9
+35	New Mexico	DIFENZOQUAT	2003	kg										15.7
+35	New Mexico	DIFENZOQUAT	2004	kg										0.5
+35	New Mexico	DIFENZOQUAT	2006	kg										1.5
+35	New Mexico	DIFENZOQUAT	2007	kg										1.8
+35	New Mexico	DIFENZOQUAT	2008	kg										1.7
+35	New Mexico	DIFENZOQUAT	2010	kg										0.3
+38	North Dakota	DIFENZOQUAT	1992	kg			4939							33175.9
+38	North Dakota	DIFENZOQUAT	1993	kg			25343.4							3995
+38	North Dakota	DIFENZOQUAT	1994	kg			15523.3							12977
+38	North Dakota	DIFENZOQUAT	1995	kg			103743							48357.1
+38	North Dakota	DIFENZOQUAT	1996	kg			38262.6							15647.2
+38	North Dakota	DIFENZOQUAT	1997	kg			16282.4							35270.4
+38	North Dakota	DIFENZOQUAT	1998	kg			113788.3							5468.5
+38	North Dakota	DIFENZOQUAT	1999	kg			90905.7							7453
+38	North Dakota	DIFENZOQUAT	2000	kg			18338.3							13056.8
+38	North Dakota	DIFENZOQUAT	2001	kg			4136.8							
+38	North Dakota	DIFENZOQUAT	2002	kg			79.7							13661.4
+38	North Dakota	DIFENZOQUAT	2003	kg			46298.1							
+38	North Dakota	DIFENZOQUAT	2005	kg			8165.7							
+38	North Dakota	DIFENZOQUAT	2010	kg			5103.2							
+41	Oregon	DIFENZOQUAT	1992	kg			8533.5							7819.4
+41	Oregon	DIFENZOQUAT	1993	kg			9020.7							32048.4
+41	Oregon	DIFENZOQUAT	1994	kg			7918.1						2168.6	13893.8
+41	Oregon	DIFENZOQUAT	1995	kg			10735.5							3439
+41	Oregon	DIFENZOQUAT	1996	kg			7341.4							19859.2
+41	Oregon	DIFENZOQUAT	1997	kg			15310					13999.3		20085.5
+41	Oregon	DIFENZOQUAT	1998	kg			5441.7							7497.5
+41	Oregon	DIFENZOQUAT	1999	kg			22039.9							23753.1
+41	Oregon	DIFENZOQUAT	2000	kg			4911							6547.7
+41	Oregon	DIFENZOQUAT	2001	kg			5845.4							4430.4
+41	Oregon	DIFENZOQUAT	2002	kg			3271.2							967.6
+41	Oregon	DIFENZOQUAT	2003	kg			28060.1							6662.9
+41	Oregon	DIFENZOQUAT	2004	kg										852.7
+41	Oregon	DIFENZOQUAT	2005	kg									335.1	
+41	Oregon	DIFENZOQUAT	2006	kg										64.6
+41	Oregon	DIFENZOQUAT	2007	kg										89.1
+41	Oregon	DIFENZOQUAT	2008	kg										684.1
+41	Oregon	DIFENZOQUAT	2010	kg										189.6
+46	South Dakota	DIFENZOQUAT	1992	kg			974.4							1069.5
+46	South Dakota	DIFENZOQUAT	1993	kg			1534.2							435.6
+46	South Dakota	DIFENZOQUAT	1994	kg			1360.7					274.5		222
+46	South Dakota	DIFENZOQUAT	1995	kg			992.4							612.6
+46	South Dakota	DIFENZOQUAT	1996	kg			8399.3							658.9
+46	South Dakota	DIFENZOQUAT	1997	kg			2902.9							962.8
+46	South Dakota	DIFENZOQUAT	1998	kg			15078.1							309.1
+46	South Dakota	DIFENZOQUAT	1999	kg			10600							639.3
+46	South Dakota	DIFENZOQUAT	2000	kg			2954.3							705.1
+46	South Dakota	DIFENZOQUAT	2001	kg			766							
+46	South Dakota	DIFENZOQUAT	2002	kg										356.6
+46	South Dakota	DIFENZOQUAT	2003	kg			7017.1							
+46	South Dakota	DIFENZOQUAT	2005	kg			1672.3							
+48	Texas	DIFENZOQUAT	1996	kg			817.5							
+49	Utah	DIFENZOQUAT	1992	kg			1590.1							3429.9
+49	Utah	DIFENZOQUAT	1993	kg			5459.3							1511.2
+49	Utah	DIFENZOQUAT	1994	kg			3260.2							12634.3
+49	Utah	DIFENZOQUAT	1995	kg			2675.1							1357.4
+49	Utah	DIFENZOQUAT	1996	kg			3632							15009.2
+49	Utah	DIFENZOQUAT	1997	kg			5287.6							3063.1
+49	Utah	DIFENZOQUAT	1998	kg			861							944.5
+49	Utah	DIFENZOQUAT	1999	kg			3848.2							818.9
+49	Utah	DIFENZOQUAT	2000	kg			691.4							322.7
+49	Utah	DIFENZOQUAT	2001	kg			1216							961.6
+49	Utah	DIFENZOQUAT	2002	kg			238.9							849.3
+49	Utah	DIFENZOQUAT	2003	kg			3885.2							169.9
+49	Utah	DIFENZOQUAT	2004	kg			62.2							31.1
+49	Utah	DIFENZOQUAT	2005	kg										18.2
+49	Utah	DIFENZOQUAT	2006	kg										75.2
+49	Utah	DIFENZOQUAT	2007	kg										57.9
+49	Utah	DIFENZOQUAT	2008	kg			22.5							198.7
+49	Utah	DIFENZOQUAT	2010	kg										158.4
+49	Utah	DIFENZOQUAT	2011	kg			14.2							
+53	Washington	DIFENZOQUAT	1992	kg			15245.1							5280.6
+53	Washington	DIFENZOQUAT	1993	kg			20415.1							2778.3
+53	Washington	DIFENZOQUAT	1994	kg			16238.6						5171.1	4435.7
+53	Washington	DIFENZOQUAT	1995	kg			27910							1501.4
+53	Washington	DIFENZOQUAT	1996	kg			8163.8							4646.7
+53	Washington	DIFENZOQUAT	1997	kg			65133.6							355.5
+53	Washington	DIFENZOQUAT	1998	kg			7247.3							6844.6
+53	Washington	DIFENZOQUAT	1999	kg			46141.9							859.6
+53	Washington	DIFENZOQUAT	2000	kg			9670.1							12132.5
+53	Washington	DIFENZOQUAT	2001	kg			7268							7534.9
+53	Washington	DIFENZOQUAT	2002	kg			15169.2							5884.2
+53	Washington	DIFENZOQUAT	2003	kg			89428.6							8605.4
+53	Washington	DIFENZOQUAT	2004	kg										9529.8
+53	Washington	DIFENZOQUAT	2005	kg									343.5	
+53	Washington	DIFENZOQUAT	2008	kg										4278.5
+53	Washington	DIFENZOQUAT	2010	kg										3484.5
+56	Wyoming	DIFENZOQUAT	1992	kg			720.9							480.5
+56	Wyoming	DIFENZOQUAT	1993	kg			73.1							305.8
+56	Wyoming	DIFENZOQUAT	1994	kg			126.3					225		2604.7
+56	Wyoming	DIFENZOQUAT	1995	kg			118.1							156
+56	Wyoming	DIFENZOQUAT	1996	kg			221							1431.3
+56	Wyoming	DIFENZOQUAT	1997	kg			142							3165
+56	Wyoming	DIFENZOQUAT	1998	kg			70.1							2298.6
+56	Wyoming	DIFENZOQUAT	1999	kg			288.7							1052.5
+56	Wyoming	DIFENZOQUAT	2000	kg			84.5							365.8
+56	Wyoming	DIFENZOQUAT	2001	kg			3945.2							342
+56	Wyoming	DIFENZOQUAT	2002	kg			15.8							932.7
+56	Wyoming	DIFENZOQUAT	2003	kg			45.5							614.2
+56	Wyoming	DIFENZOQUAT	2004	kg			30.8							500.2
+56	Wyoming	DIFENZOQUAT	2005	kg			5.6							
+56	Wyoming	DIFENZOQUAT	2006	kg										109.9
+56	Wyoming	DIFENZOQUAT	2007	kg										168.1
+56	Wyoming	DIFENZOQUAT	2008	kg			0							822.3
+56	Wyoming	DIFENZOQUAT	2010	kg										533.3
+56	Wyoming	DIFENZOQUAT	2011	kg			0							

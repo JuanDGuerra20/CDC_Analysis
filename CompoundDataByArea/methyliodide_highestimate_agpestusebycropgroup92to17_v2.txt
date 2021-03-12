@@ -1,0 +1,9 @@
+06	California	METHYLIODIDE	2011	kg					195.2		285.4			
+06	California	METHYLIODIDE	2012	kg				9.4						
+12	Florida	METHYLIODIDE	2007	kg					93795.6					
+12	Florida	METHYLIODIDE	2009	kg					282139.3					
+12	Florida	METHYLIODIDE	2010	kg					82916.7					
+12	Florida	METHYLIODIDE	2011	kg					23366.4					
+12	Florida	METHYLIODIDE	2012	kg					9385.8					
+13	Georgia	METHYLIODIDE	2009	kg					8941.4					
+45	South Carolina	METHYLIODIDE	2009	kg					29457.1					

@@ -1,0 +1,34 @@
+04	Arizona	CHLORMEQUAT	1993	kg					610.7					
+06	California	CHLORMEQUAT	1992	kg							38.9			
+06	California	CHLORMEQUAT	1993	kg							69.3			
+06	California	CHLORMEQUAT	1994	kg							57.8			
+06	California	CHLORMEQUAT	1995	kg							47.5			
+06	California	CHLORMEQUAT	1996	kg							43.8			
+06	California	CHLORMEQUAT	1997	kg							54.3			
+06	California	CHLORMEQUAT	1998	kg							88.5			
+06	California	CHLORMEQUAT	1999	kg							207.1			0.1
+06	California	CHLORMEQUAT	2000	kg							61.7			
+06	California	CHLORMEQUAT	2001	kg							106.6			
+06	California	CHLORMEQUAT	2002	kg							109.1			
+06	California	CHLORMEQUAT	2003	kg							129.5			
+06	California	CHLORMEQUAT	2004	kg							111.7			
+06	California	CHLORMEQUAT	2005	kg							102.4			
+06	California	CHLORMEQUAT	2006	kg							75.1			
+06	California	CHLORMEQUAT	2007	kg							84.3			0.2
+06	California	CHLORMEQUAT	2008	kg							53.2			
+06	California	CHLORMEQUAT	2009	kg							55.6			
+06	California	CHLORMEQUAT	2010	kg							51.5			
+06	California	CHLORMEQUAT	2011	kg							217.6	1.1		
+06	California	CHLORMEQUAT	2012	kg							65.2			
+06	California	CHLORMEQUAT	2013	kg							59.5			
+06	California	CHLORMEQUAT	2014	kg							63			
+06	California	CHLORMEQUAT	2015	kg							53			
+06	California	CHLORMEQUAT	2016	kg							46			
+06	California	CHLORMEQUAT	2017	kg							37.2			
+35	New Mexico	CHLORMEQUAT	1993	kg					19.4					
+35	New Mexico	CHLORMEQUAT	1994	kg				10.3						
+36	New York	CHLORMEQUAT	1992	kg									8.6	
+40	Oklahoma	CHLORMEQUAT	1994	kg				47.3						
+41	Oregon	CHLORMEQUAT	1992	kg							0.8			
+48	Texas	CHLORMEQUAT	1994	kg				882.2						
+53	Washington	CHLORMEQUAT	1992	kg							17.4			

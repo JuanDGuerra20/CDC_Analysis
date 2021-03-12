@@ -1,0 +1,392 @@
+04	Arizona	CYCLOATE	1993	kg					10.6					
+04	Arizona	CYCLOATE	1994	kg					148					
+04	Arizona	CYCLOATE	1996	kg					428.9					
+04	Arizona	CYCLOATE	1998	kg					569.1					
+04	Arizona	CYCLOATE	1999	kg					800.6					
+04	Arizona	CYCLOATE	2000	kg					716					
+04	Arizona	CYCLOATE	2001	kg					3452.5					
+04	Arizona	CYCLOATE	2002	kg					1643					
+04	Arizona	CYCLOATE	2003	kg					2417.2					
+04	Arizona	CYCLOATE	2004	kg					530.3					
+04	Arizona	CYCLOATE	2005	kg					2128.5					
+04	Arizona	CYCLOATE	2006	kg					2809.5					
+04	Arizona	CYCLOATE	2007	kg					543.4					
+04	Arizona	CYCLOATE	2008	kg					2726.8					
+04	Arizona	CYCLOATE	2009	kg					2836.6					
+04	Arizona	CYCLOATE	2010	kg					5079.4					
+04	Arizona	CYCLOATE	2011	kg					871.6					
+04	Arizona	CYCLOATE	2012	kg					1369.3					
+04	Arizona	CYCLOATE	2013	kg					2194.3					
+04	Arizona	CYCLOATE	2014	kg					650.1					
+04	Arizona	CYCLOATE	2015	kg					1141.5					
+04	Arizona	CYCLOATE	2016	kg					1800.8					
+04	Arizona	CYCLOATE	2017	kg					3986.6					
+05	Arkansas	CYCLOATE	1994	kg					458.7					
+05	Arkansas	CYCLOATE	2000	kg					61.5					
+05	Arkansas	CYCLOATE	2003	kg					154.2					
+06	California	CYCLOATE	1992	kg					6485					20408.4
+06	California	CYCLOATE	1993	kg					1713.1					21724.7
+06	California	CYCLOATE	1994	kg					5684					20545.2
+06	California	CYCLOATE	1995	kg					2790.1					19837.2
+06	California	CYCLOATE	1996	kg					5274.4					15177.2
+06	California	CYCLOATE	1997	kg					6932.8					18262.3
+06	California	CYCLOATE	1998	kg			123.6		8302.4			51		21413.5
+06	California	CYCLOATE	1999	kg				222.5	7145.2	130.8	13.4			14544.1
+06	California	CYCLOATE	2000	kg					10446.7					6537
+06	California	CYCLOATE	2001	kg					10908.4					3479.1
+06	California	CYCLOATE	2002	kg					11969.1		2.7			3533
+06	California	CYCLOATE	2003	kg					13434					525.3
+06	California	CYCLOATE	2004	kg					17823					1789
+06	California	CYCLOATE	2005	kg					15960.1					2007.9
+06	California	CYCLOATE	2006	kg					14791.4					3932.9
+06	California	CYCLOATE	2007	kg					11023.2					3427.8
+06	California	CYCLOATE	2008	kg					9451					
+06	California	CYCLOATE	2009	kg					10978.4					
+06	California	CYCLOATE	2010	kg					12331.1					8.8
+06	California	CYCLOATE	2011	kg					14074.5					
+06	California	CYCLOATE	2012	kg					15199.9					33
+06	California	CYCLOATE	2013	kg					13875.5					
+06	California	CYCLOATE	2014	kg					16549.8					
+06	California	CYCLOATE	2015	kg					17836.6					3.1
+06	California	CYCLOATE	2016	kg					20420.9					0.5
+06	California	CYCLOATE	2017	kg					22504					
+08	Colorado	CYCLOATE	1992	kg										5665.1
+08	Colorado	CYCLOATE	1993	kg					950.2					18847.4
+08	Colorado	CYCLOATE	1994	kg					525.2				33	6675
+08	Colorado	CYCLOATE	1995	kg					882.2					15184
+08	Colorado	CYCLOATE	1996	kg					33.7					8564.5
+08	Colorado	CYCLOATE	1997	kg					5840.4					9220.5
+08	Colorado	CYCLOATE	1998	kg										20840.3
+08	Colorado	CYCLOATE	1999	kg					1521.4					20919.3
+08	Colorado	CYCLOATE	2000	kg					136.1					12150
+08	Colorado	CYCLOATE	2001	kg					148.6					6610.3
+08	Colorado	CYCLOATE	2002	kg					475.4					10056.7
+08	Colorado	CYCLOATE	2003	kg										4179.7
+08	Colorado	CYCLOATE	2004	kg										1321.6
+08	Colorado	CYCLOATE	2005	kg										2144.6
+08	Colorado	CYCLOATE	2006	kg										931.1
+08	Colorado	CYCLOATE	2007	kg										2118.1
+08	Colorado	CYCLOATE	2010	kg										855.1
+08	Colorado	CYCLOATE	2011	kg					64.9					
+08	Colorado	CYCLOATE	2012	kg					198					
+08	Colorado	CYCLOATE	2013	kg					28.8					
+08	Colorado	CYCLOATE	2014	kg					862.2					
+09	Connecticut	CYCLOATE	1994	kg					0					
+09	Connecticut	CYCLOATE	1995	kg					0.3					
+09	Connecticut	CYCLOATE	1997	kg					9.6					
+10	Delaware	CYCLOATE	1998	kg					128.6					
+10	Delaware	CYCLOATE	1999	kg					93.2					
+10	Delaware	CYCLOATE	2000	kg					123.2					
+10	Delaware	CYCLOATE	2001	kg					89.1					
+10	Delaware	CYCLOATE	2002	kg					65.9					
+10	Delaware	CYCLOATE	2004	kg					43.3					
+10	Delaware	CYCLOATE	2015	kg					0.3					
+16	Idaho	CYCLOATE	1992	kg			10141.3							109916.8
+16	Idaho	CYCLOATE	1993	kg			479.9		2.4					78896.1
+16	Idaho	CYCLOATE	1994	kg	70.4		5238		613					83112
+16	Idaho	CYCLOATE	1995	kg					370.6					117842.1
+16	Idaho	CYCLOATE	1996	kg										63753.9
+16	Idaho	CYCLOATE	1997	kg										51557.2
+16	Idaho	CYCLOATE	1998	kg										86991.2
+16	Idaho	CYCLOATE	1999	kg										41744.2
+16	Idaho	CYCLOATE	2000	kg										32010
+16	Idaho	CYCLOATE	2001	kg										66914.4
+16	Idaho	CYCLOATE	2002	kg										62460.7
+16	Idaho	CYCLOATE	2003	kg										39235.8
+16	Idaho	CYCLOATE	2004	kg										52797.9
+16	Idaho	CYCLOATE	2005	kg										12201.6
+16	Idaho	CYCLOATE	2006	kg										20116.2
+16	Idaho	CYCLOATE	2007	kg										31923.9
+17	Illinois	CYCLOATE	1992	kg					114.1					
+17	Illinois	CYCLOATE	1993	kg					307.4					
+17	Illinois	CYCLOATE	1994	kg					2					
+17	Illinois	CYCLOATE	1995	kg					943.3					
+17	Illinois	CYCLOATE	1996	kg					60.9					
+17	Illinois	CYCLOATE	1997	kg					2.4					
+19	Iowa	CYCLOATE	1992	kg					0.7					
+19	Iowa	CYCLOATE	1993	kg					29.7					
+23	Maine	CYCLOATE	1994	kg					15.7					490.7
+23	Maine	CYCLOATE	1995	kg					0.9					
+23	Maine	CYCLOATE	1997	kg					23.9					
+24	Maryland	CYCLOATE	1995	kg					61.9					
+24	Maryland	CYCLOATE	1996	kg					113					
+24	Maryland	CYCLOATE	1997	kg					86.7					
+24	Maryland	CYCLOATE	1998	kg					1138.8					
+24	Maryland	CYCLOATE	1999	kg					810.9					
+24	Maryland	CYCLOATE	2000	kg					1132					
+24	Maryland	CYCLOATE	2001	kg					875.2					
+24	Maryland	CYCLOATE	2002	kg					770					
+24	Maryland	CYCLOATE	2004	kg					773					
+25	Massachusetts	CYCLOATE	1992	kg					40.2					
+25	Massachusetts	CYCLOATE	1994	kg					2					
+25	Massachusetts	CYCLOATE	1995	kg					8.6					
+25	Massachusetts	CYCLOATE	1996	kg					19					
+25	Massachusetts	CYCLOATE	1997	kg					127.3					
+25	Massachusetts	CYCLOATE	1999	kg					4.4					
+25	Massachusetts	CYCLOATE	2000	kg					8.1					
+25	Massachusetts	CYCLOATE	2001	kg					2.8					
+25	Massachusetts	CYCLOATE	2002	kg					6.9					
+25	Massachusetts	CYCLOATE	2004	kg					15					
+26	Michigan	CYCLOATE	1992	kg										61046.6
+26	Michigan	CYCLOATE	1993	kg										75296.3
+26	Michigan	CYCLOATE	1994	kg		196.9			1856.3					89772.9
+26	Michigan	CYCLOATE	1995	kg					21847.5					60037.1
+26	Michigan	CYCLOATE	1996	kg					761.9					36444.4
+26	Michigan	CYCLOATE	1997	kg					1278.9					47509.9
+26	Michigan	CYCLOATE	1998	kg										28920.7
+26	Michigan	CYCLOATE	1999	kg										17390.4
+26	Michigan	CYCLOATE	2000	kg										18220.7
+26	Michigan	CYCLOATE	2001	kg										9781.5
+26	Michigan	CYCLOATE	2002	kg										10349.6
+26	Michigan	CYCLOATE	2003	kg										3217.2
+26	Michigan	CYCLOATE	2004	kg										2867.8
+26	Michigan	CYCLOATE	2005	kg										35204.1
+26	Michigan	CYCLOATE	2006	kg										574.4
+26	Michigan	CYCLOATE	2007	kg										30963.8
+27	Minnesota	CYCLOATE	1992	kg			4484.9		124.4					108778.8
+27	Minnesota	CYCLOATE	1993	kg					666.4					149460.6
+27	Minnesota	CYCLOATE	1994	kg			36004.4		15.4					79753
+27	Minnesota	CYCLOATE	1995	kg					11.6					72468.1
+27	Minnesota	CYCLOATE	1996	kg					87.7					94436.2
+27	Minnesota	CYCLOATE	1997	kg					4.7					22316.2
+27	Minnesota	CYCLOATE	1998	kg										101809.8
+27	Minnesota	CYCLOATE	1999	kg										39686.5
+27	Minnesota	CYCLOATE	2000	kg										32445.9
+27	Minnesota	CYCLOATE	2001	kg										8947.7
+27	Minnesota	CYCLOATE	2002	kg										13120.9
+27	Minnesota	CYCLOATE	2003	kg										12053
+27	Minnesota	CYCLOATE	2004	kg										14126.6
+27	Minnesota	CYCLOATE	2005	kg										8230.2
+27	Minnesota	CYCLOATE	2006	kg										6489.7
+27	Minnesota	CYCLOATE	2007	kg										91612.4
+29	Missouri	CYCLOATE	1993	kg					569.5					
+30	Montana	CYCLOATE	1992	kg										21441.4
+30	Montana	CYCLOATE	1993	kg			40.7							25043.6
+30	Montana	CYCLOATE	1994	kg										17992.3
+30	Montana	CYCLOATE	1995	kg										8589.4
+30	Montana	CYCLOATE	1996	kg										23477.2
+30	Montana	CYCLOATE	1997	kg										6416.1
+30	Montana	CYCLOATE	1998	kg										15060.7
+30	Montana	CYCLOATE	1999	kg										7474.2
+30	Montana	CYCLOATE	2000	kg										1895.6
+30	Montana	CYCLOATE	2001	kg										9559
+30	Montana	CYCLOATE	2002	kg										6482.6
+30	Montana	CYCLOATE	2003	kg										3503
+30	Montana	CYCLOATE	2004	kg										2164.6
+30	Montana	CYCLOATE	2005	kg										2056.8
+30	Montana	CYCLOATE	2006	kg										831.7
+30	Montana	CYCLOATE	2007	kg										7850.9
+31	Nebraska	CYCLOATE	1992	kg										27301.5
+31	Nebraska	CYCLOATE	1993	kg										26120.1
+31	Nebraska	CYCLOATE	1994	kg									34.9	18281
+31	Nebraska	CYCLOATE	1995	kg										32766.5
+31	Nebraska	CYCLOATE	1996	kg										20451.8
+31	Nebraska	CYCLOATE	1997	kg										14264.2
+31	Nebraska	CYCLOATE	1998	kg										27030.7
+31	Nebraska	CYCLOATE	1999	kg										17176.1
+31	Nebraska	CYCLOATE	2000	kg										39442.2
+31	Nebraska	CYCLOATE	2001	kg										10780.8
+31	Nebraska	CYCLOATE	2002	kg										6569.6
+31	Nebraska	CYCLOATE	2003	kg										6910.6
+31	Nebraska	CYCLOATE	2004	kg										977
+31	Nebraska	CYCLOATE	2005	kg										2371.5
+31	Nebraska	CYCLOATE	2006	kg										824.9
+31	Nebraska	CYCLOATE	2007	kg										409.5
+31	Nebraska	CYCLOATE	2010	kg										2232.8
+31	Nebraska	CYCLOATE	2011	kg					0					
+31	Nebraska	CYCLOATE	2012	kg					0.2					
+31	Nebraska	CYCLOATE	2013	kg					0					
+32	Nevada	CYCLOATE	1993	kg										0
+32	Nevada	CYCLOATE	1995	kg										2.2
+32	Nevada	CYCLOATE	2013	kg					1.7					
+32	Nevada	CYCLOATE	2014	kg					0.2					
+32	Nevada	CYCLOATE	2015	kg					0.2					
+32	Nevada	CYCLOATE	2016	kg					0.2					
+32	Nevada	CYCLOATE	2017	kg					0.9					
+33	New Hampshire	CYCLOATE	1994	kg					36.8					
+33	New Hampshire	CYCLOATE	1995	kg					0.6					
+33	New Hampshire	CYCLOATE	1997	kg					35.5					
+34	New Jersey	CYCLOATE	1992	kg					1892.4					
+34	New Jersey	CYCLOATE	1994	kg					441.8					
+34	New Jersey	CYCLOATE	1995	kg					1307.1					
+34	New Jersey	CYCLOATE	1996	kg					2435.1					
+34	New Jersey	CYCLOATE	1997	kg					2920.5					
+34	New Jersey	CYCLOATE	1998	kg					77.2					
+34	New Jersey	CYCLOATE	1999	kg					216.8					
+34	New Jersey	CYCLOATE	2000	kg					694.1					
+34	New Jersey	CYCLOATE	2001	kg					258					
+34	New Jersey	CYCLOATE	2002	kg					538.5					
+34	New Jersey	CYCLOATE	2004	kg					4154.6					
+34	New Jersey	CYCLOATE	2007	kg					227.5					
+34	New Jersey	CYCLOATE	2009	kg					673.4					
+34	New Jersey	CYCLOATE	2010	kg					873.6					
+34	New Jersey	CYCLOATE	2011	kg					965.4					
+34	New Jersey	CYCLOATE	2012	kg					1287.2					
+34	New Jersey	CYCLOATE	2015	kg					419.4					
+35	New Mexico	CYCLOATE	1992	kg					3917.7					
+35	New Mexico	CYCLOATE	1993	kg					665					
+35	New Mexico	CYCLOATE	1994	kg					1778.6					
+35	New Mexico	CYCLOATE	1995	kg					2013.7					
+35	New Mexico	CYCLOATE	1996	kg					1.4					
+35	New Mexico	CYCLOATE	1997	kg					919.8					
+35	New Mexico	CYCLOATE	1999	kg					2397.1					
+35	New Mexico	CYCLOATE	2000	kg					1002.6					
+35	New Mexico	CYCLOATE	2001	kg					1249.6					
+35	New Mexico	CYCLOATE	2006	kg					1.4					
+35	New Mexico	CYCLOATE	2007	kg					0					
+35	New Mexico	CYCLOATE	2011	kg					0.6					
+35	New Mexico	CYCLOATE	2012	kg					1.3					
+35	New Mexico	CYCLOATE	2013	kg					0					
+35	New Mexico	CYCLOATE	2014	kg					0					
+35	New Mexico	CYCLOATE	2016	kg					0					
+35	New Mexico	CYCLOATE	2017	kg					0					
+36	New York	CYCLOATE	1992	kg					5006.3					
+36	New York	CYCLOATE	1993	kg					4167.6					
+36	New York	CYCLOATE	1994	kg					2768.6					
+36	New York	CYCLOATE	1995	kg					2930.8					
+36	New York	CYCLOATE	1996	kg					6579.1					
+36	New York	CYCLOATE	1997	kg					3915.2					
+36	New York	CYCLOATE	1998	kg					1426.3					
+36	New York	CYCLOATE	1999	kg					96.8					
+36	New York	CYCLOATE	2000	kg					162.7					
+36	New York	CYCLOATE	2001	kg					48.9					
+36	New York	CYCLOATE	2002	kg					117.8					
+36	New York	CYCLOATE	2004	kg					192.9					
+38	North Dakota	CYCLOATE	1992	kg			17772.4							90317.8
+38	North Dakota	CYCLOATE	1993	kg										42118.1
+38	North Dakota	CYCLOATE	1994	kg			33314.9							15864.1
+38	North Dakota	CYCLOATE	1995	kg										17586.9
+38	North Dakota	CYCLOATE	1996	kg			35386.9							27517.5
+38	North Dakota	CYCLOATE	1997	kg										24360.8
+38	North Dakota	CYCLOATE	1998	kg										15455.6
+38	North Dakota	CYCLOATE	1999	kg										18250.7
+38	North Dakota	CYCLOATE	2000	kg										19809.9
+38	North Dakota	CYCLOATE	2001	kg										10811.8
+38	North Dakota	CYCLOATE	2002	kg										10300.8
+38	North Dakota	CYCLOATE	2003	kg										12620.3
+38	North Dakota	CYCLOATE	2004	kg										8646.8
+38	North Dakota	CYCLOATE	2005	kg										11660.3
+38	North Dakota	CYCLOATE	2006	kg										5600
+38	North Dakota	CYCLOATE	2007	kg										75376.8
+39	Ohio	CYCLOATE	1992	kg					36.4					6803.3
+39	Ohio	CYCLOATE	1993	kg										4823.8
+39	Ohio	CYCLOATE	1994	kg		160.2			1678.6					6289
+39	Ohio	CYCLOATE	1995	kg					2118.4					8327.5
+39	Ohio	CYCLOATE	1996	kg					495.7					1422.3
+39	Ohio	CYCLOATE	1997	kg										671.9
+39	Ohio	CYCLOATE	1998	kg										1747
+39	Ohio	CYCLOATE	1999	kg										860.4
+39	Ohio	CYCLOATE	2000	kg										464
+39	Ohio	CYCLOATE	2001	kg										136.5
+39	Ohio	CYCLOATE	2002	kg										918.3
+39	Ohio	CYCLOATE	2003	kg										705
+39	Ohio	CYCLOATE	2004	kg										2217.5
+39	Ohio	CYCLOATE	2005	kg										6054.4
+39	Ohio	CYCLOATE	2007	kg										353
+40	Oklahoma	CYCLOATE	1994	kg					492.8					
+40	Oklahoma	CYCLOATE	1995	kg					1.4					
+40	Oklahoma	CYCLOATE	2000	kg					253.4					
+40	Oklahoma	CYCLOATE	2003	kg					466.5					
+41	Oregon	CYCLOATE	1992	kg										1388.6
+41	Oregon	CYCLOATE	1993	kg					140.8					3528.8
+41	Oregon	CYCLOATE	1994	kg			263.3		83.5					220.7
+41	Oregon	CYCLOATE	1995	kg					375.8					5365.3
+41	Oregon	CYCLOATE	1996	kg					1712.7					7546.3
+41	Oregon	CYCLOATE	1997	kg					335.2					521.9
+41	Oregon	CYCLOATE	1998	kg										3381.2
+41	Oregon	CYCLOATE	1999	kg										741.9
+41	Oregon	CYCLOATE	2000	kg										937.8
+41	Oregon	CYCLOATE	2001	kg										1207.3
+41	Oregon	CYCLOATE	2002	kg										462.2
+41	Oregon	CYCLOATE	2003	kg										310.1
+41	Oregon	CYCLOATE	2004	kg										1052.7
+41	Oregon	CYCLOATE	2005	kg										347.6
+41	Oregon	CYCLOATE	2006	kg										254.1
+41	Oregon	CYCLOATE	2007	kg										1002.4
+42	Pennsylvania	CYCLOATE	1992	kg					37					
+42	Pennsylvania	CYCLOATE	1994	kg					12.3					
+42	Pennsylvania	CYCLOATE	1995	kg					43.9					
+42	Pennsylvania	CYCLOATE	1996	kg					158.9					
+42	Pennsylvania	CYCLOATE	1997	kg					770.5					
+42	Pennsylvania	CYCLOATE	1998	kg					49					
+42	Pennsylvania	CYCLOATE	1999	kg					30.6					
+42	Pennsylvania	CYCLOATE	2000	kg					50					
+42	Pennsylvania	CYCLOATE	2001	kg					14.8					
+42	Pennsylvania	CYCLOATE	2002	kg					33.9					
+42	Pennsylvania	CYCLOATE	2004	kg					61.8					
+42	Pennsylvania	CYCLOATE	2007	kg					3.2					
+42	Pennsylvania	CYCLOATE	2009	kg					2.6					
+42	Pennsylvania	CYCLOATE	2010	kg					3.3					
+42	Pennsylvania	CYCLOATE	2011	kg					4.2					
+42	Pennsylvania	CYCLOATE	2012	kg					6.3					
+42	Pennsylvania	CYCLOATE	2015	kg					2.9					
+46	South Dakota	CYCLOATE	1992	kg			4209.1							
+46	South Dakota	CYCLOATE	1994	kg			6606						17.3	
+48	Texas	CYCLOATE	1992	kg					1718.5					
+48	Texas	CYCLOATE	1994	kg					12050.6					
+48	Texas	CYCLOATE	1995	kg					2401					
+48	Texas	CYCLOATE	1997	kg					5742.8					
+48	Texas	CYCLOATE	1998	kg					1837.3					
+48	Texas	CYCLOATE	1999	kg					861.9					
+48	Texas	CYCLOATE	2000	kg					5566.4					
+48	Texas	CYCLOATE	2001	kg					346.9					
+48	Texas	CYCLOATE	2003	kg					4192.8					
+48	Texas	CYCLOATE	2005	kg					9829.3					
+49	Utah	CYCLOATE	1992	kg			1974.5							
+49	Utah	CYCLOATE	1993	kg			11.4		73.5					25.8
+49	Utah	CYCLOATE	1994	kg	18.3		1019.2		8.6					
+49	Utah	CYCLOATE	1995	kg					1.9					1160.5
+49	Utah	CYCLOATE	2011	kg					0					
+49	Utah	CYCLOATE	2012	kg					0.1					
+49	Utah	CYCLOATE	2013	kg					0.1					
+49	Utah	CYCLOATE	2014	kg					0.1					
+50	Vermont	CYCLOATE	1992	kg					6.1					
+50	Vermont	CYCLOATE	1994	kg					9.7					
+50	Vermont	CYCLOATE	1995	kg					43.3					
+50	Vermont	CYCLOATE	1996	kg					44.6					
+50	Vermont	CYCLOATE	1997	kg					53.4					
+50	Vermont	CYCLOATE	1999	kg					10.4					
+50	Vermont	CYCLOATE	2000	kg					17.4					
+50	Vermont	CYCLOATE	2001	kg					5.6					
+50	Vermont	CYCLOATE	2002	kg					13.5					
+50	Vermont	CYCLOATE	2004	kg					26.5					
+53	Washington	CYCLOATE	1992	kg										5320.9
+53	Washington	CYCLOATE	1993	kg					2.7					3616.7
+53	Washington	CYCLOATE	1994	kg			3.1		18.5					18618.3
+53	Washington	CYCLOATE	1995	kg					195.5					4584.1
+53	Washington	CYCLOATE	1996	kg					1665.4					3982.3
+53	Washington	CYCLOATE	1997	kg					926					6525.8
+53	Washington	CYCLOATE	1998	kg										6845.7
+53	Washington	CYCLOATE	1999	kg										14967.7
+53	Washington	CYCLOATE	2000	kg										5165.9
+53	Washington	CYCLOATE	2001	kg										2462.6
+53	Washington	CYCLOATE	2002	kg										4749.4
+53	Washington	CYCLOATE	2003	kg										1252
+53	Washington	CYCLOATE	2004	kg										1597.1
+53	Washington	CYCLOATE	2005	kg										1259.8
+53	Washington	CYCLOATE	2006	kg										1731
+55	Wisconsin	CYCLOATE	1992	kg					8917.1					
+55	Wisconsin	CYCLOATE	1993	kg					9566.4					
+55	Wisconsin	CYCLOATE	1994	kg					3480.9					
+55	Wisconsin	CYCLOATE	1995	kg					5485.1					
+55	Wisconsin	CYCLOATE	1996	kg					11971.4					
+55	Wisconsin	CYCLOATE	1997	kg					5629.8					
+56	Wyoming	CYCLOATE	1992	kg										29869.4
+56	Wyoming	CYCLOATE	1993	kg			0.2							15748.5
+56	Wyoming	CYCLOATE	1994	kg									50	10312.1
+56	Wyoming	CYCLOATE	1995	kg										13992.8
+56	Wyoming	CYCLOATE	1996	kg										20792
+56	Wyoming	CYCLOATE	1997	kg										12873.1
+56	Wyoming	CYCLOATE	1998	kg										4489.4
+56	Wyoming	CYCLOATE	1999	kg										19266.2
+56	Wyoming	CYCLOATE	2000	kg										7090.3
+56	Wyoming	CYCLOATE	2001	kg										6200.7
+56	Wyoming	CYCLOATE	2002	kg										3082.5
+56	Wyoming	CYCLOATE	2003	kg										2591.4
+56	Wyoming	CYCLOATE	2004	kg										1590.4
+56	Wyoming	CYCLOATE	2005	kg										4262.5
+56	Wyoming	CYCLOATE	2006	kg										2510.4
+56	Wyoming	CYCLOATE	2007	kg										4479.7
+56	Wyoming	CYCLOATE	2010	kg										163.6
+56	Wyoming	CYCLOATE	2011	kg					0					
+56	Wyoming	CYCLOATE	2013	kg					0					

@@ -1,0 +1,727 @@
+01	Alabama	BENOMYL	1992	kg		669.4	495.4		3792.6		2134.9			488.1
+01	Alabama	BENOMYL	1993	kg		1345.5			1803.3		5746			1336.3
+01	Alabama	BENOMYL	1994	kg		309.7			824.7		4772.1		59.9	216.1
+01	Alabama	BENOMYL	1995	kg					2878.3		1164.6			1253.9
+01	Alabama	BENOMYL	1996	kg		465		5240.5	2169.3		2943.4			
+01	Alabama	BENOMYL	1997	kg		929.9			1283.3		140.3			114.7
+01	Alabama	BENOMYL	1998	kg			116.4		1814.1		8962.8			
+01	Alabama	BENOMYL	1999	kg			57.8		1080.3		1501.6			
+01	Alabama	BENOMYL	2000	kg					1829.1		796.6			
+01	Alabama	BENOMYL	2001	kg			692.1		359.7		3908			
+01	Alabama	BENOMYL	2002	kg					882.9		40.4			
+01	Alabama	BENOMYL	2003	kg					323.8		96.8			
+01	Alabama	BENOMYL	2004	kg					17.9		783.9			
+01	Alabama	BENOMYL	2005	kg							2206.8			
+01	Alabama	BENOMYL	2006	kg					1.2		660.6			
+01	Alabama	BENOMYL	2011	kg					15.1					
+04	Arizona	BENOMYL	1992	kg					503.1		165.3			
+04	Arizona	BENOMYL	1993	kg					740.7		67.2			
+04	Arizona	BENOMYL	1994	kg					1470.5		715.7			
+04	Arizona	BENOMYL	1995	kg					747.8		177.8			
+04	Arizona	BENOMYL	1996	kg					2733.2		80.3			
+04	Arizona	BENOMYL	1997	kg			75.1		2079.6		135.8			
+04	Arizona	BENOMYL	1998	kg					361.9		83.7			
+04	Arizona	BENOMYL	1999	kg					233.3		216.5			
+04	Arizona	BENOMYL	2000	kg					2124.7		123.5			
+04	Arizona	BENOMYL	2001	kg					2722.3		332.4			
+04	Arizona	BENOMYL	2002	kg					343.9		0.8			
+04	Arizona	BENOMYL	2003	kg					85.4		20			
+04	Arizona	BENOMYL	2004	kg							0			
+04	Arizona	BENOMYL	2005	kg							0			
+05	Arkansas	BENOMYL	1992	kg		10150.7	6964.5		223.9	90943.9	1800			2257
+05	Arkansas	BENOMYL	1993	kg		1539.2	8395.6		583.9	65827.2	1160.8			248.5
+05	Arkansas	BENOMYL	1994	kg		5396	113.8		363.9	102554.1	1178.6		62.7	162.1
+05	Arkansas	BENOMYL	1995	kg		2947.4	6713.5	3174.2	554.7	53849.1	1867.3		2.3	
+05	Arkansas	BENOMYL	1996	kg		1913.2	1549.3	2290.2	3503.7	35811.1	4077.9			
+05	Arkansas	BENOMYL	1997	kg		2490	4621.6	1890	159.3	21908.7	4221.4		18.9	
+05	Arkansas	BENOMYL	1998	kg					669.8	6792.8	62.8			
+05	Arkansas	BENOMYL	1999	kg			442.7		318.8	2364.3	9115.1			
+05	Arkansas	BENOMYL	2000	kg					376.7	2979.5	764.1			
+05	Arkansas	BENOMYL	2001	kg					987.1	14922	934.7			
+05	Arkansas	BENOMYL	2002	kg					571.9	1778.3	870.3			
+05	Arkansas	BENOMYL	2003	kg					87.6		549.3			
+05	Arkansas	BENOMYL	2004	kg					120.2	1872.4				
+05	Arkansas	BENOMYL	2005	kg					47.5					
+05	Arkansas	BENOMYL	2006	kg						477.9				
+05	Arkansas	BENOMYL	2007	kg					62					
+05	Arkansas	BENOMYL	2008	kg					89.8					
+05	Arkansas	BENOMYL	2009	kg					64.6					
+05	Arkansas	BENOMYL	2011	kg		1955.2								
+06	California	BENOMYL	1992	kg	22.1				17065.9		46491.5		45.3	117.9
+06	California	BENOMYL	1993	kg	0.1		2.5		66777.2		195038.1			187.9
+06	California	BENOMYL	1994	kg	1.4				9896.3		57389.6			671.1
+06	California	BENOMYL	1995	kg	16.1				13799.8		72270.6			2101.9
+06	California	BENOMYL	1996	kg			17.1		10744.7		56403.1			14.7
+06	California	BENOMYL	1997	kg	1.6				11547.2		41496.7			
+06	California	BENOMYL	1998	kg			12.2		39208.8		94644.6			
+06	California	BENOMYL	1999	kg	1.7				9403		51452.3			0.1
+06	California	BENOMYL	2000	kg	0.2				8220.5		45045.7		41.2	5.2
+06	California	BENOMYL	2001	kg	0.8				6137.7		28030.8			13.6
+06	California	BENOMYL	2002	kg					2272.8		10409.3			
+06	California	BENOMYL	2003	kg					958.8		1819.7			
+06	California	BENOMYL	2004	kg					379.3		391.3			0.1
+06	California	BENOMYL	2005	kg					259.5		93.6			
+06	California	BENOMYL	2006	kg					107.4		159.1			
+06	California	BENOMYL	2007	kg					20.8		91.6			
+06	California	BENOMYL	2008	kg					7.4		36.7			
+06	California	BENOMYL	2009	kg					0.2		25.1			
+06	California	BENOMYL	2010	kg							0			
+06	California	BENOMYL	2011	kg							0.8			
+06	California	BENOMYL	2012	kg							12			
+06	California	BENOMYL	2013	kg					1		0.3			
+06	California	BENOMYL	2014	kg					1.3					
+06	California	BENOMYL	2015	kg					0.5					
+06	California	BENOMYL	2016	kg					0.3					
+08	Colorado	BENOMYL	1992	kg					465.4		58.2			
+08	Colorado	BENOMYL	1993	kg					192.5		690.9			
+08	Colorado	BENOMYL	1994	kg					19344.4		204.5			
+08	Colorado	BENOMYL	1995	kg					81.5		285.6			
+08	Colorado	BENOMYL	1996	kg					2.5		317.6			
+08	Colorado	BENOMYL	1997	kg					1752.3		423.1			80.7
+08	Colorado	BENOMYL	1998	kg					1310.4		97.8			2577
+08	Colorado	BENOMYL	1999	kg					1073.3		187.4			1434.6
+08	Colorado	BENOMYL	2000	kg					915.1					722.4
+08	Colorado	BENOMYL	2001	kg					102.4		160.8			506.6
+08	Colorado	BENOMYL	2002	kg							15.8			104.3
+08	Colorado	BENOMYL	2003	kg					74.6		38.8			98.4
+08	Colorado	BENOMYL	2004	kg										196.9
+09	Connecticut	BENOMYL	1992	kg					46.6		138.6			
+09	Connecticut	BENOMYL	1993	kg					87.7		315.7			
+09	Connecticut	BENOMYL	1994	kg					417.5		870.7			
+09	Connecticut	BENOMYL	1995	kg					168.5		674.4			
+09	Connecticut	BENOMYL	1996	kg					272.1		419.2			
+09	Connecticut	BENOMYL	1997	kg					126.1		626.6			
+09	Connecticut	BENOMYL	1998	kg					254.9		215.8			
+09	Connecticut	BENOMYL	1999	kg					165		451.1			
+09	Connecticut	BENOMYL	2000	kg					71.5		304.5			
+09	Connecticut	BENOMYL	2001	kg					254.6		332.7			
+09	Connecticut	BENOMYL	2002	kg					57.6		140.3			
+09	Connecticut	BENOMYL	2003	kg							17.2			
+09	Connecticut	BENOMYL	2004	kg					46.3		166.2			
+09	Connecticut	BENOMYL	2006	kg					5.4		20.9			
+10	Delaware	BENOMYL	1992	kg			56		800		1			
+10	Delaware	BENOMYL	1993	kg					309		2.4			
+10	Delaware	BENOMYL	1994	kg					380.9		0.7		4.1	
+10	Delaware	BENOMYL	1995	kg					3117.1		2.6			
+10	Delaware	BENOMYL	1996	kg					4719.5		0.8		0.3	
+10	Delaware	BENOMYL	1997	kg			234.2		1754.2		2.4			
+10	Delaware	BENOMYL	1998	kg					868		1			
+10	Delaware	BENOMYL	1999	kg					2511.4		3.2			
+10	Delaware	BENOMYL	2000	kg					4074.3		1.6			
+10	Delaware	BENOMYL	2001	kg					182.5		3.2			
+10	Delaware	BENOMYL	2002	kg					796.9		0.6			
+10	Delaware	BENOMYL	2003	kg					83.8		0.7			
+10	Delaware	BENOMYL	2004	kg					12		0.4			
+12	Florida	BENOMYL	1992	kg			54.9		6769.6		11253.1		1332.6	1532.1
+12	Florida	BENOMYL	1993	kg		861.8			5230.9		36204.2			972.5
+12	Florida	BENOMYL	1994	kg		38.1			16599.3		8326.5		1442.9	196.6
+12	Florida	BENOMYL	1995	kg					34220.8		19145.6			3756.3
+12	Florida	BENOMYL	1996	kg		163.6		1460.7	39480		13412			1752.6
+12	Florida	BENOMYL	1997	kg		3098.7			13138.2		40907.5			62.9
+12	Florida	BENOMYL	1998	kg					13428.5		42537			
+12	Florida	BENOMYL	1999	kg			6.7		21369.6		43047.6			
+12	Florida	BENOMYL	2000	kg					21445		31287.2			31.6
+12	Florida	BENOMYL	2001	kg			98.4		5563.8		20908.6			
+12	Florida	BENOMYL	2002	kg					6317.6		6095.9			11.7
+12	Florida	BENOMYL	2003	kg					2971.2		5565.4			13.2
+12	Florida	BENOMYL	2004	kg					171		792.5			
+12	Florida	BENOMYL	2005	kg							994.1			
+12	Florida	BENOMYL	2006	kg					835.6		14.5			
+12	Florida	BENOMYL	2008	kg					83.1					
+12	Florida	BENOMYL	2009	kg					121.4					
+13	Georgia	BENOMYL	1992	kg		865.1	1507.1		1169.4		10844.8			2734.2
+13	Georgia	BENOMYL	1993	kg		3685			6889.9		19737.1			3525.5
+13	Georgia	BENOMYL	1994	kg		3958.5			1238.3		2321.3		413.2	540.3
+13	Georgia	BENOMYL	1995	kg					9303.1		14839.6			2156.2
+13	Georgia	BENOMYL	1996	kg		1271.7			12762.4		11647.7			
+13	Georgia	BENOMYL	1997	kg		4464.1			27178.6		10837.1			2455.3
+13	Georgia	BENOMYL	1998	kg			789.5		5005.2		1040.4			
+13	Georgia	BENOMYL	1999	kg			115.4		14586.3		1801.4			
+13	Georgia	BENOMYL	2000	kg					10194.5		312.3			
+13	Georgia	BENOMYL	2001	kg			1756.9		4103.1		3805			
+13	Georgia	BENOMYL	2002	kg					1650.1		680.7			
+13	Georgia	BENOMYL	2003	kg					2409.3		1287.8			77.3
+13	Georgia	BENOMYL	2004	kg					635.4		314.9			
+13	Georgia	BENOMYL	2005	kg					382.5		733.4			
+13	Georgia	BENOMYL	2006	kg					896.9		300.3			
+13	Georgia	BENOMYL	2008	kg					788.5					
+16	Idaho	BENOMYL	1992	kg			1673.7				5.7			821.6
+16	Idaho	BENOMYL	1993	kg			191.4		7		1.4			
+16	Idaho	BENOMYL	1994	kg					1286.1		4.3			
+16	Idaho	BENOMYL	1995	kg					11.8		354.2			
+16	Idaho	BENOMYL	1996	kg							47.9			
+16	Idaho	BENOMYL	1997	kg							259.8			
+16	Idaho	BENOMYL	1998	kg			1628.5				241.1			1080.5
+16	Idaho	BENOMYL	1999	kg					0		232.7			
+16	Idaho	BENOMYL	2000	kg					22912.4		49			
+16	Idaho	BENOMYL	2001	kg					493.4		26.3			
+16	Idaho	BENOMYL	2002	kg					758.4		16.4			
+16	Idaho	BENOMYL	2003	kg							3.2			
+16	Idaho	BENOMYL	2004	kg							122.1			
+16	Idaho	BENOMYL	2005	kg							3.4			
+17	Illinois	BENOMYL	1992	kg			5070.4		1388.8		713.5			
+17	Illinois	BENOMYL	1993	kg		2672.7			1971.9		3504.9			
+17	Illinois	BENOMYL	1994	kg					2533.3		3650.9			
+17	Illinois	BENOMYL	1995	kg					3195.8		2640.8		2.2	
+17	Illinois	BENOMYL	1996	kg		107.2	375.2		1094.1		2473.5			
+17	Illinois	BENOMYL	1997	kg			329.7		4048.2		2379.4			
+17	Illinois	BENOMYL	1998	kg					1767.3		1821.7			
+17	Illinois	BENOMYL	1999	kg					2881.2		2321.4			
+17	Illinois	BENOMYL	2000	kg					1397.7		1568.1			
+17	Illinois	BENOMYL	2001	kg					5010.5		1178.4			
+17	Illinois	BENOMYL	2002	kg					5282.3		349.6			
+17	Illinois	BENOMYL	2003	kg					125.6		67.4			
+17	Illinois	BENOMYL	2004	kg					727.7		339.5			
+17	Illinois	BENOMYL	2005	kg					52.1					
+17	Illinois	BENOMYL	2006	kg							121.1			
+17	Illinois	BENOMYL	2007	kg					54.5					
+17	Illinois	BENOMYL	2008	kg					94.2					
+17	Illinois	BENOMYL	2009	kg					26.8					
+18	Indiana	BENOMYL	1992	kg			6257.7		1155		915.9			
+18	Indiana	BENOMYL	1993	kg					2272.5		75.2			
+18	Indiana	BENOMYL	1994	kg					1505.1		433.8			
+18	Indiana	BENOMYL	1995	kg			60.4		2099.4		246.5			
+18	Indiana	BENOMYL	1996	kg			600.7		1100.1		1140.4			
+18	Indiana	BENOMYL	1997	kg			758.7		1608.7		402			
+18	Indiana	BENOMYL	1998	kg					733		632.7			
+18	Indiana	BENOMYL	1999	kg					951.2		258.6			
+18	Indiana	BENOMYL	2000	kg					468.9		290			
+18	Indiana	BENOMYL	2001	kg					1270.7		352.3			
+18	Indiana	BENOMYL	2002	kg					510.2		236.2			
+18	Indiana	BENOMYL	2003	kg					50.3		19.4			
+18	Indiana	BENOMYL	2004	kg					295.9					
+18	Indiana	BENOMYL	2005	kg					24.8					
+18	Indiana	BENOMYL	2006	kg							4.8			
+19	Iowa	BENOMYL	1992	kg			49		172.3		788			
+19	Iowa	BENOMYL	1993	kg			6.7		333.9		263.4			
+19	Iowa	BENOMYL	1994	kg			1.2		156.8		379.6			
+19	Iowa	BENOMYL	1995	kg					211.2		320.3			
+19	Iowa	BENOMYL	1996	kg			8.6		456.8		1058			
+19	Iowa	BENOMYL	1997	kg			15.2		116.9		105.2			
+19	Iowa	BENOMYL	1998	kg					241.5		297.7			
+19	Iowa	BENOMYL	1999	kg					135.8		727			
+19	Iowa	BENOMYL	2000	kg					83.3		520			
+19	Iowa	BENOMYL	2001	kg					273.1		507.7			
+19	Iowa	BENOMYL	2002	kg					256.9		238.6			
+19	Iowa	BENOMYL	2003	kg					19.1		24.5			
+19	Iowa	BENOMYL	2004	kg					52.2					
+20	Kansas	BENOMYL	1992	kg							211.4			2516.1
+20	Kansas	BENOMYL	1993	kg			350.1		108.1		674.4			
+20	Kansas	BENOMYL	1994	kg					10481.5		213.8		174.1	
+20	Kansas	BENOMYL	1995	kg							24.9			
+20	Kansas	BENOMYL	1996	kg		19275.4	850.5		2		93.3			
+20	Kansas	BENOMYL	1997	kg							131.1			
+20	Kansas	BENOMYL	1998	kg					26.9		216.3			
+20	Kansas	BENOMYL	1999	kg							303.8			
+20	Kansas	BENOMYL	2000	kg							165			
+20	Kansas	BENOMYL	2001	kg							93.8			
+20	Kansas	BENOMYL	2002	kg							65.5			
+20	Kansas	BENOMYL	2003	kg							24			
+21	Kentucky	BENOMYL	1992	kg		18.3	5348		115.2		1011			
+21	Kentucky	BENOMYL	1993	kg		510.7			389.4		248.8			
+21	Kentucky	BENOMYL	1994	kg		475.1			173.5		1025.7		96.2	
+21	Kentucky	BENOMYL	1995	kg		431.2	1921.6		405.5		242.8		1.6	
+21	Kentucky	BENOMYL	1996	kg		50.6	294		322.7		1046.6			
+21	Kentucky	BENOMYL	1997	kg		48.5	884.2		2741		1093		5.7	
+21	Kentucky	BENOMYL	1998	kg					263.9		529			
+21	Kentucky	BENOMYL	1999	kg					221.4		325			
+21	Kentucky	BENOMYL	2000	kg					190.5		774.4			
+21	Kentucky	BENOMYL	2001	kg					94.7		395.3			
+21	Kentucky	BENOMYL	2002	kg					129.3		135.4			
+21	Kentucky	BENOMYL	2003	kg					57.8		2.5			
+21	Kentucky	BENOMYL	2004	kg					25.8		82.8			
+21	Kentucky	BENOMYL	2005	kg					17.5					
+21	Kentucky	BENOMYL	2006	kg					3.5		39.2			
+21	Kentucky	BENOMYL	2007	kg					15.2					
+21	Kentucky	BENOMYL	2008	kg					39.1					
+21	Kentucky	BENOMYL	2009	kg					5.1					
+22	Louisiana	BENOMYL	1992	kg		15075.3			1076.8	19280.6	245.7			44.7
+22	Louisiana	BENOMYL	1993	kg		10294.3			721.8	14491.2	762.2		212.7	
+22	Louisiana	BENOMYL	1994	kg		3418.4			1075.5	30034	378.2			2029
+22	Louisiana	BENOMYL	1995	kg		18751.1		5524.2	1920.9	24009.8	346			
+22	Louisiana	BENOMYL	1996	kg		17317.9		7016.9	3938.6	16095.9	1274.6			
+22	Louisiana	BENOMYL	1997	kg		24251.3			314.9	3828.1	139.7			
+22	Louisiana	BENOMYL	1998	kg					100.7	7970.4				
+22	Louisiana	BENOMYL	1999	kg					101.2	3937.5	608.8			
+22	Louisiana	BENOMYL	2000	kg					139.7	2054.7	62			
+22	Louisiana	BENOMYL	2001	kg					331.9		21.8			
+22	Louisiana	BENOMYL	2002	kg					177.6		128.5			
+22	Louisiana	BENOMYL	2003	kg						254	16.9			
+22	Louisiana	BENOMYL	2004	kg					2.7	891.2				
+22	Louisiana	BENOMYL	2006	kg						278.3				
+22	Louisiana	BENOMYL	2007	kg							3.6			
+22	Louisiana	BENOMYL	2011	kg					2.7					
+23	Maine	BENOMYL	1992	kg					20.5		355.6			
+23	Maine	BENOMYL	1993	kg					27.9		672.2			
+23	Maine	BENOMYL	1994	kg					498.2		109.4			
+23	Maine	BENOMYL	1995	kg					576.6		1872.4			
+23	Maine	BENOMYL	1996	kg					33.5		128.3			
+23	Maine	BENOMYL	1997	kg					7820		613.7			
+23	Maine	BENOMYL	1998	kg					101.8		280.9			
+23	Maine	BENOMYL	1999	kg					132.5		93.1			
+23	Maine	BENOMYL	2000	kg					133.5		32.4			
+23	Maine	BENOMYL	2001	kg					109		15.1			
+23	Maine	BENOMYL	2002	kg					69.6		206.5			
+23	Maine	BENOMYL	2003	kg							50.7			
+23	Maine	BENOMYL	2004	kg					12.7		244.7			
+23	Maine	BENOMYL	2006	kg							55.9			
+24	Maryland	BENOMYL	1992	kg			255.3		1412.6		1086.8			
+24	Maryland	BENOMYL	1993	kg					536.8		524.9			
+24	Maryland	BENOMYL	1994	kg					6689.5		8779.5		0	
+24	Maryland	BENOMYL	1995	kg					2193.4		514.4			
+24	Maryland	BENOMYL	1996	kg					3089.5		322.7			
+24	Maryland	BENOMYL	1997	kg					5739.4		699.3			
+24	Maryland	BENOMYL	1998	kg					2376.6		378.2			
+24	Maryland	BENOMYL	1999	kg					1340.3		688.2			
+24	Maryland	BENOMYL	2000	kg					1991		298.9			
+24	Maryland	BENOMYL	2001	kg			113.3		3848.7		525.7			
+24	Maryland	BENOMYL	2002	kg					1414		124.5			
+24	Maryland	BENOMYL	2003	kg					88.6		115			
+24	Maryland	BENOMYL	2004	kg					84		37.2			
+24	Maryland	BENOMYL	2005	kg							40.5			
+24	Maryland	BENOMYL	2006	kg							37.8			
+25	Massachusetts	BENOMYL	1992	kg					102.9		322.2			
+25	Massachusetts	BENOMYL	1993	kg					167.2		320			
+25	Massachusetts	BENOMYL	1994	kg					614.3		872.8			
+25	Massachusetts	BENOMYL	1995	kg					105.6		142			
+25	Massachusetts	BENOMYL	1996	kg					73.7		468.1			
+25	Massachusetts	BENOMYL	1997	kg					111.8		113.5			
+25	Massachusetts	BENOMYL	1998	kg					205.1		259.5			
+25	Massachusetts	BENOMYL	1999	kg					566.3		1128.3			
+25	Massachusetts	BENOMYL	2000	kg					397.3		480.7			
+25	Massachusetts	BENOMYL	2001	kg					714.4		194.8			
+25	Massachusetts	BENOMYL	2002	kg					95.7		419.5			
+25	Massachusetts	BENOMYL	2003	kg							36.1			
+25	Massachusetts	BENOMYL	2004	kg					80.5		308.4			
+25	Massachusetts	BENOMYL	2006	kg					8.7		37.7			
+26	Michigan	BENOMYL	1992	kg					1243.6		3571.1			
+26	Michigan	BENOMYL	1993	kg					8240.2		2998.5			
+26	Michigan	BENOMYL	1994	kg					2708.5		5106.7			
+26	Michigan	BENOMYL	1995	kg			103.4		19086.5		6642.9		2.5	430.4
+26	Michigan	BENOMYL	1996	kg			847.4		6791		10056.1			
+26	Michigan	BENOMYL	1997	kg					13439.2		9336.9			491.5
+26	Michigan	BENOMYL	1998	kg					13469.3		7956.7			2321.7
+26	Michigan	BENOMYL	1999	kg					45097.5		6404.1			9394.8
+26	Michigan	BENOMYL	2000	kg					10071.4		4924.8			1816.3
+26	Michigan	BENOMYL	2001	kg					12353.7		3965.9			872
+26	Michigan	BENOMYL	2002	kg					4229.1		3073.5			50.2
+26	Michigan	BENOMYL	2003	kg					1243.4		609.7			
+26	Michigan	BENOMYL	2004	kg					3802.5					
+26	Michigan	BENOMYL	2005	kg					1623.6					151.7
+26	Michigan	BENOMYL	2006	kg					506.9					
+26	Michigan	BENOMYL	2007	kg					231.8					
+26	Michigan	BENOMYL	2008	kg					79.1					
+26	Michigan	BENOMYL	2011	kg					39.9					
+26	Michigan	BENOMYL	2012	kg					65.5					
+27	Minnesota	BENOMYL	1992	kg					18759.7		861.6			
+27	Minnesota	BENOMYL	1993	kg					396.2		264.7			
+27	Minnesota	BENOMYL	1994	kg			630.5		15239.1		2253.7			
+27	Minnesota	BENOMYL	1995	kg			3168.9		16577.6		1191.3		1719.4	862.1
+27	Minnesota	BENOMYL	1996	kg			7795.1		25904.2		1751.7			
+27	Minnesota	BENOMYL	1997	kg			440.3		3141.4		1718.8			2630
+27	Minnesota	BENOMYL	1998	kg					6593.9		353.4			3089.4
+27	Minnesota	BENOMYL	1999	kg					10699.7		266.1			5334.1
+27	Minnesota	BENOMYL	2000	kg			4543.8		7263		173.9			3198
+27	Minnesota	BENOMYL	2001	kg					6596.5		439.7			593.9
+27	Minnesota	BENOMYL	2002	kg					7999.2		336.1			1624.6
+27	Minnesota	BENOMYL	2003	kg					1967.6		35			
+27	Minnesota	BENOMYL	2004	kg					92.2					
+27	Minnesota	BENOMYL	2005	kg					7218					
+27	Minnesota	BENOMYL	2007	kg					166					
+28	Mississippi	BENOMYL	1992	kg		2869.9	1481.1		1851.4	3266.8	2119.2			145.8
+28	Mississippi	BENOMYL	1993	kg		2274.7	889.8		2386.5	2630.1	6912.4			432.7
+28	Mississippi	BENOMYL	1994	kg		1209.7	11.7		186.6	2426.8	1197		93.7	132.7
+28	Mississippi	BENOMYL	1995	kg		10070.1	424.2	357.9	5704.9	9718.4	971.5			
+28	Mississippi	BENOMYL	1996	kg		7514.7	294.9	71.7	410.4	4680.5	1349.4			
+28	Mississippi	BENOMYL	1997	kg		14102.7	140.4	740.7	1862.5	2955.8	1949.9		6.7	
+28	Mississippi	BENOMYL	1998	kg					712.8	1500.6	722.8			
+28	Mississippi	BENOMYL	1999	kg			44.3		890.8	1050.7	1468.5			
+28	Mississippi	BENOMYL	2000	kg					530.1	738.9	149.9			
+28	Mississippi	BENOMYL	2001	kg					139.4	1213.7	922.9			
+28	Mississippi	BENOMYL	2002	kg					268.1	79.6	9.4			
+28	Mississippi	BENOMYL	2003	kg					82.6		16.8			
+28	Mississippi	BENOMYL	2004	kg					5	176				
+28	Mississippi	BENOMYL	2011	kg		1368.1			54.2					
+29	Missouri	BENOMYL	1992	kg		614	8361.2		1160.8	2332.9	3139.4			245.8
+29	Missouri	BENOMYL	1993	kg		436.3	677.7		1390.5	2167.5	1467.1			
+29	Missouri	BENOMYL	1994	kg		1507.8			1404.7	3036.9	1104.9		105.5	
+29	Missouri	BENOMYL	1995	kg		1303.6	3433.6		1169	92.9	659.3		8.4	
+29	Missouri	BENOMYL	1996	kg		4275.5	622.2		398.8	840.1	802.7			
+29	Missouri	BENOMYL	1997	kg		540.5	808.6		1597	16153	1789.1		4.6	
+29	Missouri	BENOMYL	1998	kg					520	136	376			
+29	Missouri	BENOMYL	1999	kg					1299.6		1763.4			
+29	Missouri	BENOMYL	2000	kg					730	335.7	1694.8			
+29	Missouri	BENOMYL	2001	kg					920.4		911			
+29	Missouri	BENOMYL	2002	kg					419.5	83.9	211.4			
+29	Missouri	BENOMYL	2003	kg					357.7		274.4			
+29	Missouri	BENOMYL	2004	kg					634.4					
+29	Missouri	BENOMYL	2005	kg					198.9					
+29	Missouri	BENOMYL	2006	kg						82.8				
+29	Missouri	BENOMYL	2007	kg					426.1					
+29	Missouri	BENOMYL	2008	kg					665.2					
+29	Missouri	BENOMYL	2009	kg					419.5					
+30	Montana	BENOMYL	1992	kg			49.7							
+30	Montana	BENOMYL	1993	kg					1					
+30	Montana	BENOMYL	1994	kg					333.3					187.5
+30	Montana	BENOMYL	1995	kg					1.6					
+30	Montana	BENOMYL	1997	kg					1834					591.9
+30	Montana	BENOMYL	1998	kg					59.1					2071
+30	Montana	BENOMYL	1999	kg					1222.9					4243.8
+30	Montana	BENOMYL	2000	kg					904.2					2708.5
+30	Montana	BENOMYL	2001	kg					101					2826.1
+30	Montana	BENOMYL	2002	kg										648.9
+30	Montana	BENOMYL	2003	kg					203.7					
+30	Montana	BENOMYL	2006	kg										195.7
+31	Nebraska	BENOMYL	1992	kg					1332.9		3.7			1504.2
+31	Nebraska	BENOMYL	1993	kg			377		29.6		7.7			
+31	Nebraska	BENOMYL	1994	kg					16966		26.9			
+31	Nebraska	BENOMYL	1995	kg							11.3			
+31	Nebraska	BENOMYL	1996	kg					0.6		48.3			
+31	Nebraska	BENOMYL	1997	kg					6515.6		11.7			64.5
+31	Nebraska	BENOMYL	1998	kg					3682.1		24.4			1562
+31	Nebraska	BENOMYL	1999	kg					3462.8		115.4			186.3
+31	Nebraska	BENOMYL	2000	kg					3185.1		31.6			904.5
+31	Nebraska	BENOMYL	2001	kg					399.2		23.3			524.7
+31	Nebraska	BENOMYL	2002	kg							12.9			131.2
+31	Nebraska	BENOMYL	2003	kg					426.4		1.7			144.5
+31	Nebraska	BENOMYL	2004	kg										254.9
+32	Nevada	BENOMYL	1992	kg					0		2			
+32	Nevada	BENOMYL	1993	kg							1.8			
+32	Nevada	BENOMYL	1994	kg					0		3.8			
+32	Nevada	BENOMYL	1995	kg					2		1.6			
+32	Nevada	BENOMYL	1996	kg					5.2		2			
+32	Nevada	BENOMYL	1997	kg					0		8.1			
+32	Nevada	BENOMYL	1998	kg							1.1			
+32	Nevada	BENOMYL	1999	kg					0		3.9			
+32	Nevada	BENOMYL	2000	kg							0.3			
+32	Nevada	BENOMYL	2001	kg							3.9			
+32	Nevada	BENOMYL	2002	kg					55.4		0			
+32	Nevada	BENOMYL	2003	kg							0.5			
+32	Nevada	BENOMYL	2005	kg							2.3			
+32	Nevada	BENOMYL	2007	kg							1.2			
+33	New Hampshire	BENOMYL	1992	kg					7.7		116			
+33	New Hampshire	BENOMYL	1993	kg					24		74			
+33	New Hampshire	BENOMYL	1994	kg					35.3		94.5			
+33	New Hampshire	BENOMYL	1995	kg					29.2		267.8			
+33	New Hampshire	BENOMYL	1996	kg					20.9		136.4			
+33	New Hampshire	BENOMYL	1997	kg					32.5		30.7			
+33	New Hampshire	BENOMYL	1998	kg					54.1		113.4			
+33	New Hampshire	BENOMYL	1999	kg					124		304.4			
+33	New Hampshire	BENOMYL	2000	kg					94.8		220.6			
+33	New Hampshire	BENOMYL	2001	kg					151.3		54.9			
+33	New Hampshire	BENOMYL	2002	kg					22.7		197.9			
+33	New Hampshire	BENOMYL	2003	kg							17.5			
+33	New Hampshire	BENOMYL	2004	kg					16.1		161.4			
+33	New Hampshire	BENOMYL	2006	kg							38.4			
+34	New Jersey	BENOMYL	1992	kg					939.6		1270.3			
+34	New Jersey	BENOMYL	1993	kg					532		2598.4			
+34	New Jersey	BENOMYL	1994	kg					5480.4		1411.8			
+34	New Jersey	BENOMYL	1995	kg					1026.2		729.8			
+34	New Jersey	BENOMYL	1996	kg					5100.2		489.5		2.4	
+34	New Jersey	BENOMYL	1997	kg			719.8		2318		2306			
+34	New Jersey	BENOMYL	1998	kg					801.2		380.5			
+34	New Jersey	BENOMYL	1999	kg					287.9		3350.1			
+34	New Jersey	BENOMYL	2000	kg					532.5		2029.4			
+34	New Jersey	BENOMYL	2001	kg					317.3		3170.7			
+34	New Jersey	BENOMYL	2002	kg					139.4		190.9			
+34	New Jersey	BENOMYL	2003	kg							114.2			
+34	New Jersey	BENOMYL	2004	kg					126.3		101.4			
+34	New Jersey	BENOMYL	2005	kg					521.7					
+34	New Jersey	BENOMYL	2006	kg							30.7			
+34	New Jersey	BENOMYL	2007	kg							95.6			
+35	New Mexico	BENOMYL	1992	kg					23.1		450			
+35	New Mexico	BENOMYL	1993	kg					237		1631.5			
+35	New Mexico	BENOMYL	1994	kg					599.2		526.7			
+35	New Mexico	BENOMYL	1995	kg					37.8		75.4			
+35	New Mexico	BENOMYL	1996	kg					268.1		686.9			
+35	New Mexico	BENOMYL	1997	kg					64.3		1249.9	1949.8		
+35	New Mexico	BENOMYL	1998	kg					154.4		256.8			
+35	New Mexico	BENOMYL	1999	kg					1280.6		1387.5			
+35	New Mexico	BENOMYL	2000	kg					101.7		535.2			
+35	New Mexico	BENOMYL	2001	kg					143		641.6			
+35	New Mexico	BENOMYL	2002	kg					17.4		390.4			
+35	New Mexico	BENOMYL	2003	kg					0.8		207.2			
+35	New Mexico	BENOMYL	2006	kg					88.4					
+36	New York	BENOMYL	1992	kg					432.5		1310.5			
+36	New York	BENOMYL	1993	kg					468		4188.4			
+36	New York	BENOMYL	1994	kg					2914.4		16148.4			
+36	New York	BENOMYL	1995	kg					1459.3		3129.7		28.8	
+36	New York	BENOMYL	1996	kg					6198.1		5995.3			
+36	New York	BENOMYL	1997	kg					1010.8		19947.1			
+36	New York	BENOMYL	1998	kg					2704.1		3435.3			
+36	New York	BENOMYL	1999	kg					695.5		2947.4			
+36	New York	BENOMYL	2000	kg					652.3		4832.1			
+36	New York	BENOMYL	2001	kg					621.1		4144.3			
+36	New York	BENOMYL	2002	kg					654.9		4623.9			
+36	New York	BENOMYL	2003	kg					85.7		171.2			
+36	New York	BENOMYL	2004	kg					217.5		3306.7			
+36	New York	BENOMYL	2005	kg					574.3					
+36	New York	BENOMYL	2006	kg					3.3		1258.6			
+36	New York	BENOMYL	2007	kg							1235.4			
+36	New York	BENOMYL	2011	kg					10					
+37	North Carolina	BENOMYL	1992	kg		1076.5			4057.3		2433.9			914.8
+37	North Carolina	BENOMYL	1993	kg		3315.8			1366.8		2428.2			2042.3
+37	North Carolina	BENOMYL	1994	kg		1238.3			3264.6		3379.9		111.1	4285.4
+37	North Carolina	BENOMYL	1995	kg					5377.5		1649.1		15.7	447.9
+37	North Carolina	BENOMYL	1996	kg		2731.6			5686.4		2580.2			
+37	North Carolina	BENOMYL	1997	kg		4258.4			3757.9		2643.9			2422.7
+37	North Carolina	BENOMYL	1998	kg					3463.6		1714.5			
+37	North Carolina	BENOMYL	1999	kg					1353.7		2241.1			
+37	North Carolina	BENOMYL	2000	kg					12038		1009.5			
+37	North Carolina	BENOMYL	2001	kg					1809.6		1019.1			
+37	North Carolina	BENOMYL	2002	kg					1178.9		163.2			
+37	North Carolina	BENOMYL	2003	kg					1276.8		106.3			
+37	North Carolina	BENOMYL	2004	kg					106.7		127.5			
+37	North Carolina	BENOMYL	2005	kg					14.3					
+37	North Carolina	BENOMYL	2006	kg							222.3			
+37	North Carolina	BENOMYL	2009	kg					100.1					
+37	North Carolina	BENOMYL	2010	kg					29.8					
+37	North Carolina	BENOMYL	2011	kg					53.8					
+37	North Carolina	BENOMYL	2012	kg					48.5					
+38	North Dakota	BENOMYL	1993	kg					468.6					
+38	North Dakota	BENOMYL	1994	kg					35389.5					83.4
+38	North Dakota	BENOMYL	1995	kg			838		7177				2251.4	336.7
+38	North Dakota	BENOMYL	1996	kg			25186.6		50174.9					
+38	North Dakota	BENOMYL	1997	kg			24755.5		53740.4					4475.4
+38	North Dakota	BENOMYL	1998	kg					23485.8					4554.7
+38	North Dakota	BENOMYL	1999	kg					16325.8					9516.2
+38	North Dakota	BENOMYL	2000	kg			6192.2		19135.2					2303.7
+38	North Dakota	BENOMYL	2001	kg			8104.6		3195.6					3438.8
+38	North Dakota	BENOMYL	2002	kg					12120.7					801.6
+38	North Dakota	BENOMYL	2003	kg					3348					
+38	North Dakota	BENOMYL	2005	kg					46506.8					
+38	North Dakota	BENOMYL	2007	kg					654.4					
+39	Ohio	BENOMYL	1992	kg			7599.7		775.9		1651.1			192.3
+39	Ohio	BENOMYL	1993	kg					2118.2		1499.9			
+39	Ohio	BENOMYL	1994	kg					910.6		2591.8		25.1	
+39	Ohio	BENOMYL	1995	kg					1315.4		813.5			
+39	Ohio	BENOMYL	1996	kg			664.8		4318.3		1473.8			
+39	Ohio	BENOMYL	1997	kg			1631.3		2041		3457.5			99.9
+39	Ohio	BENOMYL	1998	kg					2344.9		4442.9			15.1
+39	Ohio	BENOMYL	1999	kg					643.3		2047.2			114.3
+39	Ohio	BENOMYL	2000	kg					590.4		1867.1			67.2
+39	Ohio	BENOMYL	2001	kg					975.1		999.1			22.3
+39	Ohio	BENOMYL	2002	kg					925.6		715			
+39	Ohio	BENOMYL	2003	kg					601		117.6			
+39	Ohio	BENOMYL	2004	kg					165.3		46.9			
+39	Ohio	BENOMYL	2005	kg					6.5					
+39	Ohio	BENOMYL	2006	kg							139.7			
+39	Ohio	BENOMYL	2007	kg					69.2		218.9			
+40	Oklahoma	BENOMYL	1992	kg		634.3	37.4		19.9		1839.3		0.8	5636.1
+40	Oklahoma	BENOMYL	1993	kg		67.1			680		3407.9			100.1
+40	Oklahoma	BENOMYL	1994	kg					4793.4		2277		439.3	2907.9
+40	Oklahoma	BENOMYL	1995	kg				92.6	3299		871.7			
+40	Oklahoma	BENOMYL	1996	kg		9685.1	5.5	215	10.1		370.5			
+40	Oklahoma	BENOMYL	1997	kg							3174.3			
+40	Oklahoma	BENOMYL	1998	kg					912.6		2132.7			
+40	Oklahoma	BENOMYL	1999	kg					77.6		5164.5			
+40	Oklahoma	BENOMYL	2000	kg							2135.6			
+40	Oklahoma	BENOMYL	2001	kg							2482			
+40	Oklahoma	BENOMYL	2002	kg					49.5		743.1			
+40	Oklahoma	BENOMYL	2003	kg			191.2				183.9			
+40	Oklahoma	BENOMYL	2004	kg					3.9					
+40	Oklahoma	BENOMYL	2005	kg										117.7
+40	Oklahoma	BENOMYL	2006	kg					0.2					
+40	Oklahoma	BENOMYL	2007	kg							145.6			
+41	Oregon	BENOMYL	1992	kg			944.8		1718		2637.6			89.6
+41	Oregon	BENOMYL	1993	kg			2500		284.5		3474.1			
+41	Oregon	BENOMYL	1994	kg			4126.9		1838.9		4204			
+41	Oregon	BENOMYL	1995	kg					685.6		1291		21.7	
+41	Oregon	BENOMYL	1996	kg			11006.3		1403.1		2638.7			
+41	Oregon	BENOMYL	1997	kg			173.5		2225.7		3807.4			
+41	Oregon	BENOMYL	1998	kg			3224		1160.1		5979.3			92.9
+41	Oregon	BENOMYL	1999	kg					368.9		2546.5			353.4
+41	Oregon	BENOMYL	2000	kg					224.4		1402			
+41	Oregon	BENOMYL	2001	kg					652.7		1552.8			
+41	Oregon	BENOMYL	2002	kg					656.8		140.3			
+41	Oregon	BENOMYL	2003	kg					5.5		89			
+41	Oregon	BENOMYL	2004	kg							189.3			
+41	Oregon	BENOMYL	2005	kg							110.3			
+42	Pennsylvania	BENOMYL	1992	kg					384.5		6610.8			
+42	Pennsylvania	BENOMYL	1993	kg					1051.1		3650.5			
+42	Pennsylvania	BENOMYL	1994	kg					3879.6		4046			
+42	Pennsylvania	BENOMYL	1995	kg					2261.7		2702.2			
+42	Pennsylvania	BENOMYL	1996	kg			997.3		4236.6		1984.8		2.7	
+42	Pennsylvania	BENOMYL	1997	kg			856.1		1858.3		4604.4			
+42	Pennsylvania	BENOMYL	1998	kg					2504.7		3115			
+42	Pennsylvania	BENOMYL	1999	kg					837.3		4066.2			
+42	Pennsylvania	BENOMYL	2000	kg					4888.5		4638.1			
+42	Pennsylvania	BENOMYL	2001	kg					2064.4		3469.1			
+42	Pennsylvania	BENOMYL	2002	kg					1917.7		1677.1			
+42	Pennsylvania	BENOMYL	2003	kg					200.5		1077.6			
+42	Pennsylvania	BENOMYL	2004	kg					320.6		1118.2			
+42	Pennsylvania	BENOMYL	2005	kg					263.9		447.2			
+42	Pennsylvania	BENOMYL	2006	kg							510.6			
+42	Pennsylvania	BENOMYL	2011	kg					53					
+44	Rhode Island	BENOMYL	1992	kg					4.3		16			
+44	Rhode Island	BENOMYL	1993	kg					14.4		31.2			
+44	Rhode Island	BENOMYL	1994	kg					133.7		42.8			
+44	Rhode Island	BENOMYL	1995	kg					22.6		37.3			
+44	Rhode Island	BENOMYL	1996	kg					24.5		147.8			
+44	Rhode Island	BENOMYL	1997	kg					14.6		34			
+44	Rhode Island	BENOMYL	1998	kg					29		17.8			
+44	Rhode Island	BENOMYL	1999	kg					49.7		77.2			
+44	Rhode Island	BENOMYL	2000	kg					32.5		33.9			
+44	Rhode Island	BENOMYL	2001	kg					63.4		15.1			
+44	Rhode Island	BENOMYL	2002	kg					11.1		27.4			
+44	Rhode Island	BENOMYL	2003	kg							2.6			
+44	Rhode Island	BENOMYL	2004	kg					8.2		25.3			
+44	Rhode Island	BENOMYL	2006	kg					0.9		7			
+45	South Carolina	BENOMYL	1992	kg		646.6			1384.4		2751.1			98.1
+45	South Carolina	BENOMYL	1993	kg		1865.1			240.5		3619.6			108.2
+45	South Carolina	BENOMYL	1994	kg		1525.3			1149.6		5261.4			
+45	South Carolina	BENOMYL	1995	kg					1224.3		7027.5			108.1
+45	South Carolina	BENOMYL	1996	kg		1702.1			2413.7		2810.1			
+45	South Carolina	BENOMYL	1997	kg		3444.5			1506.8		5399.7			86.9
+45	South Carolina	BENOMYL	1998	kg					2213.1		3825			
+45	South Carolina	BENOMYL	1999	kg					681.8		4230.4			
+45	South Carolina	BENOMYL	2000	kg					4529.9		283.7			
+45	South Carolina	BENOMYL	2001	kg					1117.2		4263.4			
+45	South Carolina	BENOMYL	2002	kg					494.5		490.3			
+45	South Carolina	BENOMYL	2003	kg					122		811.5			
+45	South Carolina	BENOMYL	2004	kg					74.2		27.6			
+45	South Carolina	BENOMYL	2005	kg					59.8					
+45	South Carolina	BENOMYL	2006	kg					78.3					
+45	South Carolina	BENOMYL	2009	kg					325.6					
+45	South Carolina	BENOMYL	2010	kg					103.6					
+45	South Carolina	BENOMYL	2011	kg					165.7					
+45	South Carolina	BENOMYL	2012	kg					159.8					
+46	South Dakota	BENOMYL	1992	kg					7.9					
+46	South Dakota	BENOMYL	1994	kg					855.1					
+46	South Dakota	BENOMYL	1997	kg					2969.6					
+46	South Dakota	BENOMYL	1998	kg					474.8					
+46	South Dakota	BENOMYL	1999	kg					402.2					
+46	South Dakota	BENOMYL	2000	kg					361.3					
+46	South Dakota	BENOMYL	2001	kg					38.6					
+46	South Dakota	BENOMYL	2003	kg					37.3					
+47	Tennessee	BENOMYL	1992	kg		383.3	2287.8		1637.6	32.6	1364.6			110.1
+47	Tennessee	BENOMYL	1993	kg		994.8	1186.9		510.2	29.3	1356.4			
+47	Tennessee	BENOMYL	1994	kg		1126.2	16.7		370.9	43.4	4691.4		279.8	
+47	Tennessee	BENOMYL	1995	kg		3689.9	2898.5	797.4	415.8	10.3	276.1		0.9	
+47	Tennessee	BENOMYL	1996	kg		504.2	304.2		784	5.7	917.1			
+47	Tennessee	BENOMYL	1997	kg		345	1809.7	257.6	4857	1327.4	784.3		12.5	
+47	Tennessee	BENOMYL	1998	kg					946.1	3.3	1435.5			
+47	Tennessee	BENOMYL	1999	kg			58.7		306.3	1.3	978.4			
+47	Tennessee	BENOMYL	2000	kg					636.4	1.8	824.3			
+47	Tennessee	BENOMYL	2001	kg					85.9	7.5	842.1			
+47	Tennessee	BENOMYL	2002	kg					187.7	0.6	21.9			
+47	Tennessee	BENOMYL	2003	kg					102.2		96.7			
+47	Tennessee	BENOMYL	2004	kg					41.3	1.4	55			
+47	Tennessee	BENOMYL	2005	kg					16.1					
+47	Tennessee	BENOMYL	2006	kg					11.7	0.5	27.5			
+47	Tennessee	BENOMYL	2007	kg					20.5					
+47	Tennessee	BENOMYL	2008	kg					138.5					
+47	Tennessee	BENOMYL	2009	kg					7					
+48	Texas	BENOMYL	1992	kg		1974.8			1564.4	39038.7	13184.2		20.2	6889.5
+48	Texas	BENOMYL	1993	kg		1229.5			4376	13428.7	23252.2		189.5	234
+48	Texas	BENOMYL	1994	kg		34510.5			9418.8	23169.4	4189.4			
+48	Texas	BENOMYL	1995	kg				445.4	4741.7	20559.3	4064.2			
+48	Texas	BENOMYL	1996	kg		610.9		2326	3393.5	15430.5	1390.3			333.8
+48	Texas	BENOMYL	1997	kg		230.3			8812.7	6198.9	13834.7	1070.1		
+48	Texas	BENOMYL	1998	kg					1753.5	1706.9	14441.5			
+48	Texas	BENOMYL	1999	kg					518	217.2	12902.5			
+48	Texas	BENOMYL	2000	kg					739.1	1658	11698.9			
+48	Texas	BENOMYL	2001	kg						394.1	4300.9			
+48	Texas	BENOMYL	2002	kg					821.4		4515.2			
+48	Texas	BENOMYL	2003	kg			3099.2				1629.5			
+48	Texas	BENOMYL	2004	kg					81.6	356.2	236.4			
+48	Texas	BENOMYL	2005	kg							215.1			383
+48	Texas	BENOMYL	2006	kg					1412.7	222.2				
+48	Texas	BENOMYL	2007	kg							712.9			
+49	Utah	BENOMYL	1992	kg							308.1			
+49	Utah	BENOMYL	1993	kg					14.6		39.3			
+49	Utah	BENOMYL	1994	kg					99.6		423.3			
+49	Utah	BENOMYL	1995	kg					23.5		162.5			
+49	Utah	BENOMYL	1996	kg							412.6			
+49	Utah	BENOMYL	1997	kg							337.1			
+49	Utah	BENOMYL	1998	kg							2.2			
+49	Utah	BENOMYL	1999	kg					1.4		4.9			
+49	Utah	BENOMYL	2000	kg					39.6					
+49	Utah	BENOMYL	2001	kg							4.7			
+49	Utah	BENOMYL	2002	kg					1.2		32.5			
+49	Utah	BENOMYL	2003	kg							0.5			
+50	Vermont	BENOMYL	1992	kg					14.2		147.3			
+50	Vermont	BENOMYL	1993	kg					21.1		23.2			
+50	Vermont	BENOMYL	1994	kg					39.1		203.7			
+50	Vermont	BENOMYL	1995	kg					29.5		22.1			
+50	Vermont	BENOMYL	1996	kg					1688.7		4671.4			
+50	Vermont	BENOMYL	1997	kg					36.3		74.9			
+50	Vermont	BENOMYL	1998	kg					45.8		88.3			
+50	Vermont	BENOMYL	1999	kg					96.9		379.8			
+50	Vermont	BENOMYL	2000	kg					84		545.5			
+50	Vermont	BENOMYL	2001	kg					89.5		51.8			
+50	Vermont	BENOMYL	2002	kg					21.9		264.5			
+50	Vermont	BENOMYL	2003	kg							21.4			
+50	Vermont	BENOMYL	2004	kg					11.7		233.6			
+50	Vermont	BENOMYL	2006	kg							59.3			
+51	Virginia	BENOMYL	1992	kg		208.4	874.4		2547.1		7493.5			567.8
+51	Virginia	BENOMYL	1993	kg		706.4			358.1		5539.2			1382.1
+51	Virginia	BENOMYL	1994	kg		256.2			791		5356.3		139.2	2693.3
+51	Virginia	BENOMYL	1995	kg					1994.8		2573.9		17.7	299.9
+51	Virginia	BENOMYL	1996	kg		547.9			5419.5		6042			
+51	Virginia	BENOMYL	1997	kg		780.9			1397.8		4195			1792.6
+51	Virginia	BENOMYL	1998	kg					1195.3		3404.3			
+51	Virginia	BENOMYL	1999	kg					428.1		5534.4			
+51	Virginia	BENOMYL	2000	kg					3414.2		4793.1			
+51	Virginia	BENOMYL	2001	kg			419.8		138.5		3996.6			
+51	Virginia	BENOMYL	2002	kg					170.6		661.4			
+51	Virginia	BENOMYL	2003	kg					118.4		95.6			
+51	Virginia	BENOMYL	2004	kg					3.1		93.6			
+51	Virginia	BENOMYL	2006	kg							23.6			
+53	Washington	BENOMYL	1992	kg			3504.6		843.8		131.5			
+53	Washington	BENOMYL	1993	kg			1453.5		124.9		36.3			
+53	Washington	BENOMYL	1994	kg			49.9		642.3		14.6			
+53	Washington	BENOMYL	1995	kg					559.3		18087.1		4	
+53	Washington	BENOMYL	1996	kg			117.9		434.8		1223.1			
+53	Washington	BENOMYL	1997	kg			1.8		151.1		10283.8			
+53	Washington	BENOMYL	1998	kg			3975.9		656		5107.8			
+53	Washington	BENOMYL	1999	kg					1946.3		17726.5			
+53	Washington	BENOMYL	2000	kg					99.3		642.3			
+53	Washington	BENOMYL	2001	kg					303.2		1030.1			
+53	Washington	BENOMYL	2002	kg							677.1			
+53	Washington	BENOMYL	2003	kg					2.8		5343.8			
+53	Washington	BENOMYL	2004	kg							3386.5			
+53	Washington	BENOMYL	2005	kg							6255.2			
+54	West Virginia	BENOMYL	1992	kg							2037			
+54	West Virginia	BENOMYL	1993	kg					22.2		1605.7			
+54	West Virginia	BENOMYL	1994	kg					247		4113.7		9.3	
+54	West Virginia	BENOMYL	1995	kg					47.9		1215.9			
+54	West Virginia	BENOMYL	1996	kg					145.2		456.8			
+54	West Virginia	BENOMYL	1997	kg					30.9		881.8			
+54	West Virginia	BENOMYL	1998	kg					56.4		1342.6			
+54	West Virginia	BENOMYL	1999	kg					32.6		301.6			
+54	West Virginia	BENOMYL	2000	kg					88		2115.6			
+54	West Virginia	BENOMYL	2001	kg					36.2		453			
+54	West Virginia	BENOMYL	2002	kg					43.2		98.5			
+54	West Virginia	BENOMYL	2003	kg					6.6		206.7			
+54	West Virginia	BENOMYL	2004	kg					0.1		321			
+54	West Virginia	BENOMYL	2005	kg					0					
+54	West Virginia	BENOMYL	2006	kg							73.5			
+54	West Virginia	BENOMYL	2007	kg							13.4			
+55	Wisconsin	BENOMYL	1992	kg					2387.1		1488.8			
+55	Wisconsin	BENOMYL	1993	kg					7243.1		1529.9			
+55	Wisconsin	BENOMYL	1994	kg					10132.3		624.2			
+55	Wisconsin	BENOMYL	1995	kg			54		3097.2		484.5		0.1	
+55	Wisconsin	BENOMYL	1996	kg					3459.5		1172.9			
+55	Wisconsin	BENOMYL	1997	kg					6956.7		2436.4			
+55	Wisconsin	BENOMYL	1998	kg					6155.4		1320.6			
+55	Wisconsin	BENOMYL	1999	kg					9846.3		458.9			
+55	Wisconsin	BENOMYL	2000	kg					4555.8		1245			
+55	Wisconsin	BENOMYL	2001	kg					10853		859.4			
+55	Wisconsin	BENOMYL	2002	kg					6080.1		859.6			
+55	Wisconsin	BENOMYL	2003	kg					886.6		337.6			
+55	Wisconsin	BENOMYL	2004	kg					89.4		1866.3			
+55	Wisconsin	BENOMYL	2006	kg					187.5					
+55	Wisconsin	BENOMYL	2007	kg					963.4					
+55	Wisconsin	BENOMYL	2011	kg					135.8					
+56	Wyoming	BENOMYL	1992	kg					88.6					
+56	Wyoming	BENOMYL	1994	kg					226.4					
+56	Wyoming	BENOMYL	1997	kg					638					16.8
+56	Wyoming	BENOMYL	1998	kg					449.4					882.4
+56	Wyoming	BENOMYL	1999	kg					394.5					2589.3
+56	Wyoming	BENOMYL	2000	kg					378.3					1360.2
+56	Wyoming	BENOMYL	2001	kg					42.3					116.6
+56	Wyoming	BENOMYL	2002	kg										341.1
+56	Wyoming	BENOMYL	2003	kg					44.8					12.1
+56	Wyoming	BENOMYL	2004	kg										23.2
+56	Wyoming	BENOMYL	2006	kg										227.2

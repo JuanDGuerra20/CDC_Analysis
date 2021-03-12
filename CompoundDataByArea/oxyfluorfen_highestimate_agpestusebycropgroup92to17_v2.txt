@@ -1,0 +1,939 @@
+01	Alabama	OXYFLUORFEN	1992	kg				111.2	270.9					
+01	Alabama	OXYFLUORFEN	1993	kg										74.2
+01	Alabama	OXYFLUORFEN	1994	kg				799.9	1.1					922.6
+01	Alabama	OXYFLUORFEN	1995	kg				813	164.2					2601
+01	Alabama	OXYFLUORFEN	1996	kg					3.4					
+01	Alabama	OXYFLUORFEN	1997	kg	271.7									
+01	Alabama	OXYFLUORFEN	2001	kg					2.7					
+01	Alabama	OXYFLUORFEN	2004	kg					9.8					
+01	Alabama	OXYFLUORFEN	2006	kg					0.4					
+01	Alabama	OXYFLUORFEN	2007	kg					0.4					
+01	Alabama	OXYFLUORFEN	2016	kg				2018.2						
+04	Arizona	OXYFLUORFEN	1992	kg					95.7		1753.2		500.1	
+04	Arizona	OXYFLUORFEN	1993	kg					360.4		3227		522.3	
+04	Arizona	OXYFLUORFEN	1994	kg					225.2		3952.1		700.6	
+04	Arizona	OXYFLUORFEN	1995	kg					2066.3		1425.3		1369	
+04	Arizona	OXYFLUORFEN	1996	kg				573	653.4		1492.1		223.4	
+04	Arizona	OXYFLUORFEN	1997	kg				1747.1	1040.8		2392		420.4	
+04	Arizona	OXYFLUORFEN	1998	kg				11680.3	642.1		3615.3			
+04	Arizona	OXYFLUORFEN	1999	kg				25307.9	973.5		6928.9			
+04	Arizona	OXYFLUORFEN	2000	kg				11356.5	1104.5		4015.2			
+04	Arizona	OXYFLUORFEN	2001	kg				1468.8	1334.4		2290.8			
+04	Arizona	OXYFLUORFEN	2002	kg				2564.3	1495.8		2987			
+04	Arizona	OXYFLUORFEN	2003	kg				3140.3	759.3		2897.2			
+04	Arizona	OXYFLUORFEN	2004	kg				1271.6	631.5		2779			
+04	Arizona	OXYFLUORFEN	2005	kg					634.9		2766.9			
+04	Arizona	OXYFLUORFEN	2006	kg				2098	656.8		3112.4			
+04	Arizona	OXYFLUORFEN	2007	kg					1221.1		3376.4			
+04	Arizona	OXYFLUORFEN	2008	kg					2053.1		702.9			
+04	Arizona	OXYFLUORFEN	2009	kg				435	3897.4		1098.3			
+04	Arizona	OXYFLUORFEN	2010	kg				4905	3804.8		845.9			
+04	Arizona	OXYFLUORFEN	2011	kg				5628.8	3944.4		1078.6			
+04	Arizona	OXYFLUORFEN	2012	kg				533.1	2850.1		1335.3			
+04	Arizona	OXYFLUORFEN	2013	kg				7402.3	1641.3		1099.9			
+04	Arizona	OXYFLUORFEN	2014	kg				936.1	2620.2		7822.7			
+04	Arizona	OXYFLUORFEN	2015	kg				8.7	1188.9		1309.6			
+04	Arizona	OXYFLUORFEN	2016	kg				350.2	2341.5		1137			
+04	Arizona	OXYFLUORFEN	2017	kg				29724	461.1		882.5			
+05	Arkansas	OXYFLUORFEN	1992	kg		38.6		4193.8						
+05	Arkansas	OXYFLUORFEN	1993	kg				575.8			9			
+05	Arkansas	OXYFLUORFEN	1994	kg		80.4		3575.4						
+05	Arkansas	OXYFLUORFEN	1995	kg				1323.2						
+05	Arkansas	OXYFLUORFEN	1996	kg		160		22037.6			13.5			
+05	Arkansas	OXYFLUORFEN	1997	kg		660.5		332.5						
+05	Arkansas	OXYFLUORFEN	1998	kg				31.6						
+05	Arkansas	OXYFLUORFEN	1999	kg				7037.7						
+05	Arkansas	OXYFLUORFEN	2000	kg		17945.6		4332.8						
+05	Arkansas	OXYFLUORFEN	2001	kg		705.9		11307.1						
+05	Arkansas	OXYFLUORFEN	2002	kg				491.6						
+05	Arkansas	OXYFLUORFEN	2003	kg				2035.1						
+05	Arkansas	OXYFLUORFEN	2004	kg					0					
+05	Arkansas	OXYFLUORFEN	2005	kg				2137.1						
+05	Arkansas	OXYFLUORFEN	2007	kg				1107.7						
+05	Arkansas	OXYFLUORFEN	2008	kg				933.3						
+05	Arkansas	OXYFLUORFEN	2011	kg				11674.7						
+05	Arkansas	OXYFLUORFEN	2012	kg	9765.4			18719.4						
+05	Arkansas	OXYFLUORFEN	2013	kg	7773	29586.5		3091.2						
+05	Arkansas	OXYFLUORFEN	2014	kg	4609.8	8265.9								218.6
+05	Arkansas	OXYFLUORFEN	2015	kg	817.5	526.6		588.1						
+05	Arkansas	OXYFLUORFEN	2016	kg	826.1	2181		3122.9						
+05	Arkansas	OXYFLUORFEN	2017	kg	975.7	54193.6		4830.7						
+06	California	OXYFLUORFEN	1992	kg	17.1		71.9	12291.4	7973.5	0.6	120886.4	0.5	23.1	1153.8
+06	California	OXYFLUORFEN	1993	kg	34.6		167.6	22062.8	18304.8	0.9	132984.8	6.2	2.4	3703.4
+06	California	OXYFLUORFEN	1994	kg	13.2		53	15660	12063.1	6	121957.9		8.4	3301.2
+06	California	OXYFLUORFEN	1995	kg	6.5		69.5	23116.2	14006	32.8	115450.4		7.3	5194.2
+06	California	OXYFLUORFEN	1996	kg	19.3		249.9	27606.3	13116.4	41.4	146712.8	2.7	3.8	2198.8
+06	California	OXYFLUORFEN	1997	kg	55.9		162.8	22743.9	14782.1		166098.8	5.2	12.2	2203.5
+06	California	OXYFLUORFEN	1998	kg	680.5		1144.8	23368.4	20661.9	37.9	170377.2	322.5	13.1	3266.6
+06	California	OXYFLUORFEN	1999	kg	425.4		103.6	13425.5	19032.8	4.1	186894.1	175.2	7.1	2262.8
+06	California	OXYFLUORFEN	2000	kg	396.3		61.9	17803.6	16177.2	33	166189.3	286.9	28.9	3276.6
+06	California	OXYFLUORFEN	2001	kg	152.7		83.5	12232.6	14029.5	22.7	125876.5	148.7	29.6	2864.3
+06	California	OXYFLUORFEN	2002	kg	87.3		38	13038.2	14665.5	9.5	148897.4	26.4	23.7	4059
+06	California	OXYFLUORFEN	2003	kg	80		82.4	18852.6	19257.2	23.7	163453.6	101.1	17.2	4241.6
+06	California	OXYFLUORFEN	2004	kg	63.7		109.1	17628.5	21146.3	11.5	223072.2	0.5	17.2	5841.9
+06	California	OXYFLUORFEN	2005	kg	179.2		65.6	30086.8	24126.8	15.1	211106.1		0.2	5526.7
+06	California	OXYFLUORFEN	2006	kg	91.6		14.3	25682.6	25561.8	6.4	251975.8	241.9	47.6	8242.1
+06	California	OXYFLUORFEN	2007	kg	101.3		3.8	15479.1	21710	14.3	247404.9	5.8	7.6	6287.6
+06	California	OXYFLUORFEN	2008	kg	135.7		6.1	11266.8	27955.5	1.2	243193	26.4	3	40.8
+06	California	OXYFLUORFEN	2009	kg	147.2		148.1	6160.1	31376	1.5	230658.7	144.1	2.3	114.3
+06	California	OXYFLUORFEN	2010	kg	526.3		140.7	9412.7	27782.7	13	200478.7	25.2	53.8	317.8
+06	California	OXYFLUORFEN	2011	kg	680.3		171.1	10640.7	34589.2	6.8	270390.7	278.7	33.5	169.9
+06	California	OXYFLUORFEN	2012	kg	219.6		73	9400	32252.4	16.8	219167.8	45.6	30.1	56.6
+06	California	OXYFLUORFEN	2013	kg	845.7		141	9582.9	32113.1	2.3	285153.1	353.2	95.8	72.5
+06	California	OXYFLUORFEN	2014	kg	57.3		73.5	6595.8	30395.5	6.4	250728.4	260.7	41.7	118.3
+06	California	OXYFLUORFEN	2015	kg	221.4		119.1	8100.4	29295.1	21.3	321864.3	115.6	74.8	402
+06	California	OXYFLUORFEN	2016	kg	472.2	0.6	154.7	9073.5	30993.1	43.4	329576.8	297	43.9	198.3
+06	California	OXYFLUORFEN	2017	kg	564.4		33.4	9619	27843.2	11.3	283786.5	8.6	40.5	466.6
+08	Colorado	OXYFLUORFEN	1992	kg					233.6					
+08	Colorado	OXYFLUORFEN	1993	kg					4.6		381.5			
+08	Colorado	OXYFLUORFEN	1994	kg					1427.1					
+08	Colorado	OXYFLUORFEN	1995	kg					565.2		186			
+08	Colorado	OXYFLUORFEN	1996	kg					1753.1		361.7			
+08	Colorado	OXYFLUORFEN	1997	kg					1184.6		89.4			
+08	Colorado	OXYFLUORFEN	1998	kg					2114		3.3			
+08	Colorado	OXYFLUORFEN	1999	kg					2234.8		165.7			
+08	Colorado	OXYFLUORFEN	2000	kg					1603.1		167.5			
+08	Colorado	OXYFLUORFEN	2001	kg					1928.4		114.7			
+08	Colorado	OXYFLUORFEN	2002	kg					1102.7		213.9			
+08	Colorado	OXYFLUORFEN	2003	kg					1766.8		29.4			
+08	Colorado	OXYFLUORFEN	2004	kg					1091.1		106			
+08	Colorado	OXYFLUORFEN	2005	kg					1245.4		210.3			
+08	Colorado	OXYFLUORFEN	2006	kg					1532.4		46.6			
+08	Colorado	OXYFLUORFEN	2007	kg					1154.1		57.9			
+08	Colorado	OXYFLUORFEN	2008	kg					1108.6		284.2			
+08	Colorado	OXYFLUORFEN	2009	kg					393.5		113			
+08	Colorado	OXYFLUORFEN	2010	kg					722.8		37			
+08	Colorado	OXYFLUORFEN	2011	kg					397		119.7			
+08	Colorado	OXYFLUORFEN	2012	kg					643.2		104.3			
+08	Colorado	OXYFLUORFEN	2013	kg					810.1		44.7			
+08	Colorado	OXYFLUORFEN	2014	kg					342.7		8.6			
+08	Colorado	OXYFLUORFEN	2015	kg					275.4		22.3			
+08	Colorado	OXYFLUORFEN	2016	kg					56.4					
+08	Colorado	OXYFLUORFEN	2017	kg					54.6					
+09	Connecticut	OXYFLUORFEN	1992	kg					291					
+09	Connecticut	OXYFLUORFEN	1993	kg					3.7					
+09	Connecticut	OXYFLUORFEN	1994	kg					0.2					
+09	Connecticut	OXYFLUORFEN	1995	kg					1.5					
+09	Connecticut	OXYFLUORFEN	1996	kg					15.4					
+09	Connecticut	OXYFLUORFEN	1997	kg					30.4					
+09	Connecticut	OXYFLUORFEN	1998	kg					25.8					
+09	Connecticut	OXYFLUORFEN	1999	kg					11.7					
+09	Connecticut	OXYFLUORFEN	2000	kg					26					
+09	Connecticut	OXYFLUORFEN	2001	kg					34.7					
+09	Connecticut	OXYFLUORFEN	2002	kg					13.2					
+09	Connecticut	OXYFLUORFEN	2003	kg					39.1					
+09	Connecticut	OXYFLUORFEN	2004	kg					23.6					
+09	Connecticut	OXYFLUORFEN	2005	kg					5.6					
+09	Connecticut	OXYFLUORFEN	2006	kg					0.3					
+09	Connecticut	OXYFLUORFEN	2007	kg					16.9					
+09	Connecticut	OXYFLUORFEN	2008	kg					1.9					
+09	Connecticut	OXYFLUORFEN	2009	kg					6.1					
+09	Connecticut	OXYFLUORFEN	2010	kg					0.2					
+09	Connecticut	OXYFLUORFEN	2011	kg					1.3					
+09	Connecticut	OXYFLUORFEN	2012	kg					1.1					
+09	Connecticut	OXYFLUORFEN	2013	kg					1.7					
+09	Connecticut	OXYFLUORFEN	2014	kg					2.4					
+09	Connecticut	OXYFLUORFEN	2015	kg					0.2					
+09	Connecticut	OXYFLUORFEN	2016	kg					0					
+09	Connecticut	OXYFLUORFEN	2017	kg					0.1					
+10	Delaware	OXYFLUORFEN	1992	kg							0.5			
+10	Delaware	OXYFLUORFEN	1994	kg					2.2					
+10	Delaware	OXYFLUORFEN	1997	kg					5					
+10	Delaware	OXYFLUORFEN	1998	kg							0.3			
+10	Delaware	OXYFLUORFEN	2000	kg					6.8					
+10	Delaware	OXYFLUORFEN	2001	kg							0.5			
+10	Delaware	OXYFLUORFEN	2015	kg							0			
+10	Delaware	OXYFLUORFEN	2016	kg							0.1			
+10	Delaware	OXYFLUORFEN	2017	kg		118.4								
+12	Florida	OXYFLUORFEN	1992	kg					0		9		4.2	56.1
+12	Florida	OXYFLUORFEN	1993	kg					87.5					
+12	Florida	OXYFLUORFEN	1994	kg				375.5	0.4					
+12	Florida	OXYFLUORFEN	1995	kg				249.9	12.7					
+12	Florida	OXYFLUORFEN	1996	kg				3244.7	19.4		0.9			
+12	Florida	OXYFLUORFEN	1997	kg					17.4					
+12	Florida	OXYFLUORFEN	2001	kg				194	1.9					
+12	Florida	OXYFLUORFEN	2002	kg					235.3					
+12	Florida	OXYFLUORFEN	2003	kg				8.6						
+12	Florida	OXYFLUORFEN	2004	kg					108.6					
+12	Florida	OXYFLUORFEN	2005	kg				14.3	237.8					
+12	Florida	OXYFLUORFEN	2006	kg				131.1						
+12	Florida	OXYFLUORFEN	2007	kg					0.6					
+12	Florida	OXYFLUORFEN	2008	kg					0.8					1.5
+12	Florida	OXYFLUORFEN	2009	kg					312.9					
+12	Florida	OXYFLUORFEN	2010	kg					132.1					
+12	Florida	OXYFLUORFEN	2011	kg					1429.3					
+12	Florida	OXYFLUORFEN	2012	kg					63.3					
+12	Florida	OXYFLUORFEN	2013	kg					172.6					
+12	Florida	OXYFLUORFEN	2014	kg					4.8					
+12	Florida	OXYFLUORFEN	2015	kg					3.5					
+12	Florida	OXYFLUORFEN	2017	kg					4.8					
+13	Georgia	OXYFLUORFEN	1992	kg				233.3	100.5		51.9			400
+13	Georgia	OXYFLUORFEN	1993	kg										74.5
+13	Georgia	OXYFLUORFEN	1994	kg				3773.4	898.4					
+13	Georgia	OXYFLUORFEN	1995	kg				1883.3	4020.5					340.9
+13	Georgia	OXYFLUORFEN	1996	kg				2890.7	1608.7					
+13	Georgia	OXYFLUORFEN	1997	kg					3622.8					1720.4
+13	Georgia	OXYFLUORFEN	1998	kg					4812.3					
+13	Georgia	OXYFLUORFEN	1999	kg					3112.4					
+13	Georgia	OXYFLUORFEN	2000	kg					3028.4					
+13	Georgia	OXYFLUORFEN	2001	kg				1976.6	4478.6					
+13	Georgia	OXYFLUORFEN	2002	kg					6776.8					
+13	Georgia	OXYFLUORFEN	2003	kg				102.5	3845.3					
+13	Georgia	OXYFLUORFEN	2004	kg					3176.6					
+13	Georgia	OXYFLUORFEN	2005	kg				171.6	2246.8		31.2			
+13	Georgia	OXYFLUORFEN	2006	kg				1528.5	13602.8		330.4			
+13	Georgia	OXYFLUORFEN	2007	kg					2014.7					
+13	Georgia	OXYFLUORFEN	2008	kg					1982.7					23.9
+13	Georgia	OXYFLUORFEN	2009	kg					3793.7					
+13	Georgia	OXYFLUORFEN	2010	kg					1949.1					
+13	Georgia	OXYFLUORFEN	2011	kg					1783.9					
+13	Georgia	OXYFLUORFEN	2012	kg					2123.2					
+13	Georgia	OXYFLUORFEN	2013	kg					2246.8					
+13	Georgia	OXYFLUORFEN	2014	kg					3085.8					
+13	Georgia	OXYFLUORFEN	2015	kg					2429					
+13	Georgia	OXYFLUORFEN	2016	kg				6004.8						
+13	Georgia	OXYFLUORFEN	2017	kg					4729.4					
+16	Idaho	OXYFLUORFEN	1992	kg					117.4		0			
+16	Idaho	OXYFLUORFEN	1993	kg					76.1		362.3		134.5	
+16	Idaho	OXYFLUORFEN	1994	kg					176.3					
+16	Idaho	OXYFLUORFEN	1995	kg					579.3		751.9			
+16	Idaho	OXYFLUORFEN	1996	kg					720.5		105.2			
+16	Idaho	OXYFLUORFEN	1997	kg					2458.3		60.5			
+16	Idaho	OXYFLUORFEN	1998	kg					304.5		201.8			
+16	Idaho	OXYFLUORFEN	1999	kg					638.3		415.5			
+16	Idaho	OXYFLUORFEN	2000	kg					275.8		309.8			
+16	Idaho	OXYFLUORFEN	2001	kg					249.8		30.7			
+16	Idaho	OXYFLUORFEN	2002	kg					939		96.6			
+16	Idaho	OXYFLUORFEN	2003	kg					449.5		158.9			
+16	Idaho	OXYFLUORFEN	2004	kg					725.4		275.8			
+16	Idaho	OXYFLUORFEN	2005	kg					833.2		324.7			
+16	Idaho	OXYFLUORFEN	2006	kg					479		125.9			
+16	Idaho	OXYFLUORFEN	2007	kg					514.7		36.3			
+16	Idaho	OXYFLUORFEN	2008	kg					578.8		309.3			
+16	Idaho	OXYFLUORFEN	2009	kg					344.1		267.6			
+16	Idaho	OXYFLUORFEN	2010	kg					449.1		216.6			
+16	Idaho	OXYFLUORFEN	2011	kg					419.7		193			
+16	Idaho	OXYFLUORFEN	2012	kg					629		440.5			
+16	Idaho	OXYFLUORFEN	2013	kg					567.4		75.6			
+16	Idaho	OXYFLUORFEN	2014	kg					675.1		103.2			
+16	Idaho	OXYFLUORFEN	2015	kg					654.8		35.4			
+16	Idaho	OXYFLUORFEN	2016	kg					1168.5		24.4			
+16	Idaho	OXYFLUORFEN	2017	kg					394		40.6			
+17	Illinois	OXYFLUORFEN	1992	kg					4.7					
+17	Illinois	OXYFLUORFEN	1993	kg					292.9					393.5
+17	Illinois	OXYFLUORFEN	1994	kg					18.2					
+17	Illinois	OXYFLUORFEN	1995	kg					30					
+17	Illinois	OXYFLUORFEN	1996	kg					15.3					
+17	Illinois	OXYFLUORFEN	1997	kg	5726.4				14.4					
+17	Illinois	OXYFLUORFEN	1999	kg					2					
+17	Illinois	OXYFLUORFEN	2001	kg					3.6					
+17	Illinois	OXYFLUORFEN	2002	kg	38532.2									
+17	Illinois	OXYFLUORFEN	2003	kg					11.5					
+17	Illinois	OXYFLUORFEN	2004	kg					14.4					
+17	Illinois	OXYFLUORFEN	2005	kg					3					
+17	Illinois	OXYFLUORFEN	2006	kg					8.1					
+17	Illinois	OXYFLUORFEN	2007	kg					5.6					
+17	Illinois	OXYFLUORFEN	2010	kg					11.3					
+17	Illinois	OXYFLUORFEN	2012	kg					5.6					
+17	Illinois	OXYFLUORFEN	2013	kg					10.4					
+17	Illinois	OXYFLUORFEN	2014	kg					13.8					
+18	Indiana	OXYFLUORFEN	1992	kg					111.5					
+18	Indiana	OXYFLUORFEN	1993	kg					1.1					79.3
+18	Indiana	OXYFLUORFEN	1994	kg					29.1					
+18	Indiana	OXYFLUORFEN	1995	kg	4856.5	8991.1			27.1					
+18	Indiana	OXYFLUORFEN	1996	kg					9.4					
+18	Indiana	OXYFLUORFEN	1997	kg					28.9					
+18	Indiana	OXYFLUORFEN	1998	kg					22.8					
+18	Indiana	OXYFLUORFEN	1999	kg					4.1					
+18	Indiana	OXYFLUORFEN	2001	kg					9.5					
+18	Indiana	OXYFLUORFEN	2002	kg					3					
+18	Indiana	OXYFLUORFEN	2004	kg					9.1					
+18	Indiana	OXYFLUORFEN	2005	kg					0.6					
+18	Indiana	OXYFLUORFEN	2006	kg					5.5					
+18	Indiana	OXYFLUORFEN	2007	kg					2.3					
+18	Indiana	OXYFLUORFEN	2008	kg					15.8					
+18	Indiana	OXYFLUORFEN	2009	kg					11.4					
+18	Indiana	OXYFLUORFEN	2010	kg	3331.3				8.6					
+18	Indiana	OXYFLUORFEN	2011	kg					1					
+18	Indiana	OXYFLUORFEN	2012	kg					4.5					
+18	Indiana	OXYFLUORFEN	2013	kg					3.1					
+18	Indiana	OXYFLUORFEN	2014	kg					4		0			
+18	Indiana	OXYFLUORFEN	2015	kg					12.1		0			
+18	Indiana	OXYFLUORFEN	2016	kg					1.6					
+18	Indiana	OXYFLUORFEN	2017	kg							1.6			
+19	Iowa	OXYFLUORFEN	1992	kg	443.8				9.1					
+19	Iowa	OXYFLUORFEN	1993	kg					10					
+19	Iowa	OXYFLUORFEN	1995	kg					13.5					757.5
+19	Iowa	OXYFLUORFEN	1996	kg	3131.3				13.5					
+19	Iowa	OXYFLUORFEN	1997	kg	1988.6				5.9					3210.3
+19	Iowa	OXYFLUORFEN	1998	kg	25052.1									
+19	Iowa	OXYFLUORFEN	1999	kg					0.8					
+19	Iowa	OXYFLUORFEN	2003	kg					4					
+19	Iowa	OXYFLUORFEN	2004	kg					2.7					
+20	Kansas	OXYFLUORFEN	2008	kg					0.1					
+20	Kansas	OXYFLUORFEN	2009	kg					0.1					
+20	Kansas	OXYFLUORFEN	2010	kg					0.2					
+20	Kansas	OXYFLUORFEN	2012	kg					0.2					
+20	Kansas	OXYFLUORFEN	2014	kg					0.1					
+20	Kansas	OXYFLUORFEN	2015	kg					0.1					
+21	Kentucky	OXYFLUORFEN	1992	kg					49.8					
+21	Kentucky	OXYFLUORFEN	1993	kg										13.1
+21	Kentucky	OXYFLUORFEN	1994	kg					4.5					4.6
+21	Kentucky	OXYFLUORFEN	1995	kg					23.9					
+21	Kentucky	OXYFLUORFEN	1996	kg					78					
+21	Kentucky	OXYFLUORFEN	2001	kg					16.2					
+21	Kentucky	OXYFLUORFEN	2002	kg	2469.3									
+21	Kentucky	OXYFLUORFEN	2004	kg					34.2					
+22	Louisiana	OXYFLUORFEN	1992	kg		31.2		522.7						
+22	Louisiana	OXYFLUORFEN	1993	kg				4537.2			168.9			
+22	Louisiana	OXYFLUORFEN	1994	kg		143.7		3897.2	93					
+22	Louisiana	OXYFLUORFEN	1995	kg	1248.1	1264.7		6704.7	215.1					
+22	Louisiana	OXYFLUORFEN	1996	kg				128571.9			68.7			
+22	Louisiana	OXYFLUORFEN	1997	kg		503.9		2719.3	15.9					
+22	Louisiana	OXYFLUORFEN	1998	kg		2678.6		337.6						
+22	Louisiana	OXYFLUORFEN	1999	kg				22538.3						
+22	Louisiana	OXYFLUORFEN	2000	kg		1205.2		2212						
+22	Louisiana	OXYFLUORFEN	2001	kg		278.8		30310.1						
+22	Louisiana	OXYFLUORFEN	2002	kg				1139.7						
+22	Louisiana	OXYFLUORFEN	2003	kg				3962.2						
+22	Louisiana	OXYFLUORFEN	2004	kg					0.3					
+22	Louisiana	OXYFLUORFEN	2005	kg				3023.6						
+22	Louisiana	OXYFLUORFEN	2007	kg				514.7						
+22	Louisiana	OXYFLUORFEN	2008	kg				1445.4						
+22	Louisiana	OXYFLUORFEN	2011	kg				5317.8						
+22	Louisiana	OXYFLUORFEN	2012	kg	9047.7			9365.7						
+22	Louisiana	OXYFLUORFEN	2013	kg	16940.7	7649.5		2141.2						
+22	Louisiana	OXYFLUORFEN	2014	kg	4420.3	5922.2								1565.4
+22	Louisiana	OXYFLUORFEN	2015	kg	2003			1025.6						
+22	Louisiana	OXYFLUORFEN	2016	kg	2229.8	4692.1		595						
+22	Louisiana	OXYFLUORFEN	2017	kg	2994.4	41810.9		1225.4						
+24	Maryland	OXYFLUORFEN	1992	kg							26.8			
+24	Maryland	OXYFLUORFEN	1993	kg							18.8			
+24	Maryland	OXYFLUORFEN	1994	kg					68.2					
+24	Maryland	OXYFLUORFEN	1995	kg							2.9			
+24	Maryland	OXYFLUORFEN	1996	kg					52.8					
+24	Maryland	OXYFLUORFEN	1997	kg					62.7		61.5			
+24	Maryland	OXYFLUORFEN	1998	kg							198.5			
+24	Maryland	OXYFLUORFEN	1999	kg					11.7		101.3			
+24	Maryland	OXYFLUORFEN	2000	kg					53.4		94.6			
+24	Maryland	OXYFLUORFEN	2001	kg							117.7			
+24	Maryland	OXYFLUORFEN	2004	kg							98.7			
+24	Maryland	OXYFLUORFEN	2005	kg							61.5			
+24	Maryland	OXYFLUORFEN	2015	kg							5.4			
+24	Maryland	OXYFLUORFEN	2016	kg							65.8			
+24	Maryland	OXYFLUORFEN	2017	kg		1898.7								
+25	Massachusetts	OXYFLUORFEN	1992	kg					663.3					
+25	Massachusetts	OXYFLUORFEN	1993	kg					23.9					
+25	Massachusetts	OXYFLUORFEN	1994	kg					0.9					
+25	Massachusetts	OXYFLUORFEN	1995	kg					3.4					
+25	Massachusetts	OXYFLUORFEN	1996	kg					13.1					
+25	Massachusetts	OXYFLUORFEN	1997	kg					50.4					
+25	Massachusetts	OXYFLUORFEN	1998	kg					75.2					
+25	Massachusetts	OXYFLUORFEN	1999	kg					19.5					
+25	Massachusetts	OXYFLUORFEN	2000	kg					40.9					
+25	Massachusetts	OXYFLUORFEN	2001	kg					49.3					
+25	Massachusetts	OXYFLUORFEN	2002	kg					35.6					
+25	Massachusetts	OXYFLUORFEN	2003	kg					56.8					
+25	Massachusetts	OXYFLUORFEN	2004	kg					41.4					
+25	Massachusetts	OXYFLUORFEN	2005	kg					10.9					
+25	Massachusetts	OXYFLUORFEN	2006	kg					2.2					
+25	Massachusetts	OXYFLUORFEN	2007	kg					44.6					
+25	Massachusetts	OXYFLUORFEN	2008	kg					15.4					
+25	Massachusetts	OXYFLUORFEN	2009	kg					77.5					
+25	Massachusetts	OXYFLUORFEN	2010	kg					5.2					
+25	Massachusetts	OXYFLUORFEN	2011	kg					15.2					
+25	Massachusetts	OXYFLUORFEN	2012	kg					12.7					
+25	Massachusetts	OXYFLUORFEN	2013	kg					15.4					
+25	Massachusetts	OXYFLUORFEN	2014	kg					17.3					
+25	Massachusetts	OXYFLUORFEN	2015	kg					2.7					
+25	Massachusetts	OXYFLUORFEN	2016	kg					0.3					
+25	Massachusetts	OXYFLUORFEN	2017	kg					0.8					
+26	Michigan	OXYFLUORFEN	1992	kg					429.9					
+26	Michigan	OXYFLUORFEN	1993	kg					511.6					
+26	Michigan	OXYFLUORFEN	1994	kg					518.6		102.9			
+26	Michigan	OXYFLUORFEN	1995	kg	9739.5	12779.7			1082.5					
+26	Michigan	OXYFLUORFEN	1996	kg					246.3					
+26	Michigan	OXYFLUORFEN	1997	kg					1515.2					
+26	Michigan	OXYFLUORFEN	1998	kg	3200.6				572.8					
+26	Michigan	OXYFLUORFEN	1999	kg					77.1					
+26	Michigan	OXYFLUORFEN	2001	kg					92.4					47.6
+26	Michigan	OXYFLUORFEN	2002	kg					31.1					
+26	Michigan	OXYFLUORFEN	2003	kg					215.5					
+26	Michigan	OXYFLUORFEN	2004	kg					308.9					
+26	Michigan	OXYFLUORFEN	2005	kg					196.8					
+26	Michigan	OXYFLUORFEN	2006	kg					258.7					
+26	Michigan	OXYFLUORFEN	2007	kg					231					
+26	Michigan	OXYFLUORFEN	2008	kg					105.3					
+26	Michigan	OXYFLUORFEN	2009	kg					351.3					
+26	Michigan	OXYFLUORFEN	2010	kg	2841.4				139.6					
+26	Michigan	OXYFLUORFEN	2011	kg					245.5					
+26	Michigan	OXYFLUORFEN	2012	kg					451.1		1954.6			
+26	Michigan	OXYFLUORFEN	2013	kg					203.3					
+26	Michigan	OXYFLUORFEN	2014	kg					251.5		206.7			
+26	Michigan	OXYFLUORFEN	2015	kg					910		2939.1			
+26	Michigan	OXYFLUORFEN	2016	kg					70.7					
+26	Michigan	OXYFLUORFEN	2017	kg					307.3		108.1			
+27	Minnesota	OXYFLUORFEN	1992	kg	154.6				40.4					
+27	Minnesota	OXYFLUORFEN	1993	kg					198.2					
+27	Minnesota	OXYFLUORFEN	1995	kg					131.1					8525
+27	Minnesota	OXYFLUORFEN	1996	kg	4430.1				100.1					
+27	Minnesota	OXYFLUORFEN	1997	kg					32.3					
+27	Minnesota	OXYFLUORFEN	1999	kg					5.5					
+27	Minnesota	OXYFLUORFEN	2000	kg							144.1			
+27	Minnesota	OXYFLUORFEN	2003	kg					23.4					
+27	Minnesota	OXYFLUORFEN	2004	kg					16					
+27	Minnesota	OXYFLUORFEN	2013	kg					1.6					
+27	Minnesota	OXYFLUORFEN	2014	kg					2.8					
+27	Minnesota	OXYFLUORFEN	2015	kg					17.3					
+27	Minnesota	OXYFLUORFEN	2017	kg		1370.8								
+28	Mississippi	OXYFLUORFEN	1992	kg		132.2		9869						
+28	Mississippi	OXYFLUORFEN	1993	kg				1134.7						
+28	Mississippi	OXYFLUORFEN	1994	kg		116.6		7042.5	7.5					
+28	Mississippi	OXYFLUORFEN	1995	kg				2012.7	9.6					368.4
+28	Mississippi	OXYFLUORFEN	1996	kg		36.4		108060						
+28	Mississippi	OXYFLUORFEN	1997	kg	139.4	548.8		476.2						
+28	Mississippi	OXYFLUORFEN	1998	kg		148.5								
+28	Mississippi	OXYFLUORFEN	1999	kg				10047.8						
+28	Mississippi	OXYFLUORFEN	2000	kg		12452.7		4194						
+28	Mississippi	OXYFLUORFEN	2001	kg		1604.3		23708.2						
+28	Mississippi	OXYFLUORFEN	2002	kg				4052.2						
+28	Mississippi	OXYFLUORFEN	2003	kg				3550.2						
+28	Mississippi	OXYFLUORFEN	2005	kg				8470						
+28	Mississippi	OXYFLUORFEN	2007	kg				1151						
+28	Mississippi	OXYFLUORFEN	2008	kg				875.6						
+28	Mississippi	OXYFLUORFEN	2011	kg				10695.4						
+28	Mississippi	OXYFLUORFEN	2012	kg	12400.7			13055.4						
+28	Mississippi	OXYFLUORFEN	2013	kg	12283.8	15606.2		1387.6						
+28	Mississippi	OXYFLUORFEN	2014	kg	8413.8	8076								352.3
+28	Mississippi	OXYFLUORFEN	2015	kg	1442.3	479.8		1258						
+28	Mississippi	OXYFLUORFEN	2016	kg	1360.5	3510.4		3566.3						
+28	Mississippi	OXYFLUORFEN	2017	kg	1651.8	39587.1		6431.6						
+29	Missouri	OXYFLUORFEN	1992	kg				105.9	0.1					
+29	Missouri	OXYFLUORFEN	1993	kg				8.1	0.3					
+29	Missouri	OXYFLUORFEN	1994	kg				140.6						
+29	Missouri	OXYFLUORFEN	1996	kg				563.4						
+29	Missouri	OXYFLUORFEN	1997	kg	3353.1			175.9						
+29	Missouri	OXYFLUORFEN	2002	kg	5410.8			53.2						
+30	Montana	OXYFLUORFEN	1992	kg					0					
+30	Montana	OXYFLUORFEN	1993	kg					0					
+30	Montana	OXYFLUORFEN	1994	kg					0.6					
+30	Montana	OXYFLUORFEN	1995	kg					1.1					
+30	Montana	OXYFLUORFEN	1996	kg					3.1					
+30	Montana	OXYFLUORFEN	1997	kg					1.6					
+30	Montana	OXYFLUORFEN	1998	kg					1.2					
+30	Montana	OXYFLUORFEN	1999	kg					1.5					
+30	Montana	OXYFLUORFEN	2000	kg					1.5					
+30	Montana	OXYFLUORFEN	2001	kg					1.6					
+30	Montana	OXYFLUORFEN	2002	kg					0.9					
+30	Montana	OXYFLUORFEN	2003	kg					1.1					
+30	Montana	OXYFLUORFEN	2004	kg					1.5					
+30	Montana	OXYFLUORFEN	2005	kg					1.4					
+30	Montana	OXYFLUORFEN	2006	kg					1.1					
+30	Montana	OXYFLUORFEN	2007	kg					1.2					
+30	Montana	OXYFLUORFEN	2008	kg					0					
+30	Montana	OXYFLUORFEN	2009	kg					0.4					
+30	Montana	OXYFLUORFEN	2010	kg					0.4					
+30	Montana	OXYFLUORFEN	2011	kg					0.4					
+30	Montana	OXYFLUORFEN	2012	kg					0.7					
+30	Montana	OXYFLUORFEN	2013	kg					1.1					
+30	Montana	OXYFLUORFEN	2014	kg					0.5					
+30	Montana	OXYFLUORFEN	2015	kg					0.3					
+30	Montana	OXYFLUORFEN	2016	kg					0.6					
+30	Montana	OXYFLUORFEN	2017	kg					0.4					
+31	Nebraska	OXYFLUORFEN	1997	kg										3168.7
+31	Nebraska	OXYFLUORFEN	1998	kg	13315.4									
+31	Nebraska	OXYFLUORFEN	2008	kg					0					
+31	Nebraska	OXYFLUORFEN	2009	kg					0					
+31	Nebraska	OXYFLUORFEN	2010	kg					0.1					
+31	Nebraska	OXYFLUORFEN	2011	kg					0					
+31	Nebraska	OXYFLUORFEN	2012	kg					0.1					
+31	Nebraska	OXYFLUORFEN	2013	kg					0.4					
+31	Nebraska	OXYFLUORFEN	2014	kg					0.2					
+31	Nebraska	OXYFLUORFEN	2015	kg					0					
+32	Nevada	OXYFLUORFEN	1992	kg							5.3		25.9	
+32	Nevada	OXYFLUORFEN	1993	kg							12.4		152	
+32	Nevada	OXYFLUORFEN	1994	kg					29		4.8		191.8	
+32	Nevada	OXYFLUORFEN	1995	kg					1114.3		12.3		299.6	
+32	Nevada	OXYFLUORFEN	1996	kg					467.5		17.2		44.4	
+32	Nevada	OXYFLUORFEN	1997	kg					149.7		8.2		1008	1
+32	Nevada	OXYFLUORFEN	1998	kg					72		7			
+32	Nevada	OXYFLUORFEN	1999	kg					139.4		23.1			
+32	Nevada	OXYFLUORFEN	2000	kg					59.2		29.8			
+32	Nevada	OXYFLUORFEN	2001	kg					64.2		20			
+32	Nevada	OXYFLUORFEN	2002	kg					197.2		16.8			
+32	Nevada	OXYFLUORFEN	2003	kg					116.7		8.9			
+32	Nevada	OXYFLUORFEN	2004	kg					129.2		20.7			
+32	Nevada	OXYFLUORFEN	2005	kg					108.7		25.5			
+32	Nevada	OXYFLUORFEN	2006	kg					138.4		9.9			
+32	Nevada	OXYFLUORFEN	2007	kg					67.9		17.7			
+32	Nevada	OXYFLUORFEN	2008	kg					262.7		47.7			
+32	Nevada	OXYFLUORFEN	2009	kg					242.7		58.6			
+32	Nevada	OXYFLUORFEN	2010	kg					219.5		23.5			
+32	Nevada	OXYFLUORFEN	2011	kg					219.1		43.8			
+32	Nevada	OXYFLUORFEN	2012	kg					254		32.5			
+32	Nevada	OXYFLUORFEN	2013	kg					332.3		32.8			
+32	Nevada	OXYFLUORFEN	2014	kg					227.3		10.5			
+32	Nevada	OXYFLUORFEN	2015	kg					169.3		36.5			
+32	Nevada	OXYFLUORFEN	2016	kg					339.3		31.3			
+32	Nevada	OXYFLUORFEN	2017	kg					233.2		27.8			
+33	New Hampshire	OXYFLUORFEN	1994	kg					0.6					
+33	New Hampshire	OXYFLUORFEN	1995	kg					0.4					
+33	New Hampshire	OXYFLUORFEN	1996	kg					0					
+33	New Hampshire	OXYFLUORFEN	1997	kg					0.4					
+33	New Hampshire	OXYFLUORFEN	1998	kg					6.4					
+33	New Hampshire	OXYFLUORFEN	1999	kg					1.1					
+33	New Hampshire	OXYFLUORFEN	2000	kg					1					
+33	New Hampshire	OXYFLUORFEN	2001	kg					0.7					
+33	New Hampshire	OXYFLUORFEN	2002	kg					4.5					
+33	New Hampshire	OXYFLUORFEN	2003	kg					0.2					
+33	New Hampshire	OXYFLUORFEN	2004	kg					0.8					
+33	New Hampshire	OXYFLUORFEN	2005	kg					0.5					
+33	New Hampshire	OXYFLUORFEN	2006	kg					0.7					
+33	New Hampshire	OXYFLUORFEN	2007	kg					0.9					
+33	New Hampshire	OXYFLUORFEN	2008	kg					1.6					
+33	New Hampshire	OXYFLUORFEN	2009	kg					15.5					
+33	New Hampshire	OXYFLUORFEN	2010	kg					1.1					
+33	New Hampshire	OXYFLUORFEN	2011	kg					2.5					
+33	New Hampshire	OXYFLUORFEN	2012	kg					3.3					
+34	New Jersey	OXYFLUORFEN	1992	kg					23.3					
+34	New Jersey	OXYFLUORFEN	1993	kg					11.4		26.6			
+34	New Jersey	OXYFLUORFEN	1994	kg					0.1					
+34	New Jersey	OXYFLUORFEN	1995	kg					34.1					
+34	New Jersey	OXYFLUORFEN	1996	kg					135.5					131.2
+34	New Jersey	OXYFLUORFEN	1997	kg					264.3					
+34	New Jersey	OXYFLUORFEN	1998	kg					33.3		116.8			
+34	New Jersey	OXYFLUORFEN	1999	kg					92.6					
+34	New Jersey	OXYFLUORFEN	2000	kg					203.6					
+34	New Jersey	OXYFLUORFEN	2001	kg					266.8		180			
+34	New Jersey	OXYFLUORFEN	2002	kg					13.5					
+34	New Jersey	OXYFLUORFEN	2003	kg					354.7					
+34	New Jersey	OXYFLUORFEN	2004	kg					116.5					
+34	New Jersey	OXYFLUORFEN	2005	kg					126.1					
+34	New Jersey	OXYFLUORFEN	2006	kg					0					
+34	New Jersey	OXYFLUORFEN	2007	kg					173.4					
+34	New Jersey	OXYFLUORFEN	2008	kg					13.5					
+34	New Jersey	OXYFLUORFEN	2009	kg					21.4					
+34	New Jersey	OXYFLUORFEN	2010	kg					1.4					
+34	New Jersey	OXYFLUORFEN	2011	kg					4.1					
+34	New Jersey	OXYFLUORFEN	2012	kg					3.3					
+34	New Jersey	OXYFLUORFEN	2013	kg					5					
+34	New Jersey	OXYFLUORFEN	2014	kg					5.6					
+34	New Jersey	OXYFLUORFEN	2015	kg					0.9		32.1			
+34	New Jersey	OXYFLUORFEN	2016	kg					0		417.7			
+34	New Jersey	OXYFLUORFEN	2017	kg		570.5			0.1					
+35	New Mexico	OXYFLUORFEN	1992	kg					0.2					
+35	New Mexico	OXYFLUORFEN	1993	kg					2		91.5			
+35	New Mexico	OXYFLUORFEN	1994	kg					604.9		18.1			
+35	New Mexico	OXYFLUORFEN	1995	kg					285.2		59			
+35	New Mexico	OXYFLUORFEN	1996	kg				70.8	390.3		147.7		18.8	
+35	New Mexico	OXYFLUORFEN	1997	kg	149.9			133.5	258.1		84.4		9.1	
+35	New Mexico	OXYFLUORFEN	1998	kg				517.9	118		0.3			
+35	New Mexico	OXYFLUORFEN	1999	kg				229.3	201.8		14557.2			
+35	New Mexico	OXYFLUORFEN	2000	kg					340.7		6903.5			
+35	New Mexico	OXYFLUORFEN	2001	kg				409.6	296.7		10979.5			
+35	New Mexico	OXYFLUORFEN	2002	kg					479.8		133.2			
+35	New Mexico	OXYFLUORFEN	2003	kg				39	271.2		19.9			
+35	New Mexico	OXYFLUORFEN	2004	kg				25.6	1196		848.4			
+35	New Mexico	OXYFLUORFEN	2005	kg					682.9		135.6			
+35	New Mexico	OXYFLUORFEN	2006	kg				37.2	655.1		8.4			
+35	New Mexico	OXYFLUORFEN	2007	kg					1042.2		21.9			
+35	New Mexico	OXYFLUORFEN	2008	kg					735.1		217.1			
+35	New Mexico	OXYFLUORFEN	2009	kg				9.7	420.6		2591.1			
+35	New Mexico	OXYFLUORFEN	2010	kg					1315.4		10.4			
+35	New Mexico	OXYFLUORFEN	2011	kg					97.6		115.8			
+35	New Mexico	OXYFLUORFEN	2012	kg				7.6	671		787.2			
+35	New Mexico	OXYFLUORFEN	2013	kg					227.9		37.4			
+35	New Mexico	OXYFLUORFEN	2014	kg				146.4	152.7		16026.6			
+35	New Mexico	OXYFLUORFEN	2015	kg				0.4	142.6		12.4			
+35	New Mexico	OXYFLUORFEN	2016	kg				18.4	257.1					
+35	New Mexico	OXYFLUORFEN	2017	kg					265.9		1951.1			
+36	New York	OXYFLUORFEN	1992	kg					725.1		97.1			
+36	New York	OXYFLUORFEN	1993	kg					3062.6		415			
+36	New York	OXYFLUORFEN	1994	kg					735.8		198.3			
+36	New York	OXYFLUORFEN	1995	kg					837.6					
+36	New York	OXYFLUORFEN	1996	kg					1643.4					338.6
+36	New York	OXYFLUORFEN	1997	kg					5898.9		35.2			
+36	New York	OXYFLUORFEN	1998	kg					6553.5					
+36	New York	OXYFLUORFEN	1999	kg					1630					
+36	New York	OXYFLUORFEN	2000	kg					1986					
+36	New York	OXYFLUORFEN	2001	kg					1160					
+36	New York	OXYFLUORFEN	2002	kg					3321					
+36	New York	OXYFLUORFEN	2003	kg					1085					
+36	New York	OXYFLUORFEN	2004	kg					834.9					
+36	New York	OXYFLUORFEN	2005	kg					2047.2					
+36	New York	OXYFLUORFEN	2006	kg					2670.4					
+36	New York	OXYFLUORFEN	2007	kg					1333.7					
+36	New York	OXYFLUORFEN	2008	kg					1193.2		386.5			
+36	New York	OXYFLUORFEN	2009	kg					5396		698			
+36	New York	OXYFLUORFEN	2010	kg					392.5		1276.3			
+36	New York	OXYFLUORFEN	2011	kg					704.6		33954			
+36	New York	OXYFLUORFEN	2012	kg					776.6		24094.5			
+36	New York	OXYFLUORFEN	2013	kg					2507.6		7814.9			
+36	New York	OXYFLUORFEN	2014	kg					1957.9					
+36	New York	OXYFLUORFEN	2015	kg					751.5					
+36	New York	OXYFLUORFEN	2016	kg					2270.2					
+36	New York	OXYFLUORFEN	2017	kg					2230					
+37	North Carolina	OXYFLUORFEN	1992	kg					292.3		1723.2			
+37	North Carolina	OXYFLUORFEN	1993	kg					211.7					58.7
+37	North Carolina	OXYFLUORFEN	1994	kg				133.6	223.7					2602.4
+37	North Carolina	OXYFLUORFEN	1995	kg				3032.9	479.3					
+37	North Carolina	OXYFLUORFEN	1996	kg					219.3					178.9
+37	North Carolina	OXYFLUORFEN	1997	kg				49	297.6					4586.2
+37	North Carolina	OXYFLUORFEN	1998	kg					544.8					
+37	North Carolina	OXYFLUORFEN	1999	kg					15.9					
+37	North Carolina	OXYFLUORFEN	2000	kg					234.1					
+37	North Carolina	OXYFLUORFEN	2001	kg					154.9					
+37	North Carolina	OXYFLUORFEN	2002	kg					782.4					
+37	North Carolina	OXYFLUORFEN	2003	kg					1251.3					
+37	North Carolina	OXYFLUORFEN	2004	kg					279.3					
+37	North Carolina	OXYFLUORFEN	2005	kg					455.9		302.4			
+37	North Carolina	OXYFLUORFEN	2006	kg					648.4					
+37	North Carolina	OXYFLUORFEN	2007	kg					914.7					
+37	North Carolina	OXYFLUORFEN	2008	kg					336.2					
+37	North Carolina	OXYFLUORFEN	2009	kg					492.1					
+37	North Carolina	OXYFLUORFEN	2010	kg					262.1					
+37	North Carolina	OXYFLUORFEN	2011	kg				70.8	502.6					
+37	North Carolina	OXYFLUORFEN	2012	kg					257.8					
+37	North Carolina	OXYFLUORFEN	2013	kg					498.1					
+37	North Carolina	OXYFLUORFEN	2014	kg					784.3					
+37	North Carolina	OXYFLUORFEN	2015	kg					79.6					
+37	North Carolina	OXYFLUORFEN	2016	kg	5893.4			1046.7	182					
+37	North Carolina	OXYFLUORFEN	2017	kg		186.6								
+38	North Dakota	OXYFLUORFEN	2001	kg					636.2					
+38	North Dakota	OXYFLUORFEN	2017	kg		3866.8								
+39	Ohio	OXYFLUORFEN	1992	kg					287.7					
+39	Ohio	OXYFLUORFEN	1993	kg					480.7					
+39	Ohio	OXYFLUORFEN	1994	kg					29.5					
+39	Ohio	OXYFLUORFEN	1995	kg	2707.1	8840.9			849.5					
+39	Ohio	OXYFLUORFEN	1996	kg					26.3					
+39	Ohio	OXYFLUORFEN	1997	kg					636.5					
+39	Ohio	OXYFLUORFEN	1998	kg					86.8					
+39	Ohio	OXYFLUORFEN	1999	kg					143.1					
+39	Ohio	OXYFLUORFEN	2000	kg					116.3					
+39	Ohio	OXYFLUORFEN	2001	kg					47.2					
+39	Ohio	OXYFLUORFEN	2002	kg					33.4					
+39	Ohio	OXYFLUORFEN	2003	kg					85.5					
+39	Ohio	OXYFLUORFEN	2004	kg					67.1					
+39	Ohio	OXYFLUORFEN	2005	kg					58.3					
+39	Ohio	OXYFLUORFEN	2006	kg					81.5					
+39	Ohio	OXYFLUORFEN	2007	kg					13.9					
+39	Ohio	OXYFLUORFEN	2008	kg					29.4					
+39	Ohio	OXYFLUORFEN	2009	kg					83.6					
+39	Ohio	OXYFLUORFEN	2010	kg					33.8					
+39	Ohio	OXYFLUORFEN	2011	kg					31.4					
+39	Ohio	OXYFLUORFEN	2012	kg					38.9					
+40	Oklahoma	OXYFLUORFEN	1992	kg				2.4						
+40	Oklahoma	OXYFLUORFEN	1994	kg					0.5					
+40	Oklahoma	OXYFLUORFEN	1995	kg					0.2					
+40	Oklahoma	OXYFLUORFEN	1996	kg				4.7	0.4					
+40	Oklahoma	OXYFLUORFEN	1997	kg	190			177.3	0.3					
+40	Oklahoma	OXYFLUORFEN	1998	kg				508.4	0.4					
+40	Oklahoma	OXYFLUORFEN	1999	kg				2390.2	1.8					
+40	Oklahoma	OXYFLUORFEN	2000	kg					0.5					
+40	Oklahoma	OXYFLUORFEN	2001	kg					0.5					
+40	Oklahoma	OXYFLUORFEN	2002	kg					0.5					
+40	Oklahoma	OXYFLUORFEN	2003	kg					0.6					
+40	Oklahoma	OXYFLUORFEN	2004	kg					1.6					
+40	Oklahoma	OXYFLUORFEN	2005	kg					0.6					
+40	Oklahoma	OXYFLUORFEN	2006	kg					0.6					
+40	Oklahoma	OXYFLUORFEN	2007	kg					0.8					
+40	Oklahoma	OXYFLUORFEN	2008	kg					0.5					
+40	Oklahoma	OXYFLUORFEN	2009	kg					0.3		292.9			
+40	Oklahoma	OXYFLUORFEN	2010	kg					0.2					
+40	Oklahoma	OXYFLUORFEN	2012	kg					0.1					
+40	Oklahoma	OXYFLUORFEN	2014	kg				824.2	0					
+40	Oklahoma	OXYFLUORFEN	2015	kg					0					
+41	Oregon	OXYFLUORFEN	1992	kg					79.7		1826.7		22916.7	27.1
+41	Oregon	OXYFLUORFEN	1993	kg					55.6		1377.3		11019	
+41	Oregon	OXYFLUORFEN	1994	kg					460		1508.9		10914.5	1353.5
+41	Oregon	OXYFLUORFEN	1995	kg					1623		8496.3		14616.4	
+41	Oregon	OXYFLUORFEN	1996	kg					1395.4		1778.9		6597.9	
+41	Oregon	OXYFLUORFEN	1997	kg					2673.7		8619.8		22751.6	109.5
+41	Oregon	OXYFLUORFEN	1998	kg					1680		2490.6			
+41	Oregon	OXYFLUORFEN	1999	kg					2274.8		7774.4			
+41	Oregon	OXYFLUORFEN	2000	kg					2062.8		4953.2			
+41	Oregon	OXYFLUORFEN	2001	kg					2000.3		5295.5			
+41	Oregon	OXYFLUORFEN	2002	kg					1124.1		3282.3			
+41	Oregon	OXYFLUORFEN	2003	kg					1597.2		2741.3		77294.7	
+41	Oregon	OXYFLUORFEN	2004	kg					2085.5		3253.4			
+41	Oregon	OXYFLUORFEN	2005	kg					731.3		3847.4			
+41	Oregon	OXYFLUORFEN	2006	kg					2298.4		9189.3			
+41	Oregon	OXYFLUORFEN	2007	kg					1650.4		5258.6			
+41	Oregon	OXYFLUORFEN	2008	kg					3309.8		5488.3			
+41	Oregon	OXYFLUORFEN	2009	kg					2676.2		5351.3			
+41	Oregon	OXYFLUORFEN	2010	kg					2975.8		7922.2			
+41	Oregon	OXYFLUORFEN	2011	kg					1902.4		4385.5			
+41	Oregon	OXYFLUORFEN	2012	kg					2805.9		4532.4			
+41	Oregon	OXYFLUORFEN	2013	kg					3854.1		6636.7			
+41	Oregon	OXYFLUORFEN	2014	kg					1774.5		4245			
+41	Oregon	OXYFLUORFEN	2015	kg					2076.4		6257.2			
+41	Oregon	OXYFLUORFEN	2016	kg					4535.7		3754.9			
+41	Oregon	OXYFLUORFEN	2017	kg					2422.3		4053		1980.7	
+42	Pennsylvania	OXYFLUORFEN	1992	kg					310.4					
+42	Pennsylvania	OXYFLUORFEN	1993	kg					155.7		185.7			
+42	Pennsylvania	OXYFLUORFEN	1994	kg					263.8					
+42	Pennsylvania	OXYFLUORFEN	1995	kg					72.4					
+42	Pennsylvania	OXYFLUORFEN	1996	kg					215.6					1572.4
+42	Pennsylvania	OXYFLUORFEN	1997	kg					108					
+42	Pennsylvania	OXYFLUORFEN	1998	kg					432		1966.7			
+42	Pennsylvania	OXYFLUORFEN	1999	kg					245.4					
+42	Pennsylvania	OXYFLUORFEN	2000	kg					388.1					
+42	Pennsylvania	OXYFLUORFEN	2001	kg					390		1677			
+42	Pennsylvania	OXYFLUORFEN	2002	kg					67.6					
+42	Pennsylvania	OXYFLUORFEN	2003	kg					220					
+42	Pennsylvania	OXYFLUORFEN	2004	kg					542.3					
+42	Pennsylvania	OXYFLUORFEN	2005	kg					61.8					
+42	Pennsylvania	OXYFLUORFEN	2006	kg					8.9					
+42	Pennsylvania	OXYFLUORFEN	2007	kg					89.8					
+42	Pennsylvania	OXYFLUORFEN	2008	kg					9.6		121.7			
+42	Pennsylvania	OXYFLUORFEN	2009	kg					147.1		3861.7			
+42	Pennsylvania	OXYFLUORFEN	2010	kg					3.9		461.1			
+42	Pennsylvania	OXYFLUORFEN	2011	kg					8.2		131.5			
+42	Pennsylvania	OXYFLUORFEN	2012	kg					12.2		93.8			
+42	Pennsylvania	OXYFLUORFEN	2013	kg					5.2		30.5			
+42	Pennsylvania	OXYFLUORFEN	2014	kg					4.5					
+42	Pennsylvania	OXYFLUORFEN	2015	kg					7.2		38			
+42	Pennsylvania	OXYFLUORFEN	2016	kg					0.5		462			
+42	Pennsylvania	OXYFLUORFEN	2017	kg		2627.4			0.2					
+44	Rhode Island	OXYFLUORFEN	1992	kg					166.1					
+44	Rhode Island	OXYFLUORFEN	1994	kg					0.2					
+44	Rhode Island	OXYFLUORFEN	1995	kg					0					
+44	Rhode Island	OXYFLUORFEN	1996	kg					0					
+44	Rhode Island	OXYFLUORFEN	1997	kg					0					
+44	Rhode Island	OXYFLUORFEN	1998	kg					1.7					
+44	Rhode Island	OXYFLUORFEN	1999	kg					0.2					
+44	Rhode Island	OXYFLUORFEN	2000	kg					0.2					
+44	Rhode Island	OXYFLUORFEN	2001	kg					0.2					
+44	Rhode Island	OXYFLUORFEN	2002	kg					1.6					
+44	Rhode Island	OXYFLUORFEN	2003	kg					0					
+44	Rhode Island	OXYFLUORFEN	2004	kg					1.8					
+44	Rhode Island	OXYFLUORFEN	2005	kg					0					
+44	Rhode Island	OXYFLUORFEN	2006	kg					0.2					
+44	Rhode Island	OXYFLUORFEN	2007	kg					0.2					
+44	Rhode Island	OXYFLUORFEN	2008	kg					0.2					
+44	Rhode Island	OXYFLUORFEN	2009	kg					1.7					
+44	Rhode Island	OXYFLUORFEN	2010	kg					0					
+44	Rhode Island	OXYFLUORFEN	2011	kg					0.1					
+44	Rhode Island	OXYFLUORFEN	2012	kg					0.1					
+45	South Carolina	OXYFLUORFEN	1992	kg					1.2		1516.5			57.1
+45	South Carolina	OXYFLUORFEN	1993	kg										10.4
+45	South Carolina	OXYFLUORFEN	1994	kg					36.2					
+45	South Carolina	OXYFLUORFEN	1995	kg					41.9					
+45	South Carolina	OXYFLUORFEN	1996	kg					0.1					
+45	South Carolina	OXYFLUORFEN	1997	kg					0.2					1075.7
+45	South Carolina	OXYFLUORFEN	1998	kg					0.3					
+45	South Carolina	OXYFLUORFEN	1999	kg					0.2					
+45	South Carolina	OXYFLUORFEN	2000	kg					0.2					
+45	South Carolina	OXYFLUORFEN	2001	kg					55.5					
+45	South Carolina	OXYFLUORFEN	2002	kg					435.5					
+45	South Carolina	OXYFLUORFEN	2003	kg					54					
+45	South Carolina	OXYFLUORFEN	2004	kg					56.2					
+45	South Carolina	OXYFLUORFEN	2005	kg					53.1		51.3			
+45	South Carolina	OXYFLUORFEN	2006	kg					3.7					
+45	South Carolina	OXYFLUORFEN	2007	kg					2.7					
+45	South Carolina	OXYFLUORFEN	2008	kg					1.8					0.9
+45	South Carolina	OXYFLUORFEN	2009	kg					10.2					
+45	South Carolina	OXYFLUORFEN	2010	kg					1.1					
+45	South Carolina	OXYFLUORFEN	2011	kg					15.6					
+45	South Carolina	OXYFLUORFEN	2012	kg					2.7					
+45	South Carolina	OXYFLUORFEN	2013	kg					71.2					
+45	South Carolina	OXYFLUORFEN	2014	kg					73.8					
+45	South Carolina	OXYFLUORFEN	2015	kg				1522.7	3.2					
+45	South Carolina	OXYFLUORFEN	2016	kg				2220.6	2.8					
+45	South Carolina	OXYFLUORFEN	2017	kg				1451						
+46	South Dakota	OXYFLUORFEN	1997	kg										1700.6
+46	South Dakota	OXYFLUORFEN	1998	kg	3622.8									
+46	South Dakota	OXYFLUORFEN	2017	kg		2203								
+47	Tennessee	OXYFLUORFEN	1992	kg				1437.5	28.1		23.1			
+47	Tennessee	OXYFLUORFEN	1993	kg				240.9						18.4
+47	Tennessee	OXYFLUORFEN	1994	kg				525.2	2.9					605.1
+47	Tennessee	OXYFLUORFEN	1995	kg				306.3	6.8					
+47	Tennessee	OXYFLUORFEN	1996	kg		22.8		34643.1	13.9					80.9
+47	Tennessee	OXYFLUORFEN	1997	kg		83.4		185.3						2576.6
+47	Tennessee	OXYFLUORFEN	1999	kg				933.1						
+47	Tennessee	OXYFLUORFEN	2000	kg		3059.7		2375.9						
+47	Tennessee	OXYFLUORFEN	2001	kg				9331	5					
+47	Tennessee	OXYFLUORFEN	2002	kg				1116.8						
+47	Tennessee	OXYFLUORFEN	2004	kg					15.1					
+47	Tennessee	OXYFLUORFEN	2005	kg					0.9		24.1			
+47	Tennessee	OXYFLUORFEN	2007	kg					5.2					
+47	Tennessee	OXYFLUORFEN	2008	kg					0.1					
+47	Tennessee	OXYFLUORFEN	2010	kg					0.5					
+47	Tennessee	OXYFLUORFEN	2011	kg				7540.5						
+47	Tennessee	OXYFLUORFEN	2012	kg				10216.7	0					
+47	Tennessee	OXYFLUORFEN	2013	kg		3902.3		2065.4						
+47	Tennessee	OXYFLUORFEN	2014	kg		1812.7								
+47	Tennessee	OXYFLUORFEN	2015	kg				753.5						
+47	Tennessee	OXYFLUORFEN	2016	kg				937.2						
+47	Tennessee	OXYFLUORFEN	2017	kg		12217.8		2541.9						
+48	Texas	OXYFLUORFEN	1992	kg				1419.7						
+48	Texas	OXYFLUORFEN	1993	kg				541.8						
+48	Texas	OXYFLUORFEN	1994	kg					640					356.1
+48	Texas	OXYFLUORFEN	1995	kg	440.8	62.5		6873.2	861.8		483.1			
+48	Texas	OXYFLUORFEN	1996	kg				14111	1103.5					
+48	Texas	OXYFLUORFEN	1997	kg	1621			4884.4	2123.4					
+48	Texas	OXYFLUORFEN	1998	kg				2869.3	903.5					
+48	Texas	OXYFLUORFEN	1999	kg				78145	1349.3					
+48	Texas	OXYFLUORFEN	2000	kg				185.7	1813.6		3146.2			
+48	Texas	OXYFLUORFEN	2001	kg				9817.4	1325.8		5053			
+48	Texas	OXYFLUORFEN	2002	kg					2095.6					
+48	Texas	OXYFLUORFEN	2003	kg				1028.6	994.8					
+48	Texas	OXYFLUORFEN	2004	kg					1298.8		336.4			
+48	Texas	OXYFLUORFEN	2005	kg					1609.9					
+48	Texas	OXYFLUORFEN	2006	kg					1840.2					
+48	Texas	OXYFLUORFEN	2007	kg					1872.1					
+48	Texas	OXYFLUORFEN	2008	kg					825.2					
+48	Texas	OXYFLUORFEN	2009	kg					1430.4		2381.1			
+48	Texas	OXYFLUORFEN	2010	kg					1303.4					
+48	Texas	OXYFLUORFEN	2011	kg				469.8	1095.8					
+48	Texas	OXYFLUORFEN	2012	kg				643.3	916.3		354.8			
+48	Texas	OXYFLUORFEN	2013	kg					468.1					
+48	Texas	OXYFLUORFEN	2014	kg				14046.6	2031.1					
+48	Texas	OXYFLUORFEN	2015	kg				3699.2	53.2					
+48	Texas	OXYFLUORFEN	2016	kg				1042.6						
+48	Texas	OXYFLUORFEN	2017	kg				5708.7			1749.9			
+49	Utah	OXYFLUORFEN	1992	kg					124.2					
+49	Utah	OXYFLUORFEN	1993	kg					37.2		141			
+49	Utah	OXYFLUORFEN	1994	kg					71					
+49	Utah	OXYFLUORFEN	1995	kg					171.2		294.5			
+49	Utah	OXYFLUORFEN	1996	kg					1229.1		8.9			
+49	Utah	OXYFLUORFEN	1997	kg					888.7		2.1			
+49	Utah	OXYFLUORFEN	1998	kg					140.9		0			
+49	Utah	OXYFLUORFEN	1999	kg					207.1		4.8			
+49	Utah	OXYFLUORFEN	2000	kg					171.8		4			
+49	Utah	OXYFLUORFEN	2001	kg					142.6		42.3			
+49	Utah	OXYFLUORFEN	2002	kg					148.4		7.5			
+49	Utah	OXYFLUORFEN	2003	kg					206.7		378.3			
+49	Utah	OXYFLUORFEN	2004	kg					167.9		193.2			
+49	Utah	OXYFLUORFEN	2005	kg					119.8		7.6			
+49	Utah	OXYFLUORFEN	2006	kg					122.2		1.4			
+49	Utah	OXYFLUORFEN	2007	kg					91		374.6			
+49	Utah	OXYFLUORFEN	2008	kg					139.4		746.3			
+49	Utah	OXYFLUORFEN	2009	kg					89.6		530.7			
+49	Utah	OXYFLUORFEN	2010	kg					78.9		955.7			
+49	Utah	OXYFLUORFEN	2011	kg					61.9		382.3			
+49	Utah	OXYFLUORFEN	2012	kg					76.7		695.3			
+49	Utah	OXYFLUORFEN	2013	kg					1.6		738			
+49	Utah	OXYFLUORFEN	2014	kg					0.8		560.5			
+49	Utah	OXYFLUORFEN	2015	kg					0.5		587.9			
+49	Utah	OXYFLUORFEN	2016	kg					1.7					
+49	Utah	OXYFLUORFEN	2017	kg					1.7		297.9			
+50	Vermont	OXYFLUORFEN	1992	kg							48.4			
+50	Vermont	OXYFLUORFEN	1993	kg							31.2			
+50	Vermont	OXYFLUORFEN	1994	kg					1.4					
+50	Vermont	OXYFLUORFEN	1995	kg					1.3					
+50	Vermont	OXYFLUORFEN	1996	kg					2.6					
+50	Vermont	OXYFLUORFEN	1997	kg					12.2		6.9			
+50	Vermont	OXYFLUORFEN	1998	kg					14					
+50	Vermont	OXYFLUORFEN	1999	kg					7.2					
+50	Vermont	OXYFLUORFEN	2000	kg					8					
+50	Vermont	OXYFLUORFEN	2001	kg					13.7					
+50	Vermont	OXYFLUORFEN	2002	kg					11.8					
+50	Vermont	OXYFLUORFEN	2003	kg					17.1					
+50	Vermont	OXYFLUORFEN	2004	kg					8.1					
+50	Vermont	OXYFLUORFEN	2005	kg					7.8					
+50	Vermont	OXYFLUORFEN	2006	kg					1.3					
+50	Vermont	OXYFLUORFEN	2007	kg					10.7					
+50	Vermont	OXYFLUORFEN	2008	kg					2.4					
+50	Vermont	OXYFLUORFEN	2009	kg					17.8					
+50	Vermont	OXYFLUORFEN	2010	kg					1.2					
+50	Vermont	OXYFLUORFEN	2011	kg					2.6					
+50	Vermont	OXYFLUORFEN	2012	kg					3.2					
+51	Virginia	OXYFLUORFEN	1992	kg					77.5		1515.1			
+51	Virginia	OXYFLUORFEN	1993	kg					1.2		9.9			19.7
+51	Virginia	OXYFLUORFEN	1994	kg				5.4	23.2					470.5
+51	Virginia	OXYFLUORFEN	1995	kg				449.6	54.8		4			
+51	Virginia	OXYFLUORFEN	1996	kg					81.5					132.3
+51	Virginia	OXYFLUORFEN	1997	kg				8.7	15.1		490.7			
+51	Virginia	OXYFLUORFEN	1998	kg					1.7		301.5			
+51	Virginia	OXYFLUORFEN	1999	kg					0		985.4			
+51	Virginia	OXYFLUORFEN	2000	kg					0.7		921.7			
+51	Virginia	OXYFLUORFEN	2001	kg					18.1		321.8			
+51	Virginia	OXYFLUORFEN	2002	kg					77					
+51	Virginia	OXYFLUORFEN	2003	kg					2.1					
+51	Virginia	OXYFLUORFEN	2004	kg					60.6		859.4			
+51	Virginia	OXYFLUORFEN	2005	kg					0.7		551.8			
+51	Virginia	OXYFLUORFEN	2006	kg					15.4					
+51	Virginia	OXYFLUORFEN	2007	kg					42.9					
+51	Virginia	OXYFLUORFEN	2008	kg					3.6					
+51	Virginia	OXYFLUORFEN	2009	kg					6.6					
+51	Virginia	OXYFLUORFEN	2010	kg					34					
+51	Virginia	OXYFLUORFEN	2011	kg				11.4	9.6					
+51	Virginia	OXYFLUORFEN	2012	kg					20.7					
+51	Virginia	OXYFLUORFEN	2013	kg					6.2					
+51	Virginia	OXYFLUORFEN	2014	kg					10.1					
+51	Virginia	OXYFLUORFEN	2016	kg	799.9			557.5						
+51	Virginia	OXYFLUORFEN	2017	kg		113.5								
+53	Washington	OXYFLUORFEN	1992	kg					400.2		1156.3		267.2	3.5
+53	Washington	OXYFLUORFEN	1993	kg					475.1		4139.1		809.2	
+53	Washington	OXYFLUORFEN	1994	kg					931.6		1063.8		177.1	194
+53	Washington	OXYFLUORFEN	1995	kg					1061.5		4726.2		219.7	
+53	Washington	OXYFLUORFEN	1996	kg					2311.3		6575.4		102.6	
+53	Washington	OXYFLUORFEN	1997	kg					2843.5		3135.5		329.1	12
+53	Washington	OXYFLUORFEN	1998	kg					2790.3		29465.9			
+53	Washington	OXYFLUORFEN	1999	kg					2055.5		20840.2			
+53	Washington	OXYFLUORFEN	2000	kg					2536.1		22550.1			
+53	Washington	OXYFLUORFEN	2001	kg					1640.1		10282.7			
+53	Washington	OXYFLUORFEN	2002	kg					1912.6		15132.8			
+53	Washington	OXYFLUORFEN	2003	kg					2011.8		16739.2		1536.6	
+53	Washington	OXYFLUORFEN	2004	kg					1994.3		17615.1			
+53	Washington	OXYFLUORFEN	2005	kg					2822.1		15348			
+53	Washington	OXYFLUORFEN	2006	kg					2088.8		8418.3			
+53	Washington	OXYFLUORFEN	2007	kg					3109.1		4442.1			
+53	Washington	OXYFLUORFEN	2008	kg					1569.5		22442.3			
+53	Washington	OXYFLUORFEN	2009	kg					1812.9		9484.9			
+53	Washington	OXYFLUORFEN	2010	kg					2349.9		6688.2			
+53	Washington	OXYFLUORFEN	2011	kg					2398.4		14023.2			
+53	Washington	OXYFLUORFEN	2012	kg					2072.1		31825			
+53	Washington	OXYFLUORFEN	2013	kg					2362.6		4576.9			
+53	Washington	OXYFLUORFEN	2014	kg					2121.3		10326.7			
+53	Washington	OXYFLUORFEN	2015	kg					1668.9		5531.2			
+53	Washington	OXYFLUORFEN	2016	kg					3171.5		5258.8			
+53	Washington	OXYFLUORFEN	2017	kg					2113.8		6622		385.8	
+54	West Virginia	OXYFLUORFEN	1992	kg					3.6					
+54	West Virginia	OXYFLUORFEN	1993	kg					1.1		2			15.1
+54	West Virginia	OXYFLUORFEN	1994	kg					0.3					5.6
+54	West Virginia	OXYFLUORFEN	1995	kg					0.6		1.4			
+54	West Virginia	OXYFLUORFEN	1996	kg					25.7					
+54	West Virginia	OXYFLUORFEN	1997	kg							197.5			
+54	West Virginia	OXYFLUORFEN	1998	kg					0.7		121.4			
+54	West Virginia	OXYFLUORFEN	1999	kg					5		366.6			
+54	West Virginia	OXYFLUORFEN	2000	kg					10.6		330.3			
+54	West Virginia	OXYFLUORFEN	2001	kg					0.5		178.9			
+54	West Virginia	OXYFLUORFEN	2002	kg					7.4					
+54	West Virginia	OXYFLUORFEN	2003	kg					2.2					
+54	West Virginia	OXYFLUORFEN	2004	kg					1.7		285.9			
+54	West Virginia	OXYFLUORFEN	2005	kg							169.6			
+55	Wisconsin	OXYFLUORFEN	1992	kg					111.2					
+55	Wisconsin	OXYFLUORFEN	1993	kg					170.4					211.5
+55	Wisconsin	OXYFLUORFEN	1994	kg					407.6					
+55	Wisconsin	OXYFLUORFEN	1995	kg					1160.6					
+55	Wisconsin	OXYFLUORFEN	1996	kg	1106.1				70.8					
+55	Wisconsin	OXYFLUORFEN	1997	kg	805.6				174.1					
+55	Wisconsin	OXYFLUORFEN	1999	kg					23.5					
+55	Wisconsin	OXYFLUORFEN	2000	kg							388.9			
+55	Wisconsin	OXYFLUORFEN	2001	kg					175.8					
+55	Wisconsin	OXYFLUORFEN	2003	kg					850.4					
+55	Wisconsin	OXYFLUORFEN	2004	kg					752					
+55	Wisconsin	OXYFLUORFEN	2005	kg					364.2					
+55	Wisconsin	OXYFLUORFEN	2006	kg					102.3					
+55	Wisconsin	OXYFLUORFEN	2007	kg					339.9					
+55	Wisconsin	OXYFLUORFEN	2008	kg					42.1					
+55	Wisconsin	OXYFLUORFEN	2009	kg					241.1					
+55	Wisconsin	OXYFLUORFEN	2010	kg					364.5					
+55	Wisconsin	OXYFLUORFEN	2012	kg					160.6					
+55	Wisconsin	OXYFLUORFEN	2013	kg					515.3					
+55	Wisconsin	OXYFLUORFEN	2014	kg					290.5					
+55	Wisconsin	OXYFLUORFEN	2015	kg					463.7					
+55	Wisconsin	OXYFLUORFEN	2016	kg					265.1					
+55	Wisconsin	OXYFLUORFEN	2017	kg					401.3					
+56	Wyoming	OXYFLUORFEN	2008	kg					0					
+56	Wyoming	OXYFLUORFEN	2009	kg					0					
+56	Wyoming	OXYFLUORFEN	2010	kg					0					
+56	Wyoming	OXYFLUORFEN	2011	kg					0					
+56	Wyoming	OXYFLUORFEN	2012	kg					0.1					
+56	Wyoming	OXYFLUORFEN	2013	kg					0.1					
+56	Wyoming	OXYFLUORFEN	2014	kg					0.1					
+56	Wyoming	OXYFLUORFEN	2015	kg					0					
+56	Wyoming	OXYFLUORFEN	2016	kg					0					
+56	Wyoming	OXYFLUORFEN	2017	kg					0					

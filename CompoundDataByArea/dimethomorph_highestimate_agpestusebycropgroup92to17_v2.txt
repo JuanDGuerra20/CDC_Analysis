@@ -1,0 +1,546 @@
+01	Alabama	DIMETHOMORPH	1996	kg										0.1
+01	Alabama	DIMETHOMORPH	1997	kg										0
+01	Alabama	DIMETHOMORPH	1998	kg										0
+01	Alabama	DIMETHOMORPH	1999	kg										0
+01	Alabama	DIMETHOMORPH	2000	kg										0
+01	Alabama	DIMETHOMORPH	2001	kg										0
+01	Alabama	DIMETHOMORPH	2002	kg										0
+01	Alabama	DIMETHOMORPH	2003	kg										0
+01	Alabama	DIMETHOMORPH	2004	kg					52.2					0
+01	Alabama	DIMETHOMORPH	2005	kg										0
+01	Alabama	DIMETHOMORPH	2006	kg										0
+01	Alabama	DIMETHOMORPH	2009	kg					13.1					
+04	Arizona	DIMETHOMORPH	2004	kg					3412					
+04	Arizona	DIMETHOMORPH	2005	kg					1522.6					
+04	Arizona	DIMETHOMORPH	2006	kg					5667.1					
+04	Arizona	DIMETHOMORPH	2007	kg					190.3					
+04	Arizona	DIMETHOMORPH	2008	kg					124.6					
+04	Arizona	DIMETHOMORPH	2009	kg					480.6					
+04	Arizona	DIMETHOMORPH	2010	kg					478.8					
+04	Arizona	DIMETHOMORPH	2011	kg					359.9					
+04	Arizona	DIMETHOMORPH	2012	kg					387.7					
+04	Arizona	DIMETHOMORPH	2013	kg					2780.5					
+04	Arizona	DIMETHOMORPH	2014	kg					1914.2					
+04	Arizona	DIMETHOMORPH	2015	kg					4333.8					
+04	Arizona	DIMETHOMORPH	2016	kg					7179.3					
+04	Arizona	DIMETHOMORPH	2017	kg					2706.1					
+05	Arkansas	DIMETHOMORPH	2004	kg					17.7					
+05	Arkansas	DIMETHOMORPH	2005	kg					18.9					
+05	Arkansas	DIMETHOMORPH	2006	kg					18.9					
+06	California	DIMETHOMORPH	1998	kg					414.3					
+06	California	DIMETHOMORPH	1999	kg					41.3					
+06	California	DIMETHOMORPH	2001	kg					0.1					
+06	California	DIMETHOMORPH	2002	kg					92.5					
+06	California	DIMETHOMORPH	2003	kg					414.7					
+06	California	DIMETHOMORPH	2004	kg					12009.3		165.8			
+06	California	DIMETHOMORPH	2005	kg					21851.3		452.1			
+06	California	DIMETHOMORPH	2006	kg					19972.8		426.7			
+06	California	DIMETHOMORPH	2007	kg					3162.2		470.7	0.5		
+06	California	DIMETHOMORPH	2008	kg					1209.5		262.4	6.2		
+06	California	DIMETHOMORPH	2009	kg					1579.6		242.8			0.7
+06	California	DIMETHOMORPH	2010	kg					1641.6		266.2			0.8
+06	California	DIMETHOMORPH	2011	kg			0.2		1300.7		248			0.3
+06	California	DIMETHOMORPH	2012	kg					1075.7		284.3			0.8
+06	California	DIMETHOMORPH	2013	kg					3505.7		275.6			0.4
+06	California	DIMETHOMORPH	2014	kg			0.9		11252.5		361.2			93.5
+06	California	DIMETHOMORPH	2015	kg					14020.8		380.2			19
+06	California	DIMETHOMORPH	2016	kg					15581.9		468.8	0.5		2.6
+06	California	DIMETHOMORPH	2017	kg					15991.1		446.1			4.4
+08	Colorado	DIMETHOMORPH	1995	kg					313.5					
+08	Colorado	DIMETHOMORPH	1996	kg					1379.6					
+08	Colorado	DIMETHOMORPH	1999	kg					584.9					
+08	Colorado	DIMETHOMORPH	2003	kg					58.2					
+08	Colorado	DIMETHOMORPH	2004	kg					846.4					
+08	Colorado	DIMETHOMORPH	2007	kg					210.1					
+08	Colorado	DIMETHOMORPH	2015	kg					223.9					
+09	Connecticut	DIMETHOMORPH	1998	kg										174
+09	Connecticut	DIMETHOMORPH	1999	kg										901.1
+09	Connecticut	DIMETHOMORPH	2000	kg										127
+09	Connecticut	DIMETHOMORPH	2001	kg										1107.9
+09	Connecticut	DIMETHOMORPH	2002	kg										501.2
+09	Connecticut	DIMETHOMORPH	2003	kg					36.4					466.2
+09	Connecticut	DIMETHOMORPH	2004	kg					95.5					312.9
+09	Connecticut	DIMETHOMORPH	2005	kg					37.4					
+09	Connecticut	DIMETHOMORPH	2006	kg					35.6					
+09	Connecticut	DIMETHOMORPH	2008	kg					50.8					
+09	Connecticut	DIMETHOMORPH	2010	kg					27					
+09	Connecticut	DIMETHOMORPH	2013	kg					227.5					
+09	Connecticut	DIMETHOMORPH	2014	kg					70					
+09	Connecticut	DIMETHOMORPH	2015	kg					89.9					
+09	Connecticut	DIMETHOMORPH	2016	kg					39.4					
+10	Delaware	DIMETHOMORPH	1998	kg					3					
+10	Delaware	DIMETHOMORPH	2002	kg					203.1					
+10	Delaware	DIMETHOMORPH	2003	kg					148.6					
+10	Delaware	DIMETHOMORPH	2004	kg					217.3					
+10	Delaware	DIMETHOMORPH	2005	kg					2.7					
+10	Delaware	DIMETHOMORPH	2006	kg					175.1					
+10	Delaware	DIMETHOMORPH	2007	kg					31.9					
+10	Delaware	DIMETHOMORPH	2008	kg					1.3					
+10	Delaware	DIMETHOMORPH	2009	kg					204.1					
+10	Delaware	DIMETHOMORPH	2010	kg					0.8					
+10	Delaware	DIMETHOMORPH	2011	kg					0.4					
+10	Delaware	DIMETHOMORPH	2012	kg					0.3					
+10	Delaware	DIMETHOMORPH	2013	kg					1.5					
+10	Delaware	DIMETHOMORPH	2017	kg					8.2					
+12	Florida	DIMETHOMORPH	1997	kg					24					1.5
+12	Florida	DIMETHOMORPH	1998	kg					301.4					196
+12	Florida	DIMETHOMORPH	1999	kg					25					56
+12	Florida	DIMETHOMORPH	2000	kg										124.1
+12	Florida	DIMETHOMORPH	2002	kg										7.1
+12	Florida	DIMETHOMORPH	2003	kg										10.2
+12	Florida	DIMETHOMORPH	2004	kg										9.5
+12	Florida	DIMETHOMORPH	2005	kg					307.8					1.9
+12	Florida	DIMETHOMORPH	2007	kg					118.3					
+12	Florida	DIMETHOMORPH	2008	kg					236					
+12	Florida	DIMETHOMORPH	2009	kg					169.8					
+12	Florida	DIMETHOMORPH	2012	kg					314.5					
+12	Florida	DIMETHOMORPH	2013	kg					669.1					
+12	Florida	DIMETHOMORPH	2014	kg					184.8					
+12	Florida	DIMETHOMORPH	2015	kg					3017.3					
+12	Florida	DIMETHOMORPH	2016	kg					197.5					
+12	Florida	DIMETHOMORPH	2017	kg					2005.2					
+13	Georgia	DIMETHOMORPH	1996	kg										458.3
+13	Georgia	DIMETHOMORPH	1997	kg										53.4
+13	Georgia	DIMETHOMORPH	1998	kg										550.9
+13	Georgia	DIMETHOMORPH	1999	kg										499.7
+13	Georgia	DIMETHOMORPH	2000	kg										1080.5
+13	Georgia	DIMETHOMORPH	2001	kg										154.6
+13	Georgia	DIMETHOMORPH	2002	kg										62.5
+13	Georgia	DIMETHOMORPH	2003	kg										100.5
+13	Georgia	DIMETHOMORPH	2004	kg					2.7					113.7
+13	Georgia	DIMETHOMORPH	2005	kg										28.2
+13	Georgia	DIMETHOMORPH	2006	kg										7
+13	Georgia	DIMETHOMORPH	2009	kg					1239.2					
+13	Georgia	DIMETHOMORPH	2012	kg					1585.7					
+13	Georgia	DIMETHOMORPH	2013	kg					2317.4					
+13	Georgia	DIMETHOMORPH	2014	kg					449.9					101.7
+13	Georgia	DIMETHOMORPH	2015	kg					2360.5					
+13	Georgia	DIMETHOMORPH	2016	kg					293.1					45.1
+13	Georgia	DIMETHOMORPH	2017	kg					22					
+16	Idaho	DIMETHOMORPH	1995	kg					1595.3					
+16	Idaho	DIMETHOMORPH	1997	kg					416.7					
+16	Idaho	DIMETHOMORPH	2003	kg					309.6					
+16	Idaho	DIMETHOMORPH	2004	kg					300.9					
+16	Idaho	DIMETHOMORPH	2006	kg					1087.1					
+16	Idaho	DIMETHOMORPH	2007	kg					1313.4					
+16	Idaho	DIMETHOMORPH	2009	kg					1471.5					
+16	Idaho	DIMETHOMORPH	2012	kg					614.4					
+16	Idaho	DIMETHOMORPH	2013	kg					384.1					
+16	Idaho	DIMETHOMORPH	2014	kg					550.5					
+16	Idaho	DIMETHOMORPH	2015	kg					1524.8					
+16	Idaho	DIMETHOMORPH	2016	kg					183					
+16	Idaho	DIMETHOMORPH	2017	kg					2207.4					
+17	Illinois	DIMETHOMORPH	1997	kg										4.4
+17	Illinois	DIMETHOMORPH	1998	kg										10.1
+17	Illinois	DIMETHOMORPH	1999	kg										1.8
+17	Illinois	DIMETHOMORPH	2000	kg										0.3
+17	Illinois	DIMETHOMORPH	2001	kg					46.5					0.4
+17	Illinois	DIMETHOMORPH	2002	kg					1396					0.4
+17	Illinois	DIMETHOMORPH	2003	kg					361.5					2.1
+17	Illinois	DIMETHOMORPH	2004	kg					376.7					0.4
+17	Illinois	DIMETHOMORPH	2005	kg					189.9					
+17	Illinois	DIMETHOMORPH	2006	kg					1086.5					0.2
+17	Illinois	DIMETHOMORPH	2007	kg					1527.3					
+17	Illinois	DIMETHOMORPH	2008	kg					924.1					7.6
+17	Illinois	DIMETHOMORPH	2009	kg										2.1
+17	Illinois	DIMETHOMORPH	2011	kg					13					
+17	Illinois	DIMETHOMORPH	2013	kg					74.1					
+17	Illinois	DIMETHOMORPH	2015	kg					555.3					
+17	Illinois	DIMETHOMORPH	2016	kg					191.8					
+18	Indiana	DIMETHOMORPH	1997	kg										24.1
+18	Indiana	DIMETHOMORPH	1998	kg										313.1
+18	Indiana	DIMETHOMORPH	1999	kg										19.6
+18	Indiana	DIMETHOMORPH	2000	kg										10.6
+18	Indiana	DIMETHOMORPH	2001	kg					141					57.4
+18	Indiana	DIMETHOMORPH	2002	kg					42.2					5.7
+18	Indiana	DIMETHOMORPH	2003	kg					15.5					5.5
+18	Indiana	DIMETHOMORPH	2004	kg					68.6					4.1
+18	Indiana	DIMETHOMORPH	2005	kg					53.6					
+18	Indiana	DIMETHOMORPH	2006	kg					130.8					1.7
+18	Indiana	DIMETHOMORPH	2007	kg					184.6					4.8
+18	Indiana	DIMETHOMORPH	2008	kg										13
+18	Indiana	DIMETHOMORPH	2009	kg					1.2					1.1
+18	Indiana	DIMETHOMORPH	2010	kg										1.3
+18	Indiana	DIMETHOMORPH	2011	kg					0					
+18	Indiana	DIMETHOMORPH	2013	kg					30.1					
+18	Indiana	DIMETHOMORPH	2014	kg					16.9					
+18	Indiana	DIMETHOMORPH	2015	kg					128.5					
+18	Indiana	DIMETHOMORPH	2016	kg					305.6					
+18	Indiana	DIMETHOMORPH	2017	kg					17.7					
+19	Iowa	DIMETHOMORPH	2011	kg					4					
+19	Iowa	DIMETHOMORPH	2015	kg					4.8					
+21	Kentucky	DIMETHOMORPH	1996	kg										2051.5
+21	Kentucky	DIMETHOMORPH	1997	kg										1108.6
+21	Kentucky	DIMETHOMORPH	1998	kg										3965
+21	Kentucky	DIMETHOMORPH	1999	kg										967.4
+21	Kentucky	DIMETHOMORPH	2000	kg										1044
+21	Kentucky	DIMETHOMORPH	2001	kg										1286.8
+21	Kentucky	DIMETHOMORPH	2002	kg										143.1
+21	Kentucky	DIMETHOMORPH	2003	kg										376
+21	Kentucky	DIMETHOMORPH	2004	kg					24.4					840.5
+21	Kentucky	DIMETHOMORPH	2005	kg					11.5					490.9
+21	Kentucky	DIMETHOMORPH	2006	kg					11.9					1271.1
+21	Kentucky	DIMETHOMORPH	2007	kg										206.7
+21	Kentucky	DIMETHOMORPH	2008	kg										737.1
+21	Kentucky	DIMETHOMORPH	2009	kg					6.8					96.6
+21	Kentucky	DIMETHOMORPH	2010	kg										55.2
+21	Kentucky	DIMETHOMORPH	2014	kg										365.3
+21	Kentucky	DIMETHOMORPH	2015	kg					6.7					52.7
+21	Kentucky	DIMETHOMORPH	2016	kg					28.3					13.8
+22	Louisiana	DIMETHOMORPH	1997	kg			4013							
+23	Maine	DIMETHOMORPH	1998	kg					69.6					
+23	Maine	DIMETHOMORPH	2003	kg					360.3					
+23	Maine	DIMETHOMORPH	2004	kg					54.9					
+23	Maine	DIMETHOMORPH	2006	kg					438.8					
+23	Maine	DIMETHOMORPH	2011	kg					191.9					
+24	Maryland	DIMETHOMORPH	1996	kg										0.5
+24	Maryland	DIMETHOMORPH	1997	kg										0.4
+24	Maryland	DIMETHOMORPH	1998	kg					0.3					0.7
+24	Maryland	DIMETHOMORPH	1999	kg										0.6
+24	Maryland	DIMETHOMORPH	2000	kg										2.8
+24	Maryland	DIMETHOMORPH	2001	kg										3.4
+24	Maryland	DIMETHOMORPH	2002	kg					127.5					1.5
+24	Maryland	DIMETHOMORPH	2003	kg					300.8					1.2
+24	Maryland	DIMETHOMORPH	2004	kg					1151.6					1
+24	Maryland	DIMETHOMORPH	2005	kg					133.7					5.8
+24	Maryland	DIMETHOMORPH	2006	kg					185.4					2
+24	Maryland	DIMETHOMORPH	2007	kg					16.3					1.4
+24	Maryland	DIMETHOMORPH	2008	kg					16.8					2.4
+24	Maryland	DIMETHOMORPH	2009	kg					185.5					3.6
+24	Maryland	DIMETHOMORPH	2010	kg					17.8					2.1
+24	Maryland	DIMETHOMORPH	2011	kg					2.4					3.5
+24	Maryland	DIMETHOMORPH	2012	kg					1.7					2.1
+24	Maryland	DIMETHOMORPH	2013	kg					10.1					1.4
+24	Maryland	DIMETHOMORPH	2014	kg					40.6					3.8
+24	Maryland	DIMETHOMORPH	2015	kg					133.4					5.9
+24	Maryland	DIMETHOMORPH	2016	kg					23.2					2.5
+24	Maryland	DIMETHOMORPH	2017	kg					39.9					4.8
+25	Massachusetts	DIMETHOMORPH	1998	kg										293.9
+25	Massachusetts	DIMETHOMORPH	1999	kg										240.1
+25	Massachusetts	DIMETHOMORPH	2000	kg										38.8
+25	Massachusetts	DIMETHOMORPH	2001	kg										360.7
+25	Massachusetts	DIMETHOMORPH	2002	kg										50.9
+25	Massachusetts	DIMETHOMORPH	2003	kg					63.6					126.1
+25	Massachusetts	DIMETHOMORPH	2004	kg					167.3					48
+25	Massachusetts	DIMETHOMORPH	2005	kg					65.4					
+25	Massachusetts	DIMETHOMORPH	2006	kg					63					
+25	Massachusetts	DIMETHOMORPH	2008	kg					81.5					
+25	Massachusetts	DIMETHOMORPH	2010	kg					40.2					
+25	Massachusetts	DIMETHOMORPH	2013	kg					50					
+25	Massachusetts	DIMETHOMORPH	2014	kg					450.9					
+25	Massachusetts	DIMETHOMORPH	2015	kg					320.9					
+25	Massachusetts	DIMETHOMORPH	2016	kg					137.8					
+26	Michigan	DIMETHOMORPH	1996	kg					540.2					
+26	Michigan	DIMETHOMORPH	1997	kg					1289.4					
+26	Michigan	DIMETHOMORPH	2000	kg					7947.5					
+26	Michigan	DIMETHOMORPH	2001	kg					3321.4					
+26	Michigan	DIMETHOMORPH	2002	kg					749.5					
+26	Michigan	DIMETHOMORPH	2003	kg					742.7					
+26	Michigan	DIMETHOMORPH	2004	kg					926.2					
+26	Michigan	DIMETHOMORPH	2005	kg					886.9					
+26	Michigan	DIMETHOMORPH	2006	kg					217.7					
+26	Michigan	DIMETHOMORPH	2007	kg					2943.6					
+26	Michigan	DIMETHOMORPH	2009	kg					88.9					
+26	Michigan	DIMETHOMORPH	2011	kg					5.8					
+26	Michigan	DIMETHOMORPH	2013	kg					152.5					
+26	Michigan	DIMETHOMORPH	2014	kg					879.1					
+26	Michigan	DIMETHOMORPH	2015	kg					309.1					
+26	Michigan	DIMETHOMORPH	2016	kg					4120.2					
+26	Michigan	DIMETHOMORPH	2017	kg					1861.9					
+27	Minnesota	DIMETHOMORPH	1998	kg					249					
+27	Minnesota	DIMETHOMORPH	1999	kg					1583.3					
+27	Minnesota	DIMETHOMORPH	2000	kg					544					
+27	Minnesota	DIMETHOMORPH	2002	kg					799.1					
+27	Minnesota	DIMETHOMORPH	2003	kg					159.2					
+27	Minnesota	DIMETHOMORPH	2011	kg					7.2					
+27	Minnesota	DIMETHOMORPH	2015	kg					4.1					
+27	Minnesota	DIMETHOMORPH	2016	kg					909.8					
+28	Mississippi	DIMETHOMORPH	1997	kg			3553.7							
+28	Mississippi	DIMETHOMORPH	2004	kg					8.4					
+28	Mississippi	DIMETHOMORPH	2005	kg					8.8					
+28	Mississippi	DIMETHOMORPH	2006	kg					8.8					
+29	Missouri	DIMETHOMORPH	2004	kg					36.4					
+29	Missouri	DIMETHOMORPH	2005	kg					35.9					
+29	Missouri	DIMETHOMORPH	2006	kg					63.1					
+29	Missouri	DIMETHOMORPH	2008	kg					30.2					0.1
+29	Missouri	DIMETHOMORPH	2009	kg										0.1
+29	Missouri	DIMETHOMORPH	2015	kg					7.2					
+30	Montana	DIMETHOMORPH	2014	kg					12.2					
+30	Montana	DIMETHOMORPH	2015	kg					30.9					
+30	Montana	DIMETHOMORPH	2016	kg					4.2					
+31	Nebraska	DIMETHOMORPH	1996	kg					6663.3					
+32	Nevada	DIMETHOMORPH	1995	kg					30.8					
+32	Nevada	DIMETHOMORPH	2003	kg					9.2					
+32	Nevada	DIMETHOMORPH	2004	kg					190.5					
+32	Nevada	DIMETHOMORPH	2005	kg					111.8					
+32	Nevada	DIMETHOMORPH	2006	kg					73					
+32	Nevada	DIMETHOMORPH	2007	kg					21.8					
+32	Nevada	DIMETHOMORPH	2008	kg					34.1					
+32	Nevada	DIMETHOMORPH	2009	kg					61.3					
+32	Nevada	DIMETHOMORPH	2010	kg					8.6					
+32	Nevada	DIMETHOMORPH	2011	kg					2.7					
+32	Nevada	DIMETHOMORPH	2012	kg					52.5					
+32	Nevada	DIMETHOMORPH	2013	kg					5.7					
+32	Nevada	DIMETHOMORPH	2014	kg					1.6					
+32	Nevada	DIMETHOMORPH	2015	kg					80.2					
+32	Nevada	DIMETHOMORPH	2016	kg					0.1					
+32	Nevada	DIMETHOMORPH	2017	kg					5.1					
+33	New Hampshire	DIMETHOMORPH	2003	kg					12.4					
+33	New Hampshire	DIMETHOMORPH	2004	kg					33.1					
+33	New Hampshire	DIMETHOMORPH	2005	kg					13.3					
+33	New Hampshire	DIMETHOMORPH	2006	kg					12.8					
+33	New Hampshire	DIMETHOMORPH	2008	kg					21.5					
+33	New Hampshire	DIMETHOMORPH	2010	kg					12.4					
+33	New Hampshire	DIMETHOMORPH	2013	kg					9.7					
+33	New Hampshire	DIMETHOMORPH	2014	kg					87.6					
+33	New Hampshire	DIMETHOMORPH	2015	kg					74.3					
+33	New Hampshire	DIMETHOMORPH	2016	kg					26.6					
+34	New Jersey	DIMETHOMORPH	1998	kg					7					
+34	New Jersey	DIMETHOMORPH	2003	kg					154.6					
+34	New Jersey	DIMETHOMORPH	2004	kg					1036.1					
+34	New Jersey	DIMETHOMORPH	2005	kg					48					
+34	New Jersey	DIMETHOMORPH	2006	kg					454.4					
+34	New Jersey	DIMETHOMORPH	2007	kg					95.2					
+34	New Jersey	DIMETHOMORPH	2008	kg					42.3					
+34	New Jersey	DIMETHOMORPH	2009	kg					191.8					
+34	New Jersey	DIMETHOMORPH	2010	kg					20.3					
+34	New Jersey	DIMETHOMORPH	2011	kg					7.4					
+34	New Jersey	DIMETHOMORPH	2012	kg					6.2					
+34	New Jersey	DIMETHOMORPH	2013	kg					77.3					
+34	New Jersey	DIMETHOMORPH	2014	kg					436.4					
+34	New Jersey	DIMETHOMORPH	2015	kg					277.5					
+34	New Jersey	DIMETHOMORPH	2016	kg					252.3					
+34	New Jersey	DIMETHOMORPH	2017	kg					113.6					
+35	New Mexico	DIMETHOMORPH	1995	kg					26.1					
+35	New Mexico	DIMETHOMORPH	1999	kg					81					
+35	New Mexico	DIMETHOMORPH	2003	kg					6					
+35	New Mexico	DIMETHOMORPH	2004	kg					91.2					
+35	New Mexico	DIMETHOMORPH	2005	kg					2.5					
+35	New Mexico	DIMETHOMORPH	2007	kg					0.3					
+35	New Mexico	DIMETHOMORPH	2008	kg					0					
+35	New Mexico	DIMETHOMORPH	2009	kg					0					
+35	New Mexico	DIMETHOMORPH	2010	kg					0					
+35	New Mexico	DIMETHOMORPH	2011	kg					0					
+35	New Mexico	DIMETHOMORPH	2012	kg					0					
+35	New Mexico	DIMETHOMORPH	2013	kg					0					
+35	New Mexico	DIMETHOMORPH	2014	kg					0					
+35	New Mexico	DIMETHOMORPH	2015	kg					2.6					
+35	New Mexico	DIMETHOMORPH	2016	kg					0.3					
+35	New Mexico	DIMETHOMORPH	2017	kg					0					
+36	New York	DIMETHOMORPH	2003	kg					108.8					
+36	New York	DIMETHOMORPH	2004	kg					142.3					
+36	New York	DIMETHOMORPH	2005	kg					79.2					
+36	New York	DIMETHOMORPH	2006	kg					68.4					
+36	New York	DIMETHOMORPH	2008	kg					293.8					
+36	New York	DIMETHOMORPH	2010	kg					155.3					
+36	New York	DIMETHOMORPH	2013	kg					275.2					
+36	New York	DIMETHOMORPH	2014	kg					889.7					
+36	New York	DIMETHOMORPH	2015	kg					531.7					
+36	New York	DIMETHOMORPH	2016	kg					674.9					
+36	New York	DIMETHOMORPH	2017	kg					1549.5					
+37	North Carolina	DIMETHOMORPH	1996	kg										4797.3
+37	North Carolina	DIMETHOMORPH	1997	kg										10514.2
+37	North Carolina	DIMETHOMORPH	1998	kg										4317.2
+37	North Carolina	DIMETHOMORPH	1999	kg										2159.3
+37	North Carolina	DIMETHOMORPH	2000	kg										3986.1
+37	North Carolina	DIMETHOMORPH	2001	kg										1510.5
+37	North Carolina	DIMETHOMORPH	2002	kg										235.3
+37	North Carolina	DIMETHOMORPH	2003	kg										1367.9
+37	North Carolina	DIMETHOMORPH	2004	kg					36.4					3010.1
+37	North Carolina	DIMETHOMORPH	2005	kg										308.4
+37	North Carolina	DIMETHOMORPH	2006	kg										78.9
+37	North Carolina	DIMETHOMORPH	2007	kg										28.5
+37	North Carolina	DIMETHOMORPH	2008	kg					32.4					121.2
+37	North Carolina	DIMETHOMORPH	2009	kg					387.6					47.4
+37	North Carolina	DIMETHOMORPH	2013	kg					521.4					
+37	North Carolina	DIMETHOMORPH	2014	kg					241.5					1739.9
+37	North Carolina	DIMETHOMORPH	2015	kg					1097.4					
+37	North Carolina	DIMETHOMORPH	2016	kg										685.1
+37	North Carolina	DIMETHOMORPH	2017	kg					13.9					
+38	North Dakota	DIMETHOMORPH	1998	kg					402.2					
+38	North Dakota	DIMETHOMORPH	1999	kg					3064.9					
+39	Ohio	DIMETHOMORPH	1996	kg										92.2
+39	Ohio	DIMETHOMORPH	1997	kg										36.1
+39	Ohio	DIMETHOMORPH	1998	kg										77.1
+39	Ohio	DIMETHOMORPH	1999	kg										42.7
+39	Ohio	DIMETHOMORPH	2000	kg										9.9
+39	Ohio	DIMETHOMORPH	2001	kg										26.5
+39	Ohio	DIMETHOMORPH	2002	kg										4
+39	Ohio	DIMETHOMORPH	2003	kg					33					6.7
+39	Ohio	DIMETHOMORPH	2004	kg					140.6					79
+39	Ohio	DIMETHOMORPH	2005	kg					207.3					0
+39	Ohio	DIMETHOMORPH	2006	kg					151.9					47.6
+39	Ohio	DIMETHOMORPH	2007	kg										8.4
+39	Ohio	DIMETHOMORPH	2008	kg					44.5					25.4
+39	Ohio	DIMETHOMORPH	2009	kg										5.4
+39	Ohio	DIMETHOMORPH	2010	kg					12					2.3
+39	Ohio	DIMETHOMORPH	2013	kg					15.2					
+39	Ohio	DIMETHOMORPH	2014	kg					33					0
+39	Ohio	DIMETHOMORPH	2016	kg					101.2					
+41	Oregon	DIMETHOMORPH	1995	kg					151.4					
+41	Oregon	DIMETHOMORPH	2003	kg					47.4					
+41	Oregon	DIMETHOMORPH	2004	kg					1548.8					
+41	Oregon	DIMETHOMORPH	2005	kg					1.5					
+41	Oregon	DIMETHOMORPH	2006	kg					100.7					
+41	Oregon	DIMETHOMORPH	2007	kg					215.6					
+41	Oregon	DIMETHOMORPH	2008	kg					98.8					
+41	Oregon	DIMETHOMORPH	2009	kg					297.6					
+41	Oregon	DIMETHOMORPH	2012	kg					358.6					
+41	Oregon	DIMETHOMORPH	2013	kg					1919.6					
+41	Oregon	DIMETHOMORPH	2014	kg					455.7					
+41	Oregon	DIMETHOMORPH	2015	kg					1416					
+41	Oregon	DIMETHOMORPH	2016	kg					1890.8					
+41	Oregon	DIMETHOMORPH	2017	kg					2128					
+42	Pennsylvania	DIMETHOMORPH	1997	kg					125.6					
+42	Pennsylvania	DIMETHOMORPH	1998	kg					24.9					159.2
+42	Pennsylvania	DIMETHOMORPH	1999	kg										121.4
+42	Pennsylvania	DIMETHOMORPH	2000	kg										516.6
+42	Pennsylvania	DIMETHOMORPH	2001	kg										582.4
+42	Pennsylvania	DIMETHOMORPH	2002	kg										252.6
+42	Pennsylvania	DIMETHOMORPH	2003	kg					143.3					286.4
+42	Pennsylvania	DIMETHOMORPH	2004	kg					625.5					192.8
+42	Pennsylvania	DIMETHOMORPH	2005	kg					443.3					1079.6
+42	Pennsylvania	DIMETHOMORPH	2006	kg					425.3					404.8
+42	Pennsylvania	DIMETHOMORPH	2007	kg					222.5					307.8
+42	Pennsylvania	DIMETHOMORPH	2008	kg					266.4					555.8
+42	Pennsylvania	DIMETHOMORPH	2009	kg					104.5					794.4
+42	Pennsylvania	DIMETHOMORPH	2010	kg					195.1					458.8
+42	Pennsylvania	DIMETHOMORPH	2011	kg					17					948
+42	Pennsylvania	DIMETHOMORPH	2012	kg					14.5					575.4
+42	Pennsylvania	DIMETHOMORPH	2013	kg					201.5					258
+42	Pennsylvania	DIMETHOMORPH	2014	kg					467.9					655.5
+42	Pennsylvania	DIMETHOMORPH	2015	kg					1129.9					749.9
+42	Pennsylvania	DIMETHOMORPH	2016	kg					280.6					532.8
+42	Pennsylvania	DIMETHOMORPH	2017	kg					278.4					504.2
+44	Rhode Island	DIMETHOMORPH	2003	kg					6.4					
+44	Rhode Island	DIMETHOMORPH	2004	kg					16.9					
+44	Rhode Island	DIMETHOMORPH	2005	kg					6.8					
+44	Rhode Island	DIMETHOMORPH	2006	kg					6.6					
+44	Rhode Island	DIMETHOMORPH	2008	kg					8.2					
+44	Rhode Island	DIMETHOMORPH	2010	kg					3.8					
+44	Rhode Island	DIMETHOMORPH	2013	kg					19.4					
+44	Rhode Island	DIMETHOMORPH	2014	kg					26					
+44	Rhode Island	DIMETHOMORPH	2015	kg					20					
+44	Rhode Island	DIMETHOMORPH	2016	kg					5					
+45	South Carolina	DIMETHOMORPH	1996	kg										824.2
+45	South Carolina	DIMETHOMORPH	1997	kg										554
+45	South Carolina	DIMETHOMORPH	1998	kg										666.4
+45	South Carolina	DIMETHOMORPH	1999	kg										1501.7
+45	South Carolina	DIMETHOMORPH	2000	kg										1176.4
+45	South Carolina	DIMETHOMORPH	2001	kg										98.8
+45	South Carolina	DIMETHOMORPH	2002	kg										42.3
+45	South Carolina	DIMETHOMORPH	2003	kg										204.6
+45	South Carolina	DIMETHOMORPH	2004	kg					239.6					498.2
+45	South Carolina	DIMETHOMORPH	2005	kg										179.7
+45	South Carolina	DIMETHOMORPH	2006	kg										10.1
+45	South Carolina	DIMETHOMORPH	2008	kg					20.3					
+45	South Carolina	DIMETHOMORPH	2009	kg					509.6					
+45	South Carolina	DIMETHOMORPH	2014	kg					7.1					143.2
+45	South Carolina	DIMETHOMORPH	2015	kg					428.8					
+45	South Carolina	DIMETHOMORPH	2016	kg										55.8
+47	Tennessee	DIMETHOMORPH	1996	kg										617
+47	Tennessee	DIMETHOMORPH	1997	kg										370.4
+47	Tennessee	DIMETHOMORPH	1998	kg										693.1
+47	Tennessee	DIMETHOMORPH	1999	kg										477.7
+47	Tennessee	DIMETHOMORPH	2000	kg										225.5
+47	Tennessee	DIMETHOMORPH	2001	kg										333.3
+47	Tennessee	DIMETHOMORPH	2002	kg										34.2
+47	Tennessee	DIMETHOMORPH	2003	kg										249.8
+47	Tennessee	DIMETHOMORPH	2004	kg					141.5					351.8
+47	Tennessee	DIMETHOMORPH	2005	kg					95.6					139.4
+47	Tennessee	DIMETHOMORPH	2006	kg					95.4					9.5
+47	Tennessee	DIMETHOMORPH	2007	kg										32.6
+47	Tennessee	DIMETHOMORPH	2008	kg										99.6
+47	Tennessee	DIMETHOMORPH	2009	kg					76.3					59.1
+47	Tennessee	DIMETHOMORPH	2014	kg										81.8
+47	Tennessee	DIMETHOMORPH	2015	kg										24.4
+47	Tennessee	DIMETHOMORPH	2016	kg										29.8
+47	Tennessee	DIMETHOMORPH	2017	kg					18.4					
+48	Texas	DIMETHOMORPH	2008	kg					223.6					
+49	Utah	DIMETHOMORPH	1995	kg					1					
+49	Utah	DIMETHOMORPH	1997	kg					0					
+49	Utah	DIMETHOMORPH	2003	kg					0					
+49	Utah	DIMETHOMORPH	2004	kg					0					
+49	Utah	DIMETHOMORPH	2007	kg					0.2					
+49	Utah	DIMETHOMORPH	2014	kg					0.7					
+49	Utah	DIMETHOMORPH	2015	kg					2.6					
+49	Utah	DIMETHOMORPH	2016	kg					0					
+49	Utah	DIMETHOMORPH	2017	kg					0.9					
+50	Vermont	DIMETHOMORPH	2003	kg					8.9					
+50	Vermont	DIMETHOMORPH	2004	kg					23.8					
+50	Vermont	DIMETHOMORPH	2005	kg					9.6					
+50	Vermont	DIMETHOMORPH	2006	kg					9.8					
+50	Vermont	DIMETHOMORPH	2008	kg					16.6					
+50	Vermont	DIMETHOMORPH	2010	kg					10.6					
+50	Vermont	DIMETHOMORPH	2013	kg					8.7					
+50	Vermont	DIMETHOMORPH	2014	kg					86.6					
+50	Vermont	DIMETHOMORPH	2015	kg					71.1					
+50	Vermont	DIMETHOMORPH	2016	kg					20.5					
+51	Virginia	DIMETHOMORPH	1996	kg										742.8
+51	Virginia	DIMETHOMORPH	1997	kg										1003.3
+51	Virginia	DIMETHOMORPH	1998	kg										593.1
+51	Virginia	DIMETHOMORPH	1999	kg										399.9
+51	Virginia	DIMETHOMORPH	2000	kg										450.4
+51	Virginia	DIMETHOMORPH	2001	kg										228
+51	Virginia	DIMETHOMORPH	2002	kg										47.5
+51	Virginia	DIMETHOMORPH	2003	kg					124.9					150.1
+51	Virginia	DIMETHOMORPH	2004	kg					177.4					339.6
+51	Virginia	DIMETHOMORPH	2005	kg										185
+51	Virginia	DIMETHOMORPH	2006	kg										11
+51	Virginia	DIMETHOMORPH	2007	kg										8
+51	Virginia	DIMETHOMORPH	2008	kg										15.5
+51	Virginia	DIMETHOMORPH	2009	kg										78.5
+51	Virginia	DIMETHOMORPH	2014	kg										87.3
+51	Virginia	DIMETHOMORPH	2016	kg										94.6
+53	Washington	DIMETHOMORPH	1995	kg					597.9					
+53	Washington	DIMETHOMORPH	1997	kg					1125.1					
+53	Washington	DIMETHOMORPH	1999	kg					220.6					
+53	Washington	DIMETHOMORPH	2000	kg					505					
+53	Washington	DIMETHOMORPH	2001	kg					290					
+53	Washington	DIMETHOMORPH	2003	kg					142.5					
+53	Washington	DIMETHOMORPH	2004	kg					23895.8					
+53	Washington	DIMETHOMORPH	2005	kg					1.5					
+53	Washington	DIMETHOMORPH	2006	kg					0					
+53	Washington	DIMETHOMORPH	2008	kg					0					
+53	Washington	DIMETHOMORPH	2009	kg					0.5					
+53	Washington	DIMETHOMORPH	2010	kg					398.2					
+53	Washington	DIMETHOMORPH	2012	kg					1.2					
+53	Washington	DIMETHOMORPH	2013	kg					3468.7					
+53	Washington	DIMETHOMORPH	2014	kg					2207.8					
+53	Washington	DIMETHOMORPH	2015	kg					647.8					
+53	Washington	DIMETHOMORPH	2016	kg					3404.1					
+53	Washington	DIMETHOMORPH	2017	kg					908.4					
+54	West Virginia	DIMETHOMORPH	1996	kg										15.6
+54	West Virginia	DIMETHOMORPH	1997	kg										22.4
+54	West Virginia	DIMETHOMORPH	1998	kg										21.4
+54	West Virginia	DIMETHOMORPH	1999	kg										13
+54	West Virginia	DIMETHOMORPH	2000	kg										15.1
+54	West Virginia	DIMETHOMORPH	2001	kg										4.7
+54	West Virginia	DIMETHOMORPH	2002	kg										0.8
+54	West Virginia	DIMETHOMORPH	2003	kg										5.1
+54	West Virginia	DIMETHOMORPH	2004	kg					9.5					11.9
+54	West Virginia	DIMETHOMORPH	2005	kg										5.2
+54	West Virginia	DIMETHOMORPH	2006	kg										0.1
+54	West Virginia	DIMETHOMORPH	2007	kg										0.6
+54	West Virginia	DIMETHOMORPH	2009	kg					1.1					0.8
+54	West Virginia	DIMETHOMORPH	2014	kg										0
+55	Wisconsin	DIMETHOMORPH	1996	kg					119.2					
+55	Wisconsin	DIMETHOMORPH	1997	kg					317.2					
+55	Wisconsin	DIMETHOMORPH	2000	kg					194					
+55	Wisconsin	DIMETHOMORPH	2002	kg					130					
+55	Wisconsin	DIMETHOMORPH	2003	kg					634.9					
+55	Wisconsin	DIMETHOMORPH	2004	kg					134.2					9.4
+55	Wisconsin	DIMETHOMORPH	2005	kg					24					
+55	Wisconsin	DIMETHOMORPH	2006	kg					31.7					
+55	Wisconsin	DIMETHOMORPH	2009	kg					7.5					
+55	Wisconsin	DIMETHOMORPH	2011	kg					125.4					
+55	Wisconsin	DIMETHOMORPH	2012	kg					372.2					
+55	Wisconsin	DIMETHOMORPH	2013	kg					1188.6					
+55	Wisconsin	DIMETHOMORPH	2014	kg					197.7					
+55	Wisconsin	DIMETHOMORPH	2015	kg					819.8					
+55	Wisconsin	DIMETHOMORPH	2016	kg					2575.1					
+55	Wisconsin	DIMETHOMORPH	2017	kg					138.3					
+56	Wyoming	DIMETHOMORPH	1996	kg					402.5					
+56	Wyoming	DIMETHOMORPH	2014	kg					0					
+56	Wyoming	DIMETHOMORPH	2015	kg					0					
+56	Wyoming	DIMETHOMORPH	2016	kg					0					

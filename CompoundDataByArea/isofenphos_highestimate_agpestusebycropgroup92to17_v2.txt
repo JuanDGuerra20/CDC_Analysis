@@ -1,0 +1,7 @@
+12	Florida	ISOFENPHOS	1993	kg				902.1						
+13	Georgia	ISOFENPHOS	1993	kg				8082.6						
+19	Iowa	ISOFENPHOS	1992	kg									462	
+31	Nebraska	ISOFENPHOS	1992	kg									173.8	
+37	North Carolina	ISOFENPHOS	1995	kg										918
+46	South Dakota	ISOFENPHOS	1992	kg									53.4	
+51	Virginia	ISOFENPHOS	1995	kg										626.4

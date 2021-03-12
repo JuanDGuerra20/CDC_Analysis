@@ -1,0 +1,192 @@
+04	Arizona	TRALKOXYDIM	2001	kg			812.8							
+06	California	TRALKOXYDIM	2001	kg			3.6							
+06	California	TRALKOXYDIM	2002	kg			24.4							
+06	California	TRALKOXYDIM	2003	kg			21.1							
+06	California	TRALKOXYDIM	2006	kg			101.6							77.8
+06	California	TRALKOXYDIM	2007	kg			88.5							56.3
+06	California	TRALKOXYDIM	2008	kg			182.1							129.9
+06	California	TRALKOXYDIM	2009	kg			152							158
+06	California	TRALKOXYDIM	2010	kg			54.6							182.4
+06	California	TRALKOXYDIM	2011	kg										6.5
+06	California	TRALKOXYDIM	2012	kg										8.8
+06	California	TRALKOXYDIM	2016	kg							0.6			
+08	Colorado	TRALKOXYDIM	1999	kg										5713.3
+08	Colorado	TRALKOXYDIM	2000	kg										612.4
+08	Colorado	TRALKOXYDIM	2001	kg										126.7
+08	Colorado	TRALKOXYDIM	2002	kg										581.1
+08	Colorado	TRALKOXYDIM	2003	kg										503.8
+08	Colorado	TRALKOXYDIM	2004	kg										618.8
+08	Colorado	TRALKOXYDIM	2005	kg										386.4
+08	Colorado	TRALKOXYDIM	2006	kg										184.6
+08	Colorado	TRALKOXYDIM	2007	kg										156.2
+08	Colorado	TRALKOXYDIM	2008	kg										343.5
+08	Colorado	TRALKOXYDIM	2009	kg										191.2
+08	Colorado	TRALKOXYDIM	2010	kg										68.6
+08	Colorado	TRALKOXYDIM	2011	kg										32.5
+10	Delaware	TRALKOXYDIM	2009	kg										6.4
+16	Idaho	TRALKOXYDIM	1997	kg			51.9							
+16	Idaho	TRALKOXYDIM	1999	kg			4906.6							1435.5
+16	Idaho	TRALKOXYDIM	2000	kg			6541.8							3793.1
+16	Idaho	TRALKOXYDIM	2001	kg			9525.2							6475.5
+16	Idaho	TRALKOXYDIM	2002	kg			445.6							12166.2
+16	Idaho	TRALKOXYDIM	2003	kg			4904.9							5327.9
+16	Idaho	TRALKOXYDIM	2004	kg			6125.5							13635
+16	Idaho	TRALKOXYDIM	2005	kg			8223.4							6554.3
+16	Idaho	TRALKOXYDIM	2006	kg			357.3							3721.1
+16	Idaho	TRALKOXYDIM	2007	kg			4324.5							913
+16	Idaho	TRALKOXYDIM	2008	kg			1410.3							2306.6
+16	Idaho	TRALKOXYDIM	2009	kg			889.7							181
+16	Idaho	TRALKOXYDIM	2010	kg			22376.8							743.9
+16	Idaho	TRALKOXYDIM	2011	kg										22.8
+16	Idaho	TRALKOXYDIM	2012	kg			1564.4							238.3
+18	Indiana	TRALKOXYDIM	2006	kg	233.6									
+19	Iowa	TRALKOXYDIM	1999	kg			0.1							
+20	Kansas	TRALKOXYDIM	2008	kg			2248.9							
+24	Maryland	TRALKOXYDIM	2002	kg										32.8
+24	Maryland	TRALKOXYDIM	2009	kg										143.3
+26	Michigan	TRALKOXYDIM	2006	kg	193.5									
+27	Minnesota	TRALKOXYDIM	1998	kg										678.5
+27	Minnesota	TRALKOXYDIM	1999	kg			8523.5							115
+27	Minnesota	TRALKOXYDIM	2000	kg			3818.4							653.7
+27	Minnesota	TRALKOXYDIM	2001	kg			602.7							146.7
+27	Minnesota	TRALKOXYDIM	2002	kg			922.6							639.2
+27	Minnesota	TRALKOXYDIM	2003	kg			832.9							815.6
+27	Minnesota	TRALKOXYDIM	2004	kg			1179.8		16.8					88.6
+27	Minnesota	TRALKOXYDIM	2005	kg			2020.2							361.8
+27	Minnesota	TRALKOXYDIM	2006	kg			51.8							60.7
+27	Minnesota	TRALKOXYDIM	2007	kg			1544.1							298
+27	Minnesota	TRALKOXYDIM	2008	kg										200.3
+27	Minnesota	TRALKOXYDIM	2009	kg										190
+27	Minnesota	TRALKOXYDIM	2013	kg			89.1							
+30	Montana	TRALKOXYDIM	1997	kg			7.6							
+30	Montana	TRALKOXYDIM	1999	kg			17694.8							6799.5
+30	Montana	TRALKOXYDIM	2000	kg			12613.1							10302.6
+30	Montana	TRALKOXYDIM	2001	kg			2927.8							2992.7
+30	Montana	TRALKOXYDIM	2002	kg			4826.8							11563.9
+30	Montana	TRALKOXYDIM	2003	kg			30129.4							28270.1
+30	Montana	TRALKOXYDIM	2004	kg			3970.4							15706.4
+30	Montana	TRALKOXYDIM	2005	kg			5940.7							19640.9
+30	Montana	TRALKOXYDIM	2006	kg			6369.2							6509.6
+30	Montana	TRALKOXYDIM	2007	kg			9238.3							3334.4
+30	Montana	TRALKOXYDIM	2008	kg			9428.3							2841.5
+30	Montana	TRALKOXYDIM	2009	kg			8720.5							2333.9
+30	Montana	TRALKOXYDIM	2010	kg			9679.7							774.3
+30	Montana	TRALKOXYDIM	2011	kg										456.3
+30	Montana	TRALKOXYDIM	2012	kg			196							24.9
+30	Montana	TRALKOXYDIM	2013	kg			1147.4							
+30	Montana	TRALKOXYDIM	2014	kg			1682.7							397
+30	Montana	TRALKOXYDIM	2015	kg			15066.2							1574.9
+30	Montana	TRALKOXYDIM	2016	kg										406.9
+31	Nebraska	TRALKOXYDIM	1999	kg										8.9
+31	Nebraska	TRALKOXYDIM	2000	kg										20.5
+31	Nebraska	TRALKOXYDIM	2001	kg										6.8
+31	Nebraska	TRALKOXYDIM	2002	kg										38
+31	Nebraska	TRALKOXYDIM	2003	kg										34
+31	Nebraska	TRALKOXYDIM	2004	kg										8.1
+31	Nebraska	TRALKOXYDIM	2005	kg										26.6
+31	Nebraska	TRALKOXYDIM	2006	kg										4.6
+31	Nebraska	TRALKOXYDIM	2007	kg										15.3
+31	Nebraska	TRALKOXYDIM	2008	kg										1.5
+31	Nebraska	TRALKOXYDIM	2009	kg										2.3
+32	Nevada	TRALKOXYDIM	1999	kg			51.1							4.1
+32	Nevada	TRALKOXYDIM	2000	kg			35.9							17.2
+32	Nevada	TRALKOXYDIM	2001	kg			13.8							12.5
+32	Nevada	TRALKOXYDIM	2002	kg			3.7							31.1
+32	Nevada	TRALKOXYDIM	2003	kg			31.1							13.3
+32	Nevada	TRALKOXYDIM	2004	kg			14.9							25.2
+32	Nevada	TRALKOXYDIM	2005	kg			13.5							11.2
+32	Nevada	TRALKOXYDIM	2006	kg			7.8							10
+32	Nevada	TRALKOXYDIM	2007	kg			12.5							2
+32	Nevada	TRALKOXYDIM	2008	kg			7.5							6
+32	Nevada	TRALKOXYDIM	2009	kg										2.8
+32	Nevada	TRALKOXYDIM	2010	kg			98.7							2
+32	Nevada	TRALKOXYDIM	2011	kg										1
+34	New Jersey	TRALKOXYDIM	2009	kg										7.4
+38	North Dakota	TRALKOXYDIM	1998	kg										1194.8
+38	North Dakota	TRALKOXYDIM	1999	kg			8930.9							2973.1
+38	North Dakota	TRALKOXYDIM	2000	kg			52052							6988.6
+38	North Dakota	TRALKOXYDIM	2001	kg			2767							1822.6
+38	North Dakota	TRALKOXYDIM	2002	kg			5112.5							4776.6
+38	North Dakota	TRALKOXYDIM	2003	kg			7295.8							12652.5
+38	North Dakota	TRALKOXYDIM	2004	kg			6599.1		116.3					3369.1
+38	North Dakota	TRALKOXYDIM	2005	kg			13267.2							8925.2
+38	North Dakota	TRALKOXYDIM	2006	kg			156.3							722.3
+38	North Dakota	TRALKOXYDIM	2007	kg			11281.4							4087.1
+38	North Dakota	TRALKOXYDIM	2008	kg			4020.5							4074.2
+38	North Dakota	TRALKOXYDIM	2009	kg			516.8							3203.1
+38	North Dakota	TRALKOXYDIM	2013	kg			3189.6							
+39	Ohio	TRALKOXYDIM	2004	kg			217.9							
+40	Oklahoma	TRALKOXYDIM	2008	kg			623.1							
+41	Oregon	TRALKOXYDIM	1999	kg			2783.8							1059.3
+41	Oregon	TRALKOXYDIM	2000	kg			3990.5							706.1
+41	Oregon	TRALKOXYDIM	2001	kg			7479.1							1190.5
+41	Oregon	TRALKOXYDIM	2002	kg			358.3							467.8
+41	Oregon	TRALKOXYDIM	2003	kg			4098.2							190
+41	Oregon	TRALKOXYDIM	2004	kg			2220.6							717.3
+41	Oregon	TRALKOXYDIM	2005	kg			1241.1							310.6
+41	Oregon	TRALKOXYDIM	2006	kg			288							276.8
+41	Oregon	TRALKOXYDIM	2007	kg			764.5							91.2
+41	Oregon	TRALKOXYDIM	2008	kg			521.2							180.9
+41	Oregon	TRALKOXYDIM	2009	kg			762.8							47.9
+41	Oregon	TRALKOXYDIM	2010	kg			1057.8							44.2
+41	Oregon	TRALKOXYDIM	2011	kg			8881							170
+42	Pennsylvania	TRALKOXYDIM	2009	kg										177.3
+46	South Dakota	TRALKOXYDIM	1999	kg			4156.2							205
+46	South Dakota	TRALKOXYDIM	2000	kg			4646.2							375.6
+46	South Dakota	TRALKOXYDIM	2001	kg			323.2							54.5
+46	South Dakota	TRALKOXYDIM	2002	kg			622.8							299.1
+46	South Dakota	TRALKOXYDIM	2003	kg			2154.1							455.3
+46	South Dakota	TRALKOXYDIM	2004	kg			1724.7							81
+46	South Dakota	TRALKOXYDIM	2005	kg			2912.8							242.3
+46	South Dakota	TRALKOXYDIM	2006	kg										33
+46	South Dakota	TRALKOXYDIM	2007	kg			1867.8							88.7
+46	South Dakota	TRALKOXYDIM	2008	kg										91.1
+46	South Dakota	TRALKOXYDIM	2009	kg			690.1							109.6
+46	South Dakota	TRALKOXYDIM	2013	kg			414							
+49	Utah	TRALKOXYDIM	1997	kg			1							
+49	Utah	TRALKOXYDIM	1999	kg			348.1							536.9
+49	Utah	TRALKOXYDIM	2000	kg			213.4							453.5
+49	Utah	TRALKOXYDIM	2001	kg			288.7							316.2
+49	Utah	TRALKOXYDIM	2002	kg			7							331.6
+49	Utah	TRALKOXYDIM	2003	kg			1371.9							231.9
+49	Utah	TRALKOXYDIM	2004	kg			292.2							544.2
+49	Utah	TRALKOXYDIM	2005	kg			250							180.1
+49	Utah	TRALKOXYDIM	2006	kg			13.7							262.8
+49	Utah	TRALKOXYDIM	2007	kg			97.9							42.9
+49	Utah	TRALKOXYDIM	2008	kg			25.3							111.2
+49	Utah	TRALKOXYDIM	2009	kg										32.3
+49	Utah	TRALKOXYDIM	2010	kg			393.2							39.5
+49	Utah	TRALKOXYDIM	2011	kg										14.2
+49	Utah	TRALKOXYDIM	2012	kg			21.9							6.5
+51	Virginia	TRALKOXYDIM	2002	kg										481.8
+53	Washington	TRALKOXYDIM	1999	kg			7332							3898.3
+53	Washington	TRALKOXYDIM	2000	kg			12661.2							2402.8
+53	Washington	TRALKOXYDIM	2001	kg			2083.9							922.6
+53	Washington	TRALKOXYDIM	2002	kg			435.2							5161.8
+53	Washington	TRALKOXYDIM	2003	kg			11021.3							642
+53	Washington	TRALKOXYDIM	2004	kg			17080.9							2480.5
+53	Washington	TRALKOXYDIM	2005	kg			5633.4							1199.7
+53	Washington	TRALKOXYDIM	2006	kg										1737.2
+53	Washington	TRALKOXYDIM	2007	kg			1312.1							171
+53	Washington	TRALKOXYDIM	2008	kg			1631.8							324.2
+53	Washington	TRALKOXYDIM	2009	kg			3590.8							
+53	Washington	TRALKOXYDIM	2010	kg			11015.2							
+53	Washington	TRALKOXYDIM	2011	kg			2579.8							165.2
+56	Wyoming	TRALKOXYDIM	1997	kg			0							
+56	Wyoming	TRALKOXYDIM	1999	kg			109							364
+56	Wyoming	TRALKOXYDIM	2000	kg			77.5							264
+56	Wyoming	TRALKOXYDIM	2001	kg			46.2							104.5
+56	Wyoming	TRALKOXYDIM	2002	kg			12.3							365.2
+56	Wyoming	TRALKOXYDIM	2003	kg			18.9							496.5
+56	Wyoming	TRALKOXYDIM	2004	kg			22.1							194.8
+56	Wyoming	TRALKOXYDIM	2005	kg			29.3							286.5
+56	Wyoming	TRALKOXYDIM	2006	kg			20							268.7
+56	Wyoming	TRALKOXYDIM	2007	kg			26.4							1203.4
+56	Wyoming	TRALKOXYDIM	2008	kg			2.7							530
+56	Wyoming	TRALKOXYDIM	2009	kg										454.4
+56	Wyoming	TRALKOXYDIM	2010	kg			50.8							80.3
+56	Wyoming	TRALKOXYDIM	2011	kg										40.4
+56	Wyoming	TRALKOXYDIM	2012	kg										3
+56	Wyoming	TRALKOXYDIM	2013	kg			1.3							
+56	Wyoming	TRALKOXYDIM	2014	kg										295
+56	Wyoming	TRALKOXYDIM	2016	kg										357.8

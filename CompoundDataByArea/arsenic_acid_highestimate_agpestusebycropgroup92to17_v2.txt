@@ -1,0 +1,24 @@
+05	Arkansas	ARSENIC ACID	1992	kg									133695	
+22	Louisiana	ARSENIC ACID	1992	kg									5392.8	
+22	Louisiana	ARSENIC ACID	1993	kg				3167.9						
+24	Maryland	ARSENIC ACID	1992	kg							562.4			
+27	Minnesota	ARSENIC ACID	1995	kg					363.4					
+28	Mississippi	ARSENIC ACID	1992	kg									408.6	
+29	Missouri	ARSENIC ACID	1992	kg									83730.6	
+35	New Mexico	ARSENIC ACID	1992	kg				822.7						
+35	New Mexico	ARSENIC ACID	1993	kg				251.1					140.4	
+35	New Mexico	ARSENIC ACID	1994	kg				645.5			1614.1			
+35	New Mexico	ARSENIC ACID	1995	kg				64.7						
+38	North Dakota	ARSENIC ACID	1995	kg					1062.1					
+40	Oklahoma	ARSENIC ACID	1992	kg				16945.3					5751.8	
+40	Oklahoma	ARSENIC ACID	1993	kg				13481						
+40	Oklahoma	ARSENIC ACID	1994	kg				3781.3						
+41	Oregon	ARSENIC ACID	1992	kg							861.1			
+42	Pennsylvania	ARSENIC ACID	1992	kg							7430.2			
+47	Tennessee	ARSENIC ACID	1992	kg									18419.9	
+48	Texas	ARSENIC ACID	1992	kg				106597.4					3999.6	
+48	Texas	ARSENIC ACID	1993	kg				184668.1					656.3	
+48	Texas	ARSENIC ACID	1994	kg				71439.3			2420.8			
+48	Texas	ARSENIC ACID	1995	kg				5147					47673.4	
+53	Washington	ARSENIC ACID	1992	kg							6684.5			
+55	Wisconsin	ARSENIC ACID	1994	kg					190.1					

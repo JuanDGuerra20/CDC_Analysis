@@ -1,0 +1,190 @@
+04	Arizona	NALED	1992	kg					5213.5		4891.2			
+04	Arizona	NALED	1993	kg									10.6	
+04	Arizona	NALED	1994	kg					715.8		1.6			
+04	Arizona	NALED	1995	kg					286.7					
+04	Arizona	NALED	1996	kg					1982.8		137.1			
+04	Arizona	NALED	1998	kg					126.9					
+04	Arizona	NALED	1999	kg							46.7			
+04	Arizona	NALED	2002	kg					1764.8					
+04	Arizona	NALED	2003	kg					680.9					
+04	Arizona	NALED	2004	kg					2358					
+04	Arizona	NALED	2005	kg					42.6					
+04	Arizona	NALED	2006	kg					1348.1					
+04	Arizona	NALED	2007	kg					159.8					
+04	Arizona	NALED	2008	kg					372					
+04	Arizona	NALED	2009	kg					346.2					
+04	Arizona	NALED	2010	kg					96					
+04	Arizona	NALED	2011	kg					0.3					
+04	Arizona	NALED	2012	kg					1.5					
+04	Arizona	NALED	2013	kg					85.5					
+04	Arizona	NALED	2015	kg					2.8					
+04	Arizona	NALED	2016	kg					0.1					
+04	Arizona	NALED	2017	kg					1.9					
+05	Arkansas	NALED	1999	kg				2387.9						
+05	Arkansas	NALED	2006	kg				5446.7						
+06	California	NALED	1992	kg				8985.4	18747.1		30020.6	18.2	47.2	8125.8
+06	California	NALED	1993	kg				12908.9	16877.5		25519.5	7.9	128.3	15329.2
+06	California	NALED	1994	kg				134739.3	25244.8		25734	20.2	57.4	11828.2
+06	California	NALED	1995	kg				256408.7	27364.3		17811.1	114	147.6	9823.7
+06	California	NALED	1996	kg				93203.5	23755.6		21659.7	30.2	52.7	13246.3
+06	California	NALED	1997	kg				197864.1	38207.4		16979.5	2129	25.9	17004.3
+06	California	NALED	1998	kg	20.4		29.5	58831.5	24684		8510.4	3206.7	5.1	17053.1
+06	California	NALED	1999	kg			33.7	76554.5	22132		6283.9	6455.2	0	12500.9
+06	California	NALED	2000	kg	0.5		43.3	64282.9	16073.7		6773.7	7769.8	137.2	8238.9
+06	California	NALED	2001	kg	80.8			77978.8	13062		5109.1	8068.6	0.5	4169.1
+06	California	NALED	2002	kg	15.6			39496.5	15996.7		6039.1	3796.3	1.1	7258.6
+06	California	NALED	2003	kg				31463.2	24322.5		5019.1	1218.7	0.6	6256.5
+06	California	NALED	2004	kg				16501.9	23362.5		3900.2	3457.3	3.3	5312.3
+06	California	NALED	2005	kg				48772.8	25796.7		4022.9	1423.3	0.9	6073.6
+06	California	NALED	2006	kg				39901.1	19151.6		4475.9	3429	11.4	7247
+06	California	NALED	2007	kg				3794.6	20854.3	0.1	5552	3216.6	1.1	4315.9
+06	California	NALED	2008	kg				14092.2	20638.4		2358.3	9753.6	2.5	5413.1
+06	California	NALED	2009	kg				6517.3	27035.2		856.7	13772.1	2.3	13588.1
+06	California	NALED	2010	kg				25819.5	26619.5		664.4	5846.9	1.1	10704.8
+06	California	NALED	2011	kg				45530.2	16053.2		472	4648.6	0.9	10946.6
+06	California	NALED	2012	kg				23718.4	14920.2		937.1	3111.7	16.5	12970.2
+06	California	NALED	2013	kg				32414.8	13153.8		500.9	10751.1		23830.4
+06	California	NALED	2014	kg	7.8			19131.2	16605		740.2	6293.6		24400.8
+06	California	NALED	2015	kg				25504.4	15279.7		1327.7	4171.3		39863.2
+06	California	NALED	2016	kg			20.5	36681.7	16259		947.9	3627.9		32435.8
+06	California	NALED	2017	kg				39088.3	18484.2		808.3	3152.8		26733.2
+08	Colorado	NALED	1994	kg							42.7			
+09	Connecticut	NALED	2010	kg					47.9					
+12	Florida	NALED	1992	kg					104.2				5211	
+12	Florida	NALED	1993	kg					7584.4					
+12	Florida	NALED	1994	kg					4853.8					
+12	Florida	NALED	1995	kg					2653.8					254
+12	Florida	NALED	1996	kg					822.3				1260.2	
+12	Florida	NALED	1997	kg					2213.1					
+12	Florida	NALED	1999	kg					1839					
+12	Florida	NALED	2001	kg					1457.2					
+12	Florida	NALED	2002	kg					926					
+12	Florida	NALED	2004	kg					7394.6					
+12	Florida	NALED	2005	kg					3219.9					
+12	Florida	NALED	2006	kg					5962.3					
+12	Florida	NALED	2007	kg					8459.5					
+12	Florida	NALED	2008	kg					5059.6					
+12	Florida	NALED	2009	kg					1793					
+12	Florida	NALED	2010	kg					3490.2					
+12	Florida	NALED	2011	kg					6217.5		14508.1			
+12	Florida	NALED	2012	kg					6701.2		3732.1			
+12	Florida	NALED	2013	kg					3712.1		17056.7			
+12	Florida	NALED	2014	kg					2153.9					
+12	Florida	NALED	2015	kg					425.1		10694			
+12	Florida	NALED	2016	kg							12797.4			
+12	Florida	NALED	2017	kg					604.5		18475.8			
+13	Georgia	NALED	1993	kg					6351.3					
+13	Georgia	NALED	1994	kg					2410					
+13	Georgia	NALED	1995	kg					2242.5					
+13	Georgia	NALED	1998	kg							2740.8			
+16	Idaho	NALED	1992	kg								18937.8		
+16	Idaho	NALED	1993	kg								63354.8		
+16	Idaho	NALED	1994	kg								79756.3		108.9
+16	Idaho	NALED	1995	kg								94111.7		
+16	Idaho	NALED	1996	kg			3102.5					164220.2		
+16	Idaho	NALED	1997	kg								72623.3		
+16	Idaho	NALED	2000	kg								24136.7		
+16	Idaho	NALED	2002	kg								12662		
+16	Idaho	NALED	2003	kg								8207.6		
+16	Idaho	NALED	2005	kg								1960.2		
+16	Idaho	NALED	2006	kg								29460		
+16	Idaho	NALED	2007	kg								14800.3		
+16	Idaho	NALED	2010	kg								36293.4		
+16	Idaho	NALED	2012	kg										2090.5
+16	Idaho	NALED	2016	kg								20667.9		
+16	Idaho	NALED	2017	kg								32435.6		
+20	Kansas	NALED	1997	kg									1585	
+22	Louisiana	NALED	1996	kg				91320						
+22	Louisiana	NALED	2006	kg				7268.3						
+22	Louisiana	NALED	2015	kg				7.8						
+25	Massachusetts	NALED	2010	kg					68.2					
+28	Mississippi	NALED	1996	kg				3979.9						
+28	Mississippi	NALED	2006	kg				20836.5						
+29	Missouri	NALED	1999	kg				1297.8						
+30	Montana	NALED	1994	kg								20134		
+30	Montana	NALED	1996	kg								39468.3		
+30	Montana	NALED	1997	kg								21120.3		
+30	Montana	NALED	2007	kg								1232.9		
+30	Montana	NALED	2015	kg								5243.2		
+30	Montana	NALED	2017	kg								14549.6		
+31	Nebraska	NALED	1997	kg									3902.4	
+32	Nevada	NALED	1992	kg					0			4420.3		
+32	Nevada	NALED	1993	kg								12610.8	0.5	
+32	Nevada	NALED	1994	kg								18265.8		
+32	Nevada	NALED	1995	kg								18822.3		
+32	Nevada	NALED	1996	kg			29.7					26138.7		
+32	Nevada	NALED	1997	kg								14341.6		
+32	Nevada	NALED	2000	kg								5269.8		
+32	Nevada	NALED	2002	kg								3090.3		
+32	Nevada	NALED	2003	kg								1491.1		
+32	Nevada	NALED	2005	kg								2887.7		
+32	Nevada	NALED	2006	kg								12912.8		
+32	Nevada	NALED	2008	kg					0.4					
+32	Nevada	NALED	2009	kg					0					
+32	Nevada	NALED	2010	kg					0.2			3257.1		
+32	Nevada	NALED	2011	kg					0					
+32	Nevada	NALED	2012	kg					0.1					
+32	Nevada	NALED	2013	kg					0.1					
+32	Nevada	NALED	2015	kg					0.1					
+32	Nevada	NALED	2016	kg					0			3332		
+32	Nevada	NALED	2017	kg					0.1			6786		
+34	New Jersey	NALED	1995	kg					953.6					
+34	New Jersey	NALED	2010	kg					17					
+35	New Mexico	NALED	1994	kg							3.2			
+35	New Mexico	NALED	1996	kg					22.9					
+35	New Mexico	NALED	2004	kg					6.9					
+36	New York	NALED	1995	kg					2447.4					
+36	New York	NALED	1997	kg					154					
+36	New York	NALED	1999	kg					135.5					
+36	New York	NALED	2000	kg					86.5					
+36	New York	NALED	2001	kg					26.8					
+36	New York	NALED	2006	kg					18.6					
+36	New York	NALED	2009	kg					91.7					
+36	New York	NALED	2010	kg					175.2					
+37	North Carolina	NALED	2000	kg					36475.9					
+37	North Carolina	NALED	2001	kg					456.8					
+37	North Carolina	NALED	2002	kg					203.7					
+39	Ohio	NALED	1992	kg					471.6					
+39	Ohio	NALED	1993	kg					247					
+39	Ohio	NALED	1996	kg					29.8					
+41	Oregon	NALED	1992	kg								6985.9		
+41	Oregon	NALED	1993	kg								20756.3		
+41	Oregon	NALED	1994	kg								11284.8		32.1
+41	Oregon	NALED	1995	kg							29.2	31056.8		
+41	Oregon	NALED	1996	kg			1283.7		250.9			14595.2		
+41	Oregon	NALED	1997	kg								11727.3		
+41	Oregon	NALED	1999	kg					37.2					
+41	Oregon	NALED	2000	kg					79.1			7318.2		
+41	Oregon	NALED	2002	kg								5304.8		
+41	Oregon	NALED	2003	kg					9.9			2878.9		
+41	Oregon	NALED	2005	kg								2093.9		
+41	Oregon	NALED	2006	kg								40764.9		
+41	Oregon	NALED	2007	kg								29877.2		
+41	Oregon	NALED	2016	kg								7408.7		
+41	Oregon	NALED	2017	kg								5507.7		
+42	Pennsylvania	NALED	1996	kg					1.8					
+42	Pennsylvania	NALED	2010	kg					19.6					
+45	South Carolina	NALED	1994	kg					193.7					
+45	South Carolina	NALED	1995	kg					1966.7					
+47	Tennessee	NALED	1999	kg				638.6						
+48	Texas	NALED	1993	kg					252.3					
+48	Texas	NALED	2015	kg				2644						
+49	Utah	NALED	1994	kg							0.6			
+49	Utah	NALED	2010	kg								18485.1		
+49	Utah	NALED	2017	kg								26121.8		
+53	Washington	NALED	1994	kg								1081		
+53	Washington	NALED	1996	kg					23.5			40062.6		
+53	Washington	NALED	1997	kg								21574		
+53	Washington	NALED	1999	kg					13.4					
+53	Washington	NALED	2000	kg					31.3					
+53	Washington	NALED	2003	kg					4.8					
+53	Washington	NALED	2006	kg								128395.5		
+53	Washington	NALED	2007	kg								131049.6		
+54	West Virginia	NALED	1996	kg					0.1					
+56	Wyoming	NALED	1994	kg								12390.4		
+56	Wyoming	NALED	1996	kg								22068.1		
+56	Wyoming	NALED	1997	kg								12289.3		
+56	Wyoming	NALED	2007	kg								1637.3		
+56	Wyoming	NALED	2010	kg								2360.3		
+56	Wyoming	NALED	2015	kg								6344.6		
+56	Wyoming	NALED	2017	kg								9886.9		

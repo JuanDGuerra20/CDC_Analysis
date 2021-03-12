@@ -1,0 +1,1112 @@
+01	Alabama	MYCLOBUTANIL	1992	kg							31.1			
+01	Alabama	MYCLOBUTANIL	1993	kg							46.1			
+01	Alabama	MYCLOBUTANIL	1994	kg							29.1			
+01	Alabama	MYCLOBUTANIL	1995	kg							52.3			
+01	Alabama	MYCLOBUTANIL	1996	kg							36.2			
+01	Alabama	MYCLOBUTANIL	1997	kg				10.8			19.2			
+01	Alabama	MYCLOBUTANIL	1998	kg					7.5		24.7			
+01	Alabama	MYCLOBUTANIL	1999	kg					14.9		30.8			
+01	Alabama	MYCLOBUTANIL	2000	kg					16		66.3			
+01	Alabama	MYCLOBUTANIL	2001	kg					34.3		36.9			
+01	Alabama	MYCLOBUTANIL	2002	kg					33		27.2			
+01	Alabama	MYCLOBUTANIL	2003	kg					20.8		71			
+01	Alabama	MYCLOBUTANIL	2004	kg					44.6		28.4			
+01	Alabama	MYCLOBUTANIL	2005	kg					75.5		32.7			
+01	Alabama	MYCLOBUTANIL	2006	kg					35.4		31.9			
+01	Alabama	MYCLOBUTANIL	2007	kg					63.8		13.1			
+01	Alabama	MYCLOBUTANIL	2008	kg					14.9		10.5			
+01	Alabama	MYCLOBUTANIL	2009	kg				4.9	11.2		12.4			
+01	Alabama	MYCLOBUTANIL	2010	kg				65.9	15.4		25.6			
+01	Alabama	MYCLOBUTANIL	2011	kg				160.4	2.2		67.6			
+01	Alabama	MYCLOBUTANIL	2012	kg				177.4	2		32			
+01	Alabama	MYCLOBUTANIL	2013	kg				91.5	9.7		99.4			
+01	Alabama	MYCLOBUTANIL	2014	kg				378.4	2.6		8.5			
+01	Alabama	MYCLOBUTANIL	2015	kg					3.1		7.7			
+01	Alabama	MYCLOBUTANIL	2016	kg					2.3		2			
+01	Alabama	MYCLOBUTANIL	2017	kg					1.8		21.3			
+04	Arizona	MYCLOBUTANIL	1992	kg							821.8			
+04	Arizona	MYCLOBUTANIL	1993	kg					0		720.6			
+04	Arizona	MYCLOBUTANIL	1994	kg					0.3		354.4			
+04	Arizona	MYCLOBUTANIL	1995	kg					2.9		738.8			
+04	Arizona	MYCLOBUTANIL	1996	kg					0.9		616.1			
+04	Arizona	MYCLOBUTANIL	1997	kg					1055		272			
+04	Arizona	MYCLOBUTANIL	1998	kg					118.9		768.5			
+04	Arizona	MYCLOBUTANIL	1999	kg					920.2		551.9			
+04	Arizona	MYCLOBUTANIL	2000	kg					132.3		610.1			
+04	Arizona	MYCLOBUTANIL	2001	kg					154.1		501.2			
+04	Arizona	MYCLOBUTANIL	2002	kg					99.8		372.8			
+04	Arizona	MYCLOBUTANIL	2003	kg					303.8		412.8			
+04	Arizona	MYCLOBUTANIL	2004	kg					277.3		544.3			
+04	Arizona	MYCLOBUTANIL	2005	kg					233.8		494.6			
+04	Arizona	MYCLOBUTANIL	2006	kg					270.4		561.7			
+04	Arizona	MYCLOBUTANIL	2007	kg					184		529.3			
+04	Arizona	MYCLOBUTANIL	2008	kg					228.5		192.3			
+04	Arizona	MYCLOBUTANIL	2009	kg				45.3	401.5		54			
+04	Arizona	MYCLOBUTANIL	2010	kg				11	354.5		109.6			
+04	Arizona	MYCLOBUTANIL	2011	kg				24.9	430		49.3			
+04	Arizona	MYCLOBUTANIL	2012	kg				29.7	333.5		92.3			
+04	Arizona	MYCLOBUTANIL	2013	kg				137.7	210.4		104.7			
+04	Arizona	MYCLOBUTANIL	2014	kg				101.6	297.5		48.6			
+04	Arizona	MYCLOBUTANIL	2015	kg					129.3		69.2			
+04	Arizona	MYCLOBUTANIL	2016	kg					760.2		31.8			
+04	Arizona	MYCLOBUTANIL	2017	kg					1942.9		50.1			
+05	Arkansas	MYCLOBUTANIL	1992	kg							1.1			
+05	Arkansas	MYCLOBUTANIL	1993	kg							740.4			
+05	Arkansas	MYCLOBUTANIL	1995	kg				39			22.4			
+05	Arkansas	MYCLOBUTANIL	1996	kg							477.5			
+05	Arkansas	MYCLOBUTANIL	1997	kg							197.2		3.5	
+05	Arkansas	MYCLOBUTANIL	1998	kg							5.4			
+05	Arkansas	MYCLOBUTANIL	1999	kg							22.5			
+05	Arkansas	MYCLOBUTANIL	2001	kg							117.1			
+05	Arkansas	MYCLOBUTANIL	2002	kg							7.1			
+05	Arkansas	MYCLOBUTANIL	2004	kg					0		0.3			
+05	Arkansas	MYCLOBUTANIL	2005	kg		475.3			50.3		3.7			
+05	Arkansas	MYCLOBUTANIL	2007	kg					0.1					
+05	Arkansas	MYCLOBUTANIL	2009	kg		4022.2		18.6	0.1					
+05	Arkansas	MYCLOBUTANIL	2010	kg				89.8						
+05	Arkansas	MYCLOBUTANIL	2011	kg				326.6						
+05	Arkansas	MYCLOBUTANIL	2012	kg				39.1						
+05	Arkansas	MYCLOBUTANIL	2013	kg				42.7						
+05	Arkansas	MYCLOBUTANIL	2014	kg				56.6						
+06	California	MYCLOBUTANIL	1992	kg					415.1		93999.4			
+06	California	MYCLOBUTANIL	1993	kg					23404.1		101549			
+06	California	MYCLOBUTANIL	1994	kg					13803.7		32473.9			
+06	California	MYCLOBUTANIL	1995	kg					3852.5		41546			
+06	California	MYCLOBUTANIL	1996	kg					4501.7		51039.2		14.8	
+06	California	MYCLOBUTANIL	1997	kg				1042.5	7217.9		42526.6		15.8	
+06	California	MYCLOBUTANIL	1998	kg	0.9				4970.8		79772.5		16.2	2.1
+06	California	MYCLOBUTANIL	1999	kg					5389.8		39967.8		4.5	0.5
+06	California	MYCLOBUTANIL	2000	kg	1.6				4244.3	205.9	44520.5		54.5	1.5
+06	California	MYCLOBUTANIL	2001	kg	0		0.5		5303.2		50086.3		0.3	
+06	California	MYCLOBUTANIL	2002	kg	1.5				4574.3		31136			
+06	California	MYCLOBUTANIL	2003	kg					5511.9		34864.1	1.2		0.6
+06	California	MYCLOBUTANIL	2004	kg					5729.9		26282.7		0.7	
+06	California	MYCLOBUTANIL	2005	kg					5823.1		28255.3		55.5	
+06	California	MYCLOBUTANIL	2006	kg				1.4	6929.8		24283.8		4	
+06	California	MYCLOBUTANIL	2007	kg	7.5			5.5	7313.4		22659.2		26.3	6.2
+06	California	MYCLOBUTANIL	2008	kg				676.3	7890.3		18827.7			3
+06	California	MYCLOBUTANIL	2009	kg				693.9	9324.7		15495.6		0.7	5.3
+06	California	MYCLOBUTANIL	2010	kg				715.6	8545		19891.8	4.1		13.1
+06	California	MYCLOBUTANIL	2011	kg				1092.1	7566.2		20530.5	0.5		23.8
+06	California	MYCLOBUTANIL	2012	kg				384.4	7320.1		20988			1.8
+06	California	MYCLOBUTANIL	2013	kg	2.4			318.5	6786		19936.3	0.7		5.2
+06	California	MYCLOBUTANIL	2014	kg				473.4	8020.9		20498.2			0.2
+06	California	MYCLOBUTANIL	2015	kg	1.8		0	410.9	6939.2		19972.8			1.2
+06	California	MYCLOBUTANIL	2016	kg				150.9	5863.2		20387.5			5.3
+06	California	MYCLOBUTANIL	2017	kg			0	1354.7	5322.8		18667.1		0.1	1.5
+08	Colorado	MYCLOBUTANIL	1992	kg							33.3			
+08	Colorado	MYCLOBUTANIL	1993	kg							32.8			
+08	Colorado	MYCLOBUTANIL	1994	kg							183.4			
+08	Colorado	MYCLOBUTANIL	1995	kg							112.6			
+08	Colorado	MYCLOBUTANIL	1996	kg							135.2			
+08	Colorado	MYCLOBUTANIL	1997	kg							63.8			
+08	Colorado	MYCLOBUTANIL	1998	kg							271.6			
+08	Colorado	MYCLOBUTANIL	1999	kg							205.7			
+08	Colorado	MYCLOBUTANIL	2000	kg							159.8			
+08	Colorado	MYCLOBUTANIL	2001	kg							135.5			
+08	Colorado	MYCLOBUTANIL	2002	kg					0.7		265.5			
+08	Colorado	MYCLOBUTANIL	2003	kg							86.4			
+08	Colorado	MYCLOBUTANIL	2004	kg					3.8		158.4			
+08	Colorado	MYCLOBUTANIL	2005	kg					4.6		158.7			
+08	Colorado	MYCLOBUTANIL	2006	kg					9.3		137.3			
+08	Colorado	MYCLOBUTANIL	2007	kg							13.2			
+08	Colorado	MYCLOBUTANIL	2008	kg							145.9			
+08	Colorado	MYCLOBUTANIL	2009	kg							18			
+08	Colorado	MYCLOBUTANIL	2010	kg							75.6			
+08	Colorado	MYCLOBUTANIL	2011	kg							35.2			
+08	Colorado	MYCLOBUTANIL	2012	kg					1.9		45.9			
+08	Colorado	MYCLOBUTANIL	2013	kg							22.2			
+08	Colorado	MYCLOBUTANIL	2014	kg							38.5			
+08	Colorado	MYCLOBUTANIL	2015	kg							25.5			
+08	Colorado	MYCLOBUTANIL	2016	kg							25.8			
+08	Colorado	MYCLOBUTANIL	2017	kg							24.6			
+09	Connecticut	MYCLOBUTANIL	1992	kg							117.3			
+09	Connecticut	MYCLOBUTANIL	1993	kg							76.8			
+09	Connecticut	MYCLOBUTANIL	1994	kg							85			
+09	Connecticut	MYCLOBUTANIL	1995	kg							38.4			
+09	Connecticut	MYCLOBUTANIL	1996	kg							224.7			
+09	Connecticut	MYCLOBUTANIL	1997	kg							674.3			
+09	Connecticut	MYCLOBUTANIL	1998	kg							180.2			
+09	Connecticut	MYCLOBUTANIL	1999	kg					0.4		125.9			
+09	Connecticut	MYCLOBUTANIL	2000	kg					55.5		113.4			
+09	Connecticut	MYCLOBUTANIL	2001	kg					3.6		114.2			
+09	Connecticut	MYCLOBUTANIL	2002	kg					47.4		75.9			
+09	Connecticut	MYCLOBUTANIL	2003	kg					68.2		128.5			
+09	Connecticut	MYCLOBUTANIL	2004	kg					22.6		54.9			
+09	Connecticut	MYCLOBUTANIL	2005	kg					8.9		60.6			
+09	Connecticut	MYCLOBUTANIL	2006	kg					37.3		103.3			
+09	Connecticut	MYCLOBUTANIL	2007	kg					10.5		92.2			
+09	Connecticut	MYCLOBUTANIL	2008	kg					331.1		114.8			
+09	Connecticut	MYCLOBUTANIL	2009	kg					7.7		93			
+09	Connecticut	MYCLOBUTANIL	2010	kg					80.8		160.3			
+09	Connecticut	MYCLOBUTANIL	2011	kg					134.7		72.6			
+09	Connecticut	MYCLOBUTANIL	2012	kg					16		54.9			
+09	Connecticut	MYCLOBUTANIL	2013	kg					42.4		64.3			
+09	Connecticut	MYCLOBUTANIL	2014	kg					101		46.3			
+09	Connecticut	MYCLOBUTANIL	2015	kg					124.9		20.7			
+09	Connecticut	MYCLOBUTANIL	2016	kg					50.6		44.7			
+09	Connecticut	MYCLOBUTANIL	2017	kg					136.9		57			
+10	Delaware	MYCLOBUTANIL	1992	kg							0.2			
+10	Delaware	MYCLOBUTANIL	1993	kg							0.5			
+10	Delaware	MYCLOBUTANIL	1994	kg							0.8			
+10	Delaware	MYCLOBUTANIL	1995	kg							0.7			
+10	Delaware	MYCLOBUTANIL	1996	kg							0.7			
+10	Delaware	MYCLOBUTANIL	1997	kg							0.7			
+10	Delaware	MYCLOBUTANIL	1998	kg							0.7			
+10	Delaware	MYCLOBUTANIL	1999	kg					7.6		0.4			
+10	Delaware	MYCLOBUTANIL	2000	kg					200.6		1.1			
+10	Delaware	MYCLOBUTANIL	2001	kg					122		0.8			
+10	Delaware	MYCLOBUTANIL	2002	kg					178		0.6			
+10	Delaware	MYCLOBUTANIL	2003	kg					34.1		1.2			
+10	Delaware	MYCLOBUTANIL	2004	kg					13.8		0.6			
+10	Delaware	MYCLOBUTANIL	2005	kg					215.9		1.1			
+10	Delaware	MYCLOBUTANIL	2006	kg					103.9		0.9			
+10	Delaware	MYCLOBUTANIL	2007	kg					96.7		1.4			
+10	Delaware	MYCLOBUTANIL	2008	kg					18.4		0			
+10	Delaware	MYCLOBUTANIL	2009	kg					6.4		0.1			
+10	Delaware	MYCLOBUTANIL	2010	kg					0.5		0			
+10	Delaware	MYCLOBUTANIL	2011	kg					13.9		0			
+10	Delaware	MYCLOBUTANIL	2012	kg					11.3		0			
+10	Delaware	MYCLOBUTANIL	2013	kg					1		0.1			
+10	Delaware	MYCLOBUTANIL	2014	kg					1		0			
+10	Delaware	MYCLOBUTANIL	2015	kg					25.4		0			
+10	Delaware	MYCLOBUTANIL	2016	kg					32.6		0.2			
+10	Delaware	MYCLOBUTANIL	2017	kg					36.2		0.1			
+12	Florida	MYCLOBUTANIL	1992	kg							63.1			
+12	Florida	MYCLOBUTANIL	1997	kg				6.3	7.3					
+12	Florida	MYCLOBUTANIL	1998	kg					9.7					
+12	Florida	MYCLOBUTANIL	1999	kg					15					
+12	Florida	MYCLOBUTANIL	2001	kg					65.3					
+12	Florida	MYCLOBUTANIL	2002	kg					6.6					
+12	Florida	MYCLOBUTANIL	2003	kg					549.7					
+12	Florida	MYCLOBUTANIL	2004	kg					300.3					
+12	Florida	MYCLOBUTANIL	2005	kg					274.2					
+12	Florida	MYCLOBUTANIL	2006	kg					174.5					
+12	Florida	MYCLOBUTANIL	2007	kg					93.5					
+12	Florida	MYCLOBUTANIL	2008	kg					939.5					
+12	Florida	MYCLOBUTANIL	2009	kg				5	134.9					
+12	Florida	MYCLOBUTANIL	2010	kg				10	757.3					
+12	Florida	MYCLOBUTANIL	2011	kg				93.4	413.5					
+12	Florida	MYCLOBUTANIL	2012	kg				78.5	1318.9					
+12	Florida	MYCLOBUTANIL	2013	kg				60	1198.1					
+12	Florida	MYCLOBUTANIL	2014	kg				28.1	474.4					
+12	Florida	MYCLOBUTANIL	2015	kg					154.4					
+12	Florida	MYCLOBUTANIL	2016	kg					205.8					
+12	Florida	MYCLOBUTANIL	2017	kg					73.8					
+13	Georgia	MYCLOBUTANIL	1992	kg							104.8			
+13	Georgia	MYCLOBUTANIL	1993	kg							80.9			
+13	Georgia	MYCLOBUTANIL	1994	kg							2753.5			
+13	Georgia	MYCLOBUTANIL	1995	kg							86.9			
+13	Georgia	MYCLOBUTANIL	1996	kg							90.2			
+13	Georgia	MYCLOBUTANIL	1997	kg				78.9			109.7			
+13	Georgia	MYCLOBUTANIL	1998	kg					36.2		84.6			
+13	Georgia	MYCLOBUTANIL	1999	kg					1.4		73.6			
+13	Georgia	MYCLOBUTANIL	2000	kg					195		84.4			
+13	Georgia	MYCLOBUTANIL	2001	kg					582		142.5			
+13	Georgia	MYCLOBUTANIL	2002	kg					780		63.5			
+13	Georgia	MYCLOBUTANIL	2003	kg					1359.3		92.7			
+13	Georgia	MYCLOBUTANIL	2004	kg					329.3		84.9			
+13	Georgia	MYCLOBUTANIL	2005	kg					867.8		67.7			
+13	Georgia	MYCLOBUTANIL	2006	kg					407.2		67.9			
+13	Georgia	MYCLOBUTANIL	2007	kg					736.6		12.3			
+13	Georgia	MYCLOBUTANIL	2008	kg					146.8		67.4			
+13	Georgia	MYCLOBUTANIL	2009	kg				13.6	339.9		68.4			
+13	Georgia	MYCLOBUTANIL	2010	kg				55	128.2		81.1			
+13	Georgia	MYCLOBUTANIL	2011	kg				1037.7	282.6		72.9			
+13	Georgia	MYCLOBUTANIL	2012	kg				224.4	20.1		75.6			
+13	Georgia	MYCLOBUTANIL	2013	kg				380	202.8		56.8			
+13	Georgia	MYCLOBUTANIL	2014	kg				683.7	0.7		15.9			
+13	Georgia	MYCLOBUTANIL	2015	kg					402.6		66.8			
+13	Georgia	MYCLOBUTANIL	2016	kg					159.7		3			
+13	Georgia	MYCLOBUTANIL	2017	kg					88.5		104.6			
+16	Idaho	MYCLOBUTANIL	1992	kg							153.3			
+16	Idaho	MYCLOBUTANIL	1993	kg							42.4			
+16	Idaho	MYCLOBUTANIL	1994	kg							456.9			
+16	Idaho	MYCLOBUTANIL	1995	kg							430.3			
+16	Idaho	MYCLOBUTANIL	1996	kg							731.9			
+16	Idaho	MYCLOBUTANIL	1997	kg							546.9			
+16	Idaho	MYCLOBUTANIL	1998	kg							342.3			
+16	Idaho	MYCLOBUTANIL	1999	kg							511.9			
+16	Idaho	MYCLOBUTANIL	2000	kg							286.4			83.1
+16	Idaho	MYCLOBUTANIL	2001	kg					0		279.5			841.4
+16	Idaho	MYCLOBUTANIL	2002	kg					0		511.9			978.4
+16	Idaho	MYCLOBUTANIL	2003	kg							217.6			1778.1
+16	Idaho	MYCLOBUTANIL	2004	kg							487.4			72.8
+16	Idaho	MYCLOBUTANIL	2005	kg							55.8			
+16	Idaho	MYCLOBUTANIL	2006	kg					0.2		95.7			
+16	Idaho	MYCLOBUTANIL	2007	kg					0		17.3			
+16	Idaho	MYCLOBUTANIL	2008	kg					0.8		58.8			
+16	Idaho	MYCLOBUTANIL	2009	kg					0.6		50.7			615.5
+16	Idaho	MYCLOBUTANIL	2010	kg					0.4		110			
+16	Idaho	MYCLOBUTANIL	2011	kg							81.4			
+16	Idaho	MYCLOBUTANIL	2012	kg					0.2		69.6			
+16	Idaho	MYCLOBUTANIL	2013	kg					0		44.3			
+16	Idaho	MYCLOBUTANIL	2014	kg					0.1		89.3			
+16	Idaho	MYCLOBUTANIL	2015	kg							50.7			
+16	Idaho	MYCLOBUTANIL	2016	kg							53.9			
+16	Idaho	MYCLOBUTANIL	2017	kg							19.4			
+17	Illinois	MYCLOBUTANIL	1992	kg							593.2			
+17	Illinois	MYCLOBUTANIL	1993	kg							1488.8			
+17	Illinois	MYCLOBUTANIL	1994	kg							1197			
+17	Illinois	MYCLOBUTANIL	1995	kg							663			
+17	Illinois	MYCLOBUTANIL	1996	kg							1161.5			
+17	Illinois	MYCLOBUTANIL	1997	kg							689.8			
+17	Illinois	MYCLOBUTANIL	1998	kg							778.2			
+17	Illinois	MYCLOBUTANIL	1999	kg					266		623.6			
+17	Illinois	MYCLOBUTANIL	2000	kg					46.8		1142.2			
+17	Illinois	MYCLOBUTANIL	2001	kg					179.8		387.6			
+17	Illinois	MYCLOBUTANIL	2002	kg					368.4		366.8			
+17	Illinois	MYCLOBUTANIL	2003	kg					611		796.8			
+17	Illinois	MYCLOBUTANIL	2004	kg					227.8		236.9			
+17	Illinois	MYCLOBUTANIL	2005	kg					23.6		116.1			
+17	Illinois	MYCLOBUTANIL	2006	kg					437.3		185.4			
+17	Illinois	MYCLOBUTANIL	2007	kg					461.3		72.8			
+17	Illinois	MYCLOBUTANIL	2008	kg					32.1		97.8			
+17	Illinois	MYCLOBUTANIL	2009	kg					128.5		280.2			
+17	Illinois	MYCLOBUTANIL	2010	kg					400.7		117.8			
+17	Illinois	MYCLOBUTANIL	2011	kg		241.8			116.1		118.9			
+17	Illinois	MYCLOBUTANIL	2012	kg					98.3		161.9			
+17	Illinois	MYCLOBUTANIL	2013	kg					825.3		205.3			
+17	Illinois	MYCLOBUTANIL	2014	kg					228.3		102.5			
+17	Illinois	MYCLOBUTANIL	2015	kg					452.9		163.6			
+17	Illinois	MYCLOBUTANIL	2016	kg					125.7					
+17	Illinois	MYCLOBUTANIL	2017	kg					174.4					
+18	Indiana	MYCLOBUTANIL	1992	kg							283.6			
+18	Indiana	MYCLOBUTANIL	1993	kg							243.6			
+18	Indiana	MYCLOBUTANIL	1994	kg							662.5			
+18	Indiana	MYCLOBUTANIL	1995	kg							1070.6			
+18	Indiana	MYCLOBUTANIL	1996	kg							771.5		0	
+18	Indiana	MYCLOBUTANIL	1997	kg							519.5			
+18	Indiana	MYCLOBUTANIL	1998	kg							535.9			
+18	Indiana	MYCLOBUTANIL	1999	kg					108.3		421.1			
+18	Indiana	MYCLOBUTANIL	2000	kg					56.9		506			
+18	Indiana	MYCLOBUTANIL	2001	kg					74.7		136.4			
+18	Indiana	MYCLOBUTANIL	2002	kg					118.8		423.6			
+18	Indiana	MYCLOBUTANIL	2003	kg					389.6		896.6			
+18	Indiana	MYCLOBUTANIL	2004	kg					129.6		262.3			
+18	Indiana	MYCLOBUTANIL	2005	kg		201.2			130.7		55.7			
+18	Indiana	MYCLOBUTANIL	2006	kg					1379.7		108.4			
+18	Indiana	MYCLOBUTANIL	2007	kg					327.2		43.1			
+18	Indiana	MYCLOBUTANIL	2008	kg					302.2		59.7			
+18	Indiana	MYCLOBUTANIL	2009	kg					139.6		150.7			
+18	Indiana	MYCLOBUTANIL	2010	kg					342.5		64.8			
+18	Indiana	MYCLOBUTANIL	2011	kg					602		110.7			
+18	Indiana	MYCLOBUTANIL	2012	kg					118.7		90.9			
+18	Indiana	MYCLOBUTANIL	2013	kg					316.6		125.1			
+18	Indiana	MYCLOBUTANIL	2014	kg					77.4		88.2			
+18	Indiana	MYCLOBUTANIL	2015	kg					204.9		146.6			
+18	Indiana	MYCLOBUTANIL	2016	kg					159.3		18.5			
+18	Indiana	MYCLOBUTANIL	2017	kg					183.6		14.5			
+19	Iowa	MYCLOBUTANIL	1992	kg							181.7			
+19	Iowa	MYCLOBUTANIL	1993	kg							166.2			
+19	Iowa	MYCLOBUTANIL	1994	kg							163.8			
+19	Iowa	MYCLOBUTANIL	1995	kg							68.2			
+19	Iowa	MYCLOBUTANIL	1996	kg							184.2			
+19	Iowa	MYCLOBUTANIL	1997	kg							1741.8			
+19	Iowa	MYCLOBUTANIL	1998	kg							78.7			
+19	Iowa	MYCLOBUTANIL	1999	kg					19.9		290			
+19	Iowa	MYCLOBUTANIL	2000	kg					2.7		103.8			
+19	Iowa	MYCLOBUTANIL	2001	kg					17.2		214.1			
+19	Iowa	MYCLOBUTANIL	2002	kg					22.3		219.5			
+19	Iowa	MYCLOBUTANIL	2003	kg					33		91.6			
+19	Iowa	MYCLOBUTANIL	2004	kg					10.6		99.1			
+19	Iowa	MYCLOBUTANIL	2005	kg					6.4		49.6			
+19	Iowa	MYCLOBUTANIL	2006	kg					14.1		69.2			
+19	Iowa	MYCLOBUTANIL	2007	kg					20		30.6			
+19	Iowa	MYCLOBUTANIL	2008	kg					0		32.2			
+19	Iowa	MYCLOBUTANIL	2009	kg					0.2		90.2			
+19	Iowa	MYCLOBUTANIL	2010	kg					1.2		34.6			
+19	Iowa	MYCLOBUTANIL	2011	kg		1090.3			3.9		59			
+19	Iowa	MYCLOBUTANIL	2012	kg					0.3		43.5			
+19	Iowa	MYCLOBUTANIL	2013	kg					12.7		48.8			
+19	Iowa	MYCLOBUTANIL	2014	kg					17.1		48			
+19	Iowa	MYCLOBUTANIL	2015	kg					20.4		71.8			
+19	Iowa	MYCLOBUTANIL	2016	kg					16.5					
+19	Iowa	MYCLOBUTANIL	2017	kg					13.2					
+20	Kansas	MYCLOBUTANIL	1993	kg							75.8			
+20	Kansas	MYCLOBUTANIL	1994	kg							91.1			
+20	Kansas	MYCLOBUTANIL	1995	kg							7.2			
+20	Kansas	MYCLOBUTANIL	1996	kg							39.6			
+20	Kansas	MYCLOBUTANIL	1997	kg							99			
+20	Kansas	MYCLOBUTANIL	1998	kg							141.6			
+20	Kansas	MYCLOBUTANIL	1999	kg							36.4			
+20	Kansas	MYCLOBUTANIL	2000	kg							153.4			
+20	Kansas	MYCLOBUTANIL	2001	kg					1.3		38.9			
+20	Kansas	MYCLOBUTANIL	2002	kg							84.8			
+20	Kansas	MYCLOBUTANIL	2003	kg							26.9			
+20	Kansas	MYCLOBUTANIL	2004	kg					1		60.9			
+20	Kansas	MYCLOBUTANIL	2005	kg					1.3					
+20	Kansas	MYCLOBUTANIL	2006	kg					1.9					
+20	Kansas	MYCLOBUTANIL	2009	kg				11.6						
+20	Kansas	MYCLOBUTANIL	2010	kg				0.3						
+20	Kansas	MYCLOBUTANIL	2011	kg				5	0.6					
+20	Kansas	MYCLOBUTANIL	2012	kg				3.7						
+20	Kansas	MYCLOBUTANIL	2013	kg				26.7	2.6					
+20	Kansas	MYCLOBUTANIL	2014	kg				7.3						
+21	Kentucky	MYCLOBUTANIL	1992	kg							205.1			
+21	Kentucky	MYCLOBUTANIL	1993	kg							37			
+21	Kentucky	MYCLOBUTANIL	1994	kg							299.6			
+21	Kentucky	MYCLOBUTANIL	1995	kg							126			
+21	Kentucky	MYCLOBUTANIL	1996	kg							232.7			
+21	Kentucky	MYCLOBUTANIL	1997	kg							522.9			
+21	Kentucky	MYCLOBUTANIL	1998	kg					7.6		75.3			
+21	Kentucky	MYCLOBUTANIL	1999	kg					26.6		255.6			
+21	Kentucky	MYCLOBUTANIL	2000	kg					47.9		573.7			
+21	Kentucky	MYCLOBUTANIL	2001	kg					27.9		196.2			
+21	Kentucky	MYCLOBUTANIL	2002	kg					40.1		97.2			
+21	Kentucky	MYCLOBUTANIL	2003	kg					78.5		249.1			
+21	Kentucky	MYCLOBUTANIL	2004	kg					45.6		170.8			
+21	Kentucky	MYCLOBUTANIL	2005	kg					43		44.1			
+21	Kentucky	MYCLOBUTANIL	2006	kg					38.6		98.1			
+21	Kentucky	MYCLOBUTANIL	2007	kg					61.1		70.8			
+21	Kentucky	MYCLOBUTANIL	2008	kg					35.5		49.1			
+21	Kentucky	MYCLOBUTANIL	2009	kg					36.5		82			
+21	Kentucky	MYCLOBUTANIL	2010	kg					13.5		40.3			
+21	Kentucky	MYCLOBUTANIL	2011	kg					17.9		54.3			
+21	Kentucky	MYCLOBUTANIL	2012	kg					0.8		56.3			
+21	Kentucky	MYCLOBUTANIL	2013	kg					39.3		55.3			
+21	Kentucky	MYCLOBUTANIL	2014	kg					34.6		54.4			
+21	Kentucky	MYCLOBUTANIL	2015	kg					59.7		28.8			
+21	Kentucky	MYCLOBUTANIL	2016	kg					49.1		15.3			
+21	Kentucky	MYCLOBUTANIL	2017	kg					16.7		47.7			
+22	Louisiana	MYCLOBUTANIL	1996	kg							22.6			
+22	Louisiana	MYCLOBUTANIL	1997	kg							7.1		6.3	
+22	Louisiana	MYCLOBUTANIL	2004	kg					0.3					
+22	Louisiana	MYCLOBUTANIL	2005	kg							1			
+22	Louisiana	MYCLOBUTANIL	2007	kg					0.2					
+22	Louisiana	MYCLOBUTANIL	2009	kg				29.6	0.1					
+22	Louisiana	MYCLOBUTANIL	2010	kg				11						
+22	Louisiana	MYCLOBUTANIL	2011	kg				165.8						
+22	Louisiana	MYCLOBUTANIL	2012	kg				58.9						
+22	Louisiana	MYCLOBUTANIL	2013	kg				32						
+22	Louisiana	MYCLOBUTANIL	2014	kg				67.7						
+23	Maine	MYCLOBUTANIL	1992	kg							833.8			
+23	Maine	MYCLOBUTANIL	1993	kg							166			
+23	Maine	MYCLOBUTANIL	1994	kg							84.8			
+23	Maine	MYCLOBUTANIL	1995	kg							7.9			
+23	Maine	MYCLOBUTANIL	1996	kg							436.4			
+23	Maine	MYCLOBUTANIL	1997	kg							50.2			
+23	Maine	MYCLOBUTANIL	1998	kg							51.8			
+23	Maine	MYCLOBUTANIL	1999	kg							3.3			
+23	Maine	MYCLOBUTANIL	2000	kg							31.2			
+23	Maine	MYCLOBUTANIL	2001	kg							168.1			
+23	Maine	MYCLOBUTANIL	2002	kg							113.7			
+23	Maine	MYCLOBUTANIL	2003	kg							187.7			
+23	Maine	MYCLOBUTANIL	2004	kg							22.3			
+23	Maine	MYCLOBUTANIL	2005	kg							120.2			
+23	Maine	MYCLOBUTANIL	2006	kg							96.9			
+23	Maine	MYCLOBUTANIL	2007	kg							73			
+23	Maine	MYCLOBUTANIL	2008	kg							82.1			
+23	Maine	MYCLOBUTANIL	2009	kg							100.5			
+23	Maine	MYCLOBUTANIL	2010	kg							173.6			
+23	Maine	MYCLOBUTANIL	2011	kg							133.4			
+23	Maine	MYCLOBUTANIL	2012	kg							125.3			
+23	Maine	MYCLOBUTANIL	2013	kg							116.4			
+23	Maine	MYCLOBUTANIL	2014	kg							135.4			
+23	Maine	MYCLOBUTANIL	2015	kg							80.4			
+23	Maine	MYCLOBUTANIL	2016	kg							84.6			
+23	Maine	MYCLOBUTANIL	2017	kg							42.3			
+24	Maryland	MYCLOBUTANIL	1992	kg							660.1			
+24	Maryland	MYCLOBUTANIL	1993	kg							225			
+24	Maryland	MYCLOBUTANIL	1994	kg					537.9		614.4			
+24	Maryland	MYCLOBUTANIL	1995	kg							213.6			
+24	Maryland	MYCLOBUTANIL	1996	kg							842.8			
+24	Maryland	MYCLOBUTANIL	1997	kg							233.1			
+24	Maryland	MYCLOBUTANIL	1998	kg					0		182.7			
+24	Maryland	MYCLOBUTANIL	1999	kg					19.2		140.7			
+24	Maryland	MYCLOBUTANIL	2000	kg					80		217.4			
+24	Maryland	MYCLOBUTANIL	2001	kg					186.1		190.2			
+24	Maryland	MYCLOBUTANIL	2002	kg					218.4		161.4			
+24	Maryland	MYCLOBUTANIL	2003	kg					233.7		427			
+24	Maryland	MYCLOBUTANIL	2004	kg					525.5		210.5			
+24	Maryland	MYCLOBUTANIL	2005	kg					331		222			
+24	Maryland	MYCLOBUTANIL	2006	kg					153.4		136.9			
+24	Maryland	MYCLOBUTANIL	2007	kg					191.8		124.6			
+24	Maryland	MYCLOBUTANIL	2008	kg					177.9		123.5			
+24	Maryland	MYCLOBUTANIL	2009	kg					254.3		155.7			
+24	Maryland	MYCLOBUTANIL	2010	kg					153.1		139.5			
+24	Maryland	MYCLOBUTANIL	2011	kg					47.3		137.6			
+24	Maryland	MYCLOBUTANIL	2012	kg					129.9		119.6			
+24	Maryland	MYCLOBUTANIL	2013	kg					102.1		97.4			
+24	Maryland	MYCLOBUTANIL	2014	kg					40.2		109.1			
+24	Maryland	MYCLOBUTANIL	2015	kg					42		83.4			
+24	Maryland	MYCLOBUTANIL	2016	kg					36.7		131.2			
+24	Maryland	MYCLOBUTANIL	2017	kg					19.8		257.6			
+25	Massachusetts	MYCLOBUTANIL	1992	kg							414.8			
+25	Massachusetts	MYCLOBUTANIL	1993	kg							360.3			
+25	Massachusetts	MYCLOBUTANIL	1994	kg							750.3			
+25	Massachusetts	MYCLOBUTANIL	1995	kg							119.6			
+25	Massachusetts	MYCLOBUTANIL	1996	kg							556.1			
+25	Massachusetts	MYCLOBUTANIL	1997	kg							80.7			
+25	Massachusetts	MYCLOBUTANIL	1998	kg							475			
+25	Massachusetts	MYCLOBUTANIL	1999	kg					302.5		177.8			
+25	Massachusetts	MYCLOBUTANIL	2000	kg					2.7		323.6			
+25	Massachusetts	MYCLOBUTANIL	2001	kg					6.8		60.6			
+25	Massachusetts	MYCLOBUTANIL	2002	kg					91.6		93.3			
+25	Massachusetts	MYCLOBUTANIL	2003	kg					124.6		262.2			
+25	Massachusetts	MYCLOBUTANIL	2004	kg					39.6		47.5			
+25	Massachusetts	MYCLOBUTANIL	2005	kg					15.3		92.6			
+25	Massachusetts	MYCLOBUTANIL	2006	kg					10.5		211.6			
+25	Massachusetts	MYCLOBUTANIL	2007	kg					8.2		128			
+25	Massachusetts	MYCLOBUTANIL	2008	kg					134.4		181.8			
+25	Massachusetts	MYCLOBUTANIL	2009	kg					12		143			
+25	Massachusetts	MYCLOBUTANIL	2010	kg					7.2		171			
+25	Massachusetts	MYCLOBUTANIL	2011	kg					179		213.2			
+25	Massachusetts	MYCLOBUTANIL	2012	kg					32.8		70.5			
+25	Massachusetts	MYCLOBUTANIL	2013	kg					73.1		86.7			
+25	Massachusetts	MYCLOBUTANIL	2014	kg					111.7		53.9			
+25	Massachusetts	MYCLOBUTANIL	2015	kg					161.8		104.8			
+25	Massachusetts	MYCLOBUTANIL	2016	kg					85.3		126.2			
+25	Massachusetts	MYCLOBUTANIL	2017	kg					195.8		91.4			
+26	Michigan	MYCLOBUTANIL	1992	kg							3910.1			
+26	Michigan	MYCLOBUTANIL	1993	kg							6269.2			
+26	Michigan	MYCLOBUTANIL	1994	kg							12222.7			
+26	Michigan	MYCLOBUTANIL	1995	kg							7048.4			
+26	Michigan	MYCLOBUTANIL	1996	kg							6063.4		0.7	
+26	Michigan	MYCLOBUTANIL	1997	kg							7142.9			
+26	Michigan	MYCLOBUTANIL	1998	kg							6163.5			
+26	Michigan	MYCLOBUTANIL	1999	kg					681.4		6214.3			
+26	Michigan	MYCLOBUTANIL	2000	kg					564.9		5122.6			
+26	Michigan	MYCLOBUTANIL	2001	kg					497.4		5443.2			
+26	Michigan	MYCLOBUTANIL	2002	kg					1342.3		4433.7			
+26	Michigan	MYCLOBUTANIL	2003	kg					846.5		4366.6			
+26	Michigan	MYCLOBUTANIL	2004	kg					680.1		3617.4			
+26	Michigan	MYCLOBUTANIL	2005	kg					414.9		2986.6			
+26	Michigan	MYCLOBUTANIL	2006	kg					1613.8		3533.1			
+26	Michigan	MYCLOBUTANIL	2007	kg					499.4		1597.3			
+26	Michigan	MYCLOBUTANIL	2008	kg					1027.1		1966.2			
+26	Michigan	MYCLOBUTANIL	2009	kg					905.5		1917.5			
+26	Michigan	MYCLOBUTANIL	2010	kg					1185.8		2338.7			
+26	Michigan	MYCLOBUTANIL	2011	kg					1102.7		3729.9			
+26	Michigan	MYCLOBUTANIL	2012	kg					334.6		2835			
+26	Michigan	MYCLOBUTANIL	2013	kg					805.9		4997.8			
+26	Michigan	MYCLOBUTANIL	2014	kg					741.2		2646.9			
+26	Michigan	MYCLOBUTANIL	2015	kg					1021.3		3763.3			
+26	Michigan	MYCLOBUTANIL	2016	kg					607.9		4289.2			
+26	Michigan	MYCLOBUTANIL	2017	kg					982.9		2879.5			
+27	Minnesota	MYCLOBUTANIL	1992	kg							2293.8			
+27	Minnesota	MYCLOBUTANIL	1993	kg							1063.2			
+27	Minnesota	MYCLOBUTANIL	1994	kg							1229.4			
+27	Minnesota	MYCLOBUTANIL	1995	kg							799.8			
+27	Minnesota	MYCLOBUTANIL	1996	kg							720.5			
+27	Minnesota	MYCLOBUTANIL	1997	kg							783.9			
+27	Minnesota	MYCLOBUTANIL	1998	kg							260.5			
+27	Minnesota	MYCLOBUTANIL	1999	kg					61.2		184.3			
+27	Minnesota	MYCLOBUTANIL	2000	kg					9.7		279.2			
+27	Minnesota	MYCLOBUTANIL	2001	kg					21.4		214.3			
+27	Minnesota	MYCLOBUTANIL	2002	kg					42.7		83.1			
+27	Minnesota	MYCLOBUTANIL	2003	kg					54.3		361.5			
+27	Minnesota	MYCLOBUTANIL	2004	kg					26.6		234.9			
+27	Minnesota	MYCLOBUTANIL	2005	kg					58.1		124.5			
+27	Minnesota	MYCLOBUTANIL	2006	kg					97.6		189.6			
+27	Minnesota	MYCLOBUTANIL	2007	kg					48.5		99.7			
+27	Minnesota	MYCLOBUTANIL	2008	kg					0.7		159.6			
+27	Minnesota	MYCLOBUTANIL	2009	kg					15.5		272.2			
+27	Minnesota	MYCLOBUTANIL	2010	kg					32.3		106.7			
+27	Minnesota	MYCLOBUTANIL	2011	kg					12		234			
+27	Minnesota	MYCLOBUTANIL	2012	kg					13.1		114.4			
+27	Minnesota	MYCLOBUTANIL	2013	kg					129		172.2			
+27	Minnesota	MYCLOBUTANIL	2014	kg					24		167.3			
+27	Minnesota	MYCLOBUTANIL	2015	kg					36.4		209.3			
+27	Minnesota	MYCLOBUTANIL	2016	kg					5.3		39.9			
+27	Minnesota	MYCLOBUTANIL	2017	kg					2.1		23.8			
+28	Mississippi	MYCLOBUTANIL	1993	kg							38.9			
+28	Mississippi	MYCLOBUTANIL	1995	kg				66.3			46.4			
+28	Mississippi	MYCLOBUTANIL	1996	kg							28.6			
+28	Mississippi	MYCLOBUTANIL	1997	kg							47.9			
+28	Mississippi	MYCLOBUTANIL	2005	kg		515.7			3.6					
+28	Mississippi	MYCLOBUTANIL	2009	kg		2318.5		10.2						
+28	Mississippi	MYCLOBUTANIL	2010	kg				39.2						
+28	Mississippi	MYCLOBUTANIL	2011	kg				304.2						
+28	Mississippi	MYCLOBUTANIL	2012	kg				288.9						
+28	Mississippi	MYCLOBUTANIL	2013	kg				206.3						
+28	Mississippi	MYCLOBUTANIL	2014	kg				361.6						
+29	Missouri	MYCLOBUTANIL	1992	kg							240.7			
+29	Missouri	MYCLOBUTANIL	1993	kg							1687.5			
+29	Missouri	MYCLOBUTANIL	1994	kg							302.9			
+29	Missouri	MYCLOBUTANIL	1995	kg							223.9			
+29	Missouri	MYCLOBUTANIL	1996	kg							466.1			
+29	Missouri	MYCLOBUTANIL	1997	kg							570			
+29	Missouri	MYCLOBUTANIL	1998	kg							886.4			
+29	Missouri	MYCLOBUTANIL	1999	kg					48.5		356.2			
+29	Missouri	MYCLOBUTANIL	2000	kg					7.7		1161.6			
+29	Missouri	MYCLOBUTANIL	2001	kg					203		376.2			
+29	Missouri	MYCLOBUTANIL	2002	kg					179.9		1179.2			
+29	Missouri	MYCLOBUTANIL	2003	kg					285.5		262.3			
+29	Missouri	MYCLOBUTANIL	2004	kg					70.2		464			
+29	Missouri	MYCLOBUTANIL	2005	kg					18.4		74			
+29	Missouri	MYCLOBUTANIL	2006	kg					98.1		103			
+29	Missouri	MYCLOBUTANIL	2007	kg					44.9		44.9			
+29	Missouri	MYCLOBUTANIL	2008	kg					0		78.5			
+29	Missouri	MYCLOBUTANIL	2009	kg		1885.6		3.5	43.1		264.9			
+29	Missouri	MYCLOBUTANIL	2010	kg				10.8	7.8		62.4			
+29	Missouri	MYCLOBUTANIL	2011	kg				220.8	5.8		83.7			
+29	Missouri	MYCLOBUTANIL	2012	kg				121.5	9.6		78			
+29	Missouri	MYCLOBUTANIL	2013	kg				9.6	29.7		90.7			
+29	Missouri	MYCLOBUTANIL	2014	kg				204.1	47.6		64.7			
+29	Missouri	MYCLOBUTANIL	2015	kg					31.1		99.6			
+29	Missouri	MYCLOBUTANIL	2016	kg					17.4					
+29	Missouri	MYCLOBUTANIL	2017	kg					39.3					
+30	Montana	MYCLOBUTANIL	1992	kg							21.6			
+30	Montana	MYCLOBUTANIL	1993	kg							42.6			
+30	Montana	MYCLOBUTANIL	1994	kg							36.1			
+30	Montana	MYCLOBUTANIL	1995	kg							42.4			
+30	Montana	MYCLOBUTANIL	1996	kg							141.1			
+30	Montana	MYCLOBUTANIL	1997	kg							107.5			
+30	Montana	MYCLOBUTANIL	1998	kg							31.8			
+30	Montana	MYCLOBUTANIL	1999	kg							35.8			
+30	Montana	MYCLOBUTANIL	2000	kg							30.5			
+30	Montana	MYCLOBUTANIL	2001	kg							43.3			
+30	Montana	MYCLOBUTANIL	2002	kg							47.3			
+30	Montana	MYCLOBUTANIL	2003	kg							24.7			
+30	Montana	MYCLOBUTANIL	2004	kg							32.9			
+30	Montana	MYCLOBUTANIL	2005	kg							46.9			
+30	Montana	MYCLOBUTANIL	2006	kg							23.8			
+30	Montana	MYCLOBUTANIL	2007	kg							10.7			
+30	Montana	MYCLOBUTANIL	2008	kg							29.9			
+30	Montana	MYCLOBUTANIL	2009	kg							11			
+30	Montana	MYCLOBUTANIL	2010	kg							8.7			
+30	Montana	MYCLOBUTANIL	2011	kg							7.2			
+30	Montana	MYCLOBUTANIL	2012	kg							17.3			
+30	Montana	MYCLOBUTANIL	2013	kg							15.5			
+30	Montana	MYCLOBUTANIL	2014	kg							11.3			
+30	Montana	MYCLOBUTANIL	2015	kg							18.2			
+30	Montana	MYCLOBUTANIL	2016	kg							7.8			
+30	Montana	MYCLOBUTANIL	2017	kg							1.7			
+31	Nebraska	MYCLOBUTANIL	1992	kg							26.5			
+31	Nebraska	MYCLOBUTANIL	1993	kg							16.8			
+31	Nebraska	MYCLOBUTANIL	1994	kg							250.4			
+31	Nebraska	MYCLOBUTANIL	1995	kg							13.6			
+31	Nebraska	MYCLOBUTANIL	1996	kg							481			
+31	Nebraska	MYCLOBUTANIL	1997	kg							98.5			
+31	Nebraska	MYCLOBUTANIL	1998	kg							16.1			
+31	Nebraska	MYCLOBUTANIL	1999	kg							46.8			
+31	Nebraska	MYCLOBUTANIL	2000	kg							40.9			
+31	Nebraska	MYCLOBUTANIL	2001	kg					0.6		9.6			
+31	Nebraska	MYCLOBUTANIL	2002	kg							11.8			
+31	Nebraska	MYCLOBUTANIL	2003	kg							14.4			
+31	Nebraska	MYCLOBUTANIL	2004	kg					0.3		16.4			
+31	Nebraska	MYCLOBUTANIL	2005	kg					0.6		8.1			
+31	Nebraska	MYCLOBUTANIL	2006	kg					0.8		11.8			
+31	Nebraska	MYCLOBUTANIL	2007	kg							5.4			
+31	Nebraska	MYCLOBUTANIL	2008	kg							4.7			
+31	Nebraska	MYCLOBUTANIL	2009	kg							13.8			
+31	Nebraska	MYCLOBUTANIL	2010	kg							4.6			
+31	Nebraska	MYCLOBUTANIL	2011	kg					1.7		8.6			
+31	Nebraska	MYCLOBUTANIL	2012	kg							6.4			
+31	Nebraska	MYCLOBUTANIL	2013	kg					5.3		6.9			
+31	Nebraska	MYCLOBUTANIL	2014	kg							7.4			
+31	Nebraska	MYCLOBUTANIL	2015	kg							11.3			
+32	Nevada	MYCLOBUTANIL	1992	kg							4.8			
+32	Nevada	MYCLOBUTANIL	1993	kg					7.9		1.4			
+32	Nevada	MYCLOBUTANIL	1994	kg							2			
+32	Nevada	MYCLOBUTANIL	1995	kg					0.7		8.2			
+32	Nevada	MYCLOBUTANIL	1996	kg					0.2		8.5		20.7	
+32	Nevada	MYCLOBUTANIL	1997	kg					1.5		4.2			
+32	Nevada	MYCLOBUTANIL	1998	kg					0.3		8.9			
+32	Nevada	MYCLOBUTANIL	1999	kg							10.6			
+32	Nevada	MYCLOBUTANIL	2000	kg					3.8		9.1			
+32	Nevada	MYCLOBUTANIL	2001	kg					0.1		8.3			
+32	Nevada	MYCLOBUTANIL	2002	kg					0.4		9.5			
+32	Nevada	MYCLOBUTANIL	2003	kg					3.7		6.7			
+32	Nevada	MYCLOBUTANIL	2004	kg					1		8.5			
+32	Nevada	MYCLOBUTANIL	2005	kg					2		9.5			
+32	Nevada	MYCLOBUTANIL	2006	kg					0.1		6.1			
+32	Nevada	MYCLOBUTANIL	2007	kg					0.9		4.1			
+32	Nevada	MYCLOBUTANIL	2008	kg					2.9		14.7			
+32	Nevada	MYCLOBUTANIL	2009	kg					6.5		6.7			
+32	Nevada	MYCLOBUTANIL	2010	kg					9.4		8.1			
+32	Nevada	MYCLOBUTANIL	2011	kg					12.9		2.7			
+32	Nevada	MYCLOBUTANIL	2012	kg					5.9		16.1			
+32	Nevada	MYCLOBUTANIL	2013	kg					10.9		13.1			
+32	Nevada	MYCLOBUTANIL	2014	kg					4.2		5.8			
+32	Nevada	MYCLOBUTANIL	2015	kg					8.6		3.7			
+32	Nevada	MYCLOBUTANIL	2016	kg					7.3		3.6			
+32	Nevada	MYCLOBUTANIL	2017	kg					6.8		4.4			
+33	New Hampshire	MYCLOBUTANIL	1992	kg							181.8			
+33	New Hampshire	MYCLOBUTANIL	1993	kg							93.8			
+33	New Hampshire	MYCLOBUTANIL	1994	kg							79.8			
+33	New Hampshire	MYCLOBUTANIL	1995	kg							12.2			
+33	New Hampshire	MYCLOBUTANIL	1996	kg							155			
+33	New Hampshire	MYCLOBUTANIL	1997	kg							122.6			
+33	New Hampshire	MYCLOBUTANIL	1998	kg							134.3			
+33	New Hampshire	MYCLOBUTANIL	1999	kg					1.5		35.9			
+33	New Hampshire	MYCLOBUTANIL	2000	kg					0.3		86.6			
+33	New Hampshire	MYCLOBUTANIL	2001	kg					8.6		27.4			
+33	New Hampshire	MYCLOBUTANIL	2002	kg					17.5		76.1			
+33	New Hampshire	MYCLOBUTANIL	2003	kg					21.6		125.4			
+33	New Hampshire	MYCLOBUTANIL	2004	kg					8		17.8			
+33	New Hampshire	MYCLOBUTANIL	2005	kg					25.8		84.7			
+33	New Hampshire	MYCLOBUTANIL	2006	kg					2		70			
+33	New Hampshire	MYCLOBUTANIL	2007	kg					1.5		56.3			
+33	New Hampshire	MYCLOBUTANIL	2008	kg					26.3		61.9			
+33	New Hampshire	MYCLOBUTANIL	2009	kg							62.2			
+33	New Hampshire	MYCLOBUTANIL	2010	kg					0.7		104.3			
+33	New Hampshire	MYCLOBUTANIL	2011	kg					35.4		81.4			
+33	New Hampshire	MYCLOBUTANIL	2012	kg					3.1		63.6			
+33	New Hampshire	MYCLOBUTANIL	2013	kg					15.6		65.2			
+33	New Hampshire	MYCLOBUTANIL	2014	kg					18.3		72.2			
+33	New Hampshire	MYCLOBUTANIL	2015	kg					32.3		38.1			
+33	New Hampshire	MYCLOBUTANIL	2016	kg					21.5		57			
+33	New Hampshire	MYCLOBUTANIL	2017	kg					51.6		29.3			
+34	New Jersey	MYCLOBUTANIL	1992	kg							437.7			
+34	New Jersey	MYCLOBUTANIL	1993	kg							731.9			
+34	New Jersey	MYCLOBUTANIL	1994	kg							333.1			
+34	New Jersey	MYCLOBUTANIL	1995	kg							288.7			
+34	New Jersey	MYCLOBUTANIL	1996	kg							184.9			
+34	New Jersey	MYCLOBUTANIL	1997	kg							326.9			
+34	New Jersey	MYCLOBUTANIL	1998	kg							560.5			
+34	New Jersey	MYCLOBUTANIL	1999	kg					18.9		254.8			
+34	New Jersey	MYCLOBUTANIL	2000	kg					226.4		526.8			
+34	New Jersey	MYCLOBUTANIL	2001	kg					315		369.3			
+34	New Jersey	MYCLOBUTANIL	2002	kg					361.9		433.4			
+34	New Jersey	MYCLOBUTANIL	2003	kg					122.5		699.6			
+34	New Jersey	MYCLOBUTANIL	2004	kg					41.4		347.9			
+34	New Jersey	MYCLOBUTANIL	2005	kg					395.2		337.2			
+34	New Jersey	MYCLOBUTANIL	2006	kg					33.3		461.3			
+34	New Jersey	MYCLOBUTANIL	2007	kg					182.5		603.7			
+34	New Jersey	MYCLOBUTANIL	2008	kg					76.7		517.1			
+34	New Jersey	MYCLOBUTANIL	2009	kg					246.3		977			
+34	New Jersey	MYCLOBUTANIL	2010	kg					57.5		203.1			
+34	New Jersey	MYCLOBUTANIL	2011	kg					338		248.9			
+34	New Jersey	MYCLOBUTANIL	2012	kg					104.7		839			
+34	New Jersey	MYCLOBUTANIL	2013	kg					214		1212.7			
+34	New Jersey	MYCLOBUTANIL	2014	kg					46.6		816.2			
+34	New Jersey	MYCLOBUTANIL	2015	kg					321.5		386.8			
+34	New Jersey	MYCLOBUTANIL	2016	kg					184.6		701.3			
+34	New Jersey	MYCLOBUTANIL	2017	kg					79.8		568.9			
+35	New Mexico	MYCLOBUTANIL	1992	kg							7.4			
+35	New Mexico	MYCLOBUTANIL	1993	kg							4.8			
+35	New Mexico	MYCLOBUTANIL	1994	kg							50.7			
+35	New Mexico	MYCLOBUTANIL	1995	kg							23.8			
+35	New Mexico	MYCLOBUTANIL	1996	kg							45.8			
+35	New Mexico	MYCLOBUTANIL	1997	kg					52.9		19.7			
+35	New Mexico	MYCLOBUTANIL	1998	kg					127.7		117.5			
+35	New Mexico	MYCLOBUTANIL	1999	kg					432.2		111			
+35	New Mexico	MYCLOBUTANIL	2000	kg					215.8		102.1			
+35	New Mexico	MYCLOBUTANIL	2001	kg					21.4		74.1			
+35	New Mexico	MYCLOBUTANIL	2002	kg					83		89.6			
+35	New Mexico	MYCLOBUTANIL	2003	kg					75.5		51.7			
+35	New Mexico	MYCLOBUTANIL	2004	kg					365.1		102.5			
+35	New Mexico	MYCLOBUTANIL	2005	kg					461.3		91.7			
+35	New Mexico	MYCLOBUTANIL	2006	kg					1473.5		36.5			
+35	New Mexico	MYCLOBUTANIL	2007	kg					677.8		6.5			
+35	New Mexico	MYCLOBUTANIL	2008	kg				0	193.1		82.8			
+35	New Mexico	MYCLOBUTANIL	2009	kg				0.4	590.9		11.8			
+35	New Mexico	MYCLOBUTANIL	2010	kg				3.5	36.4		42.9			
+35	New Mexico	MYCLOBUTANIL	2011	kg				2.7	868.6		370.6			
+35	New Mexico	MYCLOBUTANIL	2012	kg				2.6	954.4		42.6			
+35	New Mexico	MYCLOBUTANIL	2013	kg				9.6	377.8		16.5			
+35	New Mexico	MYCLOBUTANIL	2014	kg				6.3	208.2		24.5			
+35	New Mexico	MYCLOBUTANIL	2015	kg					1.7		12			
+35	New Mexico	MYCLOBUTANIL	2016	kg					24.9		12.8			
+35	New Mexico	MYCLOBUTANIL	2017	kg							12.9			
+36	New York	MYCLOBUTANIL	1992	kg							4850.6			
+36	New York	MYCLOBUTANIL	1993	kg							3173.2			
+36	New York	MYCLOBUTANIL	1994	kg					12		5176.9			
+36	New York	MYCLOBUTANIL	1995	kg					7.2		3601.2			
+36	New York	MYCLOBUTANIL	1996	kg							3796.8			
+36	New York	MYCLOBUTANIL	1997	kg							4817.1			
+36	New York	MYCLOBUTANIL	1998	kg					15.9		3435.1			
+36	New York	MYCLOBUTANIL	1999	kg					191.7		4258.5			
+36	New York	MYCLOBUTANIL	2000	kg					380.1		1660.6			
+36	New York	MYCLOBUTANIL	2001	kg					368.1		3440.3			
+36	New York	MYCLOBUTANIL	2002	kg					278.6		1470.4			
+36	New York	MYCLOBUTANIL	2003	kg					607.3		2290.9			
+36	New York	MYCLOBUTANIL	2004	kg					660.3		1974.1			
+36	New York	MYCLOBUTANIL	2005	kg					732.7		2228			
+36	New York	MYCLOBUTANIL	2006	kg					656.8		1885.9			
+36	New York	MYCLOBUTANIL	2007	kg					647.5		1331.2			
+36	New York	MYCLOBUTANIL	2008	kg					344.9		1489.5			
+36	New York	MYCLOBUTANIL	2009	kg					352.9		1070.8			
+36	New York	MYCLOBUTANIL	2010	kg					642.4		2759.4			
+36	New York	MYCLOBUTANIL	2011	kg					428.9		3509.7			
+36	New York	MYCLOBUTANIL	2012	kg					317.3		1418			
+36	New York	MYCLOBUTANIL	2013	kg					282.3		1103.9			
+36	New York	MYCLOBUTANIL	2014	kg					309.2		1989			
+36	New York	MYCLOBUTANIL	2015	kg					575.5		1242.9			
+36	New York	MYCLOBUTANIL	2016	kg					963.3		1705.4			
+36	New York	MYCLOBUTANIL	2017	kg					538		836.6			
+37	North Carolina	MYCLOBUTANIL	1992	kg							814.7			
+37	North Carolina	MYCLOBUTANIL	1993	kg							548.2			
+37	North Carolina	MYCLOBUTANIL	1994	kg							529.2			
+37	North Carolina	MYCLOBUTANIL	1995	kg							355			
+37	North Carolina	MYCLOBUTANIL	1996	kg							301.8			
+37	North Carolina	MYCLOBUTANIL	1997	kg							697			
+37	North Carolina	MYCLOBUTANIL	1998	kg					5.5		499.5			
+37	North Carolina	MYCLOBUTANIL	1999	kg					12.7		622.2			
+37	North Carolina	MYCLOBUTANIL	2000	kg					202.8		570.4			
+37	North Carolina	MYCLOBUTANIL	2001	kg					343.3		1215			
+37	North Carolina	MYCLOBUTANIL	2002	kg					888.1		411.3			
+37	North Carolina	MYCLOBUTANIL	2003	kg					1359.1		492.9			
+37	North Carolina	MYCLOBUTANIL	2004	kg					539.2		696.4			
+37	North Carolina	MYCLOBUTANIL	2005	kg					1535.9		491.9			
+37	North Carolina	MYCLOBUTANIL	2006	kg					328.2		539.2			
+37	North Carolina	MYCLOBUTANIL	2007	kg					593.6		147.6			
+37	North Carolina	MYCLOBUTANIL	2008	kg					237		901.3			
+37	North Carolina	MYCLOBUTANIL	2009	kg				25	119.3		833.7			
+37	North Carolina	MYCLOBUTANIL	2010	kg				61	458.3		839			
+37	North Carolina	MYCLOBUTANIL	2011	kg				427.5	377.3		767			
+37	North Carolina	MYCLOBUTANIL	2012	kg				131.9	42		654.1			
+37	North Carolina	MYCLOBUTANIL	2013	kg				180.1	234.3		224.3			
+37	North Carolina	MYCLOBUTANIL	2014	kg				391.9	13.4		131.1			
+37	North Carolina	MYCLOBUTANIL	2015	kg					645.3		834.5			
+37	North Carolina	MYCLOBUTANIL	2016	kg					380.6		97			
+37	North Carolina	MYCLOBUTANIL	2017	kg					429.4		666.9			
+39	Ohio	MYCLOBUTANIL	1992	kg							1077.1			
+39	Ohio	MYCLOBUTANIL	1993	kg							449.1			
+39	Ohio	MYCLOBUTANIL	1994	kg							2093.2			
+39	Ohio	MYCLOBUTANIL	1995	kg							979.3			
+39	Ohio	MYCLOBUTANIL	1996	kg					210.4		976.2			
+39	Ohio	MYCLOBUTANIL	1997	kg							1411.6			
+39	Ohio	MYCLOBUTANIL	1998	kg					62.6		1022.8			
+39	Ohio	MYCLOBUTANIL	1999	kg					401.9		789.3			
+39	Ohio	MYCLOBUTANIL	2000	kg					45.6		1967.6			
+39	Ohio	MYCLOBUTANIL	2001	kg					201.7		687.9			
+39	Ohio	MYCLOBUTANIL	2002	kg					178.1		400.8			
+39	Ohio	MYCLOBUTANIL	2003	kg					204		709.8			
+39	Ohio	MYCLOBUTANIL	2004	kg					402.3		867.7			
+39	Ohio	MYCLOBUTANIL	2005	kg					577.2		282.3			
+39	Ohio	MYCLOBUTANIL	2006	kg					370.8		637.1			
+39	Ohio	MYCLOBUTANIL	2007	kg					239.6		78.4			
+39	Ohio	MYCLOBUTANIL	2008	kg					128.7		847.2			
+39	Ohio	MYCLOBUTANIL	2009	kg					452.6		1091.5			
+39	Ohio	MYCLOBUTANIL	2010	kg					217.9		229.1			
+39	Ohio	MYCLOBUTANIL	2011	kg					76.3		655.4			
+39	Ohio	MYCLOBUTANIL	2012	kg					114.4		98.3			
+39	Ohio	MYCLOBUTANIL	2013	kg					410.6		207.4			
+39	Ohio	MYCLOBUTANIL	2014	kg					293.8		343.1			
+39	Ohio	MYCLOBUTANIL	2015	kg					385.1		196.1			
+39	Ohio	MYCLOBUTANIL	2016	kg					386.1		96			
+39	Ohio	MYCLOBUTANIL	2017	kg					462.3		83.7			
+40	Oklahoma	MYCLOBUTANIL	1993	kg							1943.8			
+40	Oklahoma	MYCLOBUTANIL	1994	kg							47.1			
+40	Oklahoma	MYCLOBUTANIL	1996	kg							107.3			
+40	Oklahoma	MYCLOBUTANIL	1997	kg							240.9		3.8	
+40	Oklahoma	MYCLOBUTANIL	1998	kg							1.2			
+40	Oklahoma	MYCLOBUTANIL	1999	kg					72.7		20.4			
+40	Oklahoma	MYCLOBUTANIL	2000	kg							50.9			
+40	Oklahoma	MYCLOBUTANIL	2001	kg							60.7			
+40	Oklahoma	MYCLOBUTANIL	2002	kg					0		2.8			
+40	Oklahoma	MYCLOBUTANIL	2003	kg					0					
+40	Oklahoma	MYCLOBUTANIL	2004	kg					483.5					
+40	Oklahoma	MYCLOBUTANIL	2005	kg					0		0.5			
+40	Oklahoma	MYCLOBUTANIL	2006	kg					0					
+40	Oklahoma	MYCLOBUTANIL	2007	kg					10.8					
+40	Oklahoma	MYCLOBUTANIL	2008	kg					0.8					
+40	Oklahoma	MYCLOBUTANIL	2009	kg				2.8	3.1					
+40	Oklahoma	MYCLOBUTANIL	2010	kg				3.2	19					
+40	Oklahoma	MYCLOBUTANIL	2011	kg				257.6	3.9					
+40	Oklahoma	MYCLOBUTANIL	2012	kg				10.5	3.2					
+40	Oklahoma	MYCLOBUTANIL	2013	kg				90.8	5.5					
+40	Oklahoma	MYCLOBUTANIL	2014	kg				109.1	0.3					
+40	Oklahoma	MYCLOBUTANIL	2015	kg					0.1					
+40	Oklahoma	MYCLOBUTANIL	2016	kg					3.3					
+41	Oregon	MYCLOBUTANIL	1992	kg							1645			
+41	Oregon	MYCLOBUTANIL	1993	kg							2081.9			
+41	Oregon	MYCLOBUTANIL	1994	kg							4079			
+41	Oregon	MYCLOBUTANIL	1995	kg					3		2416.9			
+41	Oregon	MYCLOBUTANIL	1996	kg							1203.5			
+41	Oregon	MYCLOBUTANIL	1997	kg					147.2		1405.5		11.8	
+41	Oregon	MYCLOBUTANIL	1998	kg							1639.9			
+41	Oregon	MYCLOBUTANIL	1999	kg					13.1		1332.7			
+41	Oregon	MYCLOBUTANIL	2000	kg					13.6		830.4			
+41	Oregon	MYCLOBUTANIL	2001	kg					4.3		1751			87.6
+41	Oregon	MYCLOBUTANIL	2002	kg					50.9		1551.7			380.1
+41	Oregon	MYCLOBUTANIL	2003	kg					8.7		1070.5			343
+41	Oregon	MYCLOBUTANIL	2004	kg					17.5		1423.8			6
+41	Oregon	MYCLOBUTANIL	2005	kg					2.9		750.5			
+41	Oregon	MYCLOBUTANIL	2006	kg					8.9		881.5			
+41	Oregon	MYCLOBUTANIL	2007	kg					11.6		176.4			
+41	Oregon	MYCLOBUTANIL	2008	kg					78.8		553.5			
+41	Oregon	MYCLOBUTANIL	2009	kg					55.4		607.9			40
+41	Oregon	MYCLOBUTANIL	2010	kg					24.8		835.4			
+41	Oregon	MYCLOBUTANIL	2011	kg					184.8		963.9			
+41	Oregon	MYCLOBUTANIL	2012	kg					129.5		846.1			
+41	Oregon	MYCLOBUTANIL	2013	kg					274.9		431.8			
+41	Oregon	MYCLOBUTANIL	2014	kg					99		843.5			
+41	Oregon	MYCLOBUTANIL	2015	kg					30.2		292.4			
+41	Oregon	MYCLOBUTANIL	2016	kg							410.2			
+41	Oregon	MYCLOBUTANIL	2017	kg							284.9			
+42	Pennsylvania	MYCLOBUTANIL	1992	kg							2429			
+42	Pennsylvania	MYCLOBUTANIL	1993	kg							5216			
+42	Pennsylvania	MYCLOBUTANIL	1994	kg					1.1		3915.9			
+42	Pennsylvania	MYCLOBUTANIL	1995	kg					0.7		2794			
+42	Pennsylvania	MYCLOBUTANIL	1996	kg							1840.1			
+42	Pennsylvania	MYCLOBUTANIL	1997	kg							1820			
+42	Pennsylvania	MYCLOBUTANIL	1998	kg					4.8		3784.9			
+42	Pennsylvania	MYCLOBUTANIL	1999	kg					15.3		1193			
+42	Pennsylvania	MYCLOBUTANIL	2000	kg					80.2		1832.4			
+42	Pennsylvania	MYCLOBUTANIL	2001	kg					259.6		1473.6			
+42	Pennsylvania	MYCLOBUTANIL	2002	kg					261.7		1459			
+42	Pennsylvania	MYCLOBUTANIL	2003	kg					148.8		5109.3			
+42	Pennsylvania	MYCLOBUTANIL	2004	kg					209.3		1709.3			
+42	Pennsylvania	MYCLOBUTANIL	2005	kg					862.6		1603.3			
+42	Pennsylvania	MYCLOBUTANIL	2006	kg					291.1		1285.8			
+42	Pennsylvania	MYCLOBUTANIL	2007	kg					336.2		1136.6			
+42	Pennsylvania	MYCLOBUTANIL	2008	kg					377.1		778.5			
+42	Pennsylvania	MYCLOBUTANIL	2009	kg					425.4		3166.3			
+42	Pennsylvania	MYCLOBUTANIL	2010	kg					167.6		1659.1			
+42	Pennsylvania	MYCLOBUTANIL	2011	kg					143.1		1353.8			
+42	Pennsylvania	MYCLOBUTANIL	2012	kg					359		1321.5			
+42	Pennsylvania	MYCLOBUTANIL	2013	kg					478.9		1226.1			
+42	Pennsylvania	MYCLOBUTANIL	2014	kg					342		785.6			
+42	Pennsylvania	MYCLOBUTANIL	2015	kg					550.3		1071.6			
+42	Pennsylvania	MYCLOBUTANIL	2016	kg					228.8		1412.9			
+42	Pennsylvania	MYCLOBUTANIL	2017	kg					91.4		976.3			
+44	Rhode Island	MYCLOBUTANIL	1992	kg							20.6			
+44	Rhode Island	MYCLOBUTANIL	1993	kg							13.2			
+44	Rhode Island	MYCLOBUTANIL	1994	kg							14.7			
+44	Rhode Island	MYCLOBUTANIL	1995	kg							2.8			
+44	Rhode Island	MYCLOBUTANIL	1996	kg							38			
+44	Rhode Island	MYCLOBUTANIL	1997	kg							4.3			
+44	Rhode Island	MYCLOBUTANIL	1998	kg							32.7			
+44	Rhode Island	MYCLOBUTANIL	1999	kg					0.8		9.4			
+44	Rhode Island	MYCLOBUTANIL	2000	kg					5.4		20.8			
+44	Rhode Island	MYCLOBUTANIL	2001	kg					4.3		4.1			
+44	Rhode Island	MYCLOBUTANIL	2002	kg					9		10.8			
+44	Rhode Island	MYCLOBUTANIL	2003	kg					11.1		18.2			
+44	Rhode Island	MYCLOBUTANIL	2004	kg					4		3.7			
+44	Rhode Island	MYCLOBUTANIL	2005	kg					13.3		14.9			
+44	Rhode Island	MYCLOBUTANIL	2006	kg					3.8		13.2			
+44	Rhode Island	MYCLOBUTANIL	2007	kg					0.8		11.6			
+44	Rhode Island	MYCLOBUTANIL	2008	kg					35.7		12.2			
+44	Rhode Island	MYCLOBUTANIL	2009	kg					0.2		12.2			
+44	Rhode Island	MYCLOBUTANIL	2010	kg					5.5		19			
+44	Rhode Island	MYCLOBUTANIL	2011	kg					18.6		15.5			
+44	Rhode Island	MYCLOBUTANIL	2012	kg					2.5		11.1			
+44	Rhode Island	MYCLOBUTANIL	2013	kg					6.8		11.9			
+44	Rhode Island	MYCLOBUTANIL	2014	kg					11.3		11.9			
+44	Rhode Island	MYCLOBUTANIL	2015	kg					14.5		8.2			
+44	Rhode Island	MYCLOBUTANIL	2016	kg					6.5		11.8			
+44	Rhode Island	MYCLOBUTANIL	2017	kg					11.2		6.1			
+45	South Carolina	MYCLOBUTANIL	1992	kg							368.8			
+45	South Carolina	MYCLOBUTANIL	1993	kg							512.5			
+45	South Carolina	MYCLOBUTANIL	1994	kg							271.7			
+45	South Carolina	MYCLOBUTANIL	1995	kg							79.8			
+45	South Carolina	MYCLOBUTANIL	1996	kg							256.6			
+45	South Carolina	MYCLOBUTANIL	1997	kg							324.2			
+45	South Carolina	MYCLOBUTANIL	1998	kg							140.3			
+45	South Carolina	MYCLOBUTANIL	1999	kg							133.4			
+45	South Carolina	MYCLOBUTANIL	2000	kg					46.2		146.7			
+45	South Carolina	MYCLOBUTANIL	2001	kg					117.6		537.5			
+45	South Carolina	MYCLOBUTANIL	2002	kg					171.6		113.6			
+45	South Carolina	MYCLOBUTANIL	2003	kg					475.6		124.2			
+45	South Carolina	MYCLOBUTANIL	2004	kg					152.3		212.8			
+45	South Carolina	MYCLOBUTANIL	2005	kg					220.7		81.4			
+45	South Carolina	MYCLOBUTANIL	2006	kg					64.5		63.6			
+45	South Carolina	MYCLOBUTANIL	2007	kg					41.8		7			
+45	South Carolina	MYCLOBUTANIL	2008	kg					47.7		63			
+45	South Carolina	MYCLOBUTANIL	2009	kg				2.5	50.2		48.4			
+45	South Carolina	MYCLOBUTANIL	2010	kg				10.6	40		102.6			
+45	South Carolina	MYCLOBUTANIL	2011	kg				114.9			531			
+45	South Carolina	MYCLOBUTANIL	2012	kg				134.8	84.7		46.6			
+45	South Carolina	MYCLOBUTANIL	2013	kg				169.8	197.4		14.7			
+45	South Carolina	MYCLOBUTANIL	2014	kg				253.9			6.6			
+45	South Carolina	MYCLOBUTANIL	2015	kg					74.8		32.9			
+45	South Carolina	MYCLOBUTANIL	2016	kg					57.4		1.4			
+45	South Carolina	MYCLOBUTANIL	2017	kg					62.7		37.9			
+47	Tennessee	MYCLOBUTANIL	1992	kg							66.9			
+47	Tennessee	MYCLOBUTANIL	1993	kg							126.5			
+47	Tennessee	MYCLOBUTANIL	1994	kg							93.1			
+47	Tennessee	MYCLOBUTANIL	1995	kg							211.5			
+47	Tennessee	MYCLOBUTANIL	1996	kg							245.5			
+47	Tennessee	MYCLOBUTANIL	1997	kg							206.6			
+47	Tennessee	MYCLOBUTANIL	1998	kg					21.1		102.2			
+47	Tennessee	MYCLOBUTANIL	1999	kg					42		105.3			
+47	Tennessee	MYCLOBUTANIL	2000	kg					122.6		156.3			
+47	Tennessee	MYCLOBUTANIL	2001	kg					105.4		97.9			
+47	Tennessee	MYCLOBUTANIL	2002	kg					124.8		92.4			
+47	Tennessee	MYCLOBUTANIL	2003	kg					56.5		162.7			
+47	Tennessee	MYCLOBUTANIL	2004	kg					98.1		51.1			
+47	Tennessee	MYCLOBUTANIL	2005	kg		280.8			225.5		69.1			
+47	Tennessee	MYCLOBUTANIL	2006	kg					77		93.8			
+47	Tennessee	MYCLOBUTANIL	2007	kg					166.5		21.2			
+47	Tennessee	MYCLOBUTANIL	2008	kg					38.2		55.6			
+47	Tennessee	MYCLOBUTANIL	2009	kg		1612		31.5			52.2			
+47	Tennessee	MYCLOBUTANIL	2010	kg				108.1			40.7			
+47	Tennessee	MYCLOBUTANIL	2011	kg				57.1	152.8		44.4			
+47	Tennessee	MYCLOBUTANIL	2012	kg				99.4	10.8		46.2			
+47	Tennessee	MYCLOBUTANIL	2013	kg				38.3	374.3		38.1			
+47	Tennessee	MYCLOBUTANIL	2014	kg				166.4	48.5		39.4			
+47	Tennessee	MYCLOBUTANIL	2015	kg					46.8		39.9			
+47	Tennessee	MYCLOBUTANIL	2016	kg					15.7		14.4			
+47	Tennessee	MYCLOBUTANIL	2017	kg					13.1		45.2			
+48	Texas	MYCLOBUTANIL	1993	kg							51.4			
+48	Texas	MYCLOBUTANIL	1994	kg							106.8			
+48	Texas	MYCLOBUTANIL	1996	kg							99.1			
+48	Texas	MYCLOBUTANIL	1997	kg							240		51.2	
+48	Texas	MYCLOBUTANIL	1999	kg					823.7		33.6			
+48	Texas	MYCLOBUTANIL	2000	kg					431.2		116.2			
+48	Texas	MYCLOBUTANIL	2001	kg					1556.7					
+48	Texas	MYCLOBUTANIL	2002	kg					1506.6					
+48	Texas	MYCLOBUTANIL	2003	kg					833.1					
+48	Texas	MYCLOBUTANIL	2004	kg					1607.1					
+48	Texas	MYCLOBUTANIL	2005	kg					918.1		77.8			
+48	Texas	MYCLOBUTANIL	2006	kg					957.6					
+48	Texas	MYCLOBUTANIL	2007	kg					707.7					
+48	Texas	MYCLOBUTANIL	2008	kg				29.5	1140.6					
+48	Texas	MYCLOBUTANIL	2009	kg				93.5	725.1					
+48	Texas	MYCLOBUTANIL	2010	kg				101.3	943.9					
+48	Texas	MYCLOBUTANIL	2011	kg				776	1210.8		198.9			
+48	Texas	MYCLOBUTANIL	2012	kg				660.1	1287.8					
+48	Texas	MYCLOBUTANIL	2013	kg				580.4	287.8					
+48	Texas	MYCLOBUTANIL	2014	kg				1316.8	415					
+48	Texas	MYCLOBUTANIL	2015	kg					5.1					
+48	Texas	MYCLOBUTANIL	2016	kg					145.6					
+49	Utah	MYCLOBUTANIL	1992	kg							155			
+49	Utah	MYCLOBUTANIL	1993	kg							190.8			
+49	Utah	MYCLOBUTANIL	1994	kg							325.8			
+49	Utah	MYCLOBUTANIL	1995	kg							565.9			
+49	Utah	MYCLOBUTANIL	1996	kg							866.1			
+49	Utah	MYCLOBUTANIL	1997	kg							1578.8			
+49	Utah	MYCLOBUTANIL	1998	kg							855.4			
+49	Utah	MYCLOBUTANIL	1999	kg							287.6			
+49	Utah	MYCLOBUTANIL	2000	kg							391.5			
+49	Utah	MYCLOBUTANIL	2001	kg							276.3			
+49	Utah	MYCLOBUTANIL	2002	kg					1.7		377.9			
+49	Utah	MYCLOBUTANIL	2003	kg					0.3		88.9			
+49	Utah	MYCLOBUTANIL	2004	kg					0.4		235.6			
+49	Utah	MYCLOBUTANIL	2005	kg					0.4		211.3			
+49	Utah	MYCLOBUTANIL	2006	kg							139.6			
+49	Utah	MYCLOBUTANIL	2007	kg							47			
+49	Utah	MYCLOBUTANIL	2008	kg							145.8			
+49	Utah	MYCLOBUTANIL	2009	kg							54.9			
+49	Utah	MYCLOBUTANIL	2010	kg							46			
+49	Utah	MYCLOBUTANIL	2011	kg							43.4			
+49	Utah	MYCLOBUTANIL	2012	kg					0.1		102.3			
+49	Utah	MYCLOBUTANIL	2013	kg							95.4			
+49	Utah	MYCLOBUTANIL	2014	kg							65.9			
+49	Utah	MYCLOBUTANIL	2015	kg							108.1			
+49	Utah	MYCLOBUTANIL	2016	kg							44.6			
+49	Utah	MYCLOBUTANIL	2017	kg							9.8			
+50	Vermont	MYCLOBUTANIL	1992	kg							154.9			
+50	Vermont	MYCLOBUTANIL	1993	kg							124.2			
+50	Vermont	MYCLOBUTANIL	1994	kg							143.6			
+50	Vermont	MYCLOBUTANIL	1995	kg							126.8			
+50	Vermont	MYCLOBUTANIL	1996	kg							216.1			
+50	Vermont	MYCLOBUTANIL	1997	kg							287.3			
+50	Vermont	MYCLOBUTANIL	1998	kg							158.9			
+50	Vermont	MYCLOBUTANIL	1999	kg					72.6		92.9			
+50	Vermont	MYCLOBUTANIL	2000	kg					0		141.2			
+50	Vermont	MYCLOBUTANIL	2001	kg					5.5		35			
+50	Vermont	MYCLOBUTANIL	2002	kg					8.9		36.6			
+50	Vermont	MYCLOBUTANIL	2003	kg					18		93.6			
+50	Vermont	MYCLOBUTANIL	2004	kg					9.5		91.8			
+50	Vermont	MYCLOBUTANIL	2005	kg					18.9		59.4			
+50	Vermont	MYCLOBUTANIL	2006	kg					12.3		199.1			
+50	Vermont	MYCLOBUTANIL	2007	kg					32		74.1			
+50	Vermont	MYCLOBUTANIL	2008	kg					30.4		85.6			
+50	Vermont	MYCLOBUTANIL	2009	kg							85			
+50	Vermont	MYCLOBUTANIL	2010	kg					8.9		61.9			
+50	Vermont	MYCLOBUTANIL	2011	kg					40.8		193.9			
+50	Vermont	MYCLOBUTANIL	2012	kg					62.5		32.6			
+50	Vermont	MYCLOBUTANIL	2013	kg					15.7		79.3			
+50	Vermont	MYCLOBUTANIL	2014	kg					23.7		17.6			
+50	Vermont	MYCLOBUTANIL	2015	kg					34.3		78.4			
+50	Vermont	MYCLOBUTANIL	2016	kg					19.6		98.9			
+50	Vermont	MYCLOBUTANIL	2017	kg					46		41.2			
+51	Virginia	MYCLOBUTANIL	1992	kg							1942.7			
+51	Virginia	MYCLOBUTANIL	1993	kg							1935.8			
+51	Virginia	MYCLOBUTANIL	1994	kg					100.4		585.2			
+51	Virginia	MYCLOBUTANIL	1995	kg							1464			
+51	Virginia	MYCLOBUTANIL	1996	kg							1403.5			
+51	Virginia	MYCLOBUTANIL	1997	kg							2414.5			
+51	Virginia	MYCLOBUTANIL	1998	kg					3.5		1136.4			
+51	Virginia	MYCLOBUTANIL	1999	kg					8.2		1542.7			
+51	Virginia	MYCLOBUTANIL	2000	kg					62.2		657.6			
+51	Virginia	MYCLOBUTANIL	2001	kg					132.5		2192.1			
+51	Virginia	MYCLOBUTANIL	2002	kg					173.9		4614			
+51	Virginia	MYCLOBUTANIL	2003	kg					18.6		2159.9			
+51	Virginia	MYCLOBUTANIL	2004	kg					84.7		1868.6			
+51	Virginia	MYCLOBUTANIL	2005	kg					214.2		1521.4			
+51	Virginia	MYCLOBUTANIL	2006	kg					109		762			
+51	Virginia	MYCLOBUTANIL	2007	kg					134.2		404.9			
+51	Virginia	MYCLOBUTANIL	2008	kg					131.9		427.8			
+51	Virginia	MYCLOBUTANIL	2009	kg				3.3	207.9		527.6			
+51	Virginia	MYCLOBUTANIL	2010	kg				5.7	238.4		773.2			
+51	Virginia	MYCLOBUTANIL	2011	kg				128.3	6.5		1766.9			
+51	Virginia	MYCLOBUTANIL	2012	kg				12.9	34.9		591.1			
+51	Virginia	MYCLOBUTANIL	2013	kg				21.8	36.4		1002.7			
+51	Virginia	MYCLOBUTANIL	2014	kg				49.3	107		1055.8			
+51	Virginia	MYCLOBUTANIL	2015	kg					191.2		544.6			
+51	Virginia	MYCLOBUTANIL	2016	kg					67.9		131.6			
+51	Virginia	MYCLOBUTANIL	2017	kg					634.7		3077.9			
+53	Washington	MYCLOBUTANIL	1992	kg					225.9		7438.4			
+53	Washington	MYCLOBUTANIL	1993	kg							8888.1			
+53	Washington	MYCLOBUTANIL	1994	kg					120.7		13397.8			
+53	Washington	MYCLOBUTANIL	1995	kg							23685			
+53	Washington	MYCLOBUTANIL	1996	kg							9730.7			
+53	Washington	MYCLOBUTANIL	1997	kg							13370.9		36.8	
+53	Washington	MYCLOBUTANIL	1998	kg							15793.7			
+53	Washington	MYCLOBUTANIL	1999	kg					5.3		9570.5			
+53	Washington	MYCLOBUTANIL	2000	kg					6.2		10061.5			
+53	Washington	MYCLOBUTANIL	2001	kg					13.6		8096.7			
+53	Washington	MYCLOBUTANIL	2002	kg					23		13760.9			
+53	Washington	MYCLOBUTANIL	2003	kg					5.8		9654.6			
+53	Washington	MYCLOBUTANIL	2004	kg					9		8375			
+53	Washington	MYCLOBUTANIL	2005	kg					232.2		8068.7			
+53	Washington	MYCLOBUTANIL	2006	kg					47.3		5133.5			
+53	Washington	MYCLOBUTANIL	2007	kg					157.2		6973.1			
+53	Washington	MYCLOBUTANIL	2008	kg					398		5993.9			
+53	Washington	MYCLOBUTANIL	2009	kg					548.4		6021.8			
+53	Washington	MYCLOBUTANIL	2010	kg					555.5		5797.7			
+53	Washington	MYCLOBUTANIL	2011	kg					453.6		4891.9			
+53	Washington	MYCLOBUTANIL	2012	kg					279.1		3338			
+53	Washington	MYCLOBUTANIL	2013	kg					409.9		2814.5			
+53	Washington	MYCLOBUTANIL	2014	kg					134.7		6291.2			
+53	Washington	MYCLOBUTANIL	2015	kg					12.5		2401.2			
+53	Washington	MYCLOBUTANIL	2016	kg							5399.2			
+53	Washington	MYCLOBUTANIL	2017	kg							3093.2			
+54	West Virginia	MYCLOBUTANIL	1992	kg							687.1			
+54	West Virginia	MYCLOBUTANIL	1993	kg							520			
+54	West Virginia	MYCLOBUTANIL	1994	kg					175.3		221.2			
+54	West Virginia	MYCLOBUTANIL	1995	kg							496.5			
+54	West Virginia	MYCLOBUTANIL	1996	kg							810.8			
+54	West Virginia	MYCLOBUTANIL	1997	kg							380.4			
+54	West Virginia	MYCLOBUTANIL	1998	kg					1.4		285			
+54	West Virginia	MYCLOBUTANIL	1999	kg					0.8		134.6			
+54	West Virginia	MYCLOBUTANIL	2000	kg					1.4		1850.7			
+54	West Virginia	MYCLOBUTANIL	2001	kg					5.6		224.9			
+54	West Virginia	MYCLOBUTANIL	2002	kg					7.7		521.6			
+54	West Virginia	MYCLOBUTANIL	2003	kg					7.8		2874.5			
+54	West Virginia	MYCLOBUTANIL	2004	kg					26.6		583.4			
+54	West Virginia	MYCLOBUTANIL	2005	kg					17.8		612.2			
+54	West Virginia	MYCLOBUTANIL	2006	kg					9.3		82.8			
+54	West Virginia	MYCLOBUTANIL	2007	kg					14.8		50.4			
+54	West Virginia	MYCLOBUTANIL	2008	kg					13.3		139.1			
+54	West Virginia	MYCLOBUTANIL	2009	kg					23.1		325.6			
+54	West Virginia	MYCLOBUTANIL	2010	kg					9		207.1			
+54	West Virginia	MYCLOBUTANIL	2011	kg					3.5		156.9			
+54	West Virginia	MYCLOBUTANIL	2012	kg					11.2		264.9			
+54	West Virginia	MYCLOBUTANIL	2013	kg					6.1		217			
+54	West Virginia	MYCLOBUTANIL	2014	kg					8.4		309.6			
+54	West Virginia	MYCLOBUTANIL	2015	kg					17.1		87.8			
+54	West Virginia	MYCLOBUTANIL	2016	kg					6		223.1			
+54	West Virginia	MYCLOBUTANIL	2017	kg					0.2		379.8			
+55	Wisconsin	MYCLOBUTANIL	1992	kg							831.5			
+55	Wisconsin	MYCLOBUTANIL	1993	kg							1469			
+55	Wisconsin	MYCLOBUTANIL	1994	kg							1733.3			
+55	Wisconsin	MYCLOBUTANIL	1995	kg							843			
+55	Wisconsin	MYCLOBUTANIL	1996	kg					118.6		978.5			
+55	Wisconsin	MYCLOBUTANIL	1997	kg							626.9			
+55	Wisconsin	MYCLOBUTANIL	1998	kg							1557.6			
+55	Wisconsin	MYCLOBUTANIL	1999	kg					178.8		676.4			
+55	Wisconsin	MYCLOBUTANIL	2000	kg					30		1059.8			
+55	Wisconsin	MYCLOBUTANIL	2001	kg					64.4		887.3			
+55	Wisconsin	MYCLOBUTANIL	2002	kg					157.3		488.6			
+55	Wisconsin	MYCLOBUTANIL	2003	kg					178.8		794			
+55	Wisconsin	MYCLOBUTANIL	2004	kg					97.1		646.8			
+55	Wisconsin	MYCLOBUTANIL	2005	kg					271.9		304.3			
+55	Wisconsin	MYCLOBUTANIL	2006	kg					238.6		445.1			
+55	Wisconsin	MYCLOBUTANIL	2007	kg					116.2		283			
+55	Wisconsin	MYCLOBUTANIL	2008	kg					107.5		447.4			
+55	Wisconsin	MYCLOBUTANIL	2009	kg					64.4		464.8			
+55	Wisconsin	MYCLOBUTANIL	2010	kg					177.1		204.7			
+55	Wisconsin	MYCLOBUTANIL	2011	kg					83.1		541.1			
+55	Wisconsin	MYCLOBUTANIL	2012	kg					30		360.1			
+55	Wisconsin	MYCLOBUTANIL	2013	kg					146.3		341.7			
+55	Wisconsin	MYCLOBUTANIL	2014	kg					462.5		272.2			
+55	Wisconsin	MYCLOBUTANIL	2015	kg					641.1		265.8			
+55	Wisconsin	MYCLOBUTANIL	2016	kg					223.7		119			
+55	Wisconsin	MYCLOBUTANIL	2017	kg					528.7		103.4			

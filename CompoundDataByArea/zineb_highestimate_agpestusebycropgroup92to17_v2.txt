@@ -1,0 +1,40 @@
+04	Arizona	ZINEB	1992	kg							4.2			
+05	Arkansas	ZINEB	1992	kg					1					
+06	California	ZINEB	1992	kg					11.3		88.3			
+06	California	ZINEB	1993	kg							186.7			
+06	California	ZINEB	1994	kg							289.6		80.2	
+06	California	ZINEB	1995	kg							167.8			
+06	California	ZINEB	1997	kg					28.4					
+06	California	ZINEB	1998	kg							153.8			0.2
+06	California	ZINEB	1999	kg							0.5			
+06	California	ZINEB	2000	kg					46.3		20.4			
+06	California	ZINEB	2001	kg							25.2			
+06	California	ZINEB	2002	kg							0.7			
+06	California	ZINEB	2003	kg					1.7		14.2			
+06	California	ZINEB	2005	kg					0.3		0.1			
+06	California	ZINEB	2006	kg							0.5			
+06	California	ZINEB	2007	kg							0.7			
+06	California	ZINEB	2012	kg					0.1					
+06	California	ZINEB	2014	kg							0.7			
+08	Colorado	ZINEB	1992	kg							108.8			
+12	Florida	ZINEB	1996	kg							904.7			
+13	Georgia	ZINEB	1992	kg					64.1					
+13	Georgia	ZINEB	1993	kg					110.6					
+18	Indiana	ZINEB	1995	kg							0.2			
+21	Kentucky	ZINEB	1992	kg					62.2					
+21	Kentucky	ZINEB	1993	kg					111.9					
+22	Louisiana	ZINEB	1992	kg					3.3					
+26	Michigan	ZINEB	1995	kg							293.9			
+35	New Mexico	ZINEB	1992	kg							8.4			
+37	North Carolina	ZINEB	1992	kg					264.2					
+37	North Carolina	ZINEB	1993	kg					542.2					
+39	Ohio	ZINEB	1993	kg					874.4					
+39	Ohio	ZINEB	1995	kg							1536.5			
+40	Oklahoma	ZINEB	1992	kg					1.7					
+42	Pennsylvania	ZINEB	1993	kg					12.3					
+47	Tennessee	ZINEB	1992	kg					1931.7					
+47	Tennessee	ZINEB	1993	kg					2247.7					
+48	Texas	ZINEB	1992	kg					141.9					
+49	Utah	ZINEB	1992	kg							1.6			
+51	Virginia	ZINEB	1992	kg					35.5					
+51	Virginia	ZINEB	1993	kg					65.1					

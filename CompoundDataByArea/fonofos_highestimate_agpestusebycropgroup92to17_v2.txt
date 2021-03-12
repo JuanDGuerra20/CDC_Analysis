@@ -1,0 +1,309 @@
+01	Alabama	FONOFOS	1992	kg					28.5					11920.6
+01	Alabama	FONOFOS	1993	kg					13.7		768.5			13109
+01	Alabama	FONOFOS	1994	kg								3.9		3162.6
+01	Alabama	FONOFOS	1995	kg					4					327.9
+01	Alabama	FONOFOS	1996	kg			155.1		39					1167.6
+01	Alabama	FONOFOS	1997	kg					316.6					
+04	Arizona	FONOFOS	1992	kg					703.9					
+04	Arizona	FONOFOS	1993	kg					0.1					
+04	Arizona	FONOFOS	1995	kg	22.1									
+04	Arizona	FONOFOS	1996	kg	8682.9				92.1					
+04	Arizona	FONOFOS	1997	kg	1376.1									
+04	Arizona	FONOFOS	1999	kg	103.7				1594.2					
+05	Arkansas	FONOFOS	1992	kg	1570.3									
+05	Arkansas	FONOFOS	1995	kg				99.4						
+06	California	FONOFOS	1992	kg	5423.8				19566.2		95.2			1388.3
+06	California	FONOFOS	1993	kg	6828				17142.9		13.6			1403.8
+06	California	FONOFOS	1994	kg	11087.6				23186.4					2276.1
+06	California	FONOFOS	1995	kg	6765.1				24402.1					2805.5
+06	California	FONOFOS	1996	kg	4765.5				23045.3					3005
+06	California	FONOFOS	1997	kg	2561.8				19320.1					999.3
+06	California	FONOFOS	1998	kg	256.1				11062.4					79.2
+06	California	FONOFOS	1999	kg	160				14285.1					35.3
+06	California	FONOFOS	2000	kg					1891.3					90.7
+06	California	FONOFOS	2001	kg					243.2					
+06	California	FONOFOS	2002	kg					210.3					
+06	California	FONOFOS	2003	kg					82.5					
+06	California	FONOFOS	2004	kg					13.6					
+06	California	FONOFOS	2005	kg					6.8					
+06	California	FONOFOS	2010	kg					0					
+08	Colorado	FONOFOS	1992	kg	7535.6									
+08	Colorado	FONOFOS	1993	kg	9934									
+08	Colorado	FONOFOS	1994	kg	25473.6									
+08	Colorado	FONOFOS	1995	kg	11983.8									
+08	Colorado	FONOFOS	1996	kg	17610.3									
+08	Colorado	FONOFOS	1997	kg	5957.5									
+08	Colorado	FONOFOS	1999	kg	1473.9									
+09	Connecticut	FONOFOS	1992	kg	828.2									
+09	Connecticut	FONOFOS	1993	kg	92.4									
+09	Connecticut	FONOFOS	1994	kg	715									
+09	Connecticut	FONOFOS	1995	kg	504.9				117.8					
+09	Connecticut	FONOFOS	1996	kg	148.3									
+10	Delaware	FONOFOS	1992	kg	446.9									
+10	Delaware	FONOFOS	1993	kg	293.4									
+12	Florida	FONOFOS	1992	kg					82.3					4265.8
+12	Florida	FONOFOS	1993	kg					45.9					2030.1
+12	Florida	FONOFOS	1994	kg				31.1						5136.3
+12	Florida	FONOFOS	1995	kg					12.5					180.4
+12	Florida	FONOFOS	1996	kg			70		111.2		1096.8			949.2
+12	Florida	FONOFOS	1997	kg					183.4					
+12	Florida	FONOFOS	1999	kg					20.5					
+13	Georgia	FONOFOS	1992	kg					162					23890.8
+13	Georgia	FONOFOS	1993	kg					1504.1					19058.3
+13	Georgia	FONOFOS	1994	kg				340.1						9791.5
+13	Georgia	FONOFOS	1995	kg					628.2					271.3
+13	Georgia	FONOFOS	1996	kg			2140.9		4307.5					11109
+13	Georgia	FONOFOS	1997	kg					2721.8					
+13	Georgia	FONOFOS	1999	kg					4449.9					
+16	Idaho	FONOFOS	1992	kg					34759.6			795.2		8377.8
+16	Idaho	FONOFOS	1993	kg					6688				135.4	1266.9
+16	Idaho	FONOFOS	1994	kg					8375.7					1218
+16	Idaho	FONOFOS	1995	kg					9124					10716.3
+16	Idaho	FONOFOS	1996	kg					15788.5					260.3
+16	Idaho	FONOFOS	1997	kg					16123.3					1124.3
+16	Idaho	FONOFOS	1998	kg					10753.5					1522.5
+17	Illinois	FONOFOS	1992	kg	247482.5				301.7					8.4
+17	Illinois	FONOFOS	1993	kg	101816.2				2679.3					3.8
+17	Illinois	FONOFOS	1994	kg	201409.4				250.1					1.6
+17	Illinois	FONOFOS	1995	kg	133511.9				296.5					3.5
+17	Illinois	FONOFOS	1996	kg	315178.7									
+17	Illinois	FONOFOS	1997	kg	104263.3				218.3				511.3	
+17	Illinois	FONOFOS	1998	kg	102351.9									
+17	Illinois	FONOFOS	1999	kg	68815.6									
+18	Indiana	FONOFOS	1992	kg	221870.1				2240					310.8
+18	Indiana	FONOFOS	1993	kg	94347.6				327.7					254.8
+18	Indiana	FONOFOS	1994	kg	102252.9				6.7					396.7
+18	Indiana	FONOFOS	1995	kg	33492.8				746.7			4771.8		35.8
+18	Indiana	FONOFOS	1996	kg	133677.9				90.1					16.5
+18	Indiana	FONOFOS	1997	kg	108298.2	4217.1			38.5					
+18	Indiana	FONOFOS	1998	kg	64151.9									
+18	Indiana	FONOFOS	1999	kg	40021.5									
+19	Iowa	FONOFOS	1992	kg	292642.5				7.5					
+19	Iowa	FONOFOS	1993	kg	230561.7				387.1					
+19	Iowa	FONOFOS	1994	kg	154463.8									
+19	Iowa	FONOFOS	1995	kg	192199.1				91.7					
+19	Iowa	FONOFOS	1996	kg	79798.2									
+19	Iowa	FONOFOS	1997	kg	22254.8									
+19	Iowa	FONOFOS	1998	kg	97125.2									
+19	Iowa	FONOFOS	1999	kg	56489.5									
+19	Iowa	FONOFOS	2000	kg	36444.4									
+20	Kansas	FONOFOS	1992	kg	74264									
+20	Kansas	FONOFOS	1993	kg	57643.8									
+20	Kansas	FONOFOS	1994	kg	156670.9									
+20	Kansas	FONOFOS	1995	kg	53192.2									
+20	Kansas	FONOFOS	1996	kg	10830.3									
+20	Kansas	FONOFOS	1997	kg	59027.9									
+20	Kansas	FONOFOS	2000	kg	3650.2									
+21	Kentucky	FONOFOS	1992	kg	20719.1				2.7					5426.3
+21	Kentucky	FONOFOS	1993	kg	20527.5				27					4599.1
+21	Kentucky	FONOFOS	1994	kg	29120.4							34.2		3805.5
+21	Kentucky	FONOFOS	1995	kg	25724.9				6.1					1453.2
+21	Kentucky	FONOFOS	1996	kg	7644.1				21.1					501.8
+21	Kentucky	FONOFOS	1997	kg	33202.6				9.2					
+21	Kentucky	FONOFOS	1998	kg	12584				308.9					
+21	Kentucky	FONOFOS	1999	kg	7869.7									
+23	Maine	FONOFOS	1992	kg	591.8									
+23	Maine	FONOFOS	1993	kg	204.5									
+23	Maine	FONOFOS	1994	kg	534.6				2360.4					277.7
+23	Maine	FONOFOS	1995	kg	386.6				29092.6					
+23	Maine	FONOFOS	1996	kg	116.4				7015.2					
+23	Maine	FONOFOS	1997	kg					13020.3					
+23	Maine	FONOFOS	1998	kg	457.1									
+24	Maryland	FONOFOS	1992	kg	6172.4									
+24	Maryland	FONOFOS	1993	kg	3688.8									
+24	Maryland	FONOFOS	1994	kg	3358.7				972.6					
+24	Maryland	FONOFOS	1995	kg	2291.6				3353.6					
+24	Maryland	FONOFOS	1996	kg	734.9									
+25	Massachusetts	FONOFOS	1992	kg	587.3				472.9					
+25	Massachusetts	FONOFOS	1993	kg	46				38.9					
+25	Massachusetts	FONOFOS	1994	kg	511.8									
+25	Massachusetts	FONOFOS	1995	kg	363.4				1581.3					
+25	Massachusetts	FONOFOS	1996	kg	107.3				645.5					
+25	Massachusetts	FONOFOS	1997	kg					149.1					
+26	Michigan	FONOFOS	1992	kg	41515.8				152.5					
+26	Michigan	FONOFOS	1993	kg	22331.9				15326		3920.4			
+26	Michigan	FONOFOS	1994	kg	28149.4				1067.8					578.7
+26	Michigan	FONOFOS	1995	kg	50557.5				2523.3			21316.4		
+26	Michigan	FONOFOS	1996	kg	15324.5				2421					
+26	Michigan	FONOFOS	1997	kg	3341.4	7761.9								
+26	Michigan	FONOFOS	1998	kg	11758.8									
+27	Minnesota	FONOFOS	1992	kg	86101.9				3623.9					8380.4
+27	Minnesota	FONOFOS	1993	kg	37334.9				2887.4					628
+27	Minnesota	FONOFOS	1994	kg	20755.8				749.1					2418.3
+27	Minnesota	FONOFOS	1995	kg	46521.2				1747.5					
+27	Minnesota	FONOFOS	1996	kg	35036.1				286.5					2146.8
+27	Minnesota	FONOFOS	1997	kg	49711.8									7022.8
+27	Minnesota	FONOFOS	1998	kg	58213.6									
+27	Minnesota	FONOFOS	1999	kg	29641.2									
+27	Minnesota	FONOFOS	2000	kg	30474.8									
+28	Mississippi	FONOFOS	1992	kg	971.5									
+28	Mississippi	FONOFOS	1993	kg							138.1			
+29	Missouri	FONOFOS	1992	kg	40950									
+29	Missouri	FONOFOS	1993	kg	14384.5									
+29	Missouri	FONOFOS	1994	kg	19429.8									
+29	Missouri	FONOFOS	1995	kg	11728.7			48.3						
+29	Missouri	FONOFOS	1996	kg	26775.7									
+29	Missouri	FONOFOS	1997	kg	71513.7									
+29	Missouri	FONOFOS	1998	kg	29604.7									
+29	Missouri	FONOFOS	1999	kg	12865									
+29	Missouri	FONOFOS	2000	kg	11237.3									
+30	Montana	FONOFOS	1992	kg					690.3					
+30	Montana	FONOFOS	1993	kg					136.4					
+30	Montana	FONOFOS	1994	kg					225.7					
+30	Montana	FONOFOS	1995	kg					191.7					2457.6
+30	Montana	FONOFOS	1996	kg					435.3					
+30	Montana	FONOFOS	1997	kg					363.3					
+30	Montana	FONOFOS	1998	kg					191.9					
+31	Nebraska	FONOFOS	1992	kg	204572.8									
+31	Nebraska	FONOFOS	1993	kg	136850									
+31	Nebraska	FONOFOS	1994	kg	189793.5									
+31	Nebraska	FONOFOS	1995	kg	82319.1									
+31	Nebraska	FONOFOS	1996	kg	108718.7								3409.7	
+31	Nebraska	FONOFOS	1997	kg	67193.5									
+31	Nebraska	FONOFOS	1998	kg	31988.2									
+31	Nebraska	FONOFOS	1999	kg	19228.7									
+31	Nebraska	FONOFOS	2000	kg	9732.3									
+32	Nevada	FONOFOS	1992	kg	18.9							185.5		
+32	Nevada	FONOFOS	1993	kg									35	
+32	Nevada	FONOFOS	1994	kg					220.6					
+32	Nevada	FONOFOS	1995	kg	1.5				298.4					
+32	Nevada	FONOFOS	1996	kg	235.8				32					
+32	Nevada	FONOFOS	1997	kg	55									
+32	Nevada	FONOFOS	1998	kg					215.2					
+34	New Jersey	FONOFOS	1992	kg	1403.2				36					
+34	New Jersey	FONOFOS	1993	kg	708.2									
+34	New Jersey	FONOFOS	1994	kg	1827.7									
+34	New Jersey	FONOFOS	1995	kg	1234				159.2					
+34	New Jersey	FONOFOS	1996	kg	432.9				2.7					
+34	New Jersey	FONOFOS	1997	kg					8.9					
+34	New Jersey	FONOFOS	1998	kg					32.8					
+35	New Mexico	FONOFOS	1992	kg	737.4		836.1							
+35	New Mexico	FONOFOS	1993	kg	2733.7			21.7						
+35	New Mexico	FONOFOS	1994	kg	3618.2									
+35	New Mexico	FONOFOS	1995	kg	1513.1									
+35	New Mexico	FONOFOS	1996	kg	4719.8									
+35	New Mexico	FONOFOS	1997	kg	1635.2									
+35	New Mexico	FONOFOS	1999	kg	915.9									
+36	New York	FONOFOS	1992	kg	21794.7				4374.2					
+36	New York	FONOFOS	1993	kg	9184.5				1119		99.8			
+36	New York	FONOFOS	1994	kg	11235.5				9393.6					
+36	New York	FONOFOS	1995	kg	22390.3				22174.5					
+36	New York	FONOFOS	1996	kg	3859.9				4248.1					
+36	New York	FONOFOS	1997	kg	355.3				1847.8					
+36	New York	FONOFOS	1998	kg					682.8					
+36	New York	FONOFOS	1999	kg	31894.2									
+37	North Carolina	FONOFOS	1992	kg										6157.9
+37	North Carolina	FONOFOS	1993	kg										4456.8
+37	North Carolina	FONOFOS	1994	kg					517.9					2427.2
+37	North Carolina	FONOFOS	1995	kg										8470.3
+37	North Carolina	FONOFOS	1996	kg	4780.4									2178.1
+37	North Carolina	FONOFOS	1997	kg					2861.1					
+37	North Carolina	FONOFOS	1998	kg										4932.1
+37	North Carolina	FONOFOS	1999	kg										1113.3
+37	North Carolina	FONOFOS	2000	kg					135.6					
+38	North Dakota	FONOFOS	1992	kg	2883.1									3546.1
+38	North Dakota	FONOFOS	1993	kg	1282.9									251.6
+38	North Dakota	FONOFOS	1994	kg	9983.6									951.6
+38	North Dakota	FONOFOS	1995	kg	1267.9									
+38	North Dakota	FONOFOS	1996	kg	6478.9									1320.4
+38	North Dakota	FONOFOS	1997	kg										1425.2
+39	Ohio	FONOFOS	1992	kg	133147.4				2609.7		112.7			296.3
+39	Ohio	FONOFOS	1993	kg	29862.5				322.9		665.2			488.1
+39	Ohio	FONOFOS	1994	kg	49261									513.5
+39	Ohio	FONOFOS	1995	kg	112788.2				76			1288.5		44.7
+39	Ohio	FONOFOS	1996	kg	26755.3				199.2					
+39	Ohio	FONOFOS	1997	kg	39281.3	18893.1			1514.5					
+39	Ohio	FONOFOS	1998	kg	37672.4				1421.5					
+39	Ohio	FONOFOS	1999	kg	14279.2									
+40	Oklahoma	FONOFOS	1992	kg	228.5									
+40	Oklahoma	FONOFOS	1993	kg	523.7									
+40	Oklahoma	FONOFOS	1994	kg	652.5									
+40	Oklahoma	FONOFOS	1995	kg	252.6									
+40	Oklahoma	FONOFOS	1996	kg	112.9									
+40	Oklahoma	FONOFOS	1997	kg	126.4									
+41	Oregon	FONOFOS	1992	kg	3783.7				19604.8			293.1		
+41	Oregon	FONOFOS	1993	kg	438.6				5177.3				194.9	
+41	Oregon	FONOFOS	1994	kg	210.3				7771.7					
+41	Oregon	FONOFOS	1995	kg	47				31824.7					
+41	Oregon	FONOFOS	1996	kg	16330.8				22796.2				1918.2	
+41	Oregon	FONOFOS	1997	kg	7119.1				6178.4					
+41	Oregon	FONOFOS	1998	kg					3330.3					
+42	Pennsylvania	FONOFOS	1992	kg	30904.9				267.5					
+42	Pennsylvania	FONOFOS	1993	kg	14236.2	5297.7			90.9		34.6			
+42	Pennsylvania	FONOFOS	1994	kg	48902.5				479.1					
+42	Pennsylvania	FONOFOS	1995	kg	4337				4803.8					
+42	Pennsylvania	FONOFOS	1996	kg	5276.5				1593.2					
+42	Pennsylvania	FONOFOS	1997	kg					3779.9					
+42	Pennsylvania	FONOFOS	1998	kg					296.5					
+42	Pennsylvania	FONOFOS	1999	kg	10179.3									
+45	South Carolina	FONOFOS	1992	kg										493.7
+45	South Carolina	FONOFOS	1994	kg										204.2
+45	South Carolina	FONOFOS	1995	kg										1381.7
+45	South Carolina	FONOFOS	2000	kg					0					
+46	South Dakota	FONOFOS	1992	kg	39448.4									
+46	South Dakota	FONOFOS	1993	kg	63692.3									
+46	South Dakota	FONOFOS	1994	kg	98908.3									
+46	South Dakota	FONOFOS	1995	kg	44477.2									
+46	South Dakota	FONOFOS	1996	kg	29087.5									
+46	South Dakota	FONOFOS	1997	kg	5917.9									
+46	South Dakota	FONOFOS	1998	kg	21682.8									
+46	South Dakota	FONOFOS	1999	kg	9690.6									
+47	Tennessee	FONOFOS	1992	kg	7309.1									2145.3
+47	Tennessee	FONOFOS	1993	kg	3797.5									1082.4
+47	Tennessee	FONOFOS	1994	kg	5896.4							29.4		921.2
+47	Tennessee	FONOFOS	1995	kg	5785			20.2						1439.5
+47	Tennessee	FONOFOS	1996	kg	1464.8									41.7
+48	Texas	FONOFOS	1992	kg	7546.6		9535.8							
+48	Texas	FONOFOS	1993	kg	48427.1			1587.1						
+48	Texas	FONOFOS	1994	kg	34137.4									
+48	Texas	FONOFOS	1995	kg	14727.9									
+48	Texas	FONOFOS	1996	kg	4652.8									4727.3
+48	Texas	FONOFOS	1997	kg	6502.5									
+49	Utah	FONOFOS	1992	kg	128.3				53.1					
+49	Utah	FONOFOS	1993	kg					13.4					
+49	Utah	FONOFOS	1994	kg					42.1					
+49	Utah	FONOFOS	1995	kg					55.6					
+49	Utah	FONOFOS	1996	kg	1660.8				11.6					
+49	Utah	FONOFOS	1997	kg	369.5				3.8					
+49	Utah	FONOFOS	1998	kg					28					
+49	Utah	FONOFOS	1999	kg	261.2									
+50	Vermont	FONOFOS	1992	kg	1799.6				18.7					
+50	Vermont	FONOFOS	1993	kg	146.5				6.9					
+50	Vermont	FONOFOS	1994	kg	1694.3									
+50	Vermont	FONOFOS	1995	kg	1250.1				81.5					
+50	Vermont	FONOFOS	1996	kg	384				29.3					
+50	Vermont	FONOFOS	1997	kg					7					
+51	Virginia	FONOFOS	1992	kg	313.9									2520.7
+51	Virginia	FONOFOS	1993	kg	1664.8									2985.7
+51	Virginia	FONOFOS	1994	kg	1199.6				4560.9					3690.6
+51	Virginia	FONOFOS	1995	kg	1471									1800.2
+51	Virginia	FONOFOS	1996	kg	662.8									1309.7
+51	Virginia	FONOFOS	1998	kg										3284.9
+51	Virginia	FONOFOS	1999	kg										744.2
+53	Washington	FONOFOS	1992	kg	2195				35221.4					
+53	Washington	FONOFOS	1993	kg	225.9				1403.3					
+53	Washington	FONOFOS	1994	kg	152.9				7349.7					
+53	Washington	FONOFOS	1995	kg	31.8				6909.9					
+53	Washington	FONOFOS	1996	kg	7652.5				18872.5				357.9	
+53	Washington	FONOFOS	1997	kg	3968.3				2824.2					
+53	Washington	FONOFOS	1998	kg					4973.5					
+54	West Virginia	FONOFOS	1992	kg	3728									53.2
+54	West Virginia	FONOFOS	1993	kg	2934.1									86.1
+54	West Virginia	FONOFOS	1994	kg	2290.5									90
+54	West Virginia	FONOFOS	1995	kg	3461.6									62
+54	West Virginia	FONOFOS	1996	kg	111.1									
+54	West Virginia	FONOFOS	1998	kg					119.9					
+55	Wisconsin	FONOFOS	1992	kg	69926.1				4887.7					998.6
+55	Wisconsin	FONOFOS	1993	kg	59810.3				3468.6					
+55	Wisconsin	FONOFOS	1994	kg	71647.1				3441.5					
+55	Wisconsin	FONOFOS	1995	kg	49656				692.9					
+55	Wisconsin	FONOFOS	1996	kg	22425.4				429.4					
+55	Wisconsin	FONOFOS	1997	kg	19278.7				1681.7				7323.9	
+55	Wisconsin	FONOFOS	2000	kg	7991.8									
+56	Wyoming	FONOFOS	1992	kg	568.5				0.2					
+56	Wyoming	FONOFOS	1993	kg	479.5				0					
+56	Wyoming	FONOFOS	1994	kg	986.3				0.1					
+56	Wyoming	FONOFOS	1995	kg	291.1				0					2377.7
+56	Wyoming	FONOFOS	1996	kg	799.3				0.1					
+56	Wyoming	FONOFOS	1997	kg	261.3				0.1					
+56	Wyoming	FONOFOS	1998	kg					0					

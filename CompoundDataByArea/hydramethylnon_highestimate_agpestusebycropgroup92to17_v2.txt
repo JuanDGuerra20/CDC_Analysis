@@ -1,0 +1,96 @@
+01	Alabama	HYDRAMETHYLNON	1993	kg									1	
+01	Alabama	HYDRAMETHYLNON	1994	kg							15.7			
+01	Alabama	HYDRAMETHYLNON	1995	kg					3.9				14.4	
+01	Alabama	HYDRAMETHYLNON	1996	kg									4.3	
+05	Arkansas	HYDRAMETHYLNON	1993	kg									21.9	0
+05	Arkansas	HYDRAMETHYLNON	1994	kg									28.3	
+05	Arkansas	HYDRAMETHYLNON	1996	kg									1.4	6.3
+05	Arkansas	HYDRAMETHYLNON	1997	kg									0	
+06	California	HYDRAMETHYLNON	1993	kg							0			
+06	California	HYDRAMETHYLNON	1996	kg							0			
+06	California	HYDRAMETHYLNON	1997	kg							0			
+06	California	HYDRAMETHYLNON	1998	kg							20.5			
+06	California	HYDRAMETHYLNON	1999	kg							8.7			
+06	California	HYDRAMETHYLNON	2000	kg							18.4	0.1		
+06	California	HYDRAMETHYLNON	2001	kg							13.9	0		
+06	California	HYDRAMETHYLNON	2002	kg							11.2		0	
+06	California	HYDRAMETHYLNON	2003	kg							9.8		0.5	
+06	California	HYDRAMETHYLNON	2004	kg							6.9		0.9	
+06	California	HYDRAMETHYLNON	2005	kg							10.9		0.3	
+06	California	HYDRAMETHYLNON	2006	kg							3.4			
+06	California	HYDRAMETHYLNON	2007	kg							5.5			
+06	California	HYDRAMETHYLNON	2008	kg							4			
+06	California	HYDRAMETHYLNON	2009	kg							5.5			
+06	California	HYDRAMETHYLNON	2010	kg							14			
+06	California	HYDRAMETHYLNON	2011	kg							4.3			
+06	California	HYDRAMETHYLNON	2012	kg							17.9			
+06	California	HYDRAMETHYLNON	2013	kg							4.1			
+06	California	HYDRAMETHYLNON	2014	kg							5.3		0.1	
+06	California	HYDRAMETHYLNON	2015	kg							13.8			
+06	California	HYDRAMETHYLNON	2016	kg					0		9.4			
+06	California	HYDRAMETHYLNON	2017	kg							10.5			
+08	Colorado	HYDRAMETHYLNON	1992	kg									12.3	
+08	Colorado	HYDRAMETHYLNON	1993	kg									6.1	
+08	Colorado	HYDRAMETHYLNON	1994	kg									0	
+08	Colorado	HYDRAMETHYLNON	1995	kg									328.5	
+08	Colorado	HYDRAMETHYLNON	1996	kg									3.9	
+08	Colorado	HYDRAMETHYLNON	1997	kg									4.1	
+09	Connecticut	HYDRAMETHYLNON	1995	kg							26.2			
+12	Florida	HYDRAMETHYLNON	1993	kg									12.2	
+12	Florida	HYDRAMETHYLNON	1994	kg							22.8		14.2	
+12	Florida	HYDRAMETHYLNON	1995	kg							2		6.1	
+12	Florida	HYDRAMETHYLNON	1996	kg									0.8	
+13	Georgia	HYDRAMETHYLNON	1993	kg									2.3	
+13	Georgia	HYDRAMETHYLNON	1994	kg							67.7			
+13	Georgia	HYDRAMETHYLNON	1995	kg					7.7				55.4	
+13	Georgia	HYDRAMETHYLNON	1996	kg									5.9	
+19	Iowa	HYDRAMETHYLNON	1996	kg									0	
+20	Kansas	HYDRAMETHYLNON	1993	kg									4.9	
+20	Kansas	HYDRAMETHYLNON	1994	kg									0	
+20	Kansas	HYDRAMETHYLNON	1996	kg									1.6	
+20	Kansas	HYDRAMETHYLNON	1997	kg									2.4	
+22	Louisiana	HYDRAMETHYLNON	1993	kg									11.8	
+22	Louisiana	HYDRAMETHYLNON	1994	kg									25.6	
+22	Louisiana	HYDRAMETHYLNON	1995	kg									178	
+22	Louisiana	HYDRAMETHYLNON	1996	kg									15.3	7.1
+22	Louisiana	HYDRAMETHYLNON	1997	kg									7.1	
+24	Maryland	HYDRAMETHYLNON	1996	kg									0.1	
+25	Massachusetts	HYDRAMETHYLNON	1995	kg							50.2			
+28	Mississippi	HYDRAMETHYLNON	1993	kg									4.7	0.8
+28	Mississippi	HYDRAMETHYLNON	1994	kg									0.2	
+28	Mississippi	HYDRAMETHYLNON	1996	kg									2.5	
+29	Missouri	HYDRAMETHYLNON	1996	kg									0.1	
+34	New Jersey	HYDRAMETHYLNON	1995	kg							10.1			
+35	New Mexico	HYDRAMETHYLNON	1992	kg									47.9	
+35	New Mexico	HYDRAMETHYLNON	1993	kg									3.9	
+35	New Mexico	HYDRAMETHYLNON	1994	kg									1	
+35	New Mexico	HYDRAMETHYLNON	1995	kg									1347.1	
+35	New Mexico	HYDRAMETHYLNON	1996	kg									7	
+35	New Mexico	HYDRAMETHYLNON	1997	kg									2	
+36	New York	HYDRAMETHYLNON	1995	kg							185.4			
+37	North Carolina	HYDRAMETHYLNON	1993	kg									0.7	
+37	North Carolina	HYDRAMETHYLNON	1995	kg					1.1				2.4	
+37	North Carolina	HYDRAMETHYLNON	1996	kg									0	
+39	Ohio	HYDRAMETHYLNON	1996	kg									2.9	
+40	Oklahoma	HYDRAMETHYLNON	1992	kg									29.9	
+40	Oklahoma	HYDRAMETHYLNON	1993	kg									162.3	
+40	Oklahoma	HYDRAMETHYLNON	1994	kg									8.2	
+40	Oklahoma	HYDRAMETHYLNON	1995	kg									1476.9	
+40	Oklahoma	HYDRAMETHYLNON	1996	kg									5.3	11.3
+40	Oklahoma	HYDRAMETHYLNON	1997	kg									4.4	
+42	Pennsylvania	HYDRAMETHYLNON	1995	kg							18.2			
+42	Pennsylvania	HYDRAMETHYLNON	1996	kg									1.5	
+45	South Carolina	HYDRAMETHYLNON	1992	kg									32.9	7.1
+45	South Carolina	HYDRAMETHYLNON	1993	kg									1.5	
+45	South Carolina	HYDRAMETHYLNON	1996	kg									0.8	
+47	Tennessee	HYDRAMETHYLNON	1993	kg									2.7	0.4
+47	Tennessee	HYDRAMETHYLNON	1994	kg									0	
+47	Tennessee	HYDRAMETHYLNON	1995	kg					6.9				32.4	
+47	Tennessee	HYDRAMETHYLNON	1996	kg									5.5	
+48	Texas	HYDRAMETHYLNON	1992	kg									63.4	
+48	Texas	HYDRAMETHYLNON	1993	kg							0.1		1713.4	
+48	Texas	HYDRAMETHYLNON	1994	kg							1.6		87.4	
+48	Texas	HYDRAMETHYLNON	1995	kg									1465.5	
+48	Texas	HYDRAMETHYLNON	1996	kg									37	75.7
+48	Texas	HYDRAMETHYLNON	1997	kg							5.4		41.3	
+54	West Virginia	HYDRAMETHYLNON	1996	kg									4	

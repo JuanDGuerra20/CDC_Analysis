@@ -1,0 +1,503 @@
+01	Alabama	CLOFENTEZINE	1997	kg							31.9			
+01	Alabama	CLOFENTEZINE	2000	kg							13.4			
+01	Alabama	CLOFENTEZINE	2002	kg							17.7			
+01	Alabama	CLOFENTEZINE	2007	kg							70.2			
+04	Arizona	CLOFENTEZINE	1992	kg							0			
+04	Arizona	CLOFENTEZINE	1993	kg							0.1			
+04	Arizona	CLOFENTEZINE	1994	kg							0.1			
+04	Arizona	CLOFENTEZINE	1995	kg							0.8			
+04	Arizona	CLOFENTEZINE	1996	kg							0			
+04	Arizona	CLOFENTEZINE	1997	kg							4			
+04	Arizona	CLOFENTEZINE	1998	kg							0			
+04	Arizona	CLOFENTEZINE	1999	kg							1			
+04	Arizona	CLOFENTEZINE	2000	kg							9.4			
+04	Arizona	CLOFENTEZINE	2001	kg							0			
+04	Arizona	CLOFENTEZINE	2002	kg							0			
+04	Arizona	CLOFENTEZINE	2003	kg							2.3			
+04	Arizona	CLOFENTEZINE	2004	kg							0			
+04	Arizona	CLOFENTEZINE	2005	kg							0			
+04	Arizona	CLOFENTEZINE	2006	kg							0			
+04	Arizona	CLOFENTEZINE	2007	kg							8.8			
+04	Arizona	CLOFENTEZINE	2008	kg							4.3			
+04	Arizona	CLOFENTEZINE	2009	kg							2.4			
+04	Arizona	CLOFENTEZINE	2010	kg							4.7			
+04	Arizona	CLOFENTEZINE	2011	kg							0			
+04	Arizona	CLOFENTEZINE	2012	kg							0			
+04	Arizona	CLOFENTEZINE	2013	kg							0.1			
+04	Arizona	CLOFENTEZINE	2014	kg							0			
+04	Arizona	CLOFENTEZINE	2015	kg							0			
+04	Arizona	CLOFENTEZINE	2016	kg							0			
+04	Arizona	CLOFENTEZINE	2017	kg							0			
+05	Arkansas	CLOFENTEZINE	2004	kg							0			
+06	California	CLOFENTEZINE	1992	kg							1215.6			
+06	California	CLOFENTEZINE	1993	kg							6795			
+06	California	CLOFENTEZINE	1994	kg							9338.3			
+06	California	CLOFENTEZINE	1995	kg							2844.1			
+06	California	CLOFENTEZINE	1996	kg							3460.3			
+06	California	CLOFENTEZINE	1997	kg							8645.7			
+06	California	CLOFENTEZINE	1998	kg							2218.6			
+06	California	CLOFENTEZINE	1999	kg							2812.2			
+06	California	CLOFENTEZINE	2000	kg							2108.7			
+06	California	CLOFENTEZINE	2001	kg							1776.5			
+06	California	CLOFENTEZINE	2002	kg							3710.7			
+06	California	CLOFENTEZINE	2003	kg					0.5		2758.3			
+06	California	CLOFENTEZINE	2004	kg							3738.2			
+06	California	CLOFENTEZINE	2005	kg							3059			
+06	California	CLOFENTEZINE	2006	kg							3287			
+06	California	CLOFENTEZINE	2007	kg							2999.6			
+06	California	CLOFENTEZINE	2008	kg							2296			
+06	California	CLOFENTEZINE	2009	kg							3083.9			
+06	California	CLOFENTEZINE	2010	kg							3072			
+06	California	CLOFENTEZINE	2011	kg			2.1				4649.2			
+06	California	CLOFENTEZINE	2012	kg							6954			
+06	California	CLOFENTEZINE	2013	kg					0.4		13576.9			
+06	California	CLOFENTEZINE	2014	kg							13763.9			
+06	California	CLOFENTEZINE	2015	kg							15663.8			
+06	California	CLOFENTEZINE	2016	kg							8070.3			
+06	California	CLOFENTEZINE	2017	kg							11833.4			
+08	Colorado	CLOFENTEZINE	1992	kg							0.9			
+08	Colorado	CLOFENTEZINE	2002	kg							8.1			
+08	Colorado	CLOFENTEZINE	2003	kg							26.2			
+08	Colorado	CLOFENTEZINE	2004	kg							1.9			
+09	Connecticut	CLOFENTEZINE	1995	kg							2.5			
+09	Connecticut	CLOFENTEZINE	1996	kg							4.2			
+09	Connecticut	CLOFENTEZINE	1997	kg							123.7			
+09	Connecticut	CLOFENTEZINE	1998	kg							47.9			
+09	Connecticut	CLOFENTEZINE	1999	kg							9.8			
+09	Connecticut	CLOFENTEZINE	2000	kg							20.7			
+09	Connecticut	CLOFENTEZINE	2001	kg							21.1			
+09	Connecticut	CLOFENTEZINE	2002	kg							14.2			
+09	Connecticut	CLOFENTEZINE	2004	kg							1.8			
+09	Connecticut	CLOFENTEZINE	2005	kg							32.6			
+09	Connecticut	CLOFENTEZINE	2006	kg							0.9			
+09	Connecticut	CLOFENTEZINE	2011	kg							16.6			
+09	Connecticut	CLOFENTEZINE	2012	kg							15.2			
+09	Connecticut	CLOFENTEZINE	2013	kg							1.1			
+10	Delaware	CLOFENTEZINE	1995	kg							0			
+10	Delaware	CLOFENTEZINE	1996	kg							0.1			
+10	Delaware	CLOFENTEZINE	1997	kg							0			
+10	Delaware	CLOFENTEZINE	1998	kg							0			
+10	Delaware	CLOFENTEZINE	1999	kg							0			
+10	Delaware	CLOFENTEZINE	2000	kg							0.2			
+10	Delaware	CLOFENTEZINE	2001	kg							0.6			
+10	Delaware	CLOFENTEZINE	2002	kg							0			
+10	Delaware	CLOFENTEZINE	2003	kg							0			
+10	Delaware	CLOFENTEZINE	2006	kg							0			
+10	Delaware	CLOFENTEZINE	2008	kg							0			
+10	Delaware	CLOFENTEZINE	2009	kg							0			
+10	Delaware	CLOFENTEZINE	2010	kg							0			
+10	Delaware	CLOFENTEZINE	2011	kg							0			
+10	Delaware	CLOFENTEZINE	2012	kg							0			
+13	Georgia	CLOFENTEZINE	1996	kg							64.5			
+13	Georgia	CLOFENTEZINE	1997	kg							2.6			
+13	Georgia	CLOFENTEZINE	1999	kg							2.6			
+13	Georgia	CLOFENTEZINE	2000	kg							31.7			
+13	Georgia	CLOFENTEZINE	2002	kg							5.5			
+13	Georgia	CLOFENTEZINE	2005	kg							22.8			
+13	Georgia	CLOFENTEZINE	2007	kg							28.5			
+16	Idaho	CLOFENTEZINE	1996	kg							210.1			
+16	Idaho	CLOFENTEZINE	1997	kg							11.9			
+16	Idaho	CLOFENTEZINE	2001	kg							2.1			
+16	Idaho	CLOFENTEZINE	2002	kg							5.1			
+16	Idaho	CLOFENTEZINE	2003	kg							1.5			
+16	Idaho	CLOFENTEZINE	2005	kg							5			
+17	Illinois	CLOFENTEZINE	1995	kg							322.6			
+17	Illinois	CLOFENTEZINE	1996	kg							35.3			
+17	Illinois	CLOFENTEZINE	1997	kg							38			
+17	Illinois	CLOFENTEZINE	1998	kg							132.3			
+17	Illinois	CLOFENTEZINE	1999	kg							41.8			
+17	Illinois	CLOFENTEZINE	2000	kg							49.8			
+17	Illinois	CLOFENTEZINE	2001	kg							147			
+17	Illinois	CLOFENTEZINE	2002	kg							64.2			
+17	Illinois	CLOFENTEZINE	2003	kg							189.8			
+17	Illinois	CLOFENTEZINE	2004	kg							107.5			
+17	Illinois	CLOFENTEZINE	2006	kg							201.1			
+17	Illinois	CLOFENTEZINE	2009	kg							52.7			
+18	Indiana	CLOFENTEZINE	1995	kg							1008			
+18	Indiana	CLOFENTEZINE	1996	kg							13.8			
+18	Indiana	CLOFENTEZINE	1997	kg							13.9			
+18	Indiana	CLOFENTEZINE	1998	kg							40.5			
+18	Indiana	CLOFENTEZINE	1999	kg							14.3			
+18	Indiana	CLOFENTEZINE	2000	kg							58.7			
+18	Indiana	CLOFENTEZINE	2001	kg							36.8			
+18	Indiana	CLOFENTEZINE	2002	kg							27.6			
+18	Indiana	CLOFENTEZINE	2003	kg							40.4			
+18	Indiana	CLOFENTEZINE	2004	kg							41.5			
+18	Indiana	CLOFENTEZINE	2005	kg							0.6			
+18	Indiana	CLOFENTEZINE	2006	kg							59.7			
+18	Indiana	CLOFENTEZINE	2007	kg							0.4			
+18	Indiana	CLOFENTEZINE	2008	kg							1.9			
+18	Indiana	CLOFENTEZINE	2009	kg							31.9			
+18	Indiana	CLOFENTEZINE	2011	kg							2			
+19	Iowa	CLOFENTEZINE	1995	kg							14.6			
+19	Iowa	CLOFENTEZINE	1996	kg							2.2			
+19	Iowa	CLOFENTEZINE	1997	kg							2.4			
+19	Iowa	CLOFENTEZINE	1998	kg							9.7			
+19	Iowa	CLOFENTEZINE	1999	kg							2.6			
+19	Iowa	CLOFENTEZINE	2000	kg							3.6			
+19	Iowa	CLOFENTEZINE	2001	kg							3.8			
+19	Iowa	CLOFENTEZINE	2002	kg							4.9			
+19	Iowa	CLOFENTEZINE	2003	kg							6.4			
+19	Iowa	CLOFENTEZINE	2004	kg							39			
+19	Iowa	CLOFENTEZINE	2006	kg							7			
+19	Iowa	CLOFENTEZINE	2009	kg							5.6			
+21	Kentucky	CLOFENTEZINE	1995	kg							2.6			
+21	Kentucky	CLOFENTEZINE	1996	kg							24.1			
+21	Kentucky	CLOFENTEZINE	1997	kg							47.4			
+21	Kentucky	CLOFENTEZINE	1998	kg							0.2			
+21	Kentucky	CLOFENTEZINE	1999	kg							75.5			
+21	Kentucky	CLOFENTEZINE	2000	kg							25.8			
+21	Kentucky	CLOFENTEZINE	2001	kg							16.8			
+21	Kentucky	CLOFENTEZINE	2002	kg							41.2			
+21	Kentucky	CLOFENTEZINE	2003	kg							44.6			
+21	Kentucky	CLOFENTEZINE	2004	kg							46.7			
+21	Kentucky	CLOFENTEZINE	2005	kg							10.3			
+21	Kentucky	CLOFENTEZINE	2006	kg							0.9			
+21	Kentucky	CLOFENTEZINE	2009	kg							1.3			
+21	Kentucky	CLOFENTEZINE	2010	kg							59.7			
+21	Kentucky	CLOFENTEZINE	2011	kg							39.6			
+21	Kentucky	CLOFENTEZINE	2012	kg							2.5			
+21	Kentucky	CLOFENTEZINE	2014	kg							27.9			
+23	Maine	CLOFENTEZINE	1995	kg							29.9			
+23	Maine	CLOFENTEZINE	1996	kg							122.8			
+23	Maine	CLOFENTEZINE	1997	kg							14.6			
+23	Maine	CLOFENTEZINE	1998	kg							82.9			
+23	Maine	CLOFENTEZINE	1999	kg							36.5			
+23	Maine	CLOFENTEZINE	2000	kg							37.4			
+23	Maine	CLOFENTEZINE	2001	kg							39.6			
+23	Maine	CLOFENTEZINE	2002	kg							23.3			
+23	Maine	CLOFENTEZINE	2004	kg							6			
+23	Maine	CLOFENTEZINE	2005	kg							24.2			
+23	Maine	CLOFENTEZINE	2006	kg							13.2			
+24	Maryland	CLOFENTEZINE	1995	kg							44.2			
+24	Maryland	CLOFENTEZINE	1996	kg							7.2			
+24	Maryland	CLOFENTEZINE	1997	kg							20.9			
+24	Maryland	CLOFENTEZINE	1998	kg							52.9			
+24	Maryland	CLOFENTEZINE	1999	kg							29.2			
+24	Maryland	CLOFENTEZINE	2000	kg							39.2			
+24	Maryland	CLOFENTEZINE	2001	kg							100.9			
+24	Maryland	CLOFENTEZINE	2002	kg							70.5			
+24	Maryland	CLOFENTEZINE	2003	kg							6			
+24	Maryland	CLOFENTEZINE	2004	kg							4.1			
+24	Maryland	CLOFENTEZINE	2005	kg							15.4			
+24	Maryland	CLOFENTEZINE	2006	kg							17.3			
+24	Maryland	CLOFENTEZINE	2008	kg							12.1			
+24	Maryland	CLOFENTEZINE	2009	kg							7			
+24	Maryland	CLOFENTEZINE	2010	kg							21.1			
+24	Maryland	CLOFENTEZINE	2011	kg							36.5			
+24	Maryland	CLOFENTEZINE	2012	kg							38.7			
+24	Maryland	CLOFENTEZINE	2013	kg							1.7			
+24	Maryland	CLOFENTEZINE	2014	kg							1.3			
+25	Massachusetts	CLOFENTEZINE	1995	kg							16.5			
+25	Massachusetts	CLOFENTEZINE	1996	kg							8			
+25	Massachusetts	CLOFENTEZINE	1997	kg							10.4			
+25	Massachusetts	CLOFENTEZINE	1998	kg							94			
+25	Massachusetts	CLOFENTEZINE	1999	kg							21.2			
+25	Massachusetts	CLOFENTEZINE	2000	kg							40.1			
+25	Massachusetts	CLOFENTEZINE	2001	kg							33.6			
+25	Massachusetts	CLOFENTEZINE	2002	kg							34.1			
+25	Massachusetts	CLOFENTEZINE	2004	kg							3.5			
+25	Massachusetts	CLOFENTEZINE	2005	kg							59.9			
+25	Massachusetts	CLOFENTEZINE	2006	kg							1.7			
+25	Massachusetts	CLOFENTEZINE	2011	kg							27.1			
+25	Massachusetts	CLOFENTEZINE	2012	kg							23.9			
+25	Massachusetts	CLOFENTEZINE	2013	kg							1.7			
+26	Michigan	CLOFENTEZINE	1995	kg							823.4			
+26	Michigan	CLOFENTEZINE	1996	kg							724.1			
+26	Michigan	CLOFENTEZINE	1997	kg							532.2			
+26	Michigan	CLOFENTEZINE	1998	kg							337.7			
+26	Michigan	CLOFENTEZINE	1999	kg							727			
+26	Michigan	CLOFENTEZINE	2000	kg							408.4			
+26	Michigan	CLOFENTEZINE	2001	kg							398.1			
+26	Michigan	CLOFENTEZINE	2002	kg							354.1			
+26	Michigan	CLOFENTEZINE	2003	kg							544.3			
+26	Michigan	CLOFENTEZINE	2004	kg							80.6			
+26	Michigan	CLOFENTEZINE	2005	kg							255.6			
+26	Michigan	CLOFENTEZINE	2006	kg							759.5			
+26	Michigan	CLOFENTEZINE	2007	kg							88.1			
+26	Michigan	CLOFENTEZINE	2008	kg							104.4			
+26	Michigan	CLOFENTEZINE	2009	kg							67.3			
+26	Michigan	CLOFENTEZINE	2010	kg							69.6			
+26	Michigan	CLOFENTEZINE	2011	kg							138.3			
+26	Michigan	CLOFENTEZINE	2012	kg							175.4			
+26	Michigan	CLOFENTEZINE	2013	kg							136.7			
+27	Minnesota	CLOFENTEZINE	1995	kg							80.2			
+27	Minnesota	CLOFENTEZINE	1996	kg							15			
+27	Minnesota	CLOFENTEZINE	1997	kg							17			
+27	Minnesota	CLOFENTEZINE	1998	kg							16.5			
+27	Minnesota	CLOFENTEZINE	1999	kg							140.2			
+27	Minnesota	CLOFENTEZINE	2000	kg							20.7			
+27	Minnesota	CLOFENTEZINE	2001	kg							29.2			
+27	Minnesota	CLOFENTEZINE	2002	kg							29.5			
+27	Minnesota	CLOFENTEZINE	2003	kg							32.1			
+27	Minnesota	CLOFENTEZINE	2004	kg							288.2			
+27	Minnesota	CLOFENTEZINE	2005	kg							0.8			
+27	Minnesota	CLOFENTEZINE	2006	kg							32.5			
+27	Minnesota	CLOFENTEZINE	2007	kg							2.4			
+27	Minnesota	CLOFENTEZINE	2009	kg							28.4			
+28	Mississippi	CLOFENTEZINE	2002	kg							0.3			
+28	Mississippi	CLOFENTEZINE	2007	kg							1.7			
+29	Missouri	CLOFENTEZINE	1995	kg							59.1			
+29	Missouri	CLOFENTEZINE	1996	kg							7			
+29	Missouri	CLOFENTEZINE	1997	kg							7.6			
+29	Missouri	CLOFENTEZINE	1998	kg							15.1			
+29	Missouri	CLOFENTEZINE	1999	kg							8.6			
+29	Missouri	CLOFENTEZINE	2000	kg							11			
+29	Missouri	CLOFENTEZINE	2001	kg							12.1			
+29	Missouri	CLOFENTEZINE	2002	kg							15.5			
+29	Missouri	CLOFENTEZINE	2003	kg							49.9			
+29	Missouri	CLOFENTEZINE	2004	kg							15.8			
+29	Missouri	CLOFENTEZINE	2006	kg							21.9			
+29	Missouri	CLOFENTEZINE	2009	kg							20.2			
+32	Nevada	CLOFENTEZINE	1993	kg							0			
+32	Nevada	CLOFENTEZINE	1996	kg							0			
+32	Nevada	CLOFENTEZINE	1997	kg							1			
+32	Nevada	CLOFENTEZINE	1999	kg							0.1			
+32	Nevada	CLOFENTEZINE	2000	kg							1.1			
+32	Nevada	CLOFENTEZINE	2003	kg							1			
+32	Nevada	CLOFENTEZINE	2004	kg							0.1			
+32	Nevada	CLOFENTEZINE	2007	kg							3.3			
+32	Nevada	CLOFENTEZINE	2008	kg							1.5			
+32	Nevada	CLOFENTEZINE	2009	kg							0.9			
+32	Nevada	CLOFENTEZINE	2010	kg							2.4			
+32	Nevada	CLOFENTEZINE	2012	kg							0			
+32	Nevada	CLOFENTEZINE	2014	kg							0			
+32	Nevada	CLOFENTEZINE	2015	kg							0			
+32	Nevada	CLOFENTEZINE	2016	kg							0			
+33	New Hampshire	CLOFENTEZINE	1995	kg							4.9			
+33	New Hampshire	CLOFENTEZINE	1996	kg							29.1			
+33	New Hampshire	CLOFENTEZINE	1997	kg							6.9			
+33	New Hampshire	CLOFENTEZINE	1998	kg							50.6			
+33	New Hampshire	CLOFENTEZINE	1999	kg							10.6			
+33	New Hampshire	CLOFENTEZINE	2000	kg							20.5			
+33	New Hampshire	CLOFENTEZINE	2001	kg							16.7			
+33	New Hampshire	CLOFENTEZINE	2002	kg							16.3			
+33	New Hampshire	CLOFENTEZINE	2004	kg							4			
+33	New Hampshire	CLOFENTEZINE	2005	kg							16.1			
+33	New Hampshire	CLOFENTEZINE	2006	kg							9.1			
+34	New Jersey	CLOFENTEZINE	1995	kg							20			
+34	New Jersey	CLOFENTEZINE	1996	kg							51.7			
+34	New Jersey	CLOFENTEZINE	1997	kg							83.7			
+34	New Jersey	CLOFENTEZINE	1998	kg							117			
+34	New Jersey	CLOFENTEZINE	1999	kg							80.3			
+34	New Jersey	CLOFENTEZINE	2000	kg							22.7			
+34	New Jersey	CLOFENTEZINE	2001	kg							658.3			
+34	New Jersey	CLOFENTEZINE	2002	kg							62.6			
+34	New Jersey	CLOFENTEZINE	2003	kg							57.1			
+34	New Jersey	CLOFENTEZINE	2004	kg							31			
+34	New Jersey	CLOFENTEZINE	2005	kg							33.1			
+34	New Jersey	CLOFENTEZINE	2006	kg							66.1			
+34	New Jersey	CLOFENTEZINE	2008	kg							85.4			
+34	New Jersey	CLOFENTEZINE	2009	kg							46.4			
+34	New Jersey	CLOFENTEZINE	2010	kg							116			
+34	New Jersey	CLOFENTEZINE	2011	kg							209.3			
+34	New Jersey	CLOFENTEZINE	2012	kg							212.4			
+34	New Jersey	CLOFENTEZINE	2013	kg							0.4			
+35	New Mexico	CLOFENTEZINE	1992	kg							0			
+35	New Mexico	CLOFENTEZINE	2002	kg							0.3			
+35	New Mexico	CLOFENTEZINE	2003	kg							1.2			
+35	New Mexico	CLOFENTEZINE	2004	kg							0			
+36	New York	CLOFENTEZINE	1995	kg							164			
+36	New York	CLOFENTEZINE	1996	kg							190.7			
+36	New York	CLOFENTEZINE	1997	kg							1611.5			
+36	New York	CLOFENTEZINE	1998	kg							734			
+36	New York	CLOFENTEZINE	1999	kg							177.7			
+36	New York	CLOFENTEZINE	2000	kg							271.9			
+36	New York	CLOFENTEZINE	2001	kg							788			
+36	New York	CLOFENTEZINE	2002	kg							176.7			
+36	New York	CLOFENTEZINE	2003	kg							252.4			
+36	New York	CLOFENTEZINE	2004	kg							186.5			
+36	New York	CLOFENTEZINE	2005	kg							466.6			
+36	New York	CLOFENTEZINE	2006	kg							28.6			
+36	New York	CLOFENTEZINE	2008	kg							259.5			
+36	New York	CLOFENTEZINE	2009	kg							129.4			
+36	New York	CLOFENTEZINE	2010	kg							506.8			
+36	New York	CLOFENTEZINE	2011	kg							119.4			
+36	New York	CLOFENTEZINE	2012	kg							123.9			
+36	New York	CLOFENTEZINE	2013	kg							12.2			
+36	New York	CLOFENTEZINE	2015	kg							16.9			
+37	North Carolina	CLOFENTEZINE	1996	kg							1107.5			
+37	North Carolina	CLOFENTEZINE	1997	kg							39.6			
+37	North Carolina	CLOFENTEZINE	1999	kg							23.6			
+37	North Carolina	CLOFENTEZINE	2000	kg							137.4			
+37	North Carolina	CLOFENTEZINE	2001	kg							67.9			
+37	North Carolina	CLOFENTEZINE	2002	kg							160.7			
+37	North Carolina	CLOFENTEZINE	2003	kg							158.4			
+37	North Carolina	CLOFENTEZINE	2004	kg							35.8			
+37	North Carolina	CLOFENTEZINE	2005	kg							221.2			
+37	North Carolina	CLOFENTEZINE	2010	kg							343.9			
+37	North Carolina	CLOFENTEZINE	2011	kg							224.5			
+37	North Carolina	CLOFENTEZINE	2012	kg							21.4			
+37	North Carolina	CLOFENTEZINE	2014	kg							158.6			
+39	Ohio	CLOFENTEZINE	1995	kg							181.7			
+39	Ohio	CLOFENTEZINE	1996	kg							93			
+39	Ohio	CLOFENTEZINE	1997	kg							117.3			
+39	Ohio	CLOFENTEZINE	1998	kg							106.2			
+39	Ohio	CLOFENTEZINE	1999	kg							584.1			
+39	Ohio	CLOFENTEZINE	2000	kg							74			
+39	Ohio	CLOFENTEZINE	2001	kg							101.9			
+39	Ohio	CLOFENTEZINE	2002	kg							144.6			
+39	Ohio	CLOFENTEZINE	2003	kg							185.7			
+39	Ohio	CLOFENTEZINE	2004	kg							55.8			
+39	Ohio	CLOFENTEZINE	2005	kg							26.1			
+39	Ohio	CLOFENTEZINE	2006	kg							179			
+39	Ohio	CLOFENTEZINE	2007	kg							12.4			
+39	Ohio	CLOFENTEZINE	2009	kg							115.4			
+39	Ohio	CLOFENTEZINE	2010	kg							511			
+39	Ohio	CLOFENTEZINE	2011	kg							176.3			
+39	Ohio	CLOFENTEZINE	2012	kg							9.3			
+39	Ohio	CLOFENTEZINE	2014	kg							119.4			
+41	Oregon	CLOFENTEZINE	1992	kg							742.1			
+41	Oregon	CLOFENTEZINE	1994	kg							3.2			
+41	Oregon	CLOFENTEZINE	1995	kg							6.8			
+41	Oregon	CLOFENTEZINE	1996	kg							346.3			
+41	Oregon	CLOFENTEZINE	1997	kg							339.3			
+41	Oregon	CLOFENTEZINE	1998	kg							92.9			
+41	Oregon	CLOFENTEZINE	1999	kg							15.9			
+41	Oregon	CLOFENTEZINE	2000	kg							36.8			
+41	Oregon	CLOFENTEZINE	2001	kg							31			
+41	Oregon	CLOFENTEZINE	2002	kg							31.6			
+41	Oregon	CLOFENTEZINE	2003	kg							201.2			
+41	Oregon	CLOFENTEZINE	2004	kg							125.5			
+41	Oregon	CLOFENTEZINE	2005	kg							209.9			
+41	Oregon	CLOFENTEZINE	2006	kg							14.9			
+41	Oregon	CLOFENTEZINE	2007	kg							6.2			
+41	Oregon	CLOFENTEZINE	2008	kg							18			
+41	Oregon	CLOFENTEZINE	2009	kg							8.7			
+41	Oregon	CLOFENTEZINE	2010	kg							7			
+41	Oregon	CLOFENTEZINE	2012	kg							8.3			
+41	Oregon	CLOFENTEZINE	2013	kg							5.3			
+41	Oregon	CLOFENTEZINE	2014	kg							214.2			
+41	Oregon	CLOFENTEZINE	2015	kg							81.1			
+41	Oregon	CLOFENTEZINE	2016	kg							68			
+41	Oregon	CLOFENTEZINE	2017	kg							16.3			
+42	Pennsylvania	CLOFENTEZINE	1995	kg							505.3			
+42	Pennsylvania	CLOFENTEZINE	1996	kg							84			
+42	Pennsylvania	CLOFENTEZINE	1997	kg							186.5			
+42	Pennsylvania	CLOFENTEZINE	1998	kg							552.8			
+42	Pennsylvania	CLOFENTEZINE	1999	kg							318.6			
+42	Pennsylvania	CLOFENTEZINE	2000	kg							420.2			
+42	Pennsylvania	CLOFENTEZINE	2001	kg							723.5			
+42	Pennsylvania	CLOFENTEZINE	2002	kg							849.2			
+42	Pennsylvania	CLOFENTEZINE	2003	kg							212.6			
+42	Pennsylvania	CLOFENTEZINE	2004	kg							55.8			
+42	Pennsylvania	CLOFENTEZINE	2005	kg							254.8			
+42	Pennsylvania	CLOFENTEZINE	2006	kg							186.2			
+42	Pennsylvania	CLOFENTEZINE	2008	kg							66.8			
+42	Pennsylvania	CLOFENTEZINE	2009	kg							209.1			
+42	Pennsylvania	CLOFENTEZINE	2010	kg							177.6			
+42	Pennsylvania	CLOFENTEZINE	2011	kg							211.6			
+42	Pennsylvania	CLOFENTEZINE	2012	kg							343.2			
+42	Pennsylvania	CLOFENTEZINE	2013	kg							588			
+42	Pennsylvania	CLOFENTEZINE	2014	kg							78.8			
+44	Rhode Island	CLOFENTEZINE	1995	kg							0.3			
+44	Rhode Island	CLOFENTEZINE	1996	kg							0.5			
+44	Rhode Island	CLOFENTEZINE	1997	kg							4.3			
+44	Rhode Island	CLOFENTEZINE	1998	kg							6.9			
+44	Rhode Island	CLOFENTEZINE	1999	kg							1.4			
+44	Rhode Island	CLOFENTEZINE	2000	kg							2.8			
+44	Rhode Island	CLOFENTEZINE	2001	kg							2.2			
+44	Rhode Island	CLOFENTEZINE	2002	kg							2.2			
+44	Rhode Island	CLOFENTEZINE	2004	kg							0.6			
+44	Rhode Island	CLOFENTEZINE	2005	kg							2.7			
+44	Rhode Island	CLOFENTEZINE	2006	kg							1.7			
+45	South Carolina	CLOFENTEZINE	1996	kg							469.6			
+45	South Carolina	CLOFENTEZINE	1997	kg							5.9			
+45	South Carolina	CLOFENTEZINE	1999	kg							6.9			
+45	South Carolina	CLOFENTEZINE	2000	kg							64.6			
+45	South Carolina	CLOFENTEZINE	2005	kg							37.4			
+47	Tennessee	CLOFENTEZINE	1996	kg							11.1			
+47	Tennessee	CLOFENTEZINE	1997	kg							3.1			
+47	Tennessee	CLOFENTEZINE	1999	kg							1.4			
+47	Tennessee	CLOFENTEZINE	2000	kg							10.4			
+47	Tennessee	CLOFENTEZINE	2001	kg							6.8			
+47	Tennessee	CLOFENTEZINE	2002	kg							17.4			
+47	Tennessee	CLOFENTEZINE	2003	kg							16.3			
+47	Tennessee	CLOFENTEZINE	2004	kg							5.8			
+47	Tennessee	CLOFENTEZINE	2005	kg							18.2			
+47	Tennessee	CLOFENTEZINE	2010	kg							25.4			
+47	Tennessee	CLOFENTEZINE	2011	kg							15.1			
+47	Tennessee	CLOFENTEZINE	2012	kg							1			
+47	Tennessee	CLOFENTEZINE	2014	kg							9.7			
+48	Texas	CLOFENTEZINE	2012	kg							40.7			
+49	Utah	CLOFENTEZINE	1992	kg							0			
+49	Utah	CLOFENTEZINE	2002	kg							0.1			
+49	Utah	CLOFENTEZINE	2003	kg							0.3			
+49	Utah	CLOFENTEZINE	2004	kg							19.8			
+50	Vermont	CLOFENTEZINE	1995	kg							5.2			
+50	Vermont	CLOFENTEZINE	1996	kg							638.1			
+50	Vermont	CLOFENTEZINE	1997	kg							20.5			
+50	Vermont	CLOFENTEZINE	1998	kg							88.8			
+50	Vermont	CLOFENTEZINE	1999	kg							29.2			
+50	Vermont	CLOFENTEZINE	2000	kg							18.3			
+50	Vermont	CLOFENTEZINE	2001	kg							22.8			
+50	Vermont	CLOFENTEZINE	2002	kg							22.2			
+50	Vermont	CLOFENTEZINE	2004	kg							5.9			
+50	Vermont	CLOFENTEZINE	2005	kg							4.2			
+50	Vermont	CLOFENTEZINE	2006	kg							14			
+50	Vermont	CLOFENTEZINE	2008	kg							104.7			
+50	Vermont	CLOFENTEZINE	2009	kg							43.1			
+50	Vermont	CLOFENTEZINE	2015	kg							4.6			
+51	Virginia	CLOFENTEZINE	1996	kg							114.2			
+51	Virginia	CLOFENTEZINE	1997	kg							39.5			
+51	Virginia	CLOFENTEZINE	1998	kg							411.2			
+51	Virginia	CLOFENTEZINE	1999	kg							302.4			
+51	Virginia	CLOFENTEZINE	2000	kg							485.6			
+51	Virginia	CLOFENTEZINE	2001	kg							18.3			
+51	Virginia	CLOFENTEZINE	2002	kg							43.9			
+51	Virginia	CLOFENTEZINE	2003	kg							101.7			
+51	Virginia	CLOFENTEZINE	2004	kg							9.9			
+51	Virginia	CLOFENTEZINE	2005	kg							13.1			
+51	Virginia	CLOFENTEZINE	2010	kg							71			
+51	Virginia	CLOFENTEZINE	2011	kg							52.2			
+51	Virginia	CLOFENTEZINE	2012	kg							5.5			
+51	Virginia	CLOFENTEZINE	2014	kg							45.5			
+53	Washington	CLOFENTEZINE	1996	kg							6387.8			
+53	Washington	CLOFENTEZINE	1997	kg							16739.7			
+53	Washington	CLOFENTEZINE	1998	kg							397.9			
+53	Washington	CLOFENTEZINE	2000	kg							818.4			
+53	Washington	CLOFENTEZINE	2001	kg							119.2			
+53	Washington	CLOFENTEZINE	2002	kg							251.1			
+53	Washington	CLOFENTEZINE	2003	kg							336.9			
+53	Washington	CLOFENTEZINE	2004	kg							44.2			
+53	Washington	CLOFENTEZINE	2005	kg							8360.6			
+53	Washington	CLOFENTEZINE	2006	kg							67.4			
+53	Washington	CLOFENTEZINE	2008	kg							31.8			
+53	Washington	CLOFENTEZINE	2010	kg							35			
+53	Washington	CLOFENTEZINE	2011	kg							54.7			
+53	Washington	CLOFENTEZINE	2012	kg							251.5			
+53	Washington	CLOFENTEZINE	2014	kg							1580.2			
+53	Washington	CLOFENTEZINE	2015	kg							506.6			
+53	Washington	CLOFENTEZINE	2016	kg							462			
+53	Washington	CLOFENTEZINE	2017	kg							29.4			
+54	West Virginia	CLOFENTEZINE	1995	kg							86.4			
+54	West Virginia	CLOFENTEZINE	1996	kg							29.2			
+54	West Virginia	CLOFENTEZINE	1997	kg							23.8			
+54	West Virginia	CLOFENTEZINE	1998	kg							165.9			
+54	West Virginia	CLOFENTEZINE	1999	kg							135.6			
+54	West Virginia	CLOFENTEZINE	2000	kg							214			
+54	West Virginia	CLOFENTEZINE	2001	kg							31.4			
+54	West Virginia	CLOFENTEZINE	2002	kg							159.8			
+54	West Virginia	CLOFENTEZINE	2003	kg							52.3			
+54	West Virginia	CLOFENTEZINE	2004	kg							32.9			
+54	West Virginia	CLOFENTEZINE	2005	kg							43			
+54	West Virginia	CLOFENTEZINE	2009	kg							6.7			
+54	West Virginia	CLOFENTEZINE	2010	kg							326			
+54	West Virginia	CLOFENTEZINE	2011	kg							253.3			
+54	West Virginia	CLOFENTEZINE	2012	kg							23.9			
+54	West Virginia	CLOFENTEZINE	2013	kg							11.6			
+54	West Virginia	CLOFENTEZINE	2014	kg							111			
+55	Wisconsin	CLOFENTEZINE	1995	kg							217.9			
+55	Wisconsin	CLOFENTEZINE	1996	kg							64.5			
+55	Wisconsin	CLOFENTEZINE	1997	kg							53.9			
+55	Wisconsin	CLOFENTEZINE	1998	kg							45.3			
+55	Wisconsin	CLOFENTEZINE	1999	kg							275.9			
+55	Wisconsin	CLOFENTEZINE	2000	kg							68.4			
+55	Wisconsin	CLOFENTEZINE	2001	kg							136.9			
+55	Wisconsin	CLOFENTEZINE	2002	kg							75.9			
+55	Wisconsin	CLOFENTEZINE	2003	kg							63.6			
+55	Wisconsin	CLOFENTEZINE	2004	kg							682.4			
+55	Wisconsin	CLOFENTEZINE	2005	kg							8.4			
+55	Wisconsin	CLOFENTEZINE	2006	kg							33.9			
+55	Wisconsin	CLOFENTEZINE	2007	kg							24.6			
+55	Wisconsin	CLOFENTEZINE	2009	kg							22.9			

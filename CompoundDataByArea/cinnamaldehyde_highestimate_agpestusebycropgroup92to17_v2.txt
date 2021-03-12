@@ -1,0 +1,27 @@
+04	Arizona	CINNAMALDEHYDE	1999	kg							31.1			
+04	Arizona	CINNAMALDEHYDE	2000	kg							23.9			
+04	Arizona	CINNAMALDEHYDE	2001	kg							36			
+04	Arizona	CINNAMALDEHYDE	2002	kg							2.3			
+06	California	CINNAMALDEHYDE	1999	kg					0		2958		15.3	
+06	California	CINNAMALDEHYDE	2000	kg					2292		2223.1			
+06	California	CINNAMALDEHYDE	2001	kg					592.7		1476.9			
+06	California	CINNAMALDEHYDE	2002	kg					269.9		42.9			
+06	California	CINNAMALDEHYDE	2003	kg					76.2		8.8			
+06	California	CINNAMALDEHYDE	2004	kg					136.4		4.5			
+06	California	CINNAMALDEHYDE	2005	kg							10.6			
+06	California	CINNAMALDEHYDE	2006	kg							2.5			
+06	California	CINNAMALDEHYDE	2007	kg							0.8			
+06	California	CINNAMALDEHYDE	2008	kg							160.7			
+06	California	CINNAMALDEHYDE	2017	kg							26.8			
+08	Colorado	CINNAMALDEHYDE	2001	kg							90.1			
+08	Colorado	CINNAMALDEHYDE	2002	kg							131.8			
+12	Florida	CINNAMALDEHYDE	2005	kg							244.9			
+13	Georgia	CINNAMALDEHYDE	2005	kg							9999.4			
+32	Nevada	CINNAMALDEHYDE	1999	kg							0.7			
+32	Nevada	CINNAMALDEHYDE	2000	kg							0.1			
+35	New Mexico	CINNAMALDEHYDE	2001	kg							5.4			
+35	New Mexico	CINNAMALDEHYDE	2002	kg							6.9			
+45	South Carolina	CINNAMALDEHYDE	2005	kg							184.9			
+49	Utah	CINNAMALDEHYDE	2001	kg							1.4			
+49	Utah	CINNAMALDEHYDE	2002	kg							2			
+51	Virginia	CINNAMALDEHYDE	2000	kg							484.4			

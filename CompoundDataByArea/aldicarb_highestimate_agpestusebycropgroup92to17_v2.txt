@@ -1,0 +1,656 @@
+01	Alabama	ALDICARB	1992	kg	200.4	690.9		40614.6			4689.3		22.7	40908.2
+01	Alabama	ALDICARB	1993	kg	2695.2	1324		31975.4			21709.7			25589
+01	Alabama	ALDICARB	1994	kg	430	40.1		44838.5			14904.1			43206
+01	Alabama	ALDICARB	1995	kg	744.4	371.6		93890.6			5043.4			60142.7
+01	Alabama	ALDICARB	1996	kg		3019.6		75058.7			758.7			23825.2
+01	Alabama	ALDICARB	1997	kg	173.3	3265.7		92872.2			3780.7			20592.8
+01	Alabama	ALDICARB	1998	kg				54943	43.7		803.2			40088.2
+01	Alabama	ALDICARB	1999	kg				44789.2	121.7		14783.1			25224
+01	Alabama	ALDICARB	2000	kg				81976	349.8					13842.6
+01	Alabama	ALDICARB	2001	kg				41303.9	334.2		183.7			31608.8
+01	Alabama	ALDICARB	2002	kg				52382.7			879.5			20839.3
+01	Alabama	ALDICARB	2003	kg				66769.3	334.4		667.8			22438.7
+01	Alabama	ALDICARB	2004	kg		848.7		77671.3	938.8		569.7			21705.6
+01	Alabama	ALDICARB	2005	kg		783.2		76544.8	176.3		612.1			38279.1
+01	Alabama	ALDICARB	2006	kg				63121.5			1943.1			23319.9
+01	Alabama	ALDICARB	2007	kg				37226.9			1259.5			22860
+01	Alabama	ALDICARB	2008	kg				27864			573.5			40554.5
+01	Alabama	ALDICARB	2009	kg		21132.6		19695			5444.8			21177.3
+01	Alabama	ALDICARB	2010	kg		21788.8		32364.2			455.9			14115.2
+01	Alabama	ALDICARB	2011	kg				36730.3						5570.5
+01	Alabama	ALDICARB	2012	kg				1363.4						706.5
+01	Alabama	ALDICARB	2017	kg				5827.5						
+04	Arizona	ALDICARB	1992	kg				7024.2						
+04	Arizona	ALDICARB	1993	kg				37876.2	59.4					
+04	Arizona	ALDICARB	1994	kg				4445.7				1488		
+04	Arizona	ALDICARB	1995	kg				52190.9			970.1			
+04	Arizona	ALDICARB	1996	kg				4864.2						
+04	Arizona	ALDICARB	1997	kg				2986.5	184.5					
+04	Arizona	ALDICARB	1998	kg				15852.8	1991.2					
+04	Arizona	ALDICARB	1999	kg				9102.2						
+04	Arizona	ALDICARB	2000	kg				2077.8			2015.6			
+04	Arizona	ALDICARB	2001	kg				15311.5	5016.3		993			
+04	Arizona	ALDICARB	2002	kg				23001.2	864.1					
+04	Arizona	ALDICARB	2003	kg				12735.3	41772.6					
+04	Arizona	ALDICARB	2004	kg				46531.3						
+04	Arizona	ALDICARB	2005	kg				973.3						
+04	Arizona	ALDICARB	2006	kg				20139.7						
+04	Arizona	ALDICARB	2007	kg				29707.1						
+04	Arizona	ALDICARB	2008	kg				10586.3			191.1			
+04	Arizona	ALDICARB	2009	kg				901.3						
+04	Arizona	ALDICARB	2010	kg				19343.3						
+04	Arizona	ALDICARB	2011	kg				562.5						
+05	Arkansas	ALDICARB	1992	kg		10163.1		50413.3			682.8			447.7
+05	Arkansas	ALDICARB	1993	kg				33047.6			4078.2			447.3
+05	Arkansas	ALDICARB	1994	kg	5.9	1045.7		42498.5			731.8			
+05	Arkansas	ALDICARB	1995	kg		421.1		110988.7			1068.4			141.1
+05	Arkansas	ALDICARB	1996	kg				97552.6			1139.5		658.7	1110.5
+05	Arkansas	ALDICARB	1997	kg	322.9	1940.1		138811.4			361.4			376.9
+05	Arkansas	ALDICARB	1998	kg				115080.1			2119.6			41.4
+05	Arkansas	ALDICARB	1999	kg				99254.3						
+05	Arkansas	ALDICARB	2000	kg				120478.7						
+05	Arkansas	ALDICARB	2001	kg				95552.4			354.6			5.4
+05	Arkansas	ALDICARB	2002	kg				124731.2			146.2			17.6
+05	Arkansas	ALDICARB	2003	kg				130309.5			295.7			
+05	Arkansas	ALDICARB	2004	kg				111502.4						
+05	Arkansas	ALDICARB	2005	kg				79316.8						
+05	Arkansas	ALDICARB	2006	kg				121062						
+05	Arkansas	ALDICARB	2007	kg				48397.8						
+05	Arkansas	ALDICARB	2008	kg				40409.5						
+05	Arkansas	ALDICARB	2009	kg		6977.7		45184.5						
+05	Arkansas	ALDICARB	2010	kg				55887.3						
+05	Arkansas	ALDICARB	2011	kg				61372.5	2.9					
+05	Arkansas	ALDICARB	2012	kg				8854.1						
+05	Arkansas	ALDICARB	2013	kg				5388.1						
+05	Arkansas	ALDICARB	2017	kg				737.3						
+06	California	ALDICARB	1992	kg				70110.6	1151.9		68.7			4968.7
+06	California	ALDICARB	1993	kg				98372.8	398.1		19.9			8980.4
+06	California	ALDICARB	1994	kg				95912.3	818.4		23.1			8224
+06	California	ALDICARB	1995	kg				156304.4	2085.8		5.4			4583
+06	California	ALDICARB	1996	kg		0.2		258214.3	713.4		3.4			2705.3
+06	California	ALDICARB	1997	kg				232244	1229		268.3	8929.7		4036.9
+06	California	ALDICARB	1998	kg	122.4			234553.2	1421		1944.7	3243.2		2301.1
+06	California	ALDICARB	1999	kg	58.7		59.2	122172.3	1546.4		1833.9	108.2		2193.3
+06	California	ALDICARB	2000	kg	57		14.1	145546.5	522.3		2777.2	129.7		1031.4
+06	California	ALDICARB	2001	kg	38.4			130126.3	562.9		4215.9	131.9		17.2
+06	California	ALDICARB	2002	kg	138.1			106202.4	592		3264.2	305.5		97.9
+06	California	ALDICARB	2003	kg	82.3			114201.3	430.7		3991.7	104.9		56.6
+06	California	ALDICARB	2004	kg				101090.3	49		3391.2	224.8		0.3
+06	California	ALDICARB	2005	kg				103741.8	90.3		207			30.3
+06	California	ALDICARB	2006	kg				68297.7	363.7		468.8	12.5		
+06	California	ALDICARB	2007	kg				49491.7	411.1		2411.8			14.5
+06	California	ALDICARB	2008	kg				33558.8	101.7		379.5			
+06	California	ALDICARB	2009	kg				13692.5	437.2		114.1	54.8		
+06	California	ALDICARB	2010	kg				28857	424.6		0.8	26.8		
+06	California	ALDICARB	2011	kg				10662.7			0			
+06	California	ALDICARB	2012	kg				678.2	3.4					
+06	California	ALDICARB	2013	kg				674.2						
+06	California	ALDICARB	2014	kg				55.9	1.1					
+08	Colorado	ALDICARB	1992	kg	2080.2									6558.8
+08	Colorado	ALDICARB	1993	kg					1634.4					13962
+08	Colorado	ALDICARB	1994	kg								744.6		3673.1
+08	Colorado	ALDICARB	1995	kg	2333				32.5					3065.2
+08	Colorado	ALDICARB	1996	kg										16013.1
+08	Colorado	ALDICARB	1997	kg										7899.7
+08	Colorado	ALDICARB	1998	kg										16014
+08	Colorado	ALDICARB	1999	kg										3819.1
+08	Colorado	ALDICARB	2000	kg					2142.9					3403.1
+08	Colorado	ALDICARB	2001	kg					1120.9					9368
+08	Colorado	ALDICARB	2002	kg										7678.3
+08	Colorado	ALDICARB	2003	kg										10489.1
+08	Colorado	ALDICARB	2004	kg					4255.3					2766.4
+08	Colorado	ALDICARB	2005	kg										3294.9
+08	Colorado	ALDICARB	2006	kg										977.8
+08	Colorado	ALDICARB	2009	kg										593
+10	Delaware	ALDICARB	1993	kg			2767.3							1691.1
+12	Florida	ALDICARB	1992	kg	6.5	206.6		3585.6			85903.6		5.7	3683.5
+12	Florida	ALDICARB	1993	kg				6211.8			79205			2928.6
+12	Florida	ALDICARB	1994	kg	88			558			49082.2			4020.7
+12	Florida	ALDICARB	1995	kg	188.7			7995.1			121445.5			9497.6
+12	Florida	ALDICARB	1996	kg				16855.7	38122.4		40418.4			10580.7
+12	Florida	ALDICARB	1997	kg	116.7	106.9		8622.2	28486.1		90167.8			7282
+12	Florida	ALDICARB	1998	kg				4285.4	36718.4		64380.8			7108.1
+12	Florida	ALDICARB	1999	kg				6245.4	58986.1		518322.6			17056
+12	Florida	ALDICARB	2000	kg				1001.2	26153.8		205730.9			28017.5
+12	Florida	ALDICARB	2001	kg				8844.9	15789.9		191175.1			9290.5
+12	Florida	ALDICARB	2002	kg				10927.1	27481		115452.4			22805
+12	Florida	ALDICARB	2003	kg				5911.8	41398.5		195821.3			20550.1
+12	Florida	ALDICARB	2004	kg				14626.5	14368.2		118152.4			14513.8
+12	Florida	ALDICARB	2005	kg				1620.2	12843.2		97829.9			14990.2
+12	Florida	ALDICARB	2006	kg				2938.8	21011.7		247921.3			2374.6
+12	Florida	ALDICARB	2007	kg				809	28858.7		613457.6			11775.4
+12	Florida	ALDICARB	2008	kg				5163.7	13228.7		532358.6			4716.1
+12	Florida	ALDICARB	2009	kg				5203.9	9961.9		436404.8			13577.5
+12	Florida	ALDICARB	2010	kg				9975.3	18603.8		373638.7			29155.8
+12	Florida	ALDICARB	2011	kg				4286	18872.3		42456.2			4971.6
+12	Florida	ALDICARB	2012	kg				173.7	9298.1		5252			1913.6
+12	Florida	ALDICARB	2016	kg				54						
+12	Florida	ALDICARB	2017	kg				703.4						
+13	Georgia	ALDICARB	1992	kg	182	2257.5		36534.2			44622.2		9.3	111059.2
+13	Georgia	ALDICARB	1993	kg	8618.1	4700.8		50824.9			27824.5			123154
+13	Georgia	ALDICARB	1994	kg	5722.9	2779		117685.5			9457.5			146220.1
+13	Georgia	ALDICARB	1995	kg	2376.9	15163.2	3885.6	179420.2			24639			83553.8
+13	Georgia	ALDICARB	1996	kg		4066.1	377	193341.6	21.1		15301.4			63054.7
+13	Georgia	ALDICARB	1997	kg	917	1571		254481.2			25491.8			147605.4
+13	Georgia	ALDICARB	1998	kg				166752.9	0.1		5033			102571.3
+13	Georgia	ALDICARB	1999	kg				141622.9	0.2		93533.9			126044.1
+13	Georgia	ALDICARB	2000	kg				101268.2	0.6		7486.1			95161.1
+13	Georgia	ALDICARB	2001	kg				100171.1	0.2		6829.8			97054.5
+13	Georgia	ALDICARB	2002	kg				92959.2			9845.7			99239.9
+13	Georgia	ALDICARB	2003	kg				160180.3	1		5928.3			146958.2
+13	Georgia	ALDICARB	2004	kg		2092		240043.1	2.4		4861.7			209931.4
+13	Georgia	ALDICARB	2005	kg		1544.1		316323.7	0.4		2769.9			167637.6
+13	Georgia	ALDICARB	2006	kg				327944			16307.7			117633.8
+13	Georgia	ALDICARB	2007	kg				185101.3			6982.3			104167.7
+13	Georgia	ALDICARB	2008	kg				160835.5			2712.7			148804.8
+13	Georgia	ALDICARB	2009	kg		23381.6		196739.1			64607.4			131868.5
+13	Georgia	ALDICARB	2010	kg		61840.8		277068.7			4321.4			146869
+13	Georgia	ALDICARB	2011	kg				123586.3						51900.5
+13	Georgia	ALDICARB	2012	kg		8327.4		10499.4						14932.4
+13	Georgia	ALDICARB	2016	kg				13808.5						
+13	Georgia	ALDICARB	2017	kg				14741.4						
+16	Idaho	ALDICARB	1992	kg					24642					74443.1
+16	Idaho	ALDICARB	1993	kg					23369.6					30206.2
+16	Idaho	ALDICARB	1994	kg					33435.2					43764.1
+16	Idaho	ALDICARB	1995	kg					6633					43699.9
+16	Idaho	ALDICARB	1996	kg					70673.5					50763
+16	Idaho	ALDICARB	1997	kg					5432.1					55445.1
+16	Idaho	ALDICARB	1998	kg					55165.2					66405
+16	Idaho	ALDICARB	1999	kg					129401					35342
+16	Idaho	ALDICARB	2000	kg					60532.9					58861.2
+16	Idaho	ALDICARB	2001	kg					39746.9					70830.4
+16	Idaho	ALDICARB	2002	kg					66433.1					110726.1
+16	Idaho	ALDICARB	2003	kg					53467.4					86178.6
+16	Idaho	ALDICARB	2004	kg					57345.6					99586.6
+16	Idaho	ALDICARB	2005	kg					24527.7					78761.2
+16	Idaho	ALDICARB	2006	kg					27141.7					77761.4
+16	Idaho	ALDICARB	2007	kg					50282.8					75411.2
+16	Idaho	ALDICARB	2008	kg					48095.4					74827.3
+16	Idaho	ALDICARB	2009	kg					22894.4					37602.3
+16	Idaho	ALDICARB	2010	kg					70275.3					70683.8
+16	Idaho	ALDICARB	2011	kg					32659.9					25261.4
+16	Idaho	ALDICARB	2012	kg										20806.6
+17	Illinois	ALDICARB	1992	kg	3652.1									84.5
+17	Illinois	ALDICARB	1995	kg		274.6								42.7
+17	Illinois	ALDICARB	1996	kg										97
+17	Illinois	ALDICARB	1997	kg	1481.2	1026.2								160.2
+17	Illinois	ALDICARB	1998	kg					276.6					
+17	Illinois	ALDICARB	2009	kg		5859.2								
+17	Illinois	ALDICARB	2010	kg										19
+18	Indiana	ALDICARB	1995	kg							0			
+18	Indiana	ALDICARB	2010	kg										10.4
+19	Iowa	ALDICARB	1992	kg										20.7
+19	Iowa	ALDICARB	1993	kg	2924.6				41.4					
+19	Iowa	ALDICARB	1997	kg	49614.5									
+20	Kansas	ALDICARB	1992	kg				737.5			225.8			
+20	Kansas	ALDICARB	1993	kg				528.2						
+20	Kansas	ALDICARB	1994	kg				458.4						
+20	Kansas	ALDICARB	1995	kg				1130.8						
+20	Kansas	ALDICARB	1996	kg				771.5						
+20	Kansas	ALDICARB	1997	kg				1709.5						
+20	Kansas	ALDICARB	1998	kg				3684.6						
+20	Kansas	ALDICARB	1999	kg				2998.6						
+20	Kansas	ALDICARB	2000	kg				3662.6						
+20	Kansas	ALDICARB	2001	kg				1605.2			2841.5			
+20	Kansas	ALDICARB	2002	kg				1012.9	3460.3					
+20	Kansas	ALDICARB	2003	kg				1349.4						
+20	Kansas	ALDICARB	2004	kg				2185.3						
+20	Kansas	ALDICARB	2005	kg				3512.3						
+20	Kansas	ALDICARB	2006	kg				1967.7						
+20	Kansas	ALDICARB	2007	kg				1305.9						
+20	Kansas	ALDICARB	2008	kg				1159.3						
+20	Kansas	ALDICARB	2009	kg				1236.8						
+20	Kansas	ALDICARB	2010	kg				1481.4			675			
+20	Kansas	ALDICARB	2011	kg				2116.7						
+20	Kansas	ALDICARB	2012	kg				335.1						
+20	Kansas	ALDICARB	2013	kg				77.7						
+21	Kentucky	ALDICARB	1992	kg										36265.4
+21	Kentucky	ALDICARB	1993	kg										44053.9
+21	Kentucky	ALDICARB	1994	kg										36690.7
+21	Kentucky	ALDICARB	1995	kg		123.8								33437.2
+21	Kentucky	ALDICARB	1996	kg										95922.8
+21	Kentucky	ALDICARB	1997	kg	757	20261								17257.5
+21	Kentucky	ALDICARB	1998	kg										9266.9
+21	Kentucky	ALDICARB	1999	kg										5277.4
+21	Kentucky	ALDICARB	2002	kg										34797.5
+21	Kentucky	ALDICARB	2003	kg										1791.3
+21	Kentucky	ALDICARB	2005	kg										3568.6
+21	Kentucky	ALDICARB	2006	kg										1328.6
+21	Kentucky	ALDICARB	2007	kg										7179
+21	Kentucky	ALDICARB	2009	kg		2581.8								463.9
+21	Kentucky	ALDICARB	2010	kg										2673.9
+22	Louisiana	ALDICARB	1992	kg				48041.2			1414			39.8
+22	Louisiana	ALDICARB	1993	kg				45840.4					211.9	11.2
+22	Louisiana	ALDICARB	1994	kg	197.9			94263.1			932.3			
+22	Louisiana	ALDICARB	1995	kg				62715.7			2645			0.8
+22	Louisiana	ALDICARB	1996	kg				47329.6			5526.2		492.7	271.9
+22	Louisiana	ALDICARB	1997	kg	1676.4	227.5		33960.5						1.7
+22	Louisiana	ALDICARB	1998	kg				49534			797.2			398.1
+22	Louisiana	ALDICARB	1999	kg				54699.2						
+22	Louisiana	ALDICARB	2000	kg				43021.3						2322.1
+22	Louisiana	ALDICARB	2001	kg				46852						40780.2
+22	Louisiana	ALDICARB	2002	kg				38174.4			744.4			27180.2
+22	Louisiana	ALDICARB	2003	kg				15820.6						
+22	Louisiana	ALDICARB	2004	kg				41207.8						7307.4
+22	Louisiana	ALDICARB	2005	kg				25414.5						8586.4
+22	Louisiana	ALDICARB	2006	kg				24770.8						
+22	Louisiana	ALDICARB	2007	kg				29448.4						
+22	Louisiana	ALDICARB	2008	kg				14153.1						5359.4
+22	Louisiana	ALDICARB	2009	kg				10220.1						
+22	Louisiana	ALDICARB	2010	kg				19478.3						
+22	Louisiana	ALDICARB	2011	kg				3978.6	14.3					
+22	Louisiana	ALDICARB	2012	kg				3774.7						
+22	Louisiana	ALDICARB	2013	kg				6390.8						
+23	Maine	ALDICARB	2001	kg					14219.3					
+23	Maine	ALDICARB	2008	kg					1563.1					
+24	Maryland	ALDICARB	1992	kg		699.8								
+24	Maryland	ALDICARB	1993	kg		1486.1	8311.4							3133
+24	Maryland	ALDICARB	1994	kg		46								
+24	Maryland	ALDICARB	1995	kg		456.3								
+24	Maryland	ALDICARB	1996	kg		2496.1								
+24	Maryland	ALDICARB	1997	kg		1869								
+24	Maryland	ALDICARB	2004	kg		1102.7								
+24	Maryland	ALDICARB	2005	kg		1221.3								
+24	Maryland	ALDICARB	2009	kg		21399.7								
+24	Maryland	ALDICARB	2010	kg		3634.1								
+26	Michigan	ALDICARB	1992	kg					3392.9					
+26	Michigan	ALDICARB	1993	kg					47125.8					
+26	Michigan	ALDICARB	1994	kg					25831.2					
+26	Michigan	ALDICARB	1995	kg					19759.5		6.6			
+26	Michigan	ALDICARB	1996	kg					31669.5					
+26	Michigan	ALDICARB	1998	kg					32667.5					
+26	Michigan	ALDICARB	1999	kg					46911.5					6098.9
+26	Michigan	ALDICARB	2000	kg					33245.6					
+26	Michigan	ALDICARB	2001	kg					2158					
+26	Michigan	ALDICARB	2002	kg					8948.3					
+26	Michigan	ALDICARB	2003	kg					25846.7					
+26	Michigan	ALDICARB	2004	kg					23584					
+26	Michigan	ALDICARB	2005	kg					9053.9					
+26	Michigan	ALDICARB	2006	kg					2879.1					
+26	Michigan	ALDICARB	2008	kg					2283.9					
+26	Michigan	ALDICARB	2009	kg					4472.3					
+26	Michigan	ALDICARB	2010	kg					4594.3					
+26	Michigan	ALDICARB	2011	kg					24041.4					
+27	Minnesota	ALDICARB	1992	kg										43524
+27	Minnesota	ALDICARB	1993	kg	3965.3				937.1					4175.7
+27	Minnesota	ALDICARB	1994	kg										29670.6
+27	Minnesota	ALDICARB	1995	kg										26849.4
+27	Minnesota	ALDICARB	1996	kg										71451.7
+27	Minnesota	ALDICARB	1997	kg	151768.9									899.1
+27	Minnesota	ALDICARB	1998	kg										50225
+27	Minnesota	ALDICARB	1999	kg										27442.6
+27	Minnesota	ALDICARB	2000	kg					2044.7					45647
+27	Minnesota	ALDICARB	2001	kg										1681.7
+27	Minnesota	ALDICARB	2002	kg					8909					28603.1
+27	Minnesota	ALDICARB	2003	kg										49050.3
+27	Minnesota	ALDICARB	2004	kg										16182.9
+27	Minnesota	ALDICARB	2005	kg										28365.8
+27	Minnesota	ALDICARB	2006	kg										13575.6
+28	Mississippi	ALDICARB	1992	kg	17.5			62202.4			1981.9			722.5
+28	Mississippi	ALDICARB	1993	kg	248.5			56654.6			20641.6			1488.2
+28	Mississippi	ALDICARB	1994	kg	91			39864.6			1319.5			259.2
+28	Mississippi	ALDICARB	1995	kg	85.6			84977.8			23456.1			225.6
+28	Mississippi	ALDICARB	1996	kg				41027.6			2701.5			544
+28	Mississippi	ALDICARB	1997	kg	674.1	724.1		78726.2			2108.6			612.1
+28	Mississippi	ALDICARB	1998	kg				68326.8			2900.5			317.9
+28	Mississippi	ALDICARB	1999	kg				68732.5			4195.2			139.7
+28	Mississippi	ALDICARB	2000	kg				67094.4						60.1
+28	Mississippi	ALDICARB	2001	kg				107704.5			354.2			266.6
+28	Mississippi	ALDICARB	2002	kg				67040.5			3986.5			307
+28	Mississippi	ALDICARB	2003	kg				72099.2			1190.4			172.1
+28	Mississippi	ALDICARB	2004	kg				77210.8			166.7			122.8
+28	Mississippi	ALDICARB	2005	kg				79737.7			112.3			1116.2
+28	Mississippi	ALDICARB	2006	kg				96087.7			436.2			265.7
+28	Mississippi	ALDICARB	2007	kg				30846.5			344.3			1247.1
+28	Mississippi	ALDICARB	2008	kg				22312.6			108.3			1503.3
+28	Mississippi	ALDICARB	2009	kg				5869.1			883.9			1128.1
+28	Mississippi	ALDICARB	2010	kg				12072.5			39.7			765.3
+28	Mississippi	ALDICARB	2011	kg				24964.1						338.5
+28	Mississippi	ALDICARB	2012	kg				7541.2						181.8
+28	Mississippi	ALDICARB	2013	kg				7935.9						
+28	Mississippi	ALDICARB	2017	kg				224.9						
+29	Missouri	ALDICARB	1992	kg		3383.2		41358.4			13.7			4505.8
+29	Missouri	ALDICARB	1993	kg				19877.9						
+29	Missouri	ALDICARB	1994	kg		366.9		20368.3						
+29	Missouri	ALDICARB	1995	kg		492.9		30154.8						184.3
+29	Missouri	ALDICARB	1996	kg				33259.6						376.3
+29	Missouri	ALDICARB	1997	kg	2598.7	2691.3		36594.2						1021.8
+29	Missouri	ALDICARB	1998	kg				39312						
+29	Missouri	ALDICARB	1999	kg				31135.3						
+29	Missouri	ALDICARB	2000	kg				29009.1						
+29	Missouri	ALDICARB	2001	kg				22706.9						
+29	Missouri	ALDICARB	2002	kg				32885.7						
+29	Missouri	ALDICARB	2003	kg				41317.4						
+29	Missouri	ALDICARB	2004	kg				40551.4						
+29	Missouri	ALDICARB	2005	kg				37247.3						
+29	Missouri	ALDICARB	2006	kg				46056.4						
+29	Missouri	ALDICARB	2007	kg				43628.4						
+29	Missouri	ALDICARB	2008	kg				29833.9						
+29	Missouri	ALDICARB	2009	kg		9987.4		29543.9						
+29	Missouri	ALDICARB	2010	kg				27654.4						
+29	Missouri	ALDICARB	2011	kg				30023.4						
+29	Missouri	ALDICARB	2012	kg				5553.4						
+29	Missouri	ALDICARB	2013	kg				2870.3						
+29	Missouri	ALDICARB	2017	kg				607.8						
+30	Montana	ALDICARB	1992	kg					155.8					13298.5
+30	Montana	ALDICARB	1993	kg					349.6					17440.8
+30	Montana	ALDICARB	1994	kg					1435.1					8725.6
+30	Montana	ALDICARB	1995	kg					314.9			5905.3		7571.3
+30	Montana	ALDICARB	1996	kg					4090.1					2877.8
+30	Montana	ALDICARB	1997	kg					25.8					13042.7
+30	Montana	ALDICARB	1998	kg					1393.2					11352.9
+30	Montana	ALDICARB	1999	kg					691.7					8216.1
+30	Montana	ALDICARB	2000	kg					1585.3					12654.5
+30	Montana	ALDICARB	2001	kg					3266.9					6791.1
+30	Montana	ALDICARB	2002	kg					2578.8					5475.8
+30	Montana	ALDICARB	2003	kg					683.1					8793.3
+30	Montana	ALDICARB	2004	kg					2328.2					6369.6
+30	Montana	ALDICARB	2005	kg					292.1					5238.3
+30	Montana	ALDICARB	2006	kg					4398.5					3418.1
+30	Montana	ALDICARB	2007	kg					919.6					4363
+30	Montana	ALDICARB	2008	kg					217.6					176.1
+30	Montana	ALDICARB	2009	kg					780					452.7
+30	Montana	ALDICARB	2010	kg					338.5					6990.7
+30	Montana	ALDICARB	2011	kg					214					6058
+31	Nebraska	ALDICARB	1992	kg	2336									16211.8
+31	Nebraska	ALDICARB	1993	kg					2086.4					35421.1
+31	Nebraska	ALDICARB	1994	kg								621.9		10695.1
+31	Nebraska	ALDICARB	1995	kg	3779.9									18760.6
+31	Nebraska	ALDICARB	1996	kg										18821.5
+31	Nebraska	ALDICARB	1997	kg										16892.5
+31	Nebraska	ALDICARB	1998	kg										10491.8
+31	Nebraska	ALDICARB	1999	kg										1492.2
+31	Nebraska	ALDICARB	2000	kg					4565					2753.8
+31	Nebraska	ALDICARB	2001	kg					4068.7					4491.6
+31	Nebraska	ALDICARB	2002	kg										5304.5
+31	Nebraska	ALDICARB	2003	kg										3173
+31	Nebraska	ALDICARB	2004	kg					11290.3					572.2
+31	Nebraska	ALDICARB	2005	kg										4463.1
+31	Nebraska	ALDICARB	2006	kg										1508.4
+31	Nebraska	ALDICARB	2009	kg										804
+32	Nevada	ALDICARB	1992	kg					564.8					
+32	Nevada	ALDICARB	1993	kg					2668.5					
+32	Nevada	ALDICARB	1994	kg					517.2			258.3		
+32	Nevada	ALDICARB	1995	kg					106.8					
+32	Nevada	ALDICARB	1996	kg					1146.7					
+32	Nevada	ALDICARB	1997	kg					385					
+32	Nevada	ALDICARB	1998	kg					2847.4					
+32	Nevada	ALDICARB	1999	kg					10951.2					
+32	Nevada	ALDICARB	2000	kg					1756.7					
+32	Nevada	ALDICARB	2001	kg					2151.2					
+32	Nevada	ALDICARB	2002	kg					517.4					
+32	Nevada	ALDICARB	2003	kg					3118.5					
+32	Nevada	ALDICARB	2004	kg					6914					
+32	Nevada	ALDICARB	2005	kg					1697.3					
+32	Nevada	ALDICARB	2006	kg					1852.4					
+32	Nevada	ALDICARB	2007	kg					3912.4					
+32	Nevada	ALDICARB	2008	kg					3740.2					
+32	Nevada	ALDICARB	2009	kg					1323					
+32	Nevada	ALDICARB	2010	kg					3172.6					
+35	New Mexico	ALDICARB	1992	kg				922.5			34.1			1617.2
+35	New Mexico	ALDICARB	1993	kg			174.5	1087.6	27.2		1250.7			443.6
+35	New Mexico	ALDICARB	1994	kg				1645.7	119.3		607.9			1430.2
+35	New Mexico	ALDICARB	1995	kg	506.9			2978.3	342.4					1222.9
+35	New Mexico	ALDICARB	1996	kg				1742.5	6.9					3180.5
+35	New Mexico	ALDICARB	1997	kg				5033.1	0.6		2815.9			757.2
+35	New Mexico	ALDICARB	1998	kg				3348	18.8					393.6
+35	New Mexico	ALDICARB	1999	kg				4305.8	6.6					1687.4
+35	New Mexico	ALDICARB	2000	kg				7648.4	10.3		4146.9			1336
+35	New Mexico	ALDICARB	2001	kg				914.5	14.6		121.4			2429.7
+35	New Mexico	ALDICARB	2002	kg				4164.9	5					2559
+35	New Mexico	ALDICARB	2003	kg				7109.3	32					368.8
+35	New Mexico	ALDICARB	2004	kg				4033.9	4.1					841.5
+35	New Mexico	ALDICARB	2005	kg				3153.8	2					524.4
+35	New Mexico	ALDICARB	2006	kg				1956.9	2.1					99.2
+35	New Mexico	ALDICARB	2007	kg				2513.1	0.3					668.8
+35	New Mexico	ALDICARB	2008	kg				885.1	30.4					56.5
+35	New Mexico	ALDICARB	2009	kg				952	20.3					60
+35	New Mexico	ALDICARB	2010	kg				1337.9	14.8					225.5
+35	New Mexico	ALDICARB	2011	kg				594.1						72.8
+35	New Mexico	ALDICARB	2012	kg				57.1						
+35	New Mexico	ALDICARB	2013	kg				39.8						
+36	New York	ALDICARB	1993	kg					93.9					
+36	New York	ALDICARB	1996	kg					584.9					
+36	New York	ALDICARB	1997	kg					273.8					
+36	New York	ALDICARB	2011	kg					1821.8					
+37	North Carolina	ALDICARB	1992	kg	1467.3	705.4		35879.3	21		732.2			54528
+37	North Carolina	ALDICARB	1993	kg	13043.8	2125.4		77501.6			107.1			77688.9
+37	North Carolina	ALDICARB	1994	kg	17143	10322.2		93257.1			34.8			66705.1
+37	North Carolina	ALDICARB	1995	kg	2414.9	1429.6		136295.1	66.9		155.4			60052.3
+37	North Carolina	ALDICARB	1996	kg	5012.8	17614.6		80146.1			44.4			92806.2
+37	North Carolina	ALDICARB	1997	kg	4637.6	22331.1		113298			98.1			40233.7
+37	North Carolina	ALDICARB	1998	kg				110234.7	1929.8		1299.1			48324.5
+37	North Carolina	ALDICARB	1999	kg				195946	1308.6		510.9			33162.2
+37	North Carolina	ALDICARB	2000	kg				141234.3	2184					51851.5
+37	North Carolina	ALDICARB	2001	kg				116396.7	2706.1		5.6			50818
+37	North Carolina	ALDICARB	2002	kg				165250.7	170.1		38.3			68724.4
+37	North Carolina	ALDICARB	2003	kg				208875.1	13585.5		27.7			31486
+37	North Carolina	ALDICARB	2004	kg		9642.9		145567.2			22			64859.4
+37	North Carolina	ALDICARB	2005	kg		13409.6		188932	4031.8		14.8			31852.2
+37	North Carolina	ALDICARB	2006	kg		11078.4		187341.1	752.2		55.6			45694.7
+37	North Carolina	ALDICARB	2007	kg				91195.2			43			57629.9
+37	North Carolina	ALDICARB	2008	kg				74198.4	20230.1		10.8			52810.8
+37	North Carolina	ALDICARB	2009	kg		96404.6		58167.6			351.2			37103.2
+37	North Carolina	ALDICARB	2010	kg		14111.6		93599.4			16.4			42444.8
+37	North Carolina	ALDICARB	2011	kg				54043.8						33676.1
+37	North Carolina	ALDICARB	2012	kg				13132.8						8788.5
+37	North Carolina	ALDICARB	2017	kg				11643.7						
+38	North Dakota	ALDICARB	1992	kg										34536.3
+38	North Dakota	ALDICARB	1993	kg										3029
+38	North Dakota	ALDICARB	1994	kg										23138.4
+38	North Dakota	ALDICARB	1995	kg								1927.5		20419.3
+38	North Dakota	ALDICARB	1996	kg										55227.1
+38	North Dakota	ALDICARB	1997	kg										9047
+38	North Dakota	ALDICARB	1998	kg										41937.9
+38	North Dakota	ALDICARB	1999	kg										22934
+38	North Dakota	ALDICARB	2000	kg					10646.4					40377.2
+38	North Dakota	ALDICARB	2001	kg					4927.1					4317.6
+38	North Dakota	ALDICARB	2002	kg										24730
+38	North Dakota	ALDICARB	2003	kg										42385
+38	North Dakota	ALDICARB	2004	kg										13500.1
+38	North Dakota	ALDICARB	2005	kg										24536
+38	North Dakota	ALDICARB	2006	kg					918.3					11497.2
+38	North Dakota	ALDICARB	2009	kg					759.9					
+39	Ohio	ALDICARB	2009	kg										18.7
+40	Oklahoma	ALDICARB	1992	kg				3207.6			910.1			4136.3
+40	Oklahoma	ALDICARB	1993	kg			1104.5	778.1						1912.8
+40	Oklahoma	ALDICARB	1994	kg				1997.1	62.4					11968.2
+40	Oklahoma	ALDICARB	1995	kg	304.4			4967.8	0.4					8979.7
+40	Oklahoma	ALDICARB	1996	kg				4322.7	315.2		5475.6		959.3	8563.3
+40	Oklahoma	ALDICARB	1997	kg				2995.5						1735.1
+40	Oklahoma	ALDICARB	1998	kg				3377.2			637.9			3707.7
+40	Oklahoma	ALDICARB	1999	kg				3169.1						3730.4
+40	Oklahoma	ALDICARB	2000	kg				2415.8						3938.8
+40	Oklahoma	ALDICARB	2001	kg				2485.3			27167.9			1479.9
+40	Oklahoma	ALDICARB	2002	kg				3776.6						2460.9
+40	Oklahoma	ALDICARB	2003	kg				1757.7						2583.8
+40	Oklahoma	ALDICARB	2004	kg				1392.7						1333.3
+40	Oklahoma	ALDICARB	2005	kg				1693.4						1040.7
+40	Oklahoma	ALDICARB	2006	kg				1574.3			997.7			3892.8
+40	Oklahoma	ALDICARB	2007	kg				7307.2			747.5			2438.1
+40	Oklahoma	ALDICARB	2008	kg				1612.1						1934.8
+40	Oklahoma	ALDICARB	2009	kg				20951.1			4627.4			2421.6
+40	Oklahoma	ALDICARB	2010	kg				26647.3			9367.6			1693.6
+40	Oklahoma	ALDICARB	2011	kg				28218.9	6					1403.5
+40	Oklahoma	ALDICARB	2012	kg				267.2						460.8
+40	Oklahoma	ALDICARB	2013	kg				261.8						
+41	Oregon	ALDICARB	1992	kg					5770.8					715.3
+41	Oregon	ALDICARB	1993	kg					43750.2					730.7
+41	Oregon	ALDICARB	1994	kg					8082					2071.4
+41	Oregon	ALDICARB	1995	kg					3108.5					8351
+41	Oregon	ALDICARB	1996	kg					59563.6					9387.4
+41	Oregon	ALDICARB	1997	kg					6054					1440.2
+41	Oregon	ALDICARB	1998	kg					27603.7					3967
+41	Oregon	ALDICARB	1999	kg					94015.5					3152.6
+41	Oregon	ALDICARB	2000	kg					27367.2					3306.4
+41	Oregon	ALDICARB	2001	kg					7956.3					1395.4
+41	Oregon	ALDICARB	2002	kg					10265.9					5902.5
+41	Oregon	ALDICARB	2003	kg					21781.1					4516.4
+41	Oregon	ALDICARB	2004	kg					40682.7					23291.9
+41	Oregon	ALDICARB	2005	kg					19481.5					6661.4
+41	Oregon	ALDICARB	2006	kg					12172.1					4258.4
+41	Oregon	ALDICARB	2007	kg					16737.6					5057.1
+41	Oregon	ALDICARB	2008	kg					18907.9					724.4
+41	Oregon	ALDICARB	2009	kg					15625.3					58.3
+41	Oregon	ALDICARB	2010	kg					19173.5					1573
+41	Oregon	ALDICARB	2011	kg					2365					1064.4
+42	Pennsylvania	ALDICARB	1993	kg			1770.2							1430.3
+42	Pennsylvania	ALDICARB	1996	kg					61.9					
+42	Pennsylvania	ALDICARB	1997	kg					458.7					
+45	South Carolina	ALDICARB	1992	kg	314.3	6510.9		32370.3			2511.5			2365.4
+45	South Carolina	ALDICARB	1993	kg	3759.8	11233.9		29477.8			683.8			4456.2
+45	South Carolina	ALDICARB	1994	kg	4544.5	8622.1		23590.7			100.1			20297.9
+45	South Carolina	ALDICARB	1995	kg	3061.2	71053.8	1669.4	57283.2			738.5		2622.9	4176
+45	South Carolina	ALDICARB	1996	kg		36424	1402.5	63307.6	110.1		1652.2			23414.3
+45	South Carolina	ALDICARB	1997	kg	5460.9	19151.7		76619.3			680.5			3298.4
+45	South Carolina	ALDICARB	1998	kg				40743.6	49.2		5793.5			5192.1
+45	South Carolina	ALDICARB	1999	kg				63333.4	6.1		2159.9			4035.8
+45	South Carolina	ALDICARB	2000	kg				47398.5	23.3					2832.5
+45	South Carolina	ALDICARB	2001	kg				24242.6			24.7			3447.2
+45	South Carolina	ALDICARB	2002	kg				61993.7			454.3			11560.4
+45	South Carolina	ALDICARB	2003	kg				43738	76.5		124.9			5445.6
+45	South Carolina	ALDICARB	2004	kg		4542.1		75237.5	19.2		103.6			6317.8
+45	South Carolina	ALDICARB	2005	kg		25187.1		75681.3	28		72.1			8969.7
+45	South Carolina	ALDICARB	2006	kg				33528.1	177.5		338.1			20203.5
+45	South Carolina	ALDICARB	2007	kg				39757.9			313.6			12087.9
+45	South Carolina	ALDICARB	2008	kg				30584.3			65.4			11353.8
+45	South Carolina	ALDICARB	2009	kg		39372.3		31485.7			1954.5			9156
+45	South Carolina	ALDICARB	2010	kg		28963.8		46392.7			86.6			10127.3
+45	South Carolina	ALDICARB	2011	kg				26770.6						7772
+45	South Carolina	ALDICARB	2012	kg		47245.2		474.5						5561.7
+45	South Carolina	ALDICARB	2016	kg				633.8						
+45	South Carolina	ALDICARB	2017	kg				20721.9						
+46	South Dakota	ALDICARB	1993	kg					25.2					
+46	South Dakota	ALDICARB	1995	kg	31.6									
+46	South Dakota	ALDICARB	1997	kg	38562.2									
+46	South Dakota	ALDICARB	2001	kg					39.1					
+47	Tennessee	ALDICARB	1992	kg		1637.7		60535			54.7			5770.4
+47	Tennessee	ALDICARB	1993	kg				27233.7						6723.6
+47	Tennessee	ALDICARB	1994	kg		170.1		36241.9						139.2
+47	Tennessee	ALDICARB	1995	kg		176.3		58556.8			126.8			1271.6
+47	Tennessee	ALDICARB	1996	kg				50061.3						12467.7
+47	Tennessee	ALDICARB	1997	kg	382.1	6287.1		33429.5						1767.7
+47	Tennessee	ALDICARB	1998	kg				7855.2						1162.2
+47	Tennessee	ALDICARB	1999	kg				53054.1						677.6
+47	Tennessee	ALDICARB	2000	kg				47445.2						
+47	Tennessee	ALDICARB	2001	kg				18038.9	14.6		15.8			
+47	Tennessee	ALDICARB	2002	kg				37302.4						5118.8
+47	Tennessee	ALDICARB	2003	kg				28662						327
+47	Tennessee	ALDICARB	2004	kg				31113.3						627.3
+47	Tennessee	ALDICARB	2005	kg				7503.7						370.3
+47	Tennessee	ALDICARB	2006	kg				6167.8						113.3
+47	Tennessee	ALDICARB	2007	kg				13967.8						458.2
+47	Tennessee	ALDICARB	2008	kg				4104.3			7.6			
+47	Tennessee	ALDICARB	2009	kg		3844.7		4002.1						724.1
+47	Tennessee	ALDICARB	2010	kg		22742		19410.5						658.7
+47	Tennessee	ALDICARB	2011	kg				2789.4						
+47	Tennessee	ALDICARB	2012	kg				2069.6						
+47	Tennessee	ALDICARB	2013	kg				5450.8						
+47	Tennessee	ALDICARB	2017	kg				169.3						
+48	Texas	ALDICARB	1992	kg				153330.2			16991.9			22279.5
+48	Texas	ALDICARB	1993	kg			1824.3	123751.8			13282.5			28641.6
+48	Texas	ALDICARB	1994	kg				158811.8	2833.6		18944.1			26505.1
+48	Texas	ALDICARB	1995	kg	2437.4	21143.4		185996.1	718.2		20871.6			22346.1
+48	Texas	ALDICARB	1996	kg				157375.5	78		48028.8		12889.2	41492.6
+48	Texas	ALDICARB	1997	kg				190867.5			47659.3			18859.1
+48	Texas	ALDICARB	1998	kg				180672.3			39045.3			7660.1
+48	Texas	ALDICARB	1999	kg				146093			66221.7			17767.9
+48	Texas	ALDICARB	2000	kg				239204.3			32439.7			68487
+48	Texas	ALDICARB	2001	kg				128886.4			41501.7			17022.1
+48	Texas	ALDICARB	2002	kg				151265.5			15728.2			25219.8
+48	Texas	ALDICARB	2003	kg				128944.4			19490.4			10061.2
+48	Texas	ALDICARB	2004	kg				287740.1			19032.8			13169.4
+48	Texas	ALDICARB	2005	kg				254155.4			10281.3			9228.1
+48	Texas	ALDICARB	2006	kg				140548.1			10238			9597
+48	Texas	ALDICARB	2007	kg				212424.6			7312.9			12389.4
+48	Texas	ALDICARB	2008	kg				198761.9			7482.9			9835.2
+48	Texas	ALDICARB	2009	kg				246924.8			25613.7			4372.2
+48	Texas	ALDICARB	2010	kg				245957.8			617.4			4705.2
+48	Texas	ALDICARB	2011	kg				143556.8	948.1		12678.4			2159.7
+48	Texas	ALDICARB	2012	kg				32888.3						393.9
+48	Texas	ALDICARB	2013	kg				9450.1						
+48	Texas	ALDICARB	2017	kg				4799.6						
+49	Utah	ALDICARB	1992	kg					570.3					
+49	Utah	ALDICARB	1993	kg					489					
+49	Utah	ALDICARB	1994	kg					187					
+49	Utah	ALDICARB	1995	kg					27.2					
+49	Utah	ALDICARB	1996	kg					140.6					
+49	Utah	ALDICARB	1997	kg					52.2					
+49	Utah	ALDICARB	1998	kg					126.9					
+49	Utah	ALDICARB	1999	kg					91.5					
+49	Utah	ALDICARB	2000	kg					118.7					
+49	Utah	ALDICARB	2001	kg					47.5					
+49	Utah	ALDICARB	2002	kg					76					
+49	Utah	ALDICARB	2003	kg					187.7					
+49	Utah	ALDICARB	2004	kg					79.9					
+49	Utah	ALDICARB	2005	kg					14.9					
+49	Utah	ALDICARB	2006	kg					41.1					
+49	Utah	ALDICARB	2007	kg					20.2					
+49	Utah	ALDICARB	2008	kg					57.3					
+49	Utah	ALDICARB	2009	kg					60.3					
+49	Utah	ALDICARB	2010	kg					76.5					
+49	Utah	ALDICARB	2011	kg					16.2					
+51	Virginia	ALDICARB	1992	kg	328.7	7318.8		4990.6	5.6					30236.4
+51	Virginia	ALDICARB	1993	kg	14234.1	36743.6		9772.4						43110.9
+51	Virginia	ALDICARB	1994	kg	3935.6	6672.8		13862.8						55743.1
+51	Virginia	ALDICARB	1995	kg	729.3	1525.7		23404.9	9.8					45104.1
+51	Virginia	ALDICARB	1996	kg	3117.8	6969.2		24176.7						53077.8
+51	Virginia	ALDICARB	1997	kg		8136.9		22553.6						26001.3
+51	Virginia	ALDICARB	1998	kg				20891.5	0.1					21607.6
+51	Virginia	ALDICARB	1999	kg				23978.3	2.8					32908.3
+51	Virginia	ALDICARB	2000	kg				17753.9	0.5					27707.9
+51	Virginia	ALDICARB	2001	kg				11222.6	6					29288.6
+51	Virginia	ALDICARB	2002	kg				11951.4						41026.5
+51	Virginia	ALDICARB	2003	kg				18106.6	17					24384.7
+51	Virginia	ALDICARB	2004	kg		4408.2		22686						16883.3
+51	Virginia	ALDICARB	2005	kg		5221.5		17971.8	3.9					9770
+51	Virginia	ALDICARB	2006	kg				25445.7						8713.4
+51	Virginia	ALDICARB	2007	kg				12570.7						9956.8
+51	Virginia	ALDICARB	2008	kg				6635.9						14692
+51	Virginia	ALDICARB	2009	kg		72110.4		6928.7						4584.6
+51	Virginia	ALDICARB	2010	kg		8907.9		7054.8						6148
+51	Virginia	ALDICARB	2011	kg				2879.1						6694.1
+51	Virginia	ALDICARB	2012	kg				211.3						885.5
+51	Virginia	ALDICARB	2017	kg				1776.1						
+53	Washington	ALDICARB	1992	kg					14599.1					4889.6
+53	Washington	ALDICARB	1993	kg					67763.6					1634.8
+53	Washington	ALDICARB	1994	kg					16162.9					5428.8
+53	Washington	ALDICARB	1995	kg					3232.6					4144
+53	Washington	ALDICARB	1996	kg					255280					4684.8
+53	Washington	ALDICARB	1997	kg					129964.1					2302.6
+53	Washington	ALDICARB	1998	kg					108732.8					1209.5
+53	Washington	ALDICARB	1999	kg					122908					3571.8
+53	Washington	ALDICARB	2000	kg					95623.6					5913.8
+53	Washington	ALDICARB	2001	kg					102337.2					4724.6
+53	Washington	ALDICARB	2002	kg					104163.3					9660
+53	Washington	ALDICARB	2003	kg					103903.7					8796.5
+53	Washington	ALDICARB	2004	kg					131480.2					18683.5
+53	Washington	ALDICARB	2005	kg					119381.1					10312.3
+53	Washington	ALDICARB	2006	kg					140931.8					8306.6
+53	Washington	ALDICARB	2007	kg					86067.8					10232
+53	Washington	ALDICARB	2008	kg					108440.1					682
+53	Washington	ALDICARB	2009	kg					85322.4					239.5
+53	Washington	ALDICARB	2010	kg					62014.1					496
+53	Washington	ALDICARB	2011	kg										156.6
+55	Wisconsin	ALDICARB	1992	kg	3047.5									
+55	Wisconsin	ALDICARB	1998	kg					2724.8					
+56	Wyoming	ALDICARB	1992	kg	146.1				396.4					28542.9
+56	Wyoming	ALDICARB	1993	kg					438.1					24284.8
+56	Wyoming	ALDICARB	1994	kg					1549			365.7		17177
+56	Wyoming	ALDICARB	1995	kg	133.4				288.4					5346.9
+56	Wyoming	ALDICARB	1996	kg					4367.5					18530.5
+56	Wyoming	ALDICARB	1997	kg					0					11140
+56	Wyoming	ALDICARB	1998	kg					31.7					6392.6
+56	Wyoming	ALDICARB	1999	kg					0.2					6842.4
+56	Wyoming	ALDICARB	2000	kg					471.8					7461.4
+56	Wyoming	ALDICARB	2001	kg					839.8					4580.7
+56	Wyoming	ALDICARB	2002	kg					988.4					2593.7
+56	Wyoming	ALDICARB	2003	kg					0.1					1443.5
+56	Wyoming	ALDICARB	2004	kg					2861.9					1035.2
+56	Wyoming	ALDICARB	2005	kg					0					4228.5
+56	Wyoming	ALDICARB	2006	kg					0.1					1570.3
+56	Wyoming	ALDICARB	2007	kg					0.2					203.6
+56	Wyoming	ALDICARB	2008	kg					0.1					163.8
+56	Wyoming	ALDICARB	2009	kg					0.2					366.4
+56	Wyoming	ALDICARB	2010	kg					0.3					8338.5
+56	Wyoming	ALDICARB	2011	kg					0.3					7004.6

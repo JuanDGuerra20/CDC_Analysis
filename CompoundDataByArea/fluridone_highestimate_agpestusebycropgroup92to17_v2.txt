@@ -1,0 +1,20 @@
+01	Alabama	FLURIDONE	2016	kg				62.3						
+01	Alabama	FLURIDONE	2017	kg				356.2						
+05	Arkansas	FLURIDONE	2016	kg				9342.4						
+05	Arkansas	FLURIDONE	2017	kg				222.9						
+06	California	FLURIDONE	2012	kg							0.1			
+12	Florida	FLURIDONE	2017	kg				158.5						
+13	Georgia	FLURIDONE	2017	kg				1766.2						
+22	Louisiana	FLURIDONE	2016	kg				1748.4						
+22	Louisiana	FLURIDONE	2017	kg				627.7						
+24	Maryland	FLURIDONE	1994	kg		4419.7								
+28	Mississippi	FLURIDONE	2016	kg				4612.6						
+28	Mississippi	FLURIDONE	2017	kg				700.4						
+29	Missouri	FLURIDONE	2016	kg				7115.6						
+37	North Carolina	FLURIDONE	2015	kg				13038						
+37	North Carolina	FLURIDONE	2017	kg				6446.5						
+41	Oregon	FLURIDONE	1994	kg									610.7	
+42	Pennsylvania	FLURIDONE	1994	kg		14014.3								
+47	Tennessee	FLURIDONE	2016	kg				2273.5						
+47	Tennessee	FLURIDONE	2017	kg				440.7						
+53	Washington	FLURIDONE	1994	kg									105.3	

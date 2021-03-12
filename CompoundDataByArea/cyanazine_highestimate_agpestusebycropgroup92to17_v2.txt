@@ -1,0 +1,630 @@
+01	Alabama	CYANAZINE	1992	kg	6896.2	111.1		51180						
+01	Alabama	CYANAZINE	1993	kg	10079.7			53783.5						
+01	Alabama	CYANAZINE	1994	kg	3572.4			68817.8					171.5	151.9
+01	Alabama	CYANAZINE	1995	kg	4213.2			106423.2						
+01	Alabama	CYANAZINE	1996	kg	2451.3			55838						
+01	Alabama	CYANAZINE	1997	kg	2522.4			35792.8						
+01	Alabama	CYANAZINE	1998	kg	55983.1			19224						
+01	Alabama	CYANAZINE	1999	kg	7180.5			24181.4						
+01	Alabama	CYANAZINE	2000	kg	2641.9			13610.5						
+01	Alabama	CYANAZINE	2001	kg	2645.5			15692.9						
+01	Alabama	CYANAZINE	2002	kg	2139.2			12052.3						
+01	Alabama	CYANAZINE	2004	kg				2002.6						
+04	Arizona	CYANAZINE	1992	kg	7079.3			24305.7	682.6					
+04	Arizona	CYANAZINE	1993	kg	1585.1			13040.3	323.5					
+04	Arizona	CYANAZINE	1994	kg	1094.6			58982.3	411.4					
+04	Arizona	CYANAZINE	1995	kg	4616.3			13288.5						2266.1
+04	Arizona	CYANAZINE	1996	kg	1948			2741.1	77.1					
+04	Arizona	CYANAZINE	1997	kg	7796.8			16403.7	21.8					
+04	Arizona	CYANAZINE	1998	kg	2149.4			18747.4	144					
+04	Arizona	CYANAZINE	1999	kg	145.7			3155.4						
+04	Arizona	CYANAZINE	2000	kg				1289						
+04	Arizona	CYANAZINE	2001	kg				1242.5						2146.4
+04	Arizona	CYANAZINE	2002	kg				33013.8						
+04	Arizona	CYANAZINE	2003	kg	52.9									
+05	Arkansas	CYANAZINE	1992	kg	12554.2	1482.3		225247.3						254.4
+05	Arkansas	CYANAZINE	1993	kg	2020.7			144009.3						
+05	Arkansas	CYANAZINE	1994	kg	5964.5			170554.9						1677.8
+05	Arkansas	CYANAZINE	1995	kg	5191.5		1251.4	277475	29.8					
+05	Arkansas	CYANAZINE	1996	kg	2253		147.7	154099	12.4		0.1			
+05	Arkansas	CYANAZINE	1997	kg	3227.3			140748.4					606.8	
+05	Arkansas	CYANAZINE	1998	kg	4597.5			81440.9						300.3
+05	Arkansas	CYANAZINE	1999	kg	1522			105026						
+05	Arkansas	CYANAZINE	2000	kg	446.8			36576						
+05	Arkansas	CYANAZINE	2001	kg				4859.2						252.7
+05	Arkansas	CYANAZINE	2002	kg				11752						
+05	Arkansas	CYANAZINE	2003	kg				10887.1						
+05	Arkansas	CYANAZINE	2004	kg				32961.5						
+05	Arkansas	CYANAZINE	2006	kg				2315.7						
+05	Arkansas	CYANAZINE	2010	kg				546.7						
+06	California	CYANAZINE	1992	kg	18983.7		34.7	137126.6						1639.1
+06	California	CYANAZINE	1993	kg	24870.8		73.5	201758.6						3775.2
+06	California	CYANAZINE	1994	kg	20321.2		192.7	214699						6374.3
+06	California	CYANAZINE	1995	kg	18388.7		119.5	264337.8						9784.7
+06	California	CYANAZINE	1996	kg	26200.2		20.5	224483.7						729
+06	California	CYANAZINE	1997	kg	20637		93.4	195149.2						241.1
+06	California	CYANAZINE	1998	kg	13595.8			110022.9	156.2			180.5	18.6	483.8
+06	California	CYANAZINE	1999	kg	10702.8		70	69783.9	160.4			52.4		340.7
+06	California	CYANAZINE	2000	kg	4198.3			17934.3	8.5			48.7		274
+06	California	CYANAZINE	2001	kg	981.4			6707.4			70.1			54.1
+06	California	CYANAZINE	2002	kg	1456.1			1651.3						
+06	California	CYANAZINE	2003	kg	3.9						12.2			
+06	California	CYANAZINE	2004	kg	3.5									
+06	California	CYANAZINE	2005	kg	3.2									
+06	California	CYANAZINE	2011	kg							0.2			
+06	California	CYANAZINE	2012	kg							0			
+08	Colorado	CYANAZINE	1992	kg	62172.8				1532.7				131.8	8336.1
+08	Colorado	CYANAZINE	1993	kg	108290.3								193.3	5700.5
+08	Colorado	CYANAZINE	1994	kg	158227				297.3					1218.4
+08	Colorado	CYANAZINE	1995	kg	56673				618					20319.7
+08	Colorado	CYANAZINE	1996	kg	39901.3				146.8				25421.1	30335.5
+08	Colorado	CYANAZINE	1997	kg	41923.9				5130.2					4694.4
+08	Colorado	CYANAZINE	1998	kg	53249.8				4150.8					12648.8
+08	Colorado	CYANAZINE	1999	kg	30477.9				835					10135.1
+08	Colorado	CYANAZINE	2000	kg	9376.5									2274.2
+08	Colorado	CYANAZINE	2001	kg	8468.2									
+08	Colorado	CYANAZINE	2002	kg	2796.2									
+08	Colorado	CYANAZINE	2003	kg	463.1									732.8
+08	Colorado	CYANAZINE	2004	kg	1324.1									
+09	Connecticut	CYANAZINE	1992	kg	1225.9				1747.2					
+09	Connecticut	CYANAZINE	1993	kg	7643.6				204.1		19.1			
+09	Connecticut	CYANAZINE	1994	kg	3241				13.6					
+09	Connecticut	CYANAZINE	1995	kg	232.5				269.8					
+09	Connecticut	CYANAZINE	1996	kg	1133.3				207.6					
+09	Connecticut	CYANAZINE	1997	kg	3452.2				805					
+09	Connecticut	CYANAZINE	1998	kg	4982.8				46.7					
+09	Connecticut	CYANAZINE	1999	kg	7067.5				72.6					
+09	Connecticut	CYANAZINE	2000	kg	1674.5				26.1					
+09	Connecticut	CYANAZINE	2001	kg	2954.8				402.5					
+09	Connecticut	CYANAZINE	2002	kg	308.3									
+09	Connecticut	CYANAZINE	2003	kg					224.7					
+09	Connecticut	CYANAZINE	2004	kg					378					
+10	Delaware	CYANAZINE	1992	kg	26641.7				95.1					
+10	Delaware	CYANAZINE	1993	kg	37725.9				2924.2					
+10	Delaware	CYANAZINE	1994	kg	41716				3355.3					
+10	Delaware	CYANAZINE	1995	kg	9440.4				821.1					
+10	Delaware	CYANAZINE	1996	kg	12586.9				1944.2					
+10	Delaware	CYANAZINE	1997	kg	6628.2				3791.3					
+10	Delaware	CYANAZINE	1998	kg	2602.7				2815.3					
+10	Delaware	CYANAZINE	1999	kg	2318.5				2628.4					
+10	Delaware	CYANAZINE	2000	kg	6558.8				600.9					
+10	Delaware	CYANAZINE	2001	kg					676.4					
+10	Delaware	CYANAZINE	2002	kg	1998.6				2364.5					
+10	Delaware	CYANAZINE	2003	kg					439					
+10	Delaware	CYANAZINE	2004	kg					209.6					
+10	Delaware	CYANAZINE	2010	kg	14279.9									
+12	Florida	CYANAZINE	1992	kg	377.8			1080.3						
+12	Florida	CYANAZINE	1993	kg	2422.7			3679.7						
+12	Florida	CYANAZINE	1994	kg	2815.1			4734.6						3225.1
+12	Florida	CYANAZINE	1995	kg	81.9			8864.1						15.2
+12	Florida	CYANAZINE	1996	kg	889			8465.4						27.8
+12	Florida	CYANAZINE	1997	kg	5045.5			11596						
+12	Florida	CYANAZINE	1998	kg	5613.3			2777.7						
+12	Florida	CYANAZINE	1999	kg				6789.2						
+12	Florida	CYANAZINE	2000	kg	62.6			3963.4						
+12	Florida	CYANAZINE	2001	kg	1278.2			3963.2						
+12	Florida	CYANAZINE	2002	kg				1401.8						
+12	Florida	CYANAZINE	2004	kg				17.7						
+12	Florida	CYANAZINE	2005	kg				59.8						
+13	Georgia	CYANAZINE	1992	kg	17567.2	33.2		23017.8					709.5	
+13	Georgia	CYANAZINE	1993	kg	17216.2			46303.1	32.9					
+13	Georgia	CYANAZINE	1994	kg	5234			112063.2					2.2	209.2
+13	Georgia	CYANAZINE	1995	kg	4798.3			168997.4	15.3					251.2
+13	Georgia	CYANAZINE	1996	kg	5170.7			199875.5	14					202.4
+13	Georgia	CYANAZINE	1997	kg	5598.6			240738.6	37.8					
+13	Georgia	CYANAZINE	1998	kg	37072.7			142447.5	85.3					
+13	Georgia	CYANAZINE	1999	kg	6777.8			62343.7	30					
+13	Georgia	CYANAZINE	2000	kg	3631.3			62380.5	9.7					
+13	Georgia	CYANAZINE	2001	kg	14224.6			31311.3						
+13	Georgia	CYANAZINE	2002	kg	3007.6			13712.4	19.1					
+13	Georgia	CYANAZINE	2003	kg				10952.5						
+13	Georgia	CYANAZINE	2004	kg				631.7						
+13	Georgia	CYANAZINE	2005	kg				34661						
+16	Idaho	CYANAZINE	1992	kg	7200.7				2151.2					
+16	Idaho	CYANAZINE	1993	kg	1727.8									
+16	Idaho	CYANAZINE	1994	kg	9366.4				62.5					
+16	Idaho	CYANAZINE	1995	kg	9627.6				3580.9					
+16	Idaho	CYANAZINE	1996	kg	843.9		923.4							
+16	Idaho	CYANAZINE	1997	kg	9209.8				14966.8					
+16	Idaho	CYANAZINE	1998	kg	14869.5				611.7					
+16	Idaho	CYANAZINE	1999	kg	8127.8				6157.2					
+16	Idaho	CYANAZINE	2000	kg	3201.7				146.9					
+17	Illinois	CYANAZINE	1992	kg	2595559.3	127207.5	16241.1		4491.3					1997.9
+17	Illinois	CYANAZINE	1993	kg	3016516.1	151634.2			9332.4			5145.9	614.6	
+17	Illinois	CYANAZINE	1994	kg	3916215.7				16746.7				414.6	
+17	Illinois	CYANAZINE	1995	kg	2696226.5		1419.6		10833.8					
+17	Illinois	CYANAZINE	1996	kg	2191838				31848.7				161.8	2744.2
+17	Illinois	CYANAZINE	1997	kg	2064835				18259.5				562.6	
+17	Illinois	CYANAZINE	1998	kg	1586707.3				7052.9					
+17	Illinois	CYANAZINE	1999	kg	370662.3				1058.1					
+17	Illinois	CYANAZINE	2000	kg	27781.9				1642.1					
+17	Illinois	CYANAZINE	2001	kg	41596.9				2438.3					155.4
+17	Illinois	CYANAZINE	2002	kg	23403				697.7					
+17	Illinois	CYANAZINE	2003	kg	32225.2				313.5					
+17	Illinois	CYANAZINE	2004	kg	27485.5				42.9					
+17	Illinois	CYANAZINE	2005	kg	4212.4									
+17	Illinois	CYANAZINE	2007	kg					196.1					
+18	Indiana	CYANAZINE	1992	kg	1219235.3	32571.9	9695.5		4597		0			460.3
+18	Indiana	CYANAZINE	1993	kg	845947.2	39464.9			1022.6			88464.4	45.9	
+18	Indiana	CYANAZINE	1994	kg	1174797.7				5813.9					
+18	Indiana	CYANAZINE	1995	kg	740226.4				1705.5					
+18	Indiana	CYANAZINE	1996	kg	873033.2				1113.5					123
+18	Indiana	CYANAZINE	1997	kg	876655.9				1424.7					
+18	Indiana	CYANAZINE	1998	kg	894836.1				2064.1					
+18	Indiana	CYANAZINE	1999	kg	108050.1				849.8					
+18	Indiana	CYANAZINE	2000	kg	61759.2				522.7					
+18	Indiana	CYANAZINE	2001	kg	45109.1				192.8					
+18	Indiana	CYANAZINE	2002	kg	12341.3				312.3					
+18	Indiana	CYANAZINE	2003	kg	19761.2				82.8					
+18	Indiana	CYANAZINE	2004	kg	24783.7				9.4					
+18	Indiana	CYANAZINE	2008	kg	511502.6									
+19	Iowa	CYANAZINE	1992	kg	3380390.9	109077.7			1285.5					795
+19	Iowa	CYANAZINE	1993	kg	3134876.6	2813.1			1072.1			7168.9		
+19	Iowa	CYANAZINE	1994	kg	3167804.7				2239.7					
+19	Iowa	CYANAZINE	1995	kg	1832078.8				4155.9					39.9
+19	Iowa	CYANAZINE	1996	kg	1623149.2				1030.1					
+19	Iowa	CYANAZINE	1997	kg	1432761.4				857.8					9.5
+19	Iowa	CYANAZINE	1998	kg	856614.6				1938.3					
+19	Iowa	CYANAZINE	1999	kg	480886.3				463.2					
+19	Iowa	CYANAZINE	2000	kg	74225.3				328.9					
+19	Iowa	CYANAZINE	2001	kg	34508.9				125.1					
+19	Iowa	CYANAZINE	2002	kg	28458.6				185.5					
+19	Iowa	CYANAZINE	2003	kg	36082.4				127					
+19	Iowa	CYANAZINE	2004	kg	20423.5				15.6					
+19	Iowa	CYANAZINE	2005	kg	6422.9				16.2					
+19	Iowa	CYANAZINE	2006	kg	6219.6									
+19	Iowa	CYANAZINE	2007	kg					15.8					
+20	Kansas	CYANAZINE	1992	kg	140260.6	1306.2		219.8				481.8		32931.5
+20	Kansas	CYANAZINE	1993	kg	363286.8			26.6					613	43914.8
+20	Kansas	CYANAZINE	1994	kg	228063.5			152.2	159.8					49969.6
+20	Kansas	CYANAZINE	1995	kg	96341.3			122						246507.9
+20	Kansas	CYANAZINE	1996	kg	276981.4			1617					11087.3	399127.8
+20	Kansas	CYANAZINE	1997	kg	144677.8			427.9						59624.7
+20	Kansas	CYANAZINE	1998	kg	55895.8			3284.2	1.3					236428.8
+20	Kansas	CYANAZINE	1999	kg	128845.3			192.6						194844.6
+20	Kansas	CYANAZINE	2000	kg	32420.3			346						24214.2
+20	Kansas	CYANAZINE	2001	kg	9104.9			1230.9						
+20	Kansas	CYANAZINE	2002	kg	18445.5									
+20	Kansas	CYANAZINE	2003	kg										12803.7
+20	Kansas	CYANAZINE	2004	kg	4840.3									4725.3
+21	Kentucky	CYANAZINE	1992	kg	108324.6				908.4					48.8
+21	Kentucky	CYANAZINE	1993	kg	57473				197.3			75840.8		
+21	Kentucky	CYANAZINE	1994	kg	143465.2				228.8			73332.1		
+21	Kentucky	CYANAZINE	1995	kg	106263		603.3		363.8					
+21	Kentucky	CYANAZINE	1996	kg	66544.7				162.9					
+21	Kentucky	CYANAZINE	1997	kg	114580.5				566.2				439.3	
+21	Kentucky	CYANAZINE	1998	kg	66170.1				489.5					
+21	Kentucky	CYANAZINE	1999	kg	28742.8				255.2					
+21	Kentucky	CYANAZINE	2000	kg	16681.5				87.5					
+21	Kentucky	CYANAZINE	2001	kg	3628.9				99.2					42.2
+21	Kentucky	CYANAZINE	2002	kg	4705				19.6					
+21	Kentucky	CYANAZINE	2003	kg	3009.3				7.9					
+21	Kentucky	CYANAZINE	2004	kg	1527.5				0.6					
+21	Kentucky	CYANAZINE	2008	kg	143222.6									
+22	Louisiana	CYANAZINE	1992	kg	8588.5	134.7		160793.5						
+22	Louisiana	CYANAZINE	1993	kg	11589.4			140383.1						
+22	Louisiana	CYANAZINE	1994	kg	68046			141873.3						2284
+22	Louisiana	CYANAZINE	1995	kg	4696.7			227791.1						1348
+22	Louisiana	CYANAZINE	1996	kg	15920.3			157322.5			0.4			
+22	Louisiana	CYANAZINE	1997	kg	9344.7			56286.3						141.5
+22	Louisiana	CYANAZINE	1998	kg	4344.6			117852.1					12517.6	3048.9
+22	Louisiana	CYANAZINE	1999	kg				23476.4						
+22	Louisiana	CYANAZINE	2000	kg	1602.1			17052.7						927.9
+22	Louisiana	CYANAZINE	2001	kg				14898.6						
+22	Louisiana	CYANAZINE	2002	kg				4728.7						
+22	Louisiana	CYANAZINE	2003	kg				4787.1						
+22	Louisiana	CYANAZINE	2004	kg				5506.6						
+22	Louisiana	CYANAZINE	2006	kg				4705.3						
+22	Louisiana	CYANAZINE	2010	kg				946.2						
+23	Maine	CYANAZINE	1992	kg	1937.9				4734.6					
+23	Maine	CYANAZINE	1993	kg	3051.4				2803.8					
+23	Maine	CYANAZINE	1994	kg	3788.7				1625.9					
+23	Maine	CYANAZINE	1995	kg	6531.3				346.7					
+23	Maine	CYANAZINE	1996	kg	5129.1				299.7					
+23	Maine	CYANAZINE	1997	kg	161.7				350.6					
+23	Maine	CYANAZINE	1998	kg	1155.3				103.4					
+23	Maine	CYANAZINE	1999	kg	7992				98.5					
+23	Maine	CYANAZINE	2000	kg	218				83.3					
+23	Maine	CYANAZINE	2001	kg	41.4				147.9					
+23	Maine	CYANAZINE	2002	kg	268.5									
+23	Maine	CYANAZINE	2003	kg					94.3					
+23	Maine	CYANAZINE	2004	kg					159.5					
+24	Maryland	CYANAZINE	1992	kg	37113.1				251.9					
+24	Maryland	CYANAZINE	1993	kg	41402.3				3521.9					20.7
+24	Maryland	CYANAZINE	1994	kg	79013				3473.9					
+24	Maryland	CYANAZINE	1995	kg	9768.9				3610.1					
+24	Maryland	CYANAZINE	1996	kg	52094.8				2588.1			1237.9	49.5	
+24	Maryland	CYANAZINE	1997	kg	59538.7				4208.8					
+24	Maryland	CYANAZINE	1998	kg	16399.4				3314.7					
+24	Maryland	CYANAZINE	1999	kg	10090.3				2735.3					
+24	Maryland	CYANAZINE	2000	kg	8286.1				838.4					
+24	Maryland	CYANAZINE	2001	kg	315.5				770.4					
+24	Maryland	CYANAZINE	2002	kg	5806				1399.8					
+24	Maryland	CYANAZINE	2003	kg	632.1				680.6					
+24	Maryland	CYANAZINE	2004	kg					231.8					
+24	Maryland	CYANAZINE	2010	kg	33743.9									
+25	Massachusetts	CYANAZINE	1992	kg	1909.8				601.4					
+25	Massachusetts	CYANAZINE	1993	kg	2973.3				306.5		37.9			
+25	Massachusetts	CYANAZINE	1994	kg	249.9				531.4					
+25	Massachusetts	CYANAZINE	1995	kg	161.3				289.2					
+25	Massachusetts	CYANAZINE	1996	kg	713.8				2267.9					
+25	Massachusetts	CYANAZINE	1997	kg	984.5				1194.3					
+25	Massachusetts	CYANAZINE	1998	kg	327				79.5					
+25	Massachusetts	CYANAZINE	1999	kg	1517.5				96					
+25	Massachusetts	CYANAZINE	2000	kg	1709.5				33.4					
+25	Massachusetts	CYANAZINE	2001	kg	1952				497.6					
+25	Massachusetts	CYANAZINE	2002	kg	281.3									
+25	Massachusetts	CYANAZINE	2003	kg					265.2					
+25	Massachusetts	CYANAZINE	2004	kg					440.8					
+26	Michigan	CYANAZINE	1992	kg	422573.1				3731.1		82.7		449.2	
+26	Michigan	CYANAZINE	1993	kg	487086.3				3161.7				575.1	345
+26	Michigan	CYANAZINE	1994	kg	448193.3				2319.1				20.6	
+26	Michigan	CYANAZINE	1995	kg	387358.9	1184.9	2331.6		2512.3				48.6	101.5
+26	Michigan	CYANAZINE	1996	kg	282969.2				12393.9					
+26	Michigan	CYANAZINE	1997	kg	371880.5				3698.3					
+26	Michigan	CYANAZINE	1998	kg	173916.5				1234.2					
+26	Michigan	CYANAZINE	1999	kg	65222.6				2754.1					
+26	Michigan	CYANAZINE	2000	kg	31485				587.8					
+26	Michigan	CYANAZINE	2001	kg	9634.3				709					
+26	Michigan	CYANAZINE	2002	kg	7825.7				1007.1					
+26	Michigan	CYANAZINE	2003	kg	12519.9				160.1					
+26	Michigan	CYANAZINE	2004	kg	18058.2				334					
+27	Minnesota	CYANAZINE	1992	kg	998609.4	31680.5			10976					16494.7
+27	Minnesota	CYANAZINE	1993	kg	685064.3				10813.6					
+27	Minnesota	CYANAZINE	1994	kg	956366.6				15234.9					
+27	Minnesota	CYANAZINE	1995	kg	648531.8				10175.1					
+27	Minnesota	CYANAZINE	1996	kg	477221.6				15871.4				2175.9	18853.9
+27	Minnesota	CYANAZINE	1997	kg	310702.7				12684.8					
+27	Minnesota	CYANAZINE	1998	kg	198473.5				5362.2					
+27	Minnesota	CYANAZINE	1999	kg	121139				7387.9					
+27	Minnesota	CYANAZINE	2000	kg	42710.8				4634.9					
+27	Minnesota	CYANAZINE	2001	kg	39552.2				890.2					
+27	Minnesota	CYANAZINE	2002	kg	22277.4				1512.5					
+27	Minnesota	CYANAZINE	2003	kg	28191.9				4940.2					
+27	Minnesota	CYANAZINE	2004	kg	4140.6				171.7					
+27	Minnesota	CYANAZINE	2005	kg					625.2					
+27	Minnesota	CYANAZINE	2006	kg	4290.5									
+28	Mississippi	CYANAZINE	1992	kg	23074.4	30706.2		284208.6						
+28	Mississippi	CYANAZINE	1993	kg	7709			324836.1						
+28	Mississippi	CYANAZINE	1994	kg	7440.9			242538.5						4322.9
+28	Mississippi	CYANAZINE	1995	kg	8775.7			363693.3						
+28	Mississippi	CYANAZINE	1996	kg	4616.8		16	394890.3			1.7			
+28	Mississippi	CYANAZINE	1997	kg	7072.4			256172.1						
+28	Mississippi	CYANAZINE	1998	kg	29524			167667.6						595.1
+28	Mississippi	CYANAZINE	1999	kg				111072.5						
+28	Mississippi	CYANAZINE	2000	kg				111144.4						
+28	Mississippi	CYANAZINE	2001	kg				73570						
+28	Mississippi	CYANAZINE	2002	kg				15057.8						
+28	Mississippi	CYANAZINE	2003	kg				6353.9						
+28	Mississippi	CYANAZINE	2004	kg				29167.8						
+28	Mississippi	CYANAZINE	2006	kg				3985.5						
+28	Mississippi	CYANAZINE	2010	kg				585.7						
+29	Missouri	CYANAZINE	1992	kg	621905.3	25258.8		29008.1	488.7					1334.2
+29	Missouri	CYANAZINE	1993	kg	646289	505.6		52100.9	451.5					
+29	Missouri	CYANAZINE	1994	kg	781755			42543.9	765.7					
+29	Missouri	CYANAZINE	1995	kg	316814.9		1871.5	57520.4	617.3					1115.8
+29	Missouri	CYANAZINE	1996	kg	585460.6			62377.5	341.2					
+29	Missouri	CYANAZINE	1997	kg	186004.5			36056.1	330.2				2073.3	113.3
+29	Missouri	CYANAZINE	1998	kg	368969.1			9324.9	339.2					
+29	Missouri	CYANAZINE	1999	kg	113149.4			16517.2	191.4					
+29	Missouri	CYANAZINE	2000	kg	51577.6			14501.6	147.6					
+29	Missouri	CYANAZINE	2001	kg	13046.5			3588.2	94.2					621
+29	Missouri	CYANAZINE	2002	kg	6189.2			2555.9	99.8					
+29	Missouri	CYANAZINE	2003	kg	24638.4			6572.5	41.9					
+29	Missouri	CYANAZINE	2004	kg	5306.4				4.3					170.7
+29	Missouri	CYANAZINE	2005	kg	1148.5									
+30	Montana	CYANAZINE	1992	kg	8528.5				2					10
+30	Montana	CYANAZINE	1993	kg	18155.8									
+30	Montana	CYANAZINE	1994	kg	21158.9				19.8					
+30	Montana	CYANAZINE	1995	kg	5561.5									
+30	Montana	CYANAZINE	1996	kg	8022.3		102.3							714
+30	Montana	CYANAZINE	1997	kg	7172				108.3				292	
+30	Montana	CYANAZINE	1998	kg	4615.8				11.1					
+30	Montana	CYANAZINE	1999	kg	1294.3				52.7					
+30	Montana	CYANAZINE	2000	kg	583.6									
+30	Montana	CYANAZINE	2001	kg	604.1									
+30	Montana	CYANAZINE	2002	kg	254.1									0.8
+31	Nebraska	CYANAZINE	1992	kg	1059117.2	30366.4			754.3			1896.6	402	65058.4
+31	Nebraska	CYANAZINE	1993	kg	1224372.1	1105.6								87110.4
+31	Nebraska	CYANAZINE	1994	kg	1538316.4									98038.9
+31	Nebraska	CYANAZINE	1995	kg	1310534.2				10.1					57058
+31	Nebraska	CYANAZINE	1996	kg	740812.6								21988.6	37738.9
+31	Nebraska	CYANAZINE	1997	kg	773061.3				142.4					16250.8
+31	Nebraska	CYANAZINE	1998	kg	371423.4				8.4					55274.9
+31	Nebraska	CYANAZINE	1999	kg	305431.5									11278.6
+31	Nebraska	CYANAZINE	2000	kg	95082.3									9903.8
+31	Nebraska	CYANAZINE	2001	kg	54244.9									
+31	Nebraska	CYANAZINE	2002	kg	53764									
+31	Nebraska	CYANAZINE	2003	kg	12609.7									1997.2
+31	Nebraska	CYANAZINE	2004	kg	10852.2									1266.8
+32	Nevada	CYANAZINE	1992	kg	103				0					
+32	Nevada	CYANAZINE	1993	kg	24.7									
+32	Nevada	CYANAZINE	1994	kg	7.4				0					
+32	Nevada	CYANAZINE	1995	kg	50.6									
+32	Nevada	CYANAZINE	1996	kg	11									
+32	Nevada	CYANAZINE	1997	kg	29.6				1.6					
+32	Nevada	CYANAZINE	1998	kg	255.2				0.2					
+32	Nevada	CYANAZINE	1999	kg	111.1				2.2					
+32	Nevada	CYANAZINE	2000	kg	34.6				0.1					
+33	New Hampshire	CYANAZINE	1992	kg	688				902.5					
+33	New Hampshire	CYANAZINE	1993	kg	967.7				84.8					
+33	New Hampshire	CYANAZINE	1994	kg	986.9				275.4					
+33	New Hampshire	CYANAZINE	1995	kg	17291.7				2470					
+33	New Hampshire	CYANAZINE	1996	kg	1775				144.6					
+33	New Hampshire	CYANAZINE	1997	kg	222.5				346.5					
+33	New Hampshire	CYANAZINE	1998	kg	189.2				18.1					
+33	New Hampshire	CYANAZINE	1999	kg	1452.5				79					
+33	New Hampshire	CYANAZINE	2000	kg	146.9				68.8					
+33	New Hampshire	CYANAZINE	2001	kg	24.3				126.2					
+33	New Hampshire	CYANAZINE	2002	kg	157.8									
+33	New Hampshire	CYANAZINE	2003	kg					83.8					
+33	New Hampshire	CYANAZINE	2004	kg					141.3					
+34	New Jersey	CYANAZINE	1992	kg	24622.7				3001.8					
+34	New Jersey	CYANAZINE	1993	kg	25180.1	506.2			726		7.1			
+34	New Jersey	CYANAZINE	1994	kg	38467.1				7373.9					
+34	New Jersey	CYANAZINE	1995	kg	26281.7				818.4					
+34	New Jersey	CYANAZINE	1996	kg	14195.9				543.7					
+34	New Jersey	CYANAZINE	1997	kg	24048.9				778.9					
+34	New Jersey	CYANAZINE	1998	kg	9699.9				1545.3					
+34	New Jersey	CYANAZINE	1999	kg	2000.6				2451.5					
+34	New Jersey	CYANAZINE	2000	kg	320.8				1924.8					
+34	New Jersey	CYANAZINE	2001	kg	6224.4				784					
+34	New Jersey	CYANAZINE	2002	kg	967.3									
+34	New Jersey	CYANAZINE	2003	kg					528.9					
+34	New Jersey	CYANAZINE	2004	kg					1350.9					
+34	New Jersey	CYANAZINE	2010	kg	5422									
+35	New Mexico	CYANAZINE	1992	kg	9839.9			846.6	610.4					7725.1
+35	New Mexico	CYANAZINE	1993	kg	34503.5			1569.4						245.6
+35	New Mexico	CYANAZINE	1994	kg	23592.7			12578.9	193.8					1434.1
+35	New Mexico	CYANAZINE	1995	kg	3583.7			8161.2						13584.2
+35	New Mexico	CYANAZINE	1996	kg	833.6			11380.4	81.2			828.2		11740.4
+35	New Mexico	CYANAZINE	1997	kg	27084.3			8017.9	29.5					6215.9
+35	New Mexico	CYANAZINE	1998	kg	25396.2			9554	122.2					5515.1
+35	New Mexico	CYANAZINE	1999	kg	11737.8			4321.2	380.1					4445.8
+35	New Mexico	CYANAZINE	2000	kg	3068.6			829.6						1146.3
+35	New Mexico	CYANAZINE	2001	kg	381.1			12592.8						17493.6
+35	New Mexico	CYANAZINE	2002	kg	798.9			4872.7						
+35	New Mexico	CYANAZINE	2003	kg	306.4									
+35	New Mexico	CYANAZINE	2004	kg	151.2									
+36	New York	CYANAZINE	1992	kg	170739.7				19532.4					
+36	New York	CYANAZINE	1993	kg	226304.3				9013.2		232.5			
+36	New York	CYANAZINE	1994	kg	129634.3				3762.6					494
+36	New York	CYANAZINE	1995	kg	137189.1				7170.8					
+36	New York	CYANAZINE	1996	kg	104281.6				5043.9		270.8			
+36	New York	CYANAZINE	1997	kg	67440.5				5180.4					
+36	New York	CYANAZINE	1998	kg	46813.2				4204.5					
+36	New York	CYANAZINE	1999	kg	73727.8				8515.2					
+36	New York	CYANAZINE	2000	kg	25661.9				1002.3					
+36	New York	CYANAZINE	2001	kg	17130.1				3622.9					
+36	New York	CYANAZINE	2002	kg	13191				1519.7					
+36	New York	CYANAZINE	2003	kg					2255.5					
+36	New York	CYANAZINE	2004	kg					3665.5					
+36	New York	CYANAZINE	2005	kg	862.4									
+37	North Carolina	CYANAZINE	1992	kg	14999.3	1450.4		21671.4	61.4					1148.2
+37	North Carolina	CYANAZINE	1993	kg	52593.9			9818.7	153.9					
+37	North Carolina	CYANAZINE	1994	kg	19717.1			22632.9	50.2					
+37	North Carolina	CYANAZINE	1995	kg	12510.3			63909.7	184.1					
+37	North Carolina	CYANAZINE	1996	kg	5636.5			64361.8	103.9					4582
+37	North Carolina	CYANAZINE	1997	kg	165645.5			80767.5	362.8					780.4
+37	North Carolina	CYANAZINE	1998	kg	14968.2			29287.6	705.8					
+37	North Carolina	CYANAZINE	1999	kg	14867.3			42393.7	166.4					
+37	North Carolina	CYANAZINE	2000	kg	25438.7			95862.7	65					
+37	North Carolina	CYANAZINE	2001	kg	57.2			28488	34.1					
+37	North Carolina	CYANAZINE	2002	kg	9223.6			17846.5	58.6					
+37	North Carolina	CYANAZINE	2003	kg				1636.6						
+37	North Carolina	CYANAZINE	2004	kg	1963.3			1184.2						
+37	North Carolina	CYANAZINE	2006	kg				4489						
+38	North Dakota	CYANAZINE	1992	kg	125613.2	17300.2			6.8					6413.5
+38	North Dakota	CYANAZINE	1993	kg	38496.3									
+38	North Dakota	CYANAZINE	1994	kg	75529.7									
+38	North Dakota	CYANAZINE	1995	kg	31621.8				13.8					
+38	North Dakota	CYANAZINE	1996	kg	32534				7.1				87387.3	2803.5
+38	North Dakota	CYANAZINE	1997	kg	26668.4									
+38	North Dakota	CYANAZINE	1998	kg	110906.8									
+38	North Dakota	CYANAZINE	1999	kg	7677.7									
+38	North Dakota	CYANAZINE	2000	kg	4778.3									
+38	North Dakota	CYANAZINE	2001	kg	5545.2									
+38	North Dakota	CYANAZINE	2002	kg	19058.4				1.5					6.9
+38	North Dakota	CYANAZINE	2003	kg					3.7					
+39	Ohio	CYANAZINE	1992	kg	870998.3	26344.7	5142.7		4786.1				329.9	5574.7
+39	Ohio	CYANAZINE	1993	kg	665001.5				996.3			17402.6	157.9	80.2
+39	Ohio	CYANAZINE	1994	kg	792393.8				5800.3			9222		
+39	Ohio	CYANAZINE	1995	kg	887868.1	1031.9	1810		2294.3					
+39	Ohio	CYANAZINE	1996	kg	534188.8				2509.3					
+39	Ohio	CYANAZINE	1997	kg	478043.1				9578					
+39	Ohio	CYANAZINE	1998	kg	215046.6				2515.7					
+39	Ohio	CYANAZINE	1999	kg	139408.5				1825.2					
+39	Ohio	CYANAZINE	2000	kg	17143.3				1416.9					
+39	Ohio	CYANAZINE	2001	kg	12714				545.3					
+39	Ohio	CYANAZINE	2002	kg	5393.3				1262.9					
+39	Ohio	CYANAZINE	2003	kg	12714.1				329.7					
+39	Ohio	CYANAZINE	2004	kg	27827.3				80.5					
+40	Oklahoma	CYANAZINE	1992	kg	12079.4			3662.6						5995.3
+40	Oklahoma	CYANAZINE	1993	kg	19478.8			938.4					100.1	2556.9
+40	Oklahoma	CYANAZINE	1994	kg	1714.9			3318.7						2297.5
+40	Oklahoma	CYANAZINE	1995	kg	2955.2			914.1					7974.3	27207.2
+40	Oklahoma	CYANAZINE	1996	kg	5560.7			17714.1						22322.2
+40	Oklahoma	CYANAZINE	1997	kg	72127.3			30116.1						17223.2
+40	Oklahoma	CYANAZINE	1998	kg	7042.3			8697.4						23317.5
+40	Oklahoma	CYANAZINE	1999	kg	18602			721.8						33534.8
+40	Oklahoma	CYANAZINE	2000	kg	4918.7			2172.5						5276.3
+40	Oklahoma	CYANAZINE	2001	kg	665.8			7653.4						
+40	Oklahoma	CYANAZINE	2002	kg	1271.1			12.4						
+40	Oklahoma	CYANAZINE	2004	kg	293.7									
+41	Oregon	CYANAZINE	1992	kg	4423.9				869.4		118.1			
+41	Oregon	CYANAZINE	1993	kg	959.1									
+41	Oregon	CYANAZINE	1994	kg	4478.8				696.1					
+41	Oregon	CYANAZINE	1995	kg	934.8				5684.9					
+41	Oregon	CYANAZINE	1996	kg	893.3				4260.6					
+41	Oregon	CYANAZINE	1997	kg	5061.7				5161.6					
+41	Oregon	CYANAZINE	1998	kg	9597.1				9055.6					
+41	Oregon	CYANAZINE	1999	kg	2373.4				659.6					
+41	Oregon	CYANAZINE	2000	kg	343.9				17.6					
+41	Oregon	CYANAZINE	2001	kg					94.4					
+42	Pennsylvania	CYANAZINE	1992	kg	232722.4				8093.6					
+42	Pennsylvania	CYANAZINE	1993	kg	228269.4	343.2			3818.2		12.5			3212.7
+42	Pennsylvania	CYANAZINE	1994	kg	137202.2				5640					
+42	Pennsylvania	CYANAZINE	1995	kg	175229.4				2674.5					
+42	Pennsylvania	CYANAZINE	1996	kg	140867.9				1425.5					
+42	Pennsylvania	CYANAZINE	1997	kg	232530.8				1407.2					
+42	Pennsylvania	CYANAZINE	1998	kg	101922.3				4660.5					
+42	Pennsylvania	CYANAZINE	1999	kg	42914.4				1583.2					
+42	Pennsylvania	CYANAZINE	2000	kg	2985.1				814.7					
+42	Pennsylvania	CYANAZINE	2001	kg	536				1609.1					
+42	Pennsylvania	CYANAZINE	2002	kg	12151.5				484.4					
+42	Pennsylvania	CYANAZINE	2003	kg	3524.5				1100.8					
+42	Pennsylvania	CYANAZINE	2004	kg					1161.3					
+42	Pennsylvania	CYANAZINE	2006	kg	4680.3									
+42	Pennsylvania	CYANAZINE	2010	kg	59096.3									
+44	Rhode Island	CYANAZINE	1992	kg	98.4				40.7					
+44	Rhode Island	CYANAZINE	1993	kg	253.1				37.4					
+44	Rhode Island	CYANAZINE	1994	kg	26.8				22.8					
+44	Rhode Island	CYANAZINE	1995	kg	14.7				23.6					
+44	Rhode Island	CYANAZINE	1996	kg	81.8				145.5					
+44	Rhode Island	CYANAZINE	1997	kg	85.2				122.2					
+44	Rhode Island	CYANAZINE	1998	kg	229.5				10					
+44	Rhode Island	CYANAZINE	1999	kg	555.4				43.8					
+44	Rhode Island	CYANAZINE	2000	kg	121.6				38.5					
+44	Rhode Island	CYANAZINE	2001	kg	4.1				70.7					
+44	Rhode Island	CYANAZINE	2002	kg	24.8									
+44	Rhode Island	CYANAZINE	2003	kg					46					
+44	Rhode Island	CYANAZINE	2004	kg					75.4					
+45	South Carolina	CYANAZINE	1992	kg	12320.5			33067					1331.5	425.7
+45	South Carolina	CYANAZINE	1993	kg	20695			30967.5	213.1					
+45	South Carolina	CYANAZINE	1994	kg	3780.8			89778.6						
+45	South Carolina	CYANAZINE	1995	kg	6716.2			80686.2	92.4				2915.1	
+45	South Carolina	CYANAZINE	1996	kg	3938.7			47921.7	82.3					
+45	South Carolina	CYANAZINE	1997	kg	4774.4			78042.9	210.8					
+45	South Carolina	CYANAZINE	1998	kg	11414.8			14065.6	1109.4					
+45	South Carolina	CYANAZINE	1999	kg	3150.2			24953.8	172.3					
+45	South Carolina	CYANAZINE	2000	kg	13987			13527.5	55.4					
+45	South Carolina	CYANAZINE	2001	kg				5863						
+45	South Carolina	CYANAZINE	2002	kg	2498.4			4179.3	114.1					
+45	South Carolina	CYANAZINE	2004	kg	310			303.8						
+45	South Carolina	CYANAZINE	2005	kg				1543.2						
+46	South Dakota	CYANAZINE	1992	kg	284901.6	18127.4			46.4				81.5	17628.6
+46	South Dakota	CYANAZINE	1993	kg	275676.1				73.5					
+46	South Dakota	CYANAZINE	1994	kg	418147				94.5					
+46	South Dakota	CYANAZINE	1995	kg	297917.4				600					
+46	South Dakota	CYANAZINE	1996	kg	242282.5				95.5				22627	
+46	South Dakota	CYANAZINE	1997	kg	221105.8				103.6					
+46	South Dakota	CYANAZINE	1998	kg	216319.3				78.4					
+46	South Dakota	CYANAZINE	1999	kg	109200				55					
+46	South Dakota	CYANAZINE	2000	kg	22329.8				40					
+46	South Dakota	CYANAZINE	2001	kg	31116.5				31.3					
+46	South Dakota	CYANAZINE	2002	kg	77540.8				36					169.2
+46	South Dakota	CYANAZINE	2003	kg	7355.4				13.9					
+46	South Dakota	CYANAZINE	2004	kg	3762.8				1					
+46	South Dakota	CYANAZINE	2006	kg	1724.6									
+47	Tennessee	CYANAZINE	1992	kg	51431.1	30.8		27900.8	42.3					43.7
+47	Tennessee	CYANAZINE	1993	kg	25944.9			44274.3	10.4					
+47	Tennessee	CYANAZINE	1994	kg	16575.8			61475.3	20.6				9.4	
+47	Tennessee	CYANAZINE	1995	kg	34254.1		569.6	52992.2	69.2					
+47	Tennessee	CYANAZINE	1996	kg	5880.2		17.6	58529.4	30.7					
+47	Tennessee	CYANAZINE	1997	kg	13732.8			68935.5	107.7				211.5	
+47	Tennessee	CYANAZINE	1998	kg	46567.4			4461.9	47.7					
+47	Tennessee	CYANAZINE	1999	kg	3897.4			20707.2	30.9					
+47	Tennessee	CYANAZINE	2000	kg	7541.2			8139	16.7					
+47	Tennessee	CYANAZINE	2001	kg	788.1			5614.8	17					63.2
+47	Tennessee	CYANAZINE	2002	kg	1635.9			4767.9						
+47	Tennessee	CYANAZINE	2003	kg				8619.2						
+47	Tennessee	CYANAZINE	2004	kg				25670.3						
+48	Texas	CYANAZINE	1992	kg	261717.4			39014.6						122567.6
+48	Texas	CYANAZINE	1993	kg	71501.3			66640.6						10372.4
+48	Texas	CYANAZINE	1994	kg	36453.9			18662						19125.2
+48	Texas	CYANAZINE	1995	kg	31991.8			130049.7					7662.5	211119.5
+48	Texas	CYANAZINE	1996	kg	37157.4			46267				148.4		131561.8
+48	Texas	CYANAZINE	1997	kg	28791.8			56565.9						77112.3
+48	Texas	CYANAZINE	1998	kg	723524.2			91405.5					36329.7	115277.2
+48	Texas	CYANAZINE	1999	kg	92440.6			29477.2						72305.3
+48	Texas	CYANAZINE	2000	kg	206696			10981.3						143890.2
+48	Texas	CYANAZINE	2001	kg	4171.7			39802.2						
+48	Texas	CYANAZINE	2002	kg	11131.3			7349.8						
+48	Texas	CYANAZINE	2004	kg	2419									
+49	Utah	CYANAZINE	1992	kg	5304.4				65.3					
+49	Utah	CYANAZINE	1993	kg	935.6									
+49	Utah	CYANAZINE	1994	kg	6966.5				244.8					
+49	Utah	CYANAZINE	1995	kg	4772.2				181.7					
+49	Utah	CYANAZINE	1996	kg	1191.1		20.5		8.2					
+49	Utah	CYANAZINE	1997	kg	7578.2				1592.8					
+49	Utah	CYANAZINE	1998	kg	3562.8				69.4					
+49	Utah	CYANAZINE	1999	kg	2743.7				732					
+49	Utah	CYANAZINE	2000	kg	896.8									
+49	Utah	CYANAZINE	2003	kg	162.9									
+50	Vermont	CYANAZINE	1992	kg	17089.9				60					
+50	Vermont	CYANAZINE	1993	kg	25230.6				57.1					
+50	Vermont	CYANAZINE	1994	kg	7078				60.5					
+50	Vermont	CYANAZINE	1995	kg	4251.3				1965.8					
+50	Vermont	CYANAZINE	1996	kg	5489				217.8					
+50	Vermont	CYANAZINE	1997	kg	1290.3				251.4					
+50	Vermont	CYANAZINE	1998	kg	2514.1				12.4					
+50	Vermont	CYANAZINE	1999	kg	2746.5				51.9					
+50	Vermont	CYANAZINE	2000	kg	12417.8				43					
+50	Vermont	CYANAZINE	2001	kg	4526.4				74.3					
+50	Vermont	CYANAZINE	2002	kg	1406.6									
+50	Vermont	CYANAZINE	2003	kg					47.6					
+50	Vermont	CYANAZINE	2004	kg					82.3					
+51	Virginia	CYANAZINE	1992	kg	16847.8	280.8		704.4				4910		750.6
+51	Virginia	CYANAZINE	1993	kg	131750.6			1028.6	556.9					
+51	Virginia	CYANAZINE	1994	kg	15703			11930.8						
+51	Virginia	CYANAZINE	1995	kg	6625			4288.9	201.6					
+51	Virginia	CYANAZINE	1996	kg	8474.5			3252.7	245.2			2578.7	166.9	1464.5
+51	Virginia	CYANAZINE	1997	kg	50279			7355.7	157.9					
+51	Virginia	CYANAZINE	1998	kg	5627.4			2787.3	379.6					
+51	Virginia	CYANAZINE	1999	kg	41510.8			6137.4	149.2					
+51	Virginia	CYANAZINE	2000	kg	6422.4			2606.2	127.8					
+51	Virginia	CYANAZINE	2001	kg	251.4			2877.2						
+51	Virginia	CYANAZINE	2002	kg	7391.2			1557.3	177.7					
+51	Virginia	CYANAZINE	2003	kg				220.3						
+51	Virginia	CYANAZINE	2004	kg				134.3						
+51	Virginia	CYANAZINE	2006	kg				692						
+53	Washington	CYANAZINE	1992	kg	22650				4115.7		313.8			
+53	Washington	CYANAZINE	1993	kg	35208.7									
+53	Washington	CYANAZINE	1994	kg	18023.4									
+53	Washington	CYANAZINE	1995	kg	24155.3				617.5					
+53	Washington	CYANAZINE	1996	kg	55082.6				7597				1718.1	
+53	Washington	CYANAZINE	1997	kg	25830.2									
+53	Washington	CYANAZINE	1998	kg	35201.6				4091.4					
+53	Washington	CYANAZINE	1999	kg	5400.6				68.7					
+53	Washington	CYANAZINE	2000	kg					809.6					
+53	Washington	CYANAZINE	2001	kg	248				15.9					
+54	West Virginia	CYANAZINE	1992	kg	3358.5				446.2			992.2	97.8	83.5
+54	West Virginia	CYANAZINE	1993	kg	8756.4				108.2					9
+54	West Virginia	CYANAZINE	1994	kg	13708.9				79.8					
+54	West Virginia	CYANAZINE	1995	kg	15884.8				232.9					
+54	West Virginia	CYANAZINE	1996	kg	10851.1				161.4			684.1	192.7	
+54	West Virginia	CYANAZINE	1997	kg	1887.4				443.9					
+54	West Virginia	CYANAZINE	1998	kg	2540.5				176.1					
+54	West Virginia	CYANAZINE	1999	kg	239				139.4					
+54	West Virginia	CYANAZINE	2000	kg	376.2				55.4					
+54	West Virginia	CYANAZINE	2001	kg	184				43.7					
+54	West Virginia	CYANAZINE	2002	kg	729.4				23					
+54	West Virginia	CYANAZINE	2003	kg					11.6					
+54	West Virginia	CYANAZINE	2004	kg					0.4					
+55	Wisconsin	CYANAZINE	1992	kg	948891.9	2839.8			70455.6					837.1
+55	Wisconsin	CYANAZINE	1993	kg	647515.9				75470.5			6907.9	3908.9	
+55	Wisconsin	CYANAZINE	1994	kg	747494.7		1653.2		78542.7				1480.8	3749.2
+55	Wisconsin	CYANAZINE	1995	kg	624254		205.1		40577.3					
+55	Wisconsin	CYANAZINE	1996	kg	585051.2				64917.1				727.4	
+55	Wisconsin	CYANAZINE	1997	kg	322028.6				38712.6				7695.8	7572.7
+55	Wisconsin	CYANAZINE	1998	kg	282940				39150.5					
+55	Wisconsin	CYANAZINE	1999	kg	91226.3				18586.9					
+55	Wisconsin	CYANAZINE	2000	kg	43479.9				7794.8					
+55	Wisconsin	CYANAZINE	2001	kg	32251.8				11124.3					
+55	Wisconsin	CYANAZINE	2002	kg	21554				4858					
+55	Wisconsin	CYANAZINE	2003	kg	25143.6				1434.7					
+55	Wisconsin	CYANAZINE	2004	kg	16371.2									
+55	Wisconsin	CYANAZINE	2006	kg	2829.3									
+55	Wisconsin	CYANAZINE	2007	kg					157.1					
+55	Wisconsin	CYANAZINE	2008	kg	7912.9									
+56	Wyoming	CYANAZINE	1992	kg	4549.5				51.2				82.5	154.2
+56	Wyoming	CYANAZINE	1993	kg	21132									
+56	Wyoming	CYANAZINE	1994	kg	16094.6									
+56	Wyoming	CYANAZINE	1995	kg	19587.1				2.1					
+56	Wyoming	CYANAZINE	1996	kg	8360.6		0.1							598.3
+56	Wyoming	CYANAZINE	1997	kg	13309.6				9.2				492.1	
+56	Wyoming	CYANAZINE	1998	kg	7492.8									
+56	Wyoming	CYANAZINE	1999	kg	745.8									
+56	Wyoming	CYANAZINE	2000	kg	1502.3									
+56	Wyoming	CYANAZINE	2001	kg	1484.7									
+56	Wyoming	CYANAZINE	2002	kg	413.8									

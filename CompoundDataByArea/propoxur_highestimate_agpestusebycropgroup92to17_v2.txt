@@ -1,0 +1,32 @@
+05	Arkansas	PROPOXUR	1997	kg				540.3						
+06	California	PROPOXUR	1992	kg							0.1			
+06	California	PROPOXUR	1994	kg							0.1			
+06	California	PROPOXUR	1995	kg							0			
+06	California	PROPOXUR	1996	kg							0			
+06	California	PROPOXUR	1997	kg							0			
+06	California	PROPOXUR	1998	kg				0						
+06	California	PROPOXUR	1999	kg							0.3			
+06	California	PROPOXUR	2000	kg							0			
+06	California	PROPOXUR	2001	kg							0			
+06	California	PROPOXUR	2004	kg							0			
+06	California	PROPOXUR	2005	kg							0			
+06	California	PROPOXUR	2008	kg							0			
+06	California	PROPOXUR	2009	kg							0.1			
+06	California	PROPOXUR	2011	kg							13.4			
+06	California	PROPOXUR	2013	kg							0			
+06	California	PROPOXUR	2014	kg							0.5			
+06	California	PROPOXUR	2015	kg							0.1			
+06	California	PROPOXUR	2016	kg					0					
+12	Florida	PROPOXUR	1994	kg									487.2	
+29	Missouri	PROPOXUR	1997	kg				299.2						
+36	New York	PROPOXUR	1993	kg							269.1			
+37	North Carolina	PROPOXUR	1992	kg										62.2
+37	North Carolina	PROPOXUR	1997	kg				916.4						
+39	Ohio	PROPOXUR	1993	kg							21.4			
+40	Oklahoma	PROPOXUR	1992	kg										66.5
+42	Pennsylvania	PROPOXUR	1993	kg							460.4			
+45	South Carolina	PROPOXUR	1997	kg				277.6						
+47	Tennessee	PROPOXUR	1997	kg				102.6						
+48	Texas	PROPOXUR	1992	kg										173.8
+48	Texas	PROPOXUR	1997	kg				717.7						
+51	Virginia	PROPOXUR	1992	kg										50

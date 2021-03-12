@@ -1,0 +1,24 @@
+06	California	PIRIMICARB	1992	kg							0.2			
+06	California	PIRIMICARB	1996	kg							0.1			
+06	California	PIRIMICARB	1999	kg							72.6			
+10	Delaware	PIRIMICARB	1996	kg					0					
+16	Idaho	PIRIMICARB	1993	kg								2392.9		
+16	Idaho	PIRIMICARB	1994	kg								7489.5		
+16	Idaho	PIRIMICARB	1995	kg								61.5	18	
+16	Idaho	PIRIMICARB	1996	kg			383.9					457.8		
+30	Montana	PIRIMICARB	1994	kg								1735.6		
+30	Montana	PIRIMICARB	2008	kg								3348.1		
+32	Nevada	PIRIMICARB	1993	kg								476.3		
+32	Nevada	PIRIMICARB	1994	kg								1052.6		
+32	Nevada	PIRIMICARB	1995	kg								12.4	7.6	
+32	Nevada	PIRIMICARB	1996	kg			3.7					101.7		
+34	New Jersey	PIRIMICARB	1996	kg					22.4					
+41	Oregon	PIRIMICARB	1993	kg								783.9		
+41	Oregon	PIRIMICARB	1994	kg								65.5		
+41	Oregon	PIRIMICARB	1995	kg					0.7			20.4	49.8	
+41	Oregon	PIRIMICARB	1996	kg			158.9					170.8		
+42	Pennsylvania	PIRIMICARB	1996	kg					0.7					
+53	Washington	PIRIMICARB	1994	kg								8.8		
+53	Washington	PIRIMICARB	1995	kg					7.7					
+56	Wyoming	PIRIMICARB	1994	kg								1067.9		
+56	Wyoming	PIRIMICARB	2008	kg								4107.9		

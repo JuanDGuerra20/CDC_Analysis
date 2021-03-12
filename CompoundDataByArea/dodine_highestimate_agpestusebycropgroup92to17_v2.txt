@@ -1,0 +1,797 @@
+01	Alabama	DODINE	1992	kg							1186.3			
+01	Alabama	DODINE	1998	kg							392.7			
+01	Alabama	DODINE	2002	kg							853.5			
+01	Alabama	DODINE	2003	kg							7448			
+01	Alabama	DODINE	2004	kg							4141.7			
+01	Alabama	DODINE	2005	kg							6029.1			
+01	Alabama	DODINE	2006	kg							3872.5			
+01	Alabama	DODINE	2007	kg							105.2			
+01	Alabama	DODINE	2008	kg							1362.8			
+01	Alabama	DODINE	2009	kg							6969.6			1507.7
+01	Alabama	DODINE	2010	kg							5500.5			46867
+01	Alabama	DODINE	2011	kg							1611.6			2701.9
+01	Alabama	DODINE	2012	kg							1916.5			18041.5
+01	Alabama	DODINE	2013	kg							618.7			1030.2
+01	Alabama	DODINE	2014	kg							2299.8			
+01	Alabama	DODINE	2015	kg							6141.3			2781.9
+01	Alabama	DODINE	2016	kg							1936.3			4162.2
+01	Alabama	DODINE	2017	kg							11998.3			9673.8
+04	Arizona	DODINE	2000	kg							252.7			
+05	Arkansas	DODINE	1992	kg							109.7			
+05	Arkansas	DODINE	1993	kg							49.5			
+05	Arkansas	DODINE	1996	kg							198.1			
+05	Arkansas	DODINE	1999	kg							150.2			
+05	Arkansas	DODINE	2001	kg							994.8			
+05	Arkansas	DODINE	2003	kg							1018			
+05	Arkansas	DODINE	2004	kg							84.6			
+05	Arkansas	DODINE	2015	kg							4456.6			
+06	California	DODINE	1992	kg							410.6			
+06	California	DODINE	1993	kg							81.4			
+06	California	DODINE	1994	kg							28.9			
+06	California	DODINE	1995	kg							2.9			
+06	California	DODINE	1996	kg							0.2			
+06	California	DODINE	1997	kg							1.5			
+06	California	DODINE	1998	kg							0.1			
+06	California	DODINE	2000	kg							1886.9			
+06	California	DODINE	2001	kg							975.2			
+06	California	DODINE	2002	kg							2199.8			
+06	California	DODINE	2003	kg							6749			
+06	California	DODINE	2004	kg							1124.8			
+06	California	DODINE	2005	kg							2847.6			
+06	California	DODINE	2006	kg							4340.3			
+06	California	DODINE	2007	kg							2495			
+06	California	DODINE	2008	kg							330			
+06	California	DODINE	2009	kg							627.1			
+06	California	DODINE	2010	kg							2211.1			
+06	California	DODINE	2011	kg							2210.6			
+06	California	DODINE	2012	kg							2312.4			
+06	California	DODINE	2013	kg							1771.9			
+06	California	DODINE	2014	kg							10424.5			
+06	California	DODINE	2015	kg							11530.2			
+06	California	DODINE	2016	kg							6719.2			
+06	California	DODINE	2017	kg							3508.1			
+09	Connecticut	DODINE	1992	kg							329.3			
+09	Connecticut	DODINE	1993	kg							343.5			
+09	Connecticut	DODINE	1994	kg							412.3			
+09	Connecticut	DODINE	1995	kg							482.7			
+09	Connecticut	DODINE	1996	kg							196.9			
+09	Connecticut	DODINE	1997	kg							146.8			
+09	Connecticut	DODINE	1998	kg							118.1			
+09	Connecticut	DODINE	1999	kg							105.4			
+09	Connecticut	DODINE	2000	kg							259.9			
+09	Connecticut	DODINE	2001	kg							297.6			
+09	Connecticut	DODINE	2002	kg							297			
+09	Connecticut	DODINE	2003	kg							158.2			
+09	Connecticut	DODINE	2004	kg							49.7			
+09	Connecticut	DODINE	2005	kg							233.1			
+09	Connecticut	DODINE	2006	kg							253.7			
+09	Connecticut	DODINE	2012	kg							240.7			
+09	Connecticut	DODINE	2013	kg							485.4			
+09	Connecticut	DODINE	2014	kg							110			
+09	Connecticut	DODINE	2015	kg							21.8			
+09	Connecticut	DODINE	2016	kg							395			
+09	Connecticut	DODINE	2017	kg							322.5			
+10	Delaware	DODINE	1992	kg							1.6			
+10	Delaware	DODINE	1993	kg							0.5			
+10	Delaware	DODINE	1994	kg							0.2			
+10	Delaware	DODINE	1995	kg							0.5			
+10	Delaware	DODINE	1996	kg							0.9			
+10	Delaware	DODINE	1997	kg							0.5			
+10	Delaware	DODINE	1998	kg							0.2			
+10	Delaware	DODINE	1999	kg							0.9			
+10	Delaware	DODINE	2000	kg							0.4			
+10	Delaware	DODINE	2001	kg							1			
+10	Delaware	DODINE	2002	kg							0.4			
+10	Delaware	DODINE	2003	kg							2.2			
+10	Delaware	DODINE	2004	kg							1.2			
+10	Delaware	DODINE	2005	kg							0.8			
+10	Delaware	DODINE	2006	kg							1.5			
+10	Delaware	DODINE	2007	kg							1.8			
+12	Florida	DODINE	1992	kg							1141.2			
+12	Florida	DODINE	1994	kg							4544.5			
+12	Florida	DODINE	1995	kg							399.4			
+12	Florida	DODINE	1996	kg							38.8			
+12	Florida	DODINE	1998	kg							99.8			
+12	Florida	DODINE	1999	kg							456.5			
+12	Florida	DODINE	2001	kg							25			
+12	Florida	DODINE	2002	kg							142.6			
+12	Florida	DODINE	2003	kg							2946.4			
+12	Florida	DODINE	2004	kg							2517.5			
+12	Florida	DODINE	2005	kg							4902.3			
+12	Florida	DODINE	2006	kg							2152.1			
+12	Florida	DODINE	2007	kg							2013.1			
+12	Florida	DODINE	2008	kg							1441.1			
+12	Florida	DODINE	2009	kg							3667.9			6937
+12	Florida	DODINE	2010	kg							6446.7			20164.3
+12	Florida	DODINE	2011	kg							3801.1			1575.6
+12	Florida	DODINE	2012	kg							6308.3			8439.7
+12	Florida	DODINE	2013	kg							6929.8			382.9
+12	Florida	DODINE	2014	kg							7933.5			
+12	Florida	DODINE	2015	kg							6016.6			1659.9
+12	Florida	DODINE	2016	kg							1980.8			432.9
+12	Florida	DODINE	2017	kg							6619			4063.1
+13	Georgia	DODINE	1992	kg							8806.9			
+13	Georgia	DODINE	1993	kg							375.4			
+13	Georgia	DODINE	1994	kg							1901.1			
+13	Georgia	DODINE	1995	kg							1659.5			
+13	Georgia	DODINE	1996	kg							815.4			
+13	Georgia	DODINE	1997	kg							9.5			
+13	Georgia	DODINE	1998	kg							2815.7			
+13	Georgia	DODINE	1999	kg							145.1			
+13	Georgia	DODINE	2000	kg							50.2			
+13	Georgia	DODINE	2001	kg							555.6			
+13	Georgia	DODINE	2002	kg							4557			
+13	Georgia	DODINE	2003	kg							53118.1			
+13	Georgia	DODINE	2004	kg							32863.8			
+13	Georgia	DODINE	2005	kg							67104			
+13	Georgia	DODINE	2006	kg							33177.5			
+13	Georgia	DODINE	2007	kg							30946.3			
+13	Georgia	DODINE	2008	kg							33073.4			
+13	Georgia	DODINE	2009	kg							48998.2			4431.1
+13	Georgia	DODINE	2010	kg							80120.7			
+13	Georgia	DODINE	2011	kg							32758.9			13015.6
+13	Georgia	DODINE	2012	kg							58656.8			36237
+13	Georgia	DODINE	2013	kg							101305.3			
+13	Georgia	DODINE	2014	kg							89326.3			
+13	Georgia	DODINE	2015	kg							155530.9			9169.4
+13	Georgia	DODINE	2016	kg							129464.6			12067.4
+13	Georgia	DODINE	2017	kg							137486.5			18039.5
+16	Idaho	DODINE	1992	kg							1394.9			
+16	Idaho	DODINE	1993	kg							2030.8			
+16	Idaho	DODINE	1994	kg							2531.8			
+16	Idaho	DODINE	1995	kg							722			
+16	Idaho	DODINE	1996	kg							2645.6			
+16	Idaho	DODINE	1997	kg							203.3			
+16	Idaho	DODINE	1998	kg							2771.6			
+16	Idaho	DODINE	1999	kg							567.6			
+16	Idaho	DODINE	2000	kg							29.6			
+16	Idaho	DODINE	2001	kg							297			
+16	Idaho	DODINE	2002	kg							121.8			
+16	Idaho	DODINE	2003	kg							308.2			
+16	Idaho	DODINE	2004	kg							45.9			
+16	Idaho	DODINE	2005	kg							79.6			
+16	Idaho	DODINE	2009	kg							632.8			
+16	Idaho	DODINE	2010	kg							46.1			
+16	Idaho	DODINE	2011	kg							1.9			
+16	Idaho	DODINE	2012	kg							54.6			
+16	Idaho	DODINE	2013	kg							240.1			
+16	Idaho	DODINE	2014	kg							10			
+16	Idaho	DODINE	2016	kg							3.1			
+17	Illinois	DODINE	1992	kg							252.3			
+17	Illinois	DODINE	1993	kg							672.6			
+17	Illinois	DODINE	1994	kg					415		6653.1			
+17	Illinois	DODINE	1995	kg							2664.6			
+17	Illinois	DODINE	1996	kg							2994.2			
+17	Illinois	DODINE	1997	kg							1859			
+17	Illinois	DODINE	1998	kg							1165.9			
+17	Illinois	DODINE	1999	kg							11218.1			
+17	Illinois	DODINE	2000	kg							1171.4			
+17	Illinois	DODINE	2001	kg							503			
+17	Illinois	DODINE	2002	kg							255.9			
+17	Illinois	DODINE	2003	kg							332			
+17	Illinois	DODINE	2004	kg							1394.5			
+17	Illinois	DODINE	2005	kg							566.7			
+18	Indiana	DODINE	1992	kg							1954.1			
+18	Indiana	DODINE	1993	kg							2561.8			
+18	Indiana	DODINE	1994	kg					15.9		1145.2			
+18	Indiana	DODINE	1995	kg							2026.9			
+18	Indiana	DODINE	1996	kg							2092.4			
+18	Indiana	DODINE	1997	kg							1977.7			
+18	Indiana	DODINE	1998	kg							793.3			
+18	Indiana	DODINE	1999	kg							3453.1			
+18	Indiana	DODINE	2000	kg							426.9			
+18	Indiana	DODINE	2001	kg							293			
+18	Indiana	DODINE	2002	kg							147.5			
+18	Indiana	DODINE	2003	kg							229.4			
+18	Indiana	DODINE	2004	kg							906.1			
+18	Indiana	DODINE	2005	kg							299.1			
+18	Indiana	DODINE	2006	kg							1.7			
+18	Indiana	DODINE	2007	kg							12.8			
+18	Indiana	DODINE	2008	kg							2.3			
+18	Indiana	DODINE	2009	kg							68.9			
+18	Indiana	DODINE	2010	kg							111.7			
+18	Indiana	DODINE	2011	kg							31.7			
+18	Indiana	DODINE	2012	kg							22.8			
+18	Indiana	DODINE	2013	kg							0.8			
+18	Indiana	DODINE	2014	kg							0.6			
+18	Indiana	DODINE	2015	kg							0.4			
+18	Indiana	DODINE	2016	kg							6.8			
+18	Indiana	DODINE	2017	kg							0			
+19	Iowa	DODINE	1992	kg							52.9			
+19	Iowa	DODINE	1993	kg							369.7			
+19	Iowa	DODINE	1994	kg							278.3			
+19	Iowa	DODINE	1995	kg							505.2			
+19	Iowa	DODINE	1996	kg							417.4			
+19	Iowa	DODINE	1997	kg							100.7			
+19	Iowa	DODINE	1998	kg							328.2			
+19	Iowa	DODINE	1999	kg							1825.4			
+19	Iowa	DODINE	2001	kg							120.3			
+19	Iowa	DODINE	2002	kg							66.1			
+19	Iowa	DODINE	2003	kg							99.3			
+19	Iowa	DODINE	2004	kg							215.4			
+19	Iowa	DODINE	2005	kg							121.6			
+20	Kansas	DODINE	1992	kg							38.5			
+21	Kentucky	DODINE	1992	kg							143.9			
+21	Kentucky	DODINE	1993	kg							1472.4			
+21	Kentucky	DODINE	1994	kg							451.9			
+21	Kentucky	DODINE	1995	kg							1621.3			
+21	Kentucky	DODINE	1996	kg							880.8			
+21	Kentucky	DODINE	1997	kg							761.8			
+21	Kentucky	DODINE	1998	kg							715.6			
+21	Kentucky	DODINE	1999	kg							665.6			
+21	Kentucky	DODINE	2000	kg							110.8			
+21	Kentucky	DODINE	2001	kg							346.5			
+21	Kentucky	DODINE	2002	kg							164.4			
+21	Kentucky	DODINE	2003	kg							253.1			
+21	Kentucky	DODINE	2004	kg							194.1			
+21	Kentucky	DODINE	2005	kg							151			
+21	Kentucky	DODINE	2006	kg							383.3			
+21	Kentucky	DODINE	2007	kg							163.8			
+21	Kentucky	DODINE	2008	kg							59.1			
+21	Kentucky	DODINE	2009	kg							173.6			
+21	Kentucky	DODINE	2010	kg							172.6			
+21	Kentucky	DODINE	2012	kg							160.2			
+21	Kentucky	DODINE	2013	kg							155.5			
+21	Kentucky	DODINE	2014	kg							23			
+21	Kentucky	DODINE	2015	kg							95.2			
+21	Kentucky	DODINE	2016	kg							153.7			
+21	Kentucky	DODINE	2017	kg							122.4			
+22	Louisiana	DODINE	1992	kg							1722.8			
+22	Louisiana	DODINE	1996	kg							1003.5			
+22	Louisiana	DODINE	2000	kg							35321.8			
+22	Louisiana	DODINE	2001	kg							623.8			
+22	Louisiana	DODINE	2003	kg							1654.1			
+22	Louisiana	DODINE	2004	kg							2432			
+22	Louisiana	DODINE	2015	kg							7179.2			
+23	Maine	DODINE	1992	kg							2911.8			
+23	Maine	DODINE	1993	kg							1209.6			
+23	Maine	DODINE	1994	kg							552.9			
+23	Maine	DODINE	1995	kg							947.5			
+23	Maine	DODINE	1996	kg							3504.7			
+23	Maine	DODINE	1997	kg							1377.8			
+23	Maine	DODINE	1998	kg							411.1			
+23	Maine	DODINE	1999	kg							1550			
+23	Maine	DODINE	2000	kg							328.1			
+23	Maine	DODINE	2001	kg							1705.3			
+23	Maine	DODINE	2002	kg							112.2			
+23	Maine	DODINE	2003	kg							390.7			
+23	Maine	DODINE	2004	kg							84.2			
+23	Maine	DODINE	2005	kg							323.3			
+23	Maine	DODINE	2006	kg							330.3			
+23	Maine	DODINE	2012	kg							398.4			
+23	Maine	DODINE	2013	kg							771.6			
+23	Maine	DODINE	2014	kg							167.4			
+23	Maine	DODINE	2015	kg							292.6			
+23	Maine	DODINE	2016	kg							543.9			
+23	Maine	DODINE	2017	kg							419.3			
+24	Maryland	DODINE	1992	kg							440.3			
+24	Maryland	DODINE	1993	kg							100			
+24	Maryland	DODINE	1994	kg							129.1			
+24	Maryland	DODINE	1995	kg							2859.5			
+24	Maryland	DODINE	1996	kg							445			
+24	Maryland	DODINE	1997	kg							253.4			
+24	Maryland	DODINE	1998	kg							359			
+24	Maryland	DODINE	1999	kg							100.4			
+24	Maryland	DODINE	2000	kg							61.5			
+24	Maryland	DODINE	2001	kg							340.2			
+24	Maryland	DODINE	2002	kg							84.1			
+24	Maryland	DODINE	2003	kg							480.5			
+24	Maryland	DODINE	2004	kg							111.1			
+24	Maryland	DODINE	2005	kg							242.5			
+24	Maryland	DODINE	2006	kg							447.4			
+24	Maryland	DODINE	2007	kg							104.4			
+24	Maryland	DODINE	2008	kg							24.5			
+24	Maryland	DODINE	2009	kg							271.3			
+24	Maryland	DODINE	2010	kg							86			
+24	Maryland	DODINE	2012	kg							110.7			
+24	Maryland	DODINE	2013	kg							373.4			
+24	Maryland	DODINE	2014	kg							8.8			
+24	Maryland	DODINE	2015	kg							260.9			
+24	Maryland	DODINE	2016	kg							49.8			
+24	Maryland	DODINE	2017	kg							233.1			
+25	Massachusetts	DODINE	1992	kg							895.3			
+25	Massachusetts	DODINE	1993	kg							2695			
+25	Massachusetts	DODINE	1994	kg							2951.6			
+25	Massachusetts	DODINE	1995	kg							4984.7			
+25	Massachusetts	DODINE	1996	kg							333.1			
+25	Massachusetts	DODINE	1997	kg							201			
+25	Massachusetts	DODINE	1998	kg							434.1			
+25	Massachusetts	DODINE	1999	kg							225.1			
+25	Massachusetts	DODINE	2000	kg							552.4			
+25	Massachusetts	DODINE	2001	kg							622.7			
+25	Massachusetts	DODINE	2002	kg							652.2			
+25	Massachusetts	DODINE	2003	kg							331.2			
+25	Massachusetts	DODINE	2004	kg							93.9			
+25	Massachusetts	DODINE	2005	kg							113.5			
+25	Massachusetts	DODINE	2006	kg							456.3			
+25	Massachusetts	DODINE	2012	kg							381.9			
+25	Massachusetts	DODINE	2013	kg							803.4			
+25	Massachusetts	DODINE	2014	kg							188			
+25	Massachusetts	DODINE	2015	kg							38.1			
+25	Massachusetts	DODINE	2016	kg							720.1			
+25	Massachusetts	DODINE	2017	kg							607.6			
+26	Michigan	DODINE	1992	kg							34469.3			
+26	Michigan	DODINE	1993	kg							30059.4			
+26	Michigan	DODINE	1994	kg							41122.9			
+26	Michigan	DODINE	1995	kg							7956.1		48.7	
+26	Michigan	DODINE	1996	kg							39013.9			
+26	Michigan	DODINE	1997	kg							13555.3			
+26	Michigan	DODINE	1998	kg							10792.7			
+26	Michigan	DODINE	1999	kg							8942.2			
+26	Michigan	DODINE	2000	kg							6695.3			
+26	Michigan	DODINE	2001	kg							25169.7			
+26	Michigan	DODINE	2002	kg							5629.8			
+26	Michigan	DODINE	2003	kg							6841.8			
+26	Michigan	DODINE	2004	kg							4386.1			
+26	Michigan	DODINE	2005	kg							6695			
+26	Michigan	DODINE	2006	kg							3322.7			
+26	Michigan	DODINE	2007	kg							3232.1			
+26	Michigan	DODINE	2008	kg							7883.8			
+26	Michigan	DODINE	2009	kg							10119.6			
+26	Michigan	DODINE	2010	kg							9746.2			
+26	Michigan	DODINE	2011	kg							12034			
+26	Michigan	DODINE	2012	kg							7392.2			
+26	Michigan	DODINE	2013	kg							13986.4			
+26	Michigan	DODINE	2014	kg							14613			
+26	Michigan	DODINE	2015	kg							13708.8			
+26	Michigan	DODINE	2016	kg							6395.8			
+26	Michigan	DODINE	2017	kg							14142.7			
+27	Minnesota	DODINE	1992	kg							913.8			
+27	Minnesota	DODINE	1993	kg							649.7			
+27	Minnesota	DODINE	1994	kg							684.3			
+27	Minnesota	DODINE	1995	kg							2300.3			
+27	Minnesota	DODINE	1996	kg							1043.4			
+27	Minnesota	DODINE	1997	kg							28.1			
+27	Minnesota	DODINE	1998	kg							334.7			
+27	Minnesota	DODINE	1999	kg							3260.4			
+27	Minnesota	DODINE	2000	kg							0.4			
+27	Minnesota	DODINE	2001	kg							1076.4			
+27	Minnesota	DODINE	2002	kg							169			
+27	Minnesota	DODINE	2003	kg					23.5		249.7			
+27	Minnesota	DODINE	2004	kg							446.7			
+27	Minnesota	DODINE	2005	kg							234.2			
+27	Minnesota	DODINE	2006	kg							0.4			
+27	Minnesota	DODINE	2007	kg							0.3			
+27	Minnesota	DODINE	2008	kg							259.9			
+27	Minnesota	DODINE	2009	kg							193.4			
+27	Minnesota	DODINE	2010	kg							0.5			
+27	Minnesota	DODINE	2011	kg							0.8			
+27	Minnesota	DODINE	2012	kg							0.3			
+27	Minnesota	DODINE	2013	kg							1.4			
+27	Minnesota	DODINE	2014	kg							2.9			
+27	Minnesota	DODINE	2015	kg							1.1			
+27	Minnesota	DODINE	2016	kg							0.5			
+27	Minnesota	DODINE	2017	kg							0			
+28	Mississippi	DODINE	1992	kg							839.8			
+28	Mississippi	DODINE	1998	kg							86.5			
+28	Mississippi	DODINE	2002	kg							174.4			
+28	Mississippi	DODINE	2003	kg							1436.4			
+28	Mississippi	DODINE	2004	kg							1511.5			
+28	Mississippi	DODINE	2005	kg							2127.4			
+28	Mississippi	DODINE	2006	kg							742.7			
+28	Mississippi	DODINE	2007	kg							683.8			
+28	Mississippi	DODINE	2008	kg							193.9			
+28	Mississippi	DODINE	2009	kg							675.6			65.1
+28	Mississippi	DODINE	2010	kg							1165.5			2045.5
+28	Mississippi	DODINE	2011	kg							55			100.8
+28	Mississippi	DODINE	2012	kg							686.2			1601
+28	Mississippi	DODINE	2013	kg							222.7			60.4
+28	Mississippi	DODINE	2014	kg							218.7			
+28	Mississippi	DODINE	2015	kg							1035.6			167.6
+28	Mississippi	DODINE	2016	kg							378.2			291.2
+28	Mississippi	DODINE	2017	kg							1262.2			
+29	Missouri	DODINE	1992	kg							640.9			
+29	Missouri	DODINE	1993	kg							3713.6			
+29	Missouri	DODINE	1994	kg							590.2			
+29	Missouri	DODINE	1995	kg							265.3			
+29	Missouri	DODINE	1996	kg							490.3			
+29	Missouri	DODINE	1997	kg							248.3			
+29	Missouri	DODINE	1998	kg							91.1			
+29	Missouri	DODINE	1999	kg							5347.7			
+29	Missouri	DODINE	2000	kg							12.2			
+29	Missouri	DODINE	2001	kg							97.5			
+29	Missouri	DODINE	2002	kg							39.3			
+29	Missouri	DODINE	2003	kg							81.3			
+29	Missouri	DODINE	2004	kg							1227.7			
+29	Missouri	DODINE	2005	kg							131.7			
+30	Montana	DODINE	1992	kg							55.2			
+30	Montana	DODINE	1993	kg							99.9			
+30	Montana	DODINE	1994	kg							139.5			
+30	Montana	DODINE	1995	kg							69.5			
+30	Montana	DODINE	1996	kg							166.8			
+30	Montana	DODINE	1997	kg							12			
+30	Montana	DODINE	2000	kg							2.4			
+30	Montana	DODINE	2001	kg							5.2			
+30	Montana	DODINE	2002	kg							24.5			
+30	Montana	DODINE	2003	kg							6.9			
+30	Montana	DODINE	2013	kg							23.5			
+32	Nevada	DODINE	1992	kg							5.2			
+32	Nevada	DODINE	1993	kg							10.5			
+32	Nevada	DODINE	1994	kg							16.1			
+32	Nevada	DODINE	1995	kg							7.5			
+32	Nevada	DODINE	1996	kg							8.6			
+32	Nevada	DODINE	1997	kg							3			
+32	Nevada	DODINE	1998	kg							16.7			
+32	Nevada	DODINE	2000	kg							0.7			
+32	Nevada	DODINE	2001	kg							2.7			
+32	Nevada	DODINE	2002	kg							0.7			
+32	Nevada	DODINE	2003	kg							7.1			
+32	Nevada	DODINE	2004	kg							0.6			
+32	Nevada	DODINE	2005	kg							4.2			
+32	Nevada	DODINE	2011	kg							0			
+32	Nevada	DODINE	2013	kg							5.4			
+33	New Hampshire	DODINE	1992	kg							81.9			
+33	New Hampshire	DODINE	1993	kg							553.1			
+33	New Hampshire	DODINE	1994	kg							889.9			
+33	New Hampshire	DODINE	1995	kg							527.4			
+33	New Hampshire	DODINE	1996	kg							961.4			
+33	New Hampshire	DODINE	1997	kg							572			
+33	New Hampshire	DODINE	1998	kg							201			
+33	New Hampshire	DODINE	1999	kg							423.7			
+33	New Hampshire	DODINE	2000	kg							152.6			
+33	New Hampshire	DODINE	2001	kg							313.1			
+33	New Hampshire	DODINE	2002	kg							312.1			
+33	New Hampshire	DODINE	2003	kg							181.6			
+33	New Hampshire	DODINE	2004	kg							48.3			
+33	New Hampshire	DODINE	2005	kg							217.3			
+33	New Hampshire	DODINE	2006	kg							226.7			
+33	New Hampshire	DODINE	2012	kg							184			
+33	New Hampshire	DODINE	2013	kg							367.5			
+33	New Hampshire	DODINE	2014	kg							82.3			
+33	New Hampshire	DODINE	2015	kg							149.5			
+33	New Hampshire	DODINE	2016	kg							289.1			
+33	New Hampshire	DODINE	2017	kg							233.3			
+34	New Jersey	DODINE	1992	kg							1500.1			
+34	New Jersey	DODINE	1993	kg							200			
+34	New Jersey	DODINE	1994	kg							248.1			
+34	New Jersey	DODINE	1995	kg							192.5			
+34	New Jersey	DODINE	1996	kg							242.9			
+34	New Jersey	DODINE	1997	kg							870.6			
+34	New Jersey	DODINE	1998	kg							75.3			
+34	New Jersey	DODINE	1999	kg							299.4			
+34	New Jersey	DODINE	2000	kg							240.9			
+34	New Jersey	DODINE	2001	kg							336.6			
+34	New Jersey	DODINE	2002	kg							128.8			
+34	New Jersey	DODINE	2003	kg							560			
+34	New Jersey	DODINE	2004	kg							285.8			
+34	New Jersey	DODINE	2005	kg							225.5			
+34	New Jersey	DODINE	2006	kg							393.3			
+34	New Jersey	DODINE	2010	kg							394.3			
+34	New Jersey	DODINE	2012	kg							206.2			
+34	New Jersey	DODINE	2013	kg							555			
+34	New Jersey	DODINE	2014	kg							1013.9			
+34	New Jersey	DODINE	2015	kg							279.4			
+34	New Jersey	DODINE	2016	kg							499.6			
+34	New Jersey	DODINE	2017	kg							335.5			
+36	New York	DODINE	1992	kg							2647			
+36	New York	DODINE	1993	kg							3878.6			
+36	New York	DODINE	1994	kg							6475.1			
+36	New York	DODINE	1995	kg							5319.6			
+36	New York	DODINE	1996	kg							4005.5			
+36	New York	DODINE	1997	kg							4850.6			
+36	New York	DODINE	1998	kg							39008.8			
+36	New York	DODINE	1999	kg							6615.3			
+36	New York	DODINE	2000	kg							2155.8			
+36	New York	DODINE	2001	kg							1796.9			
+36	New York	DODINE	2002	kg							4010.1			
+36	New York	DODINE	2003	kg							3554.5			
+36	New York	DODINE	2004	kg					183.3		1145.9			
+36	New York	DODINE	2005	kg							3816.3			
+36	New York	DODINE	2006	kg					184		8317.3			
+36	New York	DODINE	2010	kg							4776			
+36	New York	DODINE	2012	kg					134.2		3024.4			
+36	New York	DODINE	2013	kg							5522.6			
+36	New York	DODINE	2014	kg							10799.7			
+36	New York	DODINE	2015	kg							3595.6			
+36	New York	DODINE	2016	kg							4850			
+36	New York	DODINE	2017	kg							5102.3			
+37	North Carolina	DODINE	1992	kg							1327			
+37	North Carolina	DODINE	1993	kg							2558.8			
+37	North Carolina	DODINE	1994	kg							13886.2			
+37	North Carolina	DODINE	1995	kg							1364.2			
+37	North Carolina	DODINE	1996	kg							1229.9			
+37	North Carolina	DODINE	1997	kg							2328.7			
+37	North Carolina	DODINE	1998	kg							3953.8			
+37	North Carolina	DODINE	1999	kg							1275.5			
+37	North Carolina	DODINE	2000	kg							408.8			
+37	North Carolina	DODINE	2001	kg							401.1			
+37	North Carolina	DODINE	2002	kg							684			
+37	North Carolina	DODINE	2003	kg							914.3			
+37	North Carolina	DODINE	2004	kg							88.7			
+37	North Carolina	DODINE	2005	kg							451.7			
+37	North Carolina	DODINE	2006	kg							1561.3			
+37	North Carolina	DODINE	2007	kg							3198			
+37	North Carolina	DODINE	2008	kg							1447.3			
+37	North Carolina	DODINE	2009	kg							3154.7			667.5
+37	North Carolina	DODINE	2010	kg							2508.2			
+37	North Carolina	DODINE	2011	kg										810.6
+37	North Carolina	DODINE	2012	kg							1422.3			6992.3
+37	North Carolina	DODINE	2013	kg							424.2			
+37	North Carolina	DODINE	2014	kg							11.9			
+37	North Carolina	DODINE	2015	kg							255.2			791.3
+37	North Carolina	DODINE	2016	kg							920.1			1722.8
+37	North Carolina	DODINE	2017	kg							783.4			
+39	Ohio	DODINE	1992	kg							1978.7			
+39	Ohio	DODINE	1993	kg					987.5		2003.4			
+39	Ohio	DODINE	1994	kg							5471.3			
+39	Ohio	DODINE	1995	kg							5172.6			
+39	Ohio	DODINE	1996	kg							3321.7			
+39	Ohio	DODINE	1997	kg							5667.1			
+39	Ohio	DODINE	1998	kg							507.6			
+39	Ohio	DODINE	1999	kg							2531.8			
+39	Ohio	DODINE	2000	kg							909.5			
+39	Ohio	DODINE	2001	kg							1690.3			
+39	Ohio	DODINE	2002	kg							1629.7			
+39	Ohio	DODINE	2003	kg							1201.9			
+39	Ohio	DODINE	2004	kg							1805.1			
+39	Ohio	DODINE	2005	kg							614.9			
+39	Ohio	DODINE	2006	kg							130.2			
+39	Ohio	DODINE	2007	kg							313.7			
+39	Ohio	DODINE	2008	kg							817.7			
+39	Ohio	DODINE	2009	kg							461.6			
+39	Ohio	DODINE	2010	kg							420.3			
+39	Ohio	DODINE	2011	kg							94.9			
+39	Ohio	DODINE	2012	kg							663.6			
+39	Ohio	DODINE	2013	kg							303.7			
+39	Ohio	DODINE	2014	kg							36.2			
+39	Ohio	DODINE	2015	kg							320.3			
+39	Ohio	DODINE	2016	kg							127.3			
+39	Ohio	DODINE	2017	kg							86.1			
+40	Oklahoma	DODINE	1992	kg							341.7			
+40	Oklahoma	DODINE	2001	kg							563.9			
+40	Oklahoma	DODINE	2016	kg							2732.4			
+40	Oklahoma	DODINE	2017	kg							7437.1			
+41	Oregon	DODINE	1992	kg							51843.5			
+41	Oregon	DODINE	1993	kg							19364.1			
+41	Oregon	DODINE	1994	kg							18151.9			
+41	Oregon	DODINE	1995	kg							18353.2			
+41	Oregon	DODINE	1996	kg							28014			
+41	Oregon	DODINE	1997	kg					368.5		14192.8			
+41	Oregon	DODINE	1998	kg							34765.2			
+41	Oregon	DODINE	1999	kg							5757.3			
+41	Oregon	DODINE	2000	kg							20690.3			
+41	Oregon	DODINE	2001	kg							7199.1			
+41	Oregon	DODINE	2002	kg							5873.9			
+41	Oregon	DODINE	2003	kg							41059.4			
+41	Oregon	DODINE	2004	kg							6482.7			
+41	Oregon	DODINE	2005	kg							21457.1			
+41	Oregon	DODINE	2006	kg							3000.1			
+41	Oregon	DODINE	2007	kg							36.7			
+41	Oregon	DODINE	2008	kg							28334			
+41	Oregon	DODINE	2009	kg							13089			
+41	Oregon	DODINE	2010	kg							3634.3			
+41	Oregon	DODINE	2011	kg							4652.1			
+41	Oregon	DODINE	2012	kg							22543			
+41	Oregon	DODINE	2013	kg							3710.4			
+41	Oregon	DODINE	2014	kg							3585.1			
+41	Oregon	DODINE	2015	kg							1824.6			
+41	Oregon	DODINE	2016	kg							461.3			
+41	Oregon	DODINE	2017	kg							322.8			
+42	Pennsylvania	DODINE	1992	kg							5740.4			
+42	Pennsylvania	DODINE	1993	kg							3465.3			
+42	Pennsylvania	DODINE	1994	kg							12595.4			
+42	Pennsylvania	DODINE	1995	kg							10321.6			
+42	Pennsylvania	DODINE	1996	kg							3313.5			
+42	Pennsylvania	DODINE	1997	kg							16615.9			
+42	Pennsylvania	DODINE	1998	kg							2829.5			
+42	Pennsylvania	DODINE	1999	kg							1370.4			
+42	Pennsylvania	DODINE	2000	kg							1438.7			
+42	Pennsylvania	DODINE	2001	kg							3301			
+42	Pennsylvania	DODINE	2002	kg							2533.1			
+42	Pennsylvania	DODINE	2003	kg							3026			
+42	Pennsylvania	DODINE	2004	kg							632.6			
+42	Pennsylvania	DODINE	2005	kg							3003.5			
+42	Pennsylvania	DODINE	2006	kg							2610.1			
+42	Pennsylvania	DODINE	2007	kg							291.8			
+42	Pennsylvania	DODINE	2008	kg							96.4			
+42	Pennsylvania	DODINE	2009	kg							520.1			
+42	Pennsylvania	DODINE	2010	kg							257.6			
+42	Pennsylvania	DODINE	2012	kg							1840.1			
+42	Pennsylvania	DODINE	2013	kg							4797			
+42	Pennsylvania	DODINE	2014	kg							603.8			
+42	Pennsylvania	DODINE	2015	kg							3821.6			
+42	Pennsylvania	DODINE	2016	kg							2776.5			
+42	Pennsylvania	DODINE	2017	kg							4147.7			
+44	Rhode Island	DODINE	1992	kg							45.8			
+44	Rhode Island	DODINE	1993	kg							96.4			
+44	Rhode Island	DODINE	1994	kg							58.7			
+44	Rhode Island	DODINE	1995	kg							115.4			
+44	Rhode Island	DODINE	1996	kg							21.2			
+44	Rhode Island	DODINE	1997	kg							82.6			
+44	Rhode Island	DODINE	1998	kg							30.1			
+44	Rhode Island	DODINE	1999	kg							14.9			
+44	Rhode Island	DODINE	2000	kg							36.9			
+44	Rhode Island	DODINE	2001	kg							42.3			
+44	Rhode Island	DODINE	2002	kg							42.1			
+44	Rhode Island	DODINE	2003	kg							23.3			
+44	Rhode Island	DODINE	2004	kg							7.6			
+44	Rhode Island	DODINE	2005	kg							36.8			
+44	Rhode Island	DODINE	2006	kg							41.4			
+44	Rhode Island	DODINE	2012	kg							31.1			
+44	Rhode Island	DODINE	2013	kg							60.7			
+44	Rhode Island	DODINE	2014	kg							13.2			
+44	Rhode Island	DODINE	2015	kg							23.4			
+44	Rhode Island	DODINE	2016	kg							43.6			
+44	Rhode Island	DODINE	2017	kg							34			
+45	South Carolina	DODINE	1992	kg							328.3			
+45	South Carolina	DODINE	1993	kg							362.4			
+45	South Carolina	DODINE	1994	kg							729.5			
+45	South Carolina	DODINE	1995	kg							268			
+45	South Carolina	DODINE	1996	kg							332.1			
+45	South Carolina	DODINE	1997	kg							21.6			
+45	South Carolina	DODINE	1998	kg							638.2			
+45	South Carolina	DODINE	1999	kg							336.5			
+45	South Carolina	DODINE	2000	kg							122			
+45	South Carolina	DODINE	2001	kg							92			
+45	South Carolina	DODINE	2002	kg							247.3			
+45	South Carolina	DODINE	2003	kg							103.6			
+45	South Carolina	DODINE	2004	kg							406.8			
+45	South Carolina	DODINE	2005	kg							1885.1			
+45	South Carolina	DODINE	2006	kg							448.3			
+45	South Carolina	DODINE	2007	kg							377.2			
+45	South Carolina	DODINE	2008	kg							176.1			
+45	South Carolina	DODINE	2009	kg							443.2			
+45	South Carolina	DODINE	2010	kg							622.4			
+45	South Carolina	DODINE	2011	kg							50.3			
+45	South Carolina	DODINE	2012	kg							414.2			
+45	South Carolina	DODINE	2013	kg							569.3			
+45	South Carolina	DODINE	2014	kg							77.3			
+45	South Carolina	DODINE	2015	kg							357.2			
+45	South Carolina	DODINE	2016	kg							363			
+45	South Carolina	DODINE	2017	kg							656			
+47	Tennessee	DODINE	1992	kg							117.8			
+47	Tennessee	DODINE	1993	kg							513.6			
+47	Tennessee	DODINE	1994	kg							605.6			
+47	Tennessee	DODINE	1995	kg							116.8			
+47	Tennessee	DODINE	1996	kg							146.8			
+47	Tennessee	DODINE	1997	kg							128.9			
+47	Tennessee	DODINE	1998	kg							350.5			
+47	Tennessee	DODINE	1999	kg							1550.7			
+47	Tennessee	DODINE	2000	kg							52.2			
+47	Tennessee	DODINE	2001	kg							64.3			
+47	Tennessee	DODINE	2002	kg							90			
+47	Tennessee	DODINE	2003	kg							139.5			
+47	Tennessee	DODINE	2004	kg							285.5			
+47	Tennessee	DODINE	2005	kg							63.1			
+47	Tennessee	DODINE	2006	kg							254.8			
+47	Tennessee	DODINE	2007	kg							177.8			
+47	Tennessee	DODINE	2008	kg							70.6			
+47	Tennessee	DODINE	2009	kg							169.9			
+47	Tennessee	DODINE	2010	kg							120.8			
+47	Tennessee	DODINE	2012	kg							97.5			
+47	Tennessee	DODINE	2013	kg							102.5			
+47	Tennessee	DODINE	2014	kg							4.9			
+47	Tennessee	DODINE	2015	kg							32.3			
+47	Tennessee	DODINE	2016	kg							93.5			
+47	Tennessee	DODINE	2017	kg							80.7			
+48	Texas	DODINE	2001	kg							7952.1			
+48	Texas	DODINE	2003	kg							1547.1			
+48	Texas	DODINE	2004	kg							2979.5			
+48	Texas	DODINE	2005	kg							185.5			
+48	Texas	DODINE	2015	kg							4990.7			
+48	Texas	DODINE	2016	kg							6609.5			
+48	Texas	DODINE	2017	kg							16959.3			
+50	Vermont	DODINE	1992	kg							257.5			
+50	Vermont	DODINE	1993	kg							436			
+50	Vermont	DODINE	1994	kg							872.7			
+50	Vermont	DODINE	1995	kg							386.3			
+50	Vermont	DODINE	1996	kg							13384.8			
+50	Vermont	DODINE	1997	kg							937			
+50	Vermont	DODINE	1998	kg							160.2			
+50	Vermont	DODINE	1999	kg							148.9			
+50	Vermont	DODINE	2000	kg							343.2			
+50	Vermont	DODINE	2001	kg							227.6			
+50	Vermont	DODINE	2002	kg							424.3			
+50	Vermont	DODINE	2003	kg							224.1			
+50	Vermont	DODINE	2004	kg							70			
+50	Vermont	DODINE	2005	kg							86.7			
+50	Vermont	DODINE	2006	kg							351.2			
+50	Vermont	DODINE	2012	kg							235.2			
+50	Vermont	DODINE	2013	kg							493.8			
+50	Vermont	DODINE	2014	kg							116.3			
+50	Vermont	DODINE	2015	kg							222			
+50	Vermont	DODINE	2016	kg							452.3			
+50	Vermont	DODINE	2017	kg							384.5			
+51	Virginia	DODINE	1992	kg							899			
+51	Virginia	DODINE	1993	kg							409.4			
+51	Virginia	DODINE	1994	kg							716.4			
+51	Virginia	DODINE	1995	kg							448.7			
+51	Virginia	DODINE	1996	kg							1852.1			
+51	Virginia	DODINE	1997	kg							451.6			
+51	Virginia	DODINE	1998	kg							3921.8			
+51	Virginia	DODINE	1999	kg							592.9			
+51	Virginia	DODINE	2000	kg							1216.8			
+51	Virginia	DODINE	2001	kg							4426.6			
+51	Virginia	DODINE	2002	kg							292.4			
+51	Virginia	DODINE	2003	kg							251			
+51	Virginia	DODINE	2004	kg							787.9			
+51	Virginia	DODINE	2005	kg							2230.9			
+51	Virginia	DODINE	2006	kg							3199.2			
+51	Virginia	DODINE	2007	kg							3280.1			
+51	Virginia	DODINE	2008	kg							1326.9			
+51	Virginia	DODINE	2009	kg							3527.1			177.4
+51	Virginia	DODINE	2010	kg							4350.8			
+51	Virginia	DODINE	2011	kg										214.1
+51	Virginia	DODINE	2012	kg							2636.6			1749
+51	Virginia	DODINE	2013	kg							2606.2			
+51	Virginia	DODINE	2014	kg							38			
+51	Virginia	DODINE	2015	kg							161.2			243.8
+51	Virginia	DODINE	2016	kg							279.4			540
+51	Virginia	DODINE	2017	kg							242.6			
+53	Washington	DODINE	1992	kg							16908.3			
+53	Washington	DODINE	1993	kg							44404.2			
+53	Washington	DODINE	1994	kg							39365.9			
+53	Washington	DODINE	1995	kg							12257.2			
+53	Washington	DODINE	1996	kg							5828.1			
+53	Washington	DODINE	1997	kg					25		7246.2			
+53	Washington	DODINE	1998	kg							5715.5			
+53	Washington	DODINE	1999	kg							19159			
+53	Washington	DODINE	2000	kg							1807.9			
+53	Washington	DODINE	2001	kg							815.7			
+53	Washington	DODINE	2002	kg							3604.6			
+53	Washington	DODINE	2003	kg							21574			
+53	Washington	DODINE	2004	kg							3116.5			
+53	Washington	DODINE	2005	kg							8656.8			
+53	Washington	DODINE	2006	kg							987.2			
+53	Washington	DODINE	2007	kg							64.4			
+53	Washington	DODINE	2008	kg							786.3			
+53	Washington	DODINE	2009	kg							22616.4			
+53	Washington	DODINE	2010	kg							2175.4			
+53	Washington	DODINE	2011	kg							1717.7			
+53	Washington	DODINE	2012	kg							16575			
+53	Washington	DODINE	2013	kg							8020.3			
+53	Washington	DODINE	2014	kg							66191.1			
+53	Washington	DODINE	2015	kg							338			
+53	Washington	DODINE	2016	kg							393.5			
+53	Washington	DODINE	2017	kg							3168.9			
+54	West Virginia	DODINE	1992	kg							2263.9			
+54	West Virginia	DODINE	1993	kg							570.4			
+54	West Virginia	DODINE	1994	kg							287.9			
+54	West Virginia	DODINE	1995	kg							1363			
+54	West Virginia	DODINE	1996	kg							2205.3			
+54	West Virginia	DODINE	1997	kg							1823.1			
+54	West Virginia	DODINE	1998	kg							2467.9			
+54	West Virginia	DODINE	1999	kg							390			
+54	West Virginia	DODINE	2000	kg							310.2			
+54	West Virginia	DODINE	2001	kg							1092.8			
+54	West Virginia	DODINE	2002	kg							120.2			
+54	West Virginia	DODINE	2003	kg							1358.9			
+54	West Virginia	DODINE	2004	kg							159.4			
+54	West Virginia	DODINE	2005	kg							527.6			
+54	West Virginia	DODINE	2006	kg							2601.8			
+54	West Virginia	DODINE	2007	kg							401.7			
+54	West Virginia	DODINE	2008	kg							190.3			
+54	West Virginia	DODINE	2009	kg							925.3			
+54	West Virginia	DODINE	2010	kg							802.3			
+54	West Virginia	DODINE	2012	kg							977.5			
+54	West Virginia	DODINE	2013	kg							1090.1			
+54	West Virginia	DODINE	2014	kg							134.4			
+54	West Virginia	DODINE	2015	kg							511.7			
+54	West Virginia	DODINE	2016	kg							797.6			
+54	West Virginia	DODINE	2017	kg							617.8			
+55	Wisconsin	DODINE	1992	kg							1545.7			
+55	Wisconsin	DODINE	1993	kg							1310.2			
+55	Wisconsin	DODINE	1994	kg							535.7			
+55	Wisconsin	DODINE	1995	kg							1640.3			
+55	Wisconsin	DODINE	1996	kg							2278.4			
+55	Wisconsin	DODINE	1997	kg							248.7			
+55	Wisconsin	DODINE	1998	kg							1244			
+55	Wisconsin	DODINE	1999	kg							265.3			
+55	Wisconsin	DODINE	2000	kg							2.2			
+55	Wisconsin	DODINE	2001	kg							2005.2			
+55	Wisconsin	DODINE	2002	kg							416.6			
+55	Wisconsin	DODINE	2003	kg					48.1		318.1			
+55	Wisconsin	DODINE	2004	kg							207.2			
+55	Wisconsin	DODINE	2005	kg							108.8			
+55	Wisconsin	DODINE	2006	kg							2.1			
+55	Wisconsin	DODINE	2007	kg							132.2			
+55	Wisconsin	DODINE	2008	kg							1376.1			
+55	Wisconsin	DODINE	2009	kg							714.7			
+55	Wisconsin	DODINE	2010	kg							4.7			
+55	Wisconsin	DODINE	2011	kg							7.6			
+55	Wisconsin	DODINE	2012	kg							3.2			
+55	Wisconsin	DODINE	2013	kg							10			
+55	Wisconsin	DODINE	2014	kg							18.3			
+55	Wisconsin	DODINE	2015	kg							7.6			
+55	Wisconsin	DODINE	2016	kg							4			
+55	Wisconsin	DODINE	2017	kg							0.9			

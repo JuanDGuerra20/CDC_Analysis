@@ -1,0 +1,899 @@
+01	Alabama	TERBACIL	1992	kg							176.9			
+01	Alabama	TERBACIL	1993	kg							349.1			
+01	Alabama	TERBACIL	1994	kg					68.5					
+01	Alabama	TERBACIL	1995	kg							520.5			
+01	Alabama	TERBACIL	1996	kg							1523.7			
+01	Alabama	TERBACIL	1997	kg							278.9			
+01	Alabama	TERBACIL	1998	kg							56.8			
+01	Alabama	TERBACIL	2000	kg							17.1			
+01	Alabama	TERBACIL	2001	kg							28.8			
+01	Alabama	TERBACIL	2002	kg							196			
+01	Alabama	TERBACIL	2003	kg							33.9			
+01	Alabama	TERBACIL	2004	kg							28.5			
+01	Alabama	TERBACIL	2007	kg					39.1		11.6			
+01	Alabama	TERBACIL	2008	kg					73.8					
+01	Alabama	TERBACIL	2009	kg					18.7		574.3			
+01	Alabama	TERBACIL	2010	kg					129					
+01	Alabama	TERBACIL	2011	kg					131.3		27.6			
+01	Alabama	TERBACIL	2012	kg					239.9					
+01	Alabama	TERBACIL	2013	kg					72.5		611.3			
+01	Alabama	TERBACIL	2014	kg					156.4					
+01	Alabama	TERBACIL	2015	kg					112.1					
+01	Alabama	TERBACIL	2016	kg							18			
+01	Alabama	TERBACIL	2017	kg					17.4					
+05	Arkansas	TERBACIL	1992	kg								261.5		
+05	Arkansas	TERBACIL	1993	kg								572.6		
+05	Arkansas	TERBACIL	1995	kg								630		
+05	Arkansas	TERBACIL	1997	kg					23.7					
+05	Arkansas	TERBACIL	1999	kg								679.9		
+05	Arkansas	TERBACIL	2000	kg								473.1		
+05	Arkansas	TERBACIL	2002	kg							15.8			
+05	Arkansas	TERBACIL	2003	kg								596.1		
+05	Arkansas	TERBACIL	2004	kg								435		
+05	Arkansas	TERBACIL	2005	kg							4.5	779.8		
+05	Arkansas	TERBACIL	2006	kg							20.7			
+05	Arkansas	TERBACIL	2007	kg							19			
+05	Arkansas	TERBACIL	2010	kg							8.3	101		
+05	Arkansas	TERBACIL	2011	kg							13.5			
+06	California	TERBACIL	1992	kg							1.5			
+06	California	TERBACIL	1993	kg							4.2			
+06	California	TERBACIL	1995	kg							7.3			
+08	Colorado	TERBACIL	1992	kg								14543.1		
+08	Colorado	TERBACIL	1993	kg								10444.6		
+08	Colorado	TERBACIL	1994	kg								5295.2		
+08	Colorado	TERBACIL	1995	kg								3660.8		
+08	Colorado	TERBACIL	1998	kg								3808.3		
+08	Colorado	TERBACIL	1999	kg								12439.5		
+08	Colorado	TERBACIL	2000	kg								10469.2		
+08	Colorado	TERBACIL	2002	kg								5479.8		
+08	Colorado	TERBACIL	2003	kg								15868.1		
+08	Colorado	TERBACIL	2004	kg								11354.7		
+08	Colorado	TERBACIL	2005	kg								14809.2		
+08	Colorado	TERBACIL	2006	kg								21286.3		
+08	Colorado	TERBACIL	2009	kg								3190.4		
+08	Colorado	TERBACIL	2010	kg								4930.2		
+09	Connecticut	TERBACIL	1992	kg							62.1			
+09	Connecticut	TERBACIL	1993	kg							24.1			
+09	Connecticut	TERBACIL	1994	kg					57.3		438.9			
+09	Connecticut	TERBACIL	1995	kg					122.9		592.1			
+09	Connecticut	TERBACIL	1996	kg					15.5		229.9			
+09	Connecticut	TERBACIL	1997	kg					2.8		188.3			
+09	Connecticut	TERBACIL	1998	kg					13.8		587.6			
+09	Connecticut	TERBACIL	1999	kg					7		75.8			
+09	Connecticut	TERBACIL	2000	kg					8.2		288.8			
+09	Connecticut	TERBACIL	2001	kg					4.3		298.2			
+09	Connecticut	TERBACIL	2002	kg					18.7		117.1			
+09	Connecticut	TERBACIL	2003	kg					7		264.2			
+09	Connecticut	TERBACIL	2004	kg					9.4		284			
+09	Connecticut	TERBACIL	2005	kg					7.1		259.2			
+09	Connecticut	TERBACIL	2006	kg					18.4		132			
+09	Connecticut	TERBACIL	2007	kg					19		123.2			
+09	Connecticut	TERBACIL	2008	kg					8.7		247.4			
+09	Connecticut	TERBACIL	2009	kg					13					
+09	Connecticut	TERBACIL	2010	kg					18		102.8			
+09	Connecticut	TERBACIL	2011	kg					7.8		120.2			
+09	Connecticut	TERBACIL	2012	kg					6.9		12.1			
+09	Connecticut	TERBACIL	2013	kg					21.2					
+09	Connecticut	TERBACIL	2014	kg					13.9					
+09	Connecticut	TERBACIL	2015	kg					7.8		64.8			
+09	Connecticut	TERBACIL	2016	kg							28.4			
+10	Delaware	TERBACIL	1992	kg					399.6		12	12.7	39.6	
+10	Delaware	TERBACIL	1993	kg							2.7	99		
+10	Delaware	TERBACIL	1994	kg					4.9		0.6	2.4		
+10	Delaware	TERBACIL	1995	kg					11		25.1	30.6		
+10	Delaware	TERBACIL	1996	kg					9.7		36.5			
+10	Delaware	TERBACIL	1997	kg					114.9		0.3			
+10	Delaware	TERBACIL	1998	kg					12.7		28.6	14.5		
+10	Delaware	TERBACIL	1999	kg					41.9		2.6			
+10	Delaware	TERBACIL	2000	kg					104.7		10.1			
+10	Delaware	TERBACIL	2001	kg					44.6		19.2			
+10	Delaware	TERBACIL	2002	kg					30		8.3			
+10	Delaware	TERBACIL	2003	kg					0.7		26.7			
+10	Delaware	TERBACIL	2004	kg					20.2		24.3			
+10	Delaware	TERBACIL	2005	kg							2.2			
+10	Delaware	TERBACIL	2006	kg							0.9			
+10	Delaware	TERBACIL	2007	kg					33.2		13.3			
+10	Delaware	TERBACIL	2008	kg					29.4		0			
+10	Delaware	TERBACIL	2009	kg					73.1		36.4			
+10	Delaware	TERBACIL	2010	kg					93.5		0			
+10	Delaware	TERBACIL	2011	kg					113.6		35.8			
+10	Delaware	TERBACIL	2012	kg					132.3					
+10	Delaware	TERBACIL	2013	kg					85.7		35.4			
+10	Delaware	TERBACIL	2014	kg					213.5					
+10	Delaware	TERBACIL	2015	kg					30.9					
+12	Florida	TERBACIL	2007	kg					35.8					
+12	Florida	TERBACIL	2008	kg					17.1					
+12	Florida	TERBACIL	2009	kg					522.8					
+12	Florida	TERBACIL	2010	kg					331.3					
+12	Florida	TERBACIL	2011	kg					82.5					
+12	Florida	TERBACIL	2012	kg					47.5					
+12	Florida	TERBACIL	2013	kg					176.7					
+12	Florida	TERBACIL	2014	kg					201.1					
+12	Florida	TERBACIL	2015	kg					181.1					
+12	Florida	TERBACIL	2016	kg					431.3					
+12	Florida	TERBACIL	2017	kg					63.4					
+13	Georgia	TERBACIL	1992	kg							7564.3			
+13	Georgia	TERBACIL	1993	kg							448.7			
+13	Georgia	TERBACIL	1994	kg					0.2		4317			
+13	Georgia	TERBACIL	1995	kg							14017.5			
+13	Georgia	TERBACIL	1996	kg					0.4		4671.7			
+13	Georgia	TERBACIL	1997	kg					0.1		376.6			
+13	Georgia	TERBACIL	1998	kg					0.2		5499.1			
+13	Georgia	TERBACIL	1999	kg							23.4			
+13	Georgia	TERBACIL	2000	kg							1806.6			
+13	Georgia	TERBACIL	2001	kg							2999.8			
+13	Georgia	TERBACIL	2002	kg							979.6			
+13	Georgia	TERBACIL	2003	kg							14467.4			
+13	Georgia	TERBACIL	2004	kg							2162.2			
+13	Georgia	TERBACIL	2005	kg							107.1			
+13	Georgia	TERBACIL	2006	kg							1441.5			
+13	Georgia	TERBACIL	2007	kg					383.1		707.2			
+13	Georgia	TERBACIL	2008	kg					180.8		12			
+13	Georgia	TERBACIL	2009	kg					349.5		5563.7			
+13	Georgia	TERBACIL	2010	kg					674.4		127			
+13	Georgia	TERBACIL	2011	kg					770.4		6255.6			
+13	Georgia	TERBACIL	2012	kg					491.2		1632.9			
+13	Georgia	TERBACIL	2013	kg					1038.6		5473.6			
+13	Georgia	TERBACIL	2014	kg					1359.7		265.9			
+13	Georgia	TERBACIL	2015	kg					700					
+13	Georgia	TERBACIL	2016	kg							262.5			
+13	Georgia	TERBACIL	2017	kg					281.3					
+16	Idaho	TERBACIL	1992	kg							416.3			
+16	Idaho	TERBACIL	1993	kg					21936.7		292.8			
+16	Idaho	TERBACIL	1994	kg							73.9	5617.4		
+16	Idaho	TERBACIL	1995	kg			1282.4		1.2					
+16	Idaho	TERBACIL	1996	kg							237.4			
+16	Idaho	TERBACIL	1998	kg					0		192.5			
+16	Idaho	TERBACIL	1999	kg							80	6028.9		
+16	Idaho	TERBACIL	2000	kg					0		72.4			
+16	Idaho	TERBACIL	2001	kg							21.6			
+16	Idaho	TERBACIL	2002	kg							25.7			
+16	Idaho	TERBACIL	2003	kg							536.9			
+16	Idaho	TERBACIL	2004	kg							516.5			
+16	Idaho	TERBACIL	2005	kg							59.3			
+16	Idaho	TERBACIL	2006	kg							29.7			
+16	Idaho	TERBACIL	2007	kg							105.2	8420		
+16	Idaho	TERBACIL	2009	kg							6.3			
+16	Idaho	TERBACIL	2010	kg							22.5			
+16	Idaho	TERBACIL	2012	kg							34.3			
+16	Idaho	TERBACIL	2013	kg							24.5			
+16	Idaho	TERBACIL	2014	kg								13047.7		
+17	Illinois	TERBACIL	1992	kg					98.4		557.8	184.5		
+17	Illinois	TERBACIL	1993	kg					31.8		832.6	2204.9		
+17	Illinois	TERBACIL	1994	kg					189		659.3			
+17	Illinois	TERBACIL	1995	kg					534.1		263.6			
+17	Illinois	TERBACIL	1996	kg					84.8		150.8			
+17	Illinois	TERBACIL	1997	kg					181.6		887.4			
+17	Illinois	TERBACIL	1998	kg					68		631.4			
+17	Illinois	TERBACIL	1999	kg					29.2		315.9			
+17	Illinois	TERBACIL	2000	kg					30.4		243.5			
+17	Illinois	TERBACIL	2001	kg					36.2		766.7			
+17	Illinois	TERBACIL	2002	kg					27.3		1110.3			
+17	Illinois	TERBACIL	2003	kg					22.7		477.5			
+17	Illinois	TERBACIL	2004	kg					14.1		583.3			
+17	Illinois	TERBACIL	2005	kg							407.2			
+17	Illinois	TERBACIL	2006	kg							1061.1			
+17	Illinois	TERBACIL	2007	kg					47.8		174			
+17	Illinois	TERBACIL	2008	kg					13					
+17	Illinois	TERBACIL	2009	kg					6.5					
+17	Illinois	TERBACIL	2010	kg					28.3					
+17	Illinois	TERBACIL	2011	kg					0					
+17	Illinois	TERBACIL	2012	kg					94.9					
+18	Indiana	TERBACIL	1992	kg					371		268.4	220.8		
+18	Indiana	TERBACIL	1993	kg					390.2		1761.4	656.2		
+18	Indiana	TERBACIL	1994	kg					44.5		492			
+18	Indiana	TERBACIL	1995	kg					15.4		117.6	442		
+18	Indiana	TERBACIL	1996	kg					157.4		275.4			
+18	Indiana	TERBACIL	1997	kg					34.3		2939.4			
+18	Indiana	TERBACIL	1998	kg					22.9		171.4			
+18	Indiana	TERBACIL	1999	kg					20.2		252			
+18	Indiana	TERBACIL	2000	kg					20		89.7			
+18	Indiana	TERBACIL	2001	kg					30.6		755			
+18	Indiana	TERBACIL	2002	kg					48.9		626.9			
+18	Indiana	TERBACIL	2003	kg					16.4		347.4			
+18	Indiana	TERBACIL	2004	kg					17.3		344.7			
+18	Indiana	TERBACIL	2005	kg					12.6		200.5			
+18	Indiana	TERBACIL	2006	kg					9		410.8			
+18	Indiana	TERBACIL	2007	kg					31.1		123			
+18	Indiana	TERBACIL	2008	kg					17		35			
+18	Indiana	TERBACIL	2009	kg					8.8		28.3			
+18	Indiana	TERBACIL	2010	kg					32.9		8.7			
+18	Indiana	TERBACIL	2011	kg					5.4		40.3			
+18	Indiana	TERBACIL	2012	kg					8.4		10.1			
+18	Indiana	TERBACIL	2013	kg					3.8		25.8			
+18	Indiana	TERBACIL	2014	kg					1.7		34.8			
+18	Indiana	TERBACIL	2016	kg							0.5	1604.6		
+18	Indiana	TERBACIL	2017	kg							16.6			
+19	Iowa	TERBACIL	1992	kg							6.8			
+19	Iowa	TERBACIL	1993	kg							9.5			
+19	Iowa	TERBACIL	1994	kg					16.2		106.4			
+19	Iowa	TERBACIL	1995	kg					6.5		15.1			
+19	Iowa	TERBACIL	1996	kg					118.3		17.1			
+19	Iowa	TERBACIL	1997	kg					54.1		56.3			
+19	Iowa	TERBACIL	1998	kg					10.8		55.2			
+19	Iowa	TERBACIL	1999	kg					8.2		36.4			
+19	Iowa	TERBACIL	2000	kg					8.1		16.3			
+19	Iowa	TERBACIL	2001	kg					10		69.5			
+19	Iowa	TERBACIL	2002	kg					7.6		105.1			
+19	Iowa	TERBACIL	2003	kg					6.1		23.8			
+19	Iowa	TERBACIL	2004	kg					3.2		57.7			
+19	Iowa	TERBACIL	2005	kg							54.8			
+19	Iowa	TERBACIL	2006	kg							102.8			
+19	Iowa	TERBACIL	2007	kg					12.1		26.7			
+19	Iowa	TERBACIL	2008	kg					5					
+19	Iowa	TERBACIL	2009	kg					1.5					
+19	Iowa	TERBACIL	2010	kg					10.8					
+20	Kansas	TERBACIL	1992	kg								35908.2		
+20	Kansas	TERBACIL	1993	kg								29719.6		
+20	Kansas	TERBACIL	1994	kg								14470.9		
+20	Kansas	TERBACIL	1995	kg			1270.9					8738.2	6781.4	
+20	Kansas	TERBACIL	1998	kg								14711		
+20	Kansas	TERBACIL	1999	kg								32670.9		
+20	Kansas	TERBACIL	2000	kg								35555		
+20	Kansas	TERBACIL	2002	kg								23309.4		
+20	Kansas	TERBACIL	2003	kg								62057.9		
+20	Kansas	TERBACIL	2004	kg								43592		
+20	Kansas	TERBACIL	2005	kg								50061.1		
+20	Kansas	TERBACIL	2006	kg								86250		
+20	Kansas	TERBACIL	2007	kg								9927		
+20	Kansas	TERBACIL	2008	kg								15301.5		
+20	Kansas	TERBACIL	2009	kg								9328		
+20	Kansas	TERBACIL	2010	kg								13873.1		
+21	Kentucky	TERBACIL	1992	kg					14.4		102.3			
+21	Kentucky	TERBACIL	1993	kg							789.5	141.3		
+21	Kentucky	TERBACIL	1994	kg					75.6		727.9	93.1		
+21	Kentucky	TERBACIL	1995	kg					14		207.5	241.7		
+21	Kentucky	TERBACIL	1996	kg					14.7		80.5			
+21	Kentucky	TERBACIL	1997	kg					27		124.4			
+21	Kentucky	TERBACIL	1998	kg					14.3		233.3			
+21	Kentucky	TERBACIL	1999	kg					14.1		335.3			
+21	Kentucky	TERBACIL	2000	kg					18.6		121.5			
+21	Kentucky	TERBACIL	2001	kg					20.2		145.1			
+21	Kentucky	TERBACIL	2002	kg					19		251			
+21	Kentucky	TERBACIL	2003	kg					16.9		298.2			
+21	Kentucky	TERBACIL	2004	kg					4.8		218.2			
+21	Kentucky	TERBACIL	2005	kg							321.9			
+21	Kentucky	TERBACIL	2006	kg					19.9		956.5			
+21	Kentucky	TERBACIL	2007	kg					8.9		155.7			
+21	Kentucky	TERBACIL	2008	kg					10.7		82.7			
+21	Kentucky	TERBACIL	2009	kg					3.3		438.3			
+21	Kentucky	TERBACIL	2010	kg					12.6		35.3			
+21	Kentucky	TERBACIL	2011	kg					3.8		18.6			
+21	Kentucky	TERBACIL	2012	kg					1.6		2.2			
+21	Kentucky	TERBACIL	2013	kg							35			
+21	Kentucky	TERBACIL	2014	kg							0			
+22	Louisiana	TERBACIL	1992	kg										17416.8
+22	Louisiana	TERBACIL	1993	kg										30962.3
+22	Louisiana	TERBACIL	1994	kg									1951	26465.2
+22	Louisiana	TERBACIL	1995	kg										143195.7
+22	Louisiana	TERBACIL	1996	kg							14.2			13958.4
+22	Louisiana	TERBACIL	1997	kg										11288.3
+22	Louisiana	TERBACIL	1998	kg									1310.3	26329
+22	Louisiana	TERBACIL	1999	kg							28.2			30147.5
+22	Louisiana	TERBACIL	2000	kg							20.9			6649.4
+22	Louisiana	TERBACIL	2001	kg										7085.4
+22	Louisiana	TERBACIL	2002	kg							4.4			1966
+22	Louisiana	TERBACIL	2003	kg										3185.5
+22	Louisiana	TERBACIL	2004	kg										2129.2
+22	Louisiana	TERBACIL	2005	kg							1.1			
+22	Louisiana	TERBACIL	2006	kg							5.4			
+22	Louisiana	TERBACIL	2007	kg							5.2			
+22	Louisiana	TERBACIL	2010	kg							9.3			
+22	Louisiana	TERBACIL	2011	kg							17.4			
+22	Louisiana	TERBACIL	2015	kg										826.6
+23	Maine	TERBACIL	1992	kg							207			
+23	Maine	TERBACIL	1993	kg					412.2		3.3			
+23	Maine	TERBACIL	1994	kg					621.8		409.5			
+23	Maine	TERBACIL	1995	kg					108.2		798.8			
+23	Maine	TERBACIL	1996	kg					39		1873.9			
+23	Maine	TERBACIL	1997	kg					4.5		279.5			
+23	Maine	TERBACIL	1998	kg					32.4		14.2			
+23	Maine	TERBACIL	1999	kg					10.8		2919.8			
+23	Maine	TERBACIL	2000	kg					13.5		208.4			
+23	Maine	TERBACIL	2001	kg					11.1		163.6			
+23	Maine	TERBACIL	2002	kg					10.2		105.7			
+23	Maine	TERBACIL	2003	kg					12.4		169.7			
+23	Maine	TERBACIL	2004	kg					16.8		157.2			
+23	Maine	TERBACIL	2005	kg					13.5		179.7			
+23	Maine	TERBACIL	2006	kg					35.8		134			
+23	Maine	TERBACIL	2007	kg					14.8		42.6			
+23	Maine	TERBACIL	2008	kg					14.9		273.5			
+23	Maine	TERBACIL	2009	kg					22.9					
+23	Maine	TERBACIL	2010	kg					26.6		123.4			
+23	Maine	TERBACIL	2011	kg					20.8		178.4			
+23	Maine	TERBACIL	2012	kg					10		19.2			
+23	Maine	TERBACIL	2015	kg							90			
+23	Maine	TERBACIL	2016	kg							37.7			
+24	Maryland	TERBACIL	1992	kg					1169.3		510.8	83.9	419.9	
+24	Maryland	TERBACIL	1993	kg							141.4	470.8		
+24	Maryland	TERBACIL	1994	kg					170.2		132.3	33.1		
+24	Maryland	TERBACIL	1995	kg					193		1278.1	837.1		
+24	Maryland	TERBACIL	1996	kg					84.5		3701.4		15.8	
+24	Maryland	TERBACIL	1997	kg					172.6		113.7		85.4	
+24	Maryland	TERBACIL	1998	kg					59.6		393.3	417.7		
+24	Maryland	TERBACIL	1999	kg					48.4		152.3			
+24	Maryland	TERBACIL	2000	kg					131.9		250.1			
+24	Maryland	TERBACIL	2001	kg					47.2		456.7	416.5		
+24	Maryland	TERBACIL	2002	kg					37.7		141.4			
+24	Maryland	TERBACIL	2003	kg					6		244.3	116.5		
+24	Maryland	TERBACIL	2004	kg					21.3		392.5	973.1		
+24	Maryland	TERBACIL	2005	kg					13.8		215.4	1152.5		
+24	Maryland	TERBACIL	2006	kg					5.9		229.8			
+24	Maryland	TERBACIL	2007	kg					35		195.8			
+24	Maryland	TERBACIL	2008	kg					28.4		216.7			
+24	Maryland	TERBACIL	2009	kg					75.6		141			
+24	Maryland	TERBACIL	2010	kg					95.9		226.2			
+24	Maryland	TERBACIL	2011	kg					128.2		174.4			
+24	Maryland	TERBACIL	2012	kg					152.1		4.4			
+24	Maryland	TERBACIL	2013	kg					95.6		165.7			
+24	Maryland	TERBACIL	2014	kg					235.8		0.2			
+24	Maryland	TERBACIL	2015	kg					56.8		46.4			
+24	Maryland	TERBACIL	2016	kg							19.6			
+24	Maryland	TERBACIL	2017	kg							10.9			
+25	Massachusetts	TERBACIL	1992	kg							100.5			
+25	Massachusetts	TERBACIL	1993	kg							153			
+25	Massachusetts	TERBACIL	1994	kg					113.8		207.2			
+25	Massachusetts	TERBACIL	1995	kg					127.7		68.8			
+25	Massachusetts	TERBACIL	1996	kg					22.6		33.8			
+25	Massachusetts	TERBACIL	1997	kg					347		40			
+25	Massachusetts	TERBACIL	1998	kg					21.6		636.5			
+25	Massachusetts	TERBACIL	1999	kg					10.7		161.9			
+25	Massachusetts	TERBACIL	2000	kg					12.3		195.2			
+25	Massachusetts	TERBACIL	2001	kg					6.2		443.6			
+25	Massachusetts	TERBACIL	2002	kg					24.7		143.3			
+25	Massachusetts	TERBACIL	2003	kg					10		437.2			
+25	Massachusetts	TERBACIL	2004	kg					14		322.7			
+25	Massachusetts	TERBACIL	2005	kg					11.7		375			
+25	Massachusetts	TERBACIL	2006	kg					31.5		172.8			
+25	Massachusetts	TERBACIL	2007	kg					34.4		163.5			
+25	Massachusetts	TERBACIL	2008	kg					16.4		413.3			
+25	Massachusetts	TERBACIL	2009	kg					21.8					
+25	Massachusetts	TERBACIL	2010	kg					31.6		161.8			
+25	Massachusetts	TERBACIL	2011	kg					15.7		195.8			
+25	Massachusetts	TERBACIL	2012	kg					14.2		19.2			
+25	Massachusetts	TERBACIL	2013	kg					27.4					
+25	Massachusetts	TERBACIL	2014	kg					37					
+25	Massachusetts	TERBACIL	2015	kg					10.9		114.3			
+25	Massachusetts	TERBACIL	2016	kg							51.9			
+26	Michigan	TERBACIL	1992	kg		39807.7			139.6		9478.8			
+26	Michigan	TERBACIL	1993	kg					1005.7		1650.8			
+26	Michigan	TERBACIL	1994	kg					2905.7		4454.6			
+26	Michigan	TERBACIL	1995	kg					1342.4		1768.2	1975.1		
+26	Michigan	TERBACIL	1996	kg					3419.6		3007.4			
+26	Michigan	TERBACIL	1997	kg					1722.6		4912.3			
+26	Michigan	TERBACIL	1998	kg					1137		2969.8			
+26	Michigan	TERBACIL	1999	kg					2567.4		1064.4			
+26	Michigan	TERBACIL	2000	kg					1507.9		461.7			
+26	Michigan	TERBACIL	2001	kg					550.8		2119.5			
+26	Michigan	TERBACIL	2002	kg					1811.2		728.1			
+26	Michigan	TERBACIL	2003	kg					185.8		1177.2			
+26	Michigan	TERBACIL	2004	kg					850.5		2657.2			
+26	Michigan	TERBACIL	2005	kg					643.4		1443.5			
+26	Michigan	TERBACIL	2006	kg					266.7		1832.4			
+26	Michigan	TERBACIL	2007	kg					162.7		3822.1			
+26	Michigan	TERBACIL	2008	kg					133		2225.2			
+26	Michigan	TERBACIL	2009	kg					631.5		829.2			
+26	Michigan	TERBACIL	2010	kg					94.1		2936.2			
+26	Michigan	TERBACIL	2011	kg					266.3		1913.8			
+26	Michigan	TERBACIL	2012	kg					158.6		578.2			
+26	Michigan	TERBACIL	2013	kg					69.3		1937.4			
+26	Michigan	TERBACIL	2014	kg					410.8		2555.1			
+26	Michigan	TERBACIL	2015	kg					406		95.5			
+26	Michigan	TERBACIL	2016	kg					435.9		241.5	2096.5		
+26	Michigan	TERBACIL	2017	kg					836		480			
+27	Minnesota	TERBACIL	1992	kg							90			
+27	Minnesota	TERBACIL	1993	kg							218.3			
+27	Minnesota	TERBACIL	1994	kg					85.8		4529.3			
+27	Minnesota	TERBACIL	1995	kg					83.4		190.9			
+27	Minnesota	TERBACIL	1996	kg					36.4		102.9			
+27	Minnesota	TERBACIL	1997	kg					44.5		354.1			
+27	Minnesota	TERBACIL	1998	kg					85		188.9			
+27	Minnesota	TERBACIL	1999	kg					24.6		219.4			
+27	Minnesota	TERBACIL	2000	kg					40.4		98.4			
+27	Minnesota	TERBACIL	2001	kg					19.8		393			
+27	Minnesota	TERBACIL	2002	kg					26.6		251.8			
+27	Minnesota	TERBACIL	2003	kg					27.2		205.6			
+27	Minnesota	TERBACIL	2004	kg					12.2		218			
+27	Minnesota	TERBACIL	2005	kg					24.4		299.5			
+27	Minnesota	TERBACIL	2006	kg					22.8		546.1			
+27	Minnesota	TERBACIL	2007	kg					35.6		149.1			
+27	Minnesota	TERBACIL	2008	kg					16.4		75			
+27	Minnesota	TERBACIL	2009	kg					10.6		9.7			
+27	Minnesota	TERBACIL	2010	kg					28.1		84.9			
+27	Minnesota	TERBACIL	2011	kg					11.3		44			
+27	Minnesota	TERBACIL	2012	kg					13.7		21.2			
+27	Minnesota	TERBACIL	2013	kg							79.7			
+28	Mississippi	TERBACIL	1994	kg									21.9	
+28	Mississippi	TERBACIL	1997	kg					0					
+28	Mississippi	TERBACIL	2010	kg					9					
+29	Missouri	TERBACIL	1992	kg							80	611.6		
+29	Missouri	TERBACIL	1993	kg							118.6			
+29	Missouri	TERBACIL	1994	kg					14		18.8			
+29	Missouri	TERBACIL	1995	kg					37.5		27.3			
+29	Missouri	TERBACIL	1996	kg					20		6.5			
+29	Missouri	TERBACIL	1997	kg					21.5		21.7			
+29	Missouri	TERBACIL	1998	kg					16.4		36			
+29	Missouri	TERBACIL	1999	kg					7.3		13.4			
+29	Missouri	TERBACIL	2000	kg					7.4		5.9			
+29	Missouri	TERBACIL	2001	kg					9		24.5			
+29	Missouri	TERBACIL	2002	kg					7		61.1			
+29	Missouri	TERBACIL	2003	kg					6		8.7			
+29	Missouri	TERBACIL	2004	kg					3		34.3			
+29	Missouri	TERBACIL	2005	kg							22.5			
+29	Missouri	TERBACIL	2006	kg							134.8			
+29	Missouri	TERBACIL	2007	kg					11.6		12			
+29	Missouri	TERBACIL	2008	kg					2.3					
+29	Missouri	TERBACIL	2009	kg					1.4					
+29	Missouri	TERBACIL	2010	kg					6.6					
+29	Missouri	TERBACIL	2012	kg					321.3					
+30	Montana	TERBACIL	1993	kg					447.6					
+30	Montana	TERBACIL	1995	kg					71.5					
+30	Montana	TERBACIL	2014	kg								21698		
+31	Nebraska	TERBACIL	1992	kg								1551.5		
+31	Nebraska	TERBACIL	1993	kg								16710.3		
+31	Nebraska	TERBACIL	1994	kg								16467.5		
+31	Nebraska	TERBACIL	1995	kg								6538.5		
+31	Nebraska	TERBACIL	1998	kg								8512.6		
+31	Nebraska	TERBACIL	1999	kg								25783.8		
+31	Nebraska	TERBACIL	2000	kg								21530.3		
+31	Nebraska	TERBACIL	2002	kg								13342.4		
+31	Nebraska	TERBACIL	2003	kg								37399.3		
+31	Nebraska	TERBACIL	2004	kg								23131.4		
+31	Nebraska	TERBACIL	2005	kg								28560		
+31	Nebraska	TERBACIL	2006	kg								43642.1		
+31	Nebraska	TERBACIL	2009	kg								4508.5		
+31	Nebraska	TERBACIL	2010	kg								7192.5		
+32	Nevada	TERBACIL	1995	kg			11.2				19.2			
+32	Nevada	TERBACIL	1996	kg							3.3			
+32	Nevada	TERBACIL	1997	kg							5.2			
+32	Nevada	TERBACIL	1999	kg								373.7		
+32	Nevada	TERBACIL	2004	kg							0			
+32	Nevada	TERBACIL	2014	kg								959.1		
+33	New Hampshire	TERBACIL	1992	kg							127.5			
+33	New Hampshire	TERBACIL	1993	kg							24.2			
+33	New Hampshire	TERBACIL	1994	kg					26.4		140.1			
+33	New Hampshire	TERBACIL	1995	kg					0.7		157.3			
+33	New Hampshire	TERBACIL	1996	kg					15.4		341.1			
+33	New Hampshire	TERBACIL	1997	kg					65.5		95.6			
+33	New Hampshire	TERBACIL	1998	kg					12.6		41.6			
+33	New Hampshire	TERBACIL	1999	kg					4.2		857			
+33	New Hampshire	TERBACIL	2000	kg					5		88.2			
+33	New Hampshire	TERBACIL	2001	kg					4.4		137.2			
+33	New Hampshire	TERBACIL	2002	kg					3.8		81.5			
+33	New Hampshire	TERBACIL	2003	kg					4.6		190.2			
+33	New Hampshire	TERBACIL	2004	kg					6		135.9			
+33	New Hampshire	TERBACIL	2005	kg					4.8		156.9			
+33	New Hampshire	TERBACIL	2006	kg					12.4		118.6			
+33	New Hampshire	TERBACIL	2007	kg					5		54.5			
+33	New Hampshire	TERBACIL	2008	kg					5.7		192.1			
+33	New Hampshire	TERBACIL	2009	kg					8.8					
+33	New Hampshire	TERBACIL	2010	kg					10.4		74.9			
+33	New Hampshire	TERBACIL	2011	kg					8.7		94.6			
+33	New Hampshire	TERBACIL	2012	kg					4		9.4			
+33	New Hampshire	TERBACIL	2013	kg					10.2					
+33	New Hampshire	TERBACIL	2014	kg					6.9					
+33	New Hampshire	TERBACIL	2015	kg					4.2		47.8			
+33	New Hampshire	TERBACIL	2016	kg							20.8			
+34	New Jersey	TERBACIL	1992	kg							1643.8	109.6		
+34	New Jersey	TERBACIL	1993	kg							1137.7			
+34	New Jersey	TERBACIL	1994	kg					2643.4		1259.6			
+34	New Jersey	TERBACIL	1995	kg					503.6		2363.3	379.3		
+34	New Jersey	TERBACIL	1996	kg					2718.1		566.1			
+34	New Jersey	TERBACIL	1997	kg					866.6		210.9			
+34	New Jersey	TERBACIL	1998	kg					74.4		1736.2	439.8		
+34	New Jersey	TERBACIL	1999	kg					9.5		2111.9			
+34	New Jersey	TERBACIL	2000	kg					4.9		427			
+34	New Jersey	TERBACIL	2001	kg					13.4		668.3			
+34	New Jersey	TERBACIL	2002	kg					16.2		1002			
+34	New Jersey	TERBACIL	2003	kg					9.3		2508.3			
+34	New Jersey	TERBACIL	2004	kg					8.8		2600.8			
+34	New Jersey	TERBACIL	2005	kg					12.3		3165			
+34	New Jersey	TERBACIL	2006	kg					28.5		2282.4			
+34	New Jersey	TERBACIL	2007	kg					3.5		1865.3			
+34	New Jersey	TERBACIL	2008	kg					12.5		358.9			
+34	New Jersey	TERBACIL	2009	kg					19.7		1365.5			
+34	New Jersey	TERBACIL	2010	kg					24.3		179.1			
+34	New Jersey	TERBACIL	2011	kg					16.7		103.6			
+34	New Jersey	TERBACIL	2012	kg					1.8		10.4			
+34	New Jersey	TERBACIL	2013	kg					25.5					
+34	New Jersey	TERBACIL	2014	kg					10.3					
+34	New Jersey	TERBACIL	2015	kg					10.4		62.7			
+34	New Jersey	TERBACIL	2016	kg							28.7			
+35	New Mexico	TERBACIL	1992	kg								1185.2		
+35	New Mexico	TERBACIL	1993	kg								6327.9		
+35	New Mexico	TERBACIL	1994	kg								3252.1		
+35	New Mexico	TERBACIL	1995	kg								1931.9		
+35	New Mexico	TERBACIL	1998	kg								196.2		
+35	New Mexico	TERBACIL	1999	kg								8391.1		
+35	New Mexico	TERBACIL	2000	kg								7328.2		
+35	New Mexico	TERBACIL	2002	kg								3056.6		
+35	New Mexico	TERBACIL	2003	kg								9483.4		
+35	New Mexico	TERBACIL	2004	kg								7378.1		
+35	New Mexico	TERBACIL	2005	kg								9406.7		
+35	New Mexico	TERBACIL	2006	kg								13410.9		
+35	New Mexico	TERBACIL	2009	kg								1792		
+35	New Mexico	TERBACIL	2010	kg								2778.5		
+35	New Mexico	TERBACIL	2014	kg								356.1		
+36	New York	TERBACIL	1992	kg					6472.7		4479.9			
+36	New York	TERBACIL	1993	kg							1008			
+36	New York	TERBACIL	1994	kg					718.4		6791.8			
+36	New York	TERBACIL	1995	kg					268.2		3510.5			
+36	New York	TERBACIL	1996	kg					269.2		2989.8			
+36	New York	TERBACIL	1997	kg					506.6		3594			
+36	New York	TERBACIL	1998	kg					152.4		3942.7			
+36	New York	TERBACIL	1999	kg					132.6		1764.4			
+36	New York	TERBACIL	2000	kg					98.2		4811.9			
+36	New York	TERBACIL	2001	kg					137.9		5216.1			
+36	New York	TERBACIL	2002	kg					100.1		1765.4			
+36	New York	TERBACIL	2003	kg					58.4		2307			
+36	New York	TERBACIL	2004	kg					99.2		4256.8			
+36	New York	TERBACIL	2005	kg					65.7		2454.2			
+36	New York	TERBACIL	2006	kg					128.8		1577.2			
+36	New York	TERBACIL	2007	kg					129.2		1137			
+36	New York	TERBACIL	2008	kg					50		4982.8			
+36	New York	TERBACIL	2009	kg					86.9		1516.5			
+36	New York	TERBACIL	2010	kg					166.6		1466.7			
+36	New York	TERBACIL	2011	kg					130.8		4684			
+36	New York	TERBACIL	2012	kg					97.1		5498.2			
+36	New York	TERBACIL	2013	kg					80.2		148.5			
+36	New York	TERBACIL	2014	kg					124.5		1512.2			
+36	New York	TERBACIL	2015	kg					82		1070.8			
+36	New York	TERBACIL	2016	kg							860.6			
+36	New York	TERBACIL	2017	kg							383.9			
+37	North Carolina	TERBACIL	1992	kg							3039.2	900.9		
+37	North Carolina	TERBACIL	1993	kg							299.7	1463		
+37	North Carolina	TERBACIL	1994	kg					76.6		4522.6	36.9		
+37	North Carolina	TERBACIL	1995	kg					3		2687.9	179		
+37	North Carolina	TERBACIL	1996	kg					427.4		4283.8	50.3		
+37	North Carolina	TERBACIL	1997	kg					51.3		3702.7			
+37	North Carolina	TERBACIL	1998	kg					67.6		2254.2			
+37	North Carolina	TERBACIL	1999	kg					2.5		1377.9			
+37	North Carolina	TERBACIL	2000	kg					129		1507.8			
+37	North Carolina	TERBACIL	2001	kg					3		3169.2			
+37	North Carolina	TERBACIL	2002	kg					104		1327.7			
+37	North Carolina	TERBACIL	2003	kg					5		1798.8			
+37	North Carolina	TERBACIL	2004	kg					1.3		278.7			
+37	North Carolina	TERBACIL	2005	kg							3148.5			
+37	North Carolina	TERBACIL	2006	kg					6.8		1744.9			
+37	North Carolina	TERBACIL	2007	kg					80.4		253.1			
+37	North Carolina	TERBACIL	2008	kg					19.1		118.9			
+37	North Carolina	TERBACIL	2009	kg					140.1		405.8			
+37	North Carolina	TERBACIL	2010	kg					178.1		660.2			
+37	North Carolina	TERBACIL	2011	kg					214.3		1777.4			
+37	North Carolina	TERBACIL	2012	kg					247.7		63.6			
+37	North Carolina	TERBACIL	2013	kg					53		519.7			
+37	North Carolina	TERBACIL	2014	kg					401.9		6.2			
+37	North Carolina	TERBACIL	2015	kg					73					
+39	Ohio	TERBACIL	1992	kg					1554.2		661.4	41.1		
+39	Ohio	TERBACIL	1993	kg					53.7		1964.3			
+39	Ohio	TERBACIL	1994	kg					208.5		4395			
+39	Ohio	TERBACIL	1995	kg					90.2		5658.2	119.3		
+39	Ohio	TERBACIL	1996	kg					56.6		704.1			
+39	Ohio	TERBACIL	1997	kg					378.2		954.9			
+39	Ohio	TERBACIL	1998	kg					71.8		2251.8			
+39	Ohio	TERBACIL	1999	kg					96.1		3077.6			
+39	Ohio	TERBACIL	2000	kg					44.8		441.2			
+39	Ohio	TERBACIL	2001	kg					53.1		796.5			
+39	Ohio	TERBACIL	2002	kg					58.2		631.5			
+39	Ohio	TERBACIL	2003	kg					109.5		1223.2			
+39	Ohio	TERBACIL	2004	kg					20.4		458.7			
+39	Ohio	TERBACIL	2005	kg					40.3		956.4			
+39	Ohio	TERBACIL	2006	kg					107.9		1991.3			
+39	Ohio	TERBACIL	2007	kg					50.9		303.1			
+39	Ohio	TERBACIL	2008	kg					41.3		1124.4			
+39	Ohio	TERBACIL	2009	kg					32.3		1240.5			
+39	Ohio	TERBACIL	2010	kg					45.4		262.8			
+39	Ohio	TERBACIL	2011	kg					34.2		83.3			
+39	Ohio	TERBACIL	2012	kg					17.7		506.2			
+39	Ohio	TERBACIL	2013	kg					23		121.7			
+39	Ohio	TERBACIL	2014	kg					13.3		550.9			
+39	Ohio	TERBACIL	2015	kg							111.6			
+40	Oklahoma	TERBACIL	1992	kg								5200.1		
+40	Oklahoma	TERBACIL	1993	kg								13381.8		
+40	Oklahoma	TERBACIL	1994	kg								10043.2		
+40	Oklahoma	TERBACIL	1995	kg			1721.6					8330.8	18048.9	
+40	Oklahoma	TERBACIL	1996	kg								12638.2		
+40	Oklahoma	TERBACIL	1997	kg								2410		
+40	Oklahoma	TERBACIL	1998	kg								6831.2		
+40	Oklahoma	TERBACIL	1999	kg								20048.1		
+40	Oklahoma	TERBACIL	2000	kg								7313.2		
+40	Oklahoma	TERBACIL	2001	kg								161		
+40	Oklahoma	TERBACIL	2002	kg							2.1	13704.1		
+40	Oklahoma	TERBACIL	2003	kg								17359.4		
+40	Oklahoma	TERBACIL	2004	kg								13921.6		
+40	Oklahoma	TERBACIL	2005	kg							0.6	18885.8		
+40	Oklahoma	TERBACIL	2006	kg							14.7	38214		
+40	Oklahoma	TERBACIL	2007	kg							2.8	12113.8		
+40	Oklahoma	TERBACIL	2008	kg								20298.1		
+40	Oklahoma	TERBACIL	2009	kg								3702.4		
+40	Oklahoma	TERBACIL	2010	kg							4.2	4586.6		
+40	Oklahoma	TERBACIL	2011	kg							85.2			
+40	Oklahoma	TERBACIL	2012	kg							72.4			
+40	Oklahoma	TERBACIL	2013	kg							156.5			
+41	Oregon	TERBACIL	1992	kg							3288			
+41	Oregon	TERBACIL	1993	kg							607.4			
+41	Oregon	TERBACIL	1994	kg					447.7		166.6	8238.7		
+41	Oregon	TERBACIL	1995	kg			102.3		995.9		21.3			
+41	Oregon	TERBACIL	1996	kg					78.8		306.8			
+41	Oregon	TERBACIL	1997	kg							11			
+41	Oregon	TERBACIL	1998	kg					20.4		462.6			
+41	Oregon	TERBACIL	1999	kg					6.7		298.2			
+41	Oregon	TERBACIL	2000	kg					34.8		225.6			
+41	Oregon	TERBACIL	2001	kg							143.2			
+41	Oregon	TERBACIL	2002	kg					11.2		28.5			
+41	Oregon	TERBACIL	2003	kg					4.4		1192.9	104049.2		
+41	Oregon	TERBACIL	2004	kg					44.6		734.5			
+41	Oregon	TERBACIL	2005	kg							780.5			
+41	Oregon	TERBACIL	2006	kg							226.6			
+41	Oregon	TERBACIL	2007	kg							231.8	16997.6		
+41	Oregon	TERBACIL	2008	kg					311.3		21.8			
+41	Oregon	TERBACIL	2009	kg							196.3			
+41	Oregon	TERBACIL	2010	kg							726.6			
+41	Oregon	TERBACIL	2011	kg					8.5					
+41	Oregon	TERBACIL	2012	kg					38.5		60.7			
+41	Oregon	TERBACIL	2013	kg					66.6		323.1			
+41	Oregon	TERBACIL	2014	kg								2845.9		
+41	Oregon	TERBACIL	2016	kg							3.2			
+42	Pennsylvania	TERBACIL	1992	kg					169.1		2423.6	1114		
+42	Pennsylvania	TERBACIL	1993	kg					7.2		4031.1	2332.3		
+42	Pennsylvania	TERBACIL	1994	kg					404.4		1477	274.7		
+42	Pennsylvania	TERBACIL	1995	kg					289.2		5873.6	6095.8		
+42	Pennsylvania	TERBACIL	1996	kg					398.1		1544.9		80.3	
+42	Pennsylvania	TERBACIL	1997	kg					209.8		1195.5		61.9	
+42	Pennsylvania	TERBACIL	1998	kg					144.6		2805.2	5400.9		
+42	Pennsylvania	TERBACIL	1999	kg					47.3		1467.8			
+42	Pennsylvania	TERBACIL	2000	kg					70.8		1865.1			
+42	Pennsylvania	TERBACIL	2001	kg					104.8		2387.2			
+42	Pennsylvania	TERBACIL	2002	kg					223.9		4541.7			
+42	Pennsylvania	TERBACIL	2003	kg					67		2205.7	402.4		
+42	Pennsylvania	TERBACIL	2004	kg					41.5		1757.2	3386.2		
+42	Pennsylvania	TERBACIL	2005	kg					108.6		2668.6			
+42	Pennsylvania	TERBACIL	2006	kg					200.4		2404.8			
+42	Pennsylvania	TERBACIL	2007	kg					62.4		1166.2			
+42	Pennsylvania	TERBACIL	2008	kg					81		875.3			
+42	Pennsylvania	TERBACIL	2009	kg					198.2		2046.6			
+42	Pennsylvania	TERBACIL	2010	kg					40.1		1050.9			
+42	Pennsylvania	TERBACIL	2011	kg					94.3		1261.2			
+42	Pennsylvania	TERBACIL	2012	kg					34.2		133.9			
+42	Pennsylvania	TERBACIL	2013	kg					101.7		442.8			
+42	Pennsylvania	TERBACIL	2014	kg					45.4		4.7			
+42	Pennsylvania	TERBACIL	2015	kg					33.6		652.5			
+42	Pennsylvania	TERBACIL	2016	kg							285.8			
+42	Pennsylvania	TERBACIL	2017	kg							1756.1			
+44	Rhode Island	TERBACIL	1992	kg							17.6			
+44	Rhode Island	TERBACIL	1993	kg							6.1			
+44	Rhode Island	TERBACIL	1994	kg					14.2		4.1			
+44	Rhode Island	TERBACIL	1995	kg					24.1		28.8			
+44	Rhode Island	TERBACIL	1996	kg					3		2.3			
+44	Rhode Island	TERBACIL	1997	kg					0.7		2.3			
+44	Rhode Island	TERBACIL	1998	kg					5.5		22.9			
+44	Rhode Island	TERBACIL	1999	kg					1.9		10.7			
+44	Rhode Island	TERBACIL	2000	kg					2.3		13.8			
+44	Rhode Island	TERBACIL	2001	kg					1.8		25.3			
+44	Rhode Island	TERBACIL	2002	kg					1.7		14			
+44	Rhode Island	TERBACIL	2003	kg					1.9		33.1			
+44	Rhode Island	TERBACIL	2004	kg					2.5		27.3			
+44	Rhode Island	TERBACIL	2005	kg					2		32.4			
+44	Rhode Island	TERBACIL	2006	kg					5.3		25.6			
+44	Rhode Island	TERBACIL	2007	kg					2		14.4			
+44	Rhode Island	TERBACIL	2008	kg					2.2		35.9			
+44	Rhode Island	TERBACIL	2009	kg					3.6					
+44	Rhode Island	TERBACIL	2010	kg					4.5		13.7			
+44	Rhode Island	TERBACIL	2011	kg					3.6		16.3			
+44	Rhode Island	TERBACIL	2012	kg					1.9		1.6			
+44	Rhode Island	TERBACIL	2015	kg							7.5			
+44	Rhode Island	TERBACIL	2016	kg							3.2			
+45	South Carolina	TERBACIL	1992	kg							1343.9			
+45	South Carolina	TERBACIL	1993	kg							846.8			
+45	South Carolina	TERBACIL	1994	kg					17.1		1469.6			
+45	South Carolina	TERBACIL	1995	kg							5637.8			
+45	South Carolina	TERBACIL	1996	kg					679.3		4127.7			
+45	South Carolina	TERBACIL	1997	kg					12.1		4239.5			
+45	South Carolina	TERBACIL	1998	kg					5.9		7483.2			
+45	South Carolina	TERBACIL	2000	kg							5586.9			
+45	South Carolina	TERBACIL	2001	kg							3530.1			
+45	South Carolina	TERBACIL	2002	kg							1691.7			
+45	South Carolina	TERBACIL	2003	kg							3243.5			
+45	South Carolina	TERBACIL	2004	kg							5815.5			
+45	South Carolina	TERBACIL	2005	kg							2177.6			
+45	South Carolina	TERBACIL	2006	kg							204			
+45	South Carolina	TERBACIL	2007	kg							2658.4			
+45	South Carolina	TERBACIL	2008	kg					15.6		6.5			
+45	South Carolina	TERBACIL	2009	kg					209.2		4614.8			
+45	South Carolina	TERBACIL	2010	kg					211.5		1181.6			
+45	South Carolina	TERBACIL	2011	kg					47.6		2541.1			
+45	South Carolina	TERBACIL	2012	kg					52		1.2			
+45	South Carolina	TERBACIL	2013	kg					33.3		4283.2			
+45	South Carolina	TERBACIL	2014	kg					81.6		2672.4			
+45	South Carolina	TERBACIL	2015	kg					14.6					
+46	South Dakota	TERBACIL	1992	kg								585.4		
+46	South Dakota	TERBACIL	1994	kg					0.6					
+46	South Dakota	TERBACIL	1995	kg					0.3					
+46	South Dakota	TERBACIL	1996	kg					0.5					
+46	South Dakota	TERBACIL	1997	kg					87.5					
+46	South Dakota	TERBACIL	1998	kg					0.4					
+46	South Dakota	TERBACIL	1999	kg					0.4					
+46	South Dakota	TERBACIL	2000	kg					0.4					
+46	South Dakota	TERBACIL	2001	kg					0.4					
+46	South Dakota	TERBACIL	2002	kg					0.3					
+46	South Dakota	TERBACIL	2003	kg					0.3					
+46	South Dakota	TERBACIL	2004	kg					0.1					
+46	South Dakota	TERBACIL	2007	kg					0.5					
+46	South Dakota	TERBACIL	2008	kg					0.2					
+46	South Dakota	TERBACIL	2009	kg					0.1					
+46	South Dakota	TERBACIL	2010	kg					0.6					
+47	Tennessee	TERBACIL	1992	kg							80.8			
+47	Tennessee	TERBACIL	1993	kg							63.5	130.9		
+47	Tennessee	TERBACIL	1994	kg					159.7		417.3	74.1		
+47	Tennessee	TERBACIL	1995	kg					18.3		184.9	186.1		
+47	Tennessee	TERBACIL	1996	kg					13.6		62.6			
+47	Tennessee	TERBACIL	1997	kg					33.1		97			
+47	Tennessee	TERBACIL	1998	kg					23.9		151.5			
+47	Tennessee	TERBACIL	1999	kg					13.5		225.1			
+47	Tennessee	TERBACIL	2000	kg					21.6		138.6			
+47	Tennessee	TERBACIL	2001	kg					14.7		81.3			
+47	Tennessee	TERBACIL	2002	kg					26.3		183.4			
+47	Tennessee	TERBACIL	2003	kg					21.9		225.3			
+47	Tennessee	TERBACIL	2004	kg					5.8		35.7			
+47	Tennessee	TERBACIL	2005	kg							216.3			
+47	Tennessee	TERBACIL	2006	kg					31.6		292.4			
+47	Tennessee	TERBACIL	2007	kg					1.5		15.4			
+47	Tennessee	TERBACIL	2008	kg					6		58.4			
+47	Tennessee	TERBACIL	2009	kg							58.5			
+47	Tennessee	TERBACIL	2010	kg					12.9		32.4			
+47	Tennessee	TERBACIL	2011	kg					9.7		96.4			
+47	Tennessee	TERBACIL	2012	kg					10		16.3			
+47	Tennessee	TERBACIL	2013	kg					2.4		78.4			
+47	Tennessee	TERBACIL	2014	kg							0			
+48	Texas	TERBACIL	1992	kg								1117.7		0
+48	Texas	TERBACIL	1993	kg								4888.1		0.1
+48	Texas	TERBACIL	1994	kg								2685.7		
+48	Texas	TERBACIL	1995	kg								1469.8		
+48	Texas	TERBACIL	1996	kg							1596			
+48	Texas	TERBACIL	1997	kg								251.4		
+48	Texas	TERBACIL	1998	kg								1587.1		
+48	Texas	TERBACIL	1999	kg							1807.2	5687.3		
+48	Texas	TERBACIL	2000	kg							1212.7	4546.3		
+48	Texas	TERBACIL	2001	kg										0.1
+48	Texas	TERBACIL	2002	kg							149.9	1889.1		
+48	Texas	TERBACIL	2003	kg								23386.5		
+48	Texas	TERBACIL	2004	kg								10739.6		
+48	Texas	TERBACIL	2005	kg							94.5	8398.6		
+48	Texas	TERBACIL	2006	kg							274.5	10800.4		
+48	Texas	TERBACIL	2007	kg							329.5			
+48	Texas	TERBACIL	2009	kg								1249		
+48	Texas	TERBACIL	2010	kg							556.6	2196.8		
+48	Texas	TERBACIL	2011	kg							1306.4			
+48	Texas	TERBACIL	2012	kg							1213			
+48	Texas	TERBACIL	2013	kg							2731			
+48	Texas	TERBACIL	2014	kg					941.4					
+48	Texas	TERBACIL	2015	kg					649					
+49	Utah	TERBACIL	1993	kg					44.2					
+49	Utah	TERBACIL	1995	kg							987.9			
+49	Utah	TERBACIL	1996	kg							187.7			
+49	Utah	TERBACIL	1997	kg							908.8			
+49	Utah	TERBACIL	1999	kg								892.2		
+49	Utah	TERBACIL	2004	kg							19.2			
+49	Utah	TERBACIL	2014	kg								2042.4		
+50	Vermont	TERBACIL	1992	kg							162.3			
+50	Vermont	TERBACIL	1993	kg							52.8			
+50	Vermont	TERBACIL	1994	kg					47.7		153.4			
+50	Vermont	TERBACIL	1995	kg					10.2		12.2			
+50	Vermont	TERBACIL	1996	kg					10.6		20.6			
+50	Vermont	TERBACIL	1997	kg					44.1		125.6			
+50	Vermont	TERBACIL	1998	kg					13.2		34.9			
+50	Vermont	TERBACIL	1999	kg					4.7		106.9			
+50	Vermont	TERBACIL	2000	kg					6.3		69.3			
+50	Vermont	TERBACIL	2001	kg					5.6		2054.2			
+50	Vermont	TERBACIL	2002	kg					5.5		74.5			
+50	Vermont	TERBACIL	2003	kg					6.7		262.3			
+50	Vermont	TERBACIL	2004	kg					9		161			
+50	Vermont	TERBACIL	2005	kg					7.2		193.4			
+50	Vermont	TERBACIL	2006	kg					18.4		152.1			
+50	Vermont	TERBACIL	2007	kg					7.4		56.5			
+50	Vermont	TERBACIL	2008	kg					10.5		343.6			
+50	Vermont	TERBACIL	2009	kg					14.2					
+50	Vermont	TERBACIL	2010	kg					22.4		101.2			
+50	Vermont	TERBACIL	2011	kg					13.9		127.5			
+50	Vermont	TERBACIL	2012	kg					12		11.6			
+50	Vermont	TERBACIL	2013	kg					16.5					
+50	Vermont	TERBACIL	2014	kg					21.8					
+50	Vermont	TERBACIL	2015	kg					13.9		128.8			
+50	Vermont	TERBACIL	2016	kg							43.1			
+51	Virginia	TERBACIL	1992	kg					286		1424.1	241.3	106.5	
+51	Virginia	TERBACIL	1993	kg							591.8	1164		
+51	Virginia	TERBACIL	1994	kg					26.2		233.8	278.3		
+51	Virginia	TERBACIL	1995	kg					1.9		10429.1	757.2		
+51	Virginia	TERBACIL	1996	kg					33.1		7837.9	427.4		
+51	Virginia	TERBACIL	1997	kg					21		868.1		17.2	
+51	Virginia	TERBACIL	1998	kg					89.9		2536.4	334.1		
+51	Virginia	TERBACIL	1999	kg					18		2412.9	200.9		
+51	Virginia	TERBACIL	2000	kg					39.6		6867.2			
+51	Virginia	TERBACIL	2001	kg					15.1		1187.7	1004.2		
+51	Virginia	TERBACIL	2002	kg					11		429.7			
+51	Virginia	TERBACIL	2003	kg					3.4		756.6	90.2		
+51	Virginia	TERBACIL	2004	kg					5.5		1971.1	683.6		
+51	Virginia	TERBACIL	2005	kg							371.2	3402.3		
+51	Virginia	TERBACIL	2006	kg					8.6		613.4			
+51	Virginia	TERBACIL	2007	kg					7.6		205.6			
+51	Virginia	TERBACIL	2008	kg					5.6		764.9			
+51	Virginia	TERBACIL	2009	kg					4.7		2277.1			
+51	Virginia	TERBACIL	2010	kg					6.6		1487.5			
+51	Virginia	TERBACIL	2011	kg					8.7		679.3			
+51	Virginia	TERBACIL	2012	kg					8.5		38.2			
+51	Virginia	TERBACIL	2013	kg					3.9		1504.1			
+51	Virginia	TERBACIL	2014	kg					9.1		0.8			
+51	Virginia	TERBACIL	2015	kg					0.8					
+53	Washington	TERBACIL	1992	kg							18847.8			
+53	Washington	TERBACIL	1993	kg							12395.5			
+53	Washington	TERBACIL	1994	kg					35.9		2546.4	2907.8		
+53	Washington	TERBACIL	1995	kg					123.8		517.7			
+53	Washington	TERBACIL	1996	kg					7.1		4900.3			
+53	Washington	TERBACIL	1997	kg							296.7			
+53	Washington	TERBACIL	1998	kg					556.6		8829.9			
+53	Washington	TERBACIL	1999	kg					2.5		4729.7			
+53	Washington	TERBACIL	2000	kg					488		3705.7			
+53	Washington	TERBACIL	2001	kg							2116.3			
+53	Washington	TERBACIL	2002	kg					5.7		1313.8			
+53	Washington	TERBACIL	2003	kg					2.2		22346.8	2840.8		
+53	Washington	TERBACIL	2004	kg					31.2		14553.1	5568.4		
+53	Washington	TERBACIL	2005	kg							4954.1			
+53	Washington	TERBACIL	2006	kg							2397.4			
+53	Washington	TERBACIL	2007	kg							8909.5	74555.5		
+53	Washington	TERBACIL	2008	kg					230.7		797.8			
+53	Washington	TERBACIL	2009	kg							11771.6			
+53	Washington	TERBACIL	2010	kg							42737.5			
+53	Washington	TERBACIL	2011	kg					3.9					
+53	Washington	TERBACIL	2012	kg					18.4		1668.1			
+53	Washington	TERBACIL	2013	kg					53.6		19856.1			
+53	Washington	TERBACIL	2014	kg							1749.7	894.9		
+53	Washington	TERBACIL	2016	kg							11.2			
+53	Washington	TERBACIL	2017	kg								4811.4		
+54	West Virginia	TERBACIL	1992	kg							507.1	42.3		
+54	West Virginia	TERBACIL	1993	kg					0.3		162.4	201.8		
+54	West Virginia	TERBACIL	1994	kg					12.7		444.2	47.6		
+54	West Virginia	TERBACIL	1995	kg					6.6		527.1	436.1		
+54	West Virginia	TERBACIL	1996	kg					12		427.5			
+54	West Virginia	TERBACIL	1997	kg					21.3		720		7.4	
+54	West Virginia	TERBACIL	1998	kg					11.7		889.4	130.1		
+54	West Virginia	TERBACIL	1999	kg					4.7		1058.4			
+54	West Virginia	TERBACIL	2000	kg					5.2		2317.2			
+54	West Virginia	TERBACIL	2001	kg					6.4		446.2	405.2		
+54	West Virginia	TERBACIL	2002	kg					3.9		70.9			
+54	West Virginia	TERBACIL	2003	kg					6.5		302.7	61		
+54	West Virginia	TERBACIL	2004	kg					1.6		707.8	543.5		
+54	West Virginia	TERBACIL	2005	kg							448.4	997.1		
+54	West Virginia	TERBACIL	2006	kg					12.9		455			
+54	West Virginia	TERBACIL	2007	kg							56.1			
+54	West Virginia	TERBACIL	2008	kg					4		593.9			
+54	West Virginia	TERBACIL	2009	kg					4.9		729.7			
+54	West Virginia	TERBACIL	2010	kg					1.5		370.2			
+54	West Virginia	TERBACIL	2011	kg					6.8		135			
+54	West Virginia	TERBACIL	2012	kg					2.4		14.3			
+54	West Virginia	TERBACIL	2013	kg					5.7		332.8			
+54	West Virginia	TERBACIL	2014	kg					2.1		4.2			
+54	West Virginia	TERBACIL	2017	kg							50.7			
+55	Wisconsin	TERBACIL	1992	kg							190.5			
+55	Wisconsin	TERBACIL	1993	kg					0.8		994.7			
+55	Wisconsin	TERBACIL	1994	kg					4957.7		1068.7			
+55	Wisconsin	TERBACIL	1995	kg					201.9		213.9			
+55	Wisconsin	TERBACIL	1996	kg					414.1		337.7			
+55	Wisconsin	TERBACIL	1997	kg					95.5		447.9			
+55	Wisconsin	TERBACIL	1998	kg					98.5		268.6			
+55	Wisconsin	TERBACIL	1999	kg					41		271.9			
+55	Wisconsin	TERBACIL	2000	kg					110.4		122.8			
+55	Wisconsin	TERBACIL	2001	kg					53.6		441.1			
+55	Wisconsin	TERBACIL	2002	kg					58.2		92.6			
+55	Wisconsin	TERBACIL	2003	kg					67.6		581.8			
+55	Wisconsin	TERBACIL	2004	kg					138.3		320.4			
+55	Wisconsin	TERBACIL	2005	kg					84.7		269.6			
+55	Wisconsin	TERBACIL	2006	kg					83.8		419.7			
+55	Wisconsin	TERBACIL	2007	kg					49.1		134.6			
+55	Wisconsin	TERBACIL	2008	kg					63.1		280.9			
+55	Wisconsin	TERBACIL	2009	kg					30.4		34.5			
+55	Wisconsin	TERBACIL	2010	kg					48.1		285			
+55	Wisconsin	TERBACIL	2011	kg					45		138.7			
+55	Wisconsin	TERBACIL	2012	kg					52.7		63.8			
+55	Wisconsin	TERBACIL	2013	kg					7.4		227.1			
+55	Wisconsin	TERBACIL	2014	kg					7.2					
+56	Wyoming	TERBACIL	1993	kg					0.2					

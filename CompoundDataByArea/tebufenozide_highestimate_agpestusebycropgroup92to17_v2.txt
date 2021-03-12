@@ -1,0 +1,332 @@
+01	Alabama	TEBUFENOZIDE	1995	kg				1586.5						
+01	Alabama	TEBUFENOZIDE	1998	kg							363.7			
+01	Alabama	TEBUFENOZIDE	1999	kg							1162.1			
+01	Alabama	TEBUFENOZIDE	2000	kg							1119.4			
+01	Alabama	TEBUFENOZIDE	2001	kg				17.3			499.4			
+01	Alabama	TEBUFENOZIDE	2002	kg							811.9			
+01	Alabama	TEBUFENOZIDE	2003	kg							1303.6			
+01	Alabama	TEBUFENOZIDE	2004	kg							125.5			
+01	Alabama	TEBUFENOZIDE	2005	kg							411.3			
+01	Alabama	TEBUFENOZIDE	2006	kg							59.3			
+01	Alabama	TEBUFENOZIDE	2007	kg							0.6			
+04	Arizona	TEBUFENOZIDE	1995	kg							0			
+04	Arizona	TEBUFENOZIDE	1996	kg							0			
+04	Arizona	TEBUFENOZIDE	1997	kg							0			
+04	Arizona	TEBUFENOZIDE	1998	kg					6696.4		0			
+04	Arizona	TEBUFENOZIDE	1999	kg					507.2		0			
+04	Arizona	TEBUFENOZIDE	2000	kg					2684.8		0			
+04	Arizona	TEBUFENOZIDE	2001	kg					390.7		30.9			
+04	Arizona	TEBUFENOZIDE	2002	kg					743		35.2			
+04	Arizona	TEBUFENOZIDE	2003	kg					748.7		19.2			
+04	Arizona	TEBUFENOZIDE	2004	kg					4423.6		8.3			
+04	Arizona	TEBUFENOZIDE	2005	kg					42.2		0			
+04	Arizona	TEBUFENOZIDE	2006	kg							0			
+04	Arizona	TEBUFENOZIDE	2007	kg							0			
+04	Arizona	TEBUFENOZIDE	2008	kg							0			
+04	Arizona	TEBUFENOZIDE	2009	kg							0			
+04	Arizona	TEBUFENOZIDE	2012	kg							110.6			
+05	Arkansas	TEBUFENOZIDE	1995	kg				3028.9						
+05	Arkansas	TEBUFENOZIDE	1996	kg				3239.7						
+05	Arkansas	TEBUFENOZIDE	1997	kg				6.3						
+05	Arkansas	TEBUFENOZIDE	1999	kg							809			
+05	Arkansas	TEBUFENOZIDE	2000	kg							59.3			
+05	Arkansas	TEBUFENOZIDE	2001	kg				114.1			63.2			
+05	Arkansas	TEBUFENOZIDE	2002	kg				1369.8			299.4			
+05	Arkansas	TEBUFENOZIDE	2003	kg							310.3			
+05	Arkansas	TEBUFENOZIDE	2004	kg							188.6			
+05	Arkansas	TEBUFENOZIDE	2010	kg				1040.7						
+05	Arkansas	TEBUFENOZIDE	2015	kg							822.7			
+06	California	TEBUFENOZIDE	1995	kg							3607.4			
+06	California	TEBUFENOZIDE	1996	kg							1585.3			
+06	California	TEBUFENOZIDE	1997	kg					109.3		1856.9			434.5
+06	California	TEBUFENOZIDE	1998	kg					2605.6		2347.9			
+06	California	TEBUFENOZIDE	1999	kg					1697.5		2462.3			
+06	California	TEBUFENOZIDE	2000	kg	8.2			8502.7	24957.2		8141.2	819.2		8.6
+06	California	TEBUFENOZIDE	2001	kg	4.3			6836.6	10698.7		14582.2	1064.4		19.5
+06	California	TEBUFENOZIDE	2002	kg				1470.7	8978.6		19110.7	335.7		41.1
+06	California	TEBUFENOZIDE	2003	kg				9067.9	14098		18723.6	472.2		
+06	California	TEBUFENOZIDE	2004	kg				227.6	6790		2534.1	470.4		
+06	California	TEBUFENOZIDE	2005	kg				782.6	2343.6		837.4	680.7		5.5
+06	California	TEBUFENOZIDE	2006	kg				375.6	1826.3		797.3	313.9		4.6
+06	California	TEBUFENOZIDE	2007	kg				671.9	568.8		433.7			5.5
+06	California	TEBUFENOZIDE	2008	kg				192.2	354.6		166.2			
+06	California	TEBUFENOZIDE	2009	kg					296.2		203.5			
+06	California	TEBUFENOZIDE	2010	kg					123.3		16.4			
+06	California	TEBUFENOZIDE	2011	kg					46.5		57.4			
+06	California	TEBUFENOZIDE	2012	kg					151.3		5.9			
+06	California	TEBUFENOZIDE	2013	kg					101.7		4.2			
+06	California	TEBUFENOZIDE	2014	kg					3.9					
+06	California	TEBUFENOZIDE	2015	kg					8.6		8.8			
+06	California	TEBUFENOZIDE	2016	kg					3.8		90.9			
+06	California	TEBUFENOZIDE	2017	kg					1.1		5.9			
+08	Colorado	TEBUFENOZIDE	1998	kg					66.8					
+08	Colorado	TEBUFENOZIDE	2001	kg					7.8					
+10	Delaware	TEBUFENOZIDE	1999	kg							0.5			
+10	Delaware	TEBUFENOZIDE	2000	kg							0.2			
+10	Delaware	TEBUFENOZIDE	2001	kg							0.1			
+10	Delaware	TEBUFENOZIDE	2004	kg					1.1					
+12	Florida	TEBUFENOZIDE	1995	kg				284.4						
+12	Florida	TEBUFENOZIDE	1998	kg							88.5			
+12	Florida	TEBUFENOZIDE	1999	kg							208.4			
+12	Florida	TEBUFENOZIDE	2000	kg				76.2	2413.3		166.5			384.6
+12	Florida	TEBUFENOZIDE	2001	kg				15	1084.9		58.1			
+12	Florida	TEBUFENOZIDE	2002	kg					1075.5		115.6			10.9
+12	Florida	TEBUFENOZIDE	2003	kg					2901		91			
+12	Florida	TEBUFENOZIDE	2004	kg					7646.1		31.6			
+12	Florida	TEBUFENOZIDE	2005	kg					401.3		80.2			
+12	Florida	TEBUFENOZIDE	2006	kg					1289.7		13.6			
+12	Florida	TEBUFENOZIDE	2007	kg							0.5			
+12	Florida	TEBUFENOZIDE	2008	kg					345					
+12	Florida	TEBUFENOZIDE	2011	kg					89.2					
+12	Florida	TEBUFENOZIDE	2013	kg					439.6					
+13	Georgia	TEBUFENOZIDE	1995	kg				3754.9						
+13	Georgia	TEBUFENOZIDE	1996	kg				8204.8						
+13	Georgia	TEBUFENOZIDE	1998	kg							3234.6			
+13	Georgia	TEBUFENOZIDE	1999	kg							3096.7			
+13	Georgia	TEBUFENOZIDE	2000	kg				839.6			1752.5			
+13	Georgia	TEBUFENOZIDE	2001	kg				124.5			1314.7			
+13	Georgia	TEBUFENOZIDE	2002	kg							1497.5			
+13	Georgia	TEBUFENOZIDE	2003	kg							1561.7			
+13	Georgia	TEBUFENOZIDE	2004	kg							610.5			
+13	Georgia	TEBUFENOZIDE	2005	kg							9.9			
+13	Georgia	TEBUFENOZIDE	2006	kg							242			
+13	Georgia	TEBUFENOZIDE	2007	kg							14.4			
+16	Idaho	TEBUFENOZIDE	2000	kg							3.1			
+16	Idaho	TEBUFENOZIDE	2001	kg							0.2			
+16	Idaho	TEBUFENOZIDE	2002	kg							0.2			
+17	Illinois	TEBUFENOZIDE	2000	kg							1454.9			
+17	Illinois	TEBUFENOZIDE	2001	kg							44.1			
+17	Illinois	TEBUFENOZIDE	2008	kg					5.7					
+17	Illinois	TEBUFENOZIDE	2013	kg					4.1					
+18	Indiana	TEBUFENOZIDE	1996	kg							3			
+18	Indiana	TEBUFENOZIDE	1999	kg							10.9			
+18	Indiana	TEBUFENOZIDE	2000	kg							6.5			
+18	Indiana	TEBUFENOZIDE	2001	kg							52.3			
+18	Indiana	TEBUFENOZIDE	2008	kg					6.1					
+18	Indiana	TEBUFENOZIDE	2009	kg					3					
+18	Indiana	TEBUFENOZIDE	2010	kg					3.1					
+20	Kansas	TEBUFENOZIDE	1998	kg							32.3			
+20	Kansas	TEBUFENOZIDE	1999	kg							4.9			
+20	Kansas	TEBUFENOZIDE	2000	kg							77			
+20	Kansas	TEBUFENOZIDE	2001	kg							227.5			
+20	Kansas	TEBUFENOZIDE	2002	kg							47.3			
+20	Kansas	TEBUFENOZIDE	2003	kg							35			
+20	Kansas	TEBUFENOZIDE	2004	kg							7.2			
+20	Kansas	TEBUFENOZIDE	2005	kg							52.1			
+20	Kansas	TEBUFENOZIDE	2006	kg							8.3			
+20	Kansas	TEBUFENOZIDE	2007	kg							36			
+20	Kansas	TEBUFENOZIDE	2008	kg							4.7			
+20	Kansas	TEBUFENOZIDE	2009	kg							12.6			
+20	Kansas	TEBUFENOZIDE	2010	kg							42			
+20	Kansas	TEBUFENOZIDE	2011	kg							9.9			
+20	Kansas	TEBUFENOZIDE	2012	kg							13.1			
+20	Kansas	TEBUFENOZIDE	2013	kg							26.7			
+20	Kansas	TEBUFENOZIDE	2014	kg							26.8			
+21	Kentucky	TEBUFENOZIDE	2000	kg							59.4			
+21	Kentucky	TEBUFENOZIDE	2001	kg							2.1			
+21	Kentucky	TEBUFENOZIDE	2008	kg					2.9					
+21	Kentucky	TEBUFENOZIDE	2009	kg					0.9					
+22	Louisiana	TEBUFENOZIDE	1995	kg				78.9						
+22	Louisiana	TEBUFENOZIDE	1996	kg				1675.1						
+22	Louisiana	TEBUFENOZIDE	1997	kg				9.6						3023.6
+22	Louisiana	TEBUFENOZIDE	1998	kg										3867.1
+22	Louisiana	TEBUFENOZIDE	1999	kg							1269.9			10517.4
+22	Louisiana	TEBUFENOZIDE	2000	kg						4841.1	141.9			4348.4
+22	Louisiana	TEBUFENOZIDE	2001	kg							446.6			5835.5
+22	Louisiana	TEBUFENOZIDE	2002	kg							855.9			11096.3
+22	Louisiana	TEBUFENOZIDE	2003	kg							659.7			13318.5
+22	Louisiana	TEBUFENOZIDE	2004	kg						2271.5	232.6			10919.7
+22	Louisiana	TEBUFENOZIDE	2005	kg										9771.2
+22	Louisiana	TEBUFENOZIDE	2006	kg										8460.9
+22	Louisiana	TEBUFENOZIDE	2007	kg							21.1			10525.5
+22	Louisiana	TEBUFENOZIDE	2008	kg							11.1			3825.1
+22	Louisiana	TEBUFENOZIDE	2009	kg							14.1			6066.6
+22	Louisiana	TEBUFENOZIDE	2010	kg										2800.5
+22	Louisiana	TEBUFENOZIDE	2011	kg										5045.8
+22	Louisiana	TEBUFENOZIDE	2012	kg										3995.7
+22	Louisiana	TEBUFENOZIDE	2013	kg										4627.3
+22	Louisiana	TEBUFENOZIDE	2014	kg										2283.3
+22	Louisiana	TEBUFENOZIDE	2015	kg							1325.1			2831.6
+22	Louisiana	TEBUFENOZIDE	2016	kg										2492.3
+24	Maryland	TEBUFENOZIDE	1996	kg							4.3			
+24	Maryland	TEBUFENOZIDE	1997	kg							44.8			
+24	Maryland	TEBUFENOZIDE	1998	kg							67.6			
+24	Maryland	TEBUFENOZIDE	1999	kg							125.9			
+24	Maryland	TEBUFENOZIDE	2000	kg							74.9			
+24	Maryland	TEBUFENOZIDE	2001	kg							33.4			
+24	Maryland	TEBUFENOZIDE	2002	kg					0.2					
+24	Maryland	TEBUFENOZIDE	2004	kg					20.5		26.5			
+26	Michigan	TEBUFENOZIDE	1996	kg							157.5			
+26	Michigan	TEBUFENOZIDE	1998	kg							8.2			
+26	Michigan	TEBUFENOZIDE	1999	kg							612.6			
+26	Michigan	TEBUFENOZIDE	2000	kg							370.8			
+26	Michigan	TEBUFENOZIDE	2001	kg							382.4			
+26	Michigan	TEBUFENOZIDE	2008	kg							101.4			
+26	Michigan	TEBUFENOZIDE	2010	kg					18.6		61.4			
+26	Michigan	TEBUFENOZIDE	2013	kg							293.4			
+28	Mississippi	TEBUFENOZIDE	1995	kg				5708.9						
+28	Mississippi	TEBUFENOZIDE	1996	kg				2439.1						
+28	Mississippi	TEBUFENOZIDE	1997	kg				19.5						
+28	Mississippi	TEBUFENOZIDE	1998	kg							31.7			
+28	Mississippi	TEBUFENOZIDE	1999	kg							237.9			
+28	Mississippi	TEBUFENOZIDE	2000	kg							250			
+28	Mississippi	TEBUFENOZIDE	2001	kg				255.8			184.5			
+28	Mississippi	TEBUFENOZIDE	2002	kg							643.2			
+28	Mississippi	TEBUFENOZIDE	2003	kg							325.4			
+28	Mississippi	TEBUFENOZIDE	2004	kg							165.2			
+28	Mississippi	TEBUFENOZIDE	2005	kg							71.4			
+28	Mississippi	TEBUFENOZIDE	2006	kg							12.5			
+29	Missouri	TEBUFENOZIDE	1999	kg							0.1			
+29	Missouri	TEBUFENOZIDE	2000	kg							1886.1			
+29	Missouri	TEBUFENOZIDE	2001	kg							71.4			
+29	Missouri	TEBUFENOZIDE	2002	kg				1235.8			3.5			
+29	Missouri	TEBUFENOZIDE	2003	kg							2.1			
+29	Missouri	TEBUFENOZIDE	2004	kg							0.3			
+29	Missouri	TEBUFENOZIDE	2010	kg				742.9						
+32	Nevada	TEBUFENOZIDE	2001	kg					0.4					
+32	Nevada	TEBUFENOZIDE	2003	kg					0.7		0.1			
+32	Nevada	TEBUFENOZIDE	2004	kg					0.3					
+34	New Jersey	TEBUFENOZIDE	1999	kg					45.2		196.9			
+34	New Jersey	TEBUFENOZIDE	2000	kg							79.1			
+34	New Jersey	TEBUFENOZIDE	2001	kg							36.4			
+34	New Jersey	TEBUFENOZIDE	2002	kg					21.4					
+34	New Jersey	TEBUFENOZIDE	2003	kg					22.7					
+34	New Jersey	TEBUFENOZIDE	2004	kg					16.3					
+34	New Jersey	TEBUFENOZIDE	2007	kg					4.8					
+34	New Jersey	TEBUFENOZIDE	2008	kg					102.6					
+35	New Mexico	TEBUFENOZIDE	1995	kg				49.6						
+35	New Mexico	TEBUFENOZIDE	1996	kg				35						
+35	New Mexico	TEBUFENOZIDE	1997	kg				7.7						
+35	New Mexico	TEBUFENOZIDE	1998	kg					34.9		218.3			
+35	New Mexico	TEBUFENOZIDE	1999	kg							419.7			
+35	New Mexico	TEBUFENOZIDE	2000	kg				234.4	110.5		1070.4			
+35	New Mexico	TEBUFENOZIDE	2001	kg				234.6	215.2		1057			
+35	New Mexico	TEBUFENOZIDE	2002	kg					1.2		1575.5			
+35	New Mexico	TEBUFENOZIDE	2003	kg					1277.4		434.4			
+35	New Mexico	TEBUFENOZIDE	2004	kg					222.1		701.6			
+35	New Mexico	TEBUFENOZIDE	2005	kg							293.4			
+35	New Mexico	TEBUFENOZIDE	2006	kg					301.9		38.8			
+35	New Mexico	TEBUFENOZIDE	2007	kg					103.1		434.9			
+35	New Mexico	TEBUFENOZIDE	2008	kg							46			
+35	New Mexico	TEBUFENOZIDE	2009	kg							116.5			
+35	New Mexico	TEBUFENOZIDE	2010	kg							189.2			
+35	New Mexico	TEBUFENOZIDE	2011	kg							78.5			
+35	New Mexico	TEBUFENOZIDE	2012	kg							85.8			
+35	New Mexico	TEBUFENOZIDE	2013	kg							231.2			
+35	New Mexico	TEBUFENOZIDE	2014	kg							562.6			
+36	New York	TEBUFENOZIDE	1999	kg							1903.1			
+36	New York	TEBUFENOZIDE	2000	kg							183.6			
+36	New York	TEBUFENOZIDE	2001	kg							254.3			
+36	New York	TEBUFENOZIDE	2002	kg							4171.4			
+36	New York	TEBUFENOZIDE	2003	kg							57.5			
+36	New York	TEBUFENOZIDE	2004	kg							124.6			
+36	New York	TEBUFENOZIDE	2006	kg							42.1			
+37	North Carolina	TEBUFENOZIDE	1998	kg							63.1			
+37	North Carolina	TEBUFENOZIDE	1999	kg							326.5			
+37	North Carolina	TEBUFENOZIDE	2000	kg							786.6			
+37	North Carolina	TEBUFENOZIDE	2001	kg							541.5			
+37	North Carolina	TEBUFENOZIDE	2002	kg							96.3			
+37	North Carolina	TEBUFENOZIDE	2003	kg					33.1					
+37	North Carolina	TEBUFENOZIDE	2005	kg							96.5			
+39	Ohio	TEBUFENOZIDE	2000	kg					7.1					
+39	Ohio	TEBUFENOZIDE	2001	kg							11.4			
+39	Ohio	TEBUFENOZIDE	2008	kg					178.3		6.3			
+39	Ohio	TEBUFENOZIDE	2009	kg					76.5					
+39	Ohio	TEBUFENOZIDE	2010	kg							3.1			
+39	Ohio	TEBUFENOZIDE	2013	kg							22.5			
+40	Oklahoma	TEBUFENOZIDE	1995	kg				230.4						
+40	Oklahoma	TEBUFENOZIDE	1996	kg				284.8						
+40	Oklahoma	TEBUFENOZIDE	1998	kg							294.6			
+40	Oklahoma	TEBUFENOZIDE	1999	kg							356.9			
+40	Oklahoma	TEBUFENOZIDE	2000	kg				431.4			1259			
+40	Oklahoma	TEBUFENOZIDE	2001	kg				327			3010.3			
+40	Oklahoma	TEBUFENOZIDE	2002	kg							496.8			
+40	Oklahoma	TEBUFENOZIDE	2003	kg							148.1			
+40	Oklahoma	TEBUFENOZIDE	2004	kg							379.8			
+40	Oklahoma	TEBUFENOZIDE	2005	kg							1218.1			
+40	Oklahoma	TEBUFENOZIDE	2006	kg							155.1			
+40	Oklahoma	TEBUFENOZIDE	2007	kg							712.4			
+40	Oklahoma	TEBUFENOZIDE	2008	kg							124.3			
+40	Oklahoma	TEBUFENOZIDE	2009	kg							240.5			
+40	Oklahoma	TEBUFENOZIDE	2010	kg							917.9			
+40	Oklahoma	TEBUFENOZIDE	2011	kg							182.4			
+40	Oklahoma	TEBUFENOZIDE	2012	kg							196.7			
+40	Oklahoma	TEBUFENOZIDE	2013	kg							701.5			
+40	Oklahoma	TEBUFENOZIDE	2014	kg							540.2			
+40	Oklahoma	TEBUFENOZIDE	2016	kg							265.6			
+41	Oregon	TEBUFENOZIDE	1999	kg							100.8			
+41	Oregon	TEBUFENOZIDE	2000	kg							1026.5			
+41	Oregon	TEBUFENOZIDE	2001	kg							575.3			
+41	Oregon	TEBUFENOZIDE	2002	kg							8.8			
+41	Oregon	TEBUFENOZIDE	2003	kg							1242.2			
+41	Oregon	TEBUFENOZIDE	2006	kg					84.6					
+41	Oregon	TEBUFENOZIDE	2009	kg					14.7					
+42	Pennsylvania	TEBUFENOZIDE	1996	kg							51.7			
+42	Pennsylvania	TEBUFENOZIDE	1997	kg							860.9			
+42	Pennsylvania	TEBUFENOZIDE	1998	kg							719			
+42	Pennsylvania	TEBUFENOZIDE	1999	kg					0.6		1418.5			
+42	Pennsylvania	TEBUFENOZIDE	2000	kg							602			
+42	Pennsylvania	TEBUFENOZIDE	2001	kg							337.6			
+42	Pennsylvania	TEBUFENOZIDE	2002	kg					0.4					
+42	Pennsylvania	TEBUFENOZIDE	2003	kg					0.2					
+42	Pennsylvania	TEBUFENOZIDE	2004	kg					0.5		274.4			
+42	Pennsylvania	TEBUFENOZIDE	2007	kg					0					
+42	Pennsylvania	TEBUFENOZIDE	2008	kg					0.2					
+45	South Carolina	TEBUFENOZIDE	1995	kg				914.8						
+45	South Carolina	TEBUFENOZIDE	1998	kg							34.5			
+45	South Carolina	TEBUFENOZIDE	1999	kg							117.6			
+45	South Carolina	TEBUFENOZIDE	2000	kg							248.8			
+45	South Carolina	TEBUFENOZIDE	2001	kg							187.1			
+45	South Carolina	TEBUFENOZIDE	2002	kg							62.6			
+45	South Carolina	TEBUFENOZIDE	2003	kg					2		18.5			
+45	South Carolina	TEBUFENOZIDE	2004	kg							11.5			
+45	South Carolina	TEBUFENOZIDE	2005	kg							16.3			
+45	South Carolina	TEBUFENOZIDE	2006	kg							7.9			
+47	Tennessee	TEBUFENOZIDE	1995	kg				1573.9						
+47	Tennessee	TEBUFENOZIDE	1996	kg				1105.9						
+47	Tennessee	TEBUFENOZIDE	1998	kg							4.3			
+47	Tennessee	TEBUFENOZIDE	1999	kg							25.5			
+47	Tennessee	TEBUFENOZIDE	2000	kg							567.5			
+47	Tennessee	TEBUFENOZIDE	2001	kg							64.5			
+47	Tennessee	TEBUFENOZIDE	2002	kg				464.6			17.3			
+47	Tennessee	TEBUFENOZIDE	2004	kg							6.6			
+47	Tennessee	TEBUFENOZIDE	2005	kg							7.6			
+47	Tennessee	TEBUFENOZIDE	2010	kg				226.6						
+48	Texas	TEBUFENOZIDE	1995	kg				40220						
+48	Texas	TEBUFENOZIDE	1996	kg				5796.6	1090.4					
+48	Texas	TEBUFENOZIDE	1997	kg				555.3						
+48	Texas	TEBUFENOZIDE	1998	kg				846.4	523.2		1354.7			
+48	Texas	TEBUFENOZIDE	1999	kg							5461.3			0
+48	Texas	TEBUFENOZIDE	2000	kg				16575.9	1176.3		2620.2			0
+48	Texas	TEBUFENOZIDE	2001	kg				1250.6	901.3		4894.7			0
+48	Texas	TEBUFENOZIDE	2002	kg					88.6		3170.5			0
+48	Texas	TEBUFENOZIDE	2003	kg					1190.5		2600			0
+48	Texas	TEBUFENOZIDE	2004	kg					189.1		1911.2			0
+48	Texas	TEBUFENOZIDE	2005	kg							2605.1			0
+48	Texas	TEBUFENOZIDE	2006	kg					241.4		649.2			0
+48	Texas	TEBUFENOZIDE	2007	kg					86.1		1259.8			
+48	Texas	TEBUFENOZIDE	2008	kg							422.3			
+48	Texas	TEBUFENOZIDE	2009	kg							596.6			
+48	Texas	TEBUFENOZIDE	2010	kg							1794.5			
+48	Texas	TEBUFENOZIDE	2011	kg							638.3			
+48	Texas	TEBUFENOZIDE	2012	kg				621.3			511.2			
+48	Texas	TEBUFENOZIDE	2013	kg							1048.7			0.2
+48	Texas	TEBUFENOZIDE	2014	kg				192.5			325.3			0.1
+48	Texas	TEBUFENOZIDE	2015	kg							921.1			0
+48	Texas	TEBUFENOZIDE	2016	kg										0
+49	Utah	TEBUFENOZIDE	1998	kg					0.1					
+49	Utah	TEBUFENOZIDE	2001	kg					0					
+51	Virginia	TEBUFENOZIDE	1997	kg							27.2			
+51	Virginia	TEBUFENOZIDE	1999	kg							205.5			
+51	Virginia	TEBUFENOZIDE	2000	kg							726.5			
+53	Washington	TEBUFENOZIDE	1999	kg							869.2			
+53	Washington	TEBUFENOZIDE	2000	kg							1627			
+53	Washington	TEBUFENOZIDE	2001	kg							877.7			
+53	Washington	TEBUFENOZIDE	2002	kg							527.1			
+53	Washington	TEBUFENOZIDE	2006	kg					9.7					
+53	Washington	TEBUFENOZIDE	2009	kg					11.1					
+54	West Virginia	TEBUFENOZIDE	1997	kg							9.9			
+54	West Virginia	TEBUFENOZIDE	1999	kg							76.6			
+54	West Virginia	TEBUFENOZIDE	2000	kg							260.5			
+55	Wisconsin	TEBUFENOZIDE	2008	kg					307.2					
+55	Wisconsin	TEBUFENOZIDE	2013	kg					126.5					

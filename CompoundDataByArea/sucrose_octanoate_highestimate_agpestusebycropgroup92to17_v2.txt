@@ -1,0 +1,6 @@
+06	California	SUCROSE OCTANOATE	2013	kg					0.1		0.3			
+06	California	SUCROSE OCTANOATE	2014	kg							11.9			
+06	California	SUCROSE OCTANOATE	2015	kg					0.7		0.4			
+06	California	SUCROSE OCTANOATE	2016	kg										13.1
+41	Oregon	SUCROSE OCTANOATE	2015	kg							385.7			
+53	Washington	SUCROSE OCTANOATE	2015	kg							752.9			

@@ -1,0 +1,183 @@
+01	Alabama	PENTHIOPYRAD	2012	kg					168.3					11220.7
+01	Alabama	PENTHIOPYRAD	2013	kg										1910.7
+01	Alabama	PENTHIOPYRAD	2014	kg										6017.1
+01	Alabama	PENTHIOPYRAD	2015	kg										7803.6
+01	Alabama	PENTHIOPYRAD	2016	kg					46.3					10266.2
+01	Alabama	PENTHIOPYRAD	2017	kg										2077.9
+04	Arizona	PENTHIOPYRAD	2013	kg					708.9					
+04	Arizona	PENTHIOPYRAD	2014	kg					1391.5		0.1			
+04	Arizona	PENTHIOPYRAD	2015	kg					1939.7		3.2			
+04	Arizona	PENTHIOPYRAD	2016	kg					2274.6		8.6			
+04	Arizona	PENTHIOPYRAD	2017	kg					2661.7		1.8			
+05	Arkansas	PENTHIOPYRAD	2017	kg		152.1								
+06	California	PENTHIOPYRAD	2012	kg							0.8			
+06	California	PENTHIOPYRAD	2013	kg					9997.4		9160			3.7
+06	California	PENTHIOPYRAD	2014	kg					16125.8	7.1	17828.2			
+06	California	PENTHIOPYRAD	2015	kg	0.1				17068		13261.3			
+06	California	PENTHIOPYRAD	2016	kg					16369.8		17866.9	4		
+06	California	PENTHIOPYRAD	2017	kg					13432.9		22239.1			
+08	Colorado	PENTHIOPYRAD	2013	kg					0.2					
+08	Colorado	PENTHIOPYRAD	2014	kg					221.9					130.7
+08	Colorado	PENTHIOPYRAD	2015	kg					0.1		340.6			
+08	Colorado	PENTHIOPYRAD	2016	kg					0.4					
+08	Colorado	PENTHIOPYRAD	2017	kg					105.8					
+09	Connecticut	PENTHIOPYRAD	2013	kg							202.2			
+09	Connecticut	PENTHIOPYRAD	2014	kg							71.6			
+09	Connecticut	PENTHIOPYRAD	2015	kg							14.3			
+09	Connecticut	PENTHIOPYRAD	2017	kg							5.6			
+10	Delaware	PENTHIOPYRAD	2014	kg					0.5		0			
+12	Florida	PENTHIOPYRAD	2012	kg					606.5					8330.1
+12	Florida	PENTHIOPYRAD	2013	kg					5869.9					2197.4
+12	Florida	PENTHIOPYRAD	2014	kg					3298.2					7085.5
+12	Florida	PENTHIOPYRAD	2015	kg					5884.4					12152
+12	Florida	PENTHIOPYRAD	2016	kg					2092.5					11836.9
+12	Florida	PENTHIOPYRAD	2017	kg					3006.8					2764.5
+13	Georgia	PENTHIOPYRAD	2012	kg					457.2					9313.6
+13	Georgia	PENTHIOPYRAD	2013	kg					6194.6		9.2			8080.4
+13	Georgia	PENTHIOPYRAD	2014	kg					4304.9		14			6648
+13	Georgia	PENTHIOPYRAD	2015	kg					839.2		458.8			18092.2
+13	Georgia	PENTHIOPYRAD	2016	kg					2090.3					10393.8
+13	Georgia	PENTHIOPYRAD	2017	kg					3298.7					9635.8
+16	Idaho	PENTHIOPYRAD	2012	kg					85		78.4			
+16	Idaho	PENTHIOPYRAD	2013	kg					244		34.9			
+16	Idaho	PENTHIOPYRAD	2014	kg					123		56.5			54.8
+16	Idaho	PENTHIOPYRAD	2015	kg					7268.8		53.9			
+16	Idaho	PENTHIOPYRAD	2016	kg					9818		20.9			
+16	Idaho	PENTHIOPYRAD	2017	kg					271.2		36.9			
+17	Illinois	PENTHIOPYRAD	2013	kg					911.9					
+17	Illinois	PENTHIOPYRAD	2014	kg					20.3					
+17	Illinois	PENTHIOPYRAD	2015	kg					1223					
+17	Illinois	PENTHIOPYRAD	2016	kg					57.9					
+17	Illinois	PENTHIOPYRAD	2017	kg					1544.9					
+18	Indiana	PENTHIOPYRAD	2012	kg					92.3		1.6			
+18	Indiana	PENTHIOPYRAD	2013	kg					124.1		39.4			
+18	Indiana	PENTHIOPYRAD	2014	kg					422.4		2.9			
+18	Indiana	PENTHIOPYRAD	2015	kg					298.5		2.7			
+18	Indiana	PENTHIOPYRAD	2017	kg					12.2		0.2			
+19	Iowa	PENTHIOPYRAD	2013	kg					12.1					
+19	Iowa	PENTHIOPYRAD	2015	kg					44.3					
+19	Iowa	PENTHIOPYRAD	2016	kg					13.8					
+19	Iowa	PENTHIOPYRAD	2017	kg					5.8					
+24	Maryland	PENTHIOPYRAD	2012	kg					0		88.6			
+24	Maryland	PENTHIOPYRAD	2013	kg					15.7		141.6			
+24	Maryland	PENTHIOPYRAD	2014	kg					587.6		123.2			
+24	Maryland	PENTHIOPYRAD	2015	kg					18.6		88.2			
+24	Maryland	PENTHIOPYRAD	2016	kg					66.2		6.5			
+24	Maryland	PENTHIOPYRAD	2017	kg					44.6		13.8			
+25	Massachusetts	PENTHIOPYRAD	2013	kg							334.5			
+25	Massachusetts	PENTHIOPYRAD	2014	kg							122.3			
+25	Massachusetts	PENTHIOPYRAD	2015	kg							50			
+25	Massachusetts	PENTHIOPYRAD	2017	kg							42.6			
+26	Michigan	PENTHIOPYRAD	2012	kg							1019.9			
+26	Michigan	PENTHIOPYRAD	2013	kg					222.1		2729.2			
+26	Michigan	PENTHIOPYRAD	2014	kg					157		752.8			71.2
+26	Michigan	PENTHIOPYRAD	2015	kg					168.8		1032.5			
+26	Michigan	PENTHIOPYRAD	2016	kg					104.4					
+26	Michigan	PENTHIOPYRAD	2017	kg					1626.2		44.9			
+27	Minnesota	PENTHIOPYRAD	2013	kg					15.7					
+27	Minnesota	PENTHIOPYRAD	2014	kg										423.8
+27	Minnesota	PENTHIOPYRAD	2015	kg					2699.9					
+27	Minnesota	PENTHIOPYRAD	2016	kg					9					
+28	Mississippi	PENTHIOPYRAD	2012	kg										429.9
+28	Mississippi	PENTHIOPYRAD	2013	kg										143.2
+28	Mississippi	PENTHIOPYRAD	2014	kg										826
+28	Mississippi	PENTHIOPYRAD	2015	kg										199.5
+28	Mississippi	PENTHIOPYRAD	2016	kg										502.3
+28	Mississippi	PENTHIOPYRAD	2017	kg		37.6								141.8
+29	Missouri	PENTHIOPYRAD	2013	kg					2.6					
+29	Missouri	PENTHIOPYRAD	2015	kg					3					
+29	Missouri	PENTHIOPYRAD	2017	kg					5.6					
+30	Montana	PENTHIOPYRAD	2014	kg										4.4
+30	Montana	PENTHIOPYRAD	2017	kg					3.2					
+31	Nebraska	PENTHIOPYRAD	2014	kg					0.2					171.2
+32	Nevada	PENTHIOPYRAD	2012	kg					28					
+32	Nevada	PENTHIOPYRAD	2013	kg					124.4		0.8			
+32	Nevada	PENTHIOPYRAD	2014	kg					71.4		0			
+32	Nevada	PENTHIOPYRAD	2015	kg					45.2		0.8			
+32	Nevada	PENTHIOPYRAD	2016	kg					178.7		0.3			
+32	Nevada	PENTHIOPYRAD	2017	kg					73.4					
+34	New Jersey	PENTHIOPYRAD	2013	kg							205.2			
+34	New Jersey	PENTHIOPYRAD	2014	kg					537		293.9			
+34	New Jersey	PENTHIOPYRAD	2015	kg							28.3			
+34	New Jersey	PENTHIOPYRAD	2017	kg							14.9			
+35	New Mexico	PENTHIOPYRAD	2013	kg					0.2					
+35	New Mexico	PENTHIOPYRAD	2014	kg					247.8					55.9
+35	New Mexico	PENTHIOPYRAD	2015	kg					0		10			
+35	New Mexico	PENTHIOPYRAD	2016	kg					1.5					
+35	New Mexico	PENTHIOPYRAD	2017	kg					5.5					
+36	New York	PENTHIOPYRAD	2013	kg					59.1		6195.2			
+36	New York	PENTHIOPYRAD	2014	kg					32.4		2695.7			
+36	New York	PENTHIOPYRAD	2015	kg					93.1		874			
+36	New York	PENTHIOPYRAD	2016	kg							15.9			
+36	New York	PENTHIOPYRAD	2017	kg					44.6		776			
+37	North Carolina	PENTHIOPYRAD	2012	kg										1751.3
+37	North Carolina	PENTHIOPYRAD	2013	kg					376.1		174.4			830.7
+37	North Carolina	PENTHIOPYRAD	2014	kg					255.3		192.4			3554.2
+37	North Carolina	PENTHIOPYRAD	2015	kg					368.2		233.6			1719.7
+37	North Carolina	PENTHIOPYRAD	2016	kg					196.3					2469.5
+37	North Carolina	PENTHIOPYRAD	2017	kg					624.5					1468.7
+38	North Dakota	PENTHIOPYRAD	2014	kg										248.3
+39	Ohio	PENTHIOPYRAD	2013	kg					184.1		103.4			
+39	Ohio	PENTHIOPYRAD	2014	kg					83.3		72.9			
+39	Ohio	PENTHIOPYRAD	2015	kg					165.7		126.2			
+39	Ohio	PENTHIOPYRAD	2016	kg					12.7		93.1			
+39	Ohio	PENTHIOPYRAD	2017	kg							26.9			
+40	Oklahoma	PENTHIOPYRAD	2012	kg					74.7					484.2
+40	Oklahoma	PENTHIOPYRAD	2013	kg					482.9					1147
+41	Oregon	PENTHIOPYRAD	2012	kg					392.7		618.4			
+41	Oregon	PENTHIOPYRAD	2013	kg					1325.9		2053.8			
+41	Oregon	PENTHIOPYRAD	2014	kg					782.6		2949.8			5
+41	Oregon	PENTHIOPYRAD	2015	kg					1916.1		3814.7			
+41	Oregon	PENTHIOPYRAD	2016	kg					4492		2007.1			
+41	Oregon	PENTHIOPYRAD	2017	kg					1028.3		2245.2			
+42	Pennsylvania	PENTHIOPYRAD	2012	kg					12.6		1111			
+42	Pennsylvania	PENTHIOPYRAD	2013	kg					385.5		2756.2			
+42	Pennsylvania	PENTHIOPYRAD	2014	kg					1865.6		1186.9			
+42	Pennsylvania	PENTHIOPYRAD	2015	kg					714		1050.2			
+42	Pennsylvania	PENTHIOPYRAD	2016	kg					146.5		238.1			
+42	Pennsylvania	PENTHIOPYRAD	2017	kg					485.9		269.2			
+45	South Carolina	PENTHIOPYRAD	2012	kg										811.2
+45	South Carolina	PENTHIOPYRAD	2013	kg					54.5		5.7			767.5
+45	South Carolina	PENTHIOPYRAD	2014	kg					474.4					1987.2
+45	South Carolina	PENTHIOPYRAD	2015	kg					22.5		3.8			1444.8
+45	South Carolina	PENTHIOPYRAD	2016	kg					291.9					2160.4
+45	South Carolina	PENTHIOPYRAD	2017	kg					75.4					4070
+47	Tennessee	PENTHIOPYRAD	2013	kg							23.3			
+47	Tennessee	PENTHIOPYRAD	2014	kg							14			
+47	Tennessee	PENTHIOPYRAD	2015	kg					37.6		15.5			
+47	Tennessee	PENTHIOPYRAD	2016	kg					0.4					
+47	Tennessee	PENTHIOPYRAD	2017	kg		22.8			6.6					
+48	Texas	PENTHIOPYRAD	2012	kg					0.7					414.3
+48	Texas	PENTHIOPYRAD	2013	kg					3391.6					1122.1
+48	Texas	PENTHIOPYRAD	2014	kg					51.4					923.8
+48	Texas	PENTHIOPYRAD	2015	kg					1615.8					
+48	Texas	PENTHIOPYRAD	2016	kg					574.1					
+49	Utah	PENTHIOPYRAD	2015	kg							3.5			
+49	Utah	PENTHIOPYRAD	2017	kg					0					
+50	Vermont	PENTHIOPYRAD	2013	kg							205.5			
+50	Vermont	PENTHIOPYRAD	2014	kg							76			
+50	Vermont	PENTHIOPYRAD	2015	kg							47			
+50	Vermont	PENTHIOPYRAD	2017	kg							47.4			
+51	Virginia	PENTHIOPYRAD	2012	kg										38.6
+51	Virginia	PENTHIOPYRAD	2013	kg					19.4		315.9			1970
+51	Virginia	PENTHIOPYRAD	2014	kg					25.9		456.9			298.2
+51	Virginia	PENTHIOPYRAD	2015	kg					4.5		259.4			152.1
+51	Virginia	PENTHIOPYRAD	2016	kg					19.3					270
+51	Virginia	PENTHIOPYRAD	2017	kg										248.8
+53	Washington	PENTHIOPYRAD	2012	kg					772.6		7738.1			
+53	Washington	PENTHIOPYRAD	2013	kg					1043.8		4840.5			
+53	Washington	PENTHIOPYRAD	2014	kg					4053.4		9941.4			
+53	Washington	PENTHIOPYRAD	2015	kg					4793.8		10533.8			
+53	Washington	PENTHIOPYRAD	2016	kg					10303.6		5600.9			
+53	Washington	PENTHIOPYRAD	2017	kg					6936.5		8377.7			
+54	West Virginia	PENTHIOPYRAD	2012	kg					0.4					
+54	West Virginia	PENTHIOPYRAD	2013	kg					2.9		61.9			
+54	West Virginia	PENTHIOPYRAD	2014	kg					12.6		351.2			
+54	West Virginia	PENTHIOPYRAD	2015	kg					2.5		350.9			
+54	West Virginia	PENTHIOPYRAD	2017	kg					6.5					
+55	Wisconsin	PENTHIOPYRAD	2013	kg					645.6					
+55	Wisconsin	PENTHIOPYRAD	2014	kg					209.3					
+55	Wisconsin	PENTHIOPYRAD	2015	kg					2774.5					
+55	Wisconsin	PENTHIOPYRAD	2016	kg					83.4					
+55	Wisconsin	PENTHIOPYRAD	2017	kg					656.4					
+56	Wyoming	PENTHIOPYRAD	2014	kg					0.1					17.9

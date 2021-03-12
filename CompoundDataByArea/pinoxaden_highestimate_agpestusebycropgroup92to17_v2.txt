@@ -1,0 +1,366 @@
+01	Alabama	PINOXADEN	2007	kg			95.4							
+01	Alabama	PINOXADEN	2008	kg			771							
+01	Alabama	PINOXADEN	2009	kg			1266.7							
+01	Alabama	PINOXADEN	2010	kg			72.8							
+01	Alabama	PINOXADEN	2011	kg			2188.5							
+01	Alabama	PINOXADEN	2012	kg			1408.9							
+01	Alabama	PINOXADEN	2013	kg			512.6							
+01	Alabama	PINOXADEN	2014	kg			1955.8							
+01	Alabama	PINOXADEN	2015	kg			706.2							
+01	Alabama	PINOXADEN	2016	kg			54.6							
+01	Alabama	PINOXADEN	2017	kg			391.3							
+04	Arizona	PINOXADEN	2010	kg										0
+04	Arizona	PINOXADEN	2011	kg										0
+04	Arizona	PINOXADEN	2012	kg										0
+04	Arizona	PINOXADEN	2013	kg										0.2
+04	Arizona	PINOXADEN	2014	kg										0.6
+04	Arizona	PINOXADEN	2015	kg										1.1
+05	Arkansas	PINOXADEN	2007	kg			2089.5							
+05	Arkansas	PINOXADEN	2008	kg			3483.4							
+05	Arkansas	PINOXADEN	2009	kg			1843.6							
+05	Arkansas	PINOXADEN	2011	kg			3460.5							
+05	Arkansas	PINOXADEN	2012	kg			4760.8							
+05	Arkansas	PINOXADEN	2013	kg			3296.3							
+05	Arkansas	PINOXADEN	2014	kg			1884.8							
+05	Arkansas	PINOXADEN	2015	kg			1171.7							
+05	Arkansas	PINOXADEN	2016	kg			1774.9							
+05	Arkansas	PINOXADEN	2017	kg			1132.2							
+06	California	PINOXADEN	2010	kg			47							
+06	California	PINOXADEN	2011	kg	1.4		1576.6					0.5		56
+06	California	PINOXADEN	2012	kg			3139.3				1.3	2.1	6.1	211.6
+06	California	PINOXADEN	2013	kg			2528.9							141.4
+06	California	PINOXADEN	2014	kg			2241.7		1.7		0			142.8
+06	California	PINOXADEN	2015	kg			1571.4				0.3			130
+06	California	PINOXADEN	2016	kg			1197.9				0			133.6
+06	California	PINOXADEN	2017	kg			468.4		0		0			53.5
+08	Colorado	PINOXADEN	2006	kg										145
+08	Colorado	PINOXADEN	2007	kg										911.6
+08	Colorado	PINOXADEN	2008	kg										713.4
+08	Colorado	PINOXADEN	2009	kg										975.1
+08	Colorado	PINOXADEN	2010	kg										921.8
+08	Colorado	PINOXADEN	2011	kg										466.4
+08	Colorado	PINOXADEN	2012	kg										636
+08	Colorado	PINOXADEN	2013	kg										389.8
+08	Colorado	PINOXADEN	2014	kg										756.5
+08	Colorado	PINOXADEN	2015	kg										932.8
+08	Colorado	PINOXADEN	2016	kg										796.8
+08	Colorado	PINOXADEN	2017	kg										303.1
+10	Delaware	PINOXADEN	2009	kg										5.6
+10	Delaware	PINOXADEN	2011	kg										1.9
+13	Georgia	PINOXADEN	2008	kg			35.3							
+13	Georgia	PINOXADEN	2009	kg			449.9							
+13	Georgia	PINOXADEN	2010	kg			0.6							
+13	Georgia	PINOXADEN	2012	kg			57.9							
+13	Georgia	PINOXADEN	2013	kg			1877.4							
+13	Georgia	PINOXADEN	2014	kg			1377.1							
+13	Georgia	PINOXADEN	2015	kg			821.3							
+13	Georgia	PINOXADEN	2016	kg			112.3							
+13	Georgia	PINOXADEN	2017	kg			147.1							
+16	Idaho	PINOXADEN	2006	kg			335.6							1197.9
+16	Idaho	PINOXADEN	2007	kg			7188.9							4035.1
+16	Idaho	PINOXADEN	2008	kg			3032.7						19	2397.4
+16	Idaho	PINOXADEN	2009	kg			8068.2							3377.4
+16	Idaho	PINOXADEN	2010	kg			4662.4							3255.5
+16	Idaho	PINOXADEN	2011	kg			4277.5							4441
+16	Idaho	PINOXADEN	2012	kg			7411.9							6473.8
+16	Idaho	PINOXADEN	2013	kg			7123.8							6039.9
+16	Idaho	PINOXADEN	2014	kg			7295.9							5998.7
+16	Idaho	PINOXADEN	2015	kg			7134.7							7649.4
+16	Idaho	PINOXADEN	2016	kg			7253.9							7666.7
+16	Idaho	PINOXADEN	2017	kg			5353.8							7230.7
+17	Illinois	PINOXADEN	2007	kg			108.9							
+17	Illinois	PINOXADEN	2008	kg			8542.7							
+17	Illinois	PINOXADEN	2009	kg			1796.4							
+17	Illinois	PINOXADEN	2010	kg			57.2							
+17	Illinois	PINOXADEN	2011	kg			1245.9							
+17	Illinois	PINOXADEN	2012	kg			2399							
+17	Illinois	PINOXADEN	2013	kg			577.9							
+17	Illinois	PINOXADEN	2014	kg			1229.7							
+17	Illinois	PINOXADEN	2015	kg			1099.4							
+17	Illinois	PINOXADEN	2016	kg			593.9							
+17	Illinois	PINOXADEN	2017	kg			773.1							
+18	Indiana	PINOXADEN	2007	kg			45.3							
+18	Indiana	PINOXADEN	2008	kg			3278.2							
+18	Indiana	PINOXADEN	2009	kg			233.8							
+18	Indiana	PINOXADEN	2010	kg			51							
+18	Indiana	PINOXADEN	2011	kg			194.6							
+18	Indiana	PINOXADEN	2012	kg			244.6							
+18	Indiana	PINOXADEN	2013	kg			132.4							
+18	Indiana	PINOXADEN	2014	kg			294.8							
+18	Indiana	PINOXADEN	2016	kg			58.1							
+19	Iowa	PINOXADEN	2008	kg			1.3							
+19	Iowa	PINOXADEN	2009	kg			1.3							
+19	Iowa	PINOXADEN	2010	kg			1.7							
+19	Iowa	PINOXADEN	2011	kg			1.1							
+19	Iowa	PINOXADEN	2012	kg			0.7							
+19	Iowa	PINOXADEN	2014	kg			0.8							
+19	Iowa	PINOXADEN	2017	kg			0.3							
+20	Kansas	PINOXADEN	2007	kg			1155.2							
+20	Kansas	PINOXADEN	2008	kg			2089.8							
+20	Kansas	PINOXADEN	2009	kg			2132.1							
+20	Kansas	PINOXADEN	2010	kg			1175							
+20	Kansas	PINOXADEN	2011	kg			5303.4							
+20	Kansas	PINOXADEN	2012	kg			1517.6							
+20	Kansas	PINOXADEN	2013	kg			1396.1							
+20	Kansas	PINOXADEN	2014	kg			4690.2							
+20	Kansas	PINOXADEN	2015	kg			8651.6							
+20	Kansas	PINOXADEN	2016	kg			1111.6							
+20	Kansas	PINOXADEN	2017	kg			15013.9							
+21	Kentucky	PINOXADEN	2007	kg			71.9							
+21	Kentucky	PINOXADEN	2008	kg			4662.7							
+21	Kentucky	PINOXADEN	2009	kg			878							
+21	Kentucky	PINOXADEN	2010	kg			202.2							
+21	Kentucky	PINOXADEN	2011	kg			1226.4							
+21	Kentucky	PINOXADEN	2012	kg			2088.4							
+21	Kentucky	PINOXADEN	2013	kg			394.1							
+21	Kentucky	PINOXADEN	2014	kg			1475.9							
+21	Kentucky	PINOXADEN	2015	kg			2747.8							
+21	Kentucky	PINOXADEN	2016	kg			491.7							
+21	Kentucky	PINOXADEN	2017	kg			1334.1							
+22	Louisiana	PINOXADEN	2007	kg			238.5							
+22	Louisiana	PINOXADEN	2008	kg			1554							
+22	Louisiana	PINOXADEN	2009	kg			96.3							
+22	Louisiana	PINOXADEN	2011	kg			707.2							
+22	Louisiana	PINOXADEN	2012	kg			2035.5							
+22	Louisiana	PINOXADEN	2013	kg			93.5							
+22	Louisiana	PINOXADEN	2014	kg			205.6							
+22	Louisiana	PINOXADEN	2015	kg			251.2							
+22	Louisiana	PINOXADEN	2016	kg			11.4							
+22	Louisiana	PINOXADEN	2017	kg			57.3							
+24	Maryland	PINOXADEN	2009	kg			107.1							124.4
+24	Maryland	PINOXADEN	2010	kg										7.7
+24	Maryland	PINOXADEN	2011	kg										16.2
+24	Maryland	PINOXADEN	2012	kg										30.8
+24	Maryland	PINOXADEN	2013	kg			41							
+24	Maryland	PINOXADEN	2014	kg			334.2							26.3
+24	Maryland	PINOXADEN	2015	kg			19.1							
+24	Maryland	PINOXADEN	2016	kg			38.1							
+24	Maryland	PINOXADEN	2017	kg			60.4							
+26	Michigan	PINOXADEN	2009	kg			295							
+27	Minnesota	PINOXADEN	2006	kg			1692.6							111.9
+27	Minnesota	PINOXADEN	2007	kg			5012.7							121.1
+27	Minnesota	PINOXADEN	2008	kg			7831.9							1977.9
+27	Minnesota	PINOXADEN	2009	kg			8047.5							575.8
+27	Minnesota	PINOXADEN	2010	kg			7662.1							147.7
+27	Minnesota	PINOXADEN	2011	kg			10385.2							555
+27	Minnesota	PINOXADEN	2012	kg			5595.3							219.1
+27	Minnesota	PINOXADEN	2013	kg			4294.2							525.3
+27	Minnesota	PINOXADEN	2014	kg			5697.5							289.5
+27	Minnesota	PINOXADEN	2015	kg			6768.3							498.8
+27	Minnesota	PINOXADEN	2016	kg			5721							350.3
+27	Minnesota	PINOXADEN	2017	kg			3807.8							274.3
+28	Mississippi	PINOXADEN	2007	kg			473.8							
+28	Mississippi	PINOXADEN	2008	kg			2381.7							
+28	Mississippi	PINOXADEN	2009	kg			810.1							
+28	Mississippi	PINOXADEN	2010	kg			29.5							
+28	Mississippi	PINOXADEN	2011	kg			1930.7							
+28	Mississippi	PINOXADEN	2012	kg			4001.1							
+28	Mississippi	PINOXADEN	2013	kg			1015.9							
+28	Mississippi	PINOXADEN	2014	kg			672.8							
+28	Mississippi	PINOXADEN	2015	kg			605.2							
+28	Mississippi	PINOXADEN	2016	kg			556.5							
+28	Mississippi	PINOXADEN	2017	kg			130.2							
+29	Missouri	PINOXADEN	2007	kg			1331.8							
+29	Missouri	PINOXADEN	2008	kg			9212.2							
+29	Missouri	PINOXADEN	2009	kg			1320.7							
+29	Missouri	PINOXADEN	2011	kg			1133.9							
+29	Missouri	PINOXADEN	2012	kg			2068.1							
+29	Missouri	PINOXADEN	2013	kg			553.8							
+29	Missouri	PINOXADEN	2014	kg			2565.6							
+29	Missouri	PINOXADEN	2015	kg			2771							
+29	Missouri	PINOXADEN	2016	kg			1158.4							
+29	Missouri	PINOXADEN	2017	kg			1551.3							
+30	Montana	PINOXADEN	2006	kg			3314							1726.3
+30	Montana	PINOXADEN	2007	kg			4699.6						1222.6	5614.8
+30	Montana	PINOXADEN	2008	kg			11652.6						3.5	5783.8
+30	Montana	PINOXADEN	2009	kg			16903.3							6225.2
+30	Montana	PINOXADEN	2010	kg			19230							4666.9
+30	Montana	PINOXADEN	2011	kg			14463.8							7851
+30	Montana	PINOXADEN	2012	kg			16243.3							7613.4
+30	Montana	PINOXADEN	2013	kg			27279.2							5158.4
+30	Montana	PINOXADEN	2014	kg			16796.5							8554.4
+30	Montana	PINOXADEN	2015	kg			20026.9							8704.6
+30	Montana	PINOXADEN	2016	kg			16012.8							8671.4
+30	Montana	PINOXADEN	2017	kg			6688.8							3580.2
+31	Nebraska	PINOXADEN	2007	kg			1393							
+31	Nebraska	PINOXADEN	2008	kg			12058							
+31	Nebraska	PINOXADEN	2009	kg			2935.5							
+31	Nebraska	PINOXADEN	2010	kg			1376.1							
+31	Nebraska	PINOXADEN	2011	kg			1507.8							
+31	Nebraska	PINOXADEN	2012	kg			1464.5							
+31	Nebraska	PINOXADEN	2013	kg			1090.7							
+31	Nebraska	PINOXADEN	2014	kg			3506.7							
+31	Nebraska	PINOXADEN	2015	kg			2885.9							
+31	Nebraska	PINOXADEN	2016	kg			2292.2							
+31	Nebraska	PINOXADEN	2017	kg			1058.7							
+32	Nevada	PINOXADEN	2006	kg			1.2							1.9
+32	Nevada	PINOXADEN	2007	kg			69.2							8
+32	Nevada	PINOXADEN	2008	kg			41.5							2.5
+32	Nevada	PINOXADEN	2009	kg			86.7							6.3
+32	Nevada	PINOXADEN	2010	kg			19.6							7.2
+32	Nevada	PINOXADEN	2011	kg			24.4							11
+32	Nevada	PINOXADEN	2012	kg			7.7							11.8
+32	Nevada	PINOXADEN	2013	kg			75							14.9
+32	Nevada	PINOXADEN	2014	kg			103.7							12.5
+32	Nevada	PINOXADEN	2015	kg			101.8							7.2
+32	Nevada	PINOXADEN	2016	kg			70.4							22.5
+32	Nevada	PINOXADEN	2017	kg			27.3							5.6
+34	New Jersey	PINOXADEN	2011	kg										0.8
+34	New Jersey	PINOXADEN	2014	kg										24.2
+35	New Mexico	PINOXADEN	2006	kg										1.9
+35	New Mexico	PINOXADEN	2007	kg										10.9
+35	New Mexico	PINOXADEN	2008	kg										5.8
+35	New Mexico	PINOXADEN	2009	kg										6.3
+35	New Mexico	PINOXADEN	2010	kg										4.9
+35	New Mexico	PINOXADEN	2011	kg										1.1
+35	New Mexico	PINOXADEN	2013	kg										4
+35	New Mexico	PINOXADEN	2014	kg										9.4
+35	New Mexico	PINOXADEN	2015	kg										10.9
+35	New Mexico	PINOXADEN	2016	kg										7.5
+35	New Mexico	PINOXADEN	2017	kg										3.6
+37	North Carolina	PINOXADEN	2008	kg			37							
+37	North Carolina	PINOXADEN	2009	kg			3057.6							
+37	North Carolina	PINOXADEN	2010	kg			286.1							
+37	North Carolina	PINOXADEN	2012	kg			32.6							
+37	North Carolina	PINOXADEN	2013	kg			1350.5							
+37	North Carolina	PINOXADEN	2014	kg			4795							
+37	North Carolina	PINOXADEN	2015	kg			1513.3							
+37	North Carolina	PINOXADEN	2016	kg			442.4							
+37	North Carolina	PINOXADEN	2017	kg			633.6							
+38	North Dakota	PINOXADEN	2006	kg			14615.8							2370.2
+38	North Dakota	PINOXADEN	2007	kg			17909.2						94.8	5430.8
+38	North Dakota	PINOXADEN	2008	kg			35712.6							11395
+38	North Dakota	PINOXADEN	2009	kg			33024.5							10177.4
+38	North Dakota	PINOXADEN	2010	kg			35289.9							6809.5
+38	North Dakota	PINOXADEN	2011	kg			31925.7							4324.1
+38	North Dakota	PINOXADEN	2012	kg			30924.9							10354.4
+38	North Dakota	PINOXADEN	2013	kg			31914.1							6697
+38	North Dakota	PINOXADEN	2014	kg			23526							5708.3
+38	North Dakota	PINOXADEN	2015	kg			20466.8							9839.5
+38	North Dakota	PINOXADEN	2016	kg			23455							6869.4
+38	North Dakota	PINOXADEN	2017	kg			11242.7							4374
+39	Ohio	PINOXADEN	2008	kg			189.8							
+39	Ohio	PINOXADEN	2009	kg			39.9							
+39	Ohio	PINOXADEN	2011	kg			27.3							
+39	Ohio	PINOXADEN	2012	kg			30.8							
+39	Ohio	PINOXADEN	2013	kg			1.4							20.8
+39	Ohio	PINOXADEN	2014	kg			15.4							36.1
+39	Ohio	PINOXADEN	2016	kg			5.1							
+40	Oklahoma	PINOXADEN	2007	kg			1427.1							
+40	Oklahoma	PINOXADEN	2008	kg			1757.3							
+40	Oklahoma	PINOXADEN	2009	kg			1689.1							
+40	Oklahoma	PINOXADEN	2010	kg			2442.9							
+40	Oklahoma	PINOXADEN	2011	kg			3206.4							
+40	Oklahoma	PINOXADEN	2012	kg			4217							
+40	Oklahoma	PINOXADEN	2013	kg			1188.8							
+40	Oklahoma	PINOXADEN	2014	kg			9806.8							
+40	Oklahoma	PINOXADEN	2015	kg			11689.7							
+40	Oklahoma	PINOXADEN	2016	kg			2542							
+40	Oklahoma	PINOXADEN	2017	kg			14902.3							
+41	Oregon	PINOXADEN	2006	kg			79.2							109.3
+41	Oregon	PINOXADEN	2007	kg			4491.6							285.3
+41	Oregon	PINOXADEN	2008	kg			2124.4							145.8
+41	Oregon	PINOXADEN	2009	kg			4560.2							167.5
+41	Oregon	PINOXADEN	2010	kg			776.8							128.3
+41	Oregon	PINOXADEN	2011	kg			781.9							271.1
+41	Oregon	PINOXADEN	2012	kg			568.9							435
+41	Oregon	PINOXADEN	2013	kg			2721.5							433.9
+41	Oregon	PINOXADEN	2014	kg			1575.3							333.3
+41	Oregon	PINOXADEN	2015	kg			2977.7							228.2
+41	Oregon	PINOXADEN	2016	kg			1860.2							262.5
+41	Oregon	PINOXADEN	2017	kg			1151.8							99.7
+42	Pennsylvania	PINOXADEN	2011	kg										33.9
+42	Pennsylvania	PINOXADEN	2013	kg										285.1
+42	Pennsylvania	PINOXADEN	2014	kg										293.3
+45	South Carolina	PINOXADEN	2008	kg			7.2							
+45	South Carolina	PINOXADEN	2009	kg			634.2							
+45	South Carolina	PINOXADEN	2010	kg			56.4							
+45	South Carolina	PINOXADEN	2013	kg			113.7							
+45	South Carolina	PINOXADEN	2014	kg			1042.5							
+45	South Carolina	PINOXADEN	2015	kg			363.6							
+45	South Carolina	PINOXADEN	2016	kg			32.6							
+45	South Carolina	PINOXADEN	2017	kg			79							
+46	South Dakota	PINOXADEN	2006	kg			350.2							127.2
+46	South Dakota	PINOXADEN	2007	kg			2608.6							94.5
+46	South Dakota	PINOXADEN	2008	kg			8970.5							144.4
+46	South Dakota	PINOXADEN	2009	kg			4185.6							148.5
+46	South Dakota	PINOXADEN	2010	kg			3588.1							142.8
+46	South Dakota	PINOXADEN	2011	kg			4422.7							110
+46	South Dakota	PINOXADEN	2012	kg			3517.7							85.9
+46	South Dakota	PINOXADEN	2013	kg			4437.4							114
+46	South Dakota	PINOXADEN	2014	kg			4336.1							41.1
+46	South Dakota	PINOXADEN	2015	kg			4098.4							105.8
+46	South Dakota	PINOXADEN	2016	kg			3005							41.7
+46	South Dakota	PINOXADEN	2017	kg			520.6							20.1
+47	Tennessee	PINOXADEN	2007	kg			674.2							
+47	Tennessee	PINOXADEN	2008	kg			5458.7							
+47	Tennessee	PINOXADEN	2009	kg			3552.2							
+47	Tennessee	PINOXADEN	2010	kg			690.7							
+47	Tennessee	PINOXADEN	2011	kg			2359.1							
+47	Tennessee	PINOXADEN	2012	kg			3991.9							
+47	Tennessee	PINOXADEN	2013	kg			520.6							
+47	Tennessee	PINOXADEN	2014	kg			2741.5							
+47	Tennessee	PINOXADEN	2015	kg			2290.1							
+47	Tennessee	PINOXADEN	2016	kg			4640.2							
+47	Tennessee	PINOXADEN	2017	kg			859.2							
+48	Texas	PINOXADEN	2007	kg			2301.2							
+48	Texas	PINOXADEN	2008	kg			1611.6							
+48	Texas	PINOXADEN	2009	kg			1851.5							
+48	Texas	PINOXADEN	2010	kg			685.5							
+48	Texas	PINOXADEN	2011	kg			10886.3							
+48	Texas	PINOXADEN	2012	kg			2014.6							
+48	Texas	PINOXADEN	2013	kg			2393							
+48	Texas	PINOXADEN	2014	kg			6804							
+48	Texas	PINOXADEN	2015	kg			3164.5							
+48	Texas	PINOXADEN	2016	kg			1755.5							
+48	Texas	PINOXADEN	2017	kg			7572.3							
+49	Utah	PINOXADEN	2006	kg			1.5							31.6
+49	Utah	PINOXADEN	2007	kg			1090.4							145.9
+49	Utah	PINOXADEN	2008	kg			194.3						3	118.4
+49	Utah	PINOXADEN	2009	kg			737.6							183
+49	Utah	PINOXADEN	2010	kg			143.1							68.6
+49	Utah	PINOXADEN	2011	kg			92							114
+49	Utah	PINOXADEN	2012	kg			1404.6							32.8
+49	Utah	PINOXADEN	2013	kg			233.9							43.6
+49	Utah	PINOXADEN	2014	kg			978.1							12.7
+49	Utah	PINOXADEN	2015	kg			309.7							34
+49	Utah	PINOXADEN	2016	kg			494.6							177.9
+49	Utah	PINOXADEN	2017	kg			237.6							160.3
+51	Virginia	PINOXADEN	2009	kg			721.4							161.8
+51	Virginia	PINOXADEN	2010	kg										76.1
+51	Virginia	PINOXADEN	2012	kg										246.1
+51	Virginia	PINOXADEN	2013	kg			556.3							
+51	Virginia	PINOXADEN	2014	kg			1337.6							149.6
+51	Virginia	PINOXADEN	2015	kg			190.5							
+51	Virginia	PINOXADEN	2016	kg			175.5							
+51	Virginia	PINOXADEN	2017	kg			474.4							
+53	Washington	PINOXADEN	2006	kg			294.5							486.6
+53	Washington	PINOXADEN	2007	kg			345.2							1054.1
+53	Washington	PINOXADEN	2008	kg			2558.9							510.5
+53	Washington	PINOXADEN	2009	kg			9595.5							888.1
+53	Washington	PINOXADEN	2010	kg			2256.9							102.7
+53	Washington	PINOXADEN	2011	kg			5831							627.8
+53	Washington	PINOXADEN	2012	kg			3844.5							1364.1
+53	Washington	PINOXADEN	2013	kg			7596.2							2457.3
+53	Washington	PINOXADEN	2014	kg			2952.3							1588.5
+53	Washington	PINOXADEN	2015	kg			4038.4							914.2
+53	Washington	PINOXADEN	2016	kg			9153.8							570.4
+53	Washington	PINOXADEN	2017	kg			4338.2							311.5
+54	West Virginia	PINOXADEN	2009	kg										1.4
+54	West Virginia	PINOXADEN	2013	kg										2.9
+54	West Virginia	PINOXADEN	2014	kg										10
+55	Wisconsin	PINOXADEN	2011	kg			55.1							
+55	Wisconsin	PINOXADEN	2013	kg			278.1							
+55	Wisconsin	PINOXADEN	2014	kg			185							
+56	Wyoming	PINOXADEN	2006	kg			6							88.8
+56	Wyoming	PINOXADEN	2007	kg			35.1							180.7
+56	Wyoming	PINOXADEN	2008	kg			50.2						0	366.8
+56	Wyoming	PINOXADEN	2009	kg			199.6							187.8
+56	Wyoming	PINOXADEN	2010	kg			71.8							112
+56	Wyoming	PINOXADEN	2011	kg			35.3							938.4
+56	Wyoming	PINOXADEN	2012	kg			43.9							140.2
+56	Wyoming	PINOXADEN	2013	kg			111.2							825.9
+56	Wyoming	PINOXADEN	2014	kg			104.5							186.6
+56	Wyoming	PINOXADEN	2015	kg			136.7							371.1
+56	Wyoming	PINOXADEN	2016	kg			194.6							185
+56	Wyoming	PINOXADEN	2017	kg			67.9							195.9

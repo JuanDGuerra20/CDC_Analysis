@@ -1,0 +1,9 @@
+06	California	FLUCYTHRINATE	1992	kg				22.6	0.3					
+06	California	FLUCYTHRINATE	1993	kg				0.4						
+06	California	FLUCYTHRINATE	1995	kg				102						
+06	California	FLUCYTHRINATE	1997	kg				63.7						
+17	Illinois	FLUCYTHRINATE	1992	kg	1884.1									
+19	Iowa	FLUCYTHRINATE	1992	kg	298									
+29	Missouri	FLUCYTHRINATE	1992	kg	120									
+41	Oregon	FLUCYTHRINATE	1992	kg							1.3			
+53	Washington	FLUCYTHRINATE	1992	kg							2.5			

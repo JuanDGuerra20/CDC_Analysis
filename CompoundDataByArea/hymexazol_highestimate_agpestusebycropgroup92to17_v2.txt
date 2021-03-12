@@ -1,0 +1,53 @@
+08	Colorado	HYMEXAZOL	2009	kg										19.9
+08	Colorado	HYMEXAZOL	2010	kg										117.9
+08	Colorado	HYMEXAZOL	2011	kg										41
+08	Colorado	HYMEXAZOL	2012	kg										105.8
+08	Colorado	HYMEXAZOL	2013	kg										26.3
+08	Colorado	HYMEXAZOL	2014	kg										19.5
+16	Idaho	HYMEXAZOL	2009	kg										134.7
+16	Idaho	HYMEXAZOL	2010	kg										4.2
+16	Idaho	HYMEXAZOL	2011	kg										25.3
+16	Idaho	HYMEXAZOL	2012	kg										188.2
+16	Idaho	HYMEXAZOL	2014	kg										35.3
+26	Michigan	HYMEXAZOL	2009	kg										48.8
+26	Michigan	HYMEXAZOL	2010	kg										126.1
+26	Michigan	HYMEXAZOL	2011	kg										99.9
+26	Michigan	HYMEXAZOL	2012	kg										247.4
+26	Michigan	HYMEXAZOL	2013	kg										214.3
+26	Michigan	HYMEXAZOL	2014	kg										158
+27	Minnesota	HYMEXAZOL	2009	kg										519.2
+27	Minnesota	HYMEXAZOL	2010	kg										1549
+27	Minnesota	HYMEXAZOL	2011	kg										382.5
+27	Minnesota	HYMEXAZOL	2012	kg										428.1
+27	Minnesota	HYMEXAZOL	2013	kg										404.6
+27	Minnesota	HYMEXAZOL	2014	kg										308.9
+30	Montana	HYMEXAZOL	2009	kg										95.2
+30	Montana	HYMEXAZOL	2010	kg										119.7
+30	Montana	HYMEXAZOL	2011	kg										75.1
+30	Montana	HYMEXAZOL	2012	kg										40.2
+30	Montana	HYMEXAZOL	2013	kg										39.8
+30	Montana	HYMEXAZOL	2014	kg										37.9
+31	Nebraska	HYMEXAZOL	2009	kg										9.1
+31	Nebraska	HYMEXAZOL	2010	kg										103.2
+31	Nebraska	HYMEXAZOL	2011	kg										45.1
+31	Nebraska	HYMEXAZOL	2012	kg										30.3
+31	Nebraska	HYMEXAZOL	2013	kg										161
+31	Nebraska	HYMEXAZOL	2014	kg										44.9
+38	North Dakota	HYMEXAZOL	2009	kg										300.3
+38	North Dakota	HYMEXAZOL	2010	kg										607.2
+38	North Dakota	HYMEXAZOL	2011	kg										262
+38	North Dakota	HYMEXAZOL	2012	kg										283.5
+38	North Dakota	HYMEXAZOL	2013	kg										124.4
+38	North Dakota	HYMEXAZOL	2014	kg										290.2
+41	Oregon	HYMEXAZOL	2009	kg										9.3
+41	Oregon	HYMEXAZOL	2010	kg										24.4
+41	Oregon	HYMEXAZOL	2011	kg										2.1
+41	Oregon	HYMEXAZOL	2012	kg										0.3
+41	Oregon	HYMEXAZOL	2013	kg										11.4
+41	Oregon	HYMEXAZOL	2014	kg										2.8
+56	Wyoming	HYMEXAZOL	2009	kg										115.3
+56	Wyoming	HYMEXAZOL	2010	kg										148.7
+56	Wyoming	HYMEXAZOL	2011	kg										57.3
+56	Wyoming	HYMEXAZOL	2012	kg										115.9
+56	Wyoming	HYMEXAZOL	2013	kg										78.8
+56	Wyoming	HYMEXAZOL	2014	kg										76

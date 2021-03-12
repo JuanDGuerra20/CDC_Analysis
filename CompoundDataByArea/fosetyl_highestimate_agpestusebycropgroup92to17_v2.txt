@@ -1,0 +1,380 @@
+04	Arizona	FOSETYL	1992	kg					2880.3		1518			
+04	Arizona	FOSETYL	1993	kg					5791.1		17071.6			
+04	Arizona	FOSETYL	1994	kg					2844.5		9286.7			
+04	Arizona	FOSETYL	1995	kg					40587.1		301.2			
+04	Arizona	FOSETYL	1996	kg					52286.9		4103.7			
+04	Arizona	FOSETYL	1997	kg					51865.6		10948			
+04	Arizona	FOSETYL	1998	kg					43582.3		20588.3			
+04	Arizona	FOSETYL	1999	kg					126215		2917.8			
+04	Arizona	FOSETYL	2000	kg					45987.1		6607.8			
+04	Arizona	FOSETYL	2001	kg					5669.8		16148.3			
+04	Arizona	FOSETYL	2002	kg					15932.9		2232.2			
+04	Arizona	FOSETYL	2003	kg					1423.1		0.1			
+04	Arizona	FOSETYL	2004	kg					18402.1					
+04	Arizona	FOSETYL	2005	kg					11181.6		171			
+04	Arizona	FOSETYL	2006	kg					6006.9					
+04	Arizona	FOSETYL	2007	kg					5542.8		1180.1			
+04	Arizona	FOSETYL	2008	kg					1326.7		404.3			
+04	Arizona	FOSETYL	2009	kg					510.7		106.6			
+04	Arizona	FOSETYL	2010	kg					19225.6		348.2			
+04	Arizona	FOSETYL	2011	kg					4789.2					
+04	Arizona	FOSETYL	2012	kg					4013					
+04	Arizona	FOSETYL	2013	kg					2574.3		1184.7			
+04	Arizona	FOSETYL	2014	kg					4955					
+04	Arizona	FOSETYL	2015	kg					31035.1					
+04	Arizona	FOSETYL	2016	kg					8953.4					
+04	Arizona	FOSETYL	2017	kg					8698.6					
+05	Arkansas	FOSETYL	2002	kg					98.9					
+05	Arkansas	FOSETYL	2003	kg					267.5					
+05	Arkansas	FOSETYL	2004	kg					1096.4					
+05	Arkansas	FOSETYL	2005	kg					609.7					
+05	Arkansas	FOSETYL	2006	kg					746.5					
+05	Arkansas	FOSETYL	2007	kg					859.9					
+05	Arkansas	FOSETYL	2008	kg					2.9					
+05	Arkansas	FOSETYL	2009	kg					2.3					
+05	Arkansas	FOSETYL	2010	kg					6.2					
+05	Arkansas	FOSETYL	2011	kg					1.1					
+05	Arkansas	FOSETYL	2012	kg					0.8					
+05	Arkansas	FOSETYL	2013	kg					5.5					
+06	California	FOSETYL	1992	kg					244629.5		9052.2			
+06	California	FOSETYL	1993	kg					179348.5		11407.3			
+06	California	FOSETYL	1994	kg					180232.1		13460.6		27.9	
+06	California	FOSETYL	1995	kg					145593.9		19783.3		634.7	
+06	California	FOSETYL	1996	kg					129005.1		25474.2		1108.7	
+06	California	FOSETYL	1997	kg					137067.4		45063.5		2242	
+06	California	FOSETYL	1998	kg	13.6				193771.4		64471.3		1689	21
+06	California	FOSETYL	1999	kg					113148.7		32718.8		2621	10.4
+06	California	FOSETYL	2000	kg	45.4				146624.5		26931.9		2231.4	108.8
+06	California	FOSETYL	2001	kg					125845.6		17134.9	7.3	839.3	25.8
+06	California	FOSETYL	2002	kg					98602.2		15305.4		1059.4	
+06	California	FOSETYL	2003	kg					132092.8		11018.5		679.9	
+06	California	FOSETYL	2004	kg					105465.5		11765.1		1278.7	
+06	California	FOSETYL	2005	kg					176210.3		11454.7		481.8	
+06	California	FOSETYL	2006	kg					159107.3		10279.8		510.3	
+06	California	FOSETYL	2007	kg					116671		8305		654.9	21.8
+06	California	FOSETYL	2008	kg					59986.8		6311.5	56.6		272.1
+06	California	FOSETYL	2009	kg					71782.2		4983.2			332.5
+06	California	FOSETYL	2010	kg					108899.1		5573.8			331.3
+06	California	FOSETYL	2011	kg					116334.6		4958.3			57.4
+06	California	FOSETYL	2012	kg					113877.9		4694			240.2
+06	California	FOSETYL	2013	kg					86720.6		10184.5			137.2
+06	California	FOSETYL	2014	kg					82488.9		12560.1			550.6
+06	California	FOSETYL	2015	kg					78242		11304.2			
+06	California	FOSETYL	2016	kg					104376.4		7373.1			
+06	California	FOSETYL	2017	kg					70639.1		7494.8			10.7
+08	Colorado	FOSETYL	1992	kg					1785.6					
+08	Colorado	FOSETYL	1996	kg					385.2		57.9			
+08	Colorado	FOSETYL	1997	kg					4004.9					
+08	Colorado	FOSETYL	1998	kg					2511.4					
+08	Colorado	FOSETYL	1999	kg					9519.7					
+08	Colorado	FOSETYL	2002	kg					440.6					
+08	Colorado	FOSETYL	2003	kg					48.4					
+08	Colorado	FOSETYL	2004	kg					198.4					
+08	Colorado	FOSETYL	2005	kg					110.2					
+08	Colorado	FOSETYL	2006	kg					112.3					
+08	Colorado	FOSETYL	2007	kg					124					
+08	Colorado	FOSETYL	2008	kg					0.5					
+08	Colorado	FOSETYL	2010	kg					0.7					
+08	Colorado	FOSETYL	2012	kg					0.3					
+09	Connecticut	FOSETYL	1998	kg					798.6					
+09	Connecticut	FOSETYL	2000	kg					131.5					
+09	Connecticut	FOSETYL	2004	kg					30					
+09	Connecticut	FOSETYL	2006	kg					19.7		0.7			
+10	Delaware	FOSETYL	1999	kg					2.3					
+10	Delaware	FOSETYL	2008	kg					0.5					
+12	Florida	FOSETYL	1992	kg					11166.5		31546.6			
+12	Florida	FOSETYL	1993	kg					470.4		26525.6			
+12	Florida	FOSETYL	1994	kg					29640.9		28552.1			30.1
+12	Florida	FOSETYL	1995	kg					20594.4		30205.5			109.9
+12	Florida	FOSETYL	1996	kg					2541.3		74949		10678	
+12	Florida	FOSETYL	1997	kg					5236.8		29976.1			
+12	Florida	FOSETYL	1998	kg					51.9		22132.8			
+12	Florida	FOSETYL	1999	kg					23261.4		51260.7			
+12	Florida	FOSETYL	2000	kg					797		69161.4			
+12	Florida	FOSETYL	2001	kg					1819.9		30489.7			
+12	Florida	FOSETYL	2002	kg					6599.5		18454.3			
+12	Florida	FOSETYL	2003	kg					5534.1		15706.8			
+12	Florida	FOSETYL	2004	kg					3014.4		7198			
+12	Florida	FOSETYL	2005	kg					3308.8		12943.4			
+12	Florida	FOSETYL	2006	kg							25015.8			
+12	Florida	FOSETYL	2007	kg					25454.1		23915.3			
+12	Florida	FOSETYL	2008	kg					11368.7		612			
+12	Florida	FOSETYL	2009	kg					13564.5		976			
+12	Florida	FOSETYL	2010	kg					11046.3					
+12	Florida	FOSETYL	2011	kg					9857.5		43836			
+12	Florida	FOSETYL	2012	kg					23990.9		32455.6			
+12	Florida	FOSETYL	2013	kg					9593.4		68443.2			
+12	Florida	FOSETYL	2014	kg							54842.4			
+12	Florida	FOSETYL	2015	kg					22524.1		42122.4			
+12	Florida	FOSETYL	2016	kg							36616.5			
+12	Florida	FOSETYL	2017	kg							7130.3			
+13	Georgia	FOSETYL	1993	kg					546.7					
+13	Georgia	FOSETYL	1995	kg										886.4
+13	Georgia	FOSETYL	1996	kg					1459.2					
+13	Georgia	FOSETYL	1997	kg							153			
+13	Georgia	FOSETYL	1998	kg					1201.6					
+13	Georgia	FOSETYL	2010	kg					28					
+16	Idaho	FOSETYL	1992	kg					4099.6					
+16	Idaho	FOSETYL	1996	kg							2790.5			
+16	Idaho	FOSETYL	1997	kg							140.2			
+16	Idaho	FOSETYL	1999	kg					693.9		39.7			
+16	Idaho	FOSETYL	2000	kg					1566.9		98.6			
+16	Idaho	FOSETYL	2001	kg							29.3			
+16	Idaho	FOSETYL	2004	kg							35.7			
+16	Idaho	FOSETYL	2005	kg							6			
+16	Idaho	FOSETYL	2006	kg							24.3			
+16	Idaho	FOSETYL	2008	kg							116.9			
+16	Idaho	FOSETYL	2015	kg							3.8			
+17	Illinois	FOSETYL	1995	kg										4.1
+17	Illinois	FOSETYL	1996	kg					47.7					
+17	Illinois	FOSETYL	1997	kg					94.6					
+17	Illinois	FOSETYL	1998	kg					405.5					
+17	Illinois	FOSETYL	1999	kg					4808					
+17	Illinois	FOSETYL	2004	kg					77.2					
+17	Illinois	FOSETYL	2013	kg					561.1					
+18	Indiana	FOSETYL	1993	kg							1.2			
+18	Indiana	FOSETYL	1995	kg										26.9
+18	Indiana	FOSETYL	1997	kg					83.5					
+18	Indiana	FOSETYL	1998	kg							2.7			
+18	Indiana	FOSETYL	1999	kg					669.5					
+18	Indiana	FOSETYL	2000	kg							14.3			
+18	Indiana	FOSETYL	2001	kg					1.6					
+18	Indiana	FOSETYL	2003	kg					40.7		12			
+18	Indiana	FOSETYL	2004	kg					779.7					
+18	Indiana	FOSETYL	2006	kg							1.8			
+18	Indiana	FOSETYL	2007	kg					21.2					
+18	Indiana	FOSETYL	2008	kg					128.2					
+18	Indiana	FOSETYL	2009	kg					22.1					
+18	Indiana	FOSETYL	2012	kg					12.6					
+19	Iowa	FOSETYL	2013	kg					165.8					
+21	Kentucky	FOSETYL	1995	kg										1209.1
+22	Louisiana	FOSETYL	1993	kg						227.6				
+22	Louisiana	FOSETYL	2008	kg					0.9					
+22	Louisiana	FOSETYL	2010	kg					3.8					
+24	Maryland	FOSETYL	1997	kg					67.3					
+24	Maryland	FOSETYL	1999	kg					19.8					
+24	Maryland	FOSETYL	2006	kg					0.4					
+24	Maryland	FOSETYL	2008	kg					2.6					
+24	Maryland	FOSETYL	2010	kg					0.9					
+24	Maryland	FOSETYL	2012	kg					0.6					
+25	Massachusetts	FOSETYL	1998	kg					1781.9					
+25	Massachusetts	FOSETYL	2000	kg					258.6					
+25	Massachusetts	FOSETYL	2004	kg					52.5					
+25	Massachusetts	FOSETYL	2006	kg					34.9		1.3			
+26	Michigan	FOSETYL	1993	kg					5407.7		93.6			
+26	Michigan	FOSETYL	1997	kg					18225.3					
+26	Michigan	FOSETYL	1998	kg							16382.5			
+26	Michigan	FOSETYL	1999	kg					615.3		669.4			
+26	Michigan	FOSETYL	2000	kg							36150.1			
+26	Michigan	FOSETYL	2001	kg					18.7					
+26	Michigan	FOSETYL	2003	kg					484.1		1225.3			
+26	Michigan	FOSETYL	2004	kg					8441.5					
+26	Michigan	FOSETYL	2006	kg							116.1			
+26	Michigan	FOSETYL	2007	kg					189.2		343.4			
+26	Michigan	FOSETYL	2008	kg					892.8					
+26	Michigan	FOSETYL	2009	kg					270.7					
+26	Michigan	FOSETYL	2010	kg					63.7					
+26	Michigan	FOSETYL	2012	kg					258.2					
+27	Minnesota	FOSETYL	1995	kg					3781.5					
+27	Minnesota	FOSETYL	1997	kg					276.3					
+27	Minnesota	FOSETYL	2002	kg					39.8					
+27	Minnesota	FOSETYL	2003	kg					34.1					
+27	Minnesota	FOSETYL	2004	kg					100.2					
+27	Minnesota	FOSETYL	2008	kg					34.4					
+27	Minnesota	FOSETYL	2009	kg					13					
+27	Minnesota	FOSETYL	2013	kg					215.4					
+29	Missouri	FOSETYL	1999	kg					23					
+30	Montana	FOSETYL	1992	kg					71					
+32	Nevada	FOSETYL	1992	kg							0			
+32	Nevada	FOSETYL	1993	kg							1.7			
+32	Nevada	FOSETYL	1994	kg							0			
+32	Nevada	FOSETYL	1995	kg							0.2			
+32	Nevada	FOSETYL	1996	kg							1.9			
+32	Nevada	FOSETYL	1997	kg							0			
+32	Nevada	FOSETYL	1998	kg							0.8			
+32	Nevada	FOSETYL	1999	kg					150.7		0.6			
+32	Nevada	FOSETYL	2000	kg					336.5		0.2			
+32	Nevada	FOSETYL	2001	kg							0.1			
+32	Nevada	FOSETYL	2003	kg					340.4		0			
+32	Nevada	FOSETYL	2013	kg					0.5					
+32	Nevada	FOSETYL	2014	kg					0.1					
+32	Nevada	FOSETYL	2015	kg					1					
+32	Nevada	FOSETYL	2016	kg					0.3					
+33	New Hampshire	FOSETYL	1998	kg					333					
+33	New Hampshire	FOSETYL	2004	kg					10.5					
+33	New Hampshire	FOSETYL	2006	kg					7.2					
+34	New Jersey	FOSETYL	1992	kg							131			
+34	New Jersey	FOSETYL	1995	kg					4683.2					
+34	New Jersey	FOSETYL	1996	kg					1031.8					
+34	New Jersey	FOSETYL	1998	kg					27.4					
+34	New Jersey	FOSETYL	2000	kg					179.6					
+34	New Jersey	FOSETYL	2003	kg					93.9					
+34	New Jersey	FOSETYL	2004	kg					614.9					
+34	New Jersey	FOSETYL	2006	kg							0.3			
+34	New Jersey	FOSETYL	2008	kg					676.8					
+35	New Mexico	FOSETYL	1992	kg					15.3					
+35	New Mexico	FOSETYL	1993	kg					29.5					
+35	New Mexico	FOSETYL	1994	kg					6.1					
+35	New Mexico	FOSETYL	1995	kg					153.7					
+35	New Mexico	FOSETYL	1996	kg					121.1		18.9			
+35	New Mexico	FOSETYL	1997	kg					630.8					
+35	New Mexico	FOSETYL	1998	kg					345.2					
+35	New Mexico	FOSETYL	1999	kg					840.9					
+35	New Mexico	FOSETYL	2000	kg					14.4					
+35	New Mexico	FOSETYL	2001	kg					1.9					
+35	New Mexico	FOSETYL	2002	kg					20.3					
+35	New Mexico	FOSETYL	2003	kg					145.2					
+35	New Mexico	FOSETYL	2004	kg					440.3					
+35	New Mexico	FOSETYL	2005	kg					181.2					
+35	New Mexico	FOSETYL	2006	kg					84.1					
+35	New Mexico	FOSETYL	2008	kg					0					
+35	New Mexico	FOSETYL	2009	kg					0					
+35	New Mexico	FOSETYL	2010	kg					2.1					
+35	New Mexico	FOSETYL	2013	kg					0					
+35	New Mexico	FOSETYL	2015	kg					2.2					
+35	New Mexico	FOSETYL	2016	kg					0					
+35	New Mexico	FOSETYL	2017	kg					0.3					
+36	New York	FOSETYL	1992	kg							1082			
+36	New York	FOSETYL	1995	kg					1502.3					
+36	New York	FOSETYL	1998	kg					1539.4					
+36	New York	FOSETYL	2000	kg					101.9					
+36	New York	FOSETYL	2002	kg							1023.7			
+36	New York	FOSETYL	2004	kg					32.6					
+36	New York	FOSETYL	2006	kg					20.9		5.4			
+36	New York	FOSETYL	2010	kg					371.9					
+37	North Carolina	FOSETYL	1995	kg										5691.5
+37	North Carolina	FOSETYL	1997	kg							548.2			
+39	Ohio	FOSETYL	1993	kg					253.8					
+39	Ohio	FOSETYL	1996	kg					833.5					
+39	Ohio	FOSETYL	1997	kg					29.3					
+39	Ohio	FOSETYL	1999	kg					585.2					
+39	Ohio	FOSETYL	2001	kg					1.3					
+39	Ohio	FOSETYL	2003	kg					30.8		428.6			
+39	Ohio	FOSETYL	2004	kg					4296.2					
+39	Ohio	FOSETYL	2006	kg							2			
+40	Oklahoma	FOSETYL	2000	kg					4835.2					
+40	Oklahoma	FOSETYL	2002	kg					2255.8					
+40	Oklahoma	FOSETYL	2003	kg					748.6					
+40	Oklahoma	FOSETYL	2004	kg					3463.8					
+40	Oklahoma	FOSETYL	2005	kg					1759.6					
+40	Oklahoma	FOSETYL	2006	kg					4339.7					
+40	Oklahoma	FOSETYL	2007	kg					7078.6					
+40	Oklahoma	FOSETYL	2008	kg					2608					
+40	Oklahoma	FOSETYL	2009	kg					4518.1					
+40	Oklahoma	FOSETYL	2010	kg					3324.5					
+40	Oklahoma	FOSETYL	2011	kg					2389.1					
+40	Oklahoma	FOSETYL	2012	kg					2461.3					
+40	Oklahoma	FOSETYL	2013	kg					2874.3					
+41	Oregon	FOSETYL	1992	kg					91.9					
+41	Oregon	FOSETYL	1993	kg							74.7			
+41	Oregon	FOSETYL	1995	kg					7041.7		24.6			
+41	Oregon	FOSETYL	1996	kg					7422.8		3745.7			
+41	Oregon	FOSETYL	1997	kg					4815.4		1770.9			
+41	Oregon	FOSETYL	1998	kg					1527.3		12555.4			
+41	Oregon	FOSETYL	1999	kg					3343.6		3543.9			
+41	Oregon	FOSETYL	2000	kg					6193		167.2			
+41	Oregon	FOSETYL	2001	kg					3363.9		1357.8			
+41	Oregon	FOSETYL	2002	kg					630		1866.1			
+41	Oregon	FOSETYL	2003	kg					4653.9		330.4			
+41	Oregon	FOSETYL	2004	kg					672.2		212.5			
+41	Oregon	FOSETYL	2005	kg					1588.1		17.2			
+41	Oregon	FOSETYL	2006	kg					1588.3		466.6			
+41	Oregon	FOSETYL	2007	kg					4078					
+41	Oregon	FOSETYL	2008	kg					2731.2		19416.1			
+41	Oregon	FOSETYL	2009	kg					711.2					
+41	Oregon	FOSETYL	2010	kg					1531.7		237.8			
+41	Oregon	FOSETYL	2012	kg					2267.1		299.7			
+41	Oregon	FOSETYL	2013	kg					4250.6		887.1			
+41	Oregon	FOSETYL	2014	kg							111.8			
+41	Oregon	FOSETYL	2015	kg							8.7			
+41	Oregon	FOSETYL	2016	kg							151.5			
+42	Pennsylvania	FOSETYL	1992	kg							230.3			
+42	Pennsylvania	FOSETYL	1995	kg					73.5					
+42	Pennsylvania	FOSETYL	1996	kg					21.3					
+42	Pennsylvania	FOSETYL	1997	kg					595					
+42	Pennsylvania	FOSETYL	1999	kg					0.8					
+42	Pennsylvania	FOSETYL	2000	kg					4.1					
+42	Pennsylvania	FOSETYL	2003	kg					1					
+42	Pennsylvania	FOSETYL	2004	kg					10.4					
+42	Pennsylvania	FOSETYL	2006	kg					63.2		0.3			
+42	Pennsylvania	FOSETYL	2008	kg					917.9					
+42	Pennsylvania	FOSETYL	2010	kg					375.6					
+42	Pennsylvania	FOSETYL	2012	kg					412.2					
+44	Rhode Island	FOSETYL	1998	kg					174.4					
+44	Rhode Island	FOSETYL	2000	kg					25.4					
+44	Rhode Island	FOSETYL	2004	kg					5.3					
+44	Rhode Island	FOSETYL	2006	kg					3.6					
+45	South Carolina	FOSETYL	1995	kg										26.3
+45	South Carolina	FOSETYL	1996	kg					0.1					
+45	South Carolina	FOSETYL	1998	kg					272.4					
+45	South Carolina	FOSETYL	2002	kg					1030.5					
+45	South Carolina	FOSETYL	2003	kg					408.6					
+45	South Carolina	FOSETYL	2006	kg					1023.8					
+45	South Carolina	FOSETYL	2008	kg					133.4					
+45	South Carolina	FOSETYL	2015	kg					136.8					
+45	South Carolina	FOSETYL	2017	kg					621.5					
+47	Tennessee	FOSETYL	1995	kg										4025.1
+47	Tennessee	FOSETYL	1997	kg							48			
+48	Texas	FOSETYL	1992	kg					1980.4		10.3			
+48	Texas	FOSETYL	1993	kg					606.1	107.4	809.1			
+48	Texas	FOSETYL	1994	kg					426.4					
+48	Texas	FOSETYL	1995	kg					7009.4		2002.7			
+48	Texas	FOSETYL	1996	kg					1609.3		634			
+48	Texas	FOSETYL	1997	kg					5843					
+48	Texas	FOSETYL	1998	kg					18059.1					
+48	Texas	FOSETYL	1999	kg					7493.6					
+48	Texas	FOSETYL	2000	kg					6670.6					
+48	Texas	FOSETYL	2007	kg					654.1					
+48	Texas	FOSETYL	2008	kg					416					
+48	Texas	FOSETYL	2010	kg					1726.2					
+48	Texas	FOSETYL	2012	kg					617.6					
+48	Texas	FOSETYL	2013	kg					1231.3					
+48	Texas	FOSETYL	2014	kg							9347.8			
+49	Utah	FOSETYL	1992	kg					2					
+49	Utah	FOSETYL	1996	kg							1			
+49	Utah	FOSETYL	1998	kg					1.5					
+49	Utah	FOSETYL	1999	kg					6.5					
+49	Utah	FOSETYL	2002	kg					0.1					
+50	Vermont	FOSETYL	1998	kg					207.1					
+50	Vermont	FOSETYL	2004	kg					7.6					
+50	Vermont	FOSETYL	2006	kg					5					
+50	Vermont	FOSETYL	2010	kg					64.6					
+53	Washington	FOSETYL	1993	kg							1712.3			
+53	Washington	FOSETYL	1995	kg					874.6		3496			
+53	Washington	FOSETYL	1996	kg					695.2		50225.5			
+53	Washington	FOSETYL	1997	kg					326.9		9774.8			
+53	Washington	FOSETYL	1998	kg					506		28603.2			
+53	Washington	FOSETYL	1999	kg					3026.2		1360			
+53	Washington	FOSETYL	2000	kg					3637.1		4001.8			
+53	Washington	FOSETYL	2001	kg					1508.1		2728.5			
+53	Washington	FOSETYL	2002	kg					319.3		3180.8			
+53	Washington	FOSETYL	2003	kg					269.2		4061.3			
+53	Washington	FOSETYL	2004	kg					344.2		2575.1			
+53	Washington	FOSETYL	2005	kg					2434.6		379.1			
+53	Washington	FOSETYL	2006	kg					185.4		1401.9			
+53	Washington	FOSETYL	2007	kg					5035.5		49.8			
+53	Washington	FOSETYL	2008	kg					1453.3		8773.9			
+53	Washington	FOSETYL	2009	kg					269.1					
+53	Washington	FOSETYL	2010	kg					3813.4		2673.4			
+53	Washington	FOSETYL	2012	kg					888.2		639.6			
+53	Washington	FOSETYL	2013	kg					7085.8		1324.7			
+53	Washington	FOSETYL	2014	kg							504.3			
+53	Washington	FOSETYL	2015	kg							240.4			
+53	Washington	FOSETYL	2016	kg							393.5			
+54	West Virginia	FOSETYL	2003	kg							18.8			
+54	West Virginia	FOSETYL	2004	kg					2.6					
+54	West Virginia	FOSETYL	2006	kg					0.9					
+54	West Virginia	FOSETYL	2008	kg					16.4					
+54	West Virginia	FOSETYL	2010	kg					10					
+54	West Virginia	FOSETYL	2012	kg					15.5					
+55	Wisconsin	FOSETYL	1996	kg					667.2					
+55	Wisconsin	FOSETYL	1997	kg					873.1					
+55	Wisconsin	FOSETYL	2002	kg					69.3					
+55	Wisconsin	FOSETYL	2003	kg					340.3					
+55	Wisconsin	FOSETYL	2004	kg					790.3					
+55	Wisconsin	FOSETYL	2006	kg					430.3					
+55	Wisconsin	FOSETYL	2008	kg					642.9					
+55	Wisconsin	FOSETYL	2009	kg					177.9					
+55	Wisconsin	FOSETYL	2010	kg					30.1					
+55	Wisconsin	FOSETYL	2013	kg					1191.1					
+56	Wyoming	FOSETYL	1992	kg					0					

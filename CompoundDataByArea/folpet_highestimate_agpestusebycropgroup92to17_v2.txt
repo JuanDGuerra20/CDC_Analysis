@@ -1,0 +1,13 @@
+01	Alabama	FOLPET	1992	kg										273.3
+05	Arkansas	FOLPET	1992	kg							1011.8			
+05	Arkansas	FOLPET	1993	kg							2527			
+06	California	FOLPET	1993	kg							1.4			
+06	California	FOLPET	1994	kg							0			
+06	California	FOLPET	2014	kg							0			
+06	California	FOLPET	2016	kg							0			
+12	Florida	FOLPET	1992	kg										65.4
+13	Georgia	FOLPET	1992	kg										296.9
+29	Missouri	FOLPET	1992	kg							71.4			
+29	Missouri	FOLPET	1993	kg							143			
+36	New York	FOLPET	1992	kg							247.9			
+51	Virginia	FOLPET	1993	kg							352			

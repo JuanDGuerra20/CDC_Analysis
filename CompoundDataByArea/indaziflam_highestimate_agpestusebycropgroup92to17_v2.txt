@@ -1,0 +1,162 @@
+01	Alabama	INDAZIFLAM	2011	kg							8			
+01	Alabama	INDAZIFLAM	2012	kg							113.7			
+01	Alabama	INDAZIFLAM	2013	kg							243.3			
+01	Alabama	INDAZIFLAM	2014	kg							146.4			
+01	Alabama	INDAZIFLAM	2015	kg							52.5			
+01	Alabama	INDAZIFLAM	2016	kg							63.1			
+01	Alabama	INDAZIFLAM	2017	kg							53.1			
+04	Arizona	INDAZIFLAM	2012	kg							57.3			
+04	Arizona	INDAZIFLAM	2013	kg							25.1			
+04	Arizona	INDAZIFLAM	2014	kg							27.9			
+04	Arizona	INDAZIFLAM	2015	kg							45.6			
+04	Arizona	INDAZIFLAM	2016	kg							12.1			
+04	Arizona	INDAZIFLAM	2017	kg							9.5			
+06	California	INDAZIFLAM	2011	kg							1172.5			
+06	California	INDAZIFLAM	2012	kg							4273.5			
+06	California	INDAZIFLAM	2013	kg							7433.9			
+06	California	INDAZIFLAM	2014	kg					2.9		9011.2			
+06	California	INDAZIFLAM	2015	kg					0.9		10994.7			
+06	California	INDAZIFLAM	2016	kg	0.8				0.7		11263.9			
+06	California	INDAZIFLAM	2017	kg					0.7		10982.2		0.6	
+09	Connecticut	INDAZIFLAM	2013	kg							17.7			
+09	Connecticut	INDAZIFLAM	2014	kg							37			
+09	Connecticut	INDAZIFLAM	2015	kg							50.1			
+09	Connecticut	INDAZIFLAM	2016	kg							1.1			
+09	Connecticut	INDAZIFLAM	2017	kg							4.4			
+10	Delaware	INDAZIFLAM	2012	kg							0			
+10	Delaware	INDAZIFLAM	2013	kg							0			
+10	Delaware	INDAZIFLAM	2014	kg							0			
+10	Delaware	INDAZIFLAM	2015	kg							0			
+10	Delaware	INDAZIFLAM	2016	kg							0			
+12	Florida	INDAZIFLAM	2011	kg							1551.5			
+12	Florida	INDAZIFLAM	2012	kg							5273.8			
+12	Florida	INDAZIFLAM	2013	kg							6247.6			
+12	Florida	INDAZIFLAM	2014	kg							8768.5			
+12	Florida	INDAZIFLAM	2015	kg							10969.1			
+12	Florida	INDAZIFLAM	2016	kg							7953.9			
+12	Florida	INDAZIFLAM	2017	kg							6702.6			
+13	Georgia	INDAZIFLAM	2011	kg							133.9			
+13	Georgia	INDAZIFLAM	2012	kg							2016.6			
+13	Georgia	INDAZIFLAM	2013	kg							4610.8			
+13	Georgia	INDAZIFLAM	2014	kg							1933.8			
+13	Georgia	INDAZIFLAM	2015	kg							906.4			
+13	Georgia	INDAZIFLAM	2016	kg							1287.6			
+13	Georgia	INDAZIFLAM	2017	kg							1872.1			
+16	Idaho	INDAZIFLAM	2012	kg							16.7			
+16	Idaho	INDAZIFLAM	2013	kg							15.7			
+16	Idaho	INDAZIFLAM	2014	kg							29.1			
+16	Idaho	INDAZIFLAM	2015	kg							25.3			
+16	Idaho	INDAZIFLAM	2016	kg							11.7			
+16	Idaho	INDAZIFLAM	2017	kg							6.2			
+18	Indiana	INDAZIFLAM	2012	kg							0.2			
+18	Indiana	INDAZIFLAM	2013	kg							0.4			
+18	Indiana	INDAZIFLAM	2014	kg							6.5			
+18	Indiana	INDAZIFLAM	2015	kg							11.4			
+18	Indiana	INDAZIFLAM	2016	kg							0.5			
+18	Indiana	INDAZIFLAM	2017	kg							0.3			
+21	Kentucky	INDAZIFLAM	2012	kg							15.4			
+21	Kentucky	INDAZIFLAM	2013	kg							3.1			
+21	Kentucky	INDAZIFLAM	2014	kg							3.6			
+21	Kentucky	INDAZIFLAM	2015	kg							1.1			
+21	Kentucky	INDAZIFLAM	2016	kg							0.6			
+21	Kentucky	INDAZIFLAM	2017	kg							3.6			
+24	Maryland	INDAZIFLAM	2012	kg							8.1			
+24	Maryland	INDAZIFLAM	2013	kg							26.5			
+24	Maryland	INDAZIFLAM	2014	kg							37.8			
+24	Maryland	INDAZIFLAM	2015	kg							16.5			
+24	Maryland	INDAZIFLAM	2016	kg							16.9			
+24	Maryland	INDAZIFLAM	2017	kg							25.9			
+25	Massachusetts	INDAZIFLAM	2013	kg							29.1			
+25	Massachusetts	INDAZIFLAM	2014	kg							64			
+25	Massachusetts	INDAZIFLAM	2015	kg							88.2			
+25	Massachusetts	INDAZIFLAM	2016	kg							2			
+25	Massachusetts	INDAZIFLAM	2017	kg							8			
+26	Michigan	INDAZIFLAM	2012	kg							24.9			
+26	Michigan	INDAZIFLAM	2013	kg							393.2			
+26	Michigan	INDAZIFLAM	2014	kg							656.6			
+26	Michigan	INDAZIFLAM	2015	kg							615.4			
+26	Michigan	INDAZIFLAM	2016	kg							182			
+26	Michigan	INDAZIFLAM	2017	kg							539.4			
+32	Nevada	INDAZIFLAM	2012	kg							0			
+32	Nevada	INDAZIFLAM	2013	kg							1.2			
+32	Nevada	INDAZIFLAM	2014	kg							0.1			
+32	Nevada	INDAZIFLAM	2015	kg							0.4			
+32	Nevada	INDAZIFLAM	2016	kg							0			
+32	Nevada	INDAZIFLAM	2017	kg							0.4			
+34	New Jersey	INDAZIFLAM	2012	kg							21.3			
+34	New Jersey	INDAZIFLAM	2013	kg							43.6			
+34	New Jersey	INDAZIFLAM	2014	kg							74.3			
+34	New Jersey	INDAZIFLAM	2015	kg							84.5			
+34	New Jersey	INDAZIFLAM	2016	kg							35.1			
+34	New Jersey	INDAZIFLAM	2017	kg							48.6			
+35	New Mexico	INDAZIFLAM	2012	kg							155.7			
+36	New York	INDAZIFLAM	2013	kg							418.8			
+36	New York	INDAZIFLAM	2014	kg							925.4			
+36	New York	INDAZIFLAM	2015	kg							998.4			
+36	New York	INDAZIFLAM	2016	kg							615.8			
+36	New York	INDAZIFLAM	2017	kg							404			
+37	North Carolina	INDAZIFLAM	2012	kg							21.8			
+37	North Carolina	INDAZIFLAM	2013	kg							105.3			
+37	North Carolina	INDAZIFLAM	2014	kg							93.2			
+37	North Carolina	INDAZIFLAM	2015	kg							35.1			
+37	North Carolina	INDAZIFLAM	2016	kg							23.5			
+37	North Carolina	INDAZIFLAM	2017	kg							49.7			
+39	Ohio	INDAZIFLAM	2012	kg							21.1			
+39	Ohio	INDAZIFLAM	2013	kg							23.3			
+39	Ohio	INDAZIFLAM	2014	kg							19.4			
+39	Ohio	INDAZIFLAM	2015	kg							16.1			
+39	Ohio	INDAZIFLAM	2016	kg							4.6			
+39	Ohio	INDAZIFLAM	2017	kg							7.8			
+40	Oklahoma	INDAZIFLAM	2017	kg							55.9			
+41	Oregon	INDAZIFLAM	2011	kg							9.3			
+41	Oregon	INDAZIFLAM	2012	kg							217.6			
+41	Oregon	INDAZIFLAM	2013	kg							366.1			
+41	Oregon	INDAZIFLAM	2014	kg							690.2			
+41	Oregon	INDAZIFLAM	2015	kg							537.9			
+41	Oregon	INDAZIFLAM	2016	kg							639.1			
+41	Oregon	INDAZIFLAM	2017	kg							1110.5			
+42	Pennsylvania	INDAZIFLAM	2012	kg							135.7			
+42	Pennsylvania	INDAZIFLAM	2013	kg							369.3			
+42	Pennsylvania	INDAZIFLAM	2014	kg							535.2			
+42	Pennsylvania	INDAZIFLAM	2015	kg							354.7			
+42	Pennsylvania	INDAZIFLAM	2016	kg							364.7			
+42	Pennsylvania	INDAZIFLAM	2017	kg							276.1			
+45	South Carolina	INDAZIFLAM	2012	kg							0.8			
+45	South Carolina	INDAZIFLAM	2013	kg							289.1			
+45	South Carolina	INDAZIFLAM	2014	kg							6.3			
+45	South Carolina	INDAZIFLAM	2015	kg							2.7			
+45	South Carolina	INDAZIFLAM	2016	kg							1.6			
+47	Tennessee	INDAZIFLAM	2012	kg							9.2			
+47	Tennessee	INDAZIFLAM	2013	kg							5.4			
+47	Tennessee	INDAZIFLAM	2014	kg							4.4			
+47	Tennessee	INDAZIFLAM	2015	kg							0.7			
+47	Tennessee	INDAZIFLAM	2016	kg							0.3			
+47	Tennessee	INDAZIFLAM	2017	kg							2.2			
+48	Texas	INDAZIFLAM	2012	kg							77.5			
+48	Texas	INDAZIFLAM	2014	kg							106.6			
+48	Texas	INDAZIFLAM	2015	kg							585.7			
+48	Texas	INDAZIFLAM	2017	kg							20			
+50	Vermont	INDAZIFLAM	2013	kg							17.8			
+50	Vermont	INDAZIFLAM	2014	kg							39.4			
+50	Vermont	INDAZIFLAM	2015	kg							16.2			
+50	Vermont	INDAZIFLAM	2016	kg							12.6			
+50	Vermont	INDAZIFLAM	2017	kg							19.2			
+51	Virginia	INDAZIFLAM	2012	kg							213.5			
+51	Virginia	INDAZIFLAM	2013	kg							87.2			
+51	Virginia	INDAZIFLAM	2014	kg							116.2			
+51	Virginia	INDAZIFLAM	2015	kg							128.5			
+51	Virginia	INDAZIFLAM	2016	kg							164.4			
+51	Virginia	INDAZIFLAM	2017	kg							251.1			
+53	Washington	INDAZIFLAM	2011	kg							15			
+53	Washington	INDAZIFLAM	2012	kg							1669.9			
+53	Washington	INDAZIFLAM	2013	kg							1422.8			
+53	Washington	INDAZIFLAM	2014	kg							3661.7			
+53	Washington	INDAZIFLAM	2015	kg							2422.7			
+53	Washington	INDAZIFLAM	2016	kg							2934.2			
+53	Washington	INDAZIFLAM	2017	kg							2730.6			
+54	West Virginia	INDAZIFLAM	2012	kg							48.7			
+54	West Virginia	INDAZIFLAM	2013	kg							59.5			
+54	West Virginia	INDAZIFLAM	2014	kg							99.4			
+54	West Virginia	INDAZIFLAM	2015	kg							43.6			
+54	West Virginia	INDAZIFLAM	2016	kg							31.4			
+54	West Virginia	INDAZIFLAM	2017	kg							55.3			

@@ -1,0 +1,180 @@
+01	Alabama	DSMA	1992	kg	5999.6	797.2		83521.4					180.7	
+01	Alabama	DSMA	1993	kg				115385.3						
+01	Alabama	DSMA	1994	kg				102312.7						
+01	Alabama	DSMA	1995	kg				201945.1					129.6	
+01	Alabama	DSMA	1996	kg				116185.5						
+01	Alabama	DSMA	1997	kg				139305.4					1420.2	
+01	Alabama	DSMA	1998	kg				46470.7						
+01	Alabama	DSMA	1999	kg				14989.8						
+01	Alabama	DSMA	2000	kg				15454.8						
+01	Alabama	DSMA	2001	kg				6392.8						
+01	Alabama	DSMA	2002	kg				6302.2						
+01	Alabama	DSMA	2003	kg				9557						
+01	Alabama	DSMA	2005	kg				10666.9						
+04	Arizona	DSMA	1993	kg				16049.9						
+04	Arizona	DSMA	1999	kg				309.6						
+05	Arkansas	DSMA	1992	kg		2205.3		61523.4						
+05	Arkansas	DSMA	1993	kg				168831.3						
+05	Arkansas	DSMA	1994	kg				75857.9					2775.2	
+05	Arkansas	DSMA	1995	kg				99152.3					2	
+05	Arkansas	DSMA	1996	kg				94863.8					0	
+05	Arkansas	DSMA	1997	kg				16069.7						
+05	Arkansas	DSMA	1998	kg				8889						
+05	Arkansas	DSMA	1999	kg				52240.7						
+05	Arkansas	DSMA	2000	kg				11002.1						
+05	Arkansas	DSMA	2001	kg				16773.4						
+05	Arkansas	DSMA	2002	kg				3687.6						
+05	Arkansas	DSMA	2003	kg				8669.4						
+06	California	DSMA	1992	kg				1.5						
+06	California	DSMA	1993	kg				109.5			0			
+06	California	DSMA	1994	kg							19.5		90.7	
+06	California	DSMA	1995	kg				101.3			0.1			
+06	California	DSMA	1998	kg					0.1					
+06	California	DSMA	1999	kg							0.9			
+06	California	DSMA	2000	kg							3.8			
+06	California	DSMA	2001	kg							4.1			
+06	California	DSMA	2005	kg							0			
+12	Florida	DSMA	1992	kg	1665.3			9420.4						
+12	Florida	DSMA	1993	kg				4183.9						
+12	Florida	DSMA	1994	kg				7904.1						
+12	Florida	DSMA	1995	kg				13649.7						
+12	Florida	DSMA	1996	kg				8392.1						
+12	Florida	DSMA	1997	kg				18428.7						
+12	Florida	DSMA	1998	kg				9025.9						
+12	Florida	DSMA	1999	kg				681.8						
+12	Florida	DSMA	2000	kg				1936.4						
+12	Florida	DSMA	2001	kg				1782.5						
+12	Florida	DSMA	2002	kg				1253.8						
+12	Florida	DSMA	2005	kg				71.5						
+13	Georgia	DSMA	1992	kg	7913.1	236.9		41817.2						
+13	Georgia	DSMA	1993	kg				30608.7						
+13	Georgia	DSMA	1994	kg				31862.9						
+13	Georgia	DSMA	1995	kg				24306.8						
+13	Georgia	DSMA	1996	kg				88097.7						
+13	Georgia	DSMA	1997	kg				101061.9						
+13	Georgia	DSMA	1998	kg				37523						
+13	Georgia	DSMA	1999	kg				6570.9						
+13	Georgia	DSMA	2000	kg				126465.4						
+13	Georgia	DSMA	2001	kg				22964.2						
+13	Georgia	DSMA	2002	kg				15860.9						
+13	Georgia	DSMA	2003	kg				81717.8						
+13	Georgia	DSMA	2005	kg				1938						
+17	Illinois	DSMA	1996	kg									0	
+19	Iowa	DSMA	1996	kg					6.4					
+20	Kansas	DSMA	1992	kg									277.4	
+21	Kentucky	DSMA	1992	kg									155	
+21	Kentucky	DSMA	1996	kg									0	
+22	Louisiana	DSMA	1992	kg		4546.6		94638.3						
+22	Louisiana	DSMA	1993	kg				19331.9						
+22	Louisiana	DSMA	1994	kg				148921.2					11314.6	2336.6
+22	Louisiana	DSMA	1995	kg				99177.8					6.4	168.7
+22	Louisiana	DSMA	1996	kg				39439.1						
+22	Louisiana	DSMA	1997	kg				22321.5						
+22	Louisiana	DSMA	1998	kg				12503.5						
+22	Louisiana	DSMA	1999	kg				52145.3						
+22	Louisiana	DSMA	2000	kg				14833.9						
+22	Louisiana	DSMA	2001	kg				21717.4						
+22	Louisiana	DSMA	2002	kg				119.1						
+22	Louisiana	DSMA	2003	kg				2685.3						
+27	Minnesota	DSMA	1996	kg					1953					
+28	Mississippi	DSMA	1992	kg		2945.6		167626.3					245.4	
+28	Mississippi	DSMA	1993	kg				64031						
+28	Mississippi	DSMA	1994	kg				149423.6					647.8	
+28	Mississippi	DSMA	1995	kg				113246.6					315.5	
+28	Mississippi	DSMA	1996	kg				40058.3						
+28	Mississippi	DSMA	1997	kg				14277.1					892.4	
+28	Mississippi	DSMA	1998	kg				31252.1						
+28	Mississippi	DSMA	1999	kg				57105.5						
+28	Mississippi	DSMA	2000	kg				17129.8						
+28	Mississippi	DSMA	2001	kg				16110.6						
+28	Mississippi	DSMA	2002	kg				7099						
+28	Mississippi	DSMA	2003	kg				6931.7						
+28	Mississippi	DSMA	2005	kg				1617						
+29	Missouri	DSMA	1992	kg				19692.4						
+29	Missouri	DSMA	1993	kg				32682.1						
+29	Missouri	DSMA	1994	kg				47189.9						
+29	Missouri	DSMA	1995	kg				36376.4						
+29	Missouri	DSMA	1996	kg				23123					0	
+29	Missouri	DSMA	1997	kg				7266.2						
+29	Missouri	DSMA	1998	kg				5932						
+29	Missouri	DSMA	1999	kg				1154.6						
+29	Missouri	DSMA	2000	kg				3868.7						
+29	Missouri	DSMA	2002	kg				2167.8						
+29	Missouri	DSMA	2003	kg				4009.8						
+35	New Mexico	DSMA	1996	kg				7.3						
+35	New Mexico	DSMA	1997	kg				4.7						
+35	New Mexico	DSMA	1999	kg				7.7						
+37	North Carolina	DSMA	1992	kg				1613.5						
+37	North Carolina	DSMA	1993	kg				9880.3						
+37	North Carolina	DSMA	1994	kg				27380.3					1851	
+37	North Carolina	DSMA	1995	kg				45722.9				8030.8		
+37	North Carolina	DSMA	1996	kg				26724.4					10539	
+37	North Carolina	DSMA	1997	kg				17586.3						
+37	North Carolina	DSMA	1998	kg				20929.3						
+37	North Carolina	DSMA	1999	kg				10364.8						
+37	North Carolina	DSMA	2000	kg				25141.8						
+37	North Carolina	DSMA	2001	kg				15306.4						
+37	North Carolina	DSMA	2002	kg				12790						
+37	North Carolina	DSMA	2003	kg				61204.8						
+37	North Carolina	DSMA	2005	kg				5043.1						
+40	Oklahoma	DSMA	1992	kg				56					350.7	
+40	Oklahoma	DSMA	1993	kg				142.7						
+40	Oklahoma	DSMA	1994	kg				91.4						
+40	Oklahoma	DSMA	1995	kg				70.4						
+40	Oklahoma	DSMA	1996	kg				104.9						
+40	Oklahoma	DSMA	1997	kg				33.6					0	
+40	Oklahoma	DSMA	1998	kg				109.9						
+40	Oklahoma	DSMA	2000	kg				11.2						
+45	South Carolina	DSMA	1992	kg				71483.9						
+45	South Carolina	DSMA	1993	kg				34993.8						
+45	South Carolina	DSMA	1994	kg				10298.2						
+45	South Carolina	DSMA	1995	kg				28364.3						
+45	South Carolina	DSMA	1996	kg				13330.8						
+45	South Carolina	DSMA	1997	kg				18674.3						
+45	South Carolina	DSMA	1998	kg				17189.1						
+45	South Carolina	DSMA	1999	kg				15019.9						
+45	South Carolina	DSMA	2000	kg				16184.8						
+45	South Carolina	DSMA	2001	kg				2865						
+45	South Carolina	DSMA	2002	kg				9425.3						
+45	South Carolina	DSMA	2003	kg				16784						
+45	South Carolina	DSMA	2005	kg				1649.7						
+46	South Dakota	DSMA	1996	kg					3.6					
+47	Tennessee	DSMA	1992	kg		222.3		144315.2					658.8	
+47	Tennessee	DSMA	1993	kg				85825.4						
+47	Tennessee	DSMA	1994	kg				47716.1					2992.3	
+47	Tennessee	DSMA	1995	kg				200994.9					274.3	
+47	Tennessee	DSMA	1996	kg				24649.6					0	
+47	Tennessee	DSMA	1997	kg				18055					2328.5	
+47	Tennessee	DSMA	1998	kg				39794						
+47	Tennessee	DSMA	1999	kg				4585.7						
+47	Tennessee	DSMA	2000	kg				6050.9						
+47	Tennessee	DSMA	2001	kg				8204.2						
+47	Tennessee	DSMA	2002	kg				6475.3						
+47	Tennessee	DSMA	2003	kg				1464.1						
+48	Texas	DSMA	1992	kg				16125.7						
+48	Texas	DSMA	1993	kg				1663.9						
+48	Texas	DSMA	1994	kg				13732.1						
+48	Texas	DSMA	1995	kg				1723.6						
+48	Texas	DSMA	1996	kg				5652.3						
+48	Texas	DSMA	1997	kg				17694.4					0.6	
+48	Texas	DSMA	1998	kg				55863.7						
+48	Texas	DSMA	1999	kg				2343.5						
+48	Texas	DSMA	2000	kg				9851.7						
+48	Texas	DSMA	2001	kg				2176.5						
+48	Texas	DSMA	2002	kg				14128.5						
+48	Texas	DSMA	2003	kg				36621.9						
+48	Texas	DSMA	2004	kg				4483						
+48	Texas	DSMA	2006	kg				2531.1						
+51	Virginia	DSMA	1992	kg				49.7						
+51	Virginia	DSMA	1993	kg				113.1						
+51	Virginia	DSMA	1994	kg				4216.9						
+51	Virginia	DSMA	1995	kg				3765.1						
+51	Virginia	DSMA	1996	kg				1567.6						
+51	Virginia	DSMA	1997	kg				1439.4						
+51	Virginia	DSMA	1998	kg				1082.3						
+51	Virginia	DSMA	1999	kg				1032.9						
+51	Virginia	DSMA	2000	kg				2334.5						
+51	Virginia	DSMA	2001	kg				1087.7						
+51	Virginia	DSMA	2002	kg				1173.6						
+51	Virginia	DSMA	2003	kg				4903.5						
+51	Virginia	DSMA	2005	kg				559						

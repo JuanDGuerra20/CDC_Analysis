@@ -1,0 +1,8 @@
+05	Arkansas	FLUCHLORALIN	1995	kg		885.3								
+17	Illinois	FLUCHLORALIN	1992	kg					89.1					
+17	Illinois	FLUCHLORALIN	1994	kg		22546.3								
+19	Iowa	FLUCHLORALIN	1994	kg		88769.3								
+22	Louisiana	FLUCHLORALIN	1995	kg		650.7								
+28	Mississippi	FLUCHLORALIN	1995	kg		3020.2								
+48	Texas	FLUCHLORALIN	1992	kg						6751				
+55	Wisconsin	FLUCHLORALIN	1992	kg					594.6					

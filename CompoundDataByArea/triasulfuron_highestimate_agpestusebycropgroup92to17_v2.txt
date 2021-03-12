@@ -1,0 +1,584 @@
+05	Arkansas	TRIASULFURON	1993	kg			36							
+05	Arkansas	TRIASULFURON	1994	kg			35.9							
+05	Arkansas	TRIASULFURON	1995	kg			77.8							
+05	Arkansas	TRIASULFURON	1996	kg			96.4						12.4	
+05	Arkansas	TRIASULFURON	1997	kg			30.2						2	
+05	Arkansas	TRIASULFURON	1998	kg			10.4						42.4	
+05	Arkansas	TRIASULFURON	1999	kg			42.5							
+05	Arkansas	TRIASULFURON	2000	kg			11.3						45.7	
+05	Arkansas	TRIASULFURON	2001	kg			138.4						15.1	
+05	Arkansas	TRIASULFURON	2002	kg			34.9							
+05	Arkansas	TRIASULFURON	2003	kg			3							
+05	Arkansas	TRIASULFURON	2004	kg			80							
+05	Arkansas	TRIASULFURON	2005	kg			4.2							
+05	Arkansas	TRIASULFURON	2006	kg			16.9							
+05	Arkansas	TRIASULFURON	2007	kg			0.2						108.1	
+05	Arkansas	TRIASULFURON	2008	kg			151.1							
+05	Arkansas	TRIASULFURON	2010	kg			21							
+05	Arkansas	TRIASULFURON	2011	kg			35.2						113.9	
+05	Arkansas	TRIASULFURON	2012	kg			27.7							
+05	Arkansas	TRIASULFURON	2013	kg			47						94.1	
+05	Arkansas	TRIASULFURON	2014	kg			12.6							
+05	Arkansas	TRIASULFURON	2015	kg			0.2							
+05	Arkansas	TRIASULFURON	2017	kg			7.5							
+08	Colorado	TRIASULFURON	1992	kg			290.4						260.8	
+08	Colorado	TRIASULFURON	1993	kg			2009.1						3610.7	9.3
+08	Colorado	TRIASULFURON	1994	kg			1110.9						856.7	4.7
+08	Colorado	TRIASULFURON	1995	kg			2053.8							12.7
+08	Colorado	TRIASULFURON	1996	kg	19.5		1170.7						288.1	10
+08	Colorado	TRIASULFURON	1997	kg			787.5						631.4	0.7
+08	Colorado	TRIASULFURON	1998	kg			1198.3						641.4	10
+08	Colorado	TRIASULFURON	1999	kg			351.6						1089.9	62.4
+08	Colorado	TRIASULFURON	2000	kg			616.9						688.6	3.5
+08	Colorado	TRIASULFURON	2001	kg			3690.8						1097.5	3.6
+08	Colorado	TRIASULFURON	2002	kg			1512.5						425.9	0.8
+08	Colorado	TRIASULFURON	2003	kg			1107.3						370.4	2.4
+08	Colorado	TRIASULFURON	2004	kg			875.9						208.1	39.9
+08	Colorado	TRIASULFURON	2005	kg			894.4						1467	
+08	Colorado	TRIASULFURON	2006	kg			1029.4						236.9	2.5
+08	Colorado	TRIASULFURON	2007	kg			496.1						207	
+08	Colorado	TRIASULFURON	2008	kg			572.3						110.8	
+08	Colorado	TRIASULFURON	2009	kg			727.3							
+08	Colorado	TRIASULFURON	2010	kg			805.6						725.1	
+08	Colorado	TRIASULFURON	2011	kg			4226.6						586.4	
+08	Colorado	TRIASULFURON	2012	kg			2399.1						20.4	0.4
+08	Colorado	TRIASULFURON	2013	kg			1130.8						855.7	
+08	Colorado	TRIASULFURON	2014	kg			2322.2						787.2	37.2
+08	Colorado	TRIASULFURON	2015	kg			1026						765.9	
+08	Colorado	TRIASULFURON	2016	kg			2321.9						1107.4	
+08	Colorado	TRIASULFURON	2017	kg			1626.6						756	
+16	Idaho	TRIASULFURON	1992	kg			29.3							
+16	Idaho	TRIASULFURON	1993	kg			769.6							
+16	Idaho	TRIASULFURON	1994	kg			891.2							24.5
+16	Idaho	TRIASULFURON	1995	kg			559.1							287.6
+16	Idaho	TRIASULFURON	1996	kg			1297.8							8.2
+16	Idaho	TRIASULFURON	1997	kg			927.5						3.7	56.9
+16	Idaho	TRIASULFURON	1998	kg			557.5							547.3
+16	Idaho	TRIASULFURON	1999	kg			1106.9							174.5
+16	Idaho	TRIASULFURON	2000	kg			213.5							19.1
+16	Idaho	TRIASULFURON	2001	kg			317.9							
+16	Idaho	TRIASULFURON	2002	kg			307.4							
+16	Idaho	TRIASULFURON	2003	kg			93.2							265.8
+16	Idaho	TRIASULFURON	2004	kg			633.4							340.3
+16	Idaho	TRIASULFURON	2005	kg			110.8							
+16	Idaho	TRIASULFURON	2006	kg			495.5							
+16	Idaho	TRIASULFURON	2007	kg			194							
+16	Idaho	TRIASULFURON	2008	kg			129.9							
+16	Idaho	TRIASULFURON	2009	kg			139.7							
+16	Idaho	TRIASULFURON	2010	kg			286.7							
+16	Idaho	TRIASULFURON	2011	kg			966.3							
+16	Idaho	TRIASULFURON	2012	kg			292.6							
+16	Idaho	TRIASULFURON	2013	kg			1038.6							
+16	Idaho	TRIASULFURON	2014	kg			674							
+16	Idaho	TRIASULFURON	2015	kg			327.9							
+16	Idaho	TRIASULFURON	2016	kg			158.9							
+16	Idaho	TRIASULFURON	2017	kg			68.9							
+17	Illinois	TRIASULFURON	1994	kg			68.7							
+17	Illinois	TRIASULFURON	1995	kg			193.9							
+17	Illinois	TRIASULFURON	1996	kg			116.6							
+17	Illinois	TRIASULFURON	1997	kg			194.6							
+17	Illinois	TRIASULFURON	1998	kg			63.9							
+17	Illinois	TRIASULFURON	1999	kg			121.4							
+17	Illinois	TRIASULFURON	2000	kg			133.8							
+17	Illinois	TRIASULFURON	2001	kg			131.6							
+17	Illinois	TRIASULFURON	2002	kg			47.4						8.3	
+17	Illinois	TRIASULFURON	2003	kg			28.5							
+17	Illinois	TRIASULFURON	2004	kg			57.6							
+17	Illinois	TRIASULFURON	2005	kg			97.2							
+17	Illinois	TRIASULFURON	2006	kg			66.6							
+17	Illinois	TRIASULFURON	2007	kg			348.1							
+17	Illinois	TRIASULFURON	2008	kg			0.9							
+17	Illinois	TRIASULFURON	2009	kg			127.7							
+17	Illinois	TRIASULFURON	2010	kg			71.6							
+17	Illinois	TRIASULFURON	2011	kg			44.9							
+17	Illinois	TRIASULFURON	2012	kg			38.4							
+17	Illinois	TRIASULFURON	2013	kg			100.5							
+17	Illinois	TRIASULFURON	2014	kg			53.1							
+17	Illinois	TRIASULFURON	2015	kg			47.4							
+17	Illinois	TRIASULFURON	2016	kg			57.7							
+17	Illinois	TRIASULFURON	2017	kg			39.9							
+18	Indiana	TRIASULFURON	1994	kg			24.7							
+18	Indiana	TRIASULFURON	1995	kg			46.7							
+18	Indiana	TRIASULFURON	1996	kg			46							
+18	Indiana	TRIASULFURON	1997	kg			21.2							
+18	Indiana	TRIASULFURON	1998	kg			19.6							
+18	Indiana	TRIASULFURON	1999	kg			35							
+18	Indiana	TRIASULFURON	2000	kg			46.3							
+18	Indiana	TRIASULFURON	2001	kg			55.1							
+18	Indiana	TRIASULFURON	2002	kg			14.2							
+18	Indiana	TRIASULFURON	2003	kg			9.4							
+18	Indiana	TRIASULFURON	2004	kg			17.9							
+18	Indiana	TRIASULFURON	2005	kg			38.1							
+18	Indiana	TRIASULFURON	2006	kg			22.7							
+18	Indiana	TRIASULFURON	2007	kg			71.2							
+18	Indiana	TRIASULFURON	2008	kg			25.5							
+18	Indiana	TRIASULFURON	2009	kg			46.9							
+18	Indiana	TRIASULFURON	2010	kg			21.4							
+18	Indiana	TRIASULFURON	2011	kg			19.4							
+18	Indiana	TRIASULFURON	2012	kg			12.5							
+18	Indiana	TRIASULFURON	2013	kg			35.1							
+18	Indiana	TRIASULFURON	2014	kg			23.4							
+18	Indiana	TRIASULFURON	2015	kg			26.9							
+18	Indiana	TRIASULFURON	2016	kg			37.9							
+18	Indiana	TRIASULFURON	2017	kg			18.8							
+19	Iowa	TRIASULFURON	1994	kg			9.5							
+19	Iowa	TRIASULFURON	1995	kg			14.9							
+19	Iowa	TRIASULFURON	1996	kg			17.2							
+19	Iowa	TRIASULFURON	1997	kg			22.4							
+19	Iowa	TRIASULFURON	1998	kg			5.2							
+19	Iowa	TRIASULFURON	1999	kg			12.3							
+19	Iowa	TRIASULFURON	2000	kg			15.5							
+19	Iowa	TRIASULFURON	2001	kg			18.4							
+19	Iowa	TRIASULFURON	2002	kg			6.6							
+19	Iowa	TRIASULFURON	2003	kg			2.9							
+19	Iowa	TRIASULFURON	2004	kg			7.2							
+19	Iowa	TRIASULFURON	2005	kg			14.2							
+19	Iowa	TRIASULFURON	2006	kg			6.8							
+19	Iowa	TRIASULFURON	2007	kg			50.2							
+19	Iowa	TRIASULFURON	2008	kg			4.3							
+19	Iowa	TRIASULFURON	2009	kg			17.3							
+19	Iowa	TRIASULFURON	2010	kg			9.6							
+19	Iowa	TRIASULFURON	2011	kg			4.9							
+19	Iowa	TRIASULFURON	2012	kg			2.3							
+19	Iowa	TRIASULFURON	2013	kg			6.1						249.1	
+19	Iowa	TRIASULFURON	2014	kg			3.3							
+19	Iowa	TRIASULFURON	2015	kg			3.8							
+19	Iowa	TRIASULFURON	2016	kg			6.1							
+19	Iowa	TRIASULFURON	2017	kg			3							
+20	Kansas	TRIASULFURON	1992	kg			1238.8						74.8	
+20	Kansas	TRIASULFURON	1993	kg			2776.6							
+20	Kansas	TRIASULFURON	1994	kg			5960.5						1100.3	
+20	Kansas	TRIASULFURON	1995	kg			7825.3							695.4
+20	Kansas	TRIASULFURON	1996	kg			5661.1						120.7	
+20	Kansas	TRIASULFURON	1997	kg			3083.6						3297.8	
+20	Kansas	TRIASULFURON	1998	kg			2227.7						869.7	
+20	Kansas	TRIASULFURON	1999	kg			4573.1						2224.1	35.3
+20	Kansas	TRIASULFURON	2000	kg			2869.2						605.4	
+20	Kansas	TRIASULFURON	2001	kg			2600.6						2671.6	
+20	Kansas	TRIASULFURON	2002	kg			3650						384	
+20	Kansas	TRIASULFURON	2003	kg			3010.1						1320.6	
+20	Kansas	TRIASULFURON	2004	kg			2965.3						501.7	
+20	Kansas	TRIASULFURON	2005	kg			4040.9						1374.7	
+20	Kansas	TRIASULFURON	2006	kg			8884.7						336.7	
+20	Kansas	TRIASULFURON	2007	kg			8378.9						690.4	
+20	Kansas	TRIASULFURON	2008	kg			13337.3						79.4	
+20	Kansas	TRIASULFURON	2009	kg			6792.7							
+20	Kansas	TRIASULFURON	2010	kg			4268.5						1064.3	
+20	Kansas	TRIASULFURON	2011	kg			5644.8						311.3	
+20	Kansas	TRIASULFURON	2012	kg			7882.6						362.2	
+20	Kansas	TRIASULFURON	2013	kg			8948.1						5374.6	
+20	Kansas	TRIASULFURON	2014	kg			11624.3						704.8	
+20	Kansas	TRIASULFURON	2015	kg			14954.3						1113.3	
+20	Kansas	TRIASULFURON	2016	kg			10501						1436.3	
+20	Kansas	TRIASULFURON	2017	kg			8065.3						1648.7	
+21	Kentucky	TRIASULFURON	1996	kg					0.1					
+21	Kentucky	TRIASULFURON	1997	kg			1.3							
+22	Louisiana	TRIASULFURON	1996	kg									0	
+22	Louisiana	TRIASULFURON	1997	kg			30.3						46.5	
+22	Louisiana	TRIASULFURON	1999	kg			21.7						58	
+22	Louisiana	TRIASULFURON	2000	kg									100.9	
+22	Louisiana	TRIASULFURON	2001	kg			37							
+22	Louisiana	TRIASULFURON	2002	kg									10.4	
+22	Louisiana	TRIASULFURON	2004	kg									224.5	
+22	Louisiana	TRIASULFURON	2005	kg									11.9	
+22	Louisiana	TRIASULFURON	2015	kg			8.6							
+22	Louisiana	TRIASULFURON	2016	kg			3.9							
+24	Maryland	TRIASULFURON	1997	kg			10.5							
+26	Michigan	TRIASULFURON	2005	kg			238							
+27	Minnesota	TRIASULFURON	1992	kg			75.2							
+27	Minnesota	TRIASULFURON	1993	kg			108.2							
+27	Minnesota	TRIASULFURON	1994	kg			559.9							
+27	Minnesota	TRIASULFURON	1995	kg			747.1							
+27	Minnesota	TRIASULFURON	1996	kg			676.9							
+27	Minnesota	TRIASULFURON	1997	kg			1.9							
+27	Minnesota	TRIASULFURON	1998	kg			483.3							
+27	Minnesota	TRIASULFURON	1999	kg			360							
+27	Minnesota	TRIASULFURON	2000	kg			839.8							
+27	Minnesota	TRIASULFURON	2001	kg			748.9							
+27	Minnesota	TRIASULFURON	2002	kg			757.7							
+27	Minnesota	TRIASULFURON	2003	kg			1158.1							
+27	Minnesota	TRIASULFURON	2004	kg			597.1							
+27	Minnesota	TRIASULFURON	2005	kg			444.1							
+27	Minnesota	TRIASULFURON	2006	kg			594.4							
+27	Minnesota	TRIASULFURON	2007	kg			428.5							
+27	Minnesota	TRIASULFURON	2008	kg			150.4							
+27	Minnesota	TRIASULFURON	2009	kg			101.4							
+27	Minnesota	TRIASULFURON	2010	kg			1.1							
+27	Minnesota	TRIASULFURON	2011	kg			0.5							
+27	Minnesota	TRIASULFURON	2012	kg			0.5							
+27	Minnesota	TRIASULFURON	2013	kg			1.3							
+27	Minnesota	TRIASULFURON	2014	kg			1							
+27	Minnesota	TRIASULFURON	2015	kg			1.1							
+27	Minnesota	TRIASULFURON	2016	kg			1.4							
+27	Minnesota	TRIASULFURON	2017	kg			1.1							
+28	Mississippi	TRIASULFURON	2008	kg			35.5							
+29	Missouri	TRIASULFURON	1993	kg			77.6							
+29	Missouri	TRIASULFURON	1994	kg			273.6							
+29	Missouri	TRIASULFURON	1995	kg			939							
+29	Missouri	TRIASULFURON	1996	kg			691.9							
+29	Missouri	TRIASULFURON	1997	kg			611.3						6.7	
+29	Missouri	TRIASULFURON	1998	kg			241.7						68.1	
+29	Missouri	TRIASULFURON	1999	kg			413.4							
+29	Missouri	TRIASULFURON	2000	kg			257.5						30.3	
+29	Missouri	TRIASULFURON	2001	kg			159						23.9	
+29	Missouri	TRIASULFURON	2002	kg			200.8							
+29	Missouri	TRIASULFURON	2003	kg			76.1							
+29	Missouri	TRIASULFURON	2004	kg			200.5							
+29	Missouri	TRIASULFURON	2005	kg			416.8							
+29	Missouri	TRIASULFURON	2006	kg			279.5							
+29	Missouri	TRIASULFURON	2007	kg			597						175	
+29	Missouri	TRIASULFURON	2008	kg			113.7							
+29	Missouri	TRIASULFURON	2009	kg			343.6							
+29	Missouri	TRIASULFURON	2010	kg			180.2							
+29	Missouri	TRIASULFURON	2011	kg			172.5							
+29	Missouri	TRIASULFURON	2012	kg			149.2						3	
+29	Missouri	TRIASULFURON	2013	kg			351.1						666.9	
+29	Missouri	TRIASULFURON	2014	kg			216.4							
+29	Missouri	TRIASULFURON	2015	kg			238.5							
+29	Missouri	TRIASULFURON	2016	kg			318.1							
+29	Missouri	TRIASULFURON	2017	kg			212.1						113.8	
+30	Montana	TRIASULFURON	1992	kg			563.5						535.7	
+30	Montana	TRIASULFURON	1993	kg			1662.7						67.7	231.9
+30	Montana	TRIASULFURON	1994	kg			1924.8							246.3
+30	Montana	TRIASULFURON	1995	kg			2842.4							444.8
+30	Montana	TRIASULFURON	1996	kg			5195.9						379.4	1374.6
+30	Montana	TRIASULFURON	1997	kg			1797.4						432.1	587.6
+30	Montana	TRIASULFURON	1998	kg			3282						393.2	672.1
+30	Montana	TRIASULFURON	1999	kg			4093.6							830
+30	Montana	TRIASULFURON	2000	kg			2149.4							187.2
+30	Montana	TRIASULFURON	2001	kg			1926.8							120.5
+30	Montana	TRIASULFURON	2002	kg			5644.4							323.9
+30	Montana	TRIASULFURON	2003	kg			3696						1786.6	230
+30	Montana	TRIASULFURON	2004	kg			2365.5						1176	69
+30	Montana	TRIASULFURON	2005	kg			893.1						716.6	61.2
+30	Montana	TRIASULFURON	2006	kg			1870.6						3.9	148
+30	Montana	TRIASULFURON	2007	kg			1313.7						167.6	24.8
+30	Montana	TRIASULFURON	2008	kg			1807.9							
+30	Montana	TRIASULFURON	2009	kg			1904.7						463.3	246.5
+30	Montana	TRIASULFURON	2010	kg			608.8						325.8	41.4
+30	Montana	TRIASULFURON	2011	kg			822.3						1994.7	472
+30	Montana	TRIASULFURON	2012	kg			2117							46.8
+30	Montana	TRIASULFURON	2013	kg			692.6						171.8	
+30	Montana	TRIASULFURON	2014	kg			282.2						1513.3	
+30	Montana	TRIASULFURON	2015	kg			1127.1							
+30	Montana	TRIASULFURON	2016	kg			923.4						2032.9	330.6
+30	Montana	TRIASULFURON	2017	kg			802.4						1111.8	
+31	Nebraska	TRIASULFURON	1992	kg			796.4						203.5	
+31	Nebraska	TRIASULFURON	1993	kg			731.6						1680.1	2.8
+31	Nebraska	TRIASULFURON	1994	kg			441.2						504.2	1.2
+31	Nebraska	TRIASULFURON	1995	kg			324							2.7
+31	Nebraska	TRIASULFURON	1996	kg	23.4		1172.3						204	3.8
+31	Nebraska	TRIASULFURON	1997	kg			1220						6613.4	
+31	Nebraska	TRIASULFURON	1998	kg			503.6						475.9	4
+31	Nebraska	TRIASULFURON	1999	kg			1104.5						565.1	17.6
+31	Nebraska	TRIASULFURON	2000	kg			1805.4						404.4	0.6
+31	Nebraska	TRIASULFURON	2001	kg			3241.4						379.1	1.4
+31	Nebraska	TRIASULFURON	2002	kg			1879.6						222.1	0
+31	Nebraska	TRIASULFURON	2003	kg			542.4						315.4	0.2
+31	Nebraska	TRIASULFURON	2004	kg			1540.1						377.5	8.4
+31	Nebraska	TRIASULFURON	2005	kg			3152.6						734.5	
+31	Nebraska	TRIASULFURON	2006	kg			1727.8						235.1	0.6
+31	Nebraska	TRIASULFURON	2007	kg			4017.8						35.3	
+31	Nebraska	TRIASULFURON	2008	kg			4915						18	
+31	Nebraska	TRIASULFURON	2009	kg			1733.7							
+31	Nebraska	TRIASULFURON	2010	kg			1247.5						224.6	
+31	Nebraska	TRIASULFURON	2011	kg			2065.8						1214.7	
+31	Nebraska	TRIASULFURON	2012	kg			2556.7						32.1	0
+31	Nebraska	TRIASULFURON	2013	kg			1233.9						2793	
+31	Nebraska	TRIASULFURON	2014	kg			2116.5						409.8	5.4
+31	Nebraska	TRIASULFURON	2015	kg			1504.5						319.3	
+31	Nebraska	TRIASULFURON	2016	kg			1570.8						440.6	
+31	Nebraska	TRIASULFURON	2017	kg			2586.1						516.1	
+32	Nevada	TRIASULFURON	1992	kg			0.4							
+32	Nevada	TRIASULFURON	1993	kg			3.7							
+32	Nevada	TRIASULFURON	1994	kg			2.8							
+32	Nevada	TRIASULFURON	1995	kg			2.7							
+32	Nevada	TRIASULFURON	1996	kg			4.5							
+32	Nevada	TRIASULFURON	1997	kg			4							
+32	Nevada	TRIASULFURON	1998	kg			1.7							
+32	Nevada	TRIASULFURON	1999	kg			5.1							
+32	Nevada	TRIASULFURON	2000	kg			2.2							
+32	Nevada	TRIASULFURON	2001	kg			4.2							
+32	Nevada	TRIASULFURON	2002	kg			1.8							
+32	Nevada	TRIASULFURON	2003	kg			0.9							
+32	Nevada	TRIASULFURON	2004	kg			0.6							
+32	Nevada	TRIASULFURON	2005	kg			0.6							
+32	Nevada	TRIASULFURON	2006	kg			3.6							
+32	Nevada	TRIASULFURON	2007	kg			1.6							
+32	Nevada	TRIASULFURON	2008	kg			3.3							
+32	Nevada	TRIASULFURON	2009	kg			6.1							
+32	Nevada	TRIASULFURON	2010	kg			8.3							
+32	Nevada	TRIASULFURON	2011	kg			28.4							
+32	Nevada	TRIASULFURON	2012	kg			13.6							
+32	Nevada	TRIASULFURON	2013	kg			13.6							
+32	Nevada	TRIASULFURON	2014	kg			7.2							
+32	Nevada	TRIASULFURON	2015	kg			4.3							
+32	Nevada	TRIASULFURON	2016	kg			3.3							
+32	Nevada	TRIASULFURON	2017	kg			1.5							
+35	New Mexico	TRIASULFURON	1992	kg			47.4							
+35	New Mexico	TRIASULFURON	1993	kg			16.7						0.6	
+35	New Mexico	TRIASULFURON	1994	kg			18.9						18.1	
+35	New Mexico	TRIASULFURON	1995	kg			28.9							
+35	New Mexico	TRIASULFURON	1996	kg			181.5							
+35	New Mexico	TRIASULFURON	1997	kg			39.6						805	
+35	New Mexico	TRIASULFURON	1998	kg			21.3						2033.7	
+35	New Mexico	TRIASULFURON	1999	kg			28.6						909.9	
+35	New Mexico	TRIASULFURON	2000	kg			67.2						1509	
+35	New Mexico	TRIASULFURON	2001	kg			599.6						2489.6	
+35	New Mexico	TRIASULFURON	2002	kg			11.9						291	
+35	New Mexico	TRIASULFURON	2003	kg			5.6						547.9	
+35	New Mexico	TRIASULFURON	2004	kg			2.8						1015.1	
+35	New Mexico	TRIASULFURON	2005	kg			76.9						402.5	
+35	New Mexico	TRIASULFURON	2006	kg			30.4						6.1	
+35	New Mexico	TRIASULFURON	2007	kg			19.4							
+35	New Mexico	TRIASULFURON	2008	kg			66.5							
+35	New Mexico	TRIASULFURON	2009	kg			16							
+35	New Mexico	TRIASULFURON	2010	kg			15.3						27.4	
+35	New Mexico	TRIASULFURON	2011	kg			53.6						358	
+35	New Mexico	TRIASULFURON	2012	kg			100.8						4.9	
+35	New Mexico	TRIASULFURON	2013	kg			325.7						139.8	
+35	New Mexico	TRIASULFURON	2014	kg			157.5						14.1	
+35	New Mexico	TRIASULFURON	2015	kg			44.8						22.4	
+35	New Mexico	TRIASULFURON	2016	kg			262.6						50.6	
+35	New Mexico	TRIASULFURON	2017	kg			6.1						526.2	
+37	North Carolina	TRIASULFURON	1996	kg					1.6					
+37	North Carolina	TRIASULFURON	2012	kg			18.5							
+38	North Dakota	TRIASULFURON	1992	kg			426.6						1076.7	
+38	North Dakota	TRIASULFURON	1993	kg			825.8						14.3	691.8
+38	North Dakota	TRIASULFURON	1994	kg			2937							303.5
+38	North Dakota	TRIASULFURON	1995	kg			4019.4							515.9
+38	North Dakota	TRIASULFURON	1996	kg			4390.7						186	521.2
+38	North Dakota	TRIASULFURON	1997	kg			1085.8						87.3	33.2
+38	North Dakota	TRIASULFURON	1998	kg			3056.9						146.2	328.8
+38	North Dakota	TRIASULFURON	1999	kg			2476.8							280.1
+38	North Dakota	TRIASULFURON	2000	kg			3307.4							182
+38	North Dakota	TRIASULFURON	2001	kg			3356.8							344.8
+38	North Dakota	TRIASULFURON	2002	kg			2640.3							36.3
+38	North Dakota	TRIASULFURON	2003	kg			6514.6						441.1	107.2
+38	North Dakota	TRIASULFURON	2004	kg			4024.3						68.8	62.1
+38	North Dakota	TRIASULFURON	2005	kg			1653.8						202.2	
+38	North Dakota	TRIASULFURON	2006	kg			3564.1							155.9
+38	North Dakota	TRIASULFURON	2007	kg			2799.9							
+38	North Dakota	TRIASULFURON	2008	kg			992.1							
+38	North Dakota	TRIASULFURON	2009	kg			739.8							
+38	North Dakota	TRIASULFURON	2010	kg			246.9						78.9	
+38	North Dakota	TRIASULFURON	2011	kg			426						268.9	
+38	North Dakota	TRIASULFURON	2012	kg			695.7							39.2
+38	North Dakota	TRIASULFURON	2013	kg			250.8						14.2	
+38	North Dakota	TRIASULFURON	2014	kg			258.2						185.2	
+38	North Dakota	TRIASULFURON	2015	kg			203.7							
+38	North Dakota	TRIASULFURON	2016	kg			151.6						252.2	59.4
+38	North Dakota	TRIASULFURON	2017	kg			33.8						139.4	
+39	Ohio	TRIASULFURON	1994	kg			137.1							
+39	Ohio	TRIASULFURON	1995	kg			251.6							
+39	Ohio	TRIASULFURON	1996	kg			243.8							
+39	Ohio	TRIASULFURON	1997	kg			116.4							
+39	Ohio	TRIASULFURON	1998	kg			109.6							
+39	Ohio	TRIASULFURON	1999	kg			220.7							
+39	Ohio	TRIASULFURON	2000	kg			308.9							
+39	Ohio	TRIASULFURON	2001	kg			345.9							
+39	Ohio	TRIASULFURON	2002	kg			128.6							
+39	Ohio	TRIASULFURON	2003	kg			67.4							
+39	Ohio	TRIASULFURON	2004	kg			124.1							
+39	Ohio	TRIASULFURON	2005	kg			242.2							
+39	Ohio	TRIASULFURON	2006	kg			133.9							
+39	Ohio	TRIASULFURON	2007	kg			518.8							
+39	Ohio	TRIASULFURON	2008	kg			142.9							
+39	Ohio	TRIASULFURON	2009	kg			297.5							
+39	Ohio	TRIASULFURON	2010	kg			169.3							
+39	Ohio	TRIASULFURON	2011	kg			117.3							
+39	Ohio	TRIASULFURON	2012	kg			70.2							
+39	Ohio	TRIASULFURON	2013	kg			176.3							
+39	Ohio	TRIASULFURON	2014	kg			103.9							
+39	Ohio	TRIASULFURON	2015	kg			122.4							
+39	Ohio	TRIASULFURON	2016	kg			175.9							
+39	Ohio	TRIASULFURON	2017	kg			98.5							
+40	Oklahoma	TRIASULFURON	1992	kg			792.2							
+40	Oklahoma	TRIASULFURON	1993	kg			2062.1						1	
+40	Oklahoma	TRIASULFURON	1994	kg			2498.4						435.6	
+40	Oklahoma	TRIASULFURON	1995	kg			1305.9							78.9
+40	Oklahoma	TRIASULFURON	1996	kg	4.3		3828.2						166.6	0
+40	Oklahoma	TRIASULFURON	1997	kg			877.1						856.4	
+40	Oklahoma	TRIASULFURON	1998	kg			2246.2						863.9	21.3
+40	Oklahoma	TRIASULFURON	1999	kg			472.7						1644.2	
+40	Oklahoma	TRIASULFURON	2000	kg			746.4						548.4	
+40	Oklahoma	TRIASULFURON	2001	kg			835.7						1377.6	
+40	Oklahoma	TRIASULFURON	2002	kg			1546.2						246	
+40	Oklahoma	TRIASULFURON	2003	kg			879.2						335.7	
+40	Oklahoma	TRIASULFURON	2004	kg			750.6						684.4	
+40	Oklahoma	TRIASULFURON	2005	kg			665.7						361.4	
+40	Oklahoma	TRIASULFURON	2006	kg			964.4						25.1	
+40	Oklahoma	TRIASULFURON	2007	kg			522.3						1816.7	
+40	Oklahoma	TRIASULFURON	2008	kg			1883.4							
+40	Oklahoma	TRIASULFURON	2009	kg			993.3							
+40	Oklahoma	TRIASULFURON	2010	kg			260.9						152.8	
+40	Oklahoma	TRIASULFURON	2011	kg			1337.7						910.3	
+40	Oklahoma	TRIASULFURON	2012	kg			2074.6						387.9	
+40	Oklahoma	TRIASULFURON	2013	kg			5316.3						1301.5	
+40	Oklahoma	TRIASULFURON	2014	kg			1564						56.8	0.6
+40	Oklahoma	TRIASULFURON	2015	kg			6109.3						102	
+40	Oklahoma	TRIASULFURON	2016	kg			2678.2						84.3	
+40	Oklahoma	TRIASULFURON	2017	kg			497.4						485.2	
+41	Oregon	TRIASULFURON	1992	kg			36.3							
+41	Oregon	TRIASULFURON	1993	kg			267.7							
+41	Oregon	TRIASULFURON	1994	kg			1028.6							16.3
+41	Oregon	TRIASULFURON	1995	kg			999.5							46.7
+41	Oregon	TRIASULFURON	1996	kg			642.6							66
+41	Oregon	TRIASULFURON	1997	kg			512.3						107.4	35
+41	Oregon	TRIASULFURON	1998	kg			1631.5						252.5	190.7
+41	Oregon	TRIASULFURON	1999	kg			351.9							47.9
+41	Oregon	TRIASULFURON	2000	kg			522.1							318.9
+41	Oregon	TRIASULFURON	2001	kg			483.7							
+41	Oregon	TRIASULFURON	2002	kg			369.6							
+41	Oregon	TRIASULFURON	2003	kg			359						96	20
+41	Oregon	TRIASULFURON	2004	kg			2502							26.9
+41	Oregon	TRIASULFURON	2005	kg			67.4							
+41	Oregon	TRIASULFURON	2006	kg			599.2							
+41	Oregon	TRIASULFURON	2007	kg			1425.4							
+41	Oregon	TRIASULFURON	2008	kg			140.5							
+41	Oregon	TRIASULFURON	2009	kg			181.7							
+41	Oregon	TRIASULFURON	2010	kg			419.9							
+41	Oregon	TRIASULFURON	2011	kg			738.7						2120.9	
+41	Oregon	TRIASULFURON	2012	kg			557.6							
+41	Oregon	TRIASULFURON	2013	kg			1150.5							
+41	Oregon	TRIASULFURON	2014	kg			437.8							
+41	Oregon	TRIASULFURON	2015	kg			418.6							
+41	Oregon	TRIASULFURON	2016	kg			206.6							
+41	Oregon	TRIASULFURON	2017	kg			217.6							
+42	Pennsylvania	TRIASULFURON	1997	kg			6.1							
+45	South Carolina	TRIASULFURON	2012	kg			2.9							
+46	South Dakota	TRIASULFURON	1992	kg			364.6							
+46	South Dakota	TRIASULFURON	1993	kg			4308.7							159.5
+46	South Dakota	TRIASULFURON	1994	kg			2947.5							29
+46	South Dakota	TRIASULFURON	1995	kg			3107							82
+46	South Dakota	TRIASULFURON	1996	kg			3930.2						20	47.3
+46	South Dakota	TRIASULFURON	1997	kg			6085.8							
+46	South Dakota	TRIASULFURON	1998	kg			371.4						19.8	49.5
+46	South Dakota	TRIASULFURON	1999	kg			685.1							29.9
+46	South Dakota	TRIASULFURON	2000	kg			3249.6							15.1
+46	South Dakota	TRIASULFURON	2001	kg			1593.6							18.2
+46	South Dakota	TRIASULFURON	2002	kg			2816.4						0.1	1.1
+46	South Dakota	TRIASULFURON	2003	kg			3963.3						147.5	4.3
+46	South Dakota	TRIASULFURON	2004	kg			709.3						40.6	1.7
+46	South Dakota	TRIASULFURON	2005	kg			591.9						61.3	
+46	South Dakota	TRIASULFURON	2006	kg			2459.9						14.6	4.7
+46	South Dakota	TRIASULFURON	2007	kg			1173.7							
+46	South Dakota	TRIASULFURON	2008	kg			1367.2							
+46	South Dakota	TRIASULFURON	2009	kg			923.7							
+46	South Dakota	TRIASULFURON	2010	kg			702.7						25	
+46	South Dakota	TRIASULFURON	2011	kg			1536.4						104.7	
+46	South Dakota	TRIASULFURON	2012	kg			894.2							0.7
+46	South Dakota	TRIASULFURON	2013	kg			567						7.9	
+46	South Dakota	TRIASULFURON	2014	kg			651						52.4	
+46	South Dakota	TRIASULFURON	2015	kg			424							
+46	South Dakota	TRIASULFURON	2016	kg			480.7						56.8	
+46	South Dakota	TRIASULFURON	2017	kg			286.7						47.8	
+47	Tennessee	TRIASULFURON	1996	kg					0.3					
+47	Tennessee	TRIASULFURON	2008	kg			15.4							
+48	Texas	TRIASULFURON	1992	kg			668.5							
+48	Texas	TRIASULFURON	1993	kg			300.5						2.7	
+48	Texas	TRIASULFURON	1994	kg			297.6						202.6	
+48	Texas	TRIASULFURON	1995	kg			1000.6							
+48	Texas	TRIASULFURON	1996	kg	161.1		2764.8						535.5	1.1
+48	Texas	TRIASULFURON	1997	kg			2850.3						3369.5	
+48	Texas	TRIASULFURON	1998	kg			2383.2						4384.8	0.4
+48	Texas	TRIASULFURON	1999	kg			3820						6061.4	
+48	Texas	TRIASULFURON	2000	kg			2653.2						3757.3	
+48	Texas	TRIASULFURON	2001	kg			1901.9						8459	
+48	Texas	TRIASULFURON	2002	kg			1641.5						1441.2	
+48	Texas	TRIASULFURON	2003	kg			3617.6						1894.9	
+48	Texas	TRIASULFURON	2004	kg			723.7						4012.6	
+48	Texas	TRIASULFURON	2005	kg			458.5						2726.9	
+48	Texas	TRIASULFURON	2006	kg			141.8						67.2	
+48	Texas	TRIASULFURON	2007	kg			1174						895.8	
+48	Texas	TRIASULFURON	2008	kg			1999.5							
+48	Texas	TRIASULFURON	2009	kg			1869.3						256.9	
+48	Texas	TRIASULFURON	2010	kg			426.7						571.9	
+48	Texas	TRIASULFURON	2011	kg			638.4						440.7	
+48	Texas	TRIASULFURON	2012	kg			1978.3						3888	
+48	Texas	TRIASULFURON	2013	kg			6246.8						1207.1	
+48	Texas	TRIASULFURON	2014	kg			2168.7						108.8	93.1
+48	Texas	TRIASULFURON	2015	kg			3692.1						159.8	
+48	Texas	TRIASULFURON	2016	kg			3044.6						232	
+48	Texas	TRIASULFURON	2017	kg			1028						2426.3	
+49	Utah	TRIASULFURON	1992	kg			4.8							
+49	Utah	TRIASULFURON	1993	kg			29.1							
+49	Utah	TRIASULFURON	1994	kg			9.9							9.9
+49	Utah	TRIASULFURON	1995	kg			10.3							23.7
+49	Utah	TRIASULFURON	1996	kg			39.3							35.9
+49	Utah	TRIASULFURON	1997	kg			13						9	3.1
+49	Utah	TRIASULFURON	1998	kg			12.1						1.1	16.9
+49	Utah	TRIASULFURON	1999	kg			3.9							14
+49	Utah	TRIASULFURON	2000	kg			7.1							8.4
+49	Utah	TRIASULFURON	2001	kg			43.4						7	
+49	Utah	TRIASULFURON	2002	kg			16.1							
+49	Utah	TRIASULFURON	2003	kg			4.2						11.5	6.1
+49	Utah	TRIASULFURON	2004	kg			5.8							13.7
+49	Utah	TRIASULFURON	2005	kg			2.7							
+49	Utah	TRIASULFURON	2006	kg			14.4							
+49	Utah	TRIASULFURON	2007	kg			4.8							
+49	Utah	TRIASULFURON	2008	kg			7.7							
+49	Utah	TRIASULFURON	2009	kg			14.1							
+49	Utah	TRIASULFURON	2010	kg			16.2							
+49	Utah	TRIASULFURON	2011	kg			46.3							
+49	Utah	TRIASULFURON	2012	kg			21.6							
+49	Utah	TRIASULFURON	2013	kg			24.9							
+49	Utah	TRIASULFURON	2014	kg			18.3							
+49	Utah	TRIASULFURON	2015	kg			16							
+49	Utah	TRIASULFURON	2016	kg			18.7							
+49	Utah	TRIASULFURON	2017	kg			13.4							
+51	Virginia	TRIASULFURON	1996	kg					5.4					
+51	Virginia	TRIASULFURON	1997	kg			0.7							
+51	Virginia	TRIASULFURON	2002	kg										95.1
+53	Washington	TRIASULFURON	1992	kg			1128.9							72.7
+53	Washington	TRIASULFURON	1993	kg			3760.5							
+53	Washington	TRIASULFURON	1994	kg			1735.8							853.1
+53	Washington	TRIASULFURON	1995	kg			2078.8							88.3
+53	Washington	TRIASULFURON	1996	kg			2408.8							29.8
+53	Washington	TRIASULFURON	1997	kg			3617.8						28.4	61.6
+53	Washington	TRIASULFURON	1998	kg			1241.6						665.4	68.7
+53	Washington	TRIASULFURON	1999	kg			574.4						939.9	93.4
+53	Washington	TRIASULFURON	2000	kg			796.2							1719.5
+53	Washington	TRIASULFURON	2001	kg			934.6							
+53	Washington	TRIASULFURON	2002	kg			373.2							
+53	Washington	TRIASULFURON	2003	kg			1173						107.1	97.4
+53	Washington	TRIASULFURON	2004	kg			749.8							39.9
+53	Washington	TRIASULFURON	2005	kg			810.2							60.6
+53	Washington	TRIASULFURON	2006	kg			1283.9							
+53	Washington	TRIASULFURON	2007	kg			3474.7							
+53	Washington	TRIASULFURON	2008	kg			99.7							
+53	Washington	TRIASULFURON	2010	kg			1144							
+53	Washington	TRIASULFURON	2011	kg									1878.6	
+53	Washington	TRIASULFURON	2012	kg			578.8							
+53	Washington	TRIASULFURON	2013	kg			2339.5							
+53	Washington	TRIASULFURON	2014	kg			2790.8							
+53	Washington	TRIASULFURON	2015	kg			684							
+53	Washington	TRIASULFURON	2017	kg			391.2							
+54	West Virginia	TRIASULFURON	1996	kg					0					
+54	West Virginia	TRIASULFURON	1997	kg			0.4							
+56	Wyoming	TRIASULFURON	1992	kg			52.2						34	
+56	Wyoming	TRIASULFURON	1993	kg			359.3						234.6	6.4
+56	Wyoming	TRIASULFURON	1994	kg			79.1						66.4	22.6
+56	Wyoming	TRIASULFURON	1995	kg			76.9							49.3
+56	Wyoming	TRIASULFURON	1996	kg	1.2		167.6						37.9	72.6
+56	Wyoming	TRIASULFURON	1997	kg			444.9						81	15.9
+56	Wyoming	TRIASULFURON	1998	kg			84						18.1	34.1
+56	Wyoming	TRIASULFURON	1999	kg			89.9							48.7
+56	Wyoming	TRIASULFURON	2000	kg			106.9							16.7
+56	Wyoming	TRIASULFURON	2001	kg			189						28.7	3.3
+56	Wyoming	TRIASULFURON	2002	kg			165.3						0.6	0.1
+56	Wyoming	TRIASULFURON	2003	kg			473						298.1	19.4
+56	Wyoming	TRIASULFURON	2004	kg			35.3						46	57.7
+56	Wyoming	TRIASULFURON	2005	kg			205						60.1	
+56	Wyoming	TRIASULFURON	2006	kg			150.2						36.9	1.1
+56	Wyoming	TRIASULFURON	2007	kg			57.5							
+56	Wyoming	TRIASULFURON	2008	kg			197.2							
+56	Wyoming	TRIASULFURON	2009	kg			61.1							
+56	Wyoming	TRIASULFURON	2010	kg			113.7						55.5	
+56	Wyoming	TRIASULFURON	2011	kg			159.3						102.3	
+56	Wyoming	TRIASULFURON	2012	kg			90.8							0.2
+56	Wyoming	TRIASULFURON	2013	kg			98.3						19.6	
+56	Wyoming	TRIASULFURON	2014	kg			80.4						157.8	18.6
+56	Wyoming	TRIASULFURON	2015	kg			69.2							
+56	Wyoming	TRIASULFURON	2016	kg			66.9						177.5	
+56	Wyoming	TRIASULFURON	2017	kg			50.4						139.3	

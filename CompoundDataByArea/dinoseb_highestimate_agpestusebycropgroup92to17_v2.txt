@@ -1,0 +1,36 @@
+01	Alabama	DINOSEB	1992	kg		71.7								
+05	Arkansas	DINOSEB	1992	kg										256.7
+06	California	DINOSEB	1992	kg							57.6	7.4		
+06	California	DINOSEB	1993	kg					2.6		503.7			
+06	California	DINOSEB	1994	kg						26.7	51.9			
+06	California	DINOSEB	1995	kg							6.7	9.8		5.1
+06	California	DINOSEB	1996	kg							263.9	9.1		
+06	California	DINOSEB	1997	kg					0.3		2143.8	0.5		243
+06	California	DINOSEB	1998	kg				0.9			465.2			4.4
+06	California	DINOSEB	1999	kg							968.8	16.8		
+06	California	DINOSEB	2000	kg							82.6			
+06	California	DINOSEB	2001	kg							128.7	9.2		
+06	California	DINOSEB	2002	kg					0.5		250.5	2.2		
+06	California	DINOSEB	2003	kg							40.5	10.6		
+06	California	DINOSEB	2004	kg							21.3			
+06	California	DINOSEB	2005	kg							58.8			
+06	California	DINOSEB	2006	kg							56.1			
+06	California	DINOSEB	2007	kg							0.7			
+06	California	DINOSEB	2008	kg							67.8			
+06	California	DINOSEB	2009	kg					0.2		369.8			
+06	California	DINOSEB	2010	kg							4.3			
+06	California	DINOSEB	2011	kg							22			
+06	California	DINOSEB	2012	kg							26.6			
+06	California	DINOSEB	2013	kg							8.9			
+06	California	DINOSEB	2014	kg							168.6	1.2		
+06	California	DINOSEB	2015	kg							3.1			
+06	California	DINOSEB	2017	kg							11.4			
+13	Georgia	DINOSEB	1992	kg					94.7					
+18	Indiana	DINOSEB	1992	kg					17.4					
+19	Iowa	DINOSEB	1993	kg	36153.4									
+21	Kentucky	DINOSEB	1992	kg		267.9								
+26	Michigan	DINOSEB	1992	kg					88678					
+28	Mississippi	DINOSEB	1992	kg		259.2								223.8
+39	Ohio	DINOSEB	1992	kg					7.6					
+45	South Carolina	DINOSEB	1992	kg					395.9					
+47	Tennessee	DINOSEB	1992	kg		754.4								105.2

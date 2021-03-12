@@ -1,0 +1,1067 @@
+01	Alabama	TEFLUTHRIN	1992	kg	717									
+01	Alabama	TEFLUTHRIN	1993	kg	866.8									
+01	Alabama	TEFLUTHRIN	1994	kg	651.1							17.6		
+01	Alabama	TEFLUTHRIN	1995	kg	2841.4									
+01	Alabama	TEFLUTHRIN	1996	kg	905.8									
+01	Alabama	TEFLUTHRIN	1997	kg	858.9									
+01	Alabama	TEFLUTHRIN	1998	kg	1365.6									
+01	Alabama	TEFLUTHRIN	1999	kg	1650.3									
+01	Alabama	TEFLUTHRIN	2000	kg	961.2									
+01	Alabama	TEFLUTHRIN	2001	kg	1061.7									
+01	Alabama	TEFLUTHRIN	2002	kg	2089									
+01	Alabama	TEFLUTHRIN	2003	kg	1096.8									
+01	Alabama	TEFLUTHRIN	2004	kg	2269.5									
+01	Alabama	TEFLUTHRIN	2005	kg	1458.5									
+01	Alabama	TEFLUTHRIN	2006	kg	2672.6									
+01	Alabama	TEFLUTHRIN	2007	kg	1762.9									
+01	Alabama	TEFLUTHRIN	2008	kg	1819.5									
+01	Alabama	TEFLUTHRIN	2010	kg	35									
+01	Alabama	TEFLUTHRIN	2011	kg	188.6									
+01	Alabama	TEFLUTHRIN	2013	kg	1089.4									
+01	Alabama	TEFLUTHRIN	2014	kg	948.8									
+01	Alabama	TEFLUTHRIN	2015	kg	238									
+01	Alabama	TEFLUTHRIN	2016	kg	241.2									
+01	Alabama	TEFLUTHRIN	2017	kg	258.3									
+05	Arkansas	TEFLUTHRIN	1992	kg	52.8									
+05	Arkansas	TEFLUTHRIN	1993	kg	70.1									
+05	Arkansas	TEFLUTHRIN	1994	kg	164.5									
+05	Arkansas	TEFLUTHRIN	1995	kg	302.4									
+05	Arkansas	TEFLUTHRIN	1996	kg	772.3	74.6								
+05	Arkansas	TEFLUTHRIN	1997	kg	141									
+05	Arkansas	TEFLUTHRIN	1998	kg	513.8									
+05	Arkansas	TEFLUTHRIN	1999	kg	715.8									
+05	Arkansas	TEFLUTHRIN	2000	kg	251.1									
+05	Arkansas	TEFLUTHRIN	2001	kg	107.7									
+05	Arkansas	TEFLUTHRIN	2003	kg	7912.6									
+05	Arkansas	TEFLUTHRIN	2004	kg	1.2									
+05	Arkansas	TEFLUTHRIN	2005	kg	438.9									
+05	Arkansas	TEFLUTHRIN	2006	kg	201.4									
+05	Arkansas	TEFLUTHRIN	2008	kg	0.5									
+08	Colorado	TEFLUTHRIN	1992	kg	4497.3									
+08	Colorado	TEFLUTHRIN	1993	kg	5070.5									
+08	Colorado	TEFLUTHRIN	1994	kg	5040.1									
+08	Colorado	TEFLUTHRIN	1995	kg	1079.4									
+08	Colorado	TEFLUTHRIN	1996	kg	730.1									
+08	Colorado	TEFLUTHRIN	1997	kg	551.5									
+08	Colorado	TEFLUTHRIN	1998	kg	3216.6									
+08	Colorado	TEFLUTHRIN	1999	kg	4320.4									
+08	Colorado	TEFLUTHRIN	2000	kg	1112.5									
+08	Colorado	TEFLUTHRIN	2001	kg	1180.4									
+08	Colorado	TEFLUTHRIN	2002	kg	436.8									
+08	Colorado	TEFLUTHRIN	2003	kg	669.5									
+08	Colorado	TEFLUTHRIN	2004	kg	4280.2									
+08	Colorado	TEFLUTHRIN	2005	kg	1002.3									
+08	Colorado	TEFLUTHRIN	2006	kg	411.4									
+08	Colorado	TEFLUTHRIN	2007	kg	893									
+08	Colorado	TEFLUTHRIN	2008	kg	4731.6									
+08	Colorado	TEFLUTHRIN	2009	kg	1508									
+08	Colorado	TEFLUTHRIN	2010	kg	4340.9									
+08	Colorado	TEFLUTHRIN	2011	kg	1876.8									
+08	Colorado	TEFLUTHRIN	2012	kg	592.4									
+08	Colorado	TEFLUTHRIN	2013	kg	1744.6									
+08	Colorado	TEFLUTHRIN	2014	kg	3149.4									
+08	Colorado	TEFLUTHRIN	2015	kg	293.8									
+08	Colorado	TEFLUTHRIN	2016	kg	2496.3									
+08	Colorado	TEFLUTHRIN	2017	kg	248									
+09	Connecticut	TEFLUTHRIN	1992	kg	102.1									
+09	Connecticut	TEFLUTHRIN	1993	kg	699.1									
+09	Connecticut	TEFLUTHRIN	1994	kg	337.7									
+09	Connecticut	TEFLUTHRIN	1995	kg	533.9									
+09	Connecticut	TEFLUTHRIN	1996	kg	367.9				29.8					
+09	Connecticut	TEFLUTHRIN	1997	kg	1575.1				41.8					
+09	Connecticut	TEFLUTHRIN	1998	kg	124.1				54.8					
+09	Connecticut	TEFLUTHRIN	1999	kg	50.6				27.9					
+09	Connecticut	TEFLUTHRIN	2000	kg	632.6				26.8					
+09	Connecticut	TEFLUTHRIN	2001	kg	155.3				46.9					
+09	Connecticut	TEFLUTHRIN	2002	kg	225				46.1					
+09	Connecticut	TEFLUTHRIN	2003	kg	461.8				15.7					
+09	Connecticut	TEFLUTHRIN	2004	kg	1243.6				32.4					
+09	Connecticut	TEFLUTHRIN	2005	kg	51.5				37.4					
+09	Connecticut	TEFLUTHRIN	2006	kg	62.8				63					
+09	Connecticut	TEFLUTHRIN	2007	kg	58				63.9					
+09	Connecticut	TEFLUTHRIN	2008	kg	13.5				39.5					
+09	Connecticut	TEFLUTHRIN	2009	kg	35				20.3					
+09	Connecticut	TEFLUTHRIN	2010	kg	17.1				26.7					
+09	Connecticut	TEFLUTHRIN	2011	kg	44									
+09	Connecticut	TEFLUTHRIN	2012	kg					22.6					
+09	Connecticut	TEFLUTHRIN	2013	kg	28.6				62.6					
+09	Connecticut	TEFLUTHRIN	2014	kg	24.8				44.8					
+09	Connecticut	TEFLUTHRIN	2015	kg	42.9				86.3					
+09	Connecticut	TEFLUTHRIN	2016	kg	67.1									
+09	Connecticut	TEFLUTHRIN	2017	kg	105.1									
+10	Delaware	TEFLUTHRIN	1992	kg	423.4									
+10	Delaware	TEFLUTHRIN	1993	kg	592.6									
+10	Delaware	TEFLUTHRIN	1994	kg	486.9									
+10	Delaware	TEFLUTHRIN	1995	kg	659.1							6.9		
+10	Delaware	TEFLUTHRIN	1996	kg	2316.2		213.6							
+10	Delaware	TEFLUTHRIN	1997	kg	813.4									
+10	Delaware	TEFLUTHRIN	1998	kg	508.1				125.7					
+10	Delaware	TEFLUTHRIN	1999	kg	1720.1				44.5					
+10	Delaware	TEFLUTHRIN	2000	kg	379				262					
+10	Delaware	TEFLUTHRIN	2001	kg	256.3				236.7					
+10	Delaware	TEFLUTHRIN	2002	kg	455.8				390.2					
+10	Delaware	TEFLUTHRIN	2003	kg	351.1				0.3					
+10	Delaware	TEFLUTHRIN	2004	kg	19893.4				96.7					
+10	Delaware	TEFLUTHRIN	2005	kg	1137.7				0.4					
+10	Delaware	TEFLUTHRIN	2006	kg	3066.3				4.5					
+10	Delaware	TEFLUTHRIN	2007	kg	992				0.5					
+10	Delaware	TEFLUTHRIN	2008	kg	1070.4				0.7					
+10	Delaware	TEFLUTHRIN	2009	kg	58.3									
+10	Delaware	TEFLUTHRIN	2010	kg	22.6				1					
+10	Delaware	TEFLUTHRIN	2012	kg	8.9				0.4					
+10	Delaware	TEFLUTHRIN	2013	kg	582				0.2					
+10	Delaware	TEFLUTHRIN	2014	kg	14.6									
+10	Delaware	TEFLUTHRIN	2016	kg	55.6									
+10	Delaware	TEFLUTHRIN	2017	kg	28.9									
+12	Florida	TEFLUTHRIN	1995	kg	97									
+12	Florida	TEFLUTHRIN	1996	kg	227.1									
+12	Florida	TEFLUTHRIN	1997	kg	96.6				62.3					
+12	Florida	TEFLUTHRIN	1998	kg	52.4				1397.8					
+12	Florida	TEFLUTHRIN	1999	kg	218.5				1808.3					
+12	Florida	TEFLUTHRIN	2000	kg	13.9				4000.3					
+12	Florida	TEFLUTHRIN	2001	kg					1262.6					
+12	Florida	TEFLUTHRIN	2002	kg					338					
+12	Florida	TEFLUTHRIN	2003	kg					1243.7					
+12	Florida	TEFLUTHRIN	2004	kg					263.7					
+12	Florida	TEFLUTHRIN	2005	kg					1527.4					
+12	Florida	TEFLUTHRIN	2006	kg					89.7					
+12	Florida	TEFLUTHRIN	2007	kg					482.8					
+12	Florida	TEFLUTHRIN	2008	kg					261.8					
+12	Florida	TEFLUTHRIN	2009	kg					592.4					
+12	Florida	TEFLUTHRIN	2010	kg					219.5					
+12	Florida	TEFLUTHRIN	2011	kg					149.8					
+12	Florida	TEFLUTHRIN	2012	kg					25.2					
+12	Florida	TEFLUTHRIN	2013	kg					123.1					
+12	Florida	TEFLUTHRIN	2014	kg					88.9					
+13	Georgia	TEFLUTHRIN	1992	kg	1545.8									
+13	Georgia	TEFLUTHRIN	1993	kg	1580.3									
+13	Georgia	TEFLUTHRIN	1994	kg	1252.2							2.9		
+13	Georgia	TEFLUTHRIN	1995	kg	1027.1									
+13	Georgia	TEFLUTHRIN	1996	kg	594.8				0.1					
+13	Georgia	TEFLUTHRIN	1997	kg	876.5									
+13	Georgia	TEFLUTHRIN	1998	kg	532.5				12.2					
+13	Georgia	TEFLUTHRIN	1999	kg	2359.5				3.3					
+13	Georgia	TEFLUTHRIN	2000	kg	395.3				10.3					
+13	Georgia	TEFLUTHRIN	2001	kg	1101.3				3.3					
+13	Georgia	TEFLUTHRIN	2002	kg	1221.2				13.8					
+13	Georgia	TEFLUTHRIN	2003	kg	1662.7				0.6					
+13	Georgia	TEFLUTHRIN	2004	kg	4073.3				3.4					
+13	Georgia	TEFLUTHRIN	2005	kg	1820.4				1.2					
+13	Georgia	TEFLUTHRIN	2006	kg	4537.8									
+13	Georgia	TEFLUTHRIN	2007	kg	2279.6									
+13	Georgia	TEFLUTHRIN	2008	kg	2544.2									
+13	Georgia	TEFLUTHRIN	2009	kg					0.6					
+13	Georgia	TEFLUTHRIN	2010	kg	8									
+13	Georgia	TEFLUTHRIN	2011	kg	37									
+13	Georgia	TEFLUTHRIN	2013	kg	1445.3									
+13	Georgia	TEFLUTHRIN	2014	kg	301.1									
+13	Georgia	TEFLUTHRIN	2015	kg	48.7									
+13	Georgia	TEFLUTHRIN	2016	kg	62.5									
+13	Georgia	TEFLUTHRIN	2017	kg	39.2									
+16	Idaho	TEFLUTHRIN	1993	kg							27.5			
+16	Idaho	TEFLUTHRIN	1995	kg	0.2									
+16	Idaho	TEFLUTHRIN	1996	kg	0.4									
+16	Idaho	TEFLUTHRIN	1997	kg	0.1									
+16	Idaho	TEFLUTHRIN	1998	kg	1				0.1					
+16	Idaho	TEFLUTHRIN	1999	kg	0.6				27.5					
+16	Idaho	TEFLUTHRIN	2000	kg	682.9									
+16	Idaho	TEFLUTHRIN	2001	kg	309.7									
+16	Idaho	TEFLUTHRIN	2002	kg	1676.2				106.3					
+16	Idaho	TEFLUTHRIN	2003	kg					20.3					
+16	Idaho	TEFLUTHRIN	2005	kg	0.1				75.2					
+16	Idaho	TEFLUTHRIN	2007	kg					34.2					
+16	Idaho	TEFLUTHRIN	2017	kg					4.2					
+17	Illinois	TEFLUTHRIN	1992	kg	22225.5				6.9					
+17	Illinois	TEFLUTHRIN	1993	kg	21378.9									
+17	Illinois	TEFLUTHRIN	1994	kg	30591.5	1677.5			164.5					
+17	Illinois	TEFLUTHRIN	1995	kg	37403.9	6766.8			26.7					
+17	Illinois	TEFLUTHRIN	1996	kg	47564.4	111			264.6					6.6
+17	Illinois	TEFLUTHRIN	1997	kg	69432.9				1171.1					
+17	Illinois	TEFLUTHRIN	1998	kg	84460.9				146.8					
+17	Illinois	TEFLUTHRIN	1999	kg	57975.8				354.1					
+17	Illinois	TEFLUTHRIN	2000	kg	76742.5				172.1					
+17	Illinois	TEFLUTHRIN	2001	kg	73984.1				318					
+17	Illinois	TEFLUTHRIN	2002	kg	106006.5				874.1					
+17	Illinois	TEFLUTHRIN	2003	kg	124838.3				460.9					
+17	Illinois	TEFLUTHRIN	2004	kg	91243.8				338.4					
+17	Illinois	TEFLUTHRIN	2005	kg	162082.2				503.8					2786.1
+17	Illinois	TEFLUTHRIN	2006	kg	125570.1				560.5					
+17	Illinois	TEFLUTHRIN	2007	kg	112438.4				449.3					
+17	Illinois	TEFLUTHRIN	2008	kg	62111.8				445.9					
+17	Illinois	TEFLUTHRIN	2009	kg	63594.4				468.1					
+17	Illinois	TEFLUTHRIN	2010	kg	46408.1				201.7					
+17	Illinois	TEFLUTHRIN	2011	kg	45672.1				490.6					
+17	Illinois	TEFLUTHRIN	2012	kg	78312.4				184.5					
+17	Illinois	TEFLUTHRIN	2013	kg	77261.7				131					
+17	Illinois	TEFLUTHRIN	2014	kg	63019				136.1					
+17	Illinois	TEFLUTHRIN	2015	kg	61985.5				403					
+17	Illinois	TEFLUTHRIN	2016	kg	38986.5				272.1					
+17	Illinois	TEFLUTHRIN	2017	kg	24618.3				98.8					
+18	Indiana	TEFLUTHRIN	1992	kg	12638				18.1					
+18	Indiana	TEFLUTHRIN	1993	kg	14271.4				19.4					
+18	Indiana	TEFLUTHRIN	1994	kg	11495.3				22					
+18	Indiana	TEFLUTHRIN	1995	kg	12389.6	812.5			206.3					
+18	Indiana	TEFLUTHRIN	1996	kg	30376.8	20.7	1219.6		96			70.6		
+18	Indiana	TEFLUTHRIN	1997	kg	25068.5				77.8					
+18	Indiana	TEFLUTHRIN	1998	kg	56553.7				52.7					
+18	Indiana	TEFLUTHRIN	1999	kg	26386.2				48					
+18	Indiana	TEFLUTHRIN	2000	kg	40409.2				39.4					
+18	Indiana	TEFLUTHRIN	2001	kg	56393.4				49.4					
+18	Indiana	TEFLUTHRIN	2002	kg	52709.8				125.3					
+18	Indiana	TEFLUTHRIN	2003	kg	70188				27.8					
+18	Indiana	TEFLUTHRIN	2004	kg	51280.5				63.4					
+18	Indiana	TEFLUTHRIN	2005	kg	33454.3				50.5					192.6
+18	Indiana	TEFLUTHRIN	2006	kg	47116.6				56.8					
+18	Indiana	TEFLUTHRIN	2007	kg	22929.5				67					
+18	Indiana	TEFLUTHRIN	2008	kg	35735.8				63.8					
+18	Indiana	TEFLUTHRIN	2009	kg	18607.3				67					
+18	Indiana	TEFLUTHRIN	2010	kg	16321.1				44.8					
+18	Indiana	TEFLUTHRIN	2011	kg	18458				86.2					
+18	Indiana	TEFLUTHRIN	2012	kg	7432.4				49.3					
+18	Indiana	TEFLUTHRIN	2013	kg	28446				55.2					
+18	Indiana	TEFLUTHRIN	2014	kg	35827.8				47.4					
+18	Indiana	TEFLUTHRIN	2015	kg	29681				55.7					
+18	Indiana	TEFLUTHRIN	2016	kg	8931.8				21.8					
+18	Indiana	TEFLUTHRIN	2017	kg	13933.9				17.1					
+19	Iowa	TEFLUTHRIN	1992	kg	10955.6									
+19	Iowa	TEFLUTHRIN	1993	kg	17816.9									
+19	Iowa	TEFLUTHRIN	1994	kg	26173.3	71.9			28.4					
+19	Iowa	TEFLUTHRIN	1995	kg	24846.8	1590.6			4.3					
+19	Iowa	TEFLUTHRIN	1996	kg	36547.5				82.2					
+19	Iowa	TEFLUTHRIN	1997	kg	21784.4				86.7					
+19	Iowa	TEFLUTHRIN	1998	kg	22947.1				105.1					
+19	Iowa	TEFLUTHRIN	1999	kg	15421				33.5					
+19	Iowa	TEFLUTHRIN	2000	kg	22979.3				48.6					
+19	Iowa	TEFLUTHRIN	2001	kg	23990				52.4					
+19	Iowa	TEFLUTHRIN	2002	kg	33242.4				135.8					
+19	Iowa	TEFLUTHRIN	2003	kg	34044.1				26.3					
+19	Iowa	TEFLUTHRIN	2004	kg	30425.4				61.6					
+19	Iowa	TEFLUTHRIN	2005	kg	23437.8				42.6					1.5
+19	Iowa	TEFLUTHRIN	2006	kg	21470.8				21.3					
+19	Iowa	TEFLUTHRIN	2007	kg	29196.2				64.2					
+19	Iowa	TEFLUTHRIN	2008	kg	10514.2				26.2					
+19	Iowa	TEFLUTHRIN	2009	kg	12464.5				56.8					
+19	Iowa	TEFLUTHRIN	2010	kg	11182				24.5					
+19	Iowa	TEFLUTHRIN	2011	kg	10083.8				38.1					
+19	Iowa	TEFLUTHRIN	2012	kg	14285.2				25.2					
+19	Iowa	TEFLUTHRIN	2013	kg	37483.6				31					
+19	Iowa	TEFLUTHRIN	2014	kg	19685.7				29					
+19	Iowa	TEFLUTHRIN	2015	kg	19898.3				27.3					
+19	Iowa	TEFLUTHRIN	2016	kg	13425.7				13.1					
+19	Iowa	TEFLUTHRIN	2017	kg	16070.9				13.5					
+20	Kansas	TEFLUTHRIN	1992	kg	21705.3									
+20	Kansas	TEFLUTHRIN	1993	kg	9353.4									
+20	Kansas	TEFLUTHRIN	1994	kg	9280.6									
+20	Kansas	TEFLUTHRIN	1995	kg	9099.1									
+20	Kansas	TEFLUTHRIN	1996	kg	56788.9				21.5					
+20	Kansas	TEFLUTHRIN	1997	kg	17911.3									
+20	Kansas	TEFLUTHRIN	1998	kg	7435.3									
+20	Kansas	TEFLUTHRIN	1999	kg	6480									
+20	Kansas	TEFLUTHRIN	2000	kg	4576.7									
+20	Kansas	TEFLUTHRIN	2001	kg	2004.1									
+20	Kansas	TEFLUTHRIN	2002	kg	5366.7									
+20	Kansas	TEFLUTHRIN	2003	kg	10095.3									
+20	Kansas	TEFLUTHRIN	2004	kg	9147.9									
+20	Kansas	TEFLUTHRIN	2005	kg	3966									
+20	Kansas	TEFLUTHRIN	2006	kg	1109									
+20	Kansas	TEFLUTHRIN	2007	kg	7242.6									
+20	Kansas	TEFLUTHRIN	2008	kg	16800.7									
+20	Kansas	TEFLUTHRIN	2009	kg	3145.2									
+20	Kansas	TEFLUTHRIN	2010	kg	5303.9									
+20	Kansas	TEFLUTHRIN	2011	kg	3680.5									
+20	Kansas	TEFLUTHRIN	2012	kg	5451.7									
+20	Kansas	TEFLUTHRIN	2013	kg	8728.4									
+20	Kansas	TEFLUTHRIN	2014	kg	4508.5									
+20	Kansas	TEFLUTHRIN	2015	kg	1014.4									
+20	Kansas	TEFLUTHRIN	2016	kg	11340									
+21	Kentucky	TEFLUTHRIN	1992	kg	2476.5				6.8					
+21	Kentucky	TEFLUTHRIN	1993	kg	3379.6				6.6					
+21	Kentucky	TEFLUTHRIN	1994	kg	2996.9				1.7			265.1		
+21	Kentucky	TEFLUTHRIN	1995	kg	1377				0.1					
+21	Kentucky	TEFLUTHRIN	1996	kg	4463.6		434.8		15					
+21	Kentucky	TEFLUTHRIN	1997	kg	1443.2				4.1					
+21	Kentucky	TEFLUTHRIN	1998	kg	5217.3				36.7					
+21	Kentucky	TEFLUTHRIN	1999	kg	5323.4				25.6					
+21	Kentucky	TEFLUTHRIN	2000	kg	19205				58.2					
+21	Kentucky	TEFLUTHRIN	2001	kg	2150				3.7					
+21	Kentucky	TEFLUTHRIN	2002	kg	4397.3				39.1					
+21	Kentucky	TEFLUTHRIN	2003	kg	1800.5				7.6					
+21	Kentucky	TEFLUTHRIN	2004	kg	7790.1				26.2					
+21	Kentucky	TEFLUTHRIN	2005	kg	5208.9				15.3					
+21	Kentucky	TEFLUTHRIN	2006	kg	2036.6				1.7					
+21	Kentucky	TEFLUTHRIN	2007	kg	4911.4				5.5					
+21	Kentucky	TEFLUTHRIN	2008	kg	1720.9				4.3					
+21	Kentucky	TEFLUTHRIN	2009	kg	2774.5				11.7					
+21	Kentucky	TEFLUTHRIN	2010	kg	2943.8				3.3					
+21	Kentucky	TEFLUTHRIN	2011	kg	1852.5				4.5					
+21	Kentucky	TEFLUTHRIN	2012	kg	3675.7				3					
+21	Kentucky	TEFLUTHRIN	2013	kg	5741.3				3.4					
+21	Kentucky	TEFLUTHRIN	2014	kg	9547.7				3.3					
+21	Kentucky	TEFLUTHRIN	2015	kg	3267.6				3.1					
+21	Kentucky	TEFLUTHRIN	2016	kg	3402.3				1.5					
+21	Kentucky	TEFLUTHRIN	2017	kg	3251.6				1.5					
+22	Louisiana	TEFLUTHRIN	1992	kg	38.6									
+22	Louisiana	TEFLUTHRIN	1993	kg	534.6									
+22	Louisiana	TEFLUTHRIN	1994	kg	1066									
+22	Louisiana	TEFLUTHRIN	1995	kg	787.6									
+22	Louisiana	TEFLUTHRIN	1996	kg	2123.7									
+22	Louisiana	TEFLUTHRIN	1997	kg	1443.4									
+22	Louisiana	TEFLUTHRIN	1998	kg	2738.9									
+22	Louisiana	TEFLUTHRIN	1999	kg	944.2									
+22	Louisiana	TEFLUTHRIN	2000	kg	1374.7									
+22	Louisiana	TEFLUTHRIN	2003	kg	20437.4									
+22	Louisiana	TEFLUTHRIN	2004	kg	65.4									
+22	Louisiana	TEFLUTHRIN	2005	kg	18.9									
+22	Louisiana	TEFLUTHRIN	2008	kg	92.9									
+23	Maine	TEFLUTHRIN	1992	kg	72.8									
+23	Maine	TEFLUTHRIN	1993	kg	176.1									
+23	Maine	TEFLUTHRIN	1994	kg	167.1									
+23	Maine	TEFLUTHRIN	1995	kg	50.1									
+23	Maine	TEFLUTHRIN	1996	kg	134.8									
+23	Maine	TEFLUTHRIN	1997	kg	115.2									
+23	Maine	TEFLUTHRIN	1998	kg	217.1									
+23	Maine	TEFLUTHRIN	1999	kg	691									
+23	Maine	TEFLUTHRIN	2000	kg	126.4									
+23	Maine	TEFLUTHRIN	2001	kg	143.5									
+23	Maine	TEFLUTHRIN	2002	kg	195.9									
+23	Maine	TEFLUTHRIN	2003	kg	219.9									
+23	Maine	TEFLUTHRIN	2004	kg	186.8									
+23	Maine	TEFLUTHRIN	2005	kg	47									
+23	Maine	TEFLUTHRIN	2006	kg	60									
+23	Maine	TEFLUTHRIN	2007	kg	117.5									
+23	Maine	TEFLUTHRIN	2008	kg	13.2									
+23	Maine	TEFLUTHRIN	2009	kg	34.8									
+23	Maine	TEFLUTHRIN	2010	kg	17.1									
+23	Maine	TEFLUTHRIN	2011	kg	45.2									
+23	Maine	TEFLUTHRIN	2013	kg	30.6									
+23	Maine	TEFLUTHRIN	2014	kg	27.8									
+23	Maine	TEFLUTHRIN	2015	kg	49.6									
+23	Maine	TEFLUTHRIN	2016	kg	79.1									
+23	Maine	TEFLUTHRIN	2017	kg	128									
+24	Maryland	TEFLUTHRIN	1992	kg	1268.6									
+24	Maryland	TEFLUTHRIN	1993	kg	2137.7									
+24	Maryland	TEFLUTHRIN	1994	kg	1923.2									
+24	Maryland	TEFLUTHRIN	1995	kg	5741.4							291.8		
+24	Maryland	TEFLUTHRIN	1996	kg	5365		880.7		75.3					
+24	Maryland	TEFLUTHRIN	1997	kg	4065.9				129			2164.8		
+24	Maryland	TEFLUTHRIN	1998	kg	2104.1				225					
+24	Maryland	TEFLUTHRIN	1999	kg	3374.1				76.4					
+24	Maryland	TEFLUTHRIN	2000	kg	7217.2				255.2					
+24	Maryland	TEFLUTHRIN	2001	kg	1219.5				149.4					
+24	Maryland	TEFLUTHRIN	2002	kg	4284.5				391.2					
+24	Maryland	TEFLUTHRIN	2003	kg	1340.4				8.9					
+24	Maryland	TEFLUTHRIN	2004	kg	11731.8				123.9					
+24	Maryland	TEFLUTHRIN	2005	kg	1699.1				10.6					
+24	Maryland	TEFLUTHRIN	2006	kg	3173.8				170.2					
+24	Maryland	TEFLUTHRIN	2007	kg	1475.7				25.7					
+24	Maryland	TEFLUTHRIN	2008	kg	1533.7				15.5					
+24	Maryland	TEFLUTHRIN	2009	kg	1021.7				7.5					
+24	Maryland	TEFLUTHRIN	2010	kg	337.9				44.3					
+24	Maryland	TEFLUTHRIN	2011	kg	255.3									
+24	Maryland	TEFLUTHRIN	2012	kg	130.6				19.6					
+24	Maryland	TEFLUTHRIN	2013	kg	3476.4				9.4					
+24	Maryland	TEFLUTHRIN	2014	kg	346.2				15.9					
+24	Maryland	TEFLUTHRIN	2015	kg	214.8				30.8					
+24	Maryland	TEFLUTHRIN	2016	kg	965.4									
+24	Maryland	TEFLUTHRIN	2017	kg	722.6									
+25	Massachusetts	TEFLUTHRIN	1992	kg	72.4									
+25	Massachusetts	TEFLUTHRIN	1993	kg	785.5									
+25	Massachusetts	TEFLUTHRIN	1994	kg	158.6									
+25	Massachusetts	TEFLUTHRIN	1995	kg	173.2									
+25	Massachusetts	TEFLUTHRIN	1996	kg	171				42.2					
+25	Massachusetts	TEFLUTHRIN	1997	kg	47.5				58.5					
+25	Massachusetts	TEFLUTHRIN	1998	kg	174.3				74.7					
+25	Massachusetts	TEFLUTHRIN	1999	kg	19				37					
+25	Massachusetts	TEFLUTHRIN	2000	kg	241.3				34.2					
+25	Massachusetts	TEFLUTHRIN	2001	kg	16.4				57.8					
+25	Massachusetts	TEFLUTHRIN	2002	kg	377.7				54.8					
+25	Massachusetts	TEFLUTHRIN	2003	kg	292.9				29					
+25	Massachusetts	TEFLUTHRIN	2004	kg	759.5				93.7					
+25	Massachusetts	TEFLUTHRIN	2005	kg	31.8				95.8					
+25	Massachusetts	TEFLUTHRIN	2006	kg	38.6				71.7					
+25	Massachusetts	TEFLUTHRIN	2007	kg	35.2				72					
+25	Massachusetts	TEFLUTHRIN	2008	kg	7.7				45.7					
+25	Massachusetts	TEFLUTHRIN	2009	kg	19.7				24.1					
+25	Massachusetts	TEFLUTHRIN	2010	kg	9.3				32.3					
+25	Massachusetts	TEFLUTHRIN	2011	kg	23.6									
+25	Massachusetts	TEFLUTHRIN	2012	kg					28.9					
+25	Massachusetts	TEFLUTHRIN	2013	kg	15.5				80.4					
+25	Massachusetts	TEFLUTHRIN	2014	kg	13.9				58.7					
+25	Massachusetts	TEFLUTHRIN	2015	kg	24.8				114.6					
+25	Massachusetts	TEFLUTHRIN	2016	kg	39.7									
+25	Massachusetts	TEFLUTHRIN	2017	kg	64.2									
+26	Michigan	TEFLUTHRIN	1992	kg	1879.4									
+26	Michigan	TEFLUTHRIN	1993	kg	7356.8									
+26	Michigan	TEFLUTHRIN	1994	kg	3717.1									
+26	Michigan	TEFLUTHRIN	1995	kg	2740.4				7.4					
+26	Michigan	TEFLUTHRIN	1996	kg	6907.3		61.5		119.5			310.8		
+26	Michigan	TEFLUTHRIN	1997	kg	15680.5				19					
+26	Michigan	TEFLUTHRIN	1998	kg	3776				33.5					
+26	Michigan	TEFLUTHRIN	1999	kg	2224.1				45.3					
+26	Michigan	TEFLUTHRIN	2000	kg	3949.7				50.6					
+26	Michigan	TEFLUTHRIN	2001	kg	4784.4				52.3					
+26	Michigan	TEFLUTHRIN	2002	kg	6332.7				117.6					
+26	Michigan	TEFLUTHRIN	2003	kg	2552				113.7					
+26	Michigan	TEFLUTHRIN	2004	kg	5067				42.6					
+26	Michigan	TEFLUTHRIN	2005	kg	10562.8				48.8					
+26	Michigan	TEFLUTHRIN	2006	kg	5651.9				90					
+26	Michigan	TEFLUTHRIN	2007	kg	4233.1				89.6					
+26	Michigan	TEFLUTHRIN	2008	kg	754.8				34.9					
+26	Michigan	TEFLUTHRIN	2009	kg	11821.8				104					
+26	Michigan	TEFLUTHRIN	2010	kg	2953.2				128.3					
+26	Michigan	TEFLUTHRIN	2011	kg	7671.6				101.8					
+26	Michigan	TEFLUTHRIN	2012	kg	28294.5				102.3					
+26	Michigan	TEFLUTHRIN	2013	kg	11715.7				86.8					
+26	Michigan	TEFLUTHRIN	2014	kg	878.9				80.8					
+26	Michigan	TEFLUTHRIN	2015	kg	6283.1				37					
+26	Michigan	TEFLUTHRIN	2016	kg	8816.4				29.9					
+26	Michigan	TEFLUTHRIN	2017	kg	5365.9				14.8					
+27	Minnesota	TEFLUTHRIN	1992	kg	9128.6									
+27	Minnesota	TEFLUTHRIN	1993	kg	14358.6									
+27	Minnesota	TEFLUTHRIN	1994	kg	9433.5				352.3					
+27	Minnesota	TEFLUTHRIN	1995	kg	7739.5				131.5					
+27	Minnesota	TEFLUTHRIN	1996	kg	30942				482					
+27	Minnesota	TEFLUTHRIN	1997	kg	21540.5				476.8					
+27	Minnesota	TEFLUTHRIN	1998	kg	9960.9				1960					
+27	Minnesota	TEFLUTHRIN	1999	kg	17933				531.7					
+27	Minnesota	TEFLUTHRIN	2000	kg	9355.7				643.4					
+27	Minnesota	TEFLUTHRIN	2001	kg	13772.3				254.8					
+27	Minnesota	TEFLUTHRIN	2002	kg	11403.4				1457.3					
+27	Minnesota	TEFLUTHRIN	2003	kg	17122.1				350.6					
+27	Minnesota	TEFLUTHRIN	2004	kg	10580.4				605					
+27	Minnesota	TEFLUTHRIN	2005	kg	16862.6				453.8					
+27	Minnesota	TEFLUTHRIN	2006	kg	17928.6				292.7					
+27	Minnesota	TEFLUTHRIN	2007	kg	14705.1				558.8					
+27	Minnesota	TEFLUTHRIN	2008	kg	6434.9				779.3					
+27	Minnesota	TEFLUTHRIN	2009	kg	4109.7				1168.7					
+27	Minnesota	TEFLUTHRIN	2010	kg	3932.4				1208.1					
+27	Minnesota	TEFLUTHRIN	2011	kg	5469.2				1308.4					
+27	Minnesota	TEFLUTHRIN	2012	kg	10975.5				984.7					
+27	Minnesota	TEFLUTHRIN	2013	kg	11655.7				1176.4					
+27	Minnesota	TEFLUTHRIN	2014	kg	15439.2				1263.1					
+27	Minnesota	TEFLUTHRIN	2015	kg	12596.8				588.7					
+27	Minnesota	TEFLUTHRIN	2016	kg	9726.9				400.1					
+27	Minnesota	TEFLUTHRIN	2017	kg	13410.9				453.9					
+28	Mississippi	TEFLUTHRIN	1992	kg	92.8									
+28	Mississippi	TEFLUTHRIN	1993	kg	456.1									
+28	Mississippi	TEFLUTHRIN	1994	kg	726.2									
+28	Mississippi	TEFLUTHRIN	1995	kg	3102.9									
+28	Mississippi	TEFLUTHRIN	1996	kg	1599.1	17.1								
+28	Mississippi	TEFLUTHRIN	1997	kg	523.7									
+28	Mississippi	TEFLUTHRIN	1998	kg	1216.7									
+28	Mississippi	TEFLUTHRIN	1999	kg	1504.9									
+28	Mississippi	TEFLUTHRIN	2000	kg	1481.1									
+28	Mississippi	TEFLUTHRIN	2001	kg	86.1									
+28	Mississippi	TEFLUTHRIN	2002	kg	77.6									
+28	Mississippi	TEFLUTHRIN	2003	kg	12805									
+28	Mississippi	TEFLUTHRIN	2004	kg	240.3									
+28	Mississippi	TEFLUTHRIN	2005	kg	136.4									
+28	Mississippi	TEFLUTHRIN	2006	kg	380.6									
+28	Mississippi	TEFLUTHRIN	2007	kg	74.4									
+28	Mississippi	TEFLUTHRIN	2008	kg	109.9									
+28	Mississippi	TEFLUTHRIN	2013	kg	37.8									
+29	Missouri	TEFLUTHRIN	1992	kg	9533.6									
+29	Missouri	TEFLUTHRIN	1993	kg	9214.7									
+29	Missouri	TEFLUTHRIN	1994	kg	3372.2				1.5					
+29	Missouri	TEFLUTHRIN	1995	kg	2504.9				0					
+29	Missouri	TEFLUTHRIN	1996	kg	4417.7				16.2					33.7
+29	Missouri	TEFLUTHRIN	1997	kg	3417.9				10.7					
+29	Missouri	TEFLUTHRIN	1998	kg	5237.5				4.2					
+29	Missouri	TEFLUTHRIN	1999	kg	2709.6				3.6					
+29	Missouri	TEFLUTHRIN	2000	kg	10445.8				3.8					
+29	Missouri	TEFLUTHRIN	2001	kg	2984.1				3.4					
+29	Missouri	TEFLUTHRIN	2002	kg	4750.3				8.6					
+29	Missouri	TEFLUTHRIN	2003	kg	4663.8				4.7					
+29	Missouri	TEFLUTHRIN	2004	kg	5053.8				8.4					
+29	Missouri	TEFLUTHRIN	2005	kg	9221.1				3.7					
+29	Missouri	TEFLUTHRIN	2006	kg	8320.4				1.5					
+29	Missouri	TEFLUTHRIN	2007	kg	8880.2				5.7					
+29	Missouri	TEFLUTHRIN	2008	kg	6751.7				9.1					
+29	Missouri	TEFLUTHRIN	2009	kg	6718.5				13.3					
+29	Missouri	TEFLUTHRIN	2010	kg	5072.6				9.4					
+29	Missouri	TEFLUTHRIN	2011	kg	5199.5				13.4					
+29	Missouri	TEFLUTHRIN	2012	kg	8083.8				9.9					
+29	Missouri	TEFLUTHRIN	2013	kg	7256.1				10.7					
+29	Missouri	TEFLUTHRIN	2014	kg	15995				8.4					
+29	Missouri	TEFLUTHRIN	2015	kg	1938.4				6.8					
+29	Missouri	TEFLUTHRIN	2016	kg	3266.1				2.4					
+29	Missouri	TEFLUTHRIN	2017	kg	5428.5				1.3					
+30	Montana	TEFLUTHRIN	1992	kg	52.2									
+30	Montana	TEFLUTHRIN	1993	kg	17.7									
+30	Montana	TEFLUTHRIN	1994	kg	92.8									
+30	Montana	TEFLUTHRIN	1995	kg	427.8									
+30	Montana	TEFLUTHRIN	1996	kg	264.2									
+30	Montana	TEFLUTHRIN	1997	kg	402.8									
+30	Montana	TEFLUTHRIN	1998	kg	506									
+30	Montana	TEFLUTHRIN	1999	kg	223.7									
+30	Montana	TEFLUTHRIN	2000	kg	113.3									
+30	Montana	TEFLUTHRIN	2001	kg	51.8									
+30	Montana	TEFLUTHRIN	2002	kg	112.9									
+30	Montana	TEFLUTHRIN	2003	kg	2293.7									
+30	Montana	TEFLUTHRIN	2004	kg	116.6									
+30	Montana	TEFLUTHRIN	2005	kg	51.5									
+30	Montana	TEFLUTHRIN	2006	kg	35.5									
+30	Montana	TEFLUTHRIN	2007	kg	23.9									
+30	Montana	TEFLUTHRIN	2008	kg	17.9									
+30	Montana	TEFLUTHRIN	2009	kg	33.2									
+30	Montana	TEFLUTHRIN	2010	kg	16.5									
+30	Montana	TEFLUTHRIN	2011	kg	16									
+30	Montana	TEFLUTHRIN	2012	kg	20.2									
+30	Montana	TEFLUTHRIN	2013	kg	83.2									
+30	Montana	TEFLUTHRIN	2014	kg	44.5									
+30	Montana	TEFLUTHRIN	2015	kg	59.4									
+30	Montana	TEFLUTHRIN	2016	kg	81.8									
+30	Montana	TEFLUTHRIN	2017	kg	29.2									
+31	Nebraska	TEFLUTHRIN	1992	kg	21645.8									
+31	Nebraska	TEFLUTHRIN	1993	kg	32122.4									
+31	Nebraska	TEFLUTHRIN	1994	kg	55901.1	95.6			1.9					
+31	Nebraska	TEFLUTHRIN	1995	kg	41503.3	1362.1			0.2					
+31	Nebraska	TEFLUTHRIN	1996	kg	53739.3				372.7					
+31	Nebraska	TEFLUTHRIN	1997	kg	64473.1				11.8					
+31	Nebraska	TEFLUTHRIN	1998	kg	59980.4				6.5					
+31	Nebraska	TEFLUTHRIN	1999	kg	54287.4				6.2					
+31	Nebraska	TEFLUTHRIN	2000	kg	45610.9				5.6					
+31	Nebraska	TEFLUTHRIN	2001	kg	30264.4				7.1					
+31	Nebraska	TEFLUTHRIN	2002	kg	37805.9				17.8					
+31	Nebraska	TEFLUTHRIN	2003	kg	38328.6				1.9					
+31	Nebraska	TEFLUTHRIN	2004	kg	27506.3				8					
+31	Nebraska	TEFLUTHRIN	2005	kg	15682.4				6.7					164.5
+31	Nebraska	TEFLUTHRIN	2006	kg	40317.8				2.5					
+31	Nebraska	TEFLUTHRIN	2007	kg	23480				8.2					
+31	Nebraska	TEFLUTHRIN	2008	kg	45426.7				3.7					
+31	Nebraska	TEFLUTHRIN	2009	kg	11697.3				5.5					
+31	Nebraska	TEFLUTHRIN	2010	kg	9548.4				3.3					
+31	Nebraska	TEFLUTHRIN	2011	kg	18159.3				4.7					
+31	Nebraska	TEFLUTHRIN	2012	kg	8156.7				3.3					
+31	Nebraska	TEFLUTHRIN	2013	kg	9797.1				4.2					
+31	Nebraska	TEFLUTHRIN	2014	kg	9347.6				3.9					
+31	Nebraska	TEFLUTHRIN	2015	kg	4806.3				3.9					
+31	Nebraska	TEFLUTHRIN	2016	kg	16318.9				1.8					
+31	Nebraska	TEFLUTHRIN	2017	kg	2840.5				2					
+32	Nevada	TEFLUTHRIN	1993	kg							0.3			
+32	Nevada	TEFLUTHRIN	1995	kg	2.5									
+32	Nevada	TEFLUTHRIN	1996	kg	4.1									
+32	Nevada	TEFLUTHRIN	1997	kg	1.9									
+32	Nevada	TEFLUTHRIN	1998	kg	12.2									
+32	Nevada	TEFLUTHRIN	1999	kg	9									
+32	Nevada	TEFLUTHRIN	2000	kg	3.6									
+32	Nevada	TEFLUTHRIN	2001	kg	5.3									
+32	Nevada	TEFLUTHRIN	2002	kg	22.9				0.2					
+32	Nevada	TEFLUTHRIN	2005	kg	3				0.1					
+33	New Hampshire	TEFLUTHRIN	1992	kg	43.4									
+33	New Hampshire	TEFLUTHRIN	1993	kg	300.4									
+33	New Hampshire	TEFLUTHRIN	1994	kg	172.4									
+33	New Hampshire	TEFLUTHRIN	1995	kg	67.2									
+33	New Hampshire	TEFLUTHRIN	1996	kg	63.9									
+33	New Hampshire	TEFLUTHRIN	1997	kg	44.1									
+33	New Hampshire	TEFLUTHRIN	1998	kg	267.6									
+33	New Hampshire	TEFLUTHRIN	1999	kg	11.3									
+33	New Hampshire	TEFLUTHRIN	2000	kg	38.2									
+33	New Hampshire	TEFLUTHRIN	2001	kg	12									
+33	New Hampshire	TEFLUTHRIN	2002	kg	114.9									
+33	New Hampshire	TEFLUTHRIN	2003	kg	257.2									
+33	New Hampshire	TEFLUTHRIN	2004	kg	107									
+33	New Hampshire	TEFLUTHRIN	2005	kg	26.7									
+33	New Hampshire	TEFLUTHRIN	2006	kg	33.7									
+33	New Hampshire	TEFLUTHRIN	2007	kg	64.8									
+33	New Hampshire	TEFLUTHRIN	2008	kg	6.1									
+33	New Hampshire	TEFLUTHRIN	2009	kg	15.5									
+33	New Hampshire	TEFLUTHRIN	2010	kg	7.4									
+33	New Hampshire	TEFLUTHRIN	2011	kg	18.8									
+33	New Hampshire	TEFLUTHRIN	2013	kg	12									
+33	New Hampshire	TEFLUTHRIN	2014	kg	10.6									
+33	New Hampshire	TEFLUTHRIN	2015	kg	18.6									
+33	New Hampshire	TEFLUTHRIN	2016	kg	28.8									
+33	New Hampshire	TEFLUTHRIN	2017	kg	45.4									
+34	New Jersey	TEFLUTHRIN	1992	kg	278.2									
+34	New Jersey	TEFLUTHRIN	1993	kg	810.6									
+34	New Jersey	TEFLUTHRIN	1994	kg	698.2									
+34	New Jersey	TEFLUTHRIN	1995	kg	371							177.4		
+34	New Jersey	TEFLUTHRIN	1996	kg	509.1				79					
+34	New Jersey	TEFLUTHRIN	1997	kg	2011.4				99.4					
+34	New Jersey	TEFLUTHRIN	1998	kg	260.1				191.6					
+34	New Jersey	TEFLUTHRIN	1999	kg	462.1				64.9					
+34	New Jersey	TEFLUTHRIN	2000	kg	652.8				34.6					
+34	New Jersey	TEFLUTHRIN	2001	kg	991.6				122.4					
+34	New Jersey	TEFLUTHRIN	2002	kg	624				94.1					
+34	New Jersey	TEFLUTHRIN	2003	kg	467.2				15.4					
+34	New Jersey	TEFLUTHRIN	2004	kg	1258.6				85.6					
+34	New Jersey	TEFLUTHRIN	2005	kg	286.6				15.6					
+34	New Jersey	TEFLUTHRIN	2006	kg	177.6				312.2					
+34	New Jersey	TEFLUTHRIN	2007	kg	657.1				27.7					
+34	New Jersey	TEFLUTHRIN	2008	kg	10				88.4					
+34	New Jersey	TEFLUTHRIN	2009	kg	236.8				35.2					
+34	New Jersey	TEFLUTHRIN	2010	kg	79.1				57.1					
+34	New Jersey	TEFLUTHRIN	2011	kg	141.9									
+34	New Jersey	TEFLUTHRIN	2012	kg	35.2				26					
+34	New Jersey	TEFLUTHRIN	2013	kg	192.4				12.6					
+34	New Jersey	TEFLUTHRIN	2014	kg	62.7				122.7					
+34	New Jersey	TEFLUTHRIN	2015	kg	116.7				156.3					
+34	New Jersey	TEFLUTHRIN	2016	kg	230.2									
+34	New Jersey	TEFLUTHRIN	2017	kg	114									
+35	New Mexico	TEFLUTHRIN	1992	kg	440.6									
+35	New Mexico	TEFLUTHRIN	1993	kg	306.4									
+35	New Mexico	TEFLUTHRIN	1994	kg	500.7									
+35	New Mexico	TEFLUTHRIN	1995	kg	19.8									
+35	New Mexico	TEFLUTHRIN	1996	kg	444.2									
+35	New Mexico	TEFLUTHRIN	1997	kg	525.4									
+35	New Mexico	TEFLUTHRIN	1998	kg	635.7									
+35	New Mexico	TEFLUTHRIN	1999	kg	449.3									
+35	New Mexico	TEFLUTHRIN	2000	kg	340.6									
+35	New Mexico	TEFLUTHRIN	2001	kg	116.7									
+35	New Mexico	TEFLUTHRIN	2002	kg	300.5									
+35	New Mexico	TEFLUTHRIN	2003	kg	352									
+35	New Mexico	TEFLUTHRIN	2004	kg	146.5									
+35	New Mexico	TEFLUTHRIN	2005	kg	141.2									
+35	New Mexico	TEFLUTHRIN	2006	kg	39.2									
+35	New Mexico	TEFLUTHRIN	2007	kg	160.9									
+35	New Mexico	TEFLUTHRIN	2008	kg	517.1									
+35	New Mexico	TEFLUTHRIN	2009	kg	98.6									
+35	New Mexico	TEFLUTHRIN	2010	kg	146									
+35	New Mexico	TEFLUTHRIN	2011	kg	105.7									
+35	New Mexico	TEFLUTHRIN	2012	kg	147.1									
+35	New Mexico	TEFLUTHRIN	2013	kg	137.8									
+35	New Mexico	TEFLUTHRIN	2014	kg	118.6									
+35	New Mexico	TEFLUTHRIN	2016	kg	212.1									
+36	New York	TEFLUTHRIN	1992	kg	2486.9									
+36	New York	TEFLUTHRIN	1993	kg	8011.1									
+36	New York	TEFLUTHRIN	1994	kg	4457.5									
+36	New York	TEFLUTHRIN	1995	kg	10660.6									
+36	New York	TEFLUTHRIN	1996	kg	10996.9				506					
+36	New York	TEFLUTHRIN	1997	kg	4701.7				1144.1					
+36	New York	TEFLUTHRIN	1998	kg	12323.3				463.1					
+36	New York	TEFLUTHRIN	1999	kg	6501.8				274.7					
+36	New York	TEFLUTHRIN	2000	kg	5526				397.6					
+36	New York	TEFLUTHRIN	2001	kg	6414.6				826.2					
+36	New York	TEFLUTHRIN	2002	kg	16821.4				406.8					
+36	New York	TEFLUTHRIN	2003	kg	4946.9				425.1					
+36	New York	TEFLUTHRIN	2004	kg	11997.8				435.6					
+36	New York	TEFLUTHRIN	2005	kg	1752.3				360.4					
+36	New York	TEFLUTHRIN	2006	kg	3607.8				313.9					
+36	New York	TEFLUTHRIN	2007	kg	6033.6				1324.3					
+36	New York	TEFLUTHRIN	2008	kg	3103.3				507					
+36	New York	TEFLUTHRIN	2009	kg	1117.9				199.6					
+36	New York	TEFLUTHRIN	2010	kg	618.5				260.2					
+36	New York	TEFLUTHRIN	2011	kg	1795.9				203.4					
+36	New York	TEFLUTHRIN	2012	kg	753.3				58.4					
+36	New York	TEFLUTHRIN	2013	kg	463.2				622.1					
+36	New York	TEFLUTHRIN	2014	kg	248.5				270.6					
+36	New York	TEFLUTHRIN	2015	kg	1433.5				565.9					
+36	New York	TEFLUTHRIN	2016	kg	5583.1				303.4					
+36	New York	TEFLUTHRIN	2017	kg	7646									
+37	North Carolina	TEFLUTHRIN	1992	kg	2186									
+37	North Carolina	TEFLUTHRIN	1993	kg	2224.8									
+37	North Carolina	TEFLUTHRIN	1994	kg	1986.2									
+37	North Carolina	TEFLUTHRIN	1995	kg	3120.1									
+37	North Carolina	TEFLUTHRIN	1996	kg	4884.9				1.5					
+37	North Carolina	TEFLUTHRIN	1997	kg	5987.2									
+37	North Carolina	TEFLUTHRIN	1998	kg	4957.2				20.1					
+37	North Carolina	TEFLUTHRIN	1999	kg	5440.5				10.1					
+37	North Carolina	TEFLUTHRIN	2000	kg	5321.6				21.5					
+37	North Carolina	TEFLUTHRIN	2001	kg	3201.9				1.3					
+37	North Carolina	TEFLUTHRIN	2002	kg	5596.8				21.5					
+37	North Carolina	TEFLUTHRIN	2003	kg	3084.5				3					
+37	North Carolina	TEFLUTHRIN	2004	kg	12139.6				6.2					
+37	North Carolina	TEFLUTHRIN	2005	kg	6369				4.9					
+37	North Carolina	TEFLUTHRIN	2006	kg	15756									
+37	North Carolina	TEFLUTHRIN	2007	kg	10029									
+37	North Carolina	TEFLUTHRIN	2008	kg	6659									
+37	North Carolina	TEFLUTHRIN	2009	kg	390.3				4					
+37	North Carolina	TEFLUTHRIN	2010	kg	5.7									
+37	North Carolina	TEFLUTHRIN	2011	kg	24.6									
+37	North Carolina	TEFLUTHRIN	2013	kg	1955.9									
+37	North Carolina	TEFLUTHRIN	2014	kg	716.7									
+37	North Carolina	TEFLUTHRIN	2015	kg	47.6									
+37	North Carolina	TEFLUTHRIN	2016	kg	171.3									
+37	North Carolina	TEFLUTHRIN	2017	kg	83.3									
+38	North Dakota	TEFLUTHRIN	1992	kg	4182.1									
+38	North Dakota	TEFLUTHRIN	1993	kg	121.2									
+38	North Dakota	TEFLUTHRIN	1994	kg	4772.1									
+38	North Dakota	TEFLUTHRIN	1995	kg	1503.8									
+38	North Dakota	TEFLUTHRIN	1996	kg	2054.8									
+38	North Dakota	TEFLUTHRIN	1997	kg	967.2									
+38	North Dakota	TEFLUTHRIN	1998	kg	707									
+38	North Dakota	TEFLUTHRIN	1999	kg	719.1									
+38	North Dakota	TEFLUTHRIN	2000	kg	1470.5									
+38	North Dakota	TEFLUTHRIN	2001	kg	537.7									
+38	North Dakota	TEFLUTHRIN	2002	kg	4225									
+38	North Dakota	TEFLUTHRIN	2003	kg	968.3									
+38	North Dakota	TEFLUTHRIN	2004	kg	2897.3									
+38	North Dakota	TEFLUTHRIN	2005	kg	801.2									
+38	North Dakota	TEFLUTHRIN	2006	kg	407.8									
+38	North Dakota	TEFLUTHRIN	2007	kg	1289.4									
+38	North Dakota	TEFLUTHRIN	2008	kg	527.7									
+38	North Dakota	TEFLUTHRIN	2009	kg	1675.7									
+38	North Dakota	TEFLUTHRIN	2010	kg	816.7									
+38	North Dakota	TEFLUTHRIN	2011	kg	636.4									
+38	North Dakota	TEFLUTHRIN	2012	kg	4627									
+38	North Dakota	TEFLUTHRIN	2013	kg	5064.1									
+38	North Dakota	TEFLUTHRIN	2014	kg	2009.3									
+38	North Dakota	TEFLUTHRIN	2015	kg	3201.3									
+38	North Dakota	TEFLUTHRIN	2016	kg	4817									
+38	North Dakota	TEFLUTHRIN	2017	kg	1795.6									
+39	Ohio	TEFLUTHRIN	1992	kg	4148.8				232.4					
+39	Ohio	TEFLUTHRIN	1993	kg	5242				228.2					
+39	Ohio	TEFLUTHRIN	1994	kg	5589.2				28					
+39	Ohio	TEFLUTHRIN	1995	kg	4582.9				6.8					25.1
+39	Ohio	TEFLUTHRIN	1996	kg	13082.7		347.4		81.8			18.8		
+39	Ohio	TEFLUTHRIN	1997	kg	5706.3				121.6					
+39	Ohio	TEFLUTHRIN	1998	kg	11825.9				186.3					
+39	Ohio	TEFLUTHRIN	1999	kg	7010				205.3					
+39	Ohio	TEFLUTHRIN	2000	kg	10124.6				234.7					
+39	Ohio	TEFLUTHRIN	2001	kg	9438.6				72.6					
+39	Ohio	TEFLUTHRIN	2002	kg	6126.2				277.4					
+39	Ohio	TEFLUTHRIN	2003	kg	7836.9				57.3					
+39	Ohio	TEFLUTHRIN	2004	kg	9020.5				110					
+39	Ohio	TEFLUTHRIN	2005	kg	4939				128.1					
+39	Ohio	TEFLUTHRIN	2006	kg	14372.6				50.6					
+39	Ohio	TEFLUTHRIN	2007	kg	31108				132.1					
+39	Ohio	TEFLUTHRIN	2008	kg	2204.3				87					
+39	Ohio	TEFLUTHRIN	2009	kg	5679.9				154.1					
+39	Ohio	TEFLUTHRIN	2010	kg	2216.6				129.7					
+39	Ohio	TEFLUTHRIN	2011	kg	2193.3				111.2					
+39	Ohio	TEFLUTHRIN	2012	kg	2999.9				83.4					
+39	Ohio	TEFLUTHRIN	2013	kg	9193				104.8					
+39	Ohio	TEFLUTHRIN	2014	kg	9756.6				80					
+39	Ohio	TEFLUTHRIN	2015	kg	3627.2				89.1					
+39	Ohio	TEFLUTHRIN	2016	kg	2032.1				32.1					
+39	Ohio	TEFLUTHRIN	2017	kg	5466.5				27.3					
+40	Oklahoma	TEFLUTHRIN	1992	kg	602.1									0.4
+40	Oklahoma	TEFLUTHRIN	1993	kg	534.7									
+40	Oklahoma	TEFLUTHRIN	1994	kg	275.8									
+40	Oklahoma	TEFLUTHRIN	1995	kg	187.9									
+40	Oklahoma	TEFLUTHRIN	1996	kg	585.9									
+40	Oklahoma	TEFLUTHRIN	1997	kg	1593									
+40	Oklahoma	TEFLUTHRIN	1998	kg	666.1									
+40	Oklahoma	TEFLUTHRIN	1999	kg	685.5									
+40	Oklahoma	TEFLUTHRIN	2000	kg	246.9									
+40	Oklahoma	TEFLUTHRIN	2001	kg	182.1									
+40	Oklahoma	TEFLUTHRIN	2002	kg	456.1									
+40	Oklahoma	TEFLUTHRIN	2003	kg	840.9									
+40	Oklahoma	TEFLUTHRIN	2004	kg	286.2									
+40	Oklahoma	TEFLUTHRIN	2005	kg	227.2									
+40	Oklahoma	TEFLUTHRIN	2006	kg	80.7									
+40	Oklahoma	TEFLUTHRIN	2007	kg	308.5									
+40	Oklahoma	TEFLUTHRIN	2008	kg	1163.4									
+40	Oklahoma	TEFLUTHRIN	2009	kg	222.5									
+40	Oklahoma	TEFLUTHRIN	2010	kg	317.7									
+40	Oklahoma	TEFLUTHRIN	2011	kg	189.7									
+40	Oklahoma	TEFLUTHRIN	2012	kg	801.1									
+40	Oklahoma	TEFLUTHRIN	2013	kg	371.1									
+40	Oklahoma	TEFLUTHRIN	2014	kg	237.7									
+40	Oklahoma	TEFLUTHRIN	2016	kg	623.2									
+41	Oregon	TEFLUTHRIN	1993	kg							25.3			
+41	Oregon	TEFLUTHRIN	1995	kg	32.9									
+41	Oregon	TEFLUTHRIN	1996	kg	73.9									
+41	Oregon	TEFLUTHRIN	1997	kg	30.2									
+41	Oregon	TEFLUTHRIN	1998	kg	195.9				21.6					
+41	Oregon	TEFLUTHRIN	1999	kg	191.2				25.5					
+41	Oregon	TEFLUTHRIN	2000	kg	36.5				19.6					
+41	Oregon	TEFLUTHRIN	2001	kg	38.8				212.4					
+41	Oregon	TEFLUTHRIN	2002	kg	158.2				80					
+41	Oregon	TEFLUTHRIN	2003	kg					74					
+41	Oregon	TEFLUTHRIN	2004	kg					130.6					
+41	Oregon	TEFLUTHRIN	2005	kg	21.1				132.4					
+41	Oregon	TEFLUTHRIN	2006	kg					99.6					
+41	Oregon	TEFLUTHRIN	2007	kg					119.2					
+41	Oregon	TEFLUTHRIN	2008	kg					256.6					
+41	Oregon	TEFLUTHRIN	2009	kg					214.4					
+41	Oregon	TEFLUTHRIN	2010	kg					188.2					
+41	Oregon	TEFLUTHRIN	2011	kg					85					
+41	Oregon	TEFLUTHRIN	2017	kg					301.2					
+42	Pennsylvania	TEFLUTHRIN	1992	kg	3858.4									
+42	Pennsylvania	TEFLUTHRIN	1993	kg	6611.2									
+42	Pennsylvania	TEFLUTHRIN	1994	kg	7047.2				282					
+42	Pennsylvania	TEFLUTHRIN	1995	kg	9918.5							3075.7		8.7
+42	Pennsylvania	TEFLUTHRIN	1996	kg	12259				98.7					
+42	Pennsylvania	TEFLUTHRIN	1997	kg	9205.1				110.3			5996.4		
+42	Pennsylvania	TEFLUTHRIN	1998	kg	11090.6				291.8					
+42	Pennsylvania	TEFLUTHRIN	1999	kg	8141.5				250.2					
+42	Pennsylvania	TEFLUTHRIN	2000	kg	9323.6				194.2					
+42	Pennsylvania	TEFLUTHRIN	2001	kg	12113.3				141.3					
+42	Pennsylvania	TEFLUTHRIN	2002	kg	14434.9				760.8					
+42	Pennsylvania	TEFLUTHRIN	2003	kg	9761.8				266.9					
+42	Pennsylvania	TEFLUTHRIN	2004	kg	7135.2				178.3					
+42	Pennsylvania	TEFLUTHRIN	2005	kg	7242.6				247.9					
+42	Pennsylvania	TEFLUTHRIN	2006	kg	2683.8				305.7					
+42	Pennsylvania	TEFLUTHRIN	2007	kg	9728.4				331.5					
+42	Pennsylvania	TEFLUTHRIN	2008	kg	465.9				160					
+42	Pennsylvania	TEFLUTHRIN	2009	kg	3145.7				228.2					
+42	Pennsylvania	TEFLUTHRIN	2010	kg	891.9				202.4					
+42	Pennsylvania	TEFLUTHRIN	2011	kg	2050.7				176.8					
+42	Pennsylvania	TEFLUTHRIN	2012	kg	385.3				193.1					
+42	Pennsylvania	TEFLUTHRIN	2013	kg	2544.5				321.2					
+42	Pennsylvania	TEFLUTHRIN	2014	kg	7385.6				235.1					
+42	Pennsylvania	TEFLUTHRIN	2015	kg	4998.2				322.8					
+42	Pennsylvania	TEFLUTHRIN	2016	kg	1939.2									
+42	Pennsylvania	TEFLUTHRIN	2017	kg	4949.6									
+44	Rhode Island	TEFLUTHRIN	1992	kg	7.2									
+44	Rhode Island	TEFLUTHRIN	1993	kg	51.5									
+44	Rhode Island	TEFLUTHRIN	1994	kg	17									
+44	Rhode Island	TEFLUTHRIN	1995	kg	22.7									
+44	Rhode Island	TEFLUTHRIN	1996	kg	19.2									
+44	Rhode Island	TEFLUTHRIN	1997	kg	70									
+44	Rhode Island	TEFLUTHRIN	1998	kg	18.2									
+44	Rhode Island	TEFLUTHRIN	1999	kg	2									
+44	Rhode Island	TEFLUTHRIN	2000	kg	16.3									
+44	Rhode Island	TEFLUTHRIN	2001	kg	2									
+44	Rhode Island	TEFLUTHRIN	2002	kg	18.1									
+44	Rhode Island	TEFLUTHRIN	2003	kg	35.8									
+44	Rhode Island	TEFLUTHRIN	2004	kg	86.4									
+44	Rhode Island	TEFLUTHRIN	2005	kg	3.7									
+44	Rhode Island	TEFLUTHRIN	2006	kg	4.3									
+44	Rhode Island	TEFLUTHRIN	2007	kg	7.8									
+44	Rhode Island	TEFLUTHRIN	2008	kg	0.7									
+44	Rhode Island	TEFLUTHRIN	2009	kg	1.9									
+44	Rhode Island	TEFLUTHRIN	2010	kg	0.9									
+44	Rhode Island	TEFLUTHRIN	2011	kg	2.3									
+44	Rhode Island	TEFLUTHRIN	2013	kg	1.4									
+44	Rhode Island	TEFLUTHRIN	2014	kg	1.2									
+44	Rhode Island	TEFLUTHRIN	2015	kg	2									
+44	Rhode Island	TEFLUTHRIN	2016	kg	3.1									
+44	Rhode Island	TEFLUTHRIN	2017	kg	4.8									
+45	South Carolina	TEFLUTHRIN	1992	kg	636.9									
+45	South Carolina	TEFLUTHRIN	1993	kg	581.4									
+45	South Carolina	TEFLUTHRIN	1994	kg	487.9									
+45	South Carolina	TEFLUTHRIN	1995	kg	893.7									
+45	South Carolina	TEFLUTHRIN	1996	kg	139.6									
+45	South Carolina	TEFLUTHRIN	1997	kg	693.9									
+45	South Carolina	TEFLUTHRIN	1998	kg	1121.6									
+45	South Carolina	TEFLUTHRIN	1999	kg	1701.1									
+45	South Carolina	TEFLUTHRIN	2000	kg	1149.1									
+45	South Carolina	TEFLUTHRIN	2001	kg	924.4									
+45	South Carolina	TEFLUTHRIN	2002	kg	6675.9									
+45	South Carolina	TEFLUTHRIN	2003	kg	695.6									
+45	South Carolina	TEFLUTHRIN	2004	kg	3772.8									
+45	South Carolina	TEFLUTHRIN	2005	kg	1876									
+45	South Carolina	TEFLUTHRIN	2006	kg	5135.2									
+45	South Carolina	TEFLUTHRIN	2007	kg	1575									
+45	South Carolina	TEFLUTHRIN	2008	kg	2107.1									
+45	South Carolina	TEFLUTHRIN	2013	kg	787.1									
+46	South Dakota	TEFLUTHRIN	1992	kg	8968.5									
+46	South Dakota	TEFLUTHRIN	1993	kg	2520.1									
+46	South Dakota	TEFLUTHRIN	1994	kg	5027.8				1.5					
+46	South Dakota	TEFLUTHRIN	1995	kg	3874.4				0.1					
+46	South Dakota	TEFLUTHRIN	1996	kg	10734.3				7.7					
+46	South Dakota	TEFLUTHRIN	1997	kg	5125.2				12.2					
+46	South Dakota	TEFLUTHRIN	1998	kg	2028.7				7.1					
+46	South Dakota	TEFLUTHRIN	1999	kg	3009.3				6.7					
+46	South Dakota	TEFLUTHRIN	2000	kg	4415.7				6.4					
+46	South Dakota	TEFLUTHRIN	2001	kg	3065.3				8.6					
+46	South Dakota	TEFLUTHRIN	2002	kg	12238.9				21.7					
+46	South Dakota	TEFLUTHRIN	2003	kg	2241.7				2.2					
+46	South Dakota	TEFLUTHRIN	2004	kg	15362.9				7.6					
+46	South Dakota	TEFLUTHRIN	2005	kg	4525				4.8					
+46	South Dakota	TEFLUTHRIN	2006	kg	6799.7				0.9					
+46	South Dakota	TEFLUTHRIN	2007	kg	3296.2				2.1					
+46	South Dakota	TEFLUTHRIN	2008	kg	2719.7				1.6					
+46	South Dakota	TEFLUTHRIN	2009	kg	3100.4				1.5					
+46	South Dakota	TEFLUTHRIN	2010	kg	1273.5				0.4					
+46	South Dakota	TEFLUTHRIN	2011	kg	795.1				0.3					
+46	South Dakota	TEFLUTHRIN	2012	kg	3503.5				0					
+46	South Dakota	TEFLUTHRIN	2013	kg	9914.1				1.1					
+46	South Dakota	TEFLUTHRIN	2014	kg	2703				0.2					
+46	South Dakota	TEFLUTHRIN	2015	kg	8150.8				0.3					
+46	South Dakota	TEFLUTHRIN	2016	kg	9691.6				0					
+46	South Dakota	TEFLUTHRIN	2017	kg	9305.3				1.3					
+47	Tennessee	TEFLUTHRIN	1992	kg	563.2									
+47	Tennessee	TEFLUTHRIN	1993	kg	963.7									
+47	Tennessee	TEFLUTHRIN	1994	kg	1370.2							90.2		
+47	Tennessee	TEFLUTHRIN	1995	kg	6314.2									
+47	Tennessee	TEFLUTHRIN	1996	kg	990.6	10.6			2.6					
+47	Tennessee	TEFLUTHRIN	1997	kg	1109.9									
+47	Tennessee	TEFLUTHRIN	1998	kg	2257.9				39.1					
+47	Tennessee	TEFLUTHRIN	1999	kg	3848.7				20.7					
+47	Tennessee	TEFLUTHRIN	2000	kg	3688.4				39.6					
+47	Tennessee	TEFLUTHRIN	2001	kg	2529									
+47	Tennessee	TEFLUTHRIN	2002	kg	7106.4				32.7					
+47	Tennessee	TEFLUTHRIN	2003	kg	14899.9				5.2					
+47	Tennessee	TEFLUTHRIN	2004	kg	519.1				8.3					
+47	Tennessee	TEFLUTHRIN	2005	kg	1800				7.2					
+47	Tennessee	TEFLUTHRIN	2006	kg	1870.3									
+47	Tennessee	TEFLUTHRIN	2007	kg	2024.5									
+47	Tennessee	TEFLUTHRIN	2008	kg	896.1									
+47	Tennessee	TEFLUTHRIN	2009	kg	546.5				2.8					
+47	Tennessee	TEFLUTHRIN	2010	kg	96.4									
+47	Tennessee	TEFLUTHRIN	2011	kg	210.7									
+47	Tennessee	TEFLUTHRIN	2013	kg	942.4									
+47	Tennessee	TEFLUTHRIN	2014	kg	3416.7									
+47	Tennessee	TEFLUTHRIN	2015	kg	592.6									
+47	Tennessee	TEFLUTHRIN	2016	kg	639.8									
+47	Tennessee	TEFLUTHRIN	2017	kg	745.4									
+48	Texas	TEFLUTHRIN	1992	kg	6117									63.7
+48	Texas	TEFLUTHRIN	1993	kg	6149.9			80.6						
+48	Texas	TEFLUTHRIN	1994	kg	9374									
+48	Texas	TEFLUTHRIN	1995	kg	7313									
+48	Texas	TEFLUTHRIN	1996	kg	16932									
+48	Texas	TEFLUTHRIN	1997	kg	16054.2				45					
+48	Texas	TEFLUTHRIN	1998	kg	14550.9									
+48	Texas	TEFLUTHRIN	1999	kg	10419.4									
+48	Texas	TEFLUTHRIN	2000	kg	4521.4									
+48	Texas	TEFLUTHRIN	2001	kg	5441.9									
+48	Texas	TEFLUTHRIN	2002	kg	3819.3									
+48	Texas	TEFLUTHRIN	2003	kg	21608.3									
+48	Texas	TEFLUTHRIN	2004	kg	2214.5									
+48	Texas	TEFLUTHRIN	2005	kg	1379									
+48	Texas	TEFLUTHRIN	2006	kg	664.8									372
+48	Texas	TEFLUTHRIN	2007	kg	1670									
+48	Texas	TEFLUTHRIN	2008	kg	5767.1									
+48	Texas	TEFLUTHRIN	2009	kg	1577.8									
+48	Texas	TEFLUTHRIN	2010	kg	2488.6									
+48	Texas	TEFLUTHRIN	2011	kg	1284.8									
+48	Texas	TEFLUTHRIN	2012	kg	11938.5									
+48	Texas	TEFLUTHRIN	2013	kg	3778.2									
+48	Texas	TEFLUTHRIN	2014	kg	2154.9									
+48	Texas	TEFLUTHRIN	2016	kg	4506.1									
+49	Utah	TEFLUTHRIN	1995	kg	100.1									
+49	Utah	TEFLUTHRIN	1996	kg	143.9									
+49	Utah	TEFLUTHRIN	1997	kg	61.3									
+49	Utah	TEFLUTHRIN	1998	kg	342.2									
+49	Utah	TEFLUTHRIN	1999	kg	230.3									
+49	Utah	TEFLUTHRIN	2000	kg	438.1									
+49	Utah	TEFLUTHRIN	2002	kg	30.7									
+49	Utah	TEFLUTHRIN	2005	kg	44.6									
+50	Vermont	TEFLUTHRIN	1992	kg	221.9									
+50	Vermont	TEFLUTHRIN	1993	kg	1586.3									
+50	Vermont	TEFLUTHRIN	1994	kg	887.6									
+50	Vermont	TEFLUTHRIN	1995	kg	596.2									
+50	Vermont	TEFLUTHRIN	1996	kg	112.5				8.2					
+50	Vermont	TEFLUTHRIN	1997	kg	176.3				11.5					
+50	Vermont	TEFLUTHRIN	1998	kg	589.1				14.7					
+50	Vermont	TEFLUTHRIN	1999	kg	66				7.1					
+50	Vermont	TEFLUTHRIN	2000	kg	226.3				6.2					
+50	Vermont	TEFLUTHRIN	2001	kg	139.7				10.3					
+50	Vermont	TEFLUTHRIN	2002	kg	1819.6				9.7					
+50	Vermont	TEFLUTHRIN	2003	kg	900.8				5.1					
+50	Vermont	TEFLUTHRIN	2004	kg	2337.7				17.6					
+50	Vermont	TEFLUTHRIN	2005	kg	166.3				18.8					
+50	Vermont	TEFLUTHRIN	2006	kg	207.5				14.7					
+50	Vermont	TEFLUTHRIN	2007	kg	414.7				15.3					
+50	Vermont	TEFLUTHRIN	2008	kg	44.7				9.6					
+50	Vermont	TEFLUTHRIN	2009	kg	115.6				5					
+50	Vermont	TEFLUTHRIN	2010	kg	56				6.6					
+50	Vermont	TEFLUTHRIN	2011	kg	144									
+50	Vermont	TEFLUTHRIN	2012	kg					5.9					
+50	Vermont	TEFLUTHRIN	2013	kg	93.4				15.5					
+50	Vermont	TEFLUTHRIN	2014	kg	82.1				10.6					
+50	Vermont	TEFLUTHRIN	2015	kg	143.1				32.5					
+50	Vermont	TEFLUTHRIN	2016	kg	224.3									
+50	Vermont	TEFLUTHRIN	2017	kg	354.2									
+51	Virginia	TEFLUTHRIN	1992	kg	1625.7									
+51	Virginia	TEFLUTHRIN	1993	kg	2797.8									
+51	Virginia	TEFLUTHRIN	1994	kg	1918.5									
+51	Virginia	TEFLUTHRIN	1995	kg	3499.6									
+51	Virginia	TEFLUTHRIN	1996	kg	1501		736.8		2.4					
+51	Virginia	TEFLUTHRIN	1997	kg	3883.7				4.2			905.3		
+51	Virginia	TEFLUTHRIN	1998	kg	1910.4				29.5					
+51	Virginia	TEFLUTHRIN	1999	kg	1800.4				9.4					
+51	Virginia	TEFLUTHRIN	2000	kg	2264.5				29.5					
+51	Virginia	TEFLUTHRIN	2001	kg	3112.7				10.9					
+51	Virginia	TEFLUTHRIN	2002	kg	1570.9				27.3					
+51	Virginia	TEFLUTHRIN	2003	kg	2483.2				0.6					
+51	Virginia	TEFLUTHRIN	2004	kg	4509.6				20.1					
+51	Virginia	TEFLUTHRIN	2005	kg	3351.3				1.6					
+51	Virginia	TEFLUTHRIN	2006	kg	11030.8									
+51	Virginia	TEFLUTHRIN	2007	kg	1368.3									
+51	Virginia	TEFLUTHRIN	2008	kg	4464.8									
+51	Virginia	TEFLUTHRIN	2009	kg	1110.8				2					
+51	Virginia	TEFLUTHRIN	2010	kg	24.6									
+51	Virginia	TEFLUTHRIN	2011	kg	100.3									
+51	Virginia	TEFLUTHRIN	2013	kg	1567.4									
+51	Virginia	TEFLUTHRIN	2014	kg	368.1									
+51	Virginia	TEFLUTHRIN	2015	kg	101.6									
+51	Virginia	TEFLUTHRIN	2016	kg	106.2									
+51	Virginia	TEFLUTHRIN	2017	kg	247.6									
+53	Washington	TEFLUTHRIN	1998	kg					1051.6					
+53	Washington	TEFLUTHRIN	1999	kg	98.2				184.2					
+53	Washington	TEFLUTHRIN	2000	kg					2.6					
+53	Washington	TEFLUTHRIN	2001	kg					236					
+53	Washington	TEFLUTHRIN	2002	kg					657.9					
+53	Washington	TEFLUTHRIN	2003	kg					137.8					
+53	Washington	TEFLUTHRIN	2004	kg					23.1					
+53	Washington	TEFLUTHRIN	2005	kg					1332.5					
+53	Washington	TEFLUTHRIN	2006	kg					206.9					
+53	Washington	TEFLUTHRIN	2007	kg					334					
+53	Washington	TEFLUTHRIN	2008	kg					50.4					
+53	Washington	TEFLUTHRIN	2009	kg					36.4					
+53	Washington	TEFLUTHRIN	2010	kg					37.1					
+53	Washington	TEFLUTHRIN	2011	kg					16.4					
+53	Washington	TEFLUTHRIN	2017	kg					5055.6					
+54	West Virginia	TEFLUTHRIN	1992	kg	48.4									
+54	West Virginia	TEFLUTHRIN	1993	kg	205.8									
+54	West Virginia	TEFLUTHRIN	1994	kg	265.1									
+54	West Virginia	TEFLUTHRIN	1995	kg	33.7									0.6
+54	West Virginia	TEFLUTHRIN	1996	kg	121.7				3.1					
+54	West Virginia	TEFLUTHRIN	1997	kg	489.8				3.8			833.8		
+54	West Virginia	TEFLUTHRIN	1998	kg	446.5				18.4					
+54	West Virginia	TEFLUTHRIN	1999	kg	234.4				12.1					
+54	West Virginia	TEFLUTHRIN	2000	kg	536.2				24.2					
+54	West Virginia	TEFLUTHRIN	2001	kg	322.1				4					
+54	West Virginia	TEFLUTHRIN	2002	kg	1290.7				13.6					
+54	West Virginia	TEFLUTHRIN	2003	kg	560.5				2.9					
+54	West Virginia	TEFLUTHRIN	2004	kg	100.6				7.6					
+54	West Virginia	TEFLUTHRIN	2005	kg	119.3				5					
+54	West Virginia	TEFLUTHRIN	2006	kg	795				1.9					
+54	West Virginia	TEFLUTHRIN	2007	kg	174.6				4.1					
+54	West Virginia	TEFLUTHRIN	2008	kg	334.8				0.1					
+54	West Virginia	TEFLUTHRIN	2009	kg	492.4				4					
+54	West Virginia	TEFLUTHRIN	2010	kg	22.6				4.1					
+54	West Virginia	TEFLUTHRIN	2011	kg	95.7				2					
+54	West Virginia	TEFLUTHRIN	2012	kg					1.6					
+54	West Virginia	TEFLUTHRIN	2013	kg	253.8				3.1					
+54	West Virginia	TEFLUTHRIN	2014	kg	442.1				1.8					
+54	West Virginia	TEFLUTHRIN	2015	kg	133.1				3.3					
+54	West Virginia	TEFLUTHRIN	2016	kg	129									
+54	West Virginia	TEFLUTHRIN	2017	kg	189.5									
+55	Wisconsin	TEFLUTHRIN	1992	kg	3594.8				38.8					
+55	Wisconsin	TEFLUTHRIN	1993	kg	9642.2									
+55	Wisconsin	TEFLUTHRIN	1994	kg	9335.3	656			123					
+55	Wisconsin	TEFLUTHRIN	1995	kg	12498.1				147.7					
+55	Wisconsin	TEFLUTHRIN	1996	kg	11221.5				398.1					
+55	Wisconsin	TEFLUTHRIN	1997	kg	16803.7				866.4					
+55	Wisconsin	TEFLUTHRIN	1998	kg	13190.1				484					
+55	Wisconsin	TEFLUTHRIN	1999	kg	14496.7				199					
+55	Wisconsin	TEFLUTHRIN	2000	kg	7184.4				484.5					
+55	Wisconsin	TEFLUTHRIN	2001	kg	12113.3				2359.7					
+55	Wisconsin	TEFLUTHRIN	2002	kg	15880.7				936.1					
+55	Wisconsin	TEFLUTHRIN	2003	kg	14422.9				127.2					
+55	Wisconsin	TEFLUTHRIN	2004	kg	16061.6				585.4					
+55	Wisconsin	TEFLUTHRIN	2005	kg	10316.3				529.1					
+55	Wisconsin	TEFLUTHRIN	2006	kg	15766				805.8					
+55	Wisconsin	TEFLUTHRIN	2007	kg	9219.6				1030.9					
+55	Wisconsin	TEFLUTHRIN	2008	kg	25498.7				475.7					
+55	Wisconsin	TEFLUTHRIN	2009	kg	9527.4				558.8					
+55	Wisconsin	TEFLUTHRIN	2010	kg	4585.6				674.2					
+55	Wisconsin	TEFLUTHRIN	2011	kg	9392.3				495					
+55	Wisconsin	TEFLUTHRIN	2012	kg	23324.6				903					
+55	Wisconsin	TEFLUTHRIN	2013	kg	17172				665					
+55	Wisconsin	TEFLUTHRIN	2014	kg	17103.6				323.3					
+55	Wisconsin	TEFLUTHRIN	2015	kg	18782.6				140.9					
+55	Wisconsin	TEFLUTHRIN	2016	kg	5183				168.7					
+55	Wisconsin	TEFLUTHRIN	2017	kg	13306.4				109.6					
+56	Wyoming	TEFLUTHRIN	1992	kg	11.5									
+56	Wyoming	TEFLUTHRIN	1993	kg	5.1									
+56	Wyoming	TEFLUTHRIN	1994	kg	76.9									
+56	Wyoming	TEFLUTHRIN	1995	kg	293.4									
+56	Wyoming	TEFLUTHRIN	1996	kg	276.3									
+56	Wyoming	TEFLUTHRIN	1997	kg	294.3									
+56	Wyoming	TEFLUTHRIN	1998	kg	601.6									
+56	Wyoming	TEFLUTHRIN	1999	kg	403.8									
+56	Wyoming	TEFLUTHRIN	2000	kg	259.5									
+56	Wyoming	TEFLUTHRIN	2001	kg	146.4									
+56	Wyoming	TEFLUTHRIN	2002	kg	104.4									
+56	Wyoming	TEFLUTHRIN	2003	kg	841.6									
+56	Wyoming	TEFLUTHRIN	2004	kg	373.5									
+56	Wyoming	TEFLUTHRIN	2005	kg	74.5									
+56	Wyoming	TEFLUTHRIN	2006	kg	27.8									
+56	Wyoming	TEFLUTHRIN	2007	kg	26.1									
+56	Wyoming	TEFLUTHRIN	2008	kg	165.2									
+56	Wyoming	TEFLUTHRIN	2009	kg	86.3									
+56	Wyoming	TEFLUTHRIN	2010	kg	19.4									
+56	Wyoming	TEFLUTHRIN	2011	kg	125.6									
+56	Wyoming	TEFLUTHRIN	2012	kg	30.3									
+56	Wyoming	TEFLUTHRIN	2013	kg	94.3									
+56	Wyoming	TEFLUTHRIN	2014	kg	165									
+56	Wyoming	TEFLUTHRIN	2015	kg	69									
+56	Wyoming	TEFLUTHRIN	2016	kg	102.6									
+56	Wyoming	TEFLUTHRIN	2017	kg	37.9									

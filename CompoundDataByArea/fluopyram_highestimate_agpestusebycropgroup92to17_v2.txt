@@ -1,0 +1,223 @@
+01	Alabama	FLUOPYRAM	2013	kg					14.3					
+01	Alabama	FLUOPYRAM	2015	kg				3868.5	14.6					2120.9
+01	Alabama	FLUOPYRAM	2016	kg				2079.9						607.4
+01	Alabama	FLUOPYRAM	2017	kg				9469.3						2036.9
+04	Arizona	FLUOPYRAM	2013	kg							0.4			
+04	Arizona	FLUOPYRAM	2014	kg							73.6			
+04	Arizona	FLUOPYRAM	2015	kg							37.6			
+04	Arizona	FLUOPYRAM	2016	kg							26.9			
+04	Arizona	FLUOPYRAM	2017	kg					0.2		35			
+05	Arkansas	FLUOPYRAM	2017	kg				2950						
+06	California	FLUOPYRAM	2012	kg					3004.1		3819.6			
+06	California	FLUOPYRAM	2013	kg					1627.3		6441			
+06	California	FLUOPYRAM	2014	kg					290.1		16680.2	6.3		
+06	California	FLUOPYRAM	2015	kg					151.5		22916.8			
+06	California	FLUOPYRAM	2016	kg					1986		27941.5			0.5
+06	California	FLUOPYRAM	2017	kg					4336.1		36394.7			1
+08	Colorado	FLUOPYRAM	2012	kg					479.2					
+08	Colorado	FLUOPYRAM	2013	kg					666.3					
+08	Colorado	FLUOPYRAM	2014	kg					2947.1					
+08	Colorado	FLUOPYRAM	2015	kg					964.1					
+08	Colorado	FLUOPYRAM	2016	kg					245.4					
+08	Colorado	FLUOPYRAM	2017	kg					979.1					
+09	Connecticut	FLUOPYRAM	2013	kg							30.6			
+09	Connecticut	FLUOPYRAM	2014	kg							65.2			
+09	Connecticut	FLUOPYRAM	2015	kg							58.9			
+09	Connecticut	FLUOPYRAM	2016	kg							40.5			
+09	Connecticut	FLUOPYRAM	2017	kg					12.7		14.9			
+12	Florida	FLUOPYRAM	2012	kg					52.4					
+12	Florida	FLUOPYRAM	2013	kg					682					
+12	Florida	FLUOPYRAM	2014	kg					42.9					
+12	Florida	FLUOPYRAM	2015	kg				119.5	521					871.9
+12	Florida	FLUOPYRAM	2016	kg				204.4	766.6		3750.6			698.7
+12	Florida	FLUOPYRAM	2017	kg				303	591.8		302.5			8881
+13	Georgia	FLUOPYRAM	2012	kg					490.2					
+13	Georgia	FLUOPYRAM	2013	kg					913		7.1			
+13	Georgia	FLUOPYRAM	2014	kg					88.4		22.2			
+13	Georgia	FLUOPYRAM	2015	kg				2293.7	540.8					4261
+13	Georgia	FLUOPYRAM	2016	kg				2641.7	20.7					8886.4
+13	Georgia	FLUOPYRAM	2017	kg				3146.8	657.1					5658.6
+16	Idaho	FLUOPYRAM	2012	kg					276					
+16	Idaho	FLUOPYRAM	2013	kg					3090.3		18.2			
+16	Idaho	FLUOPYRAM	2014	kg					5811.4		26.6			
+16	Idaho	FLUOPYRAM	2015	kg					6159.6		21.9			
+16	Idaho	FLUOPYRAM	2016	kg					7912.9		37			
+16	Idaho	FLUOPYRAM	2017	kg					9011.8		24.3			
+17	Illinois	FLUOPYRAM	2013	kg					33.4					
+17	Illinois	FLUOPYRAM	2014	kg					25.1					
+17	Illinois	FLUOPYRAM	2015	kg					21.6					
+17	Illinois	FLUOPYRAM	2016	kg					79.6					
+17	Illinois	FLUOPYRAM	2017	kg					481.8					
+18	Indiana	FLUOPYRAM	2012	kg							0			
+18	Indiana	FLUOPYRAM	2013	kg					42.4		0			
+18	Indiana	FLUOPYRAM	2014	kg					431.3		15			
+18	Indiana	FLUOPYRAM	2015	kg					437.1		0.1			
+18	Indiana	FLUOPYRAM	2016	kg					273.2		5.2			
+18	Indiana	FLUOPYRAM	2017	kg					112.3		0.5			
+19	Iowa	FLUOPYRAM	2013	kg					1.4					
+19	Iowa	FLUOPYRAM	2016	kg					1.5					
+19	Iowa	FLUOPYRAM	2017	kg					17.8					
+20	Kansas	FLUOPYRAM	2012	kg					28.9					
+20	Kansas	FLUOPYRAM	2013	kg					45.3					
+20	Kansas	FLUOPYRAM	2014	kg					56.8					
+20	Kansas	FLUOPYRAM	2015	kg					37.5					
+20	Kansas	FLUOPYRAM	2016	kg					8.2					
+21	Kentucky	FLUOPYRAM	2014	kg					35.5					
+21	Kentucky	FLUOPYRAM	2015	kg					30.9					
+21	Kentucky	FLUOPYRAM	2016	kg					11.9					
+21	Kentucky	FLUOPYRAM	2017	kg					3.7					
+22	Louisiana	FLUOPYRAM	2017	kg				2012.8						
+23	Maine	FLUOPYRAM	2014	kg					2.6					
+23	Maine	FLUOPYRAM	2015	kg					254.7					
+23	Maine	FLUOPYRAM	2016	kg					547.1					
+23	Maine	FLUOPYRAM	2017	kg					186.1					
+24	Maryland	FLUOPYRAM	2012	kg							7.2			
+24	Maryland	FLUOPYRAM	2013	kg							52.6			
+24	Maryland	FLUOPYRAM	2014	kg							83.7			
+24	Maryland	FLUOPYRAM	2015	kg							96.3			
+24	Maryland	FLUOPYRAM	2016	kg							8.8			
+24	Maryland	FLUOPYRAM	2017	kg							71			
+25	Massachusetts	FLUOPYRAM	2013	kg							50.3			
+25	Massachusetts	FLUOPYRAM	2014	kg							111.6			
+25	Massachusetts	FLUOPYRAM	2015	kg							93.6			
+25	Massachusetts	FLUOPYRAM	2016	kg							73.9			
+25	Massachusetts	FLUOPYRAM	2017	kg					32		42.3			
+26	Michigan	FLUOPYRAM	2012	kg					88.8		853.9			
+26	Michigan	FLUOPYRAM	2013	kg					1356.5		1171.2			
+26	Michigan	FLUOPYRAM	2014	kg					2544.3		3192.5			
+26	Michigan	FLUOPYRAM	2015	kg					4835.4		2406.4			
+26	Michigan	FLUOPYRAM	2016	kg					2396.6		1406.7			
+26	Michigan	FLUOPYRAM	2017	kg					3033		1246.4			
+27	Minnesota	FLUOPYRAM	2012	kg					199.4					
+27	Minnesota	FLUOPYRAM	2013	kg					236.6					
+27	Minnesota	FLUOPYRAM	2014	kg					813.8					
+27	Minnesota	FLUOPYRAM	2015	kg					712.5					
+27	Minnesota	FLUOPYRAM	2016	kg					695.2					
+27	Minnesota	FLUOPYRAM	2017	kg					1438.3					
+28	Mississippi	FLUOPYRAM	2015	kg				1114						65.4
+28	Mississippi	FLUOPYRAM	2016	kg				16.9						17.1
+28	Mississippi	FLUOPYRAM	2017	kg				6791.2						118.4
+29	Missouri	FLUOPYRAM	2017	kg					8.3					
+30	Montana	FLUOPYRAM	2012	kg					6.8					
+30	Montana	FLUOPYRAM	2013	kg					86.5					
+30	Montana	FLUOPYRAM	2014	kg					105.7					
+30	Montana	FLUOPYRAM	2015	kg					129.6					
+30	Montana	FLUOPYRAM	2016	kg					135					
+30	Montana	FLUOPYRAM	2017	kg					216					
+31	Nebraska	FLUOPYRAM	2012	kg					1065.6					
+31	Nebraska	FLUOPYRAM	2013	kg					859.7					
+31	Nebraska	FLUOPYRAM	2014	kg					1245					
+31	Nebraska	FLUOPYRAM	2015	kg					877.8					
+31	Nebraska	FLUOPYRAM	2016	kg					96.3					
+31	Nebraska	FLUOPYRAM	2017	kg					185.2					
+32	Nevada	FLUOPYRAM	2012	kg					0.9					
+32	Nevada	FLUOPYRAM	2013	kg					69.1					
+32	Nevada	FLUOPYRAM	2014	kg					71.2		6.8			
+32	Nevada	FLUOPYRAM	2015	kg					53.8		5.3			
+32	Nevada	FLUOPYRAM	2016	kg					64.4		0.2			
+32	Nevada	FLUOPYRAM	2017	kg					19.5		4.3			
+33	New Hampshire	FLUOPYRAM	2017	kg					6.2					
+34	New Jersey	FLUOPYRAM	2012	kg							14.3			
+34	New Jersey	FLUOPYRAM	2013	kg							27			
+34	New Jersey	FLUOPYRAM	2014	kg							103.5			
+34	New Jersey	FLUOPYRAM	2015	kg							58.9			
+34	New Jersey	FLUOPYRAM	2016	kg							40.6			
+34	New Jersey	FLUOPYRAM	2017	kg							36.1			
+35	New Mexico	FLUOPYRAM	2012	kg					24.8					
+35	New Mexico	FLUOPYRAM	2013	kg					19.9					
+35	New Mexico	FLUOPYRAM	2014	kg					257.4					
+35	New Mexico	FLUOPYRAM	2015	kg					18.3					
+35	New Mexico	FLUOPYRAM	2016	kg					9.7					
+35	New Mexico	FLUOPYRAM	2017	kg				15.9	15.9					
+36	New York	FLUOPYRAM	2012	kg							159.6			
+36	New York	FLUOPYRAM	2013	kg							713.6			
+36	New York	FLUOPYRAM	2014	kg							1615.6			
+36	New York	FLUOPYRAM	2015	kg							1454.8			
+36	New York	FLUOPYRAM	2016	kg							1417.8			
+36	New York	FLUOPYRAM	2017	kg					16.3		1136.4			
+37	North Carolina	FLUOPYRAM	2013	kg					709.7		58.7			27.7
+37	North Carolina	FLUOPYRAM	2014	kg							195.7			
+37	North Carolina	FLUOPYRAM	2015	kg				807.9	138		189.2			413.5
+37	North Carolina	FLUOPYRAM	2016	kg				522.7						928.7
+37	North Carolina	FLUOPYRAM	2017	kg				745.2	401.2		190.8			1371.2
+38	North Dakota	FLUOPYRAM	2012	kg					282.3					
+38	North Dakota	FLUOPYRAM	2013	kg					262.9					
+38	North Dakota	FLUOPYRAM	2014	kg					80.2					
+38	North Dakota	FLUOPYRAM	2015	kg					3670					
+38	North Dakota	FLUOPYRAM	2017	kg					1713.9					
+39	Ohio	FLUOPYRAM	2012	kg							14.3			
+39	Ohio	FLUOPYRAM	2013	kg					10					
+39	Ohio	FLUOPYRAM	2014	kg							31.5			
+39	Ohio	FLUOPYRAM	2015	kg					30.2		39.1			
+39	Ohio	FLUOPYRAM	2016	kg					31		38.9			
+39	Ohio	FLUOPYRAM	2017	kg					15.1		11.7			
+41	Oregon	FLUOPYRAM	2012	kg					4.9		1.8			
+41	Oregon	FLUOPYRAM	2013	kg					610.2		189.9			
+41	Oregon	FLUOPYRAM	2014	kg					597.8		451.9			
+41	Oregon	FLUOPYRAM	2015	kg					481		227.6			
+41	Oregon	FLUOPYRAM	2016	kg					602		289.6			
+41	Oregon	FLUOPYRAM	2017	kg					960.2		779.7			
+42	Pennsylvania	FLUOPYRAM	2012	kg							86.4			
+42	Pennsylvania	FLUOPYRAM	2013	kg							364.2			
+42	Pennsylvania	FLUOPYRAM	2014	kg							1108.7			
+42	Pennsylvania	FLUOPYRAM	2015	kg							1779.5			
+42	Pennsylvania	FLUOPYRAM	2016	kg							328.2			
+42	Pennsylvania	FLUOPYRAM	2017	kg							1166.9			
+44	Rhode Island	FLUOPYRAM	2017	kg					3.1					
+45	South Carolina	FLUOPYRAM	2013	kg					95.2		4.3			101.1
+45	South Carolina	FLUOPYRAM	2014	kg					12.6		12.6			
+45	South Carolina	FLUOPYRAM	2015	kg				125.2	95.4					348.7
+45	South Carolina	FLUOPYRAM	2016	kg				86.6	32.5					450.6
+45	South Carolina	FLUOPYRAM	2017	kg				125.7						1181
+46	South Dakota	FLUOPYRAM	2014	kg					0.2					
+46	South Dakota	FLUOPYRAM	2015	kg					13.4					
+46	South Dakota	FLUOPYRAM	2017	kg					1.3					
+47	Tennessee	FLUOPYRAM	2013	kg							2.7			
+47	Tennessee	FLUOPYRAM	2014	kg							10.6			
+47	Tennessee	FLUOPYRAM	2015	kg				2416.5			11.4			
+47	Tennessee	FLUOPYRAM	2016	kg				31.7						
+47	Tennessee	FLUOPYRAM	2017	kg				3349.8			11.1			
+48	Texas	FLUOPYRAM	2013	kg					87					
+48	Texas	FLUOPYRAM	2015	kg				351.5	993.5					
+48	Texas	FLUOPYRAM	2016	kg					177.5					
+48	Texas	FLUOPYRAM	2017	kg				1998.5	7.4					
+49	Utah	FLUOPYRAM	2012	kg					0.6					
+49	Utah	FLUOPYRAM	2013	kg					7					
+49	Utah	FLUOPYRAM	2014	kg					15.3					
+49	Utah	FLUOPYRAM	2015	kg					11.6					
+49	Utah	FLUOPYRAM	2016	kg					11					
+49	Utah	FLUOPYRAM	2017	kg					9.3					
+50	Vermont	FLUOPYRAM	2013	kg							30.9			
+50	Vermont	FLUOPYRAM	2014	kg							69			
+50	Vermont	FLUOPYRAM	2015	kg							58.4			
+50	Vermont	FLUOPYRAM	2016	kg							46.4			
+50	Vermont	FLUOPYRAM	2017	kg					3.7		35.6			
+51	Virginia	FLUOPYRAM	2012	kg							572.1			
+51	Virginia	FLUOPYRAM	2013	kg					1.4		1061.1			
+51	Virginia	FLUOPYRAM	2014	kg							615.1			
+51	Virginia	FLUOPYRAM	2015	kg				185.3	7.9		56.1			110.5
+51	Virginia	FLUOPYRAM	2016	kg				156.6						190.7
+51	Virginia	FLUOPYRAM	2017	kg				356.4			60.5			488
+53	Washington	FLUOPYRAM	2012	kg							113.1			
+53	Washington	FLUOPYRAM	2013	kg					1942.9		1412.7			
+53	Washington	FLUOPYRAM	2014	kg					2991.1		2833.5			
+53	Washington	FLUOPYRAM	2015	kg					1002.3		2245.6			
+53	Washington	FLUOPYRAM	2016	kg					3600.9		6286.1			
+53	Washington	FLUOPYRAM	2017	kg					3618.3		6006.5			
+54	West Virginia	FLUOPYRAM	2012	kg							15.5			
+54	West Virginia	FLUOPYRAM	2013	kg							145.8			
+54	West Virginia	FLUOPYRAM	2014	kg							166.6			
+54	West Virginia	FLUOPYRAM	2015	kg							172.2			
+54	West Virginia	FLUOPYRAM	2017	kg							152.9			
+55	Wisconsin	FLUOPYRAM	2012	kg					136.1					
+55	Wisconsin	FLUOPYRAM	2013	kg					812.2					
+55	Wisconsin	FLUOPYRAM	2014	kg					1036.8					
+55	Wisconsin	FLUOPYRAM	2015	kg					756.1					
+55	Wisconsin	FLUOPYRAM	2016	kg					1429.1					
+55	Wisconsin	FLUOPYRAM	2017	kg					1346.4					
+56	Wyoming	FLUOPYRAM	2012	kg					0					
+56	Wyoming	FLUOPYRAM	2013	kg					0.1					
+56	Wyoming	FLUOPYRAM	2014	kg					3.5					
+56	Wyoming	FLUOPYRAM	2015	kg					12.8					
+56	Wyoming	FLUOPYRAM	2016	kg					0					
+56	Wyoming	FLUOPYRAM	2017	kg					0.6					

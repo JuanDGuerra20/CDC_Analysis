@@ -1,0 +1,118 @@
+04	Arizona	NEEM OIL	1996	kg				570	2645.8		249.8			
+04	Arizona	NEEM OIL	1998	kg					66159.1					
+04	Arizona	NEEM OIL	1999	kg					10947.7		920.3			
+04	Arizona	NEEM OIL	2000	kg					17032.7					
+04	Arizona	NEEM OIL	2001	kg					30181.7		407.1			
+04	Arizona	NEEM OIL	2002	kg					429.2					
+04	Arizona	NEEM OIL	2003	kg					4462.2					
+04	Arizona	NEEM OIL	2004	kg					9658.6					
+04	Arizona	NEEM OIL	2005	kg					73031.9		2			
+04	Arizona	NEEM OIL	2006	kg					9565.8					
+04	Arizona	NEEM OIL	2007	kg					11203.5					
+04	Arizona	NEEM OIL	2008	kg					894.9					
+04	Arizona	NEEM OIL	2009	kg					4094.1					
+04	Arizona	NEEM OIL	2010	kg					335.9					
+04	Arizona	NEEM OIL	2011	kg					1895.6					
+04	Arizona	NEEM OIL	2013	kg					666.5					
+04	Arizona	NEEM OIL	2014	kg					812.7					
+04	Arizona	NEEM OIL	2015	kg					380		18.4			
+04	Arizona	NEEM OIL	2016	kg							39			
+04	Arizona	NEEM OIL	2017	kg					0.1		3.8			
+05	Arkansas	NEEM OIL	2003	kg						60.4				
+06	California	NEEM OIL	1996	kg				69.5	1038.2		162			
+06	California	NEEM OIL	1997	kg	35.1			64.4	4339.6		1628.9	1.7		
+06	California	NEEM OIL	1998	kg			33.3	1194.5	35428.6		3345.6	214.2		
+06	California	NEEM OIL	1999	kg				133.2	77195.9		7047.8	7.7	3.6	977.2
+06	California	NEEM OIL	2000	kg	0.2				41682		7127.6	19.9	0.7	511.9
+06	California	NEEM OIL	2001	kg	8.5				30747.7		6950.7	30.3		
+06	California	NEEM OIL	2002	kg	9.7			41.6	25967.6		110143.3	21.2		308.1
+06	California	NEEM OIL	2003	kg	50.6		334.9	668	20375.3		5203.9	42.5		170.6
+06	California	NEEM OIL	2004	kg					34534.1		4445.1			
+06	California	NEEM OIL	2005	kg	3.4				44132.4		4935	78		141
+06	California	NEEM OIL	2006	kg					36372.5		5029.3	70.8		2.2
+06	California	NEEM OIL	2007	kg	0.2				44051.6		3810.8	199.3		0.4
+06	California	NEEM OIL	2008	kg	0.9				40896.1		3516.2	189.8		553.8
+06	California	NEEM OIL	2009	kg	0.4				43297.6		2902.8	215.4		690.7
+06	California	NEEM OIL	2010	kg	4.3				46184.5		5329.9	25.3		399.1
+06	California	NEEM OIL	2011	kg	876			467.3	28174		2909.5	450.3		323.8
+06	California	NEEM OIL	2012	kg	32.2		167.2	68.4	33174		2090.8	136.3		536.3
+06	California	NEEM OIL	2013	kg			65		53129.6		2307.2	1638		402.3
+06	California	NEEM OIL	2014	kg					90541.9		6295.3	645.3		476
+06	California	NEEM OIL	2015	kg			2.2	17.3	107245.5		2867.7	176.5		480.6
+06	California	NEEM OIL	2016	kg					83264.6		3832.1	597.7		895.1
+06	California	NEEM OIL	2017	kg	1.7				80331.3		7206.5	219		401.4
+08	Colorado	NEEM OIL	2000	kg					925.6					
+12	Florida	NEEM OIL	1996	kg					56.4		3087.2			
+12	Florida	NEEM OIL	1997	kg					9759.7		13574.3			
+12	Florida	NEEM OIL	1998	kg					2891.4		1074.2			
+12	Florida	NEEM OIL	1999	kg					681.7					
+12	Florida	NEEM OIL	2000	kg					884.3		103758.2			
+12	Florida	NEEM OIL	2002	kg							23683.2			
+12	Florida	NEEM OIL	2003	kg							103566.7			
+12	Florida	NEEM OIL	2004	kg					2413.3		7721.1			
+12	Florida	NEEM OIL	2005	kg					26687.1		28177.7			
+12	Florida	NEEM OIL	2006	kg							180756.6			
+12	Florida	NEEM OIL	2007	kg							5985.4			
+12	Florida	NEEM OIL	2008	kg							2219.1			
+12	Florida	NEEM OIL	2009	kg							10442.4			
+12	Florida	NEEM OIL	2012	kg					682.8		62119.5			
+12	Florida	NEEM OIL	2014	kg							30752.4			
+13	Georgia	NEEM OIL	1998	kg					9167.5					
+13	Georgia	NEEM OIL	2000	kg					46363.5					
+13	Georgia	NEEM OIL	2005	kg				12413.8						
+17	Illinois	NEEM OIL	2002	kg					33.7					
+17	Illinois	NEEM OIL	2008	kg			127453.2							
+18	Indiana	NEEM OIL	2008	kg			31893.6							
+20	Kansas	NEEM OIL	2005	kg			21237.5							
+21	Kentucky	NEEM OIL	2008	kg			68242.2							
+22	Louisiana	NEEM OIL	2005	kg						3864.1				
+26	Michigan	NEEM OIL	1997	kg							6041.4			
+26	Michigan	NEEM OIL	2014	kg					5423.7					
+26	Michigan	NEEM OIL	2015	kg					3089.7					
+26	Michigan	NEEM OIL	2016	kg					4077.1					
+29	Missouri	NEEM OIL	2003	kg						8.4				
+32	Nevada	NEEM OIL	1999	kg					0		97.4			
+32	Nevada	NEEM OIL	2001	kg							21.2			
+32	Nevada	NEEM OIL	2005	kg							0.1			
+32	Nevada	NEEM OIL	2008	kg					14.7					
+32	Nevada	NEEM OIL	2009	kg					25.5					
+32	Nevada	NEEM OIL	2010	kg					6.1					
+32	Nevada	NEEM OIL	2011	kg					1.4					
+32	Nevada	NEEM OIL	2013	kg					1.5					
+32	Nevada	NEEM OIL	2014	kg					2.8					
+32	Nevada	NEEM OIL	2015	kg					40.5					
+32	Nevada	NEEM OIL	2017	kg					0					
+35	New Mexico	NEEM OIL	1996	kg				10.4	151.6					
+35	New Mexico	NEEM OIL	1998	kg					3644.9					
+35	New Mexico	NEEM OIL	1999	kg					411.4					
+35	New Mexico	NEEM OIL	2002	kg					17.5					
+35	New Mexico	NEEM OIL	2003	kg					234.6					
+35	New Mexico	NEEM OIL	2005	kg					2.4					
+35	New Mexico	NEEM OIL	2008	kg					0.2					
+35	New Mexico	NEEM OIL	2013	kg					0					
+35	New Mexico	NEEM OIL	2017	kg					746.9					
+36	New York	NEEM OIL	2006	kg							1247.8			
+37	North Carolina	NEEM OIL	2005	kg				28.4						
+37	North Carolina	NEEM OIL	2015	kg										4152.2
+37	North Carolina	NEEM OIL	2016	kg										2235.3
+40	Oklahoma	NEEM OIL	2005	kg			6048.2							
+41	Oregon	NEEM OIL	1999	kg							77.3			
+41	Oregon	NEEM OIL	2004	kg							27.5			
+41	Oregon	NEEM OIL	2008	kg					58.4					
+41	Oregon	NEEM OIL	2009	kg					28.7					
+41	Oregon	NEEM OIL	2010	kg							24.2			
+45	South Carolina	NEEM OIL	1998	kg					0.5					
+45	South Carolina	NEEM OIL	2000	kg					2860.1					
+47	Tennessee	NEEM OIL	2003	kg						0				
+48	Texas	NEEM OIL	1998	kg					11995.8					
+48	Texas	NEEM OIL	2005	kg						1434.7	25903.9			
+48	Texas	NEEM OIL	2012	kg					770.7					
+48	Texas	NEEM OIL	2017	kg					100.4					
+51	Virginia	NEEM OIL	2015	kg										2600.9
+51	Virginia	NEEM OIL	2016	kg										2561.5
+53	Washington	NEEM OIL	2004	kg							969.6			
+53	Washington	NEEM OIL	2008	kg					3228.8					
+53	Washington	NEEM OIL	2009	kg					912		1509.4			
+53	Washington	NEEM OIL	2010	kg							966.3			
+53	Washington	NEEM OIL	2011	kg							1868.8			
+55	Wisconsin	NEEM OIL	2002	kg					272.7					

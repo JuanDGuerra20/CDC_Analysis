@@ -1,0 +1,13 @@
+06	California	ASPERGILLUS FLAVUS	2013	kg	0			0			1.8			
+06	California	ASPERGILLUS FLAVUS	2014	kg	0.1			0			3.7			
+06	California	ASPERGILLUS FLAVUS	2015	kg	0						3.7			
+06	California	ASPERGILLUS FLAVUS	2016	kg	0						6.4			
+06	California	ASPERGILLUS FLAVUS	2017	kg	0						6.6			
+20	Kansas	ASPERGILLUS FLAVUS	2015	kg	44									
+22	Louisiana	ASPERGILLUS FLAVUS	2015	kg	0									
+40	Oklahoma	ASPERGILLUS FLAVUS	2015	kg	11.5									
+40	Oklahoma	ASPERGILLUS FLAVUS	2016	kg	0.1									
+48	Texas	ASPERGILLUS FLAVUS	2014	kg	63.4									
+48	Texas	ASPERGILLUS FLAVUS	2015	kg	9.5									
+48	Texas	ASPERGILLUS FLAVUS	2016	kg	20.6									
+48	Texas	ASPERGILLUS FLAVUS	2017	kg	5.7									

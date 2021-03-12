@@ -1,0 +1,206 @@
+01	Alabama	PROFENOFOS	1992	kg				9826.1						
+01	Alabama	PROFENOFOS	1993	kg				20506.4						
+01	Alabama	PROFENOFOS	1994	kg				13337.5						
+01	Alabama	PROFENOFOS	1995	kg				88425.4						
+01	Alabama	PROFENOFOS	1996	kg				80309.5						
+01	Alabama	PROFENOFOS	1997	kg				9847.9						
+01	Alabama	PROFENOFOS	1998	kg				22549.9						
+01	Alabama	PROFENOFOS	1999	kg				14909.1						
+01	Alabama	PROFENOFOS	2000	kg				7627.8						
+01	Alabama	PROFENOFOS	2001	kg				850.9						
+01	Alabama	PROFENOFOS	2002	kg				9072.5						
+01	Alabama	PROFENOFOS	2003	kg				510						
+01	Alabama	PROFENOFOS	2009	kg				869.9						
+04	Arizona	PROFENOFOS	1993	kg				19024.3						
+04	Arizona	PROFENOFOS	1994	kg				16468.6						
+04	Arizona	PROFENOFOS	1995	kg				109099.2						
+04	Arizona	PROFENOFOS	1996	kg				6590.3						
+04	Arizona	PROFENOFOS	1997	kg				13239.1						
+04	Arizona	PROFENOFOS	1998	kg				3058.4						
+04	Arizona	PROFENOFOS	2004	kg				5859.8						
+05	Arkansas	PROFENOFOS	1992	kg				41666.6						372
+05	Arkansas	PROFENOFOS	1993	kg				87326.1						
+05	Arkansas	PROFENOFOS	1994	kg		51.2		30467.7						
+05	Arkansas	PROFENOFOS	1995	kg		303.5		102126.8						
+05	Arkansas	PROFENOFOS	1996	kg				63543.2						
+05	Arkansas	PROFENOFOS	1997	kg				70588.9						
+05	Arkansas	PROFENOFOS	1998	kg				17646						
+05	Arkansas	PROFENOFOS	1999	kg				7520.4						
+05	Arkansas	PROFENOFOS	2000	kg				24497.5						
+05	Arkansas	PROFENOFOS	2001	kg				35895.7						
+05	Arkansas	PROFENOFOS	2002	kg				4396.1						
+05	Arkansas	PROFENOFOS	2003	kg				35772.8						
+05	Arkansas	PROFENOFOS	2004	kg				14146.6						
+05	Arkansas	PROFENOFOS	2005	kg				41375.7						
+05	Arkansas	PROFENOFOS	2006	kg				19612.9						
+05	Arkansas	PROFENOFOS	2007	kg				18509.5						
+05	Arkansas	PROFENOFOS	2008	kg				10562						
+06	California	PROFENOFOS	1992	kg				17963.1						
+06	California	PROFENOFOS	1993	kg				23193.6						
+06	California	PROFENOFOS	1994	kg				123622.3						
+06	California	PROFENOFOS	1995	kg				111469.6						
+06	California	PROFENOFOS	1996	kg				87637.5			0.1			
+06	California	PROFENOFOS	1997	kg				69082.4			11.6			
+06	California	PROFENOFOS	1998	kg				25673.4			20.5			8.9
+06	California	PROFENOFOS	1999	kg				22481.7						
+06	California	PROFENOFOS	2000	kg				19893.8						
+06	California	PROFENOFOS	2001	kg				9980						
+06	California	PROFENOFOS	2002	kg				11089.4						
+06	California	PROFENOFOS	2003	kg				5837.2						
+06	California	PROFENOFOS	2004	kg				7083.8						
+06	California	PROFENOFOS	2005	kg				10849.8						
+06	California	PROFENOFOS	2006	kg				9471.5						
+06	California	PROFENOFOS	2007	kg				1649.7						
+06	California	PROFENOFOS	2008	kg				98.3						
+06	California	PROFENOFOS	2010	kg				703.6			0.1			
+06	California	PROFENOFOS	2012	kg				26.4						
+12	Florida	PROFENOFOS	1992	kg				2079.5						
+12	Florida	PROFENOFOS	1993	kg				267.4						
+12	Florida	PROFENOFOS	1994	kg				6151.9						
+12	Florida	PROFENOFOS	1995	kg				17208.7						
+12	Florida	PROFENOFOS	1996	kg				11801.5						
+12	Florida	PROFENOFOS	1997	kg				2969.1						
+12	Florida	PROFENOFOS	1998	kg				1572.6						
+12	Florida	PROFENOFOS	1999	kg				3346.2						
+12	Florida	PROFENOFOS	2000	kg				489.4						
+12	Florida	PROFENOFOS	2002	kg				507.4						
+12	Florida	PROFENOFOS	2003	kg				5.1						
+12	Florida	PROFENOFOS	2004	kg				234.7						
+12	Florida	PROFENOFOS	2009	kg				649.9						
+12	Florida	PROFENOFOS	2010	kg				784.3						
+12	Florida	PROFENOFOS	2011	kg				248.5						
+13	Georgia	PROFENOFOS	1992	kg				12860.8						
+13	Georgia	PROFENOFOS	1993	kg				4165.2						
+13	Georgia	PROFENOFOS	1994	kg				22401.2						
+13	Georgia	PROFENOFOS	1995	kg				22845.2						
+13	Georgia	PROFENOFOS	1996	kg				123087.1						
+13	Georgia	PROFENOFOS	1997	kg				107447.6						
+13	Georgia	PROFENOFOS	1998	kg				3623.6						
+13	Georgia	PROFENOFOS	1999	kg				39590.3						
+13	Georgia	PROFENOFOS	2000	kg				8354.6						
+13	Georgia	PROFENOFOS	2002	kg				6286.9						
+13	Georgia	PROFENOFOS	2003	kg				2066.4						
+13	Georgia	PROFENOFOS	2004	kg				3040.8						
+13	Georgia	PROFENOFOS	2009	kg				6800						
+13	Georgia	PROFENOFOS	2010	kg				9605.1						
+13	Georgia	PROFENOFOS	2011	kg				2888.9						
+22	Louisiana	PROFENOFOS	1992	kg				196245						546.8
+22	Louisiana	PROFENOFOS	1993	kg				113255.2						
+22	Louisiana	PROFENOFOS	1994	kg		91.5		91169						
+22	Louisiana	PROFENOFOS	1995	kg		223		62990.2						
+22	Louisiana	PROFENOFOS	1996	kg				127195.6						
+22	Louisiana	PROFENOFOS	1997	kg				29670.1						
+22	Louisiana	PROFENOFOS	1998	kg				6322.4						
+22	Louisiana	PROFENOFOS	1999	kg				12321.4						
+22	Louisiana	PROFENOFOS	2000	kg				126626.8						
+22	Louisiana	PROFENOFOS	2001	kg				2588.5						
+22	Louisiana	PROFENOFOS	2002	kg				3594.4						
+22	Louisiana	PROFENOFOS	2003	kg				23245.8						
+22	Louisiana	PROFENOFOS	2004	kg				4637.5						
+22	Louisiana	PROFENOFOS	2005	kg				9748.2						
+22	Louisiana	PROFENOFOS	2006	kg				8933.9						
+22	Louisiana	PROFENOFOS	2007	kg				7827.6						
+22	Louisiana	PROFENOFOS	2008	kg				4766.7						
+28	Mississippi	PROFENOFOS	1992	kg				143384.6						1310.7
+28	Mississippi	PROFENOFOS	1993	kg				130229.7						
+28	Mississippi	PROFENOFOS	1994	kg		74.4		165757.3						
+28	Mississippi	PROFENOFOS	1995	kg		1035.9		880211.4						
+28	Mississippi	PROFENOFOS	1996	kg				111666.9						
+28	Mississippi	PROFENOFOS	1997	kg				45883.9						
+28	Mississippi	PROFENOFOS	1998	kg				105384.4						
+28	Mississippi	PROFENOFOS	1999	kg				39309.2						
+28	Mississippi	PROFENOFOS	2000	kg				42948.3						
+28	Mississippi	PROFENOFOS	2001	kg				35104						
+28	Mississippi	PROFENOFOS	2002	kg				12080.7						
+28	Mississippi	PROFENOFOS	2003	kg				82327.1						
+28	Mississippi	PROFENOFOS	2004	kg				25766.8						
+28	Mississippi	PROFENOFOS	2005	kg				27281.8						
+28	Mississippi	PROFENOFOS	2006	kg				3381.3						
+28	Mississippi	PROFENOFOS	2007	kg				25353.5						
+28	Mississippi	PROFENOFOS	2008	kg				9285.9						
+29	Missouri	PROFENOFOS	1993	kg				470.4						
+29	Missouri	PROFENOFOS	1994	kg				598.4						
+29	Missouri	PROFENOFOS	1995	kg				326.9						
+29	Missouri	PROFENOFOS	1996	kg				517.4						
+29	Missouri	PROFENOFOS	1997	kg				9066.6						
+29	Missouri	PROFENOFOS	1998	kg				7318						
+29	Missouri	PROFENOFOS	1999	kg				2691.2						
+29	Missouri	PROFENOFOS	2000	kg				1820.4						
+29	Missouri	PROFENOFOS	2001	kg				366.4						
+29	Missouri	PROFENOFOS	2002	kg				11355.1						
+29	Missouri	PROFENOFOS	2003	kg				10637.2						
+29	Missouri	PROFENOFOS	2005	kg				5463.1						
+29	Missouri	PROFENOFOS	2006	kg				15012.7						
+29	Missouri	PROFENOFOS	2007	kg				203.7						
+29	Missouri	PROFENOFOS	2008	kg				719.2						
+35	New Mexico	PROFENOFOS	1992	kg				62.5						
+35	New Mexico	PROFENOFOS	1993	kg				316						
+35	New Mexico	PROFENOFOS	1994	kg				17.3						
+35	New Mexico	PROFENOFOS	1995	kg				2707.5						
+35	New Mexico	PROFENOFOS	1996	kg				684.6						
+35	New Mexico	PROFENOFOS	1997	kg				321.4						
+35	New Mexico	PROFENOFOS	1998	kg				279.7						
+35	New Mexico	PROFENOFOS	2005	kg				5.3						
+37	North Carolina	PROFENOFOS	1992	kg				4060.7						
+37	North Carolina	PROFENOFOS	1993	kg				3555.4						
+37	North Carolina	PROFENOFOS	1994	kg				6949.6						
+37	North Carolina	PROFENOFOS	1995	kg				11860.6						
+37	North Carolina	PROFENOFOS	1996	kg				2002.3						
+37	North Carolina	PROFENOFOS	1997	kg				9404.5						
+37	North Carolina	PROFENOFOS	1998	kg				911.3						
+37	North Carolina	PROFENOFOS	1999	kg				13705.1						
+37	North Carolina	PROFENOFOS	2000	kg				8290.8						
+37	North Carolina	PROFENOFOS	2002	kg				4819.6						
+40	Oklahoma	PROFENOFOS	1992	kg				336.8						
+40	Oklahoma	PROFENOFOS	1993	kg				483.8						
+40	Oklahoma	PROFENOFOS	1994	kg				1396.7						
+40	Oklahoma	PROFENOFOS	1995	kg				1227						
+40	Oklahoma	PROFENOFOS	1996	kg				662.6						
+40	Oklahoma	PROFENOFOS	1997	kg				3065						
+40	Oklahoma	PROFENOFOS	1998	kg				2239.9						
+40	Oklahoma	PROFENOFOS	1999	kg				10.8						
+40	Oklahoma	PROFENOFOS	2000	kg				4.4						
+40	Oklahoma	PROFENOFOS	2001	kg				13.1						
+40	Oklahoma	PROFENOFOS	2002	kg				8.3						
+40	Oklahoma	PROFENOFOS	2005	kg				190.1						
+45	South Carolina	PROFENOFOS	1992	kg				2680.1						
+45	South Carolina	PROFENOFOS	1993	kg				4885.5						
+45	South Carolina	PROFENOFOS	1994	kg				21850.4						
+45	South Carolina	PROFENOFOS	1995	kg				10432.6						
+45	South Carolina	PROFENOFOS	1996	kg				1364.5						
+45	South Carolina	PROFENOFOS	1997	kg				6596						
+45	South Carolina	PROFENOFOS	1998	kg				3730						
+45	South Carolina	PROFENOFOS	1999	kg				986.1						
+45	South Carolina	PROFENOFOS	2000	kg				3865.7						
+45	South Carolina	PROFENOFOS	2002	kg				1672						
+45	South Carolina	PROFENOFOS	2003	kg				68.7						
+47	Tennessee	PROFENOFOS	1992	kg				943.5						
+47	Tennessee	PROFENOFOS	1993	kg				1474.6						
+47	Tennessee	PROFENOFOS	1994	kg				889.7						
+47	Tennessee	PROFENOFOS	1995	kg				35458						
+47	Tennessee	PROFENOFOS	1996	kg				3038.8						
+47	Tennessee	PROFENOFOS	1997	kg				10467.6						
+47	Tennessee	PROFENOFOS	1998	kg				48704.4						
+47	Tennessee	PROFENOFOS	1999	kg				144.2						
+47	Tennessee	PROFENOFOS	2000	kg				7860.5						
+47	Tennessee	PROFENOFOS	2001	kg				2178.1						
+47	Tennessee	PROFENOFOS	2002	kg				8388.7						
+47	Tennessee	PROFENOFOS	2003	kg				1350.9						
+47	Tennessee	PROFENOFOS	2004	kg				9502.7						
+47	Tennessee	PROFENOFOS	2005	kg				17884.5						
+47	Tennessee	PROFENOFOS	2006	kg				4808.6						
+47	Tennessee	PROFENOFOS	2007	kg				15328.3						
+47	Tennessee	PROFENOFOS	2008	kg				3442.9						
+48	Texas	PROFENOFOS	1992	kg				283768.1						
+48	Texas	PROFENOFOS	1993	kg				11226.6						
+48	Texas	PROFENOFOS	1994	kg				71478.7						
+48	Texas	PROFENOFOS	1995	kg				79007.8						
+48	Texas	PROFENOFOS	1996	kg				21873.3						
+48	Texas	PROFENOFOS	1997	kg				15101						
+48	Texas	PROFENOFOS	1998	kg				9047						
+48	Texas	PROFENOFOS	1999	kg				5629.1						
+48	Texas	PROFENOFOS	2000	kg				2748.6						
+48	Texas	PROFENOFOS	2001	kg				143						
+48	Texas	PROFENOFOS	2004	kg				1705.5						
+48	Texas	PROFENOFOS	2005	kg				1819.7						
+48	Texas	PROFENOFOS	2007	kg				7216.2						

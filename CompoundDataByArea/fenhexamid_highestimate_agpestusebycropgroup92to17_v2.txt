@@ -1,0 +1,331 @@
+04	Arizona	FENHEXAMID	1999	kg							0.7			
+04	Arizona	FENHEXAMID	2000	kg							51.6			
+04	Arizona	FENHEXAMID	2001	kg							17.9			
+04	Arizona	FENHEXAMID	2002	kg							35.9			
+04	Arizona	FENHEXAMID	2003	kg							211.8			
+04	Arizona	FENHEXAMID	2004	kg							233.1			
+04	Arizona	FENHEXAMID	2005	kg							44.9			
+04	Arizona	FENHEXAMID	2006	kg							22.7			
+04	Arizona	FENHEXAMID	2007	kg							163.1			
+04	Arizona	FENHEXAMID	2008	kg					7.3		41			
+04	Arizona	FENHEXAMID	2009	kg					1.3		29.7			
+04	Arizona	FENHEXAMID	2010	kg					4.8		51.8			
+04	Arizona	FENHEXAMID	2011	kg					3.2		117.3			
+04	Arizona	FENHEXAMID	2012	kg					3.9		265.3			
+04	Arizona	FENHEXAMID	2013	kg					2.8		110			
+04	Arizona	FENHEXAMID	2014	kg					1.3		103.5			
+04	Arizona	FENHEXAMID	2015	kg					3.2		59.8			
+04	Arizona	FENHEXAMID	2016	kg					0.2		58.2			
+04	Arizona	FENHEXAMID	2017	kg					0.5		104.3			
+05	Arkansas	FENHEXAMID	2007	kg							3.4			
+05	Arkansas	FENHEXAMID	2010	kg							10.4			
+06	California	FENHEXAMID	1999	kg					3192.8		2289.3			
+06	California	FENHEXAMID	2000	kg					10508.4		5376.9			
+06	California	FENHEXAMID	2001	kg					10571.3		6915.6			38
+06	California	FENHEXAMID	2002	kg					13862.3		8614.3			
+06	California	FENHEXAMID	2003	kg					15701.6		13072.5			
+06	California	FENHEXAMID	2004	kg					15610.2		8757.7			
+06	California	FENHEXAMID	2005	kg					15710.7		16455.8			
+06	California	FENHEXAMID	2006	kg					15697.2		14642.1		1.6	
+06	California	FENHEXAMID	2007	kg					11455.1		12804.4			
+06	California	FENHEXAMID	2008	kg					13771.8		9484.6			
+06	California	FENHEXAMID	2009	kg					15615		13920.9			
+06	California	FENHEXAMID	2010	kg	2.4				17209.1		18240.4			
+06	California	FENHEXAMID	2011	kg					16561.1		20268.3			
+06	California	FENHEXAMID	2012	kg					19030.6		22167.8			
+06	California	FENHEXAMID	2013	kg					17133.5		23257.8			
+06	California	FENHEXAMID	2014	kg					18031.2		20338.2			
+06	California	FENHEXAMID	2015	kg					15233.1		26193.7			
+06	California	FENHEXAMID	2016	kg					16583.9		20758.1			
+06	California	FENHEXAMID	2017	kg					12386.4		26253.5			
+09	Connecticut	FENHEXAMID	2000	kg					36.2		15.4			
+09	Connecticut	FENHEXAMID	2001	kg					21.9					
+09	Connecticut	FENHEXAMID	2002	kg					51.2					
+09	Connecticut	FENHEXAMID	2003	kg							29			
+09	Connecticut	FENHEXAMID	2004	kg					64.3		103			
+09	Connecticut	FENHEXAMID	2005	kg							27.4			
+09	Connecticut	FENHEXAMID	2006	kg					33.5					
+09	Connecticut	FENHEXAMID	2007	kg					88.4					
+09	Connecticut	FENHEXAMID	2008	kg					41.3		33.1			
+09	Connecticut	FENHEXAMID	2009	kg					81.5					
+09	Connecticut	FENHEXAMID	2010	kg					67.1		26.8			
+09	Connecticut	FENHEXAMID	2011	kg					109.1		36.4			
+09	Connecticut	FENHEXAMID	2012	kg					51.1		27			
+09	Connecticut	FENHEXAMID	2013	kg					60.2		35.3			
+09	Connecticut	FENHEXAMID	2014	kg					67.5		5.3			
+10	Delaware	FENHEXAMID	2000	kg					3.9					
+10	Delaware	FENHEXAMID	2001	kg					2.7					
+10	Delaware	FENHEXAMID	2002	kg					8.9					
+10	Delaware	FENHEXAMID	2004	kg					4.9					
+10	Delaware	FENHEXAMID	2011	kg					8.6					
+10	Delaware	FENHEXAMID	2012	kg					9.3					
+10	Delaware	FENHEXAMID	2013	kg					0.7					
+10	Delaware	FENHEXAMID	2014	kg					1.1					
+12	Florida	FENHEXAMID	1999	kg					113.9					
+12	Florida	FENHEXAMID	2001	kg					1799.1					
+12	Florida	FENHEXAMID	2002	kg					7978					
+12	Florida	FENHEXAMID	2003	kg					9315					
+12	Florida	FENHEXAMID	2004	kg					2124.6					
+12	Florida	FENHEXAMID	2005	kg					2403.5					
+12	Florida	FENHEXAMID	2006	kg					864.7					
+12	Florida	FENHEXAMID	2007	kg					1396.8					
+12	Florida	FENHEXAMID	2008	kg					2386.5					
+12	Florida	FENHEXAMID	2009	kg					1571					
+12	Florida	FENHEXAMID	2010	kg					5450.3					
+12	Florida	FENHEXAMID	2011	kg					1772.1					
+12	Florida	FENHEXAMID	2012	kg					2558.8					
+12	Florida	FENHEXAMID	2013	kg					3573.3					
+12	Florida	FENHEXAMID	2014	kg					3445.9					
+12	Florida	FENHEXAMID	2015	kg					5027.6					
+12	Florida	FENHEXAMID	2016	kg					3035.3					
+12	Florida	FENHEXAMID	2017	kg					3543					
+16	Idaho	FENHEXAMID	2010	kg					5.6					
+17	Illinois	FENHEXAMID	2000	kg					21.8					
+17	Illinois	FENHEXAMID	2002	kg					11.9					
+17	Illinois	FENHEXAMID	2003	kg					19.9					
+17	Illinois	FENHEXAMID	2010	kg					15.3					
+17	Illinois	FENHEXAMID	2012	kg					13					
+18	Indiana	FENHEXAMID	2000	kg					10.1					
+18	Indiana	FENHEXAMID	2001	kg					5.1					
+18	Indiana	FENHEXAMID	2002	kg					15.9					
+18	Indiana	FENHEXAMID	2003	kg					10.9					
+18	Indiana	FENHEXAMID	2004	kg					43.8					
+18	Indiana	FENHEXAMID	2005	kg					9.4					
+18	Indiana	FENHEXAMID	2006	kg					21.7					
+18	Indiana	FENHEXAMID	2007	kg					10.8					
+18	Indiana	FENHEXAMID	2008	kg					7					
+18	Indiana	FENHEXAMID	2010	kg					24.7					
+18	Indiana	FENHEXAMID	2011	kg					8.8					
+18	Indiana	FENHEXAMID	2012	kg					18.5					
+18	Indiana	FENHEXAMID	2013	kg					15.6					
+19	Iowa	FENHEXAMID	2011	kg		64.2								
+22	Louisiana	FENHEXAMID	2007	kg							1			
+22	Louisiana	FENHEXAMID	2010	kg							11.5			
+24	Maryland	FENHEXAMID	2000	kg					30.1		7.6			
+24	Maryland	FENHEXAMID	2001	kg					16.5					
+24	Maryland	FENHEXAMID	2002	kg					45.5		24.8			
+24	Maryland	FENHEXAMID	2003	kg					14.8		26.6			
+24	Maryland	FENHEXAMID	2004	kg					21.6		228.8			
+24	Maryland	FENHEXAMID	2005	kg							19.4			
+24	Maryland	FENHEXAMID	2006	kg					27.7					
+24	Maryland	FENHEXAMID	2007	kg					76.4					
+24	Maryland	FENHEXAMID	2008	kg					2.8		21.3			
+24	Maryland	FENHEXAMID	2009	kg					13.3					
+24	Maryland	FENHEXAMID	2010	kg					46.1		17.1			
+24	Maryland	FENHEXAMID	2011	kg					76.4		22.9			
+24	Maryland	FENHEXAMID	2012	kg					81.9		16.7			
+24	Maryland	FENHEXAMID	2013	kg					17.6		27.1			
+24	Maryland	FENHEXAMID	2014	kg					12.9		4.8			
+25	Massachusetts	FENHEXAMID	2000	kg					53.4		9.3			
+25	Massachusetts	FENHEXAMID	2001	kg					63.6					
+25	Massachusetts	FENHEXAMID	2002	kg					68.2					
+25	Massachusetts	FENHEXAMID	2003	kg							15.7			
+25	Massachusetts	FENHEXAMID	2004	kg					97.5		51.9			
+25	Massachusetts	FENHEXAMID	2005	kg							12.9			
+25	Massachusetts	FENHEXAMID	2006	kg					57.1					
+25	Massachusetts	FENHEXAMID	2007	kg					159.9					
+25	Massachusetts	FENHEXAMID	2008	kg					66.7		12.2			
+25	Massachusetts	FENHEXAMID	2009	kg					123.2					
+25	Massachusetts	FENHEXAMID	2010	kg					95.2		10.3			
+25	Massachusetts	FENHEXAMID	2011	kg					145.2		14.3			
+25	Massachusetts	FENHEXAMID	2012	kg					64		10.8			
+25	Massachusetts	FENHEXAMID	2013	kg					65.2		15.4			
+25	Massachusetts	FENHEXAMID	2014	kg					131.1		2.1			
+26	Michigan	FENHEXAMID	2000	kg					300.2					
+26	Michigan	FENHEXAMID	2001	kg					45.9					
+26	Michigan	FENHEXAMID	2002	kg					170.1					
+26	Michigan	FENHEXAMID	2003	kg					129.2					
+26	Michigan	FENHEXAMID	2004	kg					492.6					
+26	Michigan	FENHEXAMID	2005	kg					78.4					
+26	Michigan	FENHEXAMID	2006	kg					190.8					
+26	Michigan	FENHEXAMID	2007	kg					146.9		7.6			
+26	Michigan	FENHEXAMID	2008	kg					87.9					
+26	Michigan	FENHEXAMID	2009	kg					114.4					
+26	Michigan	FENHEXAMID	2010	kg					203					
+26	Michigan	FENHEXAMID	2011	kg					215.4					
+26	Michigan	FENHEXAMID	2012	kg					150.1					
+26	Michigan	FENHEXAMID	2013	kg					107.2		202.5			
+26	Michigan	FENHEXAMID	2014	kg					53.6		50.7			
+27	Minnesota	FENHEXAMID	2000	kg					39.3					
+27	Minnesota	FENHEXAMID	2002	kg					38.7					
+27	Minnesota	FENHEXAMID	2003	kg					53.9					
+27	Minnesota	FENHEXAMID	2004	kg					13.6					
+27	Minnesota	FENHEXAMID	2007	kg					16.8					
+27	Minnesota	FENHEXAMID	2008	kg					5.3					
+27	Minnesota	FENHEXAMID	2009	kg					5					
+27	Minnesota	FENHEXAMID	2010	kg					27.2					
+27	Minnesota	FENHEXAMID	2011	kg		29.6			13					
+27	Minnesota	FENHEXAMID	2012	kg					23					
+32	Nevada	FENHEXAMID	2001	kg							0.1			
+32	Nevada	FENHEXAMID	2002	kg							0			
+32	Nevada	FENHEXAMID	2003	kg							3.2			
+32	Nevada	FENHEXAMID	2004	kg							1			
+32	Nevada	FENHEXAMID	2005	kg							0.5			
+32	Nevada	FENHEXAMID	2006	kg							0.1			
+32	Nevada	FENHEXAMID	2007	kg							0.4			
+32	Nevada	FENHEXAMID	2008	kg					0.3		3			
+32	Nevada	FENHEXAMID	2009	kg					0		2.1			
+32	Nevada	FENHEXAMID	2010	kg					0.2		1.7			
+32	Nevada	FENHEXAMID	2011	kg					0.1		5.2			
+32	Nevada	FENHEXAMID	2012	kg					0.3		7.4			
+32	Nevada	FENHEXAMID	2013	kg					0.1		3.3			
+32	Nevada	FENHEXAMID	2014	kg					0		3.5			
+32	Nevada	FENHEXAMID	2015	kg					0.1		2.7			
+32	Nevada	FENHEXAMID	2016	kg					0		1.6			
+32	Nevada	FENHEXAMID	2017	kg					0		3.9			
+34	New Jersey	FENHEXAMID	2000	kg					59.4		21.9			
+34	New Jersey	FENHEXAMID	2001	kg					35.5					
+34	New Jersey	FENHEXAMID	2002	kg					92.4					
+34	New Jersey	FENHEXAMID	2003	kg							33.9			
+34	New Jersey	FENHEXAMID	2004	kg					64		202			
+34	New Jersey	FENHEXAMID	2005	kg							56.2			
+34	New Jersey	FENHEXAMID	2006	kg					61.4		47.9			
+34	New Jersey	FENHEXAMID	2007	kg					151.3					
+34	New Jersey	FENHEXAMID	2008	kg					62.5		68.1			
+34	New Jersey	FENHEXAMID	2009	kg					57.7					
+34	New Jersey	FENHEXAMID	2010	kg					90.5		68			
+34	New Jersey	FENHEXAMID	2011	kg					174.6		122.8			
+34	New Jersey	FENHEXAMID	2012	kg					197.4		166			
+34	New Jersey	FENHEXAMID	2013	kg					24.1		74.1			
+34	New Jersey	FENHEXAMID	2014	kg					25.7		11.2			
+36	New York	FENHEXAMID	2000	kg					99.2		395.5			
+36	New York	FENHEXAMID	2001	kg					181.7		340.4			
+36	New York	FENHEXAMID	2002	kg					490		207			
+36	New York	FENHEXAMID	2003	kg					119		564.9			
+36	New York	FENHEXAMID	2004	kg					621		330.5			
+36	New York	FENHEXAMID	2005	kg							1376			
+36	New York	FENHEXAMID	2006	kg					380.1		844.9			
+36	New York	FENHEXAMID	2007	kg					871		1013.2			
+36	New York	FENHEXAMID	2008	kg					350.2		1987.8			
+36	New York	FENHEXAMID	2009	kg					436.4					
+36	New York	FENHEXAMID	2010	kg					443.9		1395.2			
+36	New York	FENHEXAMID	2011	kg					352.2		1500.6			
+36	New York	FENHEXAMID	2012	kg					180		2169.6			
+36	New York	FENHEXAMID	2013	kg					303.4		1027.3			
+36	New York	FENHEXAMID	2014	kg					645.5		305.4			
+36	New York	FENHEXAMID	2015	kg					131.3		682.5			
+37	North Carolina	FENHEXAMID	2000	kg					134					
+37	North Carolina	FENHEXAMID	2001	kg					1207.7					
+37	North Carolina	FENHEXAMID	2002	kg					484.2					
+37	North Carolina	FENHEXAMID	2003	kg					594.2					
+37	North Carolina	FENHEXAMID	2004	kg					232.6					
+37	North Carolina	FENHEXAMID	2005	kg					6687.5					
+37	North Carolina	FENHEXAMID	2007	kg					27.9					
+37	North Carolina	FENHEXAMID	2008	kg					1.7					
+37	North Carolina	FENHEXAMID	2009	kg					2.5					
+37	North Carolina	FENHEXAMID	2010	kg					7					
+39	Ohio	FENHEXAMID	2000	kg					118					
+39	Ohio	FENHEXAMID	2002	kg					313.7					
+39	Ohio	FENHEXAMID	2003	kg					424					
+39	Ohio	FENHEXAMID	2004	kg					396.9					
+39	Ohio	FENHEXAMID	2005	kg					7.9					
+39	Ohio	FENHEXAMID	2006	kg					18.8					
+39	Ohio	FENHEXAMID	2007	kg					295.8					
+39	Ohio	FENHEXAMID	2008	kg					63.7					
+39	Ohio	FENHEXAMID	2009	kg					39.7					
+39	Ohio	FENHEXAMID	2010	kg					135.8					
+39	Ohio	FENHEXAMID	2011	kg					42.9					
+39	Ohio	FENHEXAMID	2012	kg					70.9					
+39	Ohio	FENHEXAMID	2013	kg					50.2					
+40	Oklahoma	FENHEXAMID	2007	kg							0.5			
+40	Oklahoma	FENHEXAMID	2010	kg							5.2			
+41	Oregon	FENHEXAMID	1999	kg					661.5		1.1			
+41	Oregon	FENHEXAMID	2000	kg					525.2		1.5			
+41	Oregon	FENHEXAMID	2001	kg					1624.5		24.6			
+41	Oregon	FENHEXAMID	2002	kg					565.9		27.7			
+41	Oregon	FENHEXAMID	2003	kg					703.2		126.6			
+41	Oregon	FENHEXAMID	2004	kg					524.9		40.2			
+41	Oregon	FENHEXAMID	2005	kg					562.7		43.5			
+41	Oregon	FENHEXAMID	2006	kg					375.1		12.2			
+41	Oregon	FENHEXAMID	2007	kg					489.7		11.4			
+41	Oregon	FENHEXAMID	2008	kg					909.6		7.2			
+41	Oregon	FENHEXAMID	2009	kg					1072.8		23.7			
+41	Oregon	FENHEXAMID	2010	kg					741.1		10.2			
+41	Oregon	FENHEXAMID	2011	kg					1329.4		112.8			
+41	Oregon	FENHEXAMID	2012	kg					1808.5		227.7			
+41	Oregon	FENHEXAMID	2013	kg					810.8					
+41	Oregon	FENHEXAMID	2014	kg					2724.1		635.6			
+41	Oregon	FENHEXAMID	2015	kg					3142		196.5			
+41	Oregon	FENHEXAMID	2016	kg					27					
+41	Oregon	FENHEXAMID	2017	kg					2784.6					
+42	Pennsylvania	FENHEXAMID	2000	kg					278		348.8			
+42	Pennsylvania	FENHEXAMID	2001	kg					109.2					
+42	Pennsylvania	FENHEXAMID	2002	kg					395.4		88.5			
+42	Pennsylvania	FENHEXAMID	2003	kg					109.1		1001.1			
+42	Pennsylvania	FENHEXAMID	2004	kg					619.3		3828.8			
+42	Pennsylvania	FENHEXAMID	2005	kg							90			
+42	Pennsylvania	FENHEXAMID	2006	kg					272.5					
+42	Pennsylvania	FENHEXAMID	2007	kg					743.9		2.5			
+42	Pennsylvania	FENHEXAMID	2008	kg					136.2		262.2			
+42	Pennsylvania	FENHEXAMID	2009	kg					298.3					
+42	Pennsylvania	FENHEXAMID	2010	kg					481.6		664.2			
+42	Pennsylvania	FENHEXAMID	2011	kg					731.3		134.6			
+42	Pennsylvania	FENHEXAMID	2012	kg					497.4		612.6			
+42	Pennsylvania	FENHEXAMID	2013	kg					154.7		117			
+42	Pennsylvania	FENHEXAMID	2014	kg					213.1		17.1			
+42	Pennsylvania	FENHEXAMID	2015	kg							63.2			
+45	South Carolina	FENHEXAMID	2000	kg					27.5					
+45	South Carolina	FENHEXAMID	2001	kg					162.3					
+45	South Carolina	FENHEXAMID	2002	kg					75.7					
+45	South Carolina	FENHEXAMID	2003	kg					28.2					
+45	South Carolina	FENHEXAMID	2004	kg					4.6					
+45	South Carolina	FENHEXAMID	2005	kg					112.2					
+46	South Dakota	FENHEXAMID	2011	kg		21.5								
+48	Texas	FENHEXAMID	2007	kg							60.8			
+48	Texas	FENHEXAMID	2010	kg							696			
+50	Vermont	FENHEXAMID	2000	kg					27.3					
+50	Vermont	FENHEXAMID	2001	kg					38					
+50	Vermont	FENHEXAMID	2002	kg					47.8					
+50	Vermont	FENHEXAMID	2004	kg					62.6					
+50	Vermont	FENHEXAMID	2006	kg					38.3					
+50	Vermont	FENHEXAMID	2007	kg					93.6					
+50	Vermont	FENHEXAMID	2008	kg					37.7					
+50	Vermont	FENHEXAMID	2009	kg					22.8					
+50	Vermont	FENHEXAMID	2010	kg					56.1					
+50	Vermont	FENHEXAMID	2011	kg					56.4					
+50	Vermont	FENHEXAMID	2012	kg					94.6					
+50	Vermont	FENHEXAMID	2013	kg					31.9					
+50	Vermont	FENHEXAMID	2014	kg					101.3					
+51	Virginia	FENHEXAMID	2000	kg					24.8					
+51	Virginia	FENHEXAMID	2001	kg					73.1					
+51	Virginia	FENHEXAMID	2002	kg					32.2					
+51	Virginia	FENHEXAMID	2004	kg							394.9			
+53	Washington	FENHEXAMID	1999	kg					272.7		113.7			
+53	Washington	FENHEXAMID	2000	kg					510.4					
+53	Washington	FENHEXAMID	2001	kg					450.6					
+53	Washington	FENHEXAMID	2002	kg					220.1					
+53	Washington	FENHEXAMID	2003	kg					409.9		0.1			
+53	Washington	FENHEXAMID	2004	kg					269					
+53	Washington	FENHEXAMID	2005	kg					299.2					
+53	Washington	FENHEXAMID	2006	kg					43.7					
+53	Washington	FENHEXAMID	2007	kg					912.6					
+53	Washington	FENHEXAMID	2008	kg					1366.7					
+53	Washington	FENHEXAMID	2009	kg					1383.2					
+53	Washington	FENHEXAMID	2010	kg					3098.4					
+53	Washington	FENHEXAMID	2011	kg					2483.4					
+53	Washington	FENHEXAMID	2012	kg					1077.6		325.8			
+53	Washington	FENHEXAMID	2013	kg					1555.3					
+53	Washington	FENHEXAMID	2014	kg					4195.6		570.1			
+53	Washington	FENHEXAMID	2015	kg					2155.9					
+53	Washington	FENHEXAMID	2016	kg					20					
+53	Washington	FENHEXAMID	2017	kg					2182					
+54	West Virginia	FENHEXAMID	2000	kg					3.4					
+54	West Virginia	FENHEXAMID	2002	kg					7.3					
+54	West Virginia	FENHEXAMID	2003	kg					13.4					
+54	West Virginia	FENHEXAMID	2007	kg					13.4					
+54	West Virginia	FENHEXAMID	2008	kg					4.6					
+54	West Virginia	FENHEXAMID	2009	kg					6.2					
+54	West Virginia	FENHEXAMID	2010	kg					11.9					
+54	West Virginia	FENHEXAMID	2012	kg					5.9					
+54	West Virginia	FENHEXAMID	2013	kg					11.8					
+54	West Virginia	FENHEXAMID	2014	kg					11.6					
+55	Wisconsin	FENHEXAMID	2000	kg					553.2					
+55	Wisconsin	FENHEXAMID	2002	kg					150.3					
+55	Wisconsin	FENHEXAMID	2003	kg					180.7					
+55	Wisconsin	FENHEXAMID	2004	kg					327.5					
+55	Wisconsin	FENHEXAMID	2007	kg					143					
+55	Wisconsin	FENHEXAMID	2008	kg					104.4					
+55	Wisconsin	FENHEXAMID	2009	kg					68.7					
+55	Wisconsin	FENHEXAMID	2010	kg					171.8					
+55	Wisconsin	FENHEXAMID	2011	kg					112.3					
+55	Wisconsin	FENHEXAMID	2012	kg					105.9					

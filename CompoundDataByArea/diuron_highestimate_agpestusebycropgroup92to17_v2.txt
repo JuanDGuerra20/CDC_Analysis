@@ -1,0 +1,1207 @@
+01	Alabama	DIURON	1992	kg				14720.6	1552.1		4156.1		10386.1	
+01	Alabama	DIURON	1993	kg				3537.5			3752.1			
+01	Alabama	DIURON	1994	kg				11307.2			424.6		1596	
+01	Alabama	DIURON	1995	kg	196.2			13847.6			1065.4			
+01	Alabama	DIURON	1996	kg				14006.7	4.9		5366.5			
+01	Alabama	DIURON	1997	kg				18239.5	2.3		2723.3		1779.8	2613
+01	Alabama	DIURON	1998	kg				8645.4			7354.4			
+01	Alabama	DIURON	1999	kg				22016.6			2271.7		2262.5	
+01	Alabama	DIURON	2000	kg				11195.1			6261.3			
+01	Alabama	DIURON	2001	kg				16566.6	831.7		5797.7			
+01	Alabama	DIURON	2002	kg				20080.7			7030.8			
+01	Alabama	DIURON	2003	kg				37726.9			3212.7			
+01	Alabama	DIURON	2004	kg	1359.5			36367			3933.2			
+01	Alabama	DIURON	2005	kg				24680.3			7831.5			
+01	Alabama	DIURON	2006	kg				18697.6			6032.8			
+01	Alabama	DIURON	2007	kg				6082.7			3007.6			
+01	Alabama	DIURON	2008	kg				6017.9			3704.7			
+01	Alabama	DIURON	2009	kg				2218.8			4145.6			
+01	Alabama	DIURON	2010	kg				4141.5			4893.4		8701.1	
+01	Alabama	DIURON	2011	kg				21379			957.4			
+01	Alabama	DIURON	2012	kg				5817.1			1849.2			
+01	Alabama	DIURON	2013	kg				11015.9			2127.7			
+01	Alabama	DIURON	2014	kg				6587.1			1318.7			
+01	Alabama	DIURON	2015	kg				19133.6			555.4			
+01	Alabama	DIURON	2016	kg				9367.1			10.4			
+01	Alabama	DIURON	2017	kg				20646.6			1898.8			
+04	Arizona	DIURON	1992	kg				20447.6	0.4		108756.6	6053	1701.6	
+04	Arizona	DIURON	1993	kg				4759.5	0.1		9613.7	15500.3	1628.5	
+04	Arizona	DIURON	1994	kg	1.4			28946.8			5548.5	2491.8	5359.5	
+04	Arizona	DIURON	1995	kg				24506.5	1.2		8860.5	3974.6	886.3	
+04	Arizona	DIURON	1996	kg				27466.7	5.8		4674.6	27838.1	3811.5	
+04	Arizona	DIURON	1997	kg				9491.1			1275.7	16220	693.8	
+04	Arizona	DIURON	1998	kg				24508.9			26015.2			
+04	Arizona	DIURON	1999	kg				6054.9	0.8		1947.1	301.1		
+04	Arizona	DIURON	2000	kg	6231.8			14877.2	0.6		2492.2	23226.4		
+04	Arizona	DIURON	2001	kg				34392.2	1.4		5645.4	50550.2		
+04	Arizona	DIURON	2002	kg				40638.1	0.9		7294.1	38688.7		
+04	Arizona	DIURON	2003	kg				47159.3	1.6		2903.7	38124.7		
+04	Arizona	DIURON	2004	kg				12374.5	0.8		16339.1	4821.5		
+04	Arizona	DIURON	2005	kg				13799.3	1.7		6196.6	2663.7		
+04	Arizona	DIURON	2006	kg				25405.1	1.4		6985.4	15410.5		
+04	Arizona	DIURON	2007	kg				18570.2	0.8		3620.7	13300.5		
+04	Arizona	DIURON	2008	kg				13419.2	0.9		2405.4	18958.4		
+04	Arizona	DIURON	2009	kg				9285	1.5		1427.8	6095.4		
+04	Arizona	DIURON	2010	kg				9038.7	6.7		2877.5	30054.7		
+04	Arizona	DIURON	2011	kg				11186.4	0.1		2070.4	21623.1		
+04	Arizona	DIURON	2012	kg				4045.4			1544.3	34434.7		
+04	Arizona	DIURON	2013	kg				3993.7			814	12239.3		
+04	Arizona	DIURON	2014	kg				3657.8			975.5	23832.9		
+04	Arizona	DIURON	2015	kg				2742.2			512.3	9260.8		
+04	Arizona	DIURON	2016	kg				3648			268.7	23976.8		
+04	Arizona	DIURON	2017	kg				10538.3			65.9	6752		
+05	Arkansas	DIURON	1992	kg			2176.7	33095.5			900.2		11245.1	
+05	Arkansas	DIURON	1993	kg				9704.4					2543.8	
+05	Arkansas	DIURON	1994	kg				21253.7					1398.4	
+05	Arkansas	DIURON	1995	kg	3820.2			55108.8			1348.1		15801.5	
+05	Arkansas	DIURON	1996	kg	827.6			20974.5			830.7	807.7	15570	
+05	Arkansas	DIURON	1997	kg	550.8			57188.8			623.2	5434.7	2156.5	
+05	Arkansas	DIURON	1998	kg				12225			1141.6			
+05	Arkansas	DIURON	1999	kg				8215.4						
+05	Arkansas	DIURON	2000	kg				26032.9			612.1			
+05	Arkansas	DIURON	2001	kg				113305.1			9.7			
+05	Arkansas	DIURON	2002	kg				61052.6						
+05	Arkansas	DIURON	2003	kg				91199.6			1284.2			
+05	Arkansas	DIURON	2004	kg				49685.1			365.9		4709.4	
+05	Arkansas	DIURON	2005	kg				42994.1				445.8		
+05	Arkansas	DIURON	2006	kg				47742.4						
+05	Arkansas	DIURON	2007	kg			32195.4	42327.5						
+05	Arkansas	DIURON	2008	kg				36152.4				147.1		
+05	Arkansas	DIURON	2009	kg				28290.2				106.2		
+05	Arkansas	DIURON	2010	kg				37392.9			16.6			
+05	Arkansas	DIURON	2011	kg				131873.1						
+05	Arkansas	DIURON	2012	kg				86287						
+05	Arkansas	DIURON	2013	kg				44039.8						
+05	Arkansas	DIURON	2014	kg				26236.5						
+05	Arkansas	DIURON	2015	kg	782.4			9879.2			10527.7			
+05	Arkansas	DIURON	2016	kg			635.2	23292.9					2362.3	
+05	Arkansas	DIURON	2017	kg				22611.5						
+06	California	DIURON	1992	kg				630.1	12142.1		146366	70153.8		82.8
+06	California	DIURON	1993	kg			1.5	365.9	13686.9		174162	72332.1		1147
+06	California	DIURON	1994	kg	116.1			1185.5	10813.4		201453.9	92218.8	40.9	69.4
+06	California	DIURON	1995	kg	48.6		89.3	2487.7	14726.6		166330.1	52473.9	7.8	544.5
+06	California	DIURON	1996	kg	2.9		26.5	3866.9	12692.7		180121.6	90904		123.1
+06	California	DIURON	1997	kg	1.5			5985.1	8224.9		386695.9	87853.6		229.1
+06	California	DIURON	1998	kg	131.3		46.3	6979.6	11647.9		186593.9	100369.3	92.4	364.1
+06	California	DIURON	1999	kg	77.9		131.9	5824	11893.1		159100.4	101018.7	44.8	151.2
+06	California	DIURON	2000	kg	24		95.1	7732.4	12426.7	4.5	157321.8	107705.7	73.4	167.4
+06	California	DIURON	2001	kg	48.6		9.3	9118.7	8262.9		136923.1	75954.2	5.6	245.6
+06	California	DIURON	2002	kg	100.6		11.6	9839	9690.3	42.3	149398.7	107698.4	51.7	1383.5
+06	California	DIURON	2003	kg	9.6		94.1	11310.3	7843.1		138985.6	125605.3	96.2	267.9
+06	California	DIURON	2004	kg	139.7		32.3	11671	8228.7		139896.1	133579.3	54.2	586
+06	California	DIURON	2005	kg	126.7		3.2	13826.1	12179.7		136961.5	95970.3	14.2	616
+06	California	DIURON	2006	kg	212.7			15731.8	11799.3		123280.3	120644.3	31.3	704.6
+06	California	DIURON	2007	kg	25			9498.5	6593.6		107464.5	84685.4	34.3	1025
+06	California	DIURON	2008	kg	0			3715.2	4391.7		112612.6	54877.7	9.2	17.8
+06	California	DIURON	2009	kg				2954.8	3333.6		119300.1	41917.5	10.1	10.9
+06	California	DIURON	2010	kg			9.9	4392.3	2333.3		102987.3	32736.5	15.6	
+06	California	DIURON	2011	kg	33.6		48.9	6491.4	2245.3		106417.6	42308.2	31.2	
+06	California	DIURON	2012	kg			32.3	4413.3	2870.1		100363.5	30303.1	10.6	
+06	California	DIURON	2013	kg	238.7		50.9	3807.6	3020.2		67289	37155.8		274.3
+06	California	DIURON	2014	kg			0.5	2969.1	2360		62391.3	15989.9	5.8	80.2
+06	California	DIURON	2015	kg	198.2			2490.9	2450.3		41200.4	27750.1		159.6
+06	California	DIURON	2016	kg	42.1			3673.8	1296.2		38715	18061.2	21.1	464.1
+06	California	DIURON	2017	kg				4569.6	647.5	10.9	26886.2	11980.4	30.8	66.5
+08	Colorado	DIURON	1992	kg								60593.6	1068.3	1107.5
+08	Colorado	DIURON	1993	kg								32472.5	497.4	2120.4
+08	Colorado	DIURON	1994	kg	1024.8							10553.6	106.5	
+08	Colorado	DIURON	1995	kg								13939.9	351.4	
+08	Colorado	DIURON	1996	kg								21382.8	102.4	
+08	Colorado	DIURON	1997	kg	933.7							30841.2	7789	82.2
+08	Colorado	DIURON	1998	kg	5354.8							6682.8		
+08	Colorado	DIURON	1999	kg	6289.1							85035.9		
+08	Colorado	DIURON	2000	kg	5876.7							28623.2		
+08	Colorado	DIURON	2001	kg	5023.7							158993		
+08	Colorado	DIURON	2002	kg	2692.1							1868.1		19.6
+08	Colorado	DIURON	2003	kg								10808		102.5
+08	Colorado	DIURON	2004	kg								20183.9		
+08	Colorado	DIURON	2005	kg								36034.5		
+08	Colorado	DIURON	2006	kg								53529.8		
+08	Colorado	DIURON	2007	kg								33012.8		
+08	Colorado	DIURON	2008	kg								45028.4		
+08	Colorado	DIURON	2009	kg								16592.5		
+08	Colorado	DIURON	2010	kg	765.5							44504.1		
+08	Colorado	DIURON	2011	kg								23810.9		
+08	Colorado	DIURON	2012	kg								49454.5		
+08	Colorado	DIURON	2013	kg								50437.3		
+08	Colorado	DIURON	2014	kg								25904.1	75359.5	
+08	Colorado	DIURON	2015	kg								18087.9		
+08	Colorado	DIURON	2016	kg								22600.3		
+08	Colorado	DIURON	2017	kg								33957.4	148486.3	
+09	Connecticut	DIURON	1992	kg					4		680.4			
+09	Connecticut	DIURON	1993	kg							418.6			
+09	Connecticut	DIURON	1994	kg							716			
+09	Connecticut	DIURON	1995	kg					10.8		1311.4			
+09	Connecticut	DIURON	1996	kg					6.4		1492.7			
+09	Connecticut	DIURON	1997	kg					9.5		1883.4			
+09	Connecticut	DIURON	1998	kg							235.3			
+09	Connecticut	DIURON	1999	kg							337.9			
+09	Connecticut	DIURON	2000	kg							356			
+09	Connecticut	DIURON	2001	kg							487.6			
+09	Connecticut	DIURON	2002	kg							246.9			
+09	Connecticut	DIURON	2003	kg							666.6			
+09	Connecticut	DIURON	2004	kg							1741.2			
+09	Connecticut	DIURON	2005	kg							840.5			
+09	Connecticut	DIURON	2006	kg							851.7			
+09	Connecticut	DIURON	2007	kg							475.3			
+09	Connecticut	DIURON	2008	kg							311.7			
+09	Connecticut	DIURON	2009	kg							620.9			
+09	Connecticut	DIURON	2010	kg							465.7			
+09	Connecticut	DIURON	2011	kg							930.6			
+09	Connecticut	DIURON	2012	kg							250.9			
+09	Connecticut	DIURON	2013	kg							556.9			
+09	Connecticut	DIURON	2014	kg							351.7			
+09	Connecticut	DIURON	2015	kg							230.7			
+09	Connecticut	DIURON	2016	kg							74.7			
+09	Connecticut	DIURON	2017	kg							135.5			
+10	Delaware	DIURON	1992	kg					0.2		8.3			
+10	Delaware	DIURON	1993	kg					26.3		9.7			
+10	Delaware	DIURON	1994	kg							19.2			
+10	Delaware	DIURON	1995	kg	545.3				79.7		22			
+10	Delaware	DIURON	1996	kg		19			96.2		40.3			
+10	Delaware	DIURON	1997	kg					102.4		10.4			
+10	Delaware	DIURON	1998	kg							20.4			
+10	Delaware	DIURON	1999	kg							2.8			
+10	Delaware	DIURON	2000	kg							29.4			
+10	Delaware	DIURON	2001	kg							22.9			
+10	Delaware	DIURON	2002	kg							11.2			
+10	Delaware	DIURON	2003	kg							42.7			
+10	Delaware	DIURON	2004	kg							37.3			
+10	Delaware	DIURON	2005	kg							40.6			
+10	Delaware	DIURON	2006	kg							56.6			
+10	Delaware	DIURON	2007	kg							43.7			
+10	Delaware	DIURON	2008	kg							40.9			
+10	Delaware	DIURON	2009	kg							52.8			
+10	Delaware	DIURON	2010	kg							52.3			
+10	Delaware	DIURON	2011	kg							84.5			
+10	Delaware	DIURON	2012	kg							36.9			
+10	Delaware	DIURON	2013	kg							42.8			
+10	Delaware	DIURON	2014	kg							0.2			
+12	Florida	DIURON	1992	kg				322.4			430271.4		201.5	180.6
+12	Florida	DIURON	1993	kg				936.7			640996.1		411.6	51.1
+12	Florida	DIURON	1994	kg				1492.7			547854.1		1903.2	8.9
+12	Florida	DIURON	1995	kg				1791.1			519590.3		304	
+12	Florida	DIURON	1996	kg				10796.4	1941.6		628470.8		237.2	
+12	Florida	DIURON	1997	kg				1541.8			772071.6		669.1	407.1
+12	Florida	DIURON	1998	kg				22.1			824006.7		1713.1	
+12	Florida	DIURON	1999	kg				1436.2			1263118.5			
+12	Florida	DIURON	2000	kg				13.6			658239			
+12	Florida	DIURON	2001	kg				1305.4	519.1		667940.8			
+12	Florida	DIURON	2002	kg				293.1			729191.9			
+12	Florida	DIURON	2003	kg				1497.2			772703.5			
+12	Florida	DIURON	2004	kg				47.5			845454.5			
+12	Florida	DIURON	2005	kg				1001			723813.9			
+12	Florida	DIURON	2006	kg				856.3			603240.1			17626.3
+12	Florida	DIURON	2007	kg				2250.8			324270.8			1535.6
+12	Florida	DIURON	2008	kg				128.6			566191.8			1726.5
+12	Florida	DIURON	2009	kg				1812.2			574946.6			1877.1
+12	Florida	DIURON	2010	kg				439			472089.6		1141.7	1511.6
+12	Florida	DIURON	2011	kg				231.3			391163.1			1376.7
+12	Florida	DIURON	2012	kg				1933.7			191140.3			1890
+12	Florida	DIURON	2013	kg				17017.9			344569.3			1523.2
+12	Florida	DIURON	2014	kg				2988.2			174209.8			1346
+12	Florida	DIURON	2015	kg				646.5			195627.6			1441.8
+12	Florida	DIURON	2016	kg				2037.3			289137.8			
+12	Florida	DIURON	2017	kg				8658.8			69201.5			
+13	Georgia	DIURON	1992	kg				3969.1			29270		447.6	
+13	Georgia	DIURON	1993	kg				11707.9			13041.5			456
+13	Georgia	DIURON	1994	kg				18463.8			104387		125.2	74.4
+13	Georgia	DIURON	1995	kg	333.3			23317.1			48604.8			
+13	Georgia	DIURON	1996	kg				36033.3	1.3		25725.2			
+13	Georgia	DIURON	1997	kg				22503.9	1		24604.6		749.2	1038.5
+13	Georgia	DIURON	1998	kg	1634.8			18190.4			15605.3			
+13	Georgia	DIURON	1999	kg				16916.1			38258.7		4940.3	
+13	Georgia	DIURON	2000	kg				15921.7			56916.2			
+13	Georgia	DIURON	2001	kg				42136.3			25096.5			
+13	Georgia	DIURON	2002	kg				56717.2			28176.7			
+13	Georgia	DIURON	2003	kg				74399.4			42473			
+13	Georgia	DIURON	2004	kg	239.5			47745.1			21248.4			
+13	Georgia	DIURON	2005	kg				97042.9			52270			
+13	Georgia	DIURON	2006	kg			152.7	89526.4			32731.5			
+13	Georgia	DIURON	2007	kg				16117.7			22563.5			
+13	Georgia	DIURON	2008	kg				87966.5			36335.5			
+13	Georgia	DIURON	2009	kg				118661.7			17553.3			
+13	Georgia	DIURON	2010	kg				293187			21374.9		939.5	
+13	Georgia	DIURON	2011	kg				214777.2			18143.1			
+13	Georgia	DIURON	2012	kg				390019.1			28321.4			
+13	Georgia	DIURON	2013	kg				268737.3			22681			
+13	Georgia	DIURON	2014	kg				248492			11812.5			
+13	Georgia	DIURON	2015	kg				261805.2			18291.6			
+13	Georgia	DIURON	2016	kg				265832.6			6896.5			
+13	Georgia	DIURON	2017	kg				140864.9			51329.2			
+16	Idaho	DIURON	1992	kg			33924.5				264.5	10170.1	1649	
+16	Idaho	DIURON	1993	kg			33614.4		40.2		3802.4	7745.5	2466.6	1556.6
+16	Idaho	DIURON	1994	kg			13478.4		4188.3		1564.4	8978.9	205	3241
+16	Idaho	DIURON	1995	kg			43321.8				305.3	40327.9	5793.9	123.3
+16	Idaho	DIURON	1996	kg			4472.5				2225.4	2768.9	1029	
+16	Idaho	DIURON	1997	kg					1.2		102.1	28849.7	373.1	323.9
+16	Idaho	DIURON	1998	kg			38501.5		39.9		2020	277182.4		
+16	Idaho	DIURON	1999	kg			16949.4		26.8		862.9	11143.4		
+16	Idaho	DIURON	2000	kg			3952.2		52.8		621.4	112221		
+16	Idaho	DIURON	2001	kg			6819.6		25.4		206.8	2198.3		
+16	Idaho	DIURON	2002	kg			66673.5		28.9		89	3085.5		
+16	Idaho	DIURON	2003	kg			21869.4		35.6		173.1		628.7	
+16	Idaho	DIURON	2004	kg			1711.6		24.8		226.1	67500.3		
+16	Idaho	DIURON	2005	kg			2696.3		25.9		401	7967.5		
+16	Idaho	DIURON	2006	kg			1499.3		10.2		81.8	16911.4		
+16	Idaho	DIURON	2007	kg			4154.7		40.5		78.2	21926.9		
+16	Idaho	DIURON	2008	kg							190.7	194109.6		
+16	Idaho	DIURON	2009	kg			2055.1		5.6		271.9	8752.6		
+16	Idaho	DIURON	2010	kg							891.5	17151.5		
+16	Idaho	DIURON	2011	kg							186.6	1124.2		
+16	Idaho	DIURON	2012	kg							254.4	88606.8		
+16	Idaho	DIURON	2013	kg							133.7	60626	3402.8	
+16	Idaho	DIURON	2014	kg							66.5	13297.4	191.4	
+16	Idaho	DIURON	2015	kg							120.9	27706.7		
+16	Idaho	DIURON	2016	kg							3.4	41765.8		
+16	Idaho	DIURON	2017	kg			25999.7				6.1	13922.8		
+17	Illinois	DIURON	1992	kg					2595.6		299.7			
+17	Illinois	DIURON	1993	kg					426.2		839.2		24.1	
+17	Illinois	DIURON	1994	kg					287.3		3557.7		179.7	
+17	Illinois	DIURON	1995	kg					39.6		1878.1			
+17	Illinois	DIURON	1996	kg					334.2		5094			12.5
+17	Illinois	DIURON	1997	kg	407				120.5		4826.8			
+17	Illinois	DIURON	1998	kg							2150.9			
+17	Illinois	DIURON	1999	kg							1380.8			
+17	Illinois	DIURON	2000	kg					86		1044.7			
+17	Illinois	DIURON	2001	kg					134.4		1423.8			
+17	Illinois	DIURON	2002	kg	22035.1				77.3		364.8			
+17	Illinois	DIURON	2003	kg					84.8		3217.7			
+17	Illinois	DIURON	2004	kg					109.3		1897.5			
+17	Illinois	DIURON	2005	kg							1411.4			
+17	Illinois	DIURON	2006	kg	4220.6						2245.6			
+17	Illinois	DIURON	2007	kg							418.1			
+17	Illinois	DIURON	2008	kg							243.9			
+17	Illinois	DIURON	2009	kg							948.1			
+17	Illinois	DIURON	2010	kg							1062.5			
+17	Illinois	DIURON	2011	kg							538			
+17	Illinois	DIURON	2012	kg							239.5			
+17	Illinois	DIURON	2013	kg							867.8			
+17	Illinois	DIURON	2014	kg	4368.7									
+17	Illinois	DIURON	2015	kg	3600.5						320.4			
+17	Illinois	DIURON	2016	kg			2173					755.1		
+18	Indiana	DIURON	1992	kg					29.1		748.9			
+18	Indiana	DIURON	1993	kg					9		1721.7			
+18	Indiana	DIURON	1994	kg					92.6		7354		45.9	
+18	Indiana	DIURON	1995	kg					285.7		870.8			
+18	Indiana	DIURON	1996	kg					803.7		2414.2		160.3	81.5
+18	Indiana	DIURON	1997	kg					775.6		2852			
+18	Indiana	DIURON	1998	kg			14328.8		0.7		857.2			
+18	Indiana	DIURON	1999	kg					26.9		815.8			
+18	Indiana	DIURON	2000	kg					29.4		262.8			
+18	Indiana	DIURON	2001	kg					47.5		1099.1			
+18	Indiana	DIURON	2002	kg					28.9		216.9			
+18	Indiana	DIURON	2003	kg					30.9		623.8			
+18	Indiana	DIURON	2004	kg					35.3		430.9			
+18	Indiana	DIURON	2005	kg					11.8		188.9			
+18	Indiana	DIURON	2006	kg					6.3		390.5			
+18	Indiana	DIURON	2007	kg					1.2		257.2			
+18	Indiana	DIURON	2008	kg					54.3		231.2			
+18	Indiana	DIURON	2009	kg					89.3		635.1			
+18	Indiana	DIURON	2010	kg					68.6		183.6			
+18	Indiana	DIURON	2011	kg					86		473.4			
+18	Indiana	DIURON	2012	kg					56.1		140.4	2292.4		
+18	Indiana	DIURON	2013	kg					128.3		141.4			
+18	Indiana	DIURON	2014	kg					47.4		40			
+18	Indiana	DIURON	2015	kg							230.1			
+18	Indiana	DIURON	2016	kg					29.4		3.3	707.2		
+18	Indiana	DIURON	2017	kg							49.4			
+19	Iowa	DIURON	1992	kg					39		41.9			
+19	Iowa	DIURON	1993	kg		176.2			11		174.5			
+19	Iowa	DIURON	1994	kg							265.2		858.5	
+19	Iowa	DIURON	1995	kg					344.2		158			
+19	Iowa	DIURON	1996	kg					81.7		1364.8	43612.9		
+19	Iowa	DIURON	1997	kg							221.1			
+19	Iowa	DIURON	1998	kg							142.1			
+19	Iowa	DIURON	1999	kg							79.4			
+19	Iowa	DIURON	2000	kg					36.6		96.9			
+19	Iowa	DIURON	2001	kg					60.4		83.6			
+19	Iowa	DIURON	2002	kg					36.5		56.6			
+19	Iowa	DIURON	2003	kg					39.4		89.4	5509.9		
+19	Iowa	DIURON	2004	kg					49.4		134			
+19	Iowa	DIURON	2005	kg							65.8			
+19	Iowa	DIURON	2006	kg	3418.9						132.7			
+19	Iowa	DIURON	2007	kg	952.8						72.8	26883.4		
+19	Iowa	DIURON	2008	kg							52.4		5415.8	
+19	Iowa	DIURON	2009	kg							207.3			
+19	Iowa	DIURON	2010	kg							27.9			
+19	Iowa	DIURON	2011	kg							124.3	199		
+19	Iowa	DIURON	2012	kg					2.9		57			
+19	Iowa	DIURON	2013	kg							31.8			
+19	Iowa	DIURON	2014	kg	13094.6				0.6					
+19	Iowa	DIURON	2015	kg							67.3			
+19	Iowa	DIURON	2016	kg								4653.5		
+20	Kansas	DIURON	1992	kg				250.6			351.2	47084.9	1409.5	
+20	Kansas	DIURON	1993	kg		73.3		880.2				52675.4	905.8	
+20	Kansas	DIURON	1994	kg	6062.1			1171.1				16274.5	1431.5	
+20	Kansas	DIURON	1995	kg				385.4						
+20	Kansas	DIURON	1996	kg				1251				22915.8		
+20	Kansas	DIURON	1997	kg	6025.4			737.7				60900.2	15095	
+20	Kansas	DIURON	1998	kg	37392.7			6255.7				35960.1		
+20	Kansas	DIURON	1999	kg	34645.9			1137.6				147147.4		
+20	Kansas	DIURON	2000	kg	31930.3			4665				55806.1		
+20	Kansas	DIURON	2001	kg	44745.9			289.2				394490.6		
+20	Kansas	DIURON	2002	kg	25670.2			1968.8				3904.4		
+20	Kansas	DIURON	2003	kg				818.6				63642.7		
+20	Kansas	DIURON	2004	kg				6802.7				45235.9	27663.2	
+20	Kansas	DIURON	2005	kg	713.3			2009				41679.1		
+20	Kansas	DIURON	2006	kg				5721.9				61075.6		
+20	Kansas	DIURON	2007	kg				1582.3				40714.9		
+20	Kansas	DIURON	2008	kg				4667.3				11968.6		
+20	Kansas	DIURON	2009	kg				2888.8				61754.7		
+20	Kansas	DIURON	2010	kg	6562.1			7296.2				60810.5		
+20	Kansas	DIURON	2011	kg				22335				42851		
+20	Kansas	DIURON	2012	kg				2277				41526.4		
+20	Kansas	DIURON	2013	kg				1675.1				74985		2471
+20	Kansas	DIURON	2014	kg				7117.7				34029.6	87930	
+20	Kansas	DIURON	2015	kg				3456.6				35161.5		15542.5
+20	Kansas	DIURON	2016	kg				1818.4				33878.6		
+20	Kansas	DIURON	2017	kg			204.5	13573.5				66130.5	176895.5	
+21	Kentucky	DIURON	1992	kg					22.4		959.9			
+21	Kentucky	DIURON	1993	kg					3.8		229			
+21	Kentucky	DIURON	1994	kg	380.4						2487.2			
+21	Kentucky	DIURON	1995	kg	555.4				0.8		637.1			
+21	Kentucky	DIURON	1996	kg					1474.4		814.8		566.9	4636.6
+21	Kentucky	DIURON	1997	kg	208.1				10.5		763		167.2	
+21	Kentucky	DIURON	1998	kg			11770.6				603			
+21	Kentucky	DIURON	1999	kg							384.9			
+21	Kentucky	DIURON	2000	kg					1.9		198			
+21	Kentucky	DIURON	2001	kg					3.1		253.8			
+21	Kentucky	DIURON	2002	kg					1.9		699.9			
+21	Kentucky	DIURON	2003	kg					2.1		405.8			
+21	Kentucky	DIURON	2004	kg					2.7		445			
+21	Kentucky	DIURON	2005	kg							436.7			
+21	Kentucky	DIURON	2006	kg							1088.5			
+21	Kentucky	DIURON	2007	kg							523.2			
+21	Kentucky	DIURON	2008	kg							252.3			
+21	Kentucky	DIURON	2009	kg							654.5			
+21	Kentucky	DIURON	2010	kg							202			
+21	Kentucky	DIURON	2011	kg							242.2			
+21	Kentucky	DIURON	2012	kg							132.7			
+21	Kentucky	DIURON	2013	kg							134.6			
+21	Kentucky	DIURON	2014	kg							88.1			
+21	Kentucky	DIURON	2015	kg	2008.2						194.4			
+21	Kentucky	DIURON	2016	kg			1398.9							
+22	Louisiana	DIURON	1992	kg				88668.1					4074.9	110.3
+22	Louisiana	DIURON	1993	kg				88564.2					1478.8	3935.8
+22	Louisiana	DIURON	1994	kg				136555.6						12288
+22	Louisiana	DIURON	1995	kg	8177.9			129405.5			150.6			30973.9
+22	Louisiana	DIURON	1996	kg	2770.3			62725.5	63.2		310.1		15524.8	48336.8
+22	Louisiana	DIURON	1997	kg	709.9			38185			99.4			22367
+22	Louisiana	DIURON	1998	kg	8437			67389.8			774.5			56012.9
+22	Louisiana	DIURON	1999	kg				21003			28.2			112704.5
+22	Louisiana	DIURON	2000	kg				59552.1			41.6			80198.9
+22	Louisiana	DIURON	2001	kg	598.1			151999.8						90806.5
+22	Louisiana	DIURON	2002	kg				121406.9					19636.3	40119.9
+22	Louisiana	DIURON	2003	kg				41903.4						97195.5
+22	Louisiana	DIURON	2004	kg	18032.6			51594.7			7.6			120270.8
+22	Louisiana	DIURON	2005	kg				32776.6						148769
+22	Louisiana	DIURON	2006	kg				71768					190.5	95022.1
+22	Louisiana	DIURON	2007	kg				27537					461.9	72523.8
+22	Louisiana	DIURON	2008	kg				39332.8						33743
+22	Louisiana	DIURON	2009	kg				39026.3						28644
+22	Louisiana	DIURON	2010	kg				21892.8			18.5			19647.3
+22	Louisiana	DIURON	2011	kg				32814.1						4059.6
+22	Louisiana	DIURON	2012	kg				17606.5						21791.5
+22	Louisiana	DIURON	2013	kg				12568.4						42716.4
+22	Louisiana	DIURON	2014	kg				11118						18094.6
+22	Louisiana	DIURON	2015	kg				15423.8			16958.7			
+22	Louisiana	DIURON	2016	kg				29313.2					2105.9	3536.1
+22	Louisiana	DIURON	2017	kg				7418.9						
+23	Maine	DIURON	1992	kg							968.7			
+23	Maine	DIURON	1993	kg							476.3			
+23	Maine	DIURON	1994	kg							1740.5			
+23	Maine	DIURON	1995	kg							1086.6			
+23	Maine	DIURON	1996	kg							1098.6			
+23	Maine	DIURON	1997	kg							639.1			
+23	Maine	DIURON	1998	kg							409.4			
+23	Maine	DIURON	1999	kg							99.7			
+23	Maine	DIURON	2000	kg							557.7			
+23	Maine	DIURON	2001	kg							300.2			
+23	Maine	DIURON	2002	kg							546.5			
+23	Maine	DIURON	2003	kg							468.3			
+23	Maine	DIURON	2004	kg							1162.3			
+23	Maine	DIURON	2005	kg							737.7			
+23	Maine	DIURON	2006	kg							632.7			
+23	Maine	DIURON	2007	kg							137.7			
+23	Maine	DIURON	2008	kg							356.7			
+23	Maine	DIURON	2009	kg							520.4			
+23	Maine	DIURON	2010	kg							775.4			
+23	Maine	DIURON	2011	kg							934.4			
+23	Maine	DIURON	2012	kg							300.4			
+23	Maine	DIURON	2013	kg							487			
+23	Maine	DIURON	2014	kg							298			
+23	Maine	DIURON	2015	kg							334.7			
+23	Maine	DIURON	2016	kg							102.9			
+23	Maine	DIURON	2017	kg							176.9			
+24	Maryland	DIURON	1992	kg	5575.1				10.8		628.9		12.5	
+24	Maryland	DIURON	1993	kg					865		508.8			
+24	Maryland	DIURON	1994	kg							1771.5			
+24	Maryland	DIURON	1995	kg	1486.8				1552.6		1733.1			
+24	Maryland	DIURON	1996	kg		162.3			1933		4396		12.8	
+24	Maryland	DIURON	1997	kg					548		1447.7			
+24	Maryland	DIURON	1998	kg							810.5			
+24	Maryland	DIURON	1999	kg							844.7			
+24	Maryland	DIURON	2000	kg							1062.5			
+24	Maryland	DIURON	2001	kg							750.6			
+24	Maryland	DIURON	2002	kg							990.6			
+24	Maryland	DIURON	2003	kg							1439.2			
+24	Maryland	DIURON	2004	kg							904.4			
+24	Maryland	DIURON	2005	kg							1796			
+24	Maryland	DIURON	2006	kg							1595.2			
+24	Maryland	DIURON	2007	kg							1841.6			
+24	Maryland	DIURON	2008	kg							611.9			
+24	Maryland	DIURON	2009	kg							874.5			
+24	Maryland	DIURON	2010	kg							816.5			
+24	Maryland	DIURON	2011	kg							1017.3			
+24	Maryland	DIURON	2012	kg							386			
+24	Maryland	DIURON	2013	kg							518.5			
+24	Maryland	DIURON	2014	kg							403.6			
+24	Maryland	DIURON	2015	kg							542.1			
+24	Maryland	DIURON	2016	kg							372.2			
+24	Maryland	DIURON	2017	kg							94.4			
+25	Massachusetts	DIURON	1992	kg					25.8		1180			
+25	Massachusetts	DIURON	1993	kg							559.6			
+25	Massachusetts	DIURON	1994	kg							1206.2			
+25	Massachusetts	DIURON	1995	kg					418.1		1744.8			
+25	Massachusetts	DIURON	1996	kg					43		2149.2			
+25	Massachusetts	DIURON	1997	kg					65.2		258			
+25	Massachusetts	DIURON	1998	kg							137.4			
+25	Massachusetts	DIURON	1999	kg							471.3			
+25	Massachusetts	DIURON	2000	kg							475.3			
+25	Massachusetts	DIURON	2001	kg							439.4			
+25	Massachusetts	DIURON	2002	kg							281.5			
+25	Massachusetts	DIURON	2003	kg							912			
+25	Massachusetts	DIURON	2004	kg							472			
+25	Massachusetts	DIURON	2005	kg							1006.5			
+25	Massachusetts	DIURON	2006	kg							966.5			
+25	Massachusetts	DIURON	2007	kg							505.2			
+25	Massachusetts	DIURON	2008	kg							291.1			
+25	Massachusetts	DIURON	2009	kg							796.9			
+25	Massachusetts	DIURON	2010	kg							569.6			
+25	Massachusetts	DIURON	2011	kg							1239.4			
+25	Massachusetts	DIURON	2012	kg							315.6			
+25	Massachusetts	DIURON	2013	kg							660.4			
+25	Massachusetts	DIURON	2014	kg							457			
+25	Massachusetts	DIURON	2015	kg							407.3			
+25	Massachusetts	DIURON	2016	kg							136.4			
+25	Massachusetts	DIURON	2017	kg							255.3			
+26	Michigan	DIURON	1992	kg					2464.9		7217.2			
+26	Michigan	DIURON	1993	kg					14805.9		8754			
+26	Michigan	DIURON	1994	kg	2071.1				8964.7		7070.5			
+26	Michigan	DIURON	1995	kg					17007.7		32923.8		319.8	
+26	Michigan	DIURON	1996	kg					11701.1		10047.3		441	
+26	Michigan	DIURON	1997	kg					23513.8		12950.7			
+26	Michigan	DIURON	1998	kg					5719.2		9993.9			
+26	Michigan	DIURON	1999	kg					11119.9		16953.9			
+26	Michigan	DIURON	2000	kg					11459.8		22812.8			
+26	Michigan	DIURON	2001	kg					12862		8524.9			
+26	Michigan	DIURON	2002	kg					15480.6		6621.9			
+26	Michigan	DIURON	2003	kg					14823.6		13865.7			
+26	Michigan	DIURON	2004	kg					12916.1		10300			
+26	Michigan	DIURON	2005	kg					16727.2		3815.9			
+26	Michigan	DIURON	2006	kg					11114.6		10568.8			
+26	Michigan	DIURON	2007	kg					8980.3		8836.5			
+26	Michigan	DIURON	2008	kg					6977		9107.8			
+26	Michigan	DIURON	2009	kg					8218.5		7877.9			
+26	Michigan	DIURON	2010	kg					7846.6		5916			
+26	Michigan	DIURON	2011	kg					10578.1		9373.9			
+26	Michigan	DIURON	2012	kg					7226.7		1288.5	8299		
+26	Michigan	DIURON	2013	kg					7835.7		6241.2			
+26	Michigan	DIURON	2014	kg					7450.6		3241.9			
+26	Michigan	DIURON	2015	kg					9736.6		1506.3			
+26	Michigan	DIURON	2016	kg					7791.9		1956.1	4274.6		
+26	Michigan	DIURON	2017	kg					14295.5		6651.1	1356.6		
+27	Minnesota	DIURON	1992	kg							91.8			
+27	Minnesota	DIURON	1993	kg							1692.4		49.5	
+27	Minnesota	DIURON	1994	kg							796.7			
+27	Minnesota	DIURON	1995	kg							310.1			
+27	Minnesota	DIURON	1996	kg					37.7		602.8			
+27	Minnesota	DIURON	1997	kg					1359.8		22		0.4	
+27	Minnesota	DIURON	1998	kg			4828.9				440.8			15263.6
+27	Minnesota	DIURON	1999	kg							387.9			
+27	Minnesota	DIURON	2000	kg	3381.5		3036.1				679.4			
+27	Minnesota	DIURON	2001	kg							333.1			
+27	Minnesota	DIURON	2002	kg							285.1			
+27	Minnesota	DIURON	2003	kg			1385.9				306.4			
+27	Minnesota	DIURON	2004	kg							463			
+27	Minnesota	DIURON	2005	kg			3120.4				262.1			
+27	Minnesota	DIURON	2006	kg	2306.5						960.5			
+27	Minnesota	DIURON	2007	kg	1174.7						419.2			
+27	Minnesota	DIURON	2008	kg							482.2			
+27	Minnesota	DIURON	2009	kg							963.2			
+27	Minnesota	DIURON	2010	kg							148.5			
+27	Minnesota	DIURON	2011	kg							725.6			
+27	Minnesota	DIURON	2012	kg					229.1		219.6			
+27	Minnesota	DIURON	2013	kg							370.5			
+27	Minnesota	DIURON	2014	kg					249.5		141.1			
+27	Minnesota	DIURON	2015	kg							245.4			
+27	Minnesota	DIURON	2016	kg							80	1672.4		3319.3
+27	Minnesota	DIURON	2017	kg							222.6			
+28	Mississippi	DIURON	1992	kg				62540.6	170		1030.7		5518.5	
+28	Mississippi	DIURON	1993	kg				58331.6			1531.3		488.9	
+28	Mississippi	DIURON	1994	kg				73925.7					978.8	
+28	Mississippi	DIURON	1995	kg	11688.6			161623.3			560.4			
+28	Mississippi	DIURON	1996	kg	2069.4			64086.5	0.6		522.9	69.1	12802.7	
+28	Mississippi	DIURON	1997	kg	2473.1			41569.3	0.8		347.8	1540.8	1006.3	
+28	Mississippi	DIURON	1998	kg	393.7			49446.5			1432.4			
+28	Mississippi	DIURON	1999	kg				31126.9			498.2			
+28	Mississippi	DIURON	2000	kg				114955.5			1114			
+28	Mississippi	DIURON	2001	kg				187154.6	276.8		1197			
+28	Mississippi	DIURON	2002	kg				122523.1			1087			
+28	Mississippi	DIURON	2003	kg				162219.6			610.1			
+28	Mississippi	DIURON	2004	kg	1338.4			93560.4			588.5			
+28	Mississippi	DIURON	2005	kg				137178.7			1288.9			
+28	Mississippi	DIURON	2006	kg				102283.5			1108.3			
+28	Mississippi	DIURON	2007	kg			9531.8	62297.9			546.2		2665.2	
+28	Mississippi	DIURON	2008	kg				26957.7			98.4			
+28	Mississippi	DIURON	2009	kg				28965.1			38.6			
+28	Mississippi	DIURON	2010	kg				61874			133.1		1270.2	
+28	Mississippi	DIURON	2011	kg				124416.6			63.5			
+28	Mississippi	DIURON	2012	kg				70751.7			81.8			
+28	Mississippi	DIURON	2013	kg				28456.4			155.8			
+28	Mississippi	DIURON	2014	kg				56537.6			103.4			0.2
+28	Mississippi	DIURON	2015	kg				30696.5			73.9			
+28	Mississippi	DIURON	2016	kg				52187						
+28	Mississippi	DIURON	2017	kg				37487						
+29	Missouri	DIURON	1992	kg				791.5	25		1092.1	3554.9	2225.8	
+29	Missouri	DIURON	1993	kg		264.7		1602.3	7.1		839.3	3660.6	674.1	
+29	Missouri	DIURON	1994	kg				8.4	38.3		1270.3		3646.6	
+29	Missouri	DIURON	1995	kg				6206.5	9.7		1030.6		10037.8	
+29	Missouri	DIURON	1996	kg				1829.1	216.4		766.6	17921.8	690.5	
+29	Missouri	DIURON	1997	kg	714.3			457.5			1649.7	10880.4	2360.3	
+29	Missouri	DIURON	1998	kg				806.8			666.6	2815.9		
+29	Missouri	DIURON	1999	kg				2853.2			111.5	29433.3	6229.2	
+29	Missouri	DIURON	2000	kg				853.8	22.8		287.6	3147.2		
+29	Missouri	DIURON	2001	kg				20161.9	36.9		558.7			
+29	Missouri	DIURON	2002	kg				18237.2	21.9		80			
+29	Missouri	DIURON	2003	kg				17312.1	23.8		339.7	5131.3		
+29	Missouri	DIURON	2004	kg				15701.5	30		283		40748.9	
+29	Missouri	DIURON	2005	kg				8874.7			415.8	3251.1	1690.6	
+29	Missouri	DIURON	2006	kg				10539.2			463.5			
+29	Missouri	DIURON	2007	kg				14601			114.4			
+29	Missouri	DIURON	2008	kg				12911.6			69	1924	30463.4	
+29	Missouri	DIURON	2009	kg				989.1			283.5	1355.7		
+29	Missouri	DIURON	2010	kg				20455.9			588			
+29	Missouri	DIURON	2011	kg				21542			179.5			
+29	Missouri	DIURON	2012	kg				20589.6			84.1			
+29	Missouri	DIURON	2013	kg				11169.2			228.3	1692.7		
+29	Missouri	DIURON	2014	kg				12197.3				884.4		
+29	Missouri	DIURON	2015	kg	4272.6			12094.4			111.5	1833.9		44.8
+29	Missouri	DIURON	2016	kg			3469.9	1685.8				1484.8		
+29	Missouri	DIURON	2017	kg			9.9	11863.4						
+30	Montana	DIURON	1992	kg			152551.6		191.7			40129.9	853.5	
+30	Montana	DIURON	1993	kg			129964.7					28867.1	819.1	614.4
+30	Montana	DIURON	1994	kg			20893.1					12224.3	1031.1	
+30	Montana	DIURON	1995	kg			1920.7					36845.4	3873.9	
+30	Montana	DIURON	1996	kg			43.7					47339.6	145.5	
+30	Montana	DIURON	1997	kg								53579.2	458	23
+30	Montana	DIURON	1998	kg			117050.4							
+30	Montana	DIURON	1999	kg			6065.7					60880.2		
+30	Montana	DIURON	2000	kg								13595		
+30	Montana	DIURON	2001	kg			9495.1							
+30	Montana	DIURON	2002	kg								5272.5		
+30	Montana	DIURON	2004	kg			254					13610.6		
+30	Montana	DIURON	2005	kg			54.7					49496.3		
+30	Montana	DIURON	2006	kg								23519.8		
+30	Montana	DIURON	2007	kg								26759.9		
+30	Montana	DIURON	2008	kg								82257.6		
+30	Montana	DIURON	2009	kg								10633.8		
+30	Montana	DIURON	2010	kg								39259.4		
+30	Montana	DIURON	2011	kg								9864.6		
+30	Montana	DIURON	2012	kg								62134.7		
+30	Montana	DIURON	2013	kg								52124.5	260.6	
+30	Montana	DIURON	2014	kg								23124.2		
+30	Montana	DIURON	2015	kg								15897.7		
+30	Montana	DIURON	2016	kg								33677.5		
+30	Montana	DIURON	2017	kg								14424.8		
+31	Nebraska	DIURON	1992	kg								13069.4	175.5	
+31	Nebraska	DIURON	1993	kg		87						64230	84.9	
+31	Nebraska	DIURON	1994	kg	46997.2							11128.4	450.8	
+31	Nebraska	DIURON	1995	kg									55.5	
+31	Nebraska	DIURON	1996	kg								6711.8		
+31	Nebraska	DIURON	1997	kg	42317.1							33353.1	2529.6	
+31	Nebraska	DIURON	1998	kg	225575.8							14049.8		
+31	Nebraska	DIURON	1999	kg	186454.4							125024.5		
+31	Nebraska	DIURON	2000	kg	158008.3							31579.3		
+31	Nebraska	DIURON	2001	kg	221908.4									
+31	Nebraska	DIURON	2002	kg	179588									
+31	Nebraska	DIURON	2003	kg								32254		
+31	Nebraska	DIURON	2004	kg								26084.3		
+31	Nebraska	DIURON	2005	kg	5618.7							25327.1		
+31	Nebraska	DIURON	2006	kg								27400.3		
+31	Nebraska	DIURON	2007	kg								9669.6		
+31	Nebraska	DIURON	2008	kg								9249		
+31	Nebraska	DIURON	2009	kg								12560.2		
+31	Nebraska	DIURON	2010	kg	22576.8							14522.5		
+31	Nebraska	DIURON	2011	kg								5388.1		
+31	Nebraska	DIURON	2012	kg								22515.3		
+31	Nebraska	DIURON	2013	kg								26549.9		
+31	Nebraska	DIURON	2014	kg								4468.7		
+31	Nebraska	DIURON	2015	kg								14291.9		
+31	Nebraska	DIURON	2016	kg								14010.2		
+31	Nebraska	DIURON	2017	kg								16649.6		
+32	Nevada	DIURON	1992	kg			1176.9		90.9		25.2	3134.3	931.7	
+32	Nevada	DIURON	1993	kg			579.1				18.6	3532.2	1386.2	
+32	Nevada	DIURON	1994	kg	0		24				2.8	2800.4	62.5	
+32	Nevada	DIURON	1995	kg							10.9	10124.8	1458.7	
+32	Nevada	DIURON	1996	kg							12.8	22071.4	269.5	
+32	Nevada	DIURON	1997	kg							18.1	14279.1	210.7	
+32	Nevada	DIURON	1998	kg			1856.4				49.3	2782.9		
+32	Nevada	DIURON	1999	kg			111				2.9	2330.1		
+32	Nevada	DIURON	2000	kg							19.1	5734.7		
+32	Nevada	DIURON	2001	kg			26.2				13.9	2450.1		
+32	Nevada	DIURON	2002	kg							9.3	35891.5		
+32	Nevada	DIURON	2003	kg							6.9	18015.9		
+32	Nevada	DIURON	2004	kg			18				8.9	3926.6		
+32	Nevada	DIURON	2005	kg							15.8	6790.6		
+32	Nevada	DIURON	2006	kg							9.5	35484.6		
+32	Nevada	DIURON	2007	kg							7.4	6284.3		
+32	Nevada	DIURON	2008	kg							6.8	77235.9		
+32	Nevada	DIURON	2009	kg							60	22604.7		
+32	Nevada	DIURON	2010	kg							5.7	10680.9		
+32	Nevada	DIURON	2011	kg					0.1		0.7	1534.7		
+32	Nevada	DIURON	2012	kg							1.2	25228.1		
+32	Nevada	DIURON	2013	kg							0.7	44014.9		
+32	Nevada	DIURON	2014	kg								11420.2		
+32	Nevada	DIURON	2015	kg							0	5042.5		
+32	Nevada	DIURON	2016	kg								7739.9		
+32	Nevada	DIURON	2017	kg								5340.2		
+33	New Hampshire	DIURON	1992	kg					5		568.7			
+33	New Hampshire	DIURON	1993	kg							281.3			
+33	New Hampshire	DIURON	1994	kg							1033.2			
+33	New Hampshire	DIURON	1995	kg					12.6		649.3			
+33	New Hampshire	DIURON	1996	kg					6.8		1088.2			
+33	New Hampshire	DIURON	1997	kg					8.9		391.5			
+33	New Hampshire	DIURON	1998	kg							15.1			
+33	New Hampshire	DIURON	1999	kg							153.2			
+33	New Hampshire	DIURON	2000	kg							165.9			
+33	New Hampshire	DIURON	2001	kg							72.3			
+33	New Hampshire	DIURON	2002	kg							348.4			
+33	New Hampshire	DIURON	2003	kg							302.3			
+33	New Hampshire	DIURON	2004	kg							167.6			
+33	New Hampshire	DIURON	2005	kg							495.8			
+33	New Hampshire	DIURON	2006	kg							434.6			
+33	New Hampshire	DIURON	2007	kg							96.7			
+33	New Hampshire	DIURON	2008	kg							235.4			
+33	New Hampshire	DIURON	2009	kg							315.6			
+33	New Hampshire	DIURON	2010	kg							430.9			
+33	New Hampshire	DIURON	2011	kg							474.2			
+33	New Hampshire	DIURON	2012	kg							139			
+33	New Hampshire	DIURON	2013	kg							231.9			
+33	New Hampshire	DIURON	2014	kg							146.6			
+33	New Hampshire	DIURON	2015	kg							170.9			
+33	New Hampshire	DIURON	2016	kg							54.7			
+33	New Hampshire	DIURON	2017	kg							97.9			
+34	New Jersey	DIURON	1992	kg					1848		3665.8			
+34	New Jersey	DIURON	1993	kg							2324.9			
+34	New Jersey	DIURON	1994	kg					129.2		2912			
+34	New Jersey	DIURON	1995	kg					1669.2		2772.6			
+34	New Jersey	DIURON	1996	kg		65.7			3868		702.6			
+34	New Jersey	DIURON	1997	kg					2167.3		2033.8			
+34	New Jersey	DIURON	1998	kg							899.1			
+34	New Jersey	DIURON	1999	kg							2518.1			
+34	New Jersey	DIURON	2000	kg							4086.3			
+34	New Jersey	DIURON	2001	kg							3212.4			
+34	New Jersey	DIURON	2002	kg							2513.7			
+34	New Jersey	DIURON	2003	kg							6426.9			
+34	New Jersey	DIURON	2004	kg							2155.8			
+34	New Jersey	DIURON	2005	kg							4509.2			
+34	New Jersey	DIURON	2006	kg							6474.6			
+34	New Jersey	DIURON	2007	kg							4150.1			
+34	New Jersey	DIURON	2008	kg							5133.8			
+34	New Jersey	DIURON	2009	kg							3502.9			
+34	New Jersey	DIURON	2010	kg							1008.6			
+34	New Jersey	DIURON	2011	kg							4384.1			
+34	New Jersey	DIURON	2012	kg							3522			
+34	New Jersey	DIURON	2013	kg							921.6			
+34	New Jersey	DIURON	2014	kg							1125.5			
+34	New Jersey	DIURON	2015	kg							634.9			
+34	New Jersey	DIURON	2016	kg							2025.6			
+34	New Jersey	DIURON	2017	kg							141.2			
+35	New Mexico	DIURON	1992	kg				3026.8				7630.2	718.8	1596.7
+35	New Mexico	DIURON	1993	kg				232.1	56.8			18389.5	718.2	3091.7
+35	New Mexico	DIURON	1994	kg	1003.6	0.8		4077.2				3525.8	692.1	1988.9
+35	New Mexico	DIURON	1995	kg		3.9		2161.6				3377.2	405.8	36
+35	New Mexico	DIURON	1996	kg	255.7			2818.3			622	6845.3	569.8	679.2
+35	New Mexico	DIURON	1997	kg	1208.4			8671.6			1969.5	7320.2	807.4	156.3
+35	New Mexico	DIURON	1998	kg	11537.9			6127			1118.7	6163.7	1397.3	48.6
+35	New Mexico	DIURON	1999	kg	8137.3			1555.1			1110.2	46888.4		424.1
+35	New Mexico	DIURON	2000	kg	9738			2195.7				14037.6		
+35	New Mexico	DIURON	2001	kg	5554.9			3763.3						92.8
+35	New Mexico	DIURON	2002	kg	7556.5			3844.2				357.2		19.8
+35	New Mexico	DIURON	2003	kg	6661.8			3411.9			1246.9	6459.4		85.1
+35	New Mexico	DIURON	2004	kg	4895.1			1155.4			1039.1	9985.1		
+35	New Mexico	DIURON	2005	kg				4185			1184.5	10688.2		193.5
+35	New Mexico	DIURON	2006	kg				3328.5			1914.3	14285.6		
+35	New Mexico	DIURON	2007	kg				1166.6			2986.5	2827.6		
+35	New Mexico	DIURON	2008	kg	2555.1			841.8			3633.8	19801.4		
+35	New Mexico	DIURON	2009	kg				537.1				7492.2	697.3	
+35	New Mexico	DIURON	2010	kg	781.3			862			4157.3	10671.2		1186.9
+35	New Mexico	DIURON	2011	kg				293.2			3009	10249.6		
+35	New Mexico	DIURON	2012	kg				299.9			5511.7	16424.7		204.7
+35	New Mexico	DIURON	2013	kg				214.9				12854.7		16.6
+35	New Mexico	DIURON	2014	kg				477.1				7548.2	3108.7	
+35	New Mexico	DIURON	2015	kg				1145.1				5612.8		
+35	New Mexico	DIURON	2016	kg				807.8				7307.1		
+35	New Mexico	DIURON	2017	kg				1845.9				6796.3	8928.7	
+36	New York	DIURON	1992	kg					2441.5		40037.7			
+36	New York	DIURON	1993	kg							28358.9			
+36	New York	DIURON	1994	kg							31576.4			
+36	New York	DIURON	1995	kg					97.9		26127.7			
+36	New York	DIURON	1996	kg					224.4		58373.4			
+36	New York	DIURON	1997	kg					175.1		36129.7			
+36	New York	DIURON	1998	kg							36273.4			
+36	New York	DIURON	1999	kg							29525.5			
+36	New York	DIURON	2000	kg							31267.4			
+36	New York	DIURON	2001	kg							37462.1			
+36	New York	DIURON	2002	kg							29497.8			
+36	New York	DIURON	2003	kg							23421.5			
+36	New York	DIURON	2004	kg							50897.1			
+36	New York	DIURON	2005	kg							28349.2			
+36	New York	DIURON	2006	kg							16481.5			
+36	New York	DIURON	2007	kg							11043.3			
+36	New York	DIURON	2008	kg							19197.1			
+36	New York	DIURON	2009	kg							18190.6			
+36	New York	DIURON	2010	kg							17645.6			
+36	New York	DIURON	2011	kg							15951.9			
+36	New York	DIURON	2012	kg							11185			
+36	New York	DIURON	2013	kg							37932.6			
+36	New York	DIURON	2014	kg							7903.5			
+36	New York	DIURON	2015	kg							4813			
+36	New York	DIURON	2016	kg							3761.2			
+36	New York	DIURON	2017	kg							4005.8			
+37	North Carolina	DIURON	1992	kg				5769.5			9895.7		12348	
+37	North Carolina	DIURON	1993	kg				6444.9			476.1		13396.8	3913.9
+37	North Carolina	DIURON	1994	kg				11565.7			5808.8		8282.5	
+37	North Carolina	DIURON	1995	kg	3238.6			15593.3	2432.3		2749.3		14083.8	922.7
+37	North Carolina	DIURON	1996	kg				20721.3	120.1		1879.6		7617.2	171.8
+37	North Carolina	DIURON	1997	kg				412.2	61.7		3668.5			
+37	North Carolina	DIURON	1998	kg				515.2			2406.3			
+37	North Carolina	DIURON	1999	kg				497.9			2048			
+37	North Carolina	DIURON	2000	kg				365.7			902.7			
+37	North Carolina	DIURON	2001	kg				7343			3536.5			
+37	North Carolina	DIURON	2002	kg				859.8			1293.7			
+37	North Carolina	DIURON	2003	kg				985.1			2357.5			
+37	North Carolina	DIURON	2004	kg				30253.5			3288.7			
+37	North Carolina	DIURON	2005	kg				15343.3			2541.4			
+37	North Carolina	DIURON	2006	kg	2265.2		1.4	28764.8			3575.1			
+37	North Carolina	DIURON	2007	kg				13673.9			3186.4			
+37	North Carolina	DIURON	2008	kg				12765.8			574.2			
+37	North Carolina	DIURON	2009	kg				22297.7			3602			
+37	North Carolina	DIURON	2010	kg				36086.1			1400.4			
+37	North Carolina	DIURON	2011	kg				58095.2			2493.7			
+37	North Carolina	DIURON	2012	kg				58489			794.9			
+37	North Carolina	DIURON	2013	kg				49957.2			668.5			
+37	North Carolina	DIURON	2014	kg				50958.2			113.5			
+37	North Carolina	DIURON	2015	kg				33376.5			1321		6432.8	
+37	North Carolina	DIURON	2016	kg				20525.2			243.5			
+37	North Carolina	DIURON	2017	kg				12064.3						
+38	North Dakota	DIURON	1992	kg								10373.5		
+38	North Dakota	DIURON	1993	kg								12627	69.6	
+38	North Dakota	DIURON	1994	kg			32299.6							
+38	North Dakota	DIURON	1997	kg									0.1	
+38	North Dakota	DIURON	1998	kg			7766.6							8873.6
+38	North Dakota	DIURON	2000	kg	2970.4		1775.7							
+38	North Dakota	DIURON	2003	kg			1708.6							
+38	North Dakota	DIURON	2004	kg			32454.5							
+38	North Dakota	DIURON	2005	kg			11497.1							
+38	North Dakota	DIURON	2016	kg										6645.3
+39	Ohio	DIURON	1992	kg					2215.7		12036.7			
+39	Ohio	DIURON	1993	kg					23.3		2327.9			
+39	Ohio	DIURON	1994	kg	1766.8						11746.4			
+39	Ohio	DIURON	1995	kg					26.3		7493.5			
+39	Ohio	DIURON	1996	kg					92.7		5372.6			114.5
+39	Ohio	DIURON	1997	kg					12.3		7219.7		2.6	
+39	Ohio	DIURON	1998	kg					8.5		3927.6			
+39	Ohio	DIURON	1999	kg					23.4		1722.6			
+39	Ohio	DIURON	2000	kg					49.8		3114.7			
+39	Ohio	DIURON	2001	kg					71		1401.8			
+39	Ohio	DIURON	2002	kg					44.6		1854.7			
+39	Ohio	DIURON	2003	kg					53.6		1485.4			
+39	Ohio	DIURON	2004	kg					56.4		1290.8			
+39	Ohio	DIURON	2005	kg					26.3		803.4			
+39	Ohio	DIURON	2006	kg					9.3		2171.3			
+39	Ohio	DIURON	2007	kg					11.5		798.9			
+39	Ohio	DIURON	2008	kg							1018.8			
+39	Ohio	DIURON	2009	kg							3494.3			
+39	Ohio	DIURON	2010	kg							519.7			
+39	Ohio	DIURON	2011	kg							1656.2			
+39	Ohio	DIURON	2012	kg							714.9	568.1		
+39	Ohio	DIURON	2013	kg							516.3			
+39	Ohio	DIURON	2014	kg							1162.2			
+39	Ohio	DIURON	2015	kg							1245			
+39	Ohio	DIURON	2016	kg							137.1	212.1		
+39	Ohio	DIURON	2017	kg							391.8			
+40	Oklahoma	DIURON	1992	kg			113541	1503.3			12.1	5735.8	858.7	3279.6
+40	Oklahoma	DIURON	1993	kg				3036			8.1	39929.8	2760.3	2225
+40	Oklahoma	DIURON	1994	kg	2651.8			4413.4			127.3	9392.1	5108.6	1895.5
+40	Oklahoma	DIURON	1995	kg		70.7		850.7				7323.5		57.9
+40	Oklahoma	DIURON	1996	kg	350.8			1036.1	59.1			14507.6	1769.5	792.8
+40	Oklahoma	DIURON	1997	kg	184.8			3496.2				28924.2	2423.1	289.5
+40	Oklahoma	DIURON	1998	kg	8377.8		15161.9	3351.2			616	12815.6		128.9
+40	Oklahoma	DIURON	1999	kg	10951.9			258				92876.5		573.7
+40	Oklahoma	DIURON	2000	kg	1445.9			5092.9				18543.5		
+40	Oklahoma	DIURON	2001	kg	1188.3			730						
+40	Oklahoma	DIURON	2002	kg	566.7			630				23792.3		51.8
+40	Oklahoma	DIURON	2003	kg				1282.4			714.6	18370.9		110.8
+40	Oklahoma	DIURON	2004	kg				928.5			16.1	27161.4	24241.6	
+40	Oklahoma	DIURON	2005	kg				1112.4				21688.2		
+40	Oklahoma	DIURON	2006	kg				2829.6			27.6	17396.3		
+40	Oklahoma	DIURON	2007	kg				1049.1				6660		
+40	Oklahoma	DIURON	2008	kg				851.8			11484.4	17190.8		
+40	Oklahoma	DIURON	2009	kg				2925				11367.9		
+40	Oklahoma	DIURON	2010	kg	339.7			24626.4			8.3	11178.2		
+40	Oklahoma	DIURON	2011	kg				41499.2			171.3	29540.2		
+40	Oklahoma	DIURON	2012	kg				5000.2			86.9	18052.7		678.3
+40	Oklahoma	DIURON	2013	kg				9806.5			86.6	23485.7		
+40	Oklahoma	DIURON	2014	kg				6357				10907.4	7458.9	252.6
+40	Oklahoma	DIURON	2015	kg				6971.5				22792.9	21401.4	
+40	Oklahoma	DIURON	2016	kg				3004.2				11257.4		
+40	Oklahoma	DIURON	2017	kg			65.4	20828.6				17451.7	34059.3	
+41	Oregon	DIURON	1992	kg			192471.3		816		4657.3	15533.3	62381.3	1324
+41	Oregon	DIURON	1993	kg			207546.8		308.1		8199.8	9780.7	115152.6	98.4
+41	Oregon	DIURON	1994	kg			48407.2		431		36168.4	3413	1963691.1	1062.1
+41	Oregon	DIURON	1995	kg			83328.5		71.2		4036.4	16366.8	2191992.8	
+41	Oregon	DIURON	1996	kg			195738.3				8979.7	12434.5	19193.9	1140.4
+41	Oregon	DIURON	1997	kg			145287.2		3971		6173.8	16452.9	85325.8	339.8
+41	Oregon	DIURON	1998	kg			130859		397.5		20199.9	77805.3		1714.7
+41	Oregon	DIURON	1999	kg			16709.1		343.6		6121.6	48026	9916.8	
+41	Oregon	DIURON	2000	kg			49988.4		601		11150.7	11550.1	11384.3	
+41	Oregon	DIURON	2001	kg			56981.6		398.2		7749.6	39322.8		
+41	Oregon	DIURON	2002	kg			181591.7		1201.5		8030.6	2090.1		
+41	Oregon	DIURON	2003	kg			62122.6		233.1		12087.9	32460.4	54970.3	2450.4
+41	Oregon	DIURON	2004	kg			18288.8		197.6		12993.2	13524.7	45868.1	5262
+41	Oregon	DIURON	2005	kg			25556		236.8		12200.8	25950.2	83137.1	
+41	Oregon	DIURON	2006	kg			7459.4		4738.5		14879.7	12132		
+41	Oregon	DIURON	2007	kg					4557.4		18790.4	9118.3	79.5	
+41	Oregon	DIURON	2008	kg			7219.8		4824.1		13437.8	17945.4		
+41	Oregon	DIURON	2009	kg			11537.3		3870.8		20979.7	13320.3		5333.2
+41	Oregon	DIURON	2010	kg			140005.5		3568.4		18869.7	40908.8		
+41	Oregon	DIURON	2011	kg			162485.5		3762.4		13999.5	1639.4	5320.7	
+41	Oregon	DIURON	2012	kg			12570.5		1904.2		5807.4	15754		5371.9
+41	Oregon	DIURON	2013	kg					1298.7		12420.9	9847.2	3329	5426.6
+41	Oregon	DIURON	2014	kg			69628.3		931.5		11694.4	16443.5	538.7	5779.2
+41	Oregon	DIURON	2015	kg			42476		1998.7		11509.3	19857.3		
+41	Oregon	DIURON	2016	kg			50157.7		1420.7		8236.2	17781.2		
+41	Oregon	DIURON	2017	kg			87061.2		1953		5484.4	11202.8		
+42	Pennsylvania	DIURON	1992	kg	25473.1				394.9		9412.1		41.8	
+42	Pennsylvania	DIURON	1993	kg					15.8		25397.2			
+42	Pennsylvania	DIURON	1994	kg					5.1		39768.7			
+42	Pennsylvania	DIURON	1995	kg	1264.1				1084.9		19363.9			
+42	Pennsylvania	DIURON	1996	kg		146.9			439.8		14702.3		64.7	
+42	Pennsylvania	DIURON	1997	kg					216.7		12031.3		1	
+42	Pennsylvania	DIURON	1998	kg							14381.2			
+42	Pennsylvania	DIURON	1999	kg							10092.8			
+42	Pennsylvania	DIURON	2000	kg							20270.5			
+42	Pennsylvania	DIURON	2001	kg							14327.3			
+42	Pennsylvania	DIURON	2002	kg							19841.5			
+42	Pennsylvania	DIURON	2003	kg							13830.3			
+42	Pennsylvania	DIURON	2004	kg							14679.1			
+42	Pennsylvania	DIURON	2005	kg							14235.3			
+42	Pennsylvania	DIURON	2006	kg							13772.7			
+42	Pennsylvania	DIURON	2007	kg							25132.4			
+42	Pennsylvania	DIURON	2008	kg							7808.7			
+42	Pennsylvania	DIURON	2009	kg							9894.1			
+42	Pennsylvania	DIURON	2010	kg							11011.4			
+42	Pennsylvania	DIURON	2011	kg							9865.6			
+42	Pennsylvania	DIURON	2012	kg							3819.2			
+42	Pennsylvania	DIURON	2013	kg							8901.3			
+42	Pennsylvania	DIURON	2014	kg							3803.2			
+42	Pennsylvania	DIURON	2015	kg							5508.2			
+42	Pennsylvania	DIURON	2016	kg							1105.2			
+42	Pennsylvania	DIURON	2017	kg							1922.5			
+44	Rhode Island	DIURON	1992	kg							78.7			
+44	Rhode Island	DIURON	1993	kg							47.3			
+44	Rhode Island	DIURON	1994	kg							143.2			
+44	Rhode Island	DIURON	1995	kg							87.2			
+44	Rhode Island	DIURON	1996	kg							105.3			
+44	Rhode Island	DIURON	1997	kg							49.6			
+44	Rhode Island	DIURON	1998	kg							2.9			
+44	Rhode Island	DIURON	1999	kg							31.2			
+44	Rhode Island	DIURON	2000	kg							31.5			
+44	Rhode Island	DIURON	2001	kg							22.9			
+44	Rhode Island	DIURON	2002	kg							52.7			
+44	Rhode Island	DIURON	2003	kg							62.9			
+44	Rhode Island	DIURON	2004	kg							33.1			
+44	Rhode Island	DIURON	2005	kg							83.9			
+44	Rhode Island	DIURON	2006	kg							93.2			
+44	Rhode Island	DIURON	2007	kg							44.3			
+44	Rhode Island	DIURON	2008	kg							51.6			
+44	Rhode Island	DIURON	2009	kg							75.1			
+44	Rhode Island	DIURON	2010	kg							84.9			
+44	Rhode Island	DIURON	2011	kg							99.5			
+44	Rhode Island	DIURON	2012	kg							23.5			
+44	Rhode Island	DIURON	2013	kg							45.2			
+44	Rhode Island	DIURON	2014	kg							32.2			
+44	Rhode Island	DIURON	2015	kg							26.7			
+44	Rhode Island	DIURON	2016	kg							8.3			
+44	Rhode Island	DIURON	2017	kg							14.3			
+45	South Carolina	DIURON	1992	kg				3015.5			2909.7		647.6	746.7
+45	South Carolina	DIURON	1993	kg				3813.2			3479			
+45	South Carolina	DIURON	1994	kg				4757.3			3146.9		138.3	
+45	South Carolina	DIURON	1995	kg	586.9			5528.9			4764.2			
+45	South Carolina	DIURON	1996	kg				10656.3	251.6		28330.3			
+45	South Carolina	DIURON	1997	kg				1176.6	52.7		4561			
+45	South Carolina	DIURON	1998	kg	9361.4			162			7055.6			
+45	South Carolina	DIURON	1999	kg				871.1			1118.7			
+45	South Carolina	DIURON	2000	kg				1864.6			12610.7			
+45	South Carolina	DIURON	2001	kg				1462.9			4461			
+45	South Carolina	DIURON	2002	kg				4780.8			2380			
+45	South Carolina	DIURON	2003	kg				2854.4			2570.7			
+45	South Carolina	DIURON	2004	kg				13735.8			7675.3			
+45	South Carolina	DIURON	2005	kg				1705.2			7362.2			
+45	South Carolina	DIURON	2006	kg			14.9	13838			28227.2			
+45	South Carolina	DIURON	2007	kg				9556.3			7657.5			
+45	South Carolina	DIURON	2008	kg				3104.5			3281.6			
+45	South Carolina	DIURON	2009	kg				6014.2			4261.5			
+45	South Carolina	DIURON	2010	kg				16052.7			8615.5			
+45	South Carolina	DIURON	2011	kg				44979.9			10584.6			
+45	South Carolina	DIURON	2012	kg				19592			6667.6			
+45	South Carolina	DIURON	2013	kg				4357.8			5882.4			
+45	South Carolina	DIURON	2014	kg				28618.1			94.5			
+45	South Carolina	DIURON	2015	kg				19813.1			3501.3			
+45	South Carolina	DIURON	2016	kg				4121.4			8024.3			
+45	South Carolina	DIURON	2017	kg				9680.7			23129.4			
+46	South Dakota	DIURON	1992	kg								5824.4		
+46	South Dakota	DIURON	1993	kg								10821.1	16.6	
+46	South Dakota	DIURON	1995	kg									9.8	
+46	South Dakota	DIURON	1996	kg								7995.8		
+46	South Dakota	DIURON	1998	kg			13164.2							
+46	South Dakota	DIURON	2000	kg	4001.6		1432.3							
+46	South Dakota	DIURON	2004	kg			6874.6							
+46	South Dakota	DIURON	2005	kg			2093.2							
+46	South Dakota	DIURON	2011	kg								484.9		
+46	South Dakota	DIURON	2014	kg					0					
+46	South Dakota	DIURON	2016	kg								994.6		
+47	Tennessee	DIURON	1992	kg				1430.3	229.3		472.6		591.2	
+47	Tennessee	DIURON	1993	kg				16935.7			259.9		145.6	
+47	Tennessee	DIURON	1994	kg				4523			492.5		751.9	
+47	Tennessee	DIURON	1995	kg	23589.1			6386.1	404		522			263.7
+47	Tennessee	DIURON	1996	kg	1779.6			6475.8	281.7		595.6	72.7	808.2	1920.1
+47	Tennessee	DIURON	1997	kg	2330.1			13740.8	15.5		382.1	1458.5	375.8	
+47	Tennessee	DIURON	1998	kg				975			183.5			
+47	Tennessee	DIURON	1999	kg				13961.3			176.9		5026.1	
+47	Tennessee	DIURON	2000	kg				25434.2			136.6			
+47	Tennessee	DIURON	2001	kg				19608			395.1			
+47	Tennessee	DIURON	2002	kg				24184.5			206.7			
+47	Tennessee	DIURON	2003	kg				24748.4			227.2			
+47	Tennessee	DIURON	2004	kg	592.7			40108.7			418.9			
+47	Tennessee	DIURON	2005	kg				19907.5			285.2			
+47	Tennessee	DIURON	2006	kg				24801.7			345			
+47	Tennessee	DIURON	2007	kg			3724.1	10919.4			291.7			
+47	Tennessee	DIURON	2008	kg				6233.5			70.5			
+47	Tennessee	DIURON	2009	kg				5833.8			445.4			
+47	Tennessee	DIURON	2010	kg				12218.9			38.3			
+47	Tennessee	DIURON	2011	kg				35860.3			175.4			
+47	Tennessee	DIURON	2012	kg				15805.7			33.8			
+47	Tennessee	DIURON	2013	kg				11384.6			97.6			
+47	Tennessee	DIURON	2014	kg				5332.8			20.7			
+47	Tennessee	DIURON	2015	kg	1207.2			534			94			
+47	Tennessee	DIURON	2016	kg			852.5	1393.6						
+47	Tennessee	DIURON	2017	kg				6972.5						
+48	Texas	DIURON	1992	kg				104088.7			14496.8	2974.6	2531.4	20516.8
+48	Texas	DIURON	1993	kg				159069.6	577.9		27731	36491	2731.1	8352.2
+48	Texas	DIURON	1994	kg	29090.6	117.7		158997.2			18335.9	6526.7	12763.2	12707.6
+48	Texas	DIURON	1995	kg		709		127686			64011.3	10824.9		313.4
+48	Texas	DIURON	1996	kg	2746.4			129236.3			6781.8	1588.8	5304	6033.9
+48	Texas	DIURON	1997	kg	8448.3			159017.2			29752.9	4945	1994.3	1279.5
+48	Texas	DIURON	1998	kg	100041		53926.8	192416.6			70650.2	3382.8	13375	718.6
+48	Texas	DIURON	1999	kg	66090.6			222886.2			12956	21244		3695.8
+48	Texas	DIURON	2000	kg	38227.6			309005.9			30895.4	5744.8		22133.6
+48	Texas	DIURON	2001	kg	85642.4			260373.7			34001.5			7424
+48	Texas	DIURON	2002	kg	63938.9			364549			26037.4	32226.6		447.8
+48	Texas	DIURON	2003	kg	45662.1			229204.8			15756.8	4319.1		2316.2
+48	Texas	DIURON	2004	kg	39805.7			386808.4			24865.9	16830.1		1612.7
+48	Texas	DIURON	2005	kg				378300.6			25582.4	5979.5		1424.8
+48	Texas	DIURON	2006	kg				303914.5			19126.8	7354.7	3668	0.2
+48	Texas	DIURON	2007	kg				130749.7			29241.5	3011.4		
+48	Texas	DIURON	2008	kg	21304.4			88983.9			22949.4	9453.7		
+48	Texas	DIURON	2009	kg				111935.3			24201.5	3684.3	7773.9	
+48	Texas	DIURON	2010	kg	6481.7			167990.6			19894.8	4235.8		15076.6
+48	Texas	DIURON	2011	kg				119432.7			16195.1	8301.5		
+48	Texas	DIURON	2012	kg				124660.6			25165.1	7177.6		4105.2
+48	Texas	DIURON	2013	kg				95343.7			27256.7	8885.5		425.8
+48	Texas	DIURON	2014	kg				271146.7			15117	3968.3	2322.4	1285.6
+48	Texas	DIURON	2015	kg				316340.5			15285.4	4885.8	17929	
+48	Texas	DIURON	2016	kg				343979.5				6438.9	11406.1	
+48	Texas	DIURON	2017	kg				417106.3				6409.9	78582.7	
+49	Utah	DIURON	1992	kg			20854.1				1952.4	6401.5	2406.8	
+49	Utah	DIURON	1993	kg			16674.4					3361.2	368.1	
+49	Utah	DIURON	1994	kg			3114.2		1000.8			6917.9	28.6	
+49	Utah	DIURON	1995	kg							1558.8	19953.4	3375	
+49	Utah	DIURON	1996	kg							623.9	24339.4	457.4	
+49	Utah	DIURON	1997	kg							2431.2	29159.3	9160.1	
+49	Utah	DIURON	1998	kg			20248.6				2221.3			
+49	Utah	DIURON	1999	kg			1421.9					32635.7		
+49	Utah	DIURON	2000	kg							297.6	17310.8		
+49	Utah	DIURON	2001	kg			2010.5				76.8			
+49	Utah	DIURON	2002	kg							29.2	3061.1		
+49	Utah	DIURON	2003	kg							137			
+49	Utah	DIURON	2004	kg			446.2				126.3	8356.9		
+49	Utah	DIURON	2005	kg							286.6	25601.7		
+49	Utah	DIURON	2006	kg							247.7	11673.6		
+49	Utah	DIURON	2007	kg							41.4	12214.2		
+49	Utah	DIURON	2008	kg								131159.8		
+49	Utah	DIURON	2009	kg							468.5	2965.6		
+49	Utah	DIURON	2010	kg								25558.9		
+49	Utah	DIURON	2011	kg								5625.7		
+49	Utah	DIURON	2012	kg								21619.9		
+49	Utah	DIURON	2013	kg								28936.6		
+49	Utah	DIURON	2014	kg								3238.3		
+49	Utah	DIURON	2015	kg								8007.2		
+49	Utah	DIURON	2016	kg								41271.8		
+49	Utah	DIURON	2017	kg								6752.9		
+50	Vermont	DIURON	1992	kg					3.2		1483.5			
+50	Vermont	DIURON	1993	kg							265			
+50	Vermont	DIURON	1994	kg							1362.8			
+50	Vermont	DIURON	1995	kg					12.3		858.6			
+50	Vermont	DIURON	1996	kg					7.8		2188.1			
+50	Vermont	DIURON	1997	kg					12.1		433.1			
+50	Vermont	DIURON	1998	kg							23			
+50	Vermont	DIURON	1999	kg							205.2			
+50	Vermont	DIURON	2000	kg							194			
+50	Vermont	DIURON	2001	kg							97.8			
+50	Vermont	DIURON	2002	kg							94.5			
+50	Vermont	DIURON	2003	kg							351.6			
+50	Vermont	DIURON	2004	kg							331.7			
+50	Vermont	DIURON	2005	kg							741.7			
+50	Vermont	DIURON	2006	kg							672.4			
+50	Vermont	DIURON	2007	kg							155.1			
+50	Vermont	DIURON	2008	kg							358.2			
+50	Vermont	DIURON	2009	kg							464			
+50	Vermont	DIURON	2010	kg							609.3			
+50	Vermont	DIURON	2011	kg							640.8			
+50	Vermont	DIURON	2012	kg							177.4			
+50	Vermont	DIURON	2013	kg							311.7			
+50	Vermont	DIURON	2014	kg							207.4			
+50	Vermont	DIURON	2015	kg							396.8			
+50	Vermont	DIURON	2016	kg							89			
+50	Vermont	DIURON	2017	kg							161.5			
+51	Virginia	DIURON	1992	kg				313			2586.5			
+51	Virginia	DIURON	1993	kg				385.4			1765.1			734.6
+51	Virginia	DIURON	1994	kg	342			985.6			4781.5			
+51	Virginia	DIURON	1995	kg	1145			1917.9	166.8		3766.6			343.6
+51	Virginia	DIURON	1996	kg				2662.5	21.6		8485.7			287.8
+51	Virginia	DIURON	1997	kg				11.9	78.6		4294			
+51	Virginia	DIURON	1998	kg				27.2			5468.1			
+51	Virginia	DIURON	1999	kg				30.9			9334			
+51	Virginia	DIURON	2000	kg				783.5			8075.6			
+51	Virginia	DIURON	2001	kg				235.8			1518.7			
+51	Virginia	DIURON	2002	kg				47.2			5445.6			
+51	Virginia	DIURON	2003	kg				19.7			12587.2			
+51	Virginia	DIURON	2004	kg				1694.3			5142.9			
+51	Virginia	DIURON	2005	kg				536.7			7825.6			
+51	Virginia	DIURON	2006	kg				2077.9			13786.1			
+51	Virginia	DIURON	2007	kg				261.8			9078.7			
+51	Virginia	DIURON	2008	kg				38.4			2659.8			
+51	Virginia	DIURON	2009	kg				1199.2			4658.1			
+51	Virginia	DIURON	2010	kg				652.7			4890.8			
+51	Virginia	DIURON	2011	kg				1332.7			11247.2			
+51	Virginia	DIURON	2012	kg				3419.7			7285			
+51	Virginia	DIURON	2013	kg				2891.5			3470.3			
+51	Virginia	DIURON	2014	kg				3849.6			2133.8			
+51	Virginia	DIURON	2015	kg				3408.8			3947.3		3031.3	
+51	Virginia	DIURON	2016	kg				1003.3			2552.5			
+51	Virginia	DIURON	2017	kg				1265			484.4			
+53	Washington	DIURON	1992	kg			315689.9		6683.4		10220.6	11625.3	6038.9	85.9
+53	Washington	DIURON	1993	kg			213851		11246.6		26101.9	35937.6	20624	1369.5
+53	Washington	DIURON	1994	kg			383711.7		14634.4		19188.1		27350.3	8737.5
+53	Washington	DIURON	1995	kg			10679.6		13602.3		4019.4	18095.2	48942.5	
+53	Washington	DIURON	1996	kg			9496.6		4072.5		603.7	104.5	3471	133.9
+53	Washington	DIURON	1997	kg			3405.6		549.8		31979.7	14864.1	2695.6	48.9
+53	Washington	DIURON	1998	kg			129558.1		7896.3		33973.2	164677.2		706.8
+53	Washington	DIURON	1999	kg			85081.6		4860.8		20476	96924.1	69.7	
+53	Washington	DIURON	2000	kg			24511.2		8375.6		17840.6	61353.5	199.8	
+53	Washington	DIURON	2001	kg			278667.4		5758.4		18982.6			
+53	Washington	DIURON	2002	kg			28798.3		7845.4		5792.9	1863		
+53	Washington	DIURON	2003	kg			12122.4		7526.3		21445.8		18028.9	
+53	Washington	DIURON	2004	kg			34.3		4579.8		35805.7	28297.9	103.5	18409.8
+53	Washington	DIURON	2005	kg			3168.5		4336.2		13516.1	1254.2	28.8	
+53	Washington	DIURON	2006	kg			5898.6		1820.2		7200.7	9803.3		
+53	Washington	DIURON	2007	kg			19757.3		4824.1		15526.6	4644.3	114.7	
+53	Washington	DIURON	2008	kg			2362.7		20198.4		13538.9	6157.9		
+53	Washington	DIURON	2009	kg			9115.6		10747.7		14676.1	5288		
+53	Washington	DIURON	2010	kg			74174.3		5584.9		59197.5	24519.5		
+53	Washington	DIURON	2011	kg			47199.7		6024.1		6750.3			
+53	Washington	DIURON	2012	kg			307.1		1473.3		11156.1	7992.4		
+53	Washington	DIURON	2013	kg					4255.2		7727	20783.4	5670.2	
+53	Washington	DIURON	2014	kg			840.7		2388.6		3621.7	17713.5	3131.5	
+53	Washington	DIURON	2015	kg			885.1		2687.7		20065.1	14589.8		
+53	Washington	DIURON	2016	kg			16867.2		1062.3		2279.5	13947.7		
+53	Washington	DIURON	2017	kg			56842.6		2985.9		257.6	14664		
+54	West Virginia	DIURON	1992	kg							4334.5			
+54	West Virginia	DIURON	1993	kg							481.2			
+54	West Virginia	DIURON	1994	kg	568.8						639.9			
+54	West Virginia	DIURON	1995	kg	617.1						4155.8			
+54	West Virginia	DIURON	1996	kg							2703.4			
+54	West Virginia	DIURON	1997	kg					21.8		918.9		0.2	
+54	West Virginia	DIURON	1998	kg							1954.8			
+54	West Virginia	DIURON	1999	kg							474			
+54	West Virginia	DIURON	2000	kg							251			
+54	West Virginia	DIURON	2001	kg							1004.3			
+54	West Virginia	DIURON	2002	kg							2785.7			
+54	West Virginia	DIURON	2003	kg							1337.4			
+54	West Virginia	DIURON	2004	kg							1941.9			
+54	West Virginia	DIURON	2005	kg							5093.4			
+54	West Virginia	DIURON	2006	kg							4603.5			
+54	West Virginia	DIURON	2007	kg							2649.7			
+54	West Virginia	DIURON	2008	kg							2073.1			
+54	West Virginia	DIURON	2009	kg							2944.2			
+54	West Virginia	DIURON	2010	kg							1299.8			
+54	West Virginia	DIURON	2011	kg							341			
+54	West Virginia	DIURON	2012	kg							434			
+54	West Virginia	DIURON	2013	kg							1023.5			
+54	West Virginia	DIURON	2014	kg							551.6			
+54	West Virginia	DIURON	2015	kg							1558.7			
+54	West Virginia	DIURON	2016	kg							604.4			
+54	West Virginia	DIURON	2017	kg							85.3			
+55	Wisconsin	DIURON	1992	kg							395.7			
+55	Wisconsin	DIURON	1993	kg							2097			
+55	Wisconsin	DIURON	1994	kg							398.6			
+55	Wisconsin	DIURON	1995	kg							752.6			
+55	Wisconsin	DIURON	1996	kg							3356.9			
+55	Wisconsin	DIURON	1997	kg							555.1			
+55	Wisconsin	DIURON	1998	kg							380.5			
+55	Wisconsin	DIURON	1999	kg							866.7			
+55	Wisconsin	DIURON	2000	kg							1942.5			
+55	Wisconsin	DIURON	2001	kg							509.9			
+55	Wisconsin	DIURON	2002	kg	18997						629			
+55	Wisconsin	DIURON	2003	kg	12740.7						385.5			
+55	Wisconsin	DIURON	2004	kg							538.1			
+55	Wisconsin	DIURON	2005	kg							370.7			
+55	Wisconsin	DIURON	2006	kg	4974.7						2295.8			
+55	Wisconsin	DIURON	2007	kg	293.7				3882.3		820.5			
+55	Wisconsin	DIURON	2008	kg							1224.2			
+55	Wisconsin	DIURON	2009	kg							1297.4			
+55	Wisconsin	DIURON	2010	kg							238.4			
+55	Wisconsin	DIURON	2011	kg							1255			
+55	Wisconsin	DIURON	2012	kg							225.6			
+55	Wisconsin	DIURON	2013	kg							826.2			
+55	Wisconsin	DIURON	2014	kg							394.5			
+55	Wisconsin	DIURON	2015	kg							208.8			
+55	Wisconsin	DIURON	2016	kg							212.5	7435.9		
+55	Wisconsin	DIURON	2017	kg							573.7			
+56	Wyoming	DIURON	1992	kg					487.5			5029.5	614.2	
+56	Wyoming	DIURON	1993	kg								4980.8	2001.5	
+56	Wyoming	DIURON	1994	kg								3405.7	1612.7	
+56	Wyoming	DIURON	1995	kg								9879.2	1473.9	
+56	Wyoming	DIURON	1996	kg								11611.5	82.7	
+56	Wyoming	DIURON	1997	kg								13827.1	2948.6	
+56	Wyoming	DIURON	1999	kg								16614.5		
+56	Wyoming	DIURON	2000	kg								336.1		
+56	Wyoming	DIURON	2002	kg								1365.7		
+56	Wyoming	DIURON	2004	kg								3208.7		
+56	Wyoming	DIURON	2005	kg								12469.1		
+56	Wyoming	DIURON	2006	kg								6756.1		
+56	Wyoming	DIURON	2007	kg								12385.6		
+56	Wyoming	DIURON	2008	kg								22521.7		
+56	Wyoming	DIURON	2009	kg								3544.3		
+56	Wyoming	DIURON	2010	kg								10908.2		
+56	Wyoming	DIURON	2011	kg								2481.5		
+56	Wyoming	DIURON	2012	kg								14280.2		
+56	Wyoming	DIURON	2013	kg								9964.7		
+56	Wyoming	DIURON	2014	kg								5210.5		
+56	Wyoming	DIURON	2015	kg								3653.6		
+56	Wyoming	DIURON	2016	kg								7384		
+56	Wyoming	DIURON	2017	kg								1943.3		

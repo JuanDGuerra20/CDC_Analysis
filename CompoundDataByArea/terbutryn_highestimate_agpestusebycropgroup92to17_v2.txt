@@ -1,0 +1,25 @@
+06	California	TERBUTRYN	1998	kg							0			
+06	California	TERBUTRYN	1999	kg							1.7			
+06	California	TERBUTRYN	2000	kg							0.2			
+06	California	TERBUTRYN	2016	kg							10.9			
+16	Idaho	TERBUTRYN	1992	kg			40416							
+16	Idaho	TERBUTRYN	1993	kg			11016.3							
+16	Idaho	TERBUTRYN	1994	kg			29.1					584.7		
+20	Kansas	TERBUTRYN	1992	kg									8487.3	13469.1
+26	Michigan	TERBUTRYN	1992	kg										12427.2
+30	Montana	TERBUTRYN	1992	kg			1216.3							
+30	Montana	TERBUTRYN	1993	kg			353.7							
+31	Nebraska	TERBUTRYN	1992	kg									26958.2	6033.6
+35	New Mexico	TERBUTRYN	1992	kg										923.8
+40	Oklahoma	TERBUTRYN	1992	kg										2992.9
+40	Oklahoma	TERBUTRYN	1994	kg										1284.5
+41	Oregon	TERBUTRYN	1992	kg			1607.3							
+41	Oregon	TERBUTRYN	1993	kg			4925.3							
+41	Oregon	TERBUTRYN	1994	kg			28.1					857.3		
+48	Texas	TERBUTRYN	1992	kg										20271.2
+48	Texas	TERBUTRYN	1993	kg										5365.2
+48	Texas	TERBUTRYN	1994	kg										2416.6
+53	Washington	TERBUTRYN	1992	kg			63108.4							
+53	Washington	TERBUTRYN	1993	kg			15492.5							
+53	Washington	TERBUTRYN	1994	kg			226.7					302.4		
+55	Wisconsin	TERBUTRYN	1992	kg	8514.1									

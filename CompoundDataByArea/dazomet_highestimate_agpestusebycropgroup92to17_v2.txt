@@ -1,0 +1,36 @@
+04	Arizona	DAZOMET	2001	kg							7.8			
+06	California	DAZOMET	1992	kg							418.5			
+06	California	DAZOMET	1993	kg							53.2			
+06	California	DAZOMET	1994	kg							29.3			
+06	California	DAZOMET	1995	kg							724.9			
+06	California	DAZOMET	1996	kg					808.2		2607			
+06	California	DAZOMET	1997	kg					84.4		2344.4			
+06	California	DAZOMET	1998	kg							1332.7			
+06	California	DAZOMET	1999	kg							2360.4			
+06	California	DAZOMET	2000	kg							546.7			
+06	California	DAZOMET	2001	kg					359.2		594.9			
+06	California	DAZOMET	2002	kg					141.5		852.3			0.4
+06	California	DAZOMET	2003	kg					791.6		6321.9			
+06	California	DAZOMET	2004	kg					71.8		7294.5		20.4	
+06	California	DAZOMET	2005	kg							679			
+06	California	DAZOMET	2006	kg					456.1		2229.6			
+06	California	DAZOMET	2007	kg					3.9		3816.6			
+06	California	DAZOMET	2008	kg					10.3		1036.1			
+06	California	DAZOMET	2009	kg			44.9		0		562			
+06	California	DAZOMET	2010	kg					0.1		788.7			
+06	California	DAZOMET	2011	kg					27.7		3314.3			
+06	California	DAZOMET	2012	kg							3056.1			
+06	California	DAZOMET	2013	kg							837.5			
+06	California	DAZOMET	2014	kg							582			
+06	California	DAZOMET	2015	kg					37.3		645.5			
+06	California	DAZOMET	2016	kg							110			
+06	California	DAZOMET	2017	kg							28			
+08	Colorado	DAZOMET	2001	kg							359.2			
+09	Connecticut	DAZOMET	1996	kg					353.4					
+25	Massachusetts	DAZOMET	1996	kg					22397.4					
+33	New Hampshire	DAZOMET	1996	kg					200					
+35	New Mexico	DAZOMET	2001	kg							21.3			
+36	New York	DAZOMET	1996	kg					376.7					
+44	Rhode Island	DAZOMET	1996	kg					94.7					
+49	Utah	DAZOMET	2001	kg							5.9			
+50	Vermont	DAZOMET	1996	kg					203.3					

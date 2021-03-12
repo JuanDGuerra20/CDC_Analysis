@@ -1,0 +1,296 @@
+04	Arizona	DESMEDIPHAM	1997	kg					1.3					
+06	California	DESMEDIPHAM	1992	kg										4771.4
+06	California	DESMEDIPHAM	1993	kg										4169.8
+06	California	DESMEDIPHAM	1994	kg										3879.8
+06	California	DESMEDIPHAM	1995	kg										3838
+06	California	DESMEDIPHAM	1996	kg										2757
+06	California	DESMEDIPHAM	1997	kg										2797.7
+06	California	DESMEDIPHAM	1998	kg					5.2					2140.4
+06	California	DESMEDIPHAM	1999	kg										2676.1
+06	California	DESMEDIPHAM	2000	kg			0.4		1.8					3012.3
+06	California	DESMEDIPHAM	2001	kg					0.4					1700.1
+06	California	DESMEDIPHAM	2002	kg										2693.3
+06	California	DESMEDIPHAM	2003	kg					1.4					1647.3
+06	California	DESMEDIPHAM	2004	kg										1700.2
+06	California	DESMEDIPHAM	2005	kg										1889.7
+06	California	DESMEDIPHAM	2006	kg										1310.8
+06	California	DESMEDIPHAM	2007	kg										863.8
+06	California	DESMEDIPHAM	2008	kg										589.6
+06	California	DESMEDIPHAM	2009	kg										566.1
+06	California	DESMEDIPHAM	2010	kg										628.2
+06	California	DESMEDIPHAM	2011	kg										610
+06	California	DESMEDIPHAM	2012	kg										636.5
+06	California	DESMEDIPHAM	2013	kg										448.6
+06	California	DESMEDIPHAM	2014	kg										239.6
+06	California	DESMEDIPHAM	2015	kg										49.3
+06	California	DESMEDIPHAM	2016	kg										75.1
+06	California	DESMEDIPHAM	2017	kg										23.5
+08	Colorado	DESMEDIPHAM	1992	kg	750.3				36.8					606.8
+08	Colorado	DESMEDIPHAM	1993	kg									11.2	935
+08	Colorado	DESMEDIPHAM	1994	kg										815.6
+08	Colorado	DESMEDIPHAM	1995	kg										1046.9
+08	Colorado	DESMEDIPHAM	1996	kg										2615.3
+08	Colorado	DESMEDIPHAM	1997	kg										3986.8
+08	Colorado	DESMEDIPHAM	1998	kg										4527
+08	Colorado	DESMEDIPHAM	1999	kg										2723.9
+08	Colorado	DESMEDIPHAM	2000	kg										2521.2
+08	Colorado	DESMEDIPHAM	2001	kg										1733.6
+08	Colorado	DESMEDIPHAM	2002	kg										1975.1
+08	Colorado	DESMEDIPHAM	2003	kg										2073.8
+08	Colorado	DESMEDIPHAM	2004	kg										1638.4
+08	Colorado	DESMEDIPHAM	2005	kg										1079.9
+08	Colorado	DESMEDIPHAM	2006	kg										1780.6
+08	Colorado	DESMEDIPHAM	2007	kg										1132.7
+08	Colorado	DESMEDIPHAM	2008	kg										18.4
+08	Colorado	DESMEDIPHAM	2009	kg										69.4
+08	Colorado	DESMEDIPHAM	2010	kg										90.5
+08	Colorado	DESMEDIPHAM	2011	kg										63.3
+08	Colorado	DESMEDIPHAM	2012	kg										26.2
+08	Colorado	DESMEDIPHAM	2013	kg										3.4
+08	Colorado	DESMEDIPHAM	2014	kg										1092.7
+08	Colorado	DESMEDIPHAM	2015	kg										60.9
+08	Colorado	DESMEDIPHAM	2016	kg										74.8
+08	Colorado	DESMEDIPHAM	2017	kg										134.9
+12	Florida	DESMEDIPHAM	1995	kg							652.9			
+16	Idaho	DESMEDIPHAM	1992	kg			292.5		24.5					9694.6
+16	Idaho	DESMEDIPHAM	1993	kg										14230.6
+16	Idaho	DESMEDIPHAM	1994	kg			346.5		108.2			96.1		8601.5
+16	Idaho	DESMEDIPHAM	1995	kg										10497.7
+16	Idaho	DESMEDIPHAM	1996	kg										10506.1
+16	Idaho	DESMEDIPHAM	1997	kg					28.7					7434.6
+16	Idaho	DESMEDIPHAM	1998	kg										9993.5
+16	Idaho	DESMEDIPHAM	1999	kg										7642.7
+16	Idaho	DESMEDIPHAM	2000	kg										12341.5
+16	Idaho	DESMEDIPHAM	2001	kg										9740.2
+16	Idaho	DESMEDIPHAM	2002	kg										11487
+16	Idaho	DESMEDIPHAM	2003	kg										11652.1
+16	Idaho	DESMEDIPHAM	2004	kg										14897.1
+16	Idaho	DESMEDIPHAM	2005	kg										9061.8
+16	Idaho	DESMEDIPHAM	2006	kg										7483.9
+16	Idaho	DESMEDIPHAM	2007	kg										9472.1
+16	Idaho	DESMEDIPHAM	2008	kg										432.2
+18	Indiana	DESMEDIPHAM	1992	kg		1455.1								
+19	Iowa	DESMEDIPHAM	1995	kg	372.7									
+26	Michigan	DESMEDIPHAM	1992	kg										3236.5
+26	Michigan	DESMEDIPHAM	1993	kg		188			34.5					6901.4
+26	Michigan	DESMEDIPHAM	1994	kg			16.9							7501.1
+26	Michigan	DESMEDIPHAM	1995	kg										6468.3
+26	Michigan	DESMEDIPHAM	1996	kg					269.1					3989.8
+26	Michigan	DESMEDIPHAM	1997	kg									142	7234.9
+26	Michigan	DESMEDIPHAM	1998	kg										7651.2
+26	Michigan	DESMEDIPHAM	1999	kg										12288.9
+26	Michigan	DESMEDIPHAM	2000	kg										9653.2
+26	Michigan	DESMEDIPHAM	2001	kg										9434.1
+26	Michigan	DESMEDIPHAM	2002	kg										10607.5
+26	Michigan	DESMEDIPHAM	2003	kg										11545.1
+26	Michigan	DESMEDIPHAM	2004	kg										11912
+26	Michigan	DESMEDIPHAM	2005	kg										12686.7
+26	Michigan	DESMEDIPHAM	2006	kg										9491.5
+26	Michigan	DESMEDIPHAM	2007	kg										10734.1
+26	Michigan	DESMEDIPHAM	2008	kg										3433.3
+26	Michigan	DESMEDIPHAM	2009	kg										521.7
+26	Michigan	DESMEDIPHAM	2016	kg										60.1
+27	Minnesota	DESMEDIPHAM	1992	kg					16.5					42444
+27	Minnesota	DESMEDIPHAM	1993	kg		326.6								44754.2
+27	Minnesota	DESMEDIPHAM	1994	kg					58.4					49442.8
+27	Minnesota	DESMEDIPHAM	1995	kg	560.8				5687.3					52933.6
+27	Minnesota	DESMEDIPHAM	1996	kg										73560.8
+27	Minnesota	DESMEDIPHAM	1997	kg										73058.1
+27	Minnesota	DESMEDIPHAM	1998	kg										77986.3
+27	Minnesota	DESMEDIPHAM	1999	kg										94768.2
+27	Minnesota	DESMEDIPHAM	2000	kg										88923.5
+27	Minnesota	DESMEDIPHAM	2001	kg										47001.9
+27	Minnesota	DESMEDIPHAM	2002	kg										52522.1
+27	Minnesota	DESMEDIPHAM	2003	kg										38050.5
+27	Minnesota	DESMEDIPHAM	2004	kg										35791.6
+27	Minnesota	DESMEDIPHAM	2005	kg										47790.4
+27	Minnesota	DESMEDIPHAM	2006	kg										39252.4
+27	Minnesota	DESMEDIPHAM	2007	kg										46346.9
+27	Minnesota	DESMEDIPHAM	2008	kg										24917.8
+27	Minnesota	DESMEDIPHAM	2009	kg										2454.9
+27	Minnesota	DESMEDIPHAM	2010	kg										2413.9
+27	Minnesota	DESMEDIPHAM	2011	kg										6286.9
+27	Minnesota	DESMEDIPHAM	2012	kg										722.5
+27	Minnesota	DESMEDIPHAM	2013	kg										777.7
+27	Minnesota	DESMEDIPHAM	2014	kg										2579.4
+27	Minnesota	DESMEDIPHAM	2015	kg										3582
+27	Minnesota	DESMEDIPHAM	2016	kg										1464.6
+27	Minnesota	DESMEDIPHAM	2017	kg										1203.2
+30	Montana	DESMEDIPHAM	1992	kg										4250.7
+30	Montana	DESMEDIPHAM	1993	kg										2516
+30	Montana	DESMEDIPHAM	1994	kg										3551.9
+30	Montana	DESMEDIPHAM	1995	kg										3349.7
+30	Montana	DESMEDIPHAM	1996	kg										3497.8
+30	Montana	DESMEDIPHAM	1997	kg										3883.4
+30	Montana	DESMEDIPHAM	1998	kg										2489.5
+30	Montana	DESMEDIPHAM	1999	kg										6334.7
+30	Montana	DESMEDIPHAM	2000	kg										4507.5
+30	Montana	DESMEDIPHAM	2001	kg										4704.8
+30	Montana	DESMEDIPHAM	2002	kg										2918.5
+30	Montana	DESMEDIPHAM	2003	kg										4733.2
+30	Montana	DESMEDIPHAM	2004	kg										4235
+30	Montana	DESMEDIPHAM	2005	kg										2895.5
+30	Montana	DESMEDIPHAM	2006	kg										4902.8
+30	Montana	DESMEDIPHAM	2007	kg										3277.3
+30	Montana	DESMEDIPHAM	2008	kg										144.4
+30	Montana	DESMEDIPHAM	2009	kg										66
+30	Montana	DESMEDIPHAM	2010	kg										95.9
+30	Montana	DESMEDIPHAM	2011	kg										62.5
+30	Montana	DESMEDIPHAM	2012	kg										29.4
+30	Montana	DESMEDIPHAM	2013	kg										35.2
+30	Montana	DESMEDIPHAM	2014	kg										117
+30	Montana	DESMEDIPHAM	2015	kg										109.8
+30	Montana	DESMEDIPHAM	2016	kg										93.2
+30	Montana	DESMEDIPHAM	2017	kg										136.5
+31	Nebraska	DESMEDIPHAM	1992	kg	516.1				112.7					2424.9
+31	Nebraska	DESMEDIPHAM	1993	kg									7.2	3276.7
+31	Nebraska	DESMEDIPHAM	1994	kg										2285.6
+31	Nebraska	DESMEDIPHAM	1995	kg										2367.4
+31	Nebraska	DESMEDIPHAM	1996	kg										1654.3
+31	Nebraska	DESMEDIPHAM	1997	kg										3331
+31	Nebraska	DESMEDIPHAM	1998	kg										860.3
+31	Nebraska	DESMEDIPHAM	1999	kg										3448.8
+31	Nebraska	DESMEDIPHAM	2000	kg										3852.1
+31	Nebraska	DESMEDIPHAM	2001	kg										1908.3
+31	Nebraska	DESMEDIPHAM	2002	kg										2884.2
+31	Nebraska	DESMEDIPHAM	2003	kg										1723.7
+31	Nebraska	DESMEDIPHAM	2004	kg										2311.2
+31	Nebraska	DESMEDIPHAM	2005	kg										2457.9
+31	Nebraska	DESMEDIPHAM	2006	kg										3792.7
+31	Nebraska	DESMEDIPHAM	2007	kg										3812.2
+31	Nebraska	DESMEDIPHAM	2008	kg										619.4
+31	Nebraska	DESMEDIPHAM	2009	kg										200.4
+31	Nebraska	DESMEDIPHAM	2010	kg										197
+31	Nebraska	DESMEDIPHAM	2011	kg										146.4
+31	Nebraska	DESMEDIPHAM	2012	kg										61.2
+31	Nebraska	DESMEDIPHAM	2013	kg										8.5
+31	Nebraska	DESMEDIPHAM	2014	kg										1769.1
+31	Nebraska	DESMEDIPHAM	2015	kg										105.4
+31	Nebraska	DESMEDIPHAM	2016	kg										166.1
+31	Nebraska	DESMEDIPHAM	2017	kg										252.6
+32	Nevada	DESMEDIPHAM	1994	kg								73.4		
+32	Nevada	DESMEDIPHAM	1995	kg								2246		
+36	New York	DESMEDIPHAM	1996	kg					99.7					
+36	New York	DESMEDIPHAM	1997	kg					352.9					
+37	North Carolina	DESMEDIPHAM	1992	kg										113.8
+37	North Carolina	DESMEDIPHAM	1994	kg			73							
+38	North Dakota	DESMEDIPHAM	1992	kg					51.1					20121.3
+38	North Dakota	DESMEDIPHAM	1993	kg		42.9								20891.8
+38	North Dakota	DESMEDIPHAM	1994	kg										22889.1
+38	North Dakota	DESMEDIPHAM	1995	kg					14876.4					31048.9
+38	North Dakota	DESMEDIPHAM	1996	kg										53671.4
+38	North Dakota	DESMEDIPHAM	1997	kg										61366.5
+38	North Dakota	DESMEDIPHAM	1998	kg										44546.9
+38	North Dakota	DESMEDIPHAM	1999	kg										37342.2
+38	North Dakota	DESMEDIPHAM	2000	kg										48222.2
+38	North Dakota	DESMEDIPHAM	2001	kg										26898.2
+38	North Dakota	DESMEDIPHAM	2002	kg										25200.2
+38	North Dakota	DESMEDIPHAM	2003	kg										48801.4
+38	North Dakota	DESMEDIPHAM	2004	kg										28152.5
+38	North Dakota	DESMEDIPHAM	2005	kg										22601
+38	North Dakota	DESMEDIPHAM	2006	kg										13465.8
+38	North Dakota	DESMEDIPHAM	2007	kg										14707.7
+38	North Dakota	DESMEDIPHAM	2008	kg										7478.9
+38	North Dakota	DESMEDIPHAM	2009	kg										907.2
+38	North Dakota	DESMEDIPHAM	2010	kg										922
+38	North Dakota	DESMEDIPHAM	2011	kg										709.3
+38	North Dakota	DESMEDIPHAM	2012	kg										285.9
+38	North Dakota	DESMEDIPHAM	2013	kg										363.4
+38	North Dakota	DESMEDIPHAM	2014	kg										810.5
+38	North Dakota	DESMEDIPHAM	2015	kg										860.5
+38	North Dakota	DESMEDIPHAM	2016	kg										1456.8
+38	North Dakota	DESMEDIPHAM	2017	kg										1399.4
+39	Ohio	DESMEDIPHAM	1992	kg		700.2								100.5
+39	Ohio	DESMEDIPHAM	1993	kg										195.5
+39	Ohio	DESMEDIPHAM	1994	kg										284.1
+39	Ohio	DESMEDIPHAM	1995	kg										289
+39	Ohio	DESMEDIPHAM	1996	kg										138
+39	Ohio	DESMEDIPHAM	1997	kg										71.6
+39	Ohio	DESMEDIPHAM	1998	kg										353
+39	Ohio	DESMEDIPHAM	1999	kg										15.3
+39	Ohio	DESMEDIPHAM	2000	kg										296.8
+39	Ohio	DESMEDIPHAM	2001	kg										30.5
+39	Ohio	DESMEDIPHAM	2002	kg										123.3
+39	Ohio	DESMEDIPHAM	2003	kg										99.4
+39	Ohio	DESMEDIPHAM	2004	kg										177.8
+39	Ohio	DESMEDIPHAM	2005	kg										565.5
+39	Ohio	DESMEDIPHAM	2006	kg										78.7
+39	Ohio	DESMEDIPHAM	2007	kg										357.7
+40	Oklahoma	DESMEDIPHAM	1995	kg										1152
+41	Oregon	DESMEDIPHAM	1992	kg					4.2					7171.2
+41	Oregon	DESMEDIPHAM	1993	kg										516.6
+41	Oregon	DESMEDIPHAM	1994	kg								228.3		182.1
+41	Oregon	DESMEDIPHAM	1995	kg					0.7			3169.9		1123.7
+41	Oregon	DESMEDIPHAM	1996	kg					3.4					668.8
+41	Oregon	DESMEDIPHAM	1997	kg					128.7					245.7
+41	Oregon	DESMEDIPHAM	1998	kg										1249.3
+41	Oregon	DESMEDIPHAM	1999	kg										849.9
+41	Oregon	DESMEDIPHAM	2000	kg										752.8
+41	Oregon	DESMEDIPHAM	2001	kg										579.3
+41	Oregon	DESMEDIPHAM	2002	kg										472.6
+41	Oregon	DESMEDIPHAM	2003	kg										224.2
+41	Oregon	DESMEDIPHAM	2004	kg										618.1
+41	Oregon	DESMEDIPHAM	2005	kg										768.7
+41	Oregon	DESMEDIPHAM	2006	kg										540.4
+41	Oregon	DESMEDIPHAM	2007	kg										685.7
+41	Oregon	DESMEDIPHAM	2008	kg										21.7
+42	Pennsylvania	DESMEDIPHAM	1997	kg					1.8					
+46	South Dakota	DESMEDIPHAM	1992	kg	18.3				0.7					
+46	South Dakota	DESMEDIPHAM	1996	kg										401.2
+48	Texas	DESMEDIPHAM	1992	kg										204.5
+48	Texas	DESMEDIPHAM	1993	kg										1247.8
+48	Texas	DESMEDIPHAM	1995	kg										1671
+48	Texas	DESMEDIPHAM	1996	kg										1425.5
+48	Texas	DESMEDIPHAM	1997	kg										383.4
+48	Texas	DESMEDIPHAM	1999	kg										233.1
+48	Texas	DESMEDIPHAM	2000	kg										216.9
+48	Texas	DESMEDIPHAM	2004	kg										231.2
+48	Texas	DESMEDIPHAM	2006	kg										1078.1
+48	Texas	DESMEDIPHAM	2007	kg										1525.4
+49	Utah	DESMEDIPHAM	1992	kg			8.7							
+49	Utah	DESMEDIPHAM	1994	kg			8.2		0					
+51	Virginia	DESMEDIPHAM	1992	kg										70.2
+51	Virginia	DESMEDIPHAM	1994	kg			13.8							
+53	Washington	DESMEDIPHAM	1992	kg										841.1
+53	Washington	DESMEDIPHAM	1993	kg										466.2
+53	Washington	DESMEDIPHAM	1994	kg										1470.2
+53	Washington	DESMEDIPHAM	1995	kg					0.8					1751.9
+53	Washington	DESMEDIPHAM	1996	kg					28.5					2167.7
+53	Washington	DESMEDIPHAM	1997	kg										3375.4
+53	Washington	DESMEDIPHAM	1998	kg										2784
+53	Washington	DESMEDIPHAM	1999	kg										1132.1
+53	Washington	DESMEDIPHAM	2000	kg										1239.6
+53	Washington	DESMEDIPHAM	2001	kg										715.4
+53	Washington	DESMEDIPHAM	2002	kg										1069.8
+53	Washington	DESMEDIPHAM	2003	kg										681.9
+53	Washington	DESMEDIPHAM	2004	kg										1347.8
+53	Washington	DESMEDIPHAM	2005	kg										1174.4
+53	Washington	DESMEDIPHAM	2006	kg										878.7
+53	Washington	DESMEDIPHAM	2007	kg										1296.6
+55	Wisconsin	DESMEDIPHAM	1994	kg	4154.4				79.6					
+56	Wyoming	DESMEDIPHAM	1992	kg	114.6				7.5					3211.7
+56	Wyoming	DESMEDIPHAM	1993	kg									3.7	2793.2
+56	Wyoming	DESMEDIPHAM	1994	kg										3743.2
+56	Wyoming	DESMEDIPHAM	1995	kg										2491.6
+56	Wyoming	DESMEDIPHAM	1996	kg										2572.9
+56	Wyoming	DESMEDIPHAM	1997	kg										2377.3
+56	Wyoming	DESMEDIPHAM	1998	kg										1775.5
+56	Wyoming	DESMEDIPHAM	1999	kg										4121.2
+56	Wyoming	DESMEDIPHAM	2000	kg										3736.1
+56	Wyoming	DESMEDIPHAM	2001	kg										2013.4
+56	Wyoming	DESMEDIPHAM	2002	kg										2285.7
+56	Wyoming	DESMEDIPHAM	2003	kg										1501.4
+56	Wyoming	DESMEDIPHAM	2004	kg										2335.7
+56	Wyoming	DESMEDIPHAM	2005	kg										1741.9
+56	Wyoming	DESMEDIPHAM	2006	kg										1672.7
+56	Wyoming	DESMEDIPHAM	2007	kg										1463.1
+56	Wyoming	DESMEDIPHAM	2008	kg										146.5
+56	Wyoming	DESMEDIPHAM	2009	kg										17.4
+56	Wyoming	DESMEDIPHAM	2010	kg										17.3
+56	Wyoming	DESMEDIPHAM	2011	kg										12.1
+56	Wyoming	DESMEDIPHAM	2012	kg										4.8
+56	Wyoming	DESMEDIPHAM	2013	kg										0.8
+56	Wyoming	DESMEDIPHAM	2014	kg										22.1
+56	Wyoming	DESMEDIPHAM	2015	kg										8
+56	Wyoming	DESMEDIPHAM	2016	kg										12.9
+56	Wyoming	DESMEDIPHAM	2017	kg										21

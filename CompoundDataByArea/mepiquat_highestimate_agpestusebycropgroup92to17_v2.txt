@@ -1,0 +1,475 @@
+01	Alabama	MEPIQUAT	1992	kg				3237						8.1
+01	Alabama	MEPIQUAT	1993	kg				1611.3						
+01	Alabama	MEPIQUAT	1994	kg				3951.4						
+01	Alabama	MEPIQUAT	1995	kg				4666					19.9	
+01	Alabama	MEPIQUAT	1996	kg				5168.2						
+01	Alabama	MEPIQUAT	1997	kg				7537.5						
+01	Alabama	MEPIQUAT	1998	kg				4890.2						
+01	Alabama	MEPIQUAT	1999	kg				7156.3						
+01	Alabama	MEPIQUAT	2000	kg				3835.6						
+01	Alabama	MEPIQUAT	2001	kg				8022						
+01	Alabama	MEPIQUAT	2002	kg				7070.1						
+01	Alabama	MEPIQUAT	2003	kg				13081						
+01	Alabama	MEPIQUAT	2004	kg				11222.1						
+01	Alabama	MEPIQUAT	2005	kg				16684.5						
+01	Alabama	MEPIQUAT	2006	kg				7352.7						
+01	Alabama	MEPIQUAT	2007	kg				4410.7						
+01	Alabama	MEPIQUAT	2008	kg				5364.9						
+01	Alabama	MEPIQUAT	2009	kg				6424.7						
+01	Alabama	MEPIQUAT	2010	kg				5319.8						
+01	Alabama	MEPIQUAT	2011	kg				13586						
+01	Alabama	MEPIQUAT	2012	kg				12684.2						
+01	Alabama	MEPIQUAT	2013	kg				11186.2						
+01	Alabama	MEPIQUAT	2014	kg				4583.4						
+01	Alabama	MEPIQUAT	2015	kg				8167.3						
+01	Alabama	MEPIQUAT	2016	kg				6283.7						
+01	Alabama	MEPIQUAT	2017	kg				12462.7						
+04	Arizona	MEPIQUAT	1992	kg				3834.1						
+04	Arizona	MEPIQUAT	1993	kg				2271.1						
+04	Arizona	MEPIQUAT	1994	kg				1279.4						
+04	Arizona	MEPIQUAT	1995	kg				5182.1						
+04	Arizona	MEPIQUAT	1996	kg				1829.4						
+04	Arizona	MEPIQUAT	1997	kg				3111.2						
+04	Arizona	MEPIQUAT	1998	kg				2164.6						
+04	Arizona	MEPIQUAT	1999	kg				1541.6						
+04	Arizona	MEPIQUAT	2000	kg				3138.4						
+04	Arizona	MEPIQUAT	2001	kg				3497.9						
+04	Arizona	MEPIQUAT	2002	kg				3372						
+04	Arizona	MEPIQUAT	2003	kg				3959.5						
+04	Arizona	MEPIQUAT	2004	kg				5915.7						
+04	Arizona	MEPIQUAT	2005	kg				3970.4						
+04	Arizona	MEPIQUAT	2006	kg				9050.3						
+04	Arizona	MEPIQUAT	2007	kg				3983.2						
+04	Arizona	MEPIQUAT	2008	kg				3549.9						
+04	Arizona	MEPIQUAT	2009	kg				3093.6						
+04	Arizona	MEPIQUAT	2010	kg				3319.1						
+04	Arizona	MEPIQUAT	2011	kg				6095.5						
+04	Arizona	MEPIQUAT	2012	kg				12165.9						
+04	Arizona	MEPIQUAT	2013	kg				4653.5						
+04	Arizona	MEPIQUAT	2014	kg				5250.3						
+04	Arizona	MEPIQUAT	2015	kg				2799						
+04	Arizona	MEPIQUAT	2016	kg				3894.2						
+04	Arizona	MEPIQUAT	2017	kg				3930.1						
+05	Arkansas	MEPIQUAT	1992	kg				5081.4						
+05	Arkansas	MEPIQUAT	1993	kg				8685.8						
+05	Arkansas	MEPIQUAT	1994	kg				8609.3						
+05	Arkansas	MEPIQUAT	1995	kg		107.8		5984.7						
+05	Arkansas	MEPIQUAT	1996	kg	0.8			17424.1						
+05	Arkansas	MEPIQUAT	1997	kg				15600.8					49.7	
+05	Arkansas	MEPIQUAT	1998	kg				11631.6						
+05	Arkansas	MEPIQUAT	1999	kg				14469						
+05	Arkansas	MEPIQUAT	2000	kg				13857.6						
+05	Arkansas	MEPIQUAT	2001	kg				24112.7						
+05	Arkansas	MEPIQUAT	2002	kg				22361.5						
+05	Arkansas	MEPIQUAT	2003	kg				29385.6						
+05	Arkansas	MEPIQUAT	2004	kg				30734.1						
+05	Arkansas	MEPIQUAT	2005	kg				34698.7						
+05	Arkansas	MEPIQUAT	2006	kg				40008.9						
+05	Arkansas	MEPIQUAT	2007	kg				30254.5						
+05	Arkansas	MEPIQUAT	2008	kg				22135						
+05	Arkansas	MEPIQUAT	2009	kg				17247.9						
+05	Arkansas	MEPIQUAT	2010	kg				18534.1						
+05	Arkansas	MEPIQUAT	2011	kg				40371.5						
+05	Arkansas	MEPIQUAT	2012	kg				25927.7						
+05	Arkansas	MEPIQUAT	2013	kg				13972.3						
+05	Arkansas	MEPIQUAT	2014	kg				18098.1						
+05	Arkansas	MEPIQUAT	2015	kg				14462.9						
+05	Arkansas	MEPIQUAT	2016	kg				20860.9						
+05	Arkansas	MEPIQUAT	2017	kg				26363.1						
+06	California	MEPIQUAT	1992	kg				9635.7						
+06	California	MEPIQUAT	1993	kg				10290.9						
+06	California	MEPIQUAT	1994	kg				11004.5						
+06	California	MEPIQUAT	1995	kg				14064.2						
+06	California	MEPIQUAT	1996	kg				14694.3						
+06	California	MEPIQUAT	1997	kg				13395.8			0.8			
+06	California	MEPIQUAT	1998	kg	4.1		5.9	20429.3	2.2		96.3	0.5	1.7	0.1
+06	California	MEPIQUAT	1999	kg	5.3		3.4	11292.7	0.9		0.5			1.4
+06	California	MEPIQUAT	2000	kg	4.9		0.2	12857	1.7			0.2		1.1
+06	California	MEPIQUAT	2001	kg				9054.4			0.6			
+06	California	MEPIQUAT	2002	kg				7166.5	0.2		2			
+06	California	MEPIQUAT	2003	kg				12715.2	12.1					
+06	California	MEPIQUAT	2004	kg				9303.2			3.5			
+06	California	MEPIQUAT	2005	kg				11962.3			0.2			
+06	California	MEPIQUAT	2006	kg				11390.4						
+06	California	MEPIQUAT	2007	kg				6001.4	0.1		1.7			
+06	California	MEPIQUAT	2008	kg				3826.9						
+06	California	MEPIQUAT	2009	kg				1908.7						
+06	California	MEPIQUAT	2010	kg				5557.1						
+06	California	MEPIQUAT	2011	kg	5.3			10593.2	2.9					
+06	California	MEPIQUAT	2012	kg	1.8		1.2	6753.2	11.9			0.7		
+06	California	MEPIQUAT	2013	kg	1.7		0	5259.9	0.5			0.4		
+06	California	MEPIQUAT	2014	kg	0.1			3713.2	5.5		0			
+06	California	MEPIQUAT	2015	kg	0.3			3900	0.4					
+06	California	MEPIQUAT	2016	kg	3.5		0.4	4301.4	0.6					
+06	California	MEPIQUAT	2017	kg				11632.6				0.1		
+12	Florida	MEPIQUAT	1992	kg				427.8						
+12	Florida	MEPIQUAT	1993	kg				590.4						
+12	Florida	MEPIQUAT	1994	kg				730.2	33					
+12	Florida	MEPIQUAT	1995	kg				1680.9						
+12	Florida	MEPIQUAT	1996	kg				1681.5						18.6
+12	Florida	MEPIQUAT	1997	kg				3342.5						
+12	Florida	MEPIQUAT	1998	kg				563.6						
+12	Florida	MEPIQUAT	1999	kg				2135.1						
+12	Florida	MEPIQUAT	2000	kg				620.9						
+12	Florida	MEPIQUAT	2001	kg				1958.6						
+12	Florida	MEPIQUAT	2002	kg				2267.3						
+12	Florida	MEPIQUAT	2003	kg				2061.1						
+12	Florida	MEPIQUAT	2004	kg				2179.2						
+12	Florida	MEPIQUAT	2005	kg				3426.1						
+12	Florida	MEPIQUAT	2006	kg				2147.2						
+12	Florida	MEPIQUAT	2007	kg				2017.9						
+12	Florida	MEPIQUAT	2008	kg				1791.7						
+12	Florida	MEPIQUAT	2009	kg				2340.1						
+12	Florida	MEPIQUAT	2010	kg				1641.4						
+12	Florida	MEPIQUAT	2011	kg				2509.4						
+12	Florida	MEPIQUAT	2012	kg				2810.4						
+12	Florida	MEPIQUAT	2013	kg				9799.7						
+12	Florida	MEPIQUAT	2014	kg				3314.2						
+12	Florida	MEPIQUAT	2015	kg				3862.1						
+12	Florida	MEPIQUAT	2016	kg				2496.4						
+12	Florida	MEPIQUAT	2017	kg				2694.3						
+13	Georgia	MEPIQUAT	1992	kg				4896.6						
+13	Georgia	MEPIQUAT	1993	kg				5245.3						0
+13	Georgia	MEPIQUAT	1994	kg				10836.4	191.5					
+13	Georgia	MEPIQUAT	1995	kg				16588.9						
+13	Georgia	MEPIQUAT	1996	kg				12741.9						135.2
+13	Georgia	MEPIQUAT	1997	kg				32164.3						
+13	Georgia	MEPIQUAT	1998	kg				12757.5						
+13	Georgia	MEPIQUAT	1999	kg				16261.8						
+13	Georgia	MEPIQUAT	2000	kg				11857.4						
+13	Georgia	MEPIQUAT	2001	kg				15188.3						
+13	Georgia	MEPIQUAT	2002	kg				21493.8						
+13	Georgia	MEPIQUAT	2003	kg				32486.4						
+13	Georgia	MEPIQUAT	2004	kg				29137.4						
+13	Georgia	MEPIQUAT	2005	kg				33879.4						
+13	Georgia	MEPIQUAT	2006	kg				32019.1						
+13	Georgia	MEPIQUAT	2007	kg				36099						
+13	Georgia	MEPIQUAT	2008	kg				25501.9						
+13	Georgia	MEPIQUAT	2009	kg				53426.5						0
+13	Georgia	MEPIQUAT	2010	kg				38882.5						
+13	Georgia	MEPIQUAT	2011	kg				80579.4						
+13	Georgia	MEPIQUAT	2012	kg				42558.6						
+13	Georgia	MEPIQUAT	2013	kg				66906.4						
+13	Georgia	MEPIQUAT	2014	kg				50648.2						0
+13	Georgia	MEPIQUAT	2015	kg				47469.9						
+13	Georgia	MEPIQUAT	2016	kg				50085.3						
+13	Georgia	MEPIQUAT	2017	kg				58830.4						
+17	Illinois	MEPIQUAT	1995	kg		70.3								
+17	Illinois	MEPIQUAT	1997	kg									46.2	
+18	Indiana	MEPIQUAT	1996	kg			74.7							
+20	Kansas	MEPIQUAT	1992	kg				41.1						
+20	Kansas	MEPIQUAT	1993	kg				79.3						
+20	Kansas	MEPIQUAT	1994	kg				100.2						
+20	Kansas	MEPIQUAT	1995	kg				113.6						
+20	Kansas	MEPIQUAT	1996	kg				27.2						
+20	Kansas	MEPIQUAT	1997	kg				113.2						
+20	Kansas	MEPIQUAT	1998	kg				384.4						
+20	Kansas	MEPIQUAT	1999	kg				269.9						
+20	Kansas	MEPIQUAT	2000	kg				35.3						
+20	Kansas	MEPIQUAT	2001	kg				308.4						
+20	Kansas	MEPIQUAT	2002	kg				56.1						
+20	Kansas	MEPIQUAT	2003	kg				936.1						
+20	Kansas	MEPIQUAT	2004	kg				597.5						
+20	Kansas	MEPIQUAT	2005	kg				453.3						
+20	Kansas	MEPIQUAT	2006	kg				294.3						
+20	Kansas	MEPIQUAT	2007	kg				273.3						
+20	Kansas	MEPIQUAT	2008	kg				241.2						
+20	Kansas	MEPIQUAT	2009	kg				286.1						
+20	Kansas	MEPIQUAT	2010	kg				472.4						
+20	Kansas	MEPIQUAT	2011	kg				1422.2						
+20	Kansas	MEPIQUAT	2012	kg				2292.4						
+20	Kansas	MEPIQUAT	2013	kg				466.8						
+20	Kansas	MEPIQUAT	2014	kg				338						
+20	Kansas	MEPIQUAT	2015	kg				417.6						
+20	Kansas	MEPIQUAT	2016	kg				741.1						
+20	Kansas	MEPIQUAT	2017	kg				2615.1						
+21	Kentucky	MEPIQUAT	1992	kg										16.7
+21	Kentucky	MEPIQUAT	1995	kg		31.7								
+21	Kentucky	MEPIQUAT	1997	kg									36.1	
+22	Louisiana	MEPIQUAT	1992	kg				4183.9						
+22	Louisiana	MEPIQUAT	1993	kg			39.4	3266.3						
+22	Louisiana	MEPIQUAT	1994	kg				6516.7						
+22	Louisiana	MEPIQUAT	1995	kg				7083.5						
+22	Louisiana	MEPIQUAT	1996	kg	16.3			7143.8						
+22	Louisiana	MEPIQUAT	1997	kg				5019.5						
+22	Louisiana	MEPIQUAT	1998	kg				3158.9						
+22	Louisiana	MEPIQUAT	1999	kg				4082.6						
+22	Louisiana	MEPIQUAT	2000	kg				4344.6						
+22	Louisiana	MEPIQUAT	2001	kg				9125.4						
+22	Louisiana	MEPIQUAT	2002	kg				5959.9						
+22	Louisiana	MEPIQUAT	2003	kg				9162.2						
+22	Louisiana	MEPIQUAT	2004	kg				14472.5						
+22	Louisiana	MEPIQUAT	2005	kg				22395.8						
+22	Louisiana	MEPIQUAT	2006	kg				15836.2						
+22	Louisiana	MEPIQUAT	2007	kg				16498.8						
+22	Louisiana	MEPIQUAT	2008	kg				5345.3						
+22	Louisiana	MEPIQUAT	2009	kg				7626.2						
+22	Louisiana	MEPIQUAT	2010	kg				8531.9						
+22	Louisiana	MEPIQUAT	2011	kg				6127.9						
+22	Louisiana	MEPIQUAT	2012	kg				7670.9						
+22	Louisiana	MEPIQUAT	2013	kg				4026.1						
+22	Louisiana	MEPIQUAT	2014	kg				5915.1						
+22	Louisiana	MEPIQUAT	2015	kg				3199.1						
+22	Louisiana	MEPIQUAT	2016	kg				6028.4						
+22	Louisiana	MEPIQUAT	2017	kg				11446.4						
+26	Michigan	MEPIQUAT	1996	kg					345					
+28	Mississippi	MEPIQUAT	1992	kg				15077.3						
+28	Mississippi	MEPIQUAT	1993	kg				11562.6						
+28	Mississippi	MEPIQUAT	1994	kg				11133.3						
+28	Mississippi	MEPIQUAT	1995	kg				15564.8					11.5	
+28	Mississippi	MEPIQUAT	1996	kg	26.5			19105.6						
+28	Mississippi	MEPIQUAT	1997	kg				16413.5						
+28	Mississippi	MEPIQUAT	1998	kg				12003.6						
+28	Mississippi	MEPIQUAT	1999	kg				15255.5						
+28	Mississippi	MEPIQUAT	2000	kg				17411.4						
+28	Mississippi	MEPIQUAT	2001	kg				20749.1						
+28	Mississippi	MEPIQUAT	2002	kg				22158						
+28	Mississippi	MEPIQUAT	2003	kg				29463.2						
+28	Mississippi	MEPIQUAT	2004	kg				36258.6						
+28	Mississippi	MEPIQUAT	2005	kg				41257.6						
+28	Mississippi	MEPIQUAT	2006	kg				28036.6						
+28	Mississippi	MEPIQUAT	2007	kg				19713.7						
+28	Mississippi	MEPIQUAT	2008	kg				10538.8						
+28	Mississippi	MEPIQUAT	2009	kg				7746.8						
+28	Mississippi	MEPIQUAT	2010	kg				11569.4						
+28	Mississippi	MEPIQUAT	2011	kg				17852.8						
+28	Mississippi	MEPIQUAT	2012	kg				23078.3						
+28	Mississippi	MEPIQUAT	2013	kg				13840.2						
+28	Mississippi	MEPIQUAT	2014	kg				12243.8						
+28	Mississippi	MEPIQUAT	2015	kg				11705.7						
+28	Mississippi	MEPIQUAT	2016	kg				16696.3						
+28	Mississippi	MEPIQUAT	2017	kg				17294.1						
+29	Missouri	MEPIQUAT	1992	kg				2700.2						
+29	Missouri	MEPIQUAT	1993	kg				2582.3						
+29	Missouri	MEPIQUAT	1994	kg				4145.3						
+29	Missouri	MEPIQUAT	1995	kg		126.3		5312.8						
+29	Missouri	MEPIQUAT	1996	kg				7064.2						
+29	Missouri	MEPIQUAT	1997	kg				4586.4					170.5	
+29	Missouri	MEPIQUAT	1998	kg				5444.1						
+29	Missouri	MEPIQUAT	1999	kg				6764.5						
+29	Missouri	MEPIQUAT	2000	kg				8583.7						
+29	Missouri	MEPIQUAT	2001	kg				6610.9						
+29	Missouri	MEPIQUAT	2002	kg				9164.7						
+29	Missouri	MEPIQUAT	2003	kg				12654						
+29	Missouri	MEPIQUAT	2004	kg				11939.9						
+29	Missouri	MEPIQUAT	2005	kg				14544.3						
+29	Missouri	MEPIQUAT	2006	kg				17937.2						
+29	Missouri	MEPIQUAT	2007	kg				15413.1						
+29	Missouri	MEPIQUAT	2008	kg				13679.4						
+29	Missouri	MEPIQUAT	2009	kg				12699.9						
+29	Missouri	MEPIQUAT	2010	kg				11752.8						
+29	Missouri	MEPIQUAT	2011	kg				23119.3						
+29	Missouri	MEPIQUAT	2012	kg				22608.3						
+29	Missouri	MEPIQUAT	2013	kg				15355						
+29	Missouri	MEPIQUAT	2014	kg				16040.9						
+29	Missouri	MEPIQUAT	2015	kg				12132.8						
+29	Missouri	MEPIQUAT	2016	kg				20827.7						
+29	Missouri	MEPIQUAT	2017	kg				17153.2						
+35	New Mexico	MEPIQUAT	1992	kg				176.5						
+35	New Mexico	MEPIQUAT	1993	kg				252.2	17.2					0.1
+35	New Mexico	MEPIQUAT	1994	kg				183.8						
+35	New Mexico	MEPIQUAT	1995	kg				128.9						
+35	New Mexico	MEPIQUAT	1996	kg			3.8	353.6						
+35	New Mexico	MEPIQUAT	1997	kg				350.5						
+35	New Mexico	MEPIQUAT	1998	kg				486.2						
+35	New Mexico	MEPIQUAT	1999	kg				617.3						
+35	New Mexico	MEPIQUAT	2000	kg				501.4						
+35	New Mexico	MEPIQUAT	2001	kg				683						
+35	New Mexico	MEPIQUAT	2002	kg				565.5						
+35	New Mexico	MEPIQUAT	2003	kg				423.5						
+35	New Mexico	MEPIQUAT	2004	kg				343						
+35	New Mexico	MEPIQUAT	2005	kg				445.1						
+35	New Mexico	MEPIQUAT	2006	kg				544.3						
+35	New Mexico	MEPIQUAT	2007	kg				389.5						
+35	New Mexico	MEPIQUAT	2008	kg				324.9						
+35	New Mexico	MEPIQUAT	2009	kg				454.5						
+35	New Mexico	MEPIQUAT	2010	kg				569.3						
+35	New Mexico	MEPIQUAT	2011	kg				125.7						
+35	New Mexico	MEPIQUAT	2012	kg				391.7						
+35	New Mexico	MEPIQUAT	2013	kg				314.6						
+35	New Mexico	MEPIQUAT	2014	kg				516.9						
+35	New Mexico	MEPIQUAT	2015	kg				392.7						
+35	New Mexico	MEPIQUAT	2016	kg				390.5						
+35	New Mexico	MEPIQUAT	2017	kg				785.2						
+36	New York	MEPIQUAT	2001	kg							15.6			
+36	New York	MEPIQUAT	2002	kg							37.4			
+36	New York	MEPIQUAT	2003	kg							299.2			
+36	New York	MEPIQUAT	2004	kg							206.5			
+36	New York	MEPIQUAT	2005	kg							27.4			
+36	New York	MEPIQUAT	2006	kg							51.7			
+36	New York	MEPIQUAT	2007	kg							552			
+36	New York	MEPIQUAT	2008	kg							283.5			
+36	New York	MEPIQUAT	2009	kg							40			
+36	New York	MEPIQUAT	2010	kg							247.7			
+37	North Carolina	MEPIQUAT	1992	kg				4041.4						
+37	North Carolina	MEPIQUAT	1993	kg				1796.1						234.2
+37	North Carolina	MEPIQUAT	1994	kg				5737.9						
+37	North Carolina	MEPIQUAT	1995	kg				11200.5						15.1
+37	North Carolina	MEPIQUAT	1996	kg				10248.1						36.6
+37	North Carolina	MEPIQUAT	1997	kg				10235.4						
+37	North Carolina	MEPIQUAT	1998	kg				9297.1						
+37	North Carolina	MEPIQUAT	1999	kg				13330.8						
+37	North Carolina	MEPIQUAT	2000	kg				16601.4						
+37	North Carolina	MEPIQUAT	2001	kg				19168.6						
+37	North Carolina	MEPIQUAT	2002	kg				13774.4						
+37	North Carolina	MEPIQUAT	2003	kg				25848.7						
+37	North Carolina	MEPIQUAT	2004	kg				21292.2						
+37	North Carolina	MEPIQUAT	2005	kg				30333.8						993.4
+37	North Carolina	MEPIQUAT	2006	kg				26653.5						458.9
+37	North Carolina	MEPIQUAT	2007	kg				9320.5						323.5
+37	North Carolina	MEPIQUAT	2008	kg				11963.2						
+37	North Carolina	MEPIQUAT	2009	kg				8904.7						13925.1
+37	North Carolina	MEPIQUAT	2010	kg				10049.9						
+37	North Carolina	MEPIQUAT	2011	kg				14341.7						
+37	North Carolina	MEPIQUAT	2012	kg				18579.7						
+37	North Carolina	MEPIQUAT	2013	kg				16863.9						
+37	North Carolina	MEPIQUAT	2014	kg				14064.4						1735.4
+37	North Carolina	MEPIQUAT	2015	kg				8287.9						
+37	North Carolina	MEPIQUAT	2016	kg				9150.6						
+37	North Carolina	MEPIQUAT	2017	kg				5732.8						
+39	Ohio	MEPIQUAT	1994	kg							5.8			
+39	Ohio	MEPIQUAT	1996	kg			53.7							
+39	Ohio	MEPIQUAT	2002	kg							0.5			
+39	Ohio	MEPIQUAT	2004	kg							0.6			
+40	Oklahoma	MEPIQUAT	1992	kg				667.8						
+40	Oklahoma	MEPIQUAT	1993	kg				461						
+40	Oklahoma	MEPIQUAT	1994	kg				677.3						
+40	Oklahoma	MEPIQUAT	1995	kg				836.7						
+40	Oklahoma	MEPIQUAT	1996	kg				428.7						
+40	Oklahoma	MEPIQUAT	1997	kg				3058.7						
+40	Oklahoma	MEPIQUAT	1998	kg				872.2						
+40	Oklahoma	MEPIQUAT	1999	kg				768.7						
+40	Oklahoma	MEPIQUAT	2000	kg				874.6						
+40	Oklahoma	MEPIQUAT	2001	kg				1181.2						
+40	Oklahoma	MEPIQUAT	2002	kg				1119.6						
+40	Oklahoma	MEPIQUAT	2003	kg				235.3						
+40	Oklahoma	MEPIQUAT	2004	kg				2448.7						
+40	Oklahoma	MEPIQUAT	2005	kg				2608.7						
+40	Oklahoma	MEPIQUAT	2006	kg				1441.2						
+40	Oklahoma	MEPIQUAT	2007	kg				1056.3						
+40	Oklahoma	MEPIQUAT	2008	kg				1626.9						
+40	Oklahoma	MEPIQUAT	2009	kg				1396.7						
+40	Oklahoma	MEPIQUAT	2010	kg				4906.7						
+40	Oklahoma	MEPIQUAT	2011	kg				1171.2						
+40	Oklahoma	MEPIQUAT	2012	kg				2919.3						
+40	Oklahoma	MEPIQUAT	2013	kg				2023.7						
+40	Oklahoma	MEPIQUAT	2014	kg				4074.9						
+40	Oklahoma	MEPIQUAT	2015	kg				2404						
+40	Oklahoma	MEPIQUAT	2016	kg				663.8						
+40	Oklahoma	MEPIQUAT	2017	kg				14022.6						
+42	Pennsylvania	MEPIQUAT	1994	kg					55.1		30.2			
+42	Pennsylvania	MEPIQUAT	2001	kg							5.3			
+42	Pennsylvania	MEPIQUAT	2002	kg							5.4			
+42	Pennsylvania	MEPIQUAT	2003	kg							115.5			
+42	Pennsylvania	MEPIQUAT	2004	kg							6.1			
+42	Pennsylvania	MEPIQUAT	2005	kg							8.8			
+42	Pennsylvania	MEPIQUAT	2006	kg							22.7			
+42	Pennsylvania	MEPIQUAT	2007	kg							28.2			
+42	Pennsylvania	MEPIQUAT	2008	kg							20.6			
+42	Pennsylvania	MEPIQUAT	2009	kg							12.2			
+42	Pennsylvania	MEPIQUAT	2010	kg							8.4			
+45	South Carolina	MEPIQUAT	1992	kg				550.2						
+45	South Carolina	MEPIQUAT	1993	kg				1020.7						
+45	South Carolina	MEPIQUAT	1994	kg				3401.6						
+45	South Carolina	MEPIQUAT	1995	kg				3829.8						
+45	South Carolina	MEPIQUAT	1996	kg				3757.3						
+45	South Carolina	MEPIQUAT	1997	kg				3094.3						
+45	South Carolina	MEPIQUAT	1998	kg				2153.7						
+45	South Carolina	MEPIQUAT	1999	kg				3094.6						
+45	South Carolina	MEPIQUAT	2000	kg				3413.1						
+45	South Carolina	MEPIQUAT	2001	kg				3968						
+45	South Carolina	MEPIQUAT	2002	kg				2229.8						
+45	South Carolina	MEPIQUAT	2003	kg				5856.4						
+45	South Carolina	MEPIQUAT	2004	kg				4666.9						
+45	South Carolina	MEPIQUAT	2005	kg				5083.1						
+45	South Carolina	MEPIQUAT	2006	kg				5796						
+45	South Carolina	MEPIQUAT	2007	kg				1773.4						
+45	South Carolina	MEPIQUAT	2008	kg				2784.7						
+45	South Carolina	MEPIQUAT	2009	kg				2163.2						
+45	South Carolina	MEPIQUAT	2010	kg				5358						
+45	South Carolina	MEPIQUAT	2011	kg				8158.4						
+45	South Carolina	MEPIQUAT	2012	kg				7959.5						
+45	South Carolina	MEPIQUAT	2013	kg				9141.2						
+45	South Carolina	MEPIQUAT	2014	kg				10404.8						
+45	South Carolina	MEPIQUAT	2015	kg				3705.4						
+45	South Carolina	MEPIQUAT	2016	kg				4515						
+45	South Carolina	MEPIQUAT	2017	kg				4846.3						
+47	Tennessee	MEPIQUAT	1992	kg				3144.5						58.3
+47	Tennessee	MEPIQUAT	1993	kg				5189.4						136.9
+47	Tennessee	MEPIQUAT	1994	kg				4543.6						
+47	Tennessee	MEPIQUAT	1995	kg		45.2		6361.8					34.1	
+47	Tennessee	MEPIQUAT	1996	kg				5736.7						
+47	Tennessee	MEPIQUAT	1997	kg				7299.2					17.4	
+47	Tennessee	MEPIQUAT	1998	kg				13256.1						
+47	Tennessee	MEPIQUAT	1999	kg				13860.3						
+47	Tennessee	MEPIQUAT	2000	kg				9530.5						
+47	Tennessee	MEPIQUAT	2001	kg				11809						
+47	Tennessee	MEPIQUAT	2002	kg				12733.7						
+47	Tennessee	MEPIQUAT	2003	kg				15929.9						
+47	Tennessee	MEPIQUAT	2004	kg				15970						
+47	Tennessee	MEPIQUAT	2005	kg				26973.6						
+47	Tennessee	MEPIQUAT	2006	kg				22884.5						
+47	Tennessee	MEPIQUAT	2007	kg				13033.4						
+47	Tennessee	MEPIQUAT	2008	kg				5688.1						
+47	Tennessee	MEPIQUAT	2009	kg				13759.6						804.3
+47	Tennessee	MEPIQUAT	2010	kg				10338.3						
+47	Tennessee	MEPIQUAT	2011	kg				17254						
+47	Tennessee	MEPIQUAT	2012	kg				11181.9						
+47	Tennessee	MEPIQUAT	2013	kg				17446.8						
+47	Tennessee	MEPIQUAT	2014	kg				3542.1						
+47	Tennessee	MEPIQUAT	2015	kg				4001.6						
+47	Tennessee	MEPIQUAT	2016	kg				11360.1						
+47	Tennessee	MEPIQUAT	2017	kg				14904.2						
+48	Texas	MEPIQUAT	1992	kg				11658						
+48	Texas	MEPIQUAT	1993	kg			367.5	10278.9	3.8				918.5	17.8
+48	Texas	MEPIQUAT	1994	kg				9317.8						
+48	Texas	MEPIQUAT	1995	kg				12089.3						
+48	Texas	MEPIQUAT	1996	kg			86.6	10062.4			2.3			
+48	Texas	MEPIQUAT	1997	kg				17209.9						
+48	Texas	MEPIQUAT	1998	kg				6873.1						
+48	Texas	MEPIQUAT	1999	kg				22784.9						
+48	Texas	MEPIQUAT	2000	kg				16045.6						
+48	Texas	MEPIQUAT	2001	kg				12093.8						
+48	Texas	MEPIQUAT	2002	kg				9088.8						
+48	Texas	MEPIQUAT	2003	kg				13090.3						
+48	Texas	MEPIQUAT	2004	kg				50995.2						
+48	Texas	MEPIQUAT	2005	kg				47641						
+48	Texas	MEPIQUAT	2006	kg				48696.5						
+48	Texas	MEPIQUAT	2007	kg				62799.3						
+48	Texas	MEPIQUAT	2008	kg				39387.2						
+48	Texas	MEPIQUAT	2009	kg				39690.5						
+48	Texas	MEPIQUAT	2010	kg				70733						
+48	Texas	MEPIQUAT	2011	kg				15620.9						
+48	Texas	MEPIQUAT	2012	kg				32898						
+48	Texas	MEPIQUAT	2013	kg				45691.7						
+48	Texas	MEPIQUAT	2014	kg				51962.2						
+48	Texas	MEPIQUAT	2015	kg				55677						
+48	Texas	MEPIQUAT	2016	kg				55612.2						
+48	Texas	MEPIQUAT	2017	kg				104667.3						
+51	Virginia	MEPIQUAT	1992	kg				194						
+51	Virginia	MEPIQUAT	1993	kg				511.5						83.7
+51	Virginia	MEPIQUAT	1994	kg				973.4						
+51	Virginia	MEPIQUAT	1995	kg				1598.8						8.8
+51	Virginia	MEPIQUAT	1996	kg				1594.5						1.9
+51	Virginia	MEPIQUAT	1997	kg				1125.9						
+51	Virginia	MEPIQUAT	1998	kg				2941.8						
+51	Virginia	MEPIQUAT	1999	kg				1818.1						
+51	Virginia	MEPIQUAT	2000	kg				2312.5						
+51	Virginia	MEPIQUAT	2001	kg				1338.6						
+51	Virginia	MEPIQUAT	2002	kg				2232.9						
+51	Virginia	MEPIQUAT	2003	kg				2177.3						
+51	Virginia	MEPIQUAT	2004	kg				2569						
+51	Virginia	MEPIQUAT	2005	kg				3275.4						
+51	Virginia	MEPIQUAT	2006	kg				3655						
+51	Virginia	MEPIQUAT	2007	kg				1103.6						
+51	Virginia	MEPIQUAT	2008	kg				670.6						
+51	Virginia	MEPIQUAT	2009	kg				1172						1720.2
+51	Virginia	MEPIQUAT	2010	kg				1316.2						
+51	Virginia	MEPIQUAT	2011	kg				1504.1						
+51	Virginia	MEPIQUAT	2012	kg				2272.1						
+51	Virginia	MEPIQUAT	2013	kg				2535.7						
+51	Virginia	MEPIQUAT	2014	kg				2107						433.3
+51	Virginia	MEPIQUAT	2015	kg				1928.1						
+51	Virginia	MEPIQUAT	2016	kg				3191.9						
+51	Virginia	MEPIQUAT	2017	kg				1083						
+54	West Virginia	MEPIQUAT	1994	kg							0			

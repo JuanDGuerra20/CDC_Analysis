@@ -1,0 +1,551 @@
+01	Alabama	QUINTOZENE	1992	kg		129.5		28621.9					43.7	3482.7
+01	Alabama	QUINTOZENE	1993	kg				30327.8	18.6					404.6
+01	Alabama	QUINTOZENE	1994	kg	735.8			44792.7	206.1					1086.7
+01	Alabama	QUINTOZENE	1995	kg	4.7			36014.3			15.7			126.3
+01	Alabama	QUINTOZENE	1996	kg				63453.6	1149.8					0.2
+01	Alabama	QUINTOZENE	1997	kg				25887.3					179.3	0.2
+01	Alabama	QUINTOZENE	1998	kg				35455.3	238.9					
+01	Alabama	QUINTOZENE	1999	kg				57531.2	327.1					
+01	Alabama	QUINTOZENE	2000	kg				32886.5	222.6					
+01	Alabama	QUINTOZENE	2001	kg				31939.9	573.2					
+01	Alabama	QUINTOZENE	2002	kg				27562.4	414					
+01	Alabama	QUINTOZENE	2003	kg				19170.3	374.7					
+01	Alabama	QUINTOZENE	2004	kg				16437.7	441.6					
+01	Alabama	QUINTOZENE	2005	kg				15946.1	336.2					
+01	Alabama	QUINTOZENE	2006	kg				1616.7	203.6					
+01	Alabama	QUINTOZENE	2007	kg		123.7		1793.2	178.6					4429.5
+01	Alabama	QUINTOZENE	2008	kg				10814	12.6					5478.2
+01	Alabama	QUINTOZENE	2009	kg				117.2	34					
+01	Alabama	QUINTOZENE	2010	kg				51.3	24					
+04	Arizona	QUINTOZENE	1994	kg				4448.6	477.1					
+04	Arizona	QUINTOZENE	1995	kg				11283.5						
+04	Arizona	QUINTOZENE	1996	kg				1953.2	40.8					
+04	Arizona	QUINTOZENE	1997	kg				11666	455.5					
+04	Arizona	QUINTOZENE	1998	kg					141.1					
+04	Arizona	QUINTOZENE	1999	kg				7796.3	108.2					
+04	Arizona	QUINTOZENE	2000	kg					300.6					
+04	Arizona	QUINTOZENE	2001	kg				3493.4	58.7					
+05	Arkansas	QUINTOZENE	1992	kg		6131.8		55265.5		5838.2				375.3
+05	Arkansas	QUINTOZENE	1993	kg		6360.6	4411.3	57147.7	58.3					
+05	Arkansas	QUINTOZENE	1994	kg	3765	61994.1		86731.1						
+05	Arkansas	QUINTOZENE	1995	kg		29469.6		77088.3						
+05	Arkansas	QUINTOZENE	1996	kg				70530.6						
+05	Arkansas	QUINTOZENE	1997	kg				74524.2						
+05	Arkansas	QUINTOZENE	1998	kg				61827.8						
+05	Arkansas	QUINTOZENE	1999	kg				27315.2						
+05	Arkansas	QUINTOZENE	2000	kg				48366						
+05	Arkansas	QUINTOZENE	2001	kg				59179.8						
+05	Arkansas	QUINTOZENE	2002	kg				29682.8						
+05	Arkansas	QUINTOZENE	2003	kg				51207						
+05	Arkansas	QUINTOZENE	2004	kg				28948.6						
+05	Arkansas	QUINTOZENE	2005	kg				8765						
+05	Arkansas	QUINTOZENE	2006	kg				15464.6						
+05	Arkansas	QUINTOZENE	2007	kg				821.9						
+05	Arkansas	QUINTOZENE	2008	kg				8227.7						
+05	Arkansas	QUINTOZENE	2010	kg		0.9	19.5	94.6						
+05	Arkansas	QUINTOZENE	2012	kg				1805.2						
+06	California	QUINTOZENE	1992	kg				13109.4	10564.5		1734.9		12.2	
+06	California	QUINTOZENE	1993	kg	0.9			16566.6	11210.7		2191.5			
+06	California	QUINTOZENE	1994	kg	0		1186.5	15249.7	8762.3		3057.1		16.1	241.5
+06	California	QUINTOZENE	1995	kg			2985	16305.7	9368		2097.9		4.9	505.2
+06	California	QUINTOZENE	1996	kg				9870.2	6917.3		4705.2		121	
+06	California	QUINTOZENE	1997	kg				8022.6	8921.1		6519.9		741	111.7
+06	California	QUINTOZENE	1998	kg				8301.7	7734.5		8362.8		289.8	
+06	California	QUINTOZENE	1999	kg				6017.8	7208.3		4321.6		34.4	
+06	California	QUINTOZENE	2000	kg				6942.3	3754.7		4637.5		209.8	
+06	California	QUINTOZENE	2001	kg				5345.1	2342.5		4062.9			
+06	California	QUINTOZENE	2002	kg				1882.4	2822.9		3633.9	0.3	57.8	
+06	California	QUINTOZENE	2003	kg				850.6	3281.9		3315.2		13.6	
+06	California	QUINTOZENE	2004	kg				438.1	3037.7		2774.3		80.5	
+06	California	QUINTOZENE	2005	kg				409.3	2259.8		2141.9		297.4	
+06	California	QUINTOZENE	2006	kg				20.4	1751.7		2070.3			
+06	California	QUINTOZENE	2007	kg				34.3	2613.2		2144.7		25.8	
+06	California	QUINTOZENE	2008	kg					3881.6		1097			
+06	California	QUINTOZENE	2009	kg					2065.5		835.9			
+06	California	QUINTOZENE	2010	kg					2611.3		7192			
+06	California	QUINTOZENE	2011	kg					2627.2		289.9			
+06	California	QUINTOZENE	2012	kg					1390.9		391			
+06	California	QUINTOZENE	2013	kg					3800.8		17.6			
+06	California	QUINTOZENE	2014	kg					3800.1		299.2			
+06	California	QUINTOZENE	2015	kg	3				3944.8		100.4			
+06	California	QUINTOZENE	2016	kg					18448.9		193.7			
+06	California	QUINTOZENE	2017	kg					29608.9		247.8			
+08	Colorado	QUINTOZENE	1993	kg										10.6
+09	Connecticut	QUINTOZENE	1996	kg					49.5					
+10	Delaware	QUINTOZENE	1992	kg					2770.5					
+10	Delaware	QUINTOZENE	1994	kg					4493					
+10	Delaware	QUINTOZENE	1996	kg					2784.9					
+10	Delaware	QUINTOZENE	1997	kg			1047.3		1279					
+10	Delaware	QUINTOZENE	1999	kg					3445.9					
+10	Delaware	QUINTOZENE	2000	kg					3219.4					
+10	Delaware	QUINTOZENE	2001	kg					1710.6					
+10	Delaware	QUINTOZENE	2002	kg					7697.3					
+10	Delaware	QUINTOZENE	2003	kg					1998					
+10	Delaware	QUINTOZENE	2004	kg					215					
+10	Delaware	QUINTOZENE	2005	kg					6480.1					
+10	Delaware	QUINTOZENE	2006	kg					6224.3					
+10	Delaware	QUINTOZENE	2007	kg					4767.9					
+12	Florida	QUINTOZENE	1992	kg		318.5		1579.9			15.3		11.6	328
+12	Florida	QUINTOZENE	1993	kg				301.5	30.6		133.7			117.9
+12	Florida	QUINTOZENE	1994	kg	253.1			134	2935.8		1757.9			330.5
+12	Florida	QUINTOZENE	1995	kg				1948			253.6			39.6
+12	Florida	QUINTOZENE	1996	kg				556.6	715.4		786.5			193.7
+12	Florida	QUINTOZENE	1997	kg				1618.3	3013.7		106.7			
+12	Florida	QUINTOZENE	1998	kg				408	7126.3					
+12	Florida	QUINTOZENE	1999	kg				1219.7	11741.3					
+12	Florida	QUINTOZENE	2000	kg				6833	8079.3					
+12	Florida	QUINTOZENE	2001	kg				1884.2	6247.4					
+12	Florida	QUINTOZENE	2002	kg				1087.8	9353.7					
+12	Florida	QUINTOZENE	2003	kg				1645	13961.1					
+12	Florida	QUINTOZENE	2004	kg				7010.4	15279.8					
+12	Florida	QUINTOZENE	2005	kg				2058.3	12373.3					
+12	Florida	QUINTOZENE	2006	kg				359	10413					
+12	Florida	QUINTOZENE	2007	kg				546.9	14327.7					1899.2
+12	Florida	QUINTOZENE	2008	kg				0.4	8446.5					2263.3
+12	Florida	QUINTOZENE	2009	kg					5657.2					
+12	Florida	QUINTOZENE	2010	kg					3148.4					
+12	Florida	QUINTOZENE	2011	kg					3125.1					
+12	Florida	QUINTOZENE	2014	kg					5572.4					
+12	Florida	QUINTOZENE	2015	kg					2930					
+13	Georgia	QUINTOZENE	1992	kg		1447.6		46952.6					18.9	9374.7
+13	Georgia	QUINTOZENE	1993	kg				24162.3	1002.2					25252
+13	Georgia	QUINTOZENE	1994	kg	162.7	175.8		12602	266.2					7922.3
+13	Georgia	QUINTOZENE	1995	kg				52933	1.1					301.8
+13	Georgia	QUINTOZENE	1996	kg				14505	4986					1861.6
+13	Georgia	QUINTOZENE	1997	kg				41715.5	1562.1					609.4
+13	Georgia	QUINTOZENE	1998	kg				17764	9870.7					
+13	Georgia	QUINTOZENE	1999	kg				21253.2	5882.8					
+13	Georgia	QUINTOZENE	2000	kg				39939.4	17965					
+13	Georgia	QUINTOZENE	2001	kg				12635.5	17938.5					
+13	Georgia	QUINTOZENE	2002	kg				10086.3	11220.4					
+13	Georgia	QUINTOZENE	2003	kg				33600.8	8980.9					
+13	Georgia	QUINTOZENE	2004	kg				34254.6	10031.9					
+13	Georgia	QUINTOZENE	2005	kg				4039.8	5325.3					
+13	Georgia	QUINTOZENE	2006	kg				23939.6	6349.9					
+13	Georgia	QUINTOZENE	2007	kg				6334.2	8191.6					97672
+13	Georgia	QUINTOZENE	2008	kg				1659.4	6065.9					
+13	Georgia	QUINTOZENE	2009	kg				490.7	4599.7					
+13	Georgia	QUINTOZENE	2010	kg				201	5581.4					
+13	Georgia	QUINTOZENE	2011	kg					1850.8					
+13	Georgia	QUINTOZENE	2014	kg					8458					
+16	Idaho	QUINTOZENE	1992	kg					92.5					
+16	Idaho	QUINTOZENE	1993	kg					1010					
+16	Idaho	QUINTOZENE	1994	kg					1722.4					1048.7
+16	Idaho	QUINTOZENE	1995	kg					931.4					
+16	Idaho	QUINTOZENE	1998	kg					910.8					
+16	Idaho	QUINTOZENE	2000	kg					7597.1					
+16	Idaho	QUINTOZENE	2001	kg					20101.9					
+16	Idaho	QUINTOZENE	2002	kg					757.4					
+16	Idaho	QUINTOZENE	2003	kg					30962.5					
+16	Idaho	QUINTOZENE	2005	kg					3347.7					
+16	Idaho	QUINTOZENE	2006	kg					9805.7					
+16	Idaho	QUINTOZENE	2007	kg					1403					
+16	Idaho	QUINTOZENE	2008	kg					121984.2					
+16	Idaho	QUINTOZENE	2009	kg					133634.8					
+16	Idaho	QUINTOZENE	2010	kg					129417.2					
+16	Idaho	QUINTOZENE	2014	kg					12898.6					
+16	Idaho	QUINTOZENE	2017	kg					7340.7					
+17	Illinois	QUINTOZENE	1993	kg					1.1					
+17	Illinois	QUINTOZENE	1996	kg										32.9
+17	Illinois	QUINTOZENE	2000	kg					1320.5					
+17	Illinois	QUINTOZENE	2008	kg					441.3					
+17	Illinois	QUINTOZENE	2009	kg					1579.3					
+17	Illinois	QUINTOZENE	2010	kg		1433.2	61.7							
+17	Illinois	QUINTOZENE	2012	kg					1929.8					
+17	Illinois	QUINTOZENE	2013	kg					1587.8					
+17	Illinois	QUINTOZENE	2014	kg					691.6					
+18	Indiana	QUINTOZENE	1993	kg					56.5					
+18	Indiana	QUINTOZENE	1994	kg	22562.2									
+18	Indiana	QUINTOZENE	1996	kg										515.4
+18	Indiana	QUINTOZENE	2000	kg					295.3					
+18	Indiana	QUINTOZENE	2008	kg					480.7					
+18	Indiana	QUINTOZENE	2009	kg					94.9					
+18	Indiana	QUINTOZENE	2011	kg			2.2							
+19	Iowa	QUINTOZENE	2009	kg					118.2					
+19	Iowa	QUINTOZENE	2012	kg					105					
+19	Iowa	QUINTOZENE	2013	kg					71.7					
+19	Iowa	QUINTOZENE	2014	kg					25.1					
+20	Kansas	QUINTOZENE	2010	kg		2034								
+20	Kansas	QUINTOZENE	2011	kg			1408.6							
+21	Kentucky	QUINTOZENE	1993	kg					264.9					1033
+21	Kentucky	QUINTOZENE	1994	kg					77.7					1458.9
+21	Kentucky	QUINTOZENE	1995	kg	22.6	3454.2								626.3
+21	Kentucky	QUINTOZENE	1996	kg									434.6	4985.9
+21	Kentucky	QUINTOZENE	1997	kg										2297.8
+21	Kentucky	QUINTOZENE	2000	kg					14.1					
+21	Kentucky	QUINTOZENE	2001	kg					19.5					
+21	Kentucky	QUINTOZENE	2007	kg		505.9								
+21	Kentucky	QUINTOZENE	2010	kg			24.7							
+22	Louisiana	QUINTOZENE	1992	kg				91642.4						
+22	Louisiana	QUINTOZENE	1993	kg			181.1	59114.3						
+22	Louisiana	QUINTOZENE	1994	kg	479.1			81462.5	26					
+22	Louisiana	QUINTOZENE	1995	kg	16.6			87363.4						
+22	Louisiana	QUINTOZENE	1996	kg				68338.6						
+22	Louisiana	QUINTOZENE	1997	kg				29454.3						
+22	Louisiana	QUINTOZENE	1998	kg				24358.9						
+22	Louisiana	QUINTOZENE	1999	kg				29395.9						
+22	Louisiana	QUINTOZENE	2000	kg				52704.3						
+22	Louisiana	QUINTOZENE	2001	kg				22248.9						
+22	Louisiana	QUINTOZENE	2002	kg				2854.4						
+22	Louisiana	QUINTOZENE	2003	kg				15217.9						
+22	Louisiana	QUINTOZENE	2004	kg				10075.4						
+22	Louisiana	QUINTOZENE	2005	kg				19756.9						
+22	Louisiana	QUINTOZENE	2006	kg				5483.8						
+22	Louisiana	QUINTOZENE	2007	kg				8988.5						
+22	Louisiana	QUINTOZENE	2008	kg				3866						
+22	Louisiana	QUINTOZENE	2010	kg				37.3						
+22	Louisiana	QUINTOZENE	2012	kg				2430.4						
+23	Maine	QUINTOZENE	2009	kg					1369					
+23	Maine	QUINTOZENE	2017	kg					569.4					
+24	Maryland	QUINTOZENE	1992	kg					1563.7					272.7
+24	Maryland	QUINTOZENE	1994	kg					1082.8					142.8
+24	Maryland	QUINTOZENE	1996	kg					1006.5					1510.7
+24	Maryland	QUINTOZENE	1997	kg			801		181.3					158
+24	Maryland	QUINTOZENE	1999	kg					298					
+24	Maryland	QUINTOZENE	2000	kg					624.8					
+24	Maryland	QUINTOZENE	2001	kg					338.9					
+24	Maryland	QUINTOZENE	2002	kg					1963					
+24	Maryland	QUINTOZENE	2003	kg					1962.3					
+24	Maryland	QUINTOZENE	2004	kg					25.2					
+24	Maryland	QUINTOZENE	2005	kg					1671.7					
+24	Maryland	QUINTOZENE	2006	kg					1611.7					
+24	Maryland	QUINTOZENE	2007	kg					1238.9					
+25	Massachusetts	QUINTOZENE	1996	kg					149					
+26	Michigan	QUINTOZENE	1993	kg					1848					
+26	Michigan	QUINTOZENE	1994	kg	39348.3	1520.1								
+26	Michigan	QUINTOZENE	1998	kg					1391.1					
+26	Michigan	QUINTOZENE	2000	kg					756.9					
+26	Michigan	QUINTOZENE	2001	kg					343.8					
+26	Michigan	QUINTOZENE	2002	kg					393.3					
+26	Michigan	QUINTOZENE	2003	kg					577.4					
+26	Michigan	QUINTOZENE	2007	kg					1605.2					
+26	Michigan	QUINTOZENE	2008	kg					3358					
+26	Michigan	QUINTOZENE	2009	kg					426.6					
+26	Michigan	QUINTOZENE	2010	kg					5344.8					
+26	Michigan	QUINTOZENE	2011	kg			9.1							
+26	Michigan	QUINTOZENE	2012	kg					9136.7					
+26	Michigan	QUINTOZENE	2013	kg					5901.4					
+26	Michigan	QUINTOZENE	2014	kg					5242.6					
+27	Minnesota	QUINTOZENE	2008	kg					5087.1					
+27	Minnesota	QUINTOZENE	2009	kg			92.2		2744.7					
+27	Minnesota	QUINTOZENE	2010	kg					12709.1					
+27	Minnesota	QUINTOZENE	2012	kg					5880.6					
+27	Minnesota	QUINTOZENE	2013	kg		53.8			5920.5					
+27	Minnesota	QUINTOZENE	2014	kg					5525.8					
+27	Minnesota	QUINTOZENE	2015	kg					24771.7					
+27	Minnesota	QUINTOZENE	2017	kg					15393.4					
+28	Mississippi	QUINTOZENE	1992	kg		1476.8		140315.8		637.2				712.9
+28	Mississippi	QUINTOZENE	1993	kg		4188.6	1043.5	119755.5						16
+28	Mississippi	QUINTOZENE	1994	kg	3778.8	41816.8		172330.4	790.2					60.9
+28	Mississippi	QUINTOZENE	1995	kg	9.7	1438.4		128715.6			26.9			
+28	Mississippi	QUINTOZENE	1996	kg				53310.8	64.2					
+28	Mississippi	QUINTOZENE	1997	kg				70158.7					89.1	
+28	Mississippi	QUINTOZENE	1998	kg				75027.8						
+28	Mississippi	QUINTOZENE	1999	kg				84650.1	77.2					
+28	Mississippi	QUINTOZENE	2000	kg				98697.7	57.6					
+28	Mississippi	QUINTOZENE	2001	kg				58866.1	96.6					
+28	Mississippi	QUINTOZENE	2002	kg				30469.7	98					
+28	Mississippi	QUINTOZENE	2003	kg				46729	74.9					
+28	Mississippi	QUINTOZENE	2004	kg				38713.2	107.5					
+28	Mississippi	QUINTOZENE	2005	kg				24818.4	75.1					
+28	Mississippi	QUINTOZENE	2006	kg				26027.5	70					
+28	Mississippi	QUINTOZENE	2007	kg		445.3		3342.6	52.1					159.9
+28	Mississippi	QUINTOZENE	2008	kg				5893.2						188.2
+28	Mississippi	QUINTOZENE	2009	kg				103.6						
+28	Mississippi	QUINTOZENE	2010	kg				83						
+28	Mississippi	QUINTOZENE	2012	kg				9054						
+29	Missouri	QUINTOZENE	1992	kg				9944.1						
+29	Missouri	QUINTOZENE	1993	kg				5684.8	290.4					
+29	Missouri	QUINTOZENE	1994	kg				5340.7						
+29	Missouri	QUINTOZENE	1995	kg		10125.6		8004.6						
+29	Missouri	QUINTOZENE	1996	kg				4611.8						
+29	Missouri	QUINTOZENE	1997	kg				18195.4						
+29	Missouri	QUINTOZENE	1998	kg				2807.8						
+29	Missouri	QUINTOZENE	1999	kg				772.3						
+29	Missouri	QUINTOZENE	2000	kg				24412.4						
+29	Missouri	QUINTOZENE	2001	kg				18903.3						
+29	Missouri	QUINTOZENE	2002	kg				2692.1						
+29	Missouri	QUINTOZENE	2003	kg				382.3						
+29	Missouri	QUINTOZENE	2004	kg				154.6						
+29	Missouri	QUINTOZENE	2005	kg				2677.1						
+29	Missouri	QUINTOZENE	2006	kg				17.2						
+29	Missouri	QUINTOZENE	2007	kg				44.4						
+29	Missouri	QUINTOZENE	2008	kg				90						
+29	Missouri	QUINTOZENE	2010	kg		454.5	64.7							
+29	Missouri	QUINTOZENE	2011	kg			110.9							
+30	Montana	QUINTOZENE	1992	kg					2					
+30	Montana	QUINTOZENE	1993	kg					20.6					10714.5
+30	Montana	QUINTOZENE	1994	kg					28.5					
+30	Montana	QUINTOZENE	1995	kg										238.4
+30	Montana	QUINTOZENE	2000	kg					51.8					
+30	Montana	QUINTOZENE	2001	kg					524.1					
+30	Montana	QUINTOZENE	2002	kg					17.3					
+30	Montana	QUINTOZENE	2003	kg					257.8					
+30	Montana	QUINTOZENE	2005	kg					39.6					
+30	Montana	QUINTOZENE	2006	kg					333.8					
+30	Montana	QUINTOZENE	2007	kg					40.9					
+30	Montana	QUINTOZENE	2010	kg			148.8							
+30	Montana	QUINTOZENE	2017	kg					116.1					
+31	Nebraska	QUINTOZENE	1993	kg										23.4
+31	Nebraska	QUINTOZENE	2011	kg			127.6							
+32	Nevada	QUINTOZENE	1994	kg					33.9					
+32	Nevada	QUINTOZENE	1995	kg					165.4					
+32	Nevada	QUINTOZENE	1998	kg					0.2					
+32	Nevada	QUINTOZENE	2000	kg					185.1					
+32	Nevada	QUINTOZENE	2001	kg					367.3					
+32	Nevada	QUINTOZENE	2002	kg					265.8					
+32	Nevada	QUINTOZENE	2003	kg					2657.9					
+32	Nevada	QUINTOZENE	2006	kg					836.9					
+32	Nevada	QUINTOZENE	2017	kg					45.7					
+33	New Hampshire	QUINTOZENE	1996	kg					20.3					
+33	New Hampshire	QUINTOZENE	2009	kg					9.9					
+34	New Jersey	QUINTOZENE	1992	kg					5988.2					
+34	New Jersey	QUINTOZENE	1999	kg					22038					
+34	New Jersey	QUINTOZENE	2000	kg					10472.9					
+34	New Jersey	QUINTOZENE	2001	kg					1037.3					
+34	New Jersey	QUINTOZENE	2002	kg					466.3					
+35	New Mexico	QUINTOZENE	1992	kg				2440.8						2273.1
+35	New Mexico	QUINTOZENE	1993	kg				65.8			805.3			4179.2
+35	New Mexico	QUINTOZENE	1994	kg				431.8	6.9					593
+35	New Mexico	QUINTOZENE	1995	kg				371.6						2016.9
+35	New Mexico	QUINTOZENE	1996	kg				35.5	487.2					516.5
+35	New Mexico	QUINTOZENE	1997	kg				1866.6	4992.7					1318.7
+35	New Mexico	QUINTOZENE	1998	kg					931.7					
+35	New Mexico	QUINTOZENE	1999	kg				268.3	524.2					1482
+35	New Mexico	QUINTOZENE	2000	kg				170.2	1532.6					3150.6
+35	New Mexico	QUINTOZENE	2001	kg				73.7	425.4					2331.8
+35	New Mexico	QUINTOZENE	2002	kg				1296.3						1816.7
+35	New Mexico	QUINTOZENE	2003	kg					153.4					
+35	New Mexico	QUINTOZENE	2004	kg				3573.2						
+35	New Mexico	QUINTOZENE	2005	kg					252.9					173.1
+35	New Mexico	QUINTOZENE	2006	kg					353.4					
+35	New Mexico	QUINTOZENE	2007	kg					56.8					
+35	New Mexico	QUINTOZENE	2008	kg					96.9					
+36	New York	QUINTOZENE	1992	kg					8193.1					
+36	New York	QUINTOZENE	1993	kg					220.5					
+36	New York	QUINTOZENE	1996	kg					63.9					
+36	New York	QUINTOZENE	1999	kg					60024.9					
+36	New York	QUINTOZENE	2000	kg					61758.3					
+36	New York	QUINTOZENE	2001	kg					1140.6					
+36	New York	QUINTOZENE	2002	kg					515.5					
+36	New York	QUINTOZENE	2003	kg					2106.3					
+36	New York	QUINTOZENE	2004	kg					9580.8					
+36	New York	QUINTOZENE	2005	kg					3361					
+37	North Carolina	QUINTOZENE	1992	kg		835.8		42203.8						8559.6
+37	North Carolina	QUINTOZENE	1993	kg				10452.4						5491.6
+37	North Carolina	QUINTOZENE	1994	kg		273.2		106561	683.5					14447.5
+37	North Carolina	QUINTOZENE	1995	kg				63161.5	22.1					299.3
+37	North Carolina	QUINTOZENE	1996	kg				58616.7	976.7				189.6	2965
+37	North Carolina	QUINTOZENE	1997	kg				22812.1						5867
+37	North Carolina	QUINTOZENE	1998	kg				25274.8	2673.6					
+37	North Carolina	QUINTOZENE	1999	kg				14245.6	3474.3					
+37	North Carolina	QUINTOZENE	2000	kg				47912.5	3428					
+37	North Carolina	QUINTOZENE	2001	kg				76915.1	2488.3					
+37	North Carolina	QUINTOZENE	2002	kg				12342.3	2549.1					
+37	North Carolina	QUINTOZENE	2003	kg				45277.1	3229.9					
+37	North Carolina	QUINTOZENE	2004	kg				13255.1	4680.4					
+37	North Carolina	QUINTOZENE	2005	kg				10005.2	3057.2					
+37	North Carolina	QUINTOZENE	2006	kg				7955.4	2538.5					
+37	North Carolina	QUINTOZENE	2007	kg				370.8	1854.3					
+37	North Carolina	QUINTOZENE	2008	kg				825.7	1662.6					
+37	North Carolina	QUINTOZENE	2009	kg				3329.5	1773.2					1046.2
+37	North Carolina	QUINTOZENE	2010	kg				8875.9	1993.5					
+37	North Carolina	QUINTOZENE	2011	kg				2972.6						
+38	North Dakota	QUINTOZENE	1993	kg										1527.9
+38	North Dakota	QUINTOZENE	1995	kg										108.9
+38	North Dakota	QUINTOZENE	2008	kg					2964.5					
+38	North Dakota	QUINTOZENE	2009	kg			581.9		726.8					
+38	North Dakota	QUINTOZENE	2010	kg					20191.9					
+38	North Dakota	QUINTOZENE	2013	kg		28.4								
+38	North Dakota	QUINTOZENE	2015	kg					32563.7					
+38	North Dakota	QUINTOZENE	2017	kg					12333.1					
+39	Ohio	QUINTOZENE	1993	kg					1262.2		156.5			
+39	Ohio	QUINTOZENE	1994	kg	12369	1235.4								
+39	Ohio	QUINTOZENE	1996	kg					2933.4					208.5
+39	Ohio	QUINTOZENE	1997	kg										28.3
+39	Ohio	QUINTOZENE	1998	kg					102.4					
+39	Ohio	QUINTOZENE	2000	kg					38.6					
+39	Ohio	QUINTOZENE	2001	kg					26.1					
+39	Ohio	QUINTOZENE	2002	kg					59.6					
+39	Ohio	QUINTOZENE	2003	kg					13.2					
+39	Ohio	QUINTOZENE	2007	kg					108.5					
+39	Ohio	QUINTOZENE	2011	kg			19.1							
+39	Ohio	QUINTOZENE	2012	kg					228.6					
+39	Ohio	QUINTOZENE	2013	kg					266.5					
+40	Oklahoma	QUINTOZENE	1992	kg				756.3						12037.3
+40	Oklahoma	QUINTOZENE	1993	kg				740.9	4561					28415.3
+40	Oklahoma	QUINTOZENE	1994	kg				1412.3						4808
+40	Oklahoma	QUINTOZENE	1995	kg				1262.7						3207.9
+40	Oklahoma	QUINTOZENE	1996	kg				98.5						3345.7
+40	Oklahoma	QUINTOZENE	1997	kg				4559.2						2423.6
+40	Oklahoma	QUINTOZENE	1998	kg				240.4						856.3
+40	Oklahoma	QUINTOZENE	1999	kg				194.3	0					133.1
+40	Oklahoma	QUINTOZENE	2000	kg				3674.3						3525.7
+40	Oklahoma	QUINTOZENE	2001	kg				839.4						469.5
+40	Oklahoma	QUINTOZENE	2002	kg				95.5						
+40	Oklahoma	QUINTOZENE	2003	kg				46.5	0.4					
+40	Oklahoma	QUINTOZENE	2004	kg				157.7						
+40	Oklahoma	QUINTOZENE	2005	kg					0.6					
+40	Oklahoma	QUINTOZENE	2006	kg				12.3	1					
+40	Oklahoma	QUINTOZENE	2007	kg					0.2					
+40	Oklahoma	QUINTOZENE	2008	kg				0.3	14.7					
+40	Oklahoma	QUINTOZENE	2010	kg		1331.4								
+40	Oklahoma	QUINTOZENE	2014	kg				602.7						
+41	Oregon	QUINTOZENE	1994	kg					250.7					
+41	Oregon	QUINTOZENE	1995	kg					3004					
+41	Oregon	QUINTOZENE	1998	kg					2083.3					
+41	Oregon	QUINTOZENE	2000	kg					1224.1					
+41	Oregon	QUINTOZENE	2001	kg					3450					
+41	Oregon	QUINTOZENE	2002	kg					380.4					
+41	Oregon	QUINTOZENE	2003	kg					12833.4					
+41	Oregon	QUINTOZENE	2005	kg					13495					
+41	Oregon	QUINTOZENE	2006	kg					4689.7					
+41	Oregon	QUINTOZENE	2008	kg					5112.3					
+41	Oregon	QUINTOZENE	2009	kg					8078.6					
+41	Oregon	QUINTOZENE	2010	kg					11667.6					
+41	Oregon	QUINTOZENE	2014	kg					20223.1					
+41	Oregon	QUINTOZENE	2016	kg					20856.6					
+41	Oregon	QUINTOZENE	2017	kg					1082.7					
+42	Pennsylvania	QUINTOZENE	1992	kg					1678.9					
+42	Pennsylvania	QUINTOZENE	1993	kg					124.6					
+42	Pennsylvania	QUINTOZENE	1999	kg					5218.8					
+42	Pennsylvania	QUINTOZENE	2000	kg					4070.1					
+42	Pennsylvania	QUINTOZENE	2001	kg					11116.8					
+42	Pennsylvania	QUINTOZENE	2002	kg					2800.4					
+42	Pennsylvania	QUINTOZENE	2003	kg					217.2					
+44	Rhode Island	QUINTOZENE	1996	kg					10.9					
+45	South Carolina	QUINTOZENE	1992	kg				15438.2						1596.8
+45	South Carolina	QUINTOZENE	1993	kg		2479.6		8272.8						8.3
+45	South Carolina	QUINTOZENE	1994	kg	86.7	48.3		5019.1	377.2					1335.5
+45	South Carolina	QUINTOZENE	1995	kg				33097.1	8.1					
+45	South Carolina	QUINTOZENE	1996	kg				14525.3	429.9					21459.9
+45	South Carolina	QUINTOZENE	1997	kg				9046.5						69.1
+45	South Carolina	QUINTOZENE	1998	kg				9914.4	11.5					
+45	South Carolina	QUINTOZENE	1999	kg				4246.9	575.4					
+45	South Carolina	QUINTOZENE	2000	kg				5430	501					
+45	South Carolina	QUINTOZENE	2001	kg				2604.8	723.7					
+45	South Carolina	QUINTOZENE	2002	kg				222.8	557.4					
+45	South Carolina	QUINTOZENE	2003	kg				5943.9	454.6					
+45	South Carolina	QUINTOZENE	2004	kg				9001.4	334.5					
+45	South Carolina	QUINTOZENE	2005	kg				697.8	386					
+45	South Carolina	QUINTOZENE	2006	kg				1377.4	468.8					
+45	South Carolina	QUINTOZENE	2007	kg				95.3	354.4					12549.4
+45	South Carolina	QUINTOZENE	2008	kg				188.3						
+45	South Carolina	QUINTOZENE	2009	kg		251.8		60.6						
+45	South Carolina	QUINTOZENE	2010	kg				83957.9						
+45	South Carolina	QUINTOZENE	2014	kg					79.2					
+46	South Dakota	QUINTOZENE	2009	kg			188.8							
+47	Tennessee	QUINTOZENE	1992	kg		859.9		28439.7		2.3				
+47	Tennessee	QUINTOZENE	1993	kg				78826.9	358.7					2145.6
+47	Tennessee	QUINTOZENE	1994	kg	9735			59598.5	283.3					625.5
+47	Tennessee	QUINTOZENE	1995	kg	43.2	8651.4		76700	7.2		14			575.1
+47	Tennessee	QUINTOZENE	1996	kg				18575.1	3348.9				696.9	2056.7
+47	Tennessee	QUINTOZENE	1997	kg				43468.4					324	1314.7
+47	Tennessee	QUINTOZENE	1998	kg				33844.2						
+47	Tennessee	QUINTOZENE	1999	kg				58555.9						
+47	Tennessee	QUINTOZENE	2000	kg				57025.3						
+47	Tennessee	QUINTOZENE	2001	kg				50782.6	785.6					
+47	Tennessee	QUINTOZENE	2002	kg				33880.3	34.3					
+47	Tennessee	QUINTOZENE	2003	kg				26282.6						
+47	Tennessee	QUINTOZENE	2004	kg				12438.1						
+47	Tennessee	QUINTOZENE	2005	kg				9132.9						
+47	Tennessee	QUINTOZENE	2006	kg				13691						
+47	Tennessee	QUINTOZENE	2007	kg		1451.8		492.7						
+47	Tennessee	QUINTOZENE	2008	kg				1008.7						
+47	Tennessee	QUINTOZENE	2010	kg			10.9	51.6						
+48	Texas	QUINTOZENE	1992	kg				11622.2			13.2			15595
+48	Texas	QUINTOZENE	1993	kg				10702.5	3294.3		411.3			7157.2
+48	Texas	QUINTOZENE	1994	kg				13534.2						3268.1
+48	Texas	QUINTOZENE	1995	kg	1766.2			12344.9						9133.3
+48	Texas	QUINTOZENE	1996	kg				17222.1						26370.1
+48	Texas	QUINTOZENE	1997	kg				63038						12303.6
+48	Texas	QUINTOZENE	1998	kg				13055.3						2326.1
+48	Texas	QUINTOZENE	1999	kg				16050.2	153.9					11105.5
+48	Texas	QUINTOZENE	2000	kg				67051.3						24150.8
+48	Texas	QUINTOZENE	2001	kg				88289.7	1491.6					15195.4
+48	Texas	QUINTOZENE	2002	kg				99208.3						9852.1
+48	Texas	QUINTOZENE	2003	kg				14691.4	881.9					
+48	Texas	QUINTOZENE	2004	kg				151787.4						
+48	Texas	QUINTOZENE	2005	kg				12706.5	2680.3					2025.7
+48	Texas	QUINTOZENE	2006	kg				322.8	3079.5					
+48	Texas	QUINTOZENE	2007	kg				7111.4	292.7					
+48	Texas	QUINTOZENE	2008	kg				7773.5	709					
+48	Texas	QUINTOZENE	2014	kg				10519.3						
+49	Utah	QUINTOZENE	1992	kg					0					
+49	Utah	QUINTOZENE	1993	kg					2					
+49	Utah	QUINTOZENE	1994	kg					2.7					
+49	Utah	QUINTOZENE	2000	kg					1.3					
+49	Utah	QUINTOZENE	2001	kg					5.8					
+49	Utah	QUINTOZENE	2002	kg					0.1					
+49	Utah	QUINTOZENE	2003	kg					1.5					
+49	Utah	QUINTOZENE	2005	kg					0.3					
+49	Utah	QUINTOZENE	2006	kg					2.4					
+49	Utah	QUINTOZENE	2007	kg					0.3					
+49	Utah	QUINTOZENE	2017	kg					4.6					
+50	Vermont	QUINTOZENE	1996	kg					12.8					
+51	Virginia	QUINTOZENE	1992	kg		679.6		3395.8						4345.3
+51	Virginia	QUINTOZENE	1993	kg				731.3						4490.5
+51	Virginia	QUINTOZENE	1994	kg		179.4		1293.6	990.3					181.5
+51	Virginia	QUINTOZENE	1995	kg				1753.7						750.6
+51	Virginia	QUINTOZENE	1996	kg				515.6	1321.8				2231.2	794.8
+51	Virginia	QUINTOZENE	1997	kg				1674.8						317.7
+51	Virginia	QUINTOZENE	1998	kg				2118.7						
+51	Virginia	QUINTOZENE	1999	kg				1503.8	147.5					
+51	Virginia	QUINTOZENE	2000	kg				2853.9	1096.7					
+51	Virginia	QUINTOZENE	2001	kg				1557.5	536.6					
+51	Virginia	QUINTOZENE	2002	kg				739	1776					
+51	Virginia	QUINTOZENE	2003	kg				1367.1	1440.6					
+51	Virginia	QUINTOZENE	2004	kg				2643.2	2290.9					
+51	Virginia	QUINTOZENE	2005	kg				76.9	1654.6					
+51	Virginia	QUINTOZENE	2006	kg				1664.1	1643					
+51	Virginia	QUINTOZENE	2007	kg				42	1299.6					
+51	Virginia	QUINTOZENE	2008	kg				18.8	83.4					
+51	Virginia	QUINTOZENE	2009	kg				672.7	96.5					277.9
+51	Virginia	QUINTOZENE	2010	kg				10	170.1					
+51	Virginia	QUINTOZENE	2011	kg				484.2						
+53	Washington	QUINTOZENE	1994	kg					680.1					
+53	Washington	QUINTOZENE	2000	kg					608.1					
+53	Washington	QUINTOZENE	2001	kg					9256.9					
+53	Washington	QUINTOZENE	2002	kg					3631					
+53	Washington	QUINTOZENE	2003	kg					30751.1					
+53	Washington	QUINTOZENE	2004	kg					164061.8					
+53	Washington	QUINTOZENE	2005	kg					200847.9					
+53	Washington	QUINTOZENE	2006	kg					68320.6					
+53	Washington	QUINTOZENE	2007	kg					108097.2					
+53	Washington	QUINTOZENE	2008	kg					72703.1					
+53	Washington	QUINTOZENE	2009	kg					75499.5					
+53	Washington	QUINTOZENE	2010	kg					45520.4					
+53	Washington	QUINTOZENE	2011	kg					929.1					
+53	Washington	QUINTOZENE	2012	kg					11014.4					
+53	Washington	QUINTOZENE	2013	kg					1549.9					
+53	Washington	QUINTOZENE	2014	kg					22436.8					
+53	Washington	QUINTOZENE	2016	kg					21794.3					
+53	Washington	QUINTOZENE	2017	kg					2491.6					
+54	West Virginia	QUINTOZENE	1995	kg										34.3
+54	West Virginia	QUINTOZENE	1996	kg									1250.1	35.5
+54	West Virginia	QUINTOZENE	1997	kg										5.8
+55	Wisconsin	QUINTOZENE	1995	kg					331.9					
+55	Wisconsin	QUINTOZENE	1999	kg					28					
+55	Wisconsin	QUINTOZENE	2000	kg					4679.3					
+55	Wisconsin	QUINTOZENE	2003	kg					9502					
+55	Wisconsin	QUINTOZENE	2006	kg					1924.8					
+55	Wisconsin	QUINTOZENE	2007	kg					2840.3					
+55	Wisconsin	QUINTOZENE	2008	kg					2252.4					
+55	Wisconsin	QUINTOZENE	2009	kg					53750.4					
+55	Wisconsin	QUINTOZENE	2010	kg					25434.7					
+55	Wisconsin	QUINTOZENE	2012	kg					41027					
+55	Wisconsin	QUINTOZENE	2013	kg					14105.1					
+55	Wisconsin	QUINTOZENE	2014	kg					8082.3					
+55	Wisconsin	QUINTOZENE	2015	kg					13614.8					
+55	Wisconsin	QUINTOZENE	2016	kg					30989.4					
+55	Wisconsin	QUINTOZENE	2017	kg					12089.4					
+56	Wyoming	QUINTOZENE	1992	kg					0					
+56	Wyoming	QUINTOZENE	1993	kg					0					5.5
+56	Wyoming	QUINTOZENE	1994	kg					0					
+56	Wyoming	QUINTOZENE	2000	kg					0					
+56	Wyoming	QUINTOZENE	2001	kg					0.2					
+56	Wyoming	QUINTOZENE	2002	kg					0					
+56	Wyoming	QUINTOZENE	2003	kg					0					
+56	Wyoming	QUINTOZENE	2005	kg					0					
+56	Wyoming	QUINTOZENE	2006	kg					0.1					
+56	Wyoming	QUINTOZENE	2007	kg					0					

@@ -1,0 +1,609 @@
+01	Alabama	FLUMICLORAC	1998	kg		12.2								
+01	Alabama	FLUMICLORAC	1999	kg		28.9								
+01	Alabama	FLUMICLORAC	2000	kg		47.9								
+01	Alabama	FLUMICLORAC	2001	kg		30								
+01	Alabama	FLUMICLORAC	2002	kg		110.8								
+01	Alabama	FLUMICLORAC	2003	kg		51.5								
+01	Alabama	FLUMICLORAC	2004	kg		27								
+01	Alabama	FLUMICLORAC	2005	kg		25.6								
+01	Alabama	FLUMICLORAC	2006	kg		165.7								
+01	Alabama	FLUMICLORAC	2007	kg		180								
+01	Alabama	FLUMICLORAC	2008	kg		147.2								
+01	Alabama	FLUMICLORAC	2009	kg		67.8								
+01	Alabama	FLUMICLORAC	2010	kg		277.2								
+01	Alabama	FLUMICLORAC	2011	kg		911.7								
+01	Alabama	FLUMICLORAC	2012	kg		364.1								
+01	Alabama	FLUMICLORAC	2013	kg		261.1								
+01	Alabama	FLUMICLORAC	2014	kg		365.2								
+01	Alabama	FLUMICLORAC	2015	kg		1162.7								
+01	Alabama	FLUMICLORAC	2016	kg		445.6								
+01	Alabama	FLUMICLORAC	2017	kg		1024.9								
+05	Arkansas	FLUMICLORAC	1995	kg		0.6								
+05	Arkansas	FLUMICLORAC	1996	kg		0.3								
+05	Arkansas	FLUMICLORAC	1997	kg		0.2								
+05	Arkansas	FLUMICLORAC	1998	kg		58.8								
+05	Arkansas	FLUMICLORAC	1999	kg		1170								
+05	Arkansas	FLUMICLORAC	2000	kg		519.7								
+05	Arkansas	FLUMICLORAC	2001	kg		220.3								
+05	Arkansas	FLUMICLORAC	2002	kg		576.9								
+05	Arkansas	FLUMICLORAC	2003	kg		2168.4		40.4						
+05	Arkansas	FLUMICLORAC	2004	kg		935.9								
+05	Arkansas	FLUMICLORAC	2005	kg		2065.8				34.8				
+05	Arkansas	FLUMICLORAC	2006	kg		1213.6		89.7						
+05	Arkansas	FLUMICLORAC	2007	kg		722.9		608.8						
+05	Arkansas	FLUMICLORAC	2008	kg		2876.9								
+05	Arkansas	FLUMICLORAC	2009	kg		748.3								
+05	Arkansas	FLUMICLORAC	2010	kg	50.8	1520								
+05	Arkansas	FLUMICLORAC	2011	kg		381.6								
+05	Arkansas	FLUMICLORAC	2012	kg		893.4		19.9						
+05	Arkansas	FLUMICLORAC	2013	kg		727.7								
+05	Arkansas	FLUMICLORAC	2014	kg		1128.6								
+05	Arkansas	FLUMICLORAC	2015	kg		247.8		9.2						
+05	Arkansas	FLUMICLORAC	2016	kg		968.1		42.5						
+05	Arkansas	FLUMICLORAC	2017	kg		6490.2								
+06	California	FLUMICLORAC	2016	kg				41.5						
+06	California	FLUMICLORAC	2017	kg				100.3						
+08	Colorado	FLUMICLORAC	1995	kg		1.1								
+08	Colorado	FLUMICLORAC	1996	kg		2.8								
+08	Colorado	FLUMICLORAC	1997	kg	9.3	23.7								
+08	Colorado	FLUMICLORAC	1998	kg		0.7								
+08	Colorado	FLUMICLORAC	1999	kg		0.7								
+08	Colorado	FLUMICLORAC	2000	kg		0.6								
+08	Colorado	FLUMICLORAC	2001	kg		0.7								
+08	Colorado	FLUMICLORAC	2002	kg		0.6								
+08	Colorado	FLUMICLORAC	2003	kg		0.8								
+08	Colorado	FLUMICLORAC	2004	kg		0.9								
+08	Colorado	FLUMICLORAC	2005	kg		0.5								
+08	Colorado	FLUMICLORAC	2006	kg		0.9								
+08	Colorado	FLUMICLORAC	2008	kg	42	0.4								
+08	Colorado	FLUMICLORAC	2009	kg	14.2	0.1								
+08	Colorado	FLUMICLORAC	2010	kg	168.9	0.1								
+08	Colorado	FLUMICLORAC	2011	kg		3.3								
+08	Colorado	FLUMICLORAC	2012	kg		6.2								
+08	Colorado	FLUMICLORAC	2013	kg	54.6	3.5								
+08	Colorado	FLUMICLORAC	2014	kg		2.3								
+08	Colorado	FLUMICLORAC	2015	kg	135.1	6.1								
+08	Colorado	FLUMICLORAC	2016	kg	181.6	5.6								
+08	Colorado	FLUMICLORAC	2017	kg		2.3								
+10	Delaware	FLUMICLORAC	1997	kg		2.2								
+10	Delaware	FLUMICLORAC	1998	kg		12.3								
+10	Delaware	FLUMICLORAC	2000	kg		83.4								
+10	Delaware	FLUMICLORAC	2001	kg		73								
+10	Delaware	FLUMICLORAC	2002	kg		105.7								
+10	Delaware	FLUMICLORAC	2003	kg		80.8								
+10	Delaware	FLUMICLORAC	2004	kg		79.3								
+10	Delaware	FLUMICLORAC	2005	kg		85.1								
+10	Delaware	FLUMICLORAC	2006	kg		354								
+10	Delaware	FLUMICLORAC	2007	kg		16.8								
+10	Delaware	FLUMICLORAC	2008	kg		44.6								
+10	Delaware	FLUMICLORAC	2009	kg		6								
+10	Delaware	FLUMICLORAC	2010	kg		276.9								
+10	Delaware	FLUMICLORAC	2011	kg		40.3								
+10	Delaware	FLUMICLORAC	2012	kg		94.7								
+10	Delaware	FLUMICLORAC	2013	kg		112.8								
+10	Delaware	FLUMICLORAC	2014	kg		46.5								
+10	Delaware	FLUMICLORAC	2015	kg	19.8	37.1								
+10	Delaware	FLUMICLORAC	2016	kg		167								
+10	Delaware	FLUMICLORAC	2017	kg		268.5								
+12	Florida	FLUMICLORAC	2001	kg		5.8								
+12	Florida	FLUMICLORAC	2016	kg		3.4		10.1						
+13	Georgia	FLUMICLORAC	1998	kg		5.3								
+13	Georgia	FLUMICLORAC	2000	kg		29.1								
+13	Georgia	FLUMICLORAC	2001	kg		68.7								
+13	Georgia	FLUMICLORAC	2002	kg		39.2								
+13	Georgia	FLUMICLORAC	2003	kg		43								
+13	Georgia	FLUMICLORAC	2004	kg		56.8								
+13	Georgia	FLUMICLORAC	2005	kg		49.3								
+13	Georgia	FLUMICLORAC	2006	kg		174								
+13	Georgia	FLUMICLORAC	2007	kg		138.1								
+13	Georgia	FLUMICLORAC	2008	kg		108.1								
+13	Georgia	FLUMICLORAC	2009	kg		81.4								
+13	Georgia	FLUMICLORAC	2010	kg		239								
+13	Georgia	FLUMICLORAC	2011	kg	8.3	49.6								
+13	Georgia	FLUMICLORAC	2012	kg		188.1								
+13	Georgia	FLUMICLORAC	2013	kg		188								
+13	Georgia	FLUMICLORAC	2014	kg		232.9								
+13	Georgia	FLUMICLORAC	2015	kg	1	185.9		303.8						
+13	Georgia	FLUMICLORAC	2016	kg		130.1		107.5						
+13	Georgia	FLUMICLORAC	2017	kg		237.8								
+17	Illinois	FLUMICLORAC	1995	kg	586.5	418.9								
+17	Illinois	FLUMICLORAC	1996	kg	736.2	2985.1								
+17	Illinois	FLUMICLORAC	1997	kg	1476.2	2329.1								
+17	Illinois	FLUMICLORAC	1998	kg	8019.6	1665.9								
+17	Illinois	FLUMICLORAC	1999	kg	1410.6	1281.7								
+17	Illinois	FLUMICLORAC	2000	kg	1659.2	2379.7								
+17	Illinois	FLUMICLORAC	2001	kg	1109.1	1571.1								
+17	Illinois	FLUMICLORAC	2002	kg	196.6	1727.2								
+17	Illinois	FLUMICLORAC	2003	kg	1028.1	829.5								
+17	Illinois	FLUMICLORAC	2004	kg	171.5	761.7								
+17	Illinois	FLUMICLORAC	2005	kg	854.7	2025.1								
+17	Illinois	FLUMICLORAC	2006	kg	289.3	1070								
+17	Illinois	FLUMICLORAC	2007	kg	120.1	942.8								
+17	Illinois	FLUMICLORAC	2008	kg	2390.1	2235.6								
+17	Illinois	FLUMICLORAC	2009	kg	2065.4	1432.4								
+17	Illinois	FLUMICLORAC	2010	kg	1363	2469.3								
+17	Illinois	FLUMICLORAC	2011	kg	1086.9	1851.8								
+17	Illinois	FLUMICLORAC	2012	kg		2041								
+17	Illinois	FLUMICLORAC	2013	kg	430.9	2317.5								
+17	Illinois	FLUMICLORAC	2014	kg		2170.3								
+17	Illinois	FLUMICLORAC	2015	kg	2034.2	2025.7								
+17	Illinois	FLUMICLORAC	2016	kg		3051								
+17	Illinois	FLUMICLORAC	2017	kg	2003.7	4167.7								
+18	Indiana	FLUMICLORAC	1995	kg	248.5	812.1								
+18	Indiana	FLUMICLORAC	1996	kg	389.1	2871.2								
+18	Indiana	FLUMICLORAC	1997	kg	642.3	5134.8								
+18	Indiana	FLUMICLORAC	1998	kg	2271.7	891.6								
+18	Indiana	FLUMICLORAC	1999	kg	546.2	479.3								
+18	Indiana	FLUMICLORAC	2000	kg		1273.3								
+18	Indiana	FLUMICLORAC	2001	kg	601.8	324.2								
+18	Indiana	FLUMICLORAC	2002	kg		880.1								
+18	Indiana	FLUMICLORAC	2003	kg	466	653.4								
+18	Indiana	FLUMICLORAC	2004	kg	61.5	548.8								
+18	Indiana	FLUMICLORAC	2005	kg	410.2	922.6								
+18	Indiana	FLUMICLORAC	2006	kg	201.1	431.5								
+18	Indiana	FLUMICLORAC	2007	kg	61.3	724.4								
+18	Indiana	FLUMICLORAC	2008	kg	1016.8	309.7								
+18	Indiana	FLUMICLORAC	2009	kg	230.1	661.2								
+18	Indiana	FLUMICLORAC	2010	kg	788.9	977.6								
+18	Indiana	FLUMICLORAC	2011	kg	620.7	1816.6								
+18	Indiana	FLUMICLORAC	2012	kg		1088.7								
+18	Indiana	FLUMICLORAC	2013	kg	285.8	679.4								
+18	Indiana	FLUMICLORAC	2014	kg		1009.6								
+18	Indiana	FLUMICLORAC	2015	kg	1029.4	377								
+18	Indiana	FLUMICLORAC	2016	kg		1422.4								
+18	Indiana	FLUMICLORAC	2017	kg	566.3	567.7								
+19	Iowa	FLUMICLORAC	1995	kg	525.5	1553.4								
+19	Iowa	FLUMICLORAC	1996	kg	697.6	2743.4								
+19	Iowa	FLUMICLORAC	1997	kg	658.3	3470.6								
+19	Iowa	FLUMICLORAC	1998	kg	1390.2	2022.4								
+19	Iowa	FLUMICLORAC	1999	kg	2655.5	344.3								
+19	Iowa	FLUMICLORAC	2000	kg	262.6	641.9								
+19	Iowa	FLUMICLORAC	2001	kg	1307	1733.5								
+19	Iowa	FLUMICLORAC	2002	kg	38.3	1394.2								
+19	Iowa	FLUMICLORAC	2003	kg	1226.1	1131.4								
+19	Iowa	FLUMICLORAC	2004	kg	130.2	1084.3								
+19	Iowa	FLUMICLORAC	2005	kg	1550.4	2128.9								
+19	Iowa	FLUMICLORAC	2006	kg	638.8	2398.6								
+19	Iowa	FLUMICLORAC	2007	kg	346.5	1092.5								
+19	Iowa	FLUMICLORAC	2008	kg	4213.4	1892.5								
+19	Iowa	FLUMICLORAC	2009	kg	1591.5	1137.7								
+19	Iowa	FLUMICLORAC	2010	kg	794.2	1364.9								
+19	Iowa	FLUMICLORAC	2011	kg	2271.1	3118.6								
+19	Iowa	FLUMICLORAC	2012	kg		1618.6								
+19	Iowa	FLUMICLORAC	2013	kg	505.7	3513.4								
+19	Iowa	FLUMICLORAC	2014	kg	350.3	4637.6								
+19	Iowa	FLUMICLORAC	2015	kg	1712.4	1795.9								
+19	Iowa	FLUMICLORAC	2016	kg	188.4	2716.1								
+19	Iowa	FLUMICLORAC	2017	kg	251.7	4374.7								
+20	Kansas	FLUMICLORAC	1995	kg		590.3								
+20	Kansas	FLUMICLORAC	1996	kg		2108.1								
+20	Kansas	FLUMICLORAC	1997	kg		1616.6								
+20	Kansas	FLUMICLORAC	1998	kg	29.4	760								
+20	Kansas	FLUMICLORAC	1999	kg	249.5	518								
+20	Kansas	FLUMICLORAC	2000	kg		341.8								
+20	Kansas	FLUMICLORAC	2001	kg	135.7	535.2								
+20	Kansas	FLUMICLORAC	2002	kg		677.3								
+20	Kansas	FLUMICLORAC	2003	kg		457.8								
+20	Kansas	FLUMICLORAC	2004	kg		717.2								
+20	Kansas	FLUMICLORAC	2005	kg	16.6	369.8								
+20	Kansas	FLUMICLORAC	2006	kg		1844.2								
+20	Kansas	FLUMICLORAC	2007	kg		44.8								
+20	Kansas	FLUMICLORAC	2008	kg	131.7	5503.7								
+20	Kansas	FLUMICLORAC	2009	kg	87.3	207.5								
+20	Kansas	FLUMICLORAC	2010	kg	600.8	342.8								
+20	Kansas	FLUMICLORAC	2011	kg		1442								
+20	Kansas	FLUMICLORAC	2012	kg		2256.3								
+20	Kansas	FLUMICLORAC	2013	kg	271	1409.6								
+20	Kansas	FLUMICLORAC	2014	kg	324	742.2								
+20	Kansas	FLUMICLORAC	2015	kg	579.2	2029.4								
+20	Kansas	FLUMICLORAC	2016	kg	865.6	2676								
+20	Kansas	FLUMICLORAC	2017	kg	305.7	1300.4								
+21	Kentucky	FLUMICLORAC	1995	kg		82.4								
+21	Kentucky	FLUMICLORAC	1996	kg		221.5								
+21	Kentucky	FLUMICLORAC	1997	kg		202								
+21	Kentucky	FLUMICLORAC	1998	kg		150.4								
+21	Kentucky	FLUMICLORAC	1999	kg		217.6								
+21	Kentucky	FLUMICLORAC	2000	kg		207.3								
+21	Kentucky	FLUMICLORAC	2001	kg		110.4								
+21	Kentucky	FLUMICLORAC	2002	kg		165.2								
+21	Kentucky	FLUMICLORAC	2003	kg		251.6								
+21	Kentucky	FLUMICLORAC	2004	kg		139								
+21	Kentucky	FLUMICLORAC	2005	kg		149.5								
+21	Kentucky	FLUMICLORAC	2006	kg		247.3								
+21	Kentucky	FLUMICLORAC	2007	kg		555								
+21	Kentucky	FLUMICLORAC	2008	kg	54.2	409.5								
+21	Kentucky	FLUMICLORAC	2009	kg	11.9	141.7								
+21	Kentucky	FLUMICLORAC	2010	kg	141.9	126.9								
+21	Kentucky	FLUMICLORAC	2011	kg	60.2	219								
+21	Kentucky	FLUMICLORAC	2012	kg		779.6								
+21	Kentucky	FLUMICLORAC	2013	kg	11.1	730.2								
+21	Kentucky	FLUMICLORAC	2014	kg		197								
+21	Kentucky	FLUMICLORAC	2015	kg	53.7	2193.1								
+21	Kentucky	FLUMICLORAC	2016	kg		808.6								
+21	Kentucky	FLUMICLORAC	2017	kg		1941.9								
+22	Louisiana	FLUMICLORAC	1999	kg		348.2								
+22	Louisiana	FLUMICLORAC	2000	kg		81.3								
+22	Louisiana	FLUMICLORAC	2001	kg		185.3								
+22	Louisiana	FLUMICLORAC	2002	kg		328.9								
+22	Louisiana	FLUMICLORAC	2003	kg		102.6								
+22	Louisiana	FLUMICLORAC	2004	kg		109.6								
+22	Louisiana	FLUMICLORAC	2005	kg		401.9								
+22	Louisiana	FLUMICLORAC	2006	kg		1456.1		55.3						
+22	Louisiana	FLUMICLORAC	2007	kg		409.4		282.8						
+22	Louisiana	FLUMICLORAC	2008	kg		375.8								
+22	Louisiana	FLUMICLORAC	2009	kg		108.4								
+22	Louisiana	FLUMICLORAC	2010	kg		483.1								
+22	Louisiana	FLUMICLORAC	2011	kg		169.6								
+22	Louisiana	FLUMICLORAC	2012	kg		206.9		43.9						
+22	Louisiana	FLUMICLORAC	2013	kg		500.5								
+22	Louisiana	FLUMICLORAC	2014	kg		481.9								
+22	Louisiana	FLUMICLORAC	2015	kg		1094.5		21.8						
+22	Louisiana	FLUMICLORAC	2016	kg		357.5		260.6						
+22	Louisiana	FLUMICLORAC	2017	kg		1777.5								
+23	Maine	FLUMICLORAC	1995	kg	19.4									
+23	Maine	FLUMICLORAC	1996	kg	56.6									
+23	Maine	FLUMICLORAC	1998	kg	47.4									
+23	Maine	FLUMICLORAC	1999	kg	19.8									
+24	Maryland	FLUMICLORAC	1997	kg		25.6								
+24	Maryland	FLUMICLORAC	1998	kg		19.3								
+24	Maryland	FLUMICLORAC	2000	kg		148.6								
+24	Maryland	FLUMICLORAC	2001	kg		137.6								
+24	Maryland	FLUMICLORAC	2002	kg		191.6								
+24	Maryland	FLUMICLORAC	2003	kg		142.9								
+24	Maryland	FLUMICLORAC	2004	kg		133.1								
+24	Maryland	FLUMICLORAC	2005	kg		157.4								
+24	Maryland	FLUMICLORAC	2006	kg		655.8								
+24	Maryland	FLUMICLORAC	2007	kg		42.6								
+24	Maryland	FLUMICLORAC	2008	kg		104								
+24	Maryland	FLUMICLORAC	2009	kg		14.4								
+24	Maryland	FLUMICLORAC	2010	kg	10.9	498								
+24	Maryland	FLUMICLORAC	2011	kg		122.1								
+24	Maryland	FLUMICLORAC	2012	kg		42.2								
+24	Maryland	FLUMICLORAC	2013	kg		198.6								
+24	Maryland	FLUMICLORAC	2014	kg		118.8								
+24	Maryland	FLUMICLORAC	2015	kg	43.2	46.3								
+24	Maryland	FLUMICLORAC	2016	kg		517.2								
+24	Maryland	FLUMICLORAC	2017	kg		1052.2								
+26	Michigan	FLUMICLORAC	1995	kg		87.8								
+26	Michigan	FLUMICLORAC	1996	kg	31.4	358.2								
+26	Michigan	FLUMICLORAC	1997	kg	192	311.4								
+26	Michigan	FLUMICLORAC	1998	kg	371.7	372.5								
+26	Michigan	FLUMICLORAC	1999	kg	18.5	251.3								
+26	Michigan	FLUMICLORAC	2000	kg		902.8								
+26	Michigan	FLUMICLORAC	2001	kg		36.3								
+26	Michigan	FLUMICLORAC	2002	kg		342								
+26	Michigan	FLUMICLORAC	2005	kg		255								
+26	Michigan	FLUMICLORAC	2006	kg		39								
+26	Michigan	FLUMICLORAC	2007	kg	6	136.1								
+26	Michigan	FLUMICLORAC	2008	kg		76.5								
+26	Michigan	FLUMICLORAC	2009	kg		331.9								
+26	Michigan	FLUMICLORAC	2010	kg		222.6								
+26	Michigan	FLUMICLORAC	2011	kg		380.1								
+26	Michigan	FLUMICLORAC	2012	kg		140.8								
+26	Michigan	FLUMICLORAC	2013	kg	48.1	249.1								
+26	Michigan	FLUMICLORAC	2014	kg		338								
+26	Michigan	FLUMICLORAC	2015	kg	377.6	257								
+26	Michigan	FLUMICLORAC	2016	kg		450.1								
+26	Michigan	FLUMICLORAC	2017	kg		589.9								
+27	Minnesota	FLUMICLORAC	1995	kg	258.4	646.8								
+27	Minnesota	FLUMICLORAC	1996	kg	81	1503.7								
+27	Minnesota	FLUMICLORAC	1997	kg	342.9	731.9								
+27	Minnesota	FLUMICLORAC	1998	kg	925.8	1156.1								
+27	Minnesota	FLUMICLORAC	1999	kg	933.3	1046.8								
+27	Minnesota	FLUMICLORAC	2000	kg	336.1	569.8								
+27	Minnesota	FLUMICLORAC	2001	kg	534.6	489.1								
+27	Minnesota	FLUMICLORAC	2002	kg	6	798.8								
+27	Minnesota	FLUMICLORAC	2003	kg	519	321.5								
+27	Minnesota	FLUMICLORAC	2004	kg	217.8	411.3								
+27	Minnesota	FLUMICLORAC	2005	kg	448.9	551.4								
+27	Minnesota	FLUMICLORAC	2006	kg	232.8	658.6								
+27	Minnesota	FLUMICLORAC	2007	kg	57.4	449.6								
+27	Minnesota	FLUMICLORAC	2008	kg	1201.9	666.8								
+27	Minnesota	FLUMICLORAC	2009	kg	299.9	548.2								
+27	Minnesota	FLUMICLORAC	2010	kg	1117	1354.6								
+27	Minnesota	FLUMICLORAC	2011	kg	1036.8	1096.4								
+27	Minnesota	FLUMICLORAC	2012	kg	556.4	1060.8								
+27	Minnesota	FLUMICLORAC	2013	kg	223.8	1431.7								
+27	Minnesota	FLUMICLORAC	2014	kg		502.7								
+27	Minnesota	FLUMICLORAC	2015	kg	702.1	3710.5								
+27	Minnesota	FLUMICLORAC	2016	kg		433								
+27	Minnesota	FLUMICLORAC	2017	kg	228.5	1629.8								
+28	Mississippi	FLUMICLORAC	1998	kg		0.5								
+28	Mississippi	FLUMICLORAC	1999	kg		716.6								
+28	Mississippi	FLUMICLORAC	2000	kg		424.2								
+28	Mississippi	FLUMICLORAC	2001	kg		186.7								
+28	Mississippi	FLUMICLORAC	2002	kg		240.7								
+28	Mississippi	FLUMICLORAC	2003	kg		839.6								
+28	Mississippi	FLUMICLORAC	2004	kg		181.8								
+28	Mississippi	FLUMICLORAC	2005	kg		1387.3				3.4				
+28	Mississippi	FLUMICLORAC	2006	kg		2416.2		113.5						
+28	Mississippi	FLUMICLORAC	2007	kg		833.2		632.4						
+28	Mississippi	FLUMICLORAC	2008	kg		574.3								
+28	Mississippi	FLUMICLORAC	2009	kg		292.4								
+28	Mississippi	FLUMICLORAC	2010	kg		881								
+28	Mississippi	FLUMICLORAC	2011	kg		1772.5								
+28	Mississippi	FLUMICLORAC	2012	kg		300		31						
+28	Mississippi	FLUMICLORAC	2013	kg		384.8								
+28	Mississippi	FLUMICLORAC	2014	kg		1067.6								
+28	Mississippi	FLUMICLORAC	2015	kg		1658.3		20.1						
+28	Mississippi	FLUMICLORAC	2016	kg		746.6								
+28	Mississippi	FLUMICLORAC	2017	kg		2925.2								
+29	Missouri	FLUMICLORAC	1995	kg	47.3	384								
+29	Missouri	FLUMICLORAC	1996	kg	42.9	2322.8								
+29	Missouri	FLUMICLORAC	1997	kg	79.5	1352.1								
+29	Missouri	FLUMICLORAC	1998	kg	171.7	1310.3								
+29	Missouri	FLUMICLORAC	1999	kg	1245.3	608.5								
+29	Missouri	FLUMICLORAC	2000	kg		2276.4								
+29	Missouri	FLUMICLORAC	2001	kg	280.5	1691.6								
+29	Missouri	FLUMICLORAC	2002	kg	21.5	2556.7								
+29	Missouri	FLUMICLORAC	2003	kg	181.6	2121.4		36.7						
+29	Missouri	FLUMICLORAC	2004	kg	30.2	820.9								
+29	Missouri	FLUMICLORAC	2005	kg	121.5	1047								
+29	Missouri	FLUMICLORAC	2006	kg	83.2	1377.1								
+29	Missouri	FLUMICLORAC	2007	kg	18.5	698								
+29	Missouri	FLUMICLORAC	2008	kg	380	1474.4								
+29	Missouri	FLUMICLORAC	2009	kg	141.8	1230.3								
+29	Missouri	FLUMICLORAC	2010	kg	1248.3	3529.8								
+29	Missouri	FLUMICLORAC	2011	kg	526.3	3304.4								
+29	Missouri	FLUMICLORAC	2012	kg		3332.6								
+29	Missouri	FLUMICLORAC	2013	kg	170.1	4221.8								
+29	Missouri	FLUMICLORAC	2014	kg	408.3	3152.6								
+29	Missouri	FLUMICLORAC	2015	kg	563.9	1673.3								
+29	Missouri	FLUMICLORAC	2016	kg	147.5	3817								
+29	Missouri	FLUMICLORAC	2017	kg	196.7	3540.6								
+31	Nebraska	FLUMICLORAC	1995	kg	326.7	1265.1								
+31	Nebraska	FLUMICLORAC	1996	kg	168.3	1986.3								
+31	Nebraska	FLUMICLORAC	1997	kg	190.7	856.1								
+31	Nebraska	FLUMICLORAC	1998	kg	622.1	399								
+31	Nebraska	FLUMICLORAC	1999	kg	1230.6	517.9								
+31	Nebraska	FLUMICLORAC	2000	kg		854.3								
+31	Nebraska	FLUMICLORAC	2001	kg	784.5	980.8								
+31	Nebraska	FLUMICLORAC	2002	kg		636.2								
+31	Nebraska	FLUMICLORAC	2003	kg	456.1	1015.2								
+31	Nebraska	FLUMICLORAC	2004	kg	52.6	489.2								
+31	Nebraska	FLUMICLORAC	2005	kg	218.7	805.1								
+31	Nebraska	FLUMICLORAC	2006	kg	371.7	468.4								
+31	Nebraska	FLUMICLORAC	2007	kg	680.5	216.8								
+31	Nebraska	FLUMICLORAC	2008	kg	1025.1	352.9								
+31	Nebraska	FLUMICLORAC	2009	kg	443.1	957.1								
+31	Nebraska	FLUMICLORAC	2010	kg	764.1	798.3								
+31	Nebraska	FLUMICLORAC	2011	kg	1554.6	798.7								
+31	Nebraska	FLUMICLORAC	2012	kg		3416.2								
+31	Nebraska	FLUMICLORAC	2013	kg	673.2	3695.4								
+31	Nebraska	FLUMICLORAC	2014	kg	1458.1	1763.5								
+31	Nebraska	FLUMICLORAC	2015	kg	1809	3088.6								
+31	Nebraska	FLUMICLORAC	2016	kg	1785.4	1873.2								
+31	Nebraska	FLUMICLORAC	2017	kg	1196.8	1229.5								
+33	New Hampshire	FLUMICLORAC	1995	kg	11.9									
+33	New Hampshire	FLUMICLORAC	1996	kg	30									
+33	New Hampshire	FLUMICLORAC	1998	kg	22.1									
+33	New Hampshire	FLUMICLORAC	1999	kg	11.8									
+34	New Jersey	FLUMICLORAC	1997	kg		9.4								
+34	New Jersey	FLUMICLORAC	2004	kg		33.4								
+34	New Jersey	FLUMICLORAC	2011	kg		21								
+34	New Jersey	FLUMICLORAC	2013	kg		58.4								
+34	New Jersey	FLUMICLORAC	2015	kg		41.4								
+35	New Mexico	FLUMICLORAC	2016	kg				0.4						
+36	New York	FLUMICLORAC	1997	kg		79.8								
+36	New York	FLUMICLORAC	1998	kg		109.2								
+36	New York	FLUMICLORAC	2007	kg					25.7					
+36	New York	FLUMICLORAC	2015	kg		88.4								
+37	North Carolina	FLUMICLORAC	1997	kg		141								
+37	North Carolina	FLUMICLORAC	1998	kg		40.3								
+37	North Carolina	FLUMICLORAC	1999	kg		520.5								
+37	North Carolina	FLUMICLORAC	2000	kg		352.7								
+37	North Carolina	FLUMICLORAC	2001	kg		605.8								
+37	North Carolina	FLUMICLORAC	2002	kg		1070.8								
+37	North Carolina	FLUMICLORAC	2003	kg		1267.8								
+37	North Carolina	FLUMICLORAC	2004	kg	164.4	1363.6								
+37	North Carolina	FLUMICLORAC	2005	kg		1496								
+37	North Carolina	FLUMICLORAC	2006	kg	488.7	3289.1		2004.5						
+37	North Carolina	FLUMICLORAC	2007	kg	3710.3	3946.8		143.7						
+37	North Carolina	FLUMICLORAC	2008	kg		1477.4		92.2						
+37	North Carolina	FLUMICLORAC	2009	kg		2247.7		65.7						
+37	North Carolina	FLUMICLORAC	2010	kg		2382.7		31.1						
+37	North Carolina	FLUMICLORAC	2011	kg	703.3	1310.6		1133.5						
+37	North Carolina	FLUMICLORAC	2012	kg	138.1	4736.9		127.5						
+37	North Carolina	FLUMICLORAC	2013	kg	50.9	3064.1		107.5						
+37	North Carolina	FLUMICLORAC	2014	kg		1086.4		243.5						
+37	North Carolina	FLUMICLORAC	2015	kg	322.6	475		122.8						
+37	North Carolina	FLUMICLORAC	2016	kg		824.3		423.7						
+37	North Carolina	FLUMICLORAC	2017	kg		399.9		207.8						
+38	North Dakota	FLUMICLORAC	1995	kg		66								
+38	North Dakota	FLUMICLORAC	1996	kg		722.2								
+38	North Dakota	FLUMICLORAC	1997	kg		917.8								
+38	North Dakota	FLUMICLORAC	1998	kg		147.1								
+38	North Dakota	FLUMICLORAC	2002	kg		237.2								
+38	North Dakota	FLUMICLORAC	2005	kg		300.4								
+38	North Dakota	FLUMICLORAC	2006	kg		251.8								
+38	North Dakota	FLUMICLORAC	2008	kg	14.1	994.9								
+38	North Dakota	FLUMICLORAC	2009	kg	74.9	987.8								
+38	North Dakota	FLUMICLORAC	2010	kg	90.6	1494.8								
+38	North Dakota	FLUMICLORAC	2011	kg		772.8								
+38	North Dakota	FLUMICLORAC	2012	kg	669.1	2345.8								
+38	North Dakota	FLUMICLORAC	2013	kg		993.7								
+38	North Dakota	FLUMICLORAC	2014	kg		623.3								
+38	North Dakota	FLUMICLORAC	2015	kg		1774.2								
+38	North Dakota	FLUMICLORAC	2016	kg		1150.2								
+38	North Dakota	FLUMICLORAC	2017	kg		475.5								
+39	Ohio	FLUMICLORAC	1995	kg	67.6	773.4								
+39	Ohio	FLUMICLORAC	1996	kg	33.3	750.2								
+39	Ohio	FLUMICLORAC	1997	kg	179	728.5								
+39	Ohio	FLUMICLORAC	1998	kg	135.8	773.9								
+39	Ohio	FLUMICLORAC	1999	kg	131.5	404.1								
+39	Ohio	FLUMICLORAC	2000	kg		176.7								
+39	Ohio	FLUMICLORAC	2001	kg	175.4	178.1								
+39	Ohio	FLUMICLORAC	2002	kg		655.4								
+39	Ohio	FLUMICLORAC	2003	kg	139.4	453.7								
+39	Ohio	FLUMICLORAC	2004	kg	21.6	276.2								
+39	Ohio	FLUMICLORAC	2005	kg	120.7	218								
+39	Ohio	FLUMICLORAC	2006	kg	57.5	272.2								
+39	Ohio	FLUMICLORAC	2007	kg	13.1	391.2			5.4					
+39	Ohio	FLUMICLORAC	2008	kg	295.4	230.9								
+39	Ohio	FLUMICLORAC	2009	kg	66.6	345.4								
+39	Ohio	FLUMICLORAC	2010	kg	226.7	718.4								
+39	Ohio	FLUMICLORAC	2011	kg	249.7	667.2								
+39	Ohio	FLUMICLORAC	2012	kg		503.9								
+39	Ohio	FLUMICLORAC	2013	kg	106.2	756.8								
+39	Ohio	FLUMICLORAC	2014	kg		410.7								
+39	Ohio	FLUMICLORAC	2015	kg	264.3	800.7								
+39	Ohio	FLUMICLORAC	2016	kg		1612.4								
+39	Ohio	FLUMICLORAC	2017	kg		1358.7								
+40	Oklahoma	FLUMICLORAC	1995	kg		65.3								
+40	Oklahoma	FLUMICLORAC	1996	kg		52.1								
+40	Oklahoma	FLUMICLORAC	1997	kg		45.6								
+40	Oklahoma	FLUMICLORAC	1998	kg		53.5								
+40	Oklahoma	FLUMICLORAC	1999	kg		23.6								
+40	Oklahoma	FLUMICLORAC	2000	kg		27.3								
+40	Oklahoma	FLUMICLORAC	2001	kg		31.7								
+40	Oklahoma	FLUMICLORAC	2002	kg		71.2								
+40	Oklahoma	FLUMICLORAC	2003	kg		35.6								
+40	Oklahoma	FLUMICLORAC	2004	kg		40.7								
+40	Oklahoma	FLUMICLORAC	2005	kg		22.2								
+40	Oklahoma	FLUMICLORAC	2006	kg		77.7								
+40	Oklahoma	FLUMICLORAC	2007	kg		10								
+40	Oklahoma	FLUMICLORAC	2008	kg		41								
+40	Oklahoma	FLUMICLORAC	2009	kg		21.4								
+40	Oklahoma	FLUMICLORAC	2010	kg		8.1								
+40	Oklahoma	FLUMICLORAC	2011	kg		98.9								
+40	Oklahoma	FLUMICLORAC	2012	kg		35.5								
+40	Oklahoma	FLUMICLORAC	2013	kg		77.3								
+40	Oklahoma	FLUMICLORAC	2014	kg		27.1								
+40	Oklahoma	FLUMICLORAC	2015	kg		169.3								
+40	Oklahoma	FLUMICLORAC	2016	kg		261.1		25.6						
+40	Oklahoma	FLUMICLORAC	2017	kg		72.5								
+42	Pennsylvania	FLUMICLORAC	1996	kg		3.1								
+42	Pennsylvania	FLUMICLORAC	1997	kg		48.3								
+42	Pennsylvania	FLUMICLORAC	2000	kg		2.5								
+42	Pennsylvania	FLUMICLORAC	2004	kg		36.6								
+42	Pennsylvania	FLUMICLORAC	2007	kg		49.7			23.4					
+42	Pennsylvania	FLUMICLORAC	2008	kg		23.7								
+42	Pennsylvania	FLUMICLORAC	2009	kg		3.4								
+42	Pennsylvania	FLUMICLORAC	2011	kg		53.1								
+42	Pennsylvania	FLUMICLORAC	2012	kg		56.6								
+42	Pennsylvania	FLUMICLORAC	2013	kg		180.9								
+42	Pennsylvania	FLUMICLORAC	2014	kg		28.7								
+42	Pennsylvania	FLUMICLORAC	2015	kg	33.7	255								
+42	Pennsylvania	FLUMICLORAC	2016	kg		175.7								
+42	Pennsylvania	FLUMICLORAC	2017	kg		336.5								
+45	South Carolina	FLUMICLORAC	1998	kg		55.1								
+45	South Carolina	FLUMICLORAC	2000	kg		15.3								
+45	South Carolina	FLUMICLORAC	2001	kg		211.9								
+45	South Carolina	FLUMICLORAC	2002	kg		231.7								
+45	South Carolina	FLUMICLORAC	2003	kg		53.5		98.5						
+45	South Carolina	FLUMICLORAC	2004	kg	165.3	178.2								
+45	South Carolina	FLUMICLORAC	2005	kg		98.4								
+45	South Carolina	FLUMICLORAC	2006	kg	98.4	2206.4		819.7						
+45	South Carolina	FLUMICLORAC	2007	kg	1095.9	298								
+45	South Carolina	FLUMICLORAC	2008	kg		1403.3								
+45	South Carolina	FLUMICLORAC	2009	kg		193								
+45	South Carolina	FLUMICLORAC	2010	kg		642.2								
+45	South Carolina	FLUMICLORAC	2011	kg		137.1		631.7						
+45	South Carolina	FLUMICLORAC	2012	kg		436.6		52						
+45	South Carolina	FLUMICLORAC	2013	kg		307.9								
+45	South Carolina	FLUMICLORAC	2014	kg		492.2								
+45	South Carolina	FLUMICLORAC	2015	kg	70.4	131.2		43.7						
+45	South Carolina	FLUMICLORAC	2016	kg		296		137.1						
+45	South Carolina	FLUMICLORAC	2017	kg		681								
+46	South Dakota	FLUMICLORAC	1995	kg	45.9	379.7								
+46	South Dakota	FLUMICLORAC	1996	kg	125.7	584.6								
+46	South Dakota	FLUMICLORAC	1997	kg	88.3	1853.9								
+46	South Dakota	FLUMICLORAC	1998	kg	233.1	247								
+46	South Dakota	FLUMICLORAC	1999	kg	305.4	148.5								
+46	South Dakota	FLUMICLORAC	2000	kg		973.5								
+46	South Dakota	FLUMICLORAC	2001	kg	217.5	39.8								
+46	South Dakota	FLUMICLORAC	2002	kg		445.8								
+46	South Dakota	FLUMICLORAC	2003	kg	211.8	25.6								
+46	South Dakota	FLUMICLORAC	2004	kg	32.4	160.1								
+46	South Dakota	FLUMICLORAC	2005	kg	299.6	646.4								
+46	South Dakota	FLUMICLORAC	2006	kg	102.5	274.3								
+46	South Dakota	FLUMICLORAC	2007	kg	138.5	187.4								
+46	South Dakota	FLUMICLORAC	2008	kg	500.9	692.4								
+46	South Dakota	FLUMICLORAC	2009	kg	145.5	473								
+46	South Dakota	FLUMICLORAC	2010	kg	616.9	306.9								
+46	South Dakota	FLUMICLORAC	2011	kg	456.3	717.3								
+46	South Dakota	FLUMICLORAC	2012	kg		869.6								
+46	South Dakota	FLUMICLORAC	2013	kg	187	1653								
+46	South Dakota	FLUMICLORAC	2014	kg		740.8								
+46	South Dakota	FLUMICLORAC	2015	kg	373.1	1224.4								
+46	South Dakota	FLUMICLORAC	2016	kg		1579								
+46	South Dakota	FLUMICLORAC	2017	kg		1162.9								
+47	Tennessee	FLUMICLORAC	1999	kg		428.4								
+47	Tennessee	FLUMICLORAC	2000	kg		269.2								
+47	Tennessee	FLUMICLORAC	2001	kg		175.7								
+47	Tennessee	FLUMICLORAC	2002	kg		116								
+47	Tennessee	FLUMICLORAC	2003	kg		488.4		15.6						
+47	Tennessee	FLUMICLORAC	2004	kg		70.3								
+47	Tennessee	FLUMICLORAC	2005	kg		124.1				0				
+47	Tennessee	FLUMICLORAC	2006	kg		447.5								
+47	Tennessee	FLUMICLORAC	2007	kg		634								
+47	Tennessee	FLUMICLORAC	2008	kg		753.9								
+47	Tennessee	FLUMICLORAC	2009	kg		454								
+47	Tennessee	FLUMICLORAC	2010	kg	68.4	1044.1								
+47	Tennessee	FLUMICLORAC	2011	kg	40.7	173.4								
+47	Tennessee	FLUMICLORAC	2012	kg		1022.7								
+47	Tennessee	FLUMICLORAC	2013	kg		281.1								
+47	Tennessee	FLUMICLORAC	2014	kg		519.5								
+47	Tennessee	FLUMICLORAC	2015	kg		1308.5								
+47	Tennessee	FLUMICLORAC	2016	kg		445.6								
+47	Tennessee	FLUMICLORAC	2017	kg		5172								
+48	Texas	FLUMICLORAC	2003	kg		0.9								
+48	Texas	FLUMICLORAC	2004	kg		0.5								
+48	Texas	FLUMICLORAC	2005	kg		2.8								
+48	Texas	FLUMICLORAC	2007	kg		8.7								
+48	Texas	FLUMICLORAC	2011	kg		4.9								
+48	Texas	FLUMICLORAC	2012	kg		0								
+48	Texas	FLUMICLORAC	2015	kg				176						
+48	Texas	FLUMICLORAC	2016	kg				424.7						
+51	Virginia	FLUMICLORAC	1998	kg		26.7								
+51	Virginia	FLUMICLORAC	1999	kg		85								
+51	Virginia	FLUMICLORAC	2000	kg		199.5								
+51	Virginia	FLUMICLORAC	2001	kg		226.5								
+51	Virginia	FLUMICLORAC	2002	kg		132.7								
+51	Virginia	FLUMICLORAC	2003	kg		387.4								
+51	Virginia	FLUMICLORAC	2004	kg		360.1								
+51	Virginia	FLUMICLORAC	2005	kg		564.5								
+51	Virginia	FLUMICLORAC	2006	kg	13.8	597.3		137.1						
+51	Virginia	FLUMICLORAC	2007	kg	320.9	643.7		20.3						
+51	Virginia	FLUMICLORAC	2008	kg		427.5		16.5						
+51	Virginia	FLUMICLORAC	2009	kg		830.5		13.3						
+51	Virginia	FLUMICLORAC	2010	kg	29.9	1896.8		5.6						
+51	Virginia	FLUMICLORAC	2011	kg	8.7	294.3		532.4						
+51	Virginia	FLUMICLORAC	2012	kg		1861.4		6.9						
+51	Virginia	FLUMICLORAC	2013	kg	6.8	1100.2		20.9						
+51	Virginia	FLUMICLORAC	2014	kg		879.8		34						
+51	Virginia	FLUMICLORAC	2015	kg	138.4	262.4		11.3						
+51	Virginia	FLUMICLORAC	2016	kg		260		25.7						
+51	Virginia	FLUMICLORAC	2017	kg		1974.3		59.6						
+54	West Virginia	FLUMICLORAC	1996	kg		0								
+54	West Virginia	FLUMICLORAC	2000	kg		0								
+54	West Virginia	FLUMICLORAC	2007	kg		0.3								
+54	West Virginia	FLUMICLORAC	2012	kg		24.3								
+54	West Virginia	FLUMICLORAC	2013	kg		11.9								
+54	West Virginia	FLUMICLORAC	2015	kg		25.6								
+54	West Virginia	FLUMICLORAC	2016	kg		26.8								
+54	West Virginia	FLUMICLORAC	2017	kg		60.3								
+55	Wisconsin	FLUMICLORAC	1995	kg	263.5	182.8								2.6
+55	Wisconsin	FLUMICLORAC	1996	kg	117.1	440.4								
+55	Wisconsin	FLUMICLORAC	1997	kg	975.7	290.6								
+55	Wisconsin	FLUMICLORAC	1998	kg	881.1	197.7								
+55	Wisconsin	FLUMICLORAC	1999	kg		146.2								
+55	Wisconsin	FLUMICLORAC	2000	kg	398.3	88.8								
+55	Wisconsin	FLUMICLORAC	2001	kg	18.4	90.5								
+55	Wisconsin	FLUMICLORAC	2002	kg	3.3	262.3								
+55	Wisconsin	FLUMICLORAC	2003	kg		16.3								
+55	Wisconsin	FLUMICLORAC	2005	kg		243.3								
+55	Wisconsin	FLUMICLORAC	2006	kg		49.4								
+55	Wisconsin	FLUMICLORAC	2008	kg		77.2								
+55	Wisconsin	FLUMICLORAC	2009	kg		130.3								
+55	Wisconsin	FLUMICLORAC	2010	kg		202.9								
+55	Wisconsin	FLUMICLORAC	2011	kg		282.5								
+55	Wisconsin	FLUMICLORAC	2012	kg		152.4								
+55	Wisconsin	FLUMICLORAC	2013	kg		83.9								
+55	Wisconsin	FLUMICLORAC	2014	kg		113.2								
+55	Wisconsin	FLUMICLORAC	2015	kg	34	368.1								
+55	Wisconsin	FLUMICLORAC	2016	kg		708.1								
+55	Wisconsin	FLUMICLORAC	2017	kg	1538.9	562.1								
+56	Wyoming	FLUMICLORAC	1997	kg	0.6									
+56	Wyoming	FLUMICLORAC	2009	kg	2.7									
+56	Wyoming	FLUMICLORAC	2010	kg	5.9									

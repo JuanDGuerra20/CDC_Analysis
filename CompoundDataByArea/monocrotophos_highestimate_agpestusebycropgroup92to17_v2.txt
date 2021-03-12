@@ -1,0 +1,7 @@
+06	California	MONOCROTOPHOS	1994	kg							0.5			
+06	California	MONOCROTOPHOS	1998	kg							26.5			
+35	New Mexico	MONOCROTOPHOS	1993	kg								86.7		
+41	Oregon	MONOCROTOPHOS	1992	kg							565.8			
+48	Texas	MONOCROTOPHOS	1992	kg				15433.4						
+48	Texas	MONOCROTOPHOS	1993	kg								19.2		
+53	Washington	MONOCROTOPHOS	1992	kg							1030.3			

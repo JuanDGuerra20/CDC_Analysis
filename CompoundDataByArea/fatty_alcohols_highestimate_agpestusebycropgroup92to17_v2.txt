@@ -1,0 +1,132 @@
+01	Alabama	FATTY ALCOHOLS	2005	kg										0.3
+01	Alabama	FATTY ALCOHOLS	2006	kg										0.3
+06	California	FATTY ALCOHOLS	1992	kg	1.4				2.6			0.5		
+06	California	FATTY ALCOHOLS	1993	kg					0.5		1.2			
+06	California	FATTY ALCOHOLS	1994	kg							0.3			
+06	California	FATTY ALCOHOLS	1998	kg				10.7						
+06	California	FATTY ALCOHOLS	1999	kg	0.1						0.1	19.2		
+06	California	FATTY ALCOHOLS	2000	kg								30.8		
+06	California	FATTY ALCOHOLS	2001	kg								1.9		
+06	California	FATTY ALCOHOLS	2002	kg								21.3		
+12	Florida	FATTY ALCOHOLS	2004	kg										2714
+12	Florida	FATTY ALCOHOLS	2007	kg										791.2
+12	Florida	FATTY ALCOHOLS	2012	kg										5.5
+12	Florida	FATTY ALCOHOLS	2017	kg										941.6
+13	Georgia	FATTY ALCOHOLS	2004	kg										22481.5
+13	Georgia	FATTY ALCOHOLS	2006	kg										5015.7
+13	Georgia	FATTY ALCOHOLS	2007	kg										7028
+13	Georgia	FATTY ALCOHOLS	2008	kg										2488
+13	Georgia	FATTY ALCOHOLS	2011	kg										29289.9
+13	Georgia	FATTY ALCOHOLS	2012	kg										1803.9
+13	Georgia	FATTY ALCOHOLS	2013	kg										8602.7
+13	Georgia	FATTY ALCOHOLS	2014	kg										5463
+13	Georgia	FATTY ALCOHOLS	2015	kg										21899.6
+13	Georgia	FATTY ALCOHOLS	2016	kg										48126.4
+13	Georgia	FATTY ALCOHOLS	2017	kg										88050
+17	Illinois	FATTY ALCOHOLS	2000	kg										39.5
+17	Illinois	FATTY ALCOHOLS	2002	kg										316.4
+17	Illinois	FATTY ALCOHOLS	2008	kg										12.4
+17	Illinois	FATTY ALCOHOLS	2009	kg										179.5
+17	Illinois	FATTY ALCOHOLS	2010	kg										86.1
+17	Illinois	FATTY ALCOHOLS	2011	kg										456
+17	Illinois	FATTY ALCOHOLS	2012	kg										132.7
+17	Illinois	FATTY ALCOHOLS	2013	kg										1666.9
+17	Illinois	FATTY ALCOHOLS	2014	kg										169.1
+17	Illinois	FATTY ALCOHOLS	2015	kg										138.3
+17	Illinois	FATTY ALCOHOLS	2016	kg										906.9
+17	Illinois	FATTY ALCOHOLS	2017	kg										1349.6
+18	Indiana	FATTY ALCOHOLS	2000	kg										167.8
+18	Indiana	FATTY ALCOHOLS	2002	kg										869.5
+18	Indiana	FATTY ALCOHOLS	2008	kg										6.5
+18	Indiana	FATTY ALCOHOLS	2009	kg										96.8
+18	Indiana	FATTY ALCOHOLS	2010	kg										47.3
+18	Indiana	FATTY ALCOHOLS	2011	kg										244.4
+18	Indiana	FATTY ALCOHOLS	2012	kg										287.1
+18	Indiana	FATTY ALCOHOLS	2013	kg										3453.7
+18	Indiana	FATTY ALCOHOLS	2014	kg										82.5
+18	Indiana	FATTY ALCOHOLS	2015	kg										292.2
+18	Indiana	FATTY ALCOHOLS	2016	kg										375.4
+18	Indiana	FATTY ALCOHOLS	2017	kg										566.3
+21	Kentucky	FATTY ALCOHOLS	2000	kg										7781.6
+21	Kentucky	FATTY ALCOHOLS	2002	kg										43080.1
+21	Kentucky	FATTY ALCOHOLS	2003	kg										472.9
+21	Kentucky	FATTY ALCOHOLS	2005	kg										3767.6
+21	Kentucky	FATTY ALCOHOLS	2006	kg										7989.3
+21	Kentucky	FATTY ALCOHOLS	2007	kg										5508.7
+21	Kentucky	FATTY ALCOHOLS	2008	kg										1536.9
+21	Kentucky	FATTY ALCOHOLS	2009	kg										13702.3
+21	Kentucky	FATTY ALCOHOLS	2010	kg										6665.5
+21	Kentucky	FATTY ALCOHOLS	2011	kg										17811.4
+21	Kentucky	FATTY ALCOHOLS	2012	kg										15921.7
+21	Kentucky	FATTY ALCOHOLS	2013	kg										99574.1
+21	Kentucky	FATTY ALCOHOLS	2014	kg										29744.8
+21	Kentucky	FATTY ALCOHOLS	2015	kg										19159.9
+21	Kentucky	FATTY ALCOHOLS	2016	kg										132372.4
+21	Kentucky	FATTY ALCOHOLS	2017	kg										59543.7
+29	Missouri	FATTY ALCOHOLS	2011	kg										64.7
+29	Missouri	FATTY ALCOHOLS	2013	kg										155.7
+29	Missouri	FATTY ALCOHOLS	2015	kg										24.1
+29	Missouri	FATTY ALCOHOLS	2017	kg										119.8
+37	North Carolina	FATTY ALCOHOLS	2000	kg										126592.3
+37	North Carolina	FATTY ALCOHOLS	2002	kg										95631.2
+37	North Carolina	FATTY ALCOHOLS	2004	kg										62837.6
+37	North Carolina	FATTY ALCOHOLS	2005	kg										39428
+37	North Carolina	FATTY ALCOHOLS	2006	kg										62857.3
+37	North Carolina	FATTY ALCOHOLS	2007	kg										166371.1
+37	North Carolina	FATTY ALCOHOLS	2008	kg										32248.2
+37	North Carolina	FATTY ALCOHOLS	2009	kg										33894.7
+37	North Carolina	FATTY ALCOHOLS	2010	kg										40893.7
+37	North Carolina	FATTY ALCOHOLS	2011	kg										525511.2
+37	North Carolina	FATTY ALCOHOLS	2012	kg										116290
+37	North Carolina	FATTY ALCOHOLS	2013	kg										382631.4
+37	North Carolina	FATTY ALCOHOLS	2014	kg										137394.1
+37	North Carolina	FATTY ALCOHOLS	2015	kg										73778.4
+37	North Carolina	FATTY ALCOHOLS	2016	kg										418582.1
+37	North Carolina	FATTY ALCOHOLS	2017	kg										522602.4
+39	Ohio	FATTY ALCOHOLS	2003	kg										26.3
+39	Ohio	FATTY ALCOHOLS	2011	kg										1230.2
+39	Ohio	FATTY ALCOHOLS	2012	kg										369.8
+39	Ohio	FATTY ALCOHOLS	2013	kg										146.2
+39	Ohio	FATTY ALCOHOLS	2015	kg										314.3
+39	Ohio	FATTY ALCOHOLS	2017	kg										1557.7
+45	South Carolina	FATTY ALCOHOLS	2000	kg										58229.1
+45	South Carolina	FATTY ALCOHOLS	2004	kg										13830.4
+45	South Carolina	FATTY ALCOHOLS	2005	kg										7914.7
+45	South Carolina	FATTY ALCOHOLS	2006	kg										5818.7
+45	South Carolina	FATTY ALCOHOLS	2007	kg										13962.9
+45	South Carolina	FATTY ALCOHOLS	2008	kg										4522.2
+45	South Carolina	FATTY ALCOHOLS	2009	kg										4991
+45	South Carolina	FATTY ALCOHOLS	2010	kg										5738.8
+45	South Carolina	FATTY ALCOHOLS	2011	kg										52455
+45	South Carolina	FATTY ALCOHOLS	2012	kg										8612.3
+45	South Carolina	FATTY ALCOHOLS	2013	kg										13467.3
+45	South Carolina	FATTY ALCOHOLS	2014	kg										2685.7
+45	South Carolina	FATTY ALCOHOLS	2015	kg										29264.4
+45	South Carolina	FATTY ALCOHOLS	2016	kg										234409.1
+45	South Carolina	FATTY ALCOHOLS	2017	kg										95565.8
+47	Tennessee	FATTY ALCOHOLS	2000	kg										2913.3
+47	Tennessee	FATTY ALCOHOLS	2002	kg										19561.5
+47	Tennessee	FATTY ALCOHOLS	2005	kg										3437.5
+47	Tennessee	FATTY ALCOHOLS	2006	kg										6682.9
+47	Tennessee	FATTY ALCOHOLS	2007	kg										4213.3
+47	Tennessee	FATTY ALCOHOLS	2008	kg										2865.3
+47	Tennessee	FATTY ALCOHOLS	2009	kg										2486.3
+47	Tennessee	FATTY ALCOHOLS	2010	kg										2417.4
+47	Tennessee	FATTY ALCOHOLS	2011	kg										4441.3
+47	Tennessee	FATTY ALCOHOLS	2012	kg										4910
+47	Tennessee	FATTY ALCOHOLS	2013	kg										27937.3
+47	Tennessee	FATTY ALCOHOLS	2014	kg										7303.8
+47	Tennessee	FATTY ALCOHOLS	2015	kg										4623.2
+47	Tennessee	FATTY ALCOHOLS	2016	kg										20824.6
+47	Tennessee	FATTY ALCOHOLS	2017	kg										33466.6
+51	Virginia	FATTY ALCOHOLS	2003	kg										34495.7
+51	Virginia	FATTY ALCOHOLS	2006	kg										3145.2
+51	Virginia	FATTY ALCOHOLS	2007	kg										8144.8
+51	Virginia	FATTY ALCOHOLS	2008	kg										3823.5
+51	Virginia	FATTY ALCOHOLS	2011	kg										71827.9
+51	Virginia	FATTY ALCOHOLS	2012	kg										10874.7
+51	Virginia	FATTY ALCOHOLS	2013	kg										17080.5
+51	Virginia	FATTY ALCOHOLS	2014	kg										10711.8
+51	Virginia	FATTY ALCOHOLS	2015	kg										114310.7
+51	Virginia	FATTY ALCOHOLS	2016	kg										63146.1
+51	Virginia	FATTY ALCOHOLS	2017	kg										37430.9

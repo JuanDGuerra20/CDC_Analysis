@@ -1,0 +1,160 @@
+06	California	CHLORIDAZON	1992	kg					33.6					6402.6
+06	California	CHLORIDAZON	1993	kg					76.2					4594.9
+06	California	CHLORIDAZON	1994	kg					54.9					5904
+06	California	CHLORIDAZON	1995	kg					45.6					2120.3
+06	California	CHLORIDAZON	1996	kg					1.5					2490.2
+06	California	CHLORIDAZON	1997	kg					21.6					6796.9
+06	California	CHLORIDAZON	1998	kg	49.2			8.1	55.4		2.5	160.1		6317.1
+06	California	CHLORIDAZON	1999	kg			687.4	311.3	385.9			10.6		6232.1
+06	California	CHLORIDAZON	2000	kg				24.8	134.2					3218.6
+06	California	CHLORIDAZON	2001	kg				2.9	106.5		0.9			3831.3
+06	California	CHLORIDAZON	2002	kg					47.4			47.5		2983.3
+06	California	CHLORIDAZON	2003	kg					15.1		8.3			3343
+06	California	CHLORIDAZON	2004	kg					1.5		67.8			2581.5
+06	California	CHLORIDAZON	2005	kg					38.3			12.2		2162.7
+06	California	CHLORIDAZON	2006	kg					13.7		0.2			1672.4
+06	California	CHLORIDAZON	2007	kg							0			1131.1
+06	California	CHLORIDAZON	2008	kg							17.1			139.6
+06	California	CHLORIDAZON	2009	kg					59					14.1
+06	California	CHLORIDAZON	2010	kg					48.6					
+06	California	CHLORIDAZON	2011	kg					17.4					
+09	Connecticut	CHLORIDAZON	1992	kg					3.4					
+12	Florida	CHLORIDAZON	1992	kg					29.8					
+16	Idaho	CHLORIDAZON	1992	kg										5201.3
+16	Idaho	CHLORIDAZON	1993	kg										6649.7
+16	Idaho	CHLORIDAZON	1994	kg										14610.6
+16	Idaho	CHLORIDAZON	1995	kg										43735.4
+16	Idaho	CHLORIDAZON	1996	kg										51742.5
+16	Idaho	CHLORIDAZON	1997	kg										7914
+16	Idaho	CHLORIDAZON	1998	kg										16297.5
+16	Idaho	CHLORIDAZON	1999	kg										44941
+16	Idaho	CHLORIDAZON	2000	kg										7828.2
+16	Idaho	CHLORIDAZON	2001	kg										20234.9
+16	Idaho	CHLORIDAZON	2002	kg										2404.4
+16	Idaho	CHLORIDAZON	2003	kg										10449.9
+16	Idaho	CHLORIDAZON	2004	kg										3026
+16	Idaho	CHLORIDAZON	2005	kg										3322.1
+16	Idaho	CHLORIDAZON	2006	kg										1621.2
+16	Idaho	CHLORIDAZON	2007	kg										988.4
+17	Illinois	CHLORIDAZON	1992	kg					47					
+17	Illinois	CHLORIDAZON	1993	kg					47.4					
+17	Illinois	CHLORIDAZON	1994	kg					1					
+17	Illinois	CHLORIDAZON	1995	kg					0.2					
+17	Illinois	CHLORIDAZON	1996	kg					1					
+17	Illinois	CHLORIDAZON	1997	kg					1					
+18	Indiana	CHLORIDAZON	1992	kg					2.6					
+18	Indiana	CHLORIDAZON	1993	kg					8.4					
+18	Indiana	CHLORIDAZON	1995	kg		690.5								
+19	Iowa	CHLORIDAZON	1992	kg					9.4					
+19	Iowa	CHLORIDAZON	1993	kg					15.7					
+25	Massachusetts	CHLORIDAZON	1992	kg					109.7					
+26	Michigan	CHLORIDAZON	1992	kg					817.9					87374.9
+26	Michigan	CHLORIDAZON	1993	kg					1028.9				0.2	96287.3
+26	Michigan	CHLORIDAZON	1994	kg			1196.5		115.2					85823.7
+26	Michigan	CHLORIDAZON	1995	kg		1194.2			141					88703.6
+26	Michigan	CHLORIDAZON	1996	kg					4006.9					64341
+26	Michigan	CHLORIDAZON	1997	kg					772.4					62426.5
+26	Michigan	CHLORIDAZON	1998	kg										76362.5
+26	Michigan	CHLORIDAZON	1999	kg										67210.2
+26	Michigan	CHLORIDAZON	2000	kg										64620.5
+26	Michigan	CHLORIDAZON	2001	kg										46840.5
+26	Michigan	CHLORIDAZON	2002	kg										32797.7
+26	Michigan	CHLORIDAZON	2003	kg										24353.9
+26	Michigan	CHLORIDAZON	2004	kg										28081.9
+26	Michigan	CHLORIDAZON	2005	kg										26587.9
+26	Michigan	CHLORIDAZON	2006	kg										22502
+26	Michigan	CHLORIDAZON	2007	kg										26173.4
+26	Michigan	CHLORIDAZON	2008	kg										5097.4
+26	Michigan	CHLORIDAZON	2009	kg										1064.1
+27	Minnesota	CHLORIDAZON	1992	kg					54.1					33043.3
+27	Minnesota	CHLORIDAZON	1993	kg					466.7					27268.2
+27	Minnesota	CHLORIDAZON	1994	kg										71925.1
+27	Minnesota	CHLORIDAZON	1995	kg										69332
+27	Minnesota	CHLORIDAZON	1996	kg										42278.1
+27	Minnesota	CHLORIDAZON	1997	kg										14434.5
+27	Minnesota	CHLORIDAZON	1998	kg										29227.3
+27	Minnesota	CHLORIDAZON	1999	kg										31547
+27	Minnesota	CHLORIDAZON	2000	kg										57799.2
+27	Minnesota	CHLORIDAZON	2001	kg										17170.2
+27	Minnesota	CHLORIDAZON	2002	kg										36136.3
+27	Minnesota	CHLORIDAZON	2003	kg										29982.1
+27	Minnesota	CHLORIDAZON	2004	kg										32876.4
+27	Minnesota	CHLORIDAZON	2005	kg										10866.7
+27	Minnesota	CHLORIDAZON	2006	kg										10871.3
+27	Minnesota	CHLORIDAZON	2007	kg										10718.9
+27	Minnesota	CHLORIDAZON	2008	kg										2779.7
+27	Minnesota	CHLORIDAZON	2009	kg										3012.8
+30	Montana	CHLORIDAZON	1992	kg										1986.7
+30	Montana	CHLORIDAZON	1994	kg										1335.1
+30	Montana	CHLORIDAZON	1999	kg										5272.8
+30	Montana	CHLORIDAZON	2001	kg										3213.8
+30	Montana	CHLORIDAZON	2002	kg										2.5
+30	Montana	CHLORIDAZON	2003	kg										130.6
+30	Montana	CHLORIDAZON	2004	kg										638.5
+30	Montana	CHLORIDAZON	2005	kg										872.1
+30	Montana	CHLORIDAZON	2006	kg										208.3
+30	Montana	CHLORIDAZON	2007	kg										223.9
+33	New Hampshire	CHLORIDAZON	1992	kg					4.9					
+36	New York	CHLORIDAZON	1992	kg					10.5					
+36	New York	CHLORIDAZON	1993	kg					96.1					
+36	New York	CHLORIDAZON	1994	kg					808.9					
+36	New York	CHLORIDAZON	1996	kg					1454.6					
+36	New York	CHLORIDAZON	1997	kg					1938.3					
+38	North Dakota	CHLORIDAZON	1992	kg										9910.2
+38	North Dakota	CHLORIDAZON	1993	kg										2278.3
+38	North Dakota	CHLORIDAZON	1999	kg										9137.9
+38	North Dakota	CHLORIDAZON	2001	kg										934.6
+38	North Dakota	CHLORIDAZON	2002	kg										1474.4
+39	Ohio	CHLORIDAZON	1992	kg					290.1					21699.4
+39	Ohio	CHLORIDAZON	1993	kg					746.6					7119.3
+39	Ohio	CHLORIDAZON	1994	kg					288.6					7085.6
+39	Ohio	CHLORIDAZON	1995	kg		3275.8								4602.7
+39	Ohio	CHLORIDAZON	1996	kg										1581
+39	Ohio	CHLORIDAZON	1997	kg										982.8
+39	Ohio	CHLORIDAZON	1998	kg										1945.9
+39	Ohio	CHLORIDAZON	1999	kg										484.5
+39	Ohio	CHLORIDAZON	2000	kg										1172.6
+39	Ohio	CHLORIDAZON	2001	kg										655
+39	Ohio	CHLORIDAZON	2002	kg										1051.3
+39	Ohio	CHLORIDAZON	2003	kg										775.1
+39	Ohio	CHLORIDAZON	2004	kg										659.7
+39	Ohio	CHLORIDAZON	2005	kg										388.7
+39	Ohio	CHLORIDAZON	2006	kg										423.6
+39	Ohio	CHLORIDAZON	2007	kg										416.9
+41	Oregon	CHLORIDAZON	1992	kg										608.6
+41	Oregon	CHLORIDAZON	1993	kg					165.1					1144.5
+41	Oregon	CHLORIDAZON	1994	kg					170.2					348.7
+41	Oregon	CHLORIDAZON	1995	kg					813.8					
+41	Oregon	CHLORIDAZON	1996	kg					1489.8					558.8
+41	Oregon	CHLORIDAZON	1997	kg					241.2					
+41	Oregon	CHLORIDAZON	2001	kg										1974.5
+41	Oregon	CHLORIDAZON	2002	kg										156.3
+41	Oregon	CHLORIDAZON	2003	kg										317.1
+41	Oregon	CHLORIDAZON	2004	kg										419.5
+41	Oregon	CHLORIDAZON	2005	kg										484.1
+41	Oregon	CHLORIDAZON	2006	kg										164.2
+41	Oregon	CHLORIDAZON	2007	kg										132.9
+42	Pennsylvania	CHLORIDAZON	1997	kg					22.9					
+48	Texas	CHLORIDAZON	1996	kg					1248.9					
+48	Texas	CHLORIDAZON	2008	kg					2054.5					
+50	Vermont	CHLORIDAZON	1992	kg					3.2					
+53	Washington	CHLORIDAZON	1993	kg					3.4					
+53	Washington	CHLORIDAZON	1994	kg					1884.6					
+53	Washington	CHLORIDAZON	1995	kg					15.2					
+53	Washington	CHLORIDAZON	1996	kg					90.1					
+53	Washington	CHLORIDAZON	1997	kg					93.3					
+55	Wisconsin	CHLORIDAZON	1992	kg					3242.2					
+55	Wisconsin	CHLORIDAZON	1993	kg					2221.6				2.5	
+55	Wisconsin	CHLORIDAZON	1994	kg					816.4					
+55	Wisconsin	CHLORIDAZON	1995	kg					398.5					
+55	Wisconsin	CHLORIDAZON	1996	kg					3087.7					
+55	Wisconsin	CHLORIDAZON	1997	kg					1687					
+56	Wyoming	CHLORIDAZON	1992	kg										2104.8
+56	Wyoming	CHLORIDAZON	1994	kg										2183.2
+56	Wyoming	CHLORIDAZON	2001	kg										4216.6
+56	Wyoming	CHLORIDAZON	2002	kg										3.1
+56	Wyoming	CHLORIDAZON	2003	kg										166.9
+56	Wyoming	CHLORIDAZON	2004	kg										807.2
+56	Wyoming	CHLORIDAZON	2005	kg										1134.1
+56	Wyoming	CHLORIDAZON	2006	kg										311
+56	Wyoming	CHLORIDAZON	2007	kg										237

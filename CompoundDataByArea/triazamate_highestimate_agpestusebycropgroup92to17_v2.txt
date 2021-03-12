@@ -1,0 +1,3 @@
+26	Michigan	TRIAZAMATE	1999	kg										342.3
+30	Montana	TRIAZAMATE	1999	kg										36.8
+56	Wyoming	TRIAZAMATE	1999	kg										44.4

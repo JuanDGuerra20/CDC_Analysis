@@ -1,0 +1,215 @@
+04	Arizona	CRYOLITE	1992	kg							5798.7			
+04	Arizona	CRYOLITE	1993	kg							957.3			
+04	Arizona	CRYOLITE	1994	kg							6325.2			
+04	Arizona	CRYOLITE	1995	kg					7543.4		3921.7			
+04	Arizona	CRYOLITE	1996	kg							733.8			
+04	Arizona	CRYOLITE	1997	kg					19597.3		4507.4			
+04	Arizona	CRYOLITE	1998	kg							8305.5			
+04	Arizona	CRYOLITE	1999	kg							5422.4			
+04	Arizona	CRYOLITE	2000	kg					117662.1		74.8			
+04	Arizona	CRYOLITE	2001	kg					7303.2		1084.9			
+04	Arizona	CRYOLITE	2002	kg							2740.9			
+04	Arizona	CRYOLITE	2003	kg							2809.2			
+04	Arizona	CRYOLITE	2004	kg							1098.9			
+04	Arizona	CRYOLITE	2005	kg					7276.2		3117.3			
+04	Arizona	CRYOLITE	2006	kg					4697.6					
+04	Arizona	CRYOLITE	2007	kg					11608.8		2990.9			
+04	Arizona	CRYOLITE	2008	kg					7592.1					
+04	Arizona	CRYOLITE	2009	kg					5617.3					
+04	Arizona	CRYOLITE	2010	kg					9596.8					
+04	Arizona	CRYOLITE	2011	kg					9158.4					
+04	Arizona	CRYOLITE	2012	kg					6381.6					
+04	Arizona	CRYOLITE	2013	kg					4913.6					
+04	Arizona	CRYOLITE	2014	kg					103.8					
+04	Arizona	CRYOLITE	2016	kg					18.5					
+04	Arizona	CRYOLITE	2017	kg					236.9					
+05	Arkansas	CRYOLITE	1994	kg			18540.6							
+06	California	CRYOLITE	1992	kg					15779.3		1606972.6			
+06	California	CRYOLITE	1993	kg					33972.9		1235251.6			
+06	California	CRYOLITE	1994	kg					39636.1		1156109.9			
+06	California	CRYOLITE	1995	kg					27642.2		1088250.3			
+06	California	CRYOLITE	1996	kg					28088.1		1108008.9			
+06	California	CRYOLITE	1997	kg					31179.5		1156498.9			
+06	California	CRYOLITE	1998	kg					46152.7		1076481			
+06	California	CRYOLITE	1999	kg					31183.1		943287.8	261.2		
+06	California	CRYOLITE	2000	kg					41785.3		849843.2			
+06	California	CRYOLITE	2001	kg					30181.2		554370.5			
+06	California	CRYOLITE	2002	kg					27940.4		472243.5			
+06	California	CRYOLITE	2003	kg					20617.3		370025.3			360.5
+06	California	CRYOLITE	2004	kg					24950.6		366609.4			
+06	California	CRYOLITE	2005	kg					25910.8		266796.7			
+06	California	CRYOLITE	2006	kg					21570		281580.7			
+06	California	CRYOLITE	2007	kg					25650.7		283972.4			
+06	California	CRYOLITE	2008	kg					19892.1		225098.4			4.4
+06	California	CRYOLITE	2009	kg					9178.2		204230			
+06	California	CRYOLITE	2010	kg					20250.3		198323.2			
+06	California	CRYOLITE	2011	kg					13531.8		200996.5			
+06	California	CRYOLITE	2012	kg					19317.9		201662			5.2
+06	California	CRYOLITE	2013	kg					6199.5		221449.6			
+06	California	CRYOLITE	2014	kg					12298.2		197230			
+06	California	CRYOLITE	2015	kg					14197.5		144780.8			
+06	California	CRYOLITE	2016	kg					19128.5		139371.5			
+06	California	CRYOLITE	2017	kg					21090.6		121538.3			
+09	Connecticut	CRYOLITE	1992	kg					1186.9					
+09	Connecticut	CRYOLITE	1993	kg					537.2					
+09	Connecticut	CRYOLITE	1994	kg					234.5					
+09	Connecticut	CRYOLITE	1995	kg					79.8					
+09	Connecticut	CRYOLITE	1999	kg					99					
+09	Connecticut	CRYOLITE	2006	kg					342.4					
+09	Connecticut	CRYOLITE	2007	kg					411.2					
+09	Connecticut	CRYOLITE	2010	kg					347.4					
+10	Delaware	CRYOLITE	1992	kg					9578.6					
+10	Delaware	CRYOLITE	1993	kg					7069.7					
+10	Delaware	CRYOLITE	1994	kg					223849.2					
+10	Delaware	CRYOLITE	1995	kg					1423.3					
+10	Delaware	CRYOLITE	1996	kg					19263.1					
+10	Delaware	CRYOLITE	1999	kg					451.9					
+10	Delaware	CRYOLITE	2006	kg					917.6					
+12	Florida	CRYOLITE	1992	kg					13698.3		6622.3			
+12	Florida	CRYOLITE	1993	kg					1162.5					
+12	Florida	CRYOLITE	1994	kg							2636.8			
+12	Florida	CRYOLITE	1996	kg							28556.6			
+12	Florida	CRYOLITE	2000	kg					66067.6					
+12	Florida	CRYOLITE	2009	kg					251655.7					
+12	Florida	CRYOLITE	2010	kg					16581.6					
+12	Florida	CRYOLITE	2012	kg					51139.6					
+12	Florida	CRYOLITE	2014	kg					114835.9					
+12	Florida	CRYOLITE	2015	kg					14615.1					
+12	Florida	CRYOLITE	2016	kg					24265.4					
+18	Indiana	CRYOLITE	1995	kg					517					
+18	Indiana	CRYOLITE	1999	kg					328.7					
+22	Louisiana	CRYOLITE	1996	kg										27946.9
+23	Maine	CRYOLITE	1992	kg					365865					
+23	Maine	CRYOLITE	1993	kg					162488.1					
+23	Maine	CRYOLITE	1994	kg					282995.4					
+23	Maine	CRYOLITE	1995	kg					28791.3					
+23	Maine	CRYOLITE	1998	kg					548.1					
+23	Maine	CRYOLITE	1999	kg					50907.6					
+23	Maine	CRYOLITE	2007	kg					239138.9					
+23	Maine	CRYOLITE	2010	kg					200233.4					
+24	Maryland	CRYOLITE	1992	kg					4557					
+24	Maryland	CRYOLITE	1993	kg					1458.8					
+24	Maryland	CRYOLITE	1994	kg					96842.7					
+24	Maryland	CRYOLITE	1995	kg					138.4					
+24	Maryland	CRYOLITE	1996	kg					458.6					
+24	Maryland	CRYOLITE	1999	kg					103					
+24	Maryland	CRYOLITE	2006	kg					316.5					
+24	Maryland	CRYOLITE	2007	kg					575.5					
+24	Maryland	CRYOLITE	2010	kg					360.2					
+25	Massachusetts	CRYOLITE	1992	kg					12640.4					
+25	Massachusetts	CRYOLITE	1993	kg					6673.5					
+25	Massachusetts	CRYOLITE	1994	kg					3037					
+25	Massachusetts	CRYOLITE	1995	kg					1119.9					
+25	Massachusetts	CRYOLITE	1999	kg					2180.8					
+25	Massachusetts	CRYOLITE	2006	kg					553.1					
+25	Massachusetts	CRYOLITE	2007	kg					10430.1					
+25	Massachusetts	CRYOLITE	2010	kg					10788					
+26	Michigan	CRYOLITE	1994	kg					28361					
+26	Michigan	CRYOLITE	1995	kg					10661.1					
+26	Michigan	CRYOLITE	1999	kg					6978.7					
+28	Mississippi	CRYOLITE	1994	kg			1880.5							
+28	Mississippi	CRYOLITE	1996	kg										406.5
+32	Nevada	CRYOLITE	1992	kg							12.6			
+32	Nevada	CRYOLITE	1993	kg							32.7			
+32	Nevada	CRYOLITE	1995	kg							6.4			
+32	Nevada	CRYOLITE	1996	kg							9.6			
+32	Nevada	CRYOLITE	1997	kg					20.1		11.1			
+32	Nevada	CRYOLITE	2000	kg							9.7			
+32	Nevada	CRYOLITE	2001	kg							1.5			
+32	Nevada	CRYOLITE	2008	kg					33.6					
+32	Nevada	CRYOLITE	2009	kg					29.6					
+32	Nevada	CRYOLITE	2010	kg					114.1					
+32	Nevada	CRYOLITE	2011	kg					378.2					
+32	Nevada	CRYOLITE	2012	kg					216.8					
+32	Nevada	CRYOLITE	2013	kg					145.7					
+32	Nevada	CRYOLITE	2014	kg					0					
+32	Nevada	CRYOLITE	2016	kg					0					
+32	Nevada	CRYOLITE	2017	kg					0.3					
+33	New Hampshire	CRYOLITE	1992	kg					712.4					
+33	New Hampshire	CRYOLITE	1993	kg					302.9					
+33	New Hampshire	CRYOLITE	1994	kg					487.6					
+33	New Hampshire	CRYOLITE	1995	kg					46					
+33	New Hampshire	CRYOLITE	1998	kg					7.2					
+33	New Hampshire	CRYOLITE	1999	kg					62.3					
+33	New Hampshire	CRYOLITE	2007	kg					328.7					
+33	New Hampshire	CRYOLITE	2010	kg					428.9					
+34	New Jersey	CRYOLITE	1992	kg					58971.2					
+34	New Jersey	CRYOLITE	1993	kg					29094.1					
+34	New Jersey	CRYOLITE	1994	kg					27962.3					
+34	New Jersey	CRYOLITE	1995	kg					3555.2					
+34	New Jersey	CRYOLITE	1996	kg					8846.9					
+34	New Jersey	CRYOLITE	1997	kg					30.9					
+34	New Jersey	CRYOLITE	1999	kg					1135.6					
+34	New Jersey	CRYOLITE	2000	kg					41					
+34	New Jersey	CRYOLITE	2003	kg					46.2					
+34	New Jersey	CRYOLITE	2006	kg					2317.8					
+34	New Jersey	CRYOLITE	2007	kg					9916.2					
+34	New Jersey	CRYOLITE	2008	kg					1708.8					
+34	New Jersey	CRYOLITE	2009	kg					555.7					
+34	New Jersey	CRYOLITE	2010	kg					7147.4					
+34	New Jersey	CRYOLITE	2011	kg					1045.8					
+34	New Jersey	CRYOLITE	2012	kg					1024.2					
+34	New Jersey	CRYOLITE	2013	kg					1454.6					
+34	New Jersey	CRYOLITE	2014	kg					1729.6					
+35	New Mexico	CRYOLITE	1996	kg							78.8			
+35	New Mexico	CRYOLITE	2000	kg					6005					
+36	New York	CRYOLITE	1992	kg					104963.8					
+36	New York	CRYOLITE	1993	kg					52178.6					
+36	New York	CRYOLITE	1994	kg					110573.3					
+36	New York	CRYOLITE	1995	kg					5369.8					
+36	New York	CRYOLITE	1997	kg					7782.7					
+36	New York	CRYOLITE	1999	kg					24372.4					
+36	New York	CRYOLITE	2000	kg					435.2					
+36	New York	CRYOLITE	2001	kg					10277.2					
+36	New York	CRYOLITE	2003	kg					3095.7					
+36	New York	CRYOLITE	2004	kg					218420.3					
+36	New York	CRYOLITE	2006	kg					208					
+36	New York	CRYOLITE	2007	kg					107563.2					
+36	New York	CRYOLITE	2009	kg					42783.9					
+36	New York	CRYOLITE	2010	kg					76542.7					
+36	New York	CRYOLITE	2011	kg					35016.5					
+36	New York	CRYOLITE	2012	kg					57247.1					
+36	New York	CRYOLITE	2013	kg					28823.9					
+36	New York	CRYOLITE	2014	kg					21544.3					
+37	North Carolina	CRYOLITE	1997	kg					1009.3					
+39	Ohio	CRYOLITE	1992	kg					738.7					
+39	Ohio	CRYOLITE	1994	kg					942.3					
+39	Ohio	CRYOLITE	1995	kg					8.9					
+39	Ohio	CRYOLITE	1999	kg					963.6					
+39	Ohio	CRYOLITE	2001	kg					512.4					
+41	Oregon	CRYOLITE	1995	kg										35502.4
+41	Oregon	CRYOLITE	2000	kg							257.2			
+41	Oregon	CRYOLITE	2002	kg					1632.8					
+42	Pennsylvania	CRYOLITE	1992	kg					105202.6					
+42	Pennsylvania	CRYOLITE	1993	kg					45704.9					
+42	Pennsylvania	CRYOLITE	1994	kg					122076.4					
+42	Pennsylvania	CRYOLITE	1995	kg					5926.4					
+42	Pennsylvania	CRYOLITE	1996	kg					32617.7					
+42	Pennsylvania	CRYOLITE	1999	kg					5161.5					
+42	Pennsylvania	CRYOLITE	2000	kg					6699.5					
+42	Pennsylvania	CRYOLITE	2001	kg					15023.2					
+42	Pennsylvania	CRYOLITE	2004	kg					8496.9					
+42	Pennsylvania	CRYOLITE	2006	kg					6270.6					
+42	Pennsylvania	CRYOLITE	2007	kg					34339.8					
+42	Pennsylvania	CRYOLITE	2008	kg					1827.3					
+42	Pennsylvania	CRYOLITE	2010	kg					10606.3					
+44	Rhode Island	CRYOLITE	1992	kg					16.2					
+44	Rhode Island	CRYOLITE	2006	kg					58.1					
+47	Tennessee	CRYOLITE	1994	kg			2718.1							
+50	Vermont	CRYOLITE	1992	kg					552.4					
+50	Vermont	CRYOLITE	1993	kg					405.3					
+50	Vermont	CRYOLITE	1994	kg					461.9					
+50	Vermont	CRYOLITE	1995	kg					49.1					
+50	Vermont	CRYOLITE	1999	kg					105.4					
+50	Vermont	CRYOLITE	2007	kg					842.8					
+50	Vermont	CRYOLITE	2010	kg					844.9					
+51	Virginia	CRYOLITE	1992	kg					985.4					
+51	Virginia	CRYOLITE	1994	kg					9197.5					
+51	Virginia	CRYOLITE	1997	kg					1912.7					
+53	Washington	CRYOLITE	1995	kg										4937.3
+53	Washington	CRYOLITE	2000	kg							784.9			
+53	Washington	CRYOLITE	2002	kg					827.7					
+54	West Virginia	CRYOLITE	1992	kg					1488.9					
+54	West Virginia	CRYOLITE	1995	kg					47.5					
+54	West Virginia	CRYOLITE	1999	kg					22.9					
+54	West Virginia	CRYOLITE	2001	kg					30.7					

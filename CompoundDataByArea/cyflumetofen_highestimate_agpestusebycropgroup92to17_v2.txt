@@ -1,0 +1,27 @@
+04	Arizona	CYFLUMETOFEN	2016	kg					0					
+04	Arizona	CYFLUMETOFEN	2017	kg					0.3					
+06	California	CYFLUMETOFEN	2015	kg					1064.4		15402.7			
+06	California	CYFLUMETOFEN	2016	kg					2434.1		28672.3	3.1		
+06	California	CYFLUMETOFEN	2017	kg					2440.2		24941.7			
+12	Florida	CYFLUMETOFEN	2015	kg					110.8					
+12	Florida	CYFLUMETOFEN	2017	kg					1112					
+13	Georgia	CYFLUMETOFEN	2015	kg							0.3			
+16	Idaho	CYFLUMETOFEN	2017	kg							0.6			
+26	Michigan	CYFLUMETOFEN	2014	kg							63.5			
+26	Michigan	CYFLUMETOFEN	2015	kg							355.1			
+26	Michigan	CYFLUMETOFEN	2016	kg							58.7			
+26	Michigan	CYFLUMETOFEN	2017	kg							33.5			
+32	Nevada	CYFLUMETOFEN	2016	kg					0					
+32	Nevada	CYFLUMETOFEN	2017	kg					0					
+37	North Carolina	CYFLUMETOFEN	2015	kg							4.1			
+39	Ohio	CYFLUMETOFEN	2015	kg							76.7			
+41	Oregon	CYFLUMETOFEN	2015	kg							282.7			
+41	Oregon	CYFLUMETOFEN	2016	kg							25.6			
+41	Oregon	CYFLUMETOFEN	2017	kg							494.4			
+45	South Carolina	CYFLUMETOFEN	2015	kg							0.1			
+47	Tennessee	CYFLUMETOFEN	2015	kg							0			
+53	Washington	CYFLUMETOFEN	2014	kg							134.7			
+53	Washington	CYFLUMETOFEN	2015	kg							67.9			
+53	Washington	CYFLUMETOFEN	2016	kg							56.6			
+53	Washington	CYFLUMETOFEN	2017	kg							304.7			
+54	West Virginia	CYFLUMETOFEN	2015	kg							48.8			

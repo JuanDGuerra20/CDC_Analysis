@@ -1,0 +1,6 @@
+04	Arizona	TEMEPHOS	1993	kg								1587.3		
+35	New Mexico	TEMEPHOS	1993	kg								210.9		
+35	New Mexico	TEMEPHOS	1994	kg				1.3						
+40	Oklahoma	TEMEPHOS	1995	kg			568	247.6				85.3		
+48	Texas	TEMEPHOS	1994	kg				130.2						
+48	Texas	TEMEPHOS	1995	kg			112.5	419.5				10		

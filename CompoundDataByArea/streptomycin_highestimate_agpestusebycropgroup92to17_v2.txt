@@ -1,0 +1,918 @@
+01	Alabama	STREPTOMYCIN	1994	kg					54.2		1.4			0
+01	Alabama	STREPTOMYCIN	1995	kg							65.9			0.1
+01	Alabama	STREPTOMYCIN	1996	kg										0.3
+01	Alabama	STREPTOMYCIN	1997	kg							2.7			0
+01	Alabama	STREPTOMYCIN	1998	kg							1.6			
+01	Alabama	STREPTOMYCIN	1999	kg							2.4			
+01	Alabama	STREPTOMYCIN	2000	kg							13.7			
+01	Alabama	STREPTOMYCIN	2001	kg							0.9			0
+01	Alabama	STREPTOMYCIN	2002	kg							1.1			
+01	Alabama	STREPTOMYCIN	2003	kg							2			0
+01	Alabama	STREPTOMYCIN	2004	kg							2.8			
+01	Alabama	STREPTOMYCIN	2005	kg							1.7			
+01	Alabama	STREPTOMYCIN	2006	kg							1.1			
+01	Alabama	STREPTOMYCIN	2007	kg							11.1			
+01	Alabama	STREPTOMYCIN	2008	kg							1.4			
+01	Alabama	STREPTOMYCIN	2009	kg							3.2			
+01	Alabama	STREPTOMYCIN	2010	kg							24.7			
+01	Alabama	STREPTOMYCIN	2011	kg							1.9			
+01	Alabama	STREPTOMYCIN	2012	kg							94.8			
+01	Alabama	STREPTOMYCIN	2013	kg							1.1			
+01	Alabama	STREPTOMYCIN	2014	kg							1.8			
+01	Alabama	STREPTOMYCIN	2015	kg							5.9			
+01	Alabama	STREPTOMYCIN	2016	kg							8.1			
+01	Alabama	STREPTOMYCIN	2017	kg							17.6			
+04	Arizona	STREPTOMYCIN	1992	kg							8.1			
+04	Arizona	STREPTOMYCIN	1993	kg							32			
+04	Arizona	STREPTOMYCIN	1994	kg							1.9			
+04	Arizona	STREPTOMYCIN	1995	kg							92.1			
+04	Arizona	STREPTOMYCIN	1996	kg							190.4			
+04	Arizona	STREPTOMYCIN	1997	kg							311.8			
+04	Arizona	STREPTOMYCIN	1998	kg							157.4			
+04	Arizona	STREPTOMYCIN	1999	kg							219.5			
+04	Arizona	STREPTOMYCIN	2000	kg							166.7			
+04	Arizona	STREPTOMYCIN	2001	kg							189.4			
+04	Arizona	STREPTOMYCIN	2002	kg							221.4			
+04	Arizona	STREPTOMYCIN	2003	kg							312.5			
+04	Arizona	STREPTOMYCIN	2004	kg							271.7			
+04	Arizona	STREPTOMYCIN	2005	kg							247			
+04	Arizona	STREPTOMYCIN	2006	kg							157.6			
+04	Arizona	STREPTOMYCIN	2007	kg							178.4			
+04	Arizona	STREPTOMYCIN	2008	kg							46.2			
+04	Arizona	STREPTOMYCIN	2009	kg							12.7			
+04	Arizona	STREPTOMYCIN	2010	kg							164.9			
+04	Arizona	STREPTOMYCIN	2011	kg							170			
+04	Arizona	STREPTOMYCIN	2012	kg							155.3			
+04	Arizona	STREPTOMYCIN	2013	kg							103.6			
+04	Arizona	STREPTOMYCIN	2014	kg							104.9			
+04	Arizona	STREPTOMYCIN	2015	kg							114.9			
+04	Arizona	STREPTOMYCIN	2017	kg							211.1			
+05	Arkansas	STREPTOMYCIN	1992	kg							7.7			
+05	Arkansas	STREPTOMYCIN	1994	kg		111.3					285.6			
+05	Arkansas	STREPTOMYCIN	1997	kg							66.2			
+05	Arkansas	STREPTOMYCIN	1998	kg							1			
+05	Arkansas	STREPTOMYCIN	2000	kg							8.3			
+05	Arkansas	STREPTOMYCIN	2001	kg							20.9			
+05	Arkansas	STREPTOMYCIN	2002	kg							122.5			
+05	Arkansas	STREPTOMYCIN	2003	kg							15.4			
+05	Arkansas	STREPTOMYCIN	2004	kg							1.3			
+06	California	STREPTOMYCIN	1992	kg					0		6260.5			
+06	California	STREPTOMYCIN	1993	kg					0.4		5058.2			
+06	California	STREPTOMYCIN	1994	kg					15.5		4015.9			
+06	California	STREPTOMYCIN	1995	kg					7.1		5762.4			
+06	California	STREPTOMYCIN	1996	kg					26.4		4770.1			
+06	California	STREPTOMYCIN	1997	kg					24.3		5417.1			
+06	California	STREPTOMYCIN	1998	kg				0.5	49.8		7375.9			
+06	California	STREPTOMYCIN	1999	kg					8.7		4446.3			
+06	California	STREPTOMYCIN	2000	kg				0	5.4		5079.2			
+06	California	STREPTOMYCIN	2001	kg					14.9		3363.3			
+06	California	STREPTOMYCIN	2002	kg					4.9		2679.5			
+06	California	STREPTOMYCIN	2003	kg					10.8		3986			
+06	California	STREPTOMYCIN	2004	kg				0	0		2180.4			
+06	California	STREPTOMYCIN	2005	kg					2.4		3483.2			
+06	California	STREPTOMYCIN	2006	kg					0		3255.3			
+06	California	STREPTOMYCIN	2007	kg							2555.9			
+06	California	STREPTOMYCIN	2008	kg					0		1811.4			
+06	California	STREPTOMYCIN	2009	kg					2.7		1276.2			
+06	California	STREPTOMYCIN	2010	kg					1.8		1637.2			
+06	California	STREPTOMYCIN	2011	kg					2.8		1908.2			
+06	California	STREPTOMYCIN	2012	kg					1.6		1604.9			
+06	California	STREPTOMYCIN	2013	kg					14.4		1914.5			
+06	California	STREPTOMYCIN	2014	kg					4.3		2103.3			
+06	California	STREPTOMYCIN	2015	kg					4.5		1897.8			
+06	California	STREPTOMYCIN	2016	kg					4.5		6646.6			
+06	California	STREPTOMYCIN	2017	kg					5.4		4491.6			
+08	Colorado	STREPTOMYCIN	1992	kg							7.2			
+08	Colorado	STREPTOMYCIN	1993	kg							69.7			
+08	Colorado	STREPTOMYCIN	1994	kg							23.4			
+08	Colorado	STREPTOMYCIN	1995	kg							27.1			
+08	Colorado	STREPTOMYCIN	1996	kg							181.5			
+08	Colorado	STREPTOMYCIN	1997	kg							22			
+08	Colorado	STREPTOMYCIN	1998	kg							394.8			
+08	Colorado	STREPTOMYCIN	1999	kg							20.1			
+08	Colorado	STREPTOMYCIN	2001	kg							33.4			
+08	Colorado	STREPTOMYCIN	2002	kg							36.7			
+08	Colorado	STREPTOMYCIN	2003	kg							99			
+08	Colorado	STREPTOMYCIN	2004	kg							42.8			
+08	Colorado	STREPTOMYCIN	2005	kg							2.1			
+08	Colorado	STREPTOMYCIN	2006	kg							99.9			
+08	Colorado	STREPTOMYCIN	2007	kg							37.8			
+08	Colorado	STREPTOMYCIN	2008	kg							53.5			
+08	Colorado	STREPTOMYCIN	2009	kg							18.2			
+08	Colorado	STREPTOMYCIN	2010	kg					706.2		47.4			
+08	Colorado	STREPTOMYCIN	2012	kg							33			
+08	Colorado	STREPTOMYCIN	2013	kg							106.9			
+08	Colorado	STREPTOMYCIN	2014	kg							49.3			
+08	Colorado	STREPTOMYCIN	2015	kg							36.8			
+09	Connecticut	STREPTOMYCIN	1995	kg							13.7			
+09	Connecticut	STREPTOMYCIN	1997	kg							1.5			
+09	Connecticut	STREPTOMYCIN	1998	kg							29			
+09	Connecticut	STREPTOMYCIN	1999	kg							2			
+09	Connecticut	STREPTOMYCIN	2000	kg							55.3			
+09	Connecticut	STREPTOMYCIN	2001	kg							19.9			
+09	Connecticut	STREPTOMYCIN	2002	kg							21.8			
+09	Connecticut	STREPTOMYCIN	2003	kg							25.8			
+09	Connecticut	STREPTOMYCIN	2004	kg							2.2			
+09	Connecticut	STREPTOMYCIN	2005	kg							38.4			
+09	Connecticut	STREPTOMYCIN	2006	kg							4.6			
+09	Connecticut	STREPTOMYCIN	2007	kg							6.2			
+09	Connecticut	STREPTOMYCIN	2008	kg							31			
+09	Connecticut	STREPTOMYCIN	2009	kg							61.6			
+09	Connecticut	STREPTOMYCIN	2010	kg							80.4			
+09	Connecticut	STREPTOMYCIN	2011	kg							30			
+09	Connecticut	STREPTOMYCIN	2012	kg							40.7			
+09	Connecticut	STREPTOMYCIN	2013	kg							28.3			
+09	Connecticut	STREPTOMYCIN	2014	kg							103.2			
+09	Connecticut	STREPTOMYCIN	2015	kg							70.5			
+09	Connecticut	STREPTOMYCIN	2016	kg							189.6			
+09	Connecticut	STREPTOMYCIN	2017	kg							30.9			
+10	Delaware	STREPTOMYCIN	1992	kg					0					
+10	Delaware	STREPTOMYCIN	1994	kg					0		0			
+10	Delaware	STREPTOMYCIN	1995	kg							0			
+10	Delaware	STREPTOMYCIN	1997	kg							0.1			
+10	Delaware	STREPTOMYCIN	1998	kg							0			
+10	Delaware	STREPTOMYCIN	1999	kg							0.1			
+10	Delaware	STREPTOMYCIN	2000	kg							0.2			
+10	Delaware	STREPTOMYCIN	2001	kg							0			
+10	Delaware	STREPTOMYCIN	2002	kg							0.1			
+10	Delaware	STREPTOMYCIN	2003	kg							0			
+10	Delaware	STREPTOMYCIN	2004	kg					0.3		0			
+10	Delaware	STREPTOMYCIN	2005	kg							0.7			
+10	Delaware	STREPTOMYCIN	2006	kg							0.9			
+10	Delaware	STREPTOMYCIN	2007	kg							0.6			
+10	Delaware	STREPTOMYCIN	2009	kg					0					
+10	Delaware	STREPTOMYCIN	2012	kg					0					
+10	Delaware	STREPTOMYCIN	2015	kg					0.1					
+12	Florida	STREPTOMYCIN	1993	kg							20.6		25.7	
+12	Florida	STREPTOMYCIN	1994	kg							128.6			
+12	Florida	STREPTOMYCIN	1995	kg					9550.8					
+12	Florida	STREPTOMYCIN	1997	kg					9		56			
+12	Florida	STREPTOMYCIN	2004	kg					224.8					
+12	Florida	STREPTOMYCIN	2013	kg							360.6			
+12	Florida	STREPTOMYCIN	2014	kg							570			
+12	Florida	STREPTOMYCIN	2015	kg							293.4			
+12	Florida	STREPTOMYCIN	2016	kg							7374.4			
+12	Florida	STREPTOMYCIN	2017	kg							8102.7			
+13	Georgia	STREPTOMYCIN	1992	kg							8.5			
+13	Georgia	STREPTOMYCIN	1993	kg							11.6			
+13	Georgia	STREPTOMYCIN	1994	kg					0.9		5.4			
+13	Georgia	STREPTOMYCIN	1995	kg							7.1			0
+13	Georgia	STREPTOMYCIN	1996	kg							0.4			
+13	Georgia	STREPTOMYCIN	1997	kg							39.4			3981.5
+13	Georgia	STREPTOMYCIN	1998	kg							7.1			
+13	Georgia	STREPTOMYCIN	1999	kg							30.2			
+13	Georgia	STREPTOMYCIN	2000	kg							28.9			0
+13	Georgia	STREPTOMYCIN	2001	kg							10.8			
+13	Georgia	STREPTOMYCIN	2002	kg							14.2			0
+13	Georgia	STREPTOMYCIN	2003	kg							26			
+13	Georgia	STREPTOMYCIN	2004	kg							39			
+13	Georgia	STREPTOMYCIN	2005	kg							7.3			
+13	Georgia	STREPTOMYCIN	2006	kg							28.7			
+13	Georgia	STREPTOMYCIN	2007	kg							28.5			
+13	Georgia	STREPTOMYCIN	2008	kg							47.2			
+13	Georgia	STREPTOMYCIN	2009	kg							23.4			
+13	Georgia	STREPTOMYCIN	2010	kg							76.4			
+13	Georgia	STREPTOMYCIN	2011	kg							41.2			
+13	Georgia	STREPTOMYCIN	2012	kg							60.4			
+13	Georgia	STREPTOMYCIN	2013	kg							22.8			
+13	Georgia	STREPTOMYCIN	2014	kg							10.9			
+13	Georgia	STREPTOMYCIN	2015	kg							128.3			
+13	Georgia	STREPTOMYCIN	2016	kg							77.8			
+13	Georgia	STREPTOMYCIN	2017	kg							144.1			
+16	Idaho	STREPTOMYCIN	1994	kg							12.1			
+16	Idaho	STREPTOMYCIN	1995	kg							0			
+16	Idaho	STREPTOMYCIN	1996	kg							339.5			
+16	Idaho	STREPTOMYCIN	1997	kg							6.6			
+16	Idaho	STREPTOMYCIN	1998	kg							80.3			
+16	Idaho	STREPTOMYCIN	1999	kg							10			
+16	Idaho	STREPTOMYCIN	2000	kg							115.1			
+16	Idaho	STREPTOMYCIN	2001	kg							93			
+16	Idaho	STREPTOMYCIN	2002	kg							6.4			
+16	Idaho	STREPTOMYCIN	2003	kg							31.5			
+16	Idaho	STREPTOMYCIN	2004	kg							175.6			
+16	Idaho	STREPTOMYCIN	2005	kg							17.5			
+16	Idaho	STREPTOMYCIN	2006	kg							19.2			
+16	Idaho	STREPTOMYCIN	2007	kg							23.8			
+16	Idaho	STREPTOMYCIN	2008	kg							65.8			
+16	Idaho	STREPTOMYCIN	2009	kg							21.1			
+16	Idaho	STREPTOMYCIN	2010	kg							69.8			
+16	Idaho	STREPTOMYCIN	2011	kg							46.9			
+16	Idaho	STREPTOMYCIN	2012	kg							37.4			
+16	Idaho	STREPTOMYCIN	2013	kg							194.8			
+16	Idaho	STREPTOMYCIN	2014	kg							98.8			
+16	Idaho	STREPTOMYCIN	2015	kg							12.9			
+16	Idaho	STREPTOMYCIN	2016	kg							1.4			
+17	Illinois	STREPTOMYCIN	1992	kg							172.3			
+17	Illinois	STREPTOMYCIN	1993	kg							212.5			
+17	Illinois	STREPTOMYCIN	1994	kg							507.8			
+17	Illinois	STREPTOMYCIN	1995	kg							719.1			
+17	Illinois	STREPTOMYCIN	1996	kg							159.4			
+17	Illinois	STREPTOMYCIN	1997	kg							565.1			
+17	Illinois	STREPTOMYCIN	1998	kg							786.7			
+17	Illinois	STREPTOMYCIN	1999	kg							195.5			
+17	Illinois	STREPTOMYCIN	2000	kg							163.3			
+17	Illinois	STREPTOMYCIN	2001	kg							117.2			7.3
+17	Illinois	STREPTOMYCIN	2002	kg							131.1			
+17	Illinois	STREPTOMYCIN	2003	kg							802.5			
+17	Illinois	STREPTOMYCIN	2004	kg							326.6			
+17	Illinois	STREPTOMYCIN	2005	kg							83.5			
+17	Illinois	STREPTOMYCIN	2007	kg							159.2			0.9
+17	Illinois	STREPTOMYCIN	2008	kg										0
+17	Illinois	STREPTOMYCIN	2009	kg					26		49.4			5
+17	Illinois	STREPTOMYCIN	2010	kg										6.9
+17	Illinois	STREPTOMYCIN	2011	kg							113.7			1.6
+17	Illinois	STREPTOMYCIN	2012	kg							153.7			
+17	Illinois	STREPTOMYCIN	2014	kg							87.4			
+17	Illinois	STREPTOMYCIN	2015	kg							167.6			
+17	Illinois	STREPTOMYCIN	2016	kg										2.7
+17	Illinois	STREPTOMYCIN	2017	kg										7.3
+18	Indiana	STREPTOMYCIN	1992	kg							129.4			0.5
+18	Indiana	STREPTOMYCIN	1993	kg							201.4			
+18	Indiana	STREPTOMYCIN	1994	kg							138.6			
+18	Indiana	STREPTOMYCIN	1995	kg							42.8			5.2
+18	Indiana	STREPTOMYCIN	1996	kg							394.8			
+18	Indiana	STREPTOMYCIN	1997	kg							168.1			1.6
+18	Indiana	STREPTOMYCIN	1998	kg							239.9			211.4
+18	Indiana	STREPTOMYCIN	1999	kg							80			
+18	Indiana	STREPTOMYCIN	2000	kg							155.8			
+18	Indiana	STREPTOMYCIN	2001	kg							32.1			347.9
+18	Indiana	STREPTOMYCIN	2002	kg							118.4			
+18	Indiana	STREPTOMYCIN	2003	kg							145.4			2.1
+18	Indiana	STREPTOMYCIN	2004	kg							149			
+18	Indiana	STREPTOMYCIN	2005	kg							53.1			
+18	Indiana	STREPTOMYCIN	2006	kg							8.7			
+18	Indiana	STREPTOMYCIN	2007	kg							105.2			
+18	Indiana	STREPTOMYCIN	2008	kg							47.6			
+18	Indiana	STREPTOMYCIN	2009	kg							41.2			2.6
+18	Indiana	STREPTOMYCIN	2010	kg							28.3			7.6
+18	Indiana	STREPTOMYCIN	2011	kg							95.7			5.8
+18	Indiana	STREPTOMYCIN	2012	kg							118.2			
+18	Indiana	STREPTOMYCIN	2013	kg							24.1			
+18	Indiana	STREPTOMYCIN	2014	kg							95.9			
+18	Indiana	STREPTOMYCIN	2015	kg							149.6			
+18	Indiana	STREPTOMYCIN	2016	kg							17.4			1
+18	Indiana	STREPTOMYCIN	2017	kg							19.1			3.8
+19	Iowa	STREPTOMYCIN	1992	kg							41.1			
+19	Iowa	STREPTOMYCIN	1993	kg							76.2			
+19	Iowa	STREPTOMYCIN	1994	kg							82.7			
+19	Iowa	STREPTOMYCIN	1995	kg							94.8			
+19	Iowa	STREPTOMYCIN	1996	kg							50.6			
+19	Iowa	STREPTOMYCIN	1997	kg							64.4			
+19	Iowa	STREPTOMYCIN	1998	kg							157.9			
+19	Iowa	STREPTOMYCIN	1999	kg							47.1			
+19	Iowa	STREPTOMYCIN	2000	kg							49.7			
+19	Iowa	STREPTOMYCIN	2001	kg							29.2			
+19	Iowa	STREPTOMYCIN	2002	kg							26.3			
+19	Iowa	STREPTOMYCIN	2003	kg							45.5			
+19	Iowa	STREPTOMYCIN	2004	kg							74.5			
+19	Iowa	STREPTOMYCIN	2005	kg							24.8			
+19	Iowa	STREPTOMYCIN	2007	kg							46.6			
+19	Iowa	STREPTOMYCIN	2009	kg							13.4			
+19	Iowa	STREPTOMYCIN	2011	kg							33.3			
+19	Iowa	STREPTOMYCIN	2012	kg							46.6			
+19	Iowa	STREPTOMYCIN	2014	kg							25.4			
+19	Iowa	STREPTOMYCIN	2015	kg							46.6			
+20	Kansas	STREPTOMYCIN	1994	kg							30.6			
+20	Kansas	STREPTOMYCIN	1996	kg							10.3			
+20	Kansas	STREPTOMYCIN	1997	kg							9.3			
+20	Kansas	STREPTOMYCIN	1999	kg							1.2			
+20	Kansas	STREPTOMYCIN	2001	kg							17.6			
+20	Kansas	STREPTOMYCIN	2002	kg							36.9			
+20	Kansas	STREPTOMYCIN	2003	kg							16.6			
+20	Kansas	STREPTOMYCIN	2004	kg							29.1			
+21	Kentucky	STREPTOMYCIN	1992	kg							167.6			24.5
+21	Kentucky	STREPTOMYCIN	1993	kg							141			499.1
+21	Kentucky	STREPTOMYCIN	1994	kg							13.4			354.5
+21	Kentucky	STREPTOMYCIN	1995	kg							66			107
+21	Kentucky	STREPTOMYCIN	1996	kg							7.7			1915.2
+21	Kentucky	STREPTOMYCIN	1997	kg							412.5			153.4
+21	Kentucky	STREPTOMYCIN	1998	kg							51.6			911.1
+21	Kentucky	STREPTOMYCIN	1999	kg							108.6			
+21	Kentucky	STREPTOMYCIN	2000	kg							153.6			42.1
+21	Kentucky	STREPTOMYCIN	2001	kg							27.6			934.8
+21	Kentucky	STREPTOMYCIN	2002	kg							40.6			192.3
+21	Kentucky	STREPTOMYCIN	2003	kg							31.1			180.3
+21	Kentucky	STREPTOMYCIN	2004	kg							81.2			
+21	Kentucky	STREPTOMYCIN	2005	kg							23.6			
+21	Kentucky	STREPTOMYCIN	2006	kg							22			
+21	Kentucky	STREPTOMYCIN	2007	kg							104.9			56.8
+21	Kentucky	STREPTOMYCIN	2008	kg							9			3.4
+21	Kentucky	STREPTOMYCIN	2009	kg							54.6			229.6
+21	Kentucky	STREPTOMYCIN	2010	kg							36.6			429.6
+21	Kentucky	STREPTOMYCIN	2011	kg							55.7			159.5
+21	Kentucky	STREPTOMYCIN	2012	kg							68.4			573.3
+21	Kentucky	STREPTOMYCIN	2013	kg							22.5			
+21	Kentucky	STREPTOMYCIN	2014	kg							46.8			
+21	Kentucky	STREPTOMYCIN	2015	kg							55.3			
+21	Kentucky	STREPTOMYCIN	2016	kg							68.1			300.5
+21	Kentucky	STREPTOMYCIN	2017	kg							140.1			329.1
+23	Maine	STREPTOMYCIN	1995	kg							9.2			
+23	Maine	STREPTOMYCIN	1997	kg							179.1			
+23	Maine	STREPTOMYCIN	1998	kg							38.7			
+23	Maine	STREPTOMYCIN	1999	kg							8.8			
+23	Maine	STREPTOMYCIN	2000	kg							24.4			
+23	Maine	STREPTOMYCIN	2001	kg							33			
+23	Maine	STREPTOMYCIN	2002	kg							36.1			
+23	Maine	STREPTOMYCIN	2003	kg							40.5			
+23	Maine	STREPTOMYCIN	2004	kg							30.3			
+23	Maine	STREPTOMYCIN	2005	kg							67.5			
+23	Maine	STREPTOMYCIN	2006	kg							130			
+23	Maine	STREPTOMYCIN	2007	kg							99.7			
+23	Maine	STREPTOMYCIN	2008	kg							98.7			
+23	Maine	STREPTOMYCIN	2009	kg							210.7			
+23	Maine	STREPTOMYCIN	2010	kg							90.3			
+23	Maine	STREPTOMYCIN	2011	kg							152.2			
+23	Maine	STREPTOMYCIN	2012	kg							107			
+23	Maine	STREPTOMYCIN	2013	kg							122.9			
+23	Maine	STREPTOMYCIN	2014	kg							133			
+23	Maine	STREPTOMYCIN	2015	kg							124.3			
+23	Maine	STREPTOMYCIN	2016	kg							261			
+23	Maine	STREPTOMYCIN	2017	kg							278.5			
+24	Maryland	STREPTOMYCIN	1992	kg							159.9			
+24	Maryland	STREPTOMYCIN	1993	kg							17.4			
+24	Maryland	STREPTOMYCIN	1994	kg							17.9			
+24	Maryland	STREPTOMYCIN	1995	kg							35.3			
+24	Maryland	STREPTOMYCIN	1996	kg							7.9			
+24	Maryland	STREPTOMYCIN	1997	kg							120.8			
+24	Maryland	STREPTOMYCIN	1998	kg							35.7			
+24	Maryland	STREPTOMYCIN	1999	kg							37.8			
+24	Maryland	STREPTOMYCIN	2000	kg							67.5			
+24	Maryland	STREPTOMYCIN	2001	kg							21.7			
+24	Maryland	STREPTOMYCIN	2002	kg							29.4			
+24	Maryland	STREPTOMYCIN	2003	kg							28.5			
+24	Maryland	STREPTOMYCIN	2004	kg							21.2			
+24	Maryland	STREPTOMYCIN	2005	kg							55.3			
+24	Maryland	STREPTOMYCIN	2006	kg							156.9			
+24	Maryland	STREPTOMYCIN	2007	kg							99.8			
+24	Maryland	STREPTOMYCIN	2008	kg							44.5			
+24	Maryland	STREPTOMYCIN	2009	kg							137.2			
+24	Maryland	STREPTOMYCIN	2010	kg							88.3			
+24	Maryland	STREPTOMYCIN	2011	kg							84.7			
+24	Maryland	STREPTOMYCIN	2012	kg							44.2			
+24	Maryland	STREPTOMYCIN	2013	kg							20.8			
+24	Maryland	STREPTOMYCIN	2014	kg							70.8			
+24	Maryland	STREPTOMYCIN	2015	kg							77.9			
+24	Maryland	STREPTOMYCIN	2016	kg							118.9			
+24	Maryland	STREPTOMYCIN	2017	kg							333.1			
+25	Massachusetts	STREPTOMYCIN	1995	kg							16.8			
+25	Massachusetts	STREPTOMYCIN	1997	kg							3.1			
+25	Massachusetts	STREPTOMYCIN	1998	kg							49.1			
+25	Massachusetts	STREPTOMYCIN	1999	kg							3.6			
+25	Massachusetts	STREPTOMYCIN	2000	kg							153.1			
+25	Massachusetts	STREPTOMYCIN	2001	kg							38			
+25	Massachusetts	STREPTOMYCIN	2002	kg							41.9			
+25	Massachusetts	STREPTOMYCIN	2003	kg							48.8			
+25	Massachusetts	STREPTOMYCIN	2004	kg							4.3			
+25	Massachusetts	STREPTOMYCIN	2005	kg							70.3			
+25	Massachusetts	STREPTOMYCIN	2006	kg							8.3			
+25	Massachusetts	STREPTOMYCIN	2007	kg							11			
+25	Massachusetts	STREPTOMYCIN	2008	kg							54			
+25	Massachusetts	STREPTOMYCIN	2009	kg							131.8			
+25	Massachusetts	STREPTOMYCIN	2010	kg							91.3			
+25	Massachusetts	STREPTOMYCIN	2011	kg							48.9			
+25	Massachusetts	STREPTOMYCIN	2012	kg							64.5			
+25	Massachusetts	STREPTOMYCIN	2013	kg							46.9			
+25	Massachusetts	STREPTOMYCIN	2014	kg							130.6			
+25	Massachusetts	STREPTOMYCIN	2015	kg							124.1			
+25	Massachusetts	STREPTOMYCIN	2016	kg							345.5			
+25	Massachusetts	STREPTOMYCIN	2017	kg							58.2			
+26	Michigan	STREPTOMYCIN	1992	kg							952.1			
+26	Michigan	STREPTOMYCIN	1993	kg							472.5			
+26	Michigan	STREPTOMYCIN	1994	kg							2257.9			
+26	Michigan	STREPTOMYCIN	1995	kg							66.7			
+26	Michigan	STREPTOMYCIN	1996	kg							1428.1			
+26	Michigan	STREPTOMYCIN	1997	kg							282.3			
+26	Michigan	STREPTOMYCIN	1998	kg							1941.2			
+26	Michigan	STREPTOMYCIN	1999	kg							716.7			
+26	Michigan	STREPTOMYCIN	2000	kg							792.5			
+26	Michigan	STREPTOMYCIN	2001	kg							2692.1			
+26	Michigan	STREPTOMYCIN	2002	kg							599.8			
+26	Michigan	STREPTOMYCIN	2003	kg							1381.4			
+26	Michigan	STREPTOMYCIN	2004	kg							777.4			
+26	Michigan	STREPTOMYCIN	2005	kg							1361.3			
+26	Michigan	STREPTOMYCIN	2006	kg							497.2			
+26	Michigan	STREPTOMYCIN	2007	kg							2581.6			
+26	Michigan	STREPTOMYCIN	2008	kg							1791			
+26	Michigan	STREPTOMYCIN	2009	kg							940.5			
+26	Michigan	STREPTOMYCIN	2010	kg							1658.6			
+26	Michigan	STREPTOMYCIN	2011	kg							2655.3			
+26	Michigan	STREPTOMYCIN	2012	kg							2519.2			
+26	Michigan	STREPTOMYCIN	2013	kg							2229.1			
+26	Michigan	STREPTOMYCIN	2014	kg							2942.3			
+26	Michigan	STREPTOMYCIN	2015	kg							2605.3			
+26	Michigan	STREPTOMYCIN	2016	kg							3220.9			
+26	Michigan	STREPTOMYCIN	2017	kg							2947.2			
+27	Minnesota	STREPTOMYCIN	1992	kg							92.5			
+27	Minnesota	STREPTOMYCIN	1993	kg							160.8			
+27	Minnesota	STREPTOMYCIN	1994	kg							98.3			
+27	Minnesota	STREPTOMYCIN	1995	kg							134.8			968.4
+27	Minnesota	STREPTOMYCIN	1996	kg							117.8			
+27	Minnesota	STREPTOMYCIN	1997	kg							4.4			
+27	Minnesota	STREPTOMYCIN	1998	kg							229			
+27	Minnesota	STREPTOMYCIN	1999	kg							98.7			
+27	Minnesota	STREPTOMYCIN	2000	kg							46.9			
+27	Minnesota	STREPTOMYCIN	2001	kg							100.4			
+27	Minnesota	STREPTOMYCIN	2002	kg							22.2			
+27	Minnesota	STREPTOMYCIN	2003	kg							94.3			
+27	Minnesota	STREPTOMYCIN	2004	kg							143.9			
+27	Minnesota	STREPTOMYCIN	2005	kg							83.3			
+27	Minnesota	STREPTOMYCIN	2006	kg							18			
+27	Minnesota	STREPTOMYCIN	2007	kg							165.9			
+27	Minnesota	STREPTOMYCIN	2008	kg							29.6			
+27	Minnesota	STREPTOMYCIN	2009	kg							67.3			
+27	Minnesota	STREPTOMYCIN	2010	kg							58.2			
+27	Minnesota	STREPTOMYCIN	2011	kg							130			
+27	Minnesota	STREPTOMYCIN	2012	kg							178.3			
+27	Minnesota	STREPTOMYCIN	2013	kg							103.6			
+27	Minnesota	STREPTOMYCIN	2014	kg							162.4			
+27	Minnesota	STREPTOMYCIN	2015	kg							207.2			
+27	Minnesota	STREPTOMYCIN	2016	kg							67.8			
+27	Minnesota	STREPTOMYCIN	2017	kg							75.2			
+28	Mississippi	STREPTOMYCIN	1994	kg		26.9								
+28	Mississippi	STREPTOMYCIN	1995	kg							27.1			
+29	Missouri	STREPTOMYCIN	1992	kg							511.3			
+29	Missouri	STREPTOMYCIN	1993	kg							85.4			
+29	Missouri	STREPTOMYCIN	1994	kg							444.1			
+29	Missouri	STREPTOMYCIN	1995	kg							261.3			
+29	Missouri	STREPTOMYCIN	1996	kg							108.2			
+29	Missouri	STREPTOMYCIN	1997	kg							427.5			
+29	Missouri	STREPTOMYCIN	1998	kg							243.3			
+29	Missouri	STREPTOMYCIN	1999	kg							41			
+29	Missouri	STREPTOMYCIN	2000	kg							433.7			
+29	Missouri	STREPTOMYCIN	2001	kg							183.7			
+29	Missouri	STREPTOMYCIN	2002	kg							1180.3			
+29	Missouri	STREPTOMYCIN	2003	kg							221.1			
+29	Missouri	STREPTOMYCIN	2004	kg							320.4			
+29	Missouri	STREPTOMYCIN	2005	kg							53			
+29	Missouri	STREPTOMYCIN	2007	kg							101.2			
+29	Missouri	STREPTOMYCIN	2008	kg										0
+29	Missouri	STREPTOMYCIN	2009	kg							37.3			0.3
+29	Missouri	STREPTOMYCIN	2010	kg										0.5
+29	Missouri	STREPTOMYCIN	2011	kg							79.3			0.1
+29	Missouri	STREPTOMYCIN	2012	kg							102.9			
+29	Missouri	STREPTOMYCIN	2014	kg							55.5			
+29	Missouri	STREPTOMYCIN	2015	kg							101.7			
+29	Missouri	STREPTOMYCIN	2017	kg										0.5
+30	Montana	STREPTOMYCIN	1996	kg							15.8			
+30	Montana	STREPTOMYCIN	1998	kg							41.4			
+30	Montana	STREPTOMYCIN	2001	kg							2.7			
+30	Montana	STREPTOMYCIN	2002	kg							0.5			
+30	Montana	STREPTOMYCIN	2003	kg							15.9			
+30	Montana	STREPTOMYCIN	2004	kg							14.8			
+30	Montana	STREPTOMYCIN	2006	kg							17.6			
+30	Montana	STREPTOMYCIN	2007	kg							3			
+30	Montana	STREPTOMYCIN	2008	kg							6.4			
+30	Montana	STREPTOMYCIN	2010	kg							7.5			
+30	Montana	STREPTOMYCIN	2012	kg							5.3			
+30	Montana	STREPTOMYCIN	2013	kg							17.6			
+30	Montana	STREPTOMYCIN	2014	kg							11.1			
+30	Montana	STREPTOMYCIN	2015	kg							4.9			
+31	Nebraska	STREPTOMYCIN	1996	kg							8.4			
+32	Nevada	STREPTOMYCIN	1992	kg							0			
+32	Nevada	STREPTOMYCIN	1993	kg							0.4			
+32	Nevada	STREPTOMYCIN	1994	kg							0.9			
+32	Nevada	STREPTOMYCIN	1995	kg							0			
+32	Nevada	STREPTOMYCIN	1996	kg							3.5			
+32	Nevada	STREPTOMYCIN	1997	kg							0.5			
+32	Nevada	STREPTOMYCIN	1998	kg							18.3			
+32	Nevada	STREPTOMYCIN	1999	kg							0.7			
+32	Nevada	STREPTOMYCIN	2000	kg							2.3			
+32	Nevada	STREPTOMYCIN	2001	kg							1.3			
+32	Nevada	STREPTOMYCIN	2002	kg							3.8			
+32	Nevada	STREPTOMYCIN	2003	kg							4			
+32	Nevada	STREPTOMYCIN	2004	kg							1.2			
+32	Nevada	STREPTOMYCIN	2005	kg							1.4			
+32	Nevada	STREPTOMYCIN	2006	kg							5.5			
+32	Nevada	STREPTOMYCIN	2007	kg							2.1			
+32	Nevada	STREPTOMYCIN	2008	kg							5.5			
+32	Nevada	STREPTOMYCIN	2009	kg							1.2			
+32	Nevada	STREPTOMYCIN	2010	kg							7.3			
+32	Nevada	STREPTOMYCIN	2011	kg							3.3			
+32	Nevada	STREPTOMYCIN	2012	kg							8			
+32	Nevada	STREPTOMYCIN	2013	kg							21.4			
+32	Nevada	STREPTOMYCIN	2014	kg							6.9			
+32	Nevada	STREPTOMYCIN	2015	kg							10.1			
+32	Nevada	STREPTOMYCIN	2017	kg							0.6			
+33	New Hampshire	STREPTOMYCIN	1995	kg							5.6			
+33	New Hampshire	STREPTOMYCIN	1997	kg							1.5			
+33	New Hampshire	STREPTOMYCIN	1998	kg							23.9			
+33	New Hampshire	STREPTOMYCIN	1999	kg							5.4			
+33	New Hampshire	STREPTOMYCIN	2000	kg							58.2			
+33	New Hampshire	STREPTOMYCIN	2001	kg							20.7			
+33	New Hampshire	STREPTOMYCIN	2002	kg							23			
+33	New Hampshire	STREPTOMYCIN	2003	kg							26.1			
+33	New Hampshire	STREPTOMYCIN	2004	kg							19.9			
+33	New Hampshire	STREPTOMYCIN	2005	kg							45.4			
+33	New Hampshire	STREPTOMYCIN	2006	kg							89.1			
+33	New Hampshire	STREPTOMYCIN	2007	kg							70.2			
+33	New Hampshire	STREPTOMYCIN	2008	kg							65.3			
+33	New Hampshire	STREPTOMYCIN	2009	kg							127.8			
+33	New Hampshire	STREPTOMYCIN	2010	kg							50.1			
+33	New Hampshire	STREPTOMYCIN	2011	kg							77.4			
+33	New Hampshire	STREPTOMYCIN	2012	kg							49.4			
+33	New Hampshire	STREPTOMYCIN	2013	kg							58.6			
+33	New Hampshire	STREPTOMYCIN	2014	kg							65.6			
+33	New Hampshire	STREPTOMYCIN	2015	kg							63.4			
+33	New Hampshire	STREPTOMYCIN	2016	kg							138.7			
+33	New Hampshire	STREPTOMYCIN	2017	kg							155			
+34	New Jersey	STREPTOMYCIN	1992	kg					37.1					
+34	New Jersey	STREPTOMYCIN	1993	kg							70.6			
+34	New Jersey	STREPTOMYCIN	1994	kg					3.6					
+34	New Jersey	STREPTOMYCIN	1995	kg							38.6			
+34	New Jersey	STREPTOMYCIN	1996	kg							3.2			
+34	New Jersey	STREPTOMYCIN	1997	kg							185.7			
+34	New Jersey	STREPTOMYCIN	1998	kg					16.5		7.5			
+34	New Jersey	STREPTOMYCIN	1999	kg							3.7			
+34	New Jersey	STREPTOMYCIN	2000	kg							62.6			
+34	New Jersey	STREPTOMYCIN	2001	kg							21.9			
+34	New Jersey	STREPTOMYCIN	2002	kg							23.9			
+34	New Jersey	STREPTOMYCIN	2003	kg							20.2			
+34	New Jersey	STREPTOMYCIN	2004	kg					31.3		14.8			
+34	New Jersey	STREPTOMYCIN	2005	kg							169			
+34	New Jersey	STREPTOMYCIN	2006	kg							189.9			
+34	New Jersey	STREPTOMYCIN	2007	kg							78.7			
+34	New Jersey	STREPTOMYCIN	2008	kg							214.8			
+34	New Jersey	STREPTOMYCIN	2009	kg					25.9		287.3			
+34	New Jersey	STREPTOMYCIN	2010	kg							301.4			
+34	New Jersey	STREPTOMYCIN	2011	kg							97.3			
+34	New Jersey	STREPTOMYCIN	2012	kg					3.3		120.2			
+34	New Jersey	STREPTOMYCIN	2013	kg							12.4			
+34	New Jersey	STREPTOMYCIN	2014	kg							80.6			
+34	New Jersey	STREPTOMYCIN	2015	kg					155.8		32			
+34	New Jersey	STREPTOMYCIN	2016	kg							189.8			
+34	New Jersey	STREPTOMYCIN	2017	kg							310.7			
+35	New Mexico	STREPTOMYCIN	1992	kg							1.7			
+35	New Mexico	STREPTOMYCIN	1993	kg							11.6			
+35	New Mexico	STREPTOMYCIN	1994	kg							2.5			
+35	New Mexico	STREPTOMYCIN	1995	kg							2.9			
+35	New Mexico	STREPTOMYCIN	1996	kg							68.7			
+35	New Mexico	STREPTOMYCIN	1997	kg							3.2			
+35	New Mexico	STREPTOMYCIN	1998	kg							177.8			
+35	New Mexico	STREPTOMYCIN	1999	kg							3.3			
+35	New Mexico	STREPTOMYCIN	2001	kg							14.8			
+35	New Mexico	STREPTOMYCIN	2002	kg							10			
+35	New Mexico	STREPTOMYCIN	2003	kg							67.7			
+35	New Mexico	STREPTOMYCIN	2004	kg							31.5			
+35	New Mexico	STREPTOMYCIN	2005	kg							0.2			
+35	New Mexico	STREPTOMYCIN	2006	kg							72.4			
+35	New Mexico	STREPTOMYCIN	2007	kg							16.3			
+35	New Mexico	STREPTOMYCIN	2008	kg							30			
+35	New Mexico	STREPTOMYCIN	2009	kg							4.3			
+35	New Mexico	STREPTOMYCIN	2010	kg					73.1		34.6			
+35	New Mexico	STREPTOMYCIN	2012	kg							27.2			
+35	New Mexico	STREPTOMYCIN	2013	kg							82.4			
+35	New Mexico	STREPTOMYCIN	2014	kg							41.4			
+35	New Mexico	STREPTOMYCIN	2015	kg							21.6			
+36	New York	STREPTOMYCIN	1993	kg							164			
+36	New York	STREPTOMYCIN	1995	kg							185.4			
+36	New York	STREPTOMYCIN	1996	kg							10.8			
+36	New York	STREPTOMYCIN	1997	kg							2020.7			
+36	New York	STREPTOMYCIN	1998	kg					10.2		393.7			
+36	New York	STREPTOMYCIN	1999	kg							86.4			
+36	New York	STREPTOMYCIN	2000	kg							1066.8			
+36	New York	STREPTOMYCIN	2001	kg							727.1			
+36	New York	STREPTOMYCIN	2002	kg							418.8			
+36	New York	STREPTOMYCIN	2003	kg							310.4			
+36	New York	STREPTOMYCIN	2004	kg							1342.2			
+36	New York	STREPTOMYCIN	2005	kg							1295.3			
+36	New York	STREPTOMYCIN	2006	kg							809.3			
+36	New York	STREPTOMYCIN	2007	kg							1750.6			
+36	New York	STREPTOMYCIN	2008	kg							1345.7			
+36	New York	STREPTOMYCIN	2009	kg							4754.3			
+36	New York	STREPTOMYCIN	2010	kg							4560.6			
+36	New York	STREPTOMYCIN	2011	kg							4501.5			
+36	New York	STREPTOMYCIN	2012	kg							4224.8			
+36	New York	STREPTOMYCIN	2013	kg							4770			
+36	New York	STREPTOMYCIN	2014	kg							3898.9			
+36	New York	STREPTOMYCIN	2015	kg							6298			
+36	New York	STREPTOMYCIN	2016	kg							8828.5			
+36	New York	STREPTOMYCIN	2017	kg							3552.7			
+37	North Carolina	STREPTOMYCIN	1992	kg							1491.2			
+37	North Carolina	STREPTOMYCIN	1993	kg							2494.5			23.3
+37	North Carolina	STREPTOMYCIN	1994	kg							804.3			
+37	North Carolina	STREPTOMYCIN	1995	kg							85.2			989.2
+37	North Carolina	STREPTOMYCIN	1996	kg							3.5			135.6
+37	North Carolina	STREPTOMYCIN	1997	kg							29			14.9
+37	North Carolina	STREPTOMYCIN	1998	kg							70.4			106.6
+37	North Carolina	STREPTOMYCIN	1999	kg							199			
+37	North Carolina	STREPTOMYCIN	2000	kg					15.3		367.7			32.4
+37	North Carolina	STREPTOMYCIN	2001	kg					3.1		68.7			23
+37	North Carolina	STREPTOMYCIN	2002	kg							87.7			6.4
+37	North Carolina	STREPTOMYCIN	2003	kg							194.2			43.2
+37	North Carolina	STREPTOMYCIN	2004	kg							299.3			
+37	North Carolina	STREPTOMYCIN	2005	kg							55.2			
+37	North Carolina	STREPTOMYCIN	2006	kg							264.8			
+37	North Carolina	STREPTOMYCIN	2007	kg							208			
+37	North Carolina	STREPTOMYCIN	2008	kg							637			
+37	North Carolina	STREPTOMYCIN	2009	kg							370			
+37	North Carolina	STREPTOMYCIN	2010	kg							811.9			1.7
+37	North Carolina	STREPTOMYCIN	2011	kg							519.6			
+37	North Carolina	STREPTOMYCIN	2012	kg							326.5			
+37	North Carolina	STREPTOMYCIN	2013	kg							202.4			
+37	North Carolina	STREPTOMYCIN	2014	kg							79.1			
+37	North Carolina	STREPTOMYCIN	2015	kg							1615.4			
+37	North Carolina	STREPTOMYCIN	2016	kg							590			
+37	North Carolina	STREPTOMYCIN	2017	kg							1318.6			
+38	North Dakota	STREPTOMYCIN	1995	kg										378.2
+39	Ohio	STREPTOMYCIN	1992	kg							449			
+39	Ohio	STREPTOMYCIN	1993	kg							207.4			31.5
+39	Ohio	STREPTOMYCIN	1994	kg							363			10.4
+39	Ohio	STREPTOMYCIN	1995	kg							237.4			2.2
+39	Ohio	STREPTOMYCIN	1996	kg							215.8			3.6
+39	Ohio	STREPTOMYCIN	1997	kg							178.3			0
+39	Ohio	STREPTOMYCIN	1998	kg							280.6			393.3
+39	Ohio	STREPTOMYCIN	1999	kg							1391.4			
+39	Ohio	STREPTOMYCIN	2000	kg							248.1			
+39	Ohio	STREPTOMYCIN	2001	kg							175.6			60.6
+39	Ohio	STREPTOMYCIN	2002	kg							94.7			9.6
+39	Ohio	STREPTOMYCIN	2003	kg							137.5			0.1
+39	Ohio	STREPTOMYCIN	2004	kg							591.2			
+39	Ohio	STREPTOMYCIN	2005	kg							112.9			
+39	Ohio	STREPTOMYCIN	2006	kg							47.8			
+39	Ohio	STREPTOMYCIN	2007	kg							146.5			
+39	Ohio	STREPTOMYCIN	2008	kg							69.1			
+39	Ohio	STREPTOMYCIN	2009	kg							508.7			11.7
+39	Ohio	STREPTOMYCIN	2010	kg							106.3			0
+39	Ohio	STREPTOMYCIN	2011	kg							377.8			5.9
+39	Ohio	STREPTOMYCIN	2012	kg							312.6			19.6
+39	Ohio	STREPTOMYCIN	2013	kg							211			
+39	Ohio	STREPTOMYCIN	2014	kg							375.3			
+39	Ohio	STREPTOMYCIN	2015	kg							366.7			
+39	Ohio	STREPTOMYCIN	2016	kg							152.1			
+39	Ohio	STREPTOMYCIN	2017	kg							201.1			6.4
+40	Oklahoma	STREPTOMYCIN	1994	kg							777.5			
+40	Oklahoma	STREPTOMYCIN	1997	kg							13.4			
+40	Oklahoma	STREPTOMYCIN	2001	kg							6.6			
+40	Oklahoma	STREPTOMYCIN	2002	kg							47			
+40	Oklahoma	STREPTOMYCIN	2003	kg							6.4			
+41	Oregon	STREPTOMYCIN	1992	kg							26.1			
+41	Oregon	STREPTOMYCIN	1994	kg							379.8			
+41	Oregon	STREPTOMYCIN	1995	kg							582.3			
+41	Oregon	STREPTOMYCIN	1996	kg							1435.4			
+41	Oregon	STREPTOMYCIN	1997	kg							1882.7			
+41	Oregon	STREPTOMYCIN	1998	kg							1791.6			
+41	Oregon	STREPTOMYCIN	1999	kg							1149.1			
+41	Oregon	STREPTOMYCIN	2000	kg							1533.2			
+41	Oregon	STREPTOMYCIN	2001	kg							546.2			
+41	Oregon	STREPTOMYCIN	2002	kg							1417.3			
+41	Oregon	STREPTOMYCIN	2003	kg							818.3			
+41	Oregon	STREPTOMYCIN	2004	kg							592.3			
+41	Oregon	STREPTOMYCIN	2005	kg							578.5			
+41	Oregon	STREPTOMYCIN	2006	kg							1865.9			
+41	Oregon	STREPTOMYCIN	2007	kg							828.7			
+41	Oregon	STREPTOMYCIN	2008	kg							953.4			
+41	Oregon	STREPTOMYCIN	2009	kg							1195.8			
+41	Oregon	STREPTOMYCIN	2010	kg							828.3			
+41	Oregon	STREPTOMYCIN	2011	kg							835.3			
+41	Oregon	STREPTOMYCIN	2012	kg							602.7			
+41	Oregon	STREPTOMYCIN	2013	kg							2733.8			
+41	Oregon	STREPTOMYCIN	2014	kg							751.3			
+41	Oregon	STREPTOMYCIN	2015	kg							618.9			
+41	Oregon	STREPTOMYCIN	2016	kg							1751.2			
+41	Oregon	STREPTOMYCIN	2017	kg							534.7			
+42	Pennsylvania	STREPTOMYCIN	1992	kg					0.8		837.2			
+42	Pennsylvania	STREPTOMYCIN	1993	kg							175			
+42	Pennsylvania	STREPTOMYCIN	1994	kg					0					
+42	Pennsylvania	STREPTOMYCIN	1995	kg							314.4			
+42	Pennsylvania	STREPTOMYCIN	1996	kg							4.7			
+42	Pennsylvania	STREPTOMYCIN	1997	kg							399.1			
+42	Pennsylvania	STREPTOMYCIN	1998	kg					17.7		101			
+42	Pennsylvania	STREPTOMYCIN	1999	kg							292.4			
+42	Pennsylvania	STREPTOMYCIN	2000	kg							675.9			
+42	Pennsylvania	STREPTOMYCIN	2001	kg							83.1			
+42	Pennsylvania	STREPTOMYCIN	2002	kg							398.5			
+42	Pennsylvania	STREPTOMYCIN	2003	kg							501.6			
+42	Pennsylvania	STREPTOMYCIN	2004	kg					9.2		352.4			
+42	Pennsylvania	STREPTOMYCIN	2005	kg							501.8			
+42	Pennsylvania	STREPTOMYCIN	2006	kg							1803.9			
+42	Pennsylvania	STREPTOMYCIN	2007	kg							1140.9			
+42	Pennsylvania	STREPTOMYCIN	2008	kg							679.6			
+42	Pennsylvania	STREPTOMYCIN	2009	kg					1.5		756.6			
+42	Pennsylvania	STREPTOMYCIN	2010	kg							773.3			
+42	Pennsylvania	STREPTOMYCIN	2011	kg							1034.5			
+42	Pennsylvania	STREPTOMYCIN	2012	kg					0.1		943.6			
+42	Pennsylvania	STREPTOMYCIN	2013	kg							998.5			
+42	Pennsylvania	STREPTOMYCIN	2014	kg							736.4			
+42	Pennsylvania	STREPTOMYCIN	2015	kg					10.8		1641.5			
+42	Pennsylvania	STREPTOMYCIN	2016	kg							1330.9			
+42	Pennsylvania	STREPTOMYCIN	2017	kg							3117.2			
+44	Rhode Island	STREPTOMYCIN	1995	kg							0.6			
+44	Rhode Island	STREPTOMYCIN	1997	kg							0.2			
+44	Rhode Island	STREPTOMYCIN	1998	kg							3.2			
+44	Rhode Island	STREPTOMYCIN	1999	kg							0.7			
+44	Rhode Island	STREPTOMYCIN	2000	kg							7.9			
+44	Rhode Island	STREPTOMYCIN	2001	kg							2.8			
+44	Rhode Island	STREPTOMYCIN	2002	kg							3.2			
+44	Rhode Island	STREPTOMYCIN	2003	kg							3.7			
+44	Rhode Island	STREPTOMYCIN	2004	kg							3.2			
+44	Rhode Island	STREPTOMYCIN	2005	kg							7.7			
+44	Rhode Island	STREPTOMYCIN	2006	kg							16.3			
+44	Rhode Island	STREPTOMYCIN	2007	kg							13.7			
+44	Rhode Island	STREPTOMYCIN	2008	kg							11.9			
+44	Rhode Island	STREPTOMYCIN	2009	kg							22.9			
+44	Rhode Island	STREPTOMYCIN	2010	kg							8.9			
+44	Rhode Island	STREPTOMYCIN	2011	kg							13.5			
+44	Rhode Island	STREPTOMYCIN	2012	kg							8.5			
+44	Rhode Island	STREPTOMYCIN	2013	kg							9.6			
+44	Rhode Island	STREPTOMYCIN	2014	kg							10.6			
+44	Rhode Island	STREPTOMYCIN	2015	kg							10			
+44	Rhode Island	STREPTOMYCIN	2016	kg							21			
+44	Rhode Island	STREPTOMYCIN	2017	kg							22.6			
+45	South Carolina	STREPTOMYCIN	1992	kg							263.1			
+45	South Carolina	STREPTOMYCIN	1993	kg							613.7			
+45	South Carolina	STREPTOMYCIN	1994	kg							9.6			
+45	South Carolina	STREPTOMYCIN	1995	kg							3.5			468.2
+45	South Carolina	STREPTOMYCIN	1996	kg							0.9			
+45	South Carolina	STREPTOMYCIN	1997	kg							7.3			
+45	South Carolina	STREPTOMYCIN	1998	kg							12.9			76
+45	South Carolina	STREPTOMYCIN	1999	kg							57.4			
+45	South Carolina	STREPTOMYCIN	2000	kg					0		247.1			
+45	South Carolina	STREPTOMYCIN	2001	kg					0		21.2			
+45	South Carolina	STREPTOMYCIN	2002	kg							28			
+45	South Carolina	STREPTOMYCIN	2003	kg							49			
+45	South Carolina	STREPTOMYCIN	2004	kg							66.4			
+45	South Carolina	STREPTOMYCIN	2005	kg							9.4			
+45	South Carolina	STREPTOMYCIN	2006	kg							32.1			
+45	South Carolina	STREPTOMYCIN	2007	kg							17.1			
+45	South Carolina	STREPTOMYCIN	2008	kg							36.7			
+45	South Carolina	STREPTOMYCIN	2009	kg							18.5			
+45	South Carolina	STREPTOMYCIN	2010	kg							50.5			
+45	South Carolina	STREPTOMYCIN	2011	kg							28			
+45	South Carolina	STREPTOMYCIN	2012	kg							27.1			
+45	South Carolina	STREPTOMYCIN	2013	kg							13			
+45	South Carolina	STREPTOMYCIN	2014	kg							5.4			
+45	South Carolina	STREPTOMYCIN	2015	kg							64.3			
+45	South Carolina	STREPTOMYCIN	2016	kg							34.8			
+45	South Carolina	STREPTOMYCIN	2017	kg							54.3			
+47	Tennessee	STREPTOMYCIN	1992	kg							101.7			2.1
+47	Tennessee	STREPTOMYCIN	1993	kg							91.2			288.6
+47	Tennessee	STREPTOMYCIN	1994	kg		15.4			5.7		2.4			117.9
+47	Tennessee	STREPTOMYCIN	1995	kg							584.3			208.2
+47	Tennessee	STREPTOMYCIN	1996	kg							0.4			1974.8
+47	Tennessee	STREPTOMYCIN	1997	kg							140.6			273.7
+47	Tennessee	STREPTOMYCIN	1998	kg							15			
+47	Tennessee	STREPTOMYCIN	1999	kg							24.6			
+47	Tennessee	STREPTOMYCIN	2000	kg							169.1			49.7
+47	Tennessee	STREPTOMYCIN	2001	kg							18.7			170.6
+47	Tennessee	STREPTOMYCIN	2002	kg							14.5			26.2
+47	Tennessee	STREPTOMYCIN	2003	kg							16.9			588.1
+47	Tennessee	STREPTOMYCIN	2004	kg							54.3			
+47	Tennessee	STREPTOMYCIN	2005	kg							11.3			
+47	Tennessee	STREPTOMYCIN	2006	kg							18.8			
+47	Tennessee	STREPTOMYCIN	2007	kg							56.8			15.3
+47	Tennessee	STREPTOMYCIN	2008	kg							22.8			1.4
+47	Tennessee	STREPTOMYCIN	2009	kg							25.2			100.3
+47	Tennessee	STREPTOMYCIN	2010	kg							36.6			55
+47	Tennessee	STREPTOMYCIN	2011	kg							26.3			26.9
+47	Tennessee	STREPTOMYCIN	2012	kg							24.4			129.1
+47	Tennessee	STREPTOMYCIN	2013	kg							13			
+47	Tennessee	STREPTOMYCIN	2014	kg							12			
+47	Tennessee	STREPTOMYCIN	2015	kg							77.7			
+47	Tennessee	STREPTOMYCIN	2016	kg							41.3			23.5
+47	Tennessee	STREPTOMYCIN	2017	kg							89.8			172.4
+48	Texas	STREPTOMYCIN	1998	kg					182.5					
+49	Utah	STREPTOMYCIN	1992	kg							0			
+49	Utah	STREPTOMYCIN	1993	kg							0.7			
+49	Utah	STREPTOMYCIN	1994	kg							1213.9			
+49	Utah	STREPTOMYCIN	1995	kg							3.1			
+49	Utah	STREPTOMYCIN	1996	kg							166.3			
+49	Utah	STREPTOMYCIN	1997	kg							13			
+49	Utah	STREPTOMYCIN	1998	kg							1883.3			
+49	Utah	STREPTOMYCIN	1999	kg							11			
+49	Utah	STREPTOMYCIN	2001	kg							25.9			
+49	Utah	STREPTOMYCIN	2002	kg							19			
+49	Utah	STREPTOMYCIN	2003	kg							96.8			
+49	Utah	STREPTOMYCIN	2004	kg							43.6			
+49	Utah	STREPTOMYCIN	2005	kg							0.7			
+49	Utah	STREPTOMYCIN	2006	kg							98.2			
+49	Utah	STREPTOMYCIN	2007	kg							25.6			
+49	Utah	STREPTOMYCIN	2008	kg							43.6			
+49	Utah	STREPTOMYCIN	2009	kg							7.7			
+49	Utah	STREPTOMYCIN	2010	kg							47			
+49	Utah	STREPTOMYCIN	2012	kg							35			
+49	Utah	STREPTOMYCIN	2013	kg							115.9			
+49	Utah	STREPTOMYCIN	2014	kg							61.8			
+49	Utah	STREPTOMYCIN	2015	kg							35.5			
+50	Vermont	STREPTOMYCIN	1995	kg							7.5			
+50	Vermont	STREPTOMYCIN	1997	kg							2.3			
+50	Vermont	STREPTOMYCIN	1998	kg							31.6			
+50	Vermont	STREPTOMYCIN	1999	kg							7.3			
+50	Vermont	STREPTOMYCIN	2000	kg							111.9			
+50	Vermont	STREPTOMYCIN	2001	kg							28.2			
+50	Vermont	STREPTOMYCIN	2002	kg							31.2			
+50	Vermont	STREPTOMYCIN	2003	kg							36.6			
+50	Vermont	STREPTOMYCIN	2004	kg							28.9			
+50	Vermont	STREPTOMYCIN	2005	kg							68			
+50	Vermont	STREPTOMYCIN	2006	kg							138.1			
+50	Vermont	STREPTOMYCIN	2007	kg							112.7			
+50	Vermont	STREPTOMYCIN	2008	kg							99.2			
+50	Vermont	STREPTOMYCIN	2009	kg							112.6			
+50	Vermont	STREPTOMYCIN	2010	kg							33.2			
+50	Vermont	STREPTOMYCIN	2011	kg							104.3			
+50	Vermont	STREPTOMYCIN	2012	kg							63.2			
+50	Vermont	STREPTOMYCIN	2013	kg							78.9			
+50	Vermont	STREPTOMYCIN	2014	kg							52.2			
+50	Vermont	STREPTOMYCIN	2015	kg							94.4			
+50	Vermont	STREPTOMYCIN	2016	kg							110.4			
+50	Vermont	STREPTOMYCIN	2017	kg							255.4			
+51	Virginia	STREPTOMYCIN	1992	kg							735.3			
+51	Virginia	STREPTOMYCIN	1993	kg							188			73.2
+51	Virginia	STREPTOMYCIN	1994	kg							154.1			
+51	Virginia	STREPTOMYCIN	1995	kg							93.6			0.3
+51	Virginia	STREPTOMYCIN	1996	kg							36			227
+51	Virginia	STREPTOMYCIN	1997	kg							1231.4			7
+51	Virginia	STREPTOMYCIN	1998	kg							567.5			
+51	Virginia	STREPTOMYCIN	1999	kg							357.3			
+51	Virginia	STREPTOMYCIN	2000	kg							657.5			15.6
+51	Virginia	STREPTOMYCIN	2001	kg							187.3			32.2
+51	Virginia	STREPTOMYCIN	2002	kg							205.3			3.2
+51	Virginia	STREPTOMYCIN	2003	kg							223			59.7
+51	Virginia	STREPTOMYCIN	2004	kg							555.1			
+51	Virginia	STREPTOMYCIN	2005	kg							328.6			
+51	Virginia	STREPTOMYCIN	2006	kg							95.5			
+51	Virginia	STREPTOMYCIN	2007	kg							1565			
+51	Virginia	STREPTOMYCIN	2008	kg							124.4			
+51	Virginia	STREPTOMYCIN	2009	kg							904.5			
+51	Virginia	STREPTOMYCIN	2010	kg							490.6			191.9
+51	Virginia	STREPTOMYCIN	2011	kg							242.2			
+51	Virginia	STREPTOMYCIN	2012	kg							162.2			
+51	Virginia	STREPTOMYCIN	2013	kg							323.5			
+51	Virginia	STREPTOMYCIN	2014	kg							540.5			
+51	Virginia	STREPTOMYCIN	2015	kg							1103			
+51	Virginia	STREPTOMYCIN	2016	kg							2497.9			
+51	Virginia	STREPTOMYCIN	2017	kg							4301.8			
+53	Washington	STREPTOMYCIN	1992	kg							69.2			
+53	Washington	STREPTOMYCIN	1996	kg							36677.2			
+53	Washington	STREPTOMYCIN	1997	kg							7710.1			
+53	Washington	STREPTOMYCIN	1998	kg							899.2			
+53	Washington	STREPTOMYCIN	1999	kg							185.8			
+53	Washington	STREPTOMYCIN	2000	kg							1678.7			
+53	Washington	STREPTOMYCIN	2001	kg							1174.4			
+53	Washington	STREPTOMYCIN	2002	kg							2643.8			
+53	Washington	STREPTOMYCIN	2003	kg							6085.6			
+53	Washington	STREPTOMYCIN	2004	kg							3326.1			
+53	Washington	STREPTOMYCIN	2005	kg							30088.4			
+53	Washington	STREPTOMYCIN	2006	kg							18709.1			
+53	Washington	STREPTOMYCIN	2007	kg							18955.9			
+53	Washington	STREPTOMYCIN	2008	kg							2513.7			
+53	Washington	STREPTOMYCIN	2009	kg							1151.9			
+53	Washington	STREPTOMYCIN	2010	kg							2224			
+53	Washington	STREPTOMYCIN	2011	kg							2276.5			
+53	Washington	STREPTOMYCIN	2012	kg							521			
+53	Washington	STREPTOMYCIN	2013	kg							7608.4			
+53	Washington	STREPTOMYCIN	2014	kg							8178.6			
+53	Washington	STREPTOMYCIN	2015	kg							754			
+53	Washington	STREPTOMYCIN	2016	kg							158.7			
+53	Washington	STREPTOMYCIN	2017	kg							438.8			
+54	West Virginia	STREPTOMYCIN	1992	kg							336.3			
+54	West Virginia	STREPTOMYCIN	1993	kg							795.2			11.1
+54	West Virginia	STREPTOMYCIN	1994	kg							61.7			
+54	West Virginia	STREPTOMYCIN	1995	kg							20.8			0.7
+54	West Virginia	STREPTOMYCIN	1996	kg							39.6			33.9
+54	West Virginia	STREPTOMYCIN	1997	kg							432.1			0.9
+54	West Virginia	STREPTOMYCIN	1998	kg							141.1			
+54	West Virginia	STREPTOMYCIN	1999	kg							274.2			
+54	West Virginia	STREPTOMYCIN	2000	kg							173.4			
+54	West Virginia	STREPTOMYCIN	2001	kg							109.2			0.7
+54	West Virginia	STREPTOMYCIN	2002	kg							334.4			2.2
+54	West Virginia	STREPTOMYCIN	2003	kg							106.2			11
+54	West Virginia	STREPTOMYCIN	2004	kg							42.8			
+54	West Virginia	STREPTOMYCIN	2005	kg							16.5			
+54	West Virginia	STREPTOMYCIN	2006	kg							53.9			
+54	West Virginia	STREPTOMYCIN	2007	kg							719.1			
+54	West Virginia	STREPTOMYCIN	2008	kg							61.5			
+54	West Virginia	STREPTOMYCIN	2009	kg							295.8			
+54	West Virginia	STREPTOMYCIN	2010	kg							169.1			0.4
+54	West Virginia	STREPTOMYCIN	2011	kg							301.7			
+54	West Virginia	STREPTOMYCIN	2012	kg							63.9			0.6
+54	West Virginia	STREPTOMYCIN	2013	kg							94			
+54	West Virginia	STREPTOMYCIN	2014	kg							364.3			
+54	West Virginia	STREPTOMYCIN	2015	kg							261.4			
+54	West Virginia	STREPTOMYCIN	2016	kg							349.7			
+54	West Virginia	STREPTOMYCIN	2017	kg							699.2			
+55	Wisconsin	STREPTOMYCIN	1992	kg							79.4			
+55	Wisconsin	STREPTOMYCIN	1993	kg							1762.7			
+55	Wisconsin	STREPTOMYCIN	1994	kg							180.9			
+55	Wisconsin	STREPTOMYCIN	1995	kg							4.3			
+55	Wisconsin	STREPTOMYCIN	1996	kg							264.9			
+55	Wisconsin	STREPTOMYCIN	1997	kg							23.7			
+55	Wisconsin	STREPTOMYCIN	1998	kg							946.4			
+55	Wisconsin	STREPTOMYCIN	1999	kg							207.5			
+55	Wisconsin	STREPTOMYCIN	2000	kg							83.3			
+55	Wisconsin	STREPTOMYCIN	2001	kg							320.4			
+55	Wisconsin	STREPTOMYCIN	2002	kg							40			
+55	Wisconsin	STREPTOMYCIN	2003	kg							181.1			
+55	Wisconsin	STREPTOMYCIN	2004	kg							166.8			
+55	Wisconsin	STREPTOMYCIN	2005	kg							179.6			
+55	Wisconsin	STREPTOMYCIN	2006	kg							65.2			
+55	Wisconsin	STREPTOMYCIN	2007	kg							326.1			
+55	Wisconsin	STREPTOMYCIN	2008	kg							108.6			
+55	Wisconsin	STREPTOMYCIN	2009	kg					84.8		125.6			
+55	Wisconsin	STREPTOMYCIN	2010	kg							188.1			
+55	Wisconsin	STREPTOMYCIN	2011	kg							184.4			
+55	Wisconsin	STREPTOMYCIN	2012	kg							246.7			
+55	Wisconsin	STREPTOMYCIN	2013	kg							284			
+55	Wisconsin	STREPTOMYCIN	2014	kg							307.3			
+55	Wisconsin	STREPTOMYCIN	2015	kg							314.2			
+55	Wisconsin	STREPTOMYCIN	2016	kg							173.5			
+55	Wisconsin	STREPTOMYCIN	2017	kg							185.7			

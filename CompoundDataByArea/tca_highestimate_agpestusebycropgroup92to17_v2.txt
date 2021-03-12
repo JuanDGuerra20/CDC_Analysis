@@ -1,0 +1,4 @@
+06	California	TCA	1995	kg							0.2			
+06	California	TCA	2008	kg							0.3			
+06	California	TCA	2009	kg							0.5			
+26	Michigan	TCA	1993	kg										192.3

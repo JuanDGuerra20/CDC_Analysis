@@ -1,0 +1,391 @@
+01	Alabama	MESOSULFURON	2005	kg			1.3							
+01	Alabama	MESOSULFURON	2006	kg			0.9							
+01	Alabama	MESOSULFURON	2007	kg			37.2							
+01	Alabama	MESOSULFURON	2008	kg			129.2							
+01	Alabama	MESOSULFURON	2009	kg			114.7							
+01	Alabama	MESOSULFURON	2010	kg			111.8							
+01	Alabama	MESOSULFURON	2011	kg			62.5							
+01	Alabama	MESOSULFURON	2012	kg			38.2							
+01	Alabama	MESOSULFURON	2013	kg			37.7							
+01	Alabama	MESOSULFURON	2014	kg			69.3							
+01	Alabama	MESOSULFURON	2015	kg			14.6							
+01	Alabama	MESOSULFURON	2016	kg			64.4							
+01	Alabama	MESOSULFURON	2017	kg			12.2							
+04	Arizona	MESOSULFURON	2013	kg			2.7							
+04	Arizona	MESOSULFURON	2014	kg			13.6							
+04	Arizona	MESOSULFURON	2015	kg			6.8							
+04	Arizona	MESOSULFURON	2016	kg			39							
+05	Arkansas	MESOSULFURON	2005	kg			71.6							
+05	Arkansas	MESOSULFURON	2006	kg			171							
+05	Arkansas	MESOSULFURON	2007	kg			152.2							
+05	Arkansas	MESOSULFURON	2008	kg			266.6							
+05	Arkansas	MESOSULFURON	2009	kg			144.9							
+05	Arkansas	MESOSULFURON	2010	kg			1.6							
+05	Arkansas	MESOSULFURON	2011	kg			526							
+05	Arkansas	MESOSULFURON	2012	kg			604.8							
+05	Arkansas	MESOSULFURON	2013	kg			259.5							
+05	Arkansas	MESOSULFURON	2016	kg			77.3							
+06	California	MESOSULFURON	2004	kg			0.1							
+06	California	MESOSULFURON	2005	kg			121				0.5			
+06	California	MESOSULFURON	2006	kg			197.7				0.2			2
+06	California	MESOSULFURON	2007	kg			369.6				0.5			
+06	California	MESOSULFURON	2008	kg			559.2					1.1	0	10.9
+06	California	MESOSULFURON	2009	kg			340.6						0.1	11.7
+06	California	MESOSULFURON	2010	kg			404.6		0.2					7.3
+06	California	MESOSULFURON	2011	kg			551		0.7					7.6
+06	California	MESOSULFURON	2012	kg			470.3					0.9		12.9
+06	California	MESOSULFURON	2013	kg			356.4				0		0.2	28.8
+06	California	MESOSULFURON	2014	kg			274.9						0.1	17.2
+06	California	MESOSULFURON	2015	kg			307		0.1				0	28.2
+06	California	MESOSULFURON	2016	kg			178.5						2.1	20.9
+06	California	MESOSULFURON	2017	kg	0.1		107.2						1	0.9
+08	Colorado	MESOSULFURON	2005	kg			227.7							
+08	Colorado	MESOSULFURON	2006	kg			13.9							
+08	Colorado	MESOSULFURON	2007	kg			113.1							
+08	Colorado	MESOSULFURON	2008	kg			37.2							
+08	Colorado	MESOSULFURON	2009	kg			98.2							
+08	Colorado	MESOSULFURON	2010	kg			83.8							
+08	Colorado	MESOSULFURON	2011	kg			77.7							
+08	Colorado	MESOSULFURON	2012	kg			520.8							
+08	Colorado	MESOSULFURON	2013	kg			128.9							
+08	Colorado	MESOSULFURON	2014	kg			477.4							
+08	Colorado	MESOSULFURON	2015	kg			102.5							
+08	Colorado	MESOSULFURON	2016	kg			141.3							
+08	Colorado	MESOSULFURON	2017	kg			431.5							
+12	Florida	MESOSULFURON	2011	kg			20.3							
+12	Florida	MESOSULFURON	2012	kg			6.4							
+12	Florida	MESOSULFURON	2014	kg			2.7							
+12	Florida	MESOSULFURON	2016	kg			14.5							
+13	Georgia	MESOSULFURON	2005	kg			167.2							
+13	Georgia	MESOSULFURON	2006	kg			160							
+13	Georgia	MESOSULFURON	2007	kg			167.5							
+13	Georgia	MESOSULFURON	2008	kg			655.9							
+13	Georgia	MESOSULFURON	2009	kg			436.4							
+13	Georgia	MESOSULFURON	2010	kg			398.1							
+13	Georgia	MESOSULFURON	2011	kg			313.5							
+13	Georgia	MESOSULFURON	2012	kg			96.3							
+13	Georgia	MESOSULFURON	2013	kg			93.3							
+13	Georgia	MESOSULFURON	2014	kg			798.1							
+13	Georgia	MESOSULFURON	2015	kg			22.5							
+13	Georgia	MESOSULFURON	2016	kg			93.5							
+13	Georgia	MESOSULFURON	2017	kg			8.2							
+16	Idaho	MESOSULFURON	2004	kg			42.7							
+16	Idaho	MESOSULFURON	2005	kg			2770.3		58.1			88.4		323.2
+16	Idaho	MESOSULFURON	2006	kg			492							
+16	Idaho	MESOSULFURON	2007	kg			411.1						1.2	
+16	Idaho	MESOSULFURON	2008	kg			283.7							
+16	Idaho	MESOSULFURON	2009	kg			337.9							
+16	Idaho	MESOSULFURON	2010	kg			342.6							
+16	Idaho	MESOSULFURON	2011	kg			454.9							
+16	Idaho	MESOSULFURON	2012	kg			424.4							
+16	Idaho	MESOSULFURON	2013	kg			454.4							
+16	Idaho	MESOSULFURON	2014	kg			744.5							
+16	Idaho	MESOSULFURON	2015	kg			473.9							
+16	Idaho	MESOSULFURON	2016	kg			569.4							
+16	Idaho	MESOSULFURON	2017	kg			1260.7							
+17	Illinois	MESOSULFURON	2005	kg			511.4							
+17	Illinois	MESOSULFURON	2006	kg			1268.2							
+17	Illinois	MESOSULFURON	2007	kg			69.7							
+17	Illinois	MESOSULFURON	2008	kg			117.1							
+17	Illinois	MESOSULFURON	2009	kg			111.5							
+17	Illinois	MESOSULFURON	2010	kg			22.6							
+17	Illinois	MESOSULFURON	2011	kg			22.6							
+17	Illinois	MESOSULFURON	2012	kg			390.9							
+17	Illinois	MESOSULFURON	2013	kg			495.8							
+17	Illinois	MESOSULFURON	2016	kg			133.8							
+18	Indiana	MESOSULFURON	2008	kg			33.1							
+18	Indiana	MESOSULFURON	2009	kg			26.6							
+18	Indiana	MESOSULFURON	2010	kg			7.3							
+18	Indiana	MESOSULFURON	2011	kg			0.7							
+18	Indiana	MESOSULFURON	2012	kg			45.4							
+19	Iowa	MESOSULFURON	2008	kg			1.5							
+19	Iowa	MESOSULFURON	2009	kg			0.9							
+19	Iowa	MESOSULFURON	2010	kg			0.1							
+19	Iowa	MESOSULFURON	2012	kg			0.2							
+20	Kansas	MESOSULFURON	2005	kg			1083.3							
+20	Kansas	MESOSULFURON	2007	kg			363.7							
+20	Kansas	MESOSULFURON	2008	kg			1633.8							
+20	Kansas	MESOSULFURON	2009	kg			401.6							
+20	Kansas	MESOSULFURON	2010	kg			200.6							
+20	Kansas	MESOSULFURON	2011	kg			315.6							
+20	Kansas	MESOSULFURON	2012	kg			529.7							
+20	Kansas	MESOSULFURON	2013	kg			481							
+20	Kansas	MESOSULFURON	2014	kg			627.4							
+20	Kansas	MESOSULFURON	2015	kg			23.1							
+20	Kansas	MESOSULFURON	2016	kg			227.1							
+20	Kansas	MESOSULFURON	2017	kg			597.7							
+21	Kentucky	MESOSULFURON	2005	kg			530.7							
+21	Kentucky	MESOSULFURON	2006	kg			860.3							
+21	Kentucky	MESOSULFURON	2007	kg			35.1							
+21	Kentucky	MESOSULFURON	2008	kg			90.7							
+21	Kentucky	MESOSULFURON	2009	kg			78.1							
+21	Kentucky	MESOSULFURON	2010	kg			19.6							
+21	Kentucky	MESOSULFURON	2011	kg			11.3							
+21	Kentucky	MESOSULFURON	2012	kg			295.8							
+21	Kentucky	MESOSULFURON	2013	kg			326.9							
+21	Kentucky	MESOSULFURON	2016	kg			80.1							
+22	Louisiana	MESOSULFURON	2005	kg			16.8							
+22	Louisiana	MESOSULFURON	2006	kg			17.9							
+22	Louisiana	MESOSULFURON	2007	kg			14.7							
+22	Louisiana	MESOSULFURON	2009	kg			19.6							
+22	Louisiana	MESOSULFURON	2012	kg			169.4							
+22	Louisiana	MESOSULFURON	2016	kg			15.1							
+24	Maryland	MESOSULFURON	2005	kg			8.5							
+24	Maryland	MESOSULFURON	2006	kg			2.9							
+24	Maryland	MESOSULFURON	2007	kg			31.6							
+24	Maryland	MESOSULFURON	2008	kg			58.9							
+24	Maryland	MESOSULFURON	2009	kg			35.1							
+24	Maryland	MESOSULFURON	2010	kg			10.2							
+24	Maryland	MESOSULFURON	2011	kg			8.9							
+24	Maryland	MESOSULFURON	2012	kg			27.8							
+24	Maryland	MESOSULFURON	2013	kg			20.5							
+24	Maryland	MESOSULFURON	2014	kg			2.6							
+24	Maryland	MESOSULFURON	2015	kg			5.9							
+24	Maryland	MESOSULFURON	2016	kg			10.7							
+24	Maryland	MESOSULFURON	2017	kg			4.6							
+26	Michigan	MESOSULFURON	2011	kg			6.6							
+26	Michigan	MESOSULFURON	2014	kg			120.7							
+26	Michigan	MESOSULFURON	2015	kg			251.4							
+26	Michigan	MESOSULFURON	2017	kg			109.8							
+27	Minnesota	MESOSULFURON	2004	kg			7.7							
+27	Minnesota	MESOSULFURON	2005	kg			203.7							
+27	Minnesota	MESOSULFURON	2006	kg			88.4							
+27	Minnesota	MESOSULFURON	2007	kg			94.9							
+27	Minnesota	MESOSULFURON	2008	kg			145.1							
+27	Minnesota	MESOSULFURON	2009	kg			136.4							
+27	Minnesota	MESOSULFURON	2010	kg			172.6							
+27	Minnesota	MESOSULFURON	2011	kg			204.3							
+27	Minnesota	MESOSULFURON	2012	kg			88.9							
+27	Minnesota	MESOSULFURON	2013	kg			67.7							
+27	Minnesota	MESOSULFURON	2014	kg			20.7							
+27	Minnesota	MESOSULFURON	2015	kg			56							
+27	Minnesota	MESOSULFURON	2016	kg			34.1							
+27	Minnesota	MESOSULFURON	2017	kg			22.3							
+28	Mississippi	MESOSULFURON	2005	kg			15.8							
+28	Mississippi	MESOSULFURON	2006	kg			22.4							
+28	Mississippi	MESOSULFURON	2007	kg			32.9							
+28	Mississippi	MESOSULFURON	2008	kg			70.9							
+28	Mississippi	MESOSULFURON	2009	kg			24.2							
+28	Mississippi	MESOSULFURON	2011	kg			207.8							
+28	Mississippi	MESOSULFURON	2012	kg			350.9							
+28	Mississippi	MESOSULFURON	2016	kg			33.5							
+29	Missouri	MESOSULFURON	2005	kg			245.9							
+29	Missouri	MESOSULFURON	2006	kg			451.9							
+29	Missouri	MESOSULFURON	2007	kg			93.2							
+29	Missouri	MESOSULFURON	2008	kg			137.3							
+29	Missouri	MESOSULFURON	2009	kg			156.6							
+29	Missouri	MESOSULFURON	2010	kg			21.3							
+29	Missouri	MESOSULFURON	2011	kg			44.7							
+29	Missouri	MESOSULFURON	2012	kg			336.4							
+29	Missouri	MESOSULFURON	2013	kg			687.4							
+29	Missouri	MESOSULFURON	2016	kg			213.2							
+30	Montana	MESOSULFURON	2004	kg			10.6							
+30	Montana	MESOSULFURON	2005	kg			2493.4		2.9			169.6		416.8
+30	Montana	MESOSULFURON	2006	kg			135.1							
+30	Montana	MESOSULFURON	2007	kg			552.8							
+30	Montana	MESOSULFURON	2008	kg			287.7							
+30	Montana	MESOSULFURON	2009	kg			381.5							10.5
+30	Montana	MESOSULFURON	2010	kg			320.5							
+30	Montana	MESOSULFURON	2011	kg			135.3						29.6	
+30	Montana	MESOSULFURON	2012	kg			342.4							
+30	Montana	MESOSULFURON	2013	kg			157.4							
+30	Montana	MESOSULFURON	2014	kg			701.5							
+30	Montana	MESOSULFURON	2015	kg			2001.7							
+30	Montana	MESOSULFURON	2016	kg			961.5							
+30	Montana	MESOSULFURON	2017	kg			383							
+31	Nebraska	MESOSULFURON	2005	kg			139.3							
+31	Nebraska	MESOSULFURON	2006	kg			24.1							
+31	Nebraska	MESOSULFURON	2007	kg			110							
+31	Nebraska	MESOSULFURON	2008	kg			88.7							
+31	Nebraska	MESOSULFURON	2009	kg			101							
+31	Nebraska	MESOSULFURON	2010	kg			100.1							
+31	Nebraska	MESOSULFURON	2011	kg			65.7							
+31	Nebraska	MESOSULFURON	2012	kg			144.1							
+31	Nebraska	MESOSULFURON	2013	kg			46.1							
+31	Nebraska	MESOSULFURON	2014	kg			260.4							
+31	Nebraska	MESOSULFURON	2015	kg			0.5							
+31	Nebraska	MESOSULFURON	2017	kg			110.8							
+32	Nevada	MESOSULFURON	2005	kg			5.1							
+32	Nevada	MESOSULFURON	2006	kg			0.6							
+32	Nevada	MESOSULFURON	2007	kg			2.3							
+32	Nevada	MESOSULFURON	2008	kg			1.3							
+32	Nevada	MESOSULFURON	2009	kg			1.5							
+32	Nevada	MESOSULFURON	2010	kg			5.5							
+32	Nevada	MESOSULFURON	2011	kg			5							
+32	Nevada	MESOSULFURON	2012	kg			9.5							
+32	Nevada	MESOSULFURON	2013	kg			6.3							
+32	Nevada	MESOSULFURON	2014	kg			26.7							
+32	Nevada	MESOSULFURON	2015	kg			9.7							
+32	Nevada	MESOSULFURON	2016	kg			10.8							
+32	Nevada	MESOSULFURON	2017	kg			5.5							
+35	New Mexico	MESOSULFURON	2005	kg			35.2							
+35	New Mexico	MESOSULFURON	2007	kg			6.9							
+35	New Mexico	MESOSULFURON	2008	kg			21.3							
+35	New Mexico	MESOSULFURON	2009	kg			1.3							
+35	New Mexico	MESOSULFURON	2010	kg			7.5							
+35	New Mexico	MESOSULFURON	2011	kg			3.4							
+35	New Mexico	MESOSULFURON	2012	kg			19.7							
+35	New Mexico	MESOSULFURON	2013	kg			6.2							
+35	New Mexico	MESOSULFURON	2014	kg			12.8							
+35	New Mexico	MESOSULFURON	2017	kg			12.3							
+37	North Carolina	MESOSULFURON	2005	kg			416.1							
+37	North Carolina	MESOSULFURON	2006	kg			171.1							
+37	North Carolina	MESOSULFURON	2007	kg			801.1							
+37	North Carolina	MESOSULFURON	2008	kg			3372.5							
+37	North Carolina	MESOSULFURON	2009	kg			970.9							
+37	North Carolina	MESOSULFURON	2010	kg			612.8							
+37	North Carolina	MESOSULFURON	2011	kg			481.7							
+37	North Carolina	MESOSULFURON	2012	kg			934.8							
+37	North Carolina	MESOSULFURON	2013	kg			169.3							
+37	North Carolina	MESOSULFURON	2014	kg			322.1							
+37	North Carolina	MESOSULFURON	2015	kg			808.5							
+37	North Carolina	MESOSULFURON	2016	kg			73.6							
+37	North Carolina	MESOSULFURON	2017	kg			72.8							
+38	North Dakota	MESOSULFURON	2004	kg			28.8							
+38	North Dakota	MESOSULFURON	2005	kg			407.2							
+38	North Dakota	MESOSULFURON	2006	kg			249.9							
+38	North Dakota	MESOSULFURON	2007	kg			184.4							
+38	North Dakota	MESOSULFURON	2008	kg			183.6							
+38	North Dakota	MESOSULFURON	2009	kg			319.8							
+38	North Dakota	MESOSULFURON	2010	kg			377.5							
+38	North Dakota	MESOSULFURON	2011	kg			229.9						1.2	
+38	North Dakota	MESOSULFURON	2012	kg			543							
+38	North Dakota	MESOSULFURON	2013	kg			766.4							
+38	North Dakota	MESOSULFURON	2014	kg			301.4							
+38	North Dakota	MESOSULFURON	2015	kg			414.6							
+38	North Dakota	MESOSULFURON	2016	kg			323.6							
+38	North Dakota	MESOSULFURON	2017	kg			221.1							
+39	Ohio	MESOSULFURON	2008	kg			93.6							
+39	Ohio	MESOSULFURON	2009	kg			77							
+39	Ohio	MESOSULFURON	2010	kg			27							
+39	Ohio	MESOSULFURON	2011	kg			3.5							
+39	Ohio	MESOSULFURON	2012	kg			104							
+40	Oklahoma	MESOSULFURON	2003	kg			2.4							
+40	Oklahoma	MESOSULFURON	2005	kg			343.9							
+40	Oklahoma	MESOSULFURON	2006	kg			87.2							
+40	Oklahoma	MESOSULFURON	2007	kg			221							
+40	Oklahoma	MESOSULFURON	2008	kg			889.4							
+40	Oklahoma	MESOSULFURON	2009	kg			94.7							
+40	Oklahoma	MESOSULFURON	2010	kg			130.6							
+40	Oklahoma	MESOSULFURON	2011	kg			263.6							
+40	Oklahoma	MESOSULFURON	2012	kg			161.9							
+40	Oklahoma	MESOSULFURON	2013	kg			150.1							
+40	Oklahoma	MESOSULFURON	2014	kg			153.9							
+40	Oklahoma	MESOSULFURON	2017	kg			313.8							
+41	Oregon	MESOSULFURON	2004	kg			80.5							
+41	Oregon	MESOSULFURON	2005	kg			374.2							
+41	Oregon	MESOSULFURON	2006	kg			430.8							
+41	Oregon	MESOSULFURON	2007	kg			142.9							
+41	Oregon	MESOSULFURON	2008	kg			93.6							
+41	Oregon	MESOSULFURON	2009	kg			258.7							
+41	Oregon	MESOSULFURON	2010	kg			159.3							
+41	Oregon	MESOSULFURON	2011	kg			451.6							
+41	Oregon	MESOSULFURON	2012	kg			850.1							
+41	Oregon	MESOSULFURON	2013	kg			1043.5							
+41	Oregon	MESOSULFURON	2014	kg			1502.1							
+41	Oregon	MESOSULFURON	2015	kg			1368.8							
+41	Oregon	MESOSULFURON	2016	kg			1160.7							
+41	Oregon	MESOSULFURON	2017	kg			995.2							
+45	South Carolina	MESOSULFURON	2005	kg			141.1							
+45	South Carolina	MESOSULFURON	2006	kg			41.3							
+45	South Carolina	MESOSULFURON	2007	kg			71.9							
+45	South Carolina	MESOSULFURON	2008	kg			722.9							
+45	South Carolina	MESOSULFURON	2009	kg			152.4							
+45	South Carolina	MESOSULFURON	2010	kg			187.1							
+45	South Carolina	MESOSULFURON	2011	kg			112.8							
+45	South Carolina	MESOSULFURON	2012	kg			127.3							
+45	South Carolina	MESOSULFURON	2013	kg			41.9							
+45	South Carolina	MESOSULFURON	2014	kg			324.6							
+45	South Carolina	MESOSULFURON	2015	kg			21.8							
+45	South Carolina	MESOSULFURON	2016	kg			10.5							
+45	South Carolina	MESOSULFURON	2017	kg			7.8							
+46	South Dakota	MESOSULFURON	2004	kg			4.6							
+46	South Dakota	MESOSULFURON	2005	kg			76.6							
+46	South Dakota	MESOSULFURON	2006	kg			47.2							
+46	South Dakota	MESOSULFURON	2007	kg			152.6							
+46	South Dakota	MESOSULFURON	2008	kg			782							
+46	South Dakota	MESOSULFURON	2009	kg			245.5							
+46	South Dakota	MESOSULFURON	2010	kg			133.6							
+46	South Dakota	MESOSULFURON	2011	kg			33.5							
+46	South Dakota	MESOSULFURON	2012	kg			162.1							
+46	South Dakota	MESOSULFURON	2013	kg			121.7							
+46	South Dakota	MESOSULFURON	2014	kg			270.6							
+46	South Dakota	MESOSULFURON	2015	kg			50.5							
+46	South Dakota	MESOSULFURON	2016	kg			54.5							
+46	South Dakota	MESOSULFURON	2017	kg			408.9							
+47	Tennessee	MESOSULFURON	2005	kg			63.4							
+47	Tennessee	MESOSULFURON	2006	kg			85.8							
+47	Tennessee	MESOSULFURON	2007	kg			55.9							
+47	Tennessee	MESOSULFURON	2008	kg			45.1							
+47	Tennessee	MESOSULFURON	2009	kg			71							
+47	Tennessee	MESOSULFURON	2011	kg			118.8							
+47	Tennessee	MESOSULFURON	2012	kg			201.7							
+47	Tennessee	MESOSULFURON	2013	kg			193.3							
+47	Tennessee	MESOSULFURON	2016	kg			209							
+48	Texas	MESOSULFURON	2003	kg			0.3							
+48	Texas	MESOSULFURON	2005	kg			1020							
+48	Texas	MESOSULFURON	2006	kg			9							
+48	Texas	MESOSULFURON	2007	kg			124.1							
+48	Texas	MESOSULFURON	2008	kg			559.5							
+48	Texas	MESOSULFURON	2009	kg			42.7							
+48	Texas	MESOSULFURON	2010	kg			110.5							
+48	Texas	MESOSULFURON	2011	kg			125.2							
+48	Texas	MESOSULFURON	2012	kg			219.5							
+48	Texas	MESOSULFURON	2013	kg			203.8							
+48	Texas	MESOSULFURON	2014	kg			347.6							
+48	Texas	MESOSULFURON	2017	kg			216.1							
+49	Utah	MESOSULFURON	2005	kg			193.5							
+49	Utah	MESOSULFURON	2006	kg			5.9							
+49	Utah	MESOSULFURON	2007	kg			15.6							
+49	Utah	MESOSULFURON	2008	kg			8							
+49	Utah	MESOSULFURON	2009	kg			34.3							
+49	Utah	MESOSULFURON	2010	kg			21.8							
+49	Utah	MESOSULFURON	2011	kg			24.2							
+49	Utah	MESOSULFURON	2012	kg			27.2							
+49	Utah	MESOSULFURON	2013	kg			34.7							
+49	Utah	MESOSULFURON	2014	kg			151.3							
+49	Utah	MESOSULFURON	2015	kg			64.9							
+49	Utah	MESOSULFURON	2016	kg			75.2							
+49	Utah	MESOSULFURON	2017	kg			102.6							
+51	Virginia	MESOSULFURON	2005	kg			47.7							
+51	Virginia	MESOSULFURON	2006	kg			50.6							
+51	Virginia	MESOSULFURON	2007	kg			165.1							
+51	Virginia	MESOSULFURON	2008	kg			637.3							
+51	Virginia	MESOSULFURON	2009	kg			340.5							
+51	Virginia	MESOSULFURON	2010	kg			200.7							
+51	Virginia	MESOSULFURON	2011	kg			85.9							
+51	Virginia	MESOSULFURON	2012	kg			162.1							
+51	Virginia	MESOSULFURON	2013	kg			130.8							
+51	Virginia	MESOSULFURON	2014	kg			50.8							
+51	Virginia	MESOSULFURON	2015	kg			97.7							
+51	Virginia	MESOSULFURON	2016	kg			39.9							
+51	Virginia	MESOSULFURON	2017	kg			23.5							
+53	Washington	MESOSULFURON	2004	kg			242.7							
+53	Washington	MESOSULFURON	2005	kg			1074.6							
+53	Washington	MESOSULFURON	2006	kg			2127.8							
+53	Washington	MESOSULFURON	2007	kg			1392.8						40.7	
+53	Washington	MESOSULFURON	2008	kg			637.4						51.3	
+53	Washington	MESOSULFURON	2009	kg			675.1							
+53	Washington	MESOSULFURON	2010	kg			189.2							
+53	Washington	MESOSULFURON	2011	kg			810.2							
+53	Washington	MESOSULFURON	2012	kg			871.4							
+53	Washington	MESOSULFURON	2013	kg			1377.4							
+53	Washington	MESOSULFURON	2014	kg			2792.1							
+53	Washington	MESOSULFURON	2015	kg			1295							
+53	Washington	MESOSULFURON	2016	kg			1134							
+53	Washington	MESOSULFURON	2017	kg			208							
+55	Wisconsin	MESOSULFURON	2011	kg			23.9							
+56	Wyoming	MESOSULFURON	2004	kg			0							
+56	Wyoming	MESOSULFURON	2005	kg			10.9							
+56	Wyoming	MESOSULFURON	2006	kg			0.3							
+56	Wyoming	MESOSULFURON	2007	kg			6.3							
+56	Wyoming	MESOSULFURON	2008	kg			4.3							
+56	Wyoming	MESOSULFURON	2009	kg			2.2							
+56	Wyoming	MESOSULFURON	2010	kg			5.1							
+56	Wyoming	MESOSULFURON	2011	kg			0.7							
+56	Wyoming	MESOSULFURON	2012	kg			1.8							
+56	Wyoming	MESOSULFURON	2013	kg			9.2							
+56	Wyoming	MESOSULFURON	2014	kg			83							
+56	Wyoming	MESOSULFURON	2015	kg			27.1							
+56	Wyoming	MESOSULFURON	2016	kg			36.8							
+56	Wyoming	MESOSULFURON	2017	kg			97.1							

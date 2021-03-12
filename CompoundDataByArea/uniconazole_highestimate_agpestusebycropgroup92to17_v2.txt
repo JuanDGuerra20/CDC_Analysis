@@ -1,0 +1,10 @@
+06	California	UNICONAZOLE	2008	kg							0.2			
+06	California	UNICONAZOLE	2009	kg							0.1			
+06	California	UNICONAZOLE	2010	kg							0.1			
+06	California	UNICONAZOLE	2011	kg							0.1			
+06	California	UNICONAZOLE	2012	kg							0.1			
+06	California	UNICONAZOLE	2013	kg					0		0.7			
+06	California	UNICONAZOLE	2014	kg					0		0.2			
+06	California	UNICONAZOLE	2015	kg					0		0.1			
+06	California	UNICONAZOLE	2016	kg					0		0.2			
+06	California	UNICONAZOLE	2017	kg					0		0.2			

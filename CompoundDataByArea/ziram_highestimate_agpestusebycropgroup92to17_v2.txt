@@ -1,0 +1,929 @@
+01	Alabama	ZIRAM	1992	kg							1392.8			
+01	Alabama	ZIRAM	1993	kg							182			
+01	Alabama	ZIRAM	1994	kg							10106.1			
+01	Alabama	ZIRAM	1995	kg							1121.5			
+01	Alabama	ZIRAM	1996	kg							4211.4			
+01	Alabama	ZIRAM	1997	kg							7528.8			0.5
+01	Alabama	ZIRAM	1998	kg							2098.1			
+01	Alabama	ZIRAM	1999	kg							1735			
+01	Alabama	ZIRAM	2000	kg							3106.1			
+01	Alabama	ZIRAM	2001	kg							2507.1			
+01	Alabama	ZIRAM	2002	kg							792			
+01	Alabama	ZIRAM	2003	kg							1623			
+01	Alabama	ZIRAM	2004	kg							2762			
+01	Alabama	ZIRAM	2005	kg							4406.3			
+01	Alabama	ZIRAM	2006	kg							3213.4			
+01	Alabama	ZIRAM	2007	kg							1114.9			
+01	Alabama	ZIRAM	2008	kg							1480.4			
+01	Alabama	ZIRAM	2009	kg							2844			
+01	Alabama	ZIRAM	2010	kg							3612.4			
+01	Alabama	ZIRAM	2011	kg							372.8			
+01	Alabama	ZIRAM	2012	kg							6887.8			
+01	Alabama	ZIRAM	2013	kg							237			
+01	Alabama	ZIRAM	2014	kg							7778.9			
+01	Alabama	ZIRAM	2015	kg							493.2			
+01	Alabama	ZIRAM	2016	kg							193.9			
+01	Alabama	ZIRAM	2017	kg							172.3			
+04	Arizona	ZIRAM	1992	kg							181			
+04	Arizona	ZIRAM	1993	kg							266.2			
+04	Arizona	ZIRAM	1994	kg							128.3			
+04	Arizona	ZIRAM	1995	kg							901.5			
+04	Arizona	ZIRAM	1996	kg							129.1			
+04	Arizona	ZIRAM	1997	kg							173.3			
+04	Arizona	ZIRAM	1998	kg							257.4			
+04	Arizona	ZIRAM	1999	kg							252.9			
+04	Arizona	ZIRAM	2000	kg							251.6			
+04	Arizona	ZIRAM	2001	kg							190.5			
+04	Arizona	ZIRAM	2002	kg							149.8			
+04	Arizona	ZIRAM	2003	kg							233.4			
+04	Arizona	ZIRAM	2004	kg							143.8			
+04	Arizona	ZIRAM	2005	kg							701.4			
+04	Arizona	ZIRAM	2006	kg							343			
+04	Arizona	ZIRAM	2007	kg							488			
+04	Arizona	ZIRAM	2008	kg							417			
+04	Arizona	ZIRAM	2009	kg							306.8			
+04	Arizona	ZIRAM	2010	kg					0.3		536.9			
+04	Arizona	ZIRAM	2011	kg							581.4			
+04	Arizona	ZIRAM	2012	kg							444.2			
+04	Arizona	ZIRAM	2013	kg							433.5			
+04	Arizona	ZIRAM	2014	kg							357.4			
+04	Arizona	ZIRAM	2015	kg							282.7			
+04	Arizona	ZIRAM	2016	kg							133.2			
+04	Arizona	ZIRAM	2017	kg							313.6			
+05	Arkansas	ZIRAM	1998	kg							12.6			
+05	Arkansas	ZIRAM	2000	kg							381.2			
+05	Arkansas	ZIRAM	2001	kg							18.6			
+05	Arkansas	ZIRAM	2003	kg							132.1			
+05	Arkansas	ZIRAM	2004	kg							709.2			
+06	California	ZIRAM	1992	kg					37.9		823291			
+06	California	ZIRAM	1993	kg							803343.8			
+06	California	ZIRAM	1994	kg							465929.6			
+06	California	ZIRAM	1995	kg							743516.6			
+06	California	ZIRAM	1996	kg							537171.2			
+06	California	ZIRAM	1997	kg							405140.4			
+06	California	ZIRAM	1998	kg					18.9	82.7	703772.4		184.8	82.7
+06	California	ZIRAM	1999	kg					25.9		519751.4			
+06	California	ZIRAM	2000	kg							440039			24.8
+06	California	ZIRAM	2001	kg							317830.8	31.4		
+06	California	ZIRAM	2002	kg					73		296453.5			
+06	California	ZIRAM	2003	kg							354406			
+06	California	ZIRAM	2004	kg							248764.3			
+06	California	ZIRAM	2005	kg					23.6		422974.1			
+06	California	ZIRAM	2006	kg							576694.2			
+06	California	ZIRAM	2007	kg	3.4						420909.2			
+06	California	ZIRAM	2008	kg					34.5		321713.8			
+06	California	ZIRAM	2009	kg					26.3		242718.2			1
+06	California	ZIRAM	2010	kg					3.7		393546.4			
+06	California	ZIRAM	2011	kg					22		362221.4			
+06	California	ZIRAM	2012	kg					11		419005.5			
+06	California	ZIRAM	2013	kg					19.3		313162.1			
+06	California	ZIRAM	2014	kg							315956			
+06	California	ZIRAM	2015	kg					0.6		333982.4			
+06	California	ZIRAM	2016	kg					20.7		351295.9			
+06	California	ZIRAM	2017	kg					28.3		367748.7			
+08	Colorado	ZIRAM	1992	kg							1731			
+08	Colorado	ZIRAM	1995	kg							539.7			
+08	Colorado	ZIRAM	1997	kg							513.6			
+08	Colorado	ZIRAM	1998	kg							956			
+08	Colorado	ZIRAM	1999	kg							1037.1			
+08	Colorado	ZIRAM	2000	kg							1159.6			
+08	Colorado	ZIRAM	2001	kg							764.3			
+08	Colorado	ZIRAM	2002	kg							1285.8			
+08	Colorado	ZIRAM	2004	kg							1243.9			
+08	Colorado	ZIRAM	2015	kg							5505.1			
+09	Connecticut	ZIRAM	1992	kg							816.7			
+09	Connecticut	ZIRAM	1993	kg							5.6			
+09	Connecticut	ZIRAM	1994	kg							30.9			
+09	Connecticut	ZIRAM	1995	kg							3155.8			
+09	Connecticut	ZIRAM	1996	kg							1081.5			
+09	Connecticut	ZIRAM	1997	kg							3916.6			
+09	Connecticut	ZIRAM	1998	kg							816.6			
+09	Connecticut	ZIRAM	1999	kg							3390			
+09	Connecticut	ZIRAM	2000	kg							1848.4			
+09	Connecticut	ZIRAM	2001	kg							825.1			
+09	Connecticut	ZIRAM	2002	kg							1470.9			
+09	Connecticut	ZIRAM	2003	kg							1409.7			
+09	Connecticut	ZIRAM	2004	kg							2646.7			
+09	Connecticut	ZIRAM	2005	kg							1545.2			
+09	Connecticut	ZIRAM	2006	kg							3242.2			
+09	Connecticut	ZIRAM	2007	kg							2749.3			
+09	Connecticut	ZIRAM	2008	kg							3350.2			
+09	Connecticut	ZIRAM	2009	kg							1220.3			
+09	Connecticut	ZIRAM	2010	kg							3355.6			
+09	Connecticut	ZIRAM	2011	kg							2973.4			
+09	Connecticut	ZIRAM	2012	kg							3176.9			
+09	Connecticut	ZIRAM	2013	kg							3435.1			
+09	Connecticut	ZIRAM	2014	kg							144.6			
+09	Connecticut	ZIRAM	2015	kg							243.5			
+09	Connecticut	ZIRAM	2016	kg							310.1			
+09	Connecticut	ZIRAM	2017	kg							1480.5			
+10	Delaware	ZIRAM	1992	kg							11.6			
+10	Delaware	ZIRAM	1993	kg							1.6			
+10	Delaware	ZIRAM	1994	kg							18.1			
+10	Delaware	ZIRAM	1995	kg							19.2			
+10	Delaware	ZIRAM	1996	kg							6.9			
+10	Delaware	ZIRAM	1997	kg							21.2			
+10	Delaware	ZIRAM	1998	kg							16.6			
+10	Delaware	ZIRAM	1999	kg							18.7			
+10	Delaware	ZIRAM	2000	kg							16.7			
+10	Delaware	ZIRAM	2001	kg							12.3			
+10	Delaware	ZIRAM	2002	kg							10.3			
+10	Delaware	ZIRAM	2003	kg							9.5			
+10	Delaware	ZIRAM	2004	kg							27			
+10	Delaware	ZIRAM	2005	kg							26.4			
+10	Delaware	ZIRAM	2006	kg							23.9			
+10	Delaware	ZIRAM	2007	kg							21.7			
+10	Delaware	ZIRAM	2008	kg							5.8			
+10	Delaware	ZIRAM	2009	kg							2			
+10	Delaware	ZIRAM	2010	kg							7.8			
+10	Delaware	ZIRAM	2011	kg							5.5			
+10	Delaware	ZIRAM	2012	kg							1.4			
+10	Delaware	ZIRAM	2013	kg							3.8			
+12	Florida	ZIRAM	1993	kg							53.7			
+12	Florida	ZIRAM	1994	kg							516.7			
+12	Florida	ZIRAM	1995	kg							1168.4			
+12	Florida	ZIRAM	1998	kg							893.8			
+12	Florida	ZIRAM	2007	kg							139.8			
+13	Georgia	ZIRAM	1992	kg							2551.9			
+13	Georgia	ZIRAM	1993	kg							1553.2			
+13	Georgia	ZIRAM	1994	kg							52927.9			
+13	Georgia	ZIRAM	1995	kg							24164.6			
+13	Georgia	ZIRAM	1996	kg					2.1		17734.9			
+13	Georgia	ZIRAM	1997	kg					6.7		20152.2			
+13	Georgia	ZIRAM	1998	kg							24531.8			
+13	Georgia	ZIRAM	1999	kg							3437.7			
+13	Georgia	ZIRAM	2000	kg							15075.6			
+13	Georgia	ZIRAM	2001	kg							6203.2			
+13	Georgia	ZIRAM	2002	kg							3808.4			
+13	Georgia	ZIRAM	2003	kg							4271.6			
+13	Georgia	ZIRAM	2004	kg							15342.2			
+13	Georgia	ZIRAM	2005	kg							24632.5			
+13	Georgia	ZIRAM	2006	kg							8546			
+13	Georgia	ZIRAM	2007	kg							14374.4			
+13	Georgia	ZIRAM	2008	kg							13120			
+13	Georgia	ZIRAM	2009	kg							14870			
+13	Georgia	ZIRAM	2010	kg							30419.8			
+13	Georgia	ZIRAM	2011	kg							1774.7			
+13	Georgia	ZIRAM	2012	kg							5659			
+13	Georgia	ZIRAM	2013	kg							581.8			
+13	Georgia	ZIRAM	2014	kg							6608.6			
+13	Georgia	ZIRAM	2015	kg							2301.9			
+13	Georgia	ZIRAM	2016	kg							1908.4			
+13	Georgia	ZIRAM	2017	kg							488.2			
+16	Idaho	ZIRAM	1992	kg							392.2			
+16	Idaho	ZIRAM	1993	kg							67.9			
+16	Idaho	ZIRAM	1994	kg							2256.5			
+16	Idaho	ZIRAM	1995	kg							1253.9			
+16	Idaho	ZIRAM	1996	kg							2739.4			
+16	Idaho	ZIRAM	1997	kg							1373.5			
+16	Idaho	ZIRAM	1998	kg							2688.5			
+16	Idaho	ZIRAM	1999	kg							1929.1			
+16	Idaho	ZIRAM	2000	kg							1296.3			
+16	Idaho	ZIRAM	2001	kg							965.9			
+16	Idaho	ZIRAM	2002	kg							305.8			
+16	Idaho	ZIRAM	2003	kg							357.4			
+16	Idaho	ZIRAM	2004	kg							2010.8			
+16	Idaho	ZIRAM	2005	kg							1806.7			
+16	Idaho	ZIRAM	2006	kg							1359.8			
+16	Idaho	ZIRAM	2007	kg							408.7			
+16	Idaho	ZIRAM	2008	kg							822.7			
+16	Idaho	ZIRAM	2009	kg							284.3			
+16	Idaho	ZIRAM	2010	kg							306.7			
+16	Idaho	ZIRAM	2011	kg							502.7			
+16	Idaho	ZIRAM	2012	kg							1573.3			
+16	Idaho	ZIRAM	2013	kg							467.5			
+16	Idaho	ZIRAM	2014	kg							307.9			
+16	Idaho	ZIRAM	2015	kg							294.3			
+16	Idaho	ZIRAM	2016	kg							2859.9			
+17	Illinois	ZIRAM	1994	kg							7720.8			
+17	Illinois	ZIRAM	1995	kg							7477.4			
+17	Illinois	ZIRAM	1996	kg							41558.8			
+17	Illinois	ZIRAM	1997	kg							2635.1			
+17	Illinois	ZIRAM	1998	kg							2846.7			
+17	Illinois	ZIRAM	1999	kg							9129			
+17	Illinois	ZIRAM	2000	kg							10213.8			
+17	Illinois	ZIRAM	2001	kg					105.6		5208.6			
+17	Illinois	ZIRAM	2002	kg					44.9		4350.7			
+17	Illinois	ZIRAM	2003	kg							16201.2			
+17	Illinois	ZIRAM	2004	kg							9721.3			
+17	Illinois	ZIRAM	2005	kg							5237.2			
+17	Illinois	ZIRAM	2006	kg							3951.9			
+17	Illinois	ZIRAM	2007	kg							3281.1			
+17	Illinois	ZIRAM	2008	kg							3316.1			
+17	Illinois	ZIRAM	2009	kg							4286.3			
+17	Illinois	ZIRAM	2010	kg							1554			
+17	Illinois	ZIRAM	2011	kg							1168.9			
+17	Illinois	ZIRAM	2012	kg							1714.3			
+17	Illinois	ZIRAM	2013	kg							2352.7			
+17	Illinois	ZIRAM	2014	kg							5023.3			
+17	Illinois	ZIRAM	2015	kg							2198.6			
+18	Indiana	ZIRAM	1993	kg							13.8			
+18	Indiana	ZIRAM	1994	kg							29570.3			
+18	Indiana	ZIRAM	1995	kg					60		36988.1			
+18	Indiana	ZIRAM	1996	kg					1651.1		5225.9			
+18	Indiana	ZIRAM	1997	kg					3381.9		3523.2			
+18	Indiana	ZIRAM	1998	kg							2662.2			
+18	Indiana	ZIRAM	1999	kg							4411.8			
+18	Indiana	ZIRAM	2000	kg					120.5		6884			
+18	Indiana	ZIRAM	2001	kg					8244.4		3207.9			
+18	Indiana	ZIRAM	2002	kg					3318.3		6215.2			
+18	Indiana	ZIRAM	2003	kg					1429.3		6074.3			
+18	Indiana	ZIRAM	2004	kg					947.6		2388			
+18	Indiana	ZIRAM	2005	kg							2080.1			
+18	Indiana	ZIRAM	2006	kg					14.3		1758.5			
+18	Indiana	ZIRAM	2007	kg							1857.1			
+18	Indiana	ZIRAM	2008	kg							3011.7			
+18	Indiana	ZIRAM	2009	kg							2830			
+18	Indiana	ZIRAM	2010	kg							2445.9			
+18	Indiana	ZIRAM	2011	kg							1653			
+18	Indiana	ZIRAM	2012	kg							1258.4			
+18	Indiana	ZIRAM	2013	kg							1974.8			
+18	Indiana	ZIRAM	2014	kg							4089.7			
+18	Indiana	ZIRAM	2015	kg							2525.1			
+18	Indiana	ZIRAM	2016	kg							696.8			
+18	Indiana	ZIRAM	2017	kg							1417.5			
+19	Iowa	ZIRAM	1993	kg							271			
+19	Iowa	ZIRAM	1994	kg							1668.5			
+19	Iowa	ZIRAM	1995	kg							1996.7			
+19	Iowa	ZIRAM	1996	kg							2029.8			
+19	Iowa	ZIRAM	1997	kg							1914			
+19	Iowa	ZIRAM	1998	kg							1124.1			
+19	Iowa	ZIRAM	1999	kg							5644.9			
+19	Iowa	ZIRAM	2000	kg							1755.4			
+19	Iowa	ZIRAM	2001	kg							1946			
+19	Iowa	ZIRAM	2002	kg							2185.8			
+19	Iowa	ZIRAM	2003	kg							2268.5			
+19	Iowa	ZIRAM	2004	kg							1698.9			
+19	Iowa	ZIRAM	2005	kg							1672.7			
+19	Iowa	ZIRAM	2006	kg							1416.2			
+19	Iowa	ZIRAM	2007	kg							1186.7			
+19	Iowa	ZIRAM	2008	kg							1214.1			
+19	Iowa	ZIRAM	2009	kg							1620.6			
+19	Iowa	ZIRAM	2010	kg							607.5			
+19	Iowa	ZIRAM	2011	kg							472.3			
+19	Iowa	ZIRAM	2012	kg							716.3			
+19	Iowa	ZIRAM	2013	kg							939.7			
+19	Iowa	ZIRAM	2014	kg							1873.9			
+19	Iowa	ZIRAM	2015	kg							761.4			
+20	Kansas	ZIRAM	2004	kg							866.6			
+21	Kentucky	ZIRAM	1992	kg							5188.2			
+21	Kentucky	ZIRAM	1993	kg							475.2			
+21	Kentucky	ZIRAM	1994	kg							4505.5			
+21	Kentucky	ZIRAM	1995	kg					9.6		2995.8			
+21	Kentucky	ZIRAM	1996	kg							13980			
+21	Kentucky	ZIRAM	1997	kg							16679.5			6070
+21	Kentucky	ZIRAM	1998	kg							2986.4			
+21	Kentucky	ZIRAM	1999	kg							10691.1			
+21	Kentucky	ZIRAM	2000	kg							2703			
+21	Kentucky	ZIRAM	2001	kg							6052			
+21	Kentucky	ZIRAM	2002	kg							2239.4			
+21	Kentucky	ZIRAM	2003	kg							3295.9			
+21	Kentucky	ZIRAM	2004	kg							2194.4			
+21	Kentucky	ZIRAM	2005	kg							3197.9			
+21	Kentucky	ZIRAM	2006	kg							7286.7			
+21	Kentucky	ZIRAM	2007	kg							1505.2			
+21	Kentucky	ZIRAM	2008	kg							2300.7			
+21	Kentucky	ZIRAM	2009	kg							2414			
+21	Kentucky	ZIRAM	2010	kg							821.8			
+21	Kentucky	ZIRAM	2011	kg							1627.5			
+21	Kentucky	ZIRAM	2012	kg							1504.3			
+21	Kentucky	ZIRAM	2013	kg							1680.1			
+21	Kentucky	ZIRAM	2014	kg							3297.3			
+21	Kentucky	ZIRAM	2015	kg							4555.5			
+21	Kentucky	ZIRAM	2016	kg							1130.1			
+21	Kentucky	ZIRAM	2017	kg							681.6			
+22	Louisiana	ZIRAM	1992	kg							236.9			
+22	Louisiana	ZIRAM	2000	kg							246.2			
+22	Louisiana	ZIRAM	2001	kg							2.4			
+23	Maine	ZIRAM	1993	kg							52.5			
+23	Maine	ZIRAM	1994	kg							553.2			
+23	Maine	ZIRAM	1995	kg							6630			
+23	Maine	ZIRAM	1996	kg							1166.9			
+23	Maine	ZIRAM	1997	kg							1363.5			
+23	Maine	ZIRAM	1998	kg							677.7			
+23	Maine	ZIRAM	1999	kg							5585.7			
+23	Maine	ZIRAM	2000	kg							2416.7			
+23	Maine	ZIRAM	2001	kg							732.4			
+23	Maine	ZIRAM	2002	kg							1897.4			
+23	Maine	ZIRAM	2003	kg							1402.3			
+23	Maine	ZIRAM	2004	kg							2692.3			
+23	Maine	ZIRAM	2005	kg							1802.2			
+23	Maine	ZIRAM	2006	kg							3429.9			
+23	Maine	ZIRAM	2007	kg							2814.7			
+23	Maine	ZIRAM	2008	kg							3603.3			
+23	Maine	ZIRAM	2009	kg							1365.3			
+23	Maine	ZIRAM	2010	kg							4489.5			
+23	Maine	ZIRAM	2011	kg							3338.5			
+23	Maine	ZIRAM	2012	kg							3871.1			
+23	Maine	ZIRAM	2013	kg							3352.1			
+23	Maine	ZIRAM	2014	kg							210.4			
+23	Maine	ZIRAM	2015	kg							458.7			
+23	Maine	ZIRAM	2016	kg							409.1			
+23	Maine	ZIRAM	2017	kg							1847.5			
+24	Maryland	ZIRAM	1992	kg							6345			
+24	Maryland	ZIRAM	1993	kg							874			
+24	Maryland	ZIRAM	1994	kg							3835			
+24	Maryland	ZIRAM	1995	kg							7703			
+24	Maryland	ZIRAM	1996	kg							4256.8			
+24	Maryland	ZIRAM	1997	kg							4324.6			
+24	Maryland	ZIRAM	1998	kg							5725.2			
+24	Maryland	ZIRAM	1999	kg							8718.2			
+24	Maryland	ZIRAM	2000	kg							3738.9			
+24	Maryland	ZIRAM	2001	kg							3818.5			
+24	Maryland	ZIRAM	2002	kg							3591.7			
+24	Maryland	ZIRAM	2003	kg							1990.1			
+24	Maryland	ZIRAM	2004	kg							6630.6			
+24	Maryland	ZIRAM	2005	kg							8419.5			
+24	Maryland	ZIRAM	2006	kg							4689.1			
+24	Maryland	ZIRAM	2007	kg							5828.9			
+24	Maryland	ZIRAM	2008	kg					117.2		6599.4			
+24	Maryland	ZIRAM	2009	kg					126.7		6362.9			
+24	Maryland	ZIRAM	2010	kg							4028.1			
+24	Maryland	ZIRAM	2011	kg							3359.6			
+24	Maryland	ZIRAM	2012	kg							2492			
+24	Maryland	ZIRAM	2013	kg							3336.1			
+24	Maryland	ZIRAM	2014	kg							3980.4			
+24	Maryland	ZIRAM	2015	kg							722.1			
+24	Maryland	ZIRAM	2016	kg							125.6			
+24	Maryland	ZIRAM	2017	kg							848.4			
+25	Massachusetts	ZIRAM	1992	kg							532.2			
+25	Massachusetts	ZIRAM	1993	kg							21.9			
+25	Massachusetts	ZIRAM	1994	kg							22.2			
+25	Massachusetts	ZIRAM	1995	kg							4382.8			
+25	Massachusetts	ZIRAM	1996	kg							1455.6			
+25	Massachusetts	ZIRAM	1997	kg							959.3			
+25	Massachusetts	ZIRAM	1998	kg							1134.6			
+25	Massachusetts	ZIRAM	1999	kg							6501.2			
+25	Massachusetts	ZIRAM	2000	kg							3168.9			
+25	Massachusetts	ZIRAM	2001	kg							1206.2			
+25	Massachusetts	ZIRAM	2002	kg							2511.9			
+25	Massachusetts	ZIRAM	2003	kg							2245.5			
+25	Massachusetts	ZIRAM	2004	kg							4241.6			
+25	Massachusetts	ZIRAM	2005	kg							2648.9			
+25	Massachusetts	ZIRAM	2006	kg							5438.2			
+25	Massachusetts	ZIRAM	2007	kg							4621.5			
+25	Massachusetts	ZIRAM	2008	kg							5547.9			
+25	Massachusetts	ZIRAM	2009	kg							1963.7			
+25	Massachusetts	ZIRAM	2010	kg							5505			
+25	Massachusetts	ZIRAM	2011	kg							4365			
+25	Massachusetts	ZIRAM	2012	kg							4558.4			
+25	Massachusetts	ZIRAM	2013	kg							4831.9			
+25	Massachusetts	ZIRAM	2014	kg							246.9			
+25	Massachusetts	ZIRAM	2015	kg							403			
+25	Massachusetts	ZIRAM	2016	kg							565.4			
+25	Massachusetts	ZIRAM	2017	kg							2788.9			
+26	Michigan	ZIRAM	1992	kg							18981.3			
+26	Michigan	ZIRAM	1993	kg							12045.4			
+26	Michigan	ZIRAM	1994	kg							18345			
+26	Michigan	ZIRAM	1995	kg							35138.1			
+26	Michigan	ZIRAM	1996	kg							36492.3			
+26	Michigan	ZIRAM	1997	kg							29838.4			
+26	Michigan	ZIRAM	1998	kg							92423.7			
+26	Michigan	ZIRAM	1999	kg							62791.4			
+26	Michigan	ZIRAM	2000	kg							62003.6			
+26	Michigan	ZIRAM	2001	kg							57444.4			
+26	Michigan	ZIRAM	2002	kg							112729.7			
+26	Michigan	ZIRAM	2003	kg							92342.8			
+26	Michigan	ZIRAM	2004	kg							110822.8			
+26	Michigan	ZIRAM	2005	kg							45961.4			
+26	Michigan	ZIRAM	2006	kg					229.6		76055.2			
+26	Michigan	ZIRAM	2007	kg							47504.8			
+26	Michigan	ZIRAM	2008	kg							93023			
+26	Michigan	ZIRAM	2009	kg							54625.8			
+26	Michigan	ZIRAM	2010	kg							116154.3			
+26	Michigan	ZIRAM	2011	kg							100439.2			
+26	Michigan	ZIRAM	2012	kg							38783.4			
+26	Michigan	ZIRAM	2013	kg							52213.8			
+26	Michigan	ZIRAM	2014	kg							75924.3			
+26	Michigan	ZIRAM	2015	kg							92828.7			
+26	Michigan	ZIRAM	2016	kg							103218.5			
+26	Michigan	ZIRAM	2017	kg							128011.8			
+27	Minnesota	ZIRAM	1993	kg							4109.3			
+27	Minnesota	ZIRAM	1994	kg							6553.5			
+27	Minnesota	ZIRAM	1995	kg							7040.6			
+27	Minnesota	ZIRAM	1996	kg							3173.8			
+27	Minnesota	ZIRAM	1997	kg							1855.1			
+27	Minnesota	ZIRAM	1998	kg							2950.2			
+27	Minnesota	ZIRAM	1999	kg							6176.7			
+27	Minnesota	ZIRAM	2000	kg							2599.2			
+27	Minnesota	ZIRAM	2001	kg							2074.1			
+27	Minnesota	ZIRAM	2002	kg							2771.1			
+27	Minnesota	ZIRAM	2003	kg							3895.8			
+27	Minnesota	ZIRAM	2004	kg							4523.4			
+27	Minnesota	ZIRAM	2005	kg							4001.4			
+27	Minnesota	ZIRAM	2006	kg							2454.3			
+27	Minnesota	ZIRAM	2007	kg							3091.9			
+27	Minnesota	ZIRAM	2008	kg							3752			
+27	Minnesota	ZIRAM	2009	kg							4135.8			
+27	Minnesota	ZIRAM	2010	kg							2597.5			
+27	Minnesota	ZIRAM	2011	kg							2387.9			
+27	Minnesota	ZIRAM	2012	kg							1865.1			
+27	Minnesota	ZIRAM	2013	kg							3099.6			
+27	Minnesota	ZIRAM	2014	kg							5241.5			
+27	Minnesota	ZIRAM	2015	kg							3377.3			
+27	Minnesota	ZIRAM	2016	kg							2671.6			
+27	Minnesota	ZIRAM	2017	kg							3892.3			
+28	Mississippi	ZIRAM	1996	kg							59.3			
+28	Mississippi	ZIRAM	1997	kg							457.4			
+29	Missouri	ZIRAM	1994	kg							3292.8			
+29	Missouri	ZIRAM	1995	kg							3596.7			
+29	Missouri	ZIRAM	1996	kg							9791.1			
+29	Missouri	ZIRAM	1997	kg							1924.3			
+29	Missouri	ZIRAM	1998	kg							1947.1			
+29	Missouri	ZIRAM	1999	kg							13190.2			
+29	Missouri	ZIRAM	2000	kg							3231.2			
+29	Missouri	ZIRAM	2001	kg							3736.9			
+29	Missouri	ZIRAM	2002	kg							4189.5			
+29	Missouri	ZIRAM	2003	kg							3803.6			
+29	Missouri	ZIRAM	2004	kg							7375.5			
+29	Missouri	ZIRAM	2005	kg							3068			
+29	Missouri	ZIRAM	2006	kg							2520.3			
+29	Missouri	ZIRAM	2007	kg							2082.8			
+29	Missouri	ZIRAM	2008	kg							2663.6			
+29	Missouri	ZIRAM	2009	kg							3305.9			
+29	Missouri	ZIRAM	2010	kg							1147.6			
+29	Missouri	ZIRAM	2011	kg							822.6			
+29	Missouri	ZIRAM	2012	kg							1145.8			
+29	Missouri	ZIRAM	2013	kg							1525			
+29	Missouri	ZIRAM	2014	kg							3154.5			
+29	Missouri	ZIRAM	2015	kg							1335.9			
+30	Montana	ZIRAM	2000	kg							44.1			
+30	Montana	ZIRAM	2001	kg							78.5			
+30	Montana	ZIRAM	2003	kg							72.8			
+30	Montana	ZIRAM	2004	kg							163.1			
+30	Montana	ZIRAM	2005	kg							137.7			
+30	Montana	ZIRAM	2007	kg							51.9			
+30	Montana	ZIRAM	2008	kg							170.2			
+30	Montana	ZIRAM	2009	kg							17.5			
+30	Montana	ZIRAM	2014	kg							21.1			
+32	Nevada	ZIRAM	1992	kg							5.8			
+32	Nevada	ZIRAM	1993	kg							8.2			
+32	Nevada	ZIRAM	1994	kg							3.4			
+32	Nevada	ZIRAM	1995	kg							33.5			
+32	Nevada	ZIRAM	1996	kg							26.8			
+32	Nevada	ZIRAM	1997	kg							35.5			
+32	Nevada	ZIRAM	1998	kg							72.9			
+32	Nevada	ZIRAM	1999	kg							21.4			
+32	Nevada	ZIRAM	2000	kg							29.3			
+32	Nevada	ZIRAM	2001	kg							47.1			
+32	Nevada	ZIRAM	2002	kg							44.4			
+32	Nevada	ZIRAM	2003	kg							53.9			
+32	Nevada	ZIRAM	2004	kg							43.8			
+32	Nevada	ZIRAM	2005	kg							112			
+32	Nevada	ZIRAM	2006	kg							87.5			
+32	Nevada	ZIRAM	2007	kg							117			
+32	Nevada	ZIRAM	2008	kg							128.6			
+32	Nevada	ZIRAM	2009	kg							52			
+32	Nevada	ZIRAM	2010	kg					0		57.6			
+32	Nevada	ZIRAM	2012	kg							26.2			
+32	Nevada	ZIRAM	2013	kg							3.3			
+32	Nevada	ZIRAM	2014	kg							33.7			
+32	Nevada	ZIRAM	2015	kg							46.2			
+32	Nevada	ZIRAM	2016	kg							14.9			
+32	Nevada	ZIRAM	2017	kg							36.3			
+33	New Hampshire	ZIRAM	1992	kg							127.4			
+33	New Hampshire	ZIRAM	1993	kg							5.6			
+33	New Hampshire	ZIRAM	1994	kg							464.8			
+33	New Hampshire	ZIRAM	1995	kg							1613.3			
+33	New Hampshire	ZIRAM	1996	kg							604.9			
+33	New Hampshire	ZIRAM	1997	kg							401.2			
+33	New Hampshire	ZIRAM	1998	kg							450.2			
+33	New Hampshire	ZIRAM	1999	kg							3475.4			
+33	New Hampshire	ZIRAM	2000	kg							1518.6			
+33	New Hampshire	ZIRAM	2001	kg							465.3			
+33	New Hampshire	ZIRAM	2002	kg							1220.6			
+33	New Hampshire	ZIRAM	2003	kg							918.2			
+33	New Hampshire	ZIRAM	2004	kg							1797.2			
+33	New Hampshire	ZIRAM	2005	kg							1228.9			
+33	New Hampshire	ZIRAM	2006	kg							2393.8			
+33	New Hampshire	ZIRAM	2007	kg							2016			
+33	New Hampshire	ZIRAM	2008	kg							2441.9			
+33	New Hampshire	ZIRAM	2009	kg							854.2			
+33	New Hampshire	ZIRAM	2010	kg							2586			
+33	New Hampshire	ZIRAM	2011	kg							1765.1			
+33	New Hampshire	ZIRAM	2012	kg							1871.9			
+33	New Hampshire	ZIRAM	2013	kg							1670.2			
+33	New Hampshire	ZIRAM	2014	kg							108.4			
+33	New Hampshire	ZIRAM	2015	kg							244.4			
+33	New Hampshire	ZIRAM	2016	kg							227.2			
+33	New Hampshire	ZIRAM	2017	kg							1070.9			
+34	New Jersey	ZIRAM	1992	kg							673.9			
+34	New Jersey	ZIRAM	1993	kg							36.7			
+34	New Jersey	ZIRAM	1994	kg							813.8			
+34	New Jersey	ZIRAM	1995	kg							8318.7			
+34	New Jersey	ZIRAM	1996	kg							3013.8			
+34	New Jersey	ZIRAM	1997	kg							1489.5			
+34	New Jersey	ZIRAM	1998	kg							7186.5			
+34	New Jersey	ZIRAM	1999	kg							7716.1			
+34	New Jersey	ZIRAM	2000	kg							11947			
+34	New Jersey	ZIRAM	2001	kg							9086.9			
+34	New Jersey	ZIRAM	2002	kg							6365.9			
+34	New Jersey	ZIRAM	2003	kg					3666.6		10377			
+34	New Jersey	ZIRAM	2004	kg							7944.8			
+34	New Jersey	ZIRAM	2005	kg							3263.1			
+34	New Jersey	ZIRAM	2006	kg							36512.1			
+34	New Jersey	ZIRAM	2007	kg							13358.3			
+34	New Jersey	ZIRAM	2008	kg							35210.5			
+34	New Jersey	ZIRAM	2009	kg							13023			
+34	New Jersey	ZIRAM	2010	kg							50129.8			
+34	New Jersey	ZIRAM	2011	kg							29691			
+34	New Jersey	ZIRAM	2012	kg							23287			
+34	New Jersey	ZIRAM	2013	kg							19705			
+34	New Jersey	ZIRAM	2014	kg							7441.9			
+34	New Jersey	ZIRAM	2015	kg							9176.4			
+34	New Jersey	ZIRAM	2016	kg							7690			
+34	New Jersey	ZIRAM	2017	kg							13999			
+35	New Mexico	ZIRAM	1992	kg							527.3			
+35	New Mexico	ZIRAM	1993	kg							622.4			
+35	New Mexico	ZIRAM	1995	kg							35.2			
+35	New Mexico	ZIRAM	1996	kg							564.8			
+35	New Mexico	ZIRAM	1997	kg							2094.2			
+35	New Mexico	ZIRAM	1998	kg							354.4			
+35	New Mexico	ZIRAM	1999	kg							571.4			
+35	New Mexico	ZIRAM	2000	kg							72.7			
+35	New Mexico	ZIRAM	2001	kg							519.1			
+35	New Mexico	ZIRAM	2002	kg							11387.7			
+35	New Mexico	ZIRAM	2003	kg							17680.3			
+35	New Mexico	ZIRAM	2004	kg							14623.1			
+35	New Mexico	ZIRAM	2005	kg							7676.7			
+35	New Mexico	ZIRAM	2006	kg							17170			
+35	New Mexico	ZIRAM	2008	kg							31885.3			
+35	New Mexico	ZIRAM	2009	kg							19253.6			
+35	New Mexico	ZIRAM	2014	kg							26824.8			
+35	New Mexico	ZIRAM	2015	kg							161.4			
+36	New York	ZIRAM	1992	kg							4700.2			
+36	New York	ZIRAM	1993	kg							429.4			
+36	New York	ZIRAM	1994	kg							6275.1			
+36	New York	ZIRAM	1995	kg							23224.4			
+36	New York	ZIRAM	1996	kg							25047.4			
+36	New York	ZIRAM	1997	kg							32820.8			
+36	New York	ZIRAM	1998	kg							30467.6			
+36	New York	ZIRAM	1999	kg							39902.6			
+36	New York	ZIRAM	2000	kg							15468.4			
+36	New York	ZIRAM	2001	kg							9412.2			
+36	New York	ZIRAM	2002	kg							27205.6			
+36	New York	ZIRAM	2003	kg					6507.7		18509.9			
+36	New York	ZIRAM	2004	kg							60693.4			
+36	New York	ZIRAM	2005	kg							19384.5			
+36	New York	ZIRAM	2006	kg							27347.1			
+36	New York	ZIRAM	2007	kg							63197.9			
+36	New York	ZIRAM	2008	kg					584.4		65417.3			
+36	New York	ZIRAM	2009	kg							27897			
+36	New York	ZIRAM	2010	kg							41877.5			
+36	New York	ZIRAM	2011	kg							42890.5			
+36	New York	ZIRAM	2012	kg							75044.3			
+36	New York	ZIRAM	2013	kg							42037.3			
+36	New York	ZIRAM	2014	kg							20888.7			
+36	New York	ZIRAM	2015	kg							5592.9			
+36	New York	ZIRAM	2016	kg							13008.4			
+36	New York	ZIRAM	2017	kg							36277.5			
+37	North Carolina	ZIRAM	1992	kg							7486.8			
+37	North Carolina	ZIRAM	1993	kg							5334.3			
+37	North Carolina	ZIRAM	1994	kg							30933			
+37	North Carolina	ZIRAM	1995	kg							25767.6			
+37	North Carolina	ZIRAM	1996	kg					72.9		38588.4			
+37	North Carolina	ZIRAM	1997	kg					96.7		9756.8			
+37	North Carolina	ZIRAM	1998	kg							33794.4			
+37	North Carolina	ZIRAM	1999	kg							26586.7			
+37	North Carolina	ZIRAM	2000	kg							26218.8			
+37	North Carolina	ZIRAM	2001	kg							6789.9			
+37	North Carolina	ZIRAM	2002	kg							6205.8			
+37	North Carolina	ZIRAM	2003	kg							16368.1			
+37	North Carolina	ZIRAM	2004	kg							28200.6			
+37	North Carolina	ZIRAM	2005	kg							46924.6			
+37	North Carolina	ZIRAM	2006	kg							12642.7			
+37	North Carolina	ZIRAM	2007	kg							34855.6			
+37	North Carolina	ZIRAM	2008	kg							21481.5			
+37	North Carolina	ZIRAM	2009	kg							30195			
+37	North Carolina	ZIRAM	2010	kg							47365.1			
+37	North Carolina	ZIRAM	2011	kg							22298.9			
+37	North Carolina	ZIRAM	2012	kg							12588.2			
+37	North Carolina	ZIRAM	2013	kg							6783.7			
+37	North Carolina	ZIRAM	2014	kg							33312.4			
+37	North Carolina	ZIRAM	2015	kg							26728.6			
+37	North Carolina	ZIRAM	2016	kg							7361.7			
+37	North Carolina	ZIRAM	2017	kg							9236.9			
+39	Ohio	ZIRAM	1992	kg							2843.3			
+39	Ohio	ZIRAM	1993	kg							1208.7			
+39	Ohio	ZIRAM	1994	kg							4757.6			
+39	Ohio	ZIRAM	1995	kg					652.5		14392.1			
+39	Ohio	ZIRAM	1996	kg					14848.9		13588.8			
+39	Ohio	ZIRAM	1997	kg					28027.3		34549.6			
+39	Ohio	ZIRAM	1998	kg					1004.7		21900.5			
+39	Ohio	ZIRAM	1999	kg							27278.7			
+39	Ohio	ZIRAM	2000	kg					557.1		17529.2			
+39	Ohio	ZIRAM	2001	kg					4155.7		24206.6			
+39	Ohio	ZIRAM	2002	kg					4828.2		26086			
+39	Ohio	ZIRAM	2003	kg					275		21972.4			
+39	Ohio	ZIRAM	2004	kg					200.4		17247.5			
+39	Ohio	ZIRAM	2005	kg							15414.6			
+39	Ohio	ZIRAM	2006	kg							16378.5			
+39	Ohio	ZIRAM	2007	kg							11825.9			
+39	Ohio	ZIRAM	2008	kg							10092.6			
+39	Ohio	ZIRAM	2009	kg							20772.6			
+39	Ohio	ZIRAM	2010	kg							3880.4			
+39	Ohio	ZIRAM	2011	kg							5542.6			
+39	Ohio	ZIRAM	2012	kg							6928			
+39	Ohio	ZIRAM	2013	kg							5212.8			
+39	Ohio	ZIRAM	2014	kg							12150			
+39	Ohio	ZIRAM	2015	kg							8497.1			
+39	Ohio	ZIRAM	2016	kg							7833.2			
+39	Ohio	ZIRAM	2017	kg							6827.9			
+40	Oklahoma	ZIRAM	1992	kg							314.1			
+40	Oklahoma	ZIRAM	1993	kg							745.5			
+40	Oklahoma	ZIRAM	1996	kg							54			
+40	Oklahoma	ZIRAM	1997	kg							205.3			
+40	Oklahoma	ZIRAM	1998	kg							30.2			
+40	Oklahoma	ZIRAM	1999	kg							54.1			
+40	Oklahoma	ZIRAM	2000	kg							214.4			
+40	Oklahoma	ZIRAM	2001	kg							54.3			
+40	Oklahoma	ZIRAM	2003	kg							1225.9			
+40	Oklahoma	ZIRAM	2004	kg							316.8			
+41	Oregon	ZIRAM	1992	kg							77784.4			
+41	Oregon	ZIRAM	1993	kg							20220			
+41	Oregon	ZIRAM	1994	kg							8546			
+41	Oregon	ZIRAM	1995	kg							4885.2			
+41	Oregon	ZIRAM	1996	kg							24949.7			
+41	Oregon	ZIRAM	1997	kg							30403.5			
+41	Oregon	ZIRAM	1998	kg							53086.4			
+41	Oregon	ZIRAM	1999	kg							31317.6			
+41	Oregon	ZIRAM	2000	kg							28139.5			
+41	Oregon	ZIRAM	2001	kg							19903.3			
+41	Oregon	ZIRAM	2002	kg							23580.3			
+41	Oregon	ZIRAM	2003	kg							28710.3			
+41	Oregon	ZIRAM	2004	kg							33869.1			
+41	Oregon	ZIRAM	2005	kg							37523.3			
+41	Oregon	ZIRAM	2006	kg							52570.1			
+41	Oregon	ZIRAM	2007	kg					68.8		23481			
+41	Oregon	ZIRAM	2008	kg							17832.5			
+41	Oregon	ZIRAM	2009	kg							6711.2			
+41	Oregon	ZIRAM	2010	kg							9572.8			
+41	Oregon	ZIRAM	2011	kg							25710.1			
+41	Oregon	ZIRAM	2012	kg							36075			
+41	Oregon	ZIRAM	2013	kg							10305.6			
+41	Oregon	ZIRAM	2014	kg							17226.7			
+41	Oregon	ZIRAM	2015	kg							7719.8			
+41	Oregon	ZIRAM	2016	kg							5686.3			
+41	Oregon	ZIRAM	2017	kg							1185.1			
+42	Pennsylvania	ZIRAM	1992	kg							46447.6			
+42	Pennsylvania	ZIRAM	1993	kg							2199.3			
+42	Pennsylvania	ZIRAM	1994	kg							45965.6			
+42	Pennsylvania	ZIRAM	1995	kg							65889.6			
+42	Pennsylvania	ZIRAM	1996	kg							18507.1			
+42	Pennsylvania	ZIRAM	1997	kg							29296.1			
+42	Pennsylvania	ZIRAM	1998	kg							21230			
+42	Pennsylvania	ZIRAM	1999	kg							19451.9			
+42	Pennsylvania	ZIRAM	2000	kg							29925			
+42	Pennsylvania	ZIRAM	2001	kg							16326.6			
+42	Pennsylvania	ZIRAM	2002	kg							13182.2			
+42	Pennsylvania	ZIRAM	2003	kg					20759.5		26703.1			
+42	Pennsylvania	ZIRAM	2004	kg							59512.4			
+42	Pennsylvania	ZIRAM	2005	kg							46388.2			
+42	Pennsylvania	ZIRAM	2006	kg							27130.6			
+42	Pennsylvania	ZIRAM	2007	kg							66949.2			
+42	Pennsylvania	ZIRAM	2008	kg					721.1		54705.9			
+42	Pennsylvania	ZIRAM	2009	kg					795.1		14837.6			
+42	Pennsylvania	ZIRAM	2010	kg							25708.4			
+42	Pennsylvania	ZIRAM	2011	kg							32858.6			
+42	Pennsylvania	ZIRAM	2012	kg							27677.6			
+42	Pennsylvania	ZIRAM	2013	kg							52476.2			
+42	Pennsylvania	ZIRAM	2014	kg							22189.9			
+42	Pennsylvania	ZIRAM	2015	kg							10949.6			
+42	Pennsylvania	ZIRAM	2016	kg							15150.9			
+42	Pennsylvania	ZIRAM	2017	kg							20898.2			
+44	Rhode Island	ZIRAM	1992	kg							56.2			
+44	Rhode Island	ZIRAM	1993	kg							0.6			
+44	Rhode Island	ZIRAM	1994	kg							65.6			
+44	Rhode Island	ZIRAM	1995	kg							202			
+44	Rhode Island	ZIRAM	1996	kg							102.4			
+44	Rhode Island	ZIRAM	1997	kg							148.9			
+44	Rhode Island	ZIRAM	1998	kg							76.9			
+44	Rhode Island	ZIRAM	1999	kg							476.2			
+44	Rhode Island	ZIRAM	2000	kg							238.1			
+44	Rhode Island	ZIRAM	2001	kg							95.8			
+44	Rhode Island	ZIRAM	2002	kg							193			
+44	Rhode Island	ZIRAM	2003	kg							174.6			
+44	Rhode Island	ZIRAM	2004	kg							355.4			
+44	Rhode Island	ZIRAM	2005	kg							229			
+44	Rhode Island	ZIRAM	2006	kg							489.2			
+44	Rhode Island	ZIRAM	2007	kg							433.3			
+44	Rhode Island	ZIRAM	2008	kg							482.6			
+44	Rhode Island	ZIRAM	2009	kg							168.4			
+44	Rhode Island	ZIRAM	2010	kg							469.2			
+44	Rhode Island	ZIRAM	2011	kg							362.7			
+44	Rhode Island	ZIRAM	2012	kg							373.2			
+44	Rhode Island	ZIRAM	2013	kg							376.9			
+44	Rhode Island	ZIRAM	2014	kg							17.4			
+44	Rhode Island	ZIRAM	2015	kg							64.2			
+44	Rhode Island	ZIRAM	2016	kg							34.3			
+44	Rhode Island	ZIRAM	2017	kg							156.3			
+45	South Carolina	ZIRAM	1992	kg							802.7			
+45	South Carolina	ZIRAM	1993	kg							1711.8			
+45	South Carolina	ZIRAM	1994	kg							5899.9			
+45	South Carolina	ZIRAM	1995	kg							5317.8			
+45	South Carolina	ZIRAM	1996	kg					89.3		20186.1			
+45	South Carolina	ZIRAM	1997	kg					5.5		24564.1			
+45	South Carolina	ZIRAM	1998	kg							6799.9			
+45	South Carolina	ZIRAM	1999	kg							11789.6			
+45	South Carolina	ZIRAM	2000	kg							24907			
+45	South Carolina	ZIRAM	2001	kg							12117.6			
+45	South Carolina	ZIRAM	2002	kg							4915.5			
+45	South Carolina	ZIRAM	2003	kg							4279.9			
+45	South Carolina	ZIRAM	2004	kg							10473.9			
+45	South Carolina	ZIRAM	2005	kg							43832.6			
+45	South Carolina	ZIRAM	2006	kg							39841.5			
+45	South Carolina	ZIRAM	2007	kg							11364.3			
+45	South Carolina	ZIRAM	2008	kg							19804.7			
+45	South Carolina	ZIRAM	2009	kg							17313.9			
+45	South Carolina	ZIRAM	2010	kg							27607.8			
+45	South Carolina	ZIRAM	2011	kg							1138.6			
+45	South Carolina	ZIRAM	2012	kg							655			
+45	South Carolina	ZIRAM	2013	kg							303.2			
+45	South Carolina	ZIRAM	2014	kg							1261.2			
+45	South Carolina	ZIRAM	2015	kg							734.1			
+45	South Carolina	ZIRAM	2017	kg							171.8			
+47	Tennessee	ZIRAM	1992	kg							1826.6			
+47	Tennessee	ZIRAM	1993	kg							476			
+47	Tennessee	ZIRAM	1994	kg							3244.7			
+47	Tennessee	ZIRAM	1995	kg							2413.8			
+47	Tennessee	ZIRAM	1996	kg							6587.4			
+47	Tennessee	ZIRAM	1997	kg					50.3		10927.6			3072.5
+47	Tennessee	ZIRAM	1998	kg							3582.7			
+47	Tennessee	ZIRAM	1999	kg							4240.6			
+47	Tennessee	ZIRAM	2000	kg							2435.6			
+47	Tennessee	ZIRAM	2001	kg							1379.6			
+47	Tennessee	ZIRAM	2002	kg							1356.4			
+47	Tennessee	ZIRAM	2003	kg							2195			
+47	Tennessee	ZIRAM	2004	kg							3285.4			
+47	Tennessee	ZIRAM	2005	kg							4779.3			
+47	Tennessee	ZIRAM	2006	kg							2099.7			
+47	Tennessee	ZIRAM	2007	kg							2970.2			
+47	Tennessee	ZIRAM	2008	kg							1882.6			
+47	Tennessee	ZIRAM	2009	kg							2965.7			
+47	Tennessee	ZIRAM	2010	kg							3138.1			
+47	Tennessee	ZIRAM	2011	kg							1707.2			
+47	Tennessee	ZIRAM	2012	kg							2346.9			
+47	Tennessee	ZIRAM	2013	kg							893			
+47	Tennessee	ZIRAM	2014	kg							3158.6			
+47	Tennessee	ZIRAM	2015	kg							2150.3			
+47	Tennessee	ZIRAM	2016	kg							1030.1			
+47	Tennessee	ZIRAM	2017	kg							634.8			
+48	Texas	ZIRAM	1992	kg							12053.8			
+48	Texas	ZIRAM	1993	kg							4309.4			
+48	Texas	ZIRAM	1994	kg							1164.5			
+48	Texas	ZIRAM	1995	kg							3847.2			
+48	Texas	ZIRAM	1996	kg							50032.3			
+48	Texas	ZIRAM	1997	kg							156364.9			
+48	Texas	ZIRAM	1998	kg							11665.5			
+48	Texas	ZIRAM	1999	kg							21943.5			
+48	Texas	ZIRAM	2000	kg							3130.5			
+48	Texas	ZIRAM	2001	kg							18319.7			
+48	Texas	ZIRAM	2002	kg							11605.1			
+48	Texas	ZIRAM	2003	kg							18766.3			
+48	Texas	ZIRAM	2004	kg							14523.3			
+48	Texas	ZIRAM	2005	kg							7559.7			
+48	Texas	ZIRAM	2006	kg							16686.3			
+48	Texas	ZIRAM	2008	kg							42760.5			
+48	Texas	ZIRAM	2009	kg							25553.5			
+48	Texas	ZIRAM	2014	kg							30950.6			
+49	Utah	ZIRAM	1992	kg							25.4			
+49	Utah	ZIRAM	1995	kg							219.2			
+49	Utah	ZIRAM	1997	kg							243.6			
+49	Utah	ZIRAM	1998	kg							15			
+49	Utah	ZIRAM	1999	kg							17.4			
+49	Utah	ZIRAM	2000	kg							19.3			
+49	Utah	ZIRAM	2001	kg							12.7			
+49	Utah	ZIRAM	2002	kg							20.8			
+49	Utah	ZIRAM	2004	kg							162.6			
+49	Utah	ZIRAM	2012	kg							182.4			
+49	Utah	ZIRAM	2013	kg							621.1			
+49	Utah	ZIRAM	2015	kg							58.2			
+50	Vermont	ZIRAM	1992	kg							86.2			
+50	Vermont	ZIRAM	1993	kg							7.5			
+50	Vermont	ZIRAM	1994	kg							105.9			
+50	Vermont	ZIRAM	1995	kg							939.7			
+50	Vermont	ZIRAM	1996	kg							949.4			
+50	Vermont	ZIRAM	1997	kg							500.9			
+50	Vermont	ZIRAM	1998	kg							809			
+50	Vermont	ZIRAM	1999	kg							4659			
+50	Vermont	ZIRAM	2000	kg							2044.5			
+50	Vermont	ZIRAM	2001	kg							629.4			
+50	Vermont	ZIRAM	2002	kg							1658.9			
+50	Vermont	ZIRAM	2003	kg							1287.1			
+50	Vermont	ZIRAM	2004	kg							2600.6			
+50	Vermont	ZIRAM	2005	kg							1838.3			
+50	Vermont	ZIRAM	2006	kg							3707.1			
+50	Vermont	ZIRAM	2007	kg							3236.4			
+50	Vermont	ZIRAM	2008	kg					143.4		3713.5			
+50	Vermont	ZIRAM	2009	kg							1256.1			
+50	Vermont	ZIRAM	2010	kg							3657.6			
+50	Vermont	ZIRAM	2011	kg							2384.8			
+50	Vermont	ZIRAM	2012	kg							2393.8			
+50	Vermont	ZIRAM	2013	kg							2245			
+50	Vermont	ZIRAM	2014	kg							153			
+50	Vermont	ZIRAM	2015	kg							363.7			
+50	Vermont	ZIRAM	2016	kg							355.5			
+50	Vermont	ZIRAM	2017	kg							1763.9			
+51	Virginia	ZIRAM	1992	kg							57904.9			
+51	Virginia	ZIRAM	1993	kg							3793.7			
+51	Virginia	ZIRAM	1994	kg							24597.3			
+51	Virginia	ZIRAM	1995	kg							92472.9			
+51	Virginia	ZIRAM	1996	kg							60945.3			
+51	Virginia	ZIRAM	1997	kg							30865.3			
+51	Virginia	ZIRAM	1998	kg							89839.1			
+51	Virginia	ZIRAM	1999	kg							96073.5			
+51	Virginia	ZIRAM	2000	kg							92461.3			
+51	Virginia	ZIRAM	2001	kg							40567.3			
+51	Virginia	ZIRAM	2002	kg							33084.8			
+51	Virginia	ZIRAM	2003	kg							43110.6			
+51	Virginia	ZIRAM	2004	kg							48341.4			
+51	Virginia	ZIRAM	2005	kg							60645			
+51	Virginia	ZIRAM	2006	kg							22082.7			
+51	Virginia	ZIRAM	2007	kg							54286.1			
+51	Virginia	ZIRAM	2008	kg							64659.4			
+51	Virginia	ZIRAM	2009	kg							47102.2			
+51	Virginia	ZIRAM	2010	kg							20138			
+51	Virginia	ZIRAM	2011	kg							17764.5			
+51	Virginia	ZIRAM	2012	kg							37206.9			
+51	Virginia	ZIRAM	2013	kg							7490.5			
+51	Virginia	ZIRAM	2014	kg							57819.3			
+51	Virginia	ZIRAM	2015	kg							14261.9			
+51	Virginia	ZIRAM	2016	kg							4849.6			
+51	Virginia	ZIRAM	2017	kg							23770.8			
+53	Washington	ZIRAM	1992	kg							53696.4			
+53	Washington	ZIRAM	1993	kg							83582.4			
+53	Washington	ZIRAM	1994	kg							33347.5			
+53	Washington	ZIRAM	1995	kg							45227.3			
+53	Washington	ZIRAM	1996	kg							306437.2			
+53	Washington	ZIRAM	1997	kg							144986.4			
+53	Washington	ZIRAM	1998	kg							131182.6			
+53	Washington	ZIRAM	1999	kg							65549.3			
+53	Washington	ZIRAM	2000	kg							40932.9			
+53	Washington	ZIRAM	2001	kg							66728.3			
+53	Washington	ZIRAM	2002	kg							28148.7			
+53	Washington	ZIRAM	2003	kg							68458.2			
+53	Washington	ZIRAM	2004	kg							43475.1			
+53	Washington	ZIRAM	2005	kg							63467.9			
+53	Washington	ZIRAM	2006	kg							54781.3			
+53	Washington	ZIRAM	2007	kg					7.8		45914.6			
+53	Washington	ZIRAM	2008	kg							22522.2			
+53	Washington	ZIRAM	2009	kg							28512.5			
+53	Washington	ZIRAM	2010	kg							24175.1			
+53	Washington	ZIRAM	2011	kg							29397.6			
+53	Washington	ZIRAM	2012	kg							30189.2			
+53	Washington	ZIRAM	2013	kg							35551.5			
+53	Washington	ZIRAM	2014	kg							46872.5			
+53	Washington	ZIRAM	2015	kg							19760.1			
+53	Washington	ZIRAM	2016	kg							109403.7			
+53	Washington	ZIRAM	2017	kg							3930			
+54	West Virginia	ZIRAM	1992	kg							81613.8			
+54	West Virginia	ZIRAM	1993	kg							1514.1			
+54	West Virginia	ZIRAM	1994	kg							35677.8			
+54	West Virginia	ZIRAM	1995	kg							9022.7			
+54	West Virginia	ZIRAM	1996	kg							25364.1			
+54	West Virginia	ZIRAM	1997	kg							17636.7			
+54	West Virginia	ZIRAM	1998	kg							18306.6			
+54	West Virginia	ZIRAM	1999	kg							96769			
+54	West Virginia	ZIRAM	2000	kg							10486.1			
+54	West Virginia	ZIRAM	2001	kg							29158.9			
+54	West Virginia	ZIRAM	2002	kg							33793.6			
+54	West Virginia	ZIRAM	2003	kg							4040.6			
+54	West Virginia	ZIRAM	2004	kg							14408			
+54	West Virginia	ZIRAM	2005	kg							27816.1			
+54	West Virginia	ZIRAM	2006	kg							25018.4			
+54	West Virginia	ZIRAM	2007	kg							1120.3			
+54	West Virginia	ZIRAM	2008	kg							20541.9			
+54	West Virginia	ZIRAM	2009	kg							16536.5			
+54	West Virginia	ZIRAM	2010	kg							12532.6			
+54	West Virginia	ZIRAM	2011	kg							15111.5			
+54	West Virginia	ZIRAM	2012	kg							6595.1			
+54	West Virginia	ZIRAM	2013	kg							22787.8			
+54	West Virginia	ZIRAM	2014	kg							18249.4			
+54	West Virginia	ZIRAM	2015	kg							16299.9			
+54	West Virginia	ZIRAM	2016	kg							5008.5			
+54	West Virginia	ZIRAM	2017	kg							1270			
+55	Wisconsin	ZIRAM	1993	kg							3323			
+55	Wisconsin	ZIRAM	1994	kg							2336.3			
+55	Wisconsin	ZIRAM	1995	kg							5378.1			
+55	Wisconsin	ZIRAM	1996	kg							3673.5			
+55	Wisconsin	ZIRAM	1997	kg							2226.1			
+55	Wisconsin	ZIRAM	1998	kg							7992.2			
+55	Wisconsin	ZIRAM	1999	kg							4365.3			
+55	Wisconsin	ZIRAM	2000	kg							3110.1			
+55	Wisconsin	ZIRAM	2001	kg							4484.7			
+55	Wisconsin	ZIRAM	2002	kg							6558.1			
+55	Wisconsin	ZIRAM	2003	kg							5719.8			
+55	Wisconsin	ZIRAM	2004	kg							15689.7			
+55	Wisconsin	ZIRAM	2005	kg							8030.8			
+55	Wisconsin	ZIRAM	2006	kg							2788.8			
+55	Wisconsin	ZIRAM	2007	kg							5870.5			
+55	Wisconsin	ZIRAM	2008	kg							6338			
+55	Wisconsin	ZIRAM	2009	kg							5273			
+55	Wisconsin	ZIRAM	2010	kg							5677.4			
+55	Wisconsin	ZIRAM	2011	kg							5511.5			
+55	Wisconsin	ZIRAM	2012	kg							2594.5			
+55	Wisconsin	ZIRAM	2013	kg							5274.8			
+55	Wisconsin	ZIRAM	2014	kg							7386.7			
+55	Wisconsin	ZIRAM	2015	kg							6541.9			
+55	Wisconsin	ZIRAM	2016	kg							7740.7			
+55	Wisconsin	ZIRAM	2017	kg							11046.6			

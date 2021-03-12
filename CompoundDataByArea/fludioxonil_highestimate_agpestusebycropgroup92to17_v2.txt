@@ -1,0 +1,504 @@
+01	Alabama	FLUDIOXONIL	2006	kg		38.2		24.6						
+01	Alabama	FLUDIOXONIL	2007	kg		57.1		16.4						
+01	Alabama	FLUDIOXONIL	2008	kg		121.8		8.1						
+01	Alabama	FLUDIOXONIL	2009	kg		187.8		42.2						79.7
+01	Alabama	FLUDIOXONIL	2010	kg		35.5		63.3	2.2					130.3
+01	Alabama	FLUDIOXONIL	2011	kg		718.6		54.7	0.7					206.5
+01	Alabama	FLUDIOXONIL	2012	kg		119.9		26.6						213
+01	Alabama	FLUDIOXONIL	2013	kg		139.6		25.1	61.8					92.7
+01	Alabama	FLUDIOXONIL	2014	kg		65.9	97.7	38.4	0.1					175.8
+04	Arizona	FLUDIOXONIL	2006	kg				4.7						
+04	Arizona	FLUDIOXONIL	2007	kg				1.8						
+04	Arizona	FLUDIOXONIL	2008	kg				1.3	0.1					
+04	Arizona	FLUDIOXONIL	2009	kg				13.9	80.8					
+04	Arizona	FLUDIOXONIL	2010	kg				21.7	64.2					
+04	Arizona	FLUDIOXONIL	2011	kg				3.1	79.8					
+04	Arizona	FLUDIOXONIL	2012	kg				9.4	143.6		46.5			
+04	Arizona	FLUDIOXONIL	2013	kg				8.3	1979.8		0.1			
+04	Arizona	FLUDIOXONIL	2014	kg			3.9	5.1	6048					
+04	Arizona	FLUDIOXONIL	2015	kg					3161.7		4.1			
+04	Arizona	FLUDIOXONIL	2016	kg					1246.9		6.9			
+04	Arizona	FLUDIOXONIL	2017	kg					1146.7		4.9			
+05	Arkansas	FLUDIOXONIL	2006	kg		353.2		61.9						
+05	Arkansas	FLUDIOXONIL	2007	kg		371.8		34.3						
+05	Arkansas	FLUDIOXONIL	2008	kg		826.1		42.5						
+05	Arkansas	FLUDIOXONIL	2009	kg		925.2		93.6						
+05	Arkansas	FLUDIOXONIL	2010	kg		1383.6		100.7						
+05	Arkansas	FLUDIOXONIL	2011	kg		1424		45						
+05	Arkansas	FLUDIOXONIL	2012	kg		1185.9		54.7						
+05	Arkansas	FLUDIOXONIL	2013	kg		997.8		23.6						
+05	Arkansas	FLUDIOXONIL	2014	kg		730.2	46.2	9.2	0					
+06	California	FLUDIOXONIL	2001	kg					4.1		33.6			
+06	California	FLUDIOXONIL	2002	kg					1390.4		50.2			
+06	California	FLUDIOXONIL	2003	kg					2349.4		108.9			
+06	California	FLUDIOXONIL	2004	kg					1973.8		246.4		2.7	
+06	California	FLUDIOXONIL	2005	kg					3041.4		405.8			
+06	California	FLUDIOXONIL	2006	kg					2796.3		373.1			
+06	California	FLUDIOXONIL	2007	kg					3724.8		417.7		0.7	
+06	California	FLUDIOXONIL	2008	kg	8.3			13.8	4591.7		925.3			1.7
+06	California	FLUDIOXONIL	2009	kg	0			63.9	4681.9		937.3			6.2
+06	California	FLUDIOXONIL	2010	kg				48.1	7019		2019.8			2.4
+06	California	FLUDIOXONIL	2011	kg				99.5	8158.8		3070.3			1.7
+06	California	FLUDIOXONIL	2012	kg	5.4			34.4	11398.9		4930.9			0.6
+06	California	FLUDIOXONIL	2013	kg				29.4	10574.2		6111.4			2.7
+06	California	FLUDIOXONIL	2014	kg				43.5	11233.1		5460.6			10
+06	California	FLUDIOXONIL	2015	kg	3.2			37.9	10488.1		5557.3			10.6
+06	California	FLUDIOXONIL	2016	kg			3.3	14	12133.8		7189.3			8.3
+06	California	FLUDIOXONIL	2017	kg				124.6	10716.6		6221			5.1
+08	Colorado	FLUDIOXONIL	2006	kg		0.3								
+08	Colorado	FLUDIOXONIL	2007	kg		0.5								
+08	Colorado	FLUDIOXONIL	2008	kg		0.3								
+08	Colorado	FLUDIOXONIL	2009	kg		0			488.4					
+08	Colorado	FLUDIOXONIL	2010	kg		1			669.7					
+08	Colorado	FLUDIOXONIL	2011	kg		4.1			898.6					0.6
+08	Colorado	FLUDIOXONIL	2012	kg		0.7			312.3					2
+08	Colorado	FLUDIOXONIL	2013	kg		0.7			243.7					0.1
+08	Colorado	FLUDIOXONIL	2014	kg		1	59.3		629.5					
+09	Connecticut	FLUDIOXONIL	2003	kg					0					
+09	Connecticut	FLUDIOXONIL	2004	kg					0.4					
+09	Connecticut	FLUDIOXONIL	2006	kg							9.3			
+09	Connecticut	FLUDIOXONIL	2008	kg		0			4.8					
+09	Connecticut	FLUDIOXONIL	2009	kg		0			5.8					
+09	Connecticut	FLUDIOXONIL	2010	kg		0			6.6					
+09	Connecticut	FLUDIOXONIL	2011	kg		0			7.5					
+09	Connecticut	FLUDIOXONIL	2012	kg		0.1			11.5					
+09	Connecticut	FLUDIOXONIL	2013	kg		0			9					
+09	Connecticut	FLUDIOXONIL	2014	kg		0			26.7					
+10	Delaware	FLUDIOXONIL	2006	kg		3								
+10	Delaware	FLUDIOXONIL	2007	kg		19.5								
+10	Delaware	FLUDIOXONIL	2008	kg		28			0.4					
+10	Delaware	FLUDIOXONIL	2009	kg		61.7			1.3					
+10	Delaware	FLUDIOXONIL	2010	kg		20.6			0.9					
+10	Delaware	FLUDIOXONIL	2011	kg		5.9			1.4					
+10	Delaware	FLUDIOXONIL	2012	kg		10.2			1					
+10	Delaware	FLUDIOXONIL	2013	kg		8.3								
+10	Delaware	FLUDIOXONIL	2014	kg		17.2			3					
+12	Florida	FLUDIOXONIL	2004	kg					263.7					
+12	Florida	FLUDIOXONIL	2005	kg					101.5					
+12	Florida	FLUDIOXONIL	2006	kg				4.2	48.2					
+12	Florida	FLUDIOXONIL	2007	kg				3.1	1851.2					
+12	Florida	FLUDIOXONIL	2008	kg		5.8		7.2	2323.4					
+12	Florida	FLUDIOXONIL	2009	kg		8.9		21.9	1531.8					130.2
+12	Florida	FLUDIOXONIL	2010	kg				22	1411.3					70.7
+12	Florida	FLUDIOXONIL	2011	kg		1		12.7	3296.1					97.2
+12	Florida	FLUDIOXONIL	2012	kg		2.5		13.5	2559.3					95.2
+12	Florida	FLUDIOXONIL	2013	kg		1.7		15.5	2106.3					108.9
+12	Florida	FLUDIOXONIL	2014	kg		1	5.9	11.9	2914.7					73.1
+12	Florida	FLUDIOXONIL	2015	kg					2769.8					
+12	Florida	FLUDIOXONIL	2016	kg					1480.2					
+12	Florida	FLUDIOXONIL	2017	kg					2364.7					
+13	Georgia	FLUDIOXONIL	2006	kg		20.7		52.5						
+13	Georgia	FLUDIOXONIL	2007	kg		95		44.3						
+13	Georgia	FLUDIOXONIL	2008	kg		95.6		53.9						
+13	Georgia	FLUDIOXONIL	2009	kg		111.6		196.8	784					257.6
+13	Georgia	FLUDIOXONIL	2010	kg		13.6		215.3	14.7					466.8
+13	Georgia	FLUDIOXONIL	2011	kg		55.1		122.4	158.2					275.5
+13	Georgia	FLUDIOXONIL	2012	kg		42.1		160.5	31.4					484.7
+13	Georgia	FLUDIOXONIL	2013	kg		31.1		159.8	48.3					504.9
+13	Georgia	FLUDIOXONIL	2014	kg		18.3	57.6	114.6	134.2					398.1
+16	Idaho	FLUDIOXONIL	2006	kg					3.9					
+16	Idaho	FLUDIOXONIL	2008	kg					0.9					
+16	Idaho	FLUDIOXONIL	2009	kg			150.2		983.2					
+16	Idaho	FLUDIOXONIL	2010	kg					1012.3					
+16	Idaho	FLUDIOXONIL	2011	kg					796.2					2.1
+16	Idaho	FLUDIOXONIL	2012	kg					948.1					
+16	Idaho	FLUDIOXONIL	2013	kg					1006.1					1.1
+16	Idaho	FLUDIOXONIL	2014	kg			89.8		849.2					
+16	Idaho	FLUDIOXONIL	2015	kg					0.5					
+17	Illinois	FLUDIOXONIL	2003	kg					2.6					
+17	Illinois	FLUDIOXONIL	2004	kg					1.3					
+17	Illinois	FLUDIOXONIL	2005	kg					4.5					
+17	Illinois	FLUDIOXONIL	2006	kg		306.6								
+17	Illinois	FLUDIOXONIL	2007	kg		325.6								
+17	Illinois	FLUDIOXONIL	2008	kg		701.9								
+17	Illinois	FLUDIOXONIL	2009	kg		1118.5			14.6					
+17	Illinois	FLUDIOXONIL	2010	kg		1634.7			28.7					
+17	Illinois	FLUDIOXONIL	2011	kg		2193			25.4					
+17	Illinois	FLUDIOXONIL	2012	kg		1700.4			24.4					
+17	Illinois	FLUDIOXONIL	2013	kg		1869.5			34.7					
+17	Illinois	FLUDIOXONIL	2014	kg		1677.1	286.7		35.3					
+17	Illinois	FLUDIOXONIL	2015	kg					164.8					
+17	Illinois	FLUDIOXONIL	2016	kg					42.2					
+17	Illinois	FLUDIOXONIL	2017	kg					522.3					
+18	Indiana	FLUDIOXONIL	2002	kg					3.7					
+18	Indiana	FLUDIOXONIL	2003	kg					2.2					
+18	Indiana	FLUDIOXONIL	2004	kg					8.4					
+18	Indiana	FLUDIOXONIL	2005	kg					6.2					
+18	Indiana	FLUDIOXONIL	2006	kg		572.6			3.2					
+18	Indiana	FLUDIOXONIL	2007	kg		421.7			124.7					
+18	Indiana	FLUDIOXONIL	2008	kg		633.1			121.5					
+18	Indiana	FLUDIOXONIL	2009	kg		1261.8	0.1		13.3					
+18	Indiana	FLUDIOXONIL	2010	kg		1418.4			348.5					
+18	Indiana	FLUDIOXONIL	2011	kg		1623.8			32.2					
+18	Indiana	FLUDIOXONIL	2012	kg		1678.9			27.4					
+18	Indiana	FLUDIOXONIL	2013	kg		1630			38.8					
+18	Indiana	FLUDIOXONIL	2014	kg		2056.8	45		17.4					
+18	Indiana	FLUDIOXONIL	2015	kg					23.2					
+18	Indiana	FLUDIOXONIL	2017	kg					39.4					
+19	Iowa	FLUDIOXONIL	2006	kg		733								
+19	Iowa	FLUDIOXONIL	2007	kg		872.3								
+19	Iowa	FLUDIOXONIL	2008	kg		1467.3								
+19	Iowa	FLUDIOXONIL	2009	kg		2086.6			8.9					
+19	Iowa	FLUDIOXONIL	2010	kg		1396.3			6.2					
+19	Iowa	FLUDIOXONIL	2011	kg		2001.4			7.6					
+19	Iowa	FLUDIOXONIL	2012	kg		1542.4			2.6					
+19	Iowa	FLUDIOXONIL	2013	kg		1379.4			7.7					
+19	Iowa	FLUDIOXONIL	2014	kg		1628.3	0		3.3					
+19	Iowa	FLUDIOXONIL	2015	kg					0					
+19	Iowa	FLUDIOXONIL	2017	kg					1.9					
+20	Kansas	FLUDIOXONIL	2006	kg		125		1.8						
+20	Kansas	FLUDIOXONIL	2007	kg		185.2		1.6						
+20	Kansas	FLUDIOXONIL	2008	kg		603		3						
+20	Kansas	FLUDIOXONIL	2009	kg		722.2		5.4	25.1					
+20	Kansas	FLUDIOXONIL	2010	kg		287.8		4	34.9					
+20	Kansas	FLUDIOXONIL	2011	kg		576.7		9.7	30.5					
+20	Kansas	FLUDIOXONIL	2012	kg		518.3		6.3	9.2					
+20	Kansas	FLUDIOXONIL	2013	kg		545.8		1.2	25.1					
+20	Kansas	FLUDIOXONIL	2014	kg		485.5		1.9	26.7					
+21	Kentucky	FLUDIOXONIL	2006	kg		73.6								
+21	Kentucky	FLUDIOXONIL	2007	kg		46								
+21	Kentucky	FLUDIOXONIL	2008	kg		49.8								
+21	Kentucky	FLUDIOXONIL	2009	kg		150.5								
+21	Kentucky	FLUDIOXONIL	2010	kg		204.8			21.9					
+21	Kentucky	FLUDIOXONIL	2011	kg		774.8								
+21	Kentucky	FLUDIOXONIL	2012	kg		601.2								
+21	Kentucky	FLUDIOXONIL	2013	kg		354.1								
+21	Kentucky	FLUDIOXONIL	2014	kg		676.8	291.9							
+22	Louisiana	FLUDIOXONIL	2006	kg		94.3		18.2						
+22	Louisiana	FLUDIOXONIL	2007	kg		159.9		29.5						
+22	Louisiana	FLUDIOXONIL	2008	kg		345.4		26.8						
+22	Louisiana	FLUDIOXONIL	2009	kg		2390		55.7						
+22	Louisiana	FLUDIOXONIL	2010	kg		90.1		30						
+22	Louisiana	FLUDIOXONIL	2011	kg		619.4		13.8						
+22	Louisiana	FLUDIOXONIL	2012	kg		611.2		28.8						
+22	Louisiana	FLUDIOXONIL	2013	kg		602.5		16.8						
+22	Louisiana	FLUDIOXONIL	2014	kg		844.1		12.8	0.2					
+23	Maine	FLUDIOXONIL	2009	kg					254.4					
+23	Maine	FLUDIOXONIL	2010	kg					442.6					
+23	Maine	FLUDIOXONIL	2011	kg					294					
+23	Maine	FLUDIOXONIL	2012	kg					486.4					
+23	Maine	FLUDIOXONIL	2013	kg					499.2					
+23	Maine	FLUDIOXONIL	2014	kg					463.5					
+24	Maryland	FLUDIOXONIL	2003	kg					1					
+24	Maryland	FLUDIOXONIL	2006	kg		27.6								
+24	Maryland	FLUDIOXONIL	2007	kg		42.7			1					
+24	Maryland	FLUDIOXONIL	2008	kg		38.7			4					
+24	Maryland	FLUDIOXONIL	2009	kg		75.3			3.2					
+24	Maryland	FLUDIOXONIL	2010	kg		32.4			6.1					
+24	Maryland	FLUDIOXONIL	2011	kg		21.8			10					
+24	Maryland	FLUDIOXONIL	2012	kg		3.5			9.1					
+24	Maryland	FLUDIOXONIL	2013	kg		58.9			8					
+24	Maryland	FLUDIOXONIL	2014	kg		33.6			15.6					
+25	Massachusetts	FLUDIOXONIL	2003	kg					0.7					
+25	Massachusetts	FLUDIOXONIL	2004	kg					1.8					
+25	Massachusetts	FLUDIOXONIL	2006	kg							16.6			
+25	Massachusetts	FLUDIOXONIL	2008	kg		0			7.6					
+25	Massachusetts	FLUDIOXONIL	2009	kg		0			37.7					
+25	Massachusetts	FLUDIOXONIL	2010	kg		0			29.8					
+25	Massachusetts	FLUDIOXONIL	2011	kg		0			55.5					
+25	Massachusetts	FLUDIOXONIL	2012	kg		0.3			31.6					
+25	Massachusetts	FLUDIOXONIL	2013	kg		0			65.6					
+25	Massachusetts	FLUDIOXONIL	2014	kg		0			67.5					
+26	Michigan	FLUDIOXONIL	2002	kg					55.5					
+26	Michigan	FLUDIOXONIL	2003	kg					22.4					
+26	Michigan	FLUDIOXONIL	2004	kg					61.5					
+26	Michigan	FLUDIOXONIL	2005	kg					44.7					
+26	Michigan	FLUDIOXONIL	2006	kg		144.4			28.3					
+26	Michigan	FLUDIOXONIL	2007	kg		253.9			225.9					
+26	Michigan	FLUDIOXONIL	2008	kg		346.1			252.8					
+26	Michigan	FLUDIOXONIL	2009	kg		437.6	41.3		478.6					
+26	Michigan	FLUDIOXONIL	2010	kg		488.1			534.7					1.4
+26	Michigan	FLUDIOXONIL	2011	kg		496.6			579.7					2.4
+26	Michigan	FLUDIOXONIL	2012	kg		299.5			888.6					0.3
+26	Michigan	FLUDIOXONIL	2013	kg		371.5			426.5					1.2
+26	Michigan	FLUDIOXONIL	2014	kg		408.8	51.2		349.2					3.7
+26	Michigan	FLUDIOXONIL	2015	kg					116.9					
+26	Michigan	FLUDIOXONIL	2016	kg					8.2					
+26	Michigan	FLUDIOXONIL	2017	kg					802.4					
+27	Minnesota	FLUDIOXONIL	2002	kg					4.8					
+27	Minnesota	FLUDIOXONIL	2003	kg					5					
+27	Minnesota	FLUDIOXONIL	2004	kg					3.9					
+27	Minnesota	FLUDIOXONIL	2005	kg					6.3					
+27	Minnesota	FLUDIOXONIL	2006	kg		608.6								
+27	Minnesota	FLUDIOXONIL	2007	kg		536.5								
+27	Minnesota	FLUDIOXONIL	2008	kg		1039.6			2					
+27	Minnesota	FLUDIOXONIL	2009	kg		1099.5			201.2					
+27	Minnesota	FLUDIOXONIL	2010	kg		948.5			215.6					9.4
+27	Minnesota	FLUDIOXONIL	2011	kg		1245.7			118.7					12.2
+27	Minnesota	FLUDIOXONIL	2012	kg		700.6			390.4					2.9
+27	Minnesota	FLUDIOXONIL	2013	kg		790.5			114.2					0.9
+27	Minnesota	FLUDIOXONIL	2014	kg		1115.1	27.1		711.9					1.2
+27	Minnesota	FLUDIOXONIL	2015	kg					20.8					
+27	Minnesota	FLUDIOXONIL	2017	kg					164.7					
+28	Mississippi	FLUDIOXONIL	2006	kg		375.3		51.8						
+28	Mississippi	FLUDIOXONIL	2007	kg		385.8		32.8						
+28	Mississippi	FLUDIOXONIL	2008	kg		642.2		28.3						
+28	Mississippi	FLUDIOXONIL	2009	kg		484.1		49						8
+28	Mississippi	FLUDIOXONIL	2010	kg		350.9		64.1						11.1
+28	Mississippi	FLUDIOXONIL	2011	kg		686.8		49.7						13
+28	Mississippi	FLUDIOXONIL	2012	kg		401.6		31.5						8.2
+28	Mississippi	FLUDIOXONIL	2013	kg		276.4		22.3	11.5					6.7
+28	Mississippi	FLUDIOXONIL	2014	kg		839.4	25.6	23.4						27.6
+29	Missouri	FLUDIOXONIL	2006	kg		259		21.2						
+29	Missouri	FLUDIOXONIL	2007	kg		401.5		18.9						
+29	Missouri	FLUDIOXONIL	2008	kg		697.4		17.2						
+29	Missouri	FLUDIOXONIL	2009	kg		718.2		35.3						
+29	Missouri	FLUDIOXONIL	2010	kg		402.4		36.1						
+29	Missouri	FLUDIOXONIL	2011	kg		696.1		28.1						
+29	Missouri	FLUDIOXONIL	2012	kg		630.7		34.8						
+29	Missouri	FLUDIOXONIL	2013	kg		554.5		18.5						
+29	Missouri	FLUDIOXONIL	2014	kg		1033.1	170	8.6						
+30	Montana	FLUDIOXONIL	2008	kg		0								
+30	Montana	FLUDIOXONIL	2009	kg		0	8.4		45.9					
+30	Montana	FLUDIOXONIL	2010	kg		0			71.5					
+30	Montana	FLUDIOXONIL	2011	kg		0			114.3					2.5
+30	Montana	FLUDIOXONIL	2012	kg		0			93.5					0.2
+30	Montana	FLUDIOXONIL	2013	kg		0.6			153.7					1.2
+30	Montana	FLUDIOXONIL	2014	kg		0.8	144.6		122					
+31	Nebraska	FLUDIOXONIL	2006	kg		264.3								
+31	Nebraska	FLUDIOXONIL	2007	kg		455.5								
+31	Nebraska	FLUDIOXONIL	2008	kg		701.2								
+31	Nebraska	FLUDIOXONIL	2009	kg		769.9			609.7					
+31	Nebraska	FLUDIOXONIL	2010	kg		1123.3			321.1					
+31	Nebraska	FLUDIOXONIL	2011	kg		1087.4			340.6					1.6
+31	Nebraska	FLUDIOXONIL	2012	kg		1038.2			129.5					1.1
+31	Nebraska	FLUDIOXONIL	2013	kg		1230.3			271.3					0.3
+31	Nebraska	FLUDIOXONIL	2014	kg		987.4	38.7		285.4					
+32	Nevada	FLUDIOXONIL	2008	kg					0					
+32	Nevada	FLUDIOXONIL	2009	kg					52.8					
+32	Nevada	FLUDIOXONIL	2010	kg					19.8					
+32	Nevada	FLUDIOXONIL	2011	kg					39.6		0			
+32	Nevada	FLUDIOXONIL	2012	kg					57.6		1.2			
+32	Nevada	FLUDIOXONIL	2013	kg					35.4					
+32	Nevada	FLUDIOXONIL	2014	kg			9.9		33.2					
+32	Nevada	FLUDIOXONIL	2015	kg					0.6		0			
+32	Nevada	FLUDIOXONIL	2016	kg					0.2					
+32	Nevada	FLUDIOXONIL	2017	kg					0.5		0			
+33	New Hampshire	FLUDIOXONIL	2008	kg					3.2					
+33	New Hampshire	FLUDIOXONIL	2009	kg					1.9					
+33	New Hampshire	FLUDIOXONIL	2010	kg					5.9					
+33	New Hampshire	FLUDIOXONIL	2011	kg					5.8					
+33	New Hampshire	FLUDIOXONIL	2012	kg					6					
+33	New Hampshire	FLUDIOXONIL	2013	kg					4.5					
+33	New Hampshire	FLUDIOXONIL	2014	kg					7.7					
+34	New Jersey	FLUDIOXONIL	2003	kg					0					
+34	New Jersey	FLUDIOXONIL	2004	kg					0					
+34	New Jersey	FLUDIOXONIL	2006	kg		5.2					3.6			
+34	New Jersey	FLUDIOXONIL	2007	kg		7.8								
+34	New Jersey	FLUDIOXONIL	2008	kg		4.4			5.9					
+34	New Jersey	FLUDIOXONIL	2009	kg		13.2			13.9					
+34	New Jersey	FLUDIOXONIL	2010	kg		6.6			19.2					
+34	New Jersey	FLUDIOXONIL	2011	kg		5.1			20.5					
+34	New Jersey	FLUDIOXONIL	2012	kg		8.4			37.9					
+34	New Jersey	FLUDIOXONIL	2013	kg		9.2			40.3					
+34	New Jersey	FLUDIOXONIL	2014	kg		3			39.6					
+35	New Mexico	FLUDIOXONIL	2003	kg					27.3					
+35	New Mexico	FLUDIOXONIL	2006	kg		0		0.5						
+35	New Mexico	FLUDIOXONIL	2007	kg				0.3	14.2					
+35	New Mexico	FLUDIOXONIL	2008	kg				0.2						
+35	New Mexico	FLUDIOXONIL	2009	kg				2.9	52.7					0.3
+35	New Mexico	FLUDIOXONIL	2010	kg				2.3	497.5					0.6
+35	New Mexico	FLUDIOXONIL	2011	kg				0.3	89.4					5.5
+35	New Mexico	FLUDIOXONIL	2012	kg				0.9	26.5					3.9
+35	New Mexico	FLUDIOXONIL	2013	kg		0.1		0.9	29.4					1.5
+35	New Mexico	FLUDIOXONIL	2014	kg			0.9	1.2	21.8					5
+35	New Mexico	FLUDIOXONIL	2015	kg					0					
+36	New York	FLUDIOXONIL	2003	kg					75					
+36	New York	FLUDIOXONIL	2004	kg					266.3					
+36	New York	FLUDIOXONIL	2006	kg		48.8					68.2			
+36	New York	FLUDIOXONIL	2007	kg		8.2			8.2					
+36	New York	FLUDIOXONIL	2008	kg		28.8			35.6					
+36	New York	FLUDIOXONIL	2009	kg		16.9			191.4					
+36	New York	FLUDIOXONIL	2010	kg		18.3			256.8					
+36	New York	FLUDIOXONIL	2011	kg		67.6			334.1					
+36	New York	FLUDIOXONIL	2012	kg		47.7			281.2					
+36	New York	FLUDIOXONIL	2013	kg		48.6			339.3		1.8			
+36	New York	FLUDIOXONIL	2014	kg		17.6			319					
+36	New York	FLUDIOXONIL	2015	kg					21.8					
+37	North Carolina	FLUDIOXONIL	2006	kg		36.3		40.3						
+37	North Carolina	FLUDIOXONIL	2007	kg		105.9		24						
+37	North Carolina	FLUDIOXONIL	2008	kg		218		23.1						
+37	North Carolina	FLUDIOXONIL	2009	kg		562.7		55.2						25.6
+37	North Carolina	FLUDIOXONIL	2010	kg		49.9		76.6	210.7					12.9
+37	North Carolina	FLUDIOXONIL	2011	kg		337		110.2	103.6					44.5
+37	North Carolina	FLUDIOXONIL	2012	kg		134.7		67.2						27
+37	North Carolina	FLUDIOXONIL	2013	kg		164.9		67.2	889.9					87.2
+37	North Carolina	FLUDIOXONIL	2014	kg		181.6	86.9	51	210					74.1
+37	North Carolina	FLUDIOXONIL	2015	kg					231.9					
+38	North Dakota	FLUDIOXONIL	2006	kg		313.7								
+38	North Dakota	FLUDIOXONIL	2007	kg		488.5								
+38	North Dakota	FLUDIOXONIL	2008	kg		752.7								
+38	North Dakota	FLUDIOXONIL	2009	kg		1019.6			408					
+38	North Dakota	FLUDIOXONIL	2010	kg		664.4			410.5					4.9
+38	North Dakota	FLUDIOXONIL	2011	kg		930			448.9					4.5
+38	North Dakota	FLUDIOXONIL	2012	kg		744.8			1169.6					2.4
+38	North Dakota	FLUDIOXONIL	2013	kg		463.9			1264.3					1.7
+38	North Dakota	FLUDIOXONIL	2014	kg		1704.8	140.9		593.2					
+39	Ohio	FLUDIOXONIL	2002	kg					78.4					
+39	Ohio	FLUDIOXONIL	2003	kg					62					
+39	Ohio	FLUDIOXONIL	2004	kg					13.1					
+39	Ohio	FLUDIOXONIL	2005	kg					30.9					
+39	Ohio	FLUDIOXONIL	2006	kg		406.3			2.8					
+39	Ohio	FLUDIOXONIL	2007	kg		260.1			24.6					
+39	Ohio	FLUDIOXONIL	2008	kg		1175.6			43.2					
+39	Ohio	FLUDIOXONIL	2009	kg		878.5	2.5		13					
+39	Ohio	FLUDIOXONIL	2010	kg		1084.4			36.3					
+39	Ohio	FLUDIOXONIL	2011	kg		1758.9			25					
+39	Ohio	FLUDIOXONIL	2012	kg		1012.4			17.7					
+39	Ohio	FLUDIOXONIL	2013	kg		1089			17.6					
+39	Ohio	FLUDIOXONIL	2014	kg		1380.9	70		12.3					
+39	Ohio	FLUDIOXONIL	2015	kg					16.7					
+39	Ohio	FLUDIOXONIL	2017	kg					99.3					
+40	Oklahoma	FLUDIOXONIL	2006	kg		9.7		6.5						
+40	Oklahoma	FLUDIOXONIL	2007	kg		14.2		3	0					
+40	Oklahoma	FLUDIOXONIL	2008	kg		104.8		11.9						
+40	Oklahoma	FLUDIOXONIL	2009	kg		38.5		13.8	0.7					4.9
+40	Oklahoma	FLUDIOXONIL	2010	kg		33.4		15.7	0.8					7.6
+40	Oklahoma	FLUDIOXONIL	2011	kg		33.6		4.7	1.1					29.1
+40	Oklahoma	FLUDIOXONIL	2012	kg		67.5		4.2	0.4					31.7
+40	Oklahoma	FLUDIOXONIL	2013	kg		88		4.3	2.1					16.6
+40	Oklahoma	FLUDIOXONIL	2014	kg		44.4	10.7	5	3.3					15.5
+41	Oregon	FLUDIOXONIL	1999	kg					15.9					
+41	Oregon	FLUDIOXONIL	2001	kg					41.3					
+41	Oregon	FLUDIOXONIL	2002	kg					1072.5					
+41	Oregon	FLUDIOXONIL	2003	kg					1506.6					
+41	Oregon	FLUDIOXONIL	2004	kg					180.4					
+41	Oregon	FLUDIOXONIL	2005	kg					47.7					
+41	Oregon	FLUDIOXONIL	2006	kg					1925.8					
+41	Oregon	FLUDIOXONIL	2007	kg					2866.4					
+41	Oregon	FLUDIOXONIL	2008	kg					1535.7					
+41	Oregon	FLUDIOXONIL	2009	kg			10.8		2501.3					
+41	Oregon	FLUDIOXONIL	2010	kg					1788.7					
+41	Oregon	FLUDIOXONIL	2011	kg					1738.7					0.1
+41	Oregon	FLUDIOXONIL	2012	kg					1485.9					
+41	Oregon	FLUDIOXONIL	2013	kg					1313.4					0.1
+41	Oregon	FLUDIOXONIL	2014	kg			265.1		1524.9					
+41	Oregon	FLUDIOXONIL	2015	kg					849.8					
+41	Oregon	FLUDIOXONIL	2016	kg					615.8					
+41	Oregon	FLUDIOXONIL	2017	kg					906.5					
+42	Pennsylvania	FLUDIOXONIL	2002	kg					7					
+42	Pennsylvania	FLUDIOXONIL	2003	kg					11.2					
+42	Pennsylvania	FLUDIOXONIL	2004	kg					1					
+42	Pennsylvania	FLUDIOXONIL	2006	kg		26.4					5.9			
+42	Pennsylvania	FLUDIOXONIL	2007	kg		63.4			60.9					
+42	Pennsylvania	FLUDIOXONIL	2008	kg		69.3			64.9					
+42	Pennsylvania	FLUDIOXONIL	2009	kg		77.8			94					
+42	Pennsylvania	FLUDIOXONIL	2010	kg		53.7			104.9					
+42	Pennsylvania	FLUDIOXONIL	2011	kg		42.4			120.2					
+42	Pennsylvania	FLUDIOXONIL	2012	kg		72			117.7					
+42	Pennsylvania	FLUDIOXONIL	2013	kg		75.1			103.5		0.6			
+42	Pennsylvania	FLUDIOXONIL	2014	kg		71.3	3.1		122.3					
+42	Pennsylvania	FLUDIOXONIL	2015	kg					2.2					
+45	South Carolina	FLUDIOXONIL	2006	kg		5.9		22.1						
+45	South Carolina	FLUDIOXONIL	2007	kg		30.7		9.7						
+45	South Carolina	FLUDIOXONIL	2008	kg		114.3		13.5						
+45	South Carolina	FLUDIOXONIL	2009	kg		145.2		25.3						30.9
+45	South Carolina	FLUDIOXONIL	2010	kg		21.5		34.6						81.2
+45	South Carolina	FLUDIOXONIL	2011	kg		119.4		30	8.6					55.1
+45	South Carolina	FLUDIOXONIL	2012	kg		16.5		29.3						113.3
+45	South Carolina	FLUDIOXONIL	2013	kg		11.6		46.4	64.8					122.8
+45	South Carolina	FLUDIOXONIL	2014	kg		15.3	12.8	44.2	424					102.7
+45	South Carolina	FLUDIOXONIL	2017	kg					255.2					
+46	South Dakota	FLUDIOXONIL	2006	kg		326.8								
+46	South Dakota	FLUDIOXONIL	2007	kg		491.3								
+46	South Dakota	FLUDIOXONIL	2008	kg		702.9								
+46	South Dakota	FLUDIOXONIL	2009	kg		798.1			7.1					
+46	South Dakota	FLUDIOXONIL	2010	kg		1021.8			0.8					
+46	South Dakota	FLUDIOXONIL	2011	kg		1200.1			1.9					
+46	South Dakota	FLUDIOXONIL	2012	kg		798.6			0					
+46	South Dakota	FLUDIOXONIL	2013	kg		536.4			0.5					
+46	South Dakota	FLUDIOXONIL	2014	kg		883.5	150.6		0.4					
+47	Tennessee	FLUDIOXONIL	2006	kg		310.8		46						
+47	Tennessee	FLUDIOXONIL	2007	kg		188.9		33.3						
+47	Tennessee	FLUDIOXONIL	2008	kg		136.5		14.2						
+47	Tennessee	FLUDIOXONIL	2009	kg		471.4		43.2						
+47	Tennessee	FLUDIOXONIL	2010	kg		464.1		71.9						
+47	Tennessee	FLUDIOXONIL	2011	kg		1066.2		71.2						
+47	Tennessee	FLUDIOXONIL	2012	kg		381.9		49.4						
+47	Tennessee	FLUDIOXONIL	2013	kg		587.9		27.8	14.8					
+47	Tennessee	FLUDIOXONIL	2014	kg		452.3	505.6	20.8						0
+48	Texas	FLUDIOXONIL	2003	kg					3.1					
+48	Texas	FLUDIOXONIL	2006	kg		19		40	350.5					
+48	Texas	FLUDIOXONIL	2007	kg		9.6		48.5	153.4					
+48	Texas	FLUDIOXONIL	2008	kg		15		38.5						
+48	Texas	FLUDIOXONIL	2009	kg		72		245.7	167.7					7.5
+48	Texas	FLUDIOXONIL	2010	kg		7		217	124.3					67.7
+48	Texas	FLUDIOXONIL	2011	kg		36.9		143.5	87.2					88
+48	Texas	FLUDIOXONIL	2012	kg		13.5		302.1	29.9					95.6
+48	Texas	FLUDIOXONIL	2013	kg		64		209.8	264					29.1
+48	Texas	FLUDIOXONIL	2014	kg		13.5	101	143	341.7					80.6
+49	Utah	FLUDIOXONIL	2009	kg					1.2					
+49	Utah	FLUDIOXONIL	2010	kg					2.2					
+49	Utah	FLUDIOXONIL	2011	kg					2.1					
+49	Utah	FLUDIOXONIL	2012	kg					2					
+49	Utah	FLUDIOXONIL	2013	kg					3.3					
+49	Utah	FLUDIOXONIL	2014	kg			0.6		2.3					
+50	Vermont	FLUDIOXONIL	2008	kg					4.2					
+50	Vermont	FLUDIOXONIL	2009	kg					4					
+50	Vermont	FLUDIOXONIL	2010	kg					8.9					
+50	Vermont	FLUDIOXONIL	2011	kg					29.6					
+50	Vermont	FLUDIOXONIL	2012	kg					18.9					
+50	Vermont	FLUDIOXONIL	2013	kg					12.7					
+50	Vermont	FLUDIOXONIL	2014	kg					12.7					
+51	Virginia	FLUDIOXONIL	2006	kg		36.8		3.4						
+51	Virginia	FLUDIOXONIL	2007	kg		122.6		0.9						
+51	Virginia	FLUDIOXONIL	2008	kg		58.9		3.6						
+51	Virginia	FLUDIOXONIL	2009	kg		270.3		6.9						4.6
+51	Virginia	FLUDIOXONIL	2010	kg		13.3		9	2.4					1.8
+51	Virginia	FLUDIOXONIL	2011	kg		69.4		11.4	0.9					10.5
+51	Virginia	FLUDIOXONIL	2012	kg		26.3		9.1						9.1
+51	Virginia	FLUDIOXONIL	2013	kg		7.9		7.8	14.8					1.7
+51	Virginia	FLUDIOXONIL	2014	kg		54.3		6.4	6.3					13.6
+51	Virginia	FLUDIOXONIL	2015	kg					23					
+53	Washington	FLUDIOXONIL	1999	kg					121.8					
+53	Washington	FLUDIOXONIL	2001	kg					21.8					
+53	Washington	FLUDIOXONIL	2002	kg					132.7					
+53	Washington	FLUDIOXONIL	2003	kg					96					
+53	Washington	FLUDIOXONIL	2004	kg					104.3					
+53	Washington	FLUDIOXONIL	2005	kg					447					
+53	Washington	FLUDIOXONIL	2006	kg					1052.1					
+53	Washington	FLUDIOXONIL	2007	kg					231.9					
+53	Washington	FLUDIOXONIL	2008	kg					705.8					
+53	Washington	FLUDIOXONIL	2009	kg			102.1		2900.5					
+53	Washington	FLUDIOXONIL	2010	kg					2358.8					
+53	Washington	FLUDIOXONIL	2011	kg					2999.6					
+53	Washington	FLUDIOXONIL	2012	kg					2875.7					
+53	Washington	FLUDIOXONIL	2013	kg					5134.6					
+53	Washington	FLUDIOXONIL	2014	kg			144.9		3150.4					
+53	Washington	FLUDIOXONIL	2015	kg					1087.5					
+53	Washington	FLUDIOXONIL	2016	kg					236.5					
+53	Washington	FLUDIOXONIL	2017	kg					710.2					
+54	West Virginia	FLUDIOXONIL	2002	kg					1					
+54	West Virginia	FLUDIOXONIL	2003	kg					2					
+54	West Virginia	FLUDIOXONIL	2004	kg					0					
+54	West Virginia	FLUDIOXONIL	2006	kg		1.1								
+54	West Virginia	FLUDIOXONIL	2007	kg		2.3			2.1					
+54	West Virginia	FLUDIOXONIL	2008	kg		2.8			3.2					
+54	West Virginia	FLUDIOXONIL	2009	kg		3.6			2.6					
+54	West Virginia	FLUDIOXONIL	2010	kg		1.8			2.3					
+54	West Virginia	FLUDIOXONIL	2011	kg		3.5								
+54	West Virginia	FLUDIOXONIL	2012	kg		1.3			3.2					
+54	West Virginia	FLUDIOXONIL	2013	kg		2.2								
+54	West Virginia	FLUDIOXONIL	2014	kg		7.1	0							
+55	Wisconsin	FLUDIOXONIL	2002	kg					44.1					
+55	Wisconsin	FLUDIOXONIL	2003	kg					54.6					
+55	Wisconsin	FLUDIOXONIL	2004	kg					27.8					
+55	Wisconsin	FLUDIOXONIL	2005	kg					47.8					
+55	Wisconsin	FLUDIOXONIL	2006	kg		211.2								
+55	Wisconsin	FLUDIOXONIL	2007	kg		174.2								
+55	Wisconsin	FLUDIOXONIL	2008	kg		455.5			38.4					
+55	Wisconsin	FLUDIOXONIL	2009	kg		492.4			515					
+55	Wisconsin	FLUDIOXONIL	2010	kg		273.9			341					
+55	Wisconsin	FLUDIOXONIL	2011	kg		370.2			664.4					
+55	Wisconsin	FLUDIOXONIL	2012	kg		324			548.8					
+55	Wisconsin	FLUDIOXONIL	2013	kg		266.7			585.7					
+55	Wisconsin	FLUDIOXONIL	2014	kg		283.3	2.7		257.4					
+55	Wisconsin	FLUDIOXONIL	2015	kg					1258.7					
+55	Wisconsin	FLUDIOXONIL	2016	kg					108.9					
+55	Wisconsin	FLUDIOXONIL	2017	kg					1160.8					
+56	Wyoming	FLUDIOXONIL	2009	kg					10.7					
+56	Wyoming	FLUDIOXONIL	2010	kg					9.2					
+56	Wyoming	FLUDIOXONIL	2011	kg					12.5					1.4
+56	Wyoming	FLUDIOXONIL	2012	kg					6.7					0
+56	Wyoming	FLUDIOXONIL	2013	kg					6.7					0.4
+56	Wyoming	FLUDIOXONIL	2014	kg			4.8		4.2					

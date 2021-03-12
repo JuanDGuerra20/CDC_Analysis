@@ -1,0 +1,1100 @@
+01	Alabama	OXAMYL	1992	kg			6.5	4485.4			5.4			0.2
+01	Alabama	OXAMYL	1993	kg				1740.4						0
+01	Alabama	OXAMYL	1994	kg				2826.7			32.7			
+01	Alabama	OXAMYL	1995	kg				2340			81			
+01	Alabama	OXAMYL	1996	kg		97.4		4424.1			32.5			
+01	Alabama	OXAMYL	1997	kg				4193.9			27			
+01	Alabama	OXAMYL	1998	kg				2628.1						
+01	Alabama	OXAMYL	1999	kg				20314.4						
+01	Alabama	OXAMYL	2000	kg				7781.7						
+01	Alabama	OXAMYL	2001	kg				3888.4			7.4			
+01	Alabama	OXAMYL	2002	kg				997.6						
+01	Alabama	OXAMYL	2003	kg				7561			0.9			
+01	Alabama	OXAMYL	2004	kg				2389.6			4.7			
+01	Alabama	OXAMYL	2005	kg				7502.1			33.7			
+01	Alabama	OXAMYL	2006	kg				7912.8						0
+01	Alabama	OXAMYL	2007	kg				4389.2						
+01	Alabama	OXAMYL	2008	kg				6333						
+01	Alabama	OXAMYL	2009	kg				1261.6						
+01	Alabama	OXAMYL	2010	kg				10908.2	242.7					
+01	Alabama	OXAMYL	2011	kg				8537.4						
+01	Alabama	OXAMYL	2012	kg				2258.6	606.6					
+01	Alabama	OXAMYL	2013	kg				1990.2						
+01	Alabama	OXAMYL	2014	kg				3627.1						
+01	Alabama	OXAMYL	2015	kg				8863.3	4.9					
+01	Alabama	OXAMYL	2016	kg				422.3	461.1					
+04	Arizona	OXAMYL	1992	kg					1385.9		5.4			
+04	Arizona	OXAMYL	1993	kg					522.2					
+04	Arizona	OXAMYL	1994	kg				9754.9	864.7					
+04	Arizona	OXAMYL	1995	kg				2840.9	1930.7					
+04	Arizona	OXAMYL	1996	kg				2920.7	1094.9					
+04	Arizona	OXAMYL	1997	kg				13597.1	3188.7		3617.2			
+04	Arizona	OXAMYL	1998	kg				2755.4	35052.5					
+04	Arizona	OXAMYL	1999	kg				3303	943.9		166.6			
+04	Arizona	OXAMYL	2000	kg				307.5	1686.1					
+04	Arizona	OXAMYL	2001	kg				3207.4	2106.9					
+04	Arizona	OXAMYL	2002	kg					408.7					
+04	Arizona	OXAMYL	2003	kg				980	2003.1					
+04	Arizona	OXAMYL	2004	kg					1601.5					
+04	Arizona	OXAMYL	2005	kg				569.7	876.1					
+04	Arizona	OXAMYL	2006	kg				2768.5	2336.2					
+04	Arizona	OXAMYL	2007	kg					831.9					
+04	Arizona	OXAMYL	2008	kg					549.1					
+04	Arizona	OXAMYL	2009	kg					2135.9					
+04	Arizona	OXAMYL	2010	kg					923					
+04	Arizona	OXAMYL	2011	kg				2998.6	2161					
+04	Arizona	OXAMYL	2012	kg					956.4					
+04	Arizona	OXAMYL	2013	kg					345.3					
+04	Arizona	OXAMYL	2014	kg					734.3					
+04	Arizona	OXAMYL	2015	kg					1654.7		6.2			
+05	Arkansas	OXAMYL	1992	kg				16703.1						
+05	Arkansas	OXAMYL	1993	kg				17564.4						
+05	Arkansas	OXAMYL	1994	kg				28888.6						
+05	Arkansas	OXAMYL	1995	kg				101244.8					37.9	
+05	Arkansas	OXAMYL	1996	kg				37059.4						
+05	Arkansas	OXAMYL	1997	kg		5802.3		56793.2						
+05	Arkansas	OXAMYL	1998	kg				43358	110.7					
+05	Arkansas	OXAMYL	1999	kg				28653.6	431.4					
+05	Arkansas	OXAMYL	2000	kg				44119.7						
+05	Arkansas	OXAMYL	2001	kg				14682.5	3.5					
+05	Arkansas	OXAMYL	2002	kg				14456.6	25.9					
+05	Arkansas	OXAMYL	2003	kg				25442.8	7.3					
+05	Arkansas	OXAMYL	2004	kg				21213.1	1					
+05	Arkansas	OXAMYL	2005	kg				16805.5	18.3					
+05	Arkansas	OXAMYL	2006	kg				16101.1						
+05	Arkansas	OXAMYL	2007	kg				34957.1						
+05	Arkansas	OXAMYL	2008	kg				12903.2						
+05	Arkansas	OXAMYL	2009	kg				9417.6						
+05	Arkansas	OXAMYL	2010	kg				20032.1						
+05	Arkansas	OXAMYL	2011	kg				28538.8	77.1					
+05	Arkansas	OXAMYL	2012	kg				50756.3						
+05	Arkansas	OXAMYL	2013	kg				18627.1	45					
+05	Arkansas	OXAMYL	2014	kg				16720.2	86.9					
+05	Arkansas	OXAMYL	2015	kg				2355.2						
+05	Arkansas	OXAMYL	2016	kg				854.2						
+05	Arkansas	OXAMYL	2017	kg				4872.5						
+06	California	OXAMYL	1992	kg				784.4	27642.5		2314.9			
+06	California	OXAMYL	1993	kg				95.5	28737.3		2415.2			
+06	California	OXAMYL	1994	kg				884.1	29573.9		2493			
+06	California	OXAMYL	1995	kg				876.5	27384.2		2134.1			
+06	California	OXAMYL	1996	kg				1027.4	34447.3		1832.6			
+06	California	OXAMYL	1997	kg				31643.8	23271.3		975.6			
+06	California	OXAMYL	1998	kg	27			69429.4	18318.4		579.1	32.7		20
+06	California	OXAMYL	1999	kg	22.3		40	38133.5	20780.9		892.7			27.4
+06	California	OXAMYL	2000	kg	57.9		29.6	44234.3	18646.7		466.5	1.7		12.7
+06	California	OXAMYL	2001	kg				22287.9	14049.4		266.2	18.5		
+06	California	OXAMYL	2002	kg				21887.3	14559.4		11			
+06	California	OXAMYL	2003	kg				28369.6	14095.2		30.3			
+06	California	OXAMYL	2004	kg				38047.8	13391.6		31.5			
+06	California	OXAMYL	2005	kg				56492.4	12260.3		65.5			
+06	California	OXAMYL	2006	kg				40699.1	15064.4		27			
+06	California	OXAMYL	2007	kg			4.5	7382.5	12931.8		105.9	13.6		8.4
+06	California	OXAMYL	2008	kg				30262.9	15056.4		11.2			3
+06	California	OXAMYL	2009	kg				7251.5	14928		14.9			
+06	California	OXAMYL	2010	kg				40272.3	12771.7					
+06	California	OXAMYL	2011	kg				50551.9	11487.9		50.2			7.7
+06	California	OXAMYL	2012	kg				13228.3	10264.1		4.4			
+06	California	OXAMYL	2013	kg				19974.7	13060		0.6			37
+06	California	OXAMYL	2014	kg				15358.4	14330.6					39.3
+06	California	OXAMYL	2015	kg				2469.6	5381.3					
+06	California	OXAMYL	2016	kg				500.1	603.1		0			
+06	California	OXAMYL	2017	kg				16568.3	800.8					
+08	Colorado	OXAMYL	1992	kg							140.1			
+08	Colorado	OXAMYL	1995	kg					590					
+08	Colorado	OXAMYL	1996	kg					204.2					
+08	Colorado	OXAMYL	1998	kg					380.9					
+08	Colorado	OXAMYL	2000	kg					739.3					
+08	Colorado	OXAMYL	2001	kg					18454.6					
+08	Colorado	OXAMYL	2002	kg					17176.9					
+08	Colorado	OXAMYL	2003	kg					14212.6					
+08	Colorado	OXAMYL	2004	kg					12140.9					
+08	Colorado	OXAMYL	2005	kg					6555.5					
+08	Colorado	OXAMYL	2006	kg					15480.5					
+08	Colorado	OXAMYL	2007	kg					9503.2					
+08	Colorado	OXAMYL	2008	kg					11784.2					
+08	Colorado	OXAMYL	2009	kg					26629.6					
+08	Colorado	OXAMYL	2010	kg					20372.7					
+08	Colorado	OXAMYL	2011	kg					1003.8					
+08	Colorado	OXAMYL	2012	kg					11947.4					
+08	Colorado	OXAMYL	2013	kg					6892.5					
+08	Colorado	OXAMYL	2014	kg					12869.2					
+08	Colorado	OXAMYL	2015	kg					4165					
+08	Colorado	OXAMYL	2016	kg					461.2					
+08	Colorado	OXAMYL	2017	kg					555.2					
+09	Connecticut	OXAMYL	1992	kg					327.2		110.6			5801.3
+09	Connecticut	OXAMYL	1993	kg					138.7		0.1			
+09	Connecticut	OXAMYL	1994	kg					94.8		316.1			748.3
+09	Connecticut	OXAMYL	1995	kg					239		143.4			573.9
+09	Connecticut	OXAMYL	1996	kg					17.3		140.2			
+09	Connecticut	OXAMYL	1997	kg					18.5		120.8			
+09	Connecticut	OXAMYL	1998	kg					7.2		315.2			644.3
+09	Connecticut	OXAMYL	1999	kg					30.2		14.1			
+09	Connecticut	OXAMYL	2000	kg					11.4		41.1			
+09	Connecticut	OXAMYL	2001	kg					9.1		52.7			341.9
+09	Connecticut	OXAMYL	2002	kg					9.3		52.5			326.5
+09	Connecticut	OXAMYL	2003	kg					9.2		54.1			1720.9
+09	Connecticut	OXAMYL	2004	kg					15.3		285.5			740.9
+09	Connecticut	OXAMYL	2005	kg					14.4		210.8			
+09	Connecticut	OXAMYL	2006	kg					56.1		69.3			
+09	Connecticut	OXAMYL	2007	kg					39.3		850.3			
+09	Connecticut	OXAMYL	2008	kg					9.1		413.1			
+09	Connecticut	OXAMYL	2009	kg					5.6		259.5			
+09	Connecticut	OXAMYL	2010	kg					30.7		282.9			
+09	Connecticut	OXAMYL	2011	kg					25.6					
+09	Connecticut	OXAMYL	2012	kg					29.9					
+09	Connecticut	OXAMYL	2013	kg					42.2					
+09	Connecticut	OXAMYL	2014	kg					24.8					
+09	Connecticut	OXAMYL	2015	kg					2.7					
+10	Delaware	OXAMYL	1992	kg					498.7		0.8			
+10	Delaware	OXAMYL	1993	kg					289.5		0.4			
+10	Delaware	OXAMYL	1994	kg					17.5		1.3			
+10	Delaware	OXAMYL	1995	kg					35.1		0.8			
+10	Delaware	OXAMYL	1996	kg					11.8		3.9			
+10	Delaware	OXAMYL	1997	kg							0.2			
+10	Delaware	OXAMYL	1998	kg					59.3					
+10	Delaware	OXAMYL	1999	kg					115.9					
+10	Delaware	OXAMYL	2000	kg							0.3			
+10	Delaware	OXAMYL	2001	kg					0.6		0.4			
+10	Delaware	OXAMYL	2002	kg					925.1		0.1			
+10	Delaware	OXAMYL	2003	kg					448.8		0.2			
+10	Delaware	OXAMYL	2004	kg							0.9			
+10	Delaware	OXAMYL	2005	kg					144.2		1.2			
+10	Delaware	OXAMYL	2006	kg					311.3					
+10	Delaware	OXAMYL	2007	kg					648.8		5.4			
+10	Delaware	OXAMYL	2008	kg					298.4					
+10	Delaware	OXAMYL	2009	kg					815					
+10	Delaware	OXAMYL	2010	kg					58.3					
+10	Delaware	OXAMYL	2012	kg					0					
+10	Delaware	OXAMYL	2013	kg					1324.1					
+10	Delaware	OXAMYL	2014	kg					244.8					
+10	Delaware	OXAMYL	2015	kg					1546.8					
+12	Florida	OXAMYL	1992	kg					20053.6					
+12	Florida	OXAMYL	1993	kg					15508.8					16
+12	Florida	OXAMYL	1994	kg					16989.1					
+12	Florida	OXAMYL	1995	kg					29011.6					
+12	Florida	OXAMYL	1996	kg				635.3	11407.6					
+12	Florida	OXAMYL	1997	kg				1028.5	14485.7					
+12	Florida	OXAMYL	1998	kg				149.6	25754		526.7			
+12	Florida	OXAMYL	1999	kg					9970.8		1456.2			
+12	Florida	OXAMYL	2000	kg				91.9	26323.3		2128.9			
+12	Florida	OXAMYL	2001	kg				25.8	10445.9					
+12	Florida	OXAMYL	2002	kg					3483.8		7928.9			
+12	Florida	OXAMYL	2003	kg				145.2	11545.1		2973.5			
+12	Florida	OXAMYL	2004	kg				140.2	36350.5		1179.5			
+12	Florida	OXAMYL	2005	kg					54849.2		1004.7			
+12	Florida	OXAMYL	2006	kg				4035.6	20104		9729.8			555.6
+12	Florida	OXAMYL	2007	kg					2780.3		5810.6			128.8
+12	Florida	OXAMYL	2008	kg				3220.8	17281.5		13236.5			
+12	Florida	OXAMYL	2009	kg				394.4	14199.9		5156.6			2413.9
+12	Florida	OXAMYL	2010	kg				65.1	26747.8		3061.6			
+12	Florida	OXAMYL	2011	kg					32726		14234.2			
+12	Florida	OXAMYL	2012	kg				685.1	53704.2		5696			
+12	Florida	OXAMYL	2013	kg				109.5	67732.5		8836.8			
+12	Florida	OXAMYL	2014	kg				1607.9	20369.9		11541.4			
+12	Florida	OXAMYL	2015	kg				2151.7	24795.1		4078			
+12	Florida	OXAMYL	2016	kg					1566.2					
+12	Florida	OXAMYL	2017	kg					2292.8					
+13	Georgia	OXAMYL	1992	kg				5432			54.9			682.7
+13	Georgia	OXAMYL	1993	kg				3801.7			14.4			121.8
+13	Georgia	OXAMYL	1994	kg				9196			25.3			0.4
+13	Georgia	OXAMYL	1995	kg				5494.4	155.2		401.8			0
+13	Georgia	OXAMYL	1996	kg				9960.7			29.5			0.3
+13	Georgia	OXAMYL	1997	kg				3593.8			53.1			
+13	Georgia	OXAMYL	1998	kg				2469			12.4			
+13	Georgia	OXAMYL	1999	kg				35216.3			9.9			
+13	Georgia	OXAMYL	2000	kg				1968.2						
+13	Georgia	OXAMYL	2001	kg				883	388.2		57			
+13	Georgia	OXAMYL	2002	kg							5.9			
+13	Georgia	OXAMYL	2003	kg				1746			10.4			
+13	Georgia	OXAMYL	2004	kg				2636.1			37.1			
+13	Georgia	OXAMYL	2005	kg				449	388.4		220.3			
+13	Georgia	OXAMYL	2006	kg				40376.8	3541.7					3299.7
+13	Georgia	OXAMYL	2007	kg				12669.3	145.6					649.4
+13	Georgia	OXAMYL	2008	kg				40836.7	92.9		0.9			
+13	Georgia	OXAMYL	2009	kg				3958.3	4511.6		0.8			12222.5
+13	Georgia	OXAMYL	2010	kg				5805.4	5253.8					
+13	Georgia	OXAMYL	2011	kg				20946.4	3749.8					
+13	Georgia	OXAMYL	2012	kg				8111.6	19978					
+13	Georgia	OXAMYL	2013	kg				14432.4	8202.8					166.2
+13	Georgia	OXAMYL	2014	kg				28307.5	3986.6		0.9			
+13	Georgia	OXAMYL	2015	kg				9637.3	10857.5					
+13	Georgia	OXAMYL	2016	kg					1999.8					4708.6
+13	Georgia	OXAMYL	2017	kg					5781.3					
+16	Idaho	OXAMYL	1992	kg							225.6			
+16	Idaho	OXAMYL	1993	kg							51.7			
+16	Idaho	OXAMYL	1994	kg					1066.4		1426			
+16	Idaho	OXAMYL	1995	kg					3033.3		2036.5			
+16	Idaho	OXAMYL	1996	kg							100.4			
+16	Idaho	OXAMYL	1997	kg							59.3			
+16	Idaho	OXAMYL	1998	kg					1793		79			
+16	Idaho	OXAMYL	1999	kg					3442.2		7.8			
+16	Idaho	OXAMYL	2000	kg					5210.1					
+16	Idaho	OXAMYL	2001	kg					9676					
+16	Idaho	OXAMYL	2002	kg					53116.9					
+16	Idaho	OXAMYL	2003	kg					15193.8					
+16	Idaho	OXAMYL	2004	kg					10005.3					
+16	Idaho	OXAMYL	2005	kg					9763.5		4			
+16	Idaho	OXAMYL	2006	kg					29164.5					
+16	Idaho	OXAMYL	2007	kg					39132					
+16	Idaho	OXAMYL	2008	kg					40547					
+16	Idaho	OXAMYL	2009	kg					14293.9					
+16	Idaho	OXAMYL	2010	kg					34732.8					
+16	Idaho	OXAMYL	2011	kg					47377.8					
+16	Idaho	OXAMYL	2012	kg					49732.3					
+16	Idaho	OXAMYL	2013	kg					43894.1					
+16	Idaho	OXAMYL	2014	kg					68547.9					
+16	Idaho	OXAMYL	2015	kg					77637					
+16	Idaho	OXAMYL	2016	kg					12469.6					
+16	Idaho	OXAMYL	2017	kg					1203.7					
+17	Illinois	OXAMYL	1992	kg							828.1			
+17	Illinois	OXAMYL	1993	kg					349.6		984.5			
+17	Illinois	OXAMYL	1994	kg							6161.7			
+17	Illinois	OXAMYL	1995	kg					14.5		413.7		35.9	
+17	Illinois	OXAMYL	1996	kg					12		549.4			2207.7
+17	Illinois	OXAMYL	1997	kg							48.2			
+17	Illinois	OXAMYL	1998	kg					7.8		52.9			
+17	Illinois	OXAMYL	1999	kg					16.9					
+17	Illinois	OXAMYL	2000	kg					3					
+17	Illinois	OXAMYL	2001	kg					229.1					
+17	Illinois	OXAMYL	2002	kg					372.8					
+17	Illinois	OXAMYL	2003	kg					14.8		48.7			
+17	Illinois	OXAMYL	2004	kg					31.6					
+17	Illinois	OXAMYL	2005	kg					16.1					
+17	Illinois	OXAMYL	2006	kg					229.2					
+17	Illinois	OXAMYL	2007	kg					7.7					
+17	Illinois	OXAMYL	2008	kg					25.7					
+17	Illinois	OXAMYL	2009	kg					31.7					
+17	Illinois	OXAMYL	2010	kg					1104.4					
+17	Illinois	OXAMYL	2011	kg					972					
+17	Illinois	OXAMYL	2012	kg					963.9					
+17	Illinois	OXAMYL	2013	kg					849.3					
+17	Illinois	OXAMYL	2014	kg					25.7					
+17	Illinois	OXAMYL	2015	kg					463.8					
+18	Indiana	OXAMYL	1992	kg							3485.5			60.9
+18	Indiana	OXAMYL	1993	kg					66		302.8			13
+18	Indiana	OXAMYL	1994	kg					618.1		278.2			14.3
+18	Indiana	OXAMYL	1995	kg					2873.6		3637.6			
+18	Indiana	OXAMYL	1996	kg					2642.8		195.6			49.6
+18	Indiana	OXAMYL	1997	kg					5585.8		25.2			103.3
+18	Indiana	OXAMYL	1998	kg					2534.3		26.9			
+18	Indiana	OXAMYL	1999	kg					1670.1					
+18	Indiana	OXAMYL	2000	kg					1348.6					
+18	Indiana	OXAMYL	2001	kg					4029.9					
+18	Indiana	OXAMYL	2002	kg					2807					
+18	Indiana	OXAMYL	2003	kg					2874.5					
+18	Indiana	OXAMYL	2004	kg					3719.6		3.2			
+18	Indiana	OXAMYL	2005	kg					4328.2		16.4			
+18	Indiana	OXAMYL	2006	kg					3309.8					
+18	Indiana	OXAMYL	2007	kg					2119.4		0.4			
+18	Indiana	OXAMYL	2008	kg					1073.3					
+18	Indiana	OXAMYL	2009	kg					1176.2					
+18	Indiana	OXAMYL	2010	kg					769.9					
+18	Indiana	OXAMYL	2011	kg					1137.5					
+18	Indiana	OXAMYL	2012	kg					61.6					
+18	Indiana	OXAMYL	2013	kg					1376.9					
+18	Indiana	OXAMYL	2014	kg					153.2					
+18	Indiana	OXAMYL	2015	kg					394.4					
+18	Indiana	OXAMYL	2016	kg					1756.1					
+18	Indiana	OXAMYL	2017	kg					91.2					
+19	Iowa	OXAMYL	1992	kg							651.6			
+19	Iowa	OXAMYL	1993	kg	5605.6						284.5			
+19	Iowa	OXAMYL	1994	kg							506.1			
+19	Iowa	OXAMYL	1995	kg							156.3			
+19	Iowa	OXAMYL	1996	kg							201.9			
+19	Iowa	OXAMYL	1997	kg							15.1			
+19	Iowa	OXAMYL	2010	kg					27.8					
+19	Iowa	OXAMYL	2011	kg					11.1					
+19	Iowa	OXAMYL	2013	kg					21.8					
+19	Iowa	OXAMYL	2015	kg					5.1					
+20	Kansas	OXAMYL	1992	kg				242.1						
+20	Kansas	OXAMYL	1993	kg				342.5						
+20	Kansas	OXAMYL	1994	kg				238.7						
+20	Kansas	OXAMYL	1995	kg				518.6						
+20	Kansas	OXAMYL	1996	kg				387.9			391.3			
+20	Kansas	OXAMYL	1997	kg				1044.7						
+20	Kansas	OXAMYL	1998	kg				647						
+20	Kansas	OXAMYL	1999	kg				2128.1						
+20	Kansas	OXAMYL	2000	kg				534.3						
+20	Kansas	OXAMYL	2001	kg				163.1						
+20	Kansas	OXAMYL	2002	kg				151.5						
+20	Kansas	OXAMYL	2003	kg				8385.4						
+20	Kansas	OXAMYL	2004	kg				12305.3						
+20	Kansas	OXAMYL	2005	kg				555.4						
+20	Kansas	OXAMYL	2006	kg				135.9						
+20	Kansas	OXAMYL	2007	kg				248.2						
+20	Kansas	OXAMYL	2008	kg				239.1						
+20	Kansas	OXAMYL	2009	kg				96.9						
+20	Kansas	OXAMYL	2010	kg				382.8	3.1					
+20	Kansas	OXAMYL	2011	kg				2320.4						
+20	Kansas	OXAMYL	2012	kg				90.8						
+20	Kansas	OXAMYL	2013	kg				3489.8						
+20	Kansas	OXAMYL	2014	kg				362.4						
+20	Kansas	OXAMYL	2015	kg				130.2						
+20	Kansas	OXAMYL	2016	kg				557						
+21	Kentucky	OXAMYL	1992	kg			30.9				2142.6			948.6
+21	Kentucky	OXAMYL	1993	kg							260.1			365
+21	Kentucky	OXAMYL	1994	kg							313.9			441.8
+21	Kentucky	OXAMYL	1995	kg					268.6		2504		27.3	178.9
+21	Kentucky	OXAMYL	1996	kg					290.8		93.8			1425.4
+21	Kentucky	OXAMYL	1997	kg					239.3		136.8			2932.2
+21	Kentucky	OXAMYL	1998	kg					99.1		109.1			
+21	Kentucky	OXAMYL	1999	kg					438.4		206.1			
+21	Kentucky	OXAMYL	2000	kg					31.2					
+21	Kentucky	OXAMYL	2001	kg					497.2		27.2			
+21	Kentucky	OXAMYL	2002	kg					452		71.2			502.2
+21	Kentucky	OXAMYL	2003	kg					278.8		25.1			
+21	Kentucky	OXAMYL	2004	kg					330.9		50.8			
+21	Kentucky	OXAMYL	2005	kg					152.1		97.1			
+21	Kentucky	OXAMYL	2006	kg					219					245
+21	Kentucky	OXAMYL	2007	kg					70.5					629.2
+21	Kentucky	OXAMYL	2008	kg					150.5					
+21	Kentucky	OXAMYL	2009	kg					86.5		25.4			
+21	Kentucky	OXAMYL	2010	kg					78					
+21	Kentucky	OXAMYL	2011	kg					6.2					
+21	Kentucky	OXAMYL	2013	kg					27.7		29.7			
+21	Kentucky	OXAMYL	2014	kg					18.1		30.5			
+21	Kentucky	OXAMYL	2015	kg					0.6					
+21	Kentucky	OXAMYL	2016	kg					272.6					
+22	Louisiana	OXAMYL	1992	kg				8418.9						
+22	Louisiana	OXAMYL	1993	kg				2348						119.4
+22	Louisiana	OXAMYL	1994	kg				2757.5						
+22	Louisiana	OXAMYL	1995	kg				16365.5						
+22	Louisiana	OXAMYL	1996	kg				32684.2						
+22	Louisiana	OXAMYL	1997	kg				20908.6						
+22	Louisiana	OXAMYL	1998	kg				38949.3						
+22	Louisiana	OXAMYL	1999	kg				4853.9						
+22	Louisiana	OXAMYL	2000	kg				1107	5.6					
+22	Louisiana	OXAMYL	2001	kg				2059.7	6.6					
+22	Louisiana	OXAMYL	2002	kg				2467.4	29.6					
+22	Louisiana	OXAMYL	2003	kg				3095.8	37.9					
+22	Louisiana	OXAMYL	2004	kg				3631.4	5.6					
+22	Louisiana	OXAMYL	2005	kg				6860.6						
+22	Louisiana	OXAMYL	2006	kg				12103						
+22	Louisiana	OXAMYL	2007	kg				37712.3						
+22	Louisiana	OXAMYL	2008	kg				24122.5						
+22	Louisiana	OXAMYL	2009	kg				4115.1						
+22	Louisiana	OXAMYL	2010	kg				34192.9						
+22	Louisiana	OXAMYL	2011	kg				5181.8						
+22	Louisiana	OXAMYL	2012	kg				22047.6						
+22	Louisiana	OXAMYL	2013	kg				2715.5						
+22	Louisiana	OXAMYL	2014	kg				3398.1						
+22	Louisiana	OXAMYL	2015	kg				2343.2						
+22	Louisiana	OXAMYL	2016	kg				959						
+22	Louisiana	OXAMYL	2017	kg				1112.7						
+23	Maine	OXAMYL	1992	kg					25428.3					
+23	Maine	OXAMYL	1993	kg					9908.6					
+23	Maine	OXAMYL	1994	kg					3043.3					
+23	Maine	OXAMYL	1995	kg					5968					
+23	Maine	OXAMYL	1996	kg					1228					
+23	Maine	OXAMYL	1997	kg					80.4					
+23	Maine	OXAMYL	1998	kg					3392.6					
+23	Maine	OXAMYL	2001	kg					4080.4					
+23	Maine	OXAMYL	2002	kg					1809.3					
+23	Maine	OXAMYL	2006	kg					10482.2					
+23	Maine	OXAMYL	2007	kg					1829.7					
+23	Maine	OXAMYL	2008	kg					7445.6					
+23	Maine	OXAMYL	2009	kg					2206.8					
+23	Maine	OXAMYL	2010	kg					1294.8					
+23	Maine	OXAMYL	2011	kg					12933.7					
+23	Maine	OXAMYL	2012	kg					1553.8					
+23	Maine	OXAMYL	2013	kg					4123.7					
+23	Maine	OXAMYL	2014	kg					10127.6					
+23	Maine	OXAMYL	2015	kg					6833.5					
+23	Maine	OXAMYL	2016	kg					3757.5					
+24	Maryland	OXAMYL	1992	kg					3635.1		470.6			5.9
+24	Maryland	OXAMYL	1993	kg					286.9		344.5			0.2
+24	Maryland	OXAMYL	1994	kg					98.6		403			8.4
+24	Maryland	OXAMYL	1995	kg					653.9		227.6			
+24	Maryland	OXAMYL	1996	kg					593.5		908.6			
+24	Maryland	OXAMYL	1997	kg					824		49.2			
+24	Maryland	OXAMYL	1998	kg					62.5		71.1			
+24	Maryland	OXAMYL	1999	kg					127.2		18.5			
+24	Maryland	OXAMYL	2000	kg							37.3			
+24	Maryland	OXAMYL	2001	kg					8.2		67.1			
+24	Maryland	OXAMYL	2002	kg					1167.1		49.6			
+24	Maryland	OXAMYL	2003	kg					934.6		25.1			
+24	Maryland	OXAMYL	2004	kg							127.1			
+24	Maryland	OXAMYL	2005	kg					111.4		283.3			
+24	Maryland	OXAMYL	2006	kg					158.7		58			
+24	Maryland	OXAMYL	2007	kg					224.5		1561.8			
+24	Maryland	OXAMYL	2008	kg					669.4		543.5			
+24	Maryland	OXAMYL	2009	kg					806.7		320.3			
+24	Maryland	OXAMYL	2010	kg					70.3		229			
+24	Maryland	OXAMYL	2011	kg					20		3.4			
+24	Maryland	OXAMYL	2012	kg					14.2					
+24	Maryland	OXAMYL	2013	kg					232.5					
+24	Maryland	OXAMYL	2014	kg					115.3		2.6			
+24	Maryland	OXAMYL	2015	kg					408.6					
+25	Massachusetts	OXAMYL	1992	kg					635.1		288.2			4229.1
+25	Massachusetts	OXAMYL	1993	kg					1709.7		7.4			
+25	Massachusetts	OXAMYL	1994	kg					803.7		2879			292.6
+25	Massachusetts	OXAMYL	1995	kg					247.5		881.2			504.7
+25	Massachusetts	OXAMYL	1996	kg					69		106.1			
+25	Massachusetts	OXAMYL	1997	kg					25.3		190.2			
+25	Massachusetts	OXAMYL	1998	kg					139.2		615.2			1087.9
+25	Massachusetts	OXAMYL	1999	kg					357.4		27.2			
+25	Massachusetts	OXAMYL	2000	kg					34.8		79.3			
+25	Massachusetts	OXAMYL	2001	kg					504.9		102			111.3
+25	Massachusetts	OXAMYL	2002	kg					445.7		24.5			668.4
+25	Massachusetts	OXAMYL	2003	kg					33.6		113.4			1402.7
+25	Massachusetts	OXAMYL	2004	kg					63		530.2			467.5
+25	Massachusetts	OXAMYL	2005	kg					67.8		385.3			
+25	Massachusetts	OXAMYL	2006	kg					1356.7		124.9			
+25	Massachusetts	OXAMYL	2007	kg					671.8		1505			
+25	Massachusetts	OXAMYL	2008	kg					235.4		717.9			
+25	Massachusetts	OXAMYL	2009	kg					139.5		442			
+25	Massachusetts	OXAMYL	2010	kg					883.7		471.9			
+25	Massachusetts	OXAMYL	2011	kg					748.8					
+25	Massachusetts	OXAMYL	2012	kg					921.4					
+25	Massachusetts	OXAMYL	2013	kg					1289.8					
+25	Massachusetts	OXAMYL	2014	kg					782.8					
+25	Massachusetts	OXAMYL	2015	kg					15.8					
+26	Michigan	OXAMYL	1992	kg					39.9		5343			
+26	Michigan	OXAMYL	1993	kg					24368.9		1048.3			
+26	Michigan	OXAMYL	1994	kg					11465.7		4187.2			
+26	Michigan	OXAMYL	1995	kg					688.3		1489.3			
+26	Michigan	OXAMYL	1996	kg					14617.7		240.1			
+26	Michigan	OXAMYL	1997	kg					64.6		792.8			
+26	Michigan	OXAMYL	1998	kg					9633.8		1508.1			
+26	Michigan	OXAMYL	1999	kg					7440.9		342.3			
+26	Michigan	OXAMYL	2000	kg					9401.8		174.9			
+26	Michigan	OXAMYL	2001	kg					39179.6					
+26	Michigan	OXAMYL	2002	kg					7791.1		1850.6			
+26	Michigan	OXAMYL	2003	kg					30338.6		2478.4			
+26	Michigan	OXAMYL	2004	kg					6035.8		1443.4			
+26	Michigan	OXAMYL	2005	kg					4483.1		445.2			
+26	Michigan	OXAMYL	2006	kg					10488.8					
+26	Michigan	OXAMYL	2007	kg					8015.7		41.6			
+26	Michigan	OXAMYL	2008	kg					13649.5					
+26	Michigan	OXAMYL	2009	kg					7733.2					
+26	Michigan	OXAMYL	2010	kg					14435.4					
+26	Michigan	OXAMYL	2011	kg					36565.2					
+26	Michigan	OXAMYL	2012	kg					6766.5					
+26	Michigan	OXAMYL	2013	kg					16302.2					
+26	Michigan	OXAMYL	2014	kg					3828.8					
+26	Michigan	OXAMYL	2015	kg					10400.5					
+26	Michigan	OXAMYL	2016	kg					1569.4					
+26	Michigan	OXAMYL	2017	kg					765.3					
+27	Minnesota	OXAMYL	1992	kg							301.1			
+27	Minnesota	OXAMYL	1993	kg					7182.3		398.2			
+27	Minnesota	OXAMYL	1994	kg							413.8			
+27	Minnesota	OXAMYL	1995	kg							691.7			
+27	Minnesota	OXAMYL	1996	kg					753.6		253.7			
+27	Minnesota	OXAMYL	1997	kg							20.3			
+27	Minnesota	OXAMYL	2000	kg					3556.6		60.3			
+27	Minnesota	OXAMYL	2001	kg					2162.9					
+27	Minnesota	OXAMYL	2002	kg					1539.9					
+27	Minnesota	OXAMYL	2003	kg							83.8			
+27	Minnesota	OXAMYL	2004	kg							188.1			
+27	Minnesota	OXAMYL	2005	kg							61.6			
+27	Minnesota	OXAMYL	2006	kg					2533.1					
+27	Minnesota	OXAMYL	2007	kg					994.9					
+27	Minnesota	OXAMYL	2008	kg					2348.1					
+27	Minnesota	OXAMYL	2009	kg					3094.5					
+27	Minnesota	OXAMYL	2010	kg					8899.1					
+27	Minnesota	OXAMYL	2011	kg					6421.3					
+27	Minnesota	OXAMYL	2012	kg					3387.6					
+27	Minnesota	OXAMYL	2013	kg					8492					
+27	Minnesota	OXAMYL	2014	kg					206.9					
+27	Minnesota	OXAMYL	2015	kg					3057.3					
+27	Minnesota	OXAMYL	2017	kg					471.5					
+28	Mississippi	OXAMYL	1992	kg			7.1	16955.9						
+28	Mississippi	OXAMYL	1993	kg				13150.8						
+28	Mississippi	OXAMYL	1994	kg				22197.2						
+28	Mississippi	OXAMYL	1995	kg				30425.2			139			
+28	Mississippi	OXAMYL	1996	kg		132.7		19106.5			61.3			
+28	Mississippi	OXAMYL	1997	kg				41383.5			49.5			
+28	Mississippi	OXAMYL	1998	kg				23920						
+28	Mississippi	OXAMYL	1999	kg				17734.2	515.5					
+28	Mississippi	OXAMYL	2000	kg				24917.1						
+28	Mississippi	OXAMYL	2001	kg				2303.9						
+28	Mississippi	OXAMYL	2002	kg				9952						
+28	Mississippi	OXAMYL	2003	kg				4299.9						
+28	Mississippi	OXAMYL	2004	kg				55244.4						
+28	Mississippi	OXAMYL	2005	kg				7152						
+28	Mississippi	OXAMYL	2006	kg				9853.3						
+28	Mississippi	OXAMYL	2007	kg				13852.6						
+28	Mississippi	OXAMYL	2008	kg				6718.6						
+28	Mississippi	OXAMYL	2009	kg				6432.8						
+28	Mississippi	OXAMYL	2010	kg				14677.7						
+28	Mississippi	OXAMYL	2011	kg				5587.9						
+28	Mississippi	OXAMYL	2012	kg				4112.3						
+28	Mississippi	OXAMYL	2013	kg				1045.5						
+28	Mississippi	OXAMYL	2014	kg				8053.6						
+28	Mississippi	OXAMYL	2015	kg				7023.3						
+28	Mississippi	OXAMYL	2016	kg				3024.6						
+28	Mississippi	OXAMYL	2017	kg				4950.6						
+29	Missouri	OXAMYL	1992	kg				2489.7			419.8			
+29	Missouri	OXAMYL	1993	kg				2331.5			416.9			
+29	Missouri	OXAMYL	1994	kg				4339.5			635.3			
+29	Missouri	OXAMYL	1995	kg				12569.7	2128.5		229.1		142.4	
+29	Missouri	OXAMYL	1996	kg				4170.3	1418		3521.2			
+29	Missouri	OXAMYL	1997	kg		13249.8		8512.3			23.7			
+29	Missouri	OXAMYL	1998	kg				13413.9	446.9		9.3			
+29	Missouri	OXAMYL	1999	kg				15421.5	2039.8					
+29	Missouri	OXAMYL	2000	kg				23303.8						
+29	Missouri	OXAMYL	2001	kg				5917.7	4657.5					
+29	Missouri	OXAMYL	2002	kg				53.3	15317.8					
+29	Missouri	OXAMYL	2003	kg				1504.4	1198.1					
+29	Missouri	OXAMYL	2004	kg				3719.6	1753.5					
+29	Missouri	OXAMYL	2005	kg				2717.2	60.8					
+29	Missouri	OXAMYL	2006	kg				15681.5	794.6					
+29	Missouri	OXAMYL	2007	kg				1274.2						
+29	Missouri	OXAMYL	2008	kg				4479.3						
+29	Missouri	OXAMYL	2009	kg				5303.5						
+29	Missouri	OXAMYL	2010	kg				1495.7	878.4					
+29	Missouri	OXAMYL	2011	kg				10555.1	1114.6					
+29	Missouri	OXAMYL	2012	kg				19259.4						
+29	Missouri	OXAMYL	2013	kg				2899.4	1325.3					
+29	Missouri	OXAMYL	2014	kg				12341	332					
+29	Missouri	OXAMYL	2015	kg				43	370.6					
+29	Missouri	OXAMYL	2016	kg				294.7						
+29	Missouri	OXAMYL	2017	kg				903						
+30	Montana	OXAMYL	1994	kg					10.6					
+30	Montana	OXAMYL	1995	kg					59.5					
+30	Montana	OXAMYL	1998	kg					27.8					
+30	Montana	OXAMYL	1999	kg					3.7					
+30	Montana	OXAMYL	2000	kg					100.8					
+30	Montana	OXAMYL	2001	kg					11.3					
+30	Montana	OXAMYL	2002	kg					1546.9					
+30	Montana	OXAMYL	2003	kg					371.1					
+30	Montana	OXAMYL	2004	kg					243.4					
+30	Montana	OXAMYL	2005	kg					301.9					
+30	Montana	OXAMYL	2006	kg					662.3					
+30	Montana	OXAMYL	2007	kg					772.1					
+30	Montana	OXAMYL	2008	kg					511.9					
+30	Montana	OXAMYL	2009	kg					126.4					
+30	Montana	OXAMYL	2010	kg					506.1					
+30	Montana	OXAMYL	2011	kg					1111.5					
+30	Montana	OXAMYL	2012	kg					646.3					
+30	Montana	OXAMYL	2013	kg					382.6					
+30	Montana	OXAMYL	2014	kg					738.9					
+30	Montana	OXAMYL	2015	kg					1409.5					
+30	Montana	OXAMYL	2016	kg					179.3					
+30	Montana	OXAMYL	2017	kg					29.2					
+31	Nebraska	OXAMYL	1993	kg	13730.6									
+31	Nebraska	OXAMYL	2005	kg					3619.8					
+31	Nebraska	OXAMYL	2008	kg					0.2					
+31	Nebraska	OXAMYL	2010	kg					831.1					
+31	Nebraska	OXAMYL	2011	kg					2067.8					
+31	Nebraska	OXAMYL	2012	kg					1.6					
+31	Nebraska	OXAMYL	2013	kg					646.5					
+31	Nebraska	OXAMYL	2014	kg					1.2					
+31	Nebraska	OXAMYL	2015	kg					177.3					
+32	Nevada	OXAMYL	1992	kg					0					
+32	Nevada	OXAMYL	1993	kg					0.3		0.7			
+32	Nevada	OXAMYL	1994	kg					276.2		12.3			
+32	Nevada	OXAMYL	1995	kg					98.5		8.9			
+32	Nevada	OXAMYL	1997	kg					1.1					
+32	Nevada	OXAMYL	1998	kg					37.9		2.4			
+32	Nevada	OXAMYL	1999	kg					0		0			
+32	Nevada	OXAMYL	2000	kg					67.9					
+32	Nevada	OXAMYL	2001	kg					1345.2					
+32	Nevada	OXAMYL	2002	kg					291.9					
+32	Nevada	OXAMYL	2003	kg					522.1					
+32	Nevada	OXAMYL	2004	kg					707.3					
+32	Nevada	OXAMYL	2005	kg					365.2					
+32	Nevada	OXAMYL	2006	kg					1753					
+32	Nevada	OXAMYL	2007	kg					552.5					
+32	Nevada	OXAMYL	2008	kg					625.4					
+32	Nevada	OXAMYL	2009	kg					1252.6					
+32	Nevada	OXAMYL	2010	kg					1392.4					
+32	Nevada	OXAMYL	2011	kg					735.9					
+32	Nevada	OXAMYL	2012	kg					1214					
+32	Nevada	OXAMYL	2013	kg					4545.4					
+32	Nevada	OXAMYL	2014	kg					1225.5					
+32	Nevada	OXAMYL	2015	kg					4334.7					
+32	Nevada	OXAMYL	2016	kg					59					
+32	Nevada	OXAMYL	2017	kg					6.2					
+33	New Hampshire	OXAMYL	1992	kg					21.9		85.3			
+33	New Hampshire	OXAMYL	1993	kg					18.3		140.7			
+33	New Hampshire	OXAMYL	1994	kg					16.9		423.8			
+33	New Hampshire	OXAMYL	1995	kg					90.3		151.1			
+33	New Hampshire	OXAMYL	1996	kg					0		10.3			
+33	New Hampshire	OXAMYL	1997	kg					0		163.1			
+33	New Hampshire	OXAMYL	1998	kg					4.3		103			
+33	New Hampshire	OXAMYL	1999	kg					8.8		31.1			
+33	New Hampshire	OXAMYL	2000	kg							43.1			
+33	New Hampshire	OXAMYL	2001	kg					4.6		55.7			
+33	New Hampshire	OXAMYL	2002	kg					2		55			
+33	New Hampshire	OXAMYL	2003	kg							54.9			
+33	New Hampshire	OXAMYL	2004	kg							277.2			
+33	New Hampshire	OXAMYL	2005	kg							196.4			
+33	New Hampshire	OXAMYL	2006	kg					7.9		62.1			
+33	New Hampshire	OXAMYL	2007	kg					18		726.9			
+33	New Hampshire	OXAMYL	2008	kg					12.6		346.7			
+33	New Hampshire	OXAMYL	2009	kg					4.2		213.2			
+33	New Hampshire	OXAMYL	2010	kg					33.4		227.6			
+33	New Hampshire	OXAMYL	2011	kg					49.8					
+33	New Hampshire	OXAMYL	2012	kg					8.1					
+33	New Hampshire	OXAMYL	2013	kg					67					
+33	New Hampshire	OXAMYL	2014	kg					55.5					
+34	New Jersey	OXAMYL	1992	kg					2211		1675.9			
+34	New Jersey	OXAMYL	1993	kg					5714.2		507.8			
+34	New Jersey	OXAMYL	1994	kg					1088.1		595.3			
+34	New Jersey	OXAMYL	1995	kg					2299.4		211.2			
+34	New Jersey	OXAMYL	1996	kg					1391.2		3935.9			
+34	New Jersey	OXAMYL	1997	kg					482.8		187			
+34	New Jersey	OXAMYL	1998	kg					144.8		205.2			
+34	New Jersey	OXAMYL	1999	kg					1355.2		330.5			
+34	New Jersey	OXAMYL	2000	kg					4.2		118.4			
+34	New Jersey	OXAMYL	2001	kg					207.9		129.6			
+34	New Jersey	OXAMYL	2002	kg					478.1		50.8			
+34	New Jersey	OXAMYL	2003	kg					3.2		74.1			
+34	New Jersey	OXAMYL	2004	kg					5.3		263.2			
+34	New Jersey	OXAMYL	2005	kg					337.6		331.5			
+34	New Jersey	OXAMYL	2006	kg					671.7		93.6			
+34	New Jersey	OXAMYL	2007	kg					1406.5		1387.3			
+34	New Jersey	OXAMYL	2008	kg					262.4		539.7			
+34	New Jersey	OXAMYL	2009	kg					281.9		580.8			
+34	New Jersey	OXAMYL	2010	kg					680.5		244.3			
+34	New Jersey	OXAMYL	2011	kg					447.6					
+34	New Jersey	OXAMYL	2012	kg					899.2					
+34	New Jersey	OXAMYL	2013	kg					771.8					
+34	New Jersey	OXAMYL	2014	kg					117.3					
+34	New Jersey	OXAMYL	2015	kg					5.3					
+35	New Mexico	OXAMYL	1992	kg				13.2			10.8			
+35	New Mexico	OXAMYL	1993	kg				1261.4	509.7					
+35	New Mexico	OXAMYL	1994	kg				1273.7						
+35	New Mexico	OXAMYL	1995	kg				60.6	49.2					
+35	New Mexico	OXAMYL	1996	kg				61.8	27					
+35	New Mexico	OXAMYL	1997	kg				1419.6	72.3					
+35	New Mexico	OXAMYL	1998	kg				1192.2	1899.4					
+35	New Mexico	OXAMYL	1999	kg				1835.5	193.9					
+35	New Mexico	OXAMYL	2000	kg				445	825.4					
+35	New Mexico	OXAMYL	2001	kg				59.1	3153.2					
+35	New Mexico	OXAMYL	2002	kg				101.6	2352.5					
+35	New Mexico	OXAMYL	2003	kg				1544.2	2832.1					
+35	New Mexico	OXAMYL	2004	kg				1344.4	1268.3					
+35	New Mexico	OXAMYL	2005	kg				257	1572.9					
+35	New Mexico	OXAMYL	2006	kg				49.4	2441.7					138.6
+35	New Mexico	OXAMYL	2007	kg				43.5	3114.1					
+35	New Mexico	OXAMYL	2008	kg				2.5	1187.6					
+35	New Mexico	OXAMYL	2009	kg				29.7	4267.1					
+35	New Mexico	OXAMYL	2010	kg				123.2	2727.3					79
+35	New Mexico	OXAMYL	2011	kg				225.2	767.9					
+35	New Mexico	OXAMYL	2012	kg				39.8	772					
+35	New Mexico	OXAMYL	2013	kg				962.9	1090.9					
+35	New Mexico	OXAMYL	2014	kg				36.3	5056.6					
+35	New Mexico	OXAMYL	2015	kg				169.4	2514.6					
+35	New Mexico	OXAMYL	2016	kg				42.2	90.8					
+35	New Mexico	OXAMYL	2017	kg					21.7					
+36	New York	OXAMYL	1992	kg					4915.4		4148.4		134.7	
+36	New York	OXAMYL	1993	kg					6545.8		963.1			
+36	New York	OXAMYL	1994	kg					3277.9		3317			5813.6
+36	New York	OXAMYL	1995	kg					3323.9		1862.7			
+36	New York	OXAMYL	1996	kg					613.4		8481.6			
+36	New York	OXAMYL	1997	kg					654.2		4741.2			
+36	New York	OXAMYL	1998	kg					4375.3		3245.6			
+36	New York	OXAMYL	1999	kg					11533.5		1060.1			
+36	New York	OXAMYL	2000	kg					7540.2		790.5			
+36	New York	OXAMYL	2001	kg					2309.7		1159			
+36	New York	OXAMYL	2002	kg					6384.6		996.2			
+36	New York	OXAMYL	2003	kg					4877.1		1448.9			
+36	New York	OXAMYL	2004	kg					5072.3		6217.4			
+36	New York	OXAMYL	2005	kg					5085.6		4502.6			
+36	New York	OXAMYL	2006	kg					5602.6		1482.6			
+36	New York	OXAMYL	2007	kg					10531.8		17662.9			
+36	New York	OXAMYL	2008	kg					5981.6		8715.2			
+36	New York	OXAMYL	2009	kg					3147		5610.9			
+36	New York	OXAMYL	2010	kg					10054.9		6290.3			
+36	New York	OXAMYL	2011	kg					13161.6		56.2			
+36	New York	OXAMYL	2012	kg					11603.5					
+36	New York	OXAMYL	2013	kg					12069.6					
+36	New York	OXAMYL	2014	kg					6838					
+36	New York	OXAMYL	2015	kg					6050.4					
+37	North Carolina	OXAMYL	1992	kg				2472.2	170.3		1300.6			5671.4
+37	North Carolina	OXAMYL	1993	kg				1883.3	1027.6		1084.7			916.7
+37	North Carolina	OXAMYL	1994	kg				2936.9			189.3			1422.7
+37	North Carolina	OXAMYL	1995	kg				1768.2			2828.2			239.8
+37	North Carolina	OXAMYL	1996	kg				3186.2			373			1374.6
+37	North Carolina	OXAMYL	1997	kg				3614.6	199.2		429.2			
+37	North Carolina	OXAMYL	1998	kg				2549.3			39			
+37	North Carolina	OXAMYL	1999	kg				14115.2			651.4			
+37	North Carolina	OXAMYL	2000	kg				2002	33.7					
+37	North Carolina	OXAMYL	2001	kg				1161.6	4768.8		469.4			1391.8
+37	North Carolina	OXAMYL	2002	kg					4009.6		279.2			
+37	North Carolina	OXAMYL	2003	kg					2115.9		125.4			
+37	North Carolina	OXAMYL	2004	kg				1429.3	883.8		250.9			
+37	North Carolina	OXAMYL	2005	kg							955.9			
+37	North Carolina	OXAMYL	2006	kg					166.2					
+37	North Carolina	OXAMYL	2007	kg				3647.7	87.8					
+37	North Carolina	OXAMYL	2008	kg				386.3	1469.3		12.2			
+37	North Carolina	OXAMYL	2009	kg				491.6	8819.5		149.9			
+37	North Carolina	OXAMYL	2010	kg				4607.8	791.4		38.7			
+37	North Carolina	OXAMYL	2011	kg				6318.4	2910.9					
+37	North Carolina	OXAMYL	2012	kg				2001.2	1516.7					
+37	North Carolina	OXAMYL	2013	kg				1420.1	11320		44.9			
+37	North Carolina	OXAMYL	2014	kg				2504	5559.3		174.1			3988.6
+37	North Carolina	OXAMYL	2015	kg				368.3	714.5					
+38	North Dakota	OXAMYL	2001	kg					203.9					
+38	North Dakota	OXAMYL	2011	kg					18675.9					
+38	North Dakota	OXAMYL	2014	kg					1650.7					
+38	North Dakota	OXAMYL	2015	kg					1407.1					
+38	North Dakota	OXAMYL	2017	kg					2569.1					
+39	Ohio	OXAMYL	1992	kg					1253.8		2773.7			66.7
+39	Ohio	OXAMYL	1993	kg					4019.4		1303.4			12.7
+39	Ohio	OXAMYL	1994	kg					242.9		1053.9			4076.6
+39	Ohio	OXAMYL	1995	kg					10.5		2039.7			8
+39	Ohio	OXAMYL	1996	kg					244.7		509.7			83.5
+39	Ohio	OXAMYL	1997	kg							369.2			174.9
+39	Ohio	OXAMYL	1998	kg					79.2		114			
+39	Ohio	OXAMYL	1999	kg							251.5			
+39	Ohio	OXAMYL	2000	kg					448.7					
+39	Ohio	OXAMYL	2001	kg					1008.5		48.7			
+39	Ohio	OXAMYL	2002	kg					396.6		160.6			28.2
+39	Ohio	OXAMYL	2003	kg							317.3			
+39	Ohio	OXAMYL	2004	kg							488.3			
+39	Ohio	OXAMYL	2005	kg							405.5			
+39	Ohio	OXAMYL	2006	kg					320.4		53			
+39	Ohio	OXAMYL	2007	kg					476.8		44.8			
+39	Ohio	OXAMYL	2008	kg					332.2					
+39	Ohio	OXAMYL	2009	kg					258.1		169.8			
+39	Ohio	OXAMYL	2010	kg					425.1		202.9			
+39	Ohio	OXAMYL	2011	kg					622.6		282.7			
+39	Ohio	OXAMYL	2012	kg					442.9					
+39	Ohio	OXAMYL	2013	kg					623.5					
+39	Ohio	OXAMYL	2014	kg					1.4		152.8			
+39	Ohio	OXAMYL	2015	kg					200.9		23.1			
+39	Ohio	OXAMYL	2017	kg					19.5					
+40	Oklahoma	OXAMYL	1992	kg				1027.5				3598.5		
+40	Oklahoma	OXAMYL	1993	kg				2107.1						
+40	Oklahoma	OXAMYL	1994	kg				1440.7						
+40	Oklahoma	OXAMYL	1995	kg				11338.6						364.6
+40	Oklahoma	OXAMYL	1996	kg				5153.1						
+40	Oklahoma	OXAMYL	1997	kg		12897.9		23087.9						
+40	Oklahoma	OXAMYL	1998	kg				10442.3						
+40	Oklahoma	OXAMYL	1999	kg				9672	706					
+40	Oklahoma	OXAMYL	2000	kg				8217.3						
+40	Oklahoma	OXAMYL	2001	kg				3461.8	20.6					
+40	Oklahoma	OXAMYL	2002	kg				2067.9	126.2					
+40	Oklahoma	OXAMYL	2003	kg				6279.2	100.9					
+40	Oklahoma	OXAMYL	2004	kg				18362.2	13.6					
+40	Oklahoma	OXAMYL	2005	kg				7928.7	0.8					
+40	Oklahoma	OXAMYL	2006	kg				23336.3	1.2					
+40	Oklahoma	OXAMYL	2007	kg				3424.3	0.5					
+40	Oklahoma	OXAMYL	2008	kg				11589.2	1.1					
+40	Oklahoma	OXAMYL	2009	kg				14024.2	1.3					
+40	Oklahoma	OXAMYL	2010	kg				19587.9						
+40	Oklahoma	OXAMYL	2011	kg				8209.8	0.4					
+40	Oklahoma	OXAMYL	2012	kg				2438.4	0.6					
+40	Oklahoma	OXAMYL	2013	kg				3586.3	0.4					
+40	Oklahoma	OXAMYL	2014	kg				13094.6	1.1					
+40	Oklahoma	OXAMYL	2015	kg				567.7	0					
+40	Oklahoma	OXAMYL	2016	kg				4938.4						
+41	Oregon	OXAMYL	1992	kg							381.8			
+41	Oregon	OXAMYL	1993	kg							117.9			
+41	Oregon	OXAMYL	1994	kg					2796.6		979.2			
+41	Oregon	OXAMYL	1995	kg					719		1510.5			
+41	Oregon	OXAMYL	1996	kg					3504.7		1383.3			
+41	Oregon	OXAMYL	1997	kg							834.1			
+41	Oregon	OXAMYL	1998	kg					292		984.1			
+41	Oregon	OXAMYL	1999	kg					8107.2		449.5			
+41	Oregon	OXAMYL	2000	kg					1120.9		3.8			
+41	Oregon	OXAMYL	2001	kg					13470.8		135.2			
+41	Oregon	OXAMYL	2002	kg					16442.7		12.8			
+41	Oregon	OXAMYL	2003	kg					14856.8					
+41	Oregon	OXAMYL	2004	kg					9814.5					
+41	Oregon	OXAMYL	2005	kg					29256.1		103.6			
+41	Oregon	OXAMYL	2006	kg					62425.8					
+41	Oregon	OXAMYL	2007	kg					14630.3					
+41	Oregon	OXAMYL	2008	kg					22467.4					
+41	Oregon	OXAMYL	2009	kg					12147.7					
+41	Oregon	OXAMYL	2010	kg					25654.9					
+41	Oregon	OXAMYL	2011	kg					20591.1					
+41	Oregon	OXAMYL	2012	kg					34276					
+41	Oregon	OXAMYL	2013	kg					72201.2					
+41	Oregon	OXAMYL	2014	kg					39702.9					
+41	Oregon	OXAMYL	2015	kg					42983.8					
+41	Oregon	OXAMYL	2016	kg					2237.3					
+41	Oregon	OXAMYL	2017	kg					11214.2					
+42	Pennsylvania	OXAMYL	1992	kg					2568.9		5939.7			1380.8
+42	Pennsylvania	OXAMYL	1993	kg					3755.2		6264.8			
+42	Pennsylvania	OXAMYL	1994	kg					4515.2		4614.3			14902.5
+42	Pennsylvania	OXAMYL	1995	kg					5423.8		3559.8			
+42	Pennsylvania	OXAMYL	1996	kg					745.5		4800.5			
+42	Pennsylvania	OXAMYL	1997	kg					354.6		466.4			
+42	Pennsylvania	OXAMYL	1998	kg					544.4		1795.8			
+42	Pennsylvania	OXAMYL	1999	kg					69.9		877.3			
+42	Pennsylvania	OXAMYL	2000	kg					19		403.2			
+42	Pennsylvania	OXAMYL	2001	kg					788.6		445.6			
+42	Pennsylvania	OXAMYL	2002	kg					894.1		860			2030.8
+42	Pennsylvania	OXAMYL	2003	kg					16.2		712.8			
+42	Pennsylvania	OXAMYL	2004	kg					25.2		1790.3			
+42	Pennsylvania	OXAMYL	2005	kg					147		3403.2			
+42	Pennsylvania	OXAMYL	2006	kg					1626.5		749.7			
+42	Pennsylvania	OXAMYL	2007	kg					4332		13980.1			
+42	Pennsylvania	OXAMYL	2008	kg					1456.1		3926.2			
+42	Pennsylvania	OXAMYL	2009	kg					416.9		1332			
+42	Pennsylvania	OXAMYL	2010	kg					2454.7		2832.4			
+42	Pennsylvania	OXAMYL	2011	kg					1414.9		392.8			
+42	Pennsylvania	OXAMYL	2012	kg					5881.9					
+42	Pennsylvania	OXAMYL	2013	kg					2999.2					
+42	Pennsylvania	OXAMYL	2014	kg					1671.8		127.6			
+42	Pennsylvania	OXAMYL	2015	kg					2		78.7			
+44	Rhode Island	OXAMYL	1992	kg					139.6		11.6			
+44	Rhode Island	OXAMYL	1993	kg					105.1		19			
+44	Rhode Island	OXAMYL	1994	kg					95.8		57.2			
+44	Rhode Island	OXAMYL	1995	kg					10.9		20.4			
+44	Rhode Island	OXAMYL	1996	kg					17.1		3.9			
+44	Rhode Island	OXAMYL	1997	kg					4.9		22			
+44	Rhode Island	OXAMYL	1998	kg					35		13.8			
+44	Rhode Island	OXAMYL	1999	kg					70.6		4.3			
+44	Rhode Island	OXAMYL	2000	kg							5.8			
+44	Rhode Island	OXAMYL	2001	kg					35.3		7.5			
+44	Rhode Island	OXAMYL	2002	kg					14.5		7.4			
+44	Rhode Island	OXAMYL	2003	kg							7.9			
+44	Rhode Island	OXAMYL	2004	kg							43.5			
+44	Rhode Island	OXAMYL	2005	kg							33.3			
+44	Rhode Island	OXAMYL	2006	kg					95.7		11.3			
+44	Rhode Island	OXAMYL	2007	kg					121.1		143			
+44	Rhode Island	OXAMYL	2008	kg					69.4		63.4			
+44	Rhode Island	OXAMYL	2009	kg					19.9		38.3			
+44	Rhode Island	OXAMYL	2010	kg					137.5		40.3			
+44	Rhode Island	OXAMYL	2011	kg					107.4					
+44	Rhode Island	OXAMYL	2012	kg					125.9					
+44	Rhode Island	OXAMYL	2013	kg					178					
+44	Rhode Island	OXAMYL	2014	kg					116.7					
+45	South Carolina	OXAMYL	1992	kg				1896.6			69.7			
+45	South Carolina	OXAMYL	1993	kg				2612.9						3.3
+45	South Carolina	OXAMYL	1994	kg				2213			19.9			
+45	South Carolina	OXAMYL	1995	kg				1131.3			761.8			
+45	South Carolina	OXAMYL	1996	kg				1943.4			77.4			
+45	South Carolina	OXAMYL	1997	kg				2439.2			94.6			
+45	South Carolina	OXAMYL	1998	kg				1581.1			11			
+45	South Carolina	OXAMYL	1999	kg				7625.2						
+45	South Carolina	OXAMYL	2000	kg				931.3	0					
+45	South Carolina	OXAMYL	2001	kg				536.5			132.7			
+45	South Carolina	OXAMYL	2003	kg							18.8			
+45	South Carolina	OXAMYL	2004	kg				715.3	7.1		64.5			
+45	South Carolina	OXAMYL	2005	kg							345.5			
+45	South Carolina	OXAMYL	2006	kg					623.4					
+45	South Carolina	OXAMYL	2007	kg				1859.5	239.9					
+45	South Carolina	OXAMYL	2008	kg				1092.6	422.3		0.6			
+45	South Carolina	OXAMYL	2009	kg				276.7	1339.6					
+45	South Carolina	OXAMYL	2010	kg				2942	217					
+45	South Carolina	OXAMYL	2011	kg				1555.1	246					
+45	South Carolina	OXAMYL	2012	kg				1650.6						
+45	South Carolina	OXAMYL	2013	kg				9548						29.1
+45	South Carolina	OXAMYL	2014	kg				6396.5	26.3					124.7
+45	South Carolina	OXAMYL	2015	kg				1169.1	765.3					
+45	South Carolina	OXAMYL	2017	kg				1641.3						
+46	South Dakota	OXAMYL	2010	kg					24.7					
+46	South Dakota	OXAMYL	2011	kg					36.5					
+46	South Dakota	OXAMYL	2013	kg					7.3					
+46	South Dakota	OXAMYL	2015	kg					9.9					
+46	South Dakota	OXAMYL	2017	kg					6.7					
+47	Tennessee	OXAMYL	1992	kg			66.6	4358.8			73.8			771.5
+47	Tennessee	OXAMYL	1993	kg				1235.3			130.1			558.4
+47	Tennessee	OXAMYL	1994	kg				813.2			119.8			1012.1
+47	Tennessee	OXAMYL	1995	kg				10611.1			321.4		14.9	152.9
+47	Tennessee	OXAMYL	1996	kg		315.6		8457.4			50.3			808.4
+47	Tennessee	OXAMYL	1997	kg				11702.9			108.4			
+47	Tennessee	OXAMYL	1998	kg				51232.8	18.1		20.8			
+47	Tennessee	OXAMYL	1999	kg				27122.3			169.4			
+47	Tennessee	OXAMYL	2000	kg				28385.1						
+47	Tennessee	OXAMYL	2001	kg				6114.1	0.9		16.1			
+47	Tennessee	OXAMYL	2002	kg				1990.7	3.6		43.2			
+47	Tennessee	OXAMYL	2003	kg				1852.5			12.8			
+47	Tennessee	OXAMYL	2004	kg				2332.2			31.2			
+47	Tennessee	OXAMYL	2005	kg				2563.8	0.6		59.6			
+47	Tennessee	OXAMYL	2006	kg				2858.8						115.3
+47	Tennessee	OXAMYL	2007	kg				1799.3						293.1
+47	Tennessee	OXAMYL	2008	kg				439.9			0.3			
+47	Tennessee	OXAMYL	2009	kg				911.1			17.7			
+47	Tennessee	OXAMYL	2010	kg				2628.3						
+47	Tennessee	OXAMYL	2011	kg				7182	2.9					
+47	Tennessee	OXAMYL	2012	kg				3666	75.6					
+47	Tennessee	OXAMYL	2013	kg				3783.2	1.2		29.5			
+47	Tennessee	OXAMYL	2014	kg				6573.7	5.1		17.5			
+47	Tennessee	OXAMYL	2015	kg				1653.8						
+47	Tennessee	OXAMYL	2016	kg				762.6						
+47	Tennessee	OXAMYL	2017	kg				2601.1						
+48	Texas	OXAMYL	1992	kg				50226.4	1617.4			438		
+48	Texas	OXAMYL	1993	kg				35846.1						9116.2
+48	Texas	OXAMYL	1994	kg				97902.7	9593.6		171.5			
+48	Texas	OXAMYL	1995	kg			1153.5	118246.1	2555		579.1			798.9
+48	Texas	OXAMYL	1996	kg				36962.9	117.6		342.9			
+48	Texas	OXAMYL	1997	kg				101679.2	2219.9		550.1			
+48	Texas	OXAMYL	1998	kg				144583.1	5333.3					
+48	Texas	OXAMYL	1999	kg				145536.3	24304.3		114.2			
+48	Texas	OXAMYL	2000	kg				212759.5	15137.6		288			
+48	Texas	OXAMYL	2001	kg				110141.5	7573.9					
+48	Texas	OXAMYL	2002	kg				94514.6	2902.1		577.8			
+48	Texas	OXAMYL	2003	kg				134566.9	4743.9					
+48	Texas	OXAMYL	2004	kg				40429.2	5062		1321.8			
+48	Texas	OXAMYL	2005	kg				46913.4	6916		660.7			
+48	Texas	OXAMYL	2006	kg				4163.9	5373.9		698.9			1488.9
+48	Texas	OXAMYL	2007	kg				23506.3	3421.2		296.3			
+48	Texas	OXAMYL	2008	kg				11059.6	1668.6					
+48	Texas	OXAMYL	2009	kg				7654.7	4280.8					
+48	Texas	OXAMYL	2010	kg				31854.2	4971.8					1359.8
+48	Texas	OXAMYL	2011	kg				57068.7	1626.7					
+48	Texas	OXAMYL	2012	kg				10473.8	1389					
+48	Texas	OXAMYL	2013	kg				36580	2764.5					
+48	Texas	OXAMYL	2014	kg				11278.6	1638.3					
+48	Texas	OXAMYL	2015	kg				24074.3	1566.7					
+48	Texas	OXAMYL	2016	kg				18743.2	1847.8					
+49	Utah	OXAMYL	1992	kg							2			
+49	Utah	OXAMYL	1994	kg					0.6					
+49	Utah	OXAMYL	1995	kg					12.6					
+49	Utah	OXAMYL	1998	kg					4.7					
+49	Utah	OXAMYL	1999	kg					0					
+49	Utah	OXAMYL	2000	kg					9.2					
+49	Utah	OXAMYL	2001	kg					43.7					
+49	Utah	OXAMYL	2002	kg					80.6					
+49	Utah	OXAMYL	2003	kg					27.2					
+49	Utah	OXAMYL	2004	kg					36.3					
+49	Utah	OXAMYL	2005	kg					13.1					
+49	Utah	OXAMYL	2006	kg					15.7					
+49	Utah	OXAMYL	2007	kg					16.4					
+49	Utah	OXAMYL	2008	kg					48.6					
+49	Utah	OXAMYL	2009	kg					39.1					
+49	Utah	OXAMYL	2010	kg					68.1					
+49	Utah	OXAMYL	2011	kg					107.5					
+49	Utah	OXAMYL	2012	kg					67.1					
+49	Utah	OXAMYL	2013	kg					71.1					
+49	Utah	OXAMYL	2014	kg					57.6					
+49	Utah	OXAMYL	2015	kg					92.2					
+49	Utah	OXAMYL	2016	kg					12.4					
+49	Utah	OXAMYL	2017	kg					1.2					
+50	Vermont	OXAMYL	1992	kg					17.1		63.3			
+50	Vermont	OXAMYL	1993	kg					36.5		9.8			
+50	Vermont	OXAMYL	1994	kg					19.9		558.8			
+50	Vermont	OXAMYL	1995	kg					48.9		200			
+50	Vermont	OXAMYL	1996	kg					2.3		1209.5			
+50	Vermont	OXAMYL	1997	kg					0		448.9			
+50	Vermont	OXAMYL	1998	kg					6.5		137.4			
+50	Vermont	OXAMYL	1999	kg					14.8		41.9			
+50	Vermont	OXAMYL	2000	kg					46.4		57.9			
+50	Vermont	OXAMYL	2001	kg					24.6		75.3			
+50	Vermont	OXAMYL	2002	kg					21.1		18.5			
+50	Vermont	OXAMYL	2003	kg							76.7			
+50	Vermont	OXAMYL	2004	kg							401.5			
+50	Vermont	OXAMYL	2005	kg							294.1			
+50	Vermont	OXAMYL	2006	kg					35.2		96.1			
+50	Vermont	OXAMYL	2007	kg					46.2		1166.8			
+50	Vermont	OXAMYL	2008	kg					33.8		526.9			
+50	Vermont	OXAMYL	2009	kg					9.6		313.5			
+50	Vermont	OXAMYL	2010	kg					66.1		321.8			
+50	Vermont	OXAMYL	2011	kg					51.3					
+50	Vermont	OXAMYL	2012	kg					59.5					
+50	Vermont	OXAMYL	2013	kg					89.6					
+50	Vermont	OXAMYL	2014	kg					51.3					
+51	Virginia	OXAMYL	1992	kg					2.7		332.6			315
+51	Virginia	OXAMYL	1993	kg							2544.3			199.2
+51	Virginia	OXAMYL	1994	kg							5028.8			
+51	Virginia	OXAMYL	1995	kg					699		1124.3			
+51	Virginia	OXAMYL	1996	kg							2582.3			
+51	Virginia	OXAMYL	1997	kg					747.6		496.4			
+51	Virginia	OXAMYL	1998	kg					225.7		321			
+51	Virginia	OXAMYL	1999	kg					46.3		803.8			
+51	Virginia	OXAMYL	2000	kg							202.6			
+51	Virginia	OXAMYL	2001	kg							2036.3			863.8
+51	Virginia	OXAMYL	2002	kg					0.6		306.8			
+51	Virginia	OXAMYL	2003	kg					431.7		123.5			
+51	Virginia	OXAMYL	2004	kg							186.8			
+51	Virginia	OXAMYL	2005	kg							3301.8			
+51	Virginia	OXAMYL	2006	kg					48.6					
+51	Virginia	OXAMYL	2007	kg					19.9		721.1			
+51	Virginia	OXAMYL	2008	kg					64.5					
+51	Virginia	OXAMYL	2009	kg					185.3		27.4			
+51	Virginia	OXAMYL	2010	kg					1.4		333.1			
+51	Virginia	OXAMYL	2011	kg							25.5			
+51	Virginia	OXAMYL	2012	kg					142					
+51	Virginia	OXAMYL	2013	kg							340.8			
+51	Virginia	OXAMYL	2014	kg					21.7		49.9			3253.4
+53	Washington	OXAMYL	1992	kg							6650.1			
+53	Washington	OXAMYL	1993	kg							10374.9			
+53	Washington	OXAMYL	1994	kg					3673.4		565.1			
+53	Washington	OXAMYL	1995	kg					1081.8		6438			
+53	Washington	OXAMYL	1996	kg					23.8		4268			
+53	Washington	OXAMYL	1997	kg							12204			
+53	Washington	OXAMYL	1998	kg					828.1		16772.3			
+53	Washington	OXAMYL	1999	kg					2966.5		1280.4			
+53	Washington	OXAMYL	2000	kg					18345.2		141.2			
+53	Washington	OXAMYL	2001	kg					14161.8		5323.7			
+53	Washington	OXAMYL	2002	kg					22736.9		535.8			
+53	Washington	OXAMYL	2003	kg					36601.4					
+53	Washington	OXAMYL	2004	kg					48017.2					
+53	Washington	OXAMYL	2005	kg					118709.3		3455.1			
+53	Washington	OXAMYL	2006	kg					151096.7					
+53	Washington	OXAMYL	2007	kg					166615.2					
+53	Washington	OXAMYL	2008	kg					126453.1					
+53	Washington	OXAMYL	2009	kg					54804.1					
+53	Washington	OXAMYL	2010	kg					27862.6					
+53	Washington	OXAMYL	2011	kg					74769.7					
+53	Washington	OXAMYL	2012	kg					141620.6					
+53	Washington	OXAMYL	2013	kg					101826.4					
+53	Washington	OXAMYL	2014	kg					93438.3					
+53	Washington	OXAMYL	2015	kg					81166.3					
+53	Washington	OXAMYL	2016	kg					4619.7					
+53	Washington	OXAMYL	2017	kg					9226.8					
+54	West Virginia	OXAMYL	1992	kg					11		334.4			1.9
+54	West Virginia	OXAMYL	1993	kg					15.8		1195.1			3
+54	West Virginia	OXAMYL	1994	kg							1953.6			
+54	West Virginia	OXAMYL	1995	kg					26.4		406.8			
+54	West Virginia	OXAMYL	1996	kg							774.5			
+54	West Virginia	OXAMYL	1997	kg							482.9			
+54	West Virginia	OXAMYL	1998	kg							144.4			
+54	West Virginia	OXAMYL	1999	kg							811.6			
+54	West Virginia	OXAMYL	2000	kg							72.8			
+54	West Virginia	OXAMYL	2001	kg							138.6			
+54	West Virginia	OXAMYL	2002	kg							175.4			
+54	West Virginia	OXAMYL	2003	kg							71.6			
+54	West Virginia	OXAMYL	2004	kg							28.3			
+54	West Virginia	OXAMYL	2005	kg							361.9			
+54	West Virginia	OXAMYL	2006	kg							6.2			
+54	West Virginia	OXAMYL	2007	kg							236.9			
+54	West Virginia	OXAMYL	2009	kg							251.9			
+54	West Virginia	OXAMYL	2010	kg							16.4			
+54	West Virginia	OXAMYL	2011	kg							8.4			
+54	West Virginia	OXAMYL	2012	kg					20.8					
+54	West Virginia	OXAMYL	2013	kg							458.7			
+54	West Virginia	OXAMYL	2014	kg					3.4		175.4			
+54	West Virginia	OXAMYL	2015	kg							7.6			
+55	Wisconsin	OXAMYL	1992	kg							1141.1			
+55	Wisconsin	OXAMYL	1993	kg					31902.5		1102.2			
+55	Wisconsin	OXAMYL	1994	kg							1540.2			
+55	Wisconsin	OXAMYL	1995	kg					2585		626.8			
+55	Wisconsin	OXAMYL	1996	kg					11851		1131.9			12199.8
+55	Wisconsin	OXAMYL	1997	kg					19.6		105.3			
+55	Wisconsin	OXAMYL	1999	kg					901.9					
+55	Wisconsin	OXAMYL	2000	kg					15309.4		102.9			
+55	Wisconsin	OXAMYL	2001	kg					8393.3					
+55	Wisconsin	OXAMYL	2002	kg					3031.2					
+55	Wisconsin	OXAMYL	2003	kg					3949.8		384.4			
+55	Wisconsin	OXAMYL	2004	kg					533.8		1060.6			
+55	Wisconsin	OXAMYL	2005	kg							238			
+55	Wisconsin	OXAMYL	2006	kg					15064.9					
+55	Wisconsin	OXAMYL	2007	kg					22316.7					
+55	Wisconsin	OXAMYL	2008	kg					21852.6					
+55	Wisconsin	OXAMYL	2009	kg					15831.7					
+55	Wisconsin	OXAMYL	2010	kg					15798.6					
+55	Wisconsin	OXAMYL	2011	kg					19564.6					
+55	Wisconsin	OXAMYL	2012	kg					3653.6					
+55	Wisconsin	OXAMYL	2013	kg					3374.4					
+55	Wisconsin	OXAMYL	2014	kg					1339.3					
+55	Wisconsin	OXAMYL	2015	kg					2328.5					
+56	Wyoming	OXAMYL	1994	kg					0					
+56	Wyoming	OXAMYL	1995	kg					0					
+56	Wyoming	OXAMYL	1998	kg					0					
+56	Wyoming	OXAMYL	1999	kg					0					
+56	Wyoming	OXAMYL	2000	kg					0					
+56	Wyoming	OXAMYL	2001	kg					0					
+56	Wyoming	OXAMYL	2002	kg					0.5					
+56	Wyoming	OXAMYL	2003	kg					0.1					
+56	Wyoming	OXAMYL	2004	kg					0.1					
+56	Wyoming	OXAMYL	2005	kg					423.1					
+56	Wyoming	OXAMYL	2006	kg					0.2					
+56	Wyoming	OXAMYL	2007	kg					0.2					
+56	Wyoming	OXAMYL	2008	kg					0.8					
+56	Wyoming	OXAMYL	2009	kg					0.1					
+56	Wyoming	OXAMYL	2010	kg					6.6					
+56	Wyoming	OXAMYL	2011	kg					137.5					
+56	Wyoming	OXAMYL	2012	kg					2.1					
+56	Wyoming	OXAMYL	2013	kg					0.7					
+56	Wyoming	OXAMYL	2014	kg					1.4					
+56	Wyoming	OXAMYL	2015	kg					1.1					
+56	Wyoming	OXAMYL	2016	kg					0					
+56	Wyoming	OXAMYL	2017	kg					0					

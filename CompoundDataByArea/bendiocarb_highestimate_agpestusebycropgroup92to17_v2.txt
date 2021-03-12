@@ -1,0 +1,14 @@
+06	California	BENDIOCARB	1992	kg							597.2			
+06	California	BENDIOCARB	1993	kg							226.9			
+06	California	BENDIOCARB	1994	kg							49.3			
+06	California	BENDIOCARB	1995	kg							14.6			
+06	California	BENDIOCARB	1996	kg							10.2			
+06	California	BENDIOCARB	1997	kg							8.4			
+06	California	BENDIOCARB	1998	kg							7.1			
+06	California	BENDIOCARB	1999	kg							4.9			
+06	California	BENDIOCARB	2000	kg							1			
+06	California	BENDIOCARB	2003	kg							7.5			
+06	California	BENDIOCARB	2004	kg							0.2			
+18	Indiana	BENDIOCARB	1997	kg										0.1
+26	Michigan	BENDIOCARB	1997	kg										1.7
+48	Texas	BENDIOCARB	1995	kg							84.4			

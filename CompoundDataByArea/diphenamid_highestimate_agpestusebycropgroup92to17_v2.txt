@@ -1,0 +1,32 @@
+01	Alabama	DIPHENAMID	1993	kg										1.4
+06	California	DIPHENAMID	1992	kg					128.4					
+06	California	DIPHENAMID	2000	kg				0.1						
+06	California	DIPHENAMID	2001	kg					8.2					
+06	California	DIPHENAMID	2003	kg							0.6			
+06	California	DIPHENAMID	2004	kg							39.8			
+06	California	DIPHENAMID	2014	kg							0.3			
+17	Illinois	DIPHENAMID	1994	kg					274.1					
+18	Indiana	DIPHENAMID	1992	kg					20.1					
+18	Indiana	DIPHENAMID	1993	kg					4.5					
+18	Indiana	DIPHENAMID	1994	kg					19.8					
+21	Kentucky	DIPHENAMID	1992	kg										3674.3
+21	Kentucky	DIPHENAMID	1993	kg										12691.4
+21	Kentucky	DIPHENAMID	1996	kg										1438.9
+26	Michigan	DIPHENAMID	1992	kg					307.9					
+26	Michigan	DIPHENAMID	1993	kg					48.3					
+34	New Jersey	DIPHENAMID	1994	kg					87.1					
+37	North Carolina	DIPHENAMID	1992	kg										1918.8
+37	North Carolina	DIPHENAMID	1993	kg					366.1					
+38	North Dakota	DIPHENAMID	1992	kg										52260.5
+39	Ohio	DIPHENAMID	1992	kg										242.5
+39	Ohio	DIPHENAMID	1993	kg					247.5					409.4
+39	Ohio	DIPHENAMID	1996	kg										65
+40	Oklahoma	DIPHENAMID	1992	kg			3115.8							
+42	Pennsylvania	DIPHENAMID	1994	kg					0.6					
+45	South Carolina	DIPHENAMID	1992	kg										506.5
+47	Tennessee	DIPHENAMID	1993	kg										6649.5
+48	Texas	DIPHENAMID	1992	kg			4862.7							
+51	Virginia	DIPHENAMID	1993	kg					76.2					
+54	West Virginia	DIPHENAMID	1992	kg										42.2
+54	West Virginia	DIPHENAMID	1993	kg					5.2					70.8
+55	Wisconsin	DIPHENAMID	1994	kg										1043.2

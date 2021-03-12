@@ -1,0 +1,415 @@
+01	Alabama	TETRACONAZOLE	2005	kg		109.2								
+01	Alabama	TETRACONAZOLE	2007	kg		548								
+01	Alabama	TETRACONAZOLE	2008	kg		2068								
+01	Alabama	TETRACONAZOLE	2009	kg		128.1								
+01	Alabama	TETRACONAZOLE	2010	kg		165.9								
+01	Alabama	TETRACONAZOLE	2011	kg		146.3								159.7
+01	Alabama	TETRACONAZOLE	2012	kg		202.2								
+01	Alabama	TETRACONAZOLE	2013	kg	90.4	2199.1								
+01	Alabama	TETRACONAZOLE	2014	kg		564.1								
+01	Alabama	TETRACONAZOLE	2015	kg		1045.5								
+01	Alabama	TETRACONAZOLE	2016	kg		2107.5								
+01	Alabama	TETRACONAZOLE	2017	kg		3333.8								
+04	Arizona	TETRACONAZOLE	2013	kg					0		1.6			
+04	Arizona	TETRACONAZOLE	2014	kg					0		1.8			
+04	Arizona	TETRACONAZOLE	2015	kg					0		4.1			
+04	Arizona	TETRACONAZOLE	2016	kg					0		1.8			
+04	Arizona	TETRACONAZOLE	2017	kg							11.7			
+05	Arkansas	TETRACONAZOLE	2005	kg		667.3								
+05	Arkansas	TETRACONAZOLE	2006	kg		135								
+05	Arkansas	TETRACONAZOLE	2007	kg		14807.5								
+05	Arkansas	TETRACONAZOLE	2008	kg		7942.2								
+05	Arkansas	TETRACONAZOLE	2009	kg		8437.9								
+05	Arkansas	TETRACONAZOLE	2010	kg		7653.5								
+05	Arkansas	TETRACONAZOLE	2011	kg		854.3								
+05	Arkansas	TETRACONAZOLE	2012	kg		5086.2								
+05	Arkansas	TETRACONAZOLE	2013	kg		560.4								
+05	Arkansas	TETRACONAZOLE	2014	kg	7154.7	5447.1				102.5				
+05	Arkansas	TETRACONAZOLE	2015	kg	144.2	6701.9								
+05	Arkansas	TETRACONAZOLE	2016	kg		5459.7								
+05	Arkansas	TETRACONAZOLE	2017	kg		6142.4								
+06	California	TETRACONAZOLE	2009	kg							94.8			
+06	California	TETRACONAZOLE	2010	kg							1242.8			
+06	California	TETRACONAZOLE	2011	kg							2291.8			
+06	California	TETRACONAZOLE	2012	kg					19.2		2369.8			
+06	California	TETRACONAZOLE	2013	kg					328.9		2827.2			
+06	California	TETRACONAZOLE	2014	kg					482.2		3131.6			
+06	California	TETRACONAZOLE	2015	kg					480.6		3274.1			4.7
+06	California	TETRACONAZOLE	2016	kg	6.9				427.6		3200.3			
+06	California	TETRACONAZOLE	2017	kg	7.6				356		3405.6			
+08	Colorado	TETRACONAZOLE	1999	kg										2371.9
+08	Colorado	TETRACONAZOLE	2000	kg										1157.4
+08	Colorado	TETRACONAZOLE	2001	kg										540.7
+08	Colorado	TETRACONAZOLE	2002	kg										280
+08	Colorado	TETRACONAZOLE	2003	kg										16.5
+08	Colorado	TETRACONAZOLE	2004	kg										67.5
+08	Colorado	TETRACONAZOLE	2005	kg										252.7
+08	Colorado	TETRACONAZOLE	2006	kg										750.1
+08	Colorado	TETRACONAZOLE	2007	kg										588.6
+08	Colorado	TETRACONAZOLE	2008	kg										144.6
+08	Colorado	TETRACONAZOLE	2009	kg										358.2
+08	Colorado	TETRACONAZOLE	2010	kg										14.7
+08	Colorado	TETRACONAZOLE	2011	kg										214.7
+08	Colorado	TETRACONAZOLE	2012	kg										574.1
+08	Colorado	TETRACONAZOLE	2013	kg										168.2
+08	Colorado	TETRACONAZOLE	2014	kg										712.2
+08	Colorado	TETRACONAZOLE	2015	kg										55
+08	Colorado	TETRACONAZOLE	2016	kg										359.7
+08	Colorado	TETRACONAZOLE	2017	kg										351.1
+12	Florida	TETRACONAZOLE	2011	kg										109.9
+12	Florida	TETRACONAZOLE	2015	kg					17.1					
+12	Florida	TETRACONAZOLE	2016	kg		17			90.1		30.7			
+12	Florida	TETRACONAZOLE	2017	kg		52.7			743.1		78.2			
+13	Georgia	TETRACONAZOLE	2003	kg							0.3			
+13	Georgia	TETRACONAZOLE	2005	kg		25.7								
+13	Georgia	TETRACONAZOLE	2007	kg		119.5								
+13	Georgia	TETRACONAZOLE	2008	kg		440.9								
+13	Georgia	TETRACONAZOLE	2009	kg		96.3								
+13	Georgia	TETRACONAZOLE	2010	kg		2064.7								511.7
+13	Georgia	TETRACONAZOLE	2011	kg		344.2								362.9
+13	Georgia	TETRACONAZOLE	2012	kg		291.6								
+13	Georgia	TETRACONAZOLE	2013	kg		1210.5								
+13	Georgia	TETRACONAZOLE	2014	kg		163.3								
+13	Georgia	TETRACONAZOLE	2015	kg		597								
+13	Georgia	TETRACONAZOLE	2016	kg		543					914.7			
+13	Georgia	TETRACONAZOLE	2017	kg		777					2613.4			
+16	Idaho	TETRACONAZOLE	2010	kg										54.3
+16	Idaho	TETRACONAZOLE	2014	kg										165.3
+16	Idaho	TETRACONAZOLE	2015	kg										1160.6
+16	Idaho	TETRACONAZOLE	2017	kg										1114.9
+17	Illinois	TETRACONAZOLE	2005	kg		3977								
+17	Illinois	TETRACONAZOLE	2006	kg		1718.5								
+17	Illinois	TETRACONAZOLE	2007	kg		8748.3								
+17	Illinois	TETRACONAZOLE	2008	kg		10173.7								
+17	Illinois	TETRACONAZOLE	2009	kg		10067.2								
+17	Illinois	TETRACONAZOLE	2010	kg		10822.7								
+17	Illinois	TETRACONAZOLE	2011	kg		23534.2								
+17	Illinois	TETRACONAZOLE	2012	kg		2720.7								
+17	Illinois	TETRACONAZOLE	2013	kg		5710.7								
+17	Illinois	TETRACONAZOLE	2014	kg		5121.2								
+17	Illinois	TETRACONAZOLE	2015	kg	664	1673.8								
+17	Illinois	TETRACONAZOLE	2016	kg	106.1	2959.2								
+17	Illinois	TETRACONAZOLE	2017	kg	59.5	1847.6								
+18	Indiana	TETRACONAZOLE	2005	kg		2142.9								
+18	Indiana	TETRACONAZOLE	2006	kg		698								
+18	Indiana	TETRACONAZOLE	2007	kg		1957.3								
+18	Indiana	TETRACONAZOLE	2008	kg		5193.3								
+18	Indiana	TETRACONAZOLE	2009	kg		2792.1								
+18	Indiana	TETRACONAZOLE	2010	kg		1371.6								
+18	Indiana	TETRACONAZOLE	2011	kg		8696.1								
+18	Indiana	TETRACONAZOLE	2012	kg		4249.3								
+18	Indiana	TETRACONAZOLE	2013	kg	439.7	3700.7								
+18	Indiana	TETRACONAZOLE	2014	kg	664.1	3716.4								
+18	Indiana	TETRACONAZOLE	2015	kg		1945.9								
+18	Indiana	TETRACONAZOLE	2016	kg	170.2	1262.8								
+18	Indiana	TETRACONAZOLE	2017	kg	100.5	1264.2								
+19	Iowa	TETRACONAZOLE	2005	kg		3857.9								
+19	Iowa	TETRACONAZOLE	2006	kg		1039								
+19	Iowa	TETRACONAZOLE	2007	kg		3832.8								
+19	Iowa	TETRACONAZOLE	2008	kg		5844.3								
+19	Iowa	TETRACONAZOLE	2009	kg		2785.8								
+19	Iowa	TETRACONAZOLE	2010	kg		5774.4								
+19	Iowa	TETRACONAZOLE	2011	kg		8510.1								
+19	Iowa	TETRACONAZOLE	2012	kg		4595.2								
+19	Iowa	TETRACONAZOLE	2013	kg		7666.5								
+19	Iowa	TETRACONAZOLE	2014	kg		4524.1								
+19	Iowa	TETRACONAZOLE	2015	kg		2823.2								
+19	Iowa	TETRACONAZOLE	2016	kg	1968.3	2472								
+19	Iowa	TETRACONAZOLE	2017	kg	1168	2072.5								
+20	Kansas	TETRACONAZOLE	2008	kg		1222.3								
+20	Kansas	TETRACONAZOLE	2011	kg		146.5								
+20	Kansas	TETRACONAZOLE	2017	kg	83									
+21	Kentucky	TETRACONAZOLE	2005	kg		430.7								
+21	Kentucky	TETRACONAZOLE	2006	kg		383								
+21	Kentucky	TETRACONAZOLE	2007	kg		1709.6								
+21	Kentucky	TETRACONAZOLE	2008	kg		3885.8								
+21	Kentucky	TETRACONAZOLE	2009	kg		873								
+21	Kentucky	TETRACONAZOLE	2010	kg		593.2								
+21	Kentucky	TETRACONAZOLE	2011	kg		4305.5								
+21	Kentucky	TETRACONAZOLE	2012	kg		1289.1								
+21	Kentucky	TETRACONAZOLE	2013	kg	186.3	3309.2								
+21	Kentucky	TETRACONAZOLE	2014	kg	1965.6	3327.2								
+21	Kentucky	TETRACONAZOLE	2015	kg	370.3	350.6								
+21	Kentucky	TETRACONAZOLE	2016	kg	191.8	2437.2								
+21	Kentucky	TETRACONAZOLE	2017	kg	95	5091.6								
+22	Louisiana	TETRACONAZOLE	2006	kg		159.3								
+22	Louisiana	TETRACONAZOLE	2007	kg		8659.7								
+22	Louisiana	TETRACONAZOLE	2008	kg		2715								
+22	Louisiana	TETRACONAZOLE	2009	kg		3443.5								
+22	Louisiana	TETRACONAZOLE	2010	kg		1030.5								
+22	Louisiana	TETRACONAZOLE	2011	kg		429.4								
+22	Louisiana	TETRACONAZOLE	2012	kg		752.1								
+22	Louisiana	TETRACONAZOLE	2014	kg		3841.7								
+22	Louisiana	TETRACONAZOLE	2015	kg		1811.2								
+22	Louisiana	TETRACONAZOLE	2016	kg		3299								
+22	Louisiana	TETRACONAZOLE	2017	kg		3793.8								
+24	Maryland	TETRACONAZOLE	2013	kg		573.2								
+24	Maryland	TETRACONAZOLE	2014	kg		85.3								
+24	Maryland	TETRACONAZOLE	2015	kg		407.8								
+24	Maryland	TETRACONAZOLE	2016	kg		193.2								
+24	Maryland	TETRACONAZOLE	2017	kg		566.9								
+26	Michigan	TETRACONAZOLE	2000	kg										4665.2
+26	Michigan	TETRACONAZOLE	2001	kg										1785.2
+26	Michigan	TETRACONAZOLE	2002	kg										2992.4
+26	Michigan	TETRACONAZOLE	2003	kg										3620.2
+26	Michigan	TETRACONAZOLE	2004	kg										1474.8
+26	Michigan	TETRACONAZOLE	2005	kg										2936.1
+26	Michigan	TETRACONAZOLE	2006	kg										3686.3
+26	Michigan	TETRACONAZOLE	2007	kg										4250.8
+26	Michigan	TETRACONAZOLE	2008	kg		442.4								2154.5
+26	Michigan	TETRACONAZOLE	2009	kg		1642.3								1143.3
+26	Michigan	TETRACONAZOLE	2010	kg		179								1804.1
+26	Michigan	TETRACONAZOLE	2011	kg		511.1								2031.4
+26	Michigan	TETRACONAZOLE	2012	kg		307.4								1615.3
+26	Michigan	TETRACONAZOLE	2013	kg	827.8	1526.9								2340.5
+26	Michigan	TETRACONAZOLE	2014	kg		1546.5								1708.7
+26	Michigan	TETRACONAZOLE	2015	kg		726.3								3301.4
+26	Michigan	TETRACONAZOLE	2016	kg		223.9								2576.4
+26	Michigan	TETRACONAZOLE	2017	kg										1714.4
+27	Minnesota	TETRACONAZOLE	1999	kg										30811.2
+27	Minnesota	TETRACONAZOLE	2000	kg										29404.5
+27	Minnesota	TETRACONAZOLE	2001	kg										26357.5
+27	Minnesota	TETRACONAZOLE	2002	kg										27285.7
+27	Minnesota	TETRACONAZOLE	2003	kg										20131.2
+27	Minnesota	TETRACONAZOLE	2004	kg										18065
+27	Minnesota	TETRACONAZOLE	2005	kg		1829.9			8.9					13033.4
+27	Minnesota	TETRACONAZOLE	2006	kg		510.8								12537
+27	Minnesota	TETRACONAZOLE	2007	kg		1881.9								14547.3
+27	Minnesota	TETRACONAZOLE	2008	kg		4576.8								11036.8
+27	Minnesota	TETRACONAZOLE	2009	kg		2158			142.3					4058.3
+27	Minnesota	TETRACONAZOLE	2010	kg		825								12204.2
+27	Minnesota	TETRACONAZOLE	2011	kg		6913.4								3976.6
+27	Minnesota	TETRACONAZOLE	2012	kg		2659.7								4823.9
+27	Minnesota	TETRACONAZOLE	2013	kg		4344.1								901.6
+27	Minnesota	TETRACONAZOLE	2014	kg		5256.4								1391.8
+27	Minnesota	TETRACONAZOLE	2015	kg		2065.6								3245.7
+27	Minnesota	TETRACONAZOLE	2016	kg	955.7	692.7								4810.3
+27	Minnesota	TETRACONAZOLE	2017	kg	1536	1435.1								5944.8
+28	Mississippi	TETRACONAZOLE	2005	kg		36.1								
+28	Mississippi	TETRACONAZOLE	2006	kg		217.3								
+28	Mississippi	TETRACONAZOLE	2007	kg		8019.7								
+28	Mississippi	TETRACONAZOLE	2008	kg		3382.9								
+28	Mississippi	TETRACONAZOLE	2009	kg		13421.2								
+28	Mississippi	TETRACONAZOLE	2010	kg		5248.8								
+28	Mississippi	TETRACONAZOLE	2011	kg		630.9								
+28	Mississippi	TETRACONAZOLE	2012	kg		2558.2								
+28	Mississippi	TETRACONAZOLE	2013	kg	42.7	146.4								
+28	Mississippi	TETRACONAZOLE	2014	kg	8379.6	5830.7								
+28	Mississippi	TETRACONAZOLE	2015	kg		5505.2								
+28	Mississippi	TETRACONAZOLE	2016	kg		2910.5								
+28	Mississippi	TETRACONAZOLE	2017	kg		3376.1								
+29	Missouri	TETRACONAZOLE	2005	kg		1728.5								
+29	Missouri	TETRACONAZOLE	2006	kg		804.7								
+29	Missouri	TETRACONAZOLE	2007	kg		5914.7								
+29	Missouri	TETRACONAZOLE	2008	kg		4648								
+29	Missouri	TETRACONAZOLE	2009	kg		2782.8								
+29	Missouri	TETRACONAZOLE	2010	kg		2522.5								
+29	Missouri	TETRACONAZOLE	2011	kg		3332.4								
+29	Missouri	TETRACONAZOLE	2012	kg		2033.6								
+29	Missouri	TETRACONAZOLE	2013	kg		1401.3								
+29	Missouri	TETRACONAZOLE	2014	kg		2726.3				14.5				
+29	Missouri	TETRACONAZOLE	2015	kg	788.2	3634.7								
+29	Missouri	TETRACONAZOLE	2016	kg	372.9	4652.4								
+29	Missouri	TETRACONAZOLE	2017	kg	197.3	1414								
+30	Montana	TETRACONAZOLE	1999	kg										1598.3
+30	Montana	TETRACONAZOLE	2000	kg										746.2
+30	Montana	TETRACONAZOLE	2001	kg										331.1
+30	Montana	TETRACONAZOLE	2002	kg										482.6
+30	Montana	TETRACONAZOLE	2003	kg										549.1
+30	Montana	TETRACONAZOLE	2004	kg										918.6
+30	Montana	TETRACONAZOLE	2005	kg										592.3
+30	Montana	TETRACONAZOLE	2006	kg										472.3
+30	Montana	TETRACONAZOLE	2007	kg										355.2
+30	Montana	TETRACONAZOLE	2008	kg										535.3
+30	Montana	TETRACONAZOLE	2009	kg										1019.4
+30	Montana	TETRACONAZOLE	2010	kg										272.5
+30	Montana	TETRACONAZOLE	2011	kg										120.2
+30	Montana	TETRACONAZOLE	2012	kg										2777.1
+30	Montana	TETRACONAZOLE	2013	kg										419.9
+30	Montana	TETRACONAZOLE	2014	kg										880.7
+30	Montana	TETRACONAZOLE	2015	kg										52.3
+30	Montana	TETRACONAZOLE	2016	kg										438.7
+30	Montana	TETRACONAZOLE	2017	kg										620.6
+31	Nebraska	TETRACONAZOLE	1999	kg										2683.5
+31	Nebraska	TETRACONAZOLE	2000	kg										767.3
+31	Nebraska	TETRACONAZOLE	2001	kg										101
+31	Nebraska	TETRACONAZOLE	2002	kg										1749
+31	Nebraska	TETRACONAZOLE	2003	kg										192.7
+31	Nebraska	TETRACONAZOLE	2004	kg										304.3
+31	Nebraska	TETRACONAZOLE	2005	kg		457.8								144.5
+31	Nebraska	TETRACONAZOLE	2006	kg		145.2								840.2
+31	Nebraska	TETRACONAZOLE	2007	kg		447.2								1003.8
+31	Nebraska	TETRACONAZOLE	2008	kg		3114.9								72.3
+31	Nebraska	TETRACONAZOLE	2009	kg		701.2								549.5
+31	Nebraska	TETRACONAZOLE	2010	kg		1563.4								20.1
+31	Nebraska	TETRACONAZOLE	2011	kg		493.3								237.9
+31	Nebraska	TETRACONAZOLE	2012	kg		1246.6								896.9
+31	Nebraska	TETRACONAZOLE	2013	kg		8279.6								232.3
+31	Nebraska	TETRACONAZOLE	2014	kg		1967.5								522.5
+31	Nebraska	TETRACONAZOLE	2015	kg		987.7								130.5
+31	Nebraska	TETRACONAZOLE	2016	kg	2143.2	66.1								203.1
+31	Nebraska	TETRACONAZOLE	2017	kg	1375.1	1586.4								481.6
+32	Nevada	TETRACONAZOLE	2010	kg							0			
+32	Nevada	TETRACONAZOLE	2011	kg							0			
+32	Nevada	TETRACONAZOLE	2012	kg							0			
+32	Nevada	TETRACONAZOLE	2013	kg					0		0			
+32	Nevada	TETRACONAZOLE	2014	kg					0		0			
+32	Nevada	TETRACONAZOLE	2015	kg					0		0			
+32	Nevada	TETRACONAZOLE	2016	kg					0		0			
+32	Nevada	TETRACONAZOLE	2017	kg							0.2			
+36	New York	TETRACONAZOLE	2014	kg							264.3			
+37	North Carolina	TETRACONAZOLE	2003	kg							3.9			
+37	North Carolina	TETRACONAZOLE	2007	kg		4137.5								
+37	North Carolina	TETRACONAZOLE	2008	kg		12295.2								
+37	North Carolina	TETRACONAZOLE	2009	kg		1050.7								
+37	North Carolina	TETRACONAZOLE	2010	kg		6648.9								
+37	North Carolina	TETRACONAZOLE	2011	kg		6009.7								
+37	North Carolina	TETRACONAZOLE	2012	kg	377.8	3472.6								
+37	North Carolina	TETRACONAZOLE	2013	kg	44.3	7508								
+37	North Carolina	TETRACONAZOLE	2014	kg		5142.3								
+37	North Carolina	TETRACONAZOLE	2015	kg		528								
+37	North Carolina	TETRACONAZOLE	2016	kg		3410.8								
+37	North Carolina	TETRACONAZOLE	2017	kg	447.3	3578.3								
+38	North Dakota	TETRACONAZOLE	1999	kg										7554.7
+38	North Dakota	TETRACONAZOLE	2000	kg										13467.9
+38	North Dakota	TETRACONAZOLE	2001	kg										13558
+38	North Dakota	TETRACONAZOLE	2002	kg										12691.9
+38	North Dakota	TETRACONAZOLE	2003	kg										10035.2
+38	North Dakota	TETRACONAZOLE	2004	kg										10950.1
+38	North Dakota	TETRACONAZOLE	2005	kg					103.5					6601.9
+38	North Dakota	TETRACONAZOLE	2006	kg										4546.6
+38	North Dakota	TETRACONAZOLE	2007	kg										5731.7
+38	North Dakota	TETRACONAZOLE	2008	kg										4467
+38	North Dakota	TETRACONAZOLE	2009	kg					119.7					3404.3
+38	North Dakota	TETRACONAZOLE	2010	kg		3043.3								5320.5
+38	North Dakota	TETRACONAZOLE	2011	kg		1421.4								2087.2
+38	North Dakota	TETRACONAZOLE	2012	kg		2250.9								2238.5
+38	North Dakota	TETRACONAZOLE	2013	kg										570.2
+38	North Dakota	TETRACONAZOLE	2014	kg		2175.6								664.2
+38	North Dakota	TETRACONAZOLE	2015	kg		3758.6								770.7
+38	North Dakota	TETRACONAZOLE	2016	kg		47.7								2193.5
+38	North Dakota	TETRACONAZOLE	2017	kg		1850.8								3495.7
+39	Ohio	TETRACONAZOLE	1999	kg										192.3
+39	Ohio	TETRACONAZOLE	2000	kg										48
+39	Ohio	TETRACONAZOLE	2001	kg										148.8
+39	Ohio	TETRACONAZOLE	2002	kg										128.1
+39	Ohio	TETRACONAZOLE	2003	kg										9.5
+39	Ohio	TETRACONAZOLE	2004	kg										74.1
+39	Ohio	TETRACONAZOLE	2005	kg		1354								15.9
+39	Ohio	TETRACONAZOLE	2006	kg		428.4								40.9
+39	Ohio	TETRACONAZOLE	2007	kg		2419.7								50.9
+39	Ohio	TETRACONAZOLE	2008	kg		3326.3								
+39	Ohio	TETRACONAZOLE	2009	kg		3395								
+39	Ohio	TETRACONAZOLE	2010	kg		2647.8								
+39	Ohio	TETRACONAZOLE	2011	kg		5152.8								
+39	Ohio	TETRACONAZOLE	2012	kg		10940.4								
+39	Ohio	TETRACONAZOLE	2013	kg	1742.3	5653.1								
+39	Ohio	TETRACONAZOLE	2014	kg		4198.6								
+39	Ohio	TETRACONAZOLE	2015	kg		1375.5								
+39	Ohio	TETRACONAZOLE	2016	kg	282.7	969.3								
+39	Ohio	TETRACONAZOLE	2017	kg	154	795.5								
+40	Oklahoma	TETRACONAZOLE	2014	kg		24.9								
+41	Oregon	TETRACONAZOLE	2008	kg										30.5
+41	Oregon	TETRACONAZOLE	2009	kg							1.3			
+41	Oregon	TETRACONAZOLE	2010	kg							2			3
+41	Oregon	TETRACONAZOLE	2011	kg										31
+41	Oregon	TETRACONAZOLE	2012	kg							2.3			
+41	Oregon	TETRACONAZOLE	2013	kg							6.5			69.1
+41	Oregon	TETRACONAZOLE	2014	kg							22.4			7
+41	Oregon	TETRACONAZOLE	2015	kg							7.5			52.9
+41	Oregon	TETRACONAZOLE	2016	kg										47.1
+41	Oregon	TETRACONAZOLE	2017	kg										123.8
+42	Pennsylvania	TETRACONAZOLE	2014	kg							94.9			
+45	South Carolina	TETRACONAZOLE	2003	kg							1.2			
+45	South Carolina	TETRACONAZOLE	2007	kg		283.3								
+45	South Carolina	TETRACONAZOLE	2008	kg		6597.6								
+45	South Carolina	TETRACONAZOLE	2009	kg		283.4								
+45	South Carolina	TETRACONAZOLE	2010	kg		11030.1								
+45	South Carolina	TETRACONAZOLE	2011	kg		1183.9								
+45	South Carolina	TETRACONAZOLE	2012	kg		588.5								
+45	South Carolina	TETRACONAZOLE	2013	kg		1765.4								
+45	South Carolina	TETRACONAZOLE	2014	kg		2182.3								
+45	South Carolina	TETRACONAZOLE	2015	kg		907.6								
+45	South Carolina	TETRACONAZOLE	2016	kg		566.5					6.8			
+45	South Carolina	TETRACONAZOLE	2017	kg		1628.5								
+46	South Dakota	TETRACONAZOLE	2005	kg		671.1								
+46	South Dakota	TETRACONAZOLE	2006	kg		210.6								
+46	South Dakota	TETRACONAZOLE	2007	kg		706.1								
+46	South Dakota	TETRACONAZOLE	2008	kg		1612.1								
+46	South Dakota	TETRACONAZOLE	2009	kg		454.1			3					
+46	South Dakota	TETRACONAZOLE	2010	kg		2146.4								
+46	South Dakota	TETRACONAZOLE	2011	kg		9320.9								
+46	South Dakota	TETRACONAZOLE	2012	kg		7820.4								
+46	South Dakota	TETRACONAZOLE	2013	kg		3050								
+46	South Dakota	TETRACONAZOLE	2014	kg		2157.2								
+46	South Dakota	TETRACONAZOLE	2015	kg		2681.7								
+46	South Dakota	TETRACONAZOLE	2016	kg	488.8	644.4								
+46	South Dakota	TETRACONAZOLE	2017	kg	298.9	3592.8								
+47	Tennessee	TETRACONAZOLE	2003	kg							0			
+47	Tennessee	TETRACONAZOLE	2005	kg		347.9								
+47	Tennessee	TETRACONAZOLE	2006	kg		274.6								
+47	Tennessee	TETRACONAZOLE	2007	kg		3805.5								
+47	Tennessee	TETRACONAZOLE	2008	kg		11201.8								
+47	Tennessee	TETRACONAZOLE	2009	kg		1477.8								
+47	Tennessee	TETRACONAZOLE	2010	kg		378.5								
+47	Tennessee	TETRACONAZOLE	2011	kg		889.4								
+47	Tennessee	TETRACONAZOLE	2012	kg		2124.8								
+47	Tennessee	TETRACONAZOLE	2013	kg	529.1	1829.9								
+47	Tennessee	TETRACONAZOLE	2014	kg	257.2	2958.2				0				
+47	Tennessee	TETRACONAZOLE	2015	kg	222.5	3023.4								
+47	Tennessee	TETRACONAZOLE	2016	kg		5673.1								
+47	Tennessee	TETRACONAZOLE	2017	kg		4804.1								
+48	Texas	TETRACONAZOLE	2008	kg		220.6								
+48	Texas	TETRACONAZOLE	2009	kg		34.5								
+48	Texas	TETRACONAZOLE	2010	kg		34.3								
+48	Texas	TETRACONAZOLE	2014	kg		229.9								
+48	Texas	TETRACONAZOLE	2015	kg		17.6								
+48	Texas	TETRACONAZOLE	2016	kg		11.5								
+48	Texas	TETRACONAZOLE	2017	kg		51								
+51	Virginia	TETRACONAZOLE	2007	kg		563.4								
+51	Virginia	TETRACONAZOLE	2008	kg		319.7								
+51	Virginia	TETRACONAZOLE	2009	kg		164.6								
+51	Virginia	TETRACONAZOLE	2010	kg		2246.8								
+51	Virginia	TETRACONAZOLE	2011	kg		208.4								
+51	Virginia	TETRACONAZOLE	2012	kg	47.6	299								
+51	Virginia	TETRACONAZOLE	2013	kg	5.8	1441.5								
+51	Virginia	TETRACONAZOLE	2014	kg		437.8								
+51	Virginia	TETRACONAZOLE	2015	kg		1852.9								
+51	Virginia	TETRACONAZOLE	2016	kg		939								
+51	Virginia	TETRACONAZOLE	2017	kg	71.7	1381								
+54	West Virginia	TETRACONAZOLE	2007	kg		1.5								
+54	West Virginia	TETRACONAZOLE	2008	kg		12.8								
+54	West Virginia	TETRACONAZOLE	2012	kg		45.9								
+54	West Virginia	TETRACONAZOLE	2013	kg		49.1								
+54	West Virginia	TETRACONAZOLE	2014	kg		7								
+54	West Virginia	TETRACONAZOLE	2016	kg		6.8								
+55	Wisconsin	TETRACONAZOLE	2006	kg		107.5								
+55	Wisconsin	TETRACONAZOLE	2008	kg		1114.1								
+55	Wisconsin	TETRACONAZOLE	2009	kg		2391.4								
+55	Wisconsin	TETRACONAZOLE	2010	kg		517.3								
+55	Wisconsin	TETRACONAZOLE	2011	kg		825.5								
+55	Wisconsin	TETRACONAZOLE	2012	kg		348.1								
+55	Wisconsin	TETRACONAZOLE	2013	kg		2653								
+55	Wisconsin	TETRACONAZOLE	2014	kg		1139.3								
+55	Wisconsin	TETRACONAZOLE	2015	kg		435.8								
+55	Wisconsin	TETRACONAZOLE	2016	kg	218.9									
+55	Wisconsin	TETRACONAZOLE	2017	kg		116.6								
+56	Wyoming	TETRACONAZOLE	1999	kg										685.6
+56	Wyoming	TETRACONAZOLE	2000	kg										730.5
+56	Wyoming	TETRACONAZOLE	2001	kg										156.8
+56	Wyoming	TETRACONAZOLE	2002	kg										547.6
+56	Wyoming	TETRACONAZOLE	2003	kg										403.1
+56	Wyoming	TETRACONAZOLE	2004	kg										8.6
+56	Wyoming	TETRACONAZOLE	2005	kg										39.5
+56	Wyoming	TETRACONAZOLE	2006	kg										12.6
+56	Wyoming	TETRACONAZOLE	2007	kg										157
+56	Wyoming	TETRACONAZOLE	2008	kg										224.5
+56	Wyoming	TETRACONAZOLE	2009	kg										329.6
+56	Wyoming	TETRACONAZOLE	2010	kg										34.1
+56	Wyoming	TETRACONAZOLE	2011	kg										62.9
+56	Wyoming	TETRACONAZOLE	2012	kg										68.9
+56	Wyoming	TETRACONAZOLE	2013	kg										255.8
+56	Wyoming	TETRACONAZOLE	2014	kg										437.8
+56	Wyoming	TETRACONAZOLE	2015	kg										16.5
+56	Wyoming	TETRACONAZOLE	2016	kg										134.2
+56	Wyoming	TETRACONAZOLE	2017	kg										256.1

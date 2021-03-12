@@ -1,0 +1,253 @@
+01	Alabama	FLUOPICOLIDE	2008	kg					5.8					
+01	Alabama	FLUOPICOLIDE	2009	kg					15.3					
+01	Alabama	FLUOPICOLIDE	2010	kg					1.7					
+01	Alabama	FLUOPICOLIDE	2011	kg					0.7					
+01	Alabama	FLUOPICOLIDE	2013	kg					16.4					
+01	Alabama	FLUOPICOLIDE	2014	kg					6					
+01	Alabama	FLUOPICOLIDE	2015	kg					12.6					
+01	Alabama	FLUOPICOLIDE	2016	kg					3.3					
+04	Arizona	FLUOPICOLIDE	2010	kg					14.9					
+04	Arizona	FLUOPICOLIDE	2011	kg					530					
+04	Arizona	FLUOPICOLIDE	2012	kg					169					
+04	Arizona	FLUOPICOLIDE	2013	kg					441.4					
+04	Arizona	FLUOPICOLIDE	2014	kg					282.1					
+04	Arizona	FLUOPICOLIDE	2015	kg					1514.3					
+04	Arizona	FLUOPICOLIDE	2016	kg					1583.5					
+04	Arizona	FLUOPICOLIDE	2017	kg					17.1					
+06	California	FLUOPICOLIDE	2008	kg					9.4					
+06	California	FLUOPICOLIDE	2009	kg					599.4		0.9			
+06	California	FLUOPICOLIDE	2010	kg					768.6		14.6			
+06	California	FLUOPICOLIDE	2011	kg					1676.5		45.5			0.1
+06	California	FLUOPICOLIDE	2012	kg					1668.6		68.1			9.2
+06	California	FLUOPICOLIDE	2013	kg					2126.1		87.2			3.7
+06	California	FLUOPICOLIDE	2014	kg					2331.6		99.3		0.2	58.2
+06	California	FLUOPICOLIDE	2015	kg					2252.7		93.9			5.1
+06	California	FLUOPICOLIDE	2016	kg					2746.8		106.7			7.6
+06	California	FLUOPICOLIDE	2017	kg			1.9		2784.5		133.6			7.8
+09	Connecticut	FLUOPICOLIDE	2008	kg					28.4					
+09	Connecticut	FLUOPICOLIDE	2009	kg					36.6					
+09	Connecticut	FLUOPICOLIDE	2010	kg					8.5					
+09	Connecticut	FLUOPICOLIDE	2011	kg					21					
+09	Connecticut	FLUOPICOLIDE	2012	kg					63.4					
+09	Connecticut	FLUOPICOLIDE	2013	kg					22.1					
+09	Connecticut	FLUOPICOLIDE	2014	kg					9.7					
+09	Connecticut	FLUOPICOLIDE	2015	kg					15					
+09	Connecticut	FLUOPICOLIDE	2016	kg					18.7					
+09	Connecticut	FLUOPICOLIDE	2017	kg					18.4					
+10	Delaware	FLUOPICOLIDE	2009	kg					70.9					
+10	Delaware	FLUOPICOLIDE	2010	kg					96.6					
+10	Delaware	FLUOPICOLIDE	2011	kg					1.7					
+10	Delaware	FLUOPICOLIDE	2012	kg					5.9					
+10	Delaware	FLUOPICOLIDE	2013	kg					130.9					
+10	Delaware	FLUOPICOLIDE	2014	kg					25.1					
+10	Delaware	FLUOPICOLIDE	2015	kg					83.9					
+10	Delaware	FLUOPICOLIDE	2016	kg					15.7					
+12	Florida	FLUOPICOLIDE	2008	kg					443.2					
+12	Florida	FLUOPICOLIDE	2009	kg					114.9					
+12	Florida	FLUOPICOLIDE	2010	kg					861.3					
+12	Florida	FLUOPICOLIDE	2011	kg					574.6					
+12	Florida	FLUOPICOLIDE	2012	kg					2288.7					
+12	Florida	FLUOPICOLIDE	2013	kg					1569.1					
+12	Florida	FLUOPICOLIDE	2014	kg					2266.7					
+12	Florida	FLUOPICOLIDE	2015	kg					2039.4					
+12	Florida	FLUOPICOLIDE	2016	kg					1128.6					
+12	Florida	FLUOPICOLIDE	2017	kg					839.3					
+13	Georgia	FLUOPICOLIDE	2008	kg					0.2					
+13	Georgia	FLUOPICOLIDE	2009	kg					876.8					
+13	Georgia	FLUOPICOLIDE	2010	kg					331.7					
+13	Georgia	FLUOPICOLIDE	2011	kg					2061.5					
+13	Georgia	FLUOPICOLIDE	2012	kg					2595.4					
+13	Georgia	FLUOPICOLIDE	2013	kg					3379.6					
+13	Georgia	FLUOPICOLIDE	2014	kg					4607.8					
+13	Georgia	FLUOPICOLIDE	2015	kg					1767.5					
+13	Georgia	FLUOPICOLIDE	2016	kg					196.7					
+13	Georgia	FLUOPICOLIDE	2017	kg					687.6					
+17	Illinois	FLUOPICOLIDE	2011	kg					2					
+17	Illinois	FLUOPICOLIDE	2012	kg					0					
+17	Illinois	FLUOPICOLIDE	2013	kg					48					
+17	Illinois	FLUOPICOLIDE	2014	kg					116.7					
+17	Illinois	FLUOPICOLIDE	2015	kg										0.6
+17	Illinois	FLUOPICOLIDE	2017	kg					404.4					
+18	Indiana	FLUOPICOLIDE	2008	kg					30.9					
+18	Indiana	FLUOPICOLIDE	2009	kg					29.8					
+18	Indiana	FLUOPICOLIDE	2010	kg					42.4					
+18	Indiana	FLUOPICOLIDE	2011	kg					29.4					
+18	Indiana	FLUOPICOLIDE	2012	kg					107.1					
+18	Indiana	FLUOPICOLIDE	2013	kg					164.6					
+18	Indiana	FLUOPICOLIDE	2014	kg					617.9					
+18	Indiana	FLUOPICOLIDE	2015	kg					118.3					0.1
+18	Indiana	FLUOPICOLIDE	2016	kg					48.3					
+18	Indiana	FLUOPICOLIDE	2017	kg					960.9					0.6
+21	Kentucky	FLUOPICOLIDE	2008	kg					1.8					
+21	Kentucky	FLUOPICOLIDE	2009	kg					2.5					
+21	Kentucky	FLUOPICOLIDE	2010	kg					5.3					
+21	Kentucky	FLUOPICOLIDE	2011	kg					1					
+21	Kentucky	FLUOPICOLIDE	2012	kg					3.4					
+21	Kentucky	FLUOPICOLIDE	2013	kg					17					
+21	Kentucky	FLUOPICOLIDE	2014	kg					68					
+21	Kentucky	FLUOPICOLIDE	2015	kg					80.7					44.4
+21	Kentucky	FLUOPICOLIDE	2016	kg					16.6					
+21	Kentucky	FLUOPICOLIDE	2017	kg					84					66.9
+24	Maryland	FLUOPICOLIDE	2009	kg					59.7					
+24	Maryland	FLUOPICOLIDE	2010	kg					96.4					
+24	Maryland	FLUOPICOLIDE	2011	kg					35.7					
+24	Maryland	FLUOPICOLIDE	2012	kg					100.1					
+24	Maryland	FLUOPICOLIDE	2013	kg					129.4					
+24	Maryland	FLUOPICOLIDE	2014	kg					155.5					
+24	Maryland	FLUOPICOLIDE	2015	kg					133.8					
+24	Maryland	FLUOPICOLIDE	2016	kg					19.7					
+24	Maryland	FLUOPICOLIDE	2017	kg					17					
+25	Massachusetts	FLUOPICOLIDE	2008	kg					41.6					
+25	Massachusetts	FLUOPICOLIDE	2009	kg					74.4					
+25	Massachusetts	FLUOPICOLIDE	2010	kg					83.9					
+25	Massachusetts	FLUOPICOLIDE	2011	kg					21					
+25	Massachusetts	FLUOPICOLIDE	2012	kg					104.8					
+25	Massachusetts	FLUOPICOLIDE	2013	kg					32.1					
+25	Massachusetts	FLUOPICOLIDE	2014	kg					17.3					
+25	Massachusetts	FLUOPICOLIDE	2015	kg					8					
+25	Massachusetts	FLUOPICOLIDE	2016	kg					27.9					
+25	Massachusetts	FLUOPICOLIDE	2017	kg					35.6					
+26	Michigan	FLUOPICOLIDE	2008	kg					677.6					
+26	Michigan	FLUOPICOLIDE	2009	kg					588.5					
+26	Michigan	FLUOPICOLIDE	2010	kg					774.9					
+26	Michigan	FLUOPICOLIDE	2011	kg					928.7					
+26	Michigan	FLUOPICOLIDE	2012	kg					1834.8					
+26	Michigan	FLUOPICOLIDE	2013	kg					1801.1					
+26	Michigan	FLUOPICOLIDE	2014	kg					1422.4					
+26	Michigan	FLUOPICOLIDE	2015	kg					1960.5					
+26	Michigan	FLUOPICOLIDE	2016	kg					713					
+26	Michigan	FLUOPICOLIDE	2017	kg					1221.2					
+32	Nevada	FLUOPICOLIDE	2012	kg					0					
+32	Nevada	FLUOPICOLIDE	2013	kg					0.1					
+32	Nevada	FLUOPICOLIDE	2014	kg					0					
+32	Nevada	FLUOPICOLIDE	2015	kg					0					
+32	Nevada	FLUOPICOLIDE	2016	kg					0					
+32	Nevada	FLUOPICOLIDE	2017	kg					0					
+33	New Hampshire	FLUOPICOLIDE	2010	kg					24.1					
+33	New Hampshire	FLUOPICOLIDE	2011	kg					1.4					
+33	New Hampshire	FLUOPICOLIDE	2012	kg					20.7					
+33	New Hampshire	FLUOPICOLIDE	2013	kg					7.7					
+33	New Hampshire	FLUOPICOLIDE	2014	kg					8.6					
+33	New Hampshire	FLUOPICOLIDE	2015	kg					1.5					
+33	New Hampshire	FLUOPICOLIDE	2016	kg					8.1					
+33	New Hampshire	FLUOPICOLIDE	2017	kg					9.9					
+34	New Jersey	FLUOPICOLIDE	2009	kg					13.4					
+34	New Jersey	FLUOPICOLIDE	2010	kg					16.2					
+34	New Jersey	FLUOPICOLIDE	2011	kg					49.5					
+34	New Jersey	FLUOPICOLIDE	2012	kg					159					
+34	New Jersey	FLUOPICOLIDE	2013	kg					30.1					
+34	New Jersey	FLUOPICOLIDE	2014	kg					28.9					
+34	New Jersey	FLUOPICOLIDE	2015	kg					155.4					
+34	New Jersey	FLUOPICOLIDE	2016	kg					85.7					
+34	New Jersey	FLUOPICOLIDE	2017	kg					74.8					
+35	New Mexico	FLUOPICOLIDE	2012	kg					18.7					
+35	New Mexico	FLUOPICOLIDE	2013	kg					0					
+35	New Mexico	FLUOPICOLIDE	2014	kg					0					
+35	New Mexico	FLUOPICOLIDE	2015	kg					0					
+35	New Mexico	FLUOPICOLIDE	2016	kg					0					
+36	New York	FLUOPICOLIDE	2008	kg					23.1					
+36	New York	FLUOPICOLIDE	2009	kg					21.7					
+36	New York	FLUOPICOLIDE	2010	kg					114					
+36	New York	FLUOPICOLIDE	2011	kg					418.1					
+36	New York	FLUOPICOLIDE	2012	kg					261					
+36	New York	FLUOPICOLIDE	2013	kg					75.4		331			
+36	New York	FLUOPICOLIDE	2014	kg					81.3					
+36	New York	FLUOPICOLIDE	2015	kg					96.6					
+36	New York	FLUOPICOLIDE	2016	kg					118.1					
+36	New York	FLUOPICOLIDE	2017	kg					107.1					
+37	North Carolina	FLUOPICOLIDE	2008	kg					10.6					
+37	North Carolina	FLUOPICOLIDE	2009	kg					588.7					
+37	North Carolina	FLUOPICOLIDE	2010	kg					532.5					
+37	North Carolina	FLUOPICOLIDE	2011	kg					785.5					
+37	North Carolina	FLUOPICOLIDE	2012	kg					495					
+37	North Carolina	FLUOPICOLIDE	2013	kg					1202.7					
+37	North Carolina	FLUOPICOLIDE	2014	kg					88.6					
+37	North Carolina	FLUOPICOLIDE	2015	kg					601.5					743.1
+37	North Carolina	FLUOPICOLIDE	2016	kg					127.3					1173.5
+37	North Carolina	FLUOPICOLIDE	2017	kg					65					1651.6
+39	Ohio	FLUOPICOLIDE	2010	kg					22.2					
+39	Ohio	FLUOPICOLIDE	2011	kg					19.6					
+39	Ohio	FLUOPICOLIDE	2012	kg					485.4					
+39	Ohio	FLUOPICOLIDE	2013	kg					252.6					
+39	Ohio	FLUOPICOLIDE	2014	kg					479.5					
+39	Ohio	FLUOPICOLIDE	2015	kg					689.5					
+39	Ohio	FLUOPICOLIDE	2016	kg					40.7					
+39	Ohio	FLUOPICOLIDE	2017	kg					58.4					
+40	Oklahoma	FLUOPICOLIDE	2011	kg					0.1					
+42	Pennsylvania	FLUOPICOLIDE	2009	kg					30.8					
+42	Pennsylvania	FLUOPICOLIDE	2010	kg					40.6					
+42	Pennsylvania	FLUOPICOLIDE	2011	kg					269.8					
+42	Pennsylvania	FLUOPICOLIDE	2012	kg					808.4					
+42	Pennsylvania	FLUOPICOLIDE	2013	kg					152.9					
+42	Pennsylvania	FLUOPICOLIDE	2014	kg					197.6					
+42	Pennsylvania	FLUOPICOLIDE	2015	kg					435.1					
+42	Pennsylvania	FLUOPICOLIDE	2016	kg					117.2					
+42	Pennsylvania	FLUOPICOLIDE	2017	kg					79.1					
+44	Rhode Island	FLUOPICOLIDE	2008	kg					4.6					
+44	Rhode Island	FLUOPICOLIDE	2009	kg					7.4					
+44	Rhode Island	FLUOPICOLIDE	2010	kg					4.5					
+44	Rhode Island	FLUOPICOLIDE	2011	kg					2.7					
+44	Rhode Island	FLUOPICOLIDE	2012	kg					8.5					
+44	Rhode Island	FLUOPICOLIDE	2013	kg					2.7					
+44	Rhode Island	FLUOPICOLIDE	2014	kg					1.4					
+44	Rhode Island	FLUOPICOLIDE	2015	kg					1.1					
+44	Rhode Island	FLUOPICOLIDE	2016	kg					1.9					
+44	Rhode Island	FLUOPICOLIDE	2017	kg					2.8					
+45	South Carolina	FLUOPICOLIDE	2009	kg					209					
+45	South Carolina	FLUOPICOLIDE	2010	kg					22.4					
+45	South Carolina	FLUOPICOLIDE	2011	kg					130.5					
+45	South Carolina	FLUOPICOLIDE	2012	kg					223.9					
+45	South Carolina	FLUOPICOLIDE	2013	kg					558.8					
+45	South Carolina	FLUOPICOLIDE	2014	kg					7.7					
+45	South Carolina	FLUOPICOLIDE	2015	kg					213.3					
+45	South Carolina	FLUOPICOLIDE	2016	kg					1.2					
+45	South Carolina	FLUOPICOLIDE	2017	kg					3.7					
+47	Tennessee	FLUOPICOLIDE	2008	kg					15.7					
+47	Tennessee	FLUOPICOLIDE	2009	kg					35.3					
+47	Tennessee	FLUOPICOLIDE	2010	kg					51.5					
+47	Tennessee	FLUOPICOLIDE	2011	kg					20.8					
+47	Tennessee	FLUOPICOLIDE	2012	kg					20.4					
+47	Tennessee	FLUOPICOLIDE	2013	kg					53.5					
+47	Tennessee	FLUOPICOLIDE	2014	kg					30.4					
+47	Tennessee	FLUOPICOLIDE	2015	kg					84.5					42.7
+47	Tennessee	FLUOPICOLIDE	2016	kg					14.6					18.1
+47	Tennessee	FLUOPICOLIDE	2017	kg					2.4					49.2
+48	Texas	FLUOPICOLIDE	2009	kg					82.2					
+48	Texas	FLUOPICOLIDE	2010	kg					147.2					
+48	Texas	FLUOPICOLIDE	2011	kg					44.2					
+48	Texas	FLUOPICOLIDE	2013	kg					849.6					
+48	Texas	FLUOPICOLIDE	2015	kg					176.3					
+50	Vermont	FLUOPICOLIDE	2010	kg					22.2					
+50	Vermont	FLUOPICOLIDE	2011	kg					46.5					
+50	Vermont	FLUOPICOLIDE	2012	kg					45.6					
+50	Vermont	FLUOPICOLIDE	2013	kg					5.5					
+50	Vermont	FLUOPICOLIDE	2014	kg					8.5					
+50	Vermont	FLUOPICOLIDE	2015	kg					1.3					
+50	Vermont	FLUOPICOLIDE	2016	kg					7.1					
+50	Vermont	FLUOPICOLIDE	2017	kg					8.6					
+51	Virginia	FLUOPICOLIDE	2008	kg					11.1					
+51	Virginia	FLUOPICOLIDE	2009	kg					21.5					
+51	Virginia	FLUOPICOLIDE	2010	kg					34.4					
+51	Virginia	FLUOPICOLIDE	2011	kg					36.4					
+51	Virginia	FLUOPICOLIDE	2012	kg					81.8					
+51	Virginia	FLUOPICOLIDE	2013	kg					265.4					
+51	Virginia	FLUOPICOLIDE	2014	kg					78.3					
+51	Virginia	FLUOPICOLIDE	2015	kg					153.5					155.2
+51	Virginia	FLUOPICOLIDE	2016	kg					55					135.7
+51	Virginia	FLUOPICOLIDE	2017	kg					18.7					285.5
+53	Washington	FLUOPICOLIDE	2016	kg					22.6					
+53	Washington	FLUOPICOLIDE	2017	kg					87					
+54	West Virginia	FLUOPICOLIDE	2010	kg					2.5					
+54	West Virginia	FLUOPICOLIDE	2011	kg					5.6					
+54	West Virginia	FLUOPICOLIDE	2012	kg					14.8					
+54	West Virginia	FLUOPICOLIDE	2013	kg					3.7					
+54	West Virginia	FLUOPICOLIDE	2014	kg					17.7					
+54	West Virginia	FLUOPICOLIDE	2015	kg					18.2					
+54	West Virginia	FLUOPICOLIDE	2016	kg					2.7					
+55	Wisconsin	FLUOPICOLIDE	2011	kg					77.8					
+55	Wisconsin	FLUOPICOLIDE	2012	kg					74.5					
+55	Wisconsin	FLUOPICOLIDE	2013	kg					223.5					
+55	Wisconsin	FLUOPICOLIDE	2014	kg					185.8					
+55	Wisconsin	FLUOPICOLIDE	2015	kg					200.7					
+55	Wisconsin	FLUOPICOLIDE	2016	kg					108.4					
+55	Wisconsin	FLUOPICOLIDE	2017	kg					210.1					

@@ -1,0 +1,167 @@
+01	Alabama	METALDEHYDE	1992	kg				1479.2						
+01	Alabama	METALDEHYDE	1994	kg				4722.3						
+01	Alabama	METALDEHYDE	2000	kg					580.1					
+01	Alabama	METALDEHYDE	2002	kg					289.7					
+01	Alabama	METALDEHYDE	2005	kg					564.6					
+01	Alabama	METALDEHYDE	2006	kg				22.8						
+04	Arizona	METALDEHYDE	1992	kg							5721.5		26.6	
+04	Arizona	METALDEHYDE	1993	kg							17976.8		296.4	
+04	Arizona	METALDEHYDE	1994	kg							3565.5			
+04	Arizona	METALDEHYDE	1995	kg							6399.2			
+04	Arizona	METALDEHYDE	1996	kg							1520.5			
+04	Arizona	METALDEHYDE	1997	kg							6140.7			
+04	Arizona	METALDEHYDE	1998	kg							1821.1			
+04	Arizona	METALDEHYDE	1999	kg							13.8			
+04	Arizona	METALDEHYDE	2000	kg							665.4			
+04	Arizona	METALDEHYDE	2001	kg							402.4			
+04	Arizona	METALDEHYDE	2002	kg							719.8			
+04	Arizona	METALDEHYDE	2003	kg							805.4			
+04	Arizona	METALDEHYDE	2004	kg							2107.7			
+04	Arizona	METALDEHYDE	2005	kg							1742.1			
+04	Arizona	METALDEHYDE	2006	kg							385.7			
+04	Arizona	METALDEHYDE	2007	kg					0		1462.2			
+04	Arizona	METALDEHYDE	2008	kg							210.5			
+04	Arizona	METALDEHYDE	2009	kg							12.6			
+04	Arizona	METALDEHYDE	2010	kg							1489.2			
+04	Arizona	METALDEHYDE	2011	kg							209.1			
+04	Arizona	METALDEHYDE	2012	kg							206.3			
+04	Arizona	METALDEHYDE	2013	kg							114			
+04	Arizona	METALDEHYDE	2014	kg							52.2			
+04	Arizona	METALDEHYDE	2015	kg							19.3			
+04	Arizona	METALDEHYDE	2016	kg							5.8			
+05	Arkansas	METALDEHYDE	1992	kg				4916						
+05	Arkansas	METALDEHYDE	1996	kg									417.5	
+06	California	METALDEHYDE	1992	kg					2188		18195.9		0.4	
+06	California	METALDEHYDE	1993	kg					2548.7		13406.4			
+06	California	METALDEHYDE	1994	kg					1403.3		12413.8			
+06	California	METALDEHYDE	1995	kg					3364.2		22241.9		0.1	
+06	California	METALDEHYDE	1996	kg					2497.4		22663			
+06	California	METALDEHYDE	1997	kg					2096.6		14460.7			
+06	California	METALDEHYDE	1998	kg					2521		14889.2			5
+06	California	METALDEHYDE	1999	kg	5.4				2289.4		11121.2			10
+06	California	METALDEHYDE	2000	kg					1888.8		17532.3			1.5
+06	California	METALDEHYDE	2001	kg					1337.8		16185			8.7
+06	California	METALDEHYDE	2002	kg					2092.5		22655			13.6
+06	California	METALDEHYDE	2003	kg					2390.1		17760.7			1.8
+06	California	METALDEHYDE	2004	kg					1529.2		15029.6			2.7
+06	California	METALDEHYDE	2005	kg					2030.2		15945			1.7
+06	California	METALDEHYDE	2006	kg					2187.9		15954.8			98
+06	California	METALDEHYDE	2007	kg					4706.9		10245.2		1.8	16.5
+06	California	METALDEHYDE	2008	kg					2664.4		13519.4			131.4
+06	California	METALDEHYDE	2009	kg					5869.8		13901.2			
+06	California	METALDEHYDE	2010	kg					4333.3		19947.4			171.4
+06	California	METALDEHYDE	2011	kg					7587.3		20400.3			15.9
+06	California	METALDEHYDE	2012	kg					4607.8		15363			306
+06	California	METALDEHYDE	2013	kg					3150.8		15446.2			275.6
+06	California	METALDEHYDE	2014	kg					2685.8		14670.3			118.7
+06	California	METALDEHYDE	2015	kg					751.8		16127.9			1.5
+06	California	METALDEHYDE	2016	kg					772.3		15496.2		2.7	0
+06	California	METALDEHYDE	2017	kg					1464.9		16779.6			
+10	Delaware	METALDEHYDE	2010	kg	17.1									
+12	Florida	METALDEHYDE	1998	kg					2549					
+12	Florida	METALDEHYDE	2002	kg					142.6					
+13	Georgia	METALDEHYDE	2002	kg					206					
+17	Illinois	METALDEHYDE	1997	kg					19.8					
+18	Indiana	METALDEHYDE	2004	kg					4.2					
+18	Indiana	METALDEHYDE	2008	kg					8.6					
+18	Indiana	METALDEHYDE	2011	kg					5					
+18	Indiana	METALDEHYDE	2014	kg					2					
+18	Indiana	METALDEHYDE	2017	kg					522.3					
+20	Kansas	METALDEHYDE	1996	kg									923.9	
+21	Kentucky	METALDEHYDE	1993	kg	311.9									
+21	Kentucky	METALDEHYDE	1997	kg					118.6					
+22	Louisiana	METALDEHYDE	1992	kg		12796.8								
+22	Louisiana	METALDEHYDE	1993	kg									0	
+22	Louisiana	METALDEHYDE	2000	kg					93					
+24	Maryland	METALDEHYDE	2010	kg	252.5				0.9					
+25	Massachusetts	METALDEHYDE	2014	kg					111.1					
+26	Michigan	METALDEHYDE	1992	kg							6297.6			
+26	Michigan	METALDEHYDE	2004	kg					37					
+26	Michigan	METALDEHYDE	2008	kg					46.6					
+26	Michigan	METALDEHYDE	2011	kg					43.2					
+26	Michigan	METALDEHYDE	2014	kg					13					
+26	Michigan	METALDEHYDE	2017	kg					4383.5					
+28	Mississippi	METALDEHYDE	1992	kg				1639.1						
+28	Mississippi	METALDEHYDE	1994	kg				1541.5						
+28	Mississippi	METALDEHYDE	2000	kg					900.2					
+28	Mississippi	METALDEHYDE	2005	kg					546.6					
+28	Mississippi	METALDEHYDE	2006	kg				15.2						
+29	Missouri	METALDEHYDE	1992	kg				2230.8						
+29	Missouri	METALDEHYDE	1996	kg									645.2	
+29	Missouri	METALDEHYDE	1997	kg					4					
+32	Nevada	METALDEHYDE	1992	kg							0		1.1	
+32	Nevada	METALDEHYDE	1993	kg							0.5		14.5	
+32	Nevada	METALDEHYDE	1994	kg							0			
+32	Nevada	METALDEHYDE	1995	kg							0			
+32	Nevada	METALDEHYDE	1996	kg							0			
+32	Nevada	METALDEHYDE	1997	kg							0			
+32	Nevada	METALDEHYDE	2000	kg							0.2			
+32	Nevada	METALDEHYDE	2001	kg							0.1			
+32	Nevada	METALDEHYDE	2002	kg							0			
+34	New Jersey	METALDEHYDE	2010	kg	59.9									
+36	New York	METALDEHYDE	1999	kg					13.1					
+36	New York	METALDEHYDE	2000	kg					23.1					
+36	New York	METALDEHYDE	2010	kg					66.7					
+36	New York	METALDEHYDE	2011	kg					47.9					
+36	New York	METALDEHYDE	2014	kg					356.9					
+37	North Carolina	METALDEHYDE	1995	kg									3	
+39	Ohio	METALDEHYDE	1993	kg	1392.1									
+39	Ohio	METALDEHYDE	1999	kg					48.9					
+39	Ohio	METALDEHYDE	2000	kg					82.6					
+39	Ohio	METALDEHYDE	2002	kg					304.5					
+39	Ohio	METALDEHYDE	2003	kg					93.3					
+39	Ohio	METALDEHYDE	2010	kg					59.8					
+39	Ohio	METALDEHYDE	2011	kg					4.5					
+39	Ohio	METALDEHYDE	2017	kg					113					
+40	Oklahoma	METALDEHYDE	1996	kg									2023.1	
+41	Oregon	METALDEHYDE	1992	kg			6736.2				543.3			
+41	Oregon	METALDEHYDE	1995	kg					2029.5					
+41	Oregon	METALDEHYDE	1997	kg			22530.5							
+41	Oregon	METALDEHYDE	2001	kg					628.4					
+41	Oregon	METALDEHYDE	2002	kg					5.8					
+41	Oregon	METALDEHYDE	2003	kg					109.5					
+41	Oregon	METALDEHYDE	2004	kg					163.3					
+41	Oregon	METALDEHYDE	2005	kg					43.2					
+41	Oregon	METALDEHYDE	2008	kg					657					
+41	Oregon	METALDEHYDE	2011	kg					540					
+41	Oregon	METALDEHYDE	2012	kg					356.1					
+41	Oregon	METALDEHYDE	2013	kg					686.8					
+41	Oregon	METALDEHYDE	2014	kg					1107					
+41	Oregon	METALDEHYDE	2015	kg					375.8					
+42	Pennsylvania	METALDEHYDE	1993	kg	1187.2									
+42	Pennsylvania	METALDEHYDE	1999	kg					172.2					
+42	Pennsylvania	METALDEHYDE	2000	kg					170.8					
+42	Pennsylvania	METALDEHYDE	2003	kg					40.3					
+42	Pennsylvania	METALDEHYDE	2010	kg	727.4				402.7					
+42	Pennsylvania	METALDEHYDE	2011	kg					255.4					
+45	South Carolina	METALDEHYDE	1995	kg									1.3	
+47	Tennessee	METALDEHYDE	1992	kg				4206						
+47	Tennessee	METALDEHYDE	1994	kg				7603.4						
+47	Tennessee	METALDEHYDE	1996	kg									8.2	
+47	Tennessee	METALDEHYDE	1997	kg					22.4					
+47	Tennessee	METALDEHYDE	2006	kg				68.8						
+48	Texas	METALDEHYDE	1992	kg		1169.9		5998.7						
+48	Texas	METALDEHYDE	1996	kg									30.7	
+48	Texas	METALDEHYDE	2000	kg							550			
+50	Vermont	METALDEHYDE	2014	kg					65.4					
+51	Virginia	METALDEHYDE	1993	kg	287.2									
+53	Washington	METALDEHYDE	1992	kg			64.6				989.5			
+53	Washington	METALDEHYDE	1995	kg					552.6					
+53	Washington	METALDEHYDE	1997	kg			4346.6							
+53	Washington	METALDEHYDE	2001	kg					273.7					
+53	Washington	METALDEHYDE	2002	kg					2.8					
+53	Washington	METALDEHYDE	2003	kg					68.2					
+53	Washington	METALDEHYDE	2004	kg					80.8					
+53	Washington	METALDEHYDE	2005	kg					22.9					
+53	Washington	METALDEHYDE	2008	kg					784.2					
+53	Washington	METALDEHYDE	2009	kg					887					
+53	Washington	METALDEHYDE	2010	kg					1164.1					
+53	Washington	METALDEHYDE	2011	kg					618.8					
+53	Washington	METALDEHYDE	2012	kg					481.8					
+53	Washington	METALDEHYDE	2013	kg					1144.6					
+53	Washington	METALDEHYDE	2014	kg					798					
+53	Washington	METALDEHYDE	2015	kg					273.1					
+54	West Virginia	METALDEHYDE	1993	kg	506.9									
+54	West Virginia	METALDEHYDE	2002	kg					10					
+54	West Virginia	METALDEHYDE	2003	kg					5.1					
+54	West Virginia	METALDEHYDE	2010	kg					5.9					

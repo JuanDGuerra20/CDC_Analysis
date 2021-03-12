@@ -1,0 +1,150 @@
+04	Arizona	HYDRATED LIME	1992	kg							1693.3			
+04	Arizona	HYDRATED LIME	1993	kg							3667.6			
+04	Arizona	HYDRATED LIME	1994	kg							1099.3			
+04	Arizona	HYDRATED LIME	1995	kg							277.5			
+04	Arizona	HYDRATED LIME	1996	kg							2020.3			
+04	Arizona	HYDRATED LIME	1997	kg							1953.8			
+04	Arizona	HYDRATED LIME	1999	kg							9235.6			
+04	Arizona	HYDRATED LIME	2000	kg							3579.7			
+04	Arizona	HYDRATED LIME	2001	kg							34170.6			
+04	Arizona	HYDRATED LIME	2002	kg							18036.5			
+04	Arizona	HYDRATED LIME	2003	kg							38515.1			
+04	Arizona	HYDRATED LIME	2004	kg							2759.8			
+04	Arizona	HYDRATED LIME	2005	kg							19328.5			
+04	Arizona	HYDRATED LIME	2006	kg							38228			
+04	Arizona	HYDRATED LIME	2007	kg							4284.3			
+04	Arizona	HYDRATED LIME	2008	kg							28974.8			
+04	Arizona	HYDRATED LIME	2009	kg							2791.9			
+04	Arizona	HYDRATED LIME	2010	kg							3309.2			
+04	Arizona	HYDRATED LIME	2011	kg							11184.4			
+04	Arizona	HYDRATED LIME	2013	kg							7645			
+04	Arizona	HYDRATED LIME	2014	kg							11424.9			
+04	Arizona	HYDRATED LIME	2015	kg							9262.9			
+06	California	HYDRATED LIME	1992	kg				3.4	2296.4		740783.8			
+06	California	HYDRATED LIME	1993	kg							867930.9			
+06	California	HYDRATED LIME	1994	kg				28	15.1		702089.3			
+06	California	HYDRATED LIME	1995	kg				3.8	6.8		875550.5			
+06	California	HYDRATED LIME	1996	kg					25.6		984648.2			4040.8
+06	California	HYDRATED LIME	1997	kg	1.6			0.4	262.9		1408038.8	408.2		
+06	California	HYDRATED LIME	1998	kg					15.2		1302285.5		20.9	
+06	California	HYDRATED LIME	1999	kg				1.8			1227310.6	0		
+06	California	HYDRATED LIME	2000	kg					1.1		860192.5			
+06	California	HYDRATED LIME	2001	kg					21.7	463.5	658496.6			
+06	California	HYDRATED LIME	2002	kg					208.6		843834.5			
+06	California	HYDRATED LIME	2003	kg							6590.5			
+06	California	HYDRATED LIME	2004	kg							5191.2			
+06	California	HYDRATED LIME	2005	kg							6816.7			
+06	California	HYDRATED LIME	2006	kg							4786.9			
+06	California	HYDRATED LIME	2007	kg							5064.6			
+06	California	HYDRATED LIME	2008	kg							4291.3			
+06	California	HYDRATED LIME	2009	kg							642.9			
+06	California	HYDRATED LIME	2010	kg							1115.2			
+06	California	HYDRATED LIME	2011	kg							7861.2			
+06	California	HYDRATED LIME	2012	kg							485.3			
+06	California	HYDRATED LIME	2013	kg							660.6			
+06	California	HYDRATED LIME	2014	kg							3320			
+06	California	HYDRATED LIME	2015	kg							840			
+06	California	HYDRATED LIME	2016	kg							984.7			
+06	California	HYDRATED LIME	2017	kg							826.5			
+12	Florida	HYDRATED LIME	2014	kg							136240.5			
+17	Illinois	HYDRATED LIME	1998	kg							2498			
+17	Illinois	HYDRATED LIME	2001	kg							3166			
+17	Illinois	HYDRATED LIME	2003	kg							1619.8			
+17	Illinois	HYDRATED LIME	2005	kg							121.5			
+17	Illinois	HYDRATED LIME	2007	kg							837.1			
+17	Illinois	HYDRATED LIME	2013	kg							960.7			
+17	Illinois	HYDRATED LIME	2014	kg							2176.5			
+18	Indiana	HYDRATED LIME	1992	kg							62.6		100	
+18	Indiana	HYDRATED LIME	1993	kg							8.5			
+18	Indiana	HYDRATED LIME	1998	kg							737.7			
+18	Indiana	HYDRATED LIME	2001	kg							1157.2			
+18	Indiana	HYDRATED LIME	2002	kg							693.9			
+18	Indiana	HYDRATED LIME	2003	kg							242.8			
+18	Indiana	HYDRATED LIME	2004	kg							160.3			
+18	Indiana	HYDRATED LIME	2005	kg							78.3			
+18	Indiana	HYDRATED LIME	2006	kg							115.2			
+18	Indiana	HYDRATED LIME	2008	kg							18.7			
+18	Indiana	HYDRATED LIME	2009	kg							59.5			
+18	Indiana	HYDRATED LIME	2013	kg							19.8			
+18	Indiana	HYDRATED LIME	2014	kg							22.2			
+18	Indiana	HYDRATED LIME	2015	kg							7.9			
+21	Kentucky	HYDRATED LIME	2003	kg							91.1			
+21	Kentucky	HYDRATED LIME	2005	kg							6			
+21	Kentucky	HYDRATED LIME	2007	kg							35.8			
+21	Kentucky	HYDRATED LIME	2013	kg							39.4			
+21	Kentucky	HYDRATED LIME	2014	kg							97.9			
+26	Michigan	HYDRATED LIME	1992	kg							4877.4		264.6	
+26	Michigan	HYDRATED LIME	1993	kg							567.5			
+26	Michigan	HYDRATED LIME	1994	kg							4456.4			
+26	Michigan	HYDRATED LIME	2001	kg							4470.1			
+26	Michigan	HYDRATED LIME	2002	kg							4519.9			
+26	Michigan	HYDRATED LIME	2003	kg							11277.3			
+26	Michigan	HYDRATED LIME	2004	kg							7941.5			
+26	Michigan	HYDRATED LIME	2005	kg							37490.4			
+26	Michigan	HYDRATED LIME	2006	kg							24347.6			
+26	Michigan	HYDRATED LIME	2007	kg							31706.9			
+26	Michigan	HYDRATED LIME	2008	kg							2153.1			
+26	Michigan	HYDRATED LIME	2009	kg							10891.4			
+26	Michigan	HYDRATED LIME	2010	kg							2587.4			
+26	Michigan	HYDRATED LIME	2011	kg							20057			
+26	Michigan	HYDRATED LIME	2012	kg							17391.2			
+26	Michigan	HYDRATED LIME	2013	kg							24832.4			
+26	Michigan	HYDRATED LIME	2014	kg							10307.8			
+26	Michigan	HYDRATED LIME	2015	kg							1361.1			
+29	Missouri	HYDRATED LIME	1995	kg							210.5			
+29	Missouri	HYDRATED LIME	2003	kg							510			
+29	Missouri	HYDRATED LIME	2005	kg							38.2			
+29	Missouri	HYDRATED LIME	2007	kg							226			
+29	Missouri	HYDRATED LIME	2013	kg							236.8			
+29	Missouri	HYDRATED LIME	2014	kg							549.7			
+36	New York	HYDRATED LIME	1992	kg							2444.3			
+36	New York	HYDRATED LIME	1993	kg							8581.5			
+36	New York	HYDRATED LIME	1994	kg							1694.4			
+36	New York	HYDRATED LIME	1995	kg							738.5			
+36	New York	HYDRATED LIME	1996	kg							3562.1			
+36	New York	HYDRATED LIME	1997	kg							6686			
+36	New York	HYDRATED LIME	2000	kg							669.8			
+36	New York	HYDRATED LIME	2001	kg					135.8					
+36	New York	HYDRATED LIME	2003	kg							2762.5			
+36	New York	HYDRATED LIME	2004	kg							15734.2			
+39	Ohio	HYDRATED LIME	1994	kg							1163.5			
+39	Ohio	HYDRATED LIME	1996	kg							261.3			
+39	Ohio	HYDRATED LIME	2005	kg							2139.8			
+39	Ohio	HYDRATED LIME	2006	kg							1199.3			
+39	Ohio	HYDRATED LIME	2014	kg							105.3			
+39	Ohio	HYDRATED LIME	2015	kg							66.7			
+41	Oregon	HYDRATED LIME	1994	kg							37730.4			
+41	Oregon	HYDRATED LIME	1997	kg							25127			
+41	Oregon	HYDRATED LIME	2001	kg							1136			
+41	Oregon	HYDRATED LIME	2002	kg							7.2			
+41	Oregon	HYDRATED LIME	2003	kg							12246.8			
+41	Oregon	HYDRATED LIME	2004	kg							12075.8			
+41	Oregon	HYDRATED LIME	2005	kg							2048.4			
+41	Oregon	HYDRATED LIME	2007	kg					3527		2317.8			
+41	Oregon	HYDRATED LIME	2008	kg							9127			
+41	Oregon	HYDRATED LIME	2013	kg							2096.2			
+41	Oregon	HYDRATED LIME	2015	kg							110.2			
+42	Pennsylvania	HYDRATED LIME	1993	kg							2982.5			
+42	Pennsylvania	HYDRATED LIME	1994	kg							6698.3			
+42	Pennsylvania	HYDRATED LIME	1995	kg							254.4			
+42	Pennsylvania	HYDRATED LIME	1996	kg							2067.1			
+42	Pennsylvania	HYDRATED LIME	1997	kg							2286.4			
+42	Pennsylvania	HYDRATED LIME	2000	kg							226.1			
+42	Pennsylvania	HYDRATED LIME	2003	kg							915.6			
+42	Pennsylvania	HYDRATED LIME	2004	kg							453.6			
+53	Washington	HYDRATED LIME	1994	kg							368.9			
+53	Washington	HYDRATED LIME	1997	kg							927.3			
+53	Washington	HYDRATED LIME	2001	kg							10.4			
+53	Washington	HYDRATED LIME	2002	kg							300.9			
+53	Washington	HYDRATED LIME	2003	kg							111.8			
+53	Washington	HYDRATED LIME	2004	kg							90.8			
+53	Washington	HYDRATED LIME	2005	kg							19.8			
+53	Washington	HYDRATED LIME	2007	kg					407.9					
+53	Washington	HYDRATED LIME	2008	kg							65			
+53	Washington	HYDRATED LIME	2013	kg							528			
+53	Washington	HYDRATED LIME	2015	kg							146.2			
+55	Wisconsin	HYDRATED LIME	1998	kg							2732.1			
+55	Wisconsin	HYDRATED LIME	2005	kg							1327.5			
+55	Wisconsin	HYDRATED LIME	2006	kg							761.1			
+55	Wisconsin	HYDRATED LIME	2014	kg							69.5			
+55	Wisconsin	HYDRATED LIME	2015	kg							40.3			

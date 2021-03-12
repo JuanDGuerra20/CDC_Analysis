@@ -1,0 +1,2 @@
+17	Illinois	SULFALLATE	1994	kg		19945.5								
+18	Indiana	SULFALLATE	1994	kg		3290.4								

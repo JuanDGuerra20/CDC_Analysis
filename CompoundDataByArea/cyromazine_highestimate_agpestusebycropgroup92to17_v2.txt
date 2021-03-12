@@ -1,0 +1,171 @@
+01	Alabama	CYROMAZINE	1996	kg					1					
+01	Alabama	CYROMAZINE	2004	kg					7.7					
+04	Arizona	CYROMAZINE	1998	kg					138.4					
+04	Arizona	CYROMAZINE	1999	kg					64					
+04	Arizona	CYROMAZINE	2000	kg					44.3					
+04	Arizona	CYROMAZINE	2001	kg					440.2					
+04	Arizona	CYROMAZINE	2002	kg					1406.6					
+04	Arizona	CYROMAZINE	2003	kg					1190.7					
+04	Arizona	CYROMAZINE	2004	kg					73.1					
+04	Arizona	CYROMAZINE	2005	kg					979.2					
+04	Arizona	CYROMAZINE	2006	kg					209.4					
+04	Arizona	CYROMAZINE	2007	kg					287.8					
+04	Arizona	CYROMAZINE	2008	kg					129.9					
+04	Arizona	CYROMAZINE	2009	kg					43					
+04	Arizona	CYROMAZINE	2010	kg					19					
+04	Arizona	CYROMAZINE	2011	kg					23.6					
+04	Arizona	CYROMAZINE	2012	kg					18.2					
+04	Arizona	CYROMAZINE	2013	kg					259.9					
+04	Arizona	CYROMAZINE	2014	kg					24					
+04	Arizona	CYROMAZINE	2015	kg					26.1					
+04	Arizona	CYROMAZINE	2016	kg					26.2					
+06	California	CYROMAZINE	1996	kg					669.8					
+06	California	CYROMAZINE	1997	kg					2831.5		1.2			
+06	California	CYROMAZINE	1998	kg					1580.8		2.8			
+06	California	CYROMAZINE	1999	kg					1407.6		16.1			
+06	California	CYROMAZINE	2000	kg	4.6				2200.2		11.6			43
+06	California	CYROMAZINE	2001	kg	17.4				2314		28.3			6.8
+06	California	CYROMAZINE	2002	kg					5548.4		13.3			12.6
+06	California	CYROMAZINE	2003	kg					3183.4		160			
+06	California	CYROMAZINE	2004	kg					4793.3		88.1			
+06	California	CYROMAZINE	2005	kg	0.5				4266.8		68.6			
+06	California	CYROMAZINE	2006	kg					3994.1		55.5			
+06	California	CYROMAZINE	2007	kg					3687.9		57.1			
+06	California	CYROMAZINE	2008	kg					3794.9		43.1			7.5
+06	California	CYROMAZINE	2009	kg					2785.9		31.9			1.5
+06	California	CYROMAZINE	2010	kg					2231.6		36			3.2
+06	California	CYROMAZINE	2011	kg					2350.5		54			4.5
+06	California	CYROMAZINE	2012	kg					2404.3		52.4			9.1
+06	California	CYROMAZINE	2013	kg					2664.5		50.8			9.5
+06	California	CYROMAZINE	2014	kg					2752		47.8			2.7
+06	California	CYROMAZINE	2015	kg					3042.9		25			0.2
+06	California	CYROMAZINE	2016	kg	0.7				2031.9		19.5			
+06	California	CYROMAZINE	2017	kg					1980.5		23.2			10.6
+09	Connecticut	CYROMAZINE	2003	kg					0					
+09	Connecticut	CYROMAZINE	2004	kg					0					
+09	Connecticut	CYROMAZINE	2005	kg					0.3					
+09	Connecticut	CYROMAZINE	2006	kg					0					
+09	Connecticut	CYROMAZINE	2007	kg					0					
+09	Connecticut	CYROMAZINE	2008	kg					0					
+09	Connecticut	CYROMAZINE	2009	kg					0					
+09	Connecticut	CYROMAZINE	2010	kg					0					
+09	Connecticut	CYROMAZINE	2011	kg					0					
+09	Connecticut	CYROMAZINE	2013	kg					0					
+09	Connecticut	CYROMAZINE	2014	kg					0					
+09	Connecticut	CYROMAZINE	2015	kg					0.1					
+09	Connecticut	CYROMAZINE	2016	kg					0.2					
+09	Connecticut	CYROMAZINE	2017	kg					1					
+12	Florida	CYROMAZINE	1992	kg					3017.7					
+12	Florida	CYROMAZINE	1993	kg					2181.7					
+12	Florida	CYROMAZINE	1994	kg					1379.5					
+12	Florida	CYROMAZINE	1995	kg					684.7					
+12	Florida	CYROMAZINE	1996	kg					630.8					
+12	Florida	CYROMAZINE	1997	kg					9715.3					
+12	Florida	CYROMAZINE	1998	kg					1796.9					
+12	Florida	CYROMAZINE	1999	kg					1164.2					
+12	Florida	CYROMAZINE	2000	kg					995.3					
+12	Florida	CYROMAZINE	2001	kg					1705.3					
+12	Florida	CYROMAZINE	2003	kg					1022.1					
+12	Florida	CYROMAZINE	2004	kg					1207.7					
+12	Florida	CYROMAZINE	2005	kg					239.9					
+12	Florida	CYROMAZINE	2006	kg					364.6					
+12	Florida	CYROMAZINE	2007	kg					526.7					
+12	Florida	CYROMAZINE	2008	kg					528.1					
+12	Florida	CYROMAZINE	2009	kg					94.1					
+12	Florida	CYROMAZINE	2010	kg					124.4					
+12	Florida	CYROMAZINE	2011	kg					650.7					
+12	Florida	CYROMAZINE	2012	kg					1415.5					
+12	Florida	CYROMAZINE	2013	kg					1924.7					
+12	Florida	CYROMAZINE	2014	kg					2617.5					
+12	Florida	CYROMAZINE	2015	kg					3087.4					
+12	Florida	CYROMAZINE	2016	kg					5101.9					
+13	Georgia	CYROMAZINE	1996	kg					3.9					
+17	Illinois	CYROMAZINE	2013	kg					151.4					
+17	Illinois	CYROMAZINE	2015	kg					96.6					
+22	Louisiana	CYROMAZINE	1992	kg					103.1					
+25	Massachusetts	CYROMAZINE	2003	kg					0.9					
+25	Massachusetts	CYROMAZINE	2004	kg					0.4					
+25	Massachusetts	CYROMAZINE	2005	kg					2.4					
+25	Massachusetts	CYROMAZINE	2006	kg					0.8					
+25	Massachusetts	CYROMAZINE	2007	kg					0.2					
+25	Massachusetts	CYROMAZINE	2008	kg					0.2					
+25	Massachusetts	CYROMAZINE	2009	kg					0.3					
+25	Massachusetts	CYROMAZINE	2010	kg					0.5					
+25	Massachusetts	CYROMAZINE	2011	kg					1					
+25	Massachusetts	CYROMAZINE	2013	kg					0.2					
+25	Massachusetts	CYROMAZINE	2014	kg					0.8					
+25	Massachusetts	CYROMAZINE	2015	kg					1.1					
+25	Massachusetts	CYROMAZINE	2016	kg					1.6					
+25	Massachusetts	CYROMAZINE	2017	kg					4.6					
+26	Michigan	CYROMAZINE	1992	kg					80.1					
+26	Michigan	CYROMAZINE	2013	kg					1327.5					
+26	Michigan	CYROMAZINE	2015	kg					839.8					
+28	Mississippi	CYROMAZINE	1992	kg					130.3					
+28	Mississippi	CYROMAZINE	2004	kg					2.6					
+32	Nevada	CYROMAZINE	1998	kg					0.1					
+32	Nevada	CYROMAZINE	2004	kg					1.5					
+32	Nevada	CYROMAZINE	2007	kg					0.7					
+32	Nevada	CYROMAZINE	2013	kg					0.9					
+32	Nevada	CYROMAZINE	2014	kg					0					
+32	Nevada	CYROMAZINE	2015	kg					0.1					
+32	Nevada	CYROMAZINE	2016	kg					0.2					
+34	New Jersey	CYROMAZINE	2003	kg					0					
+34	New Jersey	CYROMAZINE	2004	kg					0					
+34	New Jersey	CYROMAZINE	2005	kg					0					
+34	New Jersey	CYROMAZINE	2006	kg					0					
+34	New Jersey	CYROMAZINE	2007	kg					0					
+34	New Jersey	CYROMAZINE	2008	kg					0.1					
+34	New Jersey	CYROMAZINE	2009	kg					0.1					
+34	New Jersey	CYROMAZINE	2010	kg					0.1					
+34	New Jersey	CYROMAZINE	2011	kg					0.2					
+34	New Jersey	CYROMAZINE	2013	kg					0					
+34	New Jersey	CYROMAZINE	2014	kg					0.1					
+34	New Jersey	CYROMAZINE	2015	kg					0.1					
+34	New Jersey	CYROMAZINE	2016	kg					0.6					
+34	New Jersey	CYROMAZINE	2017	kg					1.7					
+35	New Mexico	CYROMAZINE	1995	kg					107.4					
+36	New York	CYROMAZINE	1997	kg					308.2					
+36	New York	CYROMAZINE	1998	kg					64.2					
+36	New York	CYROMAZINE	2001	kg					22.3					
+36	New York	CYROMAZINE	2003	kg					82.9					
+36	New York	CYROMAZINE	2004	kg					82.5					
+36	New York	CYROMAZINE	2005	kg					192.8					
+36	New York	CYROMAZINE	2006	kg					71.3					
+36	New York	CYROMAZINE	2007	kg					23.1					
+36	New York	CYROMAZINE	2008	kg					14.9					
+36	New York	CYROMAZINE	2009	kg					16.2					
+36	New York	CYROMAZINE	2010	kg					23					
+36	New York	CYROMAZINE	2011	kg					42.5					
+36	New York	CYROMAZINE	2013	kg					9.2					
+36	New York	CYROMAZINE	2014	kg					23.7					
+36	New York	CYROMAZINE	2015	kg					30.7					
+36	New York	CYROMAZINE	2016	kg					41.3					
+36	New York	CYROMAZINE	2017	kg					96.6					
+42	Pennsylvania	CYROMAZINE	2003	kg					0.1					
+42	Pennsylvania	CYROMAZINE	2004	kg					0					
+42	Pennsylvania	CYROMAZINE	2005	kg					0.7					
+42	Pennsylvania	CYROMAZINE	2006	kg					0					
+42	Pennsylvania	CYROMAZINE	2007	kg					0					
+42	Pennsylvania	CYROMAZINE	2008	kg					0					
+42	Pennsylvania	CYROMAZINE	2009	kg					0					
+42	Pennsylvania	CYROMAZINE	2010	kg					0					
+42	Pennsylvania	CYROMAZINE	2011	kg					0					
+42	Pennsylvania	CYROMAZINE	2013	kg					0					
+42	Pennsylvania	CYROMAZINE	2014	kg					0					
+42	Pennsylvania	CYROMAZINE	2015	kg					0					
+42	Pennsylvania	CYROMAZINE	2016	kg					0					
+42	Pennsylvania	CYROMAZINE	2017	kg					0.5					
+48	Texas	CYROMAZINE	1993	kg					1271.6					
+48	Texas	CYROMAZINE	1994	kg					2545.5					
+48	Texas	CYROMAZINE	1995	kg					531.9					
+48	Texas	CYROMAZINE	1996	kg					1889.4					
+48	Texas	CYROMAZINE	1999	kg					126.5					
+48	Texas	CYROMAZINE	2000	kg					434.5					
+48	Texas	CYROMAZINE	2001	kg					146.6					
+48	Texas	CYROMAZINE	2006	kg					3.3					
+55	Wisconsin	CYROMAZINE	2012	kg					717.7					
+55	Wisconsin	CYROMAZINE	2013	kg					569.4					
+55	Wisconsin	CYROMAZINE	2014	kg					81.7					
+55	Wisconsin	CYROMAZINE	2015	kg					402.9					
+55	Wisconsin	CYROMAZINE	2016	kg					375					
+55	Wisconsin	CYROMAZINE	2017	kg					133.4					

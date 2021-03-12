@@ -1,0 +1,766 @@
+01	Alabama	METALAXYL	1992	kg	257.2	13.1		10257	1988.8		80			264.6
+01	Alabama	METALAXYL	1993	kg				15605.6	2273.5		38.9			654.3
+01	Alabama	METALAXYL	1994	kg				14315.1	1641.2		0.2			9179.9
+01	Alabama	METALAXYL	1995	kg				40719.6	1638.9		1			84.9
+01	Alabama	METALAXYL	1996	kg				25415.4	3934.1					415.3
+01	Alabama	METALAXYL	1997	kg				10984.6	394.9					55.7
+01	Alabama	METALAXYL	1998	kg				627.8	836.4					47.7
+01	Alabama	METALAXYL	1999	kg				633.3	645.7					7.7
+01	Alabama	METALAXYL	2000	kg				1354.9						
+01	Alabama	METALAXYL	2006	kg				19.2						
+01	Alabama	METALAXYL	2007	kg		25.7		64						
+01	Alabama	METALAXYL	2008	kg				2.6						
+01	Alabama	METALAXYL	2009	kg		12.7		16.8						5
+01	Alabama	METALAXYL	2010	kg		92	16.7	46.2						4.6
+01	Alabama	METALAXYL	2011	kg		105.9	1.6	91.7						
+01	Alabama	METALAXYL	2012	kg		440.2	26.2	112.2						10.7
+01	Alabama	METALAXYL	2013	kg		477.4	37.3	108.5						
+01	Alabama	METALAXYL	2014	kg		403.1	78.8	173.9						
+04	Arizona	METALAXYL	1992	kg					1201.1		311.9	186.2		
+04	Arizona	METALAXYL	1993	kg					5240.3		94.5			
+04	Arizona	METALAXYL	1994	kg					8859.8		12414.4			
+04	Arizona	METALAXYL	1995	kg					8343.9		1487.5			
+04	Arizona	METALAXYL	1996	kg					2463.8		242			
+04	Arizona	METALAXYL	1997	kg					946		2537.2			
+04	Arizona	METALAXYL	1998	kg					2505.8		12264.6			
+04	Arizona	METALAXYL	1999	kg					102		314.3			
+04	Arizona	METALAXYL	2000	kg					22					
+04	Arizona	METALAXYL	2008	kg				4.4						
+04	Arizona	METALAXYL	2010	kg			1	1.2						
+04	Arizona	METALAXYL	2011	kg				118.3						
+04	Arizona	METALAXYL	2012	kg			0.3	62.5						
+04	Arizona	METALAXYL	2013	kg			6.2	83.3						
+04	Arizona	METALAXYL	2014	kg			3	88.4						
+05	Arkansas	METALAXYL	1992	kg				13761.5						
+05	Arkansas	METALAXYL	1993	kg		125.6		37682.2	15.5					
+05	Arkansas	METALAXYL	1994	kg				28260.2						
+05	Arkansas	METALAXYL	1995	kg				24713.3						
+05	Arkansas	METALAXYL	1996	kg	887.5			32325	49.3				14407.5	
+05	Arkansas	METALAXYL	1997	kg		6062		57409.9	505.7					
+05	Arkansas	METALAXYL	1998	kg				1100.9	1240					
+05	Arkansas	METALAXYL	1999	kg				1572.4	78.7					
+05	Arkansas	METALAXYL	2000	kg				1701						
+05	Arkansas	METALAXYL	2006	kg				113						
+05	Arkansas	METALAXYL	2007	kg		279		32.2						
+05	Arkansas	METALAXYL	2008	kg				39.9						
+05	Arkansas	METALAXYL	2009	kg		992.7	1.6	69.1						
+05	Arkansas	METALAXYL	2010	kg		1347.9	1.5	63.6						
+05	Arkansas	METALAXYL	2011	kg		908.3	10.6	345.9						
+05	Arkansas	METALAXYL	2012	kg		2008.6	5	188.3						
+05	Arkansas	METALAXYL	2013	kg		2455.9	41	112.9						
+05	Arkansas	METALAXYL	2014	kg		1709.1	274.8	386.1						
+06	California	METALAXYL	1992	kg			19.6	1086.2	40071.6		5559.5	24.6	856.4	333.2
+06	California	METALAXYL	1993	kg	2		0.9	1857.7	54081.9		4464.8	18.9	127.3	451.9
+06	California	METALAXYL	1994	kg	23.2		30	2419.8	44406.1		5298.6	362.8	489.7	291.9
+06	California	METALAXYL	1995	kg	49.1		24.5	3034.9	55278		5221.7	325.4	502.1	243.8
+06	California	METALAXYL	1996	kg	8.7		18.7	672.6	49927		4847	8.2	501.8	143.3
+06	California	METALAXYL	1997	kg				1562.2	23472.7		4259.6	333.5	1404.5	107.1
+06	California	METALAXYL	1998	kg	4.1		0.1	441.4	8687.9		3384.4		258.8	4.3
+06	California	METALAXYL	1999	kg				12.4	3018.7		1341.1	0.1	52.2	5.7
+06	California	METALAXYL	2000	kg				11.3	1370.1		543.6	9.9	29.6	0.3
+06	California	METALAXYL	2001	kg				257.2	498		179.7		22.4	0.4
+06	California	METALAXYL	2002	kg				3.1	342.7		142.7	0	5.1	0.2
+06	California	METALAXYL	2003	kg				2.8	289.1		80.7		2.5	
+06	California	METALAXYL	2004	kg				1.3	278.7		139.2			
+06	California	METALAXYL	2005	kg				0.6	139.8		89.8		4.1	1
+06	California	METALAXYL	2006	kg					128.1		89.2		0.9	
+06	California	METALAXYL	2007	kg					51.2		76.3		16.6	
+06	California	METALAXYL	2008	kg			9.6		99.4		61.4			1.2
+06	California	METALAXYL	2009	kg	8.4		17		102.4		48.6			0.5
+06	California	METALAXYL	2010	kg			4.8		11.9		23.6	15.2		2.9
+06	California	METALAXYL	2011	kg			18.5		21.8		23.2			3.1
+06	California	METALAXYL	2012	kg			16.6		6.7		18.3	25.7		6
+06	California	METALAXYL	2013	kg			11.5		50.5		2	35.6	2.3	6.3
+06	California	METALAXYL	2014	kg			11.9		40.6		5.4	42.3		4.8
+06	California	METALAXYL	2015	kg			7.7		17.7		7.1	41.1		1.9
+06	California	METALAXYL	2016	kg			3.4		4.4		1.2	42.9		
+06	California	METALAXYL	2017	kg			1.9		10.1		3.2	34.2		
+08	Colorado	METALAXYL	1992	kg					2701.3					
+08	Colorado	METALAXYL	1993	kg					2490.6					
+08	Colorado	METALAXYL	1994	kg					5516.8					
+08	Colorado	METALAXYL	1995	kg					7317.2					109.9
+08	Colorado	METALAXYL	1996	kg					7698.2					
+08	Colorado	METALAXYL	1997	kg					5837.8					
+08	Colorado	METALAXYL	1998	kg					417.4					
+08	Colorado	METALAXYL	1999	kg					1743.5					
+08	Colorado	METALAXYL	2000	kg					2058.9					
+08	Colorado	METALAXYL	2008	kg		0.8								
+08	Colorado	METALAXYL	2009	kg		0	234.2							
+08	Colorado	METALAXYL	2010	kg		3.2	117.5							
+08	Colorado	METALAXYL	2011	kg		0.4	118		546.6					
+08	Colorado	METALAXYL	2012	kg		16.4	179.6							0.1
+08	Colorado	METALAXYL	2013	kg		28.4	152.1							0.1
+08	Colorado	METALAXYL	2014	kg		31.1	36.7							0.3
+09	Connecticut	METALAXYL	1992	kg	15734.7				70.7					684.3
+09	Connecticut	METALAXYL	1993	kg					196.3					
+09	Connecticut	METALAXYL	1994	kg					89.6					374.1
+09	Connecticut	METALAXYL	1995	kg					136.4					270.7
+09	Connecticut	METALAXYL	1996	kg					107.8					941.4
+09	Connecticut	METALAXYL	1997	kg					44.7					
+09	Connecticut	METALAXYL	1998	kg					208.3					359.1
+09	Connecticut	METALAXYL	1999	kg					13.4					
+09	Connecticut	METALAXYL	2000	kg					33					
+09	Connecticut	METALAXYL	2010	kg		0								
+09	Connecticut	METALAXYL	2011	kg		0								
+09	Connecticut	METALAXYL	2012	kg		0.1								
+09	Connecticut	METALAXYL	2013	kg		1.1								
+09	Connecticut	METALAXYL	2014	kg		0.3								
+10	Delaware	METALAXYL	1992	kg					565.8					
+10	Delaware	METALAXYL	1993	kg	432.6				1194.7					
+10	Delaware	METALAXYL	1994	kg					5520.5					
+10	Delaware	METALAXYL	1995	kg		1409.6			649.3					
+10	Delaware	METALAXYL	1996	kg					2139.4					
+10	Delaware	METALAXYL	1997	kg			104.8		1729.7					
+10	Delaware	METALAXYL	1998	kg					929					
+10	Delaware	METALAXYL	1999	kg					615.9					
+10	Delaware	METALAXYL	2000	kg					35					
+10	Delaware	METALAXYL	2010	kg		302.1	6							
+10	Delaware	METALAXYL	2011	kg		182.2	1.3							
+10	Delaware	METALAXYL	2012	kg		127.7	13.2							
+10	Delaware	METALAXYL	2013	kg		105.7	7.5							
+10	Delaware	METALAXYL	2014	kg		43	33.5							
+12	Florida	METALAXYL	1992	kg		31.9		961.4	10094.1		17790.4		10	270.5
+12	Florida	METALAXYL	1993	kg				30.1	11565.2		18800.2		58	934.5
+12	Florida	METALAXYL	1994	kg				30972.3	8934.7		10040.2			3254.4
+12	Florida	METALAXYL	1995	kg				196.5	6215		84396.5			731.7
+12	Florida	METALAXYL	1996	kg				43.4	21896.9		75719.7		534.8	136.6
+12	Florida	METALAXYL	1997	kg				164.3	21042.2		6498.2			270.2
+12	Florida	METALAXYL	1998	kg				102.9	4925.9		1258.6			759.6
+12	Florida	METALAXYL	1999	kg				138.5	1824.1		9799.4			263.8
+12	Florida	METALAXYL	2000	kg					1839.7		17			
+12	Florida	METALAXYL	2006	kg				5						
+12	Florida	METALAXYL	2007	kg				5.8						
+12	Florida	METALAXYL	2008	kg				0.1						
+12	Florida	METALAXYL	2009	kg				0.9	821.7					4
+12	Florida	METALAXYL	2010	kg		3.9		0.3			2791.1			12.3
+12	Florida	METALAXYL	2011	kg				52.7						
+12	Florida	METALAXYL	2012	kg		3.8	0.1	41.3			3877.4			15.2
+12	Florida	METALAXYL	2013	kg		47.3	0.9	43.5			823.4			
+12	Florida	METALAXYL	2014	kg		12.4	2.9	12.9			2713.9			
+13	Georgia	METALAXYL	1992	kg		145.3		6253.9	1771.7					3756.3
+13	Georgia	METALAXYL	1993	kg				6506.9	1007.1			4.9	125.3	6544.9
+13	Georgia	METALAXYL	1994	kg			149.8	220804.5	11447.1					11089.6
+13	Georgia	METALAXYL	1995	kg				21680.9	2242.1				71.9	5495
+13	Georgia	METALAXYL	1996	kg				1396.5	4694.4		10.3			3856.1
+13	Georgia	METALAXYL	1997	kg				3020.9	7056.8					2500.5
+13	Georgia	METALAXYL	1998	kg				1212.4	1708.6					1257.4
+13	Georgia	METALAXYL	1999	kg				1549.5	561.1					948.7
+13	Georgia	METALAXYL	2000	kg				2974.5	824.3					
+13	Georgia	METALAXYL	2006	kg				25.2						
+13	Georgia	METALAXYL	2007	kg				79.7						
+13	Georgia	METALAXYL	2008	kg				35.6						
+13	Georgia	METALAXYL	2009	kg		2		57.1	3163.9					22.8
+13	Georgia	METALAXYL	2010	kg		90.2	12.3	10.8						54.7
+13	Georgia	METALAXYL	2011	kg		40.3	1.6	459.6						
+13	Georgia	METALAXYL	2012	kg		217.5	114.8	81.6						53.7
+13	Georgia	METALAXYL	2013	kg		684.9	253.4	249.4						1.1
+13	Georgia	METALAXYL	2014	kg		145.9	158.7	723.5						
+16	Idaho	METALAXYL	1992	kg					870.2					
+16	Idaho	METALAXYL	1993	kg					1898.7					161.5
+16	Idaho	METALAXYL	1994	kg			1743.5		3563.7					
+16	Idaho	METALAXYL	1995	kg					3797				32	
+16	Idaho	METALAXYL	1996	kg					25074.5					
+16	Idaho	METALAXYL	1997	kg					7769.6		0.5			
+16	Idaho	METALAXYL	1998	kg					9771.5					
+16	Idaho	METALAXYL	1999	kg					1224.5					
+16	Idaho	METALAXYL	2009	kg			133.3							
+16	Idaho	METALAXYL	2010	kg			82.3							
+16	Idaho	METALAXYL	2011	kg			115.3							
+16	Idaho	METALAXYL	2012	kg			45.9		5387.2					5.7
+16	Idaho	METALAXYL	2013	kg			193.5							2.1
+16	Idaho	METALAXYL	2014	kg			264.9		5025					0.4
+16	Idaho	METALAXYL	2015	kg					9119.7					
+17	Illinois	METALAXYL	1992	kg		4652.9			1456.3					16.5
+17	Illinois	METALAXYL	1993	kg		3489.1			711.1					35.8
+17	Illinois	METALAXYL	1994	kg		5480.9			386.8					22.7
+17	Illinois	METALAXYL	1995	kg		9209.1			4360		9.4			39.9
+17	Illinois	METALAXYL	1996	kg		8482			1069.2					13.4
+17	Illinois	METALAXYL	1997	kg		6308.3			318					9.3
+17	Illinois	METALAXYL	1998	kg					562.3					26.8
+17	Illinois	METALAXYL	1999	kg					289.2					7.8
+17	Illinois	METALAXYL	2000	kg					40.9					10.1
+17	Illinois	METALAXYL	2006	kg		1822.3								
+17	Illinois	METALAXYL	2007	kg		1710.2								
+17	Illinois	METALAXYL	2008	kg		554.1								
+17	Illinois	METALAXYL	2009	kg		1496.2	19.7							
+17	Illinois	METALAXYL	2010	kg		8736.6	31.3							
+17	Illinois	METALAXYL	2011	kg		5281.7	34.8		373.8					
+17	Illinois	METALAXYL	2012	kg		8910.1	87.7							
+17	Illinois	METALAXYL	2013	kg		12256.6	79.1		94.5					
+17	Illinois	METALAXYL	2014	kg		10286.7	32.4		56.3					
+18	Indiana	METALAXYL	1992	kg		3063.5			1261.8					3826.8
+18	Indiana	METALAXYL	1993	kg		3533.5			351.7		7.3			2569.6
+18	Indiana	METALAXYL	1994	kg		5011.9			267.2		0			2473.8
+18	Indiana	METALAXYL	1995	kg		4770.4			2784.6		0			3214
+18	Indiana	METALAXYL	1996	kg		7267.6			993.2		30.9			1733.3
+18	Indiana	METALAXYL	1997	kg		1781.6			296.7		0.2			951.6
+18	Indiana	METALAXYL	1998	kg					713.7		0			130.7
+18	Indiana	METALAXYL	1999	kg					362.4		0			283.7
+18	Indiana	METALAXYL	2000	kg					45.2					42.8
+18	Indiana	METALAXYL	2006	kg		1208.2								
+18	Indiana	METALAXYL	2007	kg		1676.5								
+18	Indiana	METALAXYL	2008	kg		1877.5								
+18	Indiana	METALAXYL	2009	kg		503.7	24.7							
+18	Indiana	METALAXYL	2010	kg		3393.4	32.2							
+18	Indiana	METALAXYL	2011	kg		3348.8	15		127.4					
+18	Indiana	METALAXYL	2012	kg		4915.2	45.8							
+18	Indiana	METALAXYL	2013	kg		5140	110.9							
+18	Indiana	METALAXYL	2014	kg		6891.5	76							
+19	Iowa	METALAXYL	1992	kg		1375.6			76.6					
+19	Iowa	METALAXYL	1993	kg		14270			41					
+19	Iowa	METALAXYL	1994	kg		16685.2			115.4					
+19	Iowa	METALAXYL	1995	kg		6851.5			154.7					
+19	Iowa	METALAXYL	1996	kg		5275.1			27.9					
+19	Iowa	METALAXYL	1997	kg		5469.7			9.3					
+19	Iowa	METALAXYL	1998	kg					7.9					
+19	Iowa	METALAXYL	1999	kg					16.8					
+19	Iowa	METALAXYL	2006	kg		946								
+19	Iowa	METALAXYL	2007	kg		1127.5								
+19	Iowa	METALAXYL	2008	kg		1997.9								
+19	Iowa	METALAXYL	2009	kg		1442.4	0.2							
+19	Iowa	METALAXYL	2010	kg		11087.9	0.5							
+19	Iowa	METALAXYL	2011	kg		6451.6	0.1		39					
+19	Iowa	METALAXYL	2012	kg		10655.2	0.2							
+19	Iowa	METALAXYL	2013	kg		16302.9	1							
+19	Iowa	METALAXYL	2014	kg		9254.5	0.6		1.8					
+20	Kansas	METALAXYL	1992	kg					95.5					
+20	Kansas	METALAXYL	1993	kg					0.8					7.4
+20	Kansas	METALAXYL	1994	kg					2.4					
+20	Kansas	METALAXYL	1995	kg					321.5					
+20	Kansas	METALAXYL	1996	kg					211.1					
+20	Kansas	METALAXYL	1997	kg					93.7					
+20	Kansas	METALAXYL	1998	kg					0.4					
+20	Kansas	METALAXYL	1999	kg					0.2					
+20	Kansas	METALAXYL	2008	kg		548.7								
+20	Kansas	METALAXYL	2009	kg		246.1	585.7							
+20	Kansas	METALAXYL	2010	kg		2796.1	412.5	18.2						
+20	Kansas	METALAXYL	2011	kg		1224.1	350.8	38.7	123					
+20	Kansas	METALAXYL	2012	kg		3640	729.5	6.1						
+20	Kansas	METALAXYL	2013	kg		4361.3	718.9	9						
+20	Kansas	METALAXYL	2014	kg		5377	909.9	29.2						
+21	Kentucky	METALAXYL	1992	kg	1285.5	2770.7			420.7					36439.1
+21	Kentucky	METALAXYL	1993	kg	3985.3	4157.5			74.9			30.1		36493.5
+21	Kentucky	METALAXYL	1994	kg		1003.8	30.5		145.4				22.2	25939.5
+21	Kentucky	METALAXYL	1995	kg		895.6			681.1		0	459.7		31023.7
+21	Kentucky	METALAXYL	1996	kg		836.4			306.3		10.9		33.6	18521
+21	Kentucky	METALAXYL	1997	kg		681.9			78.8					12857.7
+21	Kentucky	METALAXYL	1998	kg					15.8					7514.3
+21	Kentucky	METALAXYL	1999	kg					165.2					6253.1
+21	Kentucky	METALAXYL	2000	kg										1985.9
+21	Kentucky	METALAXYL	2006	kg		203.6								
+21	Kentucky	METALAXYL	2007	kg		312.5								
+21	Kentucky	METALAXYL	2008	kg		374.7								
+21	Kentucky	METALAXYL	2009	kg		161.8	13.9							
+21	Kentucky	METALAXYL	2010	kg		1558.1	24							248.1
+21	Kentucky	METALAXYL	2011	kg		470.9	14.7							
+21	Kentucky	METALAXYL	2012	kg		934.4	45.2							
+21	Kentucky	METALAXYL	2013	kg		547.8	530.8							
+21	Kentucky	METALAXYL	2014	kg		621.8	91.2							
+22	Louisiana	METALAXYL	1992	kg				45421.6	7.8		0			
+22	Louisiana	METALAXYL	1993	kg				58467.2	4					
+22	Louisiana	METALAXYL	1994	kg				56451.2						
+22	Louisiana	METALAXYL	1995	kg				22175.7	247.7					
+22	Louisiana	METALAXYL	1996	kg	673.3			23916.8	6.3					
+22	Louisiana	METALAXYL	1997	kg		446		5543.7	127.7					
+22	Louisiana	METALAXYL	1998	kg				410.5	40.3					
+22	Louisiana	METALAXYL	1999	kg				511.2	3.4					
+22	Louisiana	METALAXYL	2000	kg				1332.1						
+22	Louisiana	METALAXYL	2006	kg				43.1						
+22	Louisiana	METALAXYL	2007	kg		100.5		18.8						
+22	Louisiana	METALAXYL	2008	kg				7.2						
+22	Louisiana	METALAXYL	2009	kg		378.1		38.8						
+22	Louisiana	METALAXYL	2010	kg		3191.4	1.7	16.3						
+22	Louisiana	METALAXYL	2011	kg		61.9		267.8						
+22	Louisiana	METALAXYL	2012	kg		238		35.7						
+22	Louisiana	METALAXYL	2013	kg		355.3	1.1	21.5						
+22	Louisiana	METALAXYL	2014	kg		270.1	0.8	87.9						
+23	Maine	METALAXYL	1992	kg					2914.3					
+23	Maine	METALAXYL	1993	kg					1987.4					
+23	Maine	METALAXYL	1994	kg					5972.9					
+23	Maine	METALAXYL	1995	kg					2453.7					
+23	Maine	METALAXYL	1996	kg					1038.6					
+23	Maine	METALAXYL	1997	kg					2330.3					
+23	Maine	METALAXYL	1998	kg					673.6					
+23	Maine	METALAXYL	1999	kg					1946.3					
+23	Maine	METALAXYL	2000	kg					1075					
+23	Maine	METALAXYL	2014	kg					751.2					
+24	Maryland	METALAXYL	1992	kg		1697.5			598.7		22.8			950.5
+24	Maryland	METALAXYL	1993	kg	1205.9				3330.6					1045.1
+24	Maryland	METALAXYL	1994	kg					1320.4			175.1		872
+24	Maryland	METALAXYL	1995	kg		2852.5			821.6		22.4			220.8
+24	Maryland	METALAXYL	1996	kg					5662.4					811.6
+24	Maryland	METALAXYL	1997	kg			80.1		2534.2					1338.4
+24	Maryland	METALAXYL	1998	kg					1009.2					209.6
+24	Maryland	METALAXYL	1999	kg					443.9					167.9
+24	Maryland	METALAXYL	2000	kg					152.6					
+24	Maryland	METALAXYL	2009	kg		0.1								
+24	Maryland	METALAXYL	2010	kg		172.6	13.3							
+24	Maryland	METALAXYL	2011	kg		216.5	2.3							
+24	Maryland	METALAXYL	2012	kg		410.6	27.2							
+24	Maryland	METALAXYL	2013	kg		508.7	18.1							
+24	Maryland	METALAXYL	2014	kg		283.1	94.5							
+25	Massachusetts	METALAXYL	1992	kg	11161.3				393					498.8
+25	Massachusetts	METALAXYL	1993	kg					948.3					
+25	Massachusetts	METALAXYL	1994	kg					227.7			23.7		146.3
+25	Massachusetts	METALAXYL	1995	kg					800.6					238.1
+25	Massachusetts	METALAXYL	1996	kg					1412.7					408.2
+25	Massachusetts	METALAXYL	1997	kg					348.3					
+25	Massachusetts	METALAXYL	1998	kg					513.6					606.4
+25	Massachusetts	METALAXYL	1999	kg					102.7		296.1			
+25	Massachusetts	METALAXYL	2000	kg					226					
+25	Massachusetts	METALAXYL	2010	kg		0.1								
+25	Massachusetts	METALAXYL	2011	kg		0.3								
+25	Massachusetts	METALAXYL	2012	kg		0.4								
+25	Massachusetts	METALAXYL	2013	kg		2								
+25	Massachusetts	METALAXYL	2014	kg		2.8								
+26	Michigan	METALAXYL	1992	kg		315.3			5059.6					962.3
+26	Michigan	METALAXYL	1993	kg		1175.4			3338.6		523.1			436.2
+26	Michigan	METALAXYL	1994	kg		601.5			4192.9		30.5			356.3
+26	Michigan	METALAXYL	1995	kg		1457.1			7352.4		116.9			276.5
+26	Michigan	METALAXYL	1996	kg		4757.7			9330.8		66.4			10.5
+26	Michigan	METALAXYL	1997	kg					6592.7		310.9			
+26	Michigan	METALAXYL	1998	kg					3436.8		16.7			1005.9
+26	Michigan	METALAXYL	1999	kg					2741.8		112.3			
+26	Michigan	METALAXYL	2000	kg					640.9					
+26	Michigan	METALAXYL	2009	kg		1286.3	44.5							
+26	Michigan	METALAXYL	2010	kg		1535.9	37.3							
+26	Michigan	METALAXYL	2011	kg		1156.7	27.3		2124.1					
+26	Michigan	METALAXYL	2012	kg		2544.5	56.1		9.7					
+26	Michigan	METALAXYL	2013	kg		2014	53.1		1153.2					
+26	Michigan	METALAXYL	2014	kg		1353.8	107		4542.7					
+27	Minnesota	METALAXYL	1992	kg		1842.6			1053.4					185.9
+27	Minnesota	METALAXYL	1993	kg		5838.8	702.4		4422.2					516.8
+27	Minnesota	METALAXYL	1994	kg		4285.9			11019					
+27	Minnesota	METALAXYL	1995	kg		2588			4377.4					
+27	Minnesota	METALAXYL	1996	kg		1271.2			2731.7					509.4
+27	Minnesota	METALAXYL	1997	kg		2657.7			2297.6					1220.5
+27	Minnesota	METALAXYL	1998	kg					671.9					
+27	Minnesota	METALAXYL	1999	kg					2108.8					
+27	Minnesota	METALAXYL	2006	kg		1144.5								
+27	Minnesota	METALAXYL	2007	kg		835.5								
+27	Minnesota	METALAXYL	2008	kg		1953.1								
+27	Minnesota	METALAXYL	2009	kg		328	192							
+27	Minnesota	METALAXYL	2010	kg		4825.2	347.5							
+27	Minnesota	METALAXYL	2011	kg		3734.8	222.2		1747.1					
+27	Minnesota	METALAXYL	2012	kg		6204	440.2							2.9
+27	Minnesota	METALAXYL	2013	kg		9156.4	291.6		438.4					4.3
+27	Minnesota	METALAXYL	2014	kg		6999.9	156.4		76.1					6.5
+28	Mississippi	METALAXYL	1992	kg	157.1			49984.4	144.6		40.8			
+28	Mississippi	METALAXYL	1993	kg		82.9		38345	77.6		2.8			
+28	Mississippi	METALAXYL	1994	kg				42210.2	152.9					
+28	Mississippi	METALAXYL	1995	kg				31176.2	195.7		1.7			
+28	Mississippi	METALAXYL	1996	kg	309.1			16930	69.5					
+28	Mississippi	METALAXYL	1997	kg		4204.2		31236.6	9.7					
+28	Mississippi	METALAXYL	1998	kg				1394.1	262.7					
+28	Mississippi	METALAXYL	1999	kg				1277.7						
+28	Mississippi	METALAXYL	2000	kg				2468.1						
+28	Mississippi	METALAXYL	2006	kg				66.5						
+28	Mississippi	METALAXYL	2007	kg		343.7		85.5						
+28	Mississippi	METALAXYL	2008	kg				25.4						
+28	Mississippi	METALAXYL	2009	kg		1177.3		80.5						
+28	Mississippi	METALAXYL	2010	kg		5494.4	5.6	37.5						
+28	Mississippi	METALAXYL	2011	kg		456.1		210.1						
+28	Mississippi	METALAXYL	2012	kg		1002.7		415.9						
+28	Mississippi	METALAXYL	2013	kg		1241.6	14.9	233						
+28	Mississippi	METALAXYL	2014	kg		742.8	100.2	319.2						
+29	Missouri	METALAXYL	1992	kg		1390			688.7					150.8
+29	Missouri	METALAXYL	1993	kg		3326.7		17605.1	82					640.9
+29	Missouri	METALAXYL	1994	kg		3975.4		109.6	6.4					184.6
+29	Missouri	METALAXYL	1995	kg		4112.9		501.2	1786.8		1.7			277.7
+29	Missouri	METALAXYL	1996	kg		3363.6		969.6	183.2				2496.5	196.8
+29	Missouri	METALAXYL	1997	kg		2985.6		132.5	59.4					223
+29	Missouri	METALAXYL	1998	kg				123.9	542.1					125.9
+29	Missouri	METALAXYL	1999	kg				237.5	318.4					96.8
+29	Missouri	METALAXYL	2006	kg		833.8		66.3						
+29	Missouri	METALAXYL	2007	kg		265.5		11.6						
+29	Missouri	METALAXYL	2008	kg		1416.3		7.2						
+29	Missouri	METALAXYL	2009	kg		1031.4	32.8	23.1						
+29	Missouri	METALAXYL	2010	kg		5057.4	19.2	63						
+29	Missouri	METALAXYL	2011	kg		2763.6	53.6	140						
+29	Missouri	METALAXYL	2012	kg		5526.9	49.9	96						
+29	Missouri	METALAXYL	2013	kg		4123	56.9	89.9						
+29	Missouri	METALAXYL	2014	kg		5199.6	70.7	253.1						
+30	Montana	METALAXYL	1992	kg					27.6					
+30	Montana	METALAXYL	1993	kg					59.7					
+30	Montana	METALAXYL	1994	kg			125.5		122					1202
+30	Montana	METALAXYL	1995	kg					125.2					18.5
+30	Montana	METALAXYL	1996	kg					484.3					
+30	Montana	METALAXYL	1997	kg					1147					
+30	Montana	METALAXYL	1998	kg					352.6					
+30	Montana	METALAXYL	1999	kg					80					
+30	Montana	METALAXYL	2008	kg		0								
+30	Montana	METALAXYL	2009	kg		0	952.4							
+30	Montana	METALAXYL	2010	kg		0	917.9							
+30	Montana	METALAXYL	2011	kg		0	858.1		50.9					
+30	Montana	METALAXYL	2012	kg		0	930							0.2
+30	Montana	METALAXYL	2013	kg		7.9	1255.7							0.4
+30	Montana	METALAXYL	2014	kg		2.7	1688.4							0.6
+31	Nebraska	METALAXYL	1992	kg		57.3			851.1					
+31	Nebraska	METALAXYL	1993	kg		1559.6			212.9					
+31	Nebraska	METALAXYL	1994	kg		5208.6			1785.8					
+31	Nebraska	METALAXYL	1995	kg		1899			1347.5					186.5
+31	Nebraska	METALAXYL	1996	kg		1314.7			2711.5					
+31	Nebraska	METALAXYL	1997	kg		1395.9			1969.9					
+31	Nebraska	METALAXYL	1998	kg					256.6					
+31	Nebraska	METALAXYL	2000	kg					4293.2					
+31	Nebraska	METALAXYL	2006	kg		99.7								
+31	Nebraska	METALAXYL	2007	kg		435.6								
+31	Nebraska	METALAXYL	2008	kg		632.4								
+31	Nebraska	METALAXYL	2009	kg		1073.8	254							
+31	Nebraska	METALAXYL	2010	kg		4701.9	84.4							
+31	Nebraska	METALAXYL	2011	kg		3482.3	183		1586.6					
+31	Nebraska	METALAXYL	2012	kg		3878.9	144.2							0.4
+31	Nebraska	METALAXYL	2013	kg		2929.8	97							0.3
+31	Nebraska	METALAXYL	2014	kg		5945.9	260.3							0.7
+32	Nevada	METALAXYL	1992	kg					277.8		0	43.1		
+32	Nevada	METALAXYL	1993	kg					117.6					
+32	Nevada	METALAXYL	1994	kg					75.5		0			
+32	Nevada	METALAXYL	1995	kg					432.2		0			
+32	Nevada	METALAXYL	1996	kg					420.6		0			
+32	Nevada	METALAXYL	1997	kg					166.9		0			
+32	Nevada	METALAXYL	1998	kg					202.1		0			
+32	Nevada	METALAXYL	1999	kg					396.3					
+32	Nevada	METALAXYL	2009	kg			1.1							
+32	Nevada	METALAXYL	2010	kg			1.3							
+32	Nevada	METALAXYL	2011	kg			0.7							
+32	Nevada	METALAXYL	2012	kg			0.1		12.7					
+32	Nevada	METALAXYL	2013	kg			3.8							
+32	Nevada	METALAXYL	2014	kg			6.1		12.8					
+32	Nevada	METALAXYL	2015	kg					21.7					
+33	New Hampshire	METALAXYL	1992	kg					22.6					
+33	New Hampshire	METALAXYL	1993	kg					134.6					
+33	New Hampshire	METALAXYL	1994	kg					26.3					
+33	New Hampshire	METALAXYL	1995	kg					38.3					
+33	New Hampshire	METALAXYL	1996	kg					29					
+33	New Hampshire	METALAXYL	1997	kg					19.3					
+33	New Hampshire	METALAXYL	1998	kg					80.4					
+33	New Hampshire	METALAXYL	1999	kg					5.9					
+33	New Hampshire	METALAXYL	2000	kg					34.9					
+34	New Jersey	METALAXYL	1992	kg	20002.5				2932.8					
+34	New Jersey	METALAXYL	1993	kg					4782.2					
+34	New Jersey	METALAXYL	1994	kg					750.1					
+34	New Jersey	METALAXYL	1995	kg					3421.8					
+34	New Jersey	METALAXYL	1996	kg					5739.4					
+34	New Jersey	METALAXYL	1997	kg					237.5					
+34	New Jersey	METALAXYL	1998	kg					582.8					
+34	New Jersey	METALAXYL	1999	kg					2741					
+34	New Jersey	METALAXYL	2000	kg					552.2					
+34	New Jersey	METALAXYL	2010	kg		26.2								
+34	New Jersey	METALAXYL	2011	kg		138.4								
+34	New Jersey	METALAXYL	2012	kg		138.5								
+34	New Jersey	METALAXYL	2013	kg		26.3								
+34	New Jersey	METALAXYL	2014	kg		88								
+35	New Mexico	METALAXYL	1992	kg					558.3					227
+35	New Mexico	METALAXYL	1993	kg					416.1					417.9
+35	New Mexico	METALAXYL	1994	kg				0.5	407.8					3509.6
+35	New Mexico	METALAXYL	1995	kg					1320.4					197.8
+35	New Mexico	METALAXYL	1996	kg					1516.8					54.2
+35	New Mexico	METALAXYL	1997	kg					913.6					713.8
+35	New Mexico	METALAXYL	1998	kg					187.9					
+35	New Mexico	METALAXYL	1999	kg					358					
+35	New Mexico	METALAXYL	2000	kg					112.7					
+35	New Mexico	METALAXYL	2007	kg				0.2						
+35	New Mexico	METALAXYL	2008	kg				0.1						
+35	New Mexico	METALAXYL	2009	kg			4.3	0						
+35	New Mexico	METALAXYL	2010	kg			15.5	2						
+35	New Mexico	METALAXYL	2011	kg			8.8	16.2	137.4					
+35	New Mexico	METALAXYL	2012	kg			6.7	8.4						
+35	New Mexico	METALAXYL	2013	kg			9.7	8.6						
+35	New Mexico	METALAXYL	2014	kg		1	47.2	11						
+36	New York	METALAXYL	1992	kg	230475.1				4497.6				37.3	
+36	New York	METALAXYL	1993	kg					4302.3			5		
+36	New York	METALAXYL	1994	kg					2583			299.9		
+36	New York	METALAXYL	1995	kg					6030.2		226.7			
+36	New York	METALAXYL	1996	kg					13674.5		51.1			
+36	New York	METALAXYL	1997	kg					1360.9					
+36	New York	METALAXYL	1998	kg					1870.6		23.8			
+36	New York	METALAXYL	1999	kg					871.3		1260.3			
+36	New York	METALAXYL	2000	kg					705.9					
+36	New York	METALAXYL	2010	kg		171.1								
+36	New York	METALAXYL	2011	kg		30.7								
+36	New York	METALAXYL	2012	kg		703.8								
+36	New York	METALAXYL	2013	kg		204.8								
+36	New York	METALAXYL	2014	kg		454.7								
+37	North Carolina	METALAXYL	1992	kg		24.9		3649.3	1668.5					30411.8
+37	North Carolina	METALAXYL	1993	kg				1716.2	1877.6			12.7		30691.1
+37	North Carolina	METALAXYL	1994	kg	315.3		103.1	621.4	1841.1		64.5			36920
+37	North Carolina	METALAXYL	1995	kg				1990.5	1596.9					34898.2
+37	North Carolina	METALAXYL	1996	kg	6257.2			7903	3554.9		17.6		14.9	19415.8
+37	North Carolina	METALAXYL	1997	kg				4395.7	605.1				483	18036.5
+37	North Carolina	METALAXYL	1998	kg				708.8	5233					10269.2
+37	North Carolina	METALAXYL	1999	kg				938.9	812.9					7949.5
+37	North Carolina	METALAXYL	2000	kg				2201.4						12860.4
+37	North Carolina	METALAXYL	2006	kg		5.5		34.9						
+37	North Carolina	METALAXYL	2007	kg				23.5						
+37	North Carolina	METALAXYL	2008	kg				14.2						
+37	North Carolina	METALAXYL	2009	kg		0.2		32.3						2.3
+37	North Carolina	METALAXYL	2010	kg		235.8	71.3	26.1						312.2
+37	North Carolina	METALAXYL	2011	kg		230.6	16.4	127.5						
+37	North Carolina	METALAXYL	2012	kg		627.3	105.1	57.7						5.3
+37	North Carolina	METALAXYL	2013	kg		1143.9	40.8	86.9						
+37	North Carolina	METALAXYL	2014	kg		365.5	170.3	284.5						
+38	North Dakota	METALAXYL	1992	kg										18.9
+38	North Dakota	METALAXYL	1993	kg			2867.3		2371.7					
+38	North Dakota	METALAXYL	1994	kg					32221.2					534.4
+38	North Dakota	METALAXYL	1995	kg					6056					8.4
+38	North Dakota	METALAXYL	1996	kg			2703		6712.2					210.5
+38	North Dakota	METALAXYL	1997	kg					6458.5					451.3
+38	North Dakota	METALAXYL	1998	kg					3668.7					
+38	North Dakota	METALAXYL	1999	kg					10414.1					
+38	North Dakota	METALAXYL	2006	kg		289.4								
+38	North Dakota	METALAXYL	2007	kg		353.8								
+38	North Dakota	METALAXYL	2008	kg		2486								
+38	North Dakota	METALAXYL	2009	kg		272.7	1546.5							
+38	North Dakota	METALAXYL	2010	kg		1794.1	1501.9							
+38	North Dakota	METALAXYL	2011	kg		6236	1244.4		2247.1					
+38	North Dakota	METALAXYL	2012	kg		3477.2	1391.3							2.3
+38	North Dakota	METALAXYL	2013	kg		6331.5	3567.4							4.1
+38	North Dakota	METALAXYL	2014	kg		2985.1	4274.1							5.6
+39	Ohio	METALAXYL	1992	kg	325.6	4173.9			4464					1166.6
+39	Ohio	METALAXYL	1993	kg	1111.5	5874.2			921.1		6			2222
+39	Ohio	METALAXYL	1994	kg		4274.5			457				27.3	421.3
+39	Ohio	METALAXYL	1995	kg		4151			2202			53.6		1135.4
+39	Ohio	METALAXYL	1996	kg		14091.5			2829.9		196.7			277.7
+39	Ohio	METALAXYL	1997	kg		4564.3			1041.7					959.4
+39	Ohio	METALAXYL	1998	kg					845		1.5			224.6
+39	Ohio	METALAXYL	1999	kg					257					652.1
+39	Ohio	METALAXYL	2006	kg		750.1								
+39	Ohio	METALAXYL	2007	kg		1988.4								
+39	Ohio	METALAXYL	2008	kg		942.5								
+39	Ohio	METALAXYL	2009	kg		660.7	78.4							
+39	Ohio	METALAXYL	2010	kg		4245.3	175.5							
+39	Ohio	METALAXYL	2011	kg		2994.7	38.7		107.1					
+39	Ohio	METALAXYL	2012	kg		4980	41.8							
+39	Ohio	METALAXYL	2013	kg		5548.5	64.3		20.5					
+39	Ohio	METALAXYL	2014	kg		4016.7	48.4							
+40	Oklahoma	METALAXYL	1992	kg			28.3		36.3					229.2
+40	Oklahoma	METALAXYL	1993	kg					474.6					84.4
+40	Oklahoma	METALAXYL	1994	kg				76.2	1129.5					491.4
+40	Oklahoma	METALAXYL	1995	kg				3.9	310.2					2242.1
+40	Oklahoma	METALAXYL	1996	kg	8824.1			59.5	999.3				35014.1	277.6
+40	Oklahoma	METALAXYL	1997	kg				19.1	90.5					607.6
+40	Oklahoma	METALAXYL	1998	kg				8.3	871.3					
+40	Oklahoma	METALAXYL	1999	kg					78.1					
+40	Oklahoma	METALAXYL	2000	kg										7.6
+40	Oklahoma	METALAXYL	2007	kg				0.1						
+40	Oklahoma	METALAXYL	2008	kg		26.8		0						
+40	Oklahoma	METALAXYL	2009	kg		7.2	428.6							
+40	Oklahoma	METALAXYL	2010	kg		428.8	508.4	26.3						
+40	Oklahoma	METALAXYL	2011	kg		138.5	172.8	202.9	17.6					
+40	Oklahoma	METALAXYL	2012	kg		1101.2	740.5	48.7						0.4
+40	Oklahoma	METALAXYL	2013	kg		693.1	763.4	60.9						1.3
+40	Oklahoma	METALAXYL	2014	kg		58.4	850.4	108.2						
+41	Oregon	METALAXYL	1992	kg					3183.3					
+41	Oregon	METALAXYL	1993	kg					2931.2					62.1
+41	Oregon	METALAXYL	1994	kg					2111.9		64.2			
+41	Oregon	METALAXYL	1995	kg					12768.2				82.3	26.4
+41	Oregon	METALAXYL	1996	kg					8378.5		969.8			475.8
+41	Oregon	METALAXYL	1997	kg					3444.6		19.2			
+41	Oregon	METALAXYL	1998	kg					3280.4		288.2			
+41	Oregon	METALAXYL	1999	kg					5092.1					
+41	Oregon	METALAXYL	2000	kg					1444.6					
+41	Oregon	METALAXYL	2009	kg			208.8							
+41	Oregon	METALAXYL	2010	kg			100.6							
+41	Oregon	METALAXYL	2011	kg			48.5		5016.5					
+41	Oregon	METALAXYL	2012	kg			94							0.3
+41	Oregon	METALAXYL	2013	kg			198.9							0.1
+41	Oregon	METALAXYL	2014	kg			52.7							0.1
+42	Pennsylvania	METALAXYL	1992	kg	45525.8	4895.8			1921.4					1380.8
+42	Pennsylvania	METALAXYL	1993	kg	915				2441.6					985.3
+42	Pennsylvania	METALAXYL	1994	kg		1807.6			2890.9			589.2		1979.9
+42	Pennsylvania	METALAXYL	1995	kg		623.1			2255.5					1261.6
+42	Pennsylvania	METALAXYL	1996	kg					2385		2.8			3725.2
+42	Pennsylvania	METALAXYL	1997	kg					1812.3					
+42	Pennsylvania	METALAXYL	1998	kg					2267.8		14.5			402.9
+42	Pennsylvania	METALAXYL	1999	kg					555.8					
+42	Pennsylvania	METALAXYL	2000	kg					444.1					
+42	Pennsylvania	METALAXYL	2009	kg		6.2								
+42	Pennsylvania	METALAXYL	2010	kg		378.3								
+42	Pennsylvania	METALAXYL	2011	kg		832								
+42	Pennsylvania	METALAXYL	2012	kg		517.8								
+42	Pennsylvania	METALAXYL	2013	kg		647.2								
+42	Pennsylvania	METALAXYL	2014	kg		1048.3								
+44	Rhode Island	METALAXYL	1992	kg					52.6					
+44	Rhode Island	METALAXYL	1993	kg					76.9					
+44	Rhode Island	METALAXYL	1994	kg					42.7					
+44	Rhode Island	METALAXYL	1995	kg					120.6					
+44	Rhode Island	METALAXYL	1996	kg					117.2					
+44	Rhode Island	METALAXYL	1997	kg					41.4					
+44	Rhode Island	METALAXYL	1998	kg					68.9					
+44	Rhode Island	METALAXYL	1999	kg					20.9					
+44	Rhode Island	METALAXYL	2000	kg					21.5					
+45	South Carolina	METALAXYL	1992	kg				1943.7	430.6					11927.7
+45	South Carolina	METALAXYL	1993	kg				1580.4	876.1					8917.9
+45	South Carolina	METALAXYL	1994	kg	51.2			1106	898.5		0.3			4413.4
+45	South Carolina	METALAXYL	1995	kg				3219.6	444.5					14041.4
+45	South Carolina	METALAXYL	1996	kg				7023.2	1487.4					18004.9
+45	South Carolina	METALAXYL	1997	kg				17761.8	314.9					5117.5
+45	South Carolina	METALAXYL	1998	kg				488.3	402.6					899.5
+45	South Carolina	METALAXYL	1999	kg				184.2	154.1					538.3
+45	South Carolina	METALAXYL	2000	kg				590.4	9.6					9045
+45	South Carolina	METALAXYL	2006	kg				10.1						
+45	South Carolina	METALAXYL	2007	kg				10.8						
+45	South Carolina	METALAXYL	2008	kg				21.5						
+45	South Carolina	METALAXYL	2009	kg		51.8		8.3	63.1					0.6
+45	South Carolina	METALAXYL	2010	kg		40.4	6.1	2						5.3
+45	South Carolina	METALAXYL	2011	kg		74.3	2.7	115.5						
+45	South Carolina	METALAXYL	2012	kg		157.3	30.5	63.8						2.1
+45	South Carolina	METALAXYL	2013	kg		477.4	37.2	36.9						0
+45	South Carolina	METALAXYL	2014	kg		201.1	103.5	139.3						
+46	South Dakota	METALAXYL	1992	kg		263.3			1					
+46	South Dakota	METALAXYL	1993	kg		968.5	5753		128.1					
+46	South Dakota	METALAXYL	1994	kg		3114.2			915.8					
+46	South Dakota	METALAXYL	1995	kg		1465.8			250.7					
+46	South Dakota	METALAXYL	1996	kg		1218.9			86					
+46	South Dakota	METALAXYL	1997	kg		1255.7			76.5					
+46	South Dakota	METALAXYL	1998	kg					6.6					
+46	South Dakota	METALAXYL	2006	kg		828								
+46	South Dakota	METALAXYL	2007	kg		293.5								
+46	South Dakota	METALAXYL	2008	kg		1395.7								
+46	South Dakota	METALAXYL	2009	kg		986	412.4							
+46	South Dakota	METALAXYL	2010	kg		2396	364.1							
+46	South Dakota	METALAXYL	2011	kg		1448	526.5		15.6					
+46	South Dakota	METALAXYL	2012	kg		3837.9	279.6							
+46	South Dakota	METALAXYL	2013	kg		7576.6	545							
+46	South Dakota	METALAXYL	2014	kg		3372.2	1390.4							
+47	Tennessee	METALAXYL	1992	kg	709.5	729.6		11730.3	2171.1		61.7			13441.7
+47	Tennessee	METALAXYL	1993	kg				13026.1	514.4		17.7	39.7		14186.2
+47	Tennessee	METALAXYL	1994	kg			882.4	10851.6	305.4					11775.9
+47	Tennessee	METALAXYL	1995	kg				28962.4	618.3		1			12725.2
+47	Tennessee	METALAXYL	1996	kg				3540	2487.8		12.6		54.5	6318.2
+47	Tennessee	METALAXYL	1997	kg		2436.1		23404.8	230.8					9077.8
+47	Tennessee	METALAXYL	1998	kg				488.9	44.2					7683.5
+47	Tennessee	METALAXYL	1999	kg				1558.9	686.6					2734.7
+47	Tennessee	METALAXYL	2000	kg				1056.8						743.4
+47	Tennessee	METALAXYL	2006	kg				35.4						
+47	Tennessee	METALAXYL	2007	kg		253.8		10.9						
+47	Tennessee	METALAXYL	2008	kg				11.3						
+47	Tennessee	METALAXYL	2009	kg		398.9		38.7						
+47	Tennessee	METALAXYL	2010	kg		2120.2	40.6	13.4						119.9
+47	Tennessee	METALAXYL	2011	kg		528.2	5.4	67.8						
+47	Tennessee	METALAXYL	2012	kg		178.3	19.6	64.9						
+47	Tennessee	METALAXYL	2013	kg		875.8	166.9	120.9						
+47	Tennessee	METALAXYL	2014	kg		369	373	223.1						
+48	Texas	METALAXYL	1992	kg			58.3	7654.1	1610.3		17.2			529.7
+48	Texas	METALAXYL	1993	kg				10235.4	1054.4		704.7			1049.6
+48	Texas	METALAXYL	1994	kg				3318.9	6079.6					1020.2
+48	Texas	METALAXYL	1995	kg				29445.5	7147.1		1448.5			345.3
+48	Texas	METALAXYL	1996	kg				1857.4	9464.1				66547.9	792.6
+48	Texas	METALAXYL	1997	kg				565.3	15662.1					4419.6
+48	Texas	METALAXYL	1998	kg				145.1	4091.3					
+48	Texas	METALAXYL	1999	kg					4981.8					
+48	Texas	METALAXYL	2000	kg					3335.7					1.4
+48	Texas	METALAXYL	2007	kg				97.4						
+48	Texas	METALAXYL	2008	kg		16.5		2.9						
+48	Texas	METALAXYL	2009	kg		4.4	369.9	7.7						20
+48	Texas	METALAXYL	2010	kg		467.2	207.9	337.6						
+48	Texas	METALAXYL	2011	kg		16.5	551	1725.8	420					
+48	Texas	METALAXYL	2012	kg		237.4	583.8	1099.4						0.6
+48	Texas	METALAXYL	2013	kg		73.7	813	1414.3						1.4
+48	Texas	METALAXYL	2014	kg		184.1	159.9	2413.8						
+49	Utah	METALAXYL	1992	kg					237.4					
+49	Utah	METALAXYL	1993	kg					77.3					
+49	Utah	METALAXYL	1994	kg			33.8		194.1					
+49	Utah	METALAXYL	1995	kg					293.9					
+49	Utah	METALAXYL	1996	kg					213					
+49	Utah	METALAXYL	1997	kg					406.2					
+49	Utah	METALAXYL	1998	kg					140.5					
+49	Utah	METALAXYL	1999	kg					137.3					
+49	Utah	METALAXYL	2009	kg			9.8							
+49	Utah	METALAXYL	2010	kg			6.4							
+49	Utah	METALAXYL	2011	kg			11							
+49	Utah	METALAXYL	2012	kg			7.8		10.5					
+49	Utah	METALAXYL	2013	kg			16.3							
+49	Utah	METALAXYL	2014	kg			29.7		7.4					
+49	Utah	METALAXYL	2015	kg					9.6					
+50	Vermont	METALAXYL	1992	kg					27.4					
+50	Vermont	METALAXYL	1993	kg					100.6					
+50	Vermont	METALAXYL	1994	kg					21.6			63.7		
+50	Vermont	METALAXYL	1995	kg					56.9					
+50	Vermont	METALAXYL	1996	kg					44.3					
+50	Vermont	METALAXYL	1997	kg					57.9					
+50	Vermont	METALAXYL	1998	kg					54.7					
+50	Vermont	METALAXYL	1999	kg					6.2		214.9			
+50	Vermont	METALAXYL	2000	kg					24.5					
+50	Vermont	METALAXYL	2013	kg		6.6								
+50	Vermont	METALAXYL	2014	kg		19.4								
+51	Virginia	METALAXYL	1992	kg				83.8	1265.7		69.7			4300.9
+51	Virginia	METALAXYL	1993	kg				12.1	542.5			53.3		3292.8
+51	Virginia	METALAXYL	1994	kg			8.9	363.7	1116.5			103.2	12.5	7465
+51	Virginia	METALAXYL	1995	kg				2594.6	1658		192.4			5111.8
+51	Virginia	METALAXYL	1996	kg	970.8			259.5	1535.4		13.4		174.5	1595.1
+51	Virginia	METALAXYL	1997	kg				78.9	948					2840.7
+51	Virginia	METALAXYL	1998	kg				73.3	983.1					528.2
+51	Virginia	METALAXYL	1999	kg				121.6	484.9					1403.1
+51	Virginia	METALAXYL	2000	kg				236	174.4					
+51	Virginia	METALAXYL	2006	kg				4.1						
+51	Virginia	METALAXYL	2007	kg				2						
+51	Virginia	METALAXYL	2008	kg				0.9						
+51	Virginia	METALAXYL	2009	kg		0.5		5						0.4
+51	Virginia	METALAXYL	2010	kg		155.1	25	4.2						41.3
+51	Virginia	METALAXYL	2011	kg		558.1	2.4	66.6						
+51	Virginia	METALAXYL	2012	kg		126.6	90.8	7.9						1
+51	Virginia	METALAXYL	2013	kg		132.8	27.8	17.8						
+51	Virginia	METALAXYL	2014	kg		332	237.1	53.1						
+53	Washington	METALAXYL	1992	kg					1803.5					
+53	Washington	METALAXYL	1993	kg					3417.6					274.5
+53	Washington	METALAXYL	1994	kg					4858		74.3			
+53	Washington	METALAXYL	1995	kg					11765				57.4	
+53	Washington	METALAXYL	1996	kg					9911.7		24599.2			67.5
+53	Washington	METALAXYL	1997	kg					6026.5		2272.7			
+53	Washington	METALAXYL	1998	kg					8081.1		2612.9			
+53	Washington	METALAXYL	1999	kg					4789.3		2391.6			
+53	Washington	METALAXYL	2000	kg					7.8					
+53	Washington	METALAXYL	2009	kg			135.4							
+53	Washington	METALAXYL	2010	kg			81.7							
+53	Washington	METALAXYL	2011	kg			117.4		5624					
+53	Washington	METALAXYL	2012	kg			241.7							
+53	Washington	METALAXYL	2013	kg			104.2							
+53	Washington	METALAXYL	2014	kg			50.8							
+54	West Virginia	METALAXYL	1992	kg		28.3			140.8		48.9			59.7
+54	West Virginia	METALAXYL	1993	kg					151.6					157.1
+54	West Virginia	METALAXYL	1994	kg		2.4			87.1			65.3	33.6	261.8
+54	West Virginia	METALAXYL	1995	kg					191.6		6			592.6
+54	West Virginia	METALAXYL	1996	kg					108.2		3.3		97.8	205.3
+54	West Virginia	METALAXYL	1997	kg					93.2					181.8
+54	West Virginia	METALAXYL	1998	kg					9.3					56.3
+54	West Virginia	METALAXYL	1999	kg					11.1					48.1
+54	West Virginia	METALAXYL	2000	kg					3.3					
+54	West Virginia	METALAXYL	2009	kg		2.3								
+54	West Virginia	METALAXYL	2010	kg		11.4	0.1							
+54	West Virginia	METALAXYL	2011	kg		24.1								
+54	West Virginia	METALAXYL	2012	kg		16.8	0.9							
+54	West Virginia	METALAXYL	2013	kg		24.9	2.7							
+54	West Virginia	METALAXYL	2014	kg		8.2	2.7							
+55	Wisconsin	METALAXYL	1992	kg		167.4			2948					
+55	Wisconsin	METALAXYL	1993	kg		451			2761.5					1568.6
+55	Wisconsin	METALAXYL	1994	kg		521.6			4502.8					80.8
+55	Wisconsin	METALAXYL	1995	kg		745.9			5524.5					
+55	Wisconsin	METALAXYL	1996	kg					1797.9					
+55	Wisconsin	METALAXYL	1997	kg					3290.4					
+55	Wisconsin	METALAXYL	1998	kg					3775.3					
+55	Wisconsin	METALAXYL	1999	kg					2411.8					
+55	Wisconsin	METALAXYL	2000	kg					620.9					
+55	Wisconsin	METALAXYL	2008	kg		258.8								
+55	Wisconsin	METALAXYL	2009	kg		100.9								
+55	Wisconsin	METALAXYL	2010	kg		924.4	56.7							
+55	Wisconsin	METALAXYL	2011	kg		664.3	5.1		6223.3					
+55	Wisconsin	METALAXYL	2012	kg		1000.2	23.2		315.6					
+55	Wisconsin	METALAXYL	2013	kg		1333.6	46.2		824.9					
+55	Wisconsin	METALAXYL	2014	kg		796.4	83.8		1538.1					
+55	Wisconsin	METALAXYL	2016	kg					1343					
+55	Wisconsin	METALAXYL	2017	kg					1326.5					
+56	Wyoming	METALAXYL	1992	kg					74.9					
+56	Wyoming	METALAXYL	1993	kg					35.5					
+56	Wyoming	METALAXYL	1994	kg			0.2		288.6					
+56	Wyoming	METALAXYL	1995	kg					91.8					38.6
+56	Wyoming	METALAXYL	1996	kg					258.9					
+56	Wyoming	METALAXYL	1997	kg					100.6					
+56	Wyoming	METALAXYL	1998	kg					40.1					
+56	Wyoming	METALAXYL	1999	kg					0					
+56	Wyoming	METALAXYL	2009	kg			28.6							
+56	Wyoming	METALAXYL	2010	kg			22.2							
+56	Wyoming	METALAXYL	2011	kg			29.5		38.9					
+56	Wyoming	METALAXYL	2012	kg			21.5							0
+56	Wyoming	METALAXYL	2013	kg			23.9							0.3
+56	Wyoming	METALAXYL	2014	kg			70.7							0.4

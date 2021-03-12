@@ -1,0 +1,49 @@
+04	Arizona	OXATHIAPIPROLIN	2016	kg					27.6					
+04	Arizona	OXATHIAPIPROLIN	2017	kg					32					
+09	Connecticut	OXATHIAPIPROLIN	2017	kg					0.2					
+10	Delaware	OXATHIAPIPROLIN	2017	kg					0.3					
+12	Florida	OXATHIAPIPROLIN	2016	kg					239.1					1
+12	Florida	OXATHIAPIPROLIN	2017	kg					116.2					4.4
+13	Georgia	OXATHIAPIPROLIN	2016	kg										180.2
+13	Georgia	OXATHIAPIPROLIN	2017	kg					1.6					401.4
+17	Illinois	OXATHIAPIPROLIN	2016	kg					5.3					
+17	Illinois	OXATHIAPIPROLIN	2017	kg										2.9
+18	Indiana	OXATHIAPIPROLIN	2016	kg					4.8					
+18	Indiana	OXATHIAPIPROLIN	2017	kg					3.4					1.4
+19	Iowa	OXATHIAPIPROLIN	2016	kg					0					
+21	Kentucky	OXATHIAPIPROLIN	2016	kg										34
+21	Kentucky	OXATHIAPIPROLIN	2017	kg										158.3
+23	Maine	OXATHIAPIPROLIN	2016	kg					66.9					
+24	Maryland	OXATHIAPIPROLIN	2016	kg										0
+24	Maryland	OXATHIAPIPROLIN	2017	kg					1.2					0.7
+25	Massachusetts	OXATHIAPIPROLIN	2017	kg					0.5					
+26	Michigan	OXATHIAPIPROLIN	2016	kg					268.3					
+26	Michigan	OXATHIAPIPROLIN	2017	kg					719					
+27	Minnesota	OXATHIAPIPROLIN	2017	kg					155.2					
+29	Missouri	OXATHIAPIPROLIN	2016	kg					2.3					
+29	Missouri	OXATHIAPIPROLIN	2017	kg										0.4
+32	Nevada	OXATHIAPIPROLIN	2017	kg					0					
+33	New Hampshire	OXATHIAPIPROLIN	2017	kg					0					
+34	New Jersey	OXATHIAPIPROLIN	2017	kg					3.4					
+35	New Mexico	OXATHIAPIPROLIN	2016	kg					0					
+35	New Mexico	OXATHIAPIPROLIN	2017	kg					0					
+36	New York	OXATHIAPIPROLIN	2017	kg					0.2					
+37	North Carolina	OXATHIAPIPROLIN	2016	kg					18					569.5
+37	North Carolina	OXATHIAPIPROLIN	2017	kg					30.7					293.8
+38	North Dakota	OXATHIAPIPROLIN	2017	kg					123.8					
+39	Ohio	OXATHIAPIPROLIN	2017	kg					3.7					0.8
+41	Oregon	OXATHIAPIPROLIN	2016	kg					70.5					
+42	Pennsylvania	OXATHIAPIPROLIN	2017	kg					8.4					83.5
+44	Rhode Island	OXATHIAPIPROLIN	2017	kg					0					
+45	South Carolina	OXATHIAPIPROLIN	2016	kg					1.2					19.4
+45	South Carolina	OXATHIAPIPROLIN	2017	kg					0.8					9.9
+47	Tennessee	OXATHIAPIPROLIN	2016	kg										7.4
+47	Tennessee	OXATHIAPIPROLIN	2017	kg					0					69.1
+50	Vermont	OXATHIAPIPROLIN	2017	kg					0					
+51	Virginia	OXATHIAPIPROLIN	2016	kg										20.7
+51	Virginia	OXATHIAPIPROLIN	2017	kg					0					101.4
+53	Washington	OXATHIAPIPROLIN	2016	kg					0.1					
+54	West Virginia	OXATHIAPIPROLIN	2016	kg										0
+54	West Virginia	OXATHIAPIPROLIN	2017	kg										0
+55	Wisconsin	OXATHIAPIPROLIN	2016	kg					56.2					
+55	Wisconsin	OXATHIAPIPROLIN	2017	kg					10.7					

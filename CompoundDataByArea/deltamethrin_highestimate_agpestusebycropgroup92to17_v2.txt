@@ -1,0 +1,394 @@
+01	Alabama	DELTAMETHRIN	1996	kg				495.6						
+01	Alabama	DELTAMETHRIN	1997	kg				1301.7						
+01	Alabama	DELTAMETHRIN	1998	kg				568.7						
+01	Alabama	DELTAMETHRIN	1999	kg				597.4						
+01	Alabama	DELTAMETHRIN	2000	kg				429.6						
+01	Alabama	DELTAMETHRIN	2001	kg				478.7						
+01	Alabama	DELTAMETHRIN	2002	kg				716.6						
+01	Alabama	DELTAMETHRIN	2003	kg				321.1						
+01	Alabama	DELTAMETHRIN	2004	kg				652.2						
+01	Alabama	DELTAMETHRIN	2005	kg				524.8						
+01	Alabama	DELTAMETHRIN	2016	kg		28.4		227.5						
+01	Alabama	DELTAMETHRIN	2017	kg				283						
+04	Arizona	DELTAMETHRIN	2000	kg				25.4						
+04	Arizona	DELTAMETHRIN	2009	kg					8.5					
+05	Arkansas	DELTAMETHRIN	1996	kg				145.6						
+05	Arkansas	DELTAMETHRIN	1997	kg				1338.5						
+05	Arkansas	DELTAMETHRIN	1998	kg				1826.7						
+05	Arkansas	DELTAMETHRIN	1999	kg				82.6						
+05	Arkansas	DELTAMETHRIN	2000	kg				131.6						
+05	Arkansas	DELTAMETHRIN	2001	kg				43						
+05	Arkansas	DELTAMETHRIN	2002	kg				463.8						
+05	Arkansas	DELTAMETHRIN	2003	kg				866.7						
+05	Arkansas	DELTAMETHRIN	2004	kg				1656.4						
+05	Arkansas	DELTAMETHRIN	2007	kg										119.3
+05	Arkansas	DELTAMETHRIN	2010	kg		35.5								
+05	Arkansas	DELTAMETHRIN	2011	kg		162.1		1838.1						
+05	Arkansas	DELTAMETHRIN	2012	kg		41.7								
+05	Arkansas	DELTAMETHRIN	2013	kg		14.8								
+05	Arkansas	DELTAMETHRIN	2014	kg		949.8				311.1				
+05	Arkansas	DELTAMETHRIN	2015	kg			306.4							
+06	California	DELTAMETHRIN	1999	kg				0.3						
+06	California	DELTAMETHRIN	2000	kg				20.2			19.4			
+06	California	DELTAMETHRIN	2001	kg				5.1			50.6			
+06	California	DELTAMETHRIN	2002	kg				7.1			46.4			
+06	California	DELTAMETHRIN	2003	kg				4.9			38.2			
+06	California	DELTAMETHRIN	2004	kg				8.8			39.4			
+06	California	DELTAMETHRIN	2005	kg				9.5			27.8			
+06	California	DELTAMETHRIN	2006	kg					0.3		19.1			
+06	California	DELTAMETHRIN	2007	kg	2			40.2	309.2		53.1			0
+06	California	DELTAMETHRIN	2008	kg	7.3				282.3		21.2			
+06	California	DELTAMETHRIN	2009	kg	11.2				206.2		11.2			
+06	California	DELTAMETHRIN	2010	kg	12.7				157.8		97.2			
+06	California	DELTAMETHRIN	2011	kg	9.2				6.8		9.4			
+06	California	DELTAMETHRIN	2012	kg	2.8				12.2		16.6			
+06	California	DELTAMETHRIN	2013	kg					2.1		3.3			
+06	California	DELTAMETHRIN	2014	kg					4.4		2.7			
+06	California	DELTAMETHRIN	2015	kg					2.8	5.8	0			
+06	California	DELTAMETHRIN	2016	kg	7.5				7	11.5	0.7			
+06	California	DELTAMETHRIN	2017	kg	0.3		0.6		5.7	7	0.2			
+08	Colorado	DELTAMETHRIN	2008	kg										3.2
+08	Colorado	DELTAMETHRIN	2014	kg										9.1
+12	Florida	DELTAMETHRIN	1996	kg				74.2						
+12	Florida	DELTAMETHRIN	1997	kg				151.8						
+12	Florida	DELTAMETHRIN	1998	kg				31.9						
+12	Florida	DELTAMETHRIN	1999	kg				48.7						
+12	Florida	DELTAMETHRIN	2000	kg				65.3						
+12	Florida	DELTAMETHRIN	2001	kg				37.5						
+12	Florida	DELTAMETHRIN	2002	kg				152.1						
+12	Florida	DELTAMETHRIN	2003	kg				72.8						
+12	Florida	DELTAMETHRIN	2004	kg				13.4						
+12	Florida	DELTAMETHRIN	2005	kg				12.9						
+12	Florida	DELTAMETHRIN	2006	kg				27						
+12	Florida	DELTAMETHRIN	2013	kg					23.1					
+12	Florida	DELTAMETHRIN	2014	kg					1.5					
+12	Florida	DELTAMETHRIN	2015	kg		0		41.5						
+12	Florida	DELTAMETHRIN	2016	kg		0.5		15.8						
+13	Georgia	DELTAMETHRIN	1996	kg				1104						
+13	Georgia	DELTAMETHRIN	1997	kg				10146.1						5
+13	Georgia	DELTAMETHRIN	1998	kg				3838.7						
+13	Georgia	DELTAMETHRIN	1999	kg				2083.3						
+13	Georgia	DELTAMETHRIN	2000	kg				832.1						
+13	Georgia	DELTAMETHRIN	2001	kg				1807.6						
+13	Georgia	DELTAMETHRIN	2002	kg				3979						
+13	Georgia	DELTAMETHRIN	2003	kg				1156.5						
+13	Georgia	DELTAMETHRIN	2004	kg		22.9		1046						
+13	Georgia	DELTAMETHRIN	2005	kg				332.2						
+13	Georgia	DELTAMETHRIN	2006	kg				316.1						
+13	Georgia	DELTAMETHRIN	2008	kg					82.5					
+13	Georgia	DELTAMETHRIN	2009	kg					117.3					
+13	Georgia	DELTAMETHRIN	2010	kg					142.7					
+13	Georgia	DELTAMETHRIN	2013	kg					133.5					
+13	Georgia	DELTAMETHRIN	2014	kg	121.6	217.7			9.4					
+13	Georgia	DELTAMETHRIN	2015	kg		0.8		471.1						
+13	Georgia	DELTAMETHRIN	2016	kg		17.8		632.5						
+16	Idaho	DELTAMETHRIN	2006	kg					4					
+16	Idaho	DELTAMETHRIN	2007	kg					4.7					
+16	Idaho	DELTAMETHRIN	2009	kg					18.4					
+16	Idaho	DELTAMETHRIN	2010	kg					58.6					
+16	Idaho	DELTAMETHRIN	2011	kg					48.9					
+16	Idaho	DELTAMETHRIN	2012	kg					5.8					
+16	Idaho	DELTAMETHRIN	2013	kg					102.9					
+17	Illinois	DELTAMETHRIN	2006	kg		36.3								
+17	Illinois	DELTAMETHRIN	2007	kg		170.4			27.5					
+17	Illinois	DELTAMETHRIN	2008	kg	4957	441								
+17	Illinois	DELTAMETHRIN	2010	kg		411			69.9					
+17	Illinois	DELTAMETHRIN	2011	kg	529.9	618.4	673.4		1.5					
+17	Illinois	DELTAMETHRIN	2013	kg	4348.1	1256.4			4.5					
+17	Illinois	DELTAMETHRIN	2014	kg	1030.7		1086		31.5					
+17	Illinois	DELTAMETHRIN	2015	kg	2839.9	2665			42.9					
+17	Illinois	DELTAMETHRIN	2016	kg		1354.5			108.6					
+17	Illinois	DELTAMETHRIN	2017	kg	1875.7	3022.5			88.6					
+18	Indiana	DELTAMETHRIN	2005	kg							0.4			
+18	Indiana	DELTAMETHRIN	2007	kg	87.3	58.4								
+18	Indiana	DELTAMETHRIN	2008	kg	4007.1	537.5								
+18	Indiana	DELTAMETHRIN	2009	kg	643				10.6					
+18	Indiana	DELTAMETHRIN	2010	kg	393.5				20					
+18	Indiana	DELTAMETHRIN	2011	kg	917.4	713.8	143.3							
+18	Indiana	DELTAMETHRIN	2013	kg	2320.6	812.1			1					
+18	Indiana	DELTAMETHRIN	2014	kg		287.6	750.1		4.7					
+18	Indiana	DELTAMETHRIN	2015	kg	1056.5	1177.7			1.7					
+18	Indiana	DELTAMETHRIN	2016	kg	764	920.5	55.2		76.8					
+18	Indiana	DELTAMETHRIN	2017	kg	470.9	1167.4	301.8		2					
+19	Iowa	DELTAMETHRIN	2006	kg		160								
+19	Iowa	DELTAMETHRIN	2007	kg		848.8			1.7					
+19	Iowa	DELTAMETHRIN	2008	kg	3582	723.2								
+19	Iowa	DELTAMETHRIN	2010	kg	211.5	74.2			4.7					
+19	Iowa	DELTAMETHRIN	2011	kg	589.4	1003.7								
+19	Iowa	DELTAMETHRIN	2013	kg	5888	1002.8			0.8					
+19	Iowa	DELTAMETHRIN	2014	kg	1056.4				0.2					
+19	Iowa	DELTAMETHRIN	2015	kg	2170.2	2213.2			3.7					
+19	Iowa	DELTAMETHRIN	2016	kg		892.1			5.2					
+19	Iowa	DELTAMETHRIN	2017	kg	934.6	2360.4			3.6					
+20	Kansas	DELTAMETHRIN	2008	kg										15.8
+20	Kansas	DELTAMETHRIN	2011	kg										170
+20	Kansas	DELTAMETHRIN	2013	kg										65.9
+20	Kansas	DELTAMETHRIN	2014	kg										35.3
+20	Kansas	DELTAMETHRIN	2016	kg		525.8								262.9
+20	Kansas	DELTAMETHRIN	2017	kg		1255.6								133.7
+21	Kentucky	DELTAMETHRIN	2007	kg	33.5	1.3								
+21	Kentucky	DELTAMETHRIN	2008	kg	924.3									
+21	Kentucky	DELTAMETHRIN	2009	kg	190.9									
+21	Kentucky	DELTAMETHRIN	2010	kg					0.9					
+21	Kentucky	DELTAMETHRIN	2011	kg	80.8									
+21	Kentucky	DELTAMETHRIN	2013	kg	535.9	143.9			0.1					
+21	Kentucky	DELTAMETHRIN	2014	kg			1215.5		0.3					
+21	Kentucky	DELTAMETHRIN	2015	kg	275.2	272.1	201.6		0.1					
+21	Kentucky	DELTAMETHRIN	2016	kg	22.5	123.5			1.7					
+21	Kentucky	DELTAMETHRIN	2017	kg	83	296.4								
+22	Louisiana	DELTAMETHRIN	1996	kg				580.7						
+22	Louisiana	DELTAMETHRIN	1997	kg				2223.6						
+22	Louisiana	DELTAMETHRIN	1998	kg				848.8						
+22	Louisiana	DELTAMETHRIN	1999	kg				1214.9						
+22	Louisiana	DELTAMETHRIN	2000	kg				81.3						
+22	Louisiana	DELTAMETHRIN	2001	kg				117.5						
+22	Louisiana	DELTAMETHRIN	2002	kg				518.1						
+22	Louisiana	DELTAMETHRIN	2004	kg				503.3						
+22	Louisiana	DELTAMETHRIN	2007	kg										888.3
+22	Louisiana	DELTAMETHRIN	2010	kg		59.3								
+22	Louisiana	DELTAMETHRIN	2011	kg		395.7		3563.4						
+22	Louisiana	DELTAMETHRIN	2012	kg		28.4								
+22	Louisiana	DELTAMETHRIN	2013	kg		27.4								
+22	Louisiana	DELTAMETHRIN	2014	kg		660.8								
+22	Louisiana	DELTAMETHRIN	2015	kg				0.4						0.3
+22	Louisiana	DELTAMETHRIN	2016	kg										0.5
+26	Michigan	DELTAMETHRIN	2005	kg							30.7			
+26	Michigan	DELTAMETHRIN	2006	kg							9.7			
+26	Michigan	DELTAMETHRIN	2007	kg							89.5			
+26	Michigan	DELTAMETHRIN	2011	kg		288.5								
+26	Michigan	DELTAMETHRIN	2013	kg		139.1			3.5					
+26	Michigan	DELTAMETHRIN	2014	kg					20					
+26	Michigan	DELTAMETHRIN	2015	kg		27.3								
+26	Michigan	DELTAMETHRIN	2017	kg		506.4								
+27	Minnesota	DELTAMETHRIN	2005	kg	1590.1	71.5								15.7
+27	Minnesota	DELTAMETHRIN	2006	kg		226.1								
+27	Minnesota	DELTAMETHRIN	2007	kg	33.7	125.6			96					16
+27	Minnesota	DELTAMETHRIN	2008	kg	1111.8	1096.3								84.5
+27	Minnesota	DELTAMETHRIN	2009	kg		10.3								60.8
+27	Minnesota	DELTAMETHRIN	2010	kg					348					42.2
+27	Minnesota	DELTAMETHRIN	2011	kg	200.4	810.4	15.1							46.3
+27	Minnesota	DELTAMETHRIN	2012	kg										38.5
+27	Minnesota	DELTAMETHRIN	2013	kg	1324.1	503.1			1.8					29
+27	Minnesota	DELTAMETHRIN	2014	kg					0.2					24.9
+27	Minnesota	DELTAMETHRIN	2015	kg	387.5	1163.1			249.4					26.9
+27	Minnesota	DELTAMETHRIN	2016	kg		8034.9			451.8					19.6
+27	Minnesota	DELTAMETHRIN	2017	kg	212.5	1237.3			147.9					15.5
+28	Mississippi	DELTAMETHRIN	1996	kg				689.9						
+28	Mississippi	DELTAMETHRIN	1997	kg				2568.1						
+28	Mississippi	DELTAMETHRIN	1998	kg				1326.1						
+28	Mississippi	DELTAMETHRIN	1999	kg				254.2						
+28	Mississippi	DELTAMETHRIN	2000	kg				340.4						
+28	Mississippi	DELTAMETHRIN	2001	kg				927.1						
+28	Mississippi	DELTAMETHRIN	2002	kg				583						
+28	Mississippi	DELTAMETHRIN	2003	kg				1514.3						
+28	Mississippi	DELTAMETHRIN	2004	kg				2232.9						
+28	Mississippi	DELTAMETHRIN	2005	kg				1.2						
+28	Mississippi	DELTAMETHRIN	2007	kg										213.6
+28	Mississippi	DELTAMETHRIN	2010	kg		50.3								
+28	Mississippi	DELTAMETHRIN	2011	kg		3356.1								
+28	Mississippi	DELTAMETHRIN	2012	kg		31								
+28	Mississippi	DELTAMETHRIN	2013	kg		22.3								
+28	Mississippi	DELTAMETHRIN	2014	kg		1055.1				27				
+28	Mississippi	DELTAMETHRIN	2015	kg			36.8							
+28	Mississippi	DELTAMETHRIN	2016	kg		16.5		6.4						
+28	Mississippi	DELTAMETHRIN	2017	kg				345.9						
+29	Missouri	DELTAMETHRIN	1997	kg				282.6						
+29	Missouri	DELTAMETHRIN	1998	kg				277.6						
+29	Missouri	DELTAMETHRIN	1999	kg				24.1						
+29	Missouri	DELTAMETHRIN	2000	kg				63.1						
+29	Missouri	DELTAMETHRIN	2001	kg				23.5						
+29	Missouri	DELTAMETHRIN	2008	kg	337.2	85.3								
+29	Missouri	DELTAMETHRIN	2010	kg		81.4								
+29	Missouri	DELTAMETHRIN	2011	kg	44.6	127.4								
+29	Missouri	DELTAMETHRIN	2013	kg	34.9	389.6								
+29	Missouri	DELTAMETHRIN	2015	kg	148.2	708.7	305							
+29	Missouri	DELTAMETHRIN	2016	kg		331.8								
+29	Missouri	DELTAMETHRIN	2017	kg	87.7	537.8								
+30	Montana	DELTAMETHRIN	2007	kg					0					
+30	Montana	DELTAMETHRIN	2008	kg										1.3
+30	Montana	DELTAMETHRIN	2009	kg										2.8
+30	Montana	DELTAMETHRIN	2010	kg										1.4
+30	Montana	DELTAMETHRIN	2011	kg										2.9
+30	Montana	DELTAMETHRIN	2012	kg										10.3
+30	Montana	DELTAMETHRIN	2013	kg										6
+30	Montana	DELTAMETHRIN	2014	kg										3.2
+30	Montana	DELTAMETHRIN	2015	kg										3.9
+30	Montana	DELTAMETHRIN	2016	kg		61								39.2
+30	Montana	DELTAMETHRIN	2017	kg					3.1					141.2
+31	Nebraska	DELTAMETHRIN	2008	kg	1227.4									
+31	Nebraska	DELTAMETHRIN	2010	kg	116.6									
+31	Nebraska	DELTAMETHRIN	2011	kg	244.7									7.1
+31	Nebraska	DELTAMETHRIN	2013	kg	2915.4									3.1
+31	Nebraska	DELTAMETHRIN	2014	kg	852.8									
+31	Nebraska	DELTAMETHRIN	2015	kg	943.5									
+31	Nebraska	DELTAMETHRIN	2016	kg		125.5								
+31	Nebraska	DELTAMETHRIN	2017	kg	349.4	188.6								
+32	Nevada	DELTAMETHRIN	2006	kg					0.8					
+32	Nevada	DELTAMETHRIN	2007	kg					2.8					
+32	Nevada	DELTAMETHRIN	2009	kg					6.6					
+32	Nevada	DELTAMETHRIN	2010	kg					19.8					
+32	Nevada	DELTAMETHRIN	2011	kg					16.3					
+32	Nevada	DELTAMETHRIN	2012	kg					10.4					
+32	Nevada	DELTAMETHRIN	2013	kg					32.2					
+35	New Mexico	DELTAMETHRIN	1996	kg				8.3						
+35	New Mexico	DELTAMETHRIN	1997	kg				0.7						
+35	New Mexico	DELTAMETHRIN	1998	kg				9.8						
+35	New Mexico	DELTAMETHRIN	1999	kg				11.3						
+35	New Mexico	DELTAMETHRIN	2000	kg				10.9						
+35	New Mexico	DELTAMETHRIN	2001	kg				4.5						
+35	New Mexico	DELTAMETHRIN	2002	kg				11.8						
+35	New Mexico	DELTAMETHRIN	2003	kg				0						
+35	New Mexico	DELTAMETHRIN	2004	kg				6.7						
+35	New Mexico	DELTAMETHRIN	2005	kg				11						
+35	New Mexico	DELTAMETHRIN	2008	kg					44.9					
+35	New Mexico	DELTAMETHRIN	2009	kg					25.3					
+36	New York	DELTAMETHRIN	2009	kg							11.1			
+36	New York	DELTAMETHRIN	2010	kg							64.1			
+36	New York	DELTAMETHRIN	2011	kg							8			
+37	North Carolina	DELTAMETHRIN	1996	kg				641.4						
+37	North Carolina	DELTAMETHRIN	1997	kg				431.4						
+37	North Carolina	DELTAMETHRIN	1998	kg				1001.6						
+37	North Carolina	DELTAMETHRIN	1999	kg				258.7						
+37	North Carolina	DELTAMETHRIN	2000	kg				817.6						
+37	North Carolina	DELTAMETHRIN	2001	kg				231.5						
+37	North Carolina	DELTAMETHRIN	2002	kg				395.1						
+37	North Carolina	DELTAMETHRIN	2003	kg				185.1						
+37	North Carolina	DELTAMETHRIN	2004	kg				40.4						
+37	North Carolina	DELTAMETHRIN	2005	kg				195						
+37	North Carolina	DELTAMETHRIN	2006	kg				499.9						
+37	North Carolina	DELTAMETHRIN	2014	kg										169.3
+37	North Carolina	DELTAMETHRIN	2015	kg				14						
+37	North Carolina	DELTAMETHRIN	2016	kg		155.9		205.6						
+37	North Carolina	DELTAMETHRIN	2017	kg		575.2								
+38	North Dakota	DELTAMETHRIN	2005	kg	217.9	59.7								67
+38	North Dakota	DELTAMETHRIN	2006	kg		103.9								29
+38	North Dakota	DELTAMETHRIN	2007	kg										122.1
+38	North Dakota	DELTAMETHRIN	2008	kg		1026.7								503.3
+38	North Dakota	DELTAMETHRIN	2009	kg		22.5								586.7
+38	North Dakota	DELTAMETHRIN	2010	kg										510.3
+38	North Dakota	DELTAMETHRIN	2011	kg		2413.1	34.4							829.6
+38	North Dakota	DELTAMETHRIN	2012	kg										1273.4
+38	North Dakota	DELTAMETHRIN	2013	kg										962
+38	North Dakota	DELTAMETHRIN	2014	kg			1410							646.1
+38	North Dakota	DELTAMETHRIN	2015	kg										424.8
+38	North Dakota	DELTAMETHRIN	2016	kg	2393.1	26738.8	983							1592.2
+38	North Dakota	DELTAMETHRIN	2017	kg										2440.8
+39	Ohio	DELTAMETHRIN	2007	kg	7.7	204.8								
+39	Ohio	DELTAMETHRIN	2008	kg	1664.6	396.4								
+39	Ohio	DELTAMETHRIN	2009	kg					93.9					
+39	Ohio	DELTAMETHRIN	2010	kg					152.1					
+39	Ohio	DELTAMETHRIN	2011	kg	414.9	558.8								
+39	Ohio	DELTAMETHRIN	2012	kg					24.8					
+39	Ohio	DELTAMETHRIN	2013	kg	4798.5	1203			31.6					
+39	Ohio	DELTAMETHRIN	2014	kg			106.5		28.8					
+39	Ohio	DELTAMETHRIN	2015	kg	1498.9	1458.2			40.1					
+39	Ohio	DELTAMETHRIN	2016	kg	2768.4	514.4			6.8					
+39	Ohio	DELTAMETHRIN	2017	kg	694.9	2332			2.7					
+40	Oklahoma	DELTAMETHRIN	1997	kg				18.9						
+40	Oklahoma	DELTAMETHRIN	1998	kg				11.4						
+40	Oklahoma	DELTAMETHRIN	1999	kg				23.2						
+40	Oklahoma	DELTAMETHRIN	2000	kg				102.4						
+40	Oklahoma	DELTAMETHRIN	2001	kg				9.9						
+40	Oklahoma	DELTAMETHRIN	2002	kg				43.9						
+40	Oklahoma	DELTAMETHRIN	2003	kg				41.8						
+40	Oklahoma	DELTAMETHRIN	2004	kg				29						
+40	Oklahoma	DELTAMETHRIN	2005	kg				56.7						
+40	Oklahoma	DELTAMETHRIN	2008	kg										0.7
+40	Oklahoma	DELTAMETHRIN	2014	kg										1.3
+40	Oklahoma	DELTAMETHRIN	2015	kg				37.4						
+40	Oklahoma	DELTAMETHRIN	2016	kg		21.8								
+40	Oklahoma	DELTAMETHRIN	2017	kg		125.5								
+41	Oregon	DELTAMETHRIN	2006	kg					10.6					
+41	Oregon	DELTAMETHRIN	2007	kg					62.1		17.6			
+41	Oregon	DELTAMETHRIN	2009	kg					54.5		14.1			
+41	Oregon	DELTAMETHRIN	2010	kg					138.6					
+41	Oregon	DELTAMETHRIN	2011	kg					116.1					
+41	Oregon	DELTAMETHRIN	2012	kg					123.4					
+41	Oregon	DELTAMETHRIN	2013	kg					227.8					
+45	South Carolina	DELTAMETHRIN	1996	kg				306.2						
+45	South Carolina	DELTAMETHRIN	1997	kg				184.6						
+45	South Carolina	DELTAMETHRIN	1998	kg				598.5						
+45	South Carolina	DELTAMETHRIN	1999	kg				434						
+45	South Carolina	DELTAMETHRIN	2000	kg				744.8						
+45	South Carolina	DELTAMETHRIN	2001	kg				532.8						
+45	South Carolina	DELTAMETHRIN	2002	kg				168.8						
+45	South Carolina	DELTAMETHRIN	2003	kg				61.7						
+45	South Carolina	DELTAMETHRIN	2004	kg		115.1		254.8						
+45	South Carolina	DELTAMETHRIN	2005	kg				49.5						
+45	South Carolina	DELTAMETHRIN	2014	kg	46.9	73.8								
+45	South Carolina	DELTAMETHRIN	2016	kg		38.2		191.1						
+46	South Dakota	DELTAMETHRIN	2005	kg		42.3								
+46	South Dakota	DELTAMETHRIN	2006	kg										59.1
+46	South Dakota	DELTAMETHRIN	2007	kg										39.4
+46	South Dakota	DELTAMETHRIN	2008	kg	1515.7	883.2								152.9
+46	South Dakota	DELTAMETHRIN	2009	kg		12.9								272.6
+46	South Dakota	DELTAMETHRIN	2010	kg	166.4									248.4
+46	South Dakota	DELTAMETHRIN	2011	kg	286.9	1305								200
+46	South Dakota	DELTAMETHRIN	2012	kg										306.8
+46	South Dakota	DELTAMETHRIN	2013	kg	1689.9	301.2								389.3
+46	South Dakota	DELTAMETHRIN	2014	kg			444.9							616.5
+46	South Dakota	DELTAMETHRIN	2015	kg	535.5	674.4								755
+46	South Dakota	DELTAMETHRIN	2016	kg	1518.2	8551.9	1266.2							457.7
+46	South Dakota	DELTAMETHRIN	2017	kg	285.6	709.5								400.8
+47	Tennessee	DELTAMETHRIN	1996	kg				470.3						
+47	Tennessee	DELTAMETHRIN	1997	kg				1651.9						
+47	Tennessee	DELTAMETHRIN	1998	kg				950.3						
+47	Tennessee	DELTAMETHRIN	1999	kg				35.5						
+47	Tennessee	DELTAMETHRIN	2000	kg				387.8						
+47	Tennessee	DELTAMETHRIN	2001	kg				342.9						
+47	Tennessee	DELTAMETHRIN	2002	kg				540.7						
+47	Tennessee	DELTAMETHRIN	2004	kg				429.1						
+47	Tennessee	DELTAMETHRIN	2014	kg						0.1				
+47	Tennessee	DELTAMETHRIN	2015	kg			477.9							
+48	Texas	DELTAMETHRIN	1996	kg				573.3						
+48	Texas	DELTAMETHRIN	1997	kg				459.1						
+48	Texas	DELTAMETHRIN	1998	kg				601.8						
+48	Texas	DELTAMETHRIN	1999	kg				764.6						
+48	Texas	DELTAMETHRIN	2000	kg				2931.8						
+48	Texas	DELTAMETHRIN	2001	kg				827.6						
+48	Texas	DELTAMETHRIN	2002	kg				1451.8						
+48	Texas	DELTAMETHRIN	2003	kg				689.4						
+48	Texas	DELTAMETHRIN	2004	kg				1014						
+48	Texas	DELTAMETHRIN	2005	kg				2473.5						
+48	Texas	DELTAMETHRIN	2006	kg				251.5						
+48	Texas	DELTAMETHRIN	2007	kg				1565.1						58.3
+48	Texas	DELTAMETHRIN	2008	kg				4.1	49.5					
+48	Texas	DELTAMETHRIN	2009	kg					60.9					
+48	Texas	DELTAMETHRIN	2010	kg				77.1						
+48	Texas	DELTAMETHRIN	2014	kg		3.3								
+48	Texas	DELTAMETHRIN	2015	kg				191.9						87
+48	Texas	DELTAMETHRIN	2016	kg										102.4
+48	Texas	DELTAMETHRIN	2017	kg					30.1					
+49	Utah	DELTAMETHRIN	2007	kg					0					
+51	Virginia	DELTAMETHRIN	1996	kg				51						
+51	Virginia	DELTAMETHRIN	1997	kg				85.9						
+51	Virginia	DELTAMETHRIN	1998	kg				61.2						
+51	Virginia	DELTAMETHRIN	1999	kg				268						
+51	Virginia	DELTAMETHRIN	2000	kg				107						
+51	Virginia	DELTAMETHRIN	2001	kg				13.7						
+51	Virginia	DELTAMETHRIN	2002	kg				99.8						
+51	Virginia	DELTAMETHRIN	2003	kg				29.1						
+51	Virginia	DELTAMETHRIN	2004	kg				119.3						
+51	Virginia	DELTAMETHRIN	2005	kg				21.6						
+51	Virginia	DELTAMETHRIN	2014	kg										61.6
+51	Virginia	DELTAMETHRIN	2015	kg				4.2						
+51	Virginia	DELTAMETHRIN	2016	kg				62.9						
+53	Washington	DELTAMETHRIN	2007	kg							31.4			
+53	Washington	DELTAMETHRIN	2009	kg							129.7			
+53	Washington	DELTAMETHRIN	2011	kg							30.4			
+54	West Virginia	DELTAMETHRIN	2015	kg	6.2									
+54	West Virginia	DELTAMETHRIN	2016	kg	5.9									
+54	West Virginia	DELTAMETHRIN	2017	kg	4.3									
+55	Wisconsin	DELTAMETHRIN	2006	kg		7.5								
+55	Wisconsin	DELTAMETHRIN	2007	kg		37			234.8					
+55	Wisconsin	DELTAMETHRIN	2008	kg		24.4								
+55	Wisconsin	DELTAMETHRIN	2010	kg					47.8					
+55	Wisconsin	DELTAMETHRIN	2011	kg					51.6					
+55	Wisconsin	DELTAMETHRIN	2012	kg					110.5					
+55	Wisconsin	DELTAMETHRIN	2013	kg					174.3					
+55	Wisconsin	DELTAMETHRIN	2014	kg	244.2				96.9					
+55	Wisconsin	DELTAMETHRIN	2015	kg					179.6					
+55	Wisconsin	DELTAMETHRIN	2016	kg					692.6					
+55	Wisconsin	DELTAMETHRIN	2017	kg					169					
+56	Wyoming	DELTAMETHRIN	2007	kg					0					
+56	Wyoming	DELTAMETHRIN	2011	kg										0

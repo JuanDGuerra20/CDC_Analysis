@@ -1,0 +1,79 @@
+01	Alabama	SULPROFOS	1992	kg				7481.3						
+01	Alabama	SULPROFOS	1993	kg				8803.1						
+01	Alabama	SULPROFOS	1994	kg				15567.8						
+01	Alabama	SULPROFOS	1995	kg				6135.8						
+01	Alabama	SULPROFOS	1997	kg				266.8						
+01	Alabama	SULPROFOS	1998	kg				2155.3						
+04	Arizona	SULPROFOS	1997	kg				2940.8						
+05	Arkansas	SULPROFOS	1992	kg				59343.4						
+05	Arkansas	SULPROFOS	1993	kg				15370.6						
+05	Arkansas	SULPROFOS	1994	kg				8386.1						
+05	Arkansas	SULPROFOS	1995	kg				40883.5						
+05	Arkansas	SULPROFOS	1996	kg				4034.9						
+05	Arkansas	SULPROFOS	1997	kg				1283.2						
+05	Arkansas	SULPROFOS	1998	kg				6943.8						
+05	Arkansas	SULPROFOS	1999	kg				295						
+05	Arkansas	SULPROFOS	2000	kg				8235						
+05	Arkansas	SULPROFOS	2001	kg				3378						
+06	California	SULPROFOS	1992	kg				621.1						
+06	California	SULPROFOS	1993	kg				106.8						
+06	California	SULPROFOS	1994	kg				397.1						
+06	California	SULPROFOS	1995	kg				77.4						
+06	California	SULPROFOS	1997	kg				53.8						
+06	California	SULPROFOS	1998	kg				38.2						
+12	Florida	SULPROFOS	1993	kg				552						
+12	Florida	SULPROFOS	1994	kg				5240.4						45.8
+12	Florida	SULPROFOS	1995	kg				704.4						
+12	Florida	SULPROFOS	1997	kg				40.9						
+12	Florida	SULPROFOS	1998	kg				387.3						
+13	Georgia	SULPROFOS	1992	kg				12018						
+13	Georgia	SULPROFOS	1993	kg				4585						
+13	Georgia	SULPROFOS	1994	kg				15014.8						368.9
+13	Georgia	SULPROFOS	1995	kg				37563.1						
+13	Georgia	SULPROFOS	1997	kg				2572.4						
+13	Georgia	SULPROFOS	1998	kg				6171						
+22	Louisiana	SULPROFOS	1992	kg				37856.2						
+22	Louisiana	SULPROFOS	1993	kg				653.4						
+22	Louisiana	SULPROFOS	1994	kg				5561						
+22	Louisiana	SULPROFOS	1995	kg				14806.1						
+22	Louisiana	SULPROFOS	1996	kg				1721.6						
+22	Louisiana	SULPROFOS	1997	kg				643.6						
+22	Louisiana	SULPROFOS	1998	kg				4558.8						
+22	Louisiana	SULPROFOS	1999	kg				469.7						
+22	Louisiana	SULPROFOS	2000	kg				5107.5						
+22	Louisiana	SULPROFOS	2001	kg				6192.4						
+24	Maryland	SULPROFOS	1996	kg							711.6			
+28	Mississippi	SULPROFOS	1992	kg				216400.1						
+28	Mississippi	SULPROFOS	1993	kg				90641.9						
+28	Mississippi	SULPROFOS	1994	kg				48505.4						
+28	Mississippi	SULPROFOS	1995	kg				84924.8						
+28	Mississippi	SULPROFOS	1996	kg				3277.5						
+28	Mississippi	SULPROFOS	1997	kg				6494.4						
+28	Mississippi	SULPROFOS	1998	kg				12140.6						
+28	Mississippi	SULPROFOS	1999	kg				1212.1						
+28	Mississippi	SULPROFOS	2000	kg				10804.7						
+28	Mississippi	SULPROFOS	2001	kg				17272.3						
+29	Missouri	SULPROFOS	1993	kg				4439.8						
+29	Missouri	SULPROFOS	1998	kg				2516.4						
+35	New Mexico	SULPROFOS	1997	kg				104.7						
+40	Oklahoma	SULPROFOS	1992	kg				105.9						
+40	Oklahoma	SULPROFOS	1997	kg				103.6						
+45	South Carolina	SULPROFOS	1992	kg				5688.9						
+45	South Carolina	SULPROFOS	1993	kg				2494.1						
+45	South Carolina	SULPROFOS	1994	kg				6061.8						
+45	South Carolina	SULPROFOS	1995	kg				9056.7						
+45	South Carolina	SULPROFOS	1997	kg				1417						
+45	South Carolina	SULPROFOS	1998	kg				1230.2						
+47	Tennessee	SULPROFOS	1992	kg				40394.9						
+47	Tennessee	SULPROFOS	1993	kg				9982						
+47	Tennessee	SULPROFOS	1994	kg				3920.9						
+47	Tennessee	SULPROFOS	1995	kg				6345.5						
+47	Tennessee	SULPROFOS	1996	kg				1904						
+47	Tennessee	SULPROFOS	1997	kg				775.1						
+47	Tennessee	SULPROFOS	1998	kg				2123.5						
+47	Tennessee	SULPROFOS	2000	kg				4710.3						
+48	Texas	SULPROFOS	1992	kg				18393						
+48	Texas	SULPROFOS	1995	kg				117624.7						
+48	Texas	SULPROFOS	1997	kg				11611.4						
+51	Virginia	SULPROFOS	1996	kg							5743.6			
+54	West Virginia	SULPROFOS	1996	kg							4157.4			

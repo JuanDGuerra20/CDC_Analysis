@@ -1,0 +1,13 @@
+04	Arizona	CHLOROBENZILATE	1992	kg							34.1			
+04	Arizona	CHLOROBENZILATE	1993	kg							89.5			
+06	California	CHLOROBENZILATE	1992	kg							568			
+06	California	CHLOROBENZILATE	1993	kg							534			
+06	California	CHLOROBENZILATE	1994	kg							48.4			
+06	California	CHLOROBENZILATE	1995	kg							39.1			
+06	California	CHLOROBENZILATE	1996	kg							57.8			
+06	California	CHLOROBENZILATE	1997	kg							50.7			
+06	California	CHLOROBENZILATE	1999	kg	3.4									
+06	California	CHLOROBENZILATE	2000	kg							2.1			
+06	California	CHLOROBENZILATE	2001	kg							26.9			
+12	Florida	CHLOROBENZILATE	1992	kg							234.6			
+12	Florida	CHLOROBENZILATE	1993	kg							284.1			

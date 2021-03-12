@@ -1,0 +1,80 @@
+01	Alabama	BICYCLOPYRONE	2016	kg	504.9									
+01	Alabama	BICYCLOPYRONE	2017	kg	133.9									
+05	Arkansas	BICYCLOPYRONE	2016	kg	303.5									
+05	Arkansas	BICYCLOPYRONE	2017	kg	2367.4									
+08	Colorado	BICYCLOPYRONE	2015	kg	309.5									
+08	Colorado	BICYCLOPYRONE	2016	kg	280.9									
+08	Colorado	BICYCLOPYRONE	2017	kg	1995.8									
+09	Connecticut	BICYCLOPYRONE	2016	kg	221.7									
+09	Connecticut	BICYCLOPYRONE	2017	kg	46				0.2					
+10	Delaware	BICYCLOPYRONE	2016	kg	143									
+10	Delaware	BICYCLOPYRONE	2017	kg	372.8									
+16	Idaho	BICYCLOPYRONE	2017	kg					0.7					
+17	Illinois	BICYCLOPYRONE	2015	kg	243									
+17	Illinois	BICYCLOPYRONE	2016	kg	15649.4				14.4					
+17	Illinois	BICYCLOPYRONE	2017	kg	14347.8				13					
+18	Indiana	BICYCLOPYRONE	2015	kg	36.3									
+18	Indiana	BICYCLOPYRONE	2016	kg	5309.5									
+18	Indiana	BICYCLOPYRONE	2017	kg	9271.9									
+19	Iowa	BICYCLOPYRONE	2016	kg	12436.4				0					
+19	Iowa	BICYCLOPYRONE	2017	kg	10635.3				0.1					
+20	Kansas	BICYCLOPYRONE	2015	kg	245.8									
+20	Kansas	BICYCLOPYRONE	2016	kg	6442.9									
+20	Kansas	BICYCLOPYRONE	2017	kg	9660.7									
+21	Kentucky	BICYCLOPYRONE	2016	kg	2582.5									
+21	Kentucky	BICYCLOPYRONE	2017	kg	1593.8									
+22	Louisiana	BICYCLOPYRONE	2016	kg	249.8									
+22	Louisiana	BICYCLOPYRONE	2017	kg	5953.5									
+24	Maryland	BICYCLOPYRONE	2016	kg	637									
+24	Maryland	BICYCLOPYRONE	2017	kg	1222.3									
+25	Massachusetts	BICYCLOPYRONE	2016	kg	76.2									
+25	Massachusetts	BICYCLOPYRONE	2017	kg	124.7				0.5					
+26	Michigan	BICYCLOPYRONE	2016	kg	1628.1									
+26	Michigan	BICYCLOPYRONE	2017	kg	3635.5									
+27	Minnesota	BICYCLOPYRONE	2016	kg	3351.6				97.2					
+27	Minnesota	BICYCLOPYRONE	2017	kg	6197.7		410.7		93.6					
+28	Mississippi	BICYCLOPYRONE	2016	kg	379.6									
+28	Mississippi	BICYCLOPYRONE	2017	kg	2099.5									
+29	Missouri	BICYCLOPYRONE	2016	kg	4228.4									
+29	Missouri	BICYCLOPYRONE	2017	kg	6432.1									
+30	Montana	BICYCLOPYRONE	2017	kg			1822.8							
+31	Nebraska	BICYCLOPYRONE	2015	kg	1385.3									
+31	Nebraska	BICYCLOPYRONE	2016	kg	16179.3									
+31	Nebraska	BICYCLOPYRONE	2017	kg	14618.8									
+34	New Jersey	BICYCLOPYRONE	2016	kg	88.1									
+34	New Jersey	BICYCLOPYRONE	2017	kg	269.5				0					
+35	New Mexico	BICYCLOPYRONE	2016	kg	359.6									
+35	New Mexico	BICYCLOPYRONE	2017	kg	87.6									
+36	New York	BICYCLOPYRONE	2016	kg	2639.9				2.6					
+36	New York	BICYCLOPYRONE	2017	kg	7267.8				0.8					
+37	North Carolina	BICYCLOPYRONE	2016	kg	848.2									
+37	North Carolina	BICYCLOPYRONE	2017	kg	276.5									
+38	North Dakota	BICYCLOPYRONE	2016	kg	359.8									
+38	North Dakota	BICYCLOPYRONE	2017	kg	4057		3435.5							410.5
+39	Ohio	BICYCLOPYRONE	2016	kg	4120.8									
+39	Ohio	BICYCLOPYRONE	2017	kg	4369.3									
+40	Oklahoma	BICYCLOPYRONE	2016	kg	104.7									
+40	Oklahoma	BICYCLOPYRONE	2017	kg	1224.7									
+41	Oregon	BICYCLOPYRONE	2017	kg					66.6					
+42	Pennsylvania	BICYCLOPYRONE	2016	kg	1904.7									
+42	Pennsylvania	BICYCLOPYRONE	2017	kg	2639.5				0					
+45	South Carolina	BICYCLOPYRONE	2016	kg	164.4									
+45	South Carolina	BICYCLOPYRONE	2017	kg	27.9									
+46	South Dakota	BICYCLOPYRONE	2016	kg	11234.5									
+46	South Dakota	BICYCLOPYRONE	2017	kg	8792.7		461.5							
+47	Tennessee	BICYCLOPYRONE	2016	kg	1089.6									
+47	Tennessee	BICYCLOPYRONE	2017	kg	437.1									
+48	Texas	BICYCLOPYRONE	2016	kg	409.4									
+48	Texas	BICYCLOPYRONE	2017	kg	513.1									
+50	Vermont	BICYCLOPYRONE	2016	kg	118.2									
+50	Vermont	BICYCLOPYRONE	2017	kg	1220.9									
+51	Virginia	BICYCLOPYRONE	2016	kg	704.2									
+51	Virginia	BICYCLOPYRONE	2017	kg	3194									
+53	Washington	BICYCLOPYRONE	2017	kg					1118.8					
+54	West Virginia	BICYCLOPYRONE	2016	kg	50.1									
+54	West Virginia	BICYCLOPYRONE	2017	kg	92.6									
+55	Wisconsin	BICYCLOPYRONE	2015	kg	37.8									
+55	Wisconsin	BICYCLOPYRONE	2016	kg	7258.6				104.4					
+55	Wisconsin	BICYCLOPYRONE	2017	kg	13905.1				60.1					
+56	Wyoming	BICYCLOPYRONE	2016	kg	38.6									
+56	Wyoming	BICYCLOPYRONE	2017	kg	2.1		5							

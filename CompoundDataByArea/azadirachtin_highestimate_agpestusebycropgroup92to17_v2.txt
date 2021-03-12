@@ -1,0 +1,273 @@
+01	Alabama	AZADIRACHTIN	2003	kg							3.6			4.5
+01	Alabama	AZADIRACHTIN	2013	kg				236.9						167.9
+04	Arizona	AZADIRACHTIN	1996	kg					3.4					
+04	Arizona	AZADIRACHTIN	1997	kg					34.6					
+04	Arizona	AZADIRACHTIN	1999	kg					31.1		1.5			
+04	Arizona	AZADIRACHTIN	2000	kg					15.1		36.5			
+04	Arizona	AZADIRACHTIN	2001	kg					173.3					
+04	Arizona	AZADIRACHTIN	2002	kg					19					
+04	Arizona	AZADIRACHTIN	2004	kg					14					
+04	Arizona	AZADIRACHTIN	2005	kg					40.8		1.8			
+04	Arizona	AZADIRACHTIN	2006	kg					111.6		0			
+04	Arizona	AZADIRACHTIN	2008	kg					25.5					
+04	Arizona	AZADIRACHTIN	2009	kg					39.9					
+04	Arizona	AZADIRACHTIN	2010	kg					2.4					
+04	Arizona	AZADIRACHTIN	2011	kg					30.7					
+04	Arizona	AZADIRACHTIN	2012	kg					10.7					
+04	Arizona	AZADIRACHTIN	2013	kg					49.7		0.4			
+04	Arizona	AZADIRACHTIN	2014	kg					85.5		9			
+04	Arizona	AZADIRACHTIN	2015	kg					69.1		0.9			
+04	Arizona	AZADIRACHTIN	2016	kg					3		2.9			
+04	Arizona	AZADIRACHTIN	2017	kg					278.4		0.1			
+05	Arkansas	AZADIRACHTIN	1997	kg					18.7				6	
+05	Arkansas	AZADIRACHTIN	2004	kg							2.8			
+06	California	AZADIRACHTIN	1992	kg							0			
+06	California	AZADIRACHTIN	1993	kg							1.6			
+06	California	AZADIRACHTIN	1994	kg					7.7		4.9			
+06	California	AZADIRACHTIN	1995	kg				0.3	218.3		12.1			
+06	California	AZADIRACHTIN	1996	kg				0.3	282.1		19.6			
+06	California	AZADIRACHTIN	1997	kg					245.9		36.2			
+06	California	AZADIRACHTIN	1998	kg	0				200.4		52.6			
+06	California	AZADIRACHTIN	1999	kg	0.3				290		28.2			
+06	California	AZADIRACHTIN	2000	kg					372.1		111.8	0		
+06	California	AZADIRACHTIN	2001	kg	0.1				1007.5		43			0.1
+06	California	AZADIRACHTIN	2002	kg					674.1		61.3			0
+06	California	AZADIRACHTIN	2003	kg	0.1			2.9	489.3		50.8			0.1
+06	California	AZADIRACHTIN	2004	kg					1198.1		51.9	0.1		
+06	California	AZADIRACHTIN	2005	kg					382.1		58.8		0	0.2
+06	California	AZADIRACHTIN	2006	kg					913.5		46.3	0.5	0	
+06	California	AZADIRACHTIN	2007	kg	0				778.3		123.3	10		
+06	California	AZADIRACHTIN	2008	kg	0			1.4	792.1		49.8	17.6		7.8
+06	California	AZADIRACHTIN	2009	kg	0				889.4		60.6	2.1		6.4
+06	California	AZADIRACHTIN	2010	kg	0				627.5		85.9	0.3		7.3
+06	California	AZADIRACHTIN	2011	kg	0				675.4		45.7	0.5		7.7
+06	California	AZADIRACHTIN	2012	kg	1.6				799.7		203.3	1.9		9.1
+06	California	AZADIRACHTIN	2013	kg	1.4				975.7		247	2.3		10.6
+06	California	AZADIRACHTIN	2014	kg	1.6		0.1		1351.3		266.2	5.3		15.1
+06	California	AZADIRACHTIN	2015	kg	2.1		0.5	1.1	1729		359.3	2.1		11.8
+06	California	AZADIRACHTIN	2016	kg	1.7		1.4		1604.1		401.2	6.7		11.2
+06	California	AZADIRACHTIN	2017	kg	3.3		0.8		1698.8		354.9	5.8		26.2
+08	Colorado	AZADIRACHTIN	2006	kg					16.6					
+08	Colorado	AZADIRACHTIN	2007	kg					13.9					
+08	Colorado	AZADIRACHTIN	2008	kg	10.7				3.1					
+08	Colorado	AZADIRACHTIN	2009	kg					3.3					
+08	Colorado	AZADIRACHTIN	2010	kg					8.9					
+08	Colorado	AZADIRACHTIN	2011	kg					2.3					
+08	Colorado	AZADIRACHTIN	2014	kg					0.9					
+09	Connecticut	AZADIRACHTIN	1995	kg							0			
+09	Connecticut	AZADIRACHTIN	2000	kg							2.2			
+12	Florida	AZADIRACHTIN	1994	kg					148.8		40.1			
+12	Florida	AZADIRACHTIN	1995	kg					999.2		3.4			
+12	Florida	AZADIRACHTIN	1996	kg							230.6			
+12	Florida	AZADIRACHTIN	1997	kg					51.4		0.4			0.1
+12	Florida	AZADIRACHTIN	1998	kg					29.9					
+12	Florida	AZADIRACHTIN	1999	kg					14.2					
+12	Florida	AZADIRACHTIN	2001	kg					25.5					
+12	Florida	AZADIRACHTIN	2002	kg					19.8					
+12	Florida	AZADIRACHTIN	2003	kg							0.5			1.8
+12	Florida	AZADIRACHTIN	2004	kg					731.7		1.5			
+12	Florida	AZADIRACHTIN	2005	kg					1001.9					0
+12	Florida	AZADIRACHTIN	2006	kg					228.9		27.6			
+12	Florida	AZADIRACHTIN	2007	kg					191.8		2.5			
+12	Florida	AZADIRACHTIN	2008	kg					546.6		14.8			
+12	Florida	AZADIRACHTIN	2009	kg					101.2		14.8			
+12	Florida	AZADIRACHTIN	2010	kg					94.7		61.7			
+12	Florida	AZADIRACHTIN	2011	kg					821.7		304.7			
+12	Florida	AZADIRACHTIN	2012	kg					769		779.6			
+12	Florida	AZADIRACHTIN	2013	kg					524.5		265.5			75.9
+12	Florida	AZADIRACHTIN	2014	kg					588.3		332.9			
+12	Florida	AZADIRACHTIN	2015	kg					47.8		993.7			
+12	Florida	AZADIRACHTIN	2016	kg					12.8					
+13	Georgia	AZADIRACHTIN	1997	kg										2.2
+13	Georgia	AZADIRACHTIN	2002	kg										0
+13	Georgia	AZADIRACHTIN	2003	kg										10
+13	Georgia	AZADIRACHTIN	2004	kg					16.3					
+13	Georgia	AZADIRACHTIN	2005	kg					31.6					2.6
+13	Georgia	AZADIRACHTIN	2013	kg				189.2						203.3
+16	Idaho	AZADIRACHTIN	2000	kg					6.8					
+16	Idaho	AZADIRACHTIN	2001	kg					0.5					
+16	Idaho	AZADIRACHTIN	2002	kg					5.4					
+16	Idaho	AZADIRACHTIN	2004	kg					5					
+16	Idaho	AZADIRACHTIN	2005	kg					176.6					
+16	Idaho	AZADIRACHTIN	2006	kg					31					
+16	Idaho	AZADIRACHTIN	2007	kg					16.3					
+16	Idaho	AZADIRACHTIN	2008	kg					18.5		0.2			
+16	Idaho	AZADIRACHTIN	2009	kg					6.3					
+16	Idaho	AZADIRACHTIN	2010	kg					14					
+16	Idaho	AZADIRACHTIN	2011	kg					19					
+16	Idaho	AZADIRACHTIN	2012	kg					20.3					
+16	Idaho	AZADIRACHTIN	2013	kg					379.5		0			
+16	Idaho	AZADIRACHTIN	2014	kg					4.4		0			
+16	Idaho	AZADIRACHTIN	2015	kg					10.1		0.3			
+16	Idaho	AZADIRACHTIN	2016	kg					55.1		0.8			
+16	Idaho	AZADIRACHTIN	2017	kg					45.2		2.8			
+17	Illinois	AZADIRACHTIN	2008	kg	81.1									
+17	Illinois	AZADIRACHTIN	2014	kg					2					
+17	Illinois	AZADIRACHTIN	2015	kg					0.5			30.3		
+17	Illinois	AZADIRACHTIN	2017	kg					11.8					
+18	Indiana	AZADIRACHTIN	1995	kg					0					
+18	Indiana	AZADIRACHTIN	2005	kg							0			
+18	Indiana	AZADIRACHTIN	2008	kg	21.6									
+19	Iowa	AZADIRACHTIN	1996	kg					9.7					
+19	Iowa	AZADIRACHTIN	2014	kg					0					
+19	Iowa	AZADIRACHTIN	2015	kg					0					
+19	Iowa	AZADIRACHTIN	2017	kg					0					
+20	Kansas	AZADIRACHTIN	1996	kg					6.7					
+20	Kansas	AZADIRACHTIN	2004	kg							0.6			
+20	Kansas	AZADIRACHTIN	2008	kg	7.9									
+21	Kentucky	AZADIRACHTIN	2002	kg										0.4
+21	Kentucky	AZADIRACHTIN	2005	kg										54.4
+21	Kentucky	AZADIRACHTIN	2006	kg							0.3			
+22	Louisiana	AZADIRACHTIN	1997	kg					26.4				8.9	
+23	Maine	AZADIRACHTIN	2002	kg					4.3					
+25	Massachusetts	AZADIRACHTIN	1995	kg							0			
+25	Massachusetts	AZADIRACHTIN	2000	kg							4.5			
+26	Michigan	AZADIRACHTIN	1995	kg					0.1					
+26	Michigan	AZADIRACHTIN	1996	kg		99.8					0			
+26	Michigan	AZADIRACHTIN	1997	kg							7.6			
+26	Michigan	AZADIRACHTIN	1998	kg							0.9			
+26	Michigan	AZADIRACHTIN	2001	kg							5.5			
+26	Michigan	AZADIRACHTIN	2002	kg							21.5			
+26	Michigan	AZADIRACHTIN	2005	kg							6.6			
+26	Michigan	AZADIRACHTIN	2012	kg					26.6					
+26	Michigan	AZADIRACHTIN	2013	kg					48.8					
+26	Michigan	AZADIRACHTIN	2014	kg					23.4					
+26	Michigan	AZADIRACHTIN	2015	kg					62.7					
+27	Minnesota	AZADIRACHTIN	2014	kg					2.4					
+27	Minnesota	AZADIRACHTIN	2015	kg					1.2					
+27	Minnesota	AZADIRACHTIN	2017	kg					15.9					
+28	Mississippi	AZADIRACHTIN	1997	kg					7.8					
+28	Mississippi	AZADIRACHTIN	2003	kg							0.5			
+29	Missouri	AZADIRACHTIN	1996	kg					30					
+29	Missouri	AZADIRACHTIN	2004	kg							22.2			
+29	Missouri	AZADIRACHTIN	2015	kg								9.9		
+31	Nebraska	AZADIRACHTIN	1996	kg					0.9					
+31	Nebraska	AZADIRACHTIN	2008	kg	44				0					
+31	Nebraska	AZADIRACHTIN	2009	kg					0					
+31	Nebraska	AZADIRACHTIN	2010	kg					0					
+31	Nebraska	AZADIRACHTIN	2011	kg					0					
+31	Nebraska	AZADIRACHTIN	2014	kg					0					
+32	Nevada	AZADIRACHTIN	1999	kg							0			
+32	Nevada	AZADIRACHTIN	2000	kg					1.5		0.4			
+32	Nevada	AZADIRACHTIN	2001	kg					0.1					
+32	Nevada	AZADIRACHTIN	2002	kg					1.1					
+32	Nevada	AZADIRACHTIN	2004	kg					0.7					
+32	Nevada	AZADIRACHTIN	2005	kg					6		0			
+32	Nevada	AZADIRACHTIN	2006	kg					3.9		0			
+32	Nevada	AZADIRACHTIN	2007	kg					2.9					
+32	Nevada	AZADIRACHTIN	2008	kg					8.1					
+32	Nevada	AZADIRACHTIN	2009	kg					4.7					
+32	Nevada	AZADIRACHTIN	2010	kg					4.4					
+32	Nevada	AZADIRACHTIN	2011	kg					5					
+32	Nevada	AZADIRACHTIN	2012	kg					3.7					
+32	Nevada	AZADIRACHTIN	2013	kg					1.4					
+32	Nevada	AZADIRACHTIN	2014	kg					8.5					
+32	Nevada	AZADIRACHTIN	2015	kg					3					
+32	Nevada	AZADIRACHTIN	2016	kg					15.1					
+32	Nevada	AZADIRACHTIN	2017	kg					12		0			
+33	New Hampshire	AZADIRACHTIN	2000	kg							2.1			
+34	New Jersey	AZADIRACHTIN	1995	kg							0			
+35	New Mexico	AZADIRACHTIN	1998	kg							5.8			
+35	New Mexico	AZADIRACHTIN	1999	kg					0		2.4			
+35	New Mexico	AZADIRACHTIN	2004	kg				0						
+35	New Mexico	AZADIRACHTIN	2008	kg					0					
+35	New Mexico	AZADIRACHTIN	2010	kg					0.8					
+35	New Mexico	AZADIRACHTIN	2011	kg					0					
+35	New Mexico	AZADIRACHTIN	2013	kg					0					
+35	New Mexico	AZADIRACHTIN	2015	kg					0					
+35	New Mexico	AZADIRACHTIN	2017	kg					0					
+36	New York	AZADIRACHTIN	1995	kg							0			
+36	New York	AZADIRACHTIN	1996	kg	2.1						0.2			
+36	New York	AZADIRACHTIN	2000	kg							13.9			
+36	New York	AZADIRACHTIN	2006	kg							0.7			
+37	North Carolina	AZADIRACHTIN	2002	kg										0.5
+37	North Carolina	AZADIRACHTIN	2006	kg					0.3		0.5			
+37	North Carolina	AZADIRACHTIN	2010	kg					68.6					
+37	North Carolina	AZADIRACHTIN	2011	kg					70					
+37	North Carolina	AZADIRACHTIN	2012	kg					34.8					
+37	North Carolina	AZADIRACHTIN	2015	kg										12.8
+37	North Carolina	AZADIRACHTIN	2016	kg					3.1					33.6
+39	Ohio	AZADIRACHTIN	2000	kg							0.1			
+39	Ohio	AZADIRACHTIN	2005	kg		585.5								4.4
+39	Ohio	AZADIRACHTIN	2006	kg					3.7		4.5			
+39	Ohio	AZADIRACHTIN	2009	kg							2.2			
+40	Oklahoma	AZADIRACHTIN	2004	kg							1.1			
+40	Oklahoma	AZADIRACHTIN	2017	kg					0.4					
+41	Oregon	AZADIRACHTIN	1995	kg							0			
+41	Oregon	AZADIRACHTIN	2000	kg					13.2		1.6			
+41	Oregon	AZADIRACHTIN	2001	kg					1.7		40.8			
+41	Oregon	AZADIRACHTIN	2002	kg					13.3		16.2			
+41	Oregon	AZADIRACHTIN	2003	kg					1.9		15.8			
+41	Oregon	AZADIRACHTIN	2004	kg	14.8				6.2		17.6			
+41	Oregon	AZADIRACHTIN	2005	kg					29		25.2			
+41	Oregon	AZADIRACHTIN	2006	kg					181.2		37.1			
+41	Oregon	AZADIRACHTIN	2007	kg					89.3		52.1			
+41	Oregon	AZADIRACHTIN	2008	kg					69.3		20.5			
+41	Oregon	AZADIRACHTIN	2009	kg					57.8		4.4			
+41	Oregon	AZADIRACHTIN	2010	kg					31.5		13.9			
+41	Oregon	AZADIRACHTIN	2011	kg					36.2		35.9			
+41	Oregon	AZADIRACHTIN	2012	kg					45.7		1.5			
+41	Oregon	AZADIRACHTIN	2013	kg					70.9		16			
+41	Oregon	AZADIRACHTIN	2014	kg					121.2		9.1			
+41	Oregon	AZADIRACHTIN	2015	kg					22		18.8			
+41	Oregon	AZADIRACHTIN	2016	kg					121.6		148.9			
+41	Oregon	AZADIRACHTIN	2017	kg					101.3		31.5			
+42	Pennsylvania	AZADIRACHTIN	1995	kg							0			
+42	Pennsylvania	AZADIRACHTIN	1996	kg	10.1									
+42	Pennsylvania	AZADIRACHTIN	2000	kg							0.9			
+42	Pennsylvania	AZADIRACHTIN	2006	kg					6		5.6			
+42	Pennsylvania	AZADIRACHTIN	2009	kg							6.8			
+44	Rhode Island	AZADIRACHTIN	2000	kg							0.2			
+45	South Carolina	AZADIRACHTIN	2005	kg										0
+45	South Carolina	AZADIRACHTIN	2006	kg					0.1					
+47	Tennessee	AZADIRACHTIN	2002	kg										0.5
+47	Tennessee	AZADIRACHTIN	2006	kg							0.3			
+47	Tennessee	AZADIRACHTIN	2013	kg				34.9						
+47	Tennessee	AZADIRACHTIN	2016	kg					0					
+48	Texas	AZADIRACHTIN	1997	kg					1.8					
+48	Texas	AZADIRACHTIN	1998	kg							5.6			
+48	Texas	AZADIRACHTIN	1999	kg					136.5		0.8			
+48	Texas	AZADIRACHTIN	2002	kg					54.7					
+48	Texas	AZADIRACHTIN	2004	kg				10.6	7.4					
+48	Texas	AZADIRACHTIN	2005	kg					20.4					
+48	Texas	AZADIRACHTIN	2006	kg					4.7					
+48	Texas	AZADIRACHTIN	2017	kg					15.6					
+49	Utah	AZADIRACHTIN	2004	kg			5							
+49	Utah	AZADIRACHTIN	2010	kg					0					
+50	Vermont	AZADIRACHTIN	2000	kg							2.8			
+51	Virginia	AZADIRACHTIN	2002	kg										0.3
+51	Virginia	AZADIRACHTIN	2006	kg							2.8			
+51	Virginia	AZADIRACHTIN	2010	kg					5.3					
+51	Virginia	AZADIRACHTIN	2011	kg					5					
+51	Virginia	AZADIRACHTIN	2012	kg					2.1					
+51	Virginia	AZADIRACHTIN	2015	kg										5.8
+51	Virginia	AZADIRACHTIN	2016	kg					0					28.5
+53	Washington	AZADIRACHTIN	1995	kg							0.4			
+53	Washington	AZADIRACHTIN	2000	kg					36.6		45.8			
+53	Washington	AZADIRACHTIN	2001	kg					12.5		39.7			
+53	Washington	AZADIRACHTIN	2002	kg							69.4			
+53	Washington	AZADIRACHTIN	2003	kg					6.8		39.5			
+53	Washington	AZADIRACHTIN	2004	kg	56.9				7.5		44.6			
+53	Washington	AZADIRACHTIN	2005	kg					21.6		72.6			
+53	Washington	AZADIRACHTIN	2006	kg					16.3		92.2			
+53	Washington	AZADIRACHTIN	2007	kg					183.5		140.8			
+53	Washington	AZADIRACHTIN	2008	kg					91		180.7			
+53	Washington	AZADIRACHTIN	2009	kg					61.3		20			
+53	Washington	AZADIRACHTIN	2010	kg					34		41			
+53	Washington	AZADIRACHTIN	2011	kg					67.5		110.5			
+53	Washington	AZADIRACHTIN	2012	kg					22.9		64.5			
+53	Washington	AZADIRACHTIN	2013	kg					163.5		94.1			
+53	Washington	AZADIRACHTIN	2014	kg					148		96.5			
+53	Washington	AZADIRACHTIN	2015	kg					63		201.6			
+53	Washington	AZADIRACHTIN	2016	kg							505.2			
+53	Washington	AZADIRACHTIN	2017	kg							767			
+54	West Virginia	AZADIRACHTIN	2005	kg										0.5
+54	West Virginia	AZADIRACHTIN	2006	kg					0.2		6.4			
+54	West Virginia	AZADIRACHTIN	2009	kg							0.1			
+55	Wisconsin	AZADIRACHTIN	2014	kg					48.1					
+55	Wisconsin	AZADIRACHTIN	2015	kg					22.7					
+55	Wisconsin	AZADIRACHTIN	2017	kg					340.1					
+56	Wyoming	AZADIRACHTIN	2008	kg					0					
+56	Wyoming	AZADIRACHTIN	2009	kg					0					
+56	Wyoming	AZADIRACHTIN	2010	kg					0					
+56	Wyoming	AZADIRACHTIN	2014	kg					0					

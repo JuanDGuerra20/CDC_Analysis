@@ -1,0 +1,290 @@
+01	Alabama	ROTENONE	1997	kg							0.1			
+01	Alabama	ROTENONE	2000	kg	0.3						31.3			
+01	Alabama	ROTENONE	2006	kg				5.5						
+01	Alabama	ROTENONE	2007	kg				29.8						
+01	Alabama	ROTENONE	2008	kg				7.3						
+04	Arizona	ROTENONE	1992	kg					12.6		254.3		0	
+04	Arizona	ROTENONE	1993	kg					16.3		63			
+04	Arizona	ROTENONE	1994	kg					6.6		40.1			
+04	Arizona	ROTENONE	1995	kg					3.6		2.2			
+04	Arizona	ROTENONE	1996	kg					53.4		0			
+04	Arizona	ROTENONE	1997	kg					107.5		594.6			
+04	Arizona	ROTENONE	1998	kg					32.1					
+04	Arizona	ROTENONE	2000	kg					0					
+04	Arizona	ROTENONE	2002	kg					0					
+04	Arizona	ROTENONE	2004	kg					0.8					
+04	Arizona	ROTENONE	2005	kg					0					
+04	Arizona	ROTENONE	2007	kg					0					
+04	Arizona	ROTENONE	2008	kg					0					
+05	Arkansas	ROTENONE	1993	kg							0.6			
+05	Arkansas	ROTENONE	1994	kg				304.4						
+05	Arkansas	ROTENONE	1995	kg				547.7						
+05	Arkansas	ROTENONE	1997	kg				515.9						
+05	Arkansas	ROTENONE	2008	kg	73.3									
+06	California	ROTENONE	1992	kg	0.4			7.5	277.3		1782.5	0		0.1
+06	California	ROTENONE	1993	kg	3.2			8.4	327.6		180.3	0		0.7
+06	California	ROTENONE	1994	kg	0			7	392.4		110.8			0.5
+06	California	ROTENONE	1995	kg	0.1			1.5	443.8		94	0.1		
+06	California	ROTENONE	1996	kg	0.7				371.5		28.1	0.5		0.1
+06	California	ROTENONE	1997	kg	0.4			1.6	313.3		17.3			
+06	California	ROTENONE	1998	kg					321.3		24.9	0.6		1.5
+06	California	ROTENONE	1999	kg	0				231.9		64.1	0.7		
+06	California	ROTENONE	2000	kg	0				155.7		16.3			0
+06	California	ROTENONE	2001	kg	0				127.1		6.2			
+06	California	ROTENONE	2002	kg	0.1			0	122.7		43.8	0.2		
+06	California	ROTENONE	2003	kg					101		1.8			
+06	California	ROTENONE	2004	kg					104.9		5			
+06	California	ROTENONE	2005	kg					75.9		0.9			
+06	California	ROTENONE	2006	kg					91.9		2.1			0
+06	California	ROTENONE	2007	kg	0				105		1.9			
+06	California	ROTENONE	2008	kg					45.5		1.2			5.9
+06	California	ROTENONE	2009	kg					22.9		1.5			4.7
+06	California	ROTENONE	2010	kg	0				26.8		1.5			4
+06	California	ROTENONE	2011	kg					4		4.4			5.9
+06	California	ROTENONE	2012	kg					0.4		0.7			0
+06	California	ROTENONE	2013	kg					1		0.2			0
+06	California	ROTENONE	2014	kg					0.5		0.2			0
+06	California	ROTENONE	2015	kg					0.2		0.3			
+06	California	ROTENONE	2016	kg					0.2		0.2			
+06	California	ROTENONE	2017	kg					0.1		0.3			
+08	Colorado	ROTENONE	1992	kg							0.1			
+08	Colorado	ROTENONE	1993	kg							0			
+08	Colorado	ROTENONE	1994	kg							0			
+08	Colorado	ROTENONE	2000	kg										83.3
+08	Colorado	ROTENONE	2004	kg					0					
+09	Connecticut	ROTENONE	1992	kg					52.1					
+09	Connecticut	ROTENONE	1993	kg					58.2					
+09	Connecticut	ROTENONE	1994	kg					33.3					
+09	Connecticut	ROTENONE	1996	kg					22.8					
+09	Connecticut	ROTENONE	1997	kg					0.1					
+10	Delaware	ROTENONE	1992	kg					0.7					
+10	Delaware	ROTENONE	1993	kg					0.6					
+10	Delaware	ROTENONE	1994	kg	371.6				11.5				25.5	
+10	Delaware	ROTENONE	1995	kg					1.2					
+10	Delaware	ROTENONE	1996	kg					0.3					
+10	Delaware	ROTENONE	1997	kg					0.8					
+10	Delaware	ROTENONE	1998	kg					0.7					
+10	Delaware	ROTENONE	2000	kg								0		
+10	Delaware	ROTENONE	2004	kg					1.9					
+12	Florida	ROTENONE	1995	kg					3.9					
+12	Florida	ROTENONE	1997	kg		0.1		2.3	11.9		0.1			1.2
+12	Florida	ROTENONE	2000	kg	0.1									
+12	Florida	ROTENONE	2003	kg					3.1					
+12	Florida	ROTENONE	2007	kg				18.6						
+12	Florida	ROTENONE	2008	kg				0.5						
+13	Georgia	ROTENONE	1996	kg				747						
+13	Georgia	ROTENONE	1997	kg		0.8		36.6			5.6			9.8
+13	Georgia	ROTENONE	2000	kg	3.9									
+13	Georgia	ROTENONE	2003	kg					21.4					
+13	Georgia	ROTENONE	2004	kg							0			
+13	Georgia	ROTENONE	2007	kg				174						
+13	Georgia	ROTENONE	2008	kg				69						
+16	Idaho	ROTENONE	1993	kg					9690.3					
+16	Idaho	ROTENONE	1994	kg							0.1			
+16	Idaho	ROTENONE	1998	kg										2
+17	Illinois	ROTENONE	1994	kg					1.2					
+17	Illinois	ROTENONE	1996	kg					0.3					
+17	Illinois	ROTENONE	1997	kg							41.5	6121.8		
+17	Illinois	ROTENONE	2000	kg								7.2		
+17	Illinois	ROTENONE	2007	kg	3.3									
+17	Illinois	ROTENONE	2008	kg	126.4	62.7								
+18	Indiana	ROTENONE	1997	kg							3.9			
+18	Indiana	ROTENONE	1998	kg					176.1					
+18	Indiana	ROTENONE	2000	kg								22.8		
+18	Indiana	ROTENONE	2007	kg	2.7									
+18	Indiana	ROTENONE	2008	kg	22.1									
+19	Iowa	ROTENONE	1992	kg					73.4					
+19	Iowa	ROTENONE	1997	kg							21.4			
+19	Iowa	ROTENONE	2006	kg		10.4								
+19	Iowa	ROTENONE	2008	kg		56								
+20	Kansas	ROTENONE	2000	kg										122.9
+20	Kansas	ROTENONE	2003	kg										34.7
+20	Kansas	ROTENONE	2005	kg								93.4		
+21	Kentucky	ROTENONE	1993	kg										486.3
+21	Kentucky	ROTENONE	1994	kg					3.4					
+21	Kentucky	ROTENONE	1997	kg							0.3			
+21	Kentucky	ROTENONE	2000	kg								43.4		
+21	Kentucky	ROTENONE	2007	kg	0.7									
+22	Louisiana	ROTENONE	1993	kg							0.4			
+22	Louisiana	ROTENONE	2007	kg										3
+23	Maine	ROTENONE	1992	kg					6757					
+23	Maine	ROTENONE	1993	kg					102.4					
+23	Maine	ROTENONE	1994	kg					11328.8					
+23	Maine	ROTENONE	1995	kg					176.8					
+23	Maine	ROTENONE	1996	kg					1117.6					
+23	Maine	ROTENONE	1997	kg					114.2					
+24	Maryland	ROTENONE	1992	kg					41					
+24	Maryland	ROTENONE	1993	kg					180.2					
+24	Maryland	ROTENONE	1994	kg					336.5		6.8			
+24	Maryland	ROTENONE	1996	kg					4.2		0.8			
+24	Maryland	ROTENONE	1997	kg					64.7					
+24	Maryland	ROTENONE	2000	kg								1		
+24	Maryland	ROTENONE	2001	kg					4.6					
+24	Maryland	ROTENONE	2003	kg					2113.8					
+24	Maryland	ROTENONE	2004	kg					2.6					
+25	Massachusetts	ROTENONE	1992	kg					59.4					
+25	Massachusetts	ROTENONE	1993	kg					157.1					
+25	Massachusetts	ROTENONE	1994	kg					845.9					
+25	Massachusetts	ROTENONE	1995	kg					94.1					
+25	Massachusetts	ROTENONE	1996	kg					51.4					
+25	Massachusetts	ROTENONE	1997	kg					748.7					
+25	Massachusetts	ROTENONE	2006	kg					0.1					
+26	Michigan	ROTENONE	1993	kg							6.7			
+26	Michigan	ROTENONE	1996	kg					4.5					
+26	Michigan	ROTENONE	1998	kg					3346.1					
+27	Minnesota	ROTENONE	1996	kg					0					
+27	Minnesota	ROTENONE	1997	kg							178.7			
+27	Minnesota	ROTENONE	2000	kg										0
+28	Mississippi	ROTENONE	1995	kg				2511.2						
+28	Mississippi	ROTENONE	2000	kg							5.9			
+28	Mississippi	ROTENONE	2006	kg				0.9						
+29	Missouri	ROTENONE	1992	kg					0.2					
+29	Missouri	ROTENONE	1994	kg				286						
+29	Missouri	ROTENONE	1997	kg				450.5						
+29	Missouri	ROTENONE	2005	kg								119.5		
+29	Missouri	ROTENONE	2006	kg		2								
+29	Missouri	ROTENONE	2008	kg	105.6	18.8								
+30	Montana	ROTENONE	2000	kg			9							
+31	Nebraska	ROTENONE	1992	kg					1.8					
+31	Nebraska	ROTENONE	2000	kg										15.6
+31	Nebraska	ROTENONE	2003	kg										1.7
+31	Nebraska	ROTENONE	2004	kg					0					
+31	Nebraska	ROTENONE	2006	kg	333	6.4								
+31	Nebraska	ROTENONE	2008	kg		13								
+32	Nevada	ROTENONE	1993	kg							0			
+32	Nevada	ROTENONE	1994	kg					0					
+32	Nevada	ROTENONE	1995	kg					0					
+32	Nevada	ROTENONE	1997	kg							0			
+32	Nevada	ROTENONE	2004	kg					0					
+32	Nevada	ROTENONE	2008	kg					0					
+33	New Hampshire	ROTENONE	1992	kg					5.9					
+33	New Hampshire	ROTENONE	1993	kg					47					
+33	New Hampshire	ROTENONE	1994	kg					104.2					
+33	New Hampshire	ROTENONE	1995	kg					160.1					
+33	New Hampshire	ROTENONE	1996	kg					4.9					
+33	New Hampshire	ROTENONE	1997	kg					138.8					
+34	New Jersey	ROTENONE	1992	kg					1480.3				29	
+34	New Jersey	ROTENONE	1993	kg					750.2					
+34	New Jersey	ROTENONE	1994	kg	582.9				4489.7				1081.2	
+34	New Jersey	ROTENONE	1995	kg					531.1					
+34	New Jersey	ROTENONE	1996	kg					354.2					
+34	New Jersey	ROTENONE	1997	kg					311.3					
+34	New Jersey	ROTENONE	1998	kg					202					
+34	New Jersey	ROTENONE	2000	kg								0.4		
+35	New Mexico	ROTENONE	1992	kg							0		0	
+35	New Mexico	ROTENONE	1993	kg							0			
+35	New Mexico	ROTENONE	1994	kg							0			
+35	New Mexico	ROTENONE	1997	kg							471.1			
+35	New Mexico	ROTENONE	2002	kg										0.5
+36	New York	ROTENONE	1992	kg					2246.1					
+36	New York	ROTENONE	1993	kg					114					
+36	New York	ROTENONE	1994	kg					3454.9					
+36	New York	ROTENONE	1995	kg	797.5				48.8					
+36	New York	ROTENONE	1996	kg					47.2					
+36	New York	ROTENONE	1997	kg					598.5					
+36	New York	ROTENONE	1999	kg					0					
+36	New York	ROTENONE	2006	kg					0					
+37	North Carolina	ROTENONE	1996	kg							2.2			
+37	North Carolina	ROTENONE	1997	kg				55.8						
+37	North Carolina	ROTENONE	2004	kg							0.1			
+37	North Carolina	ROTENONE	2006	kg					0.5					
+37	North Carolina	ROTENONE	2007	kg				31.9						
+37	North Carolina	ROTENONE	2008	kg				16.2						
+38	North Dakota	ROTENONE	2000	kg										49.5
+38	North Dakota	ROTENONE	2007	kg										18.5
+39	Ohio	ROTENONE	1992	kg					95.5					
+39	Ohio	ROTENONE	1993	kg							0.3			138.4
+39	Ohio	ROTENONE	1994	kg					2.4					
+39	Ohio	ROTENONE	1996	kg					403.1		0			
+39	Ohio	ROTENONE	1998	kg							3333.1			
+39	Ohio	ROTENONE	2004	kg					2.1					
+40	Oklahoma	ROTENONE	1993	kg							2.6			
+40	Oklahoma	ROTENONE	1996	kg					1259					
+40	Oklahoma	ROTENONE	1997	kg								87.2		
+40	Oklahoma	ROTENONE	1999	kg							9.8	127.7		
+40	Oklahoma	ROTENONE	2002	kg										1.1
+40	Oklahoma	ROTENONE	2004	kg										0
+41	Oregon	ROTENONE	1993	kg					23403.6		2.1			
+41	Oregon	ROTENONE	1994	kg					0.4		3.4			0
+41	Oregon	ROTENONE	1995	kg							5.5			
+41	Oregon	ROTENONE	1997	kg					0.4					
+41	Oregon	ROTENONE	1998	kg							0.4			
+41	Oregon	ROTENONE	1999	kg							1			
+41	Oregon	ROTENONE	2001	kg							0.1			
+41	Oregon	ROTENONE	2002	kg							0			
+42	Pennsylvania	ROTENONE	1992	kg					1996				22.9	
+42	Pennsylvania	ROTENONE	1993	kg					5746.9					
+42	Pennsylvania	ROTENONE	1994	kg	4348.2				4588.1				4223.1	
+42	Pennsylvania	ROTENONE	1995	kg					82.1					
+42	Pennsylvania	ROTENONE	1996	kg					53.3		6.4			
+42	Pennsylvania	ROTENONE	1997	kg					240.6					
+42	Pennsylvania	ROTENONE	1998	kg					34.9					
+42	Pennsylvania	ROTENONE	2000	kg								9.6		
+42	Pennsylvania	ROTENONE	2001	kg					4.4					
+42	Pennsylvania	ROTENONE	2003	kg					1854.5					
+42	Pennsylvania	ROTENONE	2004	kg					0.4					
+44	Rhode Island	ROTENONE	1992	kg					69.8					
+44	Rhode Island	ROTENONE	1993	kg					27.2					
+44	Rhode Island	ROTENONE	1994	kg					112.8					
+44	Rhode Island	ROTENONE	1996	kg					3.7					
+44	Rhode Island	ROTENONE	1997	kg					0.6					
+45	South Carolina	ROTENONE	1996	kg				97.4						
+45	South Carolina	ROTENONE	1997	kg				17.1						
+45	South Carolina	ROTENONE	2003	kg					14					
+45	South Carolina	ROTENONE	2004	kg							0			
+45	South Carolina	ROTENONE	2006	kg					0					
+45	South Carolina	ROTENONE	2007	kg				9.1						
+45	South Carolina	ROTENONE	2008	kg				5						
+46	South Dakota	ROTENONE	2000	kg										87.1
+46	South Dakota	ROTENONE	2008	kg		15.8								
+46	South Dakota	ROTENONE	2009	kg		2574.1								
+47	Tennessee	ROTENONE	1994	kg				147.8						
+47	Tennessee	ROTENONE	1995	kg				1186.5						
+47	Tennessee	ROTENONE	1996	kg							0			
+47	Tennessee	ROTENONE	1997	kg				154.5						
+47	Tennessee	ROTENONE	2000	kg								6.6		
+47	Tennessee	ROTENONE	2004	kg							0			
+47	Tennessee	ROTENONE	2006	kg				8.7						
+47	Tennessee	ROTENONE	2008	kg	40.6									
+48	Texas	ROTENONE	1993	kg							16.6			
+48	Texas	ROTENONE	1995	kg				1.4						
+48	Texas	ROTENONE	1997	kg							490			
+48	Texas	ROTENONE	1998	kg					7.6					
+48	Texas	ROTENONE	1999	kg							29.4			
+48	Texas	ROTENONE	2002	kg										6.5
+48	Texas	ROTENONE	2004	kg				90.4						4.1
+49	Utah	ROTENONE	1992	kg							0			
+49	Utah	ROTENONE	1993	kg							0			
+49	Utah	ROTENONE	1994	kg							0			
+50	Vermont	ROTENONE	1992	kg					4.6					
+50	Vermont	ROTENONE	1993	kg					14.2					
+50	Vermont	ROTENONE	1994	kg					57.5					
+50	Vermont	ROTENONE	1995	kg					7.4					
+50	Vermont	ROTENONE	1996	kg					5.5					
+50	Vermont	ROTENONE	1997	kg					83.8					
+50	Vermont	ROTENONE	2006	kg					0					
+51	Virginia	ROTENONE	1993	kg										177.6
+51	Virginia	ROTENONE	1994	kg					4		7.8			
+51	Virginia	ROTENONE	1996	kg					0		6.8			
+51	Virginia	ROTENONE	2001	kg					0					
+51	Virginia	ROTENONE	2003	kg					121.9					
+51	Virginia	ROTENONE	2004	kg					0.2					
+53	Washington	ROTENONE	1993	kg					16685.9					
+53	Washington	ROTENONE	1994	kg							29.8			
+53	Washington	ROTENONE	1995	kg							0			
+53	Washington	ROTENONE	1997	kg					0.1					
+53	Washington	ROTENONE	1998	kg							0			
+53	Washington	ROTENONE	1999	kg							16			
+53	Washington	ROTENONE	2001	kg							4.8			
+53	Washington	ROTENONE	2002	kg							0			
+54	West Virginia	ROTENONE	1993	kg										27.7
+54	West Virginia	ROTENONE	1994	kg					32.5		3.3			
+54	West Virginia	ROTENONE	1996	kg					0		2.4			
+54	West Virginia	ROTENONE	1998	kg							429.3			
+54	West Virginia	ROTENONE	2001	kg					0					
+54	West Virginia	ROTENONE	2003	kg					92.9					
+54	West Virginia	ROTENONE	2004	kg					0					
+55	Wisconsin	ROTENONE	1994	kg					3.5					
+55	Wisconsin	ROTENONE	1996	kg					48					
+55	Wisconsin	ROTENONE	1997	kg							406.3			
+55	Wisconsin	ROTENONE	2008	kg		4.3								

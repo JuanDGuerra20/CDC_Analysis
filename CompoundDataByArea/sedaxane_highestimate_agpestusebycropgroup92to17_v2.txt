@@ -1,0 +1,64 @@
+01	Alabama	SEDAXANE	2014	kg		32.8								
+05	Arkansas	SEDAXANE	2013	kg		259.5								
+05	Arkansas	SEDAXANE	2014	kg		30.1	236.8							
+06	California	SEDAXANE	2017	kg							0			
+08	Colorado	SEDAXANE	2013	kg			131.2							
+08	Colorado	SEDAXANE	2014	kg		0.9	377.8							
+12	Florida	SEDAXANE	2014	kg		2.3								
+13	Georgia	SEDAXANE	2014	kg		1.5								
+16	Idaho	SEDAXANE	2013	kg			319							
+16	Idaho	SEDAXANE	2014	kg			205							
+17	Illinois	SEDAXANE	2013	kg		309								
+17	Illinois	SEDAXANE	2014	kg		687.1	122							
+18	Indiana	SEDAXANE	2013	kg		153.2								
+18	Indiana	SEDAXANE	2014	kg		280	37							
+19	Iowa	SEDAXANE	2013	kg		275.8	0							
+19	Iowa	SEDAXANE	2014	kg		469.8	0.1							
+20	Kansas	SEDAXANE	2013	kg			493.7							
+20	Kansas	SEDAXANE	2014	kg		544.7	382.2							
+21	Kentucky	SEDAXANE	2013	kg		35.8								
+21	Kentucky	SEDAXANE	2014	kg		122.4	32.7							
+24	Maryland	SEDAXANE	2014	kg		16.7								
+26	Michigan	SEDAXANE	2013	kg		72.8								
+26	Michigan	SEDAXANE	2014	kg		72.2	34.4							
+27	Minnesota	SEDAXANE	2013	kg		183.2	17.6							
+27	Minnesota	SEDAXANE	2014	kg		512.5	26.7							
+28	Mississippi	SEDAXANE	2014	kg		8.7	82.1							
+29	Missouri	SEDAXANE	2013	kg		247.3	5.1							
+29	Missouri	SEDAXANE	2014	kg		151.6	113.1							
+30	Montana	SEDAXANE	2013	kg			570.2							
+30	Montana	SEDAXANE	2014	kg		0.3	404.3							
+31	Nebraska	SEDAXANE	2013	kg		42.9	62.5							
+31	Nebraska	SEDAXANE	2014	kg		526.6	241.3							
+32	Nevada	SEDAXANE	2013	kg			4.5							
+32	Nevada	SEDAXANE	2014	kg			2.6							
+35	New Mexico	SEDAXANE	2013	kg			8.3							
+35	New Mexico	SEDAXANE	2014	kg			2.6							
+36	New York	SEDAXANE	2014	kg		17								
+37	North Carolina	SEDAXANE	2014	kg		45.9								
+38	North Dakota	SEDAXANE	2013	kg			459.4							
+38	North Dakota	SEDAXANE	2014	kg		227	875.5							
+39	Ohio	SEDAXANE	2013	kg		171								
+39	Ohio	SEDAXANE	2014	kg		363.7	25.3							
+40	Oklahoma	SEDAXANE	2013	kg			213.4							
+40	Oklahoma	SEDAXANE	2014	kg		71.8	60.2							
+41	Oregon	SEDAXANE	2013	kg			209.2							
+41	Oregon	SEDAXANE	2014	kg			192.9							
+42	Pennsylvania	SEDAXANE	2014	kg		36.7	1.8							
+45	South Carolina	SEDAXANE	2014	kg		27.1								
+46	South Dakota	SEDAXANE	2013	kg		44.7	71.8							
+46	South Dakota	SEDAXANE	2014	kg		389.4	163.2							
+47	Tennessee	SEDAXANE	2013	kg		47								
+47	Tennessee	SEDAXANE	2014	kg		27	88.3							
+48	Texas	SEDAXANE	2013	kg			157.7							
+48	Texas	SEDAXANE	2014	kg		35	753.7							
+49	Utah	SEDAXANE	2013	kg			9.1							
+49	Utah	SEDAXANE	2014	kg			15.7							
+51	Virginia	SEDAXANE	2014	kg		102.7								
+53	Washington	SEDAXANE	2013	kg			537							
+53	Washington	SEDAXANE	2014	kg			421.6							
+54	West Virginia	SEDAXANE	2014	kg		15.5	0							
+55	Wisconsin	SEDAXANE	2013	kg		73								
+55	Wisconsin	SEDAXANE	2014	kg		105.7	30.6							
+56	Wyoming	SEDAXANE	2013	kg			5							
+56	Wyoming	SEDAXANE	2014	kg			21.9							

@@ -1,0 +1,53 @@
+04	Arizona	ANILAZINE	1992	kg					288.1					
+04	Arizona	ANILAZINE	1993	kg					5948.2					
+04	Arizona	ANILAZINE	1994	kg					3.7					
+04	Arizona	ANILAZINE	1996	kg					63.2					
+06	California	ANILAZINE	1992	kg					40619.8		58.6			
+06	California	ANILAZINE	1993	kg					18448		15.5			
+06	California	ANILAZINE	1994	kg					9473.1		4.8		38.5	
+06	California	ANILAZINE	1995	kg					7896.9		7.1			
+06	California	ANILAZINE	1996	kg					3902.2		114.4		2.8	
+06	California	ANILAZINE	1997	kg					1535.4		4.5		24.1	
+06	California	ANILAZINE	1998	kg					2640.7		7.3		1.1	
+06	California	ANILAZINE	1999	kg					997				282	
+06	California	ANILAZINE	2000	kg					1061.8		1.1		45.9	
+06	California	ANILAZINE	2001	kg					479.9		3.6			
+06	California	ANILAZINE	2002	kg					51		0.2			
+06	California	ANILAZINE	2003	kg					251.7		6.9			
+06	California	ANILAZINE	2004	kg					240.8		44.3			
+06	California	ANILAZINE	2006	kg							0			
+06	California	ANILAZINE	2009	kg							0			
+12	Florida	ANILAZINE	1994	kg					135.3					
+13	Georgia	ANILAZINE	1994	kg					7.8					
+13	Georgia	ANILAZINE	1995	kg					7.7					
+16	Idaho	ANILAZINE	1992	kg					3246.7					
+18	Indiana	ANILAZINE	1992	kg					208.4					
+18	Indiana	ANILAZINE	1994	kg					985					
+21	Kentucky	ANILAZINE	1994	kg					8.2					
+21	Kentucky	ANILAZINE	1995	kg					8.2					
+23	Maine	ANILAZINE	1996	kg					1448.6					
+26	Michigan	ANILAZINE	1992	kg					1207.2					
+26	Michigan	ANILAZINE	1993	kg					2159.5					
+26	Michigan	ANILAZINE	1994	kg					1204.9					
+27	Minnesota	ANILAZINE	1992	kg			2115.5							1024.8
+27	Minnesota	ANILAZINE	1994	kg					1991.2					
+30	Montana	ANILAZINE	1992	kg					63.7					
+32	Nevada	ANILAZINE	1992	kg					1.4					
+32	Nevada	ANILAZINE	1993	kg					1.9					
+32	Nevada	ANILAZINE	1994	kg					0.7					
+35	New Mexico	ANILAZINE	1992	kg					0.3					
+37	North Carolina	ANILAZINE	1994	kg					44.5					
+37	North Carolina	ANILAZINE	1995	kg					50.5					
+38	North Dakota	ANILAZINE	1992	kg			2707							22505.3
+38	North Dakota	ANILAZINE	1994	kg					2627.5					
+39	Ohio	ANILAZINE	1992	kg					3040.5					
+39	Ohio	ANILAZINE	1993	kg					2229.4					
+39	Ohio	ANILAZINE	1994	kg					7314.3					
+41	Oregon	ANILAZINE	1992	kg					2.4					
+46	South Dakota	ANILAZINE	1992	kg										21445.1
+47	Tennessee	ANILAZINE	1994	kg					296.4					
+47	Tennessee	ANILAZINE	1995	kg					164.5					
+49	Utah	ANILAZINE	1992	kg					1.5					
+51	Virginia	ANILAZINE	1994	kg					4.8					
+51	Virginia	ANILAZINE	1995	kg					5					
+56	Wyoming	ANILAZINE	1992	kg					0					

@@ -1,0 +1,956 @@
+01	Alabama	ACEPHATE	1992	kg		1589.2		5909.4	375.9				558	21896.6
+01	Alabama	ACEPHATE	1993	kg				2902.3	218.8				33.3	21090.4
+01	Alabama	ACEPHATE	1994	kg	46.8			12097.7	355.7				213.4	2263
+01	Alabama	ACEPHATE	1995	kg				3626.5	879.6				345.5	16521.9
+01	Alabama	ACEPHATE	1996	kg	261.1	797.9		29355.8	474.2				72.5	8549
+01	Alabama	ACEPHATE	1997	kg	29.1	34.6		4082.3	36.7			9.7	64.8	13585.2
+01	Alabama	ACEPHATE	1998	kg				7997.6	295.7					1980.4
+01	Alabama	ACEPHATE	1999	kg				5594.3	229.7					1153.6
+01	Alabama	ACEPHATE	2000	kg				7493.8	416.5					6065.1
+01	Alabama	ACEPHATE	2001	kg				5328.8	268.5		454.6			1584.7
+01	Alabama	ACEPHATE	2002	kg				10481.6	379.3		47			958.8
+01	Alabama	ACEPHATE	2003	kg				16099.1	438.3		27.8			13450.7
+01	Alabama	ACEPHATE	2004	kg		1274.7		38541.3	581.1		312.9			6328.1
+01	Alabama	ACEPHATE	2005	kg		131		22915.4	94.6					16773.9
+01	Alabama	ACEPHATE	2006	kg		4050.1		8674.7	219.5					12815.8
+01	Alabama	ACEPHATE	2007	kg		8930.4		5183	387.1					1738.1
+01	Alabama	ACEPHATE	2008	kg		1722.1		16211.5	32					15305.8
+01	Alabama	ACEPHATE	2009	kg				10530.4	36.1					408.8
+01	Alabama	ACEPHATE	2010	kg		4031.2		22331.6	68.1					3330.9
+01	Alabama	ACEPHATE	2011	kg		16805.4		30439.4	72		965.2			19879
+01	Alabama	ACEPHATE	2012	kg		33496.3		10390.4	64					23935.9
+01	Alabama	ACEPHATE	2013	kg		4026.8		6863.5	11.8					1296.1
+01	Alabama	ACEPHATE	2014	kg		19393.5		25151.3						8957.8
+01	Alabama	ACEPHATE	2015	kg		29473.2		14082.8						18083.2
+01	Alabama	ACEPHATE	2016	kg		17709.5		20528.4						13791.1
+01	Alabama	ACEPHATE	2017	kg		3946.2		13434.3						4946.1
+04	Arizona	ACEPHATE	1992	kg				58406.8	1118.5			1705.6		
+04	Arizona	ACEPHATE	1993	kg	2455.2			106600.1	2800.9		11.3			
+04	Arizona	ACEPHATE	1994	kg				245189.4	8095.3		775.7			
+04	Arizona	ACEPHATE	1995	kg				356004.2	1784.7		0			
+04	Arizona	ACEPHATE	1996	kg				70352.6	10976.2					
+04	Arizona	ACEPHATE	1997	kg	38.6			65104	22529			41.4		
+04	Arizona	ACEPHATE	1998	kg				29197.4	11019.5					
+04	Arizona	ACEPHATE	1999	kg				26226.2	9593.1					
+04	Arizona	ACEPHATE	2000	kg				7630.3	7625.1					
+04	Arizona	ACEPHATE	2001	kg				43451.7	2106.1					
+04	Arizona	ACEPHATE	2002	kg				46082.1	5242.4		244			
+04	Arizona	ACEPHATE	2003	kg				19306.1	1459.2					
+04	Arizona	ACEPHATE	2004	kg				14830.3	9085.5					
+04	Arizona	ACEPHATE	2005	kg				14605.3	5588.7					
+04	Arizona	ACEPHATE	2006	kg				10482.4	4131.9					
+04	Arizona	ACEPHATE	2007	kg				20210.7	1488.2					
+04	Arizona	ACEPHATE	2008	kg				5402.2	4636.9					
+04	Arizona	ACEPHATE	2009	kg				8120.5	3906.7					
+04	Arizona	ACEPHATE	2010	kg					7372					
+04	Arizona	ACEPHATE	2011	kg					5572.7					
+04	Arizona	ACEPHATE	2012	kg				3050.5	3589					
+04	Arizona	ACEPHATE	2013	kg				9953.4	6575.9					
+04	Arizona	ACEPHATE	2014	kg					12147.5					
+04	Arizona	ACEPHATE	2015	kg					16558.8					
+04	Arizona	ACEPHATE	2016	kg					5537.2					
+04	Arizona	ACEPHATE	2017	kg				1079.2	2869.1					
+05	Arkansas	ACEPHATE	1992	kg		13928.2		35580.6	38.5				30.8	439.9
+05	Arkansas	ACEPHATE	1993	kg				17282.9	81				1401.3	1242
+05	Arkansas	ACEPHATE	1994	kg		113900.2		38269.6					774.8	3754.3
+05	Arkansas	ACEPHATE	1995	kg		681.2	244	150921.3	112.2				42.4	89.1
+05	Arkansas	ACEPHATE	1996	kg				52906.1					11.9	478.4
+05	Arkansas	ACEPHATE	1997	kg				18372.1						7.4
+05	Arkansas	ACEPHATE	1998	kg				11769.1						
+05	Arkansas	ACEPHATE	1999	kg				18856.4						
+05	Arkansas	ACEPHATE	2000	kg				19806.2						
+05	Arkansas	ACEPHATE	2001	kg				62456.9						
+05	Arkansas	ACEPHATE	2002	kg				113000.7						
+05	Arkansas	ACEPHATE	2003	kg				114730.3						
+05	Arkansas	ACEPHATE	2004	kg		19696.4		211507.2						
+05	Arkansas	ACEPHATE	2005	kg		7520.7		105988						
+05	Arkansas	ACEPHATE	2006	kg		5817.9		283067.1						
+05	Arkansas	ACEPHATE	2007	kg		48143.5		264033.8	90.2					
+05	Arkansas	ACEPHATE	2008	kg		18306.2		187873.9						
+05	Arkansas	ACEPHATE	2009	kg		90267		111756.1						
+05	Arkansas	ACEPHATE	2010	kg		23238.6		198354.2	320					
+05	Arkansas	ACEPHATE	2011	kg		63651		408751.7	13.4	1474.7				
+05	Arkansas	ACEPHATE	2012	kg		111688.1		319862.9						
+05	Arkansas	ACEPHATE	2013	kg		23378		101485.5						
+05	Arkansas	ACEPHATE	2014	kg	19149.3	183466.3		169650.3		305.1				
+05	Arkansas	ACEPHATE	2015	kg		109507.3		114435.8						
+05	Arkansas	ACEPHATE	2016	kg		39686.8		193588.7						
+05	Arkansas	ACEPHATE	2017	kg		123076.5		110463.4		1679.6				
+06	California	ACEPHATE	1992	kg				22896.5	129593		5050.9		339.6	91.5
+06	California	ACEPHATE	1993	kg				13983.3	97652.1		5887.1		40.5	123.3
+06	California	ACEPHATE	1994	kg				33974.9	122560.2		5094		111.5	3.7
+06	California	ACEPHATE	1995	kg			27.2	64407.5	128090.8		5064.8		152.2	4.1
+06	California	ACEPHATE	1996	kg				28677.6	109058.9		5384.4		90.7	76.3
+06	California	ACEPHATE	1997	kg				32978.3	103006.2		5909.8		6.8	20.2
+06	California	ACEPHATE	1998	kg	325.6			34861.5	103026.2		6292.8	45.3	257.7	148.9
+06	California	ACEPHATE	1999	kg	11.6		51.9	19950.3	99879.1		30478.6	27.8		1.8
+06	California	ACEPHATE	2000	kg				19675.5	83415.8		6285.5		220.2	67.3
+06	California	ACEPHATE	2001	kg				16487.9	72225.9		7054.8	12.2	27.8	0.8
+06	California	ACEPHATE	2002	kg	17.6			11341.4	84991.8		7550.7	27.9	117.4	4.1
+06	California	ACEPHATE	2003	kg	0.7			18390.4	57375.4		6783.8		30.6	9.6
+06	California	ACEPHATE	2004	kg				16358.3	53514.2		7169		27.2	111.7
+06	California	ACEPHATE	2005	kg				17288.9	48715.8		7299		54.4	0.6
+06	California	ACEPHATE	2006	kg				11022.1	42773.9		9540.1			
+06	California	ACEPHATE	2007	kg				6179.4	39845.1		9094.4			7.3
+06	California	ACEPHATE	2008	kg				14574.3	34132.1		8569.5		2.5	0
+06	California	ACEPHATE	2009	kg				8239.5	29287.7		8434.5			0
+06	California	ACEPHATE	2010	kg				12109	30691.8		12562.8	541.1		
+06	California	ACEPHATE	2011	kg				25255.3	27335.7		9239	3659.1		3.3
+06	California	ACEPHATE	2012	kg				15068.1	26413.1		7092.8	6449	0.4	30.8
+06	California	ACEPHATE	2013	kg				33715.7	27497.6		6139.5	9083.8		
+06	California	ACEPHATE	2014	kg				16096	25694.4		6766.6	6902.4		
+06	California	ACEPHATE	2015	kg				27138.6	28659.3		9378.9	5174		
+06	California	ACEPHATE	2016	kg	33.4			12850	34496.7		13559.3	7321.4		3.4
+06	California	ACEPHATE	2017	kg				29304.6	30948.2		16752.1	5494.1		
+08	Colorado	ACEPHATE	1992	kg									30.8	
+08	Colorado	ACEPHATE	1993	kg									861.3	
+08	Colorado	ACEPHATE	1994	kg					1.5					1850.3
+08	Colorado	ACEPHATE	1995	kg									352.4	
+08	Colorado	ACEPHATE	1996	kg	155.8								104.5	
+08	Colorado	ACEPHATE	1997	kg					0.4				67.5	598
+08	Colorado	ACEPHATE	1998	kg					131.8			1448.7		
+08	Colorado	ACEPHATE	1999	kg					352.9					
+08	Colorado	ACEPHATE	2000	kg					1635.6					
+08	Colorado	ACEPHATE	2002	kg					29.2					
+08	Colorado	ACEPHATE	2003	kg					350					
+08	Colorado	ACEPHATE	2005	kg					1421.7					
+08	Colorado	ACEPHATE	2006	kg					4865.9					
+08	Colorado	ACEPHATE	2008	kg					400.7					
+08	Colorado	ACEPHATE	2014	kg					364.6					
+08	Colorado	ACEPHATE	2016	kg		7.6								
+08	Colorado	ACEPHATE	2017	kg		224.4								
+09	Connecticut	ACEPHATE	1992	kg					39.5					
+09	Connecticut	ACEPHATE	1993	kg					13.6					
+09	Connecticut	ACEPHATE	1994	kg					0.8					561.5
+09	Connecticut	ACEPHATE	1995	kg					370.5					942
+09	Connecticut	ACEPHATE	1996	kg					271.5					
+09	Connecticut	ACEPHATE	1997	kg					376.5					
+09	Connecticut	ACEPHATE	1998	kg					541.1					355.4
+09	Connecticut	ACEPHATE	1999	kg					546.2					260.4
+09	Connecticut	ACEPHATE	2000	kg					212.1					
+09	Connecticut	ACEPHATE	2001	kg					104.2					936.5
+09	Connecticut	ACEPHATE	2002	kg					364.3					236.2
+09	Connecticut	ACEPHATE	2003	kg					130.1					771.4
+09	Connecticut	ACEPHATE	2004	kg					110.6					440.4
+09	Connecticut	ACEPHATE	2005	kg					351.6					
+09	Connecticut	ACEPHATE	2006	kg					237.2					967.8
+09	Connecticut	ACEPHATE	2007	kg					219.6					
+09	Connecticut	ACEPHATE	2010	kg					2.1					
+09	Connecticut	ACEPHATE	2016	kg					7.5					
+10	Delaware	ACEPHATE	1992	kg		186.8			1134.4					
+10	Delaware	ACEPHATE	1993	kg					1984.7					
+10	Delaware	ACEPHATE	1994	kg					6004.8					
+10	Delaware	ACEPHATE	1995	kg					1565.2					
+10	Delaware	ACEPHATE	1996	kg	43.3	122.2			7840.7					
+10	Delaware	ACEPHATE	1997	kg	12.8				2045					
+10	Delaware	ACEPHATE	1998	kg					2915.1					
+10	Delaware	ACEPHATE	1999	kg					5250.6					
+10	Delaware	ACEPHATE	2000	kg					1251.1					
+10	Delaware	ACEPHATE	2001	kg					634.4					
+10	Delaware	ACEPHATE	2002	kg					3665.6					
+10	Delaware	ACEPHATE	2003	kg					3484.8					
+10	Delaware	ACEPHATE	2004	kg		260.1			8673.3					
+10	Delaware	ACEPHATE	2005	kg		36.9			1759.8					
+10	Delaware	ACEPHATE	2006	kg		1982.9			368					
+10	Delaware	ACEPHATE	2007	kg		1308.8			4162.2					
+10	Delaware	ACEPHATE	2008	kg		532.2			0.1					
+10	Delaware	ACEPHATE	2009	kg					199.3					
+10	Delaware	ACEPHATE	2010	kg		465.5			0.2					
+10	Delaware	ACEPHATE	2011	kg		1814.7			0.2					
+10	Delaware	ACEPHATE	2012	kg		3031.1			268.6					
+10	Delaware	ACEPHATE	2013	kg		288.3			0.5					
+10	Delaware	ACEPHATE	2014	kg		840.1			0.8					
+10	Delaware	ACEPHATE	2015	kg					1.3					
+10	Delaware	ACEPHATE	2016	kg		436.7								
+10	Delaware	ACEPHATE	2017	kg		323.4								
+12	Florida	ACEPHATE	1992	kg	42.9			150.3	2851.6		844		2242.5	22220.9
+12	Florida	ACEPHATE	1993	kg	1836.1			1430.5	3251.4		650		22669.4	8962.6
+12	Florida	ACEPHATE	1994	kg				209.2	7750.4		18782.2		685.7	15748.1
+12	Florida	ACEPHATE	1995	kg		485.9		2068.9	19806.2				3.9	15928.7
+12	Florida	ACEPHATE	1996	kg	16.4	66.3		1736.2	8446.7		217.2		508.7	15847.5
+12	Florida	ACEPHATE	1997	kg	0.1	56.6		204.7	1820.5		143.5		3165.5	32709.9
+12	Florida	ACEPHATE	1998	kg				3050.2	11278					18382.3
+12	Florida	ACEPHATE	1999	kg				650.6	28774.2					23136.7
+12	Florida	ACEPHATE	2000	kg				3194.4	7493.2					15797.4
+12	Florida	ACEPHATE	2001	kg				845.5	12249.9		201.7			9245.9
+12	Florida	ACEPHATE	2002	kg				762.7	5928.1		33			1899
+12	Florida	ACEPHATE	2003	kg				1156.4	14151.4		20.1			1498.4
+12	Florida	ACEPHATE	2004	kg		739.9		2725.6	27732.5		460.1			8405.8
+12	Florida	ACEPHATE	2005	kg				420	23003.1		6241.8			3288.3
+12	Florida	ACEPHATE	2006	kg				100.2	8747.5					1527.8
+12	Florida	ACEPHATE	2007	kg				199.5	44631.8					1375.6
+12	Florida	ACEPHATE	2008	kg				1200.2	29606.5					3111.2
+12	Florida	ACEPHATE	2009	kg				1489.8	38804.2					2557.2
+12	Florida	ACEPHATE	2010	kg				4051.5	17292.2					1626.1
+12	Florida	ACEPHATE	2011	kg				7215.5	17881.3		311.7			16402.5
+12	Florida	ACEPHATE	2012	kg				5834.2	22724.7		253.1			8834.6
+12	Florida	ACEPHATE	2013	kg				3156.3	21868.3					882.2
+12	Florida	ACEPHATE	2014	kg				1181.1	21505.8					3284.9
+12	Florida	ACEPHATE	2015	kg				225.2	21569.3					4624.6
+12	Florida	ACEPHATE	2016	kg		1238.6		1491.4	6957.7		112.5			11334.8
+12	Florida	ACEPHATE	2017	kg		127.9		7243.6						2514.3
+13	Georgia	ACEPHATE	1992	kg	104.3	1726.7		6990.1	5844.3				1549.9	39583.3
+13	Georgia	ACEPHATE	1993	kg	3595.4			2157.5	3675		1586.9		74399.2	66407.7
+13	Georgia	ACEPHATE	1994	kg	47.5		132.3	4153.8	13670.4				370.7	72534.9
+13	Georgia	ACEPHATE	1995	kg		4254.1		7939.1	6144.5				264.9	30482.1
+13	Georgia	ACEPHATE	1996	kg	103.8	990.5		12215.8	4019.7				60.5	51884.9
+13	Georgia	ACEPHATE	1997	kg	50	234.4		29211.2	2445.1		87.5		111.2	44024.9
+13	Georgia	ACEPHATE	1998	kg				7768.5	2942					39433.6
+13	Georgia	ACEPHATE	1999	kg				8457.2	6148.7		1023.8			47310.9
+13	Georgia	ACEPHATE	2000	kg				8330.3	5062.8					35345.4
+13	Georgia	ACEPHATE	2001	kg				14024.8	2572.8		1157.4			27217.9
+13	Georgia	ACEPHATE	2002	kg				18872.1	4441.2		827.1			35951.7
+13	Georgia	ACEPHATE	2003	kg				10793.9	8881.8		479.9			24435.1
+13	Georgia	ACEPHATE	2004	kg		8869.5		28864	12609.7		4855.1			18677.3
+13	Georgia	ACEPHATE	2005	kg		200.2		64248.6	1855.4					29914.1
+13	Georgia	ACEPHATE	2006	kg		9589.9		41867.6	3788.9					32419.8
+13	Georgia	ACEPHATE	2007	kg		16483.6		45674.3	8805.3					17455.3
+13	Georgia	ACEPHATE	2008	kg		6532.6		51986.7	3384.3					28410.9
+13	Georgia	ACEPHATE	2009	kg				53733.3	4825.5					20516.1
+13	Georgia	ACEPHATE	2010	kg		3694.6		68964.7	4800.6					24126.1
+13	Georgia	ACEPHATE	2011	kg		12592.6		82888.3	5587.4		3698.5			16233.3
+13	Georgia	ACEPHATE	2012	kg		22339.9		70153.1	6074.7					7545
+13	Georgia	ACEPHATE	2013	kg		2439.4		63352	892.9					16764.1
+13	Georgia	ACEPHATE	2014	kg		7572		85389.2	121.7					13274.4
+13	Georgia	ACEPHATE	2015	kg				52067						12716.6
+13	Georgia	ACEPHATE	2016	kg		28721.8		70349			3162.7			13952.7
+13	Georgia	ACEPHATE	2017	kg		1905.2		49567.5						8992
+16	Idaho	ACEPHATE	1994	kg			1116.5							
+16	Idaho	ACEPHATE	1996	kg	19.6								55.8	
+16	Idaho	ACEPHATE	1997	kg	181.7									
+17	Illinois	ACEPHATE	1992	kg					1210.4					80.7
+17	Illinois	ACEPHATE	1993	kg					6529.8					94
+17	Illinois	ACEPHATE	1994	kg			1467.5		2764					183.7
+17	Illinois	ACEPHATE	1995	kg		1906.5	276.8		2841.9					182.9
+17	Illinois	ACEPHATE	1996	kg					7326.4					171.6
+17	Illinois	ACEPHATE	1997	kg					3228.7				162.6	170.1
+17	Illinois	ACEPHATE	1998	kg					994.7					239.5
+17	Illinois	ACEPHATE	1999	kg					8819.1					227.1
+17	Illinois	ACEPHATE	2000	kg					4344.9					206.3
+17	Illinois	ACEPHATE	2001	kg					2504					327.2
+17	Illinois	ACEPHATE	2002	kg					4910.5		887.8			241
+17	Illinois	ACEPHATE	2003	kg					6006.9					181.8
+17	Illinois	ACEPHATE	2004	kg					1933.7					161.5
+17	Illinois	ACEPHATE	2005	kg		28211.6			7891.1					168.3
+17	Illinois	ACEPHATE	2006	kg					2426.3					252
+17	Illinois	ACEPHATE	2007	kg					2654.3		121.3			257.7
+17	Illinois	ACEPHATE	2008	kg					2389.2					768.5
+17	Illinois	ACEPHATE	2009	kg					183.9					389.6
+17	Illinois	ACEPHATE	2010	kg		54316.9			1062.2					351.7
+17	Illinois	ACEPHATE	2011	kg		8198.2			914.6					321.7
+17	Illinois	ACEPHATE	2012	kg					252.3					122.6
+17	Illinois	ACEPHATE	2013	kg					2062.3					147
+17	Illinois	ACEPHATE	2014	kg		57446.3			2469.8					76.8
+17	Illinois	ACEPHATE	2015	kg					922.7					132.1
+17	Illinois	ACEPHATE	2016	kg		82899								14.3
+17	Illinois	ACEPHATE	2017	kg		12666.9								66.8
+18	Indiana	ACEPHATE	1992	kg					720.2				43.4	3655.7
+18	Indiana	ACEPHATE	1993	kg					1107.1		12.1	1042.7	17.1	2569.8
+18	Indiana	ACEPHATE	1994	kg					166.9					8201.5
+18	Indiana	ACEPHATE	1995	kg					2267.3				90.9	3996.6
+18	Indiana	ACEPHATE	1996	kg	259.3				924				90.5	4694.3
+18	Indiana	ACEPHATE	1997	kg					710.5		232.7			5646.7
+18	Indiana	ACEPHATE	1998	kg					238.3					4683.1
+18	Indiana	ACEPHATE	1999	kg					1192.2					1178.1
+18	Indiana	ACEPHATE	2000	kg					772.6					1643
+18	Indiana	ACEPHATE	2001	kg					897.8					1481.3
+18	Indiana	ACEPHATE	2002	kg					1026.5					1686.7
+18	Indiana	ACEPHATE	2003	kg					774.4					1401.6
+18	Indiana	ACEPHATE	2004	kg					314.1					2147.1
+18	Indiana	ACEPHATE	2005	kg		14981.6			2349.1					1390
+18	Indiana	ACEPHATE	2006	kg					9072.2			2106.2		1191.3
+18	Indiana	ACEPHATE	2007	kg					5692.3					1191.5
+18	Indiana	ACEPHATE	2008	kg					3106.8					549.2
+18	Indiana	ACEPHATE	2009	kg					1000.6					828.7
+18	Indiana	ACEPHATE	2010	kg		15848.7			4148.9					778.4
+18	Indiana	ACEPHATE	2011	kg					4990					937.6
+18	Indiana	ACEPHATE	2012	kg					2334.1					683.9
+18	Indiana	ACEPHATE	2013	kg					4529.3					506.4
+18	Indiana	ACEPHATE	2014	kg		15020.2			1785.1					476.7
+18	Indiana	ACEPHATE	2015	kg					520.4					379
+18	Indiana	ACEPHATE	2016	kg		22509.6			145.6					72.1
+18	Indiana	ACEPHATE	2017	kg										323.5
+19	Iowa	ACEPHATE	1992	kg					79.4					2
+19	Iowa	ACEPHATE	1993	kg					441.3				24.1	2.2
+19	Iowa	ACEPHATE	1994	kg										13.3
+19	Iowa	ACEPHATE	1995	kg					217.6					3.9
+19	Iowa	ACEPHATE	1996	kg					236.7				119.7	4
+19	Iowa	ACEPHATE	1997	kg		489.1			78.9				664.4	3
+19	Iowa	ACEPHATE	1998	kg					14.4					8.2
+19	Iowa	ACEPHATE	1999	kg					382.6					4
+19	Iowa	ACEPHATE	2000	kg					21.4					4
+19	Iowa	ACEPHATE	2001	kg					201					5
+19	Iowa	ACEPHATE	2002	kg					262.1					10.1
+19	Iowa	ACEPHATE	2003	kg					174.7					6.7
+19	Iowa	ACEPHATE	2004	kg					69.6					2
+19	Iowa	ACEPHATE	2005	kg		7353.6			318.2					1.4
+19	Iowa	ACEPHATE	2006	kg					150.3					0.8
+19	Iowa	ACEPHATE	2007	kg					31.4					
+19	Iowa	ACEPHATE	2008	kg					2.5					
+19	Iowa	ACEPHATE	2010	kg		10563			6					
+19	Iowa	ACEPHATE	2011	kg					2.4					
+19	Iowa	ACEPHATE	2012	kg					1.5					
+19	Iowa	ACEPHATE	2013	kg					1.3					
+19	Iowa	ACEPHATE	2014	kg		22539.2			12					
+19	Iowa	ACEPHATE	2015	kg					2.3					
+19	Iowa	ACEPHATE	2016	kg		47756.1								
+20	Kansas	ACEPHATE	1992	kg				653.6					132.1	18
+20	Kansas	ACEPHATE	1993	kg		27309.7		73.9					3455.2	52.7
+20	Kansas	ACEPHATE	1994	kg	1972.3			156.2						10133.2
+20	Kansas	ACEPHATE	1995	kg				501.5					1254	
+20	Kansas	ACEPHATE	1996	kg	3400.6			59.4					656.5	33.6
+20	Kansas	ACEPHATE	1997	kg	44.4			627.3					128.5	40.7
+20	Kansas	ACEPHATE	1998	kg				3437.5				222.9		33.1
+20	Kansas	ACEPHATE	1999	kg				2854.6	52.4					26.2
+20	Kansas	ACEPHATE	2000	kg				14154.7	480.6					12.4
+20	Kansas	ACEPHATE	2001	kg				245.7						14.5
+20	Kansas	ACEPHATE	2002	kg				12093.8						27.8
+20	Kansas	ACEPHATE	2003	kg				776.5	127.4					18.4
+20	Kansas	ACEPHATE	2004	kg				4451.7			26.7			22.4
+20	Kansas	ACEPHATE	2005	kg				5143.7	277.7					
+20	Kansas	ACEPHATE	2006	kg				10895.7	836.7					
+20	Kansas	ACEPHATE	2007	kg				1238.7						
+20	Kansas	ACEPHATE	2008	kg				3067.1	89.2					
+20	Kansas	ACEPHATE	2009	kg				6124.5						
+20	Kansas	ACEPHATE	2010	kg				785.6						
+20	Kansas	ACEPHATE	2011	kg				7462.4						
+20	Kansas	ACEPHATE	2012	kg		97123.5		2226.4						
+20	Kansas	ACEPHATE	2013	kg				1184.2						
+20	Kansas	ACEPHATE	2014	kg				1353.1	159.8					
+20	Kansas	ACEPHATE	2015	kg				2254.4						
+20	Kansas	ACEPHATE	2016	kg		9893.7		1070.9						
+20	Kansas	ACEPHATE	2017	kg		830757.2		3406.8						
+21	Kentucky	ACEPHATE	1992	kg	240.7				551.3				4366.1	70970.5
+21	Kentucky	ACEPHATE	1993	kg					522.3			2669.4	39744.2	59452.9
+21	Kentucky	ACEPHATE	1994	kg	940.9		1743.5		759.5				145	62177.1
+21	Kentucky	ACEPHATE	1995	kg		200.1	117.7		3706.7			9320.5	882.3	69227.4
+21	Kentucky	ACEPHATE	1996	kg	1788.9				1194.1				290	65159.8
+21	Kentucky	ACEPHATE	1997	kg					996.6			380		72937.1
+21	Kentucky	ACEPHATE	1998	kg					25.2					116293.8
+21	Kentucky	ACEPHATE	1999	kg					59.2					104445.1
+21	Kentucky	ACEPHATE	2000	kg					131.1					65996.9
+21	Kentucky	ACEPHATE	2001	kg					37					70215.1
+21	Kentucky	ACEPHATE	2002	kg					41.7					47398.9
+21	Kentucky	ACEPHATE	2003	kg					30.2					38693.6
+21	Kentucky	ACEPHATE	2004	kg					8.3					41916.4
+21	Kentucky	ACEPHATE	2005	kg		5537.4			105.4					40594.4
+21	Kentucky	ACEPHATE	2006	kg					93.3			14926.3		51512.6
+21	Kentucky	ACEPHATE	2007	kg		21792			682.4					55986.2
+21	Kentucky	ACEPHATE	2008	kg					69.1					45467.9
+21	Kentucky	ACEPHATE	2009	kg					14.7					38472.9
+21	Kentucky	ACEPHATE	2010	kg		6473.2			52.8					40077.4
+21	Kentucky	ACEPHATE	2011	kg		3856.8			14.8					39431.9
+21	Kentucky	ACEPHATE	2012	kg										29557.9
+21	Kentucky	ACEPHATE	2013	kg					2.8					30122.9
+21	Kentucky	ACEPHATE	2014	kg		12452.3			5.8					30684.6
+21	Kentucky	ACEPHATE	2015	kg					0.8					17395.1
+21	Kentucky	ACEPHATE	2016	kg		8684								20411.9
+21	Kentucky	ACEPHATE	2017	kg		5676.2								20885.9
+22	Louisiana	ACEPHATE	1992	kg		33743.3		3737.4					326.7	
+22	Louisiana	ACEPHATE	1993	kg		52089.5		9372.7	1.1				288.6	5771.6
+22	Louisiana	ACEPHATE	1994	kg	120.6	30463.9		10899.7					1107.3	1159.9
+22	Louisiana	ACEPHATE	1995	kg				9013.6					16.6	
+22	Louisiana	ACEPHATE	1996	kg				81605.9	8.4				202.8	2103.4
+22	Louisiana	ACEPHATE	1997	kg		5134.6		52331.9						
+22	Louisiana	ACEPHATE	1998	kg				43317.5						
+22	Louisiana	ACEPHATE	1999	kg				27823.1			9426.5			
+22	Louisiana	ACEPHATE	2000	kg				22470.2			1587.3			
+22	Louisiana	ACEPHATE	2001	kg				95023.7			1459.6			
+22	Louisiana	ACEPHATE	2002	kg				83220.6						
+22	Louisiana	ACEPHATE	2003	kg				46451.8						
+22	Louisiana	ACEPHATE	2004	kg		15311.4		295914.7	1.2					
+22	Louisiana	ACEPHATE	2005	kg		10753.6		233802						
+22	Louisiana	ACEPHATE	2006	kg		80314.1		247234.3						
+22	Louisiana	ACEPHATE	2007	kg		41382.1		97761.7						
+22	Louisiana	ACEPHATE	2008	kg		127109.5		74079.6						
+22	Louisiana	ACEPHATE	2009	kg		274656.1		105423.8						
+22	Louisiana	ACEPHATE	2010	kg		17985.9		86559.8						
+22	Louisiana	ACEPHATE	2011	kg		79687.9		87486.2						
+22	Louisiana	ACEPHATE	2012	kg		265898.3		45457.1						
+22	Louisiana	ACEPHATE	2013	kg		70203.7		12754.3						
+22	Louisiana	ACEPHATE	2014	kg	7375.7	197517.5		47378.2						
+22	Louisiana	ACEPHATE	2015	kg		136509		40435.7						
+22	Louisiana	ACEPHATE	2016	kg		354147.3		31741.6						
+22	Louisiana	ACEPHATE	2017	kg		320366.1		74725.7						
+23	Maine	ACEPHATE	1997	kg										11.7
+24	Maryland	ACEPHATE	1992	kg					537.5					3709
+24	Maryland	ACEPHATE	1993	kg					480.8					1799.6
+24	Maryland	ACEPHATE	1994	kg	1060.9				1588.1					2931.5
+24	Maryland	ACEPHATE	1995	kg					4371.9					3828.5
+24	Maryland	ACEPHATE	1996	kg	376.2				3225.7				7.7	5671.9
+24	Maryland	ACEPHATE	1997	kg	256.4				3120.6					5298.4
+24	Maryland	ACEPHATE	1998	kg					1139.4					2676.5
+24	Maryland	ACEPHATE	1999	kg					1383.5					3182.1
+24	Maryland	ACEPHATE	2000	kg					2006.6					2359.1
+24	Maryland	ACEPHATE	2001	kg					2161.9					631.5
+24	Maryland	ACEPHATE	2002	kg					1930.7					691.8
+24	Maryland	ACEPHATE	2003	kg					997.4					282.1
+24	Maryland	ACEPHATE	2004	kg					1147.7					351.1
+24	Maryland	ACEPHATE	2005	kg					1423.3					331.1
+24	Maryland	ACEPHATE	2006	kg					252.2					332.2
+24	Maryland	ACEPHATE	2007	kg					2077.3					282.3
+24	Maryland	ACEPHATE	2008	kg					14.1					200.2
+24	Maryland	ACEPHATE	2009	kg					48					130.3
+24	Maryland	ACEPHATE	2010	kg					37.2					142.5
+24	Maryland	ACEPHATE	2011	kg										105
+24	Maryland	ACEPHATE	2012	kg					50.2					100.1
+24	Maryland	ACEPHATE	2013	kg		1483.4								96.6
+24	Maryland	ACEPHATE	2014	kg		571.9								61.5
+24	Maryland	ACEPHATE	2015	kg										83.3
+24	Maryland	ACEPHATE	2016	kg		2426.9								19.1
+24	Maryland	ACEPHATE	2017	kg		1865.8								50.7
+25	Massachusetts	ACEPHATE	1992	kg					78.7					
+25	Massachusetts	ACEPHATE	1993	kg					20.7					
+25	Massachusetts	ACEPHATE	1994	kg					3.1					219.5
+25	Massachusetts	ACEPHATE	1995	kg					568.8					828.6
+25	Massachusetts	ACEPHATE	1996	kg					1338.6					
+25	Massachusetts	ACEPHATE	1997	kg					372.3					
+25	Massachusetts	ACEPHATE	1998	kg					542.2					600
+25	Massachusetts	ACEPHATE	1999	kg					479.1					69.4
+25	Massachusetts	ACEPHATE	2000	kg					154.9					
+25	Massachusetts	ACEPHATE	2001	kg					56.5					304.9
+25	Massachusetts	ACEPHATE	2002	kg					267.6					123.8
+25	Massachusetts	ACEPHATE	2003	kg					78.3					468.3
+25	Massachusetts	ACEPHATE	2004	kg					63.4					177.2
+25	Massachusetts	ACEPHATE	2005	kg					227.2					
+25	Massachusetts	ACEPHATE	2006	kg					146.7					654
+25	Massachusetts	ACEPHATE	2007	kg					140.6					
+25	Massachusetts	ACEPHATE	2010	kg					26.1					
+25	Massachusetts	ACEPHATE	2016	kg					36.9					
+26	Michigan	ACEPHATE	1992	kg					3604.9					
+26	Michigan	ACEPHATE	1993	kg					9596		8944.2			
+26	Michigan	ACEPHATE	1994	kg	19781.5	3739			3767.3					
+26	Michigan	ACEPHATE	1995	kg		80498.4			10902.1				247.4	
+26	Michigan	ACEPHATE	1996	kg	3387.4	31.8			12723.3					
+26	Michigan	ACEPHATE	1997	kg					12129.2		3430.2			
+26	Michigan	ACEPHATE	1998	kg					6716.4					
+26	Michigan	ACEPHATE	1999	kg					11905.9					
+26	Michigan	ACEPHATE	2000	kg					6368.4					
+26	Michigan	ACEPHATE	2001	kg					8300.7					
+26	Michigan	ACEPHATE	2002	kg					7449.3					
+26	Michigan	ACEPHATE	2003	kg					4761		2218			
+26	Michigan	ACEPHATE	2004	kg					4493.8					
+26	Michigan	ACEPHATE	2005	kg		12292.1			3261.2					
+26	Michigan	ACEPHATE	2006	kg					11110.7					
+26	Michigan	ACEPHATE	2007	kg					6250.9					
+26	Michigan	ACEPHATE	2008	kg					5334.7					
+26	Michigan	ACEPHATE	2009	kg					2405.7					
+26	Michigan	ACEPHATE	2010	kg					4255.2					
+26	Michigan	ACEPHATE	2011	kg					7032.9					
+26	Michigan	ACEPHATE	2012	kg					5826.3					
+26	Michigan	ACEPHATE	2013	kg					7725.4					
+26	Michigan	ACEPHATE	2014	kg					7199.7					
+26	Michigan	ACEPHATE	2015	kg					10468.6					
+26	Michigan	ACEPHATE	2016	kg					6155.5					
+27	Minnesota	ACEPHATE	1992	kg					3825.9					
+27	Minnesota	ACEPHATE	1993	kg					11978.9					
+27	Minnesota	ACEPHATE	1994	kg	44618.4				1249.7					
+27	Minnesota	ACEPHATE	1995	kg					15186.2					
+27	Minnesota	ACEPHATE	1996	kg	4504.6				7134.9					
+27	Minnesota	ACEPHATE	1997	kg					6764.5				164.7	
+27	Minnesota	ACEPHATE	1998	kg					195.1					
+27	Minnesota	ACEPHATE	1999	kg					10598.9					
+27	Minnesota	ACEPHATE	2000	kg					2385.9					
+27	Minnesota	ACEPHATE	2001	kg					8555.7					
+27	Minnesota	ACEPHATE	2002	kg					14427.4					
+27	Minnesota	ACEPHATE	2003	kg					10737.8					
+27	Minnesota	ACEPHATE	2004	kg					3609.7					
+27	Minnesota	ACEPHATE	2005	kg		8165.6			13502.2					
+27	Minnesota	ACEPHATE	2006	kg		35121.8			8556.2					
+27	Minnesota	ACEPHATE	2007	kg					2715.3					
+27	Minnesota	ACEPHATE	2008	kg					55.9					
+27	Minnesota	ACEPHATE	2009	kg					135.2					
+27	Minnesota	ACEPHATE	2010	kg		12725.3			142.4					
+27	Minnesota	ACEPHATE	2011	kg					304.2					
+27	Minnesota	ACEPHATE	2012	kg					251.5					
+27	Minnesota	ACEPHATE	2013	kg					349.1					
+27	Minnesota	ACEPHATE	2014	kg		15398.5			890.5					
+27	Minnesota	ACEPHATE	2015	kg					176.8					
+27	Minnesota	ACEPHATE	2016	kg		33216.6								
+28	Mississippi	ACEPHATE	1992	kg		11749.4		91116	124.8				53.4	4326.7
+28	Mississippi	ACEPHATE	1993	kg		7560		33126.5	297.3				6027.9	5344.1
+28	Mississippi	ACEPHATE	1994	kg	10.4	62989.9		121225.6	68.5				23	1779.7
+28	Mississippi	ACEPHATE	1995	kg				133979.7	11				168.7	2458.3
+28	Mississippi	ACEPHATE	1996	kg		4720.8		131236.4	476.6				102.7	1049.4
+28	Mississippi	ACEPHATE	1997	kg				114267.6	21				6.6	1981.5
+28	Mississippi	ACEPHATE	1998	kg				137037.8	29					18.3
+28	Mississippi	ACEPHATE	1999	kg				93040.3	42.1		1437.8			15.4
+28	Mississippi	ACEPHATE	2000	kg				190150.2	51.2		248.4			26.4
+28	Mississippi	ACEPHATE	2001	kg				359966.8	37		234.8			17.3
+28	Mississippi	ACEPHATE	2002	kg				300026.7	61.8					41.2
+28	Mississippi	ACEPHATE	2003	kg				316290.2	42.9					530.9
+28	Mississippi	ACEPHATE	2004	kg		19123.4		352718.4	34.8					27.4
+28	Mississippi	ACEPHATE	2005	kg		2676.9		404118.1	20.6					598.5
+28	Mississippi	ACEPHATE	2006	kg		17369.4		667110.4	50.8					1125
+28	Mississippi	ACEPHATE	2007	kg		65573		339846.9	51.3					215.9
+28	Mississippi	ACEPHATE	2008	kg		112490.9		188447.6						684.7
+28	Mississippi	ACEPHATE	2009	kg		52588		126706.7						136
+28	Mississippi	ACEPHATE	2010	kg		89164.5		216481.2						274.8
+28	Mississippi	ACEPHATE	2011	kg		70268.8		324416.4		140.2				1224.2
+28	Mississippi	ACEPHATE	2012	kg		38442		338949.7						828.3
+28	Mississippi	ACEPHATE	2013	kg		17416		245932.3	10					134.9
+28	Mississippi	ACEPHATE	2014	kg	6073.1	51037.7		142742						1155
+28	Mississippi	ACEPHATE	2015	kg		69733.3		129951						1421.4
+28	Mississippi	ACEPHATE	2016	kg		42020.1		188103.8						660.2
+28	Mississippi	ACEPHATE	2017	kg		202477.3		127619.2		99.1				257.5
+29	Missouri	ACEPHATE	1992	kg				21957.9	36.3					1427.5
+29	Missouri	ACEPHATE	1993	kg		26326.3		5972	157.1				66.1	4712.6
+29	Missouri	ACEPHATE	1994	kg	5160.6		1088.9	81864.6	55				317.2	1238.4
+29	Missouri	ACEPHATE	1995	kg		796.8	364.8	9530	431					1225.8
+29	Missouri	ACEPHATE	1996	kg	184.6			3893	232				338.4	3462.4
+29	Missouri	ACEPHATE	1997	kg		1330.6		911.2	129.7				16.3	2084.9
+29	Missouri	ACEPHATE	1998	kg				645.2	0.3					3434
+29	Missouri	ACEPHATE	1999	kg				2126.6	228.6					9361.9
+29	Missouri	ACEPHATE	2000	kg				9045.5	50.4					1818.9
+29	Missouri	ACEPHATE	2001	kg				7704.9	1.6					2124.3
+29	Missouri	ACEPHATE	2002	kg				13145.3	2.2		62.9			4697.2
+29	Missouri	ACEPHATE	2003	kg				20817.6	1.5					6382.4
+29	Missouri	ACEPHATE	2004	kg				62375.8	0.4		155.5			3472.7
+29	Missouri	ACEPHATE	2005	kg		27611.3		56868.1	77.9					677.1
+29	Missouri	ACEPHATE	2006	kg		1047.2		69966.5	44.7					757.1
+29	Missouri	ACEPHATE	2007	kg		761.1		68579.3	41.4		12.5			684.2
+29	Missouri	ACEPHATE	2008	kg				79476.1	8.8					607.3
+29	Missouri	ACEPHATE	2009	kg		3229.2		88207.8						623.8
+29	Missouri	ACEPHATE	2010	kg		45164.9		55532.1	1425.2					392.7
+29	Missouri	ACEPHATE	2011	kg		15108.4		47838.1	6863.1					321
+29	Missouri	ACEPHATE	2012	kg		232.7		61626.2						103.3
+29	Missouri	ACEPHATE	2013	kg		2441.4		42765.1						96.8
+29	Missouri	ACEPHATE	2014	kg	22089.9	49302.2		130092		450.9				59.9
+29	Missouri	ACEPHATE	2015	kg				121543.6						64.7
+29	Missouri	ACEPHATE	2016	kg		57582.3		123532.6						7.2
+29	Missouri	ACEPHATE	2017	kg		47729.5		76825.4						30.2
+30	Montana	ACEPHATE	1997	kg	85.5									
+30	Montana	ACEPHATE	2003	kg					600.6					
+30	Montana	ACEPHATE	2008	kg					987.6					
+31	Nebraska	ACEPHATE	1992	kg									49.3	
+31	Nebraska	ACEPHATE	1993	kg		13746.2							1312.4	
+31	Nebraska	ACEPHATE	1994	kg										17860.7
+31	Nebraska	ACEPHATE	1995	kg									480.4	
+31	Nebraska	ACEPHATE	1996	kg	4236.3								740.8	
+31	Nebraska	ACEPHATE	1997	kg	475.8								68.5	14.7
+31	Nebraska	ACEPHATE	1998	kg								303.5		
+31	Nebraska	ACEPHATE	1999	kg					16.5					
+31	Nebraska	ACEPHATE	2000	kg					11600.4					
+31	Nebraska	ACEPHATE	2003	kg					2419.4					
+31	Nebraska	ACEPHATE	2005	kg					1200.7					
+31	Nebraska	ACEPHATE	2006	kg					3427.2					
+31	Nebraska	ACEPHATE	2008	kg					327.6					
+31	Nebraska	ACEPHATE	2010	kg		12659								
+31	Nebraska	ACEPHATE	2012	kg		30415.9								
+31	Nebraska	ACEPHATE	2014	kg		8977.1			1133.1					
+31	Nebraska	ACEPHATE	2016	kg		12256.5								
+31	Nebraska	ACEPHATE	2017	kg		402094.9								
+32	Nevada	ACEPHATE	1993	kg							0			
+32	Nevada	ACEPHATE	1994	kg			73.7		1					
+32	Nevada	ACEPHATE	1995	kg							0			
+32	Nevada	ACEPHATE	1996	kg	0.2									
+32	Nevada	ACEPHATE	1997	kg	2.4									
+32	Nevada	ACEPHATE	1998	kg					0.2					
+32	Nevada	ACEPHATE	2000	kg					0.5					
+32	Nevada	ACEPHATE	2001	kg					0.4					
+32	Nevada	ACEPHATE	2005	kg					0.3					
+32	Nevada	ACEPHATE	2008	kg					0					
+32	Nevada	ACEPHATE	2013	kg					0.3					
+32	Nevada	ACEPHATE	2014	kg					0.3					
+32	Nevada	ACEPHATE	2015	kg					2					
+32	Nevada	ACEPHATE	2016	kg					0.2					
+32	Nevada	ACEPHATE	2017	kg					0.1					
+33	New Hampshire	ACEPHATE	1992	kg					2.5					
+33	New Hampshire	ACEPHATE	1993	kg					1.2					
+33	New Hampshire	ACEPHATE	1994	kg					0					
+33	New Hampshire	ACEPHATE	1995	kg					25.3					
+33	New Hampshire	ACEPHATE	1996	kg					32.5					
+33	New Hampshire	ACEPHATE	1997	kg					28.6					
+33	New Hampshire	ACEPHATE	1998	kg					49.4					
+33	New Hampshire	ACEPHATE	1999	kg					41.8					
+33	New Hampshire	ACEPHATE	2000	kg					10.4					
+33	New Hampshire	ACEPHATE	2002	kg					30.3					
+33	New Hampshire	ACEPHATE	2005	kg					12.5					
+34	New Jersey	ACEPHATE	1992	kg		845.5			10570.2					
+34	New Jersey	ACEPHATE	1993	kg					3867.3					
+34	New Jersey	ACEPHATE	1994	kg	1072.5				4588.9					
+34	New Jersey	ACEPHATE	1995	kg					6028.5					
+34	New Jersey	ACEPHATE	1996	kg	0.9				2755.9					
+34	New Jersey	ACEPHATE	1997	kg	55				1359.7					
+34	New Jersey	ACEPHATE	1998	kg					6980.2					
+34	New Jersey	ACEPHATE	1999	kg					8330.2					
+34	New Jersey	ACEPHATE	2000	kg					2911.9					
+34	New Jersey	ACEPHATE	2001	kg					2464.3					
+34	New Jersey	ACEPHATE	2002	kg					4138.5					
+34	New Jersey	ACEPHATE	2003	kg					2643					
+34	New Jersey	ACEPHATE	2004	kg					10517.5					
+34	New Jersey	ACEPHATE	2005	kg					3974.9					
+34	New Jersey	ACEPHATE	2006	kg					3570.6					
+34	New Jersey	ACEPHATE	2007	kg					4260.1					
+34	New Jersey	ACEPHATE	2008	kg					688.4					
+34	New Jersey	ACEPHATE	2009	kg					1544.9					
+34	New Jersey	ACEPHATE	2010	kg					1349.5					
+34	New Jersey	ACEPHATE	2011	kg					1454.1					
+34	New Jersey	ACEPHATE	2012	kg					698.4					
+34	New Jersey	ACEPHATE	2013	kg					1520.8					
+34	New Jersey	ACEPHATE	2014	kg					1441.6					
+34	New Jersey	ACEPHATE	2015	kg					1760.3					
+34	New Jersey	ACEPHATE	2016	kg					13.2					
+35	New Mexico	ACEPHATE	1992	kg		2.1		1291.6	5.5			187.6	19.4	1171.5
+35	New Mexico	ACEPHATE	1993	kg	13188.5			139.3	121.1				521.8	33.2
+35	New Mexico	ACEPHATE	1994	kg				931.9	1762.2		147.8			257.6
+35	New Mexico	ACEPHATE	1995	kg				1773.7	4.9				198.9	92.8
+35	New Mexico	ACEPHATE	1996	kg	27.7			1070.8	600.7				1335.2	186.6
+35	New Mexico	ACEPHATE	1997	kg	25.8			1160.9	1898.8			2.9	21.3	136.9
+35	New Mexico	ACEPHATE	1998	kg				1085	48.6					285.6
+35	New Mexico	ACEPHATE	1999	kg				5669.1	121.9					197.1
+35	New Mexico	ACEPHATE	2000	kg				640.3	67.7					611.3
+35	New Mexico	ACEPHATE	2001	kg				377.1	0.2					2234.4
+35	New Mexico	ACEPHATE	2002	kg				676	10.4		491.1			11.7
+35	New Mexico	ACEPHATE	2003	kg				1526	16.7					185.3
+35	New Mexico	ACEPHATE	2004	kg				882.4	10.2					443.2
+35	New Mexico	ACEPHATE	2005	kg				955.5	8.5					27.4
+35	New Mexico	ACEPHATE	2006	kg				394.4	6.7					871
+35	New Mexico	ACEPHATE	2007	kg				831.3	76.1					181.6
+35	New Mexico	ACEPHATE	2008	kg				1182.8	191.9					439.8
+35	New Mexico	ACEPHATE	2009	kg			208.9	1560.9	0.5					1620.6
+35	New Mexico	ACEPHATE	2010	kg				886.6	47.2					431.6
+35	New Mexico	ACEPHATE	2011	kg				649.3	1784.6					652.6
+35	New Mexico	ACEPHATE	2012	kg				618.9	7364.1					343.1
+35	New Mexico	ACEPHATE	2013	kg				1195.5	0.2					1595.3
+35	New Mexico	ACEPHATE	2014	kg				691.4	0.4					547.9
+35	New Mexico	ACEPHATE	2015	kg				525.5	1.1					1117
+35	New Mexico	ACEPHATE	2016	kg				216.3						
+35	New Mexico	ACEPHATE	2017	kg				368	0					1034.3
+36	New York	ACEPHATE	1992	kg					737.3				228.1	
+36	New York	ACEPHATE	1993	kg					337.1					
+36	New York	ACEPHATE	1994	kg	11081.9				1052.6					
+36	New York	ACEPHATE	1995	kg					10269.4		140.2			
+36	New York	ACEPHATE	1996	kg	0.8				5819.7					
+36	New York	ACEPHATE	1997	kg	430.5				4465.8					
+36	New York	ACEPHATE	1998	kg	9.6				12595.4					
+36	New York	ACEPHATE	1999	kg					3380					
+36	New York	ACEPHATE	2000	kg					4488.8					
+36	New York	ACEPHATE	2001	kg					3839.3					
+36	New York	ACEPHATE	2002	kg					3689.6					
+36	New York	ACEPHATE	2003	kg					7556.1					
+36	New York	ACEPHATE	2004	kg					2086.9					
+36	New York	ACEPHATE	2005	kg					4380.6					
+36	New York	ACEPHATE	2006	kg					6552.9					
+36	New York	ACEPHATE	2007	kg					7660.9					
+36	New York	ACEPHATE	2008	kg					16372.5					
+36	New York	ACEPHATE	2009	kg					5172.7					
+36	New York	ACEPHATE	2010	kg					1964.7					
+36	New York	ACEPHATE	2011	kg					1020.2					
+36	New York	ACEPHATE	2012	kg					45.5					
+36	New York	ACEPHATE	2016	kg					802.6					
+37	North Carolina	ACEPHATE	1992	kg		4702.2		5628.1	2043.6				108	101304
+37	North Carolina	ACEPHATE	1993	kg	474.7	84.9		1273.7	1539.5				38.4	136138.7
+37	North Carolina	ACEPHATE	1994	kg	114.3		91.4	18322.1	17251.2		3287.6		530.7	141298
+37	North Carolina	ACEPHATE	1995	kg	4766.4			11326.9	12352.3			47.7	1499.3	108651.6
+37	North Carolina	ACEPHATE	1996	kg	1598.5	4246.4		18463.9	2682.1			591.4	29810.7	171584.5
+37	North Carolina	ACEPHATE	1997	kg	413.7	33		9501.7	1331.2		11.7		37.5	123740.1
+37	North Carolina	ACEPHATE	1998	kg				12155.7	12507.1					117301.8
+37	North Carolina	ACEPHATE	1999	kg				16831.6	4039.2					108663.4
+37	North Carolina	ACEPHATE	2000	kg				16965.5	5637.4					98849.1
+37	North Carolina	ACEPHATE	2001	kg				12534	2162.2					95598.9
+37	North Carolina	ACEPHATE	2002	kg				22154.3	4610.9					98057.8
+37	North Carolina	ACEPHATE	2003	kg				25816.5	7413.8					83752.8
+37	North Carolina	ACEPHATE	2004	kg		11279.2		18587	7472.1					79334.8
+37	North Carolina	ACEPHATE	2005	kg		2079.3		21494.7	865.6					70027
+37	North Carolina	ACEPHATE	2006	kg		99335.8		50548.7	3929					104855.5
+37	North Carolina	ACEPHATE	2007	kg		90515.8		34157.7	4080.5					99729.1
+37	North Carolina	ACEPHATE	2008	kg		37283		48523.2	7802.6					101485.2
+37	North Carolina	ACEPHATE	2009	kg				54792.7	7562.8					70063.8
+37	North Carolina	ACEPHATE	2010	kg		28154.3		86937.5	6742.8					80895.8
+37	North Carolina	ACEPHATE	2011	kg		40866.5		118019.2	5729.4					58423.5
+37	North Carolina	ACEPHATE	2012	kg		25471.6		114067.7	3013					65513.5
+37	North Carolina	ACEPHATE	2013	kg		18875.5		62844.5	3552.5					57814.9
+37	North Carolina	ACEPHATE	2014	kg		51646.8		49848.2	110.2					63056.6
+37	North Carolina	ACEPHATE	2015	kg				52199.9						40577.6
+37	North Carolina	ACEPHATE	2016	kg		31308.5		42785.6	60.3					37767.7
+37	North Carolina	ACEPHATE	2017	kg		9307.3		56205.4						43727.5
+38	North Dakota	ACEPHATE	1997	kg	664.6									
+38	North Dakota	ACEPHATE	2003	kg					5763.1					
+38	North Dakota	ACEPHATE	2006	kg		46251.2								
+38	North Dakota	ACEPHATE	2008	kg					2521.5					
+39	Ohio	ACEPHATE	1992	kg	61.1				3392.1					1898.9
+39	Ohio	ACEPHATE	1993	kg					714.1		8.6	104.1	2340	1842.9
+39	Ohio	ACEPHATE	1994	kg					771.7				66.5	233.4
+39	Ohio	ACEPHATE	1995	kg					1719.9			1088	84	2277.9
+39	Ohio	ACEPHATE	1996	kg	24.8	28.1			4094.9				57.1	2373.4
+39	Ohio	ACEPHATE	1997	kg					2684.1					254.2
+39	Ohio	ACEPHATE	1998	kg					333					1413.7
+39	Ohio	ACEPHATE	1999	kg					653					2389.9
+39	Ohio	ACEPHATE	2000	kg					650.4					411.1
+39	Ohio	ACEPHATE	2001	kg					237.9					1190.1
+39	Ohio	ACEPHATE	2002	kg					460.8					803.8
+39	Ohio	ACEPHATE	2003	kg					442.9					193.2
+39	Ohio	ACEPHATE	2004	kg					264.2					431.8
+39	Ohio	ACEPHATE	2005	kg		5238.8			2323.7					750.2
+39	Ohio	ACEPHATE	2006	kg					2249.8					888.8
+39	Ohio	ACEPHATE	2007	kg					1462.7					809.8
+39	Ohio	ACEPHATE	2008	kg					1685.5					1077.7
+39	Ohio	ACEPHATE	2009	kg					279.5					1398.6
+39	Ohio	ACEPHATE	2010	kg		9311.9			1560					164.7
+39	Ohio	ACEPHATE	2011	kg					886.4					344
+39	Ohio	ACEPHATE	2012	kg					679.9					297.7
+39	Ohio	ACEPHATE	2013	kg					1086.7					408.5
+39	Ohio	ACEPHATE	2014	kg		6495.1			1145.5					498.5
+39	Ohio	ACEPHATE	2015	kg					628.9					512.3
+39	Ohio	ACEPHATE	2016	kg		9583.2			642.6					110.8
+39	Ohio	ACEPHATE	2017	kg										423
+40	Oklahoma	ACEPHATE	1992	kg		1258.4	4881.3	8561.5	188.9				90.7	1403.9
+40	Oklahoma	ACEPHATE	1993	kg				206.7					1518.6	1503.9
+40	Oklahoma	ACEPHATE	1994	kg				2155.9	0.4				769.4	2666.1
+40	Oklahoma	ACEPHATE	1995	kg	14			2514.2					786.6	751.3
+40	Oklahoma	ACEPHATE	1996	kg	128.7			4466					169.9	819.8
+40	Oklahoma	ACEPHATE	1997	kg		1922.5		9425.8					138.8	2179
+40	Oklahoma	ACEPHATE	1998	kg				7864.7						628.6
+40	Oklahoma	ACEPHATE	1999	kg				7852.8	69.9					3260.5
+40	Oklahoma	ACEPHATE	2000	kg				22839.3	35.8		1652.5			1388.7
+40	Oklahoma	ACEPHATE	2001	kg				2320.8			2238.3			378.8
+40	Oklahoma	ACEPHATE	2002	kg				7106.9						2824.6
+40	Oklahoma	ACEPHATE	2003	kg				1781.6	10.7					403.5
+40	Oklahoma	ACEPHATE	2004	kg				28426.2						7989.8
+40	Oklahoma	ACEPHATE	2005	kg				14991			12.5			
+40	Oklahoma	ACEPHATE	2006	kg				2850.5						3072.3
+40	Oklahoma	ACEPHATE	2007	kg		962.4		7662.2	50					1022.4
+40	Oklahoma	ACEPHATE	2008	kg				30145.9	29.4					1197.1
+40	Oklahoma	ACEPHATE	2009	kg		6325.3		15165.3						2213.6
+40	Oklahoma	ACEPHATE	2010	kg		253.2		28254.4	7.1					1434.7
+40	Oklahoma	ACEPHATE	2011	kg		1012.6		11805.4						1982
+40	Oklahoma	ACEPHATE	2012	kg		10384.4		7006.1			52.5			1329.8
+40	Oklahoma	ACEPHATE	2013	kg				17074.1						3763.4
+40	Oklahoma	ACEPHATE	2014	kg		5266.3		12091.4						2534.8
+40	Oklahoma	ACEPHATE	2015	kg		6740.4		52223.8						2623.3
+40	Oklahoma	ACEPHATE	2016	kg		3867.5		47842.2						3137.5
+40	Oklahoma	ACEPHATE	2017	kg		158885.6		84516.2						6000.2
+41	Oregon	ACEPHATE	1994	kg			12728							
+41	Oregon	ACEPHATE	1996	kg	6.6								148	76.8
+41	Oregon	ACEPHATE	1997	kg	38.2									
+41	Oregon	ACEPHATE	2001	kg							125.5			
+41	Oregon	ACEPHATE	2014	kg	6380.9									
+42	Pennsylvania	ACEPHATE	1992	kg		654.8			2970					
+42	Pennsylvania	ACEPHATE	1993	kg					1173.4					985.3
+42	Pennsylvania	ACEPHATE	1994	kg	23052.5				3016.6					1485.1
+42	Pennsylvania	ACEPHATE	1995	kg					4813.1		48.1			
+42	Pennsylvania	ACEPHATE	1996	kg	13.7				2184.7					2793.6
+42	Pennsylvania	ACEPHATE	1997	kg	735.8				2770.3					636
+42	Pennsylvania	ACEPHATE	1998	kg	1.3				2362.5					317.3
+42	Pennsylvania	ACEPHATE	1999	kg					6115.6					2546.2
+42	Pennsylvania	ACEPHATE	2000	kg					2616.1					3503.6
+42	Pennsylvania	ACEPHATE	2001	kg					2387.3					1512.7
+42	Pennsylvania	ACEPHATE	2002	kg					2446					1555.7
+42	Pennsylvania	ACEPHATE	2003	kg					2827.6					3072.9
+42	Pennsylvania	ACEPHATE	2004	kg					3978.3					868.4
+42	Pennsylvania	ACEPHATE	2005	kg					4467.2					2149.4
+42	Pennsylvania	ACEPHATE	2006	kg					3359.7					5108
+42	Pennsylvania	ACEPHATE	2007	kg					4287.8					5112.5
+42	Pennsylvania	ACEPHATE	2008	kg					2834.1					3982.1
+42	Pennsylvania	ACEPHATE	2009	kg					2414.3					2008.6
+42	Pennsylvania	ACEPHATE	2010	kg					405.3					4156.8
+42	Pennsylvania	ACEPHATE	2011	kg					105					5995.3
+42	Pennsylvania	ACEPHATE	2012	kg					975					6371.1
+42	Pennsylvania	ACEPHATE	2013	kg					157.8					6219.1
+42	Pennsylvania	ACEPHATE	2014	kg					120.1					3653.7
+42	Pennsylvania	ACEPHATE	2015	kg					157.4					3929.7
+42	Pennsylvania	ACEPHATE	2016	kg					5.7					3001.7
+42	Pennsylvania	ACEPHATE	2017	kg										1721.9
+44	Rhode Island	ACEPHATE	1992	kg					5.5					
+44	Rhode Island	ACEPHATE	1993	kg					2.9					
+44	Rhode Island	ACEPHATE	1994	kg					0					
+44	Rhode Island	ACEPHATE	1995	kg					52.7					
+44	Rhode Island	ACEPHATE	1996	kg					44					
+44	Rhode Island	ACEPHATE	1997	kg					69.4					
+44	Rhode Island	ACEPHATE	1998	kg					124.5					
+44	Rhode Island	ACEPHATE	1999	kg					108.7					
+44	Rhode Island	ACEPHATE	2000	kg					28.3					
+44	Rhode Island	ACEPHATE	2002	kg					85.3					
+44	Rhode Island	ACEPHATE	2005	kg					33.9					
+45	South Carolina	ACEPHATE	1992	kg		3332		5030.2	233.2				890.3	31146.8
+45	South Carolina	ACEPHATE	1993	kg	441.1			1544.3	285.7				25193.7	45061.8
+45	South Carolina	ACEPHATE	1994	kg				1383.7	2235.5		24.1		62.1	16650.1
+45	South Carolina	ACEPHATE	1995	kg	655.5	1868.6		4784.4	421.5				416	45497.2
+45	South Carolina	ACEPHATE	1996	kg	460.2	1652.6		712.6	1348.5				9.9	39122.6
+45	South Carolina	ACEPHATE	1997	kg	108.1	8		948.1	757.8		1.2		17.5	48555.4
+45	South Carolina	ACEPHATE	1998	kg				1064.1	597.5					40271.2
+45	South Carolina	ACEPHATE	1999	kg				639.7	514.8					69919.8
+45	South Carolina	ACEPHATE	2000	kg				1639.7	407.1					53970.4
+45	South Carolina	ACEPHATE	2001	kg				665.7	223.4					31417.6
+45	South Carolina	ACEPHATE	2002	kg				419.1	636.9					21726.8
+45	South Carolina	ACEPHATE	2003	kg				5382.7	310.9					45949.5
+45	South Carolina	ACEPHATE	2004	kg		3464.7		2765.9	434.2					23127
+45	South Carolina	ACEPHATE	2005	kg		497		229.5	223.4					35433.8
+45	South Carolina	ACEPHATE	2006	kg		26017.2		1402.1	340.1					25764.1
+45	South Carolina	ACEPHATE	2007	kg		25899.2		1878.9	370.4					17567
+45	South Carolina	ACEPHATE	2008	kg		10498		7635	218.1					15874.6
+45	South Carolina	ACEPHATE	2009	kg				5356.2	70.2					13994.6
+45	South Carolina	ACEPHATE	2010	kg		7373.3		7120	207.8					11323.7
+45	South Carolina	ACEPHATE	2011	kg		25591.6		10645.1	194.7					21095.2
+45	South Carolina	ACEPHATE	2012	kg		44174.4		11191.4	45.5					13261
+45	South Carolina	ACEPHATE	2013	kg		3454.8		44943.7						8958.2
+45	South Carolina	ACEPHATE	2014	kg		13221.5		12031.8	111.9					3485
+45	South Carolina	ACEPHATE	2015	kg				11428.8						15247.7
+45	South Carolina	ACEPHATE	2016	kg		6909		10707.2	5.9					10538.7
+45	South Carolina	ACEPHATE	2017	kg		5101		7265						7974.8
+46	South Dakota	ACEPHATE	1997	kg	69.7									
+46	South Dakota	ACEPHATE	2014	kg		5107			8.6					
+46	South Dakota	ACEPHATE	2016	kg		16847								
+47	Tennessee	ACEPHATE	1992	kg		4330.8		12291.9	1236.4				183.3	28971.9
+47	Tennessee	ACEPHATE	1993	kg				8482.2	1478.7			417.8	18520	31376.9
+47	Tennessee	ACEPHATE	1994	kg	446.2	31068.8	1779.9	6250.3	3115.8				34.9	33581.8
+47	Tennessee	ACEPHATE	1995	kg		285.4	111.1	17792.9	3923.9				588.5	54783.3
+47	Tennessee	ACEPHATE	1996	kg	516.6			16429.1	2248.3				103.8	37282.6
+47	Tennessee	ACEPHATE	1997	kg				5546.8	572.4			88.4	73.4	29283.3
+47	Tennessee	ACEPHATE	1998	kg				617	29.5					39547.7
+47	Tennessee	ACEPHATE	1999	kg				11840.1	2104.6					30724.3
+47	Tennessee	ACEPHATE	2000	kg				55540.1	2213.2					33796.1
+47	Tennessee	ACEPHATE	2001	kg				14837.3	1320.8					21947.2
+47	Tennessee	ACEPHATE	2002	kg				17185.4	1417.3					16311
+47	Tennessee	ACEPHATE	2003	kg				5024.7	1005.2					19671.2
+47	Tennessee	ACEPHATE	2004	kg		7121.5		34624.2	136.4					14560.6
+47	Tennessee	ACEPHATE	2005	kg		2683.1		58848	776.4					13027.7
+47	Tennessee	ACEPHATE	2006	kg		9403.2		31769.5	2512.3			444.5		18537.7
+47	Tennessee	ACEPHATE	2007	kg		42359		57137.3	1825.1					17032.5
+47	Tennessee	ACEPHATE	2008	kg		5392.8		44532.7	49.6					19699.5
+47	Tennessee	ACEPHATE	2009	kg		35046.2		34637.6	244.1					16814
+47	Tennessee	ACEPHATE	2010	kg		11465.4		33305.6	111.8					16910.1
+47	Tennessee	ACEPHATE	2011	kg		14096.5		79498.4	36.3	1.1				15980.8
+47	Tennessee	ACEPHATE	2012	kg		20858.5		91929.7						11508.7
+47	Tennessee	ACEPHATE	2013	kg		4622.5		53052.3	1079.4					4619
+47	Tennessee	ACEPHATE	2014	kg	13215.8	12516.3		94473.6		0.7				8393.3
+47	Tennessee	ACEPHATE	2015	kg		76951.8		49391.6						3928.3
+47	Tennessee	ACEPHATE	2016	kg		8568.1		47442.1						3674.8
+47	Tennessee	ACEPHATE	2017	kg		47579.4		100139.1		0.7				4042.1
+48	Texas	ACEPHATE	1992	kg	1579.1	1066.8	1155.8	39112.2	251.8				24867.8	14412.8
+48	Texas	ACEPHATE	1993	kg		216		28257.5					5202.6	4694.7
+48	Texas	ACEPHATE	1994	kg		6811.7		26611.3	1176.7				4014.6	7341.1
+48	Texas	ACEPHATE	1995	kg	548			72417.5					7696.5	1761.6
+48	Texas	ACEPHATE	1996	kg	717.7			18578.9	169.8				21664.4	2859.5
+48	Texas	ACEPHATE	1997	kg		5454.8		36371.2	722.7				1501.6	14134.4
+48	Texas	ACEPHATE	1998	kg				63656.3						6375.6
+48	Texas	ACEPHATE	1999	kg				100014.8	518.1					5295.1
+48	Texas	ACEPHATE	2000	kg				88499.3	819.1		6925.9			5675.7
+48	Texas	ACEPHATE	2001	kg				151709.7			9128.3			14119.9
+48	Texas	ACEPHATE	2002	kg				73308.8			541.1			2210.1
+48	Texas	ACEPHATE	2003	kg				93117.6	263.3					2078.7
+48	Texas	ACEPHATE	2004	kg		460.4		164589.5	262.9					2669.1
+48	Texas	ACEPHATE	2005	kg				157775			11.1			321.1
+48	Texas	ACEPHATE	2006	kg		21377.3		58770.4						11479.1
+48	Texas	ACEPHATE	2007	kg		1993.6		176387.6	1029.6					2665
+48	Texas	ACEPHATE	2008	kg		2057.3		271692	2788.6					9986.2
+48	Texas	ACEPHATE	2009	kg		20906.1	2906.1	244498.7						27100.9
+48	Texas	ACEPHATE	2010	kg		24.4		363175.8	1297					7283.9
+48	Texas	ACEPHATE	2011	kg		359.1		203528.2						10681.4
+48	Texas	ACEPHATE	2012	kg		13451.6		237095			31.4			6380.2
+48	Texas	ACEPHATE	2013	kg		16168.2		165375.4						23362.4
+48	Texas	ACEPHATE	2014	kg		19812.4		212347.6						888.2
+48	Texas	ACEPHATE	2015	kg		35472.5		193314.6			1316.5			22559.8
+48	Texas	ACEPHATE	2016	kg		26289.2		106670.1						
+48	Texas	ACEPHATE	2017	kg		40305.9		117799.4						29019.5
+49	Utah	ACEPHATE	1994	kg					0					
+49	Utah	ACEPHATE	1997	kg					0					
+49	Utah	ACEPHATE	1998	kg					0.3					
+49	Utah	ACEPHATE	1999	kg					1					
+49	Utah	ACEPHATE	2002	kg					0.1					
+50	Vermont	ACEPHATE	1992	kg					3.6					
+50	Vermont	ACEPHATE	1993	kg					1.6					
+50	Vermont	ACEPHATE	1994	kg					0					
+50	Vermont	ACEPHATE	1995	kg					8.6					
+50	Vermont	ACEPHATE	1996	kg					27.2					
+50	Vermont	ACEPHATE	1997	kg					33.3					
+50	Vermont	ACEPHATE	1998	kg					55.9					
+50	Vermont	ACEPHATE	1999	kg					46.6					
+50	Vermont	ACEPHATE	2000	kg					11.5					
+50	Vermont	ACEPHATE	2002	kg					31.6					
+50	Vermont	ACEPHATE	2005	kg					15					
+51	Virginia	ACEPHATE	1992	kg		3239.4		138.8	551.4				214.9	16775.5
+51	Virginia	ACEPHATE	1993	kg		17.7		135	533.1				6510.3	20438.9
+51	Virginia	ACEPHATE	1994	kg	3234.1		7.8	1115.6	1434.4				128.9	18198.4
+51	Virginia	ACEPHATE	1995	kg				1365.3	1032			436	297.9	27059.6
+51	Virginia	ACEPHATE	1996	kg	627.9	801.6		1950.2	1499.1			3258.3	4771.3	17007.5
+51	Virginia	ACEPHATE	1997	kg	185.8			3587.5	464.4		9		25.4	19176.7
+51	Virginia	ACEPHATE	1998	kg				5336.5	780.6					26329.3
+51	Virginia	ACEPHATE	1999	kg				4098.3	967					15189.6
+51	Virginia	ACEPHATE	2000	kg				5924.4	532.1					14144.8
+51	Virginia	ACEPHATE	2001	kg				1638.3	720					14784.1
+51	Virginia	ACEPHATE	2002	kg				1442.3	2167					15302.4
+51	Virginia	ACEPHATE	2003	kg				1777.7	2159.3					10214.3
+51	Virginia	ACEPHATE	2004	kg		2571.6		5161.9	438.1					9587.6
+51	Virginia	ACEPHATE	2005	kg		191.4		1914.3	467.4					6288.1
+51	Virginia	ACEPHATE	2006	kg		20585.6		9693.1	1333.7					9557.3
+51	Virginia	ACEPHATE	2007	kg		17263.3		10808.4	1189.8					10863.7
+51	Virginia	ACEPHATE	2008	kg		7105.6		4179.2	255					14736.2
+51	Virginia	ACEPHATE	2009	kg				9177.3	390.9					8992.4
+51	Virginia	ACEPHATE	2010	kg		5556.5		16153.9	147.5					12026.8
+51	Virginia	ACEPHATE	2011	kg		9186		15978.7						9583.5
+51	Virginia	ACEPHATE	2012	kg		44803.6		14639.9	31.8					10212.8
+51	Virginia	ACEPHATE	2013	kg		7605.3		10202.2						12834.8
+51	Virginia	ACEPHATE	2014	kg		2369.9		9284.4						3947.6
+51	Virginia	ACEPHATE	2015	kg				14121.1						6577
+51	Virginia	ACEPHATE	2016	kg		11301.6		4287.2						5236.7
+51	Virginia	ACEPHATE	2017	kg		5944.4		18399.8						2462.6
+53	Washington	ACEPHATE	1992	kg					458.9					
+53	Washington	ACEPHATE	1993	kg					866.9					
+53	Washington	ACEPHATE	1996	kg									99.2	
+53	Washington	ACEPHATE	2000	kg					1927.8					
+53	Washington	ACEPHATE	2001	kg					936.4		188.8			
+53	Washington	ACEPHATE	2002	kg					268.5					
+53	Washington	ACEPHATE	2003	kg					270.8					
+53	Washington	ACEPHATE	2007	kg					33.2					
+53	Washington	ACEPHATE	2008	kg					210.7					
+53	Washington	ACEPHATE	2010	kg					451.3					
+53	Washington	ACEPHATE	2011	kg					105					
+53	Washington	ACEPHATE	2014	kg	23566.8				278.3					
+54	West Virginia	ACEPHATE	1992	kg					171.2					176.7
+54	West Virginia	ACEPHATE	1993	kg					36.9				2600.1	144.5
+54	West Virginia	ACEPHATE	1994	kg	98.3				63.5				81.2	87.5
+54	West Virginia	ACEPHATE	1995	kg					159.2				198.6	452.2
+54	West Virginia	ACEPHATE	1996	kg					80.3				56.4	204.3
+54	West Virginia	ACEPHATE	1997	kg	19				7					440.1
+54	West Virginia	ACEPHATE	1998	kg					50.4					462.9
+54	West Virginia	ACEPHATE	1999	kg					9.5					163.9
+54	West Virginia	ACEPHATE	2000	kg					13.9					273.9
+54	West Virginia	ACEPHATE	2001	kg					21					174.6
+54	West Virginia	ACEPHATE	2002	kg					13					189
+54	West Virginia	ACEPHATE	2003	kg					7.8					149.4
+54	West Virginia	ACEPHATE	2004	kg					15.8					186.4
+54	West Virginia	ACEPHATE	2005	kg					67.8					126.1
+54	West Virginia	ACEPHATE	2006	kg					87.1					85.2
+54	West Virginia	ACEPHATE	2007	kg					39					59.5
+54	West Virginia	ACEPHATE	2008	kg					6.1					45.2
+54	West Virginia	ACEPHATE	2009	kg					0.2					53.7
+54	West Virginia	ACEPHATE	2010	kg										7.7
+54	West Virginia	ACEPHATE	2011	kg					0.5					27.9
+54	West Virginia	ACEPHATE	2012	kg										9.1
+54	West Virginia	ACEPHATE	2013	kg					5.9					21.2
+54	West Virginia	ACEPHATE	2014	kg					2.1					15.2
+54	West Virginia	ACEPHATE	2015	kg					5					18.5
+54	West Virginia	ACEPHATE	2016	kg										2.6
+54	West Virginia	ACEPHATE	2017	kg										21.7
+55	Wisconsin	ACEPHATE	1992	kg					3945.4					1606.6
+55	Wisconsin	ACEPHATE	1993	kg					9167.7					1500.9
+55	Wisconsin	ACEPHATE	1994	kg	72017				13687					1610.8
+55	Wisconsin	ACEPHATE	1995	kg		22487			21330.8					2224.4
+55	Wisconsin	ACEPHATE	1996	kg	8976.4				5747.9					2168
+55	Wisconsin	ACEPHATE	1997	kg	769				12148.4				337.1	2408.1
+55	Wisconsin	ACEPHATE	1998	kg					16214.1					1225.2
+55	Wisconsin	ACEPHATE	1999	kg					14143.4					640.6
+55	Wisconsin	ACEPHATE	2000	kg					16413.7					407.6
+55	Wisconsin	ACEPHATE	2001	kg					6087					649.9
+55	Wisconsin	ACEPHATE	2002	kg					26818.7					417.4
+55	Wisconsin	ACEPHATE	2003	kg					14100					381.9
+55	Wisconsin	ACEPHATE	2004	kg					10873					782
+55	Wisconsin	ACEPHATE	2005	kg		7709.9			17025.6					
+55	Wisconsin	ACEPHATE	2006	kg					10211.2					
+55	Wisconsin	ACEPHATE	2007	kg					7824.4					
+55	Wisconsin	ACEPHATE	2008	kg					5008.2					
+55	Wisconsin	ACEPHATE	2009	kg					6587.1					
+55	Wisconsin	ACEPHATE	2010	kg					12478.6					
+55	Wisconsin	ACEPHATE	2011	kg					12697.1					
+55	Wisconsin	ACEPHATE	2012	kg					6012.8					
+55	Wisconsin	ACEPHATE	2013	kg					8981					
+55	Wisconsin	ACEPHATE	2014	kg					1700					
+55	Wisconsin	ACEPHATE	2015	kg					2710.8					
+55	Wisconsin	ACEPHATE	2016	kg		5152.3								
+56	Wyoming	ACEPHATE	1994	kg										712.5
+56	Wyoming	ACEPHATE	1996	kg									20.6	
+56	Wyoming	ACEPHATE	1997	kg	19								13.6	
+56	Wyoming	ACEPHATE	2003	kg					108.1					
+56	Wyoming	ACEPHATE	2014	kg					61.6					

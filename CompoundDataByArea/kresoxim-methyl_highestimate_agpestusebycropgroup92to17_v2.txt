@@ -1,0 +1,552 @@
+01	Alabama	KRESOXIM-METHYL	2000	kg							16.9			
+01	Alabama	KRESOXIM-METHYL	2001	kg							3.3			
+01	Alabama	KRESOXIM-METHYL	2007	kg							106.8			
+01	Alabama	KRESOXIM-METHYL	2008	kg							151.8			
+01	Alabama	KRESOXIM-METHYL	2009	kg							141.5			
+01	Alabama	KRESOXIM-METHYL	2010	kg							48.6			
+01	Alabama	KRESOXIM-METHYL	2011	kg							349.1			
+01	Alabama	KRESOXIM-METHYL	2012	kg							286.2			
+01	Alabama	KRESOXIM-METHYL	2013	kg							321.6			
+01	Alabama	KRESOXIM-METHYL	2014	kg							87.8			
+01	Alabama	KRESOXIM-METHYL	2015	kg							131.9			
+01	Alabama	KRESOXIM-METHYL	2016	kg							211.3			
+01	Alabama	KRESOXIM-METHYL	2017	kg							222.7			
+04	Arizona	KRESOXIM-METHYL	2001	kg							33.4			
+04	Arizona	KRESOXIM-METHYL	2002	kg							54.8			
+04	Arizona	KRESOXIM-METHYL	2003	kg							317.5			
+04	Arizona	KRESOXIM-METHYL	2004	kg							94.8			
+04	Arizona	KRESOXIM-METHYL	2005	kg							15.5			
+04	Arizona	KRESOXIM-METHYL	2006	kg							38.9			
+04	Arizona	KRESOXIM-METHYL	2007	kg							40.9			
+04	Arizona	KRESOXIM-METHYL	2008	kg					85.1		5.3			
+04	Arizona	KRESOXIM-METHYL	2009	kg					551.3		9.6			
+04	Arizona	KRESOXIM-METHYL	2010	kg					125.8		9.1			
+04	Arizona	KRESOXIM-METHYL	2011	kg							11.8			
+04	Arizona	KRESOXIM-METHYL	2012	kg							5.4			
+04	Arizona	KRESOXIM-METHYL	2013	kg							6.2			
+04	Arizona	KRESOXIM-METHYL	2014	kg							12.2			
+04	Arizona	KRESOXIM-METHYL	2015	kg					70.6		8.3			
+04	Arizona	KRESOXIM-METHYL	2016	kg					477.2		3.4			
+05	Arkansas	KRESOXIM-METHYL	2002	kg							40.4			
+05	Arkansas	KRESOXIM-METHYL	2004	kg							7.3			
+05	Arkansas	KRESOXIM-METHYL	2015	kg							0.1			
+05	Arkansas	KRESOXIM-METHYL	2016	kg							1.6			
+05	Arkansas	KRESOXIM-METHYL	2017	kg							1.8			
+06	California	KRESOXIM-METHYL	2000	kg							2			
+06	California	KRESOXIM-METHYL	2001	kg							3916.8			
+06	California	KRESOXIM-METHYL	2002	kg							3857.6			
+06	California	KRESOXIM-METHYL	2003	kg							7862.3		0.1	
+06	California	KRESOXIM-METHYL	2004	kg							3373		0.4	
+06	California	KRESOXIM-METHYL	2005	kg							7058.1			
+06	California	KRESOXIM-METHYL	2006	kg							6608.3		2.1	
+06	California	KRESOXIM-METHYL	2007	kg					16.5		6609.6			
+06	California	KRESOXIM-METHYL	2008	kg					5.9		3704.7			
+06	California	KRESOXIM-METHYL	2009	kg					4.4		12256.7			
+06	California	KRESOXIM-METHYL	2010	kg					77.6		14392.4			
+06	California	KRESOXIM-METHYL	2011	kg					6.1		17397			
+06	California	KRESOXIM-METHYL	2012	kg					13.4		11802			
+06	California	KRESOXIM-METHYL	2013	kg					30.9		11725.9			
+06	California	KRESOXIM-METHYL	2014	kg					1.9		12781.9			
+06	California	KRESOXIM-METHYL	2015	kg					9.2		10808.6			
+06	California	KRESOXIM-METHYL	2016	kg					6.7		10375.9			
+06	California	KRESOXIM-METHYL	2017	kg					0.8		10661.2			
+09	Connecticut	KRESOXIM-METHYL	1999	kg							2.2			
+09	Connecticut	KRESOXIM-METHYL	2000	kg					114.5		80.1			
+09	Connecticut	KRESOXIM-METHYL	2001	kg							35.1			
+09	Connecticut	KRESOXIM-METHYL	2002	kg					20		17.4			
+09	Connecticut	KRESOXIM-METHYL	2003	kg					48.3		75.8			
+09	Connecticut	KRESOXIM-METHYL	2004	kg							18.2			
+09	Connecticut	KRESOXIM-METHYL	2005	kg							29.2			
+09	Connecticut	KRESOXIM-METHYL	2006	kg							19.7			
+09	Connecticut	KRESOXIM-METHYL	2007	kg							8.4			
+09	Connecticut	KRESOXIM-METHYL	2008	kg							12.5			
+09	Connecticut	KRESOXIM-METHYL	2009	kg							133.7			
+09	Connecticut	KRESOXIM-METHYL	2010	kg							39.7			
+09	Connecticut	KRESOXIM-METHYL	2011	kg							20.3			
+09	Connecticut	KRESOXIM-METHYL	2012	kg							10.3			
+09	Connecticut	KRESOXIM-METHYL	2013	kg							15.9			
+09	Connecticut	KRESOXIM-METHYL	2015	kg							8.5			
+09	Connecticut	KRESOXIM-METHYL	2016	kg							38.6			
+09	Connecticut	KRESOXIM-METHYL	2017	kg							33			
+10	Delaware	KRESOXIM-METHYL	2000	kg							0			
+10	Delaware	KRESOXIM-METHYL	2001	kg							0			
+10	Delaware	KRESOXIM-METHYL	2003	kg							0.1			
+10	Delaware	KRESOXIM-METHYL	2004	kg							0			
+10	Delaware	KRESOXIM-METHYL	2006	kg							0.1			
+10	Delaware	KRESOXIM-METHYL	2007	kg							0.5			
+12	Florida	KRESOXIM-METHYL	2000	kg							12.6			
+12	Florida	KRESOXIM-METHYL	2001	kg							2.2			
+12	Florida	KRESOXIM-METHYL	2007	kg							28.6			
+12	Florida	KRESOXIM-METHYL	2008	kg							24.2			
+12	Florida	KRESOXIM-METHYL	2009	kg							53.3			
+12	Florida	KRESOXIM-METHYL	2010	kg							18			
+12	Florida	KRESOXIM-METHYL	2011	kg							81.8			
+12	Florida	KRESOXIM-METHYL	2012	kg							105			
+12	Florida	KRESOXIM-METHYL	2013	kg							104.1			
+12	Florida	KRESOXIM-METHYL	2014	kg							72.8			
+12	Florida	KRESOXIM-METHYL	2015	kg							27.7			
+12	Florida	KRESOXIM-METHYL	2016	kg							42.7			
+12	Florida	KRESOXIM-METHYL	2017	kg							121.7			
+13	Georgia	KRESOXIM-METHYL	2000	kg							309			
+13	Georgia	KRESOXIM-METHYL	2001	kg							71.4			
+13	Georgia	KRESOXIM-METHYL	2002	kg							24.1			
+13	Georgia	KRESOXIM-METHYL	2003	kg							32.7			
+13	Georgia	KRESOXIM-METHYL	2004	kg							101.1			
+13	Georgia	KRESOXIM-METHYL	2006	kg							63.6			
+13	Georgia	KRESOXIM-METHYL	2007	kg							680.4			
+13	Georgia	KRESOXIM-METHYL	2008	kg							756.1			
+13	Georgia	KRESOXIM-METHYL	2009	kg							1248.4			
+13	Georgia	KRESOXIM-METHYL	2010	kg							407.3			
+13	Georgia	KRESOXIM-METHYL	2011	kg							2769			
+13	Georgia	KRESOXIM-METHYL	2012	kg							2170.6			
+13	Georgia	KRESOXIM-METHYL	2013	kg							3311.7			
+13	Georgia	KRESOXIM-METHYL	2014	kg							3149.8			
+13	Georgia	KRESOXIM-METHYL	2015	kg							1617.4			
+13	Georgia	KRESOXIM-METHYL	2016	kg							2811.3			
+13	Georgia	KRESOXIM-METHYL	2017	kg							5118.9			
+16	Idaho	KRESOXIM-METHYL	1999	kg							75.5			
+16	Idaho	KRESOXIM-METHYL	2000	kg							17.2			
+16	Idaho	KRESOXIM-METHYL	2001	kg							4.9			
+16	Idaho	KRESOXIM-METHYL	2002	kg							18.5			
+16	Idaho	KRESOXIM-METHYL	2003	kg							18.2			
+16	Idaho	KRESOXIM-METHYL	2004	kg							17.4			
+16	Idaho	KRESOXIM-METHYL	2005	kg							37			
+16	Idaho	KRESOXIM-METHYL	2006	kg							49.2			
+16	Idaho	KRESOXIM-METHYL	2007	kg							26.5			
+16	Idaho	KRESOXIM-METHYL	2009	kg							32			
+16	Idaho	KRESOXIM-METHYL	2010	kg							41.4			
+16	Idaho	KRESOXIM-METHYL	2012	kg							7.7			
+16	Idaho	KRESOXIM-METHYL	2013	kg							12.4			
+16	Idaho	KRESOXIM-METHYL	2014	kg							10.8			
+16	Idaho	KRESOXIM-METHYL	2015	kg							11.3			
+17	Illinois	KRESOXIM-METHYL	2000	kg							45.3			
+17	Illinois	KRESOXIM-METHYL	2001	kg							91.7			
+17	Illinois	KRESOXIM-METHYL	2002	kg							41.6			
+17	Illinois	KRESOXIM-METHYL	2003	kg							27.4			
+17	Illinois	KRESOXIM-METHYL	2004	kg							95.7			
+17	Illinois	KRESOXIM-METHYL	2006	kg							54.2			
+17	Illinois	KRESOXIM-METHYL	2007	kg							4.8			
+17	Illinois	KRESOXIM-METHYL	2008	kg							77			
+17	Illinois	KRESOXIM-METHYL	2011	kg							36.5			
+18	Indiana	KRESOXIM-METHYL	2000	kg							36.4			
+18	Indiana	KRESOXIM-METHYL	2001	kg							358			
+18	Indiana	KRESOXIM-METHYL	2002	kg							83.7			
+18	Indiana	KRESOXIM-METHYL	2003	kg							40.8			
+18	Indiana	KRESOXIM-METHYL	2004	kg							105.6			
+18	Indiana	KRESOXIM-METHYL	2005	kg							24.6			
+18	Indiana	KRESOXIM-METHYL	2006	kg							87.1			
+18	Indiana	KRESOXIM-METHYL	2007	kg							20.9			
+18	Indiana	KRESOXIM-METHYL	2008	kg							112.2			
+18	Indiana	KRESOXIM-METHYL	2009	kg							43.5			
+18	Indiana	KRESOXIM-METHYL	2010	kg							7.3			
+18	Indiana	KRESOXIM-METHYL	2011	kg							67.6			
+18	Indiana	KRESOXIM-METHYL	2012	kg							1.2			
+18	Indiana	KRESOXIM-METHYL	2013	kg							20.7			
+18	Indiana	KRESOXIM-METHYL	2014	kg							11.8			
+20	Kansas	KRESOXIM-METHYL	2004	kg							2.4			
+20	Kansas	KRESOXIM-METHYL	2015	kg							2.2			
+20	Kansas	KRESOXIM-METHYL	2016	kg							15.4			
+20	Kansas	KRESOXIM-METHYL	2017	kg							10.6			
+21	Kentucky	KRESOXIM-METHYL	2000	kg							19.8			
+21	Kentucky	KRESOXIM-METHYL	2001	kg							76.5			
+21	Kentucky	KRESOXIM-METHYL	2002	kg							30.4			
+21	Kentucky	KRESOXIM-METHYL	2003	kg							5.8			
+21	Kentucky	KRESOXIM-METHYL	2004	kg							24.1			
+21	Kentucky	KRESOXIM-METHYL	2005	kg							50			
+21	Kentucky	KRESOXIM-METHYL	2006	kg							54			
+21	Kentucky	KRESOXIM-METHYL	2007	kg							27.8			
+21	Kentucky	KRESOXIM-METHYL	2008	kg							23.4			
+21	Kentucky	KRESOXIM-METHYL	2009	kg							65.9			
+21	Kentucky	KRESOXIM-METHYL	2010	kg							22.6			
+21	Kentucky	KRESOXIM-METHYL	2011	kg							33.3			
+21	Kentucky	KRESOXIM-METHYL	2012	kg							47.4			
+21	Kentucky	KRESOXIM-METHYL	2013	kg							28.9			
+21	Kentucky	KRESOXIM-METHYL	2015	kg							0.2			
+21	Kentucky	KRESOXIM-METHYL	2016	kg							23.2			
+22	Louisiana	KRESOXIM-METHYL	2002	kg							75.2			
+23	Maine	KRESOXIM-METHYL	2000	kg							61.9			
+23	Maine	KRESOXIM-METHYL	2001	kg							58			
+23	Maine	KRESOXIM-METHYL	2002	kg							73.9			
+23	Maine	KRESOXIM-METHYL	2003	kg							4.7			
+23	Maine	KRESOXIM-METHYL	2004	kg							68.4			
+23	Maine	KRESOXIM-METHYL	2005	kg							131.1			
+23	Maine	KRESOXIM-METHYL	2006	kg							53.8			
+23	Maine	KRESOXIM-METHYL	2007	kg							68.8			
+23	Maine	KRESOXIM-METHYL	2008	kg							132.6			
+23	Maine	KRESOXIM-METHYL	2009	kg							171.4			
+23	Maine	KRESOXIM-METHYL	2010	kg							103.7			
+23	Maine	KRESOXIM-METHYL	2011	kg							184.8			
+23	Maine	KRESOXIM-METHYL	2012	kg							35			
+23	Maine	KRESOXIM-METHYL	2013	kg							24.1			
+23	Maine	KRESOXIM-METHYL	2015	kg							12.1			
+23	Maine	KRESOXIM-METHYL	2016	kg							50.7			
+23	Maine	KRESOXIM-METHYL	2017	kg							13.2			
+24	Maryland	KRESOXIM-METHYL	2000	kg							27.3			
+24	Maryland	KRESOXIM-METHYL	2001	kg							11.6			
+24	Maryland	KRESOXIM-METHYL	2002	kg							81.3			
+24	Maryland	KRESOXIM-METHYL	2003	kg							118.8			
+24	Maryland	KRESOXIM-METHYL	2004	kg							48.7			
+24	Maryland	KRESOXIM-METHYL	2005	kg							68.8			
+24	Maryland	KRESOXIM-METHYL	2006	kg							94			
+24	Maryland	KRESOXIM-METHYL	2007	kg							69.4			
+24	Maryland	KRESOXIM-METHYL	2008	kg							128.1			
+24	Maryland	KRESOXIM-METHYL	2009	kg							170.9			
+24	Maryland	KRESOXIM-METHYL	2010	kg							105.7			
+24	Maryland	KRESOXIM-METHYL	2011	kg							120.4			
+24	Maryland	KRESOXIM-METHYL	2012	kg							45.8			
+24	Maryland	KRESOXIM-METHYL	2013	kg							23.2			
+24	Maryland	KRESOXIM-METHYL	2015	kg							2.6			
+24	Maryland	KRESOXIM-METHYL	2016	kg							4.2			
+24	Maryland	KRESOXIM-METHYL	2017	kg							7.6			
+25	Massachusetts	KRESOXIM-METHYL	1999	kg							4.4			
+25	Massachusetts	KRESOXIM-METHYL	2000	kg					224.9		175.3			
+25	Massachusetts	KRESOXIM-METHYL	2001	kg							73.3			
+25	Massachusetts	KRESOXIM-METHYL	2002	kg					35		14.1			
+25	Massachusetts	KRESOXIM-METHYL	2003	kg					84.3		158.8			
+25	Massachusetts	KRESOXIM-METHYL	2004	kg							56.7			
+25	Massachusetts	KRESOXIM-METHYL	2005	kg							86.1			
+25	Massachusetts	KRESOXIM-METHYL	2006	kg							35.2			
+25	Massachusetts	KRESOXIM-METHYL	2007	kg							55.7			
+25	Massachusetts	KRESOXIM-METHYL	2008	kg							147.4			
+25	Massachusetts	KRESOXIM-METHYL	2009	kg							221.9			
+25	Massachusetts	KRESOXIM-METHYL	2010	kg							49.8			
+25	Massachusetts	KRESOXIM-METHYL	2011	kg							262.4			
+25	Massachusetts	KRESOXIM-METHYL	2012	kg							16.3			
+25	Massachusetts	KRESOXIM-METHYL	2013	kg							26.4			
+25	Massachusetts	KRESOXIM-METHYL	2015	kg							15			
+25	Massachusetts	KRESOXIM-METHYL	2016	kg							70.1			
+25	Massachusetts	KRESOXIM-METHYL	2017	kg							62.5			
+26	Michigan	KRESOXIM-METHYL	2000	kg							3712.7			
+26	Michigan	KRESOXIM-METHYL	2001	kg							1920.4			
+26	Michigan	KRESOXIM-METHYL	2002	kg							1383			
+26	Michigan	KRESOXIM-METHYL	2003	kg							2117.3			
+26	Michigan	KRESOXIM-METHYL	2004	kg							1195			
+26	Michigan	KRESOXIM-METHYL	2005	kg							1561.6			
+26	Michigan	KRESOXIM-METHYL	2006	kg							1703.8			
+26	Michigan	KRESOXIM-METHYL	2007	kg							1119.8			
+26	Michigan	KRESOXIM-METHYL	2008	kg							1636.2			
+26	Michigan	KRESOXIM-METHYL	2009	kg							1498.9			
+26	Michigan	KRESOXIM-METHYL	2010	kg							687.4			
+26	Michigan	KRESOXIM-METHYL	2011	kg							2376.5			
+26	Michigan	KRESOXIM-METHYL	2012	kg							145			
+26	Michigan	KRESOXIM-METHYL	2013	kg							1269.7			
+26	Michigan	KRESOXIM-METHYL	2014	kg							1332.9			
+26	Michigan	KRESOXIM-METHYL	2015	kg							30.4			
+26	Michigan	KRESOXIM-METHYL	2017	kg							984.2			
+28	Mississippi	KRESOXIM-METHYL	2007	kg							17.4			
+28	Mississippi	KRESOXIM-METHYL	2008	kg							17.3			
+28	Mississippi	KRESOXIM-METHYL	2009	kg							8.8			
+28	Mississippi	KRESOXIM-METHYL	2010	kg							4.3			
+28	Mississippi	KRESOXIM-METHYL	2011	kg							41.4			
+28	Mississippi	KRESOXIM-METHYL	2012	kg							21.4			
+28	Mississippi	KRESOXIM-METHYL	2013	kg							32.5			
+28	Mississippi	KRESOXIM-METHYL	2014	kg							20.3			
+28	Mississippi	KRESOXIM-METHYL	2015	kg							14.9			
+28	Mississippi	KRESOXIM-METHYL	2016	kg							18			
+28	Mississippi	KRESOXIM-METHYL	2017	kg							31.2			
+29	Missouri	KRESOXIM-METHYL	2000	kg							21.7			
+29	Missouri	KRESOXIM-METHYL	2001	kg							99.5			
+29	Missouri	KRESOXIM-METHYL	2002	kg							36.8			
+29	Missouri	KRESOXIM-METHYL	2003	kg							32.7			
+29	Missouri	KRESOXIM-METHYL	2004	kg							58.1			
+29	Missouri	KRESOXIM-METHYL	2006	kg							50.8			
+29	Missouri	KRESOXIM-METHYL	2007	kg							4.6			
+29	Missouri	KRESOXIM-METHYL	2008	kg							49.2			
+29	Missouri	KRESOXIM-METHYL	2011	kg							13.7			
+29	Missouri	KRESOXIM-METHYL	2015	kg							0.7			
+29	Missouri	KRESOXIM-METHYL	2016	kg							6.7			
+29	Missouri	KRESOXIM-METHYL	2017	kg							7			
+32	Nevada	KRESOXIM-METHYL	2000	kg							0.2			
+32	Nevada	KRESOXIM-METHYL	2001	kg							0.1			
+32	Nevada	KRESOXIM-METHYL	2002	kg							0.1			
+32	Nevada	KRESOXIM-METHYL	2003	kg							1.6			
+32	Nevada	KRESOXIM-METHYL	2004	kg							0.3			
+32	Nevada	KRESOXIM-METHYL	2005	kg							0.1			
+32	Nevada	KRESOXIM-METHYL	2006	kg							0.9			
+32	Nevada	KRESOXIM-METHYL	2007	kg							0			
+32	Nevada	KRESOXIM-METHYL	2008	kg							0.4			
+32	Nevada	KRESOXIM-METHYL	2009	kg							1.4			
+32	Nevada	KRESOXIM-METHYL	2010	kg					0.5		3.2			
+32	Nevada	KRESOXIM-METHYL	2011	kg							0.3			
+32	Nevada	KRESOXIM-METHYL	2012	kg							0.5			
+32	Nevada	KRESOXIM-METHYL	2013	kg							8.7			
+32	Nevada	KRESOXIM-METHYL	2014	kg							1.2			
+32	Nevada	KRESOXIM-METHYL	2015	kg					0					
+32	Nevada	KRESOXIM-METHYL	2016	kg							2			
+33	New Hampshire	KRESOXIM-METHYL	1999	kg							2.1			
+33	New Hampshire	KRESOXIM-METHYL	2000	kg					42.4		62.9			
+33	New Hampshire	KRESOXIM-METHYL	2001	kg							37.1			
+33	New Hampshire	KRESOXIM-METHYL	2002	kg					6.7		6.8			
+33	New Hampshire	KRESOXIM-METHYL	2003	kg					16.4		39.7			
+33	New Hampshire	KRESOXIM-METHYL	2004	kg							33.9			
+33	New Hampshire	KRESOXIM-METHYL	2005	kg							27.2			
+33	New Hampshire	KRESOXIM-METHYL	2006	kg							37.5			
+33	New Hampshire	KRESOXIM-METHYL	2007	kg							49.1			
+33	New Hampshire	KRESOXIM-METHYL	2008	kg							89.8			
+33	New Hampshire	KRESOXIM-METHYL	2009	kg							107.1			
+33	New Hampshire	KRESOXIM-METHYL	2010	kg							59.9			
+33	New Hampshire	KRESOXIM-METHYL	2011	kg							37.6			
+33	New Hampshire	KRESOXIM-METHYL	2012	kg							16.9			
+33	New Hampshire	KRESOXIM-METHYL	2013	kg							12			
+33	New Hampshire	KRESOXIM-METHYL	2015	kg							6.2			
+33	New Hampshire	KRESOXIM-METHYL	2016	kg							28			
+33	New Hampshire	KRESOXIM-METHYL	2017	kg							7.5			
+34	New Jersey	KRESOXIM-METHYL	2000	kg							72.2			
+34	New Jersey	KRESOXIM-METHYL	2001	kg							41			
+34	New Jersey	KRESOXIM-METHYL	2002	kg							58.9			
+34	New Jersey	KRESOXIM-METHYL	2003	kg							57.7			
+34	New Jersey	KRESOXIM-METHYL	2004	kg							26.7			
+34	New Jersey	KRESOXIM-METHYL	2005	kg							73.6			
+34	New Jersey	KRESOXIM-METHYL	2006	kg							36.2			
+34	New Jersey	KRESOXIM-METHYL	2007	kg							47.1			
+34	New Jersey	KRESOXIM-METHYL	2008	kg							27.8			
+34	New Jersey	KRESOXIM-METHYL	2009	kg							181.2			
+34	New Jersey	KRESOXIM-METHYL	2010	kg							98.6			
+34	New Jersey	KRESOXIM-METHYL	2011	kg							125.3			
+34	New Jersey	KRESOXIM-METHYL	2012	kg							14.9			
+34	New Jersey	KRESOXIM-METHYL	2013	kg							35.7			
+34	New Jersey	KRESOXIM-METHYL	2015	kg							8.2			
+34	New Jersey	KRESOXIM-METHYL	2016	kg							38.5			
+34	New Jersey	KRESOXIM-METHYL	2017	kg							23			
+35	New Mexico	KRESOXIM-METHYL	2008	kg					4.8					
+35	New Mexico	KRESOXIM-METHYL	2009	kg					60.1					
+35	New Mexico	KRESOXIM-METHYL	2010	kg					14.7					
+35	New Mexico	KRESOXIM-METHYL	2015	kg					0					
+35	New Mexico	KRESOXIM-METHYL	2016	kg					1.1					
+36	New York	KRESOXIM-METHYL	1999	kg							527.4			
+36	New York	KRESOXIM-METHYL	2000	kg					136.1		2728.5			
+36	New York	KRESOXIM-METHYL	2001	kg							3184.1			
+36	New York	KRESOXIM-METHYL	2002	kg					22.2		2408.8			
+36	New York	KRESOXIM-METHYL	2003	kg					52.8		2891.8			
+36	New York	KRESOXIM-METHYL	2004	kg							1692.4			
+36	New York	KRESOXIM-METHYL	2005	kg							2723.4			
+36	New York	KRESOXIM-METHYL	2006	kg							1833			
+36	New York	KRESOXIM-METHYL	2007	kg							1855.9			
+36	New York	KRESOXIM-METHYL	2008	kg							3171.7			
+36	New York	KRESOXIM-METHYL	2009	kg							3750			
+36	New York	KRESOXIM-METHYL	2010	kg							3561.3			
+36	New York	KRESOXIM-METHYL	2011	kg							3923.6			
+36	New York	KRESOXIM-METHYL	2012	kg							1258			
+36	New York	KRESOXIM-METHYL	2013	kg							1187.1			
+36	New York	KRESOXIM-METHYL	2014	kg							1213.7			
+36	New York	KRESOXIM-METHYL	2015	kg							202			
+36	New York	KRESOXIM-METHYL	2016	kg							381.8			
+36	New York	KRESOXIM-METHYL	2017	kg							251.1			
+37	North Carolina	KRESOXIM-METHYL	2000	kg							239.4			
+37	North Carolina	KRESOXIM-METHYL	2001	kg							134.3			
+37	North Carolina	KRESOXIM-METHYL	2002	kg							194.8			
+37	North Carolina	KRESOXIM-METHYL	2003	kg							44.5			
+37	North Carolina	KRESOXIM-METHYL	2004	kg							907.8			
+37	North Carolina	KRESOXIM-METHYL	2005	kg							280.5			
+37	North Carolina	KRESOXIM-METHYL	2006	kg							681.4			
+37	North Carolina	KRESOXIM-METHYL	2007	kg							806.5			
+37	North Carolina	KRESOXIM-METHYL	2008	kg							26			
+37	North Carolina	KRESOXIM-METHYL	2009	kg							241.1			
+37	North Carolina	KRESOXIM-METHYL	2010	kg							181.7			
+37	North Carolina	KRESOXIM-METHYL	2011	kg							321.8			
+37	North Carolina	KRESOXIM-METHYL	2012	kg							186.6			
+37	North Carolina	KRESOXIM-METHYL	2013	kg							382.7			
+37	North Carolina	KRESOXIM-METHYL	2015	kg							3.2			
+37	North Carolina	KRESOXIM-METHYL	2016	kg							200.6			
+37	North Carolina	KRESOXIM-METHYL	2017	kg							12.7			
+39	Ohio	KRESOXIM-METHYL	1999	kg							34.3			
+39	Ohio	KRESOXIM-METHYL	2000	kg							140			
+39	Ohio	KRESOXIM-METHYL	2001	kg							490.6			
+39	Ohio	KRESOXIM-METHYL	2002	kg							275.5			
+39	Ohio	KRESOXIM-METHYL	2003	kg							261.1			
+39	Ohio	KRESOXIM-METHYL	2004	kg							235.2			
+39	Ohio	KRESOXIM-METHYL	2005	kg							114.8			
+39	Ohio	KRESOXIM-METHYL	2006	kg							346.8			
+39	Ohio	KRESOXIM-METHYL	2007	kg							34.6			
+39	Ohio	KRESOXIM-METHYL	2008	kg							239.6			
+39	Ohio	KRESOXIM-METHYL	2009	kg							176.2			
+39	Ohio	KRESOXIM-METHYL	2010	kg							56.5			
+39	Ohio	KRESOXIM-METHYL	2011	kg							209.9			
+39	Ohio	KRESOXIM-METHYL	2012	kg							61.2			
+39	Ohio	KRESOXIM-METHYL	2013	kg							79.8			
+39	Ohio	KRESOXIM-METHYL	2014	kg							96.3			
+39	Ohio	KRESOXIM-METHYL	2015	kg							50.3			
+39	Ohio	KRESOXIM-METHYL	2016	kg							110.8			
+40	Oklahoma	KRESOXIM-METHYL	2004	kg							3.3			
+40	Oklahoma	KRESOXIM-METHYL	2007	kg							103.8			
+40	Oklahoma	KRESOXIM-METHYL	2015	kg							53.2			
+40	Oklahoma	KRESOXIM-METHYL	2016	kg							467.8			
+40	Oklahoma	KRESOXIM-METHYL	2017	kg							438.1			
+41	Oregon	KRESOXIM-METHYL	1999	kg							144			
+41	Oregon	KRESOXIM-METHYL	2000	kg							658.3			
+41	Oregon	KRESOXIM-METHYL	2001	kg							838.4			
+41	Oregon	KRESOXIM-METHYL	2002	kg							373			
+41	Oregon	KRESOXIM-METHYL	2003	kg							346.9			
+41	Oregon	KRESOXIM-METHYL	2004	kg							156.7			
+41	Oregon	KRESOXIM-METHYL	2005	kg							1402.1			
+41	Oregon	KRESOXIM-METHYL	2006	kg							113.5			
+41	Oregon	KRESOXIM-METHYL	2007	kg							1709.4			
+41	Oregon	KRESOXIM-METHYL	2008	kg							2011.6			
+41	Oregon	KRESOXIM-METHYL	2009	kg							1280.5			
+41	Oregon	KRESOXIM-METHYL	2010	kg							1180.1			
+41	Oregon	KRESOXIM-METHYL	2011	kg							782.6			
+41	Oregon	KRESOXIM-METHYL	2012	kg							1548.8			
+41	Oregon	KRESOXIM-METHYL	2013	kg							770.4			
+41	Oregon	KRESOXIM-METHYL	2014	kg							729.7			
+41	Oregon	KRESOXIM-METHYL	2015	kg							415.6			
+41	Oregon	KRESOXIM-METHYL	2016	kg							546.4			
+41	Oregon	KRESOXIM-METHYL	2017	kg							132.2			
+42	Pennsylvania	KRESOXIM-METHYL	1999	kg							313.1			
+42	Pennsylvania	KRESOXIM-METHYL	2000	kg							1143.1			
+42	Pennsylvania	KRESOXIM-METHYL	2001	kg							683			
+42	Pennsylvania	KRESOXIM-METHYL	2002	kg							1622.4			
+42	Pennsylvania	KRESOXIM-METHYL	2003	kg							2355.7			
+42	Pennsylvania	KRESOXIM-METHYL	2004	kg							1332.7			
+42	Pennsylvania	KRESOXIM-METHYL	2005	kg							2242.8			
+42	Pennsylvania	KRESOXIM-METHYL	2006	kg							1679.2			
+42	Pennsylvania	KRESOXIM-METHYL	2007	kg							1026.3			
+42	Pennsylvania	KRESOXIM-METHYL	2008	kg							1754.1			
+42	Pennsylvania	KRESOXIM-METHYL	2009	kg							2142.3			
+42	Pennsylvania	KRESOXIM-METHYL	2010	kg							1831.4			
+42	Pennsylvania	KRESOXIM-METHYL	2011	kg							2585.9			
+42	Pennsylvania	KRESOXIM-METHYL	2012	kg							624.7			
+42	Pennsylvania	KRESOXIM-METHYL	2013	kg							408.3			
+42	Pennsylvania	KRESOXIM-METHYL	2014	kg							330.4			
+42	Pennsylvania	KRESOXIM-METHYL	2015	kg							102.4			
+42	Pennsylvania	KRESOXIM-METHYL	2016	kg							518.1			
+42	Pennsylvania	KRESOXIM-METHYL	2017	kg							118.4			
+44	Rhode Island	KRESOXIM-METHYL	1999	kg							0.2			
+44	Rhode Island	KRESOXIM-METHYL	2000	kg					22		11.7			
+44	Rhode Island	KRESOXIM-METHYL	2001	kg							4.9			
+44	Rhode Island	KRESOXIM-METHYL	2002	kg					3.4		0.9			
+44	Rhode Island	KRESOXIM-METHYL	2003	kg					8.5		11.1			
+44	Rhode Island	KRESOXIM-METHYL	2004	kg							4.6			
+44	Rhode Island	KRESOXIM-METHYL	2005	kg							15			
+44	Rhode Island	KRESOXIM-METHYL	2006	kg							6.9			
+44	Rhode Island	KRESOXIM-METHYL	2007	kg							9.6			
+44	Rhode Island	KRESOXIM-METHYL	2008	kg							16.4			
+44	Rhode Island	KRESOXIM-METHYL	2009	kg							19.3			
+44	Rhode Island	KRESOXIM-METHYL	2010	kg							10.5			
+44	Rhode Island	KRESOXIM-METHYL	2011	kg							17			
+44	Rhode Island	KRESOXIM-METHYL	2012	kg							2.8			
+44	Rhode Island	KRESOXIM-METHYL	2013	kg							1.9			
+44	Rhode Island	KRESOXIM-METHYL	2015	kg							0.9			
+44	Rhode Island	KRESOXIM-METHYL	2016	kg							4.2			
+44	Rhode Island	KRESOXIM-METHYL	2017	kg							1			
+45	South Carolina	KRESOXIM-METHYL	2000	kg							70.3			
+45	South Carolina	KRESOXIM-METHYL	2001	kg							43.3			
+45	South Carolina	KRESOXIM-METHYL	2002	kg							61.4			
+45	South Carolina	KRESOXIM-METHYL	2003	kg							12.9			
+45	South Carolina	KRESOXIM-METHYL	2004	kg							199.8			
+45	South Carolina	KRESOXIM-METHYL	2006	kg							78.9			
+45	South Carolina	KRESOXIM-METHYL	2007	kg							55.8			
+45	South Carolina	KRESOXIM-METHYL	2008	kg							5.3			
+45	South Carolina	KRESOXIM-METHYL	2009	kg							23			
+45	South Carolina	KRESOXIM-METHYL	2010	kg							2			
+45	South Carolina	KRESOXIM-METHYL	2011	kg							50.6			
+45	South Carolina	KRESOXIM-METHYL	2012	kg							25.5			
+45	South Carolina	KRESOXIM-METHYL	2013	kg							46.9			
+45	South Carolina	KRESOXIM-METHYL	2014	kg							9.1			
+45	South Carolina	KRESOXIM-METHYL	2015	kg							11.4			
+45	South Carolina	KRESOXIM-METHYL	2016	kg							3.8			
+45	South Carolina	KRESOXIM-METHYL	2017	kg							17.9			
+47	Tennessee	KRESOXIM-METHYL	2000	kg							19.8			
+47	Tennessee	KRESOXIM-METHYL	2001	kg							7.5			
+47	Tennessee	KRESOXIM-METHYL	2002	kg							18			
+47	Tennessee	KRESOXIM-METHYL	2003	kg							2.7			
+47	Tennessee	KRESOXIM-METHYL	2004	kg							41.9			
+47	Tennessee	KRESOXIM-METHYL	2005	kg							27.5			
+47	Tennessee	KRESOXIM-METHYL	2006	kg							50.8			
+47	Tennessee	KRESOXIM-METHYL	2007	kg							56.4			
+47	Tennessee	KRESOXIM-METHYL	2008	kg							0.5			
+47	Tennessee	KRESOXIM-METHYL	2009	kg							12.4			
+47	Tennessee	KRESOXIM-METHYL	2010	kg							13.2			
+47	Tennessee	KRESOXIM-METHYL	2011	kg							18.2			
+47	Tennessee	KRESOXIM-METHYL	2012	kg							19			
+47	Tennessee	KRESOXIM-METHYL	2013	kg							23.7			
+47	Tennessee	KRESOXIM-METHYL	2015	kg							0			
+47	Tennessee	KRESOXIM-METHYL	2016	kg							10.8			
+48	Texas	KRESOXIM-METHYL	2002	kg							58.9			
+48	Texas	KRESOXIM-METHYL	2007	kg							146.8			
+50	Vermont	KRESOXIM-METHYL	1999	kg							2.8			
+50	Vermont	KRESOXIM-METHYL	2000	kg					28.1		97.6			
+50	Vermont	KRESOXIM-METHYL	2001	kg							49.9			
+50	Vermont	KRESOXIM-METHYL	2002	kg					4.6		9.2			
+50	Vermont	KRESOXIM-METHYL	2003	kg					11.4		55.8			
+50	Vermont	KRESOXIM-METHYL	2004	kg							42.4			
+50	Vermont	KRESOXIM-METHYL	2005	kg							59.6			
+50	Vermont	KRESOXIM-METHYL	2006	kg							58.3			
+50	Vermont	KRESOXIM-METHYL	2007	kg							74.8			
+50	Vermont	KRESOXIM-METHYL	2008	kg							200.7			
+50	Vermont	KRESOXIM-METHYL	2009	kg							153.6			
+50	Vermont	KRESOXIM-METHYL	2010	kg							22.6			
+50	Vermont	KRESOXIM-METHYL	2011	kg							185.5			
+50	Vermont	KRESOXIM-METHYL	2012	kg							21.9			
+50	Vermont	KRESOXIM-METHYL	2013	kg							16.1			
+50	Vermont	KRESOXIM-METHYL	2015	kg							9.4			
+50	Vermont	KRESOXIM-METHYL	2016	kg							44.1			
+50	Vermont	KRESOXIM-METHYL	2017	kg							12.5			
+51	Virginia	KRESOXIM-METHYL	2000	kg							138			
+51	Virginia	KRESOXIM-METHYL	2001	kg							101.5			
+51	Virginia	KRESOXIM-METHYL	2002	kg							42.6			
+51	Virginia	KRESOXIM-METHYL	2003	kg							257.7			
+51	Virginia	KRESOXIM-METHYL	2004	kg							253.6			
+51	Virginia	KRESOXIM-METHYL	2005	kg							482.8			
+51	Virginia	KRESOXIM-METHYL	2006	kg							834.4			
+51	Virginia	KRESOXIM-METHYL	2007	kg							1458.1			
+51	Virginia	KRESOXIM-METHYL	2008	kg							1987.2			
+51	Virginia	KRESOXIM-METHYL	2009	kg							1039.4			
+51	Virginia	KRESOXIM-METHYL	2010	kg							637.8			
+51	Virginia	KRESOXIM-METHYL	2011	kg							762			
+51	Virginia	KRESOXIM-METHYL	2012	kg							708.1			
+51	Virginia	KRESOXIM-METHYL	2013	kg							327			
+51	Virginia	KRESOXIM-METHYL	2015	kg							23.5			
+51	Virginia	KRESOXIM-METHYL	2016	kg							91.1			
+51	Virginia	KRESOXIM-METHYL	2017	kg							159.8			
+53	Washington	KRESOXIM-METHYL	1999	kg							2378.3			
+53	Washington	KRESOXIM-METHYL	2000	kg							2342			
+53	Washington	KRESOXIM-METHYL	2001	kg							1897.3			
+53	Washington	KRESOXIM-METHYL	2002	kg							791.9			
+53	Washington	KRESOXIM-METHYL	2003	kg							2364			
+53	Washington	KRESOXIM-METHYL	2004	kg							1351.1			
+53	Washington	KRESOXIM-METHYL	2005	kg							1319.2			
+53	Washington	KRESOXIM-METHYL	2006	kg							2326.5			
+53	Washington	KRESOXIM-METHYL	2007	kg							1330.7			
+53	Washington	KRESOXIM-METHYL	2008	kg							25.6			
+53	Washington	KRESOXIM-METHYL	2009	kg							1137.7			
+53	Washington	KRESOXIM-METHYL	2010	kg							2112.2			
+53	Washington	KRESOXIM-METHYL	2011	kg							14.5			
+53	Washington	KRESOXIM-METHYL	2012	kg							372.3			
+53	Washington	KRESOXIM-METHYL	2013	kg							512.9			
+53	Washington	KRESOXIM-METHYL	2014	kg							271.9			
+53	Washington	KRESOXIM-METHYL	2015	kg							2721			
+53	Washington	KRESOXIM-METHYL	2016	kg							35.8			
+53	Washington	KRESOXIM-METHYL	2017	kg							10.3			
+54	West Virginia	KRESOXIM-METHYL	2000	kg							74.9			
+54	West Virginia	KRESOXIM-METHYL	2001	kg							39			
+54	West Virginia	KRESOXIM-METHYL	2002	kg							160.7			
+54	West Virginia	KRESOXIM-METHYL	2003	kg							25.6			
+54	West Virginia	KRESOXIM-METHYL	2004	kg							71.9			
+54	West Virginia	KRESOXIM-METHYL	2005	kg							130.3			
+54	West Virginia	KRESOXIM-METHYL	2006	kg							202.2			
+54	West Virginia	KRESOXIM-METHYL	2007	kg							150.5			
+54	West Virginia	KRESOXIM-METHYL	2008	kg							287			
+54	West Virginia	KRESOXIM-METHYL	2009	kg							649.7			
+54	West Virginia	KRESOXIM-METHYL	2010	kg							144.6			
+54	West Virginia	KRESOXIM-METHYL	2011	kg							276.2			
+54	West Virginia	KRESOXIM-METHYL	2012	kg							289.8			
+54	West Virginia	KRESOXIM-METHYL	2013	kg							178.9			
+54	West Virginia	KRESOXIM-METHYL	2014	kg							13.2			
+54	West Virginia	KRESOXIM-METHYL	2015	kg							13.6			
+54	West Virginia	KRESOXIM-METHYL	2016	kg							103.4			
+54	West Virginia	KRESOXIM-METHYL	2017	kg							2.2			
+55	Wisconsin	KRESOXIM-METHYL	2000	kg							202.4			
+55	Wisconsin	KRESOXIM-METHYL	2001	kg							30.7			
+55	Wisconsin	KRESOXIM-METHYL	2002	kg							113.8			
+55	Wisconsin	KRESOXIM-METHYL	2003	kg							438.4			
+55	Wisconsin	KRESOXIM-METHYL	2004	kg							376.8			
+55	Wisconsin	KRESOXIM-METHYL	2005	kg							128.7			
+55	Wisconsin	KRESOXIM-METHYL	2006	kg							159.4			
+55	Wisconsin	KRESOXIM-METHYL	2007	kg							73.9			
+55	Wisconsin	KRESOXIM-METHYL	2008	kg							140.4			
+55	Wisconsin	KRESOXIM-METHYL	2009	kg							139.3			
+55	Wisconsin	KRESOXIM-METHYL	2010	kg							47.3			
+55	Wisconsin	KRESOXIM-METHYL	2011	kg							184.1			
+55	Wisconsin	KRESOXIM-METHYL	2012	kg							16.8			
+55	Wisconsin	KRESOXIM-METHYL	2013	kg							76.4			
+55	Wisconsin	KRESOXIM-METHYL	2014	kg							99.9			

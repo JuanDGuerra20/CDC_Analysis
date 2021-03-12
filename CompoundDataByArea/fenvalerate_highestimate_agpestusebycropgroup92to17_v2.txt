@@ -1,0 +1,93 @@
+01	Alabama	FENVALERATE	1992	kg				56.3	722.9		50.4			
+01	Alabama	FENVALERATE	1993	kg				995.9	1037.6					
+04	Arizona	FENVALERATE	1992	kg					0.3		0.4			
+04	Arizona	FENVALERATE	1996	kg					1.4					
+05	Arkansas	FENVALERATE	1992	kg							10.8			
+06	California	FENVALERATE	1992	kg	4.5			1.8	112.8		75.9			0.5
+06	California	FENVALERATE	1993	kg				42.8	75.5		35			
+06	California	FENVALERATE	1994	kg				17.9	15.3					
+06	California	FENVALERATE	1996	kg	2.2				3.3					
+06	California	FENVALERATE	1997	kg				4.1	46		2.3			
+06	California	FENVALERATE	1998	kg							5.2			
+06	California	FENVALERATE	2000	kg							1.9			
+06	California	FENVALERATE	2002	kg							1			
+06	California	FENVALERATE	2005	kg							0			
+06	California	FENVALERATE	2006	kg							0			
+08	Colorado	FENVALERATE	1992	kg							2.6			
+08	Colorado	FENVALERATE	1993	kg	122.9									
+08	Colorado	FENVALERATE	1994	kg										1550.1
+10	Delaware	FENVALERATE	1992	kg					18.2					
+10	Delaware	FENVALERATE	1993	kg					20.6					
+12	Florida	FENVALERATE	1992	kg				55.2	473.7					32.8
+12	Florida	FENVALERATE	1993	kg					558.6				1.8	
+13	Georgia	FENVALERATE	1992	kg	299.1			398	353.6					126.1
+13	Georgia	FENVALERATE	1993	kg					315				3.8	
+16	Idaho	FENVALERATE	1993	kg								44.2		
+17	Illinois	FENVALERATE	1992	kg	1668.1				87.1		148.5			
+17	Illinois	FENVALERATE	1993	kg	3640.1									
+18	Indiana	FENVALERATE	1992	kg							22.4			
+18	Indiana	FENVALERATE	1994	kg							0.4			
+19	Iowa	FENVALERATE	1992	kg					270.9					
+19	Iowa	FENVALERATE	1993	kg	2994.1				5.6					
+20	Kansas	FENVALERATE	1992	kg							14.2			
+20	Kansas	FENVALERATE	1993	kg	258.8									
+20	Kansas	FENVALERATE	1994	kg										4675.3
+21	Kentucky	FENVALERATE	1992	kg	548.5						5.7			
+21	Kentucky	FENVALERATE	1994	kg	22									
+22	Louisiana	FENVALERATE	1992	kg				876.2						
+24	Maryland	FENVALERATE	1992	kg					554.8		79.9			
+24	Maryland	FENVALERATE	1993	kg					680.4		1.3			
+26	Michigan	FENVALERATE	1992	kg					30.5		1305.5			
+26	Michigan	FENVALERATE	1994	kg					12.8		28.7			
+26	Michigan	FENVALERATE	1995	kg					164.3					
+27	Minnesota	FENVALERATE	1992	kg					87.9					
+28	Mississippi	FENVALERATE	1992	kg				54.8			37.2			
+28	Mississippi	FENVALERATE	1993	kg				310.2						
+29	Missouri	FENVALERATE	1992	kg							128.4			
+29	Missouri	FENVALERATE	1993	kg	2597.4									
+30	Montana	FENVALERATE	1993	kg								15.7		
+31	Nebraska	FENVALERATE	1993	kg	2457.8				2.8					
+31	Nebraska	FENVALERATE	1994	kg										911.4
+32	Nevada	FENVALERATE	1992	kg							0.1			
+34	New Jersey	FENVALERATE	1993	kg					510.6					
+35	New Mexico	FENVALERATE	1992	kg				6.7	1.2		0			
+35	New Mexico	FENVALERATE	1993	kg					3.7				16.3	
+36	New York	FENVALERATE	1992	kg					91.7		6.6			
+36	New York	FENVALERATE	1993	kg					60.3					
+36	New York	FENVALERATE	1994	kg					31.3					
+37	North Carolina	FENVALERATE	1992	kg	716.1	137.5								
+37	North Carolina	FENVALERATE	1994	kg	16									
+38	North Dakota	FENVALERATE	1992	kg										59.9
+38	North Dakota	FENVALERATE	1995	kg										5068.4
+38	North Dakota	FENVALERATE	1996	kg									31.5	
+39	Ohio	FENVALERATE	1992	kg					16.8		17.1			
+39	Ohio	FENVALERATE	1993	kg					4.2		213.2			
+39	Ohio	FENVALERATE	1994	kg					64.4					
+39	Ohio	FENVALERATE	1995	kg					141.6					
+40	Oklahoma	FENVALERATE	1992	kg							306.3			
+40	Oklahoma	FENVALERATE	1993	kg				26.8			50.3			
+40	Oklahoma	FENVALERATE	1994	kg							432.1			
+40	Oklahoma	FENVALERATE	1996	kg							2			
+42	Pennsylvania	FENVALERATE	1992	kg					159.2		272.2			
+42	Pennsylvania	FENVALERATE	1993	kg					145.8		20.7			
+42	Pennsylvania	FENVALERATE	1994	kg					94.7					
+45	South Carolina	FENVALERATE	1993	kg				208.6						
+46	South Dakota	FENVALERATE	1993	kg					0					
+47	Tennessee	FENVALERATE	1992	kg	1863.7				25		353.8			
+47	Tennessee	FENVALERATE	1993	kg				1703.7	79.3					
+47	Tennessee	FENVALERATE	1994	kg	26.9									
+48	Texas	FENVALERATE	1992	kg				480.5	108.4		1114.1		0.9	
+48	Texas	FENVALERATE	1993	kg				2462.9	0.9		212.9		76.3	
+48	Texas	FENVALERATE	1994	kg							1712.2			
+48	Texas	FENVALERATE	1996	kg							7.6			
+49	Utah	FENVALERATE	1992	kg							0			
+49	Utah	FENVALERATE	1993	kg								6.2		
+51	Virginia	FENVALERATE	1992	kg	508.9	26.6					10.2			
+51	Virginia	FENVALERATE	1993	kg	341.5									
+51	Virginia	FENVALERATE	1994	kg	81.1									
+54	West Virginia	FENVALERATE	1992	kg							9			
+54	West Virginia	FENVALERATE	1994	kg	27									
+55	Wisconsin	FENVALERATE	1992	kg	1392.1				1320.9					
+55	Wisconsin	FENVALERATE	1993	kg					857.8					
+55	Wisconsin	FENVALERATE	1994	kg					206.7					
+56	Wyoming	FENVALERATE	1993	kg								3		

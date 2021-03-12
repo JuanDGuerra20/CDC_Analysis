@@ -1,0 +1,150 @@
+01	Alabama	DICLOSULAM	2000	kg										520.6
+01	Alabama	DICLOSULAM	2001	kg										391.9
+01	Alabama	DICLOSULAM	2002	kg										502.4
+01	Alabama	DICLOSULAM	2003	kg										308
+01	Alabama	DICLOSULAM	2004	kg										564
+01	Alabama	DICLOSULAM	2005	kg										647.8
+01	Alabama	DICLOSULAM	2006	kg										744.8
+01	Alabama	DICLOSULAM	2007	kg										713.7
+01	Alabama	DICLOSULAM	2008	kg										908.4
+01	Alabama	DICLOSULAM	2009	kg										552.1
+01	Alabama	DICLOSULAM	2010	kg										947.6
+01	Alabama	DICLOSULAM	2011	kg										795.4
+01	Alabama	DICLOSULAM	2012	kg										420.5
+01	Alabama	DICLOSULAM	2013	kg										317.2
+01	Alabama	DICLOSULAM	2014	kg										320.3
+01	Alabama	DICLOSULAM	2015	kg										399.5
+01	Alabama	DICLOSULAM	2016	kg										450
+01	Alabama	DICLOSULAM	2017	kg										563.9
+05	Arkansas	DICLOSULAM	2000	kg										2.1
+12	Florida	DICLOSULAM	2000	kg										86.9
+12	Florida	DICLOSULAM	2001	kg										27.6
+12	Florida	DICLOSULAM	2002	kg										232.7
+12	Florida	DICLOSULAM	2003	kg										121.4
+12	Florida	DICLOSULAM	2004	kg										180.4
+12	Florida	DICLOSULAM	2005	kg										271.6
+12	Florida	DICLOSULAM	2006	kg										201.2
+12	Florida	DICLOSULAM	2007	kg										292.1
+12	Florida	DICLOSULAM	2008	kg										205.9
+12	Florida	DICLOSULAM	2009	kg										130.4
+12	Florida	DICLOSULAM	2010	kg										87.3
+12	Florida	DICLOSULAM	2011	kg										142.4
+12	Florida	DICLOSULAM	2012	kg										496.8
+12	Florida	DICLOSULAM	2013	kg										130.7
+12	Florida	DICLOSULAM	2014	kg										482.5
+12	Florida	DICLOSULAM	2015	kg										477.9
+12	Florida	DICLOSULAM	2016	kg										504.6
+12	Florida	DICLOSULAM	2017	kg										715.5
+13	Georgia	DICLOSULAM	2000	kg										421.8
+13	Georgia	DICLOSULAM	2001	kg										189.2
+13	Georgia	DICLOSULAM	2002	kg										167.6
+13	Georgia	DICLOSULAM	2003	kg										910.9
+13	Georgia	DICLOSULAM	2004	kg										891.8
+13	Georgia	DICLOSULAM	2005	kg										1254.1
+13	Georgia	DICLOSULAM	2006	kg										970.2
+13	Georgia	DICLOSULAM	2007	kg										1159.1
+13	Georgia	DICLOSULAM	2008	kg										1063
+13	Georgia	DICLOSULAM	2009	kg										1078.6
+13	Georgia	DICLOSULAM	2010	kg										996
+13	Georgia	DICLOSULAM	2011	kg										591.7
+13	Georgia	DICLOSULAM	2012	kg										752.7
+13	Georgia	DICLOSULAM	2013	kg										409.9
+13	Georgia	DICLOSULAM	2014	kg										1256
+13	Georgia	DICLOSULAM	2015	kg										1723.1
+13	Georgia	DICLOSULAM	2016	kg										1124.2
+13	Georgia	DICLOSULAM	2017	kg										1290.2
+22	Louisiana	DICLOSULAM	2000	kg										0
+28	Mississippi	DICLOSULAM	2000	kg										1.1
+28	Mississippi	DICLOSULAM	2001	kg										1.4
+28	Mississippi	DICLOSULAM	2002	kg										2.8
+28	Mississippi	DICLOSULAM	2003	kg										7.7
+28	Mississippi	DICLOSULAM	2004	kg										15.8
+28	Mississippi	DICLOSULAM	2005	kg										9.2
+28	Mississippi	DICLOSULAM	2006	kg										21.4
+28	Mississippi	DICLOSULAM	2007	kg										29.4
+28	Mississippi	DICLOSULAM	2008	kg										34.5
+28	Mississippi	DICLOSULAM	2009	kg										25.5
+28	Mississippi	DICLOSULAM	2010	kg										71
+28	Mississippi	DICLOSULAM	2011	kg										59.5
+28	Mississippi	DICLOSULAM	2012	kg										31.6
+28	Mississippi	DICLOSULAM	2013	kg										18.8
+28	Mississippi	DICLOSULAM	2014	kg										37.5
+28	Mississippi	DICLOSULAM	2015	kg										25.5
+28	Mississippi	DICLOSULAM	2016	kg										20.2
+28	Mississippi	DICLOSULAM	2017	kg										50.1
+35	New Mexico	DICLOSULAM	2000	kg										26.8
+35	New Mexico	DICLOSULAM	2001	kg										30.9
+35	New Mexico	DICLOSULAM	2002	kg										33.2
+35	New Mexico	DICLOSULAM	2003	kg										5.1
+35	New Mexico	DICLOSULAM	2004	kg										38.9
+35	New Mexico	DICLOSULAM	2007	kg										17.6
+37	North Carolina	DICLOSULAM	2000	kg										73.9
+37	North Carolina	DICLOSULAM	2001	kg										276.6
+37	North Carolina	DICLOSULAM	2002	kg										155.4
+37	North Carolina	DICLOSULAM	2003	kg										272.1
+37	North Carolina	DICLOSULAM	2004	kg										202.5
+37	North Carolina	DICLOSULAM	2005	kg										320
+37	North Carolina	DICLOSULAM	2006	kg										281.2
+37	North Carolina	DICLOSULAM	2007	kg										138.9
+37	North Carolina	DICLOSULAM	2008	kg										256.6
+37	North Carolina	DICLOSULAM	2009	kg										114.6
+37	North Carolina	DICLOSULAM	2010	kg										109
+37	North Carolina	DICLOSULAM	2011	kg										208.6
+37	North Carolina	DICLOSULAM	2012	kg										77.7
+37	North Carolina	DICLOSULAM	2013	kg										113
+37	North Carolina	DICLOSULAM	2014	kg										107.6
+37	North Carolina	DICLOSULAM	2015	kg										63.9
+37	North Carolina	DICLOSULAM	2016	kg										91.6
+37	North Carolina	DICLOSULAM	2017	kg										161.9
+40	Oklahoma	DICLOSULAM	2000	kg										205
+40	Oklahoma	DICLOSULAM	2001	kg										20.9
+40	Oklahoma	DICLOSULAM	2002	kg										3.2
+40	Oklahoma	DICLOSULAM	2003	kg										10.1
+40	Oklahoma	DICLOSULAM	2004	kg										62.1
+40	Oklahoma	DICLOSULAM	2005	kg										15.5
+40	Oklahoma	DICLOSULAM	2006	kg										58.6
+40	Oklahoma	DICLOSULAM	2007	kg										52.6
+45	South Carolina	DICLOSULAM	2000	kg										18.4
+45	South Carolina	DICLOSULAM	2001	kg										29
+45	South Carolina	DICLOSULAM	2002	kg										207
+45	South Carolina	DICLOSULAM	2003	kg										343
+45	South Carolina	DICLOSULAM	2004	kg										239
+45	South Carolina	DICLOSULAM	2005	kg										141.6
+45	South Carolina	DICLOSULAM	2006	kg										147.6
+45	South Carolina	DICLOSULAM	2007	kg										78.1
+45	South Carolina	DICLOSULAM	2008	kg										45.9
+45	South Carolina	DICLOSULAM	2009	kg										132
+45	South Carolina	DICLOSULAM	2010	kg										122.9
+45	South Carolina	DICLOSULAM	2011	kg										138.9
+45	South Carolina	DICLOSULAM	2012	kg										20.7
+45	South Carolina	DICLOSULAM	2013	kg										92.1
+45	South Carolina	DICLOSULAM	2014	kg										180.9
+45	South Carolina	DICLOSULAM	2015	kg										99.5
+45	South Carolina	DICLOSULAM	2016	kg										55.6
+45	South Carolina	DICLOSULAM	2017	kg										248.1
+48	Texas	DICLOSULAM	2000	kg										359.4
+48	Texas	DICLOSULAM	2001	kg										213.5
+48	Texas	DICLOSULAM	2002	kg										184
+48	Texas	DICLOSULAM	2003	kg										106.2
+48	Texas	DICLOSULAM	2004	kg										395.7
+48	Texas	DICLOSULAM	2005	kg										19.6
+48	Texas	DICLOSULAM	2006	kg										65.2
+48	Texas	DICLOSULAM	2007	kg										242.3
+51	Virginia	DICLOSULAM	2000	kg										294.1
+51	Virginia	DICLOSULAM	2001	kg										344
+51	Virginia	DICLOSULAM	2002	kg										271
+51	Virginia	DICLOSULAM	2003	kg										76.8
+51	Virginia	DICLOSULAM	2004	kg										282.9
+51	Virginia	DICLOSULAM	2005	kg										151.7
+51	Virginia	DICLOSULAM	2006	kg										90.8
+51	Virginia	DICLOSULAM	2007	kg										71
+51	Virginia	DICLOSULAM	2008	kg										66.7
+51	Virginia	DICLOSULAM	2009	kg										60.8
+51	Virginia	DICLOSULAM	2010	kg										120.3
+51	Virginia	DICLOSULAM	2011	kg										57.4
+51	Virginia	DICLOSULAM	2012	kg										115.4
+51	Virginia	DICLOSULAM	2013	kg										155.5
+51	Virginia	DICLOSULAM	2014	kg										63.7
+51	Virginia	DICLOSULAM	2015	kg										21.8
+51	Virginia	DICLOSULAM	2016	kg										188.6
+51	Virginia	DICLOSULAM	2017	kg										170.9

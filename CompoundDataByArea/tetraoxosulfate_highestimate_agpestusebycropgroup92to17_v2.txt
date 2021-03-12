@@ -1,0 +1,9 @@
+12	Florida	TETRAOXOSULFATE	2000	kg							11636.8			
+17	Illinois	TETRAOXOSULFATE	2002	kg		9779.8								
+41	Oregon	TETRAOXOSULFATE	2001	kg							455.9			
+41	Oregon	TETRAOXOSULFATE	2002	kg									3518.6	
+53	Washington	TETRAOXOSULFATE	2001	kg			83.2				685.9			
+53	Washington	TETRAOXOSULFATE	2002	kg									871.3	
+53	Washington	TETRAOXOSULFATE	2003	kg			29501.5							
+53	Washington	TETRAOXOSULFATE	2005	kg									18448.9	
+55	Wisconsin	TETRAOXOSULFATE	2002	kg		8820.8								

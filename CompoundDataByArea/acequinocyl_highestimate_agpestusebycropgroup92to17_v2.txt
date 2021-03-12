@@ -1,0 +1,63 @@
+04	Arizona	ACEQUINOCYL	2008	kg					0					
+04	Arizona	ACEQUINOCYL	2009	kg					0		29.4			
+04	Arizona	ACEQUINOCYL	2010	kg					0.1					
+04	Arizona	ACEQUINOCYL	2011	kg					0.1					
+04	Arizona	ACEQUINOCYL	2012	kg					0					
+04	Arizona	ACEQUINOCYL	2013	kg					0					
+04	Arizona	ACEQUINOCYL	2014	kg					0.1					
+04	Arizona	ACEQUINOCYL	2015	kg					1.5					
+04	Arizona	ACEQUINOCYL	2016	kg					1.1					
+04	Arizona	ACEQUINOCYL	2017	kg					2.4					
+06	California	ACEQUINOCYL	2005	kg					150.3		537.3			
+06	California	ACEQUINOCYL	2006	kg					271.2		5203.1			
+06	California	ACEQUINOCYL	2007	kg					179.2		2102.3			
+06	California	ACEQUINOCYL	2008	kg					291.4		2574.5			
+06	California	ACEQUINOCYL	2009	kg					1917.7		2091.1			
+06	California	ACEQUINOCYL	2010	kg					970.4		1240.4			
+06	California	ACEQUINOCYL	2011	kg					828		2660.2			
+06	California	ACEQUINOCYL	2012	kg					1455.2		759			
+06	California	ACEQUINOCYL	2013	kg					2500.6		350.5			
+06	California	ACEQUINOCYL	2014	kg					4027.9		1012.3			0.7
+06	California	ACEQUINOCYL	2015	kg					4857.3		2172.8			4
+06	California	ACEQUINOCYL	2016	kg					3498.6		1111.3			1.9
+06	California	ACEQUINOCYL	2017	kg					3830.9		1397			3.3
+12	Florida	ACEQUINOCYL	2016	kg					1084.7					
+16	Idaho	ACEQUINOCYL	2010	kg							2.4			
+16	Idaho	ACEQUINOCYL	2011	kg							0.3			
+16	Idaho	ACEQUINOCYL	2013	kg							4			
+16	Idaho	ACEQUINOCYL	2014	kg							2.4			
+18	Indiana	ACEQUINOCYL	2005	kg							5.2			
+24	Maryland	ACEQUINOCYL	2005	kg							0.6			
+24	Maryland	ACEQUINOCYL	2006	kg							0.7			
+26	Michigan	ACEQUINOCYL	2005	kg							273.6			
+32	Nevada	ACEQUINOCYL	2008	kg					0					
+32	Nevada	ACEQUINOCYL	2009	kg					0					
+32	Nevada	ACEQUINOCYL	2010	kg					0					
+32	Nevada	ACEQUINOCYL	2011	kg					0					
+32	Nevada	ACEQUINOCYL	2012	kg					0					
+32	Nevada	ACEQUINOCYL	2013	kg					0					
+32	Nevada	ACEQUINOCYL	2014	kg					0					
+32	Nevada	ACEQUINOCYL	2015	kg					0.4					
+32	Nevada	ACEQUINOCYL	2016	kg					0.5					
+32	Nevada	ACEQUINOCYL	2017	kg					0.9					
+36	New York	ACEQUINOCYL	2006	kg							1071.1			
+36	New York	ACEQUINOCYL	2010	kg							157.4			
+41	Oregon	ACEQUINOCYL	2010	kg							76.4			
+41	Oregon	ACEQUINOCYL	2011	kg							16.2			
+41	Oregon	ACEQUINOCYL	2012	kg							14.6			
+41	Oregon	ACEQUINOCYL	2013	kg							54.3			
+41	Oregon	ACEQUINOCYL	2014	kg							36.5			
+41	Oregon	ACEQUINOCYL	2015	kg							31			
+41	Oregon	ACEQUINOCYL	2016	kg							4.8			
+41	Oregon	ACEQUINOCYL	2017	kg							32.9			
+42	Pennsylvania	ACEQUINOCYL	2005	kg							8.6			
+42	Pennsylvania	ACEQUINOCYL	2006	kg							87.3			
+53	Washington	ACEQUINOCYL	2006	kg							199.6			
+53	Washington	ACEQUINOCYL	2010	kg							4491.1			
+53	Washington	ACEQUINOCYL	2011	kg							956.7			
+53	Washington	ACEQUINOCYL	2012	kg							31			
+53	Washington	ACEQUINOCYL	2013	kg							3336.4			
+53	Washington	ACEQUINOCYL	2014	kg							1666.5			
+53	Washington	ACEQUINOCYL	2015	kg							100.6			
+53	Washington	ACEQUINOCYL	2016	kg							398.1			
+53	Washington	ACEQUINOCYL	2017	kg							57.3			

@@ -1,0 +1,395 @@
+01	Alabama	FLUMETRALIN	1992	kg										23.3
+01	Alabama	FLUMETRALIN	1993	kg										17.4
+01	Alabama	FLUMETRALIN	1994	kg										23.4
+01	Alabama	FLUMETRALIN	1995	kg										18.7
+01	Alabama	FLUMETRALIN	1996	kg										498.3
+01	Alabama	FLUMETRALIN	1997	kg										13.2
+01	Alabama	FLUMETRALIN	1998	kg										10.4
+01	Alabama	FLUMETRALIN	1999	kg										17
+01	Alabama	FLUMETRALIN	2000	kg										12.9
+01	Alabama	FLUMETRALIN	2001	kg										23
+01	Alabama	FLUMETRALIN	2002	kg										11.9
+01	Alabama	FLUMETRALIN	2003	kg										9.8
+01	Alabama	FLUMETRALIN	2004	kg										11.6
+01	Alabama	FLUMETRALIN	2005	kg										5.6
+01	Alabama	FLUMETRALIN	2006	kg										5
+09	Connecticut	FLUMETRALIN	1994	kg										898
+09	Connecticut	FLUMETRALIN	1995	kg										877.1
+09	Connecticut	FLUMETRALIN	2000	kg										162.8
+09	Connecticut	FLUMETRALIN	2001	kg										1558.2
+09	Connecticut	FLUMETRALIN	2002	kg										239
+09	Connecticut	FLUMETRALIN	2003	kg										209.5
+09	Connecticut	FLUMETRALIN	2004	kg										121
+09	Connecticut	FLUMETRALIN	2008	kg										131.2
+09	Connecticut	FLUMETRALIN	2009	kg										43.3
+09	Connecticut	FLUMETRALIN	2010	kg										19.5
+12	Florida	FLUMETRALIN	1992	kg										109.3
+12	Florida	FLUMETRALIN	1993	kg										69.5
+12	Florida	FLUMETRALIN	1994	kg										487
+12	Florida	FLUMETRALIN	1995	kg										429.6
+12	Florida	FLUMETRALIN	1996	kg										465.5
+12	Florida	FLUMETRALIN	1997	kg										211
+12	Florida	FLUMETRALIN	1998	kg										291.6
+12	Florida	FLUMETRALIN	1999	kg										97.2
+12	Florida	FLUMETRALIN	2000	kg										84.1
+12	Florida	FLUMETRALIN	2001	kg										387.3
+12	Florida	FLUMETRALIN	2002	kg										150.4
+12	Florida	FLUMETRALIN	2003	kg										43.1
+12	Florida	FLUMETRALIN	2004	kg										171.4
+12	Florida	FLUMETRALIN	2005	kg										280.9
+12	Florida	FLUMETRALIN	2006	kg										113.1
+12	Florida	FLUMETRALIN	2007	kg										55.9
+12	Florida	FLUMETRALIN	2008	kg										235
+12	Florida	FLUMETRALIN	2009	kg										912.9
+12	Florida	FLUMETRALIN	2011	kg										137.7
+12	Florida	FLUMETRALIN	2012	kg										67.1
+12	Florida	FLUMETRALIN	2013	kg										94.8
+12	Florida	FLUMETRALIN	2014	kg										22.3
+12	Florida	FLUMETRALIN	2015	kg										9
+12	Florida	FLUMETRALIN	2016	kg										144.2
+12	Florida	FLUMETRALIN	2017	kg										382.7
+13	Georgia	FLUMETRALIN	1992	kg										1184.1
+13	Georgia	FLUMETRALIN	1993	kg										948.2
+13	Georgia	FLUMETRALIN	1994	kg										2259.3
+13	Georgia	FLUMETRALIN	1995	kg										2302.9
+13	Georgia	FLUMETRALIN	1996	kg										3056.2
+13	Georgia	FLUMETRALIN	1997	kg										1195.2
+13	Georgia	FLUMETRALIN	1998	kg										1104.6
+13	Georgia	FLUMETRALIN	1999	kg										1335.3
+13	Georgia	FLUMETRALIN	2000	kg										539.7
+13	Georgia	FLUMETRALIN	2001	kg										3436.1
+13	Georgia	FLUMETRALIN	2002	kg										892.5
+13	Georgia	FLUMETRALIN	2003	kg										325.7
+13	Georgia	FLUMETRALIN	2004	kg										1327.3
+13	Georgia	FLUMETRALIN	2005	kg										1105.8
+13	Georgia	FLUMETRALIN	2006	kg										2416.2
+13	Georgia	FLUMETRALIN	2007	kg										1261.5
+13	Georgia	FLUMETRALIN	2008	kg										2581.9
+13	Georgia	FLUMETRALIN	2009	kg										2966.5
+13	Georgia	FLUMETRALIN	2010	kg										2321.7
+13	Georgia	FLUMETRALIN	2011	kg										4315.4
+13	Georgia	FLUMETRALIN	2012	kg										1452.2
+13	Georgia	FLUMETRALIN	2013	kg										2676.3
+13	Georgia	FLUMETRALIN	2014	kg										3948.3
+13	Georgia	FLUMETRALIN	2015	kg										1376
+13	Georgia	FLUMETRALIN	2016	kg										4254.4
+13	Georgia	FLUMETRALIN	2017	kg										5788.4
+17	Illinois	FLUMETRALIN	1992	kg										19.8
+17	Illinois	FLUMETRALIN	1993	kg										3.5
+17	Illinois	FLUMETRALIN	1994	kg										14.1
+17	Illinois	FLUMETRALIN	1995	kg		6581.9								27.4
+17	Illinois	FLUMETRALIN	1996	kg										28
+17	Illinois	FLUMETRALIN	1997	kg										9
+17	Illinois	FLUMETRALIN	1998	kg										7.9
+17	Illinois	FLUMETRALIN	1999	kg										0.5
+17	Illinois	FLUMETRALIN	2000	kg										20.7
+17	Illinois	FLUMETRALIN	2001	kg										30
+17	Illinois	FLUMETRALIN	2002	kg										15.7
+17	Illinois	FLUMETRALIN	2003	kg										18
+17	Illinois	FLUMETRALIN	2004	kg										16.8
+17	Illinois	FLUMETRALIN	2005	kg										8.3
+17	Illinois	FLUMETRALIN	2006	kg										44.2
+17	Illinois	FLUMETRALIN	2007	kg										20.2
+17	Illinois	FLUMETRALIN	2008	kg										47.8
+17	Illinois	FLUMETRALIN	2009	kg										37.9
+17	Illinois	FLUMETRALIN	2010	kg										69
+17	Illinois	FLUMETRALIN	2011	kg										56.6
+17	Illinois	FLUMETRALIN	2012	kg										78.9
+17	Illinois	FLUMETRALIN	2013	kg										78.2
+17	Illinois	FLUMETRALIN	2014	kg										124.6
+17	Illinois	FLUMETRALIN	2015	kg										130.2
+17	Illinois	FLUMETRALIN	2016	kg										9.7
+17	Illinois	FLUMETRALIN	2017	kg										13.2
+18	Indiana	FLUMETRALIN	1992	kg										234.6
+18	Indiana	FLUMETRALIN	1993	kg										101.3
+18	Indiana	FLUMETRALIN	1994	kg										920.3
+18	Indiana	FLUMETRALIN	1995	kg		7488.3								78.5
+18	Indiana	FLUMETRALIN	1996	kg										180.9
+18	Indiana	FLUMETRALIN	1997	kg										162.1
+18	Indiana	FLUMETRALIN	1998	kg										205.8
+18	Indiana	FLUMETRALIN	1999	kg										376.5
+18	Indiana	FLUMETRALIN	2000	kg										389.5
+18	Indiana	FLUMETRALIN	2001	kg										337.6
+18	Indiana	FLUMETRALIN	2002	kg										126.9
+18	Indiana	FLUMETRALIN	2003	kg										266.8
+18	Indiana	FLUMETRALIN	2004	kg										616
+18	Indiana	FLUMETRALIN	2005	kg										59
+18	Indiana	FLUMETRALIN	2006	kg										237.7
+18	Indiana	FLUMETRALIN	2007	kg										384.7
+18	Indiana	FLUMETRALIN	2008	kg										116.8
+18	Indiana	FLUMETRALIN	2009	kg										85.7
+18	Indiana	FLUMETRALIN	2010	kg										91.6
+18	Indiana	FLUMETRALIN	2011	kg										300.3
+18	Indiana	FLUMETRALIN	2012	kg										209.5
+18	Indiana	FLUMETRALIN	2013	kg										143.5
+18	Indiana	FLUMETRALIN	2014	kg										150.5
+18	Indiana	FLUMETRALIN	2015	kg										100.8
+18	Indiana	FLUMETRALIN	2016	kg										11.4
+18	Indiana	FLUMETRALIN	2017	kg										76.5
+20	Kansas	FLUMETRALIN	2000	kg										2.3
+20	Kansas	FLUMETRALIN	2002	kg										1.4
+21	Kentucky	FLUMETRALIN	1992	kg										4188.6
+21	Kentucky	FLUMETRALIN	1993	kg										5278.6
+21	Kentucky	FLUMETRALIN	1994	kg										3661.9
+21	Kentucky	FLUMETRALIN	1995	kg		10220.6								4295.1
+21	Kentucky	FLUMETRALIN	1996	kg										4994.2
+21	Kentucky	FLUMETRALIN	1997	kg										4821.8
+21	Kentucky	FLUMETRALIN	1998	kg										5473.5
+21	Kentucky	FLUMETRALIN	1999	kg										8059.3
+21	Kentucky	FLUMETRALIN	2000	kg										3894
+21	Kentucky	FLUMETRALIN	2001	kg										8009.7
+21	Kentucky	FLUMETRALIN	2002	kg										4837.9
+21	Kentucky	FLUMETRALIN	2003	kg										2956.2
+21	Kentucky	FLUMETRALIN	2004	kg										2884.1
+21	Kentucky	FLUMETRALIN	2005	kg										3031
+21	Kentucky	FLUMETRALIN	2006	kg										7288.6
+21	Kentucky	FLUMETRALIN	2007	kg										6827.5
+21	Kentucky	FLUMETRALIN	2008	kg										4301.6
+21	Kentucky	FLUMETRALIN	2009	kg										4600.5
+21	Kentucky	FLUMETRALIN	2010	kg										5476.2
+21	Kentucky	FLUMETRALIN	2011	kg										8147.5
+21	Kentucky	FLUMETRALIN	2012	kg										7846.3
+21	Kentucky	FLUMETRALIN	2013	kg										8137.9
+21	Kentucky	FLUMETRALIN	2014	kg										10563.9
+21	Kentucky	FLUMETRALIN	2015	kg										4906.9
+21	Kentucky	FLUMETRALIN	2016	kg										2813.2
+21	Kentucky	FLUMETRALIN	2017	kg										4026.1
+24	Maryland	FLUMETRALIN	1992	kg										630.1
+24	Maryland	FLUMETRALIN	1993	kg										474.9
+24	Maryland	FLUMETRALIN	1994	kg										670.8
+24	Maryland	FLUMETRALIN	1995	kg										535.7
+24	Maryland	FLUMETRALIN	1996	kg										1628.2
+24	Maryland	FLUMETRALIN	1997	kg										894.4
+24	Maryland	FLUMETRALIN	1998	kg										125.3
+24	Maryland	FLUMETRALIN	1999	kg										369.9
+24	Maryland	FLUMETRALIN	2000	kg										219.1
+24	Maryland	FLUMETRALIN	2001	kg										272
+24	Maryland	FLUMETRALIN	2002	kg										70.3
+24	Maryland	FLUMETRALIN	2003	kg										65.7
+24	Maryland	FLUMETRALIN	2004	kg										92.4
+24	Maryland	FLUMETRALIN	2005	kg										59.1
+24	Maryland	FLUMETRALIN	2006	kg										88.5
+24	Maryland	FLUMETRALIN	2007	kg										60.6
+24	Maryland	FLUMETRALIN	2008	kg										44.1
+24	Maryland	FLUMETRALIN	2009	kg										38
+24	Maryland	FLUMETRALIN	2010	kg										36.5
+24	Maryland	FLUMETRALIN	2011	kg										48.1
+24	Maryland	FLUMETRALIN	2012	kg										31.6
+24	Maryland	FLUMETRALIN	2013	kg										38.8
+24	Maryland	FLUMETRALIN	2014	kg										50.1
+24	Maryland	FLUMETRALIN	2015	kg										32.4
+24	Maryland	FLUMETRALIN	2016	kg										42.1
+24	Maryland	FLUMETRALIN	2017	kg										38.2
+25	Massachusetts	FLUMETRALIN	1994	kg										351
+25	Massachusetts	FLUMETRALIN	1995	kg										771.4
+25	Massachusetts	FLUMETRALIN	2000	kg										49.8
+25	Massachusetts	FLUMETRALIN	2001	kg										507.2
+25	Massachusetts	FLUMETRALIN	2002	kg										334.2
+25	Massachusetts	FLUMETRALIN	2003	kg										420.9
+25	Massachusetts	FLUMETRALIN	2004	kg										48.7
+25	Massachusetts	FLUMETRALIN	2008	kg										51
+25	Massachusetts	FLUMETRALIN	2009	kg										15
+25	Massachusetts	FLUMETRALIN	2010	kg										5.9
+29	Missouri	FLUMETRALIN	1992	kg										47.4
+29	Missouri	FLUMETRALIN	1993	kg										29.6
+29	Missouri	FLUMETRALIN	1994	kg										125.4
+29	Missouri	FLUMETRALIN	1995	kg										30.8
+29	Missouri	FLUMETRALIN	1996	kg										75.5
+29	Missouri	FLUMETRALIN	1997	kg										54
+29	Missouri	FLUMETRALIN	1998	kg										48.5
+29	Missouri	FLUMETRALIN	1999	kg										143.6
+29	Missouri	FLUMETRALIN	2000	kg										170.9
+29	Missouri	FLUMETRALIN	2001	kg										122.1
+29	Missouri	FLUMETRALIN	2002	kg										181.6
+29	Missouri	FLUMETRALIN	2003	kg										94.4
+29	Missouri	FLUMETRALIN	2004	kg										130.9
+29	Missouri	FLUMETRALIN	2005	kg										39.7
+29	Missouri	FLUMETRALIN	2006	kg										197.1
+29	Missouri	FLUMETRALIN	2007	kg										199.2
+29	Missouri	FLUMETRALIN	2008	kg										90.2
+29	Missouri	FLUMETRALIN	2009	kg										66.4
+29	Missouri	FLUMETRALIN	2010	kg										52.2
+29	Missouri	FLUMETRALIN	2011	kg										76.4
+29	Missouri	FLUMETRALIN	2012	kg										29
+29	Missouri	FLUMETRALIN	2013	kg										41.2
+29	Missouri	FLUMETRALIN	2014	kg										49.8
+29	Missouri	FLUMETRALIN	2015	kg										55.7
+29	Missouri	FLUMETRALIN	2016	kg										3.7
+29	Missouri	FLUMETRALIN	2017	kg										8.2
+37	North Carolina	FLUMETRALIN	1992	kg										18391.8
+37	North Carolina	FLUMETRALIN	1993	kg										13989.8
+37	North Carolina	FLUMETRALIN	1994	kg										26233.1
+37	North Carolina	FLUMETRALIN	1995	kg										22480.2
+37	North Carolina	FLUMETRALIN	1996	kg										19359.8
+37	North Carolina	FLUMETRALIN	1997	kg										24557.7
+37	North Carolina	FLUMETRALIN	1998	kg										8803.1
+37	North Carolina	FLUMETRALIN	1999	kg										18126
+37	North Carolina	FLUMETRALIN	2000	kg										13559
+37	North Carolina	FLUMETRALIN	2001	kg										17441
+37	North Carolina	FLUMETRALIN	2002	kg										19223.6
+37	North Carolina	FLUMETRALIN	2003	kg										10908.2
+37	North Carolina	FLUMETRALIN	2004	kg										11197.3
+37	North Carolina	FLUMETRALIN	2005	kg										12073.2
+37	North Carolina	FLUMETRALIN	2006	kg										17727.8
+37	North Carolina	FLUMETRALIN	2007	kg										17309.3
+37	North Carolina	FLUMETRALIN	2008	kg										26394.3
+37	North Carolina	FLUMETRALIN	2009	kg										23271.6
+37	North Carolina	FLUMETRALIN	2010	kg										22338.8
+37	North Carolina	FLUMETRALIN	2011	kg										35800.6
+37	North Carolina	FLUMETRALIN	2012	kg										33161.5
+37	North Carolina	FLUMETRALIN	2013	kg										30520.5
+37	North Carolina	FLUMETRALIN	2014	kg										34528.5
+37	North Carolina	FLUMETRALIN	2015	kg										24798
+37	North Carolina	FLUMETRALIN	2016	kg										31218.9
+37	North Carolina	FLUMETRALIN	2017	kg										15361.9
+39	Ohio	FLUMETRALIN	1992	kg										79.4
+39	Ohio	FLUMETRALIN	1993	kg										1491.8
+39	Ohio	FLUMETRALIN	1994	kg										66.3
+39	Ohio	FLUMETRALIN	1995	kg										189.5
+39	Ohio	FLUMETRALIN	1996	kg										179.9
+39	Ohio	FLUMETRALIN	1997	kg										163.4
+39	Ohio	FLUMETRALIN	1998	kg										976.4
+39	Ohio	FLUMETRALIN	1999	kg										884.7
+39	Ohio	FLUMETRALIN	2000	kg										159.9
+39	Ohio	FLUMETRALIN	2001	kg										138.5
+39	Ohio	FLUMETRALIN	2002	kg										890.7
+39	Ohio	FLUMETRALIN	2003	kg										36.2
+39	Ohio	FLUMETRALIN	2004	kg										172.4
+39	Ohio	FLUMETRALIN	2005	kg										806.5
+39	Ohio	FLUMETRALIN	2006	kg										262.4
+39	Ohio	FLUMETRALIN	2007	kg										486.3
+39	Ohio	FLUMETRALIN	2008	kg										308.2
+39	Ohio	FLUMETRALIN	2009	kg										29.7
+39	Ohio	FLUMETRALIN	2010	kg										83.1
+39	Ohio	FLUMETRALIN	2011	kg										203.3
+39	Ohio	FLUMETRALIN	2012	kg										173.3
+39	Ohio	FLUMETRALIN	2013	kg										194
+39	Ohio	FLUMETRALIN	2014	kg										168.6
+39	Ohio	FLUMETRALIN	2015	kg										315.5
+39	Ohio	FLUMETRALIN	2016	kg										165.9
+39	Ohio	FLUMETRALIN	2017	kg										32.2
+42	Pennsylvania	FLUMETRALIN	1994	kg										2375.6
+42	Pennsylvania	FLUMETRALIN	1999	kg										67.4
+42	Pennsylvania	FLUMETRALIN	2001	kg										251.4
+42	Pennsylvania	FLUMETRALIN	2002	kg										1145.3
+42	Pennsylvania	FLUMETRALIN	2003	kg										956.1
+42	Pennsylvania	FLUMETRALIN	2008	kg										287.1
+42	Pennsylvania	FLUMETRALIN	2009	kg										197.9
+42	Pennsylvania	FLUMETRALIN	2010	kg										33.5
+42	Pennsylvania	FLUMETRALIN	2011	kg										1881.3
+42	Pennsylvania	FLUMETRALIN	2012	kg										1109.5
+42	Pennsylvania	FLUMETRALIN	2013	kg										798.8
+42	Pennsylvania	FLUMETRALIN	2014	kg										1879.9
+42	Pennsylvania	FLUMETRALIN	2015	kg										940.2
+42	Pennsylvania	FLUMETRALIN	2016	kg										2864
+42	Pennsylvania	FLUMETRALIN	2017	kg										1653.6
+45	South Carolina	FLUMETRALIN	1992	kg										2064.6
+45	South Carolina	FLUMETRALIN	1993	kg										26.3
+45	South Carolina	FLUMETRALIN	1994	kg										268.3
+45	South Carolina	FLUMETRALIN	1995	kg										1730.9
+45	South Carolina	FLUMETRALIN	1996	kg										621
+45	South Carolina	FLUMETRALIN	1997	kg										2365
+45	South Carolina	FLUMETRALIN	1998	kg										636.2
+45	South Carolina	FLUMETRALIN	1999	kg										2286.2
+45	South Carolina	FLUMETRALIN	2000	kg										3207.1
+45	South Carolina	FLUMETRALIN	2001	kg										3262.9
+45	South Carolina	FLUMETRALIN	2002	kg										1053.6
+45	South Carolina	FLUMETRALIN	2003	kg										1039.4
+45	South Carolina	FLUMETRALIN	2004	kg										100.5
+45	South Carolina	FLUMETRALIN	2005	kg										1399.4
+45	South Carolina	FLUMETRALIN	2006	kg										2988.6
+45	South Carolina	FLUMETRALIN	2007	kg										1894.2
+45	South Carolina	FLUMETRALIN	2008	kg										1196.5
+45	South Carolina	FLUMETRALIN	2009	kg										1303.5
+45	South Carolina	FLUMETRALIN	2010	kg										4695.9
+45	South Carolina	FLUMETRALIN	2011	kg										1694.6
+45	South Carolina	FLUMETRALIN	2012	kg										3021.2
+45	South Carolina	FLUMETRALIN	2013	kg										2023.3
+45	South Carolina	FLUMETRALIN	2014	kg										1281.1
+45	South Carolina	FLUMETRALIN	2015	kg										1410
+45	South Carolina	FLUMETRALIN	2016	kg										1451.4
+45	South Carolina	FLUMETRALIN	2017	kg										808.8
+47	Tennessee	FLUMETRALIN	1992	kg										5803
+47	Tennessee	FLUMETRALIN	1993	kg										6917.7
+47	Tennessee	FLUMETRALIN	1994	kg										5040.3
+47	Tennessee	FLUMETRALIN	1995	kg		1341								3246.3
+47	Tennessee	FLUMETRALIN	1996	kg										3819.6
+47	Tennessee	FLUMETRALIN	1997	kg										2429.9
+47	Tennessee	FLUMETRALIN	1998	kg										5694.6
+47	Tennessee	FLUMETRALIN	1999	kg										4027.8
+47	Tennessee	FLUMETRALIN	2000	kg										3176.4
+47	Tennessee	FLUMETRALIN	2001	kg										4818.4
+47	Tennessee	FLUMETRALIN	2002	kg										3396.2
+47	Tennessee	FLUMETRALIN	2003	kg										1433.4
+47	Tennessee	FLUMETRALIN	2004	kg										2320
+47	Tennessee	FLUMETRALIN	2005	kg										1631.4
+47	Tennessee	FLUMETRALIN	2006	kg										2245
+47	Tennessee	FLUMETRALIN	2007	kg										1265.4
+47	Tennessee	FLUMETRALIN	2008	kg										2449.8
+47	Tennessee	FLUMETRALIN	2009	kg										1018.7
+47	Tennessee	FLUMETRALIN	2010	kg										1113.7
+47	Tennessee	FLUMETRALIN	2011	kg										1928
+47	Tennessee	FLUMETRALIN	2012	kg										1854.3
+47	Tennessee	FLUMETRALIN	2013	kg										3369.3
+47	Tennessee	FLUMETRALIN	2014	kg										2585.7
+47	Tennessee	FLUMETRALIN	2015	kg										5276.4
+47	Tennessee	FLUMETRALIN	2016	kg										1225.3
+47	Tennessee	FLUMETRALIN	2017	kg										799.1
+51	Virginia	FLUMETRALIN	1992	kg										4625.5
+51	Virginia	FLUMETRALIN	1993	kg										2827
+51	Virginia	FLUMETRALIN	1994	kg										6877.5
+51	Virginia	FLUMETRALIN	1995	kg										7103.5
+51	Virginia	FLUMETRALIN	1996	kg										2450.7
+51	Virginia	FLUMETRALIN	1997	kg										2980.2
+51	Virginia	FLUMETRALIN	1998	kg										4357.4
+51	Virginia	FLUMETRALIN	1999	kg										2582.3
+51	Virginia	FLUMETRALIN	2000	kg										1196.7
+51	Virginia	FLUMETRALIN	2001	kg										3364.6
+51	Virginia	FLUMETRALIN	2002	kg										1577.2
+51	Virginia	FLUMETRALIN	2003	kg										2913.8
+51	Virginia	FLUMETRALIN	2004	kg										4777.5
+51	Virginia	FLUMETRALIN	2005	kg										4884
+51	Virginia	FLUMETRALIN	2006	kg										4483.9
+51	Virginia	FLUMETRALIN	2007	kg										5397.4
+51	Virginia	FLUMETRALIN	2008	kg										2906.3
+51	Virginia	FLUMETRALIN	2009	kg										3757.1
+51	Virginia	FLUMETRALIN	2010	kg										3352.5
+51	Virginia	FLUMETRALIN	2011	kg										5838.9
+51	Virginia	FLUMETRALIN	2012	kg										3549.3
+51	Virginia	FLUMETRALIN	2013	kg										6707.9
+51	Virginia	FLUMETRALIN	2014	kg										11909.9
+51	Virginia	FLUMETRALIN	2015	kg										4384.3
+51	Virginia	FLUMETRALIN	2016	kg										7355.2
+51	Virginia	FLUMETRALIN	2017	kg										3002.2
+54	West Virginia	FLUMETRALIN	1992	kg										74.1
+54	West Virginia	FLUMETRALIN	1993	kg										489.2
+54	West Virginia	FLUMETRALIN	1994	kg										162.1
+54	West Virginia	FLUMETRALIN	1995	kg										634.3
+54	West Virginia	FLUMETRALIN	1996	kg										295.8
+54	West Virginia	FLUMETRALIN	1997	kg										256
+54	West Virginia	FLUMETRALIN	1998	kg										46.3
+54	West Virginia	FLUMETRALIN	1999	kg										713.5
+54	West Virginia	FLUMETRALIN	2000	kg										106.4
+54	West Virginia	FLUMETRALIN	2001	kg										67
+54	West Virginia	FLUMETRALIN	2002	kg										284.5
+54	West Virginia	FLUMETRALIN	2003	kg										151.5
+54	West Virginia	FLUMETRALIN	2004	kg										247.6
+54	West Virginia	FLUMETRALIN	2005	kg										85.8
+54	West Virginia	FLUMETRALIN	2006	kg										35.6
+54	West Virginia	FLUMETRALIN	2007	kg										35
+54	West Virginia	FLUMETRALIN	2008	kg										12.3
+54	West Virginia	FLUMETRALIN	2009	kg										7.6
+54	West Virginia	FLUMETRALIN	2010	kg										11
+54	West Virginia	FLUMETRALIN	2011	kg										6.8
+54	West Virginia	FLUMETRALIN	2012	kg										5.5
+54	West Virginia	FLUMETRALIN	2013	kg										4.7
+54	West Virginia	FLUMETRALIN	2014	kg										2.5
+54	West Virginia	FLUMETRALIN	2015	kg										10.6
+54	West Virginia	FLUMETRALIN	2016	kg										4.1
+54	West Virginia	FLUMETRALIN	2017	kg										2.3
+55	Wisconsin	FLUMETRALIN	1997	kg										1204.1
+55	Wisconsin	FLUMETRALIN	1998	kg										9.6
+55	Wisconsin	FLUMETRALIN	2000	kg										26.3
+55	Wisconsin	FLUMETRALIN	2002	kg										28.2
+55	Wisconsin	FLUMETRALIN	2003	kg										118.2
+55	Wisconsin	FLUMETRALIN	2004	kg										60.9

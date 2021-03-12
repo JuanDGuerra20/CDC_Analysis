@@ -1,0 +1,85 @@
+04	Arizona	TRITICONAZOLE	2014	kg			87.6							
+06	California	TRITICONAZOLE	2012	kg							0.1			
+06	California	TRITICONAZOLE	2013	kg							0			
+06	California	TRITICONAZOLE	2014	kg							24.3			
+06	California	TRITICONAZOLE	2015	kg							80.9			
+06	California	TRITICONAZOLE	2016	kg							165.9			
+06	California	TRITICONAZOLE	2017	kg							146.5			
+08	Colorado	TRITICONAZOLE	2009	kg			80.1							
+08	Colorado	TRITICONAZOLE	2010	kg			130.8							
+08	Colorado	TRITICONAZOLE	2011	kg			65.3							
+08	Colorado	TRITICONAZOLE	2012	kg			66.4							
+08	Colorado	TRITICONAZOLE	2013	kg			207.4							
+08	Colorado	TRITICONAZOLE	2014	kg			93.8							
+16	Idaho	TRITICONAZOLE	2009	kg			304.8							
+16	Idaho	TRITICONAZOLE	2010	kg			126.5							
+16	Idaho	TRITICONAZOLE	2011	kg			184.8							
+16	Idaho	TRITICONAZOLE	2012	kg			127.3							
+16	Idaho	TRITICONAZOLE	2013	kg			238.9							
+16	Idaho	TRITICONAZOLE	2014	kg			889.3							
+17	Illinois	TRITICONAZOLE	2012	kg			16.1							
+17	Illinois	TRITICONAZOLE	2013	kg			12.7							
+17	Illinois	TRITICONAZOLE	2014	kg			7.3							
+18	Indiana	TRITICONAZOLE	2014	kg			61.4							
+19	Iowa	TRITICONAZOLE	2009	kg			0							
+19	Iowa	TRITICONAZOLE	2010	kg			0.3							
+19	Iowa	TRITICONAZOLE	2011	kg			0							
+19	Iowa	TRITICONAZOLE	2013	kg			0.1							
+19	Iowa	TRITICONAZOLE	2014	kg			0							
+20	Kansas	TRITICONAZOLE	2009	kg			98.8							
+20	Kansas	TRITICONAZOLE	2010	kg			356.2							
+20	Kansas	TRITICONAZOLE	2011	kg			46.5							
+20	Kansas	TRITICONAZOLE	2013	kg			179.5							
+20	Kansas	TRITICONAZOLE	2014	kg			74.2							
+21	Kentucky	TRITICONAZOLE	2014	kg			8.1							
+26	Michigan	TRITICONAZOLE	2013	kg			90.4							
+26	Michigan	TRITICONAZOLE	2014	kg			52.4							
+27	Minnesota	TRITICONAZOLE	2009	kg			71.7							
+27	Minnesota	TRITICONAZOLE	2010	kg			41.1							
+27	Minnesota	TRITICONAZOLE	2011	kg			149.3							
+27	Minnesota	TRITICONAZOLE	2012	kg			294.4							
+27	Minnesota	TRITICONAZOLE	2013	kg			254.4							
+27	Minnesota	TRITICONAZOLE	2014	kg			1489.9							
+29	Missouri	TRITICONAZOLE	2010	kg			4.8							
+29	Missouri	TRITICONAZOLE	2014	kg			6.6							
+30	Montana	TRITICONAZOLE	2009	kg			500.1							
+30	Montana	TRITICONAZOLE	2010	kg			547.6							
+30	Montana	TRITICONAZOLE	2011	kg			953.8							
+30	Montana	TRITICONAZOLE	2012	kg			1365.7							
+30	Montana	TRITICONAZOLE	2013	kg			1235.6							
+30	Montana	TRITICONAZOLE	2014	kg			1943.1							
+31	Nebraska	TRITICONAZOLE	2009	kg			64.7							
+31	Nebraska	TRITICONAZOLE	2010	kg			304.5							
+31	Nebraska	TRITICONAZOLE	2011	kg			215.5							
+31	Nebraska	TRITICONAZOLE	2012	kg			184.3							
+31	Nebraska	TRITICONAZOLE	2013	kg			127							
+31	Nebraska	TRITICONAZOLE	2014	kg			336.2							
+35	New Mexico	TRITICONAZOLE	2014	kg			0.5							
+38	North Dakota	TRITICONAZOLE	2009	kg			254.2							
+38	North Dakota	TRITICONAZOLE	2010	kg			1107.3							
+38	North Dakota	TRITICONAZOLE	2011	kg			994.6							
+38	North Dakota	TRITICONAZOLE	2012	kg			1436.3							
+38	North Dakota	TRITICONAZOLE	2013	kg			5573.8							
+38	North Dakota	TRITICONAZOLE	2014	kg			6579.1							
+39	Ohio	TRITICONAZOLE	2013	kg			38.9							
+39	Ohio	TRITICONAZOLE	2014	kg			104.3							
+40	Oklahoma	TRITICONAZOLE	2009	kg			97							
+41	Oregon	TRITICONAZOLE	2011	kg			36.3							
+46	South Dakota	TRITICONAZOLE	2009	kg			108.9							
+46	South Dakota	TRITICONAZOLE	2010	kg			378.2							
+46	South Dakota	TRITICONAZOLE	2011	kg			705.8							
+46	South Dakota	TRITICONAZOLE	2012	kg			478.7							
+46	South Dakota	TRITICONAZOLE	2013	kg			426							
+46	South Dakota	TRITICONAZOLE	2014	kg			4663.1							
+47	Tennessee	TRITICONAZOLE	2014	kg			1.1							
+48	Texas	TRITICONAZOLE	2009	kg			17.9							
+53	Washington	TRITICONAZOLE	2011	kg			218.1							
+55	Wisconsin	TRITICONAZOLE	2012	kg			85.2							
+55	Wisconsin	TRITICONAZOLE	2013	kg			73.5							
+55	Wisconsin	TRITICONAZOLE	2014	kg			51.3							
+56	Wyoming	TRITICONAZOLE	2009	kg			9.2							
+56	Wyoming	TRITICONAZOLE	2010	kg			50.5							
+56	Wyoming	TRITICONAZOLE	2011	kg			38.8							
+56	Wyoming	TRITICONAZOLE	2012	kg			18.7							
+56	Wyoming	TRITICONAZOLE	2013	kg			43.5							
+56	Wyoming	TRITICONAZOLE	2014	kg			96.3							

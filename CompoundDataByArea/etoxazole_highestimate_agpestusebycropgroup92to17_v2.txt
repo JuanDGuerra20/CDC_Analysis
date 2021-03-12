@@ -1,0 +1,280 @@
+01	Alabama	ETOXAZOLE	2008	kg				39.2						
+04	Arizona	ETOXAZOLE	2004	kg				49.5						
+04	Arizona	ETOXAZOLE	2005	kg				36.9						
+04	Arizona	ETOXAZOLE	2006	kg				2010.5			7.4			
+04	Arizona	ETOXAZOLE	2007	kg				969.6			2.5			
+04	Arizona	ETOXAZOLE	2008	kg				475.2	0		7.2			
+04	Arizona	ETOXAZOLE	2009	kg				71.7	0.1		5			
+04	Arizona	ETOXAZOLE	2010	kg				26.3	0.1		0.9			
+04	Arizona	ETOXAZOLE	2011	kg					0		2.3			
+04	Arizona	ETOXAZOLE	2012	kg				410.2	0		2.4			
+04	Arizona	ETOXAZOLE	2013	kg	624.2			459.7	38.2		9.4			
+04	Arizona	ETOXAZOLE	2014	kg	1014.6				0		6			
+04	Arizona	ETOXAZOLE	2015	kg	665.2			901	0		8.2			
+04	Arizona	ETOXAZOLE	2016	kg				295			9.5			
+04	Arizona	ETOXAZOLE	2017	kg	1034			615.2			12.5			
+05	Arkansas	ETOXAZOLE	2006	kg				218.9						
+05	Arkansas	ETOXAZOLE	2007	kg				232.7						
+05	Arkansas	ETOXAZOLE	2008	kg				391.6						
+05	Arkansas	ETOXAZOLE	2009	kg				552						
+05	Arkansas	ETOXAZOLE	2011	kg				1489.6						
+05	Arkansas	ETOXAZOLE	2012	kg				2645.9						
+05	Arkansas	ETOXAZOLE	2013	kg				49.6	5.6					
+05	Arkansas	ETOXAZOLE	2015	kg				120.9						
+05	Arkansas	ETOXAZOLE	2016	kg				703.9						
+06	California	ETOXAZOLE	2004	kg					0.5		0.9			
+06	California	ETOXAZOLE	2005	kg				817.2	279.8		92			
+06	California	ETOXAZOLE	2006	kg				1305.4	464.1		3099.6			
+06	California	ETOXAZOLE	2007	kg				756.3	514.3		7480			
+06	California	ETOXAZOLE	2008	kg				653.3	595.3		8594.1			
+06	California	ETOXAZOLE	2009	kg				184.6	457.7		8676			
+06	California	ETOXAZOLE	2010	kg				424.3	519.8		8940			
+06	California	ETOXAZOLE	2011	kg	1			1116.3	520.8		9767.5			
+06	California	ETOXAZOLE	2012	kg	3864.2			455.1	702.4		13071.2			
+06	California	ETOXAZOLE	2013	kg	7866.8		10.2	188.4	771.1		19605.8	29.4	0.7	32.6
+06	California	ETOXAZOLE	2014	kg	8698.5		0.9	512.4	739.4		25305.3	9.7		2.3
+06	California	ETOXAZOLE	2015	kg	8775.5		1.5	645.8	856.6		28352.5	5.9	5.1	3.5
+06	California	ETOXAZOLE	2016	kg	8797.9		0	814.5	401.4		25953.1			10.6
+06	California	ETOXAZOLE	2017	kg	7831.9			1152.5	514.5		27856			2.3
+08	Colorado	ETOXAZOLE	2013	kg	17.8									
+08	Colorado	ETOXAZOLE	2016	kg	12									
+08	Colorado	ETOXAZOLE	2017	kg	79.7									
+09	Connecticut	ETOXAZOLE	2005	kg							14.6			
+09	Connecticut	ETOXAZOLE	2006	kg							2			
+09	Connecticut	ETOXAZOLE	2008	kg							1.3			
+09	Connecticut	ETOXAZOLE	2009	kg							74.1			
+09	Connecticut	ETOXAZOLE	2011	kg							2.8			
+09	Connecticut	ETOXAZOLE	2013	kg							15.3			
+09	Connecticut	ETOXAZOLE	2014	kg							19			
+12	Florida	ETOXAZOLE	2004	kg					326.2					
+12	Florida	ETOXAZOLE	2005	kg					246.9					
+12	Florida	ETOXAZOLE	2006	kg					29.3					
+12	Florida	ETOXAZOLE	2007	kg					275.7					
+12	Florida	ETOXAZOLE	2008	kg					17.7					
+12	Florida	ETOXAZOLE	2010	kg					117.3					
+12	Florida	ETOXAZOLE	2013	kg					375.7					
+12	Florida	ETOXAZOLE	2014	kg							77.9			
+12	Florida	ETOXAZOLE	2016	kg					339.9					
+13	Georgia	ETOXAZOLE	2014	kg							1624.7			
+13	Georgia	ETOXAZOLE	2015	kg							0.1			
+16	Idaho	ETOXAZOLE	2004	kg							2.8			
+16	Idaho	ETOXAZOLE	2007	kg							1			
+16	Idaho	ETOXAZOLE	2009	kg							2.1			
+16	Idaho	ETOXAZOLE	2010	kg							2.5			
+16	Idaho	ETOXAZOLE	2011	kg							0.5			
+16	Idaho	ETOXAZOLE	2012	kg							3.8			
+16	Idaho	ETOXAZOLE	2013	kg							1.6			
+16	Idaho	ETOXAZOLE	2014	kg							1.6			
+16	Idaho	ETOXAZOLE	2015	kg							1.8			
+16	Idaho	ETOXAZOLE	2016	kg	438.1						1.6			
+16	Idaho	ETOXAZOLE	2017	kg							6.2			
+17	Illinois	ETOXAZOLE	2013	kg					1.1					
+18	Indiana	ETOXAZOLE	2004	kg							1.5			
+18	Indiana	ETOXAZOLE	2005	kg							16.4			
+18	Indiana	ETOXAZOLE	2006	kg							1.1			
+18	Indiana	ETOXAZOLE	2007	kg							1.1			
+18	Indiana	ETOXAZOLE	2014	kg							3.2			
+20	Kansas	ETOXAZOLE	2013	kg	267.1									
+20	Kansas	ETOXAZOLE	2016	kg	205									
+20	Kansas	ETOXAZOLE	2017	kg	1697.4									
+21	Kentucky	ETOXAZOLE	2013	kg					0.2					
+22	Louisiana	ETOXAZOLE	2006	kg				261.9						
+22	Louisiana	ETOXAZOLE	2007	kg				78.6						
+22	Louisiana	ETOXAZOLE	2008	kg				251.9						
+22	Louisiana	ETOXAZOLE	2009	kg				955.2						
+22	Louisiana	ETOXAZOLE	2011	kg				1209.9						
+22	Louisiana	ETOXAZOLE	2012	kg				1141.8						
+22	Louisiana	ETOXAZOLE	2013	kg				144.4						
+22	Louisiana	ETOXAZOLE	2014	kg				107.3						
+22	Louisiana	ETOXAZOLE	2015	kg				287.5						
+22	Louisiana	ETOXAZOLE	2016	kg				332.1						
+24	Maryland	ETOXAZOLE	2004	kg							6.6			
+24	Maryland	ETOXAZOLE	2005	kg							25.8			
+24	Maryland	ETOXAZOLE	2006	kg							3.7			
+24	Maryland	ETOXAZOLE	2008	kg							9.6			
+24	Maryland	ETOXAZOLE	2009	kg							3.6			
+24	Maryland	ETOXAZOLE	2010	kg							3.3			
+24	Maryland	ETOXAZOLE	2011	kg							0.2			
+24	Maryland	ETOXAZOLE	2012	kg							29.9			
+24	Maryland	ETOXAZOLE	2013	kg							11.7			
+24	Maryland	ETOXAZOLE	2014	kg							17.7			
+24	Maryland	ETOXAZOLE	2015	kg							0.4			
+24	Maryland	ETOXAZOLE	2017	kg							35.9			
+25	Massachusetts	ETOXAZOLE	2005	kg							26.4			
+25	Massachusetts	ETOXAZOLE	2006	kg							3.5			
+25	Massachusetts	ETOXAZOLE	2008	kg							2.2			
+25	Massachusetts	ETOXAZOLE	2009	kg							126.2			
+25	Massachusetts	ETOXAZOLE	2011	kg							4.8			
+25	Massachusetts	ETOXAZOLE	2013	kg							25.3			
+25	Massachusetts	ETOXAZOLE	2014	kg							57.3			
+26	Michigan	ETOXAZOLE	2004	kg							88.5			
+26	Michigan	ETOXAZOLE	2005	kg							834.3			
+26	Michigan	ETOXAZOLE	2006	kg							241.4			
+26	Michigan	ETOXAZOLE	2007	kg							126.4			
+26	Michigan	ETOXAZOLE	2008	kg							288.6			
+26	Michigan	ETOXAZOLE	2009	kg							221.7			
+26	Michigan	ETOXAZOLE	2010	kg							426.3			
+26	Michigan	ETOXAZOLE	2011	kg							415.4			
+26	Michigan	ETOXAZOLE	2012	kg							44.7			
+26	Michigan	ETOXAZOLE	2014	kg							53.9			
+28	Mississippi	ETOXAZOLE	2006	kg				750.4						
+28	Mississippi	ETOXAZOLE	2007	kg				667.2						
+28	Mississippi	ETOXAZOLE	2008	kg				1343.7						
+28	Mississippi	ETOXAZOLE	2009	kg				456.6						
+28	Mississippi	ETOXAZOLE	2011	kg				1423.4						
+28	Mississippi	ETOXAZOLE	2012	kg				2266.4						
+28	Mississippi	ETOXAZOLE	2013	kg				84.2						
+28	Mississippi	ETOXAZOLE	2014	kg				8.9						
+28	Mississippi	ETOXAZOLE	2015	kg				263.5						
+28	Mississippi	ETOXAZOLE	2016	kg				857.5						
+29	Missouri	ETOXAZOLE	2006	kg				24.5						
+29	Missouri	ETOXAZOLE	2007	kg				62.9						
+29	Missouri	ETOXAZOLE	2008	kg				201.4						
+29	Missouri	ETOXAZOLE	2009	kg				3.1						
+29	Missouri	ETOXAZOLE	2013	kg					16.4					
+32	Nevada	ETOXAZOLE	2007	kg							0			
+32	Nevada	ETOXAZOLE	2008	kg					0		0			
+32	Nevada	ETOXAZOLE	2009	kg					0		0.1			
+32	Nevada	ETOXAZOLE	2010	kg					0		0			
+32	Nevada	ETOXAZOLE	2011	kg					0					
+32	Nevada	ETOXAZOLE	2012	kg					0		0			
+32	Nevada	ETOXAZOLE	2013	kg					0		0.1			
+32	Nevada	ETOXAZOLE	2014	kg					0		0.1			
+32	Nevada	ETOXAZOLE	2015	kg					0		0.2			
+32	Nevada	ETOXAZOLE	2016	kg	0.8						0.4			
+32	Nevada	ETOXAZOLE	2017	kg							0.2			
+34	New Jersey	ETOXAZOLE	2005	kg							6			
+34	New Jersey	ETOXAZOLE	2006	kg							0.7			
+34	New Jersey	ETOXAZOLE	2007	kg							13.4			
+34	New Jersey	ETOXAZOLE	2008	kg							0.3			
+34	New Jersey	ETOXAZOLE	2009	kg							50.6			
+34	New Jersey	ETOXAZOLE	2011	kg							1.1			
+34	New Jersey	ETOXAZOLE	2013	kg							5.8			
+34	New Jersey	ETOXAZOLE	2014	kg							8			
+35	New Mexico	ETOXAZOLE	2004	kg				1						
+35	New Mexico	ETOXAZOLE	2005	kg				0.6						
+35	New Mexico	ETOXAZOLE	2009	kg				1.6						
+35	New Mexico	ETOXAZOLE	2010	kg				0.4						
+35	New Mexico	ETOXAZOLE	2012	kg				5.8						
+35	New Mexico	ETOXAZOLE	2013	kg	42.2				3.2					
+35	New Mexico	ETOXAZOLE	2014	kg	1782.5									
+35	New Mexico	ETOXAZOLE	2017	kg	34.6									
+36	New York	ETOXAZOLE	2005	kg							186.8			
+36	New York	ETOXAZOLE	2006	kg							63.1			
+36	New York	ETOXAZOLE	2007	kg							417.4			
+36	New York	ETOXAZOLE	2008	kg							27.7			
+36	New York	ETOXAZOLE	2009	kg					3.3		1885.4			
+36	New York	ETOXAZOLE	2011	kg							137			
+36	New York	ETOXAZOLE	2013	kg							353.4			
+36	New York	ETOXAZOLE	2014	kg							711.2			
+37	North Carolina	ETOXAZOLE	2004	kg					17.9					
+37	North Carolina	ETOXAZOLE	2009	kg				110.4	55.1					
+37	North Carolina	ETOXAZOLE	2010	kg					23.9					
+37	North Carolina	ETOXAZOLE	2013	kg							40.9			
+37	North Carolina	ETOXAZOLE	2014	kg					0.5					
+37	North Carolina	ETOXAZOLE	2015	kg							1.7			
+37	North Carolina	ETOXAZOLE	2016	kg				38						
+37	North Carolina	ETOXAZOLE	2017	kg				41.8						
+39	Ohio	ETOXAZOLE	2004	kg							38.2			
+39	Ohio	ETOXAZOLE	2005	kg							40.4			
+39	Ohio	ETOXAZOLE	2006	kg							24.1			
+39	Ohio	ETOXAZOLE	2007	kg							11.1			
+39	Ohio	ETOXAZOLE	2008	kg							132			
+39	Ohio	ETOXAZOLE	2010	kg							129.4			
+39	Ohio	ETOXAZOLE	2011	kg							4.7			
+39	Ohio	ETOXAZOLE	2012	kg							45.5			
+39	Ohio	ETOXAZOLE	2013	kg							19.6			
+39	Ohio	ETOXAZOLE	2014	kg							37.8			
+39	Ohio	ETOXAZOLE	2015	kg							18.2			
+40	Oklahoma	ETOXAZOLE	2012	kg				0						
+40	Oklahoma	ETOXAZOLE	2013	kg	16.1									
+40	Oklahoma	ETOXAZOLE	2016	kg	15									
+40	Oklahoma	ETOXAZOLE	2017	kg	78.6									
+41	Oregon	ETOXAZOLE	2004	kg							89.2			
+41	Oregon	ETOXAZOLE	2005	kg							1.8			
+41	Oregon	ETOXAZOLE	2006	kg							16.7			
+41	Oregon	ETOXAZOLE	2007	kg							164.9			
+41	Oregon	ETOXAZOLE	2008	kg							84.9			
+41	Oregon	ETOXAZOLE	2009	kg							236.1			
+41	Oregon	ETOXAZOLE	2010	kg							303.7			
+41	Oregon	ETOXAZOLE	2011	kg							101.8			
+41	Oregon	ETOXAZOLE	2012	kg							661.3			
+41	Oregon	ETOXAZOLE	2013	kg					36.8		280.1			
+41	Oregon	ETOXAZOLE	2014	kg	128.6						495.6			
+41	Oregon	ETOXAZOLE	2015	kg							269			
+41	Oregon	ETOXAZOLE	2016	kg							612.6			
+41	Oregon	ETOXAZOLE	2017	kg							719.9			
+42	Pennsylvania	ETOXAZOLE	2004	kg							82.8			
+42	Pennsylvania	ETOXAZOLE	2005	kg							306.9			
+42	Pennsylvania	ETOXAZOLE	2006	kg							93.4			
+42	Pennsylvania	ETOXAZOLE	2007	kg							96.5			
+42	Pennsylvania	ETOXAZOLE	2008	kg							18.8			
+42	Pennsylvania	ETOXAZOLE	2009	kg							275.3			
+42	Pennsylvania	ETOXAZOLE	2010	kg							48.6			
+42	Pennsylvania	ETOXAZOLE	2011	kg							6.5			
+42	Pennsylvania	ETOXAZOLE	2012	kg							7.5			
+42	Pennsylvania	ETOXAZOLE	2013	kg							128.5			
+42	Pennsylvania	ETOXAZOLE	2014	kg							238.8			
+42	Pennsylvania	ETOXAZOLE	2015	kg							11.2			
+45	South Carolina	ETOXAZOLE	2004	kg					0.3					
+45	South Carolina	ETOXAZOLE	2015	kg							0			
+47	Tennessee	ETOXAZOLE	2006	kg				11.4						
+47	Tennessee	ETOXAZOLE	2007	kg				124.7						
+47	Tennessee	ETOXAZOLE	2008	kg				135						
+47	Tennessee	ETOXAZOLE	2009	kg				0.7						
+47	Tennessee	ETOXAZOLE	2011	kg				1681.7						
+47	Tennessee	ETOXAZOLE	2012	kg				1742.3						
+47	Tennessee	ETOXAZOLE	2013	kg					0.1		2.2			
+47	Tennessee	ETOXAZOLE	2015	kg							0			
+47	Tennessee	ETOXAZOLE	2016	kg				512.3						
+48	Texas	ETOXAZOLE	2009	kg				438.3						
+48	Texas	ETOXAZOLE	2011	kg				614.8						
+48	Texas	ETOXAZOLE	2012	kg				155.6						
+48	Texas	ETOXAZOLE	2013	kg	222.8									
+48	Texas	ETOXAZOLE	2015	kg				475.3						
+48	Texas	ETOXAZOLE	2016	kg	2100.5									
+48	Texas	ETOXAZOLE	2017	kg	808.4									
+49	Utah	ETOXAZOLE	2016	kg	47.1									
+50	Vermont	ETOXAZOLE	2005	kg							20.1			
+50	Vermont	ETOXAZOLE	2006	kg							5.1			
+50	Vermont	ETOXAZOLE	2008	kg							1.5			
+50	Vermont	ETOXAZOLE	2009	kg							89.8			
+50	Vermont	ETOXAZOLE	2011	kg							3.1			
+50	Vermont	ETOXAZOLE	2013	kg							15.3			
+50	Vermont	ETOXAZOLE	2014	kg							51.1			
+51	Virginia	ETOXAZOLE	2004	kg							12.6			
+51	Virginia	ETOXAZOLE	2005	kg							11.7			
+51	Virginia	ETOXAZOLE	2006	kg							24.6			
+51	Virginia	ETOXAZOLE	2008	kg							136.2			
+51	Virginia	ETOXAZOLE	2009	kg				22.6	5.6					
+51	Virginia	ETOXAZOLE	2010	kg					1.8		20			
+51	Virginia	ETOXAZOLE	2012	kg							505.1			
+51	Virginia	ETOXAZOLE	2013	kg							11.2			
+51	Virginia	ETOXAZOLE	2014	kg					0.1					
+51	Virginia	ETOXAZOLE	2015	kg							6.7			
+51	Virginia	ETOXAZOLE	2016	kg				14.6						
+51	Virginia	ETOXAZOLE	2017	kg				11.9			393.1			
+53	Washington	ETOXAZOLE	2004	kg							1698.6			
+53	Washington	ETOXAZOLE	2005	kg							43.6			
+53	Washington	ETOXAZOLE	2006	kg							179.6			
+53	Washington	ETOXAZOLE	2007	kg							213.7			
+53	Washington	ETOXAZOLE	2008	kg							184.9			
+53	Washington	ETOXAZOLE	2009	kg							2980.2			
+53	Washington	ETOXAZOLE	2010	kg							876.2			
+53	Washington	ETOXAZOLE	2011	kg							234.8			
+53	Washington	ETOXAZOLE	2012	kg							512.1			
+53	Washington	ETOXAZOLE	2013	kg					61.5		640.2			
+53	Washington	ETOXAZOLE	2014	kg	689.1						562.3			
+53	Washington	ETOXAZOLE	2015	kg							435.5			
+53	Washington	ETOXAZOLE	2016	kg							417.9			
+53	Washington	ETOXAZOLE	2017	kg							5523.1			
+54	West Virginia	ETOXAZOLE	2004	kg							44.1			
+54	West Virginia	ETOXAZOLE	2005	kg							39			
+54	West Virginia	ETOXAZOLE	2006	kg							12.9			
+54	West Virginia	ETOXAZOLE	2008	kg							55.7			
+54	West Virginia	ETOXAZOLE	2010	kg							6.6			
+54	West Virginia	ETOXAZOLE	2011	kg							0.1			
+54	West Virginia	ETOXAZOLE	2012	kg							14.6			
+54	West Virginia	ETOXAZOLE	2013	kg							43.7			
+54	West Virginia	ETOXAZOLE	2015	kg							23.5			
+54	West Virginia	ETOXAZOLE	2017	kg							69.6			

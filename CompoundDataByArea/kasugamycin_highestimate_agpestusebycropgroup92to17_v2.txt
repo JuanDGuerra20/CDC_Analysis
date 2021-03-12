@@ -1,0 +1,22 @@
+16	Idaho	KASUGAMYCIN	2015	kg							0.1			
+16	Idaho	KASUGAMYCIN	2016	kg							1.7			
+16	Idaho	KASUGAMYCIN	2017	kg							0.8			
+18	Indiana	KASUGAMYCIN	2011	kg							2.2			
+18	Indiana	KASUGAMYCIN	2013	kg							0			
+18	Indiana	KASUGAMYCIN	2014	kg							0.4			
+18	Indiana	KASUGAMYCIN	2015	kg							3.4			
+18	Indiana	KASUGAMYCIN	2016	kg							2.1			
+26	Michigan	KASUGAMYCIN	2011	kg							111.3			
+26	Michigan	KASUGAMYCIN	2013	kg							20.4			
+26	Michigan	KASUGAMYCIN	2014	kg							49			
+26	Michigan	KASUGAMYCIN	2015	kg							200.2			
+26	Michigan	KASUGAMYCIN	2016	kg							132.3			
+26	Michigan	KASUGAMYCIN	2017	kg							4.6			
+36	New York	KASUGAMYCIN	2016	kg							103.1			
+39	Ohio	KASUGAMYCIN	2011	kg							0.6			
+41	Oregon	KASUGAMYCIN	2015	kg							133.9			
+41	Oregon	KASUGAMYCIN	2016	kg							199.4			
+41	Oregon	KASUGAMYCIN	2017	kg							152.7			
+53	Washington	KASUGAMYCIN	2015	kg							7.3			
+53	Washington	KASUGAMYCIN	2016	kg							303.1			
+53	Washington	KASUGAMYCIN	2017	kg							93.2			

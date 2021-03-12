@@ -1,0 +1,14 @@
+05	Arkansas	EPN	1992	kg						437.3				
+06	California	EPN	1994	kg							83.4			
+06	California	EPN	1995	kg							83.4			
+06	California	EPN	2001	kg							20.9			
+06	California	EPN	2003	kg							83.4			
+06	California	EPN	2004	kg							200.3			
+06	California	EPN	2005	kg							104.3			
+06	California	EPN	2006	kg							3.7			
+06	California	EPN	2007	kg							3.1			
+06	California	EPN	2010	kg							239.5			
+06	California	EPN	2016	kg							0.3			
+28	Mississippi	EPN	1992	kg						22.9				
+29	Missouri	EPN	1992	kg						57.9				
+47	Tennessee	EPN	1992	kg						0.2				

@@ -1,0 +1,321 @@
+01	Alabama	SULFOSULFURON	2009	kg									86.1	
+01	Alabama	SULFOSULFURON	2014	kg									1758.8	
+01	Alabama	SULFOSULFURON	2015	kg									37.7	
+05	Arkansas	SULFOSULFURON	2000	kg			14.8							
+05	Arkansas	SULFOSULFURON	2001	kg			21.3							
+05	Arkansas	SULFOSULFURON	2002	kg			26.3							
+05	Arkansas	SULFOSULFURON	2003	kg			2.8							
+05	Arkansas	SULFOSULFURON	2004	kg			10.3							
+05	Arkansas	SULFOSULFURON	2005	kg			1.7							
+05	Arkansas	SULFOSULFURON	2006	kg			0.1							
+05	Arkansas	SULFOSULFURON	2007	kg									6.8	
+05	Arkansas	SULFOSULFURON	2008	kg			0							
+05	Arkansas	SULFOSULFURON	2009	kg			5.8						14.9	
+05	Arkansas	SULFOSULFURON	2010	kg									119.6	
+05	Arkansas	SULFOSULFURON	2012	kg									554.4	
+05	Arkansas	SULFOSULFURON	2014	kg									10.6	
+08	Colorado	SULFOSULFURON	1999	kg			231.6							
+08	Colorado	SULFOSULFURON	2000	kg			275.8							
+08	Colorado	SULFOSULFURON	2001	kg			578.1							
+08	Colorado	SULFOSULFURON	2002	kg			523.1							
+08	Colorado	SULFOSULFURON	2003	kg			326.4							
+08	Colorado	SULFOSULFURON	2004	kg			653.7							
+08	Colorado	SULFOSULFURON	2005	kg			1287.3							
+08	Colorado	SULFOSULFURON	2006	kg			698							
+08	Colorado	SULFOSULFURON	2007	kg			5320.1						30.8	
+08	Colorado	SULFOSULFURON	2008	kg			342.3							
+08	Colorado	SULFOSULFURON	2009	kg			460.4							
+08	Colorado	SULFOSULFURON	2010	kg			347.1							
+08	Colorado	SULFOSULFURON	2011	kg			442.4							
+08	Colorado	SULFOSULFURON	2012	kg			694							
+08	Colorado	SULFOSULFURON	2013	kg			119.8							
+08	Colorado	SULFOSULFURON	2014	kg			283.4							
+08	Colorado	SULFOSULFURON	2015	kg			119.9							
+08	Colorado	SULFOSULFURON	2016	kg			1120.5							
+08	Colorado	SULFOSULFURON	2017	kg			310.4							
+12	Florida	SULFOSULFURON	2014	kg									542.2	
+12	Florida	SULFOSULFURON	2015	kg									1539.9	
+13	Georgia	SULFOSULFURON	2007	kg			185.5							
+13	Georgia	SULFOSULFURON	2009	kg									112.8	
+13	Georgia	SULFOSULFURON	2014	kg									414.3	
+13	Georgia	SULFOSULFURON	2015	kg									12.9	
+16	Idaho	SULFOSULFURON	1999	kg			266.2							
+16	Idaho	SULFOSULFURON	2000	kg			541.5							
+16	Idaho	SULFOSULFURON	2001	kg			1642.7							
+16	Idaho	SULFOSULFURON	2002	kg			3048.9							
+16	Idaho	SULFOSULFURON	2003	kg			944							
+16	Idaho	SULFOSULFURON	2004	kg			410.4							
+16	Idaho	SULFOSULFURON	2005	kg			99.9							
+16	Idaho	SULFOSULFURON	2006	kg			1681							
+16	Idaho	SULFOSULFURON	2007	kg			419.3							
+16	Idaho	SULFOSULFURON	2008	kg			572.5							
+16	Idaho	SULFOSULFURON	2009	kg			98.8							
+16	Idaho	SULFOSULFURON	2010	kg			301.9							
+16	Idaho	SULFOSULFURON	2011	kg			1124.2							
+16	Idaho	SULFOSULFURON	2012	kg			736.6							
+16	Idaho	SULFOSULFURON	2013	kg			1393.4							
+16	Idaho	SULFOSULFURON	2014	kg			349.9							
+16	Idaho	SULFOSULFURON	2015	kg			657						7.6	
+16	Idaho	SULFOSULFURON	2016	kg			143.2							
+16	Idaho	SULFOSULFURON	2017	kg			562.8							
+19	Iowa	SULFOSULFURON	2009	kg			6.6							
+20	Kansas	SULFOSULFURON	1999	kg			1202							
+20	Kansas	SULFOSULFURON	2000	kg			959.1							
+20	Kansas	SULFOSULFURON	2001	kg			3192.7							
+20	Kansas	SULFOSULFURON	2002	kg			2867.5							
+20	Kansas	SULFOSULFURON	2003	kg			1657.2							
+20	Kansas	SULFOSULFURON	2004	kg			1499.8							
+20	Kansas	SULFOSULFURON	2005	kg			1100.8							
+20	Kansas	SULFOSULFURON	2006	kg			4024.5							
+20	Kansas	SULFOSULFURON	2007	kg			5690.6							
+20	Kansas	SULFOSULFURON	2008	kg			5013.4							
+20	Kansas	SULFOSULFURON	2009	kg			1377.4							
+20	Kansas	SULFOSULFURON	2010	kg			595.1							
+20	Kansas	SULFOSULFURON	2011	kg			304.9							
+20	Kansas	SULFOSULFURON	2012	kg			998.1							
+20	Kansas	SULFOSULFURON	2014	kg			210.1							
+20	Kansas	SULFOSULFURON	2015	kg			412.1							
+20	Kansas	SULFOSULFURON	2016	kg			1886.2							
+21	Kentucky	SULFOSULFURON	2003	kg			23.2							
+21	Kentucky	SULFOSULFURON	2014	kg									112.5	
+22	Louisiana	SULFOSULFURON	2007	kg									5.5	
+22	Louisiana	SULFOSULFURON	2014	kg									8.2	
+27	Minnesota	SULFOSULFURON	2007	kg			680.9							
+28	Mississippi	SULFOSULFURON	2014	kg									27.8	
+29	Missouri	SULFOSULFURON	2000	kg			169.5							
+29	Missouri	SULFOSULFURON	2001	kg			149.5							
+29	Missouri	SULFOSULFURON	2002	kg			124.4							
+29	Missouri	SULFOSULFURON	2003	kg			93.2							
+29	Missouri	SULFOSULFURON	2004	kg			53.7							
+29	Missouri	SULFOSULFURON	2005	kg			21.2							
+29	Missouri	SULFOSULFURON	2006	kg			26.2							
+29	Missouri	SULFOSULFURON	2007	kg			9.3							
+29	Missouri	SULFOSULFURON	2008	kg			45							
+29	Missouri	SULFOSULFURON	2009	kg			45.5							
+29	Missouri	SULFOSULFURON	2010	kg			72.1						138.8	
+29	Missouri	SULFOSULFURON	2012	kg									650.9	
+29	Missouri	SULFOSULFURON	2014	kg			242.7							
+30	Montana	SULFOSULFURON	1999	kg			1920.9							
+30	Montana	SULFOSULFURON	2000	kg			863.5							
+30	Montana	SULFOSULFURON	2001	kg			718.4							
+30	Montana	SULFOSULFURON	2002	kg			1382.6							
+30	Montana	SULFOSULFURON	2003	kg			430.3							
+30	Montana	SULFOSULFURON	2004	kg			1122.4							
+30	Montana	SULFOSULFURON	2005	kg			3297.6						146.6	
+30	Montana	SULFOSULFURON	2006	kg			526.7						599.9	
+30	Montana	SULFOSULFURON	2007	kg			4284.4							
+30	Montana	SULFOSULFURON	2008	kg			157.3							
+30	Montana	SULFOSULFURON	2009	kg			3385.5							
+30	Montana	SULFOSULFURON	2010	kg			1497.6							
+30	Montana	SULFOSULFURON	2011	kg			3588.1							
+30	Montana	SULFOSULFURON	2012	kg			899							
+30	Montana	SULFOSULFURON	2013	kg			2470.6							
+30	Montana	SULFOSULFURON	2014	kg			1843.9							
+30	Montana	SULFOSULFURON	2015	kg			256						6.8	
+30	Montana	SULFOSULFURON	2016	kg			1747.5							
+30	Montana	SULFOSULFURON	2017	kg			1001.7							
+31	Nebraska	SULFOSULFURON	1999	kg			94.5							
+31	Nebraska	SULFOSULFURON	2000	kg			628							
+31	Nebraska	SULFOSULFURON	2001	kg			495.9							
+31	Nebraska	SULFOSULFURON	2002	kg			454.9							
+31	Nebraska	SULFOSULFURON	2003	kg			244.3							
+31	Nebraska	SULFOSULFURON	2004	kg			1121.8							
+31	Nebraska	SULFOSULFURON	2005	kg			855.3							
+31	Nebraska	SULFOSULFURON	2006	kg			145.7							
+31	Nebraska	SULFOSULFURON	2007	kg			4538.9						78.5	
+31	Nebraska	SULFOSULFURON	2008	kg			204.5							
+31	Nebraska	SULFOSULFURON	2009	kg			1423							
+31	Nebraska	SULFOSULFURON	2010	kg			383.1							
+31	Nebraska	SULFOSULFURON	2011	kg			305.1							
+31	Nebraska	SULFOSULFURON	2012	kg			361.2							
+31	Nebraska	SULFOSULFURON	2013	kg			98							
+31	Nebraska	SULFOSULFURON	2014	kg			475.1							
+31	Nebraska	SULFOSULFURON	2015	kg			27.3							
+31	Nebraska	SULFOSULFURON	2016	kg			446.7							
+31	Nebraska	SULFOSULFURON	2017	kg			483.6							
+32	Nevada	SULFOSULFURON	1999	kg			7.1							
+32	Nevada	SULFOSULFURON	2000	kg			5.9							
+32	Nevada	SULFOSULFURON	2001	kg			5.2							
+32	Nevada	SULFOSULFURON	2002	kg			9							
+32	Nevada	SULFOSULFURON	2003	kg			4.8							
+32	Nevada	SULFOSULFURON	2004	kg			3.3							
+32	Nevada	SULFOSULFURON	2005	kg			0.7							
+32	Nevada	SULFOSULFURON	2006	kg			8.1							
+32	Nevada	SULFOSULFURON	2007	kg			7							
+32	Nevada	SULFOSULFURON	2008	kg			3.8							
+32	Nevada	SULFOSULFURON	2009	kg			4.1							
+32	Nevada	SULFOSULFURON	2010	kg			3.3							
+32	Nevada	SULFOSULFURON	2011	kg			23.6							
+32	Nevada	SULFOSULFURON	2012	kg			14.8							
+32	Nevada	SULFOSULFURON	2013	kg			21.5							
+32	Nevada	SULFOSULFURON	2014	kg			6							
+32	Nevada	SULFOSULFURON	2015	kg			7.6							
+32	Nevada	SULFOSULFURON	2017	kg			3.5							
+35	New Mexico	SULFOSULFURON	1999	kg			42							
+35	New Mexico	SULFOSULFURON	2000	kg			18.3							
+35	New Mexico	SULFOSULFURON	2001	kg			185.5							
+35	New Mexico	SULFOSULFURON	2002	kg			0.7							
+35	New Mexico	SULFOSULFURON	2003	kg			157.9							
+35	New Mexico	SULFOSULFURON	2004	kg			37.7							
+35	New Mexico	SULFOSULFURON	2005	kg			59.4							
+35	New Mexico	SULFOSULFURON	2006	kg			9.8							
+35	New Mexico	SULFOSULFURON	2007	kg			26.6							
+35	New Mexico	SULFOSULFURON	2008	kg			40.5							
+35	New Mexico	SULFOSULFURON	2009	kg			28.1							
+35	New Mexico	SULFOSULFURON	2010	kg			25.8							
+35	New Mexico	SULFOSULFURON	2012	kg			21.9							
+35	New Mexico	SULFOSULFURON	2015	kg			7.7							
+35	New Mexico	SULFOSULFURON	2016	kg			131.5							
+37	North Carolina	SULFOSULFURON	2007	kg			0.6							
+38	North Dakota	SULFOSULFURON	2000	kg			43.3							
+38	North Dakota	SULFOSULFURON	2001	kg			20.8							
+38	North Dakota	SULFOSULFURON	2002	kg			110.2							
+38	North Dakota	SULFOSULFURON	2003	kg			5.7							
+38	North Dakota	SULFOSULFURON	2005	kg			41.5							
+38	North Dakota	SULFOSULFURON	2006	kg			7.3							
+38	North Dakota	SULFOSULFURON	2007	kg			1147.6							
+38	North Dakota	SULFOSULFURON	2009	kg			686.1							
+38	North Dakota	SULFOSULFURON	2010	kg			292.4							
+38	North Dakota	SULFOSULFURON	2011	kg			2850.4							
+38	North Dakota	SULFOSULFURON	2012	kg			156							
+38	North Dakota	SULFOSULFURON	2013	kg			456.2							
+38	North Dakota	SULFOSULFURON	2014	kg			224.5							
+38	North Dakota	SULFOSULFURON	2016	kg			33.7							
+38	North Dakota	SULFOSULFURON	2017	kg			33.9							
+39	Ohio	SULFOSULFURON	2003	kg			291.3							
+40	Oklahoma	SULFOSULFURON	1999	kg			693.2							
+40	Oklahoma	SULFOSULFURON	2000	kg			6307.8							
+40	Oklahoma	SULFOSULFURON	2001	kg			6840.8							
+40	Oklahoma	SULFOSULFURON	2002	kg			11310.9							
+40	Oklahoma	SULFOSULFURON	2003	kg			12004.3							
+40	Oklahoma	SULFOSULFURON	2004	kg			15706.4						1312.9	
+40	Oklahoma	SULFOSULFURON	2005	kg			1738.9							
+40	Oklahoma	SULFOSULFURON	2006	kg			597.5							
+40	Oklahoma	SULFOSULFURON	2007	kg			509.8						12.9	
+40	Oklahoma	SULFOSULFURON	2008	kg			1094.5						165.5	
+40	Oklahoma	SULFOSULFURON	2009	kg			2092.9						130	
+40	Oklahoma	SULFOSULFURON	2010	kg			561.4							
+40	Oklahoma	SULFOSULFURON	2011	kg			83.1							
+40	Oklahoma	SULFOSULFURON	2012	kg			1182.8							
+40	Oklahoma	SULFOSULFURON	2013	kg			78.2						509.9	
+40	Oklahoma	SULFOSULFURON	2014	kg			39.6						20.1	
+40	Oklahoma	SULFOSULFURON	2015	kg			171.1							
+40	Oklahoma	SULFOSULFURON	2016	kg			2147							
+40	Oklahoma	SULFOSULFURON	2017	kg			926.1							
+41	Oregon	SULFOSULFURON	1999	kg			50.9							
+41	Oregon	SULFOSULFURON	2000	kg			2239							
+41	Oregon	SULFOSULFURON	2001	kg			1616.4							
+41	Oregon	SULFOSULFURON	2002	kg			4016.8							
+41	Oregon	SULFOSULFURON	2003	kg			1981.8							
+41	Oregon	SULFOSULFURON	2004	kg			2410.3							
+41	Oregon	SULFOSULFURON	2005	kg			460.2							
+41	Oregon	SULFOSULFURON	2006	kg			726.9							
+41	Oregon	SULFOSULFURON	2007	kg			831.7							
+41	Oregon	SULFOSULFURON	2008	kg			397.6							
+41	Oregon	SULFOSULFURON	2009	kg			511							
+41	Oregon	SULFOSULFURON	2010	kg			940.8							
+41	Oregon	SULFOSULFURON	2011	kg			1778.2							
+41	Oregon	SULFOSULFURON	2012	kg			1632.8							
+41	Oregon	SULFOSULFURON	2013	kg			1881.7							
+41	Oregon	SULFOSULFURON	2014	kg			374.4							
+41	Oregon	SULFOSULFURON	2015	kg			684.5							
+41	Oregon	SULFOSULFURON	2017	kg			640.8							
+45	South Carolina	SULFOSULFURON	2007	kg			8.7							
+46	South Dakota	SULFOSULFURON	2000	kg			852.7							
+46	South Dakota	SULFOSULFURON	2001	kg			163.9							
+46	South Dakota	SULFOSULFURON	2002	kg			289.1							
+46	South Dakota	SULFOSULFURON	2003	kg			68.1							
+46	South Dakota	SULFOSULFURON	2004	kg			28.6							
+46	South Dakota	SULFOSULFURON	2005	kg			215.8							
+46	South Dakota	SULFOSULFURON	2006	kg			62.7							
+46	South Dakota	SULFOSULFURON	2007	kg			4557.6						4.4	
+46	South Dakota	SULFOSULFURON	2009	kg			3332.1							
+46	South Dakota	SULFOSULFURON	2010	kg			560.8							
+46	South Dakota	SULFOSULFURON	2011	kg			1658.3							
+46	South Dakota	SULFOSULFURON	2012	kg			343.6							
+46	South Dakota	SULFOSULFURON	2013	kg			1054.3							
+46	South Dakota	SULFOSULFURON	2014	kg			628.9							
+46	South Dakota	SULFOSULFURON	2016	kg			261.3							
+46	South Dakota	SULFOSULFURON	2017	kg			396.8							
+47	Tennessee	SULFOSULFURON	2009	kg									239.1	
+47	Tennessee	SULFOSULFURON	2010	kg									7.7	
+47	Tennessee	SULFOSULFURON	2012	kg									32.3	
+47	Tennessee	SULFOSULFURON	2014	kg									218.3	
+47	Tennessee	SULFOSULFURON	2015	kg									13.9	
+48	Texas	SULFOSULFURON	1999	kg			358.9							
+48	Texas	SULFOSULFURON	2000	kg			2009.1							
+48	Texas	SULFOSULFURON	2001	kg			2540.3							
+48	Texas	SULFOSULFURON	2002	kg			1527							
+48	Texas	SULFOSULFURON	2003	kg			3308.8							
+48	Texas	SULFOSULFURON	2004	kg			3892.5						1927	
+48	Texas	SULFOSULFURON	2005	kg			1689.4							
+48	Texas	SULFOSULFURON	2006	kg			158.5							
+48	Texas	SULFOSULFURON	2007	kg			458.6						176.4	
+48	Texas	SULFOSULFURON	2008	kg			669.3						1707.1	
+48	Texas	SULFOSULFURON	2009	kg			429.4							
+48	Texas	SULFOSULFURON	2010	kg			335.3							
+48	Texas	SULFOSULFURON	2012	kg			498.5						414.5	
+48	Texas	SULFOSULFURON	2013	kg			16.3						4629.5	
+48	Texas	SULFOSULFURON	2014	kg									273.5	
+48	Texas	SULFOSULFURON	2015	kg			133.1							
+48	Texas	SULFOSULFURON	2016	kg			2635.1							
+48	Texas	SULFOSULFURON	2017	kg			183.2							
+49	Utah	SULFOSULFURON	1999	kg			113.9							
+49	Utah	SULFOSULFURON	2000	kg			29.3							
+49	Utah	SULFOSULFURON	2001	kg			107.7							
+49	Utah	SULFOSULFURON	2002	kg			311							
+49	Utah	SULFOSULFURON	2003	kg			157.6							
+49	Utah	SULFOSULFURON	2004	kg			125.3							
+49	Utah	SULFOSULFURON	2005	kg			50.2							
+49	Utah	SULFOSULFURON	2006	kg			270.1							
+49	Utah	SULFOSULFURON	2007	kg			77.5							
+49	Utah	SULFOSULFURON	2008	kg			40.7							
+49	Utah	SULFOSULFURON	2009	kg			44.6							
+49	Utah	SULFOSULFURON	2010	kg			65.9							
+49	Utah	SULFOSULFURON	2011	kg			194.9							
+49	Utah	SULFOSULFURON	2012	kg			108.1							
+49	Utah	SULFOSULFURON	2013	kg			187.3							
+49	Utah	SULFOSULFURON	2014	kg			62.7							
+49	Utah	SULFOSULFURON	2015	kg			105.6						3.2	
+49	Utah	SULFOSULFURON	2017	kg			108.6							
+53	Washington	SULFOSULFURON	1999	kg			1791.2							
+53	Washington	SULFOSULFURON	2000	kg			7282.1							
+53	Washington	SULFOSULFURON	2001	kg			1934							
+53	Washington	SULFOSULFURON	2002	kg			8105.4							
+53	Washington	SULFOSULFURON	2003	kg			2836							
+53	Washington	SULFOSULFURON	2004	kg			2024.3							
+53	Washington	SULFOSULFURON	2005	kg			1319.5							
+53	Washington	SULFOSULFURON	2006	kg			2536.6							
+53	Washington	SULFOSULFURON	2007	kg			1063.5							
+53	Washington	SULFOSULFURON	2008	kg			4357.9							
+53	Washington	SULFOSULFURON	2009	kg			335.6							
+53	Washington	SULFOSULFURON	2010	kg			623.1							
+53	Washington	SULFOSULFURON	2011	kg			3312.9							
+53	Washington	SULFOSULFURON	2012	kg			1478.6							
+53	Washington	SULFOSULFURON	2013	kg			3860							
+53	Washington	SULFOSULFURON	2014	kg			709							
+53	Washington	SULFOSULFURON	2015	kg			1592.7							
+53	Washington	SULFOSULFURON	2016	kg			1207.9							
+53	Washington	SULFOSULFURON	2017	kg			1097.3							
+54	West Virginia	SULFOSULFURON	2003	kg			1							
+55	Wisconsin	SULFOSULFURON	2004	kg			8.7							
+55	Wisconsin	SULFOSULFURON	2009	kg			33.5							
+56	Wyoming	SULFOSULFURON	1999	kg			4							
+56	Wyoming	SULFOSULFURON	2000	kg			111.5							
+56	Wyoming	SULFOSULFURON	2001	kg			87.2							
+56	Wyoming	SULFOSULFURON	2002	kg			51.7							
+56	Wyoming	SULFOSULFURON	2003	kg			16.3							
+56	Wyoming	SULFOSULFURON	2004	kg			103.9							
+56	Wyoming	SULFOSULFURON	2005	kg			83.6							
+56	Wyoming	SULFOSULFURON	2006	kg			7.4							
+56	Wyoming	SULFOSULFURON	2007	kg			201.3						10	
+56	Wyoming	SULFOSULFURON	2008	kg			5.3							
+56	Wyoming	SULFOSULFURON	2009	kg			233.7							
+56	Wyoming	SULFOSULFURON	2010	kg			66							
+56	Wyoming	SULFOSULFURON	2011	kg			43.9							
+56	Wyoming	SULFOSULFURON	2012	kg			40.7							
+56	Wyoming	SULFOSULFURON	2013	kg			50.4							
+56	Wyoming	SULFOSULFURON	2014	kg			100.4							
+56	Wyoming	SULFOSULFURON	2015	kg			27.3						2.1	
+56	Wyoming	SULFOSULFURON	2016	kg			30.4							
+56	Wyoming	SULFOSULFURON	2017	kg			102.1							

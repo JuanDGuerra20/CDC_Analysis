@@ -1,0 +1,2 @@
+32	Nevada	FLUVALINATE	1993	kg							0.4			
+32	Nevada	FLUVALINATE TAU	1996	kg										0.1

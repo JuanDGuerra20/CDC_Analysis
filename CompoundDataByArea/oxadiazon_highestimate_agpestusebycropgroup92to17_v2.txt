@@ -1,0 +1,32 @@
+01	Alabama	OXADIAZON	1993	kg					0.5					
+06	California	OXADIAZON	1992	kg							1585			
+06	California	OXADIAZON	1993	kg							852.2			
+06	California	OXADIAZON	1994	kg							1535.5			
+06	California	OXADIAZON	1995	kg							1331		44.6	
+06	California	OXADIAZON	1996	kg							1554.1		14.5	
+06	California	OXADIAZON	1997	kg							1428.2		1.8	0.2
+06	California	OXADIAZON	1998	kg							1296.8		49.4	
+06	California	OXADIAZON	1999	kg							2247.8		39.8	0.7
+06	California	OXADIAZON	2000	kg					0.9		2133.1		23.6	0.2
+06	California	OXADIAZON	2001	kg							1549.2		5.4	
+06	California	OXADIAZON	2002	kg							1060.5		23.6	
+06	California	OXADIAZON	2003	kg							1147.9		25.4	2.3
+06	California	OXADIAZON	2004	kg							1600.2		284.8	1.4
+06	California	OXADIAZON	2005	kg							1650.8		248.1	
+06	California	OXADIAZON	2006	kg							1072.6		752.9	
+06	California	OXADIAZON	2007	kg							1301.6		858.4	
+06	California	OXADIAZON	2008	kg							948.6			
+06	California	OXADIAZON	2009	kg							707.2			
+06	California	OXADIAZON	2010	kg							672.5			
+06	California	OXADIAZON	2011	kg							842.4			
+06	California	OXADIAZON	2012	kg							1079.5			
+06	California	OXADIAZON	2013	kg							1192.1			
+06	California	OXADIAZON	2014	kg							547.6			
+06	California	OXADIAZON	2015	kg							729			
+06	California	OXADIAZON	2016	kg							602.5			
+06	California	OXADIAZON	2017	kg							548.3		0.3	
+12	Florida	OXADIAZON	1993	kg					6.9					
+12	Florida	OXADIAZON	1994	kg					2604.1					
+13	Georgia	OXADIAZON	1993	kg					96.9					
+34	New Jersey	OXADIAZON	1996	kg					451.2					
+42	Pennsylvania	OXADIAZON	1996	kg					9.3					

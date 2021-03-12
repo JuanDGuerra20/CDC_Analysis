@@ -1,0 +1,123 @@
+01	Alabama	TRIADIMENOL	2007	kg				9.8						
+01	Alabama	TRIADIMENOL	2008	kg				3.3						
+01	Alabama	TRIADIMENOL	2010	kg				14.4						
+01	Alabama	TRIADIMENOL	2011	kg				29.7						
+01	Alabama	TRIADIMENOL	2012	kg				34.7						
+01	Alabama	TRIADIMENOL	2013	kg				15.6						
+01	Alabama	TRIADIMENOL	2014	kg				93.8						
+04	Arizona	TRIADIMENOL	2008	kg				1.3						
+04	Arizona	TRIADIMENOL	2010	kg				0.3						
+04	Arizona	TRIADIMENOL	2011	kg				34.9						
+04	Arizona	TRIADIMENOL	2012	kg				25.3						
+04	Arizona	TRIADIMENOL	2013	kg				6.7						
+04	Arizona	TRIADIMENOL	2014	kg				65						
+05	Arkansas	TRIADIMENOL	2006	kg				15.2						
+05	Arkansas	TRIADIMENOL	2007	kg				19.9						
+05	Arkansas	TRIADIMENOL	2008	kg				19						
+05	Arkansas	TRIADIMENOL	2009	kg				2						
+05	Arkansas	TRIADIMENOL	2010	kg				20.6						
+05	Arkansas	TRIADIMENOL	2011	kg				250.2						
+05	Arkansas	TRIADIMENOL	2012	kg				266.8						
+05	Arkansas	TRIADIMENOL	2013	kg				109.5						
+05	Arkansas	TRIADIMENOL	2014	kg				354.3						
+06	California	TRIADIMENOL	1995	kg				913.5						
+06	California	TRIADIMENOL	1997	kg				167.5						
+12	Florida	TRIADIMENOL	2007	kg				0.9						
+12	Florida	TRIADIMENOL	2008	kg				0						
+12	Florida	TRIADIMENOL	2010	kg				0						
+12	Florida	TRIADIMENOL	2011	kg				7.1						
+12	Florida	TRIADIMENOL	2012	kg				6.1						
+12	Florida	TRIADIMENOL	2013	kg				17						
+12	Florida	TRIADIMENOL	2014	kg				19.8						
+13	Georgia	TRIADIMENOL	2007	kg				8.3						
+13	Georgia	TRIADIMENOL	2008	kg				1.3						
+13	Georgia	TRIADIMENOL	2010	kg				2.8						
+13	Georgia	TRIADIMENOL	2011	kg				69.1						
+13	Georgia	TRIADIMENOL	2012	kg				14.5						
+13	Georgia	TRIADIMENOL	2013	kg				50.5						
+13	Georgia	TRIADIMENOL	2014	kg				492.9						
+20	Kansas	TRIADIMENOL	2008	kg				0.1						
+20	Kansas	TRIADIMENOL	2010	kg				4.9						
+20	Kansas	TRIADIMENOL	2011	kg				43.4						
+20	Kansas	TRIADIMENOL	2012	kg				23.1						
+20	Kansas	TRIADIMENOL	2013	kg				16.8						
+20	Kansas	TRIADIMENOL	2014	kg				33.3						
+22	Louisiana	TRIADIMENOL	2006	kg				20.2						
+22	Louisiana	TRIADIMENOL	2007	kg				25.1						
+22	Louisiana	TRIADIMENOL	2008	kg				2.6						
+22	Louisiana	TRIADIMENOL	2010	kg				5.6						
+22	Louisiana	TRIADIMENOL	2011	kg				227.7						
+22	Louisiana	TRIADIMENOL	2012	kg				164.9						
+22	Louisiana	TRIADIMENOL	2013	kg				19.7						
+22	Louisiana	TRIADIMENOL	2014	kg				71.3						
+28	Mississippi	TRIADIMENOL	2006	kg				58.1						
+28	Mississippi	TRIADIMENOL	2007	kg				41.2						
+28	Mississippi	TRIADIMENOL	2008	kg				4.8						
+28	Mississippi	TRIADIMENOL	2009	kg				12.6						
+28	Mississippi	TRIADIMENOL	2010	kg				11.6						
+28	Mississippi	TRIADIMENOL	2011	kg				51.9						
+28	Mississippi	TRIADIMENOL	2012	kg				325						
+28	Mississippi	TRIADIMENOL	2013	kg				191.3						
+28	Mississippi	TRIADIMENOL	2014	kg				235.4						
+29	Missouri	TRIADIMENOL	2007	kg				3.8						
+29	Missouri	TRIADIMENOL	2008	kg				2.3						
+29	Missouri	TRIADIMENOL	2009	kg				2.3						
+29	Missouri	TRIADIMENOL	2010	kg				19.9						
+29	Missouri	TRIADIMENOL	2011	kg				18.1						
+29	Missouri	TRIADIMENOL	2012	kg				28.4						
+29	Missouri	TRIADIMENOL	2013	kg				57.9						
+29	Missouri	TRIADIMENOL	2014	kg				141.1						
+35	New Mexico	TRIADIMENOL	2006	kg				0						
+35	New Mexico	TRIADIMENOL	2007	kg				0.2						
+35	New Mexico	TRIADIMENOL	2008	kg				0						
+35	New Mexico	TRIADIMENOL	2009	kg				1.7						
+35	New Mexico	TRIADIMENOL	2010	kg				1.1						
+35	New Mexico	TRIADIMENOL	2011	kg				17.5						
+35	New Mexico	TRIADIMENOL	2012	kg				4.8						
+35	New Mexico	TRIADIMENOL	2013	kg			26.7	3.8						
+35	New Mexico	TRIADIMENOL	2014	kg				12.4						
+37	North Carolina	TRIADIMENOL	2007	kg				4.6						
+37	North Carolina	TRIADIMENOL	2008	kg				2.7						
+37	North Carolina	TRIADIMENOL	2010	kg				8.8						
+37	North Carolina	TRIADIMENOL	2011	kg				20.9						
+37	North Carolina	TRIADIMENOL	2012	kg				4.6						
+37	North Carolina	TRIADIMENOL	2013	kg				55.9						
+37	North Carolina	TRIADIMENOL	2014	kg				181						
+40	Oklahoma	TRIADIMENOL	2007	kg				1.2						
+40	Oklahoma	TRIADIMENOL	2008	kg				2.2						
+40	Oklahoma	TRIADIMENOL	2010	kg				8.5						
+40	Oklahoma	TRIADIMENOL	2011	kg				26.5						
+40	Oklahoma	TRIADIMENOL	2012	kg				20.6						
+40	Oklahoma	TRIADIMENOL	2013	kg			240.7	27.8						
+40	Oklahoma	TRIADIMENOL	2014	kg				73.8						
+45	South Carolina	TRIADIMENOL	2007	kg				1.9						
+45	South Carolina	TRIADIMENOL	2008	kg				7.2						
+45	South Carolina	TRIADIMENOL	2010	kg				0.8						
+45	South Carolina	TRIADIMENOL	2011	kg				6.8						
+45	South Carolina	TRIADIMENOL	2012	kg				5.5						
+45	South Carolina	TRIADIMENOL	2013	kg				14						
+45	South Carolina	TRIADIMENOL	2014	kg				96.9						
+47	Tennessee	TRIADIMENOL	2007	kg				2.4						
+47	Tennessee	TRIADIMENOL	2008	kg				4.9						
+47	Tennessee	TRIADIMENOL	2009	kg				0.5						
+47	Tennessee	TRIADIMENOL	2010	kg				4.4						
+47	Tennessee	TRIADIMENOL	2011	kg				66.1						
+47	Tennessee	TRIADIMENOL	2012	kg				37.6						
+47	Tennessee	TRIADIMENOL	2013	kg				117.8						
+47	Tennessee	TRIADIMENOL	2014	kg				203.3						
+48	Texas	TRIADIMENOL	2006	kg				0.7						
+48	Texas	TRIADIMENOL	2007	kg				37						
+48	Texas	TRIADIMENOL	2008	kg				28.8						
+48	Texas	TRIADIMENOL	2009	kg				229.8						
+48	Texas	TRIADIMENOL	2010	kg				164.3						
+48	Texas	TRIADIMENOL	2011	kg				1767.6						
+48	Texas	TRIADIMENOL	2012	kg				950.8						
+48	Texas	TRIADIMENOL	2013	kg			712.4	1113.4						
+48	Texas	TRIADIMENOL	2014	kg				2425.5						
+51	Virginia	TRIADIMENOL	2007	kg				0.5						
+51	Virginia	TRIADIMENOL	2008	kg				0.2						
+51	Virginia	TRIADIMENOL	2010	kg				1.3						
+51	Virginia	TRIADIMENOL	2011	kg				0.1						
+51	Virginia	TRIADIMENOL	2012	kg				0.5						
+51	Virginia	TRIADIMENOL	2013	kg				9.8						
+51	Virginia	TRIADIMENOL	2014	kg				43.3						

@@ -1,0 +1,64 @@
+01	Alabama	ETHION	1992	kg							4.6			
+01	Alabama	ETHION	1993	kg							4.9			
+01	Alabama	ETHION	1994	kg							0.6			
+01	Alabama	ETHION	1995	kg							14.8			
+01	Alabama	ETHION	1997	kg							5.6			
+06	California	ETHION	1992	kg				4643.1	1626.6		522.9			
+06	California	ETHION	1993	kg				5080.4	2334.9		77			
+06	California	ETHION	1994	kg				1568.5	268.3		1.6			
+06	California	ETHION	1995	kg				0.4			35.2			
+06	California	ETHION	1996	kg							0.7			
+06	California	ETHION	1997	kg							0.9			
+06	California	ETHION	1998	kg				136.5			272.7			
+06	California	ETHION	1999	kg							28.8			
+06	California	ETHION	2001	kg							2.3			
+06	California	ETHION	2003	kg							0.1			
+06	California	ETHION	2005	kg					68.2		4.5			
+06	California	ETHION	2006	kg							5.9			
+06	California	ETHION	2008	kg					1					
+06	California	ETHION	2009	kg					0.4					
+06	California	ETHION	2010	kg							32.6			
+06	California	ETHION	2011	kg							0.1	0.3		
+06	California	ETHION	2012	kg					0		19.7	0		
+06	California	ETHION	2015	kg							0.3			
+06	California	ETHION	2017	kg							0.1			
+12	Florida	ETHION	1992	kg					6190.3		654232.4		0.2	
+12	Florida	ETHION	1993	kg							608083.1		342.8	
+12	Florida	ETHION	1994	kg							414448.2			
+12	Florida	ETHION	1995	kg							438664		556	
+12	Florida	ETHION	1996	kg					18648.6		228706.3		12013.7	
+12	Florida	ETHION	1997	kg					57.4		250634.5			
+12	Florida	ETHION	1998	kg							457344.4			
+12	Florida	ETHION	1999	kg							322797.7			
+12	Florida	ETHION	2000	kg							153700.7			
+12	Florida	ETHION	2001	kg							236896.9			
+12	Florida	ETHION	2002	kg							109703.3			
+12	Florida	ETHION	2003	kg							25170.8			
+12	Florida	ETHION	2004	kg							14363.3			
+12	Florida	ETHION	2005	kg							905.5			
+13	Georgia	ETHION	1995	kg							488.2			
+16	Idaho	ETHION	1992	kg					59.5					
+16	Idaho	ETHION	1994	kg					200.1					
+16	Idaho	ETHION	1996	kg							9.9			
+17	Illinois	ETHION	1995	kg							754.1			
+29	Missouri	ETHION	1995	kg							63.6			
+32	Nevada	ETHION	1994	kg					30.9					
+32	Nevada	ETHION	1997	kg							16.8		1567	
+34	New Jersey	ETHION	1992	kg					63					
+41	Oregon	ETHION	1992	kg					28					
+41	Oregon	ETHION	1993	kg							27.6			
+41	Oregon	ETHION	1994	kg					340					
+41	Oregon	ETHION	1995	kg							42.7			
+41	Oregon	ETHION	1996	kg							246.5			
+41	Oregon	ETHION	2003	kg							17.8			
+42	Pennsylvania	ETHION	1992	kg					0					
+48	Texas	ETHION	1992	kg							6.8			
+48	Texas	ETHION	1993	kg							82			
+48	Texas	ETHION	1995	kg							1448.5			
+48	Texas	ETHION	2000	kg							4897.7			
+48	Texas	ETHION	2001	kg							9616.8			
+48	Texas	ETHION	2002	kg							7938.7			
+48	Texas	ETHION	2003	kg							6985.1			
+53	Washington	ETHION	1992	kg					0					
+53	Washington	ETHION	1996	kg							11943.7			
+53	Washington	ETHION	2003	kg							748.9			

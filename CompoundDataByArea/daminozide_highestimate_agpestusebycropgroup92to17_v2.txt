@@ -1,0 +1,31 @@
+06	California	DAMINOZIDE	1992	kg							909.5			
+06	California	DAMINOZIDE	1993	kg							1068.3			
+06	California	DAMINOZIDE	1994	kg							779			
+06	California	DAMINOZIDE	1995	kg							1271.4			
+06	California	DAMINOZIDE	1996	kg							757.4			
+06	California	DAMINOZIDE	1997	kg							815.9			
+06	California	DAMINOZIDE	1998	kg							1592.6			
+06	California	DAMINOZIDE	1999	kg							1771			6.3
+06	California	DAMINOZIDE	2000	kg					11.6		1223.3			
+06	California	DAMINOZIDE	2001	kg							1510.8			
+06	California	DAMINOZIDE	2002	kg					1		1765.7			
+06	California	DAMINOZIDE	2003	kg							1499.5			
+06	California	DAMINOZIDE	2004	kg							1691.6			
+06	California	DAMINOZIDE	2005	kg							1457.1			0.8
+06	California	DAMINOZIDE	2006	kg							1402.5			
+06	California	DAMINOZIDE	2007	kg							1147.1			
+06	California	DAMINOZIDE	2008	kg							1049			
+06	California	DAMINOZIDE	2009	kg							958.4			
+06	California	DAMINOZIDE	2010	kg							2038.4			
+06	California	DAMINOZIDE	2011	kg							1469.6			
+06	California	DAMINOZIDE	2012	kg							1568.9			
+06	California	DAMINOZIDE	2013	kg							1395.4			
+06	California	DAMINOZIDE	2014	kg							1335.8			
+06	California	DAMINOZIDE	2015	kg							1526.4			
+06	California	DAMINOZIDE	2016	kg							949.1			
+06	California	DAMINOZIDE	2017	kg							788			
+16	Idaho	DAMINOZIDE	1997	kg					913.9					724
+22	Louisiana	DAMINOZIDE	1994	kg		21.9								
+28	Mississippi	DAMINOZIDE	1994	kg		1.4								
+36	New York	DAMINOZIDE	1992	kg									2.2	
+49	Utah	DAMINOZIDE	1997	kg					0.1					

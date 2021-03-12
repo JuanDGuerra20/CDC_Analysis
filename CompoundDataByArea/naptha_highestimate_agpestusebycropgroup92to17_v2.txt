@@ -1,0 +1,12 @@
+01	Alabama	NAPTHA	1996	kg										1
+06	California	NAPTHA	1994	kg					9.8					
+06	California	NAPTHA	1995	kg					0.1					
+06	California	NAPTHA	1997	kg					27		0			
+06	California	NAPTHA	1998	kg				19.9			0.1			
+06	California	NAPTHA	1999	kg					0.8		3.2			
+06	California	NAPTHA	2001	kg							0.2			
+06	California	NAPTHA	2002	kg					21.9					
+21	Kentucky	NAPTHA	1992	kg										2949.4
+21	Kentucky	NAPTHA	1996	kg										11177.2
+39	Ohio	NAPTHA	1992	kg										122.3
+47	Tennessee	NAPTHA	1996	kg										4605.4

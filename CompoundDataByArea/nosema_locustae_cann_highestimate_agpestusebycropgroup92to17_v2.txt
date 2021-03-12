@@ -1,0 +1,26 @@
+04	Arizona	NOSEMA LOCUSTAE CANN	1997	kg							0.6			
+06	California	NOSEMA LOCUSTAE CANN	1993	kg					0		0			
+06	California	NOSEMA LOCUSTAE CANN	1998	kg							0			
+06	California	NOSEMA LOCUSTAE CANN	1999	kg					0					
+06	California	NOSEMA LOCUSTAE CANN	2000	kg										0
+06	California	NOSEMA LOCUSTAE CANN	2001	kg					0		0			
+06	California	NOSEMA LOCUSTAE CANN	2003	kg							0			0
+06	California	NOSEMA LOCUSTAE CANN	2004	kg					0		0			
+06	California	NOSEMA LOCUSTAE CANN	2005	kg							0			
+06	California	NOSEMA LOCUSTAE CANN	2007	kg							0.1			
+06	California	NOSEMA LOCUSTAE CANN	2008	kg									0	
+06	California	NOSEMA LOCUSTAE CANN	2009	kg									0	
+06	California	NOSEMA LOCUSTAE CANN	2010	kg					0		0			
+06	California	NOSEMA LOCUSTAE CANN	2011	kg							0			
+06	California	NOSEMA LOCUSTAE CANN	2012	kg	0				0		0.1		0.2	
+06	California	NOSEMA LOCUSTAE CANN	2013	kg							0		0.2	
+06	California	NOSEMA LOCUSTAE CANN	2014	kg					0		0		0.1	
+06	California	NOSEMA LOCUSTAE CANN	2015	kg									0.2	
+06	California	NOSEMA LOCUSTAE CANN	2016	kg					0				0.3	
+06	California	NOSEMA LOCUSTAE CANN	2017	kg							0			
+08	Colorado	NOSEMA LOCUSTAE CANN	1992	kg									6.5	
+08	Colorado	NOSEMA LOCUSTAE CANN	1997	kg							23.6			
+31	Nebraska	NOSEMA LOCUSTAE CANN	1992	kg									1.9	
+35	New Mexico	NOSEMA LOCUSTAE CANN	1997	kg							1.3			
+49	Utah	NOSEMA LOCUSTAE CANN	1997	kg							0.2			
+56	Wyoming	NOSEMA LOCUSTAE CANN	1992	kg									1.2	

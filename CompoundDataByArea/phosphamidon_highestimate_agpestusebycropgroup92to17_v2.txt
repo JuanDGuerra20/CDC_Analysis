@@ -1,0 +1,78 @@
+04	Arizona	PHOSPHAMIDON	1992	kg							0			
+04	Arizona	PHOSPHAMIDON	1993	kg					1243.4		0			
+04	Arizona	PHOSPHAMIDON	1994	kg							0.5			
+05	Arkansas	PHOSPHAMIDON	1994	kg				1863.7						
+05	Arkansas	PHOSPHAMIDON	1995	kg							1			
+06	California	PHOSPHAMIDON	1992	kg				14.1			1599.8			
+06	California	PHOSPHAMIDON	1993	kg					4.7		758.4			
+06	California	PHOSPHAMIDON	1994	kg							656.5			
+06	California	PHOSPHAMIDON	1995	kg							299.4			
+06	California	PHOSPHAMIDON	1996	kg							52.4			
+06	California	PHOSPHAMIDON	1997	kg							100.1			
+06	California	PHOSPHAMIDON	1998	kg							177.7			
+06	California	PHOSPHAMIDON	1999	kg							44.3			
+06	California	PHOSPHAMIDON	2001	kg							271			
+06	California	PHOSPHAMIDON	2003	kg							22.1			
+06	California	PHOSPHAMIDON	2006	kg							10.9			
+06	California	PHOSPHAMIDON	2010	kg							11.4			
+06	California	PHOSPHAMIDON	2016	kg					2.9					
+08	Colorado	PHOSPHAMIDON	1992	kg							3.5			
+10	Delaware	PHOSPHAMIDON	1992	kg							0.5			
+13	Georgia	PHOSPHAMIDON	1992	kg							2.3			
+16	Idaho	PHOSPHAMIDON	1992	kg							5208.5			
+16	Idaho	PHOSPHAMIDON	1993	kg							623.8			
+16	Idaho	PHOSPHAMIDON	1994	kg							205.3			
+16	Idaho	PHOSPHAMIDON	1995	kg							76.4			
+16	Idaho	PHOSPHAMIDON	1996	kg							726.5			
+17	Illinois	PHOSPHAMIDON	1994	kg							955.1			
+17	Illinois	PHOSPHAMIDON	1995	kg							28.2			
+18	Indiana	PHOSPHAMIDON	1992	kg					70.7					
+18	Indiana	PHOSPHAMIDON	1993	kg							0.4			
+18	Indiana	PHOSPHAMIDON	1994	kg							13.3			
+18	Indiana	PHOSPHAMIDON	1995	kg							0.5			
+18	Indiana	PHOSPHAMIDON	1996	kg							1.3			
+21	Kentucky	PHOSPHAMIDON	1994	kg							6.5			
+21	Kentucky	PHOSPHAMIDON	1995	kg							0.6			
+23	Maine	PHOSPHAMIDON	1994	kg					2218.2					
+24	Maryland	PHOSPHAMIDON	1992	kg							122.3			
+24	Maryland	PHOSPHAMIDON	1993	kg							4			
+24	Maryland	PHOSPHAMIDON	1994	kg							64.6			
+26	Michigan	PHOSPHAMIDON	1992	kg					85.1					
+26	Michigan	PHOSPHAMIDON	1993	kg							28			
+26	Michigan	PHOSPHAMIDON	1994	kg							737.5			
+26	Michigan	PHOSPHAMIDON	1995	kg							41			
+26	Michigan	PHOSPHAMIDON	1996	kg							77.5			
+27	Minnesota	PHOSPHAMIDON	1992	kg					3166.5					
+27	Minnesota	PHOSPHAMIDON	1995	kg					265.3					
+27	Minnesota	PHOSPHAMIDON	1997	kg					379.1					
+29	Missouri	PHOSPHAMIDON	1994	kg				958.5			111.6			
+29	Missouri	PHOSPHAMIDON	1995	kg							43.4			
+32	Nevada	PHOSPHAMIDON	1993	kg					0					
+34	New Jersey	PHOSPHAMIDON	1992	kg							223.3			
+35	New Mexico	PHOSPHAMIDON	1992	kg							0.1			
+36	New York	PHOSPHAMIDON	1992	kg							1549.9			
+36	New York	PHOSPHAMIDON	1993	kg							223.7			
+37	North Carolina	PHOSPHAMIDON	1992	kg							56.1			
+38	North Dakota	PHOSPHAMIDON	1992	kg					5177					
+38	North Dakota	PHOSPHAMIDON	1995	kg					774.7					
+38	North Dakota	PHOSPHAMIDON	1997	kg					559.6					
+39	Ohio	PHOSPHAMIDON	1992	kg							427.4			
+41	Oregon	PHOSPHAMIDON	1992	kg							5972			
+41	Oregon	PHOSPHAMIDON	1993	kg					1591.1		1820.5			
+41	Oregon	PHOSPHAMIDON	1994	kg					630.9		470.6			
+41	Oregon	PHOSPHAMIDON	1995	kg							192.6			
+41	Oregon	PHOSPHAMIDON	1996	kg							231			
+42	Pennsylvania	PHOSPHAMIDON	1992	kg							1387.2			
+42	Pennsylvania	PHOSPHAMIDON	1993	kg							58.1			
+42	Pennsylvania	PHOSPHAMIDON	1994	kg							1022.8			
+45	South Carolina	PHOSPHAMIDON	1992	kg							21.9			
+47	Tennessee	PHOSPHAMIDON	1994	kg				512.6						
+47	Tennessee	PHOSPHAMIDON	1995	kg							6.5			
+49	Utah	PHOSPHAMIDON	1992	kg							0			
+51	Virginia	PHOSPHAMIDON	1992	kg							1146			
+53	Washington	PHOSPHAMIDON	1992	kg							16712			
+53	Washington	PHOSPHAMIDON	1993	kg					2193.5		23234.1			
+53	Washington	PHOSPHAMIDON	1994	kg					883.3		7154.1			
+53	Washington	PHOSPHAMIDON	1995	kg							1912.2			
+53	Washington	PHOSPHAMIDON	1996	kg							15553.2			
+54	West Virginia	PHOSPHAMIDON	1992	kg							464.3			

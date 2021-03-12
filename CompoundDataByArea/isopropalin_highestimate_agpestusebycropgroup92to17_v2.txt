@@ -1,0 +1,78 @@
+01	Alabama	ISOPROPALIN	1992	kg										21.9
+01	Alabama	ISOPROPALIN	1993	kg										6.7
+01	Alabama	ISOPROPALIN	1994	kg										51.6
+01	Alabama	ISOPROPALIN	1995	kg										7.3
+01	Alabama	ISOPROPALIN	1996	kg										24.3
+01	Alabama	ISOPROPALIN	1997	kg										4.3
+01	Alabama	ISOPROPALIN	1998	kg										14.5
+05	Arkansas	ISOPROPALIN	1995	kg				311.5						
+12	Florida	ISOPROPALIN	1992	kg										4579.4
+12	Florida	ISOPROPALIN	1993	kg										170.5
+12	Florida	ISOPROPALIN	1994	kg										510.4
+12	Florida	ISOPROPALIN	1995	kg										167.4
+12	Florida	ISOPROPALIN	1996	kg										3241.4
+12	Florida	ISOPROPALIN	1997	kg										1553.4
+12	Florida	ISOPROPALIN	1998	kg										645
+13	Georgia	ISOPROPALIN	1992	kg										8025.7
+13	Georgia	ISOPROPALIN	1993	kg										2194.7
+13	Georgia	ISOPROPALIN	1994	kg										872.2
+13	Georgia	ISOPROPALIN	1995	kg										1065.4
+13	Georgia	ISOPROPALIN	1996	kg										16560.4
+13	Georgia	ISOPROPALIN	1997	kg										1390.1
+13	Georgia	ISOPROPALIN	1998	kg										1656.8
+17	Illinois	ISOPROPALIN	1992	kg										6.2
+17	Illinois	ISOPROPALIN	1993	kg										5.8
+18	Indiana	ISOPROPALIN	1992	kg										103.3
+18	Indiana	ISOPROPALIN	1993	kg										93.4
+18	Indiana	ISOPROPALIN	1994	kg										448
+18	Indiana	ISOPROPALIN	1995	kg										27.5
+20	Kansas	ISOPROPALIN	1992	kg										5402.7
+21	Kentucky	ISOPROPALIN	1992	kg										3394.8
+21	Kentucky	ISOPROPALIN	1993	kg										3031
+21	Kentucky	ISOPROPALIN	1994	kg										6537.9
+21	Kentucky	ISOPROPALIN	1995	kg										935.9
+21	Kentucky	ISOPROPALIN	1996	kg										785.9
+22	Louisiana	ISOPROPALIN	1995	kg				642.8						
+26	Michigan	ISOPROPALIN	1992	kg										2067.3
+26	Michigan	ISOPROPALIN	1993	kg										798.4
+26	Michigan	ISOPROPALIN	1994	kg										4391.9
+28	Mississippi	ISOPROPALIN	1995	kg				1193.9						
+31	Nebraska	ISOPROPALIN	1992	kg										10362.5
+35	New Mexico	ISOPROPALIN	1994	kg				4.6						
+37	North Carolina	ISOPROPALIN	1992	kg										15426.4
+37	North Carolina	ISOPROPALIN	1993	kg										7220.1
+37	North Carolina	ISOPROPALIN	1994	kg										8233.9
+37	North Carolina	ISOPROPALIN	1995	kg										2551.5
+37	North Carolina	ISOPROPALIN	1996	kg										12815.1
+37	North Carolina	ISOPROPALIN	1997	kg										4378.1
+37	North Carolina	ISOPROPALIN	1998	kg										13518.3
+39	Ohio	ISOPROPALIN	1992	kg										118.9
+39	Ohio	ISOPROPALIN	1993	kg										181.7
+39	Ohio	ISOPROPALIN	1994	kg										13.8
+39	Ohio	ISOPROPALIN	1995	kg										40.9
+39	Ohio	ISOPROPALIN	1996	kg										35.6
+40	Oklahoma	ISOPROPALIN	1995	kg								3686.8		
+45	South Carolina	ISOPROPALIN	1992	kg										6412.4
+45	South Carolina	ISOPROPALIN	1993	kg										802.8
+45	South Carolina	ISOPROPALIN	1994	kg										7063.8
+45	South Carolina	ISOPROPALIN	1995	kg										1231.8
+45	South Carolina	ISOPROPALIN	1996	kg										6156.1
+45	South Carolina	ISOPROPALIN	1997	kg										1439.5
+45	South Carolina	ISOPROPALIN	1998	kg										3357.4
+47	Tennessee	ISOPROPALIN	1992	kg										3628.3
+47	Tennessee	ISOPROPALIN	1993	kg										1675
+47	Tennessee	ISOPROPALIN	1994	kg										1476.1
+47	Tennessee	ISOPROPALIN	1995	kg										198.8
+48	Texas	ISOPROPALIN	1994	kg				410.9						
+48	Texas	ISOPROPALIN	1995	kg								414.8		
+51	Virginia	ISOPROPALIN	1992	kg										3109.9
+51	Virginia	ISOPROPALIN	1993	kg										1231
+51	Virginia	ISOPROPALIN	1994	kg										2842.3
+51	Virginia	ISOPROPALIN	1995	kg										356.3
+51	Virginia	ISOPROPALIN	1996	kg										3804
+51	Virginia	ISOPROPALIN	1997	kg										631.3
+51	Virginia	ISOPROPALIN	1998	kg										2254.5
+54	West Virginia	ISOPROPALIN	1992	kg										102.9
+54	West Virginia	ISOPROPALIN	1993	kg										41.7
+54	West Virginia	ISOPROPALIN	1994	kg										12.7
+54	West Virginia	ISOPROPALIN	1995	kg										6.5

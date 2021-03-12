@@ -1,0 +1,31 @@
+06	California	BARBAN	1992	kg			227.7							
+06	California	BARBAN	1993	kg			25.1							
+06	California	BARBAN	1994	kg			62.7							
+06	California	BARBAN	1995	kg			248.7							131.2
+06	California	BARBAN	1996	kg			17.7							
+06	California	BARBAN	1997	kg			4.8							
+06	California	BARBAN	1998	kg			29.8							
+06	California	BARBAN	1999	kg			13.6							
+06	California	BARBAN	2001	kg			0.5							
+06	California	BARBAN	2003	kg			5.4		0					
+24	Maryland	BARBAN	1992	kg							49.6			
+27	Minnesota	BARBAN	1992	kg		3289.4	902.9							
+27	Minnesota	BARBAN	1993	kg			151.7							2.9
+27	Minnesota	BARBAN	1994	kg			672.6							344.3
+27	Minnesota	BARBAN	1995	kg			955.1							
+27	Minnesota	BARBAN	1996	kg			536.2							
+30	Montana	BARBAN	1992	kg			947.6							
+30	Montana	BARBAN	1993	kg			62.5							
+30	Montana	BARBAN	1995	kg			340.7							
+37	North Carolina	BARBAN	1993	kg				61.1						
+38	North Dakota	BARBAN	1992	kg		528.9	4065.7							
+38	North Dakota	BARBAN	1993	kg			398.1							10.5
+38	North Dakota	BARBAN	1994	kg			862.5							640.3
+38	North Dakota	BARBAN	1995	kg			1825							
+38	North Dakota	BARBAN	1996	kg			732.4							
+42	Pennsylvania	BARBAN	1992	kg							781.2			
+46	South Dakota	BARBAN	1992	kg			1321.3							
+46	South Dakota	BARBAN	1993	kg			66.4							
+46	South Dakota	BARBAN	1995	kg			221.6							
+51	Virginia	BARBAN	1993	kg				5.1						
+53	Washington	BARBAN	1993	kg										3735.1

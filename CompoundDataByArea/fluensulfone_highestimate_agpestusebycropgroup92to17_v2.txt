@@ -1,0 +1,4 @@
+26	Michigan	FLUENSULFONE	2017	kg					2442.7					
+30	Montana	FLUENSULFONE	2016	kg					882.5					
+55	Wisconsin	FLUENSULFONE	2016	kg					1.1					
+55	Wisconsin	FLUENSULFONE	2017	kg					2306.2					

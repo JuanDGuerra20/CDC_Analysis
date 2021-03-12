@@ -1,0 +1,33 @@
+04	Arizona	POLYOXORIM	2012	kg							0.7			
+04	Arizona	POLYOXORIM	2013	kg							0.9			
+04	Arizona	POLYOXORIM	2014	kg							0			
+04	Arizona	POLYOXORIM	2015	kg					0		1.8			
+04	Arizona	POLYOXORIM	2016	kg					0.3		1.2			
+04	Arizona	POLYOXORIM	2017	kg					0.5		1.6			
+06	California	POLYOXORIM	2008	kg							11.2			
+06	California	POLYOXORIM	2009	kg							16.4			
+06	California	POLYOXORIM	2010	kg							366.3			
+06	California	POLYOXORIM	2011	kg							1314.8			
+06	California	POLYOXORIM	2012	kg							1937			
+06	California	POLYOXORIM	2013	kg					3.1		2743			
+06	California	POLYOXORIM	2014	kg					41.8		3117.3			
+06	California	POLYOXORIM	2015	kg					91.6		3659.9			0
+06	California	POLYOXORIM	2016	kg					275.5		4274.4			0
+06	California	POLYOXORIM	2017	kg			0		432.5		4187.7			0
+09	Connecticut	POLYOXORIM	2017	kg					0.8					
+12	Florida	POLYOXORIM	2015	kg					45.2					
+12	Florida	POLYOXORIM	2017	kg					187.8					
+25	Massachusetts	POLYOXORIM	2017	kg					39.2					
+32	Nevada	POLYOXORIM	2012	kg							0			
+32	Nevada	POLYOXORIM	2015	kg					0					
+32	Nevada	POLYOXORIM	2016	kg					0		0			
+32	Nevada	POLYOXORIM	2017	kg					0					
+34	New Jersey	POLYOXORIM	2017	kg					2.8					
+36	New York	POLYOXORIM	2017	kg					37.7					
+41	Oregon	POLYOXORIM	2011	kg							0.4			
+41	Oregon	POLYOXORIM	2015	kg							8.9			
+41	Oregon	POLYOXORIM	2016	kg							36.3			
+41	Oregon	POLYOXORIM	2017	kg							5			
+42	Pennsylvania	POLYOXORIM	2017	kg					15.6					
+53	Washington	POLYOXORIM	2016	kg					1.3		1041.9			
+53	Washington	POLYOXORIM	2017	kg					2.7		21.5			

@@ -1,0 +1,675 @@
+01	Alabama	ETHOPROPHOS	1992	kg				453.6	764.4					4887.1
+01	Alabama	ETHOPROPHOS	1993	kg					291.1					8583.4
+01	Alabama	ETHOPROPHOS	1994	kg	27.4				25.7					9640.4
+01	Alabama	ETHOPROPHOS	1995	kg				574.3	41.1					2523.6
+01	Alabama	ETHOPROPHOS	1996	kg					83.8					4979.6
+01	Alabama	ETHOPROPHOS	1997	kg				14389.8	21210.1					48.2
+01	Alabama	ETHOPROPHOS	1998	kg					6259.1					58.1
+01	Alabama	ETHOPROPHOS	1999	kg					1558					19.2
+01	Alabama	ETHOPROPHOS	2000	kg					804.9					11.8
+01	Alabama	ETHOPROPHOS	2001	kg					9495.4					5064.6
+01	Alabama	ETHOPROPHOS	2002	kg					3852.1					51.5
+01	Alabama	ETHOPROPHOS	2003	kg					2867.1					285.5
+01	Alabama	ETHOPROPHOS	2004	kg					97.4					11.3
+01	Alabama	ETHOPROPHOS	2005	kg					295.2					
+01	Alabama	ETHOPROPHOS	2006	kg										1
+01	Alabama	ETHOPROPHOS	2007	kg					389.1					133.5
+01	Alabama	ETHOPROPHOS	2012	kg					159.2					
+04	Arizona	ETHOPROPHOS	1992	kg					3141.7					
+04	Arizona	ETHOPROPHOS	1994	kg					6176.1					
+04	Arizona	ETHOPROPHOS	1995	kg					1245.9					
+04	Arizona	ETHOPROPHOS	1996	kg					381.9					
+04	Arizona	ETHOPROPHOS	1997	kg					1833					
+04	Arizona	ETHOPROPHOS	1998	kg					3242.1					
+04	Arizona	ETHOPROPHOS	2001	kg					199					
+04	Arizona	ETHOPROPHOS	2002	kg					7357					
+04	Arizona	ETHOPROPHOS	2003	kg					1704.9					
+04	Arizona	ETHOPROPHOS	2009	kg					110.8					
+04	Arizona	ETHOPROPHOS	2010	kg					1718.4					
+05	Arkansas	ETHOPROPHOS	1993	kg				2096.1						
+05	Arkansas	ETHOPROPHOS	1994	kg				4709.6						
+05	Arkansas	ETHOPROPHOS	1995	kg				1632.7						
+05	Arkansas	ETHOPROPHOS	1996	kg				127.4						
+05	Arkansas	ETHOPROPHOS	1997	kg	1955.5									
+05	Arkansas	ETHOPROPHOS	2015	kg					8.7					
+05	Arkansas	ETHOPROPHOS	2016	kg					10.9					
+06	California	ETHOPROPHOS	1992	kg	19.3				18570.9					
+06	California	ETHOPROPHOS	1993	kg					27903.2					
+06	California	ETHOPROPHOS	1994	kg					22980.8					
+06	California	ETHOPROPHOS	1995	kg					25822.6		356.7			
+06	California	ETHOPROPHOS	1996	kg					12342.1					
+06	California	ETHOPROPHOS	1997	kg					10746.7					
+06	California	ETHOPROPHOS	1998	kg					12614.6		54.4			
+06	California	ETHOPROPHOS	1999	kg					11801.6		0			35.4
+06	California	ETHOPROPHOS	2000	kg					7289.1		7.6			
+06	California	ETHOPROPHOS	2001	kg	6.3				7917.8		694			
+06	California	ETHOPROPHOS	2002	kg	263.8				6437.2		802			
+06	California	ETHOPROPHOS	2003	kg	53.4				12092.8		740.8			
+06	California	ETHOPROPHOS	2004	kg					9654		834.7			
+06	California	ETHOPROPHOS	2005	kg	5				7734.8		829			
+06	California	ETHOPROPHOS	2006	kg					10302		798.1			
+06	California	ETHOPROPHOS	2007	kg					10201		756.2			
+06	California	ETHOPROPHOS	2008	kg					11502.4		695.7			
+06	California	ETHOPROPHOS	2009	kg					8867.8		82.3			
+06	California	ETHOPROPHOS	2010	kg					1961		528.1			
+06	California	ETHOPROPHOS	2011	kg					2638.9		751.2			
+06	California	ETHOPROPHOS	2012	kg					247.7		694.3			
+06	California	ETHOPROPHOS	2013	kg					577.2		526.8			
+06	California	ETHOPROPHOS	2014	kg					372.1		173.5			
+06	California	ETHOPROPHOS	2015	kg					344.6		444.9			
+06	California	ETHOPROPHOS	2016	kg					281.1		636.3			
+06	California	ETHOPROPHOS	2017	kg					345.2		618.9			
+08	Colorado	ETHOPROPHOS	1992	kg					76359.1					
+08	Colorado	ETHOPROPHOS	1993	kg					19208.3					
+08	Colorado	ETHOPROPHOS	1994	kg					6331.1					
+08	Colorado	ETHOPROPHOS	1995	kg					12133.6					
+08	Colorado	ETHOPROPHOS	1996	kg	15213.7				3815.9					
+08	Colorado	ETHOPROPHOS	1997	kg					3741					
+08	Colorado	ETHOPROPHOS	1998	kg					12690.9					
+08	Colorado	ETHOPROPHOS	1999	kg					11640.1					
+08	Colorado	ETHOPROPHOS	2000	kg					10893.7					
+08	Colorado	ETHOPROPHOS	2001	kg					22127.2					
+08	Colorado	ETHOPROPHOS	2002	kg					1226.2					
+08	Colorado	ETHOPROPHOS	2003	kg					7874.6					
+08	Colorado	ETHOPROPHOS	2004	kg					82112.4					
+08	Colorado	ETHOPROPHOS	2005	kg					6895.5					
+08	Colorado	ETHOPROPHOS	2006	kg					5678.2					
+08	Colorado	ETHOPROPHOS	2009	kg					855.2					
+08	Colorado	ETHOPROPHOS	2010	kg					3069.5					
+08	Colorado	ETHOPROPHOS	2012	kg					13776.5					
+09	Connecticut	ETHOPROPHOS	1996	kg	1880.2				6.4					
+09	Connecticut	ETHOPROPHOS	1997	kg					21.7					
+09	Connecticut	ETHOPROPHOS	1999	kg					22.8					
+09	Connecticut	ETHOPROPHOS	2000	kg					23.5					
+09	Connecticut	ETHOPROPHOS	2001	kg					23.8					
+09	Connecticut	ETHOPROPHOS	2002	kg					16.4					
+09	Connecticut	ETHOPROPHOS	2004	kg					26.2					
+09	Connecticut	ETHOPROPHOS	2005	kg					51.3					
+09	Connecticut	ETHOPROPHOS	2006	kg					28.7					
+09	Connecticut	ETHOPROPHOS	2007	kg					31					
+09	Connecticut	ETHOPROPHOS	2008	kg					32.3					
+09	Connecticut	ETHOPROPHOS	2010	kg					26.3					
+09	Connecticut	ETHOPROPHOS	2012	kg					11.9					
+10	Delaware	ETHOPROPHOS	1993	kg							5.5			
+10	Delaware	ETHOPROPHOS	1999	kg					854					
+10	Delaware	ETHOPROPHOS	2000	kg					689.3					
+10	Delaware	ETHOPROPHOS	2002	kg					11.7					
+10	Delaware	ETHOPROPHOS	2003	kg					2915.3					
+12	Florida	ETHOPROPHOS	1992	kg					22743.5					160538
+12	Florida	ETHOPROPHOS	1993	kg					22292.3				157.4	31836.4
+12	Florida	ETHOPROPHOS	1994	kg	16.7			7953.3	16015					60392.2
+12	Florida	ETHOPROPHOS	1995	kg					6160.2				95.6	62040.3
+12	Florida	ETHOPROPHOS	1996	kg					57991.1					198324.5
+12	Florida	ETHOPROPHOS	1997	kg					7014.5					47592.3
+12	Florida	ETHOPROPHOS	1998	kg					27952					122187.7
+12	Florida	ETHOPROPHOS	1999	kg					6496.8					190044.3
+12	Florida	ETHOPROPHOS	2000	kg										67799.6
+12	Florida	ETHOPROPHOS	2001	kg					50827.4					92160.9
+12	Florida	ETHOPROPHOS	2002	kg					23924.7					96043.6
+12	Florida	ETHOPROPHOS	2003	kg					785.9					111127.7
+12	Florida	ETHOPROPHOS	2004	kg										32718.9
+12	Florida	ETHOPROPHOS	2005	kg					1059.8					40060
+12	Florida	ETHOPROPHOS	2006	kg					25864.4					25483.8
+12	Florida	ETHOPROPHOS	2007	kg					49830.6					60284.4
+12	Florida	ETHOPROPHOS	2008	kg					49604					79743.3
+12	Florida	ETHOPROPHOS	2009	kg					22863.7					81572.4
+12	Florida	ETHOPROPHOS	2010	kg					43919.2					95745.7
+12	Florida	ETHOPROPHOS	2011	kg					558.5					87226.2
+12	Florida	ETHOPROPHOS	2012	kg					11555.7					119705.2
+12	Florida	ETHOPROPHOS	2013	kg					25639.3					
+12	Florida	ETHOPROPHOS	2015	kg					27851.6					
+12	Florida	ETHOPROPHOS	2016	kg					5795.7					409
+12	Florida	ETHOPROPHOS	2017	kg					10851.2					
+13	Georgia	ETHOPROPHOS	1992	kg					2350.6					14871.4
+13	Georgia	ETHOPROPHOS	1993	kg					1098.7				652.6	22024.7
+13	Georgia	ETHOPROPHOS	1994	kg	77.2			86700.4	2318.4					10483.8
+13	Georgia	ETHOPROPHOS	1995	kg					22597.7				819.9	8599.8
+13	Georgia	ETHOPROPHOS	1996	kg					4790.3					39923.7
+13	Georgia	ETHOPROPHOS	1997	kg				88573.7	150.7					20301.6
+13	Georgia	ETHOPROPHOS	1998	kg					1.8					24774.7
+13	Georgia	ETHOPROPHOS	1999	kg					18614.9					6250.8
+13	Georgia	ETHOPROPHOS	2000	kg					1.8					16458.2
+13	Georgia	ETHOPROPHOS	2001	kg					9449					14465.6
+13	Georgia	ETHOPROPHOS	2002	kg					44696.4					35142.8
+13	Georgia	ETHOPROPHOS	2003	kg					1971.6					6850.7
+13	Georgia	ETHOPROPHOS	2004	kg					0.1					2797.4
+13	Georgia	ETHOPROPHOS	2005	kg					10622.5					6894.5
+13	Georgia	ETHOPROPHOS	2006	kg										5190.1
+13	Georgia	ETHOPROPHOS	2007	kg					0.7					4192.6
+13	Georgia	ETHOPROPHOS	2009	kg					30794.6					
+13	Georgia	ETHOPROPHOS	2010	kg					1728.1					
+13	Georgia	ETHOPROPHOS	2011	kg					2867.1					183.9
+13	Georgia	ETHOPROPHOS	2012	kg					11582.2					
+13	Georgia	ETHOPROPHOS	2013	kg					3073.5					1217
+13	Georgia	ETHOPROPHOS	2016	kg										3115.4
+13	Georgia	ETHOPROPHOS	2017	kg					1759.5					
+16	Idaho	ETHOPROPHOS	1992	kg					71787.8					
+16	Idaho	ETHOPROPHOS	1993	kg					126699.1					
+16	Idaho	ETHOPROPHOS	1994	kg					44386.9					
+16	Idaho	ETHOPROPHOS	1995	kg					59076					
+16	Idaho	ETHOPROPHOS	1996	kg					15164.7					
+16	Idaho	ETHOPROPHOS	1997	kg					19916.7					
+16	Idaho	ETHOPROPHOS	1998	kg					33884					
+16	Idaho	ETHOPROPHOS	1999	kg					47219					
+16	Idaho	ETHOPROPHOS	2000	kg					37853.8					
+16	Idaho	ETHOPROPHOS	2001	kg					59911.5					
+16	Idaho	ETHOPROPHOS	2002	kg					5608.1					
+16	Idaho	ETHOPROPHOS	2003	kg					44873.3					
+16	Idaho	ETHOPROPHOS	2004	kg					8369.6					
+16	Idaho	ETHOPROPHOS	2005	kg					37634					
+16	Idaho	ETHOPROPHOS	2006	kg					20015.4					
+16	Idaho	ETHOPROPHOS	2007	kg					30309.5					
+16	Idaho	ETHOPROPHOS	2008	kg					142680.6					
+16	Idaho	ETHOPROPHOS	2009	kg					6170.4					
+16	Idaho	ETHOPROPHOS	2010	kg					3277.3					
+16	Idaho	ETHOPROPHOS	2011	kg					187043.6					
+16	Idaho	ETHOPROPHOS	2012	kg					8758.9					
+16	Idaho	ETHOPROPHOS	2013	kg					1424.1					
+16	Idaho	ETHOPROPHOS	2015	kg					10985.1					
+16	Idaho	ETHOPROPHOS	2016	kg					241555.3					
+16	Idaho	ETHOPROPHOS	2017	kg					261486.4					
+17	Illinois	ETHOPROPHOS	1992	kg	8590.9				1181.6					
+17	Illinois	ETHOPROPHOS	1995	kg		135713.5								
+17	Illinois	ETHOPROPHOS	1998	kg					481.6					
+17	Illinois	ETHOPROPHOS	2000	kg					595.8					
+17	Illinois	ETHOPROPHOS	2004	kg					350.7					
+18	Indiana	ETHOPROPHOS	1993	kg		6636.3								
+18	Indiana	ETHOPROPHOS	1995	kg		23962.4								
+18	Indiana	ETHOPROPHOS	1996	kg	941.4									
+18	Indiana	ETHOPROPHOS	1997	kg					27.2					
+18	Indiana	ETHOPROPHOS	1998	kg					99.8					
+18	Indiana	ETHOPROPHOS	2004	kg					454.6					
+18	Indiana	ETHOPROPHOS	2006	kg					32.3					
+18	Indiana	ETHOPROPHOS	2008	kg					47					
+18	Indiana	ETHOPROPHOS	2017	kg					647.1					
+19	Iowa	ETHOPROPHOS	1992	kg	30920.1				3.7					
+20	Kansas	ETHOPROPHOS	1996	kg	6738.7									
+21	Kentucky	ETHOPROPHOS	1993	kg		18435.5								
+21	Kentucky	ETHOPROPHOS	1996	kg	2713.1									
+22	Louisiana	ETHOPROPHOS	1993	kg				1403.4						
+22	Louisiana	ETHOPROPHOS	1994	kg				8872						
+22	Louisiana	ETHOPROPHOS	1995	kg				1826.2	1902					
+22	Louisiana	ETHOPROPHOS	1996	kg				664	5082.1					
+22	Louisiana	ETHOPROPHOS	1997	kg					8843.5					
+22	Louisiana	ETHOPROPHOS	2015	kg					24.5					
+22	Louisiana	ETHOPROPHOS	2016	kg					28.6					
+23	Maine	ETHOPROPHOS	1993	kg					1240.4					
+23	Maine	ETHOPROPHOS	1994	kg					358.6					
+23	Maine	ETHOPROPHOS	1996	kg					2819.6					
+23	Maine	ETHOPROPHOS	1998	kg					740.5					
+23	Maine	ETHOPROPHOS	1999	kg					1746.9					
+23	Maine	ETHOPROPHOS	2000	kg					13206.9					
+23	Maine	ETHOPROPHOS	2001	kg					632.2					
+23	Maine	ETHOPROPHOS	2002	kg					1623.6					
+23	Maine	ETHOPROPHOS	2004	kg					17214.7					
+23	Maine	ETHOPROPHOS	2005	kg					32421.4					
+23	Maine	ETHOPROPHOS	2006	kg					17424.5					
+23	Maine	ETHOPROPHOS	2007	kg					576.4					
+23	Maine	ETHOPROPHOS	2008	kg					18324.6					
+23	Maine	ETHOPROPHOS	2010	kg					1361.5					
+23	Maine	ETHOPROPHOS	2012	kg					6359.3					
+24	Maryland	ETHOPROPHOS	1995	kg					539.8					
+24	Maryland	ETHOPROPHOS	1996	kg					651.6					
+24	Maryland	ETHOPROPHOS	1997	kg					655.6					
+24	Maryland	ETHOPROPHOS	1999	kg					691.9					
+24	Maryland	ETHOPROPHOS	2000	kg					1455.9					
+24	Maryland	ETHOPROPHOS	2001	kg					686.3					
+24	Maryland	ETHOPROPHOS	2002	kg					25.8					
+24	Maryland	ETHOPROPHOS	2003	kg					2228.7					
+24	Maryland	ETHOPROPHOS	2004	kg					39.2					
+24	Maryland	ETHOPROPHOS	2005	kg					69.8					
+24	Maryland	ETHOPROPHOS	2006	kg					41.2					
+24	Maryland	ETHOPROPHOS	2007	kg					70.2					
+24	Maryland	ETHOPROPHOS	2008	kg					41.1					
+24	Maryland	ETHOPROPHOS	2009	kg					25.2					
+24	Maryland	ETHOPROPHOS	2010	kg					27.4					
+24	Maryland	ETHOPROPHOS	2012	kg					17.1					
+24	Maryland	ETHOPROPHOS	2014	kg					11.3					
+24	Maryland	ETHOPROPHOS	2015	kg					9.2					
+25	Massachusetts	ETHOPROPHOS	1996	kg	848.9				205.8					
+25	Massachusetts	ETHOPROPHOS	1997	kg					376.2					
+25	Massachusetts	ETHOPROPHOS	1999	kg					502.9					
+25	Massachusetts	ETHOPROPHOS	2000	kg					590.3					
+25	Massachusetts	ETHOPROPHOS	2001	kg					701.6					
+25	Massachusetts	ETHOPROPHOS	2002	kg					570.4					
+25	Massachusetts	ETHOPROPHOS	2004	kg					805.4					
+25	Massachusetts	ETHOPROPHOS	2005	kg					1484.1					
+25	Massachusetts	ETHOPROPHOS	2006	kg					779.2					
+25	Massachusetts	ETHOPROPHOS	2007	kg					786.3					
+25	Massachusetts	ETHOPROPHOS	2008	kg					899.6					
+25	Massachusetts	ETHOPROPHOS	2010	kg					815.3					
+25	Massachusetts	ETHOPROPHOS	2012	kg					404.1					
+26	Michigan	ETHOPROPHOS	1992	kg					2404					
+26	Michigan	ETHOPROPHOS	1993	kg					1191.8					
+26	Michigan	ETHOPROPHOS	1994	kg					9776.6					
+26	Michigan	ETHOPROPHOS	1996	kg					9990.4					
+26	Michigan	ETHOPROPHOS	1997	kg					2917.7					
+26	Michigan	ETHOPROPHOS	1998	kg					6101.3					
+26	Michigan	ETHOPROPHOS	1999	kg					1042.1					
+26	Michigan	ETHOPROPHOS	2000	kg					18452.4					
+26	Michigan	ETHOPROPHOS	2002	kg					11597.5					
+26	Michigan	ETHOPROPHOS	2003	kg					12156.6					
+26	Michigan	ETHOPROPHOS	2004	kg					12358.8					
+26	Michigan	ETHOPROPHOS	2006	kg					6142.9					
+26	Michigan	ETHOPROPHOS	2007	kg					9282.5					
+26	Michigan	ETHOPROPHOS	2008	kg					5778.2					
+26	Michigan	ETHOPROPHOS	2009	kg					11046.2					
+26	Michigan	ETHOPROPHOS	2010	kg					45043.4					
+26	Michigan	ETHOPROPHOS	2011	kg					1414					
+26	Michigan	ETHOPROPHOS	2012	kg					5753.9					
+26	Michigan	ETHOPROPHOS	2013	kg					5025.9					
+26	Michigan	ETHOPROPHOS	2014	kg					3635.6					
+26	Michigan	ETHOPROPHOS	2017	kg					3578.4					
+27	Minnesota	ETHOPROPHOS	1992	kg	4450.2				2835.5					
+27	Minnesota	ETHOPROPHOS	1996	kg					3420.3					
+27	Minnesota	ETHOPROPHOS	1998	kg					6571.8					
+27	Minnesota	ETHOPROPHOS	2000	kg					7452.4					
+27	Minnesota	ETHOPROPHOS	2002	kg					4169.1					
+27	Minnesota	ETHOPROPHOS	2003	kg					4040.8					
+27	Minnesota	ETHOPROPHOS	2004	kg					18123.5					
+27	Minnesota	ETHOPROPHOS	2006	kg					4554					
+27	Minnesota	ETHOPROPHOS	2007	kg					22908.5					
+27	Minnesota	ETHOPROPHOS	2008	kg					1060.9					
+27	Minnesota	ETHOPROPHOS	2010	kg					7980.1					
+27	Minnesota	ETHOPROPHOS	2017	kg					1511.6					
+28	Mississippi	ETHOPROPHOS	1992	kg				418.4						
+28	Mississippi	ETHOPROPHOS	1993	kg				2221.3	2.1					
+28	Mississippi	ETHOPROPHOS	1994	kg				17079.4						
+28	Mississippi	ETHOPROPHOS	1995	kg		221610.6		2751.4						
+28	Mississippi	ETHOPROPHOS	1996	kg				29						
+28	Mississippi	ETHOPROPHOS	1999	kg					7.3					
+28	Mississippi	ETHOPROPHOS	2000	kg					7.3					
+28	Mississippi	ETHOPROPHOS	2002	kg					45.8					
+28	Mississippi	ETHOPROPHOS	2003	kg					93.4					
+29	Missouri	ETHOPROPHOS	1993	kg				610.9						
+29	Missouri	ETHOPROPHOS	1994	kg				451.4						
+29	Missouri	ETHOPROPHOS	1995	kg				475.8						
+29	Missouri	ETHOPROPHOS	1996	kg				123.2						
+29	Missouri	ETHOPROPHOS	1997	kg	23135.7									
+30	Montana	ETHOPROPHOS	1992	kg					1758.6					
+30	Montana	ETHOPROPHOS	1993	kg					615.7					
+30	Montana	ETHOPROPHOS	1994	kg					934.8					
+30	Montana	ETHOPROPHOS	1995	kg					413.8					
+30	Montana	ETHOPROPHOS	1996	kg					430.3					
+30	Montana	ETHOPROPHOS	1997	kg					538.4					
+30	Montana	ETHOPROPHOS	1998	kg					307.3					
+30	Montana	ETHOPROPHOS	1999	kg					736.4					
+30	Montana	ETHOPROPHOS	2000	kg					460.7					
+30	Montana	ETHOPROPHOS	2001	kg					1483.7					
+30	Montana	ETHOPROPHOS	2002	kg					120.8					
+30	Montana	ETHOPROPHOS	2003	kg					1007.2					
+30	Montana	ETHOPROPHOS	2004	kg					176.8					
+30	Montana	ETHOPROPHOS	2005	kg					914.4					
+30	Montana	ETHOPROPHOS	2006	kg					474.4					
+30	Montana	ETHOPROPHOS	2007	kg					877.4					
+30	Montana	ETHOPROPHOS	2009	kg					124.8					
+30	Montana	ETHOPROPHOS	2010	kg					69.9					
+30	Montana	ETHOPROPHOS	2012	kg					185.7					
+30	Montana	ETHOPROPHOS	2013	kg					33					
+31	Nebraska	ETHOPROPHOS	1992	kg					3441.2					
+31	Nebraska	ETHOPROPHOS	1996	kg	65395.6									
+31	Nebraska	ETHOPROPHOS	2001	kg					548.9					
+32	Nevada	ETHOPROPHOS	1992	kg					3338.2					
+32	Nevada	ETHOPROPHOS	1993	kg					41350					
+32	Nevada	ETHOPROPHOS	1994	kg					613.3					
+32	Nevada	ETHOPROPHOS	1995	kg					722.7					
+32	Nevada	ETHOPROPHOS	1996	kg					682					
+32	Nevada	ETHOPROPHOS	1997	kg					2279.4					
+32	Nevada	ETHOPROPHOS	1998	kg					1758.8					
+32	Nevada	ETHOPROPHOS	1999	kg					1064.4					
+32	Nevada	ETHOPROPHOS	2000	kg					1220.4					
+32	Nevada	ETHOPROPHOS	2001	kg					3647					
+32	Nevada	ETHOPROPHOS	2002	kg					1542.8					
+32	Nevada	ETHOPROPHOS	2003	kg					721.3					
+32	Nevada	ETHOPROPHOS	2004	kg					9810.7					
+32	Nevada	ETHOPROPHOS	2005	kg					890.1					
+32	Nevada	ETHOPROPHOS	2006	kg					711.3					
+32	Nevada	ETHOPROPHOS	2009	kg					96.1					
+32	Nevada	ETHOPROPHOS	2010	kg					282.5					
+32	Nevada	ETHOPROPHOS	2011	kg					87.3					
+32	Nevada	ETHOPROPHOS	2012	kg					1281.4					
+32	Nevada	ETHOPROPHOS	2016	kg					328.9					
+33	New Hampshire	ETHOPROPHOS	1996	kg					4.6					
+33	New Hampshire	ETHOPROPHOS	1997	kg					12.6					
+33	New Hampshire	ETHOPROPHOS	1998	kg					9.6					
+33	New Hampshire	ETHOPROPHOS	1999	kg					8.8					
+33	New Hampshire	ETHOPROPHOS	2000	kg					15.6					
+33	New Hampshire	ETHOPROPHOS	2001	kg					17.1					
+33	New Hampshire	ETHOPROPHOS	2002	kg					12.6					
+33	New Hampshire	ETHOPROPHOS	2004	kg					20.3					
+33	New Hampshire	ETHOPROPHOS	2005	kg					40.3					
+33	New Hampshire	ETHOPROPHOS	2006	kg					22.8					
+33	New Hampshire	ETHOPROPHOS	2007	kg					24.8					
+33	New Hampshire	ETHOPROPHOS	2008	kg					30.7					
+33	New Hampshire	ETHOPROPHOS	2010	kg					32.4					
+33	New Hampshire	ETHOPROPHOS	2012	kg					17.8					
+34	New Jersey	ETHOPROPHOS	1993	kg							9851.3			
+34	New Jersey	ETHOPROPHOS	1996	kg					100.2					
+34	New Jersey	ETHOPROPHOS	1999	kg					647.3					
+34	New Jersey	ETHOPROPHOS	2000	kg					103.7					
+34	New Jersey	ETHOPROPHOS	2001	kg					585.8					
+34	New Jersey	ETHOPROPHOS	2002	kg					52.1					
+34	New Jersey	ETHOPROPHOS	2004	kg					659.9					
+34	New Jersey	ETHOPROPHOS	2005	kg					1281.3					
+34	New Jersey	ETHOPROPHOS	2006	kg					784.8					
+34	New Jersey	ETHOPROPHOS	2007	kg					758.2					
+34	New Jersey	ETHOPROPHOS	2008	kg					639.1					
+34	New Jersey	ETHOPROPHOS	2010	kg					530.1					
+34	New Jersey	ETHOPROPHOS	2012	kg					246.5					
+35	New Mexico	ETHOPROPHOS	1992	kg					11774.7					
+35	New Mexico	ETHOPROPHOS	1993	kg					1594.9					3134.2
+35	New Mexico	ETHOPROPHOS	1994	kg					532.1					
+35	New Mexico	ETHOPROPHOS	1995	kg					1026					
+35	New Mexico	ETHOPROPHOS	1996	kg					318.3					
+35	New Mexico	ETHOPROPHOS	1997	kg					299.6					118.4
+35	New Mexico	ETHOPROPHOS	1998	kg					1020.6					
+35	New Mexico	ETHOPROPHOS	1999	kg					1026.1					
+35	New Mexico	ETHOPROPHOS	2000	kg					990.1					
+35	New Mexico	ETHOPROPHOS	2001	kg					2200					
+35	New Mexico	ETHOPROPHOS	2002	kg					116.3					
+35	New Mexico	ETHOPROPHOS	2003	kg					820.8					
+35	New Mexico	ETHOPROPHOS	2004	kg					8889.2					
+35	New Mexico	ETHOPROPHOS	2005	kg					805.7					
+35	New Mexico	ETHOPROPHOS	2006	kg					642.9					
+35	New Mexico	ETHOPROPHOS	2009	kg					15.6					
+35	New Mexico	ETHOPROPHOS	2010	kg					53.5					
+35	New Mexico	ETHOPROPHOS	2012	kg					234.8					
+36	New York	ETHOPROPHOS	1994	kg					243.9					
+36	New York	ETHOPROPHOS	1996	kg	1880.1				772.5					
+36	New York	ETHOPROPHOS	1997	kg					144.3					
+36	New York	ETHOPROPHOS	1998	kg					3220.9					
+36	New York	ETHOPROPHOS	1999	kg					3562					
+36	New York	ETHOPROPHOS	2000	kg					3780					
+36	New York	ETHOPROPHOS	2001	kg					4352					
+36	New York	ETHOPROPHOS	2002	kg					3377					
+36	New York	ETHOPROPHOS	2004	kg					2932.2					
+36	New York	ETHOPROPHOS	2005	kg					9338.1					
+36	New York	ETHOPROPHOS	2006	kg					4924.5					
+36	New York	ETHOPROPHOS	2007	kg					5137.9					
+36	New York	ETHOPROPHOS	2008	kg					5194.3					
+36	New York	ETHOPROPHOS	2010	kg					4272					
+36	New York	ETHOPROPHOS	2012	kg					1972.7					
+37	North Carolina	ETHOPROPHOS	1992	kg										73207.5
+37	North Carolina	ETHOPROPHOS	1993	kg		26185.8					270.8			29882.1
+37	North Carolina	ETHOPROPHOS	1994	kg										16653.5
+37	North Carolina	ETHOPROPHOS	1995	kg					13879.1				902.7	12685.9
+37	North Carolina	ETHOPROPHOS	1996	kg	27692.3	14679.4			614.3					27554.7
+37	North Carolina	ETHOPROPHOS	1997	kg				40606.1						25465.2
+37	North Carolina	ETHOPROPHOS	1998	kg	7388				12317.2					26652.7
+37	North Carolina	ETHOPROPHOS	1999	kg					6221.9					20923.4
+37	North Carolina	ETHOPROPHOS	2000	kg					11974.8					8544.5
+37	North Carolina	ETHOPROPHOS	2001	kg										10855.2
+37	North Carolina	ETHOPROPHOS	2002	kg					792.3					27507.7
+37	North Carolina	ETHOPROPHOS	2003	kg					16621.1					12300.2
+37	North Carolina	ETHOPROPHOS	2004	kg					7683.8					6300.1
+37	North Carolina	ETHOPROPHOS	2005	kg										7432.6
+37	North Carolina	ETHOPROPHOS	2006	kg					2331.4					4433.5
+37	North Carolina	ETHOPROPHOS	2007	kg										46867.8
+37	North Carolina	ETHOPROPHOS	2008	kg										2359.8
+37	North Carolina	ETHOPROPHOS	2009	kg					5532.9					8909.2
+37	North Carolina	ETHOPROPHOS	2010	kg										14311.2
+37	North Carolina	ETHOPROPHOS	2011	kg										2791.3
+37	North Carolina	ETHOPROPHOS	2012	kg										3558.2
+37	North Carolina	ETHOPROPHOS	2013	kg					9283.8					25797.1
+37	North Carolina	ETHOPROPHOS	2014	kg										13438.4
+37	North Carolina	ETHOPROPHOS	2015	kg										1340.8
+37	North Carolina	ETHOPROPHOS	2016	kg										5691.9
+37	North Carolina	ETHOPROPHOS	2017	kg										3433.5
+38	North Dakota	ETHOPROPHOS	2000	kg					1788.6					
+39	Ohio	ETHOPROPHOS	1992	kg					238					
+39	Ohio	ETHOPROPHOS	1993	kg					11320.6					
+39	Ohio	ETHOPROPHOS	1996	kg					215.4					
+39	Ohio	ETHOPROPHOS	1997	kg					659.2					
+39	Ohio	ETHOPROPHOS	1998	kg					536.4					
+39	Ohio	ETHOPROPHOS	2000	kg					718.3					
+39	Ohio	ETHOPROPHOS	2001	kg					240.4					
+39	Ohio	ETHOPROPHOS	2002	kg					325.8					
+39	Ohio	ETHOPROPHOS	2003	kg					559					
+39	Ohio	ETHOPROPHOS	2004	kg					4212.1					
+39	Ohio	ETHOPROPHOS	2005	kg					260					
+39	Ohio	ETHOPROPHOS	2006	kg					315.7					
+39	Ohio	ETHOPROPHOS	2007	kg					201					
+39	Ohio	ETHOPROPHOS	2008	kg					371.3					
+39	Ohio	ETHOPROPHOS	2010	kg					612.5					
+39	Ohio	ETHOPROPHOS	2017	kg					173.2					
+40	Oklahoma	ETHOPROPHOS	2015	kg					112.2					
+40	Oklahoma	ETHOPROPHOS	2016	kg					182.6					
+41	Oregon	ETHOPROPHOS	1992	kg	2327.7				116617.6					
+41	Oregon	ETHOPROPHOS	1993	kg	6240.2				9270.1					
+41	Oregon	ETHOPROPHOS	1994	kg	498.8				9373.3					
+41	Oregon	ETHOPROPHOS	1995	kg					21308.7					
+41	Oregon	ETHOPROPHOS	1996	kg					44970.6					
+41	Oregon	ETHOPROPHOS	1997	kg	3002.9				41214.4					
+41	Oregon	ETHOPROPHOS	1998	kg					29509.9					
+41	Oregon	ETHOPROPHOS	1999	kg	755.3				31314.7					
+41	Oregon	ETHOPROPHOS	2000	kg	2924.2				32408.7					
+41	Oregon	ETHOPROPHOS	2001	kg	834.7				38639					
+41	Oregon	ETHOPROPHOS	2002	kg	877				33636.8					
+41	Oregon	ETHOPROPHOS	2003	kg	2085.4				39211.1					
+41	Oregon	ETHOPROPHOS	2004	kg					105140.3					
+41	Oregon	ETHOPROPHOS	2005	kg					45617.9					
+41	Oregon	ETHOPROPHOS	2006	kg					33784.7					
+41	Oregon	ETHOPROPHOS	2007	kg					37539.6					
+41	Oregon	ETHOPROPHOS	2008	kg					31881.7					
+41	Oregon	ETHOPROPHOS	2009	kg					22277.1					
+41	Oregon	ETHOPROPHOS	2010	kg					21654.3					
+41	Oregon	ETHOPROPHOS	2011	kg					31496.5					
+41	Oregon	ETHOPROPHOS	2012	kg					18084.8					
+41	Oregon	ETHOPROPHOS	2013	kg					9438					
+41	Oregon	ETHOPROPHOS	2014	kg					9916.8					
+41	Oregon	ETHOPROPHOS	2015	kg					12556.6					
+41	Oregon	ETHOPROPHOS	2016	kg					47527.9					
+41	Oregon	ETHOPROPHOS	2017	kg					67640.8					
+42	Pennsylvania	ETHOPROPHOS	1993	kg							796.9			
+42	Pennsylvania	ETHOPROPHOS	1996	kg					1690.2					
+42	Pennsylvania	ETHOPROPHOS	1998	kg					6298.2					
+42	Pennsylvania	ETHOPROPHOS	1999	kg					6892.3					
+42	Pennsylvania	ETHOPROPHOS	2000	kg					3618.2					
+42	Pennsylvania	ETHOPROPHOS	2001	kg					5265					
+42	Pennsylvania	ETHOPROPHOS	2002	kg					3259.5					
+42	Pennsylvania	ETHOPROPHOS	2003	kg					3253					
+42	Pennsylvania	ETHOPROPHOS	2004	kg					3422.2					
+42	Pennsylvania	ETHOPROPHOS	2005	kg					7774.5					
+42	Pennsylvania	ETHOPROPHOS	2006	kg					3293.2					
+42	Pennsylvania	ETHOPROPHOS	2007	kg					3426.5					
+42	Pennsylvania	ETHOPROPHOS	2008	kg					3252.9					
+42	Pennsylvania	ETHOPROPHOS	2009	kg					782.9					
+42	Pennsylvania	ETHOPROPHOS	2010	kg					3357.1					
+42	Pennsylvania	ETHOPROPHOS	2012	kg					796.1					
+42	Pennsylvania	ETHOPROPHOS	2014	kg					209.3					
+42	Pennsylvania	ETHOPROPHOS	2015	kg					144.4					
+44	Rhode Island	ETHOPROPHOS	1996	kg	97.3				54.9					
+44	Rhode Island	ETHOPROPHOS	1997	kg					103.2					
+44	Rhode Island	ETHOPROPHOS	1999	kg					114.7					
+44	Rhode Island	ETHOPROPHOS	2000	kg					121.9					
+44	Rhode Island	ETHOPROPHOS	2001	kg					130					
+44	Rhode Island	ETHOPROPHOS	2002	kg					94.2					
+44	Rhode Island	ETHOPROPHOS	2004	kg					146.3					
+44	Rhode Island	ETHOPROPHOS	2005	kg					283.5					
+44	Rhode Island	ETHOPROPHOS	2006	kg					156.8					
+44	Rhode Island	ETHOPROPHOS	2007	kg					167.1					
+44	Rhode Island	ETHOPROPHOS	2008	kg					170.8					
+44	Rhode Island	ETHOPROPHOS	2010	kg					132.9					
+44	Rhode Island	ETHOPROPHOS	2012	kg					57.9					
+45	South Carolina	ETHOPROPHOS	1992	kg										12149.4
+45	South Carolina	ETHOPROPHOS	1993	kg		12871.2								8532.1
+45	South Carolina	ETHOPROPHOS	1994	kg					39.2					5529.7
+45	South Carolina	ETHOPROPHOS	1995	kg									198.5	21851.2
+45	South Carolina	ETHOPROPHOS	1996	kg	4250.2	4479.1								14582
+45	South Carolina	ETHOPROPHOS	1997	kg										12315.7
+45	South Carolina	ETHOPROPHOS	1998	kg	7341.6				4.4					10630.6
+45	South Carolina	ETHOPROPHOS	1999	kg					68.1					4439.8
+45	South Carolina	ETHOPROPHOS	2000	kg					13007.8					606.5
+45	South Carolina	ETHOPROPHOS	2001	kg					76.7					4512
+45	South Carolina	ETHOPROPHOS	2002	kg					380.9					9074.2
+45	South Carolina	ETHOPROPHOS	2003	kg					155.3					4562.4
+45	South Carolina	ETHOPROPHOS	2004	kg					53.7					5640.3
+45	South Carolina	ETHOPROPHOS	2005	kg					696.2					4431.7
+45	South Carolina	ETHOPROPHOS	2006	kg										1221.7
+45	South Carolina	ETHOPROPHOS	2007	kg										361.3
+45	South Carolina	ETHOPROPHOS	2009	kg					75.3					
+45	South Carolina	ETHOPROPHOS	2011	kg					8.2					336.3
+45	South Carolina	ETHOPROPHOS	2012	kg					10.8					
+45	South Carolina	ETHOPROPHOS	2013	kg					110					1965.4
+45	South Carolina	ETHOPROPHOS	2014	kg										1609.4
+45	South Carolina	ETHOPROPHOS	2016	kg										37.9
+46	South Dakota	ETHOPROPHOS	2000	kg					371.2					
+47	Tennessee	ETHOPROPHOS	1992	kg				1290	4.1					8126.3
+47	Tennessee	ETHOPROPHOS	1993	kg		2484.8		839.7						1689.6
+47	Tennessee	ETHOPROPHOS	1994	kg				232.8						740.6
+47	Tennessee	ETHOPROPHOS	1995	kg				1607.1						
+47	Tennessee	ETHOPROPHOS	1996	kg	407.9			44.2						
+47	Tennessee	ETHOPROPHOS	1997	kg					43.1					
+47	Tennessee	ETHOPROPHOS	1998	kg					176.3					411.6
+47	Tennessee	ETHOPROPHOS	1999	kg					24.3					
+47	Tennessee	ETHOPROPHOS	2000	kg					16.2					
+47	Tennessee	ETHOPROPHOS	2001	kg					410.1					1799.7
+47	Tennessee	ETHOPROPHOS	2004	kg					8.9					449.9
+47	Tennessee	ETHOPROPHOS	2005	kg					49.4					
+47	Tennessee	ETHOPROPHOS	2006	kg										69.3
+47	Tennessee	ETHOPROPHOS	2007	kg					46.1					
+47	Tennessee	ETHOPROPHOS	2008	kg										205.1
+48	Texas	ETHOPROPHOS	1992	kg					7390.1					371.5
+48	Texas	ETHOPROPHOS	1993	kg										6913.6
+48	Texas	ETHOPROPHOS	1997	kg					164					1289.1
+48	Texas	ETHOPROPHOS	1999	kg					9351.4					
+48	Texas	ETHOPROPHOS	2000	kg					25168.9					
+48	Texas	ETHOPROPHOS	2001	kg					11107					
+48	Texas	ETHOPROPHOS	2002	kg					11110.6					
+48	Texas	ETHOPROPHOS	2003	kg					62506.3					
+48	Texas	ETHOPROPHOS	2007	kg					28808.4					
+48	Texas	ETHOPROPHOS	2015	kg					25227.6					
+48	Texas	ETHOPROPHOS	2016	kg					32384.7					
+49	Utah	ETHOPROPHOS	1992	kg					305.6					
+49	Utah	ETHOPROPHOS	1993	kg					976.7					
+49	Utah	ETHOPROPHOS	1994	kg					169.2					
+49	Utah	ETHOPROPHOS	1995	kg					156.8					
+49	Utah	ETHOPROPHOS	1996	kg					59.1					
+49	Utah	ETHOPROPHOS	1997	kg					33.5					
+49	Utah	ETHOPROPHOS	1998	kg					160.2					
+49	Utah	ETHOPROPHOS	1999	kg					142.9					
+49	Utah	ETHOPROPHOS	2000	kg					121.4					
+49	Utah	ETHOPROPHOS	2001	kg					126.5					
+49	Utah	ETHOPROPHOS	2002	kg					10.5					
+49	Utah	ETHOPROPHOS	2003	kg					65.4					
+49	Utah	ETHOPROPHOS	2004	kg					450.3					
+49	Utah	ETHOPROPHOS	2005	kg					39.9					
+49	Utah	ETHOPROPHOS	2006	kg					19.4					
+49	Utah	ETHOPROPHOS	2007	kg					8					
+49	Utah	ETHOPROPHOS	2009	kg					9.5					
+49	Utah	ETHOPROPHOS	2010	kg					16.1					
+49	Utah	ETHOPROPHOS	2012	kg					81.2					
+49	Utah	ETHOPROPHOS	2013	kg					2.5					
+50	Vermont	ETHOPROPHOS	1994	kg					5.2					
+50	Vermont	ETHOPROPHOS	1996	kg					5.5					
+50	Vermont	ETHOPROPHOS	1997	kg					17.6					
+50	Vermont	ETHOPROPHOS	1999	kg					24.3					
+50	Vermont	ETHOPROPHOS	2000	kg					29.1					
+50	Vermont	ETHOPROPHOS	2001	kg					34.5					
+50	Vermont	ETHOPROPHOS	2002	kg					28.6					
+50	Vermont	ETHOPROPHOS	2004	kg					49					
+50	Vermont	ETHOPROPHOS	2005	kg					99.3					
+50	Vermont	ETHOPROPHOS	2006	kg					57.4					
+50	Vermont	ETHOPROPHOS	2007	kg					63.7					
+50	Vermont	ETHOPROPHOS	2008	kg					83					
+50	Vermont	ETHOPROPHOS	2010	kg					63.8					
+50	Vermont	ETHOPROPHOS	2012	kg					27.7					
+51	Virginia	ETHOPROPHOS	1992	kg										19998.9
+51	Virginia	ETHOPROPHOS	1993	kg		2182.9					1311.2			7395.4
+51	Virginia	ETHOPROPHOS	1994	kg										5304
+51	Virginia	ETHOPROPHOS	1995	kg					1905.5					1780
+51	Virginia	ETHOPROPHOS	1996	kg					1526.4					36150.2
+51	Virginia	ETHOPROPHOS	1997	kg				11612.3	1745.5					5848.3
+51	Virginia	ETHOPROPHOS	1998	kg										4802
+51	Virginia	ETHOPROPHOS	1999	kg					1150.2					6302.8
+51	Virginia	ETHOPROPHOS	2000	kg					2943.8					3194.3
+51	Virginia	ETHOPROPHOS	2001	kg					1994.3					2388.4
+51	Virginia	ETHOPROPHOS	2002	kg					8					6238.7
+51	Virginia	ETHOPROPHOS	2003	kg					3396.8					2802.7
+51	Virginia	ETHOPROPHOS	2004	kg										2106.7
+51	Virginia	ETHOPROPHOS	2006	kg					5.3					268.1
+51	Virginia	ETHOPROPHOS	2007	kg										4914.4
+51	Virginia	ETHOPROPHOS	2008	kg										597.7
+51	Virginia	ETHOPROPHOS	2009	kg										480.9
+51	Virginia	ETHOPROPHOS	2010	kg										780.3
+51	Virginia	ETHOPROPHOS	2011	kg										487.9
+51	Virginia	ETHOPROPHOS	2012	kg										202.7
+51	Virginia	ETHOPROPHOS	2013	kg					131.1					2590.9
+51	Virginia	ETHOPROPHOS	2015	kg										326.5
+53	Washington	ETHOPROPHOS	1992	kg	1350.5				945322.1					
+53	Washington	ETHOPROPHOS	1993	kg	3215.7				48836					
+53	Washington	ETHOPROPHOS	1994	kg	362.7				14064.4					
+53	Washington	ETHOPROPHOS	1995	kg					94656.4					
+53	Washington	ETHOPROPHOS	1996	kg					55724.9					
+53	Washington	ETHOPROPHOS	1997	kg	1673.9				10523.3					
+53	Washington	ETHOPROPHOS	1998	kg					11215.4					
+53	Washington	ETHOPROPHOS	1999	kg	386.5				95325.3					
+53	Washington	ETHOPROPHOS	2000	kg	2169.6				24858.5					
+53	Washington	ETHOPROPHOS	2001	kg	752				82271.3					
+53	Washington	ETHOPROPHOS	2002	kg	5045.2				32658.3					
+53	Washington	ETHOPROPHOS	2003	kg	803.3				131060.4					
+53	Washington	ETHOPROPHOS	2004	kg					624409.5					
+53	Washington	ETHOPROPHOS	2005	kg					105136					
+53	Washington	ETHOPROPHOS	2006	kg					66119.4					
+53	Washington	ETHOPROPHOS	2007	kg					179642.3					
+53	Washington	ETHOPROPHOS	2008	kg					55091.4					
+53	Washington	ETHOPROPHOS	2009	kg					16847.6					
+53	Washington	ETHOPROPHOS	2010	kg					50813.5					
+53	Washington	ETHOPROPHOS	2011	kg					36843.7					
+53	Washington	ETHOPROPHOS	2012	kg					3824.9					
+53	Washington	ETHOPROPHOS	2013	kg	25666				1170.1					
+53	Washington	ETHOPROPHOS	2014	kg					39337.8					
+53	Washington	ETHOPROPHOS	2015	kg					3288.3					
+53	Washington	ETHOPROPHOS	2016	kg					82909.8					
+53	Washington	ETHOPROPHOS	2017	kg					47787.9					
+54	West Virginia	ETHOPROPHOS	1996	kg					24					
+54	West Virginia	ETHOPROPHOS	2001	kg					14.5					
+54	West Virginia	ETHOPROPHOS	2002	kg					15.1					
+54	West Virginia	ETHOPROPHOS	2003	kg					29.8					
+54	West Virginia	ETHOPROPHOS	2005	kg					17.4					
+54	West Virginia	ETHOPROPHOS	2006	kg					26.5					
+54	West Virginia	ETHOPROPHOS	2007	kg					16					
+54	West Virginia	ETHOPROPHOS	2008	kg					42.5					
+54	West Virginia	ETHOPROPHOS	2010	kg					80.3					
+55	Wisconsin	ETHOPROPHOS	1992	kg	2496.9				10557					
+55	Wisconsin	ETHOPROPHOS	1993	kg					4058.6					
+55	Wisconsin	ETHOPROPHOS	1995	kg					37343.5					
+55	Wisconsin	ETHOPROPHOS	1996	kg					21913.4					
+55	Wisconsin	ETHOPROPHOS	1997	kg					1454.5					
+55	Wisconsin	ETHOPROPHOS	1998	kg					57930.7					
+55	Wisconsin	ETHOPROPHOS	1999	kg					4041.8					
+55	Wisconsin	ETHOPROPHOS	2000	kg					46765.3					
+55	Wisconsin	ETHOPROPHOS	2002	kg					15321.8					
+55	Wisconsin	ETHOPROPHOS	2003	kg					20587.9					
+55	Wisconsin	ETHOPROPHOS	2004	kg					30918.8					
+55	Wisconsin	ETHOPROPHOS	2006	kg					16137.2					
+55	Wisconsin	ETHOPROPHOS	2007	kg					26303.5					
+55	Wisconsin	ETHOPROPHOS	2008	kg					9368.7					
+55	Wisconsin	ETHOPROPHOS	2009	kg					2056.9					
+55	Wisconsin	ETHOPROPHOS	2010	kg					32627.3					
+55	Wisconsin	ETHOPROPHOS	2011	kg					3136.7					
+55	Wisconsin	ETHOPROPHOS	2012	kg					4357.6					
+55	Wisconsin	ETHOPROPHOS	2013	kg					6817					
+55	Wisconsin	ETHOPROPHOS	2014	kg					3353.8					
+55	Wisconsin	ETHOPROPHOS	2016	kg					241.3					
+55	Wisconsin	ETHOPROPHOS	2017	kg					5048.1					
+56	Wyoming	ETHOPROPHOS	1992	kg					371.7					
+56	Wyoming	ETHOPROPHOS	1993	kg					0.2					
+56	Wyoming	ETHOPROPHOS	1994	kg					0.3					
+56	Wyoming	ETHOPROPHOS	1995	kg					0.1					
+56	Wyoming	ETHOPROPHOS	1996	kg					0.1					
+56	Wyoming	ETHOPROPHOS	1997	kg					0.2					
+56	Wyoming	ETHOPROPHOS	1998	kg					0.1					
+56	Wyoming	ETHOPROPHOS	1999	kg					0.2					
+56	Wyoming	ETHOPROPHOS	2000	kg					0.1					
+56	Wyoming	ETHOPROPHOS	2001	kg					61.4					
+56	Wyoming	ETHOPROPHOS	2002	kg					0					
+56	Wyoming	ETHOPROPHOS	2003	kg					0.4					
+56	Wyoming	ETHOPROPHOS	2004	kg					0					
+56	Wyoming	ETHOPROPHOS	2005	kg					0.3					
+56	Wyoming	ETHOPROPHOS	2006	kg					0.2					
+56	Wyoming	ETHOPROPHOS	2007	kg					0.3					
+56	Wyoming	ETHOPROPHOS	2009	kg					0.1					
+56	Wyoming	ETHOPROPHOS	2010	kg					0.1					
+56	Wyoming	ETHOPROPHOS	2012	kg					0.3					
+56	Wyoming	ETHOPROPHOS	2013	kg					0					

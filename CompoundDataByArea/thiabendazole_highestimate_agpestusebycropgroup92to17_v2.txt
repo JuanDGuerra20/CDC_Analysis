@@ -1,0 +1,66 @@
+01	Alabama	THIABENDAZOLE	1992	kg					12.6					
+04	Arizona	THIABENDAZOLE	1997	kg					2.1					
+06	California	THIABENDAZOLE	1992	kg					6.9		39.6			
+06	California	THIABENDAZOLE	1993	kg					33.2		25.9			
+06	California	THIABENDAZOLE	1994	kg					12.8		6108.5			
+06	California	THIABENDAZOLE	1995	kg							2710			
+06	California	THIABENDAZOLE	1996	kg					33.2					
+06	California	THIABENDAZOLE	1997	kg				335			930.8			
+06	California	THIABENDAZOLE	1998	kg							5.2			
+06	California	THIABENDAZOLE	1999	kg							7.4			0.5
+06	California	THIABENDAZOLE	2000	kg							3			
+06	California	THIABENDAZOLE	2001	kg							6.9			
+06	California	THIABENDAZOLE	2002	kg					0.4		5.5			
+06	California	THIABENDAZOLE	2003	kg					3.6		7.7			
+06	California	THIABENDAZOLE	2004	kg					5.4		2.4			
+06	California	THIABENDAZOLE	2005	kg							162.6			
+06	California	THIABENDAZOLE	2006	kg							3.2			
+06	California	THIABENDAZOLE	2007	kg							0.7			
+06	California	THIABENDAZOLE	2008	kg					12.5		8215.2			
+06	California	THIABENDAZOLE	2009	kg					49.6		4248			
+06	California	THIABENDAZOLE	2010	kg					62.7		6581.6			
+06	California	THIABENDAZOLE	2011	kg					24		13484.3			
+06	California	THIABENDAZOLE	2012	kg					18.6		8506.6			
+06	California	THIABENDAZOLE	2013	kg					0.6		8420.7			
+06	California	THIABENDAZOLE	2014	kg					30.6		10545.3			
+06	California	THIABENDAZOLE	2015	kg					36.6		8030.1			
+06	California	THIABENDAZOLE	2016	kg					99.8		10396.3			
+06	California	THIABENDAZOLE	2017	kg					85.3		9292.9			
+16	Idaho	THIABENDAZOLE	1992	kg					49911.8					
+16	Idaho	THIABENDAZOLE	1993	kg					16306.4					
+16	Idaho	THIABENDAZOLE	1994	kg					177.4					
+16	Idaho	THIABENDAZOLE	1996	kg					10243.4					
+16	Idaho	THIABENDAZOLE	1997	kg					1976.9					
+16	Idaho	THIABENDAZOLE	2010	kg			114.9							
+17	Illinois	THIABENDAZOLE	2009	kg		37								
+19	Iowa	THIABENDAZOLE	2009	kg		6.6								
+21	Kentucky	THIABENDAZOLE	1992	kg					60.8					
+23	Maine	THIABENDAZOLE	1996	kg							69			
+26	Michigan	THIABENDAZOLE	1995	kg					7997.7					
+29	Missouri	THIABENDAZOLE	2009	kg		7.6								
+30	Montana	THIABENDAZOLE	1992	kg					997.5					
+30	Montana	THIABENDAZOLE	1993	kg					332.6					
+30	Montana	THIABENDAZOLE	1994	kg					3.5					
+30	Montana	THIABENDAZOLE	1996	kg					197					
+30	Montana	THIABENDAZOLE	1997	kg					57.3					
+30	Montana	THIABENDAZOLE	2010	kg			15.2							
+32	Nevada	THIABENDAZOLE	1997	kg					43					
+33	New Hampshire	THIABENDAZOLE	1996	kg							24.4			
+35	New Mexico	THIABENDAZOLE	1994	kg										6844.4
+47	Tennessee	THIABENDAZOLE	1992	kg					155.9					
+48	Texas	THIABENDAZOLE	1994	kg										17291
+49	Utah	THIABENDAZOLE	1992	kg					23.9					
+49	Utah	THIABENDAZOLE	1993	kg					32.9					
+49	Utah	THIABENDAZOLE	1994	kg					0.2					
+49	Utah	THIABENDAZOLE	1996	kg					6.2					
+49	Utah	THIABENDAZOLE	1997	kg					133.3					
+49	Utah	THIABENDAZOLE	2010	kg			1.7							
+53	Washington	THIABENDAZOLE	1996	kg			5897.5		27681.5					
+53	Washington	THIABENDAZOLE	1997	kg					518.5					
+55	Wisconsin	THIABENDAZOLE	2011	kg					8.4					
+56	Wyoming	THIABENDAZOLE	1992	kg					0.4					
+56	Wyoming	THIABENDAZOLE	1993	kg					0.1					
+56	Wyoming	THIABENDAZOLE	1994	kg					0					
+56	Wyoming	THIABENDAZOLE	1996	kg					0					
+56	Wyoming	THIABENDAZOLE	1997	kg					0					
+56	Wyoming	THIABENDAZOLE	2010	kg			0							

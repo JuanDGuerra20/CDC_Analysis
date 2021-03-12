@@ -1,0 +1,778 @@
+01	Alabama	CHLORSULFURON	1998	kg			16.4							
+01	Alabama	CHLORSULFURON	2001	kg			54.2							
+01	Alabama	CHLORSULFURON	2006	kg			68.9							
+01	Alabama	CHLORSULFURON	2007	kg			54.8							
+01	Alabama	CHLORSULFURON	2009	kg			131.7							
+01	Alabama	CHLORSULFURON	2010	kg			224.5							
+01	Alabama	CHLORSULFURON	2012	kg			37.8						32.1	
+01	Alabama	CHLORSULFURON	2013	kg			68.3						44.4	
+01	Alabama	CHLORSULFURON	2014	kg			121.6						118	
+01	Alabama	CHLORSULFURON	2015	kg			113.6						10.8	
+01	Alabama	CHLORSULFURON	2016	kg			48.7						292.9	
+01	Alabama	CHLORSULFURON	2017	kg			466.3							
+04	Arizona	CHLORSULFURON	1992	kg									2.7	
+04	Arizona	CHLORSULFURON	1993	kg			1.2						19.6	
+04	Arizona	CHLORSULFURON	1994	kg									2.6	
+04	Arizona	CHLORSULFURON	1995	kg			15.6						1.6	13.2
+04	Arizona	CHLORSULFURON	1996	kg			11.7						0.8	
+04	Arizona	CHLORSULFURON	1997	kg			23							
+04	Arizona	CHLORSULFURON	1998	kg			7.1							
+04	Arizona	CHLORSULFURON	2002	kg			7.9							
+04	Arizona	CHLORSULFURON	2003	kg			43.2							
+04	Arizona	CHLORSULFURON	2004	kg			5.4							
+04	Arizona	CHLORSULFURON	2005	kg			12.6							
+04	Arizona	CHLORSULFURON	2006	kg			22.4							
+04	Arizona	CHLORSULFURON	2011	kg										4.2
+04	Arizona	CHLORSULFURON	2012	kg									10.1	
+04	Arizona	CHLORSULFURON	2016	kg			2.6							
+05	Arkansas	CHLORSULFURON	1992	kg			1209.7							
+05	Arkansas	CHLORSULFURON	1993	kg			94.5							
+05	Arkansas	CHLORSULFURON	1994	kg			120.7							
+05	Arkansas	CHLORSULFURON	1995	kg			117.4							
+05	Arkansas	CHLORSULFURON	1996	kg			83.2							
+05	Arkansas	CHLORSULFURON	1997	kg			162.6							
+05	Arkansas	CHLORSULFURON	1998	kg			140.2							
+05	Arkansas	CHLORSULFURON	1999	kg			39.4							
+05	Arkansas	CHLORSULFURON	2000	kg			75.8							
+05	Arkansas	CHLORSULFURON	2001	kg			33							
+05	Arkansas	CHLORSULFURON	2002	kg			147.5							
+05	Arkansas	CHLORSULFURON	2003	kg			57.8							
+05	Arkansas	CHLORSULFURON	2004	kg			172.8							
+05	Arkansas	CHLORSULFURON	2005	kg			25.2							
+05	Arkansas	CHLORSULFURON	2006	kg			334.8							
+05	Arkansas	CHLORSULFURON	2007	kg			2069.6							
+05	Arkansas	CHLORSULFURON	2008	kg			2934.9						215.6	
+05	Arkansas	CHLORSULFURON	2009	kg			193.1						26.8	
+05	Arkansas	CHLORSULFURON	2010	kg			434.3						343.8	
+05	Arkansas	CHLORSULFURON	2011	kg			517						7.1	
+05	Arkansas	CHLORSULFURON	2012	kg			729.6						577.8	
+05	Arkansas	CHLORSULFURON	2013	kg			566.6						69.9	
+05	Arkansas	CHLORSULFURON	2014	kg			420.3						126.3	
+05	Arkansas	CHLORSULFURON	2015	kg			331.9						38.3	
+05	Arkansas	CHLORSULFURON	2016	kg			375.7						74.1	
+05	Arkansas	CHLORSULFURON	2017	kg			365						114.8	
+06	California	CHLORSULFURON	1992	kg			39.6						0.1	172.2
+06	California	CHLORSULFURON	1993	kg			29.7							129.6
+06	California	CHLORSULFURON	1994	kg	9.1		43.6				0.2		0	111.6
+06	California	CHLORSULFURON	1995	kg			65.3				0.5		2.4	2228.4
+06	California	CHLORSULFURON	1996	kg			919.7				0		0.2	136.2
+06	California	CHLORSULFURON	1997	kg	0.5		69.1				0.2		1.7	56.8
+06	California	CHLORSULFURON	1998	kg	0.7		65.5				1.3		3.1	116.9
+06	California	CHLORSULFURON	1999	kg	0.1		26.1				0.2	0.2	8.9	100.2
+06	California	CHLORSULFURON	2000	kg			52.8				0.5		3.3	101.6
+06	California	CHLORSULFURON	2001	kg			39.7				0.5		9.3	85.7
+06	California	CHLORSULFURON	2002	kg			21.5				0.5		16.2	49.2
+06	California	CHLORSULFURON	2003	kg			37				0.8	0.1	28.7	76.2
+06	California	CHLORSULFURON	2004	kg			39.5	1.4			1.7		42.5	55.6
+06	California	CHLORSULFURON	2005	kg	0.1		35.3				1.5		38.1	51.4
+06	California	CHLORSULFURON	2006	kg	6.8		17.8				8.8		41.3	67.5
+06	California	CHLORSULFURON	2007	kg			2				0		35	46.6
+06	California	CHLORSULFURON	2008	kg			45.8				0.1		66.8	61.8
+06	California	CHLORSULFURON	2009	kg			44.5						45.1	97.8
+06	California	CHLORSULFURON	2010	kg			13.6						31.2	121.9
+06	California	CHLORSULFURON	2011	kg			18.2				0.8		20.5	131
+06	California	CHLORSULFURON	2012	kg			6.4				0.8		10.2	77
+06	California	CHLORSULFURON	2013	kg			37.8					0.1	21.3	54.2
+06	California	CHLORSULFURON	2014	kg			2.8				3.1		16.7	25.8
+06	California	CHLORSULFURON	2015	kg			35.3				0.2		27	24.2
+06	California	CHLORSULFURON	2016	kg			13.6						19.8	45.8
+06	California	CHLORSULFURON	2017	kg			17.8						15.4	40.8
+08	Colorado	CHLORSULFURON	1992	kg			1264.5							
+08	Colorado	CHLORSULFURON	1993	kg			263.4							
+08	Colorado	CHLORSULFURON	1994	kg			1147						185.1	
+08	Colorado	CHLORSULFURON	1995	kg			449						424	
+08	Colorado	CHLORSULFURON	1996	kg			570.9						294	
+08	Colorado	CHLORSULFURON	1997	kg			900.4						212.5	
+08	Colorado	CHLORSULFURON	1998	kg			277.6						288.7	
+08	Colorado	CHLORSULFURON	1999	kg			61.7							
+08	Colorado	CHLORSULFURON	2000	kg			435.7						65	
+08	Colorado	CHLORSULFURON	2001	kg			133						425.7	
+08	Colorado	CHLORSULFURON	2002	kg			109.4							
+08	Colorado	CHLORSULFURON	2003	kg			459.4							
+08	Colorado	CHLORSULFURON	2004	kg			152.5						98.8	
+08	Colorado	CHLORSULFURON	2005	kg			73.7						60.2	
+08	Colorado	CHLORSULFURON	2006	kg			1897.1						256.1	
+08	Colorado	CHLORSULFURON	2007	kg			624.5						82	
+08	Colorado	CHLORSULFURON	2008	kg			76.2						4.4	
+08	Colorado	CHLORSULFURON	2009	kg			129.2						67.8	1.9
+08	Colorado	CHLORSULFURON	2010	kg			191.7						558.2	
+08	Colorado	CHLORSULFURON	2011	kg			607						334.8	
+08	Colorado	CHLORSULFURON	2012	kg			90.9						765.7	
+08	Colorado	CHLORSULFURON	2013	kg			964.3						394.8	
+08	Colorado	CHLORSULFURON	2014	kg			701.5						635	
+08	Colorado	CHLORSULFURON	2015	kg			802.3						98.8	
+08	Colorado	CHLORSULFURON	2016	kg			298.5						22.2	
+08	Colorado	CHLORSULFURON	2017	kg			211.5						15	
+10	Delaware	CHLORSULFURON	2010	kg									0.2	
+10	Delaware	CHLORSULFURON	2012	kg									0	
+10	Delaware	CHLORSULFURON	2014	kg									0.4	
+10	Delaware	CHLORSULFURON	2016	kg									0.2	
+12	Florida	CHLORSULFURON	1998	kg			8.4							
+12	Florida	CHLORSULFURON	2011	kg									1951.2	
+12	Florida	CHLORSULFURON	2016	kg									64.3	
+13	Georgia	CHLORSULFURON	1998	kg			245.1							
+13	Georgia	CHLORSULFURON	2001	kg			204.4							
+13	Georgia	CHLORSULFURON	2006	kg			150.3							
+13	Georgia	CHLORSULFURON	2007	kg			156.9							
+13	Georgia	CHLORSULFURON	2009	kg			203.7							
+13	Georgia	CHLORSULFURON	2010	kg			204.2							
+13	Georgia	CHLORSULFURON	2013	kg			64							
+13	Georgia	CHLORSULFURON	2014	kg			7.2							
+13	Georgia	CHLORSULFURON	2015	kg			19.6							
+13	Georgia	CHLORSULFURON	2017	kg			48.6							
+16	Idaho	CHLORSULFURON	1992	kg			941.5						9.3	186.7
+16	Idaho	CHLORSULFURON	1993	kg			716.7						0.5	232.9
+16	Idaho	CHLORSULFURON	1994	kg			411		83.9					205.5
+16	Idaho	CHLORSULFURON	1995	kg			1038.5						321.1	
+16	Idaho	CHLORSULFURON	1996	kg			1703.7						137.9	48.7
+16	Idaho	CHLORSULFURON	1997	kg			937.9						1.3	18.2
+16	Idaho	CHLORSULFURON	1998	kg			842.3						145.9	137
+16	Idaho	CHLORSULFURON	1999	kg			873.7						79.8	32.6
+16	Idaho	CHLORSULFURON	2000	kg			35.7							23.3
+16	Idaho	CHLORSULFURON	2001	kg			303.7							79.8
+16	Idaho	CHLORSULFURON	2002	kg			267.5							218.5
+16	Idaho	CHLORSULFURON	2003	kg			519.7						7.9	
+16	Idaho	CHLORSULFURON	2004	kg			1780							
+16	Idaho	CHLORSULFURON	2005	kg			790.6							68.7
+16	Idaho	CHLORSULFURON	2006	kg			982.2						0.3	841
+16	Idaho	CHLORSULFURON	2007	kg			324.6						18.2	
+16	Idaho	CHLORSULFURON	2008	kg			12.8							207
+16	Idaho	CHLORSULFURON	2009	kg			483.1							
+16	Idaho	CHLORSULFURON	2010	kg			140.1						4.9	
+16	Idaho	CHLORSULFURON	2011	kg			1088.5						181.6	
+16	Idaho	CHLORSULFURON	2012	kg			1764						63.2	
+16	Idaho	CHLORSULFURON	2013	kg			239.9					4.9	7.7	9.2
+16	Idaho	CHLORSULFURON	2014	kg			511.6						4.4	10.5
+16	Idaho	CHLORSULFURON	2015	kg			61.1					26.3	0.5	
+16	Idaho	CHLORSULFURON	2016	kg			591						12.4	20.5
+16	Idaho	CHLORSULFURON	2017	kg			233.4						20.1	56.4
+17	Illinois	CHLORSULFURON	1992	kg			253.8							
+17	Illinois	CHLORSULFURON	1995	kg			154.3							
+17	Illinois	CHLORSULFURON	1996	kg			275.6							
+17	Illinois	CHLORSULFURON	1997	kg			268.4							
+17	Illinois	CHLORSULFURON	1998	kg			133.8							
+17	Illinois	CHLORSULFURON	1999	kg			137.5							
+17	Illinois	CHLORSULFURON	2000	kg			54.9							
+17	Illinois	CHLORSULFURON	2001	kg			182.8							
+17	Illinois	CHLORSULFURON	2002	kg			136							
+17	Illinois	CHLORSULFURON	2003	kg			161.2							
+17	Illinois	CHLORSULFURON	2004	kg		219.3	92.2							
+17	Illinois	CHLORSULFURON	2005	kg			75.6							
+17	Illinois	CHLORSULFURON	2006	kg			189.1							
+17	Illinois	CHLORSULFURON	2007	kg			481.8							
+17	Illinois	CHLORSULFURON	2008	kg			2325							
+17	Illinois	CHLORSULFURON	2009	kg			1318.4							
+17	Illinois	CHLORSULFURON	2010	kg			201.9							
+17	Illinois	CHLORSULFURON	2011	kg			193.3							
+17	Illinois	CHLORSULFURON	2012	kg	29.3	10.2	254.4							
+17	Illinois	CHLORSULFURON	2013	kg			95.3							
+17	Illinois	CHLORSULFURON	2014	kg		41.1	1443.1						9.3	
+17	Illinois	CHLORSULFURON	2015	kg			126						1.4	
+17	Illinois	CHLORSULFURON	2016	kg			164.2							
+17	Illinois	CHLORSULFURON	2017	kg			183.1						3.5	
+18	Indiana	CHLORSULFURON	1992	kg			49							
+18	Indiana	CHLORSULFURON	1995	kg			30.6							
+18	Indiana	CHLORSULFURON	1996	kg			91.8							
+18	Indiana	CHLORSULFURON	1997	kg			77.2							
+18	Indiana	CHLORSULFURON	1998	kg			58.5							
+18	Indiana	CHLORSULFURON	1999	kg			30							
+18	Indiana	CHLORSULFURON	2000	kg			14.2							
+18	Indiana	CHLORSULFURON	2001	kg			52.7							
+18	Indiana	CHLORSULFURON	2002	kg			33.4							
+18	Indiana	CHLORSULFURON	2003	kg			44.9							
+18	Indiana	CHLORSULFURON	2004	kg		206.1	26.3							
+18	Indiana	CHLORSULFURON	2005	kg			22.9							
+18	Indiana	CHLORSULFURON	2006	kg			15.7							
+18	Indiana	CHLORSULFURON	2007	kg			115.4							
+18	Indiana	CHLORSULFURON	2008	kg			1108.5							
+18	Indiana	CHLORSULFURON	2009	kg			682.3							
+18	Indiana	CHLORSULFURON	2010	kg			231							
+18	Indiana	CHLORSULFURON	2011	kg			53.6							
+18	Indiana	CHLORSULFURON	2012	kg	50.1	12.5	371.3							
+18	Indiana	CHLORSULFURON	2013	kg			82.6							
+18	Indiana	CHLORSULFURON	2014	kg		47.8	421.3						3	
+18	Indiana	CHLORSULFURON	2015	kg			137.2						0.5	
+18	Indiana	CHLORSULFURON	2016	kg			193.8							
+18	Indiana	CHLORSULFURON	2017	kg			65.4							
+19	Iowa	CHLORSULFURON	1992	kg			8.1							
+19	Iowa	CHLORSULFURON	1995	kg			8.1							
+19	Iowa	CHLORSULFURON	1996	kg			27.4							
+19	Iowa	CHLORSULFURON	1997	kg			25.1							
+19	Iowa	CHLORSULFURON	1998	kg			27.2							
+19	Iowa	CHLORSULFURON	1999	kg			11							
+19	Iowa	CHLORSULFURON	2000	kg	57.8		4.5							
+19	Iowa	CHLORSULFURON	2001	kg			19.2							
+19	Iowa	CHLORSULFURON	2002	kg			14.2							
+19	Iowa	CHLORSULFURON	2003	kg			14.4							
+19	Iowa	CHLORSULFURON	2004	kg			5.6							
+19	Iowa	CHLORSULFURON	2005	kg			7.4							
+19	Iowa	CHLORSULFURON	2006	kg			20.5							
+19	Iowa	CHLORSULFURON	2007	kg			49.5							
+19	Iowa	CHLORSULFURON	2008	kg	17.5		53.1							
+19	Iowa	CHLORSULFURON	2009	kg			31.7							
+19	Iowa	CHLORSULFURON	2010	kg			15.2							
+19	Iowa	CHLORSULFURON	2011	kg			2.8							
+19	Iowa	CHLORSULFURON	2012	kg			11.8						117.6	
+19	Iowa	CHLORSULFURON	2013	kg			1							
+19	Iowa	CHLORSULFURON	2014	kg			17						48.4	
+19	Iowa	CHLORSULFURON	2015	kg			3.9						10.2	
+19	Iowa	CHLORSULFURON	2016	kg			10							
+19	Iowa	CHLORSULFURON	2017	kg			2.9						4.3	
+20	Kansas	CHLORSULFURON	1992	kg			14895.6					2	132.4	131.9
+20	Kansas	CHLORSULFURON	1993	kg		723.3	17326						334	126.5
+20	Kansas	CHLORSULFURON	1994	kg			25585						275.1	172.4
+20	Kansas	CHLORSULFURON	1995	kg			18300.1						2671.2	177.2
+20	Kansas	CHLORSULFURON	1996	kg			15017.8						198.4	234.1
+20	Kansas	CHLORSULFURON	1997	kg			23577.5						195.7	112.6
+20	Kansas	CHLORSULFURON	1998	kg			16236.7						982.3	163.1
+20	Kansas	CHLORSULFURON	1999	kg			17083.7							54.2
+20	Kansas	CHLORSULFURON	2000	kg			9070.8						100.2	206.9
+20	Kansas	CHLORSULFURON	2001	kg			8678						1116.3	4.5
+20	Kansas	CHLORSULFURON	2002	kg		46.4	7884.9							
+20	Kansas	CHLORSULFURON	2003	kg			12934.3						791.3	
+20	Kansas	CHLORSULFURON	2004	kg			9029.6						145.7	
+20	Kansas	CHLORSULFURON	2005	kg	64.5		13924.1						88.8	
+20	Kansas	CHLORSULFURON	2006	kg		990.8	12577						290.8	261.9
+20	Kansas	CHLORSULFURON	2007	kg			10077.5						26.5	94.1
+20	Kansas	CHLORSULFURON	2008	kg		546.4	12567.4						126.8	
+20	Kansas	CHLORSULFURON	2009	kg			13787.2						103.9	178.8
+20	Kansas	CHLORSULFURON	2010	kg			12479.9					135.3	920.7	
+20	Kansas	CHLORSULFURON	2011	kg			11157.4						672.6	
+20	Kansas	CHLORSULFURON	2012	kg			13362.4						1227.9	
+20	Kansas	CHLORSULFURON	2013	kg			12741.5						1410.9	199.2
+20	Kansas	CHLORSULFURON	2014	kg		1620.6	14867.6						1231.6	
+20	Kansas	CHLORSULFURON	2015	kg			14295.8						171.4	
+20	Kansas	CHLORSULFURON	2016	kg		1189.6	13286.6						11.6	
+20	Kansas	CHLORSULFURON	2017	kg		802.6	12156.6						23.8	
+21	Kentucky	CHLORSULFURON	1992	kg			61.6							
+21	Kentucky	CHLORSULFURON	1995	kg			45.9							
+21	Kentucky	CHLORSULFURON	1996	kg			132							
+21	Kentucky	CHLORSULFURON	1997	kg			127							
+21	Kentucky	CHLORSULFURON	1998	kg			11.2							
+21	Kentucky	CHLORSULFURON	1999	kg			64.7							
+21	Kentucky	CHLORSULFURON	2000	kg			29.6							
+21	Kentucky	CHLORSULFURON	2001	kg			121.6							
+21	Kentucky	CHLORSULFURON	2002	kg			92.7							
+21	Kentucky	CHLORSULFURON	2003	kg			87.2							
+21	Kentucky	CHLORSULFURON	2004	kg			50.6							
+21	Kentucky	CHLORSULFURON	2005	kg			36.8							
+21	Kentucky	CHLORSULFURON	2006	kg			62.3							
+21	Kentucky	CHLORSULFURON	2007	kg			150.9							
+21	Kentucky	CHLORSULFURON	2008	kg			841.5							
+21	Kentucky	CHLORSULFURON	2009	kg			539.9							
+21	Kentucky	CHLORSULFURON	2010	kg			169.5							
+21	Kentucky	CHLORSULFURON	2011	kg			70.3							
+21	Kentucky	CHLORSULFURON	2012	kg	64	18.3	149.5							
+21	Kentucky	CHLORSULFURON	2013	kg			185.8						370.3	
+21	Kentucky	CHLORSULFURON	2014	kg		78.8	1359.5						106.9	
+21	Kentucky	CHLORSULFURON	2015	kg			211.6						22.1	
+21	Kentucky	CHLORSULFURON	2016	kg			293						551.6	
+21	Kentucky	CHLORSULFURON	2017	kg			249.2							
+22	Louisiana	CHLORSULFURON	1998	kg			9.6							
+22	Louisiana	CHLORSULFURON	2004	kg			2.5							
+22	Louisiana	CHLORSULFURON	2007	kg			18.6							
+22	Louisiana	CHLORSULFURON	2008	kg									56.8	
+22	Louisiana	CHLORSULFURON	2009	kg									9.9	
+22	Louisiana	CHLORSULFURON	2010	kg			23.3						0.3	
+22	Louisiana	CHLORSULFURON	2011	kg			180.2						1.1	
+22	Louisiana	CHLORSULFURON	2012	kg			174						4.1	
+22	Louisiana	CHLORSULFURON	2013	kg			233.8							
+22	Louisiana	CHLORSULFURON	2014	kg			80.4						21.7	
+22	Louisiana	CHLORSULFURON	2015	kg			18.8						456.6	
+22	Louisiana	CHLORSULFURON	2016	kg			15.6						18.9	
+22	Louisiana	CHLORSULFURON	2017	kg			29.7							
+24	Maryland	CHLORSULFURON	2009	kg			49.6						5.5	
+24	Maryland	CHLORSULFURON	2010	kg			45.9						10.9	
+24	Maryland	CHLORSULFURON	2011	kg			56						0.9	6.5
+24	Maryland	CHLORSULFURON	2012	kg									1.3	
+24	Maryland	CHLORSULFURON	2013	kg			20.6						18.6	
+24	Maryland	CHLORSULFURON	2014	kg			3.5						5.9	
+24	Maryland	CHLORSULFURON	2015	kg			14.9						3.2	
+24	Maryland	CHLORSULFURON	2016	kg									26.7	0.6
+24	Maryland	CHLORSULFURON	2017	kg			9.5							
+26	Michigan	CHLORSULFURON	2004	kg		24.3								
+26	Michigan	CHLORSULFURON	2005	kg			113.5							
+26	Michigan	CHLORSULFURON	2006	kg			61.9							
+26	Michigan	CHLORSULFURON	2011	kg			6.6							
+26	Michigan	CHLORSULFURON	2016	kg			244.1							
+26	Michigan	CHLORSULFURON	2017	kg			63.3							
+27	Minnesota	CHLORSULFURON	1992	kg			25.5							
+27	Minnesota	CHLORSULFURON	1993	kg			179							
+27	Minnesota	CHLORSULFURON	1995	kg			326.4							
+27	Minnesota	CHLORSULFURON	1996	kg			277.6							
+27	Minnesota	CHLORSULFURON	1997	kg			472.9							
+27	Minnesota	CHLORSULFURON	1998	kg			211.6							
+27	Minnesota	CHLORSULFURON	1999	kg			37.6							
+27	Minnesota	CHLORSULFURON	2000	kg	177.9		893.4							
+27	Minnesota	CHLORSULFURON	2001	kg			69.8							
+27	Minnesota	CHLORSULFURON	2002	kg			174.5							
+27	Minnesota	CHLORSULFURON	2003	kg			175.7							
+27	Minnesota	CHLORSULFURON	2004	kg			281.1							
+27	Minnesota	CHLORSULFURON	2005	kg			225							
+27	Minnesota	CHLORSULFURON	2006	kg			4.3							
+27	Minnesota	CHLORSULFURON	2007	kg			32.8							
+27	Minnesota	CHLORSULFURON	2008	kg	6.2		33.2							
+27	Minnesota	CHLORSULFURON	2009	kg			8.7							
+27	Minnesota	CHLORSULFURON	2010	kg			166.6							
+27	Minnesota	CHLORSULFURON	2011	kg			74							
+27	Minnesota	CHLORSULFURON	2012	kg			6.3						30.5	
+27	Minnesota	CHLORSULFURON	2013	kg			0.4							
+27	Minnesota	CHLORSULFURON	2014	kg			123.2						15.1	
+27	Minnesota	CHLORSULFURON	2015	kg			1356.5						2.9	
+27	Minnesota	CHLORSULFURON	2016	kg			138.4							
+27	Minnesota	CHLORSULFURON	2017	kg			1.3						3.8	
+28	Mississippi	CHLORSULFURON	1998	kg			1.9							
+28	Mississippi	CHLORSULFURON	2002	kg			12.9							
+28	Mississippi	CHLORSULFURON	2004	kg			9.9							
+28	Mississippi	CHLORSULFURON	2006	kg			48							
+28	Mississippi	CHLORSULFURON	2007	kg			40.9							
+28	Mississippi	CHLORSULFURON	2008	kg			774.7							
+28	Mississippi	CHLORSULFURON	2009	kg			38							
+28	Mississippi	CHLORSULFURON	2010	kg			159.5							
+28	Mississippi	CHLORSULFURON	2011	kg			328.5							
+28	Mississippi	CHLORSULFURON	2012	kg			395.3						31.2	
+28	Mississippi	CHLORSULFURON	2013	kg			408.5							
+28	Mississippi	CHLORSULFURON	2014	kg			116.7						45.9	
+28	Mississippi	CHLORSULFURON	2015	kg			112.4						130.1	
+28	Mississippi	CHLORSULFURON	2016	kg			41.8						55.7	
+28	Mississippi	CHLORSULFURON	2017	kg			113.1							
+29	Missouri	CHLORSULFURON	1992	kg			703.5							
+29	Missouri	CHLORSULFURON	1993	kg			493.8						14.4	
+29	Missouri	CHLORSULFURON	1994	kg			703.9							5.2
+29	Missouri	CHLORSULFURON	1995	kg			609.3							
+29	Missouri	CHLORSULFURON	1996	kg			1194.1							
+29	Missouri	CHLORSULFURON	1997	kg			1433.7							
+29	Missouri	CHLORSULFURON	1998	kg			1056.8							
+29	Missouri	CHLORSULFURON	1999	kg			601							
+29	Missouri	CHLORSULFURON	2000	kg			233.5							
+29	Missouri	CHLORSULFURON	2001	kg			790.9							
+29	Missouri	CHLORSULFURON	2002	kg		11.5	469.7							
+29	Missouri	CHLORSULFURON	2003	kg			746.4							
+29	Missouri	CHLORSULFURON	2004	kg			452.7							
+29	Missouri	CHLORSULFURON	2005	kg	62.2		482.3							
+29	Missouri	CHLORSULFURON	2006	kg			404.3							4.5
+29	Missouri	CHLORSULFURON	2007	kg			1753.5							
+29	Missouri	CHLORSULFURON	2008	kg		97	2191.5						155.2	
+29	Missouri	CHLORSULFURON	2009	kg			1308.8						26.7	
+29	Missouri	CHLORSULFURON	2010	kg			388.7						402.7	
+29	Missouri	CHLORSULFURON	2011	kg			409.1							
+29	Missouri	CHLORSULFURON	2012	kg			717.4						876.3	
+29	Missouri	CHLORSULFURON	2013	kg			956.8						58.8	
+29	Missouri	CHLORSULFURON	2014	kg		519.9	1562.3						159.1	
+29	Missouri	CHLORSULFURON	2015	kg			466.3						31	
+29	Missouri	CHLORSULFURON	2016	kg		360.4	697.1						42.8	
+29	Missouri	CHLORSULFURON	2017	kg		211.8	277.4						8.5	
+30	Montana	CHLORSULFURON	1992	kg			399.2							282.9
+30	Montana	CHLORSULFURON	1993	kg			636.2							
+30	Montana	CHLORSULFURON	1994	kg			305.9							
+30	Montana	CHLORSULFURON	1995	kg			754.5						20.5	
+30	Montana	CHLORSULFURON	1996	kg			2307.9						108.9	42.3
+30	Montana	CHLORSULFURON	1997	kg			2446.2							0.2
+30	Montana	CHLORSULFURON	1998	kg			2260.7						556.3	55
+30	Montana	CHLORSULFURON	1999	kg			1652.7						4516.8	45.9
+30	Montana	CHLORSULFURON	2000	kg			869.7							53.1
+30	Montana	CHLORSULFURON	2001	kg			1274.7							17.4
+30	Montana	CHLORSULFURON	2002	kg			1641.1						1856.1	68.2
+30	Montana	CHLORSULFURON	2003	kg			933.7							13.5
+30	Montana	CHLORSULFURON	2004	kg			514.8							1181.3
+30	Montana	CHLORSULFURON	2005	kg			2425.6						98.9	
+30	Montana	CHLORSULFURON	2006	kg			2527.6						321.9	136.2
+30	Montana	CHLORSULFURON	2007	kg			1459.3						568.3	
+30	Montana	CHLORSULFURON	2008	kg			104.6						408.5	119.9
+30	Montana	CHLORSULFURON	2009	kg			5887						67.8	
+30	Montana	CHLORSULFURON	2010	kg			2066.1						46.1	
+30	Montana	CHLORSULFURON	2011	kg			640.3						641.5	
+30	Montana	CHLORSULFURON	2012	kg			163.5						869.7	
+30	Montana	CHLORSULFURON	2013	kg			1370.2						44.2	
+30	Montana	CHLORSULFURON	2014	kg			898.2						31.4	28.9
+30	Montana	CHLORSULFURON	2015	kg			5966.6					1.2	33.6	
+30	Montana	CHLORSULFURON	2016	kg			868.5						9.5	22.2
+30	Montana	CHLORSULFURON	2017	kg			2.7						0.3	
+31	Nebraska	CHLORSULFURON	1992	kg			2250.1							4.1
+31	Nebraska	CHLORSULFURON	1993	kg			1335.1						37	0.6
+31	Nebraska	CHLORSULFURON	1994	kg			2054.6						93.2	27.4
+31	Nebraska	CHLORSULFURON	1995	kg			297.5						167	
+31	Nebraska	CHLORSULFURON	1996	kg			1062.8						158.4	56.3
+31	Nebraska	CHLORSULFURON	1997	kg			1381.4						72.9	
+31	Nebraska	CHLORSULFURON	1998	kg			464.7						161.8	
+31	Nebraska	CHLORSULFURON	1999	kg			60.7							
+31	Nebraska	CHLORSULFURON	2000	kg			1311.2						24.9	
+31	Nebraska	CHLORSULFURON	2001	kg			317.4						42.7	
+31	Nebraska	CHLORSULFURON	2002	kg			499.2							
+31	Nebraska	CHLORSULFURON	2003	kg			687						121.2	
+31	Nebraska	CHLORSULFURON	2004	kg			176.1						60	
+31	Nebraska	CHLORSULFURON	2005	kg	75		430.2						36	
+31	Nebraska	CHLORSULFURON	2006	kg		788.6	1892.3						125.7	
+31	Nebraska	CHLORSULFURON	2007	kg			1102.3						99.2	9
+31	Nebraska	CHLORSULFURON	2008	kg		232.3	766.9						2.7	
+31	Nebraska	CHLORSULFURON	2009	kg			1029.7						38.5	4.3
+31	Nebraska	CHLORSULFURON	2010	kg			430.2						147.4	
+31	Nebraska	CHLORSULFURON	2011	kg			387.1						175.5	
+31	Nebraska	CHLORSULFURON	2012	kg			345.5						288.9	
+31	Nebraska	CHLORSULFURON	2013	kg			340.5						78.7	
+31	Nebraska	CHLORSULFURON	2014	kg			248.6						235.8	
+31	Nebraska	CHLORSULFURON	2015	kg			508.5						57.2	
+31	Nebraska	CHLORSULFURON	2016	kg		395.5	415.1						4.4	
+31	Nebraska	CHLORSULFURON	2017	kg			312.2						7.9	
+32	Nevada	CHLORSULFURON	1992	kg			2.1						0.1	1.8
+32	Nevada	CHLORSULFURON	1993	kg			4.4						0.8	
+32	Nevada	CHLORSULFURON	1994	kg			3.7						0.1	
+32	Nevada	CHLORSULFURON	1995	kg			3						0.1	0.1
+32	Nevada	CHLORSULFURON	1996	kg			3.9						0	0
+32	Nevada	CHLORSULFURON	1997	kg			10.3							
+32	Nevada	CHLORSULFURON	1998	kg			6.2							1.1
+32	Nevada	CHLORSULFURON	1999	kg			8.1							0
+32	Nevada	CHLORSULFURON	2000	kg			4.5							
+32	Nevada	CHLORSULFURON	2001	kg			1.2							0.5
+32	Nevada	CHLORSULFURON	2002	kg			0.8							0.4
+32	Nevada	CHLORSULFURON	2003	kg			2.5							
+32	Nevada	CHLORSULFURON	2004	kg			2.6							
+32	Nevada	CHLORSULFURON	2005	kg			1.5							
+32	Nevada	CHLORSULFURON	2006	kg			4.3						0.3	2.5
+32	Nevada	CHLORSULFURON	2007	kg			1.2						20.6	
+32	Nevada	CHLORSULFURON	2008	kg			0.9						149.2	0.2
+32	Nevada	CHLORSULFURON	2009	kg			9.5							
+32	Nevada	CHLORSULFURON	2010	kg									3.3	
+32	Nevada	CHLORSULFURON	2011	kg			6.4						5.4	0
+32	Nevada	CHLORSULFURON	2012	kg			2						21	
+32	Nevada	CHLORSULFURON	2013	kg			10.8						6.2	0
+32	Nevada	CHLORSULFURON	2014	kg			9.4						6.8	0
+32	Nevada	CHLORSULFURON	2015	kg			3.2						3.1	
+32	Nevada	CHLORSULFURON	2016	kg			1.6						20	0.1
+32	Nevada	CHLORSULFURON	2017	kg									0.2	
+34	New Jersey	CHLORSULFURON	2010	kg									7.2	
+34	New Jersey	CHLORSULFURON	2013	kg									9.2	
+35	New Mexico	CHLORSULFURON	1992	kg			32.7						32.1	
+35	New Mexico	CHLORSULFURON	1993	kg			101.1						10.3	10
+35	New Mexico	CHLORSULFURON	1994	kg			31.7						256.6	
+35	New Mexico	CHLORSULFURON	1995	kg			5						12.8	
+35	New Mexico	CHLORSULFURON	1996	kg			39.9						7.4	
+35	New Mexico	CHLORSULFURON	1997	kg			37.8						80.3	
+35	New Mexico	CHLORSULFURON	1998	kg			270.3						288.2	
+35	New Mexico	CHLORSULFURON	1999	kg			20							16.6
+35	New Mexico	CHLORSULFURON	2000	kg			30.2							
+35	New Mexico	CHLORSULFURON	2001	kg			54.8						21.3	
+35	New Mexico	CHLORSULFURON	2002	kg			33.1						4	
+35	New Mexico	CHLORSULFURON	2003	kg			29.2							
+35	New Mexico	CHLORSULFURON	2004	kg			28.7						134.9	
+35	New Mexico	CHLORSULFURON	2005	kg			66.7						45.1	
+35	New Mexico	CHLORSULFURON	2006	kg			52.1						199.2	
+35	New Mexico	CHLORSULFURON	2007	kg			7.7						0.9	
+35	New Mexico	CHLORSULFURON	2008	kg			41						19.2	
+35	New Mexico	CHLORSULFURON	2009	kg			26.9						50.3	3.8
+35	New Mexico	CHLORSULFURON	2010	kg			27.3						121.6	
+35	New Mexico	CHLORSULFURON	2011	kg			68.1						71	
+35	New Mexico	CHLORSULFURON	2012	kg			16.5						214.8	
+35	New Mexico	CHLORSULFURON	2013	kg			33.9						326.5	
+35	New Mexico	CHLORSULFURON	2014	kg			1249.4						672.9	
+35	New Mexico	CHLORSULFURON	2015	kg			285.7						61.7	
+35	New Mexico	CHLORSULFURON	2016	kg			44.3						43.4	
+35	New Mexico	CHLORSULFURON	2017	kg			44.6						28.9	
+37	North Carolina	CHLORSULFURON	2001	kg			1238.3							
+37	North Carolina	CHLORSULFURON	2002	kg			1014.4							
+37	North Carolina	CHLORSULFURON	2003	kg			689.2							17.2
+37	North Carolina	CHLORSULFURON	2004	kg			3491.1							
+37	North Carolina	CHLORSULFURON	2005	kg			43.3							
+37	North Carolina	CHLORSULFURON	2006	kg			654.2							
+37	North Carolina	CHLORSULFURON	2007	kg			882.8							
+37	North Carolina	CHLORSULFURON	2008	kg			56.9						431.9	
+37	North Carolina	CHLORSULFURON	2009	kg			927.9							
+37	North Carolina	CHLORSULFURON	2010	kg		1225.2	929.3						61.3	
+37	North Carolina	CHLORSULFURON	2011	kg			1833.2							
+37	North Carolina	CHLORSULFURON	2012	kg			2801						314.1	
+37	North Carolina	CHLORSULFURON	2013	kg			212.4						54.8	
+37	North Carolina	CHLORSULFURON	2014	kg			48.9						245.5	
+37	North Carolina	CHLORSULFURON	2015	kg			108						519.5	
+37	North Carolina	CHLORSULFURON	2016	kg			129.4						196.8	
+37	North Carolina	CHLORSULFURON	2017	kg			518.6						88.8	
+38	North Dakota	CHLORSULFURON	1992	kg			1414.2							
+38	North Dakota	CHLORSULFURON	1993	kg			682.8							
+38	North Dakota	CHLORSULFURON	1994	kg			20.7							
+38	North Dakota	CHLORSULFURON	1995	kg			854.5							
+38	North Dakota	CHLORSULFURON	1996	kg			2540.5							354.3
+38	North Dakota	CHLORSULFURON	1997	kg			3177.9							
+38	North Dakota	CHLORSULFURON	1998	kg			469.9							68.8
+38	North Dakota	CHLORSULFURON	1999	kg			235.3							115.4
+38	North Dakota	CHLORSULFURON	2000	kg			905.3							289.6
+38	North Dakota	CHLORSULFURON	2001	kg			468.1							32.6
+38	North Dakota	CHLORSULFURON	2002	kg			1349.4							114.9
+38	North Dakota	CHLORSULFURON	2003	kg			448.1							
+38	North Dakota	CHLORSULFURON	2004	kg			1355.8							717.8
+38	North Dakota	CHLORSULFURON	2005	kg			993.5							
+38	North Dakota	CHLORSULFURON	2006	kg			251.6							
+38	North Dakota	CHLORSULFURON	2007	kg			1582.8							
+38	North Dakota	CHLORSULFURON	2008	kg			112.8							
+38	North Dakota	CHLORSULFURON	2009	kg			219.2							
+38	North Dakota	CHLORSULFURON	2010	kg			853.9						3.1	
+38	North Dakota	CHLORSULFURON	2011	kg			622.9						4.6	
+38	North Dakota	CHLORSULFURON	2013	kg			295.4						1.7	
+38	North Dakota	CHLORSULFURON	2014	kg			157.5							
+38	North Dakota	CHLORSULFURON	2015	kg			8965.5						4.7	
+38	North Dakota	CHLORSULFURON	2016	kg			1041.5							128.7
+39	Ohio	CHLORSULFURON	1992	kg			1180.9							
+39	Ohio	CHLORSULFURON	1993	kg					2.6					
+39	Ohio	CHLORSULFURON	1995	kg			77.7							
+39	Ohio	CHLORSULFURON	1996	kg			218.5							
+39	Ohio	CHLORSULFURON	1997	kg			193.4							
+39	Ohio	CHLORSULFURON	1998	kg			156.9							
+39	Ohio	CHLORSULFURON	1999	kg			96.3							
+39	Ohio	CHLORSULFURON	2000	kg			49.1							
+39	Ohio	CHLORSULFURON	2001	kg			175.8							
+39	Ohio	CHLORSULFURON	2002	kg			152.1							
+39	Ohio	CHLORSULFURON	2003	kg			138.6							
+39	Ohio	CHLORSULFURON	2004	kg			66.8							
+39	Ohio	CHLORSULFURON	2005	kg			64.2							
+39	Ohio	CHLORSULFURON	2006	kg			131.3							
+39	Ohio	CHLORSULFURON	2007	kg			243.4							
+39	Ohio	CHLORSULFURON	2008	kg			1279.2							0.2
+39	Ohio	CHLORSULFURON	2009	kg			865.5							
+39	Ohio	CHLORSULFURON	2010	kg			417.6							
+39	Ohio	CHLORSULFURON	2011	kg			43.9							
+39	Ohio	CHLORSULFURON	2012	kg			343							
+39	Ohio	CHLORSULFURON	2013	kg			108.1						49.8	
+39	Ohio	CHLORSULFURON	2014	kg			694.3						13.9	
+39	Ohio	CHLORSULFURON	2015	kg			397.6						13.4	
+39	Ohio	CHLORSULFURON	2016	kg			454.6						36.6	
+39	Ohio	CHLORSULFURON	2017	kg			101.4							
+40	Oklahoma	CHLORSULFURON	1992	kg			14618.6					0.2	178.8	133.3
+40	Oklahoma	CHLORSULFURON	1993	kg		11.3	11007.5					69.1	498.3	103.9
+40	Oklahoma	CHLORSULFURON	1994	kg			9581.8						307.8	101
+40	Oklahoma	CHLORSULFURON	1995	kg			8919.6					23.4	4613.4	94.5
+40	Oklahoma	CHLORSULFURON	1996	kg			7643.2	7.9					9.3	
+40	Oklahoma	CHLORSULFURON	1997	kg			7252.1						115.7	87.3
+40	Oklahoma	CHLORSULFURON	1998	kg			9554.3						439.2	27.6
+40	Oklahoma	CHLORSULFURON	1999	kg			6563.1							30.7
+40	Oklahoma	CHLORSULFURON	2000	kg			3979.6							32.4
+40	Oklahoma	CHLORSULFURON	2001	kg			2440.4						40.6	0.6
+40	Oklahoma	CHLORSULFURON	2002	kg			5565.3						1994.9	
+40	Oklahoma	CHLORSULFURON	2003	kg			7929.3							
+40	Oklahoma	CHLORSULFURON	2004	kg			12265.6						115.1	
+40	Oklahoma	CHLORSULFURON	2005	kg			9437.9						106.2	
+40	Oklahoma	CHLORSULFURON	2006	kg			7111.9						238.8	14.5
+40	Oklahoma	CHLORSULFURON	2007	kg	3.7		10074.2						1.3	
+40	Oklahoma	CHLORSULFURON	2008	kg		18.1	7268.6						463.6	
+40	Oklahoma	CHLORSULFURON	2009	kg			5733.8						186.9	17.2
+40	Oklahoma	CHLORSULFURON	2010	kg			8878.4					190.2	322.7	
+40	Oklahoma	CHLORSULFURON	2011	kg			6942.5						133.8	
+40	Oklahoma	CHLORSULFURON	2012	kg			8091.3						250.6	
+40	Oklahoma	CHLORSULFURON	2013	kg			6256.7						764.8	20.2
+40	Oklahoma	CHLORSULFURON	2014	kg		165.9	6255.9						1220.7	
+40	Oklahoma	CHLORSULFURON	2015	kg			10303.2						131.4	
+40	Oklahoma	CHLORSULFURON	2016	kg		110.5	6157						26	
+40	Oklahoma	CHLORSULFURON	2017	kg		117.7	3620.5						1238.2	
+41	Oregon	CHLORSULFURON	1992	kg			1715.3							102.9
+41	Oregon	CHLORSULFURON	1993	kg			1080.2						1.3	62.9
+41	Oregon	CHLORSULFURON	1994	kg			1070.1		4.8				11.8	67.2
+41	Oregon	CHLORSULFURON	1995	kg			941						434.8	1.1
+41	Oregon	CHLORSULFURON	1996	kg			152.1						58.8	
+41	Oregon	CHLORSULFURON	1997	kg			1051.9						5.1	0.4
+41	Oregon	CHLORSULFURON	1998	kg			1007.9							121.7
+41	Oregon	CHLORSULFURON	1999	kg			768.8						64.2	4.6
+41	Oregon	CHLORSULFURON	2000	kg			525.1							28.1
+41	Oregon	CHLORSULFURON	2001	kg			416.8							51.9
+41	Oregon	CHLORSULFURON	2002	kg			848.9							16.5
+41	Oregon	CHLORSULFURON	2003	kg			1208.9							
+41	Oregon	CHLORSULFURON	2004	kg			523.6							
+41	Oregon	CHLORSULFURON	2005	kg			507.5							
+41	Oregon	CHLORSULFURON	2006	kg			240						2.7	71.9
+41	Oregon	CHLORSULFURON	2007	kg			195.5						61.3	
+41	Oregon	CHLORSULFURON	2008	kg			43.4							7.6
+41	Oregon	CHLORSULFURON	2009	kg			493.2							
+41	Oregon	CHLORSULFURON	2010	kg			18.6						8	
+41	Oregon	CHLORSULFURON	2011	kg			690.6						236.7	
+41	Oregon	CHLORSULFURON	2012	kg			425.8						35.8	
+41	Oregon	CHLORSULFURON	2013	kg			325.9					7.4	11.2	
+41	Oregon	CHLORSULFURON	2014	kg			572.8						54.4	
+41	Oregon	CHLORSULFURON	2015	kg			170.1					33.6	5	43.1
+41	Oregon	CHLORSULFURON	2016	kg			135.8						339.8	4.7
+41	Oregon	CHLORSULFURON	2017	kg			153.7						6.9	64.2
+42	Pennsylvania	CHLORSULFURON	2008	kg									30.2	7.8
+42	Pennsylvania	CHLORSULFURON	2010	kg									21.4	
+42	Pennsylvania	CHLORSULFURON	2011	kg									3.6	
+42	Pennsylvania	CHLORSULFURON	2012	kg									26.4	
+42	Pennsylvania	CHLORSULFURON	2013	kg									100.7	
+42	Pennsylvania	CHLORSULFURON	2014	kg									9.3	
+42	Pennsylvania	CHLORSULFURON	2015	kg									63.3	
+42	Pennsylvania	CHLORSULFURON	2016	kg									70.8	
+45	South Carolina	CHLORSULFURON	2001	kg			151.8							
+45	South Carolina	CHLORSULFURON	2005	kg			9.4							
+45	South Carolina	CHLORSULFURON	2006	kg			233							
+45	South Carolina	CHLORSULFURON	2007	kg			33.8							
+45	South Carolina	CHLORSULFURON	2008	kg			14.6						68	
+45	South Carolina	CHLORSULFURON	2009	kg			106.2							
+45	South Carolina	CHLORSULFURON	2010	kg		552.2	118.8						9.2	
+45	South Carolina	CHLORSULFURON	2011	kg			551.5							
+45	South Carolina	CHLORSULFURON	2012	kg			834.2						361.4	
+45	South Carolina	CHLORSULFURON	2013	kg			65.3							
+45	South Carolina	CHLORSULFURON	2014	kg			7.1						39.3	
+45	South Carolina	CHLORSULFURON	2015	kg			10.6							
+45	South Carolina	CHLORSULFURON	2016	kg			34						24.4	
+45	South Carolina	CHLORSULFURON	2017	kg			38.3							
+46	South Dakota	CHLORSULFURON	1992	kg			1695.2							
+46	South Dakota	CHLORSULFURON	1994	kg			1119.9							
+46	South Dakota	CHLORSULFURON	1995	kg			430.6							
+46	South Dakota	CHLORSULFURON	1996	kg			6325.3							29
+46	South Dakota	CHLORSULFURON	1997	kg			4161.1							
+46	South Dakota	CHLORSULFURON	1998	kg			578.7							4.3
+46	South Dakota	CHLORSULFURON	1999	kg			229.3							7.7
+46	South Dakota	CHLORSULFURON	2000	kg	50.9		1036							34.9
+46	South Dakota	CHLORSULFURON	2001	kg			89.5							451.5
+46	South Dakota	CHLORSULFURON	2002	kg			180.7							4.4
+46	South Dakota	CHLORSULFURON	2003	kg			477.8							
+46	South Dakota	CHLORSULFURON	2004	kg			522.7							32.2
+46	South Dakota	CHLORSULFURON	2005	kg			409							
+46	South Dakota	CHLORSULFURON	2006	kg			69.9							
+46	South Dakota	CHLORSULFURON	2007	kg			902.1							
+46	South Dakota	CHLORSULFURON	2008	kg			439.5							
+46	South Dakota	CHLORSULFURON	2009	kg			1160							
+46	South Dakota	CHLORSULFURON	2010	kg			539.7						14.3	
+46	South Dakota	CHLORSULFURON	2011	kg			531.4						20.1	
+46	South Dakota	CHLORSULFURON	2012	kg			110.1						178	
+46	South Dakota	CHLORSULFURON	2013	kg			604.8						8.3	
+46	South Dakota	CHLORSULFURON	2014	kg			124.4						28.7	
+46	South Dakota	CHLORSULFURON	2015	kg			1398.2						42.9	
+46	South Dakota	CHLORSULFURON	2016	kg			304.9							5.1
+46	South Dakota	CHLORSULFURON	2017	kg			26.8							
+47	Tennessee	CHLORSULFURON	1998	kg			27.8							
+47	Tennessee	CHLORSULFURON	2000	kg			6.7							
+47	Tennessee	CHLORSULFURON	2002	kg			17.3							
+47	Tennessee	CHLORSULFURON	2004	kg			63.3							
+47	Tennessee	CHLORSULFURON	2006	kg			49.1							
+47	Tennessee	CHLORSULFURON	2007	kg			332.1							
+47	Tennessee	CHLORSULFURON	2008	kg			333.2							
+47	Tennessee	CHLORSULFURON	2009	kg			43.9							
+47	Tennessee	CHLORSULFURON	2010	kg			59.2						21.7	
+47	Tennessee	CHLORSULFURON	2011	kg			91.5							
+47	Tennessee	CHLORSULFURON	2012	kg	9.6	2.7	202.8						36	
+47	Tennessee	CHLORSULFURON	2013	kg			233.8						295.4	
+47	Tennessee	CHLORSULFURON	2014	kg		14.9	480.8						225	
+47	Tennessee	CHLORSULFURON	2015	kg			236.1						41.4	
+47	Tennessee	CHLORSULFURON	2016	kg			207.4						1042.7	
+47	Tennessee	CHLORSULFURON	2017	kg			1592.9							
+48	Texas	CHLORSULFURON	1992	kg			1302.7	130.2			38.6		219.4	85
+48	Texas	CHLORSULFURON	1993	kg			1832.6						745.6	229
+48	Texas	CHLORSULFURON	1994	kg			1131.9						1435.7	270.5
+48	Texas	CHLORSULFURON	1995	kg			760.9					2.3	4022.3	11
+48	Texas	CHLORSULFURON	1996	kg			6962.3	11.9					52.6	
+48	Texas	CHLORSULFURON	1997	kg			2772.3						1368.3	12.9
+48	Texas	CHLORSULFURON	1998	kg			2535.3						992.7	0.8
+48	Texas	CHLORSULFURON	1999	kg			1423							144.7
+48	Texas	CHLORSULFURON	2000	kg			1750.1							
+48	Texas	CHLORSULFURON	2001	kg			434.1						212.3	
+48	Texas	CHLORSULFURON	2002	kg			1034.4						2548.8	
+48	Texas	CHLORSULFURON	2003	kg			1270.7							
+48	Texas	CHLORSULFURON	2004	kg			2377.2						486.2	
+48	Texas	CHLORSULFURON	2005	kg			4718.8						402.5	
+48	Texas	CHLORSULFURON	2006	kg			1399.3						860.4	
+48	Texas	CHLORSULFURON	2007	kg	111.6		13807.2						23.5	99.9
+48	Texas	CHLORSULFURON	2008	kg			3226.4						890.5	
+48	Texas	CHLORSULFURON	2009	kg			3162						494.8	66.7
+48	Texas	CHLORSULFURON	2010	kg			2278.2						564	
+48	Texas	CHLORSULFURON	2011	kg			435.3						349	
+48	Texas	CHLORSULFURON	2012	kg			1754.5						798.7	
+48	Texas	CHLORSULFURON	2013	kg			955.3						748.3	
+48	Texas	CHLORSULFURON	2014	kg			2169.4						1136.6	
+48	Texas	CHLORSULFURON	2015	kg			2815.8						372.1	
+48	Texas	CHLORSULFURON	2016	kg			1399.2						52.6	
+48	Texas	CHLORSULFURON	2017	kg			732.1						1148.8	
+49	Utah	CHLORSULFURON	1992	kg			78.6							34.7
+49	Utah	CHLORSULFURON	1993	kg			124.2							
+49	Utah	CHLORSULFURON	1994	kg			113.3							
+49	Utah	CHLORSULFURON	1995	kg			122.6							
+49	Utah	CHLORSULFURON	1996	kg			74.1							12.1
+49	Utah	CHLORSULFURON	1997	kg			162.3							
+49	Utah	CHLORSULFURON	1998	kg			29.5							41.6
+49	Utah	CHLORSULFURON	1999	kg			12.6							2.9
+49	Utah	CHLORSULFURON	2000	kg			7.7							
+49	Utah	CHLORSULFURON	2001	kg			56.1							4.8
+49	Utah	CHLORSULFURON	2002	kg			51.8							6.8
+49	Utah	CHLORSULFURON	2003	kg			87.6							
+49	Utah	CHLORSULFURON	2004	kg			19.5							
+49	Utah	CHLORSULFURON	2005	kg			35.7							
+49	Utah	CHLORSULFURON	2006	kg			99.1							44.7
+49	Utah	CHLORSULFURON	2007	kg			17.2						15	
+49	Utah	CHLORSULFURON	2008	kg			10.8						396.7	6.1
+49	Utah	CHLORSULFURON	2009	kg			103.7							
+49	Utah	CHLORSULFURON	2010	kg			2.1						6.1	
+49	Utah	CHLORSULFURON	2011	kg			54.4						7.6	
+49	Utah	CHLORSULFURON	2012	kg			15.6						36.4	
+49	Utah	CHLORSULFURON	2013	kg			95.8						9.6	0.3
+49	Utah	CHLORSULFURON	2014	kg			103.7						9.9	0.2
+49	Utah	CHLORSULFURON	2015	kg			44.1					2.2	3.2	
+49	Utah	CHLORSULFURON	2016	kg			33.3						18.2	0.6
+49	Utah	CHLORSULFURON	2017	kg									0.4	
+51	Virginia	CHLORSULFURON	2001	kg			116.4							
+51	Virginia	CHLORSULFURON	2006	kg			181.9							
+51	Virginia	CHLORSULFURON	2007	kg			107.4							
+51	Virginia	CHLORSULFURON	2008	kg									31.4	
+51	Virginia	CHLORSULFURON	2009	kg			203.1						53.3	
+51	Virginia	CHLORSULFURON	2010	kg			347.3							
+51	Virginia	CHLORSULFURON	2011	kg			232.9							81.4
+51	Virginia	CHLORSULFURON	2012	kg									38.3	
+51	Virginia	CHLORSULFURON	2013	kg			70.9						146.6	
+51	Virginia	CHLORSULFURON	2014	kg			20.5						196.3	
+51	Virginia	CHLORSULFURON	2015	kg			63.7						32.2	
+51	Virginia	CHLORSULFURON	2016	kg									57.8	1.4
+51	Virginia	CHLORSULFURON	2017	kg			106.7							
+53	Washington	CHLORSULFURON	1992	kg			1635.2						87.2	138.8
+53	Washington	CHLORSULFURON	1993	kg			2127						0.5	805.7
+53	Washington	CHLORSULFURON	1994	kg			2563.3						1.7	207.6
+53	Washington	CHLORSULFURON	1995	kg			6633.4						1353.2	0
+53	Washington	CHLORSULFURON	1996	kg			2571.3						165.4	680.7
+53	Washington	CHLORSULFURON	1997	kg			1591.9						13.4	47
+53	Washington	CHLORSULFURON	1998	kg			2730.8							44.4
+53	Washington	CHLORSULFURON	1999	kg			693.9						150.1	43.5
+53	Washington	CHLORSULFURON	2000	kg			452.3							55.5
+53	Washington	CHLORSULFURON	2001	kg			831							26.8
+53	Washington	CHLORSULFURON	2002	kg			1159.1							90.1
+53	Washington	CHLORSULFURON	2003	kg			560.3						81.5	
+53	Washington	CHLORSULFURON	2004	kg			2399.1							
+53	Washington	CHLORSULFURON	2005	kg			1872.9							297.6
+53	Washington	CHLORSULFURON	2006	kg			1143.4							333.5
+53	Washington	CHLORSULFURON	2007	kg			305							
+53	Washington	CHLORSULFURON	2008	kg			51.7							
+53	Washington	CHLORSULFURON	2009	kg			554.9							
+53	Washington	CHLORSULFURON	2010	kg									1.8	
+53	Washington	CHLORSULFURON	2011	kg			945.2						258.2	
+53	Washington	CHLORSULFURON	2012	kg			874.1							
+53	Washington	CHLORSULFURON	2013	kg								2.6	6	
+53	Washington	CHLORSULFURON	2014	kg			558.5						1.8	
+53	Washington	CHLORSULFURON	2015	kg			79.6					12.2		7.3
+53	Washington	CHLORSULFURON	2016	kg			617.7						167.8	18.8
+53	Washington	CHLORSULFURON	2017	kg			556.5						23.7	88.7
+54	West Virginia	CHLORSULFURON	1992	kg			9							
+54	West Virginia	CHLORSULFURON	2008	kg										0
+54	West Virginia	CHLORSULFURON	2009	kg									56.7	
+54	West Virginia	CHLORSULFURON	2012	kg									1.1	
+54	West Virginia	CHLORSULFURON	2013	kg			0.1						145.2	
+54	West Virginia	CHLORSULFURON	2014	kg			0.7						6.4	
+54	West Virginia	CHLORSULFURON	2015	kg			0.4						58.1	
+54	West Virginia	CHLORSULFURON	2016	kg			0.2						181	0
+55	Wisconsin	CHLORSULFURON	2014	kg									25.3	
+55	Wisconsin	CHLORSULFURON	2017	kg									17.9	
+56	Wyoming	CHLORSULFURON	1992	kg			324.6							32.9
+56	Wyoming	CHLORSULFURON	1993	kg			4.3							
+56	Wyoming	CHLORSULFURON	1994	kg			158.2							
+56	Wyoming	CHLORSULFURON	1995	kg			138.7						23.5	
+56	Wyoming	CHLORSULFURON	1996	kg			321.6						23.8	1.6
+56	Wyoming	CHLORSULFURON	1997	kg			117.1						10.3	
+56	Wyoming	CHLORSULFURON	1998	kg			25.2						6.7	37.4
+56	Wyoming	CHLORSULFURON	1999	kg			45.7						199.8	3.4
+56	Wyoming	CHLORSULFURON	2000	kg			206.2							11.3
+56	Wyoming	CHLORSULFURON	2001	kg			1.4							5.6
+56	Wyoming	CHLORSULFURON	2002	kg			21.7							6.4
+56	Wyoming	CHLORSULFURON	2003	kg			33.9							
+56	Wyoming	CHLORSULFURON	2004	kg			14.8							13.7
+56	Wyoming	CHLORSULFURON	2005	kg			13.1							
+56	Wyoming	CHLORSULFURON	2006	kg			109.7							77.3
+56	Wyoming	CHLORSULFURON	2007	kg			17						38	
+56	Wyoming	CHLORSULFURON	2008	kg			1.4							16.3
+56	Wyoming	CHLORSULFURON	2009	kg			125.2							
+56	Wyoming	CHLORSULFURON	2010	kg			4.3						20.9	
+56	Wyoming	CHLORSULFURON	2011	kg			41.8						31	
+56	Wyoming	CHLORSULFURON	2012	kg			0.5						93.9	
+56	Wyoming	CHLORSULFURON	2013	kg			120.6						12.4	
+56	Wyoming	CHLORSULFURON	2014	kg			21.6						16.4	
+56	Wyoming	CHLORSULFURON	2015	kg			57.6					1.6	33.6	
+56	Wyoming	CHLORSULFURON	2016	kg			62.3						20.1	7.7
+56	Wyoming	CHLORSULFURON	2017	kg									0.5	

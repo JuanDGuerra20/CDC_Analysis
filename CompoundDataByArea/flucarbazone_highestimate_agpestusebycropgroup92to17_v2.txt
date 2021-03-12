@@ -1,0 +1,265 @@
+01	Alabama	FLUCARBAZONE	2015	kg			14.6							
+05	Arkansas	FLUCARBAZONE	2010	kg			10.9							
+05	Arkansas	FLUCARBAZONE	2011	kg			471.9							
+05	Arkansas	FLUCARBAZONE	2012	kg			113.1							
+05	Arkansas	FLUCARBAZONE	2013	kg			763.3							
+05	Arkansas	FLUCARBAZONE	2014	kg			449.9							
+05	Arkansas	FLUCARBAZONE	2015	kg			623.9							
+08	Colorado	FLUCARBAZONE	2010	kg			277.5							
+08	Colorado	FLUCARBAZONE	2011	kg			209.7							0.8
+08	Colorado	FLUCARBAZONE	2012	kg			321							
+08	Colorado	FLUCARBAZONE	2013	kg			266.2							
+08	Colorado	FLUCARBAZONE	2014	kg			358.1							
+08	Colorado	FLUCARBAZONE	2015	kg			287.6							
+08	Colorado	FLUCARBAZONE	2016	kg			407.6							
+16	Idaho	FLUCARBAZONE	2001	kg			373.3							
+16	Idaho	FLUCARBAZONE	2002	kg			2054.2							
+16	Idaho	FLUCARBAZONE	2003	kg			1155.1							
+16	Idaho	FLUCARBAZONE	2004	kg			2208.1							
+16	Idaho	FLUCARBAZONE	2005	kg			113.1							
+16	Idaho	FLUCARBAZONE	2006	kg			2384.3							
+16	Idaho	FLUCARBAZONE	2007	kg			709.9							
+16	Idaho	FLUCARBAZONE	2008	kg			2605.6							
+16	Idaho	FLUCARBAZONE	2009	kg			244.6							
+16	Idaho	FLUCARBAZONE	2010	kg			131.6							
+16	Idaho	FLUCARBAZONE	2011	kg			2028.5							
+16	Idaho	FLUCARBAZONE	2012	kg			2682.9							
+16	Idaho	FLUCARBAZONE	2013	kg			412.2							
+16	Idaho	FLUCARBAZONE	2014	kg			385.1							
+16	Idaho	FLUCARBAZONE	2015	kg			319.7							
+16	Idaho	FLUCARBAZONE	2016	kg			479.4							
+16	Idaho	FLUCARBAZONE	2017	kg			57.5							
+17	Illinois	FLUCARBAZONE	2011	kg			322.8							
+17	Illinois	FLUCARBAZONE	2012	kg			16.2							
+17	Illinois	FLUCARBAZONE	2014	kg			7.8							
+17	Illinois	FLUCARBAZONE	2015	kg			17.9							
+17	Illinois	FLUCARBAZONE	2017	kg			19.7							
+18	Indiana	FLUCARBAZONE	2011	kg			677.5							
+18	Indiana	FLUCARBAZONE	2012	kg			17.6							
+18	Indiana	FLUCARBAZONE	2014	kg			11.8							
+18	Indiana	FLUCARBAZONE	2015	kg			22.6							
+18	Indiana	FLUCARBAZONE	2017	kg			30.4							
+19	Iowa	FLUCARBAZONE	2012	kg			0							
+19	Iowa	FLUCARBAZONE	2014	kg			0							
+19	Iowa	FLUCARBAZONE	2015	kg			0.2							
+19	Iowa	FLUCARBAZONE	2016	kg			0.1							
+19	Iowa	FLUCARBAZONE	2017	kg			0.1							
+20	Kansas	FLUCARBAZONE	2010	kg			1510.4							
+20	Kansas	FLUCARBAZONE	2011	kg			1193.8							
+20	Kansas	FLUCARBAZONE	2012	kg			2057.5							
+20	Kansas	FLUCARBAZONE	2013	kg			1185							
+20	Kansas	FLUCARBAZONE	2014	kg			1800.3							
+20	Kansas	FLUCARBAZONE	2015	kg			1675.7							
+20	Kansas	FLUCARBAZONE	2016	kg			1745.1							
+20	Kansas	FLUCARBAZONE	2017	kg			785.1							
+21	Kentucky	FLUCARBAZONE	2014	kg			26.7							
+21	Kentucky	FLUCARBAZONE	2015	kg			20.5							
+21	Kentucky	FLUCARBAZONE	2017	kg			40.2							
+22	Louisiana	FLUCARBAZONE	2012	kg			36.4							
+22	Louisiana	FLUCARBAZONE	2015	kg			39.8							
+24	Maryland	FLUCARBAZONE	2014	kg			6.6							
+26	Michigan	FLUCARBAZONE	2011	kg			208.1							
+26	Michigan	FLUCARBAZONE	2017	kg			100.9							
+27	Minnesota	FLUCARBAZONE	2001	kg			326.2							
+27	Minnesota	FLUCARBAZONE	2002	kg			336.6							
+27	Minnesota	FLUCARBAZONE	2003	kg			753.3							
+27	Minnesota	FLUCARBAZONE	2004	kg			1292.1							
+27	Minnesota	FLUCARBAZONE	2005	kg			566.2							
+27	Minnesota	FLUCARBAZONE	2006	kg			1516.5							
+27	Minnesota	FLUCARBAZONE	2007	kg			1208.8							
+27	Minnesota	FLUCARBAZONE	2008	kg			1212.6							
+27	Minnesota	FLUCARBAZONE	2009	kg			837.9							
+27	Minnesota	FLUCARBAZONE	2010	kg			789.9							
+27	Minnesota	FLUCARBAZONE	2011	kg			1389.2							5.8
+27	Minnesota	FLUCARBAZONE	2012	kg			2280							
+27	Minnesota	FLUCARBAZONE	2013	kg			1096.1							6.5
+27	Minnesota	FLUCARBAZONE	2014	kg			1950.1							
+27	Minnesota	FLUCARBAZONE	2015	kg			1014.4							
+27	Minnesota	FLUCARBAZONE	2016	kg			991.3							
+27	Minnesota	FLUCARBAZONE	2017	kg			1914.7							
+28	Mississippi	FLUCARBAZONE	2011	kg			167.1							
+28	Mississippi	FLUCARBAZONE	2012	kg			64.2							
+28	Mississippi	FLUCARBAZONE	2014	kg			50.1							
+28	Mississippi	FLUCARBAZONE	2015	kg			178.9							
+29	Missouri	FLUCARBAZONE	2010	kg			34.2							
+29	Missouri	FLUCARBAZONE	2011	kg			44.5							
+29	Missouri	FLUCARBAZONE	2012	kg			210							
+29	Missouri	FLUCARBAZONE	2013	kg			31.7							
+29	Missouri	FLUCARBAZONE	2014	kg			113							
+29	Missouri	FLUCARBAZONE	2015	kg			335.4							
+29	Missouri	FLUCARBAZONE	2017	kg			163.8							
+30	Montana	FLUCARBAZONE	2001	kg			288							
+30	Montana	FLUCARBAZONE	2002	kg			518.3							
+30	Montana	FLUCARBAZONE	2003	kg			1292.9							
+30	Montana	FLUCARBAZONE	2004	kg			944.3							
+30	Montana	FLUCARBAZONE	2005	kg			1173.2		1.3					
+30	Montana	FLUCARBAZONE	2006	kg			1007.9							
+30	Montana	FLUCARBAZONE	2007	kg			1602.4						57.7	
+30	Montana	FLUCARBAZONE	2008	kg			3450							
+30	Montana	FLUCARBAZONE	2009	kg			2167.7							
+30	Montana	FLUCARBAZONE	2010	kg			1567.9						149.7	
+30	Montana	FLUCARBAZONE	2011	kg			2581.4						188.6	
+30	Montana	FLUCARBAZONE	2012	kg			4176.8							
+30	Montana	FLUCARBAZONE	2013	kg			3480.6						186.4	
+30	Montana	FLUCARBAZONE	2014	kg			5015.7							
+30	Montana	FLUCARBAZONE	2015	kg			4906.5						91.3	
+30	Montana	FLUCARBAZONE	2016	kg			2337.5							
+30	Montana	FLUCARBAZONE	2017	kg			928.9							
+31	Nebraska	FLUCARBAZONE	2010	kg			76							
+31	Nebraska	FLUCARBAZONE	2011	kg			84.5							
+31	Nebraska	FLUCARBAZONE	2012	kg			48.4							
+31	Nebraska	FLUCARBAZONE	2013	kg			59.1							
+31	Nebraska	FLUCARBAZONE	2014	kg			84.1							
+31	Nebraska	FLUCARBAZONE	2015	kg			48.1							
+31	Nebraska	FLUCARBAZONE	2016	kg			44.6							
+31	Nebraska	FLUCARBAZONE	2017	kg			17.1							
+32	Nevada	FLUCARBAZONE	2001	kg			0.6							
+32	Nevada	FLUCARBAZONE	2002	kg			5.3							
+32	Nevada	FLUCARBAZONE	2003	kg			3.7							
+32	Nevada	FLUCARBAZONE	2004	kg			6.4							
+32	Nevada	FLUCARBAZONE	2005	kg			0.5							
+32	Nevada	FLUCARBAZONE	2006	kg			1.2							
+32	Nevada	FLUCARBAZONE	2007	kg			8.1							
+32	Nevada	FLUCARBAZONE	2008	kg			25.7							
+32	Nevada	FLUCARBAZONE	2009	kg			6							
+32	Nevada	FLUCARBAZONE	2010	kg			3.8							
+32	Nevada	FLUCARBAZONE	2011	kg			17.9							
+32	Nevada	FLUCARBAZONE	2012	kg			37.9							
+32	Nevada	FLUCARBAZONE	2013	kg			6.3							
+32	Nevada	FLUCARBAZONE	2014	kg			13.2							
+32	Nevada	FLUCARBAZONE	2015	kg			7.8							
+32	Nevada	FLUCARBAZONE	2016	kg			3.8							
+32	Nevada	FLUCARBAZONE	2017	kg			2.5							
+35	New Mexico	FLUCARBAZONE	2010	kg			9.2							
+35	New Mexico	FLUCARBAZONE	2011	kg			3							0
+35	New Mexico	FLUCARBAZONE	2012	kg			19.2							
+35	New Mexico	FLUCARBAZONE	2013	kg			18.3							
+35	New Mexico	FLUCARBAZONE	2014	kg			14.9							
+35	New Mexico	FLUCARBAZONE	2015	kg			42.4							
+35	New Mexico	FLUCARBAZONE	2016	kg			45.1							
+37	North Carolina	FLUCARBAZONE	2013	kg			70.3							
+38	North Dakota	FLUCARBAZONE	2001	kg			652.4							
+38	North Dakota	FLUCARBAZONE	2002	kg			1609.4							
+38	North Dakota	FLUCARBAZONE	2003	kg			2085.6							
+38	North Dakota	FLUCARBAZONE	2004	kg			7449.7							
+38	North Dakota	FLUCARBAZONE	2005	kg			11333.1		7.2					
+38	North Dakota	FLUCARBAZONE	2006	kg			16897.8							
+38	North Dakota	FLUCARBAZONE	2007	kg			8353.8						70.6	
+38	North Dakota	FLUCARBAZONE	2008	kg			15103.9							
+38	North Dakota	FLUCARBAZONE	2009	kg			9143.2							
+38	North Dakota	FLUCARBAZONE	2010	kg			9829.1							17.7
+38	North Dakota	FLUCARBAZONE	2011	kg			9555.6						16.7	50.2
+38	North Dakota	FLUCARBAZONE	2012	kg			13549.7							
+38	North Dakota	FLUCARBAZONE	2013	kg			11721.6							59.1
+38	North Dakota	FLUCARBAZONE	2014	kg			13212.8							
+38	North Dakota	FLUCARBAZONE	2015	kg			9674.2							
+38	North Dakota	FLUCARBAZONE	2016	kg			8928.1							
+38	North Dakota	FLUCARBAZONE	2017	kg			8899.2							
+39	Ohio	FLUCARBAZONE	2014	kg			33.3							
+39	Ohio	FLUCARBAZONE	2015	kg			560.6							
+39	Ohio	FLUCARBAZONE	2017	kg			76.3							
+40	Oklahoma	FLUCARBAZONE	2010	kg			749.1							
+40	Oklahoma	FLUCARBAZONE	2011	kg			160.6						257.2	
+40	Oklahoma	FLUCARBAZONE	2012	kg			3035.8							
+40	Oklahoma	FLUCARBAZONE	2013	kg			802.6							
+40	Oklahoma	FLUCARBAZONE	2014	kg			610.5							
+40	Oklahoma	FLUCARBAZONE	2015	kg			1117.2							
+40	Oklahoma	FLUCARBAZONE	2016	kg			534.1							
+41	Oregon	FLUCARBAZONE	2001	kg			2154.6							
+41	Oregon	FLUCARBAZONE	2002	kg			1667.4							
+41	Oregon	FLUCARBAZONE	2003	kg			1062.8							
+41	Oregon	FLUCARBAZONE	2004	kg			495.7							
+41	Oregon	FLUCARBAZONE	2005	kg			472.8							
+41	Oregon	FLUCARBAZONE	2006	kg			626.9							
+41	Oregon	FLUCARBAZONE	2007	kg			396.2							
+41	Oregon	FLUCARBAZONE	2008	kg			1915.3							
+41	Oregon	FLUCARBAZONE	2009	kg			287							
+41	Oregon	FLUCARBAZONE	2010	kg			165.2							
+41	Oregon	FLUCARBAZONE	2011	kg			1207							
+41	Oregon	FLUCARBAZONE	2012	kg			2064							
+41	Oregon	FLUCARBAZONE	2013	kg			293.6							
+41	Oregon	FLUCARBAZONE	2014	kg			394.5							
+41	Oregon	FLUCARBAZONE	2015	kg			185.2							
+41	Oregon	FLUCARBAZONE	2016	kg			295.4							
+41	Oregon	FLUCARBAZONE	2017	kg			136.2							
+46	South Dakota	FLUCARBAZONE	2001	kg			86.1							
+46	South Dakota	FLUCARBAZONE	2002	kg			168							
+46	South Dakota	FLUCARBAZONE	2003	kg			477.9							
+46	South Dakota	FLUCARBAZONE	2004	kg			6192.7							
+46	South Dakota	FLUCARBAZONE	2005	kg			1302.5							
+46	South Dakota	FLUCARBAZONE	2006	kg			3405.2							
+46	South Dakota	FLUCARBAZONE	2007	kg			556.3						38.2	
+46	South Dakota	FLUCARBAZONE	2008	kg			658.7							
+46	South Dakota	FLUCARBAZONE	2009	kg			2008.5							
+46	South Dakota	FLUCARBAZONE	2010	kg			1158							1.5
+46	South Dakota	FLUCARBAZONE	2011	kg			1803.8						3.7	
+46	South Dakota	FLUCARBAZONE	2012	kg			2556.1							
+46	South Dakota	FLUCARBAZONE	2013	kg			2373.4							
+46	South Dakota	FLUCARBAZONE	2014	kg			1257.7							
+46	South Dakota	FLUCARBAZONE	2015	kg			1511.4						51.8	
+46	South Dakota	FLUCARBAZONE	2016	kg			356.7							
+46	South Dakota	FLUCARBAZONE	2017	kg			1233.8							
+47	Tennessee	FLUCARBAZONE	2011	kg			50.3							
+47	Tennessee	FLUCARBAZONE	2012	kg			12							
+47	Tennessee	FLUCARBAZONE	2014	kg			47.7							
+47	Tennessee	FLUCARBAZONE	2015	kg			59.9							
+48	Texas	FLUCARBAZONE	2010	kg			191.8							
+48	Texas	FLUCARBAZONE	2011	kg			210.9						346	
+48	Texas	FLUCARBAZONE	2012	kg			848.2							
+48	Texas	FLUCARBAZONE	2013	kg			282.2							
+48	Texas	FLUCARBAZONE	2014	kg			555.1							
+48	Texas	FLUCARBAZONE	2015	kg			464.5							
+48	Texas	FLUCARBAZONE	2016	kg			1124.6							
+49	Utah	FLUCARBAZONE	2001	kg			11.3							
+49	Utah	FLUCARBAZONE	2002	kg			101.8							
+49	Utah	FLUCARBAZONE	2003	kg			73.9							
+49	Utah	FLUCARBAZONE	2004	kg			12.3							
+49	Utah	FLUCARBAZONE	2005	kg			2.2							
+49	Utah	FLUCARBAZONE	2006	kg			5							
+49	Utah	FLUCARBAZONE	2007	kg			61.1							
+49	Utah	FLUCARBAZONE	2008	kg			138.6							
+49	Utah	FLUCARBAZONE	2009	kg			32.3							
+49	Utah	FLUCARBAZONE	2010	kg			19.2							
+49	Utah	FLUCARBAZONE	2011	kg			86.1							
+49	Utah	FLUCARBAZONE	2012	kg			174.8							
+49	Utah	FLUCARBAZONE	2013	kg			22.2							
+49	Utah	FLUCARBAZONE	2014	kg			50.7							
+49	Utah	FLUCARBAZONE	2015	kg			22.7							
+49	Utah	FLUCARBAZONE	2016	kg			18.5							
+49	Utah	FLUCARBAZONE	2017	kg			16.7							
+51	Virginia	FLUCARBAZONE	2013	kg			12.9							
+51	Virginia	FLUCARBAZONE	2014	kg			27.9							
+53	Washington	FLUCARBAZONE	2001	kg			707							
+53	Washington	FLUCARBAZONE	2002	kg			1119							
+53	Washington	FLUCARBAZONE	2003	kg			1369.5							
+53	Washington	FLUCARBAZONE	2004	kg			876.2							
+53	Washington	FLUCARBAZONE	2005	kg			1260.4							
+53	Washington	FLUCARBAZONE	2006	kg			1051.2							
+53	Washington	FLUCARBAZONE	2007	kg			420.2							
+53	Washington	FLUCARBAZONE	2008	kg			2716							
+53	Washington	FLUCARBAZONE	2009	kg			638.7							
+53	Washington	FLUCARBAZONE	2010	kg			345							
+53	Washington	FLUCARBAZONE	2011	kg			1910.7							
+53	Washington	FLUCARBAZONE	2012	kg			3001.2							
+53	Washington	FLUCARBAZONE	2013	kg			1154.7							
+53	Washington	FLUCARBAZONE	2014	kg			193.6							
+53	Washington	FLUCARBAZONE	2015	kg			464.1							
+53	Washington	FLUCARBAZONE	2016	kg			1282.4							
+53	Washington	FLUCARBAZONE	2017	kg			238.3							
+56	Wyoming	FLUCARBAZONE	2001	kg			1							
+56	Wyoming	FLUCARBAZONE	2002	kg			4.6							
+56	Wyoming	FLUCARBAZONE	2003	kg			2.4							
+56	Wyoming	FLUCARBAZONE	2004	kg			58.3							
+56	Wyoming	FLUCARBAZONE	2005	kg			6.1							
+56	Wyoming	FLUCARBAZONE	2006	kg			5.8							
+56	Wyoming	FLUCARBAZONE	2007	kg			8.5							
+56	Wyoming	FLUCARBAZONE	2008	kg			41.8							
+56	Wyoming	FLUCARBAZONE	2009	kg			22.7							
+56	Wyoming	FLUCARBAZONE	2010	kg			6							
+56	Wyoming	FLUCARBAZONE	2011	kg			31.6						0.8	
+56	Wyoming	FLUCARBAZONE	2012	kg			33.1							
+56	Wyoming	FLUCARBAZONE	2013	kg			45.6						7.2	
+56	Wyoming	FLUCARBAZONE	2014	kg			27.1							
+56	Wyoming	FLUCARBAZONE	2015	kg			23.9						55.4	
+56	Wyoming	FLUCARBAZONE	2016	kg			17.1							
+56	Wyoming	FLUCARBAZONE	2017	kg			72.3							

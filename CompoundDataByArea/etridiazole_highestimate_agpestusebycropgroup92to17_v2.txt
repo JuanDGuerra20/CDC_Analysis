@@ -1,0 +1,249 @@
+01	Alabama	ETRIDIAZOLE	1992	kg				2353.4					10.7	870.6
+01	Alabama	ETRIDIAZOLE	1993	kg				4528.4						101.1
+01	Alabama	ETRIDIAZOLE	1994	kg	183.8			2855.2						5128.3
+01	Alabama	ETRIDIAZOLE	1995	kg	1.2			4889.6						31.5
+01	Alabama	ETRIDIAZOLE	1996	kg				10495						
+01	Alabama	ETRIDIAZOLE	1997	kg				3234.2					44.5	
+01	Alabama	ETRIDIAZOLE	1998	kg				3534.9						
+01	Alabama	ETRIDIAZOLE	1999	kg				10249.4						
+01	Alabama	ETRIDIAZOLE	2000	kg				2749.2						
+01	Alabama	ETRIDIAZOLE	2001	kg				1366.1						
+01	Alabama	ETRIDIAZOLE	2002	kg				8102.6						
+01	Alabama	ETRIDIAZOLE	2003	kg				3388.4						
+01	Alabama	ETRIDIAZOLE	2004	kg				2074.2						
+01	Alabama	ETRIDIAZOLE	2005	kg				118.9						
+01	Alabama	ETRIDIAZOLE	2006	kg				465.7						
+01	Alabama	ETRIDIAZOLE	2007	kg				2488.7						
+04	Arizona	ETRIDIAZOLE	1994	kg				1115.8						
+04	Arizona	ETRIDIAZOLE	1995	kg				337.4						
+04	Arizona	ETRIDIAZOLE	1996	kg					5.1					
+04	Arizona	ETRIDIAZOLE	2001	kg				873.5						
+05	Arkansas	ETRIDIAZOLE	1992	kg				13808						93.9
+05	Arkansas	ETRIDIAZOLE	1993	kg		1589.5	1102.9	7886.6						
+05	Arkansas	ETRIDIAZOLE	1994	kg	941.4	15498.5		17480.5						
+05	Arkansas	ETRIDIAZOLE	1995	kg		7390.3		14007.7						
+05	Arkansas	ETRIDIAZOLE	1996	kg				6871.6						
+05	Arkansas	ETRIDIAZOLE	1997	kg				15974.6						
+05	Arkansas	ETRIDIAZOLE	1998	kg				3918						
+05	Arkansas	ETRIDIAZOLE	1999	kg				3657.7						
+05	Arkansas	ETRIDIAZOLE	2000	kg				3875.9						
+05	Arkansas	ETRIDIAZOLE	2001	kg				5408.7						
+05	Arkansas	ETRIDIAZOLE	2002	kg				4511.3						
+05	Arkansas	ETRIDIAZOLE	2003	kg				2706.9						
+05	Arkansas	ETRIDIAZOLE	2004	kg				4768.5						
+05	Arkansas	ETRIDIAZOLE	2005	kg				2364.6						
+05	Arkansas	ETRIDIAZOLE	2006	kg				2823.2						
+05	Arkansas	ETRIDIAZOLE	2012	kg				451.5						
+06	California	ETRIDIAZOLE	1992	kg				16.9			32.2			
+06	California	ETRIDIAZOLE	1993	kg				14.3			19.2			
+06	California	ETRIDIAZOLE	1994	kg				55.3			3.3		0	
+06	California	ETRIDIAZOLE	1995	kg							5.7			
+06	California	ETRIDIAZOLE	1996	kg							5.9			
+06	California	ETRIDIAZOLE	1997	kg							0.3			
+06	California	ETRIDIAZOLE	1998	kg							0.7			
+06	California	ETRIDIAZOLE	1999	kg				0			0.1			
+06	California	ETRIDIAZOLE	2000	kg							0.1			
+06	California	ETRIDIAZOLE	2001	kg							8.3			
+06	California	ETRIDIAZOLE	2002	kg				1.3			0.1			
+06	California	ETRIDIAZOLE	2003	kg							230.4			
+06	California	ETRIDIAZOLE	2004	kg							448.1			
+06	California	ETRIDIAZOLE	2005	kg							273.1			
+06	California	ETRIDIAZOLE	2006	kg							160.5			
+06	California	ETRIDIAZOLE	2007	kg							255.6			
+06	California	ETRIDIAZOLE	2008	kg							587.3			
+06	California	ETRIDIAZOLE	2009	kg							388.7			
+06	California	ETRIDIAZOLE	2010	kg							505.1			
+06	California	ETRIDIAZOLE	2011	kg							181.7			
+06	California	ETRIDIAZOLE	2012	kg							126.5			
+06	California	ETRIDIAZOLE	2013	kg							99			
+06	California	ETRIDIAZOLE	2014	kg							124			
+06	California	ETRIDIAZOLE	2015	kg	0.8						113.3			
+06	California	ETRIDIAZOLE	2016	kg							86.2			
+06	California	ETRIDIAZOLE	2017	kg							53.3			
+08	Colorado	ETRIDIAZOLE	1993	kg										2.5
+12	Florida	ETRIDIAZOLE	1992	kg							3.7		2.9	81.9
+12	Florida	ETRIDIAZOLE	1993	kg							38.8			29.6
+12	Florida	ETRIDIAZOLE	1994	kg	63.3			33.5			439.7			82.7
+12	Florida	ETRIDIAZOLE	1995	kg				29.5						9.7
+12	Florida	ETRIDIAZOLE	1996	kg							1647.6			
+12	Florida	ETRIDIAZOLE	1997	kg				832.7	51					
+13	Georgia	ETRIDIAZOLE	1992	kg				2220.1					4.5	1107
+13	Georgia	ETRIDIAZOLE	1993	kg				6649.3						4273.3
+13	Georgia	ETRIDIAZOLE	1994	kg	40.1	44.1		2230.2						4858.3
+13	Georgia	ETRIDIAZOLE	1995	kg				2930.7						75.3
+13	Georgia	ETRIDIAZOLE	1996	kg				20116.1						
+13	Georgia	ETRIDIAZOLE	1997	kg				10158.3						
+13	Georgia	ETRIDIAZOLE	1998	kg				8222.4						
+13	Georgia	ETRIDIAZOLE	1999	kg				19501						
+13	Georgia	ETRIDIAZOLE	2000	kg				8709.8						
+13	Georgia	ETRIDIAZOLE	2001	kg				4963.3						
+13	Georgia	ETRIDIAZOLE	2002	kg				3637.7						
+13	Georgia	ETRIDIAZOLE	2003	kg				7567.5						
+13	Georgia	ETRIDIAZOLE	2004	kg				3861.7						
+13	Georgia	ETRIDIAZOLE	2005	kg				263.1						
+13	Georgia	ETRIDIAZOLE	2007	kg				352.2						
+16	Idaho	ETRIDIAZOLE	1993	kg					252.8					
+16	Idaho	ETRIDIAZOLE	1994	kg					430.3					262.4
+18	Indiana	ETRIDIAZOLE	1994	kg	5640.8									
+21	Kentucky	ETRIDIAZOLE	1995	kg	5.7	866.2								
+21	Kentucky	ETRIDIAZOLE	2014	kg										34.1
+21	Kentucky	ETRIDIAZOLE	2017	kg										107.8
+22	Louisiana	ETRIDIAZOLE	1992	kg				6180.9						
+22	Louisiana	ETRIDIAZOLE	1993	kg			45.3	10771.3						
+22	Louisiana	ETRIDIAZOLE	1994	kg	120.1			10450						
+22	Louisiana	ETRIDIAZOLE	1995	kg	4.1			9396.6						
+22	Louisiana	ETRIDIAZOLE	1996	kg				6534						
+22	Louisiana	ETRIDIAZOLE	1997	kg				2494.9						
+22	Louisiana	ETRIDIAZOLE	1998	kg				3346.8						
+22	Louisiana	ETRIDIAZOLE	1999	kg				3515.3						
+22	Louisiana	ETRIDIAZOLE	2000	kg				10850.6						
+22	Louisiana	ETRIDIAZOLE	2001	kg				3654.5						
+22	Louisiana	ETRIDIAZOLE	2002	kg				2078.2						
+22	Louisiana	ETRIDIAZOLE	2003	kg				3107.8						
+22	Louisiana	ETRIDIAZOLE	2004	kg				1614.9						
+22	Louisiana	ETRIDIAZOLE	2005	kg				4022.9						
+22	Louisiana	ETRIDIAZOLE	2006	kg				1799						
+22	Louisiana	ETRIDIAZOLE	2007	kg				4294.1						
+22	Louisiana	ETRIDIAZOLE	2008	kg				4.1						
+22	Louisiana	ETRIDIAZOLE	2012	kg				607.7						
+24	Maryland	ETRIDIAZOLE	1997	kg							30.8			
+26	Michigan	ETRIDIAZOLE	1994	kg	9836.7									
+28	Mississippi	ETRIDIAZOLE	1992	kg				20324.7						171.3
+28	Mississippi	ETRIDIAZOLE	1993	kg		1046.6	260.9	12545.8						
+28	Mississippi	ETRIDIAZOLE	1994	kg	944.8	10454.1		31486.7						
+28	Mississippi	ETRIDIAZOLE	1995	kg	2.2	360.7		27288.5						
+28	Mississippi	ETRIDIAZOLE	1996	kg				6211.4						
+28	Mississippi	ETRIDIAZOLE	1997	kg				9992.4					21.4	
+28	Mississippi	ETRIDIAZOLE	1998	kg				8119.1						
+28	Mississippi	ETRIDIAZOLE	1999	kg				13707.7						
+28	Mississippi	ETRIDIAZOLE	2000	kg				10779.9						
+28	Mississippi	ETRIDIAZOLE	2001	kg				7112.7						
+28	Mississippi	ETRIDIAZOLE	2002	kg				7550.9						
+28	Mississippi	ETRIDIAZOLE	2003	kg				8217.9						
+28	Mississippi	ETRIDIAZOLE	2004	kg				5533.5						
+28	Mississippi	ETRIDIAZOLE	2005	kg				6958.7						
+28	Mississippi	ETRIDIAZOLE	2006	kg				4154.4						
+28	Mississippi	ETRIDIAZOLE	2007	kg				289.4						
+28	Mississippi	ETRIDIAZOLE	2012	kg				2263.8						
+29	Missouri	ETRIDIAZOLE	1992	kg				1435.4						
+29	Missouri	ETRIDIAZOLE	1993	kg				1422.8						
+29	Missouri	ETRIDIAZOLE	1994	kg				960						
+29	Missouri	ETRIDIAZOLE	1995	kg		2539.2		2005.9						
+29	Missouri	ETRIDIAZOLE	1996	kg				954.2						
+29	Missouri	ETRIDIAZOLE	1997	kg				4227.5						
+29	Missouri	ETRIDIAZOLE	1998	kg				394.6						
+29	Missouri	ETRIDIAZOLE	1999	kg				129.3						
+29	Missouri	ETRIDIAZOLE	2000	kg				2402						
+29	Missouri	ETRIDIAZOLE	2001	kg				2031.1						
+29	Missouri	ETRIDIAZOLE	2002	kg				682.1						
+29	Missouri	ETRIDIAZOLE	2003	kg				97						
+29	Missouri	ETRIDIAZOLE	2005	kg				678.1						
+30	Montana	ETRIDIAZOLE	1993	kg					5.1					2678
+30	Montana	ETRIDIAZOLE	1994	kg					6.4					
+31	Nebraska	ETRIDIAZOLE	1993	kg										5.5
+35	New Mexico	ETRIDIAZOLE	1992	kg				20.5						
+35	New Mexico	ETRIDIAZOLE	1993	kg				2.9			200.9			
+35	New Mexico	ETRIDIAZOLE	1994	kg				108.1						
+35	New Mexico	ETRIDIAZOLE	1995	kg				36.6						
+35	New Mexico	ETRIDIAZOLE	1996	kg					60.6					
+35	New Mexico	ETRIDIAZOLE	2000	kg				42.7						
+35	New Mexico	ETRIDIAZOLE	2001	kg				9.6						
+37	North Carolina	ETRIDIAZOLE	1992	kg		209.4		5432.7						1744.7
+37	North Carolina	ETRIDIAZOLE	1993	kg				1590.8						1373.1
+37	North Carolina	ETRIDIAZOLE	1994	kg		68.3		25325.2						3462.6
+37	North Carolina	ETRIDIAZOLE	1995	kg				1914.6						
+37	North Carolina	ETRIDIAZOLE	1996	kg				5295.6						
+37	North Carolina	ETRIDIAZOLE	1997	kg				2609.6						
+37	North Carolina	ETRIDIAZOLE	1998	kg				1791.9						
+37	North Carolina	ETRIDIAZOLE	1999	kg				1170.1						
+37	North Carolina	ETRIDIAZOLE	2000	kg				9366.9						
+37	North Carolina	ETRIDIAZOLE	2001	kg				3558.3						
+37	North Carolina	ETRIDIAZOLE	2002	kg				1575.2						
+37	North Carolina	ETRIDIAZOLE	2003	kg				1886.3						
+37	North Carolina	ETRIDIAZOLE	2004	kg				4441.2						
+37	North Carolina	ETRIDIAZOLE	2005	kg				62						
+37	North Carolina	ETRIDIAZOLE	2006	kg				2683.5						
+37	North Carolina	ETRIDIAZOLE	2011	kg				743.6						
+38	North Dakota	ETRIDIAZOLE	1993	kg										381.9
+39	Ohio	ETRIDIAZOLE	1993	kg					114.2					
+39	Ohio	ETRIDIAZOLE	1994	kg	3092.2									
+39	Ohio	ETRIDIAZOLE	2014	kg										0.7
+39	Ohio	ETRIDIAZOLE	2017	kg										1.8
+40	Oklahoma	ETRIDIAZOLE	1992	kg				196.2						
+40	Oklahoma	ETRIDIAZOLE	1993	kg				32.2						169.7
+40	Oklahoma	ETRIDIAZOLE	1994	kg				417.3						267.8
+40	Oklahoma	ETRIDIAZOLE	1995	kg				325						107.2
+40	Oklahoma	ETRIDIAZOLE	1996	kg				6.9						360
+40	Oklahoma	ETRIDIAZOLE	1997	kg				15.8						
+40	Oklahoma	ETRIDIAZOLE	1999	kg				16.3						
+40	Oklahoma	ETRIDIAZOLE	2000	kg				3.2						
+40	Oklahoma	ETRIDIAZOLE	2001	kg				4.9						
+40	Oklahoma	ETRIDIAZOLE	2002	kg				4.5						
+42	Pennsylvania	ETRIDIAZOLE	1997	kg							331.1			
+45	South Carolina	ETRIDIAZOLE	1992	kg				354.9						360.7
+45	South Carolina	ETRIDIAZOLE	1993	kg		620.3		859.4						0.5
+45	South Carolina	ETRIDIAZOLE	1994	kg	21.7	12.3		1132.6						312.7
+45	South Carolina	ETRIDIAZOLE	1995	kg				1469						
+45	South Carolina	ETRIDIAZOLE	1996	kg				2582						
+45	South Carolina	ETRIDIAZOLE	1997	kg				1143.5						
+45	South Carolina	ETRIDIAZOLE	1998	kg				2220.9						
+45	South Carolina	ETRIDIAZOLE	1999	kg				674.6						
+45	South Carolina	ETRIDIAZOLE	2000	kg				2712.8						
+45	South Carolina	ETRIDIAZOLE	2001	kg				978.4						
+45	South Carolina	ETRIDIAZOLE	2002	kg				465.5						
+45	South Carolina	ETRIDIAZOLE	2003	kg				1183.9						
+45	South Carolina	ETRIDIAZOLE	2004	kg				1893						
+45	South Carolina	ETRIDIAZOLE	2005	kg				50.2						
+47	Tennessee	ETRIDIAZOLE	1992	kg				4695.4						
+47	Tennessee	ETRIDIAZOLE	1993	kg				7740.7						423.9
+47	Tennessee	ETRIDIAZOLE	1994	kg	2434.1			12331.6						
+47	Tennessee	ETRIDIAZOLE	1995	kg	10.6	2169.7		12326.9						
+47	Tennessee	ETRIDIAZOLE	1996	kg				3182.2						
+47	Tennessee	ETRIDIAZOLE	1997	kg				4925.9					79.6	
+47	Tennessee	ETRIDIAZOLE	1998	kg				1258.5						
+47	Tennessee	ETRIDIAZOLE	1999	kg				4258.2						
+47	Tennessee	ETRIDIAZOLE	2000	kg				3717.2						
+47	Tennessee	ETRIDIAZOLE	2001	kg				3050.7						
+47	Tennessee	ETRIDIAZOLE	2002	kg				1988.5						
+47	Tennessee	ETRIDIAZOLE	2003	kg				2806.7						
+47	Tennessee	ETRIDIAZOLE	2004	kg				974.1						
+47	Tennessee	ETRIDIAZOLE	2005	kg				1205.7						
+47	Tennessee	ETRIDIAZOLE	2006	kg				281						
+47	Tennessee	ETRIDIAZOLE	2007	kg				63.3						
+48	Texas	ETRIDIAZOLE	1992	kg				1510.4			3.2			
+48	Texas	ETRIDIAZOLE	1993	kg				609.3			102.8			397.4
+48	Texas	ETRIDIAZOLE	1994	kg				4254.8						181.4
+48	Texas	ETRIDIAZOLE	1995	kg	443			2584.1						136.4
+48	Texas	ETRIDIAZOLE	1996	kg				198.2						346.7
+48	Texas	ETRIDIAZOLE	1997	kg				93.6						
+48	Texas	ETRIDIAZOLE	1998	kg				310.6						
+48	Texas	ETRIDIAZOLE	1999	kg				335.6						
+48	Texas	ETRIDIAZOLE	2000	kg				2954.9						
+48	Texas	ETRIDIAZOLE	2001	kg				25423.4						
+48	Texas	ETRIDIAZOLE	2002	kg				7811.8						
+48	Texas	ETRIDIAZOLE	2003	kg				1094.7						
+48	Texas	ETRIDIAZOLE	2004	kg				278.1						
+48	Texas	ETRIDIAZOLE	2005	kg				317.1						
+48	Texas	ETRIDIAZOLE	2007	kg				1423.1						
+48	Texas	ETRIDIAZOLE	2008	kg				1159.3						
+49	Utah	ETRIDIAZOLE	1993	kg					0.5					
+49	Utah	ETRIDIAZOLE	1994	kg					0.6					
+51	Virginia	ETRIDIAZOLE	1992	kg		170		558.8						841
+51	Virginia	ETRIDIAZOLE	1993	kg				39.7						573.4
+51	Virginia	ETRIDIAZOLE	1994	kg		44.7		457.7						44.8
+51	Virginia	ETRIDIAZOLE	1995	kg				122.1						
+51	Virginia	ETRIDIAZOLE	1996	kg				53.2						
+51	Virginia	ETRIDIAZOLE	1997	kg				525.9						
+51	Virginia	ETRIDIAZOLE	1998	kg				123.8						
+51	Virginia	ETRIDIAZOLE	1999	kg				92.5						
+51	Virginia	ETRIDIAZOLE	2000	kg				675.5						
+51	Virginia	ETRIDIAZOLE	2001	kg				355						
+51	Virginia	ETRIDIAZOLE	2002	kg				173.3						
+51	Virginia	ETRIDIAZOLE	2003	kg				90.2						
+51	Virginia	ETRIDIAZOLE	2004	kg				250.9						
+51	Virginia	ETRIDIAZOLE	2005	kg				2.6						
+51	Virginia	ETRIDIAZOLE	2006	kg				414.2						
+51	Virginia	ETRIDIAZOLE	2011	kg				121.1						
+54	West Virginia	ETRIDIAZOLE	1993	kg					1.9					
+56	Wyoming	ETRIDIAZOLE	1993	kg					0					1.2
+56	Wyoming	ETRIDIAZOLE	1994	kg					0					

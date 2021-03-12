@@ -1,0 +1,741 @@
+01	Alabama	METHAMIDOPHOS	1992	kg				1955.4	20658.2					
+01	Alabama	METHAMIDOPHOS	1993	kg				980.1	9758.8					
+01	Alabama	METHAMIDOPHOS	1994	kg					1470.6		75			421.7
+01	Alabama	METHAMIDOPHOS	1995	kg					764.3					
+01	Alabama	METHAMIDOPHOS	1996	kg					1477					
+01	Alabama	METHAMIDOPHOS	1997	kg					1098.5					
+01	Alabama	METHAMIDOPHOS	1998	kg				20950.5	67					
+01	Alabama	METHAMIDOPHOS	1999	kg					705.8					
+01	Alabama	METHAMIDOPHOS	2000	kg					1233.4					
+01	Alabama	METHAMIDOPHOS	2001	kg					53.3					
+01	Alabama	METHAMIDOPHOS	2010	kg					10.7					
+04	Arizona	METHAMIDOPHOS	1992	kg				2003.1	2785.3					
+04	Arizona	METHAMIDOPHOS	1993	kg				8217.6	9616.9					
+04	Arizona	METHAMIDOPHOS	1994	kg					5835.7					
+04	Arizona	METHAMIDOPHOS	1995	kg				537	3940.8				220.7	
+04	Arizona	METHAMIDOPHOS	1996	kg					2165					
+04	Arizona	METHAMIDOPHOS	1997	kg					1921.1					
+04	Arizona	METHAMIDOPHOS	1998	kg				604.1	3388.8					
+04	Arizona	METHAMIDOPHOS	1999	kg					3127.1					
+04	Arizona	METHAMIDOPHOS	2000	kg					299.8					
+04	Arizona	METHAMIDOPHOS	2001	kg					1206.2					
+04	Arizona	METHAMIDOPHOS	2002	kg					3187.3					
+04	Arizona	METHAMIDOPHOS	2003	kg					1496.5					
+04	Arizona	METHAMIDOPHOS	2004	kg					3522.5					
+04	Arizona	METHAMIDOPHOS	2005	kg					3.1					
+04	Arizona	METHAMIDOPHOS	2006	kg					138.9					
+04	Arizona	METHAMIDOPHOS	2007	kg					576.3					
+04	Arizona	METHAMIDOPHOS	2008	kg					130.7					
+04	Arizona	METHAMIDOPHOS	2009	kg					223.2					
+05	Arkansas	METHAMIDOPHOS	1992	kg				5269.9						
+05	Arkansas	METHAMIDOPHOS	1994	kg				193.4						
+05	Arkansas	METHAMIDOPHOS	1995	kg				118.4						
+05	Arkansas	METHAMIDOPHOS	1997	kg				791.2	116.7					
+05	Arkansas	METHAMIDOPHOS	1998	kg				21626.5						
+05	Arkansas	METHAMIDOPHOS	2000	kg				5954						
+05	Arkansas	METHAMIDOPHOS	2001	kg				1969.4						
+05	Arkansas	METHAMIDOPHOS	2002	kg				1443.4						
+05	Arkansas	METHAMIDOPHOS	2003	kg				6837.6						
+05	Arkansas	METHAMIDOPHOS	2004	kg				4776.3						
+05	Arkansas	METHAMIDOPHOS	2005	kg				10409.5						
+05	Arkansas	METHAMIDOPHOS	2006	kg				3769.8						
+06	California	METHAMIDOPHOS	1992	kg				49021.5	73909.1		46.6	6736.3		9826.3
+06	California	METHAMIDOPHOS	1993	kg				68001.1	80383.2		1.3	12490.1		19788.5
+06	California	METHAMIDOPHOS	1994	kg				14142.4	65126.4		5.2	16365.3		15401
+06	California	METHAMIDOPHOS	1995	kg				106081.3	71983.2		8.4	45892.7		11142.3
+06	California	METHAMIDOPHOS	1996	kg				37392.6	47425.6		2.4	29641.7		5461.4
+06	California	METHAMIDOPHOS	1997	kg				39137.5	53196		5.6	44934.5		9972.1
+06	California	METHAMIDOPHOS	1998	kg	51.3		9.2	59567.9	27673.3		4.7	27922.1		3219
+06	California	METHAMIDOPHOS	1999	kg			2.3	9428.1	49169.1		0	31183		306.5
+06	California	METHAMIDOPHOS	2000	kg				8009.2	10066.8			16640.6		386.9
+06	California	METHAMIDOPHOS	2001	kg				3567.9	9172.8		14.3	8421.4		526.8
+06	California	METHAMIDOPHOS	2002	kg				2283.3	8448.1			3007.2		143.5
+06	California	METHAMIDOPHOS	2003	kg				3063.6	10164.9			2423.4		14.3
+06	California	METHAMIDOPHOS	2004	kg				4172.9	5594.5			4153.9		194
+06	California	METHAMIDOPHOS	2005	kg				4289.6	5884			6964.4		21.5
+06	California	METHAMIDOPHOS	2006	kg				4385.3	3351		0.3	6031.8		80.9
+06	California	METHAMIDOPHOS	2007	kg				935.1	1978.8			5633.5		
+06	California	METHAMIDOPHOS	2008	kg				1731.9	2692.6			6547.1		
+06	California	METHAMIDOPHOS	2009	kg				473.1	1623.6			6034.2		
+06	California	METHAMIDOPHOS	2010	kg				96.4	1337.9			2826.2		
+06	California	METHAMIDOPHOS	2011	kg				2168.1	190.2			379.6		
+06	California	METHAMIDOPHOS	2013	kg								24.8		
+08	Colorado	METHAMIDOPHOS	1992	kg					15191					
+08	Colorado	METHAMIDOPHOS	1993	kg					765.3					
+08	Colorado	METHAMIDOPHOS	1994	kg					12269.9					
+08	Colorado	METHAMIDOPHOS	1995	kg					6634.7					
+08	Colorado	METHAMIDOPHOS	1996	kg					7533.4					
+08	Colorado	METHAMIDOPHOS	1997	kg					3029.8					
+08	Colorado	METHAMIDOPHOS	1998	kg					13955.7					
+08	Colorado	METHAMIDOPHOS	1999	kg					800.9					
+08	Colorado	METHAMIDOPHOS	2000	kg					13172.3					
+08	Colorado	METHAMIDOPHOS	2001	kg					4082.3					
+08	Colorado	METHAMIDOPHOS	2002	kg					47785.3					
+08	Colorado	METHAMIDOPHOS	2003	kg					6736.9					
+08	Colorado	METHAMIDOPHOS	2004	kg					2714					
+08	Colorado	METHAMIDOPHOS	2005	kg					13586.4					
+08	Colorado	METHAMIDOPHOS	2006	kg					5488.2					
+08	Colorado	METHAMIDOPHOS	2007	kg					4079.6					
+08	Colorado	METHAMIDOPHOS	2008	kg					2379.6					
+08	Colorado	METHAMIDOPHOS	2009	kg					3149.8					
+08	Colorado	METHAMIDOPHOS	2010	kg					711.7					
+09	Connecticut	METHAMIDOPHOS	1992	kg					109.9					
+09	Connecticut	METHAMIDOPHOS	1993	kg					189.5					
+09	Connecticut	METHAMIDOPHOS	1994	kg					123.5					
+09	Connecticut	METHAMIDOPHOS	1995	kg					32.6					
+09	Connecticut	METHAMIDOPHOS	1996	kg					97.9					
+09	Connecticut	METHAMIDOPHOS	1997	kg					3.5					
+09	Connecticut	METHAMIDOPHOS	1998	kg					25.4					
+09	Connecticut	METHAMIDOPHOS	1999	kg					10					
+09	Connecticut	METHAMIDOPHOS	2000	kg					4.5					
+09	Connecticut	METHAMIDOPHOS	2001	kg					178.7					
+09	Connecticut	METHAMIDOPHOS	2002	kg					28.3					
+09	Connecticut	METHAMIDOPHOS	2003	kg					10					
+09	Connecticut	METHAMIDOPHOS	2004	kg					28.1					
+09	Connecticut	METHAMIDOPHOS	2005	kg					6.3					
+09	Connecticut	METHAMIDOPHOS	2006	kg					5.8					
+09	Connecticut	METHAMIDOPHOS	2007	kg					13.9					
+09	Connecticut	METHAMIDOPHOS	2008	kg					27.9					
+09	Connecticut	METHAMIDOPHOS	2009	kg					22					
+09	Connecticut	METHAMIDOPHOS	2010	kg					3					
+10	Delaware	METHAMIDOPHOS	1992	kg					8					
+10	Delaware	METHAMIDOPHOS	1993	kg					48					
+10	Delaware	METHAMIDOPHOS	1994	kg					41240.7					
+10	Delaware	METHAMIDOPHOS	1996	kg					3298.3					
+10	Delaware	METHAMIDOPHOS	1997	kg					1742.5					
+10	Delaware	METHAMIDOPHOS	2000	kg					584.3					
+10	Delaware	METHAMIDOPHOS	2001	kg					128.9					
+12	Florida	METHAMIDOPHOS	1992	kg				340.9	68370.3				417.3	
+12	Florida	METHAMIDOPHOS	1993	kg					33910.1					
+12	Florida	METHAMIDOPHOS	1994	kg	52.3				88527.8				83.5	117.2
+12	Florida	METHAMIDOPHOS	1995	kg				817.2	66143.3					
+12	Florida	METHAMIDOPHOS	1996	kg					43601.6					
+12	Florida	METHAMIDOPHOS	1997	kg					27973.2					
+12	Florida	METHAMIDOPHOS	1998	kg					15733.4					
+12	Florida	METHAMIDOPHOS	1999	kg					7100.9					
+12	Florida	METHAMIDOPHOS	2000	kg					6763.9					
+12	Florida	METHAMIDOPHOS	2001	kg					339.7					
+12	Florida	METHAMIDOPHOS	2002	kg					23012.8					
+12	Florida	METHAMIDOPHOS	2003	kg					2073.8					
+12	Florida	METHAMIDOPHOS	2004	kg					23489.8					
+12	Florida	METHAMIDOPHOS	2005	kg					35878.1					
+12	Florida	METHAMIDOPHOS	2006	kg					5933.4					
+12	Florida	METHAMIDOPHOS	2008	kg					2307.5					
+12	Florida	METHAMIDOPHOS	2009	kg					1328.6					
+12	Florida	METHAMIDOPHOS	2010	kg					131.4					
+12	Florida	METHAMIDOPHOS	2011	kg					8547					
+12	Florida	METHAMIDOPHOS	2012	kg					6505.4					
+12	Florida	METHAMIDOPHOS	2013	kg					4421.7					
+13	Georgia	METHAMIDOPHOS	1992	kg				3238.8	2517					
+13	Georgia	METHAMIDOPHOS	1993	kg					4252.9					
+13	Georgia	METHAMIDOPHOS	1994	kg					5386.4					504.2
+13	Georgia	METHAMIDOPHOS	1995	kg					11752.7					
+13	Georgia	METHAMIDOPHOS	1996	kg					9680.9					
+13	Georgia	METHAMIDOPHOS	1997	kg					48630.9					
+13	Georgia	METHAMIDOPHOS	1998	kg				39792.6	1401.1					
+13	Georgia	METHAMIDOPHOS	1999	kg					3819.6					
+13	Georgia	METHAMIDOPHOS	2000	kg					11961.3					
+13	Georgia	METHAMIDOPHOS	2001	kg					0.2					
+13	Georgia	METHAMIDOPHOS	2002	kg					3271.4					
+13	Georgia	METHAMIDOPHOS	2004	kg					303.9					
+13	Georgia	METHAMIDOPHOS	2009	kg					0.1					
+13	Georgia	METHAMIDOPHOS	2010	kg					156.6					
+16	Idaho	METHAMIDOPHOS	1992	kg					27435.8					
+16	Idaho	METHAMIDOPHOS	1993	kg					13094.1					
+16	Idaho	METHAMIDOPHOS	1994	kg					22165					
+16	Idaho	METHAMIDOPHOS	1995	kg					8427.5					
+16	Idaho	METHAMIDOPHOS	1996	kg					11498.5					
+16	Idaho	METHAMIDOPHOS	1997	kg					50345.8					
+16	Idaho	METHAMIDOPHOS	1998	kg					44358.1					
+16	Idaho	METHAMIDOPHOS	1999	kg					42937.8					
+16	Idaho	METHAMIDOPHOS	2000	kg					8588.2					
+16	Idaho	METHAMIDOPHOS	2001	kg					5852.4					
+16	Idaho	METHAMIDOPHOS	2002	kg					10582.5					
+16	Idaho	METHAMIDOPHOS	2003	kg					20457.4					
+16	Idaho	METHAMIDOPHOS	2004	kg					11930.2					
+16	Idaho	METHAMIDOPHOS	2005	kg					134345.3					
+16	Idaho	METHAMIDOPHOS	2006	kg					3484.4					
+16	Idaho	METHAMIDOPHOS	2007	kg					7946.2					
+16	Idaho	METHAMIDOPHOS	2008	kg					6233.2					
+16	Idaho	METHAMIDOPHOS	2009	kg					8078.2					
+16	Idaho	METHAMIDOPHOS	2010	kg					839.8					
+16	Idaho	METHAMIDOPHOS	2012	kg					2385.2					
+17	Illinois	METHAMIDOPHOS	1992	kg					357.8					
+17	Illinois	METHAMIDOPHOS	1993	kg					354.4					
+17	Illinois	METHAMIDOPHOS	1994	kg					123.6					
+17	Illinois	METHAMIDOPHOS	1995	kg					361.6					
+17	Illinois	METHAMIDOPHOS	1996	kg					1829.1					
+17	Illinois	METHAMIDOPHOS	1997	kg					5.1					
+17	Illinois	METHAMIDOPHOS	1998	kg					873					
+17	Illinois	METHAMIDOPHOS	1999	kg					113.7					
+17	Illinois	METHAMIDOPHOS	2000	kg					78.4					
+17	Illinois	METHAMIDOPHOS	2003	kg					211.7					
+18	Indiana	METHAMIDOPHOS	1992	kg					47.1					
+18	Indiana	METHAMIDOPHOS	1993	kg					69					
+18	Indiana	METHAMIDOPHOS	1994	kg					490.1					
+18	Indiana	METHAMIDOPHOS	1995	kg					1594.6					
+18	Indiana	METHAMIDOPHOS	1996	kg					1562					
+18	Indiana	METHAMIDOPHOS	1998	kg					290.3					
+18	Indiana	METHAMIDOPHOS	1999	kg					346.5					
+18	Indiana	METHAMIDOPHOS	2000	kg					187.8					
+18	Indiana	METHAMIDOPHOS	2002	kg					1636.2					
+18	Indiana	METHAMIDOPHOS	2003	kg					542.5					
+19	Iowa	METHAMIDOPHOS	1994	kg					41.2					
+19	Iowa	METHAMIDOPHOS	1995	kg					58.3					
+19	Iowa	METHAMIDOPHOS	1996	kg					147.8					
+19	Iowa	METHAMIDOPHOS	1998	kg					25.2					
+19	Iowa	METHAMIDOPHOS	1999	kg					34.9					
+19	Iowa	METHAMIDOPHOS	2000	kg					9.9					
+19	Iowa	METHAMIDOPHOS	2003	kg					72.6					
+20	Kansas	METHAMIDOPHOS	1992	kg					278					
+20	Kansas	METHAMIDOPHOS	1993	kg				207.5						
+20	Kansas	METHAMIDOPHOS	1995	kg					246.6					
+20	Kansas	METHAMIDOPHOS	1996	kg					533.2					
+20	Kansas	METHAMIDOPHOS	1997	kg					541.8					
+20	Kansas	METHAMIDOPHOS	1999	kg					470.5					
+20	Kansas	METHAMIDOPHOS	2002	kg					1171.9					
+20	Kansas	METHAMIDOPHOS	2005	kg				776.4						
+20	Kansas	METHAMIDOPHOS	2007	kg								205.7		
+21	Kentucky	METHAMIDOPHOS	1992	kg					27					
+21	Kentucky	METHAMIDOPHOS	1993	kg					54.7					
+21	Kentucky	METHAMIDOPHOS	1994	kg					117.8					
+21	Kentucky	METHAMIDOPHOS	1995	kg	19091.1				882					
+21	Kentucky	METHAMIDOPHOS	1996	kg					41.7					
+21	Kentucky	METHAMIDOPHOS	1997	kg					60.2					
+21	Kentucky	METHAMIDOPHOS	1998	kg					13.5					
+22	Louisiana	METHAMIDOPHOS	1992	kg				4310.1						
+22	Louisiana	METHAMIDOPHOS	1993	kg				6100.9						
+22	Louisiana	METHAMIDOPHOS	1994	kg				545	124.9		24.7			
+22	Louisiana	METHAMIDOPHOS	1995	kg				345.5						
+22	Louisiana	METHAMIDOPHOS	1996	kg				3091.2						
+22	Louisiana	METHAMIDOPHOS	1997	kg				1582.8	0.8					
+22	Louisiana	METHAMIDOPHOS	1998	kg				1355.4						
+22	Louisiana	METHAMIDOPHOS	2000	kg				3049.7	0.4					
+22	Louisiana	METHAMIDOPHOS	2001	kg				1127.6						
+22	Louisiana	METHAMIDOPHOS	2002	kg				748.7						
+22	Louisiana	METHAMIDOPHOS	2003	kg				2636.6						
+23	Maine	METHAMIDOPHOS	1992	kg					11209.7					
+23	Maine	METHAMIDOPHOS	1993	kg					9018.8					
+23	Maine	METHAMIDOPHOS	1994	kg					25939.6					
+23	Maine	METHAMIDOPHOS	1995	kg					8949.3					
+23	Maine	METHAMIDOPHOS	1996	kg					9199.6					
+23	Maine	METHAMIDOPHOS	1997	kg					8903.5					
+23	Maine	METHAMIDOPHOS	1998	kg					8907.2					
+23	Maine	METHAMIDOPHOS	1999	kg					9517.2					
+23	Maine	METHAMIDOPHOS	2000	kg					5497.1					
+23	Maine	METHAMIDOPHOS	2001	kg					4019.8					
+23	Maine	METHAMIDOPHOS	2002	kg					5479					
+23	Maine	METHAMIDOPHOS	2003	kg					3293.2					
+23	Maine	METHAMIDOPHOS	2004	kg					6645.7					
+23	Maine	METHAMIDOPHOS	2005	kg					7469.1					
+23	Maine	METHAMIDOPHOS	2006	kg					3547.4					
+23	Maine	METHAMIDOPHOS	2007	kg					6675.9					
+23	Maine	METHAMIDOPHOS	2008	kg					4783.5					
+23	Maine	METHAMIDOPHOS	2009	kg					2389.8					
+23	Maine	METHAMIDOPHOS	2010	kg					2020.2					
+23	Maine	METHAMIDOPHOS	2011	kg					1253.6					
+23	Maine	METHAMIDOPHOS	2012	kg					1665.6					
+24	Maryland	METHAMIDOPHOS	1992	kg					37.4					
+24	Maryland	METHAMIDOPHOS	1993	kg					18					
+24	Maryland	METHAMIDOPHOS	1994	kg					134.9					
+24	Maryland	METHAMIDOPHOS	1995	kg					25.7					
+24	Maryland	METHAMIDOPHOS	1996	kg					2920.3					
+24	Maryland	METHAMIDOPHOS	1997	kg					1290.3					
+24	Maryland	METHAMIDOPHOS	1998	kg					18.8					
+24	Maryland	METHAMIDOPHOS	1999	kg					13.5					
+24	Maryland	METHAMIDOPHOS	2000	kg					363.9					
+24	Maryland	METHAMIDOPHOS	2001	kg					80.5					
+24	Maryland	METHAMIDOPHOS	2002	kg					44.7					
+24	Maryland	METHAMIDOPHOS	2003	kg					15.3					
+24	Maryland	METHAMIDOPHOS	2004	kg					42					
+24	Maryland	METHAMIDOPHOS	2005	kg					9.2					
+24	Maryland	METHAMIDOPHOS	2006	kg					8.6					
+24	Maryland	METHAMIDOPHOS	2007	kg					19.7					
+24	Maryland	METHAMIDOPHOS	2008	kg					35.4					
+24	Maryland	METHAMIDOPHOS	2009	kg					25.5					
+24	Maryland	METHAMIDOPHOS	2010	kg					3.2					
+25	Massachusetts	METHAMIDOPHOS	1992	kg					660.6					
+25	Massachusetts	METHAMIDOPHOS	1993	kg					724.4					
+25	Massachusetts	METHAMIDOPHOS	1994	kg					3960					
+25	Massachusetts	METHAMIDOPHOS	1995	kg					326.7					
+25	Massachusetts	METHAMIDOPHOS	1996	kg					466.8					
+25	Massachusetts	METHAMIDOPHOS	1997	kg					62.3					
+25	Massachusetts	METHAMIDOPHOS	1998	kg					569.7					
+25	Massachusetts	METHAMIDOPHOS	1999	kg					289.3					
+25	Massachusetts	METHAMIDOPHOS	2000	kg					114.3					
+25	Massachusetts	METHAMIDOPHOS	2001	kg					541.4					
+25	Massachusetts	METHAMIDOPHOS	2002	kg					986.4					
+25	Massachusetts	METHAMIDOPHOS	2003	kg					326.9					
+25	Massachusetts	METHAMIDOPHOS	2004	kg					861.4					
+25	Massachusetts	METHAMIDOPHOS	2005	kg					181.3					
+25	Massachusetts	METHAMIDOPHOS	2006	kg					156.2					
+25	Massachusetts	METHAMIDOPHOS	2007	kg					356					
+25	Massachusetts	METHAMIDOPHOS	2008	kg					776					
+25	Massachusetts	METHAMIDOPHOS	2009	kg					653					
+25	Massachusetts	METHAMIDOPHOS	2010	kg					94.6					
+26	Michigan	METHAMIDOPHOS	1992	kg					6946					
+26	Michigan	METHAMIDOPHOS	1993	kg					10259.1					
+26	Michigan	METHAMIDOPHOS	1994	kg					9187.4					
+26	Michigan	METHAMIDOPHOS	1995	kg					10304.4					
+26	Michigan	METHAMIDOPHOS	1996	kg					24995.7					
+26	Michigan	METHAMIDOPHOS	1997	kg					19282.5					
+26	Michigan	METHAMIDOPHOS	1998	kg					5091.6					
+26	Michigan	METHAMIDOPHOS	1999	kg					9521.4					
+26	Michigan	METHAMIDOPHOS	2000	kg					6421.7					
+26	Michigan	METHAMIDOPHOS	2001	kg					4536.2					
+26	Michigan	METHAMIDOPHOS	2002	kg					14896.9					
+26	Michigan	METHAMIDOPHOS	2003	kg					15644.2					
+26	Michigan	METHAMIDOPHOS	2004	kg					267.1					
+26	Michigan	METHAMIDOPHOS	2005	kg					394.8					
+26	Michigan	METHAMIDOPHOS	2006	kg					1679.3					
+26	Michigan	METHAMIDOPHOS	2007	kg					81.9					
+26	Michigan	METHAMIDOPHOS	2008	kg					4938.8					
+26	Michigan	METHAMIDOPHOS	2009	kg					152.7					
+26	Michigan	METHAMIDOPHOS	2012	kg					501.6					
+27	Minnesota	METHAMIDOPHOS	1992	kg					3397.2					
+27	Minnesota	METHAMIDOPHOS	1993	kg					1999.8					
+27	Minnesota	METHAMIDOPHOS	1994	kg					13510					
+27	Minnesota	METHAMIDOPHOS	1995	kg					12887.5					
+27	Minnesota	METHAMIDOPHOS	1996	kg					8913.9					
+27	Minnesota	METHAMIDOPHOS	1997	kg					3039.9					
+27	Minnesota	METHAMIDOPHOS	1998	kg					6028.4					
+27	Minnesota	METHAMIDOPHOS	1999	kg					3436.4					
+27	Minnesota	METHAMIDOPHOS	2000	kg					3636.4					
+27	Minnesota	METHAMIDOPHOS	2001	kg					1286.1					
+27	Minnesota	METHAMIDOPHOS	2002	kg					5939.1					
+27	Minnesota	METHAMIDOPHOS	2003	kg					15766					
+27	Minnesota	METHAMIDOPHOS	2004	kg					3655.1					
+27	Minnesota	METHAMIDOPHOS	2006	kg					6165.6					
+27	Minnesota	METHAMIDOPHOS	2007	kg					2190.7					
+27	Minnesota	METHAMIDOPHOS	2008	kg					44.6					
+28	Mississippi	METHAMIDOPHOS	1992	kg				7904.7	98.9					
+28	Mississippi	METHAMIDOPHOS	1993	kg				616.5	217.8					
+28	Mississippi	METHAMIDOPHOS	1994	kg				369.7	238.4		353.1			
+28	Mississippi	METHAMIDOPHOS	1995	kg				217.8	279.2					
+28	Mississippi	METHAMIDOPHOS	1996	kg				134.7	124					
+28	Mississippi	METHAMIDOPHOS	1997	kg				967.8	217.2					
+28	Mississippi	METHAMIDOPHOS	1998	kg				25848.7						
+28	Mississippi	METHAMIDOPHOS	2000	kg				10417.8	4.7					
+28	Mississippi	METHAMIDOPHOS	2001	kg				3869.6	0.8					
+28	Mississippi	METHAMIDOPHOS	2002	kg				1899.8						
+28	Mississippi	METHAMIDOPHOS	2003	kg				7171.9						
+29	Missouri	METHAMIDOPHOS	2000	kg				1142						
+29	Missouri	METHAMIDOPHOS	2003	kg				1099.7						
+29	Missouri	METHAMIDOPHOS	2004	kg				315.1						
+29	Missouri	METHAMIDOPHOS	2005	kg				703.4						
+29	Missouri	METHAMIDOPHOS	2006	kg				2104.1						
+30	Montana	METHAMIDOPHOS	1992	kg					3247					
+30	Montana	METHAMIDOPHOS	1993	kg					2582.7					
+30	Montana	METHAMIDOPHOS	1994	kg					1391.2					
+30	Montana	METHAMIDOPHOS	1995	kg					1865.6					
+30	Montana	METHAMIDOPHOS	1996	kg					3125.6					
+30	Montana	METHAMIDOPHOS	1997	kg					4124.6					
+30	Montana	METHAMIDOPHOS	1998	kg					3451.9					
+30	Montana	METHAMIDOPHOS	1999	kg					3102.3					
+30	Montana	METHAMIDOPHOS	2000	kg					3698.6					
+30	Montana	METHAMIDOPHOS	2001	kg					2531.9					
+30	Montana	METHAMIDOPHOS	2002	kg					377.6					
+30	Montana	METHAMIDOPHOS	2003	kg					932					
+30	Montana	METHAMIDOPHOS	2004	kg					274.3					
+30	Montana	METHAMIDOPHOS	2005	kg					2178.9					
+30	Montana	METHAMIDOPHOS	2006	kg					701.6					
+30	Montana	METHAMIDOPHOS	2007	kg					1941.4					
+30	Montana	METHAMIDOPHOS	2008	kg					775.1					
+30	Montana	METHAMIDOPHOS	2009	kg					45.8					
+30	Montana	METHAMIDOPHOS	2010	kg					15.3					
+30	Montana	METHAMIDOPHOS	2012	kg					50.5					
+31	Nebraska	METHAMIDOPHOS	1992	kg					605.4					
+31	Nebraska	METHAMIDOPHOS	1993	kg					493.5					
+31	Nebraska	METHAMIDOPHOS	1994	kg					2014.9					
+31	Nebraska	METHAMIDOPHOS	1995	kg					1899.5					
+31	Nebraska	METHAMIDOPHOS	1996	kg					11070.7					
+31	Nebraska	METHAMIDOPHOS	1997	kg					3047.4					
+31	Nebraska	METHAMIDOPHOS	1998	kg					5185.7					
+31	Nebraska	METHAMIDOPHOS	1999	kg					5040.9					
+31	Nebraska	METHAMIDOPHOS	2000	kg					2790.7					
+31	Nebraska	METHAMIDOPHOS	2001	kg					2700.9					
+31	Nebraska	METHAMIDOPHOS	2002	kg					3411.7					
+31	Nebraska	METHAMIDOPHOS	2003	kg					6.7					
+31	Nebraska	METHAMIDOPHOS	2004	kg					666.2					
+31	Nebraska	METHAMIDOPHOS	2006	kg					15956					
+31	Nebraska	METHAMIDOPHOS	2007	kg					904.7					
+32	Nevada	METHAMIDOPHOS	1992	kg					155.3					
+32	Nevada	METHAMIDOPHOS	1993	kg					3512.7					
+32	Nevada	METHAMIDOPHOS	1994	kg					720.8					
+32	Nevada	METHAMIDOPHOS	1995	kg					581				10.3	
+32	Nevada	METHAMIDOPHOS	1996	kg					803.7					
+32	Nevada	METHAMIDOPHOS	1997	kg					604.7					
+32	Nevada	METHAMIDOPHOS	1998	kg					197.4					
+32	Nevada	METHAMIDOPHOS	1999	kg					256.6					
+32	Nevada	METHAMIDOPHOS	2000	kg					2724.3					
+32	Nevada	METHAMIDOPHOS	2001	kg					133.5					
+32	Nevada	METHAMIDOPHOS	2002	kg					5176					
+32	Nevada	METHAMIDOPHOS	2003	kg					1548.9					
+32	Nevada	METHAMIDOPHOS	2004	kg					1768.9					
+32	Nevada	METHAMIDOPHOS	2005	kg					1752.2					
+32	Nevada	METHAMIDOPHOS	2006	kg					547.6					
+32	Nevada	METHAMIDOPHOS	2007	kg					294					
+32	Nevada	METHAMIDOPHOS	2008	kg					158.4					
+32	Nevada	METHAMIDOPHOS	2009	kg					508.9					
+32	Nevada	METHAMIDOPHOS	2010	kg					65.1					
+33	New Hampshire	METHAMIDOPHOS	1992	kg					22.2					
+33	New Hampshire	METHAMIDOPHOS	1993	kg					87.4					
+33	New Hampshire	METHAMIDOPHOS	1994	kg					42.1					
+33	New Hampshire	METHAMIDOPHOS	1995	kg					26.6					
+33	New Hampshire	METHAMIDOPHOS	1996	kg					23.8					
+33	New Hampshire	METHAMIDOPHOS	1997	kg					6.7					
+33	New Hampshire	METHAMIDOPHOS	1998	kg					16.5					
+33	New Hampshire	METHAMIDOPHOS	1999	kg					16.5					
+33	New Hampshire	METHAMIDOPHOS	2000	kg					2.9					
+33	New Hampshire	METHAMIDOPHOS	2001	kg					19					
+33	New Hampshire	METHAMIDOPHOS	2002	kg					21.8					
+33	New Hampshire	METHAMIDOPHOS	2003	kg					7.7					
+33	New Hampshire	METHAMIDOPHOS	2004	kg					21.9					
+33	New Hampshire	METHAMIDOPHOS	2005	kg					4.9					
+33	New Hampshire	METHAMIDOPHOS	2006	kg					4.6					
+33	New Hampshire	METHAMIDOPHOS	2007	kg					11.2					
+33	New Hampshire	METHAMIDOPHOS	2008	kg					26.7					
+33	New Hampshire	METHAMIDOPHOS	2009	kg					24.4					
+33	New Hampshire	METHAMIDOPHOS	2010	kg					0.2					
+34	New Jersey	METHAMIDOPHOS	1992	kg					954.2					
+34	New Jersey	METHAMIDOPHOS	1993	kg	128.7				1400					
+34	New Jersey	METHAMIDOPHOS	1994	kg					1354				18.8	
+34	New Jersey	METHAMIDOPHOS	1995	kg					568.7					
+34	New Jersey	METHAMIDOPHOS	1996	kg					1131.6					
+34	New Jersey	METHAMIDOPHOS	1997	kg					1153.5					
+34	New Jersey	METHAMIDOPHOS	1998	kg					601.9					
+34	New Jersey	METHAMIDOPHOS	1999	kg					341.2					
+34	New Jersey	METHAMIDOPHOS	2000	kg					178.9					
+34	New Jersey	METHAMIDOPHOS	2001	kg					1047.6					
+34	New Jersey	METHAMIDOPHOS	2002	kg					980.7					
+34	New Jersey	METHAMIDOPHOS	2003	kg					540.6					
+34	New Jersey	METHAMIDOPHOS	2004	kg					697.9					
+34	New Jersey	METHAMIDOPHOS	2005	kg					154.1					
+34	New Jersey	METHAMIDOPHOS	2006	kg					155.9					
+34	New Jersey	METHAMIDOPHOS	2007	kg					359.2					
+34	New Jersey	METHAMIDOPHOS	2008	kg					567.7					
+34	New Jersey	METHAMIDOPHOS	2009	kg					452					
+34	New Jersey	METHAMIDOPHOS	2010	kg					66.8					
+34	New Jersey	METHAMIDOPHOS	2012	kg					18.1					
+35	New Mexico	METHAMIDOPHOS	1992	kg				29.6	2318.8					
+35	New Mexico	METHAMIDOPHOS	1993	kg				33.4	418.1					
+35	New Mexico	METHAMIDOPHOS	1994	kg					1233.8					
+35	New Mexico	METHAMIDOPHOS	1995	kg				9.4	913.5					
+35	New Mexico	METHAMIDOPHOS	1996	kg					420.9					
+35	New Mexico	METHAMIDOPHOS	1997	kg					2838.5					
+35	New Mexico	METHAMIDOPHOS	1998	kg				16.9	1026.2					
+35	New Mexico	METHAMIDOPHOS	1999	kg					2272.7					
+35	New Mexico	METHAMIDOPHOS	2000	kg					980.3					
+35	New Mexico	METHAMIDOPHOS	2001	kg					295.6					
+35	New Mexico	METHAMIDOPHOS	2002	kg					19289.1					
+35	New Mexico	METHAMIDOPHOS	2003	kg					701.6					
+35	New Mexico	METHAMIDOPHOS	2004	kg					265.2					
+35	New Mexico	METHAMIDOPHOS	2005	kg					1585.7					
+35	New Mexico	METHAMIDOPHOS	2006	kg					1371.2					
+35	New Mexico	METHAMIDOPHOS	2007	kg					429.9					
+35	New Mexico	METHAMIDOPHOS	2008	kg					43.2					
+35	New Mexico	METHAMIDOPHOS	2009	kg					57					
+35	New Mexico	METHAMIDOPHOS	2010	kg					12.3					
+36	New York	METHAMIDOPHOS	1992	kg					8776.4					
+36	New York	METHAMIDOPHOS	1993	kg	296.4				5860.4					
+36	New York	METHAMIDOPHOS	1994	kg					11116.8				45.5	
+36	New York	METHAMIDOPHOS	1995	kg					5125.1					
+36	New York	METHAMIDOPHOS	1996	kg					8622.4					
+36	New York	METHAMIDOPHOS	1997	kg					4004.2					
+36	New York	METHAMIDOPHOS	1998	kg					6427.2					
+36	New York	METHAMIDOPHOS	1999	kg					2664.5					
+36	New York	METHAMIDOPHOS	2000	kg					3481					
+36	New York	METHAMIDOPHOS	2001	kg					8899.3					
+36	New York	METHAMIDOPHOS	2002	kg					10129.2					
+36	New York	METHAMIDOPHOS	2003	kg					5666.2					
+36	New York	METHAMIDOPHOS	2004	kg					7700.7					
+36	New York	METHAMIDOPHOS	2005	kg					348.7					
+36	New York	METHAMIDOPHOS	2006	kg					284.8					
+36	New York	METHAMIDOPHOS	2007	kg					2978.8					
+36	New York	METHAMIDOPHOS	2008	kg					11413					
+36	New York	METHAMIDOPHOS	2009	kg					4216.6					
+36	New York	METHAMIDOPHOS	2010	kg					776					
+36	New York	METHAMIDOPHOS	2012	kg					38.4					
+37	North Carolina	METHAMIDOPHOS	1992	kg				1820.8	2311.2					
+37	North Carolina	METHAMIDOPHOS	1993	kg					3510.1					
+37	North Carolina	METHAMIDOPHOS	1994	kg					5796.9					
+37	North Carolina	METHAMIDOPHOS	1995	kg					10747.5					
+37	North Carolina	METHAMIDOPHOS	1996	kg					791.8					
+37	North Carolina	METHAMIDOPHOS	1997	kg					2416.8					
+37	North Carolina	METHAMIDOPHOS	1998	kg				26500.1	2196.1					
+37	North Carolina	METHAMIDOPHOS	1999	kg					560.7					
+37	North Carolina	METHAMIDOPHOS	2000	kg					1416					
+37	North Carolina	METHAMIDOPHOS	2001	kg				1885.2	847.4					
+37	North Carolina	METHAMIDOPHOS	2006	kg					1148					
+37	North Carolina	METHAMIDOPHOS	2009	kg					13.5					
+38	North Dakota	METHAMIDOPHOS	1993	kg					7106.7					
+38	North Dakota	METHAMIDOPHOS	1994	kg					54267.8					
+38	North Dakota	METHAMIDOPHOS	1995	kg					13272.8					
+38	North Dakota	METHAMIDOPHOS	1996	kg					13607.2					
+38	North Dakota	METHAMIDOPHOS	1997	kg					10265.3					
+38	North Dakota	METHAMIDOPHOS	1998	kg					11188.9					
+38	North Dakota	METHAMIDOPHOS	1999	kg					2972.4					
+38	North Dakota	METHAMIDOPHOS	2000	kg					6856.5					
+38	North Dakota	METHAMIDOPHOS	2001	kg					19520.4					
+38	North Dakota	METHAMIDOPHOS	2002	kg					6813.1					
+38	North Dakota	METHAMIDOPHOS	2003	kg					1416.3					
+38	North Dakota	METHAMIDOPHOS	2004	kg					10421.8					
+38	North Dakota	METHAMIDOPHOS	2006	kg					14337.1					
+38	North Dakota	METHAMIDOPHOS	2007	kg					14532.5					
+38	North Dakota	METHAMIDOPHOS	2008	kg					343.4					
+39	Ohio	METHAMIDOPHOS	1992	kg					282.6					
+39	Ohio	METHAMIDOPHOS	1993	kg					2260.5					
+39	Ohio	METHAMIDOPHOS	1994	kg					4765.5					
+39	Ohio	METHAMIDOPHOS	1995	kg	5089.7				3274.4					
+39	Ohio	METHAMIDOPHOS	1996	kg					9776.1					
+39	Ohio	METHAMIDOPHOS	1997	kg					1109.6					
+39	Ohio	METHAMIDOPHOS	1998	kg					1337.8					
+39	Ohio	METHAMIDOPHOS	1999	kg					827.9					
+39	Ohio	METHAMIDOPHOS	2000	kg					610.6					
+39	Ohio	METHAMIDOPHOS	2001	kg					142.9					
+39	Ohio	METHAMIDOPHOS	2002	kg					623.6					
+39	Ohio	METHAMIDOPHOS	2003	kg					2187.4					
+39	Ohio	METHAMIDOPHOS	2004	kg					171.9					
+39	Ohio	METHAMIDOPHOS	2006	kg					129.5					
+40	Oklahoma	METHAMIDOPHOS	1992	kg					43.8					
+40	Oklahoma	METHAMIDOPHOS	1993	kg				67.5						
+40	Oklahoma	METHAMIDOPHOS	1995	kg					0.2					
+40	Oklahoma	METHAMIDOPHOS	1996	kg				0.8	0.2					
+40	Oklahoma	METHAMIDOPHOS	1997	kg				9.9	0.2					
+40	Oklahoma	METHAMIDOPHOS	1998	kg				24.1						
+40	Oklahoma	METHAMIDOPHOS	1999	kg					0.3					
+40	Oklahoma	METHAMIDOPHOS	2000	kg				3.9						
+40	Oklahoma	METHAMIDOPHOS	2002	kg					1.5					
+40	Oklahoma	METHAMIDOPHOS	2005	kg				47.3						
+41	Oregon	METHAMIDOPHOS	1992	kg					28359.5					
+41	Oregon	METHAMIDOPHOS	1993	kg					20248.6			1806.9		
+41	Oregon	METHAMIDOPHOS	1994	kg					10268.4					
+41	Oregon	METHAMIDOPHOS	1995	kg					10558.9					
+41	Oregon	METHAMIDOPHOS	1996	kg					22793.6					
+41	Oregon	METHAMIDOPHOS	1997	kg					3100.1					
+41	Oregon	METHAMIDOPHOS	1998	kg					35349.7					
+41	Oregon	METHAMIDOPHOS	1999	kg					18889.7					
+41	Oregon	METHAMIDOPHOS	2000	kg					9026.8					
+41	Oregon	METHAMIDOPHOS	2001	kg					5720.5					
+41	Oregon	METHAMIDOPHOS	2002	kg					22713.9					
+41	Oregon	METHAMIDOPHOS	2003	kg					10873.1					
+41	Oregon	METHAMIDOPHOS	2004	kg					4416.3					
+41	Oregon	METHAMIDOPHOS	2005	kg					5606.9					
+41	Oregon	METHAMIDOPHOS	2006	kg					9243.7					
+41	Oregon	METHAMIDOPHOS	2007	kg					4909.6					
+41	Oregon	METHAMIDOPHOS	2008	kg					7262.7					
+41	Oregon	METHAMIDOPHOS	2009	kg					6614.1					
+41	Oregon	METHAMIDOPHOS	2010	kg					734.5					
+42	Pennsylvania	METHAMIDOPHOS	1992	kg					2755.8					
+42	Pennsylvania	METHAMIDOPHOS	1993	kg					7184.4					
+42	Pennsylvania	METHAMIDOPHOS	1994	kg					9640.2					
+42	Pennsylvania	METHAMIDOPHOS	1995	kg					1657.8					
+42	Pennsylvania	METHAMIDOPHOS	1996	kg					1471.3					
+42	Pennsylvania	METHAMIDOPHOS	1997	kg					3410.5					
+42	Pennsylvania	METHAMIDOPHOS	1998	kg					3097					
+42	Pennsylvania	METHAMIDOPHOS	1999	kg					3178.4					
+42	Pennsylvania	METHAMIDOPHOS	2000	kg					1710.7					
+42	Pennsylvania	METHAMIDOPHOS	2001	kg					2514.1					
+42	Pennsylvania	METHAMIDOPHOS	2002	kg					1634.7					
+42	Pennsylvania	METHAMIDOPHOS	2003	kg					1495.1					
+42	Pennsylvania	METHAMIDOPHOS	2004	kg					3064.5					
+42	Pennsylvania	METHAMIDOPHOS	2005	kg					761.9					
+42	Pennsylvania	METHAMIDOPHOS	2006	kg					633.2					
+42	Pennsylvania	METHAMIDOPHOS	2007	kg					1453.3					
+42	Pennsylvania	METHAMIDOPHOS	2008	kg					1327.3					
+42	Pennsylvania	METHAMIDOPHOS	2009	kg					2217.2					
+42	Pennsylvania	METHAMIDOPHOS	2010	kg					246					
+42	Pennsylvania	METHAMIDOPHOS	2012	kg					387.5					
+44	Rhode Island	METHAMIDOPHOS	1992	kg					122.3					
+44	Rhode Island	METHAMIDOPHOS	1993	kg					108.2					
+44	Rhode Island	METHAMIDOPHOS	1994	kg					258.6					
+44	Rhode Island	METHAMIDOPHOS	1995	kg					80.7					
+44	Rhode Island	METHAMIDOPHOS	1996	kg					49.1					
+44	Rhode Island	METHAMIDOPHOS	1997	kg					17.2					
+44	Rhode Island	METHAMIDOPHOS	1998	kg					133.4					
+44	Rhode Island	METHAMIDOPHOS	1999	kg					82.3					
+44	Rhode Island	METHAMIDOPHOS	2000	kg					23.6					
+44	Rhode Island	METHAMIDOPHOS	2001	kg					58.2					
+44	Rhode Island	METHAMIDOPHOS	2002	kg					163					
+44	Rhode Island	METHAMIDOPHOS	2003	kg					56.6					
+44	Rhode Island	METHAMIDOPHOS	2004	kg					156.6					
+44	Rhode Island	METHAMIDOPHOS	2005	kg					34.7					
+44	Rhode Island	METHAMIDOPHOS	2006	kg					31.4					
+44	Rhode Island	METHAMIDOPHOS	2007	kg					75.7					
+44	Rhode Island	METHAMIDOPHOS	2008	kg					147.3					
+44	Rhode Island	METHAMIDOPHOS	2009	kg					114.6					
+44	Rhode Island	METHAMIDOPHOS	2010	kg					15.4					
+45	South Carolina	METHAMIDOPHOS	1992	kg					165.8					
+45	South Carolina	METHAMIDOPHOS	1993	kg					186.4					
+45	South Carolina	METHAMIDOPHOS	1994	kg					140.6					
+45	South Carolina	METHAMIDOPHOS	1995	kg					463.4					
+45	South Carolina	METHAMIDOPHOS	1996	kg					236					
+45	South Carolina	METHAMIDOPHOS	1997	kg					516.7					
+45	South Carolina	METHAMIDOPHOS	1998	kg					555.1					
+45	South Carolina	METHAMIDOPHOS	2000	kg					15.6					
+45	South Carolina	METHAMIDOPHOS	2001	kg					2346.7					
+45	South Carolina	METHAMIDOPHOS	2002	kg					674.7					
+45	South Carolina	METHAMIDOPHOS	2009	kg					2					
+46	South Dakota	METHAMIDOPHOS	1993	kg					297.2					
+46	South Dakota	METHAMIDOPHOS	1994	kg					1037.3					
+46	South Dakota	METHAMIDOPHOS	1995	kg					569.8					
+46	South Dakota	METHAMIDOPHOS	1996	kg					617.3					
+46	South Dakota	METHAMIDOPHOS	1997	kg					787.9					
+46	South Dakota	METHAMIDOPHOS	1998	kg					257.5					
+46	South Dakota	METHAMIDOPHOS	1999	kg					350.8					
+46	South Dakota	METHAMIDOPHOS	2000	kg					707.5					
+46	South Dakota	METHAMIDOPHOS	2001	kg					382.9					
+46	South Dakota	METHAMIDOPHOS	2002	kg					582.9					
+46	South Dakota	METHAMIDOPHOS	2003	kg					10.6					
+46	South Dakota	METHAMIDOPHOS	2004	kg					197.7					
+46	South Dakota	METHAMIDOPHOS	2006	kg					386.9					
+46	South Dakota	METHAMIDOPHOS	2007	kg					251.6					
+47	Tennessee	METHAMIDOPHOS	1992	kg				3226.7	209.5					
+47	Tennessee	METHAMIDOPHOS	1993	kg				1675.9	839.5					
+47	Tennessee	METHAMIDOPHOS	1994	kg					1784.8					
+47	Tennessee	METHAMIDOPHOS	1995	kg					8530.1					
+47	Tennessee	METHAMIDOPHOS	1996	kg					76.3					
+47	Tennessee	METHAMIDOPHOS	1997	kg					81.4					
+47	Tennessee	METHAMIDOPHOS	1998	kg				10361.6	200.9					
+47	Tennessee	METHAMIDOPHOS	2000	kg				3399	24					
+47	Tennessee	METHAMIDOPHOS	2001	kg				1105.7						
+47	Tennessee	METHAMIDOPHOS	2002	kg				888						
+47	Tennessee	METHAMIDOPHOS	2003	kg				1453.5						
+47	Tennessee	METHAMIDOPHOS	2004	kg				695.9						
+47	Tennessee	METHAMIDOPHOS	2005	kg				1622.4						
+47	Tennessee	METHAMIDOPHOS	2006	kg				991.6	146.4					
+47	Tennessee	METHAMIDOPHOS	2009	kg					0.2					
+48	Texas	METHAMIDOPHOS	1992	kg					4565.3					
+48	Texas	METHAMIDOPHOS	1993	kg				7436	1787.3					
+48	Texas	METHAMIDOPHOS	1994	kg					9173.1					389.1
+48	Texas	METHAMIDOPHOS	1995	kg					3672.9					
+48	Texas	METHAMIDOPHOS	1996	kg				90.4	7582.4					
+48	Texas	METHAMIDOPHOS	1997	kg				1232.2	22349.8					
+48	Texas	METHAMIDOPHOS	1998	kg				141.8	1997.2					
+48	Texas	METHAMIDOPHOS	1999	kg					1753.3					
+48	Texas	METHAMIDOPHOS	2000	kg				15680.8	352.4					
+48	Texas	METHAMIDOPHOS	2002	kg					3698.3					
+48	Texas	METHAMIDOPHOS	2006	kg					8183.9					
+49	Utah	METHAMIDOPHOS	1992	kg					1577.1					
+49	Utah	METHAMIDOPHOS	1993	kg					1724.8					
+49	Utah	METHAMIDOPHOS	1994	kg					543.9					
+49	Utah	METHAMIDOPHOS	1995	kg					283.9					
+49	Utah	METHAMIDOPHOS	1996	kg					341.1					
+49	Utah	METHAMIDOPHOS	1997	kg					588.4					
+49	Utah	METHAMIDOPHOS	1998	kg					558.7					
+49	Utah	METHAMIDOPHOS	1999	kg					435.8					
+49	Utah	METHAMIDOPHOS	2000	kg					359.2					
+49	Utah	METHAMIDOPHOS	2001	kg					124.9					
+49	Utah	METHAMIDOPHOS	2002	kg					545.6					
+49	Utah	METHAMIDOPHOS	2003	kg					258.7					
+49	Utah	METHAMIDOPHOS	2004	kg					95.2					
+49	Utah	METHAMIDOPHOS	2005	kg					542					
+49	Utah	METHAMIDOPHOS	2006	kg					118.2					
+49	Utah	METHAMIDOPHOS	2007	kg					129.5					
+49	Utah	METHAMIDOPHOS	2008	kg					14.3					
+49	Utah	METHAMIDOPHOS	2009	kg					22					
+49	Utah	METHAMIDOPHOS	2010	kg					3.9					
+49	Utah	METHAMIDOPHOS	2012	kg					4.5					
+50	Vermont	METHAMIDOPHOS	1992	kg					19					
+50	Vermont	METHAMIDOPHOS	1993	kg					39.1					
+50	Vermont	METHAMIDOPHOS	1994	kg					90.2					
+50	Vermont	METHAMIDOPHOS	1995	kg					20.9					
+50	Vermont	METHAMIDOPHOS	1996	kg					33.9					
+50	Vermont	METHAMIDOPHOS	1997	kg					24.7					
+50	Vermont	METHAMIDOPHOS	1998	kg					30.7					
+50	Vermont	METHAMIDOPHOS	1999	kg					17.5					
+50	Vermont	METHAMIDOPHOS	2000	kg					5.3					
+50	Vermont	METHAMIDOPHOS	2001	kg					15.4					
+50	Vermont	METHAMIDOPHOS	2002	kg					49.4					
+50	Vermont	METHAMIDOPHOS	2003	kg					17.9					
+50	Vermont	METHAMIDOPHOS	2004	kg					52.5					
+50	Vermont	METHAMIDOPHOS	2005	kg					12.2					
+50	Vermont	METHAMIDOPHOS	2006	kg					11.7					
+50	Vermont	METHAMIDOPHOS	2007	kg					28.8					
+50	Vermont	METHAMIDOPHOS	2008	kg					71.8					
+50	Vermont	METHAMIDOPHOS	2009	kg					55.4					
+50	Vermont	METHAMIDOPHOS	2010	kg					7.4					
+51	Virginia	METHAMIDOPHOS	1992	kg					627.8					
+51	Virginia	METHAMIDOPHOS	1993	kg					670.4					
+51	Virginia	METHAMIDOPHOS	1994	kg					298.5					
+51	Virginia	METHAMIDOPHOS	1995	kg					2542.9					
+51	Virginia	METHAMIDOPHOS	1996	kg					7653.6					
+51	Virginia	METHAMIDOPHOS	1997	kg					4277.5					
+51	Virginia	METHAMIDOPHOS	1998	kg					48.7					
+51	Virginia	METHAMIDOPHOS	1999	kg					1					
+51	Virginia	METHAMIDOPHOS	2000	kg					645.5					
+51	Virginia	METHAMIDOPHOS	2001	kg					213.7					
+51	Virginia	METHAMIDOPHOS	2006	kg					361.2					
+53	Washington	METHAMIDOPHOS	1992	kg					64246.9					
+53	Washington	METHAMIDOPHOS	1993	kg					74676.8					
+53	Washington	METHAMIDOPHOS	1994	kg					91125.8					
+53	Washington	METHAMIDOPHOS	1995	kg					143935.2					
+53	Washington	METHAMIDOPHOS	1996	kg					147534.1					
+53	Washington	METHAMIDOPHOS	1997	kg					101758.4					
+53	Washington	METHAMIDOPHOS	1998	kg					62430.5					
+53	Washington	METHAMIDOPHOS	1999	kg					67961.4					
+53	Washington	METHAMIDOPHOS	2000	kg					58907.7					
+53	Washington	METHAMIDOPHOS	2001	kg					49788.2					
+53	Washington	METHAMIDOPHOS	2002	kg					78181.4					
+53	Washington	METHAMIDOPHOS	2003	kg					70860.5					
+53	Washington	METHAMIDOPHOS	2004	kg					39631.3					
+53	Washington	METHAMIDOPHOS	2005	kg					59044.9					
+53	Washington	METHAMIDOPHOS	2006	kg					47476.7					
+53	Washington	METHAMIDOPHOS	2007	kg					47184.9					
+53	Washington	METHAMIDOPHOS	2008	kg					29721.9					
+53	Washington	METHAMIDOPHOS	2009	kg					35397.2					
+53	Washington	METHAMIDOPHOS	2010	kg					20741.3					
+53	Washington	METHAMIDOPHOS	2011	kg					18174.1					
+53	Washington	METHAMIDOPHOS	2012	kg					5060.3					
+54	West Virginia	METHAMIDOPHOS	1992	kg					6.6					
+54	West Virginia	METHAMIDOPHOS	1993	kg					63.5					
+54	West Virginia	METHAMIDOPHOS	1994	kg					52.5					
+54	West Virginia	METHAMIDOPHOS	1995	kg					694.1					
+54	West Virginia	METHAMIDOPHOS	1996	kg					17.4					
+54	West Virginia	METHAMIDOPHOS	1997	kg					71					
+54	West Virginia	METHAMIDOPHOS	1998	kg					18.6					
+54	West Virginia	METHAMIDOPHOS	2000	kg					2.4					
+54	West Virginia	METHAMIDOPHOS	2001	kg					8.1					
+54	West Virginia	METHAMIDOPHOS	2002	kg					36.6					
+54	West Virginia	METHAMIDOPHOS	2003	kg					11.8					
+54	West Virginia	METHAMIDOPHOS	2004	kg					10					
+54	West Virginia	METHAMIDOPHOS	2006	kg					6.1					
+55	Wisconsin	METHAMIDOPHOS	1992	kg					11994.7					
+55	Wisconsin	METHAMIDOPHOS	1993	kg					11457.1					
+55	Wisconsin	METHAMIDOPHOS	1994	kg					25517.9					
+55	Wisconsin	METHAMIDOPHOS	1995	kg					9856					
+55	Wisconsin	METHAMIDOPHOS	1996	kg					12941.2					
+55	Wisconsin	METHAMIDOPHOS	1997	kg					7791.1					
+55	Wisconsin	METHAMIDOPHOS	1998	kg					15527.6					
+55	Wisconsin	METHAMIDOPHOS	1999	kg					6140					
+55	Wisconsin	METHAMIDOPHOS	2000	kg					7825.5					
+55	Wisconsin	METHAMIDOPHOS	2001	kg					8169.6					
+55	Wisconsin	METHAMIDOPHOS	2002	kg					4004.6					
+55	Wisconsin	METHAMIDOPHOS	2003	kg					31203.6					
+55	Wisconsin	METHAMIDOPHOS	2004	kg					548.8					
+55	Wisconsin	METHAMIDOPHOS	2005	kg					567					
+55	Wisconsin	METHAMIDOPHOS	2006	kg					1633.4					
+55	Wisconsin	METHAMIDOPHOS	2007	kg					346.5					
+55	Wisconsin	METHAMIDOPHOS	2008	kg					322.5					
+55	Wisconsin	METHAMIDOPHOS	2009	kg					385.6					
+55	Wisconsin	METHAMIDOPHOS	2012	kg					1452.6					
+56	Wyoming	METHAMIDOPHOS	1992	kg					1.3					
+56	Wyoming	METHAMIDOPHOS	1993	kg					83.1					
+56	Wyoming	METHAMIDOPHOS	1994	kg					325.6					
+56	Wyoming	METHAMIDOPHOS	1995	kg					205.4					
+56	Wyoming	METHAMIDOPHOS	1996	kg					471.1					
+56	Wyoming	METHAMIDOPHOS	1997	kg					271.5					
+56	Wyoming	METHAMIDOPHOS	1998	kg					204.9					
+56	Wyoming	METHAMIDOPHOS	1999	kg					51.1					
+56	Wyoming	METHAMIDOPHOS	2000	kg					215.9					
+56	Wyoming	METHAMIDOPHOS	2001	kg					502					
+56	Wyoming	METHAMIDOPHOS	2002	kg					360.2					
+56	Wyoming	METHAMIDOPHOS	2003	kg					0.5					
+56	Wyoming	METHAMIDOPHOS	2004	kg					138.5					
+56	Wyoming	METHAMIDOPHOS	2005	kg					1.2					
+56	Wyoming	METHAMIDOPHOS	2006	kg					1140.8					
+56	Wyoming	METHAMIDOPHOS	2007	kg					202.3					
+56	Wyoming	METHAMIDOPHOS	2008	kg					4.6					
+56	Wyoming	METHAMIDOPHOS	2009	kg					3.8					
+56	Wyoming	METHAMIDOPHOS	2010	kg					1					
+56	Wyoming	METHAMIDOPHOS	2012	kg					0.1					

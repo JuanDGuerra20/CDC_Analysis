@@ -1,0 +1,107 @@
+01	Alabama	VERNOLATE	1992	kg		1121								13252.3
+01	Alabama	VERNOLATE	1993	kg		28700.2								3576.3
+01	Alabama	VERNOLATE	1994	kg		2810.3			64.6					7287.9
+01	Alabama	VERNOLATE	1995	kg		123.7								2187.2
+01	Alabama	VERNOLATE	1996	kg		9283.5								10748.5
+01	Alabama	VERNOLATE	1997	kg		4457.6								180.1
+01	Alabama	VERNOLATE	1998	kg										7476.1
+01	Alabama	VERNOLATE	1999	kg										5802.7
+01	Alabama	VERNOLATE	2000	kg										735.1
+05	Arkansas	VERNOLATE	1992	kg				2156.9						
+06	California	VERNOLATE	1998	kg	119.1									
+06	California	VERNOLATE	1999	kg	103.6									
+08	Colorado	VERNOLATE	1992	kg	2577.4									
+10	Delaware	VERNOLATE	1992	kg		134.8								
+10	Delaware	VERNOLATE	1993	kg		145.3								
+10	Delaware	VERNOLATE	1994	kg		76.8								
+10	Delaware	VERNOLATE	1995	kg		18.6								
+10	Delaware	VERNOLATE	1996	kg		241.3								
+10	Delaware	VERNOLATE	1997	kg		550.2								
+12	Florida	VERNOLATE	1992	kg										5617.4
+12	Florida	VERNOLATE	1993	kg		6140.5								9413.7
+12	Florida	VERNOLATE	1994	kg		862			216.9					4190.9
+12	Florida	VERNOLATE	1995	kg										6655.5
+12	Florida	VERNOLATE	1996	kg										442.9
+12	Florida	VERNOLATE	1997	kg		442.6								2589.8
+12	Florida	VERNOLATE	1998	kg					2803					2383
+12	Florida	VERNOLATE	1999	kg					3287.5					2561.1
+13	Georgia	VERNOLATE	1992	kg		2238.9								94281.1
+13	Georgia	VERNOLATE	1993	kg		14375.9								60075.8
+13	Georgia	VERNOLATE	1994	kg		12304.4			6200.2					65383.3
+13	Georgia	VERNOLATE	1995	kg		128.5								32357
+13	Georgia	VERNOLATE	1996	kg		1696.9								41870.8
+13	Georgia	VERNOLATE	1997	kg		5200.5			4825.9					43023.8
+13	Georgia	VERNOLATE	1998	kg										20553.3
+13	Georgia	VERNOLATE	1999	kg										16195
+13	Georgia	VERNOLATE	2000	kg										1915.9
+17	Illinois	VERNOLATE	1993	kg	220.1									
+18	Indiana	VERNOLATE	1993	kg	208.7									
+18	Indiana	VERNOLATE	1996	kg		162099.3								
+21	Kentucky	VERNOLATE	1993	kg	71.5									
+22	Louisiana	VERNOLATE	1992	kg				6270.9						
+24	Maryland	VERNOLATE	1992	kg		1145.1								
+24	Maryland	VERNOLATE	1993	kg		1548.1								
+24	Maryland	VERNOLATE	1994	kg		1037.3								
+24	Maryland	VERNOLATE	1995	kg		158.3								
+24	Maryland	VERNOLATE	1996	kg		1433.7								
+24	Maryland	VERNOLATE	1997	kg		4402.9								
+28	Mississippi	VERNOLATE	1992	kg										290.6
+28	Mississippi	VERNOLATE	1993	kg										183.5
+28	Mississippi	VERNOLATE	1994	kg										160.5
+28	Mississippi	VERNOLATE	1995	kg										104.2
+28	Mississippi	VERNOLATE	1996	kg		11446.9								590.7
+28	Mississippi	VERNOLATE	1997	kg										291.6
+28	Mississippi	VERNOLATE	1998	kg										140.2
+28	Mississippi	VERNOLATE	1999	kg										50.4
+28	Mississippi	VERNOLATE	2000	kg										7.3
+31	Nebraska	VERNOLATE	1992	kg	9520.1									
+34	New Jersey	VERNOLATE	1994	kg		456.8								
+35	New Mexico	VERNOLATE	1992	kg										806.7
+35	New Mexico	VERNOLATE	1994	kg										136.2
+35	New Mexico	VERNOLATE	1996	kg										868.3
+35	New Mexico	VERNOLATE	1997	kg										2019.8
+37	North Carolina	VERNOLATE	1992	kg		5970		3780.8						36204.9
+37	North Carolina	VERNOLATE	1993	kg		4832.6								33510.8
+37	North Carolina	VERNOLATE	1994	kg		5514.2								28940.3
+37	North Carolina	VERNOLATE	1995	kg		773.8	9715.8		15.4					43106.8
+37	North Carolina	VERNOLATE	1996	kg		3307.5								39260.9
+37	North Carolina	VERNOLATE	1997	kg		6177.1		5485.6						29271.5
+37	North Carolina	VERNOLATE	1998	kg		2702.6								19157.8
+37	North Carolina	VERNOLATE	1999	kg										2466.1
+37	North Carolina	VERNOLATE	2000	kg										175.8
+40	Oklahoma	VERNOLATE	1992	kg		8354.7								
+40	Oklahoma	VERNOLATE	1994	kg										837.2
+40	Oklahoma	VERNOLATE	1996	kg										966.4
+40	Oklahoma	VERNOLATE	1997	kg										1798.2
+40	Oklahoma	VERNOLATE	2000	kg										822.1
+41	Oregon	VERNOLATE	1992	kg					6096.2					
+41	Oregon	VERNOLATE	1993	kg					43543.9					
+42	Pennsylvania	VERNOLATE	1994	kg		949.1								
+45	South Carolina	VERNOLATE	1992	kg		3335.4								6842.7
+45	South Carolina	VERNOLATE	1993	kg		12038.8								3112.7
+45	South Carolina	VERNOLATE	1994	kg		2998.4								2517.6
+45	South Carolina	VERNOLATE	1995	kg		549.2								1449.9
+45	South Carolina	VERNOLATE	1996	kg		3775.4								2921.3
+45	South Carolina	VERNOLATE	1997	kg		16714			6858.4					3320
+45	South Carolina	VERNOLATE	1998	kg		63829.1								1909.8
+45	South Carolina	VERNOLATE	1999	kg										669.1
+45	South Carolina	VERNOLATE	2000	kg					880.1					97.4
+46	South Dakota	VERNOLATE	1992	kg	62.7									
+47	Tennessee	VERNOLATE	1996	kg		27297.3								
+48	Texas	VERNOLATE	1992	kg		18031.9								47949.8
+48	Texas	VERNOLATE	1994	kg										2727.4
+48	Texas	VERNOLATE	1995	kg										3735.7
+48	Texas	VERNOLATE	1996	kg										14407.4
+48	Texas	VERNOLATE	1997	kg									2631.6	38158.9
+51	Virginia	VERNOLATE	1992	kg		4661.2		280.5						14859.4
+51	Virginia	VERNOLATE	1993	kg		480.1								6227.1
+51	Virginia	VERNOLATE	1994	kg		572								8168.7
+51	Virginia	VERNOLATE	1995	kg		166.2	1809.4							9279
+51	Virginia	VERNOLATE	1996	kg		564.8								1667.4
+51	Virginia	VERNOLATE	1997	kg		1677.3		979.8						11923.9
+51	Virginia	VERNOLATE	1998	kg		1617.2								6088.7
+51	Virginia	VERNOLATE	1999	kg										4375.1
+51	Virginia	VERNOLATE	2000	kg										500
+53	Washington	VERNOLATE	1992	kg					577.4					
+53	Washington	VERNOLATE	1993	kg					22793.8					
+56	Wyoming	VERNOLATE	1992	kg	377.1									

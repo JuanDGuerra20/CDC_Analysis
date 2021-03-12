@@ -1,0 +1,15 @@
+06	California	CHLOROXURON	1992	kg					534.2					
+06	California	CHLOROXURON	1993	kg					412.2					
+06	California	CHLOROXURON	1994	kg					254.4					
+06	California	CHLOROXURON	1995	kg					173.7					
+06	California	CHLOROXURON	1996	kg					140.6		0.6			
+06	California	CHLOROXURON	1997	kg					27.5					
+06	California	CHLOROXURON	1998	kg					57.8					
+06	California	CHLOROXURON	1999	kg					17					
+06	California	CHLOROXURON	2000	kg					114.9					
+06	California	CHLOROXURON	2001	kg					7.8					
+06	California	CHLOROXURON	2002	kg					13.6					
+06	California	CHLOROXURON	2005	kg					2.7					
+06	California	CHLOROXURON	2008	kg					6.8					
+12	Florida	CHLOROXURON	1992	kg										538.2
+13	Georgia	CHLOROXURON	1992	kg										4863.4

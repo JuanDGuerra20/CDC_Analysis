@@ -1,0 +1,55 @@
+01	Alabama	METHIOCARB	1992	kg				833.7						
+04	Arizona	METHIOCARB	1992	kg							272.3			
+05	Arkansas	METHIOCARB	1992	kg				257		636.5				
+05	Arkansas	METHIOCARB	1994	kg										1839.2
+05	Arkansas	METHIOCARB	1995	kg						17406.7				
+06	California	METHIOCARB	1992	kg					20.4		1192.7			
+06	California	METHIOCARB	1993	kg					34.9		804.5			
+06	California	METHIOCARB	1994	kg					9.9		972.9			
+06	California	METHIOCARB	1995	kg							431			
+06	California	METHIOCARB	1996	kg					6.4		450.4			
+06	California	METHIOCARB	1997	kg							1046.4			
+06	California	METHIOCARB	1998	kg					0.6		1254.2			2
+06	California	METHIOCARB	1999	kg					1.7		753.8			
+06	California	METHIOCARB	2000	kg					0.8		364			0.9
+06	California	METHIOCARB	2001	kg							494.7			
+06	California	METHIOCARB	2002	kg					0.3		433.8			
+06	California	METHIOCARB	2003	kg							711.7			
+06	California	METHIOCARB	2004	kg							865.8			40.8
+06	California	METHIOCARB	2005	kg							805.6			
+06	California	METHIOCARB	2006	kg							531.7			
+06	California	METHIOCARB	2007	kg					2.7		550.1			
+06	California	METHIOCARB	2008	kg							651.9			
+06	California	METHIOCARB	2009	kg							1068.3			
+06	California	METHIOCARB	2010	kg							1062.4			
+06	California	METHIOCARB	2011	kg							841			
+06	California	METHIOCARB	2012	kg							1208.6			
+06	California	METHIOCARB	2013	kg							1125.2			
+06	California	METHIOCARB	2014	kg							1204			
+06	California	METHIOCARB	2015	kg							1216			
+06	California	METHIOCARB	2016	kg							929.5			
+06	California	METHIOCARB	2017	kg							1067.2			
+08	Colorado	METHIOCARB	1993	kg	2570.4									
+09	Connecticut	METHIOCARB	1994	kg							217.4			
+12	Florida	METHIOCARB	1994	kg							74.1			
+17	Illinois	METHIOCARB	1995	kg							1.5			
+17	Illinois	METHIOCARB	1996	kg	180296.9									
+21	Kentucky	METHIOCARB	1996	kg	10004.9									
+22	Louisiana	METHIOCARB	1992	kg				727.9		1869.9				
+22	Louisiana	METHIOCARB	1994	kg										317.8
+22	Louisiana	METHIOCARB	1995	kg						9503.1				
+25	Massachusetts	METHIOCARB	1994	kg							1556.9			
+27	Minnesota	METHIOCARB	1995	kg							2			
+28	Mississippi	METHIOCARB	1992	kg				10013.7		1238.4				
+28	Mississippi	METHIOCARB	1994	kg										87.7
+28	Mississippi	METHIOCARB	1995	kg						27598.3				
+29	Missouri	METHIOCARB	1996	kg	29910.1									
+31	Nebraska	METHIOCARB	1993	kg	2815.9									
+33	New Hampshire	METHIOCARB	1994	kg							229.4			
+36	New York	METHIOCARB	1994	kg							1298.9			
+44	Rhode Island	METHIOCARB	1994	kg							30.8			
+47	Tennessee	METHIOCARB	1992	kg				1322.8		0				
+48	Texas	METHIOCARB	1992	kg						687.5				
+50	Vermont	METHIOCARB	1994	kg							302.3			
+55	Wisconsin	METHIOCARB	1995	kg							41.2			
+56	Wyoming	METHIOCARB	1993	kg	179.3									

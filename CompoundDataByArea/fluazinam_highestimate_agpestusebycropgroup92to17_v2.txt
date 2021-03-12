@@ -1,0 +1,266 @@
+01	Alabama	FLUAZINAM	2010	kg					25.1					
+06	California	FLUAZINAM	2012	kg					77.3		21.9			
+06	California	FLUAZINAM	2013	kg					63.9		22			
+06	California	FLUAZINAM	2014	kg					85					
+06	California	FLUAZINAM	2015	kg					271.2		37			
+06	California	FLUAZINAM	2016	kg					356.8		50.6			
+06	California	FLUAZINAM	2017	kg					155.4		23.8			
+10	Delaware	FLUAZINAM	2009	kg					143.3					
+10	Delaware	FLUAZINAM	2013	kg					196.3					
+10	Delaware	FLUAZINAM	2016	kg					792.2					
+10	Delaware	FLUAZINAM	2017	kg					1815.6					
+12	Florida	FLUAZINAM	2010	kg					294.2					
+13	Georgia	FLUAZINAM	2010	kg					77.5					
+13	Georgia	FLUAZINAM	2015	kg							147.1			
+16	Idaho	FLUAZINAM	2002	kg					5639.5					
+16	Idaho	FLUAZINAM	2003	kg					3511.1					
+16	Idaho	FLUAZINAM	2004	kg					3207.5					
+16	Idaho	FLUAZINAM	2005	kg					4551.9					
+16	Idaho	FLUAZINAM	2006	kg					6414.1					
+16	Idaho	FLUAZINAM	2007	kg					3649.6					
+16	Idaho	FLUAZINAM	2008	kg					2516.9					
+16	Idaho	FLUAZINAM	2009	kg					3860.7					
+16	Idaho	FLUAZINAM	2010	kg					2726.3					
+16	Idaho	FLUAZINAM	2011	kg					1743.9					
+16	Idaho	FLUAZINAM	2012	kg					7706.9					
+16	Idaho	FLUAZINAM	2013	kg					3271.5					
+16	Idaho	FLUAZINAM	2014	kg					9472.3					
+16	Idaho	FLUAZINAM	2015	kg					8857.6					
+16	Idaho	FLUAZINAM	2016	kg					5508.8					
+16	Idaho	FLUAZINAM	2017	kg					2599.9					
+17	Illinois	FLUAZINAM	2012	kg					80.1					
+17	Illinois	FLUAZINAM	2013	kg					763.2					
+17	Illinois	FLUAZINAM	2014	kg					246.1					
+17	Illinois	FLUAZINAM	2015	kg					103.9					
+17	Illinois	FLUAZINAM	2016	kg					235.5					
+17	Illinois	FLUAZINAM	2017	kg					684.7					
+18	Indiana	FLUAZINAM	2010	kg					58.9					
+18	Indiana	FLUAZINAM	2011	kg					156.3					
+18	Indiana	FLUAZINAM	2013	kg					93.5					
+18	Indiana	FLUAZINAM	2014	kg					43.8					
+18	Indiana	FLUAZINAM	2015	kg					551.5					
+18	Indiana	FLUAZINAM	2016	kg					533.6					
+18	Indiana	FLUAZINAM	2017	kg		13462.2			167.5					
+19	Iowa	FLUAZINAM	2016	kg					0.1					
+19	Iowa	FLUAZINAM	2017	kg					2.1					
+23	Maine	FLUAZINAM	2002	kg					171.1					
+23	Maine	FLUAZINAM	2003	kg					37.3					
+23	Maine	FLUAZINAM	2010	kg					284.5					
+23	Maine	FLUAZINAM	2011	kg					318.6					
+23	Maine	FLUAZINAM	2012	kg					451.2					
+23	Maine	FLUAZINAM	2014	kg					173.1					
+23	Maine	FLUAZINAM	2015	kg					3492.8					
+23	Maine	FLUAZINAM	2017	kg					2464.9					
+24	Maryland	FLUAZINAM	2009	kg					13					
+24	Maryland	FLUAZINAM	2013	kg					26.5					
+24	Maryland	FLUAZINAM	2016	kg					218					
+24	Maryland	FLUAZINAM	2017	kg					233.9					
+26	Michigan	FLUAZINAM	2006	kg					212.3					
+26	Michigan	FLUAZINAM	2007	kg					187.1					
+26	Michigan	FLUAZINAM	2009	kg					3132.5					
+26	Michigan	FLUAZINAM	2010	kg					4107.2					
+26	Michigan	FLUAZINAM	2011	kg					6770.7					
+26	Michigan	FLUAZINAM	2012	kg					5400.6					
+26	Michigan	FLUAZINAM	2013	kg					6147.3					
+26	Michigan	FLUAZINAM	2014	kg					8349.3					
+26	Michigan	FLUAZINAM	2015	kg		4075.2			16839.2					
+26	Michigan	FLUAZINAM	2016	kg					9613.6					
+26	Michigan	FLUAZINAM	2017	kg		13385.3			4996.5					
+27	Minnesota	FLUAZINAM	2004	kg					635.9					
+27	Minnesota	FLUAZINAM	2008	kg					225					
+27	Minnesota	FLUAZINAM	2010	kg					1559.6					
+27	Minnesota	FLUAZINAM	2011	kg					3068.6					
+27	Minnesota	FLUAZINAM	2012	kg					806.7					
+27	Minnesota	FLUAZINAM	2013	kg					244					
+27	Minnesota	FLUAZINAM	2015	kg					244.6					
+27	Minnesota	FLUAZINAM	2016	kg					455					
+27	Minnesota	FLUAZINAM	2017	kg					4264.8					
+30	Montana	FLUAZINAM	2002	kg					154.6					
+30	Montana	FLUAZINAM	2003	kg					92.3					
+30	Montana	FLUAZINAM	2004	kg					107.5					
+30	Montana	FLUAZINAM	2005	kg					160.4					
+30	Montana	FLUAZINAM	2006	kg					174.6					
+30	Montana	FLUAZINAM	2007	kg					129.6					
+30	Montana	FLUAZINAM	2008	kg					136.8					
+30	Montana	FLUAZINAM	2009	kg					146.6					
+30	Montana	FLUAZINAM	2010	kg					390.7					
+30	Montana	FLUAZINAM	2011	kg					291.6					
+30	Montana	FLUAZINAM	2012	kg					184.1					
+30	Montana	FLUAZINAM	2013	kg					97.1					
+30	Montana	FLUAZINAM	2014	kg					36					
+30	Montana	FLUAZINAM	2015	kg					272.6					
+30	Montana	FLUAZINAM	2016	kg					1086.3					
+30	Montana	FLUAZINAM	2017	kg					339.3					
+32	Nevada	FLUAZINAM	2002	kg					16.8					
+32	Nevada	FLUAZINAM	2003	kg					101.4					
+32	Nevada	FLUAZINAM	2004	kg					285.8					
+32	Nevada	FLUAZINAM	2005	kg					31.5					
+32	Nevada	FLUAZINAM	2006	kg					55.7					
+32	Nevada	FLUAZINAM	2007	kg					78.3					
+32	Nevada	FLUAZINAM	2008	kg					45.3					
+32	Nevada	FLUAZINAM	2009	kg					94.4					
+32	Nevada	FLUAZINAM	2010	kg					39.4					
+32	Nevada	FLUAZINAM	2011	kg					63.1					
+32	Nevada	FLUAZINAM	2012	kg					74.9					
+32	Nevada	FLUAZINAM	2013	kg					131.4					
+32	Nevada	FLUAZINAM	2014	kg					176.1					
+32	Nevada	FLUAZINAM	2015	kg					119					
+32	Nevada	FLUAZINAM	2016	kg					46.8					
+32	Nevada	FLUAZINAM	2017	kg					10.6					
+33	New Hampshire	FLUAZINAM	2017	kg					4.6					
+35	New Mexico	FLUAZINAM	2001	kg										138.1
+35	New Mexico	FLUAZINAM	2003	kg										117.3
+35	New Mexico	FLUAZINAM	2005	kg										45.1
+35	New Mexico	FLUAZINAM	2006	kg										32.3
+37	North Carolina	FLUAZINAM	2000	kg										944.6
+37	North Carolina	FLUAZINAM	2001	kg										2823.1
+37	North Carolina	FLUAZINAM	2002	kg										1051.2
+37	North Carolina	FLUAZINAM	2003	kg										2024.1
+37	North Carolina	FLUAZINAM	2004	kg										20610.3
+37	North Carolina	FLUAZINAM	2005	kg										477.9
+37	North Carolina	FLUAZINAM	2006	kg										2605.1
+37	North Carolina	FLUAZINAM	2007	kg										339.2
+37	North Carolina	FLUAZINAM	2008	kg										10567.3
+37	North Carolina	FLUAZINAM	2009	kg										5945.2
+37	North Carolina	FLUAZINAM	2010	kg										763.2
+37	North Carolina	FLUAZINAM	2011	kg										9095.1
+37	North Carolina	FLUAZINAM	2012	kg										13072
+37	North Carolina	FLUAZINAM	2013	kg										2795.1
+37	North Carolina	FLUAZINAM	2014	kg										11770
+37	North Carolina	FLUAZINAM	2015	kg							1930.8			12684.9
+37	North Carolina	FLUAZINAM	2016	kg										2318.4
+37	North Carolina	FLUAZINAM	2017	kg										14964.6
+38	North Dakota	FLUAZINAM	2008	kg					339.4					
+38	North Dakota	FLUAZINAM	2010	kg					3653					
+38	North Dakota	FLUAZINAM	2011	kg					740					
+38	North Dakota	FLUAZINAM	2012	kg					7585.3					
+38	North Dakota	FLUAZINAM	2013	kg					804.1					
+38	North Dakota	FLUAZINAM	2015	kg					865.1					
+38	North Dakota	FLUAZINAM	2017	kg					2938.9					
+39	Ohio	FLUAZINAM	2006	kg					14.4					
+39	Ohio	FLUAZINAM	2007	kg					12.6					
+39	Ohio	FLUAZINAM	2009	kg					3.6					
+39	Ohio	FLUAZINAM	2010	kg					23.3					
+39	Ohio	FLUAZINAM	2011	kg					42.4					
+39	Ohio	FLUAZINAM	2013	kg					302.4					
+39	Ohio	FLUAZINAM	2014	kg					113.7					
+39	Ohio	FLUAZINAM	2015	kg					114.4					
+39	Ohio	FLUAZINAM	2016	kg					289.2					
+39	Ohio	FLUAZINAM	2017	kg					32.5					
+40	Oklahoma	FLUAZINAM	2001	kg										75.5
+40	Oklahoma	FLUAZINAM	2002	kg										30.7
+40	Oklahoma	FLUAZINAM	2003	kg										228.5
+40	Oklahoma	FLUAZINAM	2004	kg										1462.3
+40	Oklahoma	FLUAZINAM	2005	kg										75.3
+40	Oklahoma	FLUAZINAM	2006	kg										329.8
+40	Oklahoma	FLUAZINAM	2007	kg										120.1
+40	Oklahoma	FLUAZINAM	2008	kg										498.1
+40	Oklahoma	FLUAZINAM	2009	kg										817.7
+41	Oregon	FLUAZINAM	2002	kg					4139.6					
+41	Oregon	FLUAZINAM	2003	kg					7530.2					
+41	Oregon	FLUAZINAM	2004	kg					1780					
+41	Oregon	FLUAZINAM	2005	kg					3276.3					
+41	Oregon	FLUAZINAM	2006	kg					1032.1					
+41	Oregon	FLUAZINAM	2007	kg					2404.2					
+41	Oregon	FLUAZINAM	2008	kg					1389.3					
+41	Oregon	FLUAZINAM	2009	kg					2722.2					
+41	Oregon	FLUAZINAM	2010	kg					628.9					
+41	Oregon	FLUAZINAM	2011	kg					3302.8					
+41	Oregon	FLUAZINAM	2012	kg					4569.8					
+41	Oregon	FLUAZINAM	2013	kg					2197.9					
+41	Oregon	FLUAZINAM	2014	kg					4080.1					
+41	Oregon	FLUAZINAM	2015	kg					1562.5					
+41	Oregon	FLUAZINAM	2016	kg					1528.4					
+41	Oregon	FLUAZINAM	2017	kg					1229.1					
+42	Pennsylvania	FLUAZINAM	2016	kg					1.2					
+45	South Carolina	FLUAZINAM	2009	kg										1106.5
+45	South Carolina	FLUAZINAM	2010	kg										350.6
+45	South Carolina	FLUAZINAM	2011	kg										2527.1
+45	South Carolina	FLUAZINAM	2012	kg										4106.5
+45	South Carolina	FLUAZINAM	2013	kg										750.9
+45	South Carolina	FLUAZINAM	2014	kg										3700.5
+45	South Carolina	FLUAZINAM	2015	kg							75.7			2231.3
+47	Tennessee	FLUAZINAM	2015	kg							78			
+48	Texas	FLUAZINAM	2001	kg										5044.9
+48	Texas	FLUAZINAM	2002	kg										33.4
+48	Texas	FLUAZINAM	2003	kg										22420.9
+48	Texas	FLUAZINAM	2004	kg										735.8
+48	Texas	FLUAZINAM	2005	kg										561.9
+48	Texas	FLUAZINAM	2006	kg										533.7
+48	Texas	FLUAZINAM	2007	kg										80.7
+48	Texas	FLUAZINAM	2008	kg										968.1
+48	Texas	FLUAZINAM	2009	kg										154
+49	Utah	FLUAZINAM	2002	kg					6.9					
+49	Utah	FLUAZINAM	2003	kg					36.8					
+49	Utah	FLUAZINAM	2004	kg					8.3					
+49	Utah	FLUAZINAM	2005	kg					2					
+49	Utah	FLUAZINAM	2006	kg					4.4					
+49	Utah	FLUAZINAM	2007	kg					1.1					
+49	Utah	FLUAZINAM	2008	kg					3.5					
+49	Utah	FLUAZINAM	2009	kg					6.5					
+49	Utah	FLUAZINAM	2010	kg					5.9					
+49	Utah	FLUAZINAM	2011	kg					7.6					
+49	Utah	FLUAZINAM	2012	kg					14.7					
+49	Utah	FLUAZINAM	2013	kg					7.4					
+49	Utah	FLUAZINAM	2014	kg					14.9					
+49	Utah	FLUAZINAM	2015	kg					16.9					
+49	Utah	FLUAZINAM	2016	kg					9.8					
+49	Utah	FLUAZINAM	2017	kg					3					
+51	Virginia	FLUAZINAM	2000	kg										2563.1
+51	Virginia	FLUAZINAM	2001	kg										1733.9
+51	Virginia	FLUAZINAM	2002	kg										600.8
+51	Virginia	FLUAZINAM	2003	kg										190.6
+51	Virginia	FLUAZINAM	2004	kg										1553.9
+51	Virginia	FLUAZINAM	2005	kg										171.6
+51	Virginia	FLUAZINAM	2006	kg										205.1
+51	Virginia	FLUAZINAM	2007	kg										619.1
+51	Virginia	FLUAZINAM	2008	kg										2547.6
+51	Virginia	FLUAZINAM	2009	kg										483.2
+51	Virginia	FLUAZINAM	2010	kg										584.2
+51	Virginia	FLUAZINAM	2011	kg										1664.8
+51	Virginia	FLUAZINAM	2012	kg										559.9
+51	Virginia	FLUAZINAM	2013	kg										468.9
+51	Virginia	FLUAZINAM	2014	kg										3696.2
+51	Virginia	FLUAZINAM	2015	kg										371.9
+51	Virginia	FLUAZINAM	2016	kg										335.5
+51	Virginia	FLUAZINAM	2017	kg										3915.1
+53	Washington	FLUAZINAM	2002	kg					5259.6					
+53	Washington	FLUAZINAM	2003	kg					19756.3					
+53	Washington	FLUAZINAM	2004	kg					41156.7					
+53	Washington	FLUAZINAM	2005	kg					56095.7					
+53	Washington	FLUAZINAM	2006	kg					21815.6					
+53	Washington	FLUAZINAM	2007	kg					13514.9					
+53	Washington	FLUAZINAM	2008	kg					17748.7					
+53	Washington	FLUAZINAM	2009	kg					14819.6					
+53	Washington	FLUAZINAM	2010	kg					11979.5					
+53	Washington	FLUAZINAM	2011	kg					16636.9					
+53	Washington	FLUAZINAM	2012	kg					11573					
+53	Washington	FLUAZINAM	2013	kg					18800.6					
+53	Washington	FLUAZINAM	2014	kg					13631		1156.3			
+53	Washington	FLUAZINAM	2015	kg					16659.1		3239.4			
+53	Washington	FLUAZINAM	2016	kg					15555.5					
+53	Washington	FLUAZINAM	2017	kg					12308.5					
+55	Wisconsin	FLUAZINAM	2010	kg					506.5					
+55	Wisconsin	FLUAZINAM	2011	kg					619.4					
+55	Wisconsin	FLUAZINAM	2012	kg					1645.8					
+55	Wisconsin	FLUAZINAM	2013	kg					1571.2					
+55	Wisconsin	FLUAZINAM	2014	kg					1422.4					
+55	Wisconsin	FLUAZINAM	2015	kg					2413					
+55	Wisconsin	FLUAZINAM	2016	kg					680.2					
+55	Wisconsin	FLUAZINAM	2017	kg					985.9					
+56	Wyoming	FLUAZINAM	2002	kg					0					
+56	Wyoming	FLUAZINAM	2003	kg					0.2					
+56	Wyoming	FLUAZINAM	2004	kg					0					
+56	Wyoming	FLUAZINAM	2005	kg					0					
+56	Wyoming	FLUAZINAM	2006	kg					0					
+56	Wyoming	FLUAZINAM	2007	kg					0					
+56	Wyoming	FLUAZINAM	2008	kg					0.7					
+56	Wyoming	FLUAZINAM	2009	kg					1.4					
+56	Wyoming	FLUAZINAM	2010	kg					191					
+56	Wyoming	FLUAZINAM	2011	kg					1.5					
+56	Wyoming	FLUAZINAM	2012	kg					2.2					
+56	Wyoming	FLUAZINAM	2013	kg					1.4					
+56	Wyoming	FLUAZINAM	2014	kg					0.1					
+56	Wyoming	FLUAZINAM	2015	kg					1.2					
+56	Wyoming	FLUAZINAM	2016	kg					2.5					
+56	Wyoming	FLUAZINAM	2017	kg					0					

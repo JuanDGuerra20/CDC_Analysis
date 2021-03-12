@@ -1,0 +1,141 @@
+01	Alabama	MOLINATE	1996	kg				16028.5						
+04	Arizona	MOLINATE	1994	kg									83.3	
+05	Arkansas	MOLINATE	1992	kg		9449.8				377641				17432.3
+05	Arkansas	MOLINATE	1993	kg			25842	44429.7		650399.4				20945.6
+05	Arkansas	MOLINATE	1994	kg						500696.2				201.6
+05	Arkansas	MOLINATE	1995	kg						636568.1				4924.6
+05	Arkansas	MOLINATE	1996	kg		4346.2		8388.6		622761.4				
+05	Arkansas	MOLINATE	1997	kg						550924.1				921.9
+05	Arkansas	MOLINATE	1998	kg						773352.1				
+05	Arkansas	MOLINATE	1999	kg						649720.2				
+05	Arkansas	MOLINATE	2000	kg						467572.1				
+05	Arkansas	MOLINATE	2001	kg						438372.5				
+05	Arkansas	MOLINATE	2002	kg						214363.4				
+05	Arkansas	MOLINATE	2003	kg						150408.4				
+05	Arkansas	MOLINATE	2004	kg						171732.1				
+05	Arkansas	MOLINATE	2005	kg						34780.3				
+05	Arkansas	MOLINATE	2006	kg						25200.5				
+05	Arkansas	MOLINATE	2007	kg						93490.9				
+05	Arkansas	MOLINATE	2008	kg						171384				
+05	Arkansas	MOLINATE	2009	kg						5262.7				
+05	Arkansas	MOLINATE	2010	kg						10466.3				
+06	California	MOLINATE	1992	kg						629298.6				
+06	California	MOLINATE	1993	kg						695272.5				
+06	California	MOLINATE	1994	kg						698477.2				
+06	California	MOLINATE	1995	kg						647095.4				90.7
+06	California	MOLINATE	1996	kg						654052.4				
+06	California	MOLINATE	1997	kg						534876.7				131.6
+06	California	MOLINATE	1998	kg						455689.3	0.3			
+06	California	MOLINATE	1999	kg						414950.1	0			
+06	California	MOLINATE	2000	kg						414111.9	0.4			
+06	California	MOLINATE	2001	kg						336616.7				400.2
+06	California	MOLINATE	2002	kg						399229.7				
+06	California	MOLINATE	2003	kg						244533				
+06	California	MOLINATE	2004	kg						166510.3				
+06	California	MOLINATE	2005	kg						77688.1				
+06	California	MOLINATE	2006	kg						64136.2	0.4			
+06	California	MOLINATE	2007	kg						34120.1				
+06	California	MOLINATE	2008	kg						8538.6				
+06	California	MOLINATE	2009	kg						2369.7				
+13	Georgia	MOLINATE	1993	kg					50.1					0.3
+13	Georgia	MOLINATE	1996	kg				83264.4						
+21	Kentucky	MOLINATE	1993	kg					50.5					723.6
+22	Louisiana	MOLINATE	1992	kg		7587.4				548028.7				8157.6
+22	Louisiana	MOLINATE	1993	kg		18201.3	1061.2	41916.5		321524.9				
+22	Louisiana	MOLINATE	1994	kg						415738.5				79
+22	Louisiana	MOLINATE	1995	kg						354925.8				1476.4
+22	Louisiana	MOLINATE	1996	kg						396102.6				
+22	Louisiana	MOLINATE	1997	kg						344993.7			1990.2	
+22	Louisiana	MOLINATE	1998	kg						388095				
+22	Louisiana	MOLINATE	1999	kg						480176.7				
+22	Louisiana	MOLINATE	2000	kg						220992				
+22	Louisiana	MOLINATE	2001	kg						227873.3				
+22	Louisiana	MOLINATE	2002	kg						219858.1				
+22	Louisiana	MOLINATE	2003	kg						51251.7				
+22	Louisiana	MOLINATE	2004	kg						105251.4				
+22	Louisiana	MOLINATE	2005	kg						53985.4				
+22	Louisiana	MOLINATE	2006	kg						34073.7				
+22	Louisiana	MOLINATE	2007	kg						23878.1				
+22	Louisiana	MOLINATE	2008	kg						11310.8				
+22	Louisiana	MOLINATE	2009	kg						1542.3				
+22	Louisiana	MOLINATE	2010	kg						22280.4				
+28	Mississippi	MOLINATE	1992	kg		32256.8				140118.8				2165.2
+28	Mississippi	MOLINATE	1993	kg			6112	54299.4		50474.6				
+28	Mississippi	MOLINATE	1994	kg						251034.4				839.1
+28	Mississippi	MOLINATE	1995	kg						201544.2				388.3
+28	Mississippi	MOLINATE	1996	kg				12758.3		107728.4				
+28	Mississippi	MOLINATE	1997	kg						103222.4				151.1
+28	Mississippi	MOLINATE	1998	kg						67129.4				
+28	Mississippi	MOLINATE	1999	kg						166215.2				
+28	Mississippi	MOLINATE	2000	kg						41222.5				
+28	Mississippi	MOLINATE	2001	kg						1565.2				
+28	Mississippi	MOLINATE	2002	kg						49865.7				
+28	Mississippi	MOLINATE	2003	kg						19987.4				
+28	Mississippi	MOLINATE	2004	kg						5909				
+28	Mississippi	MOLINATE	2005	kg						5870.2				
+28	Mississippi	MOLINATE	2006	kg						2372.4				
+28	Mississippi	MOLINATE	2007	kg						3105.8				
+28	Mississippi	MOLINATE	2008	kg						5774				
+28	Mississippi	MOLINATE	2010	kg						2242.6				
+29	Missouri	MOLINATE	1992	kg						5452.6				
+29	Missouri	MOLINATE	1993	kg				5015.4		16878.9				5066.9
+29	Missouri	MOLINATE	1994	kg						6861.8				
+29	Missouri	MOLINATE	1995	kg						12247.1				
+29	Missouri	MOLINATE	1996	kg		1134.6				43844.8				
+29	Missouri	MOLINATE	1997	kg						27088.4				
+29	Missouri	MOLINATE	1998	kg						78527				
+29	Missouri	MOLINATE	1999	kg						29799.1				
+29	Missouri	MOLINATE	2000	kg						125718.1				
+29	Missouri	MOLINATE	2001	kg						143523.9				
+29	Missouri	MOLINATE	2002	kg						32818.8				
+29	Missouri	MOLINATE	2003	kg						28480.7				
+29	Missouri	MOLINATE	2004	kg						72232.1				
+29	Missouri	MOLINATE	2005	kg						32219.3				
+29	Missouri	MOLINATE	2006	kg						20946.3				
+29	Missouri	MOLINATE	2007	kg						43833.5				
+29	Missouri	MOLINATE	2008	kg						20730.8				
+29	Missouri	MOLINATE	2009	kg						822.3				
+29	Missouri	MOLINATE	2010	kg						729.3				
+35	New Mexico	MOLINATE	1994	kg									92.7	
+37	North Carolina	MOLINATE	1993	kg					244.4					481.2
+39	Ohio	MOLINATE	1995	kg										814.1
+40	Oklahoma	MOLINATE	1995	kg							20			
+47	Tennessee	MOLINATE	1992	kg						152.2				349.5
+47	Tennessee	MOLINATE	1993	kg				2788.3	1010.8	201.2				1166.6
+47	Tennessee	MOLINATE	1994	kg						184.8				
+47	Tennessee	MOLINATE	1995	kg						190.1				
+47	Tennessee	MOLINATE	1996	kg		591.1				286.4				
+47	Tennessee	MOLINATE	1997	kg						163.6				33.2
+47	Tennessee	MOLINATE	1998	kg						441.2				
+47	Tennessee	MOLINATE	1999	kg						326.6				
+47	Tennessee	MOLINATE	2000	kg						288.8				
+47	Tennessee	MOLINATE	2001	kg						347.9				
+47	Tennessee	MOLINATE	2002	kg						212.2				
+47	Tennessee	MOLINATE	2003	kg						171.7				
+47	Tennessee	MOLINATE	2004	kg						226.4				
+47	Tennessee	MOLINATE	2005	kg						28.9				
+47	Tennessee	MOLINATE	2006	kg						36.4				
+47	Tennessee	MOLINATE	2007	kg						217.6				
+47	Tennessee	MOLINATE	2008	kg						237.2				
+47	Tennessee	MOLINATE	2009	kg						6.5				
+47	Tennessee	MOLINATE	2010	kg						7				
+48	Texas	MOLINATE	1992	kg						273662.1	11503.1			
+48	Texas	MOLINATE	1993	kg		1728.9				242042.9				
+48	Texas	MOLINATE	1994	kg						177922.9				
+48	Texas	MOLINATE	1995	kg						144363.9	278.7			
+48	Texas	MOLINATE	1996	kg						146843.2				
+48	Texas	MOLINATE	1997	kg						132931.1			1612.3	
+48	Texas	MOLINATE	1998	kg						108527.9				
+48	Texas	MOLINATE	1999	kg						155422.6				
+48	Texas	MOLINATE	2000	kg						127868.1				
+48	Texas	MOLINATE	2001	kg						79526.8				
+48	Texas	MOLINATE	2002	kg						50343				
+48	Texas	MOLINATE	2003	kg						19365.9				
+48	Texas	MOLINATE	2004	kg						48359.7				
+48	Texas	MOLINATE	2005	kg						49934.6				
+48	Texas	MOLINATE	2006	kg						23728.8				
+48	Texas	MOLINATE	2007	kg						35476.5				
+48	Texas	MOLINATE	2008	kg						10311.9				
+48	Texas	MOLINATE	2009	kg						10719.6				
+48	Texas	MOLINATE	2010	kg						14194.6				
+51	Virginia	MOLINATE	1993	kg					29.6					264.5

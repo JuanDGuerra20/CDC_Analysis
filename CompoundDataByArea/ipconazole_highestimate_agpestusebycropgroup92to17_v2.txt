@@ -1,0 +1,112 @@
+01	Alabama	IPCONAZOLE	2014	kg			2							
+05	Arkansas	IPCONAZOLE	2013	kg		21.2								
+05	Arkansas	IPCONAZOLE	2014	kg		461.8								
+06	California	IPCONAZOLE	2014	kg					19.1					
+06	California	IPCONAZOLE	2015	kg					10.8					
+06	California	IPCONAZOLE	2016	kg					15.8					
+06	California	IPCONAZOLE	2017	kg					27					
+08	Colorado	IPCONAZOLE	2013	kg			15.7							
+08	Colorado	IPCONAZOLE	2014	kg			132.4							
+12	Florida	IPCONAZOLE	2014	kg			2.2							
+13	Georgia	IPCONAZOLE	2014	kg			71.6							
+16	Idaho	IPCONAZOLE	2010	kg			12.2							
+16	Idaho	IPCONAZOLE	2011	kg			40.4							
+16	Idaho	IPCONAZOLE	2013	kg			0.4							
+16	Idaho	IPCONAZOLE	2014	kg			8.6							
+17	Illinois	IPCONAZOLE	2010	kg		103.4								
+17	Illinois	IPCONAZOLE	2011	kg		119.8								
+17	Illinois	IPCONAZOLE	2012	kg		107.7								
+17	Illinois	IPCONAZOLE	2013	kg		92.1								
+17	Illinois	IPCONAZOLE	2014	kg		118.3	8.4							
+18	Indiana	IPCONAZOLE	2010	kg		24.6								
+18	Indiana	IPCONAZOLE	2011	kg		26.2								
+18	Indiana	IPCONAZOLE	2012	kg		26.3								
+18	Indiana	IPCONAZOLE	2013	kg		25.4								
+18	Indiana	IPCONAZOLE	2014	kg		7	13.7							
+19	Iowa	IPCONAZOLE	2010	kg		94.9								
+19	Iowa	IPCONAZOLE	2011	kg		98								
+19	Iowa	IPCONAZOLE	2012	kg		49.5								
+19	Iowa	IPCONAZOLE	2013	kg		90.2								
+19	Iowa	IPCONAZOLE	2014	kg		108	0							
+20	Kansas	IPCONAZOLE	2011	kg		4.5	25.9							
+20	Kansas	IPCONAZOLE	2012	kg			43.3							
+20	Kansas	IPCONAZOLE	2013	kg			191.2							
+20	Kansas	IPCONAZOLE	2014	kg			478.4							
+21	Kentucky	IPCONAZOLE	2012	kg		1.2								
+21	Kentucky	IPCONAZOLE	2013	kg		0.4								
+26	Michigan	IPCONAZOLE	2010	kg		13.8								
+26	Michigan	IPCONAZOLE	2011	kg		32.6								
+26	Michigan	IPCONAZOLE	2012	kg		25								
+26	Michigan	IPCONAZOLE	2014	kg			72.7							
+27	Minnesota	IPCONAZOLE	2010	kg		72.9								
+27	Minnesota	IPCONAZOLE	2011	kg		89.6	24.8							
+27	Minnesota	IPCONAZOLE	2012	kg		52.3	10							
+27	Minnesota	IPCONAZOLE	2013	kg		64.7	16.1							
+27	Minnesota	IPCONAZOLE	2014	kg		56.8	22.7							
+28	Mississippi	IPCONAZOLE	2013	kg		5.1								
+28	Mississippi	IPCONAZOLE	2014	kg		121.6								
+29	Missouri	IPCONAZOLE	2010	kg		48.1								
+29	Missouri	IPCONAZOLE	2011	kg		81.9								
+29	Missouri	IPCONAZOLE	2012	kg		61.2								
+29	Missouri	IPCONAZOLE	2013	kg		44.1								
+29	Missouri	IPCONAZOLE	2014	kg		54.6	6.7							
+30	Montana	IPCONAZOLE	2010	kg			1.5							
+30	Montana	IPCONAZOLE	2011	kg			69.5							
+30	Montana	IPCONAZOLE	2012	kg			90.5							
+30	Montana	IPCONAZOLE	2013	kg			82.6							
+30	Montana	IPCONAZOLE	2014	kg			346.3							
+31	Nebraska	IPCONAZOLE	2010	kg		26.3								
+31	Nebraska	IPCONAZOLE	2011	kg		23.2								
+31	Nebraska	IPCONAZOLE	2012	kg		35.4								
+31	Nebraska	IPCONAZOLE	2013	kg		32.3	2.1							
+31	Nebraska	IPCONAZOLE	2014	kg		38.1	22.2							
+34	New Jersey	IPCONAZOLE	2011	kg		0.7								
+34	New Jersey	IPCONAZOLE	2012	kg		7.1								
+35	New Mexico	IPCONAZOLE	2011	kg				0						
+35	New Mexico	IPCONAZOLE	2012	kg				0.1						
+35	New Mexico	IPCONAZOLE	2013	kg			1	0						
+35	New Mexico	IPCONAZOLE	2014	kg			15.3							
+36	New York	IPCONAZOLE	2011	kg		15.2								
+36	New York	IPCONAZOLE	2012	kg		82								
+38	North Dakota	IPCONAZOLE	2010	kg		36.3								
+38	North Dakota	IPCONAZOLE	2011	kg		83.1	101.3							
+38	North Dakota	IPCONAZOLE	2012	kg		25.1	61.8							
+38	North Dakota	IPCONAZOLE	2013	kg		240.2	99							
+38	North Dakota	IPCONAZOLE	2014	kg			238.9							
+39	Ohio	IPCONAZOLE	2010	kg		74.1	21.7							
+39	Ohio	IPCONAZOLE	2011	kg		107.4	25.9							
+39	Ohio	IPCONAZOLE	2012	kg		188.2								
+39	Ohio	IPCONAZOLE	2013	kg		73.8								
+39	Ohio	IPCONAZOLE	2014	kg		61.9	91							
+40	Oklahoma	IPCONAZOLE	2011	kg			7.3							
+40	Oklahoma	IPCONAZOLE	2012	kg			12.3							
+40	Oklahoma	IPCONAZOLE	2013	kg			39.7							
+40	Oklahoma	IPCONAZOLE	2014	kg			139.9							
+41	Oregon	IPCONAZOLE	2013	kg			1							
+42	Pennsylvania	IPCONAZOLE	2011	kg		22	2							
+42	Pennsylvania	IPCONAZOLE	2012	kg		59.4								
+45	South Carolina	IPCONAZOLE	2014	kg			5.5							
+46	South Dakota	IPCONAZOLE	2010	kg		41.1								
+46	South Dakota	IPCONAZOLE	2011	kg		156.8	14.9							
+46	South Dakota	IPCONAZOLE	2012	kg		662.4	6.4							
+46	South Dakota	IPCONAZOLE	2013	kg		95.9	30.5							
+46	South Dakota	IPCONAZOLE	2014	kg		22.8	791.1							
+47	Tennessee	IPCONAZOLE	2013	kg		3.1								
+47	Tennessee	IPCONAZOLE	2014	kg		72								
+48	Texas	IPCONAZOLE	2011	kg				16.2						
+48	Texas	IPCONAZOLE	2012	kg				34						
+48	Texas	IPCONAZOLE	2013	kg			12.7	0						
+48	Texas	IPCONAZOLE	2014	kg			64.6							
+49	Utah	IPCONAZOLE	2010	kg			0.2							
+49	Utah	IPCONAZOLE	2011	kg			0.5							
+49	Utah	IPCONAZOLE	2014	kg			0.5							
+53	Washington	IPCONAZOLE	2013	kg			1.1							
+54	West Virginia	IPCONAZOLE	2011	kg			0							
+54	West Virginia	IPCONAZOLE	2012	kg		0								
+55	Wisconsin	IPCONAZOLE	2011	kg		124.4								
+55	Wisconsin	IPCONAZOLE	2012	kg		18.1								
+55	Wisconsin	IPCONAZOLE	2014	kg			63.2							
+56	Wyoming	IPCONAZOLE	2010	kg			0							
+56	Wyoming	IPCONAZOLE	2011	kg			0							
+56	Wyoming	IPCONAZOLE	2013	kg			0							
+56	Wyoming	IPCONAZOLE	2014	kg			5							

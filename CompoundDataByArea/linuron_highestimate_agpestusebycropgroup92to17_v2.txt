@@ -1,0 +1,1101 @@
+01	Alabama	LINURON	1992	kg	760.3	4327.8			6156.6					
+01	Alabama	LINURON	1993	kg	1290.2	3236.2			1764.8					5345.9
+01	Alabama	LINURON	1994	kg	1130.2	3092			206.2					28.2
+01	Alabama	LINURON	1995	kg	1381.8	8901.2			1377.4					
+01	Alabama	LINURON	1996	kg		1419			667.5					97.4
+01	Alabama	LINURON	1997	kg	5012.2	10708			568.7					816.3
+01	Alabama	LINURON	1998	kg	158.5	3433.6			820.4					
+01	Alabama	LINURON	1999	kg		1484.6			594.7					
+01	Alabama	LINURON	2000	kg		546.3			433.6					
+01	Alabama	LINURON	2001	kg		325.7		4258.9	242.7					
+01	Alabama	LINURON	2002	kg	2108.4	258.4			448.5					
+01	Alabama	LINURON	2003	kg	2490.4			5174.8	238.8					
+01	Alabama	LINURON	2004	kg	430.9			9540.1	109.8					
+01	Alabama	LINURON	2005	kg	1454.6			4425						
+01	Alabama	LINURON	2006	kg				9008.8						
+01	Alabama	LINURON	2007	kg	11743.8			9274.5	126.5					
+01	Alabama	LINURON	2008	kg				3379.3						
+01	Alabama	LINURON	2009	kg	3849.9			2002.1						
+01	Alabama	LINURON	2010	kg				7686.4	178.1					
+01	Alabama	LINURON	2011	kg				1834.2	47.1					
+01	Alabama	LINURON	2012	kg		689.4		13834.1						
+01	Alabama	LINURON	2013	kg	1366.8	7249		1462.9	43.8					
+01	Alabama	LINURON	2014	kg					49					
+01	Alabama	LINURON	2015	kg				10270.1						
+01	Alabama	LINURON	2016	kg					126.4					
+04	Arizona	LINURON	1992	kg					463.2			265		
+04	Arizona	LINURON	1993	kg					979.7					
+04	Arizona	LINURON	1994	kg					420.4					
+04	Arizona	LINURON	1995	kg					1009.5					
+04	Arizona	LINURON	1996	kg					445.1					
+04	Arizona	LINURON	1997	kg					1161					
+04	Arizona	LINURON	1998	kg					1088.3					
+04	Arizona	LINURON	1999	kg					1018.2					
+04	Arizona	LINURON	2000	kg					1302.9					
+04	Arizona	LINURON	2001	kg					1105					
+04	Arizona	LINURON	2002	kg					1143.2					
+04	Arizona	LINURON	2003	kg					1619.6					
+04	Arizona	LINURON	2004	kg					991					
+04	Arizona	LINURON	2005	kg				61.3	941.9					
+04	Arizona	LINURON	2006	kg					1093.4					
+04	Arizona	LINURON	2007	kg				2071.5	1011.3					
+04	Arizona	LINURON	2008	kg				82.2	1745.7					
+04	Arizona	LINURON	2009	kg				3108.5	2140.4					
+04	Arizona	LINURON	2010	kg				1267.8	2066.3					
+04	Arizona	LINURON	2011	kg					2915.4					
+04	Arizona	LINURON	2012	kg					1701.9					
+04	Arizona	LINURON	2013	kg				182.1	2451.9					
+04	Arizona	LINURON	2014	kg					2154.9					
+04	Arizona	LINURON	2015	kg					2028.7					
+04	Arizona	LINURON	2016	kg					614.9					
+04	Arizona	LINURON	2017	kg					1792					
+05	Arkansas	LINURON	1992	kg	104.1	5443.6		2994.9						1672.8
+05	Arkansas	LINURON	1993	kg		8339.5		4057.8						
+05	Arkansas	LINURON	1994	kg		18643.6		931.4		520.3				
+05	Arkansas	LINURON	1995	kg	13.8	8217		27						
+05	Arkansas	LINURON	1996	kg		2210		1398.3		3447.8		84.4		
+05	Arkansas	LINURON	1997	kg	77.3	5880.4								
+05	Arkansas	LINURON	1998	kg		4555.2								
+05	Arkansas	LINURON	2001	kg				4837						
+05	Arkansas	LINURON	2002	kg				10464.2						
+05	Arkansas	LINURON	2003	kg				5363.3						
+05	Arkansas	LINURON	2004	kg				10796.6						
+05	Arkansas	LINURON	2005	kg				3013.2						
+05	Arkansas	LINURON	2006	kg				4389.9						
+05	Arkansas	LINURON	2007	kg				8391						
+05	Arkansas	LINURON	2009	kg				5844.8						
+05	Arkansas	LINURON	2010	kg				2242.8						
+05	Arkansas	LINURON	2011	kg				5679.5						
+05	Arkansas	LINURON	2012	kg				874.4						
+05	Arkansas	LINURON	2013	kg				659.1						
+05	Arkansas	LINURON	2014	kg				954						
+05	Arkansas	LINURON	2015	kg				137.9						
+06	California	LINURON	1992	kg	30.8				61790.9		63.9			
+06	California	LINURON	1993	kg	9.1				103863.3		63.2			
+06	California	LINURON	1994	kg	240.5				35914.7		83.3			
+06	California	LINURON	1995	kg	18.6				38492.5		71.6			
+06	California	LINURON	1996	kg	4.7				38187.7		89			
+06	California	LINURON	1997	kg	7.9				37901		92.2			0.4
+06	California	LINURON	1998	kg	47				36874.1		114.9	12		61
+06	California	LINURON	1999	kg	21.3				34671.7		133.2	12.1		8.5
+06	California	LINURON	2000	kg	1.4				29361.9		114.5	16		12.7
+06	California	LINURON	2001	kg	42.2				26602.6		199.4			5.4
+06	California	LINURON	2002	kg	4.1				28368.9		228.8			
+06	California	LINURON	2003	kg	4.1		6.8		26951.7		245.6			
+06	California	LINURON	2004	kg	7				31057		288.1			0.1
+06	California	LINURON	2005	kg		2.2			31913		386.4			
+06	California	LINURON	2006	kg	42				26044.6		241.8			13.6
+06	California	LINURON	2007	kg					26270.8		278.8			
+06	California	LINURON	2008	kg					26444.6		251.7			
+06	California	LINURON	2009	kg					22597.8		242.5			
+06	California	LINURON	2010	kg					21763.7		187.1			
+06	California	LINURON	2011	kg	8.6				24439.6		176.8			
+06	California	LINURON	2012	kg					25460.2		215.8			
+06	California	LINURON	2013	kg					23489.9		219.1			
+06	California	LINURON	2014	kg	52.3				24218.7		205.4			
+06	California	LINURON	2015	kg					22888.7		201.4			
+06	California	LINURON	2016	kg					23492.1		159.2			8.6
+06	California	LINURON	2017	kg					23485.9		86.4			17.7
+08	Colorado	LINURON	1994	kg					0.4					
+08	Colorado	LINURON	1995	kg					1.2					
+08	Colorado	LINURON	1996	kg					145.8					
+08	Colorado	LINURON	1997	kg	860.6				1059.6					
+08	Colorado	LINURON	1998	kg	784.1				1410.9					
+08	Colorado	LINURON	1999	kg					1981.1					
+08	Colorado	LINURON	2000	kg					4705.2					
+08	Colorado	LINURON	2001	kg					1750.2					
+08	Colorado	LINURON	2002	kg					750.4					
+08	Colorado	LINURON	2003	kg					1228.2					
+08	Colorado	LINURON	2004	kg					2095.8					
+08	Colorado	LINURON	2005	kg					1.8					
+08	Colorado	LINURON	2006	kg					1.4					
+08	Colorado	LINURON	2007	kg					1					
+08	Colorado	LINURON	2010	kg					600.5					
+09	Connecticut	LINURON	1992	kg	177.7				3487.5					
+09	Connecticut	LINURON	1993	kg	46.9				841					
+09	Connecticut	LINURON	1994	kg	221.7				29.8					
+09	Connecticut	LINURON	1995	kg					85.6					
+09	Connecticut	LINURON	1996	kg	334.9				8.1					
+09	Connecticut	LINURON	1997	kg					12				25.5	
+09	Connecticut	LINURON	1998	kg	211.2				210.9					
+09	Connecticut	LINURON	1999	kg	152.4				4.7					
+09	Connecticut	LINURON	2000	kg	506				7.6					
+09	Connecticut	LINURON	2001	kg	4759.4				21.5					
+09	Connecticut	LINURON	2002	kg	7040.9				0.5					
+09	Connecticut	LINURON	2003	kg					7.3					
+09	Connecticut	LINURON	2004	kg					8.3					
+09	Connecticut	LINURON	2005	kg					3.5					
+09	Connecticut	LINURON	2006	kg					3.5					
+09	Connecticut	LINURON	2007	kg					7.7					
+09	Connecticut	LINURON	2008	kg					4.8					
+09	Connecticut	LINURON	2009	kg					5.9					
+09	Connecticut	LINURON	2010	kg					9.3					
+09	Connecticut	LINURON	2011	kg					1.5					
+09	Connecticut	LINURON	2012	kg					6.2					
+09	Connecticut	LINURON	2013	kg					6.6					
+09	Connecticut	LINURON	2014	kg					9.4					
+09	Connecticut	LINURON	2015	kg					7.1					
+09	Connecticut	LINURON	2016	kg					12.9					
+09	Connecticut	LINURON	2017	kg					3.1					
+10	Delaware	LINURON	1992	kg	1329.1	36376.9	4184.6		2476				19.7	
+10	Delaware	LINURON	1993	kg	1213	67829.1			502.9					
+10	Delaware	LINURON	1994	kg	1043.1	12200.6			626.8					
+10	Delaware	LINURON	1995	kg	1338.3	24649			203.4					
+10	Delaware	LINURON	1996	kg		13075.3			5142					
+10	Delaware	LINURON	1997	kg	624.8	11376			45.2					
+10	Delaware	LINURON	1998	kg	283	1549.4			486.4					
+10	Delaware	LINURON	1999	kg		1543.8			2314.1					
+10	Delaware	LINURON	2000	kg		3445.1			197.4					
+10	Delaware	LINURON	2001	kg		1162.1			88.4					
+10	Delaware	LINURON	2002	kg	4094.5	111.4			10.6					
+10	Delaware	LINURON	2003	kg	4182.5				320.6					
+10	Delaware	LINURON	2004	kg	652.6									
+10	Delaware	LINURON	2005	kg	2223.8									
+10	Delaware	LINURON	2006	kg					165.6					
+10	Delaware	LINURON	2007	kg	13760.6				21					
+10	Delaware	LINURON	2009	kg	4020.8									
+10	Delaware	LINURON	2013	kg	1380.6	4750.4								
+10	Delaware	LINURON	2014	kg					2.8					
+10	Delaware	LINURON	2016	kg		7723								
+12	Florida	LINURON	1992	kg	9.9	606		304.5	2056.9					
+12	Florida	LINURON	1993	kg					3324.4					1790.3
+12	Florida	LINURON	1994	kg					6903					5.8
+12	Florida	LINURON	1996	kg		668.2								31.9
+12	Florida	LINURON	1997	kg	25.9				312.1					101.8
+12	Florida	LINURON	1998	kg					2223.5					
+12	Florida	LINURON	1999	kg		117.3			1186.1					
+12	Florida	LINURON	2001	kg	195.6				3142.1					
+12	Florida	LINURON	2004	kg				119.3						
+12	Florida	LINURON	2005	kg				313.6						
+12	Florida	LINURON	2006	kg				1250.8						
+12	Florida	LINURON	2007	kg				2211.2						
+12	Florida	LINURON	2008	kg				1494.3	1153.4					
+12	Florida	LINURON	2009	kg				756.5	476.2					
+12	Florida	LINURON	2010	kg				519.5	728.9					
+12	Florida	LINURON	2013	kg				393.8						
+13	Georgia	LINURON	1992	kg	109.6	6201.8		2429.1	1.9					
+13	Georgia	LINURON	1993	kg	2918.7	6646.7			0.5				1166.7	12557.4
+13	Georgia	LINURON	1994	kg	2400.7	3354.2			0					141.1
+13	Georgia	LINURON	1995	kg	2756.8	8826.5			0.5					
+13	Georgia	LINURON	1996	kg	1802.2	6982.2			0.2					925.7
+13	Georgia	LINURON	1997	kg	988.5	3871.6			0.3					2493.9
+13	Georgia	LINURON	1998	kg	435.5	1338.4			0.4					
+13	Georgia	LINURON	1999	kg		1275.6			0.4					
+13	Georgia	LINURON	2000	kg		564.1			0.3					
+13	Georgia	LINURON	2001	kg	1306.3	66.6		10844.7	0.2					
+13	Georgia	LINURON	2002	kg	5077.4	53.5			0.7					
+13	Georgia	LINURON	2003	kg	6890.6			14572.8	0.4					
+13	Georgia	LINURON	2004	kg	1110.6			18657.3	0.3					
+13	Georgia	LINURON	2005	kg	3070.8			2266.5						
+13	Georgia	LINURON	2006	kg				24780.2						
+13	Georgia	LINURON	2007	kg	30909.1			30508.8	0.2					
+13	Georgia	LINURON	2008	kg				17097.1						
+13	Georgia	LINURON	2009	kg	7665.2			8088.6						
+13	Georgia	LINURON	2010	kg				8797.6	198.6					
+13	Georgia	LINURON	2011	kg				6017	3					
+13	Georgia	LINURON	2012	kg		185.9		20087.5						
+13	Georgia	LINURON	2013	kg	3124.5	4391.4		4003.1	4.2					
+13	Georgia	LINURON	2014	kg					6.2					
+13	Georgia	LINURON	2015	kg				41608.9						
+13	Georgia	LINURON	2016	kg					22					
+16	Idaho	LINURON	1992	kg					747.6					
+16	Idaho	LINURON	1993	kg					0.1				292.2	
+16	Idaho	LINURON	1994	kg					3.6				206.4	
+16	Idaho	LINURON	1995	kg					12.7					
+16	Idaho	LINURON	1996	kg					273.5					
+16	Idaho	LINURON	1997	kg					5.8					
+16	Idaho	LINURON	1998	kg					13.7					
+16	Idaho	LINURON	1999	kg					8.4					
+16	Idaho	LINURON	2000	kg					18.8					
+16	Idaho	LINURON	2001	kg					4					
+16	Idaho	LINURON	2002	kg					5.5					
+16	Idaho	LINURON	2003	kg					1					
+16	Idaho	LINURON	2004	kg					9.6					
+16	Idaho	LINURON	2005	kg					9.5					
+16	Idaho	LINURON	2006	kg					813.7					
+16	Idaho	LINURON	2007	kg					889.3					
+16	Idaho	LINURON	2008	kg					54					
+16	Idaho	LINURON	2009	kg					392.7					
+16	Idaho	LINURON	2010	kg					4516.7					
+16	Idaho	LINURON	2011	kg					375.1					
+16	Idaho	LINURON	2012	kg					12205.1					
+16	Idaho	LINURON	2013	kg					66942.4					
+16	Idaho	LINURON	2014	kg					2581.9					
+16	Idaho	LINURON	2015	kg					1257.6					
+16	Idaho	LINURON	2016	kg					3347.2					
+16	Idaho	LINURON	2017	kg			3653		2174.8					
+17	Illinois	LINURON	1992	kg	16045.4	39257.4			390.3					
+17	Illinois	LINURON	1993	kg	41451.7	83763.2	657.3		1238					
+17	Illinois	LINURON	1994	kg	13410.1	78173.3			91.6					
+17	Illinois	LINURON	1995	kg	148.9	79749.8			1713.8					
+17	Illinois	LINURON	1996	kg	34127.9	35164.3			388.1					
+17	Illinois	LINURON	1997	kg	7479.6	58419.6			89.8					
+17	Illinois	LINURON	1998	kg		22614.5			348.2					
+17	Illinois	LINURON	1999	kg	8814.3	33143.7			2842.3					
+17	Illinois	LINURON	2000	kg		14420.2			182.4					
+17	Illinois	LINURON	2001	kg		20444.6			98.7					
+17	Illinois	LINURON	2002	kg		29580.8			238.9					
+17	Illinois	LINURON	2003	kg					673.6					
+17	Illinois	LINURON	2004	kg	29849.1				93					
+17	Illinois	LINURON	2005	kg		19368.3			98.3					
+17	Illinois	LINURON	2006	kg		1623.3			94.4					
+17	Illinois	LINURON	2007	kg					48.1					
+17	Illinois	LINURON	2008	kg					867.2					
+17	Illinois	LINURON	2009	kg					990.9					
+17	Illinois	LINURON	2010	kg		21064.8			572.5					
+17	Illinois	LINURON	2011	kg		9214.5			384.8					
+17	Illinois	LINURON	2012	kg		5268.9			1355.1					
+17	Illinois	LINURON	2013	kg		31436.9			1603.5					
+17	Illinois	LINURON	2014	kg					1266.6					
+17	Illinois	LINURON	2015	kg					3351.2					
+17	Illinois	LINURON	2016	kg	20801.1									
+17	Illinois	LINURON	2017	kg		14870.9								
+18	Indiana	LINURON	1992	kg	13417.7	82200.6			250.3					
+18	Indiana	LINURON	1993	kg	95101.4	42793.3	592.4		1393.8					
+18	Indiana	LINURON	1994	kg	10012	34442.7			341.4					
+18	Indiana	LINURON	1995	kg		28709.7			1461.8					
+18	Indiana	LINURON	1996	kg	12856.9	26206.5			120.7				693.1	
+18	Indiana	LINURON	1997	kg	4291.3	32968.3			355					
+18	Indiana	LINURON	1998	kg		24833.9			133.9					
+18	Indiana	LINURON	1999	kg	2576.4	10209.6			758.5					
+18	Indiana	LINURON	2000	kg		10677			179.2					
+18	Indiana	LINURON	2001	kg		11530.9			503.2					
+18	Indiana	LINURON	2002	kg	7442.8	14708.6			497.4					
+18	Indiana	LINURON	2003	kg		7261.7			105.4					
+18	Indiana	LINURON	2004	kg	18776.4	1612.9			339.1					
+18	Indiana	LINURON	2005	kg		19063			202.2					
+18	Indiana	LINURON	2006	kg	1299.6	779.1			183.9					
+18	Indiana	LINURON	2007	kg		2790.9			47.1					
+18	Indiana	LINURON	2008	kg					175.5					
+18	Indiana	LINURON	2009	kg					284.8					
+18	Indiana	LINURON	2010	kg		10682.9			254.4					
+18	Indiana	LINURON	2011	kg					236					
+18	Indiana	LINURON	2012	kg		16714.2			622.9					
+18	Indiana	LINURON	2013	kg		20477.4			752.6					
+18	Indiana	LINURON	2014	kg	5256.9				887.1					
+18	Indiana	LINURON	2015	kg	3585.4	10012			1919.9					
+18	Indiana	LINURON	2016	kg	13003.7				784.4					
+18	Indiana	LINURON	2017	kg		12288.3			182.1					
+19	Iowa	LINURON	1992	kg	23975.2	51388.7			2679.6					
+19	Iowa	LINURON	1993	kg	52782.7	72204.9			2006					
+19	Iowa	LINURON	1994	kg	18432.6	40550.7			97					
+19	Iowa	LINURON	1995	kg		35768.9			144					
+19	Iowa	LINURON	1996	kg	33807.1	30021.1			33.7					
+19	Iowa	LINURON	1997	kg	7860	56643.6			26.2					
+19	Iowa	LINURON	1998	kg		37952.9			986.7					
+19	Iowa	LINURON	1999	kg		33247.9			44.5					
+19	Iowa	LINURON	2000	kg		16652.7			55					
+19	Iowa	LINURON	2001	kg		22765.3			79.9					
+19	Iowa	LINURON	2002	kg		29334			40.4					
+19	Iowa	LINURON	2003	kg					57.2					
+19	Iowa	LINURON	2004	kg	29641.3				62.4					
+19	Iowa	LINURON	2005	kg	19736.5	50121			25.9					
+19	Iowa	LINURON	2006	kg	5878.7				55.8					
+19	Iowa	LINURON	2007	kg					79.4					
+19	Iowa	LINURON	2008	kg					63.6					
+19	Iowa	LINURON	2009	kg					76					
+19	Iowa	LINURON	2010	kg		24940			66.2					
+19	Iowa	LINURON	2011	kg					35.2					
+19	Iowa	LINURON	2012	kg					221.4					
+19	Iowa	LINURON	2013	kg		36488.3			202.9					
+19	Iowa	LINURON	2014	kg		706.9			77					
+19	Iowa	LINURON	2015	kg					181.7					
+19	Iowa	LINURON	2016	kg	14677.7				19.2					
+19	Iowa	LINURON	2017	kg		21416.2			51.5					
+20	Kansas	LINURON	1992	kg		9132						3573.7		
+20	Kansas	LINURON	1993	kg		9558.3								
+20	Kansas	LINURON	1994	kg		11963.3								
+20	Kansas	LINURON	1995	kg		5330.6								
+20	Kansas	LINURON	1996	kg		29641.9						549		
+20	Kansas	LINURON	1997	kg	1818.2	9018.9								15136.1
+20	Kansas	LINURON	1998	kg	1262.5	14853.6								
+20	Kansas	LINURON	2000	kg										3777.5
+20	Kansas	LINURON	2006	kg	1946.3									
+20	Kansas	LINURON	2007	kg										511.9
+20	Kansas	LINURON	2010	kg					73.3					
+20	Kansas	LINURON	2013	kg					228.4					
+20	Kansas	LINURON	2014	kg					237					
+21	Kentucky	LINURON	1992	kg	3432.5	14631.1			1090.9					
+21	Kentucky	LINURON	1993	kg	15093.9	15071.1	1168.5		293.1					
+21	Kentucky	LINURON	1994	kg	2785.2	21299.1			33					
+21	Kentucky	LINURON	1995	kg	72.3	9659.8			235.9					
+21	Kentucky	LINURON	1996	kg	3285.9	4802.1			97.3					
+21	Kentucky	LINURON	1997	kg	3410.5	27248.1			86.6					
+21	Kentucky	LINURON	1998	kg		9261.9			116.7					
+21	Kentucky	LINURON	1999	kg		3917.9			110.6					
+21	Kentucky	LINURON	2000	kg		990.7			80					
+21	Kentucky	LINURON	2001	kg		7419.8			44.7					
+21	Kentucky	LINURON	2002	kg		3885.8			118.5					
+21	Kentucky	LINURON	2003	kg					68.3					
+21	Kentucky	LINURON	2004	kg	2956				43.8					
+21	Kentucky	LINURON	2005	kg		4751.4								
+21	Kentucky	LINURON	2006	kg		126.3								
+21	Kentucky	LINURON	2007	kg					26.8					
+21	Kentucky	LINURON	2010	kg		2057.3			61.5					
+21	Kentucky	LINURON	2011	kg		801.6			21.7					
+21	Kentucky	LINURON	2012	kg		4123.1								
+21	Kentucky	LINURON	2013	kg		3779.3			15.9					
+21	Kentucky	LINURON	2014	kg					16.5					
+21	Kentucky	LINURON	2016	kg	2315.1				33					
+21	Kentucky	LINURON	2017	kg		2481.6								
+22	Louisiana	LINURON	1992	kg		18330.8		1415.1		491.7				386.6
+22	Louisiana	LINURON	1993	kg		9890.6		2949.2		655				
+22	Louisiana	LINURON	1994	kg	2842.1	23133		6469.1		494.8				
+22	Louisiana	LINURON	1995	kg		7068		78.9						
+22	Louisiana	LINURON	1996	kg		2005.4				1230.1				
+22	Louisiana	LINURON	1997	kg		2508.3								
+22	Louisiana	LINURON	1998	kg		6077.7								
+22	Louisiana	LINURON	1999	kg		231.3								
+22	Louisiana	LINURON	2000	kg		2370.7								
+22	Louisiana	LINURON	2001	kg				6473.6						
+22	Louisiana	LINURON	2002	kg				10451.4						
+22	Louisiana	LINURON	2003	kg				3831						
+22	Louisiana	LINURON	2004	kg				7088.7						
+22	Louisiana	LINURON	2005	kg				2309.4						
+22	Louisiana	LINURON	2006	kg				597.5	3.7					
+22	Louisiana	LINURON	2007	kg				4302.1						
+22	Louisiana	LINURON	2008	kg					0.7					
+22	Louisiana	LINURON	2009	kg				3075.8						
+22	Louisiana	LINURON	2010	kg				5891.1						
+22	Louisiana	LINURON	2011	kg				14717.7						
+22	Louisiana	LINURON	2015	kg				328.1						
+23	Maine	LINURON	1992	kg		59.5			1320.3					233.2
+23	Maine	LINURON	1993	kg		66.5			12307.9					91
+23	Maine	LINURON	1994	kg		40.3			4258.9					
+23	Maine	LINURON	1995	kg		14.4			5977.2					
+23	Maine	LINURON	1996	kg		666.7			6894.1					
+23	Maine	LINURON	1997	kg		80.3			4106.9					
+23	Maine	LINURON	1998	kg		16.8			4220.4					
+23	Maine	LINURON	1999	kg		9.4			3862.1					
+23	Maine	LINURON	2000	kg					3893.1					
+23	Maine	LINURON	2001	kg		3.5			3610					
+23	Maine	LINURON	2002	kg					4160.8					
+23	Maine	LINURON	2003	kg		4.1			2517.6					
+23	Maine	LINURON	2004	kg					3667.7					
+23	Maine	LINURON	2005	kg					4885.3					
+23	Maine	LINURON	2006	kg					1953.1					
+23	Maine	LINURON	2007	kg					4431.5					
+23	Maine	LINURON	2008	kg					6980.3					
+23	Maine	LINURON	2009	kg					4541.5					
+23	Maine	LINURON	2010	kg					3784.9					
+23	Maine	LINURON	2011	kg					2235.9					
+23	Maine	LINURON	2012	kg		15.7			3168.6					
+23	Maine	LINURON	2013	kg		42.6			1870.6					
+23	Maine	LINURON	2014	kg					4662					
+23	Maine	LINURON	2015	kg					2399.6					
+23	Maine	LINURON	2016	kg					1999.1					
+23	Maine	LINURON	2017	kg					2450.7					
+24	Maryland	LINURON	1992	kg	629.7	38088	11816.5		7730.7				92.2	
+24	Maryland	LINURON	1993	kg	4004.4	39259.6			415.7					
+24	Maryland	LINURON	1994	kg	3347.9	74381			1360.5					
+24	Maryland	LINURON	1995	kg	2146.5	24679.9			350.2					
+24	Maryland	LINURON	1996	kg		5272.1			1632.8					
+24	Maryland	LINURON	1997	kg	752.1	12473.8			58					
+24	Maryland	LINURON	1998	kg	431.9	9483.4			519.7					
+24	Maryland	LINURON	1999	kg		3288.2			73.4					
+24	Maryland	LINURON	2000	kg		3219.6			42					
+24	Maryland	LINURON	2001	kg	215.6	1565.4			31.8					
+24	Maryland	LINURON	2002	kg	6423.2	1086.2			36.3					
+24	Maryland	LINURON	2003	kg	6636.1	599.1			32.5					
+24	Maryland	LINURON	2004	kg	1129.3				9.2					
+24	Maryland	LINURON	2005	kg	3705				31					
+24	Maryland	LINURON	2006	kg		2028.6			57.1					
+24	Maryland	LINURON	2007	kg	22343.5				6.9					
+24	Maryland	LINURON	2008	kg					7.3					
+24	Maryland	LINURON	2009	kg	6670.6				14.6					
+24	Maryland	LINURON	2010	kg					21.3					
+24	Maryland	LINURON	2011	kg					20.2					
+24	Maryland	LINURON	2012	kg	569.8	5533.4			15.1					
+24	Maryland	LINURON	2013	kg	2102.6	9824.7			8.3					
+24	Maryland	LINURON	2014	kg		1754.6			9.9					
+24	Maryland	LINURON	2015	kg		4935.1			16.3					
+24	Maryland	LINURON	2016	kg		35522.7			37					
+24	Maryland	LINURON	2017	kg					22.5					
+25	Massachusetts	LINURON	1992	kg	125.8	15.1			5170.3					
+25	Massachusetts	LINURON	1993	kg	33.3	29.8			2711.6					
+25	Massachusetts	LINURON	1994	kg	158.6	8.2			815.1					
+25	Massachusetts	LINURON	1995	kg		5.1			374.1					
+25	Massachusetts	LINURON	1996	kg	242.1	46.3			225.8					
+25	Massachusetts	LINURON	1997	kg		3.1			108.1				47.9	
+25	Massachusetts	LINURON	1998	kg	172.7	2.8			625.9					
+25	Massachusetts	LINURON	1999	kg	124.7	1.3			149.7					
+25	Massachusetts	LINURON	2000	kg	386				140.3					
+25	Massachusetts	LINURON	2001	kg	3144.1	0.2			776					
+25	Massachusetts	LINURON	2002	kg	4508.4				93.5					
+25	Massachusetts	LINURON	2003	kg		0.1			237.2					
+25	Massachusetts	LINURON	2004	kg					251.3					
+25	Massachusetts	LINURON	2005	kg					98.1					
+25	Massachusetts	LINURON	2006	kg					7.8					
+25	Massachusetts	LINURON	2007	kg					204.3					
+25	Massachusetts	LINURON	2008	kg					766.7					
+25	Massachusetts	LINURON	2009	kg					249.9					
+25	Massachusetts	LINURON	2010	kg					293.2					
+25	Massachusetts	LINURON	2011	kg					53.1					
+25	Massachusetts	LINURON	2012	kg		6			570.2					
+25	Massachusetts	LINURON	2013	kg		17.2			230.4					
+25	Massachusetts	LINURON	2014	kg					335.7					
+25	Massachusetts	LINURON	2015	kg					46.4					
+25	Massachusetts	LINURON	2016	kg					485.4					
+25	Massachusetts	LINURON	2017	kg					120.8					
+26	Michigan	LINURON	1992	kg	961.2	130162.2			27484.9					
+26	Michigan	LINURON	1993	kg	52049.4	139341.3			23039.5				0	
+26	Michigan	LINURON	1994	kg	2022.1	84152.5			19472.2					
+26	Michigan	LINURON	1995	kg	826.2	63058.7			26132.9					
+26	Michigan	LINURON	1996	kg	1635	60670.4			18686				1931.3	
+26	Michigan	LINURON	1997	kg	1995.7	78651.6			8483.6					
+26	Michigan	LINURON	1998	kg		40778.6			20115.2					
+26	Michigan	LINURON	1999	kg		18771			18155.3					
+26	Michigan	LINURON	2000	kg	2437.2	14480.7			18021.1					
+26	Michigan	LINURON	2001	kg		8137.9			18814.3					
+26	Michigan	LINURON	2002	kg	5555.6	9821.2			19268.1					
+26	Michigan	LINURON	2003	kg		11181.6			12647.9					
+26	Michigan	LINURON	2004	kg	9276.8	3495.7			13893.4					
+26	Michigan	LINURON	2005	kg		11747.1			16855.6					
+26	Michigan	LINURON	2006	kg		1179.7			13995.8					
+26	Michigan	LINURON	2007	kg		4351.7			16634					
+26	Michigan	LINURON	2008	kg					14379.2					
+26	Michigan	LINURON	2009	kg					15964.5					
+26	Michigan	LINURON	2010	kg					13301.1					
+26	Michigan	LINURON	2011	kg					10470.5					
+26	Michigan	LINURON	2012	kg		4007.9			14306.9					
+26	Michigan	LINURON	2013	kg		6364.3			12777					
+26	Michigan	LINURON	2014	kg		8991.5			15038.5					
+26	Michigan	LINURON	2015	kg	6804.5	15923.2			13561.8					
+26	Michigan	LINURON	2016	kg					16357.9					
+26	Michigan	LINURON	2017	kg					13230.5					
+27	Minnesota	LINURON	1992	kg	10531.2	35339.8			28096.2					
+27	Minnesota	LINURON	1993	kg	32732.1	32737.3			22024.3					
+27	Minnesota	LINURON	1994	kg	10055.7	24918.4			21503.6					
+27	Minnesota	LINURON	1995	kg		12077			14148.8					
+27	Minnesota	LINURON	1996	kg	4274.7	13019.9	699.2		9569.3					
+27	Minnesota	LINURON	1997	kg	5841.2	24035.5			14280.8					
+27	Minnesota	LINURON	1998	kg		26496.3			2880					
+27	Minnesota	LINURON	1999	kg		36740.1			6346.6					
+27	Minnesota	LINURON	2000	kg	1724.3	12230.3			10872.4					
+27	Minnesota	LINURON	2001	kg		9467.6			16860.3					
+27	Minnesota	LINURON	2002	kg		21870.6			13368.4					
+27	Minnesota	LINURON	2003	kg		6386.4			24916.3					
+27	Minnesota	LINURON	2004	kg	12486.6	2195.2			3682.8					
+27	Minnesota	LINURON	2005	kg		33802.1			6328					
+27	Minnesota	LINURON	2006	kg					12204.4					
+27	Minnesota	LINURON	2007	kg			2084.7		13591.2					
+27	Minnesota	LINURON	2008	kg					5729.1					
+27	Minnesota	LINURON	2009	kg					6439.7					
+27	Minnesota	LINURON	2010	kg		9594.3			2019.6					
+27	Minnesota	LINURON	2011	kg					2490					
+27	Minnesota	LINURON	2012	kg					15428					
+27	Minnesota	LINURON	2013	kg		25463.1			14897.6					
+27	Minnesota	LINURON	2014	kg					5677.1					
+27	Minnesota	LINURON	2015	kg					26836.4					
+27	Minnesota	LINURON	2016	kg	14102.5				3541.7					
+27	Minnesota	LINURON	2017	kg		10234			11152					
+28	Mississippi	LINURON	1992	kg	270.7	2805.4		3299.9						620.5
+28	Mississippi	LINURON	1993	kg		7023.1		3367.5						
+28	Mississippi	LINURON	1994	kg	242.3	7700.7		6897.5		281.3				
+28	Mississippi	LINURON	1995	kg	2814.5	11968.5		49.9						
+28	Mississippi	LINURON	1996	kg		2419.5		2126.7		626.4				
+28	Mississippi	LINURON	1997	kg	3229.2	4195.5								375.4
+28	Mississippi	LINURON	1998	kg		13377.8								
+28	Mississippi	LINURON	1999	kg		125.1								
+28	Mississippi	LINURON	2000	kg		86								
+28	Mississippi	LINURON	2001	kg				18111.2						
+28	Mississippi	LINURON	2002	kg				22427.2						
+28	Mississippi	LINURON	2003	kg				6009.2						
+28	Mississippi	LINURON	2004	kg				13805						
+28	Mississippi	LINURON	2005	kg				5380.4						
+28	Mississippi	LINURON	2006	kg				12516.2						
+28	Mississippi	LINURON	2007	kg				10537.7						
+28	Mississippi	LINURON	2008	kg				622.8						
+28	Mississippi	LINURON	2009	kg				3167						
+28	Mississippi	LINURON	2010	kg				5108.5						
+28	Mississippi	LINURON	2011	kg				9645.9						
+28	Mississippi	LINURON	2012	kg				2837.8						
+28	Mississippi	LINURON	2013	kg		502.7		31.5						
+28	Mississippi	LINURON	2015	kg				673.1						
+29	Missouri	LINURON	1992	kg	5578.4	24892.9			8			454.1		
+29	Missouri	LINURON	1993	kg	13240.3	28018.4		1482.3	12					
+29	Missouri	LINURON	1994	kg	3758.3	17401.4		251.6	3.9					
+29	Missouri	LINURON	1995	kg	164.3	11177.4			5.6					
+29	Missouri	LINURON	1996	kg	18074.3	31421			5.5			2474.9		
+29	Missouri	LINURON	1997	kg	2226.1	40868.3			3.9					
+29	Missouri	LINURON	1998	kg		19286.1			5.7					
+29	Missouri	LINURON	1999	kg		16841.7			5.4					
+29	Missouri	LINURON	2000	kg		7690.1			7.4					
+29	Missouri	LINURON	2001	kg		8628.3		1112.9	5.4					
+29	Missouri	LINURON	2002	kg		13556.8			7.2					
+29	Missouri	LINURON	2003	kg				2077.7	8.6					
+29	Missouri	LINURON	2004	kg	11090.1				3.5					
+29	Missouri	LINURON	2005	kg	2739.2	23693.6		996.9	4.2					
+29	Missouri	LINURON	2006	kg	4972.5	429.9		805.8	4.7					
+29	Missouri	LINURON	2007	kg		4807		2875.9	2.4					
+29	Missouri	LINURON	2008	kg					162.7					588
+29	Missouri	LINURON	2009	kg					216.6					
+29	Missouri	LINURON	2010	kg		4975.8		776	142.2					
+29	Missouri	LINURON	2011	kg		3041.8			117.5					
+29	Missouri	LINURON	2012	kg		1457.4			467.2					
+29	Missouri	LINURON	2013	kg		18716.1		852.2	495.5					
+29	Missouri	LINURON	2014	kg				747.9	400.8					
+29	Missouri	LINURON	2015	kg					1092.5					
+29	Missouri	LINURON	2016	kg	10526.1									
+29	Missouri	LINURON	2017	kg		14567								
+30	Montana	LINURON	2007	kg					25.5					
+30	Montana	LINURON	2008	kg			20752.8							
+30	Montana	LINURON	2009	kg					7.5					
+30	Montana	LINURON	2011	kg					7.8					
+30	Montana	LINURON	2012	kg					242					
+30	Montana	LINURON	2014	kg					85.2					
+30	Montana	LINURON	2015	kg					36.4					
+30	Montana	LINURON	2016	kg					60.5					
+30	Montana	LINURON	2017	kg					53.7					
+31	Nebraska	LINURON	1992	kg	7766	13510.2			17.5					
+31	Nebraska	LINURON	1993	kg	16712.7	6200.1			26.6					
+31	Nebraska	LINURON	1994	kg	6221.8	7926.3			8.4					
+31	Nebraska	LINURON	1995	kg		7886.7			12.5					
+31	Nebraska	LINURON	1996	kg	7584.3	17630			11.8					
+31	Nebraska	LINURON	1997	kg	6278.1	15731.3			8.5					
+31	Nebraska	LINURON	1998	kg	2459.5	4940			12.6					
+31	Nebraska	LINURON	1999	kg		7886.5			778					
+31	Nebraska	LINURON	2000	kg		4133.1			6690.5					
+31	Nebraska	LINURON	2001	kg		5776.8			11					
+31	Nebraska	LINURON	2002	kg		7577.9			14.2					
+31	Nebraska	LINURON	2003	kg					16					
+31	Nebraska	LINURON	2004	kg	11805.1				7					
+31	Nebraska	LINURON	2005	kg	12389.1	13300.6			7.5					
+31	Nebraska	LINURON	2006	kg	4602.2				8					
+31	Nebraska	LINURON	2007	kg					3.9					
+31	Nebraska	LINURON	2008	kg					569.9					
+31	Nebraska	LINURON	2009	kg					730.5					
+31	Nebraska	LINURON	2010	kg		5589.8			1882.1					
+31	Nebraska	LINURON	2011	kg					377.8					
+31	Nebraska	LINURON	2012	kg					1470.7					
+31	Nebraska	LINURON	2013	kg		10165.5			5718.1					
+31	Nebraska	LINURON	2014	kg		335.2			7007.8					
+31	Nebraska	LINURON	2015	kg					2640.1					
+31	Nebraska	LINURON	2016	kg	9226.7									
+31	Nebraska	LINURON	2017	kg		6148								
+32	Nevada	LINURON	1992	kg								61.5		
+32	Nevada	LINURON	1993	kg									35.4	
+32	Nevada	LINURON	1994	kg									67.2	
+32	Nevada	LINURON	2006	kg					162.1					
+32	Nevada	LINURON	2008	kg					1.3					
+32	Nevada	LINURON	2009	kg					1.4					
+32	Nevada	LINURON	2010	kg					0.9					
+32	Nevada	LINURON	2011	kg					1.3					
+32	Nevada	LINURON	2012	kg					0.9					
+32	Nevada	LINURON	2013	kg					1.9					
+32	Nevada	LINURON	2014	kg					2.2					
+32	Nevada	LINURON	2015	kg					1.1					
+32	Nevada	LINURON	2016	kg					0.7					
+32	Nevada	LINURON	2017	kg					2.8					
+33	New Hampshire	LINURON	1992	kg	74.9				1349.5					
+33	New Hampshire	LINURON	1993	kg	20.1				336.7					
+33	New Hampshire	LINURON	1994	kg	97.2				31.4					
+33	New Hampshire	LINURON	1995	kg					78.8					
+33	New Hampshire	LINURON	1996	kg	152.8				8.8					
+33	New Hampshire	LINURON	1997	kg					25.9					
+33	New Hampshire	LINURON	1998	kg	100.1				86.2					
+33	New Hampshire	LINURON	1999	kg	73.3				15.8					
+33	New Hampshire	LINURON	2000	kg	248.3				4.5					
+33	New Hampshire	LINURON	2001	kg					8.7					
+33	New Hampshire	LINURON	2002	kg					20.7					
+33	New Hampshire	LINURON	2003	kg					4.9					
+33	New Hampshire	LINURON	2004	kg					6.7					
+33	New Hampshire	LINURON	2005	kg					8.4					
+33	New Hampshire	LINURON	2006	kg					5.1					
+33	New Hampshire	LINURON	2007	kg					11.5					
+33	New Hampshire	LINURON	2008	kg					22.2					
+33	New Hampshire	LINURON	2009	kg					16.3					
+33	New Hampshire	LINURON	2010	kg					14.8					
+33	New Hampshire	LINURON	2011	kg					20.1					
+33	New Hampshire	LINURON	2012	kg					12.3					
+33	New Hampshire	LINURON	2013	kg					42.5					
+33	New Hampshire	LINURON	2014	kg					10					
+33	New Hampshire	LINURON	2015	kg					0.2					
+33	New Hampshire	LINURON	2016	kg					31					
+33	New Hampshire	LINURON	2017	kg					16.8					
+34	New Jersey	LINURON	1992	kg	2422.9	15182.5	227.1		792.7					
+34	New Jersey	LINURON	1993	kg	248.7	19102			2857.3					
+34	New Jersey	LINURON	1994	kg	1144.2	10041.3			2600.6					
+34	New Jersey	LINURON	1995	kg		3030.9			1125.1					
+34	New Jersey	LINURON	1996	kg		6924.9			423.5					
+34	New Jersey	LINURON	1997	kg		1204.5			738.5				16.2	
+34	New Jersey	LINURON	1998	kg		1883.3			193.1					
+34	New Jersey	LINURON	1999	kg		1356			422.8					
+34	New Jersey	LINURON	2000	kg		1083.8			1087					
+34	New Jersey	LINURON	2001	kg		496.7			804					
+34	New Jersey	LINURON	2002	kg	395.6	361.5			582.1					
+34	New Jersey	LINURON	2003	kg		1133.5			143.6					
+34	New Jersey	LINURON	2004	kg					176.4					
+34	New Jersey	LINURON	2005	kg					244.2					
+34	New Jersey	LINURON	2006	kg					414.8					
+34	New Jersey	LINURON	2007	kg					49.8					
+34	New Jersey	LINURON	2008	kg					101.8					
+34	New Jersey	LINURON	2009	kg					147.8					
+34	New Jersey	LINURON	2010	kg					318.8					
+34	New Jersey	LINURON	2011	kg					68.8					
+34	New Jersey	LINURON	2012	kg		749.1			380.1					
+34	New Jersey	LINURON	2013	kg		2568.8			138.7					
+34	New Jersey	LINURON	2014	kg					34.9					
+34	New Jersey	LINURON	2015	kg					154.5					
+34	New Jersey	LINURON	2016	kg					274.2					
+34	New Jersey	LINURON	2017	kg					127.2					
+35	New Mexico	LINURON	1992	kg		1.6			0.1					2.6
+35	New Mexico	LINURON	1993	kg		5.3								4.3
+35	New Mexico	LINURON	1994	kg		4.4			19					
+35	New Mexico	LINURON	1995	kg		0.7			51.5					
+35	New Mexico	LINURON	1996	kg		0.7			23.4					
+35	New Mexico	LINURON	1997	kg	134.7	1.5			15.1					
+35	New Mexico	LINURON	1998	kg		7.8			200					
+35	New Mexico	LINURON	1999	kg					19.4					
+35	New Mexico	LINURON	2000	kg					38					
+35	New Mexico	LINURON	2001	kg					17.2					
+35	New Mexico	LINURON	2002	kg				49.9	17.7					39
+35	New Mexico	LINURON	2003	kg				1.6	18.4					
+35	New Mexico	LINURON	2004	kg				34.6	15.6					
+35	New Mexico	LINURON	2005	kg				297.6	11					
+35	New Mexico	LINURON	2006	kg				10.9	7.9					
+35	New Mexico	LINURON	2007	kg				65.3	4.1					
+35	New Mexico	LINURON	2008	kg				19.3						
+35	New Mexico	LINURON	2009	kg				78.4						
+35	New Mexico	LINURON	2010	kg				20.7	265.6					
+35	New Mexico	LINURON	2012	kg				1						286.2
+35	New Mexico	LINURON	2013	kg				4.4						16.6
+35	New Mexico	LINURON	2014	kg				20						
+35	New Mexico	LINURON	2015	kg				23.4						
+35	New Mexico	LINURON	2016	kg				8.2						
+36	New York	LINURON	1992	kg	4365.6	7229.6			47173.6					
+36	New York	LINURON	1993	kg	777.8	14193.2			7157.6					
+36	New York	LINURON	1994	kg	5963.9	6232.6			4428.4					
+36	New York	LINURON	1995	kg		1374.4			12767.4					
+36	New York	LINURON	1996	kg	1528.4	6519.2			5076.7					
+36	New York	LINURON	1997	kg		5409.8			4838.3				193.8	
+36	New York	LINURON	1998	kg	1042.4	6599.2			5313.3					
+36	New York	LINURON	1999	kg	788.5	1940.7			3279.4					
+36	New York	LINURON	2000	kg	2033.5				1971.6					
+36	New York	LINURON	2001	kg		1004.5			5161.5					
+36	New York	LINURON	2002	kg					3906.2					
+36	New York	LINURON	2003	kg	1636	1060.8			2272.4					
+36	New York	LINURON	2004	kg					2410					
+36	New York	LINURON	2005	kg					3542.4					
+36	New York	LINURON	2006	kg	2385.6				3435.2					
+36	New York	LINURON	2007	kg	2242.7				2902.7					
+36	New York	LINURON	2008	kg					1925.7					
+36	New York	LINURON	2009	kg					2097.8					
+36	New York	LINURON	2010	kg					3486.2					
+36	New York	LINURON	2011	kg					3274.7					
+36	New York	LINURON	2012	kg		2475.7			3074.6					
+36	New York	LINURON	2013	kg		6474.6			1435.5					
+36	New York	LINURON	2014	kg					1860					
+36	New York	LINURON	2015	kg	534.7				3408.9					
+36	New York	LINURON	2016	kg					1197.1					
+36	New York	LINURON	2017	kg					936.7					
+37	North Carolina	LINURON	1992	kg	24020.1	24903.6			3439					478
+37	North Carolina	LINURON	1993	kg	5902.8	16243.1			2031.4					
+37	North Carolina	LINURON	1994	kg	8791.2	3347.4			2532.7					
+37	North Carolina	LINURON	1995	kg	5826.9	3479.8			155.4					
+37	North Carolina	LINURON	1996	kg		5779			515.6					
+37	North Carolina	LINURON	1997	kg	7240.8	4831.7			383.6				107.7	
+37	North Carolina	LINURON	1998	kg	2424.6	6999.4			1389.9					
+37	North Carolina	LINURON	1999	kg	2501.2	9418.1			1706					
+37	North Carolina	LINURON	2000	kg		2761.4			607.1					
+37	North Carolina	LINURON	2001	kg	1574	13.4		7707.9	21.5					
+37	North Carolina	LINURON	2002	kg	12477.3	10.7			816.3					
+37	North Carolina	LINURON	2003	kg	16906.1			3596.3	43					
+37	North Carolina	LINURON	2004	kg	4147.2			9473.5	31					
+37	North Carolina	LINURON	2005	kg	14132.2			5430.1						
+37	North Carolina	LINURON	2006	kg				20712.3						
+37	North Carolina	LINURON	2007	kg	80804			2348.1	1158.1					
+37	North Carolina	LINURON	2008	kg	3608.9			2117.2						
+37	North Carolina	LINURON	2009	kg	16906			1384.8						
+37	North Carolina	LINURON	2010	kg	30389.6			7349.5	69.9					
+37	North Carolina	LINURON	2011	kg				2667.7	24					
+37	North Carolina	LINURON	2012	kg	3449	25.2		6950.2						
+37	North Carolina	LINURON	2013	kg	4487.6	32982.9		1691.3	32.2					
+37	North Carolina	LINURON	2014	kg				2505.8	48.8					
+37	North Carolina	LINURON	2015	kg				7068.2						
+37	North Carolina	LINURON	2016	kg				5561.7	182					
+37	North Carolina	LINURON	2017	kg		31982.3			168.4					
+38	North Dakota	LINURON	1995	kg					2778.2					
+38	North Dakota	LINURON	1996	kg			956.2							
+38	North Dakota	LINURON	1997	kg					21128.4					
+38	North Dakota	LINURON	1998	kg					384.3					
+38	North Dakota	LINURON	1999	kg					189.3					
+38	North Dakota	LINURON	2000	kg		2389.9								
+38	North Dakota	LINURON	2001	kg		1575.8								
+38	North Dakota	LINURON	2002	kg		3717.9								
+38	North Dakota	LINURON	2003	kg		2120.8								
+38	North Dakota	LINURON	2004	kg					2401.3					
+38	North Dakota	LINURON	2006	kg					9675.1					
+38	North Dakota	LINURON	2007	kg			2471.5							
+38	North Dakota	LINURON	2008	kg			19600.5							
+38	North Dakota	LINURON	2013	kg		9816.5								
+38	North Dakota	LINURON	2015	kg					2986					
+38	North Dakota	LINURON	2016	kg					3375.1					
+39	Ohio	LINURON	1992	kg	14191	117725.9			2361.5					
+39	Ohio	LINURON	1993	kg	43098.5	86844.1	271.7		3794.4					
+39	Ohio	LINURON	1994	kg	16594.6	56989.3			7791.9					
+39	Ohio	LINURON	1995	kg	323.9	47835.2			3520.1					960.6
+39	Ohio	LINURON	1996	kg	33637.5	71179.3			9465				88.1	
+39	Ohio	LINURON	1997	kg	10216.1	50317.9			2773.8					
+39	Ohio	LINURON	1998	kg		28372.9			3632.9					
+39	Ohio	LINURON	1999	kg		22619.5			4045.7					
+39	Ohio	LINURON	2000	kg	792.8	3459.6			2801.8					
+39	Ohio	LINURON	2001	kg		10316.4			1641.8					
+39	Ohio	LINURON	2002	kg	2529.3	22183.9			2172.6					
+39	Ohio	LINURON	2003	kg		10706.8			1390.5					
+39	Ohio	LINURON	2004	kg	8311.1	2969.3			2196.4					
+39	Ohio	LINURON	2005	kg		33707.3			1127.2					
+39	Ohio	LINURON	2006	kg	3659	643.2			1147.3					
+39	Ohio	LINURON	2007	kg		2586.4			851					
+39	Ohio	LINURON	2008	kg					741.5					
+39	Ohio	LINURON	2009	kg					713.1					
+39	Ohio	LINURON	2010	kg		7111.5			730.5					
+39	Ohio	LINURON	2011	kg					318.1					
+39	Ohio	LINURON	2012	kg		12059.7			592.1					
+39	Ohio	LINURON	2013	kg		14021.2			304.7					
+39	Ohio	LINURON	2014	kg	15738	6117.6			317.7					
+39	Ohio	LINURON	2015	kg	13694.3	8898			543.8					
+39	Ohio	LINURON	2016	kg	6037.3				334.3					
+39	Ohio	LINURON	2017	kg		7941.4			105.8					
+40	Oklahoma	LINURON	1992	kg		836.8								
+40	Oklahoma	LINURON	1993	kg		289.7								
+40	Oklahoma	LINURON	1994	kg		124.6								
+40	Oklahoma	LINURON	1995	kg		331.6								
+40	Oklahoma	LINURON	1996	kg		130.3						193.4		
+40	Oklahoma	LINURON	1997	kg	170.9	222.5								
+40	Oklahoma	LINURON	1998	kg		566								
+40	Oklahoma	LINURON	2000	kg										479.4
+40	Oklahoma	LINURON	2002	kg										82.7
+40	Oklahoma	LINURON	2005	kg				324.5						
+40	Oklahoma	LINURON	2006	kg				1273.4						
+40	Oklahoma	LINURON	2007	kg				85.1						207.3
+40	Oklahoma	LINURON	2008	kg				57.6						
+40	Oklahoma	LINURON	2009	kg				36.3						
+40	Oklahoma	LINURON	2010	kg					3.7					
+40	Oklahoma	LINURON	2012	kg										948.6
+40	Oklahoma	LINURON	2014	kg				293.5						
+40	Oklahoma	LINURON	2015	kg				342.3						
+41	Oregon	LINURON	1992	kg					141.8					
+41	Oregon	LINURON	1993	kg					858.9					
+41	Oregon	LINURON	1994	kg					1134.9				124.2	
+41	Oregon	LINURON	1995	kg					4140.1					
+41	Oregon	LINURON	1996	kg					2615.3					
+41	Oregon	LINURON	1997	kg					887.1					
+41	Oregon	LINURON	1998	kg					998.9					
+41	Oregon	LINURON	1999	kg					749.9					
+41	Oregon	LINURON	2000	kg					2275					
+41	Oregon	LINURON	2001	kg					349.7					
+41	Oregon	LINURON	2002	kg					204.5					
+41	Oregon	LINURON	2003	kg					80.9					
+41	Oregon	LINURON	2004	kg					652.3					
+41	Oregon	LINURON	2005	kg					746.8					
+41	Oregon	LINURON	2006	kg					2080.2					
+41	Oregon	LINURON	2007	kg					459.6					
+41	Oregon	LINURON	2008	kg					401.8					
+41	Oregon	LINURON	2009	kg					93					
+41	Oregon	LINURON	2010	kg					402.8					
+41	Oregon	LINURON	2011	kg					71.8					
+41	Oregon	LINURON	2012	kg					639					
+41	Oregon	LINURON	2013	kg					4382.6					
+41	Oregon	LINURON	2014	kg					406.9					
+41	Oregon	LINURON	2015	kg					377.7					
+41	Oregon	LINURON	2016	kg					518.5					
+41	Oregon	LINURON	2017	kg			3609.4		183.4					
+42	Pennsylvania	LINURON	1992	kg	6653.2	31332.9	1071.2		30956.3				30.3	
+42	Pennsylvania	LINURON	1993	kg	4097.5	30513.8			4271.9					
+42	Pennsylvania	LINURON	1994	kg	8876.3	20899.8			2257.7					
+42	Pennsylvania	LINURON	1995	kg		8267.2			4764.6					
+42	Pennsylvania	LINURON	1996	kg		8439.4			2475.5					
+42	Pennsylvania	LINURON	1997	kg	1907.1	5781.5			1796.2				28.8	
+42	Pennsylvania	LINURON	1998	kg		7580.4			1623.6					
+42	Pennsylvania	LINURON	1999	kg		3197.5			1480.3					
+42	Pennsylvania	LINURON	2000	kg		2190.8			910					
+42	Pennsylvania	LINURON	2001	kg	1121	2765.3			1105.7					
+42	Pennsylvania	LINURON	2002	kg	1662.6	1856.2			1260.3					
+42	Pennsylvania	LINURON	2003	kg	547.9	1715.7			799.7					
+42	Pennsylvania	LINURON	2004	kg					589.2					
+42	Pennsylvania	LINURON	2005	kg					1778.2					
+42	Pennsylvania	LINURON	2006	kg		1139.3			831.8					
+42	Pennsylvania	LINURON	2007	kg					779.1					
+42	Pennsylvania	LINURON	2008	kg					359					
+42	Pennsylvania	LINURON	2009	kg					1572.5					
+42	Pennsylvania	LINURON	2010	kg					1759.4					
+42	Pennsylvania	LINURON	2011	kg					403.6					
+42	Pennsylvania	LINURON	2012	kg	3436	3686.8			2251.4					
+42	Pennsylvania	LINURON	2013	kg		9300.4			872.8					
+42	Pennsylvania	LINURON	2014	kg		5214.1			661.3					
+42	Pennsylvania	LINURON	2015	kg		14687.5			541.5					
+42	Pennsylvania	LINURON	2016	kg		5300.3			1697.8					
+42	Pennsylvania	LINURON	2017	kg					450					
+44	Rhode Island	LINURON	1992	kg	12.5				769.6					
+44	Rhode Island	LINURON	1993	kg	3.5				253.4					
+44	Rhode Island	LINURON	1994	kg	17				101.5					
+44	Rhode Island	LINURON	1995	kg					121.4					
+44	Rhode Island	LINURON	1996	kg	27.7				42.8					
+44	Rhode Island	LINURON	1997	kg					12					
+44	Rhode Island	LINURON	1998	kg	18				110.3					
+44	Rhode Island	LINURON	1999	kg	12.9				44.8					
+44	Rhode Island	LINURON	2000	kg	42.1				39.7					
+44	Rhode Island	LINURON	2001	kg	389.5				101.8					
+44	Rhode Island	LINURON	2002	kg	566.8				26.5					
+44	Rhode Island	LINURON	2003	kg					30.9					
+44	Rhode Island	LINURON	2004	kg					32.2					
+44	Rhode Island	LINURON	2005	kg					60.2					
+44	Rhode Island	LINURON	2006	kg					37.5					
+44	Rhode Island	LINURON	2007	kg					39					
+44	Rhode Island	LINURON	2008	kg					30.7					
+44	Rhode Island	LINURON	2009	kg					43.9					
+44	Rhode Island	LINURON	2010	kg					79.6					
+44	Rhode Island	LINURON	2011	kg					16.9					
+44	Rhode Island	LINURON	2012	kg					87.6					
+44	Rhode Island	LINURON	2013	kg					34.2					
+44	Rhode Island	LINURON	2014	kg					51.8					
+44	Rhode Island	LINURON	2015	kg					42.3					
+44	Rhode Island	LINURON	2016	kg					80.4					
+44	Rhode Island	LINURON	2017	kg					43.6					
+45	South Carolina	LINURON	1992	kg	747.8	4652.2			49.7					335.9
+45	South Carolina	LINURON	1993	kg	3227.7	4358			23.5					
+45	South Carolina	LINURON	1994	kg	1359.3	9480.5			25.1					
+45	South Carolina	LINURON	1995	kg	1286.5	6601.6								
+45	South Carolina	LINURON	1996	kg	4288.8	3512.8			2.6					
+45	South Carolina	LINURON	1997	kg	4219.9	3563.9			0.2				266	
+45	South Carolina	LINURON	1998	kg	1251.6	2690.4			1.6					
+45	South Carolina	LINURON	1999	kg		2907.2			5.7					
+45	South Carolina	LINURON	2000	kg		1757.1			2					
+45	South Carolina	LINURON	2001	kg	212.7			2651.3						
+45	South Carolina	LINURON	2002	kg	65298.9			1248.7	6.3					
+45	South Carolina	LINURON	2003	kg	3908.3			2339.5						
+45	South Carolina	LINURON	2004	kg	1160.3			9553.5						
+45	South Carolina	LINURON	2005	kg	2415.5			139.5						
+45	South Carolina	LINURON	2006	kg				13539.9						
+45	South Carolina	LINURON	2007	kg	31690.3			4292.5						
+45	South Carolina	LINURON	2008	kg	688.9			2349.4						
+45	South Carolina	LINURON	2009	kg	6897.8			1501.5						
+45	South Carolina	LINURON	2010	kg				2249.9						
+45	South Carolina	LINURON	2011	kg				1121.6						
+45	South Carolina	LINURON	2012	kg	690.3			4092.3						
+45	South Carolina	LINURON	2013	kg	4541.5	6424.2		940.6						
+45	South Carolina	LINURON	2014	kg				6756						
+45	South Carolina	LINURON	2015	kg				9311.4						
+45	South Carolina	LINURON	2017	kg		22333.2								
+46	South Dakota	LINURON	1992	kg	4259.9				4.6					
+46	South Dakota	LINURON	1993	kg	3318.5				6.7					
+46	South Dakota	LINURON	1994	kg	3310.3				1.9					
+46	South Dakota	LINURON	1995	kg					3					
+46	South Dakota	LINURON	1996	kg	8492.8				2.8					
+46	South Dakota	LINURON	1997	kg	1653.1				1.9					
+46	South Dakota	LINURON	1998	kg					3					
+46	South Dakota	LINURON	1999	kg					44.5					
+46	South Dakota	LINURON	2000	kg		1363.8			3.3					
+46	South Dakota	LINURON	2001	kg		785.6			2.8					
+46	South Dakota	LINURON	2002	kg		1485.6			3.6					
+46	South Dakota	LINURON	2003	kg		893.5			4.1					
+46	South Dakota	LINURON	2004	kg	7281.5				70.3					
+46	South Dakota	LINURON	2005	kg					2					
+46	South Dakota	LINURON	2006	kg					2.1					
+46	South Dakota	LINURON	2007	kg					1.1					
+46	South Dakota	LINURON	2008	kg					44.4					
+46	South Dakota	LINURON	2009	kg					40.1					
+46	South Dakota	LINURON	2010	kg					6					
+46	South Dakota	LINURON	2011	kg					8.3					
+46	South Dakota	LINURON	2012	kg					14.2					
+46	South Dakota	LINURON	2013	kg		7232.3			14.4					
+46	South Dakota	LINURON	2014	kg		116.6			10.3					
+46	South Dakota	LINURON	2015	kg					40					
+46	South Dakota	LINURON	2016	kg	4800.8									
+46	South Dakota	LINURON	2017	kg		2139.3								
+47	Tennessee	LINURON	1992	kg	935.8	5100.4		1682.2	926.7					
+47	Tennessee	LINURON	1993	kg	996.8	10535.7	224	1939.4	295.5					
+47	Tennessee	LINURON	1994	kg	721.8	8221.2		1587.3	34.7	0.1				
+47	Tennessee	LINURON	1995	kg	4381.9	4294.8			255					
+47	Tennessee	LINURON	1996	kg		1297			110.8	2.2				
+47	Tennessee	LINURON	1997	kg	16004.9	13650.7			106.7					
+47	Tennessee	LINURON	1998	kg		6504.8			145.6					
+47	Tennessee	LINURON	1999	kg		859.3			146.3					
+47	Tennessee	LINURON	2000	kg					112					
+47	Tennessee	LINURON	2001	kg		1240.6		574.1	67.2					
+47	Tennessee	LINURON	2002	kg		606.1		4703.5	197.5					
+47	Tennessee	LINURON	2003	kg				3045.6	115.7					
+47	Tennessee	LINURON	2004	kg				5948.5	75.9					
+47	Tennessee	LINURON	2005	kg				4298.4						
+47	Tennessee	LINURON	2006	kg				4434.6						
+47	Tennessee	LINURON	2007	kg				3836.1	49.5					
+47	Tennessee	LINURON	2008	kg				1564.1						
+47	Tennessee	LINURON	2009	kg				2539.4						
+47	Tennessee	LINURON	2010	kg				4344.7	63.4					
+47	Tennessee	LINURON	2011	kg				7386.5	21.2					
+47	Tennessee	LINURON	2012	kg		1809.3								
+47	Tennessee	LINURON	2013	kg				207.9	15.6					
+47	Tennessee	LINURON	2014	kg				248.4	16.2					
+47	Tennessee	LINURON	2016	kg					36.3					
+48	Texas	LINURON	1992	kg		1681.6				2022.4				33.6
+48	Texas	LINURON	1993	kg	39349.6	2592.3			2929.9	592.3				31.4
+48	Texas	LINURON	1994	kg		1075.9			4538.8	19641.7				28703.9
+48	Texas	LINURON	1995	kg	15485.9	424.7			2784.1					
+48	Texas	LINURON	1996	kg		2023.5			3440.4	110				
+48	Texas	LINURON	1997	kg	20254.9	1291.6			850.9					7215.2
+48	Texas	LINURON	1998	kg		3267.8			3642.5					
+48	Texas	LINURON	1999	kg		317.6			7249					
+48	Texas	LINURON	2000	kg		4595.7			5946.8					
+48	Texas	LINURON	2001	kg					4798.9					
+48	Texas	LINURON	2002	kg				4225.5	1373.8					519.6
+48	Texas	LINURON	2003	kg				150.9	1190.2					
+48	Texas	LINURON	2004	kg				13171.4	452.4					
+48	Texas	LINURON	2005	kg				55044.7	2109					
+48	Texas	LINURON	2006	kg				6723.9	3118.7					
+48	Texas	LINURON	2007	kg				2020	2040.4					
+48	Texas	LINURON	2008	kg				6276.7	1645.6					
+48	Texas	LINURON	2009	kg				3830	629.4					
+48	Texas	LINURON	2010	kg					2594.1					
+48	Texas	LINURON	2011	kg				1276.7	1410.7					
+48	Texas	LINURON	2012	kg				133.2	1436.1					5739.7
+48	Texas	LINURON	2013	kg					2559.1					2649.6
+48	Texas	LINURON	2014	kg				4279.5						
+48	Texas	LINURON	2015	kg				3621.1						
+48	Texas	LINURON	2016	kg				1109.7						
+49	Utah	LINURON	1993	kg									42.2	
+49	Utah	LINURON	1994	kg					0.2					
+49	Utah	LINURON	1995	kg					0.6					
+49	Utah	LINURON	1996	kg					0.3					
+49	Utah	LINURON	1997	kg					0.2					
+49	Utah	LINURON	1998	kg					0.4					
+49	Utah	LINURON	1999	kg					0.4					
+49	Utah	LINURON	2000	kg					0.7					
+49	Utah	LINURON	2001	kg					0.4					
+49	Utah	LINURON	2002	kg					0.2					
+49	Utah	LINURON	2003	kg					0.5					
+49	Utah	LINURON	2004	kg					0.5					
+49	Utah	LINURON	2005	kg					0.5					
+49	Utah	LINURON	2006	kg					0.5					
+49	Utah	LINURON	2007	kg					0.7					
+49	Utah	LINURON	2016	kg					0.6					
+49	Utah	LINURON	2017	kg					0.6					
+50	Vermont	LINURON	1992	kg	385.9	97.3			913					
+50	Vermont	LINURON	1993	kg	106.4	249.8			226.2					
+50	Vermont	LINURON	1994	kg	525.5	65.8			60.8					
+50	Vermont	LINURON	1995	kg		42.8			64.2					
+50	Vermont	LINURON	1996	kg	866.7	429.6			37.3					
+50	Vermont	LINURON	1997	kg		26.2			118.7					
+50	Vermont	LINURON	1998	kg	584.5	29.7			65.6					
+50	Vermont	LINURON	1999	kg	432.8	18.2			9.4					
+50	Vermont	LINURON	2000	kg	1473.8				13.4					
+50	Vermont	LINURON	2001	kg		8.2			44.1					
+50	Vermont	LINURON	2002	kg					25.7					
+50	Vermont	LINURON	2003	kg		11.1			13					
+50	Vermont	LINURON	2004	kg					16					
+50	Vermont	LINURON	2005	kg					21.1					
+50	Vermont	LINURON	2006	kg					0.4					
+50	Vermont	LINURON	2007	kg					17.2					
+50	Vermont	LINURON	2008	kg					70.7					
+50	Vermont	LINURON	2009	kg					27.5					
+50	Vermont	LINURON	2010	kg					29.2					
+50	Vermont	LINURON	2011	kg					3.7					
+50	Vermont	LINURON	2012	kg		35.7			63.8					
+50	Vermont	LINURON	2013	kg		106.3			15.7					
+50	Vermont	LINURON	2014	kg					22.7					
+50	Vermont	LINURON	2015	kg	109.5				3.2					
+50	Vermont	LINURON	2016	kg					32.9					
+50	Vermont	LINURON	2017	kg					17.3					
+51	Virginia	LINURON	1992	kg	8657.1	25248.3			620.9					
+51	Virginia	LINURON	1993	kg	3104.7	22682.8			593.2					
+51	Virginia	LINURON	1994	kg	2731	36859.4			767.6					
+51	Virginia	LINURON	1995	kg	3208.4	18889.4			598.3					
+51	Virginia	LINURON	1996	kg		14612.4			224.2					
+51	Virginia	LINURON	1997	kg	4165.7	5436.5			214.9					
+51	Virginia	LINURON	1998	kg	486.5	1226.4			306.6					
+51	Virginia	LINURON	1999	kg		2776.6			198.4					
+51	Virginia	LINURON	2000	kg		1696			101.5					
+51	Virginia	LINURON	2001	kg		19.5		769	37					
+51	Virginia	LINURON	2002	kg	10069.6	18.3			108					
+51	Virginia	LINURON	2003	kg	67275.7			732.3	67.6					
+51	Virginia	LINURON	2004	kg	1791.8			1182.7	47.5					
+51	Virginia	LINURON	2005	kg	6014.2			275.7						
+51	Virginia	LINURON	2006	kg		191.7		1731.9						
+51	Virginia	LINURON	2007	kg	27684.7			260	41.4					
+51	Virginia	LINURON	2008	kg				491						
+51	Virginia	LINURON	2009	kg	9249.7			142.4						
+51	Virginia	LINURON	2010	kg				1148	63.5					
+51	Virginia	LINURON	2011	kg				487.2	18.2					
+51	Virginia	LINURON	2012	kg		653.7		82.1						
+51	Virginia	LINURON	2013	kg	2680.3	12734.1		260.3	10.6					
+51	Virginia	LINURON	2014	kg					10.7					
+51	Virginia	LINURON	2015	kg				3051.6						
+51	Virginia	LINURON	2016	kg					22.8					
+51	Virginia	LINURON	2017	kg					1.2					
+53	Washington	LINURON	1992	kg					14047.6					
+53	Washington	LINURON	1993	kg					5228.4					
+53	Washington	LINURON	1994	kg					4259.4					
+53	Washington	LINURON	1995	kg					11970.9					
+53	Washington	LINURON	1996	kg					3787.1					
+53	Washington	LINURON	1997	kg					9964.1					
+53	Washington	LINURON	1998	kg					8610.6					
+53	Washington	LINURON	1999	kg					7177.1					
+53	Washington	LINURON	2000	kg					7531.1					
+53	Washington	LINURON	2001	kg					3358.5					
+53	Washington	LINURON	2002	kg					4222					
+53	Washington	LINURON	2003	kg					7254.9					
+53	Washington	LINURON	2004	kg					5592.1					
+53	Washington	LINURON	2005	kg					6321.6					
+53	Washington	LINURON	2006	kg					6467.7					
+53	Washington	LINURON	2007	kg					2873.1					
+53	Washington	LINURON	2008	kg					5259.9					
+53	Washington	LINURON	2009	kg					6242.9					
+53	Washington	LINURON	2010	kg					13841.2					
+53	Washington	LINURON	2011	kg					5484.3					
+53	Washington	LINURON	2012	kg					10981.5					
+53	Washington	LINURON	2013	kg					30407.9					
+53	Washington	LINURON	2014	kg					8579.4					
+53	Washington	LINURON	2015	kg					4058.6					
+53	Washington	LINURON	2016	kg					14245.7					
+53	Washington	LINURON	2017	kg			20761.9		9395.8					
+54	West Virginia	LINURON	1992	kg	290.3	615.4			116.1					
+54	West Virginia	LINURON	1993	kg	481.3	1074			178.2					
+54	West Virginia	LINURON	1994	kg	339.9	1000.1			33.6					
+54	West Virginia	LINURON	1995	kg		1189.1			230.8					
+54	West Virginia	LINURON	1996	kg	69.6	57.3			133.5					
+54	West Virginia	LINURON	1997	kg	686.4	173.5			57.1					
+54	West Virginia	LINURON	1998	kg		321.1			128.3					
+54	West Virginia	LINURON	1999	kg		84.4			114.5					
+54	West Virginia	LINURON	2000	kg					170.4					
+54	West Virginia	LINURON	2001	kg		81.7			77.1					
+54	West Virginia	LINURON	2002	kg		55.3			136.3					
+54	West Virginia	LINURON	2003	kg	8514.3				68					
+54	West Virginia	LINURON	2004	kg					63.2					
+54	West Virginia	LINURON	2006	kg		59			0.3					
+54	West Virginia	LINURON	2007	kg					32.3					
+54	West Virginia	LINURON	2009	kg					54.9					
+54	West Virginia	LINURON	2010	kg					82					
+54	West Virginia	LINURON	2011	kg					16.5					
+54	West Virginia	LINURON	2012	kg		195.3			36.8					
+54	West Virginia	LINURON	2013	kg		145.8			25.1					
+54	West Virginia	LINURON	2014	kg					28.2					
+54	West Virginia	LINURON	2016	kg					58.9					
+55	Wisconsin	LINURON	1992	kg	6460.2	7918.6			31347.1					
+55	Wisconsin	LINURON	1993	kg	8900.1	12627.2			9758.7				0.6	
+55	Wisconsin	LINURON	1994	kg	4413.7	6002.6			6244.4					
+55	Wisconsin	LINURON	1995	kg	818.5	12796.3			17885					
+55	Wisconsin	LINURON	1996	kg	3406.8	5278.1			16065.8					
+55	Wisconsin	LINURON	1997	kg	3303	13959.7			9073.8					
+55	Wisconsin	LINURON	1998	kg		49488.2			19783.4					
+55	Wisconsin	LINURON	1999	kg		12835.8			16351.9					
+55	Wisconsin	LINURON	2000	kg	3776.7	12660			24628.1					
+55	Wisconsin	LINURON	2001	kg		3672.4			4676.6					
+55	Wisconsin	LINURON	2002	kg		10530.1			7416.8					
+55	Wisconsin	LINURON	2003	kg		9402.5			7681.6					
+55	Wisconsin	LINURON	2004	kg	95750.3	2967.2			9041.8					
+55	Wisconsin	LINURON	2005	kg		15260.2			5378.4					
+55	Wisconsin	LINURON	2006	kg		9103.8			6131					
+55	Wisconsin	LINURON	2007	kg					5167.4					
+55	Wisconsin	LINURON	2008	kg					3672					
+55	Wisconsin	LINURON	2009	kg					7928					
+55	Wisconsin	LINURON	2010	kg					8290.2					
+55	Wisconsin	LINURON	2011	kg					10520.5					
+55	Wisconsin	LINURON	2012	kg					11658.6					
+55	Wisconsin	LINURON	2013	kg					10120.3					
+55	Wisconsin	LINURON	2014	kg					7779.6					
+55	Wisconsin	LINURON	2015	kg					7064.3					
+55	Wisconsin	LINURON	2016	kg					5977.4					
+55	Wisconsin	LINURON	2017	kg					5164.6					
+56	Wyoming	LINURON	2000	kg					128.4					
+56	Wyoming	LINURON	2007	kg					0					
+56	Wyoming	LINURON	2016	kg					0					

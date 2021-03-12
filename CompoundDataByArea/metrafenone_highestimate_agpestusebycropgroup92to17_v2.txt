@@ -1,0 +1,58 @@
+04	Arizona	METRAFENONE	2012	kg							30.5			
+04	Arizona	METRAFENONE	2013	kg							24.4			
+04	Arizona	METRAFENONE	2014	kg							72.8			
+04	Arizona	METRAFENONE	2015	kg							36.3			
+04	Arizona	METRAFENONE	2016	kg							5.7			
+04	Arizona	METRAFENONE	2017	kg							52.6			
+06	California	METRAFENONE	2011	kg							17483.4			
+06	California	METRAFENONE	2012	kg							12876.6			
+06	California	METRAFENONE	2013	kg							12900.5			
+06	California	METRAFENONE	2014	kg							19265.2			
+06	California	METRAFENONE	2015	kg					23.9		20319.3			
+06	California	METRAFENONE	2016	kg					45.7		19799.6			
+06	California	METRAFENONE	2017	kg					217.7		18927.1			0
+09	Connecticut	METRAFENONE	2015	kg					19					
+09	Connecticut	METRAFENONE	2016	kg					6					
+09	Connecticut	METRAFENONE	2017	kg					0.8					
+10	Delaware	METRAFENONE	2017	kg					5.8					
+16	Idaho	METRAFENONE	2015	kg							51			
+16	Idaho	METRAFENONE	2016	kg							8.7			
+16	Idaho	METRAFENONE	2017	kg							14.8			
+17	Illinois	METRAFENONE	2016	kg					57.4					
+24	Maryland	METRAFENONE	2016	kg					11.8					
+24	Maryland	METRAFENONE	2017	kg					28.5					
+25	Massachusetts	METRAFENONE	2015	kg					24.9					
+25	Massachusetts	METRAFENONE	2016	kg					10.7					
+25	Massachusetts	METRAFENONE	2017	kg					1.9					
+32	Nevada	METRAFENONE	2012	kg							0.9			
+32	Nevada	METRAFENONE	2013	kg							0.5			
+32	Nevada	METRAFENONE	2014	kg							4.5			
+32	Nevada	METRAFENONE	2015	kg							1.4			
+32	Nevada	METRAFENONE	2016	kg							0.5			
+32	Nevada	METRAFENONE	2017	kg							1.6			
+34	New Jersey	METRAFENONE	2016	kg					28.5					
+34	New Jersey	METRAFENONE	2017	kg					80.7					
+36	New York	METRAFENONE	2012	kg							350			
+36	New York	METRAFENONE	2013	kg							1216.4			
+36	New York	METRAFENONE	2014	kg							1698.9			
+36	New York	METRAFENONE	2015	kg					12					
+36	New York	METRAFENONE	2016	kg					83.7					
+36	New York	METRAFENONE	2017	kg					162.5					
+41	Oregon	METRAFENONE	2012	kg							17.2			
+41	Oregon	METRAFENONE	2013	kg							17.2			
+41	Oregon	METRAFENONE	2014	kg							31.3			
+41	Oregon	METRAFENONE	2015	kg							177.8			
+41	Oregon	METRAFENONE	2016	kg							84.5			
+41	Oregon	METRAFENONE	2017	kg							95.3			
+42	Pennsylvania	METRAFENONE	2012	kg							74.1			
+42	Pennsylvania	METRAFENONE	2013	kg							293.9			
+42	Pennsylvania	METRAFENONE	2014	kg							535.1			
+42	Pennsylvania	METRAFENONE	2016	kg					96.8					
+42	Pennsylvania	METRAFENONE	2017	kg					235.9					
+44	Rhode Island	METRAFENONE	2015	kg					1.8					
+44	Rhode Island	METRAFENONE	2016	kg					2.7					
+44	Rhode Island	METRAFENONE	2017	kg					0.1					
+53	Washington	METRAFENONE	2015	kg							2778.9			
+53	Washington	METRAFENONE	2016	kg							3057.1			
+53	Washington	METRAFENONE	2017	kg							12025.6			
+55	Wisconsin	METRAFENONE	2016	kg					150.5					

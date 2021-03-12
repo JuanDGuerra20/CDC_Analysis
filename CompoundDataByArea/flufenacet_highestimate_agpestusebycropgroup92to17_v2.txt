@@ -1,0 +1,462 @@
+01	Alabama	FLUFENACET	1999	kg		46.6								
+01	Alabama	FLUFENACET	2001	kg	33.6	76.7								
+01	Alabama	FLUFENACET	2002	kg	2350.4	84.8								
+01	Alabama	FLUFENACET	2003	kg	405.8									
+01	Alabama	FLUFENACET	2015	kg			435.4							
+05	Arkansas	FLUFENACET	1999	kg	62.1									
+05	Arkansas	FLUFENACET	2000	kg	6282.7	2203.5								
+05	Arkansas	FLUFENACET	2001	kg		1351.2								
+05	Arkansas	FLUFENACET	2002	kg		3565.8								
+05	Arkansas	FLUFENACET	2003	kg		1464.2								
+05	Arkansas	FLUFENACET	2004	kg	1346.2									
+05	Arkansas	FLUFENACET	2006	kg	412.3									
+05	Arkansas	FLUFENACET	2008	kg	5711.2									
+05	Arkansas	FLUFENACET	2015	kg		14688.9								
+08	Colorado	FLUFENACET	1998	kg	8080.9									
+08	Colorado	FLUFENACET	1999	kg	1326.2									
+08	Colorado	FLUFENACET	2000	kg	8943.8									
+08	Colorado	FLUFENACET	2001	kg	8855.6									
+08	Colorado	FLUFENACET	2002	kg	1747.5									
+08	Colorado	FLUFENACET	2003	kg	12121.9									
+08	Colorado	FLUFENACET	2004	kg	2998.4									
+08	Colorado	FLUFENACET	2005	kg	2579.6									
+08	Colorado	FLUFENACET	2006	kg	1450.7									
+08	Colorado	FLUFENACET	2007	kg	7688.3									
+08	Colorado	FLUFENACET	2008	kg	1774.9								886	
+08	Colorado	FLUFENACET	2009	kg	4896.8									
+10	Delaware	FLUFENACET	2007	kg	194.8									
+13	Georgia	FLUFENACET	2010	kg			15928.6							
+13	Georgia	FLUFENACET	2017	kg			187.8							
+16	Idaho	FLUFENACET	2000	kg			124.4							
+16	Idaho	FLUFENACET	2002	kg			57.4							
+16	Idaho	FLUFENACET	2003	kg			1342.7							
+16	Idaho	FLUFENACET	2004	kg			280							
+16	Idaho	FLUFENACET	2005	kg			247.8							
+16	Idaho	FLUFENACET	2006	kg			260.7							
+16	Idaho	FLUFENACET	2011	kg			10.9							
+16	Idaho	FLUFENACET	2013	kg			251							
+16	Idaho	FLUFENACET	2014	kg			449.6							
+16	Idaho	FLUFENACET	2015	kg			2608.8							
+16	Idaho	FLUFENACET	2016	kg			3774.4							
+17	Illinois	FLUFENACET	1998	kg	32352.6	11942.4								
+17	Illinois	FLUFENACET	1999	kg	50719.1	23582.1								
+17	Illinois	FLUFENACET	2000	kg	53330.9	26214.2								
+17	Illinois	FLUFENACET	2001	kg	60418.5	12532.3								
+17	Illinois	FLUFENACET	2002	kg	62577.1	10554.8								
+17	Illinois	FLUFENACET	2003	kg	40298.1	7316.6								
+17	Illinois	FLUFENACET	2004	kg	41929.9	4500								
+17	Illinois	FLUFENACET	2005	kg	53890.1	16357.4								
+17	Illinois	FLUFENACET	2006	kg	68997.6	5356.7								
+17	Illinois	FLUFENACET	2007	kg	30090.6	9786								
+17	Illinois	FLUFENACET	2008	kg	25960.1	19747.8			187.4					
+17	Illinois	FLUFENACET	2009	kg	73867.9	42207.7								
+17	Illinois	FLUFENACET	2010	kg	29669.9	17828.9								
+17	Illinois	FLUFENACET	2011	kg	46883.6	3757.4								
+17	Illinois	FLUFENACET	2012	kg	45212.8	13910								
+17	Illinois	FLUFENACET	2013	kg	7237.2	14376.8								
+17	Illinois	FLUFENACET	2014	kg	10689.3									
+17	Illinois	FLUFENACET	2015	kg		38918.5								
+17	Illinois	FLUFENACET	2016	kg		8639.9								
+18	Indiana	FLUFENACET	1998	kg	17474.1	4463.8								
+18	Indiana	FLUFENACET	1999	kg	48082.9	16469.4								
+18	Indiana	FLUFENACET	2000	kg	17209.2	13175.2			5.9					
+18	Indiana	FLUFENACET	2001	kg	56408.6	12894.9								
+18	Indiana	FLUFENACET	2002	kg	20154.6	3025.3								
+18	Indiana	FLUFENACET	2003	kg	32683.1	4043.6								
+18	Indiana	FLUFENACET	2004	kg	20604.1	16579.2								
+18	Indiana	FLUFENACET	2005	kg	69035	13642.7								
+18	Indiana	FLUFENACET	2006	kg	14221.4	26544.7								
+18	Indiana	FLUFENACET	2007	kg	33177.8	8382.8								
+18	Indiana	FLUFENACET	2008	kg	25834.6	4343.6								
+18	Indiana	FLUFENACET	2009	kg	46229.8	30939.3								
+18	Indiana	FLUFENACET	2010	kg	31765.3	7949.4								
+18	Indiana	FLUFENACET	2011	kg	17207.4	2788								
+18	Indiana	FLUFENACET	2012	kg	22450.2	6353.9								
+18	Indiana	FLUFENACET	2013	kg		11357.5								
+18	Indiana	FLUFENACET	2015	kg		28560.1								
+18	Indiana	FLUFENACET	2016	kg		1654.9								
+19	Iowa	FLUFENACET	1998	kg	147812.9	5474.8								
+19	Iowa	FLUFENACET	1999	kg	94092.3	23141.9								
+19	Iowa	FLUFENACET	2000	kg	96151.8	18025.9								
+19	Iowa	FLUFENACET	2001	kg	119068.2	7279.6								
+19	Iowa	FLUFENACET	2002	kg	104261.6	9240.8								
+19	Iowa	FLUFENACET	2003	kg	127896.6	7299.3								
+19	Iowa	FLUFENACET	2004	kg	111452.7	24357.2								
+19	Iowa	FLUFENACET	2005	kg	93636.2	15994.7								
+19	Iowa	FLUFENACET	2006	kg	82979	4203.1								
+19	Iowa	FLUFENACET	2007	kg	46737.5	9584.4								
+19	Iowa	FLUFENACET	2008	kg	62698.5	7745.6								
+19	Iowa	FLUFENACET	2009	kg	44938.9	5417.3								
+19	Iowa	FLUFENACET	2010	kg	16764.5	13379.1								
+19	Iowa	FLUFENACET	2011	kg	18199.4	6559.4								
+19	Iowa	FLUFENACET	2012	kg	56335.1	9583.2								
+19	Iowa	FLUFENACET	2013	kg	983.1	14086.3								
+19	Iowa	FLUFENACET	2014	kg	1518.5	1091								
+19	Iowa	FLUFENACET	2015	kg		67085								
+19	Iowa	FLUFENACET	2016	kg		896.2								
+19	Iowa	FLUFENACET	2017	kg		2679.2								
+20	Kansas	FLUFENACET	1998	kg	18398	10664.8								
+20	Kansas	FLUFENACET	1999	kg	15789.3	5330.2								
+20	Kansas	FLUFENACET	2000	kg	41186.7	6321.6								
+20	Kansas	FLUFENACET	2001	kg	27800.6	11607.2								
+20	Kansas	FLUFENACET	2002	kg	13362	4074.5								
+20	Kansas	FLUFENACET	2003	kg	58627.8	5957.7								
+20	Kansas	FLUFENACET	2004	kg	34120.6	6433.8								
+20	Kansas	FLUFENACET	2005	kg	10093.1	5215.3								
+20	Kansas	FLUFENACET	2006	kg	11857.8	2523.1								
+20	Kansas	FLUFENACET	2007	kg	30978.9	764.7								
+20	Kansas	FLUFENACET	2008	kg	13626.8	8467.4							631.8	
+20	Kansas	FLUFENACET	2009	kg	17388.3	3386.6								
+20	Kansas	FLUFENACET	2010	kg	7390.3	1670.7								
+20	Kansas	FLUFENACET	2011	kg	352.1	4620.6								
+20	Kansas	FLUFENACET	2012	kg	867.2	479.9								
+21	Kentucky	FLUFENACET	1998	kg	3693.5	774.5								
+21	Kentucky	FLUFENACET	1999	kg	9559	1870.8								
+21	Kentucky	FLUFENACET	2000	kg	12986.5	6141.9			1.5					
+21	Kentucky	FLUFENACET	2001	kg	8693.9	3865.6								
+21	Kentucky	FLUFENACET	2002	kg	8885.2	450.6								
+21	Kentucky	FLUFENACET	2003	kg	10142.9	768.9								
+21	Kentucky	FLUFENACET	2004	kg	1986.7	2768.9								
+21	Kentucky	FLUFENACET	2005	kg	9514.3	1889.4								
+21	Kentucky	FLUFENACET	2006	kg	1954.9	380								
+21	Kentucky	FLUFENACET	2007	kg	5615	956.8								
+21	Kentucky	FLUFENACET	2008	kg	8638.2	1083.4								
+21	Kentucky	FLUFENACET	2009	kg	5078.9	1267.8								
+21	Kentucky	FLUFENACET	2010	kg	7896.4	1481.7								
+21	Kentucky	FLUFENACET	2011	kg	2045.3	445.4								
+21	Kentucky	FLUFENACET	2012	kg	3951.9	1364.5								
+21	Kentucky	FLUFENACET	2013	kg	958.1	1810.8								
+21	Kentucky	FLUFENACET	2015	kg		10931.3	614.8							
+21	Kentucky	FLUFENACET	2017	kg			133							
+22	Louisiana	FLUFENACET	2000	kg	17805.3	259.3								
+22	Louisiana	FLUFENACET	2001	kg		16.7								
+22	Louisiana	FLUFENACET	2002	kg		272.5								
+22	Louisiana	FLUFENACET	2004	kg	7537.5									
+24	Maryland	FLUFENACET	1998	kg	42.1									
+24	Maryland	FLUFENACET	2000	kg	3387.7									
+24	Maryland	FLUFENACET	2001	kg	1643.9									
+24	Maryland	FLUFENACET	2002	kg	1326.7		1398.9							
+24	Maryland	FLUFENACET	2003	kg	79.4		316.9							
+24	Maryland	FLUFENACET	2004	kg	166.2		495.5							
+24	Maryland	FLUFENACET	2005	kg	115.4									
+24	Maryland	FLUFENACET	2007	kg	252.2									
+24	Maryland	FLUFENACET	2009	kg	31.2									
+26	Michigan	FLUFENACET	1998	kg	2401.2	3046.9								
+26	Michigan	FLUFENACET	1999	kg	13002.6									
+26	Michigan	FLUFENACET	2000	kg	13206.8	1612.5								
+26	Michigan	FLUFENACET	2001	kg	4648.3	1564.8								
+26	Michigan	FLUFENACET	2002	kg	13821.9	1955								
+26	Michigan	FLUFENACET	2003	kg	14240.7	1895.7								
+26	Michigan	FLUFENACET	2004	kg	6255.1	3464.2								
+26	Michigan	FLUFENACET	2005	kg	7016.9	10458.6								
+26	Michigan	FLUFENACET	2006	kg	6181.4	2730.3								
+26	Michigan	FLUFENACET	2007	kg	6486.7	361.2								
+26	Michigan	FLUFENACET	2008	kg	7921.6	1220.3								
+26	Michigan	FLUFENACET	2009	kg	25929.8	1262								
+26	Michigan	FLUFENACET	2010	kg	13264.7	3299.9								
+26	Michigan	FLUFENACET	2011	kg		1456.4								
+26	Michigan	FLUFENACET	2013	kg		734.4								
+27	Minnesota	FLUFENACET	1998	kg	17217.2	8125								
+27	Minnesota	FLUFENACET	1999	kg	14553.2	8657.8								
+27	Minnesota	FLUFENACET	2000	kg	10518	6948.7								
+27	Minnesota	FLUFENACET	2001	kg	18257.2	3573								
+27	Minnesota	FLUFENACET	2002	kg	14924.2	7976.9								
+27	Minnesota	FLUFENACET	2003	kg	32360.4	2408.6								
+27	Minnesota	FLUFENACET	2004	kg	49219.7	6813.8								
+27	Minnesota	FLUFENACET	2005	kg	15826.2	11885.3								
+27	Minnesota	FLUFENACET	2006	kg	22884.5	5088								
+27	Minnesota	FLUFENACET	2007	kg	79924.9	4818.9								
+27	Minnesota	FLUFENACET	2008	kg	25652.5	6590.4								
+27	Minnesota	FLUFENACET	2009	kg	33498.7	4474.6								
+27	Minnesota	FLUFENACET	2010	kg	20313.8	10801.4								
+27	Minnesota	FLUFENACET	2011	kg	8223.4	1496.4								
+27	Minnesota	FLUFENACET	2012	kg	21979.2	16676.4								
+27	Minnesota	FLUFENACET	2013	kg		8796								
+27	Minnesota	FLUFENACET	2014	kg		6734								
+27	Minnesota	FLUFENACET	2015	kg		33142.4								
+27	Minnesota	FLUFENACET	2016	kg		1434.4								
+28	Mississippi	FLUFENACET	1999	kg		218.3								
+28	Mississippi	FLUFENACET	2000	kg	17325.2	2144.7								
+28	Mississippi	FLUFENACET	2001	kg	62.7	747.8								
+28	Mississippi	FLUFENACET	2002	kg	8330.9	2237.4								
+28	Mississippi	FLUFENACET	2003	kg	476.6	321.4								
+28	Mississippi	FLUFENACET	2004	kg	9843.6									
+28	Mississippi	FLUFENACET	2015	kg			170.9							
+29	Missouri	FLUFENACET	1998	kg	14746.5	4188.2								
+29	Missouri	FLUFENACET	1999	kg	14682.6	8123.4								
+29	Missouri	FLUFENACET	2000	kg	48728.7	3459.5								
+29	Missouri	FLUFENACET	2001	kg	33022.2	6810.9								
+29	Missouri	FLUFENACET	2002	kg	12280.3	3446.2								
+29	Missouri	FLUFENACET	2003	kg	21773.2	5918.9								
+29	Missouri	FLUFENACET	2004	kg	32238.8	11079.4								
+29	Missouri	FLUFENACET	2005	kg	13199.6	7446.9								
+29	Missouri	FLUFENACET	2006	kg	21189.9	4798.9								
+29	Missouri	FLUFENACET	2007	kg	15731.4	4837								
+29	Missouri	FLUFENACET	2008	kg	21133.1	27414.4								
+29	Missouri	FLUFENACET	2009	kg	11548	62912.1								
+29	Missouri	FLUFENACET	2010	kg	5213.3	12383.5								
+29	Missouri	FLUFENACET	2011	kg	5389.9	4820.4								
+29	Missouri	FLUFENACET	2012	kg	10062.7	11336.7								
+29	Missouri	FLUFENACET	2013	kg	644.6	8635.7								
+29	Missouri	FLUFENACET	2014	kg	1029.4									
+29	Missouri	FLUFENACET	2015	kg		43909								
+30	Montana	FLUFENACET	1998	kg	44.3									
+30	Montana	FLUFENACET	1999	kg	59									
+30	Montana	FLUFENACET	2000	kg	21.2									
+30	Montana	FLUFENACET	2001	kg	1929.9									
+30	Montana	FLUFENACET	2002	kg	23.3		0.8							
+30	Montana	FLUFENACET	2003	kg			12.1							
+30	Montana	FLUFENACET	2004	kg	294.2									
+30	Montana	FLUFENACET	2005	kg	42.4		5							
+30	Montana	FLUFENACET	2006	kg	29.4									
+30	Montana	FLUFENACET	2007	kg	258.9									
+30	Montana	FLUFENACET	2009	kg	81.9									
+30	Montana	FLUFENACET	2014	kg			8413.5							
+30	Montana	FLUFENACET	2015	kg			46.7							
+30	Montana	FLUFENACET	2016	kg			2336.8							
+31	Nebraska	FLUFENACET	1998	kg	33503.8	4984.3								
+31	Nebraska	FLUFENACET	1999	kg	26635.3	17577.2								
+31	Nebraska	FLUFENACET	2000	kg	60700	6185.1								
+31	Nebraska	FLUFENACET	2001	kg	67722	8160.7								
+31	Nebraska	FLUFENACET	2002	kg	63485.9	10467.3								
+31	Nebraska	FLUFENACET	2003	kg	85844.2	9296.8								
+31	Nebraska	FLUFENACET	2004	kg	53151.2	8494.9								
+31	Nebraska	FLUFENACET	2005	kg	40732.4	18389.6								
+31	Nebraska	FLUFENACET	2006	kg	20668.4	6812.1								
+31	Nebraska	FLUFENACET	2007	kg	38265	3318.6								
+31	Nebraska	FLUFENACET	2008	kg	26149	8151.9							143.2	
+31	Nebraska	FLUFENACET	2009	kg	58311.6	6192								
+31	Nebraska	FLUFENACET	2010	kg	13413.9	2847								
+31	Nebraska	FLUFENACET	2011	kg	20573.7	11403.3								
+31	Nebraska	FLUFENACET	2012	kg	16465.7	1819.8								
+31	Nebraska	FLUFENACET	2013	kg		3496.1								
+31	Nebraska	FLUFENACET	2014	kg		2195.4								
+31	Nebraska	FLUFENACET	2015	kg		19352.2								
+31	Nebraska	FLUFENACET	2017	kg		5636.2								
+32	Nevada	FLUFENACET	2003	kg			60.4							
+32	Nevada	FLUFENACET	2014	kg			46.8							
+32	Nevada	FLUFENACET	2016	kg			39.3							
+34	New Jersey	FLUFENACET	2000	kg	173.9									
+34	New Jersey	FLUFENACET	2001	kg	364.3									
+35	New Mexico	FLUFENACET	1998	kg	653.8									
+35	New Mexico	FLUFENACET	1999	kg	141.5									
+35	New Mexico	FLUFENACET	2000	kg	1120.1									
+35	New Mexico	FLUFENACET	2001	kg	1156.4									
+35	New Mexico	FLUFENACET	2002	kg	3516.3									
+35	New Mexico	FLUFENACET	2003	kg	702.8									
+35	New Mexico	FLUFENACET	2004	kg	397									
+35	New Mexico	FLUFENACET	2005	kg	324.8									
+35	New Mexico	FLUFENACET	2006	kg	189.2									
+35	New Mexico	FLUFENACET	2007	kg	518.5									
+35	New Mexico	FLUFENACET	2008	kg	268.4									
+35	New Mexico	FLUFENACET	2009	kg	488.7									
+36	New York	FLUFENACET	2000	kg	136.4	55.1								
+36	New York	FLUFENACET	2001	kg	322.6									
+36	New York	FLUFENACET	2003	kg		350.5								
+37	North Carolina	FLUFENACET	2000	kg		476.7								
+37	North Carolina	FLUFENACET	2001	kg	563.7		2798.9							
+37	North Carolina	FLUFENACET	2002	kg	1166.1		16955.2							
+37	North Carolina	FLUFENACET	2003	kg			3721.8							
+37	North Carolina	FLUFENACET	2004	kg			14139.6							
+37	North Carolina	FLUFENACET	2005	kg			2187.4							
+37	North Carolina	FLUFENACET	2006	kg		4506.7								
+37	North Carolina	FLUFENACET	2007	kg			7231.9							
+37	North Carolina	FLUFENACET	2008	kg			15648.3							
+37	North Carolina	FLUFENACET	2009	kg			8649.2							
+37	North Carolina	FLUFENACET	2010	kg		760.8	1980.4							
+37	North Carolina	FLUFENACET	2011	kg			10686.9							
+37	North Carolina	FLUFENACET	2012	kg			23246.6							
+37	North Carolina	FLUFENACET	2016	kg			2390.4							
+37	North Carolina	FLUFENACET	2017	kg			954.3							
+38	North Dakota	FLUFENACET	1998	kg	2388.9									
+38	North Dakota	FLUFENACET	1999	kg	49706.8									
+38	North Dakota	FLUFENACET	2000	kg	393.8									
+38	North Dakota	FLUFENACET	2001	kg	14421.8									
+38	North Dakota	FLUFENACET	2002	kg	1640.4									
+38	North Dakota	FLUFENACET	2004	kg	10029.5									
+38	North Dakota	FLUFENACET	2005	kg	3083.9									
+38	North Dakota	FLUFENACET	2006	kg	3520.6									
+38	North Dakota	FLUFENACET	2007	kg	49627.1									
+38	North Dakota	FLUFENACET	2009	kg	7615.3									
+38	North Dakota	FLUFENACET	2013	kg		3141								
+38	North Dakota	FLUFENACET	2014	kg		3479.1								
+38	North Dakota	FLUFENACET	2015	kg		8652.8								
+39	Ohio	FLUFENACET	1998	kg	4085.8	4251.9								
+39	Ohio	FLUFENACET	1999	kg	8583.5	20996.2								
+39	Ohio	FLUFENACET	2000	kg	10828.3	4779.7			54.5					
+39	Ohio	FLUFENACET	2001	kg	16013.7	4900.2	38.4							
+39	Ohio	FLUFENACET	2002	kg	24046.3	9724.1								
+39	Ohio	FLUFENACET	2003	kg	28666.8	4541.9								
+39	Ohio	FLUFENACET	2004	kg	11434.7	12228.9								
+39	Ohio	FLUFENACET	2005	kg	31667.5	46565.5								
+39	Ohio	FLUFENACET	2006	kg	32017.8	6628.2								
+39	Ohio	FLUFENACET	2007	kg	67494.4	3773.4								
+39	Ohio	FLUFENACET	2008	kg	12623.3	4314.9								
+39	Ohio	FLUFENACET	2009	kg	14928.6	12929.4								
+39	Ohio	FLUFENACET	2010	kg	34952.1	7251								
+39	Ohio	FLUFENACET	2011	kg	5588.5	4284.9								
+39	Ohio	FLUFENACET	2012	kg	24855.5	4693.9								
+39	Ohio	FLUFENACET	2013	kg	7808.3	5678.3								
+39	Ohio	FLUFENACET	2015	kg		24896.3								
+40	Oklahoma	FLUFENACET	1998	kg	1017.1	574.9								
+40	Oklahoma	FLUFENACET	1999	kg	249.4	202.4								
+40	Oklahoma	FLUFENACET	2000	kg	1504.9	182.9								
+40	Oklahoma	FLUFENACET	2001	kg	264.9	168.6								
+40	Oklahoma	FLUFENACET	2002	kg	478.3	228.3								
+40	Oklahoma	FLUFENACET	2003	kg	2121.4	124.7								
+40	Oklahoma	FLUFENACET	2004	kg	1520.5	151.8								
+40	Oklahoma	FLUFENACET	2005	kg	503.5	280								
+40	Oklahoma	FLUFENACET	2006	kg	842.2	58.6								
+40	Oklahoma	FLUFENACET	2007	kg	840.6									
+40	Oklahoma	FLUFENACET	2008	kg	516.8	289.3								
+40	Oklahoma	FLUFENACET	2009	kg	945.7	154.6								
+40	Oklahoma	FLUFENACET	2010	kg		91.8								
+40	Oklahoma	FLUFENACET	2013	kg			166.3							
+40	Oklahoma	FLUFENACET	2016	kg			27.7							
+41	Oregon	FLUFENACET	2000	kg			30708.9							
+41	Oregon	FLUFENACET	2001	kg			12117.9							
+41	Oregon	FLUFENACET	2002	kg			45301.5						2184.4	
+41	Oregon	FLUFENACET	2003	kg			46780.6							
+41	Oregon	FLUFENACET	2004	kg			21913.8							
+41	Oregon	FLUFENACET	2005	kg			32789							
+41	Oregon	FLUFENACET	2006	kg			7842.5							
+41	Oregon	FLUFENACET	2008	kg			10534.2							
+41	Oregon	FLUFENACET	2009	kg			18648.5							
+41	Oregon	FLUFENACET	2010	kg			11105.3							
+41	Oregon	FLUFENACET	2011	kg			2129.9							
+41	Oregon	FLUFENACET	2012	kg			35086.8							
+41	Oregon	FLUFENACET	2013	kg			21474.3							
+41	Oregon	FLUFENACET	2014	kg			18921.6							
+41	Oregon	FLUFENACET	2015	kg			47171							
+41	Oregon	FLUFENACET	2016	kg			22415.5							
+42	Pennsylvania	FLUFENACET	1998	kg	75.5									
+42	Pennsylvania	FLUFENACET	2000	kg	30274.9	1450.4								
+42	Pennsylvania	FLUFENACET	2001	kg	9890.4	26.5	54.6							
+42	Pennsylvania	FLUFENACET	2002	kg	9418.2									
+42	Pennsylvania	FLUFENACET	2003	kg	1487.9									
+42	Pennsylvania	FLUFENACET	2004	kg	1378.4	87.8								
+42	Pennsylvania	FLUFENACET	2005	kg	2795.7									
+42	Pennsylvania	FLUFENACET	2006	kg	5888.2									
+42	Pennsylvania	FLUFENACET	2009	kg	670.9									
+45	South Carolina	FLUFENACET	2000	kg		397.2								
+45	South Carolina	FLUFENACET	2001	kg	640.8		3850.4							
+45	South Carolina	FLUFENACET	2002	kg	161.3		5979.2							
+45	South Carolina	FLUFENACET	2003	kg			2836.8							
+45	South Carolina	FLUFENACET	2004	kg			2641							
+45	South Carolina	FLUFENACET	2005	kg			481.9							
+45	South Carolina	FLUFENACET	2007	kg			1322.7							
+45	South Carolina	FLUFENACET	2008	kg			2938.6							
+45	South Carolina	FLUFENACET	2009	kg			1442							
+45	South Carolina	FLUFENACET	2010	kg		689.4	347							
+45	South Carolina	FLUFENACET	2011	kg			3215.6							
+45	South Carolina	FLUFENACET	2012	kg			3489.1							
+46	South Dakota	FLUFENACET	1998	kg	9712.6	2414.3								
+46	South Dakota	FLUFENACET	1999	kg	15133.2	4795.3								
+46	South Dakota	FLUFENACET	2000	kg	14005.5	961.4								
+46	South Dakota	FLUFENACET	2001	kg	44607	2190.7								
+46	South Dakota	FLUFENACET	2002	kg	5142.6	9756.2								
+46	South Dakota	FLUFENACET	2003	kg	7801.7	2796.5								
+46	South Dakota	FLUFENACET	2004	kg	24422.9	4413.2								
+46	South Dakota	FLUFENACET	2005	kg	4098.3	6040.6								
+46	South Dakota	FLUFENACET	2006	kg	12646.9	833.2								
+46	South Dakota	FLUFENACET	2007	kg	65537.5	1808.6								
+46	South Dakota	FLUFENACET	2008	kg	8817.2	6607.4								
+46	South Dakota	FLUFENACET	2009	kg	16514.1	1862.7								
+46	South Dakota	FLUFENACET	2010	kg	4332.2	4881.4								
+46	South Dakota	FLUFENACET	2011	kg	8428	766.4								
+46	South Dakota	FLUFENACET	2012	kg	9652.4	5436.1								
+46	South Dakota	FLUFENACET	2013	kg		4908.4								
+46	South Dakota	FLUFENACET	2014	kg		1228.5								
+46	South Dakota	FLUFENACET	2015	kg		34498.6								
+47	Tennessee	FLUFENACET	1999	kg	2334.9	633.1								
+47	Tennessee	FLUFENACET	2000	kg	17845	1662								
+47	Tennessee	FLUFENACET	2001	kg	1553.4	1264.5								
+47	Tennessee	FLUFENACET	2002	kg	14184	404.6								
+47	Tennessee	FLUFENACET	2003	kg	5134	217								
+47	Tennessee	FLUFENACET	2004	kg	415.5	319.3								
+47	Tennessee	FLUFENACET	2005	kg	3285.6									
+47	Tennessee	FLUFENACET	2008	kg	3162.3									
+47	Tennessee	FLUFENACET	2009	kg	696.4									
+47	Tennessee	FLUFENACET	2010	kg			772.9							
+47	Tennessee	FLUFENACET	2015	kg		6853.8	1783							
+47	Tennessee	FLUFENACET	2017	kg			905.9							
+48	Texas	FLUFENACET	1998	kg	5726.2									
+48	Texas	FLUFENACET	1999	kg	386.2									
+48	Texas	FLUFENACET	2000	kg	8223.6									
+48	Texas	FLUFENACET	2001	kg	6953.5									
+48	Texas	FLUFENACET	2002	kg	7371.9									
+48	Texas	FLUFENACET	2003	kg	2776.9									
+48	Texas	FLUFENACET	2004	kg	1192.7									
+48	Texas	FLUFENACET	2005	kg	2372.2									
+48	Texas	FLUFENACET	2006	kg	1308.1									
+48	Texas	FLUFENACET	2007	kg	4465.6									
+48	Texas	FLUFENACET	2008	kg	2234.9									
+48	Texas	FLUFENACET	2009	kg	4745.8									
+48	Texas	FLUFENACET	2013	kg			4689.4							
+48	Texas	FLUFENACET	2016	kg			758.2							
+49	Utah	FLUFENACET	2014	kg			312.8							
+49	Utah	FLUFENACET	2016	kg			472.1							
+51	Virginia	FLUFENACET	1998	kg	12.6									
+51	Virginia	FLUFENACET	1999	kg	756.7									
+51	Virginia	FLUFENACET	2000	kg	188.8									
+51	Virginia	FLUFENACET	2001	kg	201.7									
+51	Virginia	FLUFENACET	2002	kg	275.8		7826.3							
+51	Virginia	FLUFENACET	2003	kg	220.7		1427.2							
+51	Virginia	FLUFENACET	2004	kg	54.2		2552.6							
+51	Virginia	FLUFENACET	2005	kg	384.5									
+51	Virginia	FLUFENACET	2006	kg		1079.6								
+51	Virginia	FLUFENACET	2009	kg	94.1									
+51	Virginia	FLUFENACET	2016	kg			1709.6							
+51	Virginia	FLUFENACET	2017	kg			51.2							
+53	Washington	FLUFENACET	2000	kg			1154.2							
+53	Washington	FLUFENACET	2001	kg			156.7							
+53	Washington	FLUFENACET	2002	kg			595.7						41.8	
+53	Washington	FLUFENACET	2003	kg			4557.3							
+53	Washington	FLUFENACET	2004	kg			1110.5							
+53	Washington	FLUFENACET	2005	kg			701.8							
+53	Washington	FLUFENACET	2006	kg			1555.1							
+53	Washington	FLUFENACET	2008	kg			142.5							
+53	Washington	FLUFENACET	2009	kg			263							
+53	Washington	FLUFENACET	2010	kg			165.5							
+53	Washington	FLUFENACET	2011	kg			72.8							
+53	Washington	FLUFENACET	2012	kg			857.4							
+53	Washington	FLUFENACET	2013	kg			1590.5							
+53	Washington	FLUFENACET	2014	kg			1767.2							
+53	Washington	FLUFENACET	2015	kg			3302.7							
+53	Washington	FLUFENACET	2016	kg			5693.4							
+54	West Virginia	FLUFENACET	1998	kg	4.3									
+54	West Virginia	FLUFENACET	1999	kg	192.5									
+54	West Virginia	FLUFENACET	2000	kg	385	6.6								
+54	West Virginia	FLUFENACET	2001	kg	307.1	3.2	0.2							
+54	West Virginia	FLUFENACET	2002	kg	462.7									
+54	West Virginia	FLUFENACET	2003	kg	415.8									
+54	West Virginia	FLUFENACET	2004	kg	147.1	21.2								
+54	West Virginia	FLUFENACET	2005	kg	917.3									
+54	West Virginia	FLUFENACET	2006	kg	183.9									
+54	West Virginia	FLUFENACET	2007	kg	134.5									
+54	West Virginia	FLUFENACET	2009	kg	186.7									
+54	West Virginia	FLUFENACET	2013	kg	34.5									
+55	Wisconsin	FLUFENACET	1998	kg	11563.4	1742.2								
+55	Wisconsin	FLUFENACET	1999	kg	17006.8									
+55	Wisconsin	FLUFENACET	2000	kg	22702.4	9316.7								
+55	Wisconsin	FLUFENACET	2001	kg	14045	10269.5								
+55	Wisconsin	FLUFENACET	2002	kg	21178.9	816.5								
+55	Wisconsin	FLUFENACET	2003	kg	16665.5	937.6								
+55	Wisconsin	FLUFENACET	2004	kg	98772.6	2922.9								
+55	Wisconsin	FLUFENACET	2005	kg	18697.5	7495.9								
+55	Wisconsin	FLUFENACET	2006	kg	23774.9	4969.3								
+55	Wisconsin	FLUFENACET	2007	kg	24597.2	749.3								
+55	Wisconsin	FLUFENACET	2008	kg	9314.4	264.5			302.2					
+55	Wisconsin	FLUFENACET	2009	kg	43482.5	2017.8								
+55	Wisconsin	FLUFENACET	2010	kg	15519.7	2177.9								
+55	Wisconsin	FLUFENACET	2013	kg		1799.4								
+56	Wyoming	FLUFENACET	1998	kg	177.1									
+56	Wyoming	FLUFENACET	1999	kg	119.3									
+56	Wyoming	FLUFENACET	2000	kg	80.8									
+56	Wyoming	FLUFENACET	2001	kg	520.3									
+56	Wyoming	FLUFENACET	2002	kg	86.7									
+56	Wyoming	FLUFENACET	2004	kg	444.6									
+56	Wyoming	FLUFENACET	2005	kg	129.2									
+56	Wyoming	FLUFENACET	2006	kg	91.3									
+56	Wyoming	FLUFENACET	2007	kg	734.2									
+56	Wyoming	FLUFENACET	2009	kg	250.9									

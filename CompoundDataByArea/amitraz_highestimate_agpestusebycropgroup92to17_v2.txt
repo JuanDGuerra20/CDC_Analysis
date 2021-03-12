@@ -1,0 +1,225 @@
+01	Alabama	AMITRAZ	1993	kg				9594.9						
+01	Alabama	AMITRAZ	1994	kg				18031.8						
+01	Alabama	AMITRAZ	1995	kg				26349.8	1.5					
+01	Alabama	AMITRAZ	1996	kg				1179.4						
+01	Alabama	AMITRAZ	1997	kg				1191.1			40.5			
+01	Alabama	AMITRAZ	1998	kg				724						
+01	Alabama	AMITRAZ	2000	kg				845.1						
+04	Arizona	AMITRAZ	1992	kg				37277			3.8			
+04	Arizona	AMITRAZ	1993	kg				6709.4			3.7			
+04	Arizona	AMITRAZ	1994	kg				11379.1			16.1			
+04	Arizona	AMITRAZ	1995	kg				24466.4			0.9			
+04	Arizona	AMITRAZ	1996	kg				149.3			5.5			
+04	Arizona	AMITRAZ	1998	kg				439.6						
+04	Arizona	AMITRAZ	2000	kg				372.2						
+05	Arkansas	AMITRAZ	1993	kg				5087						
+05	Arkansas	AMITRAZ	1994	kg				26282.9						
+05	Arkansas	AMITRAZ	1995	kg				14053						
+05	Arkansas	AMITRAZ	1996	kg				323.1						
+05	Arkansas	AMITRAZ	2000	kg				2572.6						
+05	Arkansas	AMITRAZ	2001	kg				92.5						
+06	California	AMITRAZ	1992	kg							4059.7			
+06	California	AMITRAZ	1993	kg				7			2204.7			
+06	California	AMITRAZ	1994	kg				31329.1			939.5			
+06	California	AMITRAZ	1995	kg				33092.1			1918.4			
+06	California	AMITRAZ	1996	kg				23505			1730.6			
+06	California	AMITRAZ	1997	kg				30233.3			292			
+06	California	AMITRAZ	1998	kg				5821.5			319.7			10
+06	California	AMITRAZ	1999	kg				3418.7			4.2			
+06	California	AMITRAZ	2000	kg				3452.7			25.2			
+06	California	AMITRAZ	2001	kg				119.1						
+06	California	AMITRAZ	2002	kg				64.1			5.6			
+06	California	AMITRAZ	2003	kg				52						
+06	California	AMITRAZ	2009	kg							3.1			
+08	Colorado	AMITRAZ	1993	kg							137.8			
+08	Colorado	AMITRAZ	1994	kg							463.3			
+08	Colorado	AMITRAZ	1995	kg							27.1			
+08	Colorado	AMITRAZ	1996	kg							32.6			
+09	Connecticut	AMITRAZ	1992	kg							26.9			
+09	Connecticut	AMITRAZ	1993	kg							2.7			
+09	Connecticut	AMITRAZ	1994	kg							3.3			
+09	Connecticut	AMITRAZ	1995	kg							15.1			
+09	Connecticut	AMITRAZ	1996	kg							441.8			
+09	Connecticut	AMITRAZ	1997	kg							30.1			
+09	Connecticut	AMITRAZ	1998	kg							50.2			
+09	Connecticut	AMITRAZ	1999	kg							66.4			
+10	Delaware	AMITRAZ	1993	kg							1.5			
+12	Florida	AMITRAZ	1993	kg				898.5						
+12	Florida	AMITRAZ	1994	kg				1680.7						
+12	Florida	AMITRAZ	1995	kg				2312.1	4.7					
+12	Florida	AMITRAZ	1996	kg				1502.7						
+12	Florida	AMITRAZ	1997	kg				192.1			78.5			
+12	Florida	AMITRAZ	1998	kg				175.9						
+12	Florida	AMITRAZ	2000	kg				270.7						
+13	Georgia	AMITRAZ	1993	kg				6740.1						
+13	Georgia	AMITRAZ	1994	kg				84314.5						
+13	Georgia	AMITRAZ	1995	kg				26029.2	245.6					
+13	Georgia	AMITRAZ	1996	kg				2727.8						
+13	Georgia	AMITRAZ	1997	kg				9536			1405.3			
+13	Georgia	AMITRAZ	1998	kg				2663.7						
+13	Georgia	AMITRAZ	2000	kg				3033.6						
+16	Idaho	AMITRAZ	1992	kg							46.2			
+16	Idaho	AMITRAZ	1993	kg							29.3			
+16	Idaho	AMITRAZ	1996	kg							28.3			
+16	Idaho	AMITRAZ	1997	kg							4.9			
+16	Idaho	AMITRAZ	1998	kg							7.3			
+16	Idaho	AMITRAZ	1999	kg							18.6			
+18	Indiana	AMITRAZ	1992	kg							0.1			
+18	Indiana	AMITRAZ	1994	kg							5.6			
+18	Indiana	AMITRAZ	1995	kg							0			
+22	Louisiana	AMITRAZ	1993	kg				56.6						
+22	Louisiana	AMITRAZ	1994	kg				2632.9						
+22	Louisiana	AMITRAZ	1995	kg				15804						
+22	Louisiana	AMITRAZ	1996	kg				19293.6						
+22	Louisiana	AMITRAZ	2000	kg				614						
+23	Maine	AMITRAZ	1992	kg							16.8			
+23	Maine	AMITRAZ	1993	kg							1.5			
+23	Maine	AMITRAZ	1994	kg							1.5			
+23	Maine	AMITRAZ	1995	kg							2.5			
+23	Maine	AMITRAZ	1996	kg							2.9			
+23	Maine	AMITRAZ	1997	kg							0.9			
+24	Maryland	AMITRAZ	1992	kg							128.3			
+24	Maryland	AMITRAZ	1993	kg							8.7			
+24	Maryland	AMITRAZ	1994	kg							2.7			
+24	Maryland	AMITRAZ	1995	kg							51.3			
+24	Maryland	AMITRAZ	1996	kg							7.2			
+24	Maryland	AMITRAZ	1997	kg							26.6			
+25	Massachusetts	AMITRAZ	1992	kg							17.5			
+25	Massachusetts	AMITRAZ	1993	kg							1.8			
+25	Massachusetts	AMITRAZ	1994	kg							2.4			
+25	Massachusetts	AMITRAZ	1995	kg							127.1			
+25	Massachusetts	AMITRAZ	1996	kg							128.3			
+25	Massachusetts	AMITRAZ	1997	kg							54.8			
+25	Massachusetts	AMITRAZ	1998	kg							43			
+25	Massachusetts	AMITRAZ	1999	kg							128.9			
+26	Michigan	AMITRAZ	1992	kg							22.7			
+26	Michigan	AMITRAZ	1993	kg							150.6			93.9
+26	Michigan	AMITRAZ	1994	kg							314.1			
+26	Michigan	AMITRAZ	1995	kg							63.4			
+28	Mississippi	AMITRAZ	1993	kg				20590.3						
+28	Mississippi	AMITRAZ	1994	kg				53955.8						
+28	Mississippi	AMITRAZ	1995	kg				29415.6						
+28	Mississippi	AMITRAZ	1996	kg				2227.6						
+28	Mississippi	AMITRAZ	1997	kg				16.4						
+28	Mississippi	AMITRAZ	1998	kg				9.5						
+28	Mississippi	AMITRAZ	2000	kg				21984.3						
+28	Mississippi	AMITRAZ	2001	kg				511.2						
+29	Missouri	AMITRAZ	1995	kg				5030.1						
+29	Missouri	AMITRAZ	2000	kg				151.8						
+32	Nevada	AMITRAZ	1994	kg							0.1			
+32	Nevada	AMITRAZ	1995	kg							6.7			
+32	Nevada	AMITRAZ	1996	kg							0.6			
+33	New Hampshire	AMITRAZ	1992	kg							23.9			
+33	New Hampshire	AMITRAZ	1993	kg							2			
+33	New Hampshire	AMITRAZ	1994	kg							1.9			
+33	New Hampshire	AMITRAZ	1995	kg							3.1			
+33	New Hampshire	AMITRAZ	1996	kg							29.8			
+33	New Hampshire	AMITRAZ	1997	kg							0.3			
+34	New Jersey	AMITRAZ	1992	kg							219.5			
+34	New Jersey	AMITRAZ	1993	kg							2336.5			
+34	New Jersey	AMITRAZ	1994	kg							15.9			
+34	New Jersey	AMITRAZ	1995	kg							89.2			
+34	New Jersey	AMITRAZ	1996	kg							26			
+34	New Jersey	AMITRAZ	1997	kg							21.7			
+34	New Jersey	AMITRAZ	1998	kg							16.9			
+34	New Jersey	AMITRAZ	1999	kg							28.6			
+35	New Mexico	AMITRAZ	1993	kg				72.3			11.8			
+35	New Mexico	AMITRAZ	1994	kg				12.3			79.6			
+35	New Mexico	AMITRAZ	1995	kg				481.1			6.3			
+35	New Mexico	AMITRAZ	1996	kg				97.5			5.1			
+35	New Mexico	AMITRAZ	1997	kg				97.3						
+35	New Mexico	AMITRAZ	1998	kg				12.5						
+35	New Mexico	AMITRAZ	2000	kg				6.9						
+36	New York	AMITRAZ	1992	kg							1228.9			
+36	New York	AMITRAZ	1993	kg							76.8			
+36	New York	AMITRAZ	1994	kg							40.5			
+36	New York	AMITRAZ	1995	kg							214.1			
+36	New York	AMITRAZ	1996	kg							597.9			
+36	New York	AMITRAZ	1997	kg							268			
+36	New York	AMITRAZ	1998	kg							258.1			
+36	New York	AMITRAZ	1999	kg							476.4			
+37	North Carolina	AMITRAZ	1993	kg				1292.6						
+37	North Carolina	AMITRAZ	1994	kg				6312.2						
+37	North Carolina	AMITRAZ	1995	kg				2272.9						
+37	North Carolina	AMITRAZ	1996	kg				336.4						
+37	North Carolina	AMITRAZ	1997	kg				125.2						
+37	North Carolina	AMITRAZ	1998	kg				353.9						
+37	North Carolina	AMITRAZ	2000	kg				455.7						
+39	Ohio	AMITRAZ	1992	kg							1278.3			
+39	Ohio	AMITRAZ	1994	kg							36.9			
+39	Ohio	AMITRAZ	1995	kg							17.4			
+40	Oklahoma	AMITRAZ	1993	kg				450.2						
+40	Oklahoma	AMITRAZ	1994	kg				512.9						
+40	Oklahoma	AMITRAZ	1995	kg				427.6						
+40	Oklahoma	AMITRAZ	1996	kg				496						
+41	Oregon	AMITRAZ	1992	kg							6736.8			
+41	Oregon	AMITRAZ	1993	kg							10252.7			
+41	Oregon	AMITRAZ	1994	kg							297.9			
+41	Oregon	AMITRAZ	1995	kg							5662.9			
+41	Oregon	AMITRAZ	1996	kg							5779.7			
+41	Oregon	AMITRAZ	1997	kg							2008.6			
+41	Oregon	AMITRAZ	1998	kg							1327.6			
+41	Oregon	AMITRAZ	1999	kg							3595.5			
+41	Oregon	AMITRAZ	2000	kg							132.7			
+41	Oregon	AMITRAZ	2001	kg							960.7			
+41	Oregon	AMITRAZ	2002	kg							24347.3			
+41	Oregon	AMITRAZ	2003	kg							27.7			
+41	Oregon	AMITRAZ	2005	kg							2.4			
+42	Pennsylvania	AMITRAZ	1992	kg							1599.4			
+42	Pennsylvania	AMITRAZ	1993	kg							473.7			
+42	Pennsylvania	AMITRAZ	1994	kg							295.8			
+42	Pennsylvania	AMITRAZ	1995	kg							398			
+42	Pennsylvania	AMITRAZ	1996	kg							78.5			
+42	Pennsylvania	AMITRAZ	1997	kg							359.6			
+42	Pennsylvania	AMITRAZ	1998	kg							66.3			
+42	Pennsylvania	AMITRAZ	1999	kg							49.5			
+44	Rhode Island	AMITRAZ	1992	kg							1.9			
+44	Rhode Island	AMITRAZ	1993	kg							1			
+44	Rhode Island	AMITRAZ	1994	kg							1			
+44	Rhode Island	AMITRAZ	1995	kg							1.1			
+44	Rhode Island	AMITRAZ	1996	kg							1021.1			
+44	Rhode Island	AMITRAZ	1997	kg							0.2			
+45	South Carolina	AMITRAZ	1993	kg				2454.1						
+45	South Carolina	AMITRAZ	1994	kg				14064.8						
+45	South Carolina	AMITRAZ	1995	kg				3637.2						
+45	South Carolina	AMITRAZ	1996	kg				689.8						
+45	South Carolina	AMITRAZ	1997	kg				232.5						
+45	South Carolina	AMITRAZ	1998	kg				488						
+45	South Carolina	AMITRAZ	2000	kg				497.6						
+47	Tennessee	AMITRAZ	1993	kg				12016.7						
+47	Tennessee	AMITRAZ	1994	kg				21608						
+47	Tennessee	AMITRAZ	1995	kg				9020.6						
+47	Tennessee	AMITRAZ	1996	kg				670.4						
+47	Tennessee	AMITRAZ	1997	kg				27.7						
+47	Tennessee	AMITRAZ	2000	kg				8162.3						
+47	Tennessee	AMITRAZ	2001	kg				194.7						
+48	Texas	AMITRAZ	1993	kg				7505.5						
+48	Texas	AMITRAZ	1994	kg				7413.5						
+48	Texas	AMITRAZ	1995	kg				25124.3						
+48	Texas	AMITRAZ	1996	kg				17343.7						
+48	Texas	AMITRAZ	1997	kg				1058.8						
+48	Texas	AMITRAZ	2000	kg				14282.8						
+49	Utah	AMITRAZ	1993	kg							2.1			
+49	Utah	AMITRAZ	1994	kg							16.6			
+49	Utah	AMITRAZ	1995	kg							287.8			
+49	Utah	AMITRAZ	1996	kg							44			
+50	Vermont	AMITRAZ	1992	kg							31.2			
+50	Vermont	AMITRAZ	1993	kg							1.6			
+50	Vermont	AMITRAZ	1994	kg							1.6			
+50	Vermont	AMITRAZ	1995	kg							2.5			
+50	Vermont	AMITRAZ	1996	kg							37.2			
+50	Vermont	AMITRAZ	1997	kg							0.2			
+51	Virginia	AMITRAZ	1992	kg							25.4			
+51	Virginia	AMITRAZ	1995	kg							17			
+53	Washington	AMITRAZ	1992	kg							1220.5			
+53	Washington	AMITRAZ	1993	kg							189.6			
+53	Washington	AMITRAZ	1994	kg							302.9			
+53	Washington	AMITRAZ	1996	kg							2059			
+53	Washington	AMITRAZ	1997	kg							1057.8			
+53	Washington	AMITRAZ	1998	kg							574.1			
+53	Washington	AMITRAZ	1999	kg							1100.4			
+53	Washington	AMITRAZ	2000	kg							91.4			
+53	Washington	AMITRAZ	2003	kg							912.6			
+53	Washington	AMITRAZ	2005	kg							5.8			
+54	West Virginia	AMITRAZ	1992	kg							48.6			
+54	West Virginia	AMITRAZ	1995	kg							15.2			

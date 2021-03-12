@@ -1,0 +1,2 @@
+04	Arizona	BACILLUS MYCOIDES	2017	kg					165.7					
+35	New Mexico	BACILLUS MYCOIDES	2017	kg					0					

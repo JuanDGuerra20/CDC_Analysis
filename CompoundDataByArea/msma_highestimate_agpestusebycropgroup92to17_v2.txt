@@ -1,0 +1,478 @@
+01	Alabama	MSMA	1992	kg				102485.2					1806.4	
+01	Alabama	MSMA	1993	kg				50909.8					5028.5	
+01	Alabama	MSMA	1994	kg		874.4	4965.6	208961					9641.3	
+01	Alabama	MSMA	1995	kg				234637.1					10584.7	3290.8
+01	Alabama	MSMA	1996	kg		2572.6		141259.9					521980.2	
+01	Alabama	MSMA	1997	kg				130577.6					23544.2	2835.6
+01	Alabama	MSMA	1998	kg				35109.7					3429.1	
+01	Alabama	MSMA	1999	kg				59213.9					1485.6	
+01	Alabama	MSMA	2000	kg				29088						
+01	Alabama	MSMA	2001	kg				53709.2						
+01	Alabama	MSMA	2002	kg				58860.1						
+01	Alabama	MSMA	2003	kg				57636.8					14817.8	
+01	Alabama	MSMA	2004	kg				58827.5						
+01	Alabama	MSMA	2005	kg				36891.9						
+01	Alabama	MSMA	2006	kg				29774.6					5448.5	
+01	Alabama	MSMA	2007	kg				28661.9						
+01	Alabama	MSMA	2008	kg				16523.2					142063.4	
+01	Alabama	MSMA	2009	kg				41161.6					776	
+01	Alabama	MSMA	2010	kg				20291.4						
+01	Alabama	MSMA	2011	kg				49264.5						
+01	Alabama	MSMA	2012	kg				54279.6						
+01	Alabama	MSMA	2013	kg				52425.4						
+01	Alabama	MSMA	2014	kg				61947.8					31406.7	
+01	Alabama	MSMA	2015	kg				49913.9						
+01	Alabama	MSMA	2016	kg				43749.5						
+01	Alabama	MSMA	2017	kg				47217						
+04	Arizona	MSMA	1992	kg				11140.8						
+04	Arizona	MSMA	1993	kg				2279.5						
+04	Arizona	MSMA	1994	kg				3946.8					2401.3	
+04	Arizona	MSMA	1995	kg				12199.4						
+04	Arizona	MSMA	1996	kg				3739.8						
+04	Arizona	MSMA	1997	kg				25519.4					210.1	
+04	Arizona	MSMA	1998	kg				4581.2						
+04	Arizona	MSMA	1999	kg				2955.7						
+04	Arizona	MSMA	2000	kg				2766.3						
+04	Arizona	MSMA	2001	kg				1849.3						
+04	Arizona	MSMA	2002	kg				3512						
+04	Arizona	MSMA	2004	kg				712.6						
+04	Arizona	MSMA	2005	kg				654						
+04	Arizona	MSMA	2006	kg				30741.7						
+04	Arizona	MSMA	2007	kg				18546.2						
+04	Arizona	MSMA	2009	kg				114.2						
+05	Arkansas	MSMA	1992	kg		2681.3		222943.7					2431.2	
+05	Arkansas	MSMA	1993	kg				231610.7		7852.2			2128.8	
+05	Arkansas	MSMA	1994	kg		7019.8		267070.5		20251.3			6456.4	55.7
+05	Arkansas	MSMA	1995	kg		2355.9		176545.4					5141.2	353
+05	Arkansas	MSMA	1996	kg				349568.2					5833.4	
+05	Arkansas	MSMA	1997	kg				183271					3131.9	
+05	Arkansas	MSMA	1998	kg				106990.5						
+05	Arkansas	MSMA	1999	kg				109821.9						
+05	Arkansas	MSMA	2000	kg				134549.5	89.2					
+05	Arkansas	MSMA	2001	kg				106386.8						
+05	Arkansas	MSMA	2002	kg				64986.3						
+05	Arkansas	MSMA	2003	kg				53646.6						
+05	Arkansas	MSMA	2004	kg				45056.4						
+05	Arkansas	MSMA	2005	kg				72642.2						
+05	Arkansas	MSMA	2006	kg				16571.3						
+05	Arkansas	MSMA	2007	kg				2509.6						
+05	Arkansas	MSMA	2008	kg				19282.6						
+05	Arkansas	MSMA	2009	kg				9659.1					2358.2	
+05	Arkansas	MSMA	2010	kg				14329.5						
+05	Arkansas	MSMA	2011	kg				71325						
+05	Arkansas	MSMA	2012	kg				16291.9						
+05	Arkansas	MSMA	2013	kg				6754						
+05	Arkansas	MSMA	2014	kg				21174.6						
+05	Arkansas	MSMA	2015	kg				22489.3						
+05	Arkansas	MSMA	2016	kg				89121.7						
+05	Arkansas	MSMA	2017	kg				340					1031.7	
+06	California	MSMA	1992	kg				22886.1			6023.3		8778.2	66.2
+06	California	MSMA	1993	kg				25173.3			5156.4		2909.3	138.7
+06	California	MSMA	1994	kg				44390.6			6564.2		3533.2	206.6
+06	California	MSMA	1995	kg				32252.1			4871.2		5262.2	11.8
+06	California	MSMA	1996	kg				31401.3			4049.4		1681.4	19.3
+06	California	MSMA	1997	kg				41325.6			4630.6		3405.9	47.9
+06	California	MSMA	1998	kg			117.3	34128.7	68.9		3181.5	45.4	4301.2	131.7
+06	California	MSMA	1999	kg			96.2	44055.1	12.9		4168.6	66.1	1971	13.9
+06	California	MSMA	2000	kg	107.2			28501.4	45.5		1181	0.8	9105.2	67.5
+06	California	MSMA	2001	kg				21754.3	0.1		905.5		7446.3	499.1
+06	California	MSMA	2002	kg				14489.6	96.1		1814.6		6092.3	13.4
+06	California	MSMA	2003	kg				8874.8			1039.4		5877	178.7
+06	California	MSMA	2004	kg				13901.6			499.7		647.4	62
+06	California	MSMA	2005	kg				12433.3			2264.1		479.2	18.1
+06	California	MSMA	2006	kg				9134.7			3439.7		442.9	2683.4
+06	California	MSMA	2007	kg				8000.9			5476.1		949.2	829.5
+06	California	MSMA	2008	kg				3374.7			1003.3			
+06	California	MSMA	2009	kg				5843.9			579.6		188.7	
+06	California	MSMA	2010	kg				2237			182.3		213.9	
+06	California	MSMA	2011	kg				3297.2	1311.5		437.4		2.6	
+06	California	MSMA	2012	kg	65.5			2377.4	290.9		313		25.9	
+06	California	MSMA	2013	kg				2041.2	290.1		49.3			
+06	California	MSMA	2014	kg				1489.3	262.8		65.4			
+06	California	MSMA	2015	kg				286.6	260.7		10.9			
+06	California	MSMA	2016	kg				758.2	154					
+06	California	MSMA	2017	kg				819.9	268.9		28.6			
+08	Colorado	MSMA	1993	kg									149.7	
+08	Colorado	MSMA	1994	kg									701.4	
+08	Colorado	MSMA	1995	kg									172.1	
+08	Colorado	MSMA	1996	kg									8355.8	
+08	Colorado	MSMA	1997	kg								62144.1	11579.6	
+10	Delaware	MSMA	1992	kg			16							
+12	Florida	MSMA	1992	kg				7942.6					5483.8	212.2
+12	Florida	MSMA	1993	kg				13079.1					784.3	
+12	Florida	MSMA	1994	kg			302.5	43533.1					80.8	
+12	Florida	MSMA	1995	kg				33737.8					768.5	1566.9
+12	Florida	MSMA	1996	kg		524.8		48287.3			148.3		2351.5	
+12	Florida	MSMA	1997	kg				20388					5982.2	1291.8
+12	Florida	MSMA	1998	kg				10554.9					1509.8	
+12	Florida	MSMA	1999	kg				11073.9						
+12	Florida	MSMA	2000	kg				9588.5						
+12	Florida	MSMA	2001	kg				14577.9						
+12	Florida	MSMA	2002	kg				9230.6						
+12	Florida	MSMA	2003	kg				2232						
+12	Florida	MSMA	2004	kg				1908.8						
+12	Florida	MSMA	2005	kg				1192.2			2382.3			
+12	Florida	MSMA	2006	kg				5177.6			4766.8		2781.2	
+12	Florida	MSMA	2007	kg				7279.3						
+12	Florida	MSMA	2008	kg				10453.8						
+12	Florida	MSMA	2009	kg				17220.2					710.7	
+12	Florida	MSMA	2010	kg				13578.1						
+12	Florida	MSMA	2011	kg				38301.5						
+12	Florida	MSMA	2012	kg				23867.3						
+12	Florida	MSMA	2013	kg				26542.7						
+12	Florida	MSMA	2014	kg				25334.7						
+12	Florida	MSMA	2015	kg				975.2						
+12	Florida	MSMA	2016	kg				11588.8						
+12	Florida	MSMA	2017	kg				12521.8						
+13	Georgia	MSMA	1992	kg				98509.8					1988.5	1919.4
+13	Georgia	MSMA	1993	kg				136593.1					5391.2	
+13	Georgia	MSMA	1994	kg				318268.4					1364.5	
+13	Georgia	MSMA	1995	kg				622277.6					2083.5	3938.4
+13	Georgia	MSMA	1996	kg				674623.7			2526.6		578641.7	
+13	Georgia	MSMA	1997	kg				597710					3618.1	10283
+13	Georgia	MSMA	1998	kg				251931.9					3444.8	
+13	Georgia	MSMA	1999	kg				233788						
+13	Georgia	MSMA	2000	kg				168702.9						
+13	Georgia	MSMA	2001	kg				126899						
+13	Georgia	MSMA	2002	kg				101400.6						
+13	Georgia	MSMA	2003	kg				184022.8					8757.2	
+13	Georgia	MSMA	2004	kg				52810.9			40.7			
+13	Georgia	MSMA	2005	kg				136018.2						
+13	Georgia	MSMA	2006	kg				126504.7					3617.7	
+13	Georgia	MSMA	2007	kg				77778.9						
+13	Georgia	MSMA	2008	kg				169935.6					136838.2	
+13	Georgia	MSMA	2009	kg				251001.7					523.6	
+13	Georgia	MSMA	2010	kg				289626.5						
+13	Georgia	MSMA	2011	kg				484869.8						
+13	Georgia	MSMA	2012	kg				295475.3						
+13	Georgia	MSMA	2013	kg				330319.8						
+13	Georgia	MSMA	2014	kg				286220.7					3261.1	
+13	Georgia	MSMA	2015	kg				230252.9						
+13	Georgia	MSMA	2016	kg				201464.8						
+13	Georgia	MSMA	2017	kg				134824.5						
+16	Idaho	MSMA	1992	kg			162.9		175.8			293.1	26.9	
+16	Idaho	MSMA	1995	kg	3534.4									5498.2
+17	Illinois	MSMA	1992	kg	3693.1				1095.6					
+17	Illinois	MSMA	1994	kg		64077.5								18.9
+17	Illinois	MSMA	1995	kg									52.3	
+17	Illinois	MSMA	1997	kg		71318.1							843.3	
+17	Illinois	MSMA	2000	kg					2.5					
+18	Indiana	MSMA	1993	kg		2731.9								
+18	Indiana	MSMA	1994	kg		26670.8								
+18	Indiana	MSMA	1997	kg		29820.5								
+18	Indiana	MSMA	2011	kg									392.4	
+19	Iowa	MSMA	1992	kg		2035.8								
+19	Iowa	MSMA	1994	kg		32643.8								
+19	Iowa	MSMA	1995	kg									240.6	
+19	Iowa	MSMA	1996	kg		4684.1								
+19	Iowa	MSMA	1997	kg		60750.3								
+20	Kansas	MSMA	1992	kg				145						
+20	Kansas	MSMA	1993	kg				883.4					85.6	
+20	Kansas	MSMA	1994	kg				301.9					379.7	
+20	Kansas	MSMA	1995	kg				1027.1					88.9	
+20	Kansas	MSMA	1996	kg				305.5					2249.7	
+20	Kansas	MSMA	1997	kg				2158.4					98.5	
+20	Kansas	MSMA	1998	kg				465.9						
+20	Kansas	MSMA	1999	kg				1004.8						
+20	Kansas	MSMA	2000	kg				3843						
+20	Kansas	MSMA	2001	kg				282.2						
+20	Kansas	MSMA	2002	kg				424.7						
+20	Kansas	MSMA	2003	kg				269.3					14601	
+20	Kansas	MSMA	2004	kg				345.3						
+20	Kansas	MSMA	2005	kg				145.7						
+20	Kansas	MSMA	2006	kg				22.3						
+20	Kansas	MSMA	2007	kg									1479.5	
+20	Kansas	MSMA	2009	kg									9050.7	
+21	Kentucky	MSMA	1992	kg									258.3	
+21	Kentucky	MSMA	1993	kg									106.7	
+21	Kentucky	MSMA	1994	kg		9503.4							5503.5	3.6
+21	Kentucky	MSMA	1995	kg									183.4	
+21	Kentucky	MSMA	1996	kg									3.6	
+21	Kentucky	MSMA	1997	kg		8679							1033.1	
+21	Kentucky	MSMA	1998	kg									135.7	
+21	Kentucky	MSMA	1999	kg									530	
+21	Kentucky	MSMA	2000	kg					2.2					
+21	Kentucky	MSMA	2003	kg									3375.6	
+21	Kentucky	MSMA	2006	kg									1963.6	
+21	Kentucky	MSMA	2011	kg									6118.3	
+22	Louisiana	MSMA	1992	kg				300066.6					18572.8	2720.3
+22	Louisiana	MSMA	1993	kg				261906.2		2392.7			11115.8	130192.7
+22	Louisiana	MSMA	1994	kg		5776		390504.4		5033.1			10186.6	2003.6
+22	Louisiana	MSMA	1995	kg		4044.7		419680.7					1898.7	8212.7
+22	Louisiana	MSMA	1996	kg				391495.2					4209.9	2853.6
+22	Louisiana	MSMA	1997	kg				169932.1					5611.2	1018.1
+22	Louisiana	MSMA	1998	kg				234015.3						
+22	Louisiana	MSMA	1999	kg				85944.3						
+22	Louisiana	MSMA	2000	kg				105066.3					2645.2	
+22	Louisiana	MSMA	2001	kg				118157.4						
+22	Louisiana	MSMA	2002	kg				88400.4						
+22	Louisiana	MSMA	2003	kg				30608					3808.4	
+22	Louisiana	MSMA	2004	kg				27467.4					676.6	
+22	Louisiana	MSMA	2005	kg				24018						
+22	Louisiana	MSMA	2006	kg				13345.2					1515.6	
+22	Louisiana	MSMA	2007	kg				1536.7					2956.8	
+22	Louisiana	MSMA	2008	kg				8491.6						
+22	Louisiana	MSMA	2009	kg				24239.9					106507.3	
+22	Louisiana	MSMA	2010	kg				14750					12813.8	
+22	Louisiana	MSMA	2011	kg				28034.2						
+22	Louisiana	MSMA	2012	kg				64609.8						
+22	Louisiana	MSMA	2013	kg				438.2						
+22	Louisiana	MSMA	2014	kg				8987.3						
+22	Louisiana	MSMA	2015	kg				2209.7						
+22	Louisiana	MSMA	2016	kg				10643.5						
+22	Louisiana	MSMA	2017	kg				668.2					835.8	
+24	Maryland	MSMA	1992	kg			226.8						482.2	
+26	Michigan	MSMA	1993	kg	2344.5									
+26	Michigan	MSMA	1995	kg									93.3	
+26	Michigan	MSMA	1996	kg										335.7
+27	Minnesota	MSMA	1992	kg		3889.5	16020.7						55.2	
+27	Minnesota	MSMA	1993	kg									48.2	
+27	Minnesota	MSMA	1994	kg		30304.8								
+27	Minnesota	MSMA	1995	kg									779.2	
+27	Minnesota	MSMA	1996	kg		6595.1	33698.1							
+27	Minnesota	MSMA	1997	kg		40648.4								
+27	Minnesota	MSMA	2006	kg		15359.6								
+28	Mississippi	MSMA	1992	kg		2892.5		789311.8					5585.5	
+28	Mississippi	MSMA	1993	kg				469456.3		799.5			15297	
+28	Mississippi	MSMA	1994	kg		11772.9	213.6	476059.4		5454.2			18067	
+28	Mississippi	MSMA	1995	kg		3430		482938.5					5255.5	
+28	Mississippi	MSMA	1996	kg		266.9		322245.2					37298.4	
+28	Mississippi	MSMA	1997	kg				259109.6					8049.6	
+28	Mississippi	MSMA	1998	kg				198943.7					1745.9	
+28	Mississippi	MSMA	1999	kg				126443.6					2562.9	
+28	Mississippi	MSMA	2000	kg				222503.8						
+28	Mississippi	MSMA	2001	kg				124084.3						
+28	Mississippi	MSMA	2002	kg				90648.4						
+28	Mississippi	MSMA	2003	kg				102179.8					14118.2	
+28	Mississippi	MSMA	2004	kg				28523.9					1300.5	
+28	Mississippi	MSMA	2005	kg				113680.1						
+28	Mississippi	MSMA	2006	kg				22113.8					3509.3	
+28	Mississippi	MSMA	2007	kg				4747.6					3681.3	
+28	Mississippi	MSMA	2008	kg				22070					59219.8	
+28	Mississippi	MSMA	2009	kg				14187.5					150073.7	
+28	Mississippi	MSMA	2010	kg				19194.7					18252.2	
+28	Mississippi	MSMA	2011	kg				51962.5						
+28	Mississippi	MSMA	2012	kg				25883.7						
+28	Mississippi	MSMA	2013	kg				13600.1						
+28	Mississippi	MSMA	2014	kg				43134.2					4325.6	
+28	Mississippi	MSMA	2015	kg				36496.8						
+28	Mississippi	MSMA	2016	kg				54770.7						
+28	Mississippi	MSMA	2017	kg				1671.8						
+29	Missouri	MSMA	1992	kg				109849					425.6	
+29	Missouri	MSMA	1993	kg				101881.6					15.6	
+29	Missouri	MSMA	1994	kg		1343.6		30263.4					2220.6	175.2
+29	Missouri	MSMA	1995	kg				75904.9					994.4	444.6
+29	Missouri	MSMA	1996	kg				50490.3					140.9	
+29	Missouri	MSMA	1997	kg		8522.6		48962					2446.7	
+29	Missouri	MSMA	1998	kg				17973.9						
+29	Missouri	MSMA	1999	kg				18542.3						
+29	Missouri	MSMA	2000	kg				17195.4	406.7					
+29	Missouri	MSMA	2001	kg				10489.9						
+29	Missouri	MSMA	2002	kg				11983.8						
+29	Missouri	MSMA	2003	kg				3239.9						
+29	Missouri	MSMA	2004	kg				3071.4						
+29	Missouri	MSMA	2006	kg				5073.5						
+29	Missouri	MSMA	2007	kg				58.5						
+29	Missouri	MSMA	2008	kg				9542.2						
+29	Missouri	MSMA	2009	kg				1340.9						
+29	Missouri	MSMA	2010	kg				662.1						
+29	Missouri	MSMA	2011	kg				16626.2						
+29	Missouri	MSMA	2016	kg				71154.2						
+30	Montana	MSMA	1993	kg										795.6
+31	Nebraska	MSMA	1993	kg									43.3	
+31	Nebraska	MSMA	1994	kg									191.8	
+31	Nebraska	MSMA	1995	kg									44.9	
+31	Nebraska	MSMA	1996	kg									1138.7	
+31	Nebraska	MSMA	1997	kg									5697.4	
+32	Nevada	MSMA	1992	kg			1.3		0			68.5	8.7	
+32	Nevada	MSMA	1994	kg									36.7	
+32	Nevada	MSMA	1997	kg									11.5	
+34	New Jersey	MSMA	1992	kg			53.4							
+35	New Mexico	MSMA	1992	kg				638.4						
+35	New Mexico	MSMA	1993	kg				1880					586.6	
+35	New Mexico	MSMA	1994	kg				253					2056.4	880.6
+35	New Mexico	MSMA	1995	kg				1437.2					136	20850.2
+35	New Mexico	MSMA	1996	kg				864.4						37.3
+35	New Mexico	MSMA	1997	kg				1427.2				48805.7	3.6	
+35	New Mexico	MSMA	1998	kg				239						
+35	New Mexico	MSMA	1999	kg				3149.9						
+35	New Mexico	MSMA	2000	kg				569						
+35	New Mexico	MSMA	2001	kg				335.4						
+35	New Mexico	MSMA	2002	kg				190.5						
+35	New Mexico	MSMA	2003	kg				178.2					70154.4	
+35	New Mexico	MSMA	2004	kg				258.2						
+35	New Mexico	MSMA	2005	kg				2869.1						
+35	New Mexico	MSMA	2006	kg				4.5						
+35	New Mexico	MSMA	2007	kg				407.8						
+35	New Mexico	MSMA	2008	kg				54.7						
+35	New Mexico	MSMA	2009	kg				2.6						
+35	New Mexico	MSMA	2012	kg				649.7						
+35	New Mexico	MSMA	2014	kg				27.1						
+36	New York	MSMA	1998	kg							92.2			
+37	North Carolina	MSMA	1992	kg				25801.8					3031.1	
+37	North Carolina	MSMA	1993	kg				35326.5					3377.2	
+37	North Carolina	MSMA	1994	kg				74768.2					7839.1	2260.3
+37	North Carolina	MSMA	1995	kg				179104.8					2514.5	3716.7
+37	North Carolina	MSMA	1996	kg				184381.6					4184.3	
+37	North Carolina	MSMA	1997	kg				136200.2					1282.1	1902.7
+37	North Carolina	MSMA	1998	kg				94915.8					1242.8	
+37	North Carolina	MSMA	1999	kg				138216.7					2434.3	
+37	North Carolina	MSMA	2000	kg				88510.9						
+37	North Carolina	MSMA	2001	kg				96983.5						
+37	North Carolina	MSMA	2002	kg				162228.6						
+37	North Carolina	MSMA	2003	kg				46189.2					2919.3	
+37	North Carolina	MSMA	2004	kg				36676.2			372.8			
+37	North Carolina	MSMA	2005	kg				22326.3						
+37	North Carolina	MSMA	2006	kg				68018.7					1297.3	
+37	North Carolina	MSMA	2007	kg				22919.2						
+37	North Carolina	MSMA	2008	kg				11901.9					181774.6	
+37	North Carolina	MSMA	2009	kg				32544.1						
+37	North Carolina	MSMA	2010	kg				29600.4						
+37	North Carolina	MSMA	2011	kg				14220.1						
+37	North Carolina	MSMA	2012	kg				104187						
+37	North Carolina	MSMA	2013	kg				19733.2						
+37	North Carolina	MSMA	2014	kg				61196						
+37	North Carolina	MSMA	2015	kg				26626.2						
+37	North Carolina	MSMA	2016	kg				8547						
+37	North Carolina	MSMA	2017	kg				33851.9						
+38	North Dakota	MSMA	1992	kg			45035.9						19.9	
+38	North Dakota	MSMA	1993	kg										113.5
+38	North Dakota	MSMA	1996	kg			46068.3							
+38	North Dakota	MSMA	2006	kg		5847.7								
+39	Ohio	MSMA	1992	kg					5977.8					
+39	Ohio	MSMA	1993	kg	16379.7									
+39	Ohio	MSMA	1994	kg					591.9					
+40	Oklahoma	MSMA	1992	kg				1133.9					272.7	
+40	Oklahoma	MSMA	1993	kg				4007.6			847.6		5085.2	1152
+40	Oklahoma	MSMA	1994	kg			410.3	808					13280	191.8
+40	Oklahoma	MSMA	1995	kg			4171.1	11350.6					6123.4	233.1
+40	Oklahoma	MSMA	1996	kg			1859.4	1410.1					1549.2	
+40	Oklahoma	MSMA	1997	kg				40298.7				4207.3	1004.9	
+40	Oklahoma	MSMA	1998	kg				2745.5					2020.6	
+40	Oklahoma	MSMA	1999	kg				4449						
+40	Oklahoma	MSMA	2000	kg				7613.7						
+40	Oklahoma	MSMA	2001	kg				1653.8			151.1			
+40	Oklahoma	MSMA	2002	kg				1478						
+40	Oklahoma	MSMA	2003	kg				222.2					45111.7	
+40	Oklahoma	MSMA	2004	kg				832.8						
+40	Oklahoma	MSMA	2005	kg				929.6						
+40	Oklahoma	MSMA	2006	kg				539.7						
+40	Oklahoma	MSMA	2007	kg									3648.8	4.9
+40	Oklahoma	MSMA	2009	kg				5.7					29410.3	
+40	Oklahoma	MSMA	2010	kg				0.8						
+40	Oklahoma	MSMA	2014	kg				192.8						
+40	Oklahoma	MSMA	2017	kg									1803.1	
+41	Oregon	MSMA	1992	kg			9.5		275.3			108.2	44.3	
+41	Oregon	MSMA	2006	kg							904.5			
+42	Pennsylvania	MSMA	1992	kg			252							
+45	South Carolina	MSMA	1992	kg				14916.7					1145.7	
+45	South Carolina	MSMA	1993	kg				68832.2					2310.4	
+45	South Carolina	MSMA	1994	kg				73357.7					5979.8	3938.2
+45	South Carolina	MSMA	1995	kg				86445.3					8992.4	
+45	South Carolina	MSMA	1996	kg				70066.8					5105.3	
+45	South Carolina	MSMA	1997	kg				49432.8					7673.2	
+45	South Carolina	MSMA	1998	kg				20835.2					1778.1	
+45	South Carolina	MSMA	1999	kg				21907.3					340.5	
+45	South Carolina	MSMA	2000	kg				23241.7						
+45	South Carolina	MSMA	2001	kg				49352.4						
+45	South Carolina	MSMA	2002	kg				35110.2						
+45	South Carolina	MSMA	2003	kg				30618.2					2939.7	
+45	South Carolina	MSMA	2004	kg				12906.8			80.6			
+45	South Carolina	MSMA	2005	kg				3083.1						
+45	South Carolina	MSMA	2006	kg				34595.8					1224	
+45	South Carolina	MSMA	2007	kg				29739.8						
+45	South Carolina	MSMA	2008	kg				5884.3					30575.8	
+45	South Carolina	MSMA	2009	kg				815.8						
+45	South Carolina	MSMA	2010	kg				11693.4						
+45	South Carolina	MSMA	2011	kg				27755.9						
+45	South Carolina	MSMA	2012	kg				45471.3						
+45	South Carolina	MSMA	2013	kg				8404.7						
+45	South Carolina	MSMA	2014	kg				31806.7						
+45	South Carolina	MSMA	2015	kg				9281.7						
+45	South Carolina	MSMA	2016	kg				17035.7						
+45	South Carolina	MSMA	2017	kg				22709.4						
+46	South Dakota	MSMA	1994	kg		4919.6								
+46	South Dakota	MSMA	1997	kg		7758.8								
+46	South Dakota	MSMA	2006	kg		16113.5								
+47	Tennessee	MSMA	1992	kg		1300.4		67669.7					1883	
+47	Tennessee	MSMA	1993	kg				82177.1		3.4			4849.1	
+47	Tennessee	MSMA	1994	kg		5536		129993.7		8.3			14898.4	5.5
+47	Tennessee	MSMA	1995	kg				161479.5					8408.1	
+47	Tennessee	MSMA	1996	kg				65250.6					6041.1	
+47	Tennessee	MSMA	1997	kg				131802.1					27786.1	
+47	Tennessee	MSMA	1998	kg				21162.4					1470.1	
+47	Tennessee	MSMA	1999	kg				58689.3					5376.7	
+47	Tennessee	MSMA	2000	kg				20961	4.8					
+47	Tennessee	MSMA	2001	kg				28104.3						
+47	Tennessee	MSMA	2002	kg				9031.8						
+47	Tennessee	MSMA	2003	kg				12361.4					26275.8	
+47	Tennessee	MSMA	2004	kg				34794.8			31.1			
+47	Tennessee	MSMA	2005	kg				22692.1						
+47	Tennessee	MSMA	2006	kg				21783.4					8600.1	
+47	Tennessee	MSMA	2007	kg				3107.9						
+47	Tennessee	MSMA	2008	kg				5366.2					8376.7	
+47	Tennessee	MSMA	2009	kg				8044						
+47	Tennessee	MSMA	2010	kg				25802.9						
+47	Tennessee	MSMA	2011	kg				45864.3					2845.7	
+47	Tennessee	MSMA	2012	kg				34773.6						
+47	Tennessee	MSMA	2013	kg				32279.1						
+47	Tennessee	MSMA	2014	kg				9292.7						
+47	Tennessee	MSMA	2015	kg				7059.2						
+47	Tennessee	MSMA	2016	kg				22871						
+48	Texas	MSMA	1992	kg				135254			595.9		2028.1	1162.5
+48	Texas	MSMA	1993	kg				165321.4		2163.6	23449.9		16757.1	25461.1
+48	Texas	MSMA	1994	kg			72.9	55841.1		12817.7			37563.2	7065.7
+48	Texas	MSMA	1995	kg			5099.4	284233.4					20859.1	84834.8
+48	Texas	MSMA	1996	kg			2414.8	130460.1					12388.4	6073.3
+48	Texas	MSMA	1997	kg				152363.1				8096.7	2703.3	
+48	Texas	MSMA	1998	kg				35117.2			576.8			
+48	Texas	MSMA	1999	kg				103566.2						
+48	Texas	MSMA	2000	kg				26309.2					70961.9	
+48	Texas	MSMA	2001	kg				72086.3			616.2			
+48	Texas	MSMA	2002	kg				39205.7						
+48	Texas	MSMA	2003	kg				17402.1					145986.1	
+48	Texas	MSMA	2004	kg				98187.4						
+48	Texas	MSMA	2005	kg				24882.1						
+48	Texas	MSMA	2006	kg				8267			35337.9		19969.5	
+48	Texas	MSMA	2007	kg				14126						578.9
+48	Texas	MSMA	2008	kg				6623						
+48	Texas	MSMA	2009	kg				39601.2					64753.7	
+48	Texas	MSMA	2010	kg				1623.7						
+48	Texas	MSMA	2012	kg				5976.7						
+48	Texas	MSMA	2013	kg							664.8		1587.1	
+48	Texas	MSMA	2014	kg				14648.1			1660.7			
+48	Texas	MSMA	2015	kg				504.7						
+48	Texas	MSMA	2017	kg									28211.7	
+49	Utah	MSMA	1995	kg	876									
+51	Virginia	MSMA	1992	kg				1010					5477.3	
+51	Virginia	MSMA	1993	kg				2153.3						
+51	Virginia	MSMA	1994	kg				11229.1						
+51	Virginia	MSMA	1995	kg				11688.4						2591.3
+51	Virginia	MSMA	1996	kg				6686.2						
+51	Virginia	MSMA	1997	kg				15838.6						564.6
+51	Virginia	MSMA	1998	kg				13066.1					1134.5	
+51	Virginia	MSMA	1999	kg				20520.1						
+51	Virginia	MSMA	2000	kg				8113						
+51	Virginia	MSMA	2001	kg				15084.6						
+51	Virginia	MSMA	2002	kg				7236.6						
+51	Virginia	MSMA	2003	kg				5798.6					2781.4	
+51	Virginia	MSMA	2004	kg				10204.9						
+51	Virginia	MSMA	2005	kg				3341.2						
+51	Virginia	MSMA	2006	kg				15124.9					1197.7	
+51	Virginia	MSMA	2007	kg				1454.5						
+51	Virginia	MSMA	2008	kg				951.9					45473.8	
+51	Virginia	MSMA	2009	kg				4734.6						
+51	Virginia	MSMA	2010	kg				4433.5						
+51	Virginia	MSMA	2011	kg				975.4						
+51	Virginia	MSMA	2012	kg				22545.9						
+51	Virginia	MSMA	2013	kg				1144.6						
+51	Virginia	MSMA	2014	kg				12912.2						
+51	Virginia	MSMA	2015	kg				771.1						
+51	Virginia	MSMA	2016	kg				1981.6						
+51	Virginia	MSMA	2017	kg				8086						
+54	West Virginia	MSMA	1992	kg									3477.7	
+54	West Virginia	MSMA	1994	kg					48.4					
+55	Wisconsin	MSMA	1992	kg	3081.7	953.8			5299.8					
+55	Wisconsin	MSMA	1996	kg		471.7								
+55	Wisconsin	MSMA	1997	kg		6042.6								
+56	Wyoming	MSMA	1997	kg									2728.5	

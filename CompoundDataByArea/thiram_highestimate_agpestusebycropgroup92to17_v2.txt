@@ -1,0 +1,633 @@
+01	Alabama	THIRAM	1994	kg										746.6
+01	Alabama	THIRAM	2008	kg				7.9						
+01	Alabama	THIRAM	2009	kg		19.3								
+01	Alabama	THIRAM	2010	kg		270.6	341.1							
+01	Alabama	THIRAM	2011	kg		89		464.2						242.7
+01	Alabama	THIRAM	2012	kg		86.3		174.5						254.5
+01	Alabama	THIRAM	2013	kg		82.2		85.6						
+01	Alabama	THIRAM	2014	kg		795.6		340.3						
+04	Arizona	THIRAM	1996	kg							13.7			
+04	Arizona	THIRAM	1997	kg							175.5			
+04	Arizona	THIRAM	2003	kg							8.5			
+04	Arizona	THIRAM	2008	kg					0.8					
+04	Arizona	THIRAM	2009	kg				37.6	3.6					
+04	Arizona	THIRAM	2010	kg					2.8					
+04	Arizona	THIRAM	2011	kg				39.4	2.6					
+04	Arizona	THIRAM	2012	kg			28	44.9	2.5					
+04	Arizona	THIRAM	2013	kg			106.9	26.4	2.4					
+04	Arizona	THIRAM	2014	kg			107.4	259.9	1.2					
+04	Arizona	THIRAM	2015	kg					1.4					
+04	Arizona	THIRAM	2016	kg					1					
+04	Arizona	THIRAM	2017	kg					0.7					
+05	Arkansas	THIRAM	1992	kg				22.8						
+05	Arkansas	THIRAM	1993	kg		31231.6								
+05	Arkansas	THIRAM	2006	kg				46.9						
+05	Arkansas	THIRAM	2007	kg				76.5						
+05	Arkansas	THIRAM	2009	kg		226.7								
+05	Arkansas	THIRAM	2010	kg		1751								
+05	Arkansas	THIRAM	2011	kg		1388.3		1027.8						
+05	Arkansas	THIRAM	2012	kg		1409.7		738.6						
+05	Arkansas	THIRAM	2013	kg		1755.1		613.8						
+05	Arkansas	THIRAM	2014	kg		4123.5		1231.2						
+06	California	THIRAM	1992	kg					38723.6		397.1			
+06	California	THIRAM	1993	kg					57175.4		2273.3			1
+06	California	THIRAM	1994	kg			243.7		65298.8		197.1	735.6		279.2
+06	California	THIRAM	1995	kg			139.6	117.9	53546.3		2950.7			315.4
+06	California	THIRAM	1996	kg			2.9		39404.9		3877.8			
+06	California	THIRAM	1997	kg			331.7		39095.9		1951.7			
+06	California	THIRAM	1998	kg			2.6		46817.7		8220.4			
+06	California	THIRAM	1999	kg			1.9		35704.5		1492			
+06	California	THIRAM	2000	kg					37950.1		840			
+06	California	THIRAM	2001	kg					31254.2		50.6			
+06	California	THIRAM	2002	kg					32286.5		8.7			
+06	California	THIRAM	2003	kg					23391.1		45.4			
+06	California	THIRAM	2004	kg					18468.9		26.5		0.3	
+06	California	THIRAM	2005	kg					12023.2		3.3			
+06	California	THIRAM	2006	kg					10852.8		27			
+06	California	THIRAM	2007	kg					8313.5		9.8			
+06	California	THIRAM	2008	kg			88.5		16117.5		1	733.6		6
+06	California	THIRAM	2009	kg			138.7		16809.1		50.3	1015.4	33.2	19.9
+06	California	THIRAM	2010	kg			3.6		22536.7		51.2	309.7	11.7	198.2
+06	California	THIRAM	2011	kg	0				18465.6		2.2	1247.3	2.9	323.8
+06	California	THIRAM	2012	kg			39.3		16582.5		176.1	2086.8	4.9	593.8
+06	California	THIRAM	2013	kg	9				17702.9		0.1	266.1	8.1	400.5
+06	California	THIRAM	2014	kg					13141.2		0.1	1728.1	23.4	430.4
+06	California	THIRAM	2015	kg					15210.4		300.7	2983.4		515.7
+06	California	THIRAM	2016	kg	1.2				14416.7		1160.4	1188.2		147.6
+06	California	THIRAM	2017	kg	7.7				31591.3		1461.8	1879.7	2.5	156.2
+08	Colorado	THIRAM	1996	kg							411.3			
+08	Colorado	THIRAM	2003	kg							455.3			
+08	Colorado	THIRAM	2009	kg			461							0.7
+08	Colorado	THIRAM	2010	kg			1234.4							
+08	Colorado	THIRAM	2011	kg										1.4
+08	Colorado	THIRAM	2012	kg			672							
+08	Colorado	THIRAM	2013	kg			348.9							
+08	Colorado	THIRAM	2014	kg										3.8
+09	Connecticut	THIRAM	1992	kg							175.3			
+09	Connecticut	THIRAM	1994	kg					726.2		183			
+09	Connecticut	THIRAM	1995	kg							418.7			
+09	Connecticut	THIRAM	1996	kg							572.6			
+09	Connecticut	THIRAM	1997	kg							86			
+09	Connecticut	THIRAM	2000	kg							704.2			
+09	Connecticut	THIRAM	2001	kg							2500.5			
+09	Connecticut	THIRAM	2002	kg							840.7			
+09	Connecticut	THIRAM	2003	kg							316.7			
+09	Connecticut	THIRAM	2004	kg							458.2			
+09	Connecticut	THIRAM	2005	kg							772.5			
+09	Connecticut	THIRAM	2006	kg							684.8			
+09	Connecticut	THIRAM	2009	kg					25.7					
+09	Connecticut	THIRAM	2012	kg							27.9			
+10	Delaware	THIRAM	1992	kg							1			
+10	Delaware	THIRAM	1993	kg							0.2			
+10	Delaware	THIRAM	1996	kg							4			
+10	Delaware	THIRAM	2000	kg							3.4			
+10	Delaware	THIRAM	2001	kg							8.2			
+10	Delaware	THIRAM	2002	kg							7.9			
+10	Delaware	THIRAM	2004	kg							0.4			
+10	Delaware	THIRAM	2006	kg							2.2			
+10	Delaware	THIRAM	2007	kg							0.1			
+12	Florida	THIRAM	1993	kg							252.7			
+12	Florida	THIRAM	1994	kg					2932.1					207.5
+12	Florida	THIRAM	1995	kg					8589.7					
+12	Florida	THIRAM	1996	kg					916.4					
+12	Florida	THIRAM	1997	kg					2562.6					
+12	Florida	THIRAM	1998	kg					2528.9					
+12	Florida	THIRAM	1999	kg					12751.2					
+12	Florida	THIRAM	2000	kg					9423.8					
+12	Florida	THIRAM	2001	kg					4353					
+12	Florida	THIRAM	2002	kg					11687					
+12	Florida	THIRAM	2003	kg					13428.5					
+12	Florida	THIRAM	2004	kg					257					
+12	Florida	THIRAM	2005	kg					1629.6					
+12	Florida	THIRAM	2006	kg					2290.8					
+12	Florida	THIRAM	2007	kg					16841.3					
+12	Florida	THIRAM	2008	kg					6142.8					
+12	Florida	THIRAM	2009	kg					10405.6					
+12	Florida	THIRAM	2010	kg					4067.6					
+12	Florida	THIRAM	2011	kg				29.4	4676.7					391.1
+12	Florida	THIRAM	2012	kg				16.1	16954.9					185.7
+12	Florida	THIRAM	2013	kg				61.7	8840.7					
+12	Florida	THIRAM	2014	kg				71.5	14595.5					
+12	Florida	THIRAM	2015	kg					25642.1					
+12	Florida	THIRAM	2016	kg					39329.2					
+12	Florida	THIRAM	2017	kg					40842.9					
+13	Georgia	THIRAM	1992	kg							567.3			
+13	Georgia	THIRAM	1993	kg							189.3			
+13	Georgia	THIRAM	1994	kg										892.6
+13	Georgia	THIRAM	1996	kg							810.5			
+13	Georgia	THIRAM	1997	kg							57.8			
+13	Georgia	THIRAM	1999	kg							962.3			
+13	Georgia	THIRAM	2000	kg							142.3			
+13	Georgia	THIRAM	2001	kg							477.9			
+13	Georgia	THIRAM	2002	kg							1165.2			
+13	Georgia	THIRAM	2008	kg				0.5						
+13	Georgia	THIRAM	2011	kg				377.4						618.8
+13	Georgia	THIRAM	2012	kg				428.3						1244.4
+13	Georgia	THIRAM	2013	kg		11		138.1						
+13	Georgia	THIRAM	2014	kg		75.4		1727						
+16	Idaho	THIRAM	1996	kg							30.8			
+16	Idaho	THIRAM	1998	kg							501.2			
+16	Idaho	THIRAM	1999	kg							1363.7			
+16	Idaho	THIRAM	2000	kg							121.1			
+16	Idaho	THIRAM	2001	kg							348.8			
+16	Idaho	THIRAM	2002	kg							78.9			
+16	Idaho	THIRAM	2003	kg							129.1			
+16	Idaho	THIRAM	2004	kg							588.8			
+16	Idaho	THIRAM	2005	kg							163.9			
+16	Idaho	THIRAM	2010	kg			607.6							
+16	Idaho	THIRAM	2011	kg			4715.3							
+16	Idaho	THIRAM	2012	kg			3724							
+16	Idaho	THIRAM	2013	kg			2681.8							
+16	Idaho	THIRAM	2014	kg										11.6
+17	Illinois	THIRAM	1993	kg							14268			
+17	Illinois	THIRAM	1998	kg							8974.7			
+17	Illinois	THIRAM	1999	kg							10638.8			
+17	Illinois	THIRAM	2002	kg							1820.3			
+17	Illinois	THIRAM	2007	kg							216.5			
+17	Illinois	THIRAM	2009	kg		2165.6	85.4				477.5			
+17	Illinois	THIRAM	2010	kg		8743.5	336.9				2110.9			
+17	Illinois	THIRAM	2011	kg		15013.2								
+17	Illinois	THIRAM	2012	kg		12418.5	2324.9							
+17	Illinois	THIRAM	2013	kg		10233.6								
+17	Illinois	THIRAM	2014	kg		13713.6								
+18	Indiana	THIRAM	1993	kg							5731.1			
+18	Indiana	THIRAM	1997	kg							111.1			
+18	Indiana	THIRAM	1998	kg							4837.9			
+18	Indiana	THIRAM	1999	kg							2340.6			
+18	Indiana	THIRAM	2000	kg							3395.3			
+18	Indiana	THIRAM	2001	kg							19.3			
+18	Indiana	THIRAM	2002	kg							1253.3			
+18	Indiana	THIRAM	2003	kg							34.2			
+18	Indiana	THIRAM	2004	kg							168.3			
+18	Indiana	THIRAM	2005	kg							237.4			
+18	Indiana	THIRAM	2006	kg							198.1			
+18	Indiana	THIRAM	2008	kg		415.8								
+18	Indiana	THIRAM	2009	kg		7857.9	121.1							
+18	Indiana	THIRAM	2010	kg		14663.9	643.4							
+18	Indiana	THIRAM	2011	kg		13120.1								
+18	Indiana	THIRAM	2012	kg		15187.6	1761.7							
+18	Indiana	THIRAM	2013	kg		11408.9								
+18	Indiana	THIRAM	2014	kg		23330.9								
+19	Iowa	THIRAM	1992	kg							1282.1			
+19	Iowa	THIRAM	1993	kg							977.4			
+19	Iowa	THIRAM	1998	kg							1755.1			
+19	Iowa	THIRAM	1999	kg							1737.4			
+19	Iowa	THIRAM	2002	kg							640.7			
+19	Iowa	THIRAM	2008	kg		913.8								
+19	Iowa	THIRAM	2009	kg		3639.3								
+19	Iowa	THIRAM	2010	kg		7273.7								
+19	Iowa	THIRAM	2011	kg		10157.9								
+19	Iowa	THIRAM	2012	kg		942.2								
+19	Iowa	THIRAM	2013	kg		9731.1								
+19	Iowa	THIRAM	2014	kg		16585.2								
+20	Kansas	THIRAM	2009	kg			3125.2	1.5						
+20	Kansas	THIRAM	2010	kg		83	1672.3							
+20	Kansas	THIRAM	2011	kg				221.6						
+20	Kansas	THIRAM	2012	kg				28.6						
+20	Kansas	THIRAM	2013	kg				39.1						
+20	Kansas	THIRAM	2014	kg				130.2						
+21	Kentucky	THIRAM	1992	kg							101			
+21	Kentucky	THIRAM	1993	kg		3377.7					1872.4			
+21	Kentucky	THIRAM	1995	kg							35.2			
+21	Kentucky	THIRAM	1996	kg							1769.2			
+21	Kentucky	THIRAM	1998	kg							266.2			
+21	Kentucky	THIRAM	1999	kg							1095.8			
+21	Kentucky	THIRAM	2000	kg							704.1			
+21	Kentucky	THIRAM	2001	kg							1049.3			
+21	Kentucky	THIRAM	2002	kg							501.3			
+21	Kentucky	THIRAM	2003	kg							1859.4			
+21	Kentucky	THIRAM	2004	kg							88.5			
+21	Kentucky	THIRAM	2005	kg							530.3			
+21	Kentucky	THIRAM	2006	kg							280.8			
+21	Kentucky	THIRAM	2009	kg		503.5	71							
+21	Kentucky	THIRAM	2010	kg		2160.5	1618							
+21	Kentucky	THIRAM	2011	kg		2468.8								
+21	Kentucky	THIRAM	2012	kg		1273.7	2498.3							
+21	Kentucky	THIRAM	2013	kg		1887.7								
+21	Kentucky	THIRAM	2014	kg		8582.3								
+22	Louisiana	THIRAM	2006	kg				62.6						
+22	Louisiana	THIRAM	2007	kg				68.1						
+22	Louisiana	THIRAM	2010	kg		241.1								
+22	Louisiana	THIRAM	2011	kg		217.1		943.5						
+22	Louisiana	THIRAM	2012	kg		210.1		599.2						
+22	Louisiana	THIRAM	2013	kg		260.7		75						
+22	Louisiana	THIRAM	2014	kg		1366.6		288.8						
+23	Maine	THIRAM	1992	kg					378.9		6536.2			
+23	Maine	THIRAM	1994	kg							2060.8			
+23	Maine	THIRAM	1995	kg							253.9			
+23	Maine	THIRAM	2000	kg							1179.7			
+23	Maine	THIRAM	2001	kg							4140.3			
+23	Maine	THIRAM	2002	kg							1374.5			
+23	Maine	THIRAM	2003	kg							1735			
+23	Maine	THIRAM	2004	kg							666.8			
+23	Maine	THIRAM	2005	kg							1056.2			
+23	Maine	THIRAM	2006	kg							876.4			
+24	Maryland	THIRAM	1992	kg					45.9		93.9			
+24	Maryland	THIRAM	1993	kg							693.4			
+24	Maryland	THIRAM	1994	kg							0.1			
+24	Maryland	THIRAM	1995	kg							53.5			
+24	Maryland	THIRAM	1996	kg							456.8			
+24	Maryland	THIRAM	1998	kg							7552.5			
+24	Maryland	THIRAM	1999	kg							197.8			
+24	Maryland	THIRAM	2000	kg							1348.6			
+24	Maryland	THIRAM	2001	kg							1674.4			
+24	Maryland	THIRAM	2002	kg							803.3			
+24	Maryland	THIRAM	2003	kg							1970.2			
+24	Maryland	THIRAM	2004	kg							326.2			
+24	Maryland	THIRAM	2005	kg							1105.9			
+24	Maryland	THIRAM	2006	kg							311.1			
+24	Maryland	THIRAM	2007	kg							313.5			
+24	Maryland	THIRAM	2010	kg			28.4							
+25	Massachusetts	THIRAM	1992	kg							1071.4			
+25	Massachusetts	THIRAM	1994	kg					992.6		362			
+25	Massachusetts	THIRAM	1995	kg							2620.5			
+25	Massachusetts	THIRAM	1996	kg							1847.5			
+25	Massachusetts	THIRAM	1997	kg							79.4			
+25	Massachusetts	THIRAM	2000	kg							1363.5			
+25	Massachusetts	THIRAM	2001	kg							4817.5			
+25	Massachusetts	THIRAM	2002	kg							1611.3			
+25	Massachusetts	THIRAM	2003	kg							662.3			
+25	Massachusetts	THIRAM	2004	kg							850.8			
+25	Massachusetts	THIRAM	2005	kg							615.8			
+25	Massachusetts	THIRAM	2006	kg							1231.7			
+25	Massachusetts	THIRAM	2009	kg					38.8					
+25	Massachusetts	THIRAM	2012	kg							44.2			
+26	Michigan	THIRAM	1994	kg										1133.4
+26	Michigan	THIRAM	1996	kg							122.3			
+26	Michigan	THIRAM	1997	kg							7221.1			
+26	Michigan	THIRAM	1998	kg							50499.9			
+26	Michigan	THIRAM	1999	kg							5131.1			
+26	Michigan	THIRAM	2000	kg							2162			
+26	Michigan	THIRAM	2001	kg							2122			
+26	Michigan	THIRAM	2002	kg							19791.9			
+26	Michigan	THIRAM	2003	kg							1848.3			
+26	Michigan	THIRAM	2004	kg							10880.4			
+26	Michigan	THIRAM	2005	kg							19774.1			
+26	Michigan	THIRAM	2006	kg							10530.8			
+26	Michigan	THIRAM	2007	kg		1407.8								
+26	Michigan	THIRAM	2008	kg		709.6					1899.4			
+26	Michigan	THIRAM	2009	kg		710.9	2358.1							
+26	Michigan	THIRAM	2010	kg		3940.2	810.8							
+26	Michigan	THIRAM	2011	kg		435	1363.3							
+26	Michigan	THIRAM	2012	kg		915.3	201.6							
+26	Michigan	THIRAM	2013	kg		2674.8	1770.2							
+26	Michigan	THIRAM	2014	kg		1737.1								6
+27	Minnesota	THIRAM	1992	kg							2064.1			
+27	Minnesota	THIRAM	1993	kg							1257.8			
+27	Minnesota	THIRAM	1998	kg							3458			
+27	Minnesota	THIRAM	1999	kg							1192.4			
+27	Minnesota	THIRAM	2001	kg							115.6			
+27	Minnesota	THIRAM	2002	kg							643			
+27	Minnesota	THIRAM	2004	kg							328.9			
+27	Minnesota	THIRAM	2005	kg							779.9			
+27	Minnesota	THIRAM	2008	kg		1318								
+27	Minnesota	THIRAM	2009	kg		1142.2	296.3							27.4
+27	Minnesota	THIRAM	2010	kg		3539.8	153.1							
+27	Minnesota	THIRAM	2011	kg		2640	683.2							36.8
+27	Minnesota	THIRAM	2012	kg		2212	1344.2							57
+27	Minnesota	THIRAM	2013	kg		3117.6	518.8							
+27	Minnesota	THIRAM	2014	kg		4443.9	431							56.6
+28	Mississippi	THIRAM	1993	kg		1569.7								
+28	Mississippi	THIRAM	2006	kg				179.8						
+28	Mississippi	THIRAM	2007	kg				220.2						
+28	Mississippi	THIRAM	2008	kg				0.6						
+28	Mississippi	THIRAM	2009	kg		61.8								
+28	Mississippi	THIRAM	2010	kg		1163.3								
+28	Mississippi	THIRAM	2011	kg		843.4		596.2						
+28	Mississippi	THIRAM	2012	kg		835.1		1284						
+28	Mississippi	THIRAM	2013	kg		1022.1		777.6						
+28	Mississippi	THIRAM	2014	kg		4937.8		908						
+29	Missouri	THIRAM	1992	kg				21.7						
+29	Missouri	THIRAM	1993	kg		10218.2					1336.3			
+29	Missouri	THIRAM	1998	kg							1201.9			
+29	Missouri	THIRAM	1999	kg							5291.9			
+29	Missouri	THIRAM	2002	kg							431			
+29	Missouri	THIRAM	2007	kg							23.2			
+29	Missouri	THIRAM	2009	kg		1699.2	271				157.5			
+29	Missouri	THIRAM	2010	kg		2115.5	146.7				453			
+29	Missouri	THIRAM	2011	kg		2392.2		74.4						
+29	Missouri	THIRAM	2012	kg		4436.9	2064.9	102.5						
+29	Missouri	THIRAM	2013	kg		4929.5		178.7						
+29	Missouri	THIRAM	2014	kg		7012.7		506.1						
+30	Montana	THIRAM	2009	kg			1618.1							0.7
+30	Montana	THIRAM	2010	kg			4858.3							
+30	Montana	THIRAM	2011	kg			2820.8							1.3
+30	Montana	THIRAM	2012	kg			1576.9							0.4
+30	Montana	THIRAM	2013	kg			2142							
+30	Montana	THIRAM	2014	kg			1027							3.9
+31	Nebraska	THIRAM	1992	kg							171.1			
+31	Nebraska	THIRAM	1993	kg							150.9			
+31	Nebraska	THIRAM	1998	kg							292.6			
+31	Nebraska	THIRAM	1999	kg							165.4			
+31	Nebraska	THIRAM	2002	kg							114.1			
+31	Nebraska	THIRAM	2009	kg		74.8	1193.9							1.7
+31	Nebraska	THIRAM	2010	kg		1359	1796.6							
+31	Nebraska	THIRAM	2011	kg		1498.6								3.1
+31	Nebraska	THIRAM	2012	kg		1176.9	290.5							
+31	Nebraska	THIRAM	2013	kg		1693	389.3							
+31	Nebraska	THIRAM	2014	kg		2778.6								8.1
+32	Nevada	THIRAM	1997	kg							1.5			
+32	Nevada	THIRAM	1999	kg							67			
+32	Nevada	THIRAM	2003	kg							0.7			
+32	Nevada	THIRAM	2004	kg							3.3			
+32	Nevada	THIRAM	2008	kg					0					
+32	Nevada	THIRAM	2009	kg					0.1					
+32	Nevada	THIRAM	2010	kg			14.4		0.1					
+32	Nevada	THIRAM	2011	kg			5.5		0.1					
+32	Nevada	THIRAM	2012	kg			78.4		0.1					
+32	Nevada	THIRAM	2013	kg			32		0.1					
+32	Nevada	THIRAM	2014	kg					0					
+32	Nevada	THIRAM	2015	kg					0					
+32	Nevada	THIRAM	2016	kg					0					
+32	Nevada	THIRAM	2017	kg					0					
+33	New Hampshire	THIRAM	1992	kg					77.8		1939			
+33	New Hampshire	THIRAM	1994	kg							1234.2			
+33	New Hampshire	THIRAM	1995	kg							297.4			
+33	New Hampshire	THIRAM	1996	kg							137.7			
+33	New Hampshire	THIRAM	1997	kg							20.9			
+33	New Hampshire	THIRAM	2000	kg							741.1			
+33	New Hampshire	THIRAM	2001	kg							2630.6			
+33	New Hampshire	THIRAM	2002	kg							884.3			
+33	New Hampshire	THIRAM	2003	kg							320.2			
+33	New Hampshire	THIRAM	2004	kg							445.3			
+33	New Hampshire	THIRAM	2005	kg							720.3			
+33	New Hampshire	THIRAM	2006	kg							611.9			
+34	New Jersey	THIRAM	1992	kg							450.6			
+34	New Jersey	THIRAM	1993	kg							123.1			
+34	New Jersey	THIRAM	1994	kg							224			
+34	New Jersey	THIRAM	1995	kg							176			
+34	New Jersey	THIRAM	2000	kg							1235.3			
+34	New Jersey	THIRAM	2001	kg							2803.1			
+34	New Jersey	THIRAM	2002	kg							2520.9			
+34	New Jersey	THIRAM	2003	kg							1159.8			
+34	New Jersey	THIRAM	2004	kg							339.3			
+34	New Jersey	THIRAM	2005	kg							722.7			
+34	New Jersey	THIRAM	2006	kg							1493.8			
+34	New Jersey	THIRAM	2007	kg							867.7			
+34	New Jersey	THIRAM	2009	kg					9.6					
+34	New Jersey	THIRAM	2012	kg							9.8			
+35	New Mexico	THIRAM	1996	kg							29.8			
+35	New Mexico	THIRAM	2003	kg							25.5			
+35	New Mexico	THIRAM	2009	kg				1.2						
+35	New Mexico	THIRAM	2010	kg			138.4							
+35	New Mexico	THIRAM	2011	kg				42.8						4.1
+35	New Mexico	THIRAM	2012	kg				21.6						7.2
+35	New Mexico	THIRAM	2013	kg				18.1						
+35	New Mexico	THIRAM	2014	kg			0.6	48.6						
+36	New York	THIRAM	1992	kg							3338.3			
+36	New York	THIRAM	1994	kg					417.2		3570.2			
+36	New York	THIRAM	1995	kg							3787.2			
+36	New York	THIRAM	1996	kg							650			
+36	New York	THIRAM	1997	kg							86.9			
+36	New York	THIRAM	1999	kg							72707.9			
+36	New York	THIRAM	2000	kg							6793.6			
+36	New York	THIRAM	2001	kg							76993.1			
+36	New York	THIRAM	2002	kg							18985.4			
+36	New York	THIRAM	2003	kg							20805.3			
+36	New York	THIRAM	2004	kg							26100			
+36	New York	THIRAM	2005	kg							38634.3			
+36	New York	THIRAM	2006	kg							14766.2			
+36	New York	THIRAM	2009	kg					134.9					
+36	New York	THIRAM	2012	kg					87.4		213.9			
+37	North Carolina	THIRAM	1992	kg							4237.8			
+37	North Carolina	THIRAM	1993	kg							1200.9			
+37	North Carolina	THIRAM	1995	kg							45.7			
+37	North Carolina	THIRAM	1996	kg							8802.3			
+37	North Carolina	THIRAM	1997	kg							519.3			
+37	North Carolina	THIRAM	1999	kg							7490.2			
+37	North Carolina	THIRAM	2000	kg							1643.5			
+37	North Carolina	THIRAM	2001	kg							4745.5			
+37	North Carolina	THIRAM	2002	kg							3626.7			
+37	North Carolina	THIRAM	2003	kg							7426.1			
+37	North Carolina	THIRAM	2004	kg							361.4			
+37	North Carolina	THIRAM	2005	kg							19856.2			
+37	North Carolina	THIRAM	2006	kg		76.1					1215.2			
+37	North Carolina	THIRAM	2009	kg		0.5								
+37	North Carolina	THIRAM	2010	kg		2.9								
+37	North Carolina	THIRAM	2011	kg		2.6		610.4						167.1
+37	North Carolina	THIRAM	2012	kg		267.9		12.6						
+37	North Carolina	THIRAM	2013	kg		39.7		198.7						
+37	North Carolina	THIRAM	2014	kg		25.8		666.4						
+38	North Dakota	THIRAM	2009	kg			2461.6							11.6
+38	North Dakota	THIRAM	2010	kg			3637.1							
+38	North Dakota	THIRAM	2011	kg			4731.4							12
+38	North Dakota	THIRAM	2012	kg			9431.6							22.3
+38	North Dakota	THIRAM	2013	kg			3838.2							
+38	North Dakota	THIRAM	2014	kg			2358							35.6
+39	Ohio	THIRAM	1992	kg							55.2			
+39	Ohio	THIRAM	1993	kg							2928.9			
+39	Ohio	THIRAM	1996	kg							6022.9			
+39	Ohio	THIRAM	1998	kg							8557.6			
+39	Ohio	THIRAM	1999	kg							2820.9			
+39	Ohio	THIRAM	2000	kg							503.3			
+39	Ohio	THIRAM	2001	kg							996.2			
+39	Ohio	THIRAM	2002	kg							1567			
+39	Ohio	THIRAM	2003	kg					971.5		1081.7			
+39	Ohio	THIRAM	2004	kg							658.7			
+39	Ohio	THIRAM	2005	kg							1923.6			
+39	Ohio	THIRAM	2006	kg							337.2			
+39	Ohio	THIRAM	2007	kg		1086.8								
+39	Ohio	THIRAM	2008	kg		1763.4					118.5			
+39	Ohio	THIRAM	2009	kg		2231.2	129.5							
+39	Ohio	THIRAM	2010	kg		4093.2	744.4							
+39	Ohio	THIRAM	2011	kg		8172.4	547.6							
+39	Ohio	THIRAM	2012	kg		7120.6	2036.5							
+39	Ohio	THIRAM	2013	kg		6981.1	822.4							
+39	Ohio	THIRAM	2014	kg		11504.4			104					
+40	Oklahoma	THIRAM	2009	kg				10.5						
+40	Oklahoma	THIRAM	2010	kg			111.4							
+40	Oklahoma	THIRAM	2011	kg				286.4						740.3
+40	Oklahoma	THIRAM	2012	kg				79.1						320.7
+40	Oklahoma	THIRAM	2013	kg				144.3						
+40	Oklahoma	THIRAM	2014	kg				290						
+41	Oregon	THIRAM	1992	kg							10215.2			
+41	Oregon	THIRAM	1995	kg					5779.5		775.7			
+41	Oregon	THIRAM	1996	kg					3456.4		62.4			
+41	Oregon	THIRAM	1997	kg					865		25.3			
+41	Oregon	THIRAM	1998	kg					117.8		536.4			
+41	Oregon	THIRAM	1999	kg					159.5		9642.4			
+41	Oregon	THIRAM	2000	kg					724.2		811.5			
+41	Oregon	THIRAM	2001	kg					4210.9		1357.2			
+41	Oregon	THIRAM	2002	kg					641.6		3230.6			
+41	Oregon	THIRAM	2003	kg					780.3		276.7			
+41	Oregon	THIRAM	2004	kg					840.5		8500.7			
+41	Oregon	THIRAM	2005	kg					565.5		1110.8			
+41	Oregon	THIRAM	2006	kg					1598.3		105.3			
+41	Oregon	THIRAM	2007	kg					20.8					
+41	Oregon	THIRAM	2008	kg					111.3					
+41	Oregon	THIRAM	2009	kg					69.1					
+41	Oregon	THIRAM	2010	kg			446.3							
+41	Oregon	THIRAM	2011	kg			2167		282.6					
+41	Oregon	THIRAM	2012	kg			1704				1676.4			
+41	Oregon	THIRAM	2013	kg			1496							
+41	Oregon	THIRAM	2014	kg										0.5
+42	Pennsylvania	THIRAM	1992	kg					211.9		648.6			
+42	Pennsylvania	THIRAM	1993	kg							1348.8			
+42	Pennsylvania	THIRAM	1994	kg							240.2			
+42	Pennsylvania	THIRAM	1995	kg							1387.2			
+42	Pennsylvania	THIRAM	1996	kg							1194.7			
+42	Pennsylvania	THIRAM	1998	kg							158.3			
+42	Pennsylvania	THIRAM	1999	kg							4296.6			
+42	Pennsylvania	THIRAM	2000	kg							15890.9			
+42	Pennsylvania	THIRAM	2001	kg							20763			
+42	Pennsylvania	THIRAM	2002	kg							7447.1			
+42	Pennsylvania	THIRAM	2003	kg					55		16234.9			
+42	Pennsylvania	THIRAM	2004	kg							4679.2			
+42	Pennsylvania	THIRAM	2005	kg							11611.5			
+42	Pennsylvania	THIRAM	2006	kg							4344.6			
+42	Pennsylvania	THIRAM	2007	kg							823.4			
+42	Pennsylvania	THIRAM	2009	kg					11.4					
+42	Pennsylvania	THIRAM	2012	kg							13.6			
+44	Rhode Island	THIRAM	1992	kg							25			
+44	Rhode Island	THIRAM	1994	kg					201.5		26			
+44	Rhode Island	THIRAM	1995	kg							44.9			
+44	Rhode Island	THIRAM	1996	kg							36.5			
+44	Rhode Island	THIRAM	1997	kg							5.9			
+44	Rhode Island	THIRAM	2000	kg							100.1			
+44	Rhode Island	THIRAM	2001	kg							355.3			
+44	Rhode Island	THIRAM	2002	kg							119.5			
+44	Rhode Island	THIRAM	2003	kg							46.6			
+44	Rhode Island	THIRAM	2004	kg							69.9			
+44	Rhode Island	THIRAM	2005	kg							122			
+44	Rhode Island	THIRAM	2006	kg							111.7			
+45	South Carolina	THIRAM	1992	kg							1055.5			
+45	South Carolina	THIRAM	1993	kg							354.5			
+45	South Carolina	THIRAM	1996	kg							1636.3			
+45	South Carolina	THIRAM	1997	kg							121.7			
+45	South Carolina	THIRAM	1999	kg							2149.4			
+45	South Carolina	THIRAM	2000	kg							1471.2			
+45	South Carolina	THIRAM	2001	kg							1112.3			
+45	South Carolina	THIRAM	2002	kg							2813.3			
+45	South Carolina	THIRAM	2005	kg							3728.7			
+45	South Carolina	THIRAM	2011	kg				29.3						39.9
+45	South Carolina	THIRAM	2012	kg				27.2						13
+45	South Carolina	THIRAM	2013	kg				54.6						
+45	South Carolina	THIRAM	2014	kg				348.6						
+46	South Dakota	THIRAM	2009	kg		39.7	3899.1							
+46	South Dakota	THIRAM	2010	kg		944	2485							
+46	South Dakota	THIRAM	2011	kg		1148.5	4044.9							
+46	South Dakota	THIRAM	2012	kg		1051.4	3273.2							
+46	South Dakota	THIRAM	2013	kg		1318	1028.2							
+46	South Dakota	THIRAM	2014	kg		2066.3	305.6							
+47	Tennessee	THIRAM	1992	kg				11.4			249.2			
+47	Tennessee	THIRAM	1993	kg		8682.2					238.5			
+47	Tennessee	THIRAM	1995	kg							44.6			
+47	Tennessee	THIRAM	1996	kg							603			
+47	Tennessee	THIRAM	1997	kg							32.1			
+47	Tennessee	THIRAM	1999	kg							591.6			
+47	Tennessee	THIRAM	2000	kg							94.5			
+47	Tennessee	THIRAM	2001	kg							412.2			
+47	Tennessee	THIRAM	2002	kg							228.9			
+47	Tennessee	THIRAM	2003	kg							775.5			
+47	Tennessee	THIRAM	2004	kg							36.5			
+47	Tennessee	THIRAM	2005	kg							218			
+47	Tennessee	THIRAM	2006	kg							114.5			
+47	Tennessee	THIRAM	2009	kg		84.4								
+47	Tennessee	THIRAM	2010	kg		1766.8	300.9							
+47	Tennessee	THIRAM	2011	kg		846.9		153.6						
+47	Tennessee	THIRAM	2012	kg		698.5		186.7						
+47	Tennessee	THIRAM	2013	kg		1018		466.3						
+47	Tennessee	THIRAM	2014	kg		6135.8		738.3						
+48	Texas	THIRAM	2006	kg				271.4						
+48	Texas	THIRAM	2009	kg				104.8						
+48	Texas	THIRAM	2010	kg			1284							
+48	Texas	THIRAM	2011	kg				6745.5						729.2
+48	Texas	THIRAM	2012	kg				3418.6						675.8
+48	Texas	THIRAM	2013	kg				4330.3						
+48	Texas	THIRAM	2014	kg				9542.8						
+49	Utah	THIRAM	1996	kg							6.6			
+49	Utah	THIRAM	2003	kg							7			
+49	Utah	THIRAM	2011	kg			0.8							
+49	Utah	THIRAM	2012	kg			3.5							
+49	Utah	THIRAM	2013	kg			14.5							
+50	Vermont	THIRAM	1992	kg							288.5			
+50	Vermont	THIRAM	1994	kg							254.5			
+50	Vermont	THIRAM	1995	kg							349.1			
+50	Vermont	THIRAM	1996	kg							37.4			
+50	Vermont	THIRAM	1997	kg							5.8			
+50	Vermont	THIRAM	2000	kg							997.8			
+50	Vermont	THIRAM	2001	kg							3557.7			
+50	Vermont	THIRAM	2002	kg							1201.7			
+50	Vermont	THIRAM	2003	kg							448.8			
+50	Vermont	THIRAM	2004	kg							644.4			
+50	Vermont	THIRAM	2005	kg							470.2			
+50	Vermont	THIRAM	2006	kg							947.2			
+51	Virginia	THIRAM	1992	kg							1023.4			
+51	Virginia	THIRAM	1993	kg							2549.6			
+51	Virginia	THIRAM	1995	kg							298			
+51	Virginia	THIRAM	1996	kg							7397.3			
+51	Virginia	THIRAM	1998	kg							58901.3			
+51	Virginia	THIRAM	1999	kg							1521.2			
+51	Virginia	THIRAM	2000	kg							9205.5			
+51	Virginia	THIRAM	2001	kg							2011.9			
+51	Virginia	THIRAM	2002	kg							36029.6			
+51	Virginia	THIRAM	2003	kg							18596.2			
+51	Virginia	THIRAM	2004	kg							384.7			
+51	Virginia	THIRAM	2005	kg							621.5			
+51	Virginia	THIRAM	2006	kg							342.1			
+51	Virginia	THIRAM	2007	kg							1174.4			
+51	Virginia	THIRAM	2009	kg		0.1								
+51	Virginia	THIRAM	2010	kg		18.9	141.7							
+51	Virginia	THIRAM	2011	kg		1.1								42.9
+51	Virginia	THIRAM	2012	kg		53.2		0.7						
+51	Virginia	THIRAM	2013	kg		0		34.1						
+51	Virginia	THIRAM	2014	kg		17		157.2						
+53	Washington	THIRAM	1995	kg					718.2		145.3			
+53	Washington	THIRAM	1996	kg					323.7		1070.2			
+53	Washington	THIRAM	1997	kg					58.7		2550.9			
+53	Washington	THIRAM	1998	kg					38.9		16718.4			
+53	Washington	THIRAM	1999	kg					57.8		79982.5			
+53	Washington	THIRAM	2000	kg					288.4		9121.2			
+53	Washington	THIRAM	2001	kg					1887.5		10195.1			
+53	Washington	THIRAM	2002	kg					325.4		8136.5			
+53	Washington	THIRAM	2003	kg					386.4		10482.3			
+53	Washington	THIRAM	2004	kg					430.7		32684.7			
+53	Washington	THIRAM	2005	kg					300.7		9064.9			
+53	Washington	THIRAM	2006	kg					186.6		3860.2			
+53	Washington	THIRAM	2007	kg					2.2					
+53	Washington	THIRAM	2008	kg					40.1					
+53	Washington	THIRAM	2009	kg					26.3					
+53	Washington	THIRAM	2010	kg			1236.9							
+53	Washington	THIRAM	2011	kg			12818.7		216.9					
+53	Washington	THIRAM	2012	kg			2484.8				71704.4			
+53	Washington	THIRAM	2013	kg			7146.2							
+53	Washington	THIRAM	2014	kg			1235.9							
+54	West Virginia	THIRAM	1992	kg							409.1			
+54	West Virginia	THIRAM	1993	kg							9328.5			
+54	West Virginia	THIRAM	1995	kg							393.6			
+54	West Virginia	THIRAM	1996	kg							1237.7			
+54	West Virginia	THIRAM	1998	kg							34285.2			
+54	West Virginia	THIRAM	1999	kg							920.3			
+54	West Virginia	THIRAM	2000	kg							6530.9			
+54	West Virginia	THIRAM	2001	kg							412.6			
+54	West Virginia	THIRAM	2002	kg							1776.6			
+54	West Virginia	THIRAM	2003	kg					30.2		11190.6			
+54	West Virginia	THIRAM	2004	kg							158.3			
+54	West Virginia	THIRAM	2005	kg							2032.4			
+54	West Virginia	THIRAM	2006	kg							1074.1			
+54	West Virginia	THIRAM	2007	kg							671.6			
+54	West Virginia	THIRAM	2009	kg		1.3								
+54	West Virginia	THIRAM	2010	kg		45.8								
+54	West Virginia	THIRAM	2011	kg		7.9								
+54	West Virginia	THIRAM	2012	kg		7	6.3							
+54	West Virginia	THIRAM	2013	kg		1.9								
+54	West Virginia	THIRAM	2014	kg		66.1								
+55	Wisconsin	THIRAM	1992	kg							435			
+55	Wisconsin	THIRAM	1998	kg							8087.7			
+55	Wisconsin	THIRAM	1999	kg							311.2			
+55	Wisconsin	THIRAM	2001	kg							293			
+55	Wisconsin	THIRAM	2004	kg							752.7			
+55	Wisconsin	THIRAM	2005	kg							1735.7			
+55	Wisconsin	THIRAM	2008	kg		210.2								
+55	Wisconsin	THIRAM	2009	kg		385.7								
+55	Wisconsin	THIRAM	2010	kg		871.8								
+55	Wisconsin	THIRAM	2011	kg		992.5								
+55	Wisconsin	THIRAM	2012	kg		502.4								
+55	Wisconsin	THIRAM	2013	kg		1444.9								
+55	Wisconsin	THIRAM	2014	kg		1303.3								
+56	Wyoming	THIRAM	2009	kg			190.9							0.4
+56	Wyoming	THIRAM	2010	kg			398.8							
+56	Wyoming	THIRAM	2011	kg			4.6							0.2
+56	Wyoming	THIRAM	2012	kg			64.5							
+56	Wyoming	THIRAM	2013	kg			157.5							
+56	Wyoming	THIRAM	2014	kg			1.1							0.7

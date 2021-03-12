@@ -1,0 +1,252 @@
+01	Alabama	SPIROMESIFEN	2006	kg					47.8					
+01	Alabama	SPIROMESIFEN	2010	kg					3.2					
+04	Arizona	SPIROMESIFEN	2005	kg					271.4					
+04	Arizona	SPIROMESIFEN	2006	kg				2561.4	537.6					
+04	Arizona	SPIROMESIFEN	2007	kg					456.6					
+04	Arizona	SPIROMESIFEN	2008	kg				867.3	589.1					
+04	Arizona	SPIROMESIFEN	2009	kg				25.1	843.1					
+04	Arizona	SPIROMESIFEN	2010	kg					346.7					
+04	Arizona	SPIROMESIFEN	2011	kg	3028.4				617.3					
+04	Arizona	SPIROMESIFEN	2012	kg	3804.7				154.5					
+04	Arizona	SPIROMESIFEN	2013	kg	125.7				139.2					
+04	Arizona	SPIROMESIFEN	2014	kg	2011.4				310.9					
+04	Arizona	SPIROMESIFEN	2015	kg	358.5				656.7					
+04	Arizona	SPIROMESIFEN	2016	kg	8049.1				522.6					
+04	Arizona	SPIROMESIFEN	2017	kg	3252.9			111.2	474.2					
+05	Arkansas	SPIROMESIFEN	2006	kg				52.3						
+05	Arkansas	SPIROMESIFEN	2007	kg				202.3						
+06	California	SPIROMESIFEN	2005	kg	2072.7			2736.6	1347.7		0.7			
+06	California	SPIROMESIFEN	2006	kg	10552.3			3816.2	3260		12.3			
+06	California	SPIROMESIFEN	2007	kg	15874.2			1352.4	3013.4		32.9	8.4		1.8
+06	California	SPIROMESIFEN	2008	kg	17203			930	3121.3		28.2	1		17.2
+06	California	SPIROMESIFEN	2009	kg	13825.8		8.1	264.6	3642		80.9	5.4		6.4
+06	California	SPIROMESIFEN	2010	kg	10390.4		3.6	423.8	4039.5		39.3	34.6		4.5
+06	California	SPIROMESIFEN	2011	kg	12566.8		6.3	1390.8	3601.6		25.3	15.8	2.3	20.9
+06	California	SPIROMESIFEN	2012	kg	10427.5			871.9	3884.4	110	39.8	19.9		23.1
+06	California	SPIROMESIFEN	2013	kg	8313.7			1784.6	4328		41.4	26.6		34.4
+06	California	SPIROMESIFEN	2014	kg	4282.4			1285.4	3329.2		50.5	1.1		70.8
+06	California	SPIROMESIFEN	2015	kg	5254.7			809.5	2642.5		47.5	6.8		17.7
+06	California	SPIROMESIFEN	2016	kg	6063.9			773.1	2308.3		70.1	0		5.1
+06	California	SPIROMESIFEN	2017	kg	5943.5			3803.4	1701.1		54.8	10.3		19.7
+08	Colorado	SPIROMESIFEN	2006	kg	2095.2									
+08	Colorado	SPIROMESIFEN	2007	kg	77.2									
+08	Colorado	SPIROMESIFEN	2008	kg	341.4				509.3					
+08	Colorado	SPIROMESIFEN	2009	kg	6987.1									
+08	Colorado	SPIROMESIFEN	2010	kg	8530				573.4					
+08	Colorado	SPIROMESIFEN	2011	kg	17894.6				1307.1					
+08	Colorado	SPIROMESIFEN	2012	kg	3328.7				1372.5					
+08	Colorado	SPIROMESIFEN	2013	kg	2960.4				789					
+08	Colorado	SPIROMESIFEN	2014	kg	6686.9				59.3					
+08	Colorado	SPIROMESIFEN	2015	kg	10956.2				238.3					
+08	Colorado	SPIROMESIFEN	2016	kg	6755.4				758.3					
+08	Colorado	SPIROMESIFEN	2017	kg	4114									
+10	Delaware	SPIROMESIFEN	2006	kg					0					
+10	Delaware	SPIROMESIFEN	2012	kg					0.1					
+10	Delaware	SPIROMESIFEN	2016	kg					4.2					
+12	Florida	SPIROMESIFEN	2005	kg					413.3					
+12	Florida	SPIROMESIFEN	2006	kg					172.7					
+12	Florida	SPIROMESIFEN	2007	kg					590.2					
+12	Florida	SPIROMESIFEN	2008	kg					1496.9					
+12	Florida	SPIROMESIFEN	2009	kg					293.8					
+12	Florida	SPIROMESIFEN	2010	kg					339.4					
+12	Florida	SPIROMESIFEN	2011	kg					2164.9					
+12	Florida	SPIROMESIFEN	2012	kg					642.3					
+12	Florida	SPIROMESIFEN	2013	kg					231.3					
+12	Florida	SPIROMESIFEN	2014	kg					2458.4					
+12	Florida	SPIROMESIFEN	2015	kg					1482.6					
+12	Florida	SPIROMESIFEN	2016	kg					3735.9					
+12	Florida	SPIROMESIFEN	2017	kg					1930.5					
+13	Georgia	SPIROMESIFEN	2006	kg					605.5					
+13	Georgia	SPIROMESIFEN	2007	kg					243.1					
+13	Georgia	SPIROMESIFEN	2008	kg					45.1					
+13	Georgia	SPIROMESIFEN	2010	kg					369.3					
+13	Georgia	SPIROMESIFEN	2011	kg					293.8					
+13	Georgia	SPIROMESIFEN	2012	kg					154.5					
+13	Georgia	SPIROMESIFEN	2015	kg					537					
+13	Georgia	SPIROMESIFEN	2016	kg					21.3					
+13	Georgia	SPIROMESIFEN	2017	kg					66.5					
+16	Idaho	SPIROMESIFEN	2005	kg	128.2									
+16	Idaho	SPIROMESIFEN	2006	kg	0.3				21820.4					
+16	Idaho	SPIROMESIFEN	2007	kg					428.7					
+16	Idaho	SPIROMESIFEN	2008	kg	0.3				33815					
+16	Idaho	SPIROMESIFEN	2009	kg	1.5				11135.5					
+16	Idaho	SPIROMESIFEN	2010	kg					16440.5					
+16	Idaho	SPIROMESIFEN	2011	kg	20531.9				10978.6					
+16	Idaho	SPIROMESIFEN	2012	kg					8834.4					
+16	Idaho	SPIROMESIFEN	2013	kg					2173.1					
+16	Idaho	SPIROMESIFEN	2014	kg					2342.5					
+16	Idaho	SPIROMESIFEN	2015	kg					1245.5					
+16	Idaho	SPIROMESIFEN	2016	kg					8454.6					
+16	Idaho	SPIROMESIFEN	2017	kg					9423.4					
+17	Illinois	SPIROMESIFEN	2006	kg					0.6					
+17	Illinois	SPIROMESIFEN	2007	kg					17.9					
+17	Illinois	SPIROMESIFEN	2008	kg					3.5					
+17	Illinois	SPIROMESIFEN	2009	kg					3.5					
+17	Illinois	SPIROMESIFEN	2010	kg					16.8					
+17	Illinois	SPIROMESIFEN	2012	kg					113.6					
+17	Illinois	SPIROMESIFEN	2014	kg					48.6					
+18	Indiana	SPIROMESIFEN	2006	kg					186					
+18	Indiana	SPIROMESIFEN	2007	kg					398					
+18	Indiana	SPIROMESIFEN	2008	kg					126.4					
+18	Indiana	SPIROMESIFEN	2009	kg					114.7					
+18	Indiana	SPIROMESIFEN	2010	kg					379.2					
+18	Indiana	SPIROMESIFEN	2012	kg					121.7					
+18	Indiana	SPIROMESIFEN	2013	kg					12.6					
+18	Indiana	SPIROMESIFEN	2014	kg					826.7					
+18	Indiana	SPIROMESIFEN	2015	kg					363.5					
+19	Iowa	SPIROMESIFEN	2012	kg	1629.6									
+20	Kansas	SPIROMESIFEN	2006	kg	3400.3									
+20	Kansas	SPIROMESIFEN	2007	kg	1084.9									
+20	Kansas	SPIROMESIFEN	2008	kg	3842.7				17.8					
+20	Kansas	SPIROMESIFEN	2009	kg	12246.5									
+20	Kansas	SPIROMESIFEN	2010	kg	10843.6				23.3					
+20	Kansas	SPIROMESIFEN	2011	kg	44124				11.9					
+20	Kansas	SPIROMESIFEN	2012	kg	8704.6				30.8					
+20	Kansas	SPIROMESIFEN	2013	kg	21751.9				92.2					
+20	Kansas	SPIROMESIFEN	2014	kg	26941.7									
+20	Kansas	SPIROMESIFEN	2015	kg	13068.9				3.7					
+20	Kansas	SPIROMESIFEN	2016	kg	13027.7				11.9					
+20	Kansas	SPIROMESIFEN	2017	kg	26981.5									
+21	Kentucky	SPIROMESIFEN	2006	kg					17.4					
+21	Kentucky	SPIROMESIFEN	2007	kg					19.1					
+21	Kentucky	SPIROMESIFEN	2008	kg					6.6					
+21	Kentucky	SPIROMESIFEN	2009	kg					5.2					
+21	Kentucky	SPIROMESIFEN	2010	kg					29.1					
+21	Kentucky	SPIROMESIFEN	2012	kg					14.6					
+21	Kentucky	SPIROMESIFEN	2013	kg					1.1					
+21	Kentucky	SPIROMESIFEN	2014	kg					68.3					
+21	Kentucky	SPIROMESIFEN	2015	kg					51.2					
+22	Louisiana	SPIROMESIFEN	2012	kg					0					
+22	Louisiana	SPIROMESIFEN	2014	kg					0.1					
+22	Louisiana	SPIROMESIFEN	2015	kg					0					
+24	Maryland	SPIROMESIFEN	2012	kg					0.2					
+29	Missouri	SPIROMESIFEN	2006	kg				56.2						
+29	Missouri	SPIROMESIFEN	2007	kg				192.3						
+29	Missouri	SPIROMESIFEN	2012	kg					256.7					
+30	Montana	SPIROMESIFEN	2013	kg					12.7					
+30	Montana	SPIROMESIFEN	2014	kg					16					
+30	Montana	SPIROMESIFEN	2015	kg					16.1					
+31	Nebraska	SPIROMESIFEN	2006	kg	778.1									
+31	Nebraska	SPIROMESIFEN	2008	kg	8776.9				735.4					
+31	Nebraska	SPIROMESIFEN	2009	kg	30055.1									
+31	Nebraska	SPIROMESIFEN	2010	kg	25025.7				435.7					
+31	Nebraska	SPIROMESIFEN	2011	kg	88563.5				429.5					
+31	Nebraska	SPIROMESIFEN	2012	kg	6684.9				1537.4					
+31	Nebraska	SPIROMESIFEN	2013	kg	17810.3				2492.1					
+31	Nebraska	SPIROMESIFEN	2014	kg	24406.3									
+31	Nebraska	SPIROMESIFEN	2015	kg	29876.1				60.7					
+31	Nebraska	SPIROMESIFEN	2016	kg	22164.1				198.5					
+31	Nebraska	SPIROMESIFEN	2017	kg	26492.3									
+32	Nevada	SPIROMESIFEN	2005	kg	2									
+32	Nevada	SPIROMESIFEN	2006	kg	7.9									
+32	Nevada	SPIROMESIFEN	2007	kg					9.2					
+32	Nevada	SPIROMESIFEN	2008	kg	11.9				454.8					
+32	Nevada	SPIROMESIFEN	2009	kg	77.8				162.5					
+32	Nevada	SPIROMESIFEN	2010	kg					200.7					
+32	Nevada	SPIROMESIFEN	2011	kg	446.7				174.7					
+32	Nevada	SPIROMESIFEN	2012	kg	160.8				138					
+32	Nevada	SPIROMESIFEN	2013	kg	18				37.9					
+32	Nevada	SPIROMESIFEN	2014	kg	198.3				33.7					
+32	Nevada	SPIROMESIFEN	2015	kg	89.8				13.6					
+32	Nevada	SPIROMESIFEN	2016	kg	466.8				5.2					
+32	Nevada	SPIROMESIFEN	2017	kg	37.8				0					
+34	New Jersey	SPIROMESIFEN	2006	kg					60.1					
+34	New Jersey	SPIROMESIFEN	2012	kg					2					
+34	New Jersey	SPIROMESIFEN	2016	kg					38.5					
+35	New Mexico	SPIROMESIFEN	2005	kg					6.4					
+35	New Mexico	SPIROMESIFEN	2006	kg	178.7				16.8					
+35	New Mexico	SPIROMESIFEN	2007	kg	208.9				9					
+35	New Mexico	SPIROMESIFEN	2008	kg	1798.8				154.8					
+35	New Mexico	SPIROMESIFEN	2009	kg	3833.4			0.5	50.4					
+35	New Mexico	SPIROMESIFEN	2010	kg	393.7				288.1					
+35	New Mexico	SPIROMESIFEN	2011	kg	7713.2				530.7					
+35	New Mexico	SPIROMESIFEN	2012	kg	2220.6				595					
+35	New Mexico	SPIROMESIFEN	2013	kg	274				388.1					
+35	New Mexico	SPIROMESIFEN	2014	kg	1646.8									
+35	New Mexico	SPIROMESIFEN	2015	kg	392.6				1.3					
+35	New Mexico	SPIROMESIFEN	2016	kg	329.9									
+35	New Mexico	SPIROMESIFEN	2017	kg	290.6			4.6	1.1					
+37	North Carolina	SPIROMESIFEN	2008	kg					128.2					
+37	North Carolina	SPIROMESIFEN	2009	kg					16.3					
+37	North Carolina	SPIROMESIFEN	2011	kg					137.4					
+40	Oklahoma	SPIROMESIFEN	2005	kg				1.3						
+40	Oklahoma	SPIROMESIFEN	2006	kg	171			146.2						
+40	Oklahoma	SPIROMESIFEN	2007	kg	74.4									
+40	Oklahoma	SPIROMESIFEN	2008	kg	566.7				1.5					
+40	Oklahoma	SPIROMESIFEN	2009	kg	1272.7									
+40	Oklahoma	SPIROMESIFEN	2010	kg	903.2			2123.6	3.7					
+40	Oklahoma	SPIROMESIFEN	2011	kg	1785.3				7.9					
+40	Oklahoma	SPIROMESIFEN	2012	kg	627.2				9.5					
+40	Oklahoma	SPIROMESIFEN	2013	kg	917.6			160.1	19.4					
+40	Oklahoma	SPIROMESIFEN	2014	kg	385.3			744.3						
+40	Oklahoma	SPIROMESIFEN	2015	kg	1738.3			25.4						
+40	Oklahoma	SPIROMESIFEN	2016	kg	402			1785.6						
+40	Oklahoma	SPIROMESIFEN	2017	kg	446									
+41	Oregon	SPIROMESIFEN	2005	kg	15									
+41	Oregon	SPIROMESIFEN	2006	kg	54.2				1610.5					
+41	Oregon	SPIROMESIFEN	2007	kg					765.8					
+41	Oregon	SPIROMESIFEN	2008	kg	47				3650.2		25			
+41	Oregon	SPIROMESIFEN	2009	kg	293.4				1137.6					
+41	Oregon	SPIROMESIFEN	2010	kg					1908.4					
+41	Oregon	SPIROMESIFEN	2011	kg	2400.2				729.8					
+41	Oregon	SPIROMESIFEN	2012	kg	549.4				1382.1					
+41	Oregon	SPIROMESIFEN	2013	kg	53				546.7					
+41	Oregon	SPIROMESIFEN	2014	kg	482.8				479.9					
+41	Oregon	SPIROMESIFEN	2015	kg	177.9				467.4					
+41	Oregon	SPIROMESIFEN	2016	kg	314.9				899					
+41	Oregon	SPIROMESIFEN	2017	kg	794.6				599.5					
+42	Pennsylvania	SPIROMESIFEN	2006	kg					2.8					
+42	Pennsylvania	SPIROMESIFEN	2012	kg					4.5					
+42	Pennsylvania	SPIROMESIFEN	2016	kg					52.6					
+45	South Carolina	SPIROMESIFEN	2011	kg					13.1					
+46	South Dakota	SPIROMESIFEN	2011	kg					0					
+47	Tennessee	SPIROMESIFEN	2006	kg				26.1						
+47	Tennessee	SPIROMESIFEN	2007	kg				75.7						
+48	Texas	SPIROMESIFEN	2005	kg				154						
+48	Texas	SPIROMESIFEN	2006	kg	213.1			127.6	25.5					
+48	Texas	SPIROMESIFEN	2007	kg	139.5									
+48	Texas	SPIROMESIFEN	2008	kg	6953			871.8	284.8					
+48	Texas	SPIROMESIFEN	2009	kg	11378.6			3444.3	266.2					
+48	Texas	SPIROMESIFEN	2010	kg	9858.8			46794.7	1017.2					
+48	Texas	SPIROMESIFEN	2011	kg	14546.7			4650.9	1905.2					
+48	Texas	SPIROMESIFEN	2012	kg	45562.4			2625.1	1166.8					
+48	Texas	SPIROMESIFEN	2013	kg	41828.1			4423.3	1337.7					
+48	Texas	SPIROMESIFEN	2014	kg	13915.2			8361.1	14					
+48	Texas	SPIROMESIFEN	2015	kg	2063.2			3254.6	2.9					
+48	Texas	SPIROMESIFEN	2016	kg	3423.6			14287.2						
+48	Texas	SPIROMESIFEN	2017	kg	5546.9									
+49	Utah	SPIROMESIFEN	2008	kg	19.9									
+49	Utah	SPIROMESIFEN	2009	kg	115.6									
+49	Utah	SPIROMESIFEN	2011	kg	536.8									
+49	Utah	SPIROMESIFEN	2012	kg	29.7									
+49	Utah	SPIROMESIFEN	2013	kg	17.3									
+49	Utah	SPIROMESIFEN	2014	kg	159.2									
+49	Utah	SPIROMESIFEN	2015	kg	58.9									
+49	Utah	SPIROMESIFEN	2016	kg	105									
+49	Utah	SPIROMESIFEN	2017	kg	25.3									
+51	Virginia	SPIROMESIFEN	2008	kg					17.2					
+51	Virginia	SPIROMESIFEN	2009	kg					0.9					
+53	Washington	SPIROMESIFEN	2006	kg					9251.6					
+53	Washington	SPIROMESIFEN	2007	kg					4907.1					
+53	Washington	SPIROMESIFEN	2008	kg					16680.9		912.7			
+53	Washington	SPIROMESIFEN	2009	kg					3800.3					
+53	Washington	SPIROMESIFEN	2010	kg					5471					
+53	Washington	SPIROMESIFEN	2011	kg					10237.4					
+53	Washington	SPIROMESIFEN	2012	kg					4837.8					
+53	Washington	SPIROMESIFEN	2013	kg					8620.8					
+53	Washington	SPIROMESIFEN	2014	kg	796.4				11757.2					
+53	Washington	SPIROMESIFEN	2015	kg					4533.4					
+53	Washington	SPIROMESIFEN	2016	kg					5232.7					
+53	Washington	SPIROMESIFEN	2017	kg	12678.9				5612.8					
+55	Wisconsin	SPIROMESIFEN	2012	kg					16					
+56	Wyoming	SPIROMESIFEN	2006	kg	1.5									
+56	Wyoming	SPIROMESIFEN	2008	kg	17.1									
+56	Wyoming	SPIROMESIFEN	2009	kg	390.6									
+56	Wyoming	SPIROMESIFEN	2010	kg	470.9									
+56	Wyoming	SPIROMESIFEN	2011	kg	711.4				48					
+56	Wyoming	SPIROMESIFEN	2012	kg	2.3									
+56	Wyoming	SPIROMESIFEN	2013	kg	23.4				0					
+56	Wyoming	SPIROMESIFEN	2014	kg	18.1				0					
+56	Wyoming	SPIROMESIFEN	2015	kg	233.8				0					
+56	Wyoming	SPIROMESIFEN	2016	kg	567.2									
+56	Wyoming	SPIROMESIFEN	2017	kg	81									

@@ -1,0 +1,116 @@
+01	Alabama	TCMTB	2009	kg				14.7						
+01	Alabama	TCMTB	2010	kg				179.7						
+01	Alabama	TCMTB	2011	kg				172.1						
+01	Alabama	TCMTB	2012	kg				91.7						
+01	Alabama	TCMTB	2013	kg				78.2						
+01	Alabama	TCMTB	2014	kg				481.4						
+04	Arizona	TCMTB	2010	kg				30.9						
+04	Arizona	TCMTB	2012	kg				30.7						
+04	Arizona	TCMTB	2013	kg				12.7						
+04	Arizona	TCMTB	2014	kg				80						
+05	Arkansas	TCMTB	2009	kg				50.6						
+05	Arkansas	TCMTB	2010	kg				246.4						
+05	Arkansas	TCMTB	2011	kg				103.2						
+05	Arkansas	TCMTB	2012	kg				44.6						
+05	Arkansas	TCMTB	2013	kg				59.6						
+05	Arkansas	TCMTB	2014	kg				65.3						
+06	California	TCMTB	1992	kg							0			
+06	California	TCMTB	1994	kg				543.5						
+06	California	TCMTB	1995	kg				2455.3						109.6
+06	California	TCMTB	1997	kg				4423.4						82.5
+06	California	TCMTB	1999	kg							0.4			
+06	California	TCMTB	2000	kg	0.1									
+06	California	TCMTB	2008	kg				222.4						17.7
+06	California	TCMTB	2009	kg				1139						37.7
+06	California	TCMTB	2010	kg				1192.8						156.8
+06	California	TCMTB	2011	kg				1667.1						
+06	California	TCMTB	2012	kg				587.2						
+06	California	TCMTB	2013	kg				601.4						
+06	California	TCMTB	2014	kg				1045.8						
+06	California	TCMTB	2015	kg				647.9						21.7
+06	California	TCMTB	2016	kg				237.3						159.9
+06	California	TCMTB	2017	kg				2081						141
+12	Florida	TCMTB	2009	kg				13.6						
+12	Florida	TCMTB	2010	kg				27.5						
+12	Florida	TCMTB	2011	kg				36						
+12	Florida	TCMTB	2012	kg				60.6						
+12	Florida	TCMTB	2013	kg				34.9						
+12	Florida	TCMTB	2014	kg				25.1						
+13	Georgia	TCMTB	2009	kg				35.5						
+13	Georgia	TCMTB	2010	kg				152						
+13	Georgia	TCMTB	2011	kg				840.2						
+13	Georgia	TCMTB	2012	kg				298.2						
+13	Georgia	TCMTB	2013	kg				247.5						
+13	Georgia	TCMTB	2014	kg				762						
+20	Kansas	TCMTB	2007	kg				8						
+20	Kansas	TCMTB	2009	kg				13.2						
+20	Kansas	TCMTB	2010	kg				1						
+20	Kansas	TCMTB	2011	kg				3.4						
+20	Kansas	TCMTB	2012	kg				5.3						
+20	Kansas	TCMTB	2013	kg				0.7						
+20	Kansas	TCMTB	2014	kg				39.2						
+22	Louisiana	TCMTB	2009	kg				81.8						
+22	Louisiana	TCMTB	2010	kg				31.2						
+22	Louisiana	TCMTB	2011	kg				110.6						
+22	Louisiana	TCMTB	2012	kg				21.1						
+22	Louisiana	TCMTB	2013	kg				62.7						
+22	Louisiana	TCMTB	2014	kg				145.9						
+28	Mississippi	TCMTB	2009	kg				29						
+28	Mississippi	TCMTB	2010	kg				106.2						
+28	Mississippi	TCMTB	2011	kg				109.3						
+28	Mississippi	TCMTB	2012	kg				45.9						
+28	Mississippi	TCMTB	2013	kg				34.4						
+28	Mississippi	TCMTB	2014	kg				302.2						
+29	Missouri	TCMTB	2009	kg				9.6						
+29	Missouri	TCMTB	2010	kg				29.9						
+29	Missouri	TCMTB	2011	kg				16.3						
+29	Missouri	TCMTB	2012	kg				10.9						
+29	Missouri	TCMTB	2013	kg				36.5						
+29	Missouri	TCMTB	2014	kg				28.8						
+35	New Mexico	TCMTB	2007	kg				0.7						
+35	New Mexico	TCMTB	2008	kg				0						
+35	New Mexico	TCMTB	2009	kg				1.7						
+35	New Mexico	TCMTB	2010	kg				10.2						
+35	New Mexico	TCMTB	2011	kg				0.8						
+35	New Mexico	TCMTB	2012	kg				5.9						
+35	New Mexico	TCMTB	2013	kg				0.9						
+35	New Mexico	TCMTB	2014	kg				8.4						
+37	North Carolina	TCMTB	2009	kg				70.9						
+37	North Carolina	TCMTB	2010	kg				166						
+37	North Carolina	TCMTB	2011	kg				697.5						
+37	North Carolina	TCMTB	2012	kg				109						
+37	North Carolina	TCMTB	2013	kg				281.2						
+37	North Carolina	TCMTB	2014	kg				489.3						
+40	Oklahoma	TCMTB	2007	kg				3.8						
+40	Oklahoma	TCMTB	2009	kg				44.5						
+40	Oklahoma	TCMTB	2010	kg				10.9						
+40	Oklahoma	TCMTB	2011	kg				3.5						
+40	Oklahoma	TCMTB	2012	kg				8.8						
+40	Oklahoma	TCMTB	2013	kg				52.6						
+40	Oklahoma	TCMTB	2014	kg				79.1						
+45	South Carolina	TCMTB	2009	kg				6.7						
+45	South Carolina	TCMTB	2010	kg				30.2						
+45	South Carolina	TCMTB	2011	kg				88.2						
+45	South Carolina	TCMTB	2012	kg				98.4						
+45	South Carolina	TCMTB	2013	kg				312.8						
+45	South Carolina	TCMTB	2014	kg				452.4						
+47	Tennessee	TCMTB	2009	kg				86.1						
+47	Tennessee	TCMTB	2010	kg				295.4						
+47	Tennessee	TCMTB	2011	kg				87.6						
+47	Tennessee	TCMTB	2012	kg				103.9						
+47	Tennessee	TCMTB	2013	kg				76.1						
+47	Tennessee	TCMTB	2014	kg				269.8						
+48	Texas	TCMTB	2007	kg				202.3						
+48	Texas	TCMTB	2008	kg				21						
+48	Texas	TCMTB	2009	kg				314.4						
+48	Texas	TCMTB	2010	kg				283						
+48	Texas	TCMTB	2011	kg				501.4						
+48	Texas	TCMTB	2012	kg				730.4						
+48	Texas	TCMTB	2013	kg				383.8						
+48	Texas	TCMTB	2014	kg				1021.4						
+51	Virginia	TCMTB	2009	kg				9.4						
+51	Virginia	TCMTB	2010	kg				16						
+51	Virginia	TCMTB	2011	kg				90.1						
+51	Virginia	TCMTB	2012	kg				4.7						
+51	Virginia	TCMTB	2013	kg				22.1						
+51	Virginia	TCMTB	2014	kg				73.2						

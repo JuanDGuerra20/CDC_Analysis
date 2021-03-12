@@ -1,0 +1,265 @@
+01	Alabama	BIFENAZATE	2005	kg							60.6			
+01	Alabama	BIFENAZATE	2006	kg							86.7			
+01	Alabama	BIFENAZATE	2007	kg							161.3			
+01	Alabama	BIFENAZATE	2008	kg					81.2		218.9			
+01	Alabama	BIFENAZATE	2009	kg							78.5			
+01	Alabama	BIFENAZATE	2010	kg					5.7		143.9			
+01	Alabama	BIFENAZATE	2011	kg							28.4			
+04	Arizona	BIFENAZATE	2002	kg							94.3			
+04	Arizona	BIFENAZATE	2003	kg							127.7			
+04	Arizona	BIFENAZATE	2004	kg					244.9		102.4			
+04	Arizona	BIFENAZATE	2005	kg							132.5			
+04	Arizona	BIFENAZATE	2006	kg					53		56.2			
+04	Arizona	BIFENAZATE	2007	kg					34.6		203.1			
+04	Arizona	BIFENAZATE	2008	kg					346.2		15.7			
+04	Arizona	BIFENAZATE	2009	kg					98.1		11.9			
+04	Arizona	BIFENAZATE	2010	kg					260.4		19.1			
+04	Arizona	BIFENAZATE	2011	kg					4.9		28.2			
+04	Arizona	BIFENAZATE	2012	kg					3.9		16.1			
+04	Arizona	BIFENAZATE	2013	kg					4		55.3			
+04	Arizona	BIFENAZATE	2014	kg					2		19.2			
+04	Arizona	BIFENAZATE	2015	kg					4.2		49.1			
+04	Arizona	BIFENAZATE	2016	kg					1.5		33.6			
+04	Arizona	BIFENAZATE	2017	kg					3.2		51.6			
+05	Arkansas	BIFENAZATE	2014	kg		6948.3								
+06	California	BIFENAZATE	2000	kg							1			
+06	California	BIFENAZATE	2001	kg							45.1			
+06	California	BIFENAZATE	2002	kg					2382.4		10974.5			29.3
+06	California	BIFENAZATE	2003	kg					4622.3		14603.7			0.7
+06	California	BIFENAZATE	2004	kg				3.4	5145.8		23984.4			0.9
+06	California	BIFENAZATE	2005	kg				3417.7	3962.5		31916.7			1.1
+06	California	BIFENAZATE	2006	kg				87.4	4872.8		27370		0.3	0.3
+06	California	BIFENAZATE	2007	kg				29.7	5724.9		25399			
+06	California	BIFENAZATE	2008	kg				22.6	7595.6		24308.2			
+06	California	BIFENAZATE	2009	kg					8520.6		23383.8			
+06	California	BIFENAZATE	2010	kg					8810.8		20265.7			
+06	California	BIFENAZATE	2011	kg					11072.8		22137.2			
+06	California	BIFENAZATE	2012	kg					11698.1		33911.5			1.5
+06	California	BIFENAZATE	2013	kg					13801.1		55491.5			0.5
+06	California	BIFENAZATE	2014	kg				19.7	12894.6		35923.9			2.3
+06	California	BIFENAZATE	2015	kg	28.3			36.3	10702.1		46841.3			
+06	California	BIFENAZATE	2016	kg	54.9	3.6			9893.4		62497.2			
+06	California	BIFENAZATE	2017	kg				345.7	11369.4	7.3	90740.1			2.3
+08	Colorado	BIFENAZATE	2002	kg							19.5			
+08	Colorado	BIFENAZATE	2003	kg							78.8			
+08	Colorado	BIFENAZATE	2004	kg							187.3			
+08	Colorado	BIFENAZATE	2007	kg							536.3			
+09	Connecticut	BIFENAZATE	2002	kg							27.9			
+09	Connecticut	BIFENAZATE	2003	kg							105.3			
+09	Connecticut	BIFENAZATE	2004	kg							10.1			
+09	Connecticut	BIFENAZATE	2005	kg							16			
+10	Delaware	BIFENAZATE	2004	kg							0.6			
+10	Delaware	BIFENAZATE	2006	kg							0			
+10	Delaware	BIFENAZATE	2007	kg							0			
+10	Delaware	BIFENAZATE	2012	kg							0			
+10	Delaware	BIFENAZATE	2013	kg							0			
+12	Florida	BIFENAZATE	2002	kg							1350.9			
+12	Florida	BIFENAZATE	2003	kg					40.1		184.8			
+12	Florida	BIFENAZATE	2004	kg							1173.1			
+12	Florida	BIFENAZATE	2005	kg							84.3			
+12	Florida	BIFENAZATE	2006	kg					158.3		66.4			
+12	Florida	BIFENAZATE	2007	kg					3143.6		6248.8			
+12	Florida	BIFENAZATE	2008	kg					2718.9		1114.8			
+12	Florida	BIFENAZATE	2009	kg					5982.2		56.9			
+12	Florida	BIFENAZATE	2010	kg					4516.7		122.8			
+12	Florida	BIFENAZATE	2011	kg					2389.1		25.4			
+12	Florida	BIFENAZATE	2012	kg					5244.4					
+12	Florida	BIFENAZATE	2013	kg					3312.1					
+12	Florida	BIFENAZATE	2014	kg					3496					
+12	Florida	BIFENAZATE	2015	kg					2319.9					
+12	Florida	BIFENAZATE	2016	kg					2023.6					
+12	Florida	BIFENAZATE	2017	kg				1375.7	3714					
+13	Georgia	BIFENAZATE	2003	kg							8209.6			
+13	Georgia	BIFENAZATE	2004	kg							111.6			
+13	Georgia	BIFENAZATE	2005	kg							919.9			
+13	Georgia	BIFENAZATE	2006	kg							1295.5			
+13	Georgia	BIFENAZATE	2007	kg							2372			
+13	Georgia	BIFENAZATE	2008	kg					1.4		3482.8			
+13	Georgia	BIFENAZATE	2009	kg							1333.2			
+13	Georgia	BIFENAZATE	2010	kg							4314.6			
+13	Georgia	BIFENAZATE	2011	kg							2255.6			
+13	Georgia	BIFENAZATE	2012	kg					0.2		1019.5			
+13	Georgia	BIFENAZATE	2014	kg					1057.6					
+13	Georgia	BIFENAZATE	2015	kg					50.9					
+13	Georgia	BIFENAZATE	2017	kg				15198.6	64.3					
+16	Idaho	BIFENAZATE	2003	kg							76.3			
+16	Idaho	BIFENAZATE	2004	kg							130.4			
+16	Idaho	BIFENAZATE	2005	kg							15.2			
+16	Idaho	BIFENAZATE	2006	kg							74.7			
+16	Idaho	BIFENAZATE	2007	kg							13.6			
+16	Idaho	BIFENAZATE	2008	kg							86.7			
+16	Idaho	BIFENAZATE	2009	kg					3047.5		55.2			
+16	Idaho	BIFENAZATE	2010	kg					3655.8		54.7			
+16	Idaho	BIFENAZATE	2011	kg					1348.9		30.3			
+16	Idaho	BIFENAZATE	2012	kg					119.8		44			
+16	Idaho	BIFENAZATE	2013	kg							97.8			
+16	Idaho	BIFENAZATE	2014	kg					688.7		38.4			
+16	Idaho	BIFENAZATE	2015	kg							56.1			
+16	Idaho	BIFENAZATE	2016	kg							8.1			
+16	Idaho	BIFENAZATE	2017	kg							26.4			
+17	Illinois	BIFENAZATE	2003	kg							31.2			
+17	Illinois	BIFENAZATE	2012	kg					59.7					
+18	Indiana	BIFENAZATE	2003	kg							103.8			
+18	Indiana	BIFENAZATE	2004	kg							1.6			
+18	Indiana	BIFENAZATE	2007	kg							1.4			
+19	Iowa	BIFENAZATE	2003	kg							6.7			
+21	Kentucky	BIFENAZATE	2008	kg					39.8					
+22	Louisiana	BIFENAZATE	2014	kg		13397.1								
+24	Maryland	BIFENAZATE	2003	kg							6.9			
+24	Maryland	BIFENAZATE	2004	kg							2			
+24	Maryland	BIFENAZATE	2005	kg							1.3			
+24	Maryland	BIFENAZATE	2006	kg							3.6			
+24	Maryland	BIFENAZATE	2010	kg							5.9			
+24	Maryland	BIFENAZATE	2012	kg							238			
+24	Maryland	BIFENAZATE	2013	kg							26.2			
+24	Maryland	BIFENAZATE	2015	kg							29			
+25	Massachusetts	BIFENAZATE	2002	kg							61.1			
+25	Massachusetts	BIFENAZATE	2003	kg							220.5			
+25	Massachusetts	BIFENAZATE	2004	kg							18.8			
+25	Massachusetts	BIFENAZATE	2005	kg							29.1			
+26	Michigan	BIFENAZATE	2003	kg							511.1			
+26	Michigan	BIFENAZATE	2004	kg							84			
+26	Michigan	BIFENAZATE	2006	kg					139.6					
+26	Michigan	BIFENAZATE	2007	kg							76.5			
+26	Michigan	BIFENAZATE	2009	kg							89.2			
+27	Minnesota	BIFENAZATE	2003	kg							52.3			
+27	Minnesota	BIFENAZATE	2007	kg										55.5
+27	Minnesota	BIFENAZATE	2009	kg					102.7					
+28	Mississippi	BIFENAZATE	2010	kg					2.9					
+28	Mississippi	BIFENAZATE	2014	kg		10901.2								
+29	Missouri	BIFENAZATE	2012	kg					203.1					
+31	Nebraska	BIFENAZATE	2009	kg					6711.6					
+32	Nevada	BIFENAZATE	2002	kg							14.2			
+32	Nevada	BIFENAZATE	2003	kg							9.7			
+32	Nevada	BIFENAZATE	2004	kg							9.5			
+32	Nevada	BIFENAZATE	2005	kg							1.2			
+32	Nevada	BIFENAZATE	2006	kg							0.1			
+32	Nevada	BIFENAZATE	2007	kg					2.7		10.4			
+32	Nevada	BIFENAZATE	2008	kg					1.8		0.5			
+32	Nevada	BIFENAZATE	2009	kg					3.7		1.5			
+32	Nevada	BIFENAZATE	2010	kg					11.9		16			
+32	Nevada	BIFENAZATE	2011	kg					1.1		2.2			
+32	Nevada	BIFENAZATE	2012	kg					1.1		0.5			
+32	Nevada	BIFENAZATE	2013	kg					0.8		13			
+32	Nevada	BIFENAZATE	2014	kg					0.4		0.4			
+32	Nevada	BIFENAZATE	2015	kg					1.1		5			
+32	Nevada	BIFENAZATE	2016	kg					0.6		0.8			
+32	Nevada	BIFENAZATE	2017	kg					1.5		0.1			
+33	New Hampshire	BIFENAZATE	2002	kg							29.2			
+33	New Hampshire	BIFENAZATE	2003	kg							106.5			
+33	New Hampshire	BIFENAZATE	2005	kg							19.1			
+34	New Jersey	BIFENAZATE	2003	kg							159			
+34	New Jersey	BIFENAZATE	2004	kg							800.9			
+34	New Jersey	BIFENAZATE	2005	kg							66.6			
+34	New Jersey	BIFENAZATE	2006	kg							188.4			
+34	New Jersey	BIFENAZATE	2007	kg							286.3			
+34	New Jersey	BIFENAZATE	2009	kg							77.2			
+34	New Jersey	BIFENAZATE	2010	kg							3.1			
+34	New Jersey	BIFENAZATE	2012	kg							368.6			
+34	New Jersey	BIFENAZATE	2013	kg							146.2			
+35	New Mexico	BIFENAZATE	2002	kg							1			
+35	New Mexico	BIFENAZATE	2003	kg							4.5			
+35	New Mexico	BIFENAZATE	2004	kg							10.7			
+35	New Mexico	BIFENAZATE	2007	kg							30.4			
+36	New York	BIFENAZATE	2002	kg							164			
+36	New York	BIFENAZATE	2003	kg							1460.4			
+36	New York	BIFENAZATE	2004	kg							77.3			
+36	New York	BIFENAZATE	2005	kg							685.8			
+36	New York	BIFENAZATE	2006	kg							994.1			
+36	New York	BIFENAZATE	2009	kg							1113.9			
+36	New York	BIFENAZATE	2010	kg							29.3			
+36	New York	BIFENAZATE	2012	kg					66.7					
+37	North Carolina	BIFENAZATE	2004	kg							2131.3			
+37	North Carolina	BIFENAZATE	2005	kg							370.9			
+37	North Carolina	BIFENAZATE	2010	kg							44.3			
+37	North Carolina	BIFENAZATE	2011	kg							42.6			
+37	North Carolina	BIFENAZATE	2012	kg					25.7		2356.9			
+37	North Carolina	BIFENAZATE	2014	kg					22.3					
+37	North Carolina	BIFENAZATE	2015	kg					342.1		714.1			
+37	North Carolina	BIFENAZATE	2017	kg					425.7					
+38	North Dakota	BIFENAZATE	2007	kg										38.4
+39	Ohio	BIFENAZATE	2003	kg							165.8			
+39	Ohio	BIFENAZATE	2005	kg							18.6			
+39	Ohio	BIFENAZATE	2006	kg					51.5					
+39	Ohio	BIFENAZATE	2009	kg							24.8			
+39	Ohio	BIFENAZATE	2013	kg							32.8			
+39	Ohio	BIFENAZATE	2014	kg							110.2			
+41	Oregon	BIFENAZATE	2002	kg					10.4		549.7			
+41	Oregon	BIFENAZATE	2003	kg					5.5		650.8			
+41	Oregon	BIFENAZATE	2004	kg							336.1			
+41	Oregon	BIFENAZATE	2005	kg							729.1			
+41	Oregon	BIFENAZATE	2006	kg							468			
+41	Oregon	BIFENAZATE	2007	kg							765.2			
+41	Oregon	BIFENAZATE	2008	kg					593.4		1373.4			
+41	Oregon	BIFENAZATE	2009	kg					3491.9		2258.1			
+41	Oregon	BIFENAZATE	2010	kg					5266.7		2565.4			
+41	Oregon	BIFENAZATE	2011	kg					5100.1		1337.9			
+41	Oregon	BIFENAZATE	2012	kg					606.5		409.3			
+41	Oregon	BIFENAZATE	2013	kg					73.7		3011.4			
+41	Oregon	BIFENAZATE	2014	kg					489.7		1013.1			
+41	Oregon	BIFENAZATE	2015	kg							1140			
+41	Oregon	BIFENAZATE	2016	kg							129.6			
+41	Oregon	BIFENAZATE	2017	kg							377.2			
+42	Pennsylvania	BIFENAZATE	2003	kg							234			
+42	Pennsylvania	BIFENAZATE	2004	kg							146.2			
+42	Pennsylvania	BIFENAZATE	2005	kg							39.5			
+42	Pennsylvania	BIFENAZATE	2006	kg							51.4			
+42	Pennsylvania	BIFENAZATE	2007	kg							40.2			
+42	Pennsylvania	BIFENAZATE	2009	kg							50.2			
+42	Pennsylvania	BIFENAZATE	2010	kg							67.4			
+42	Pennsylvania	BIFENAZATE	2012	kg							2453.2			
+42	Pennsylvania	BIFENAZATE	2013	kg							230.5			
+42	Pennsylvania	BIFENAZATE	2014	kg							325.2			
+44	Rhode Island	BIFENAZATE	2002	kg							4			
+44	Rhode Island	BIFENAZATE	2003	kg							15.5			
+44	Rhode Island	BIFENAZATE	2005	kg							3.2			
+45	South Carolina	BIFENAZATE	2003	kg							152.6			
+45	South Carolina	BIFENAZATE	2008	kg							681.6			
+45	South Carolina	BIFENAZATE	2010	kg							877.3			
+45	South Carolina	BIFENAZATE	2012	kg					4.9					
+45	South Carolina	BIFENAZATE	2014	kg					9.9					
+45	South Carolina	BIFENAZATE	2015	kg					19.7					
+45	South Carolina	BIFENAZATE	2017	kg					10.5					
+46	South Dakota	BIFENAZATE	2009	kg					33.6					
+47	Tennessee	BIFENAZATE	2004	kg							189			
+47	Tennessee	BIFENAZATE	2005	kg							32.1			
+47	Tennessee	BIFENAZATE	2008	kg					422.9					
+47	Tennessee	BIFENAZATE	2010	kg							17.7			
+47	Tennessee	BIFENAZATE	2011	kg							14.9			
+47	Tennessee	BIFENAZATE	2012	kg					0.9		126.7			
+47	Tennessee	BIFENAZATE	2015	kg					32.6		28.9			
+47	Tennessee	BIFENAZATE	2017	kg					10.2					
+48	Texas	BIFENAZATE	2005	kg							4.8			
+48	Texas	BIFENAZATE	2012	kg							55.7			
+49	Utah	BIFENAZATE	2002	kg							24.6			
+49	Utah	BIFENAZATE	2003	kg							1.2			
+49	Utah	BIFENAZATE	2004	kg							83.2			
+49	Utah	BIFENAZATE	2007	kg							6.1			
+50	Vermont	BIFENAZATE	2002	kg							39.9			
+50	Vermont	BIFENAZATE	2003	kg							149.3			
+50	Vermont	BIFENAZATE	2005	kg							28.6			
+51	Virginia	BIFENAZATE	2004	kg							514.5			
+51	Virginia	BIFENAZATE	2005	kg							91.9			
+51	Virginia	BIFENAZATE	2012	kg							522			
+51	Virginia	BIFENAZATE	2014	kg					1.9					
+51	Virginia	BIFENAZATE	2015	kg					11.9		393.1			
+53	Washington	BIFENAZATE	2002	kg					6.1		1535.1			
+53	Washington	BIFENAZATE	2003	kg					4.8		1457.8			
+53	Washington	BIFENAZATE	2004	kg							1636.5			
+53	Washington	BIFENAZATE	2005	kg							1153.1			
+53	Washington	BIFENAZATE	2006	kg							4509			
+53	Washington	BIFENAZATE	2007	kg							1219.6			
+53	Washington	BIFENAZATE	2008	kg					13148.5		5887.8			
+53	Washington	BIFENAZATE	2009	kg					14884.7		4144			
+53	Washington	BIFENAZATE	2010	kg					50273.3		2565.3			
+53	Washington	BIFENAZATE	2011	kg					11474.2		2504.7			
+53	Washington	BIFENAZATE	2012	kg					12884.2		3726.3			
+53	Washington	BIFENAZATE	2013	kg					8093.5		6441.3			
+53	Washington	BIFENAZATE	2014	kg					3044.8		4048.4			
+53	Washington	BIFENAZATE	2015	kg					1065		7915.6			
+53	Washington	BIFENAZATE	2016	kg					8269.3		2312.8			
+53	Washington	BIFENAZATE	2017	kg					3934.1		22334.2			
+54	West Virginia	BIFENAZATE	2013	kg							8.6			
+54	West Virginia	BIFENAZATE	2014	kg							31.7			
+55	Wisconsin	BIFENAZATE	2003	kg							218			
+55	Wisconsin	BIFENAZATE	2009	kg					2112.9					

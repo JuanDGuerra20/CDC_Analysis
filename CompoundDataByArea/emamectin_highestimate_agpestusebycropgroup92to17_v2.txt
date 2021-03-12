@@ -1,0 +1,292 @@
+01	Alabama	EMAMECTIN	2014	kg										33
+04	Arizona	EMAMECTIN	2001	kg					6.8					
+04	Arizona	EMAMECTIN	2002	kg					19.5					
+04	Arizona	EMAMECTIN	2003	kg					159.9					
+04	Arizona	EMAMECTIN	2004	kg					63.2					
+04	Arizona	EMAMECTIN	2005	kg					26.7					
+04	Arizona	EMAMECTIN	2006	kg					177.6					
+04	Arizona	EMAMECTIN	2007	kg					117.9					
+04	Arizona	EMAMECTIN	2008	kg					97					
+04	Arizona	EMAMECTIN	2009	kg					96					
+04	Arizona	EMAMECTIN	2010	kg					40.8					
+04	Arizona	EMAMECTIN	2011	kg					94.9					
+04	Arizona	EMAMECTIN	2012	kg					8.6					
+04	Arizona	EMAMECTIN	2013	kg					153.3					
+04	Arizona	EMAMECTIN	2014	kg					181.1					
+04	Arizona	EMAMECTIN	2015	kg					147.2					
+04	Arizona	EMAMECTIN	2016	kg					251					
+04	Arizona	EMAMECTIN	2017	kg					127.6					
+05	Arkansas	EMAMECTIN	2000	kg				301.5						
+05	Arkansas	EMAMECTIN	2001	kg				487.6						
+05	Arkansas	EMAMECTIN	2002	kg				70.9						
+05	Arkansas	EMAMECTIN	2003	kg				302.8						
+05	Arkansas	EMAMECTIN	2005	kg				17.3						
+05	Arkansas	EMAMECTIN	2006	kg				33						
+05	Arkansas	EMAMECTIN	2007	kg				4.4						
+05	Arkansas	EMAMECTIN	2008	kg				155.3						
+06	California	EMAMECTIN	2000	kg					17.6					
+06	California	EMAMECTIN	2001	kg					1333.5					
+06	California	EMAMECTIN	2002	kg					264.6					
+06	California	EMAMECTIN	2003	kg					290.8					
+06	California	EMAMECTIN	2004	kg					523.7					
+06	California	EMAMECTIN	2005	kg					611.7					
+06	California	EMAMECTIN	2006	kg				228.9	705.7					
+06	California	EMAMECTIN	2007	kg	1.2			92.6	739.8		15.7			
+06	California	EMAMECTIN	2008	kg				111.1	581.4		0.2			2.5
+06	California	EMAMECTIN	2009	kg				5.4	450.9		0.7			2.2
+06	California	EMAMECTIN	2010	kg				35.7	434.5		39.4			1.7
+06	California	EMAMECTIN	2011	kg				110.6	320		258.2			2
+06	California	EMAMECTIN	2012	kg				62.4	486.3		315.8			1.8
+06	California	EMAMECTIN	2013	kg				42	473.8		290.6			0.8
+06	California	EMAMECTIN	2014	kg				13.8	619.2		290.2			0.4
+06	California	EMAMECTIN	2015	kg				6.3	431.4		338.7			0.5
+06	California	EMAMECTIN	2016	kg	0.5			0.5	430.8		259.7			1.2
+06	California	EMAMECTIN	2017	kg	1.2				466.9		311.4			1.5
+09	Connecticut	EMAMECTIN	2008	kg							3.7			
+09	Connecticut	EMAMECTIN	2009	kg							6			
+09	Connecticut	EMAMECTIN	2010	kg							7.2			
+09	Connecticut	EMAMECTIN	2011	kg							2.5			
+09	Connecticut	EMAMECTIN	2015	kg							3.6			
+09	Connecticut	EMAMECTIN	2016	kg							0.2			
+09	Connecticut	EMAMECTIN	2017	kg							1.6			
+12	Florida	EMAMECTIN	2001	kg					41.5					
+12	Florida	EMAMECTIN	2003	kg					23.9					
+12	Florida	EMAMECTIN	2005	kg					36.9					
+12	Florida	EMAMECTIN	2006	kg					17.7					
+12	Florida	EMAMECTIN	2007	kg				8.1						
+12	Florida	EMAMECTIN	2008	kg					40.5					
+12	Florida	EMAMECTIN	2011	kg					10.3					0.3
+12	Florida	EMAMECTIN	2012	kg					131.9					
+12	Florida	EMAMECTIN	2013	kg					98.6					0.1
+12	Florida	EMAMECTIN	2014	kg										16.5
+13	Georgia	EMAMECTIN	2006	kg					9.6					
+13	Georgia	EMAMECTIN	2007	kg				88						
+13	Georgia	EMAMECTIN	2008	kg					70.9					
+13	Georgia	EMAMECTIN	2011	kg										52.3
+13	Georgia	EMAMECTIN	2012	kg										4.8
+13	Georgia	EMAMECTIN	2013	kg										31.6
+13	Georgia	EMAMECTIN	2014	kg										84.3
+13	Georgia	EMAMECTIN	2016	kg										0
+16	Idaho	EMAMECTIN	2006	kg							5.5			
+16	Idaho	EMAMECTIN	2007	kg							0			
+16	Idaho	EMAMECTIN	2008	kg							2.1			
+16	Idaho	EMAMECTIN	2009	kg							0.3			
+16	Idaho	EMAMECTIN	2010	kg							2.9			
+16	Idaho	EMAMECTIN	2011	kg							1.3			
+16	Idaho	EMAMECTIN	2012	kg							0.7			
+16	Idaho	EMAMECTIN	2013	kg							2.9			
+16	Idaho	EMAMECTIN	2014	kg							0.8			
+16	Idaho	EMAMECTIN	2015	kg							2			
+16	Idaho	EMAMECTIN	2016	kg							0.2			
+16	Idaho	EMAMECTIN	2017	kg							0			
+17	Illinois	EMAMECTIN	2006	kg					0					
+17	Illinois	EMAMECTIN	2009	kg										0
+17	Illinois	EMAMECTIN	2010	kg										0.2
+17	Illinois	EMAMECTIN	2011	kg										0.9
+17	Illinois	EMAMECTIN	2012	kg					0					0
+17	Illinois	EMAMECTIN	2013	kg										0
+17	Illinois	EMAMECTIN	2014	kg										0
+17	Illinois	EMAMECTIN	2016	kg										0
+18	Indiana	EMAMECTIN	2005	kg										0
+18	Indiana	EMAMECTIN	2006	kg							0.1			0
+18	Indiana	EMAMECTIN	2007	kg							0			0
+18	Indiana	EMAMECTIN	2008	kg							0.3			
+18	Indiana	EMAMECTIN	2009	kg							0			0
+18	Indiana	EMAMECTIN	2010	kg										0.5
+18	Indiana	EMAMECTIN	2011	kg							3.2			0.1
+18	Indiana	EMAMECTIN	2012	kg							0.2			0.3
+18	Indiana	EMAMECTIN	2013	kg										0.2
+18	Indiana	EMAMECTIN	2014	kg										0
+18	Indiana	EMAMECTIN	2015	kg							0.4			
+18	Indiana	EMAMECTIN	2016	kg										0
+21	Kentucky	EMAMECTIN	2005	kg										1.5
+21	Kentucky	EMAMECTIN	2006	kg										5.8
+21	Kentucky	EMAMECTIN	2007	kg										0.1
+21	Kentucky	EMAMECTIN	2009	kg										1.5
+21	Kentucky	EMAMECTIN	2010	kg										35.2
+21	Kentucky	EMAMECTIN	2011	kg										34
+21	Kentucky	EMAMECTIN	2012	kg										25.4
+21	Kentucky	EMAMECTIN	2013	kg										18.8
+21	Kentucky	EMAMECTIN	2014	kg										8.2
+21	Kentucky	EMAMECTIN	2016	kg										10.8
+22	Louisiana	EMAMECTIN	2000	kg				1338						
+22	Louisiana	EMAMECTIN	2001	kg				57.9						
+22	Louisiana	EMAMECTIN	2002	kg				17.2						
+22	Louisiana	EMAMECTIN	2005	kg				78.1						
+22	Louisiana	EMAMECTIN	2006	kg				46.5						
+22	Louisiana	EMAMECTIN	2008	kg				25.4						
+24	Maryland	EMAMECTIN	2007	kg							0.2			
+24	Maryland	EMAMECTIN	2008	kg							2.9			
+24	Maryland	EMAMECTIN	2009	kg							4.8			
+24	Maryland	EMAMECTIN	2010	kg							5.8			
+24	Maryland	EMAMECTIN	2011	kg							1.6			
+24	Maryland	EMAMECTIN	2015	kg							2.4			
+24	Maryland	EMAMECTIN	2016	kg							0.2			
+24	Maryland	EMAMECTIN	2017	kg							0.5			
+25	Massachusetts	EMAMECTIN	2007	kg							8.5			
+25	Massachusetts	EMAMECTIN	2008	kg							6.9			
+25	Massachusetts	EMAMECTIN	2009	kg							6.3			
+25	Massachusetts	EMAMECTIN	2010	kg							12			
+25	Massachusetts	EMAMECTIN	2011	kg							4			
+25	Massachusetts	EMAMECTIN	2015	kg							6.1			
+25	Massachusetts	EMAMECTIN	2016	kg							0.3			
+25	Massachusetts	EMAMECTIN	2017	kg							3			
+26	Michigan	EMAMECTIN	2006	kg							9.6			
+26	Michigan	EMAMECTIN	2007	kg							47.4			
+26	Michigan	EMAMECTIN	2008	kg							36.7			
+26	Michigan	EMAMECTIN	2009	kg							6.8			
+26	Michigan	EMAMECTIN	2010	kg							6.1			
+26	Michigan	EMAMECTIN	2011	kg							196.4			
+26	Michigan	EMAMECTIN	2012	kg							80.5			
+26	Michigan	EMAMECTIN	2013	kg							29.5			
+26	Michigan	EMAMECTIN	2015	kg							75.4			
+28	Mississippi	EMAMECTIN	2000	kg				164.4						
+28	Mississippi	EMAMECTIN	2001	kg				610.9						
+28	Mississippi	EMAMECTIN	2002	kg				54						
+28	Mississippi	EMAMECTIN	2003	kg				142.3						
+28	Mississippi	EMAMECTIN	2006	kg				39.6						
+28	Mississippi	EMAMECTIN	2008	kg				106.4						
+29	Missouri	EMAMECTIN	2000	kg				14.4						
+29	Missouri	EMAMECTIN	2002	kg				1.3						
+29	Missouri	EMAMECTIN	2006	kg				10.8						
+29	Missouri	EMAMECTIN	2007	kg				2.6						
+29	Missouri	EMAMECTIN	2008	kg				25.3						
+29	Missouri	EMAMECTIN	2010	kg										0
+29	Missouri	EMAMECTIN	2013	kg										0
+29	Missouri	EMAMECTIN	2014	kg										0
+32	Nevada	EMAMECTIN	2006	kg					0					
+32	Nevada	EMAMECTIN	2008	kg					0					
+32	Nevada	EMAMECTIN	2010	kg					0					
+32	Nevada	EMAMECTIN	2013	kg					0					
+32	Nevada	EMAMECTIN	2014	kg					0					
+32	Nevada	EMAMECTIN	2015	kg					0					
+32	Nevada	EMAMECTIN	2016	kg					0					
+32	Nevada	EMAMECTIN	2017	kg					0					
+34	New Jersey	EMAMECTIN	2008	kg							1.5			
+34	New Jersey	EMAMECTIN	2009	kg							2			
+34	New Jersey	EMAMECTIN	2010	kg							2.6			
+34	New Jersey	EMAMECTIN	2011	kg							0.8			
+34	New Jersey	EMAMECTIN	2015	kg							1.5			
+34	New Jersey	EMAMECTIN	2016	kg							0			
+34	New Jersey	EMAMECTIN	2017	kg							0.7			
+35	New Mexico	EMAMECTIN	2000	kg				11.9						
+35	New Mexico	EMAMECTIN	2001	kg				0.4						
+35	New Mexico	EMAMECTIN	2002	kg				0	0					
+35	New Mexico	EMAMECTIN	2004	kg				3.7	0.1					
+35	New Mexico	EMAMECTIN	2005	kg				4.7	0					
+35	New Mexico	EMAMECTIN	2006	kg					39.9					
+35	New Mexico	EMAMECTIN	2007	kg					65					
+35	New Mexico	EMAMECTIN	2008	kg					0					
+35	New Mexico	EMAMECTIN	2009	kg					0					
+35	New Mexico	EMAMECTIN	2010	kg					0					
+35	New Mexico	EMAMECTIN	2011	kg					0					
+35	New Mexico	EMAMECTIN	2012	kg					0					
+35	New Mexico	EMAMECTIN	2013	kg					0					
+35	New Mexico	EMAMECTIN	2014	kg					0					
+35	New Mexico	EMAMECTIN	2015	kg					0					
+35	New Mexico	EMAMECTIN	2016	kg					0					
+35	New Mexico	EMAMECTIN	2017	kg					0					
+36	New York	EMAMECTIN	2002	kg					1.4					
+36	New York	EMAMECTIN	2006	kg							33.3			
+36	New York	EMAMECTIN	2007	kg							119.6			
+36	New York	EMAMECTIN	2008	kg							303.2			
+36	New York	EMAMECTIN	2009	kg							120.1			
+36	New York	EMAMECTIN	2010	kg							139.3			
+36	New York	EMAMECTIN	2011	kg							43.4			
+36	New York	EMAMECTIN	2012	kg							23.2			
+36	New York	EMAMECTIN	2014	kg							18.2			
+36	New York	EMAMECTIN	2015	kg							66.8			
+36	New York	EMAMECTIN	2016	kg							20.6			
+36	New York	EMAMECTIN	2017	kg							13.1			
+37	North Carolina	EMAMECTIN	2001	kg					6.4					
+37	North Carolina	EMAMECTIN	2003	kg					4.1					
+37	North Carolina	EMAMECTIN	2004	kg				12.2						
+37	North Carolina	EMAMECTIN	2005	kg					12.7					
+37	North Carolina	EMAMECTIN	2006	kg				6.8	10.6					
+37	North Carolina	EMAMECTIN	2007	kg					16.5					
+37	North Carolina	EMAMECTIN	2008	kg					1.5					
+37	North Carolina	EMAMECTIN	2011	kg										3.4
+37	North Carolina	EMAMECTIN	2012	kg										1.1
+37	North Carolina	EMAMECTIN	2014	kg										0
+37	North Carolina	EMAMECTIN	2016	kg										0
+39	Ohio	EMAMECTIN	2008	kg							0			
+39	Ohio	EMAMECTIN	2011	kg							1.3			
+39	Ohio	EMAMECTIN	2013	kg										0.2
+39	Ohio	EMAMECTIN	2014	kg										0
+39	Ohio	EMAMECTIN	2016	kg										0
+40	Oklahoma	EMAMECTIN	2000	kg				4.4						
+40	Oklahoma	EMAMECTIN	2002	kg				38.4						
+40	Oklahoma	EMAMECTIN	2005	kg				15.9						
+41	Oregon	EMAMECTIN	2006	kg							11.4			
+41	Oregon	EMAMECTIN	2007	kg							7.7			
+41	Oregon	EMAMECTIN	2008	kg							40.5			
+41	Oregon	EMAMECTIN	2009	kg							7.5			
+41	Oregon	EMAMECTIN	2010	kg							3.8			
+41	Oregon	EMAMECTIN	2011	kg							2.3			
+41	Oregon	EMAMECTIN	2012	kg							0.5			
+41	Oregon	EMAMECTIN	2013	kg							7.7			
+41	Oregon	EMAMECTIN	2014	kg							3.3			
+41	Oregon	EMAMECTIN	2015	kg							13.5			
+41	Oregon	EMAMECTIN	2016	kg							3.8			
+41	Oregon	EMAMECTIN	2017	kg							1.7			
+42	Pennsylvania	EMAMECTIN	2007	kg							5.3			
+42	Pennsylvania	EMAMECTIN	2008	kg							34.4			
+42	Pennsylvania	EMAMECTIN	2009	kg							53.7			
+42	Pennsylvania	EMAMECTIN	2010	kg							68.2			
+42	Pennsylvania	EMAMECTIN	2011	kg							19.2			
+42	Pennsylvania	EMAMECTIN	2015	kg							34.3			
+42	Pennsylvania	EMAMECTIN	2016	kg							3.2			
+42	Pennsylvania	EMAMECTIN	2017	kg							8.3			
+45	South Carolina	EMAMECTIN	2001	kg					0.2					
+45	South Carolina	EMAMECTIN	2003	kg					0.2					
+45	South Carolina	EMAMECTIN	2004	kg				14.3						
+45	South Carolina	EMAMECTIN	2006	kg				9.8	0					
+47	Tennessee	EMAMECTIN	2000	kg				18.6						
+47	Tennessee	EMAMECTIN	2001	kg				187						
+47	Tennessee	EMAMECTIN	2002	kg				10.2						
+47	Tennessee	EMAMECTIN	2003	kg				54.6						
+47	Tennessee	EMAMECTIN	2005	kg										0.1
+47	Tennessee	EMAMECTIN	2006	kg				5						0.4
+47	Tennessee	EMAMECTIN	2007	kg				1.1						0.1
+47	Tennessee	EMAMECTIN	2008	kg				24.2						
+47	Tennessee	EMAMECTIN	2009	kg										0.6
+47	Tennessee	EMAMECTIN	2010	kg										7.2
+47	Tennessee	EMAMECTIN	2011	kg										52.9
+47	Tennessee	EMAMECTIN	2012	kg										18
+47	Tennessee	EMAMECTIN	2013	kg										2.3
+47	Tennessee	EMAMECTIN	2014	kg										2.1
+47	Tennessee	EMAMECTIN	2016	kg										1.5
+48	Texas	EMAMECTIN	2000	kg				1217						
+48	Texas	EMAMECTIN	2001	kg				56.3						
+48	Texas	EMAMECTIN	2002	kg				207.6						
+48	Texas	EMAMECTIN	2003	kg				71.5						
+48	Texas	EMAMECTIN	2004	kg				706.9						
+48	Texas	EMAMECTIN	2005	kg				448.7						
+48	Texas	EMAMECTIN	2006	kg				112.1	2.5					
+48	Texas	EMAMECTIN	2012	kg				73						
+50	Vermont	EMAMECTIN	2007	kg							6.3			
+50	Vermont	EMAMECTIN	2008	kg							4.5			
+50	Vermont	EMAMECTIN	2009	kg							4.4			
+50	Vermont	EMAMECTIN	2010	kg							8.1			
+50	Vermont	EMAMECTIN	2011	kg							2			
+50	Vermont	EMAMECTIN	2015	kg							5.3			
+50	Vermont	EMAMECTIN	2016	kg							0.2			
+50	Vermont	EMAMECTIN	2017	kg							0.9			
+51	Virginia	EMAMECTIN	2005	kg					0					
+51	Virginia	EMAMECTIN	2006	kg					0					
+51	Virginia	EMAMECTIN	2007	kg					0					
+51	Virginia	EMAMECTIN	2008	kg					0					
+53	Washington	EMAMECTIN	2006	kg							76.3			
+53	Washington	EMAMECTIN	2007	kg							79.9			
+53	Washington	EMAMECTIN	2008	kg							213.1			
+53	Washington	EMAMECTIN	2009	kg							40.5			
+53	Washington	EMAMECTIN	2010	kg							132.5			
+53	Washington	EMAMECTIN	2011	kg							109.1			
+53	Washington	EMAMECTIN	2012	kg							53.4			
+53	Washington	EMAMECTIN	2013	kg							202.4			
+53	Washington	EMAMECTIN	2014	kg							108.9			
+53	Washington	EMAMECTIN	2015	kg							272.6			
+53	Washington	EMAMECTIN	2016	kg							123.7			
+53	Washington	EMAMECTIN	2017	kg							28.3			
+55	Wisconsin	EMAMECTIN	2006	kg					1.4					
+55	Wisconsin	EMAMECTIN	2012	kg					7.7					

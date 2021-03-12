@@ -1,0 +1,49 @@
+01	Alabama	AMITROLE	1993	kg							148.7			
+01	Alabama	AMITROLE	1995	kg							12.5			
+04	Arizona	AMITROLE	1993	kg									71.7	
+05	Arkansas	AMITROLE	1992	kg	2.3									
+06	California	AMITROLE	1992	kg							2.5			2.8
+06	California	AMITROLE	1993	kg										0.5
+06	California	AMITROLE	1994	kg							12.2			2.3
+06	California	AMITROLE	1998	kg							0			
+06	California	AMITROLE	2001	kg					0.2					
+06	California	AMITROLE	2006	kg							0.5			
+06	California	AMITROLE	2007	kg							0			
+06	California	AMITROLE	2008	kg							0.5			
+06	California	AMITROLE	2016	kg						1				
+12	Florida	AMITROLE	1993	kg										177.7
+13	Georgia	AMITROLE	1993	kg							19			
+13	Georgia	AMITROLE	1995	kg							1.5			
+16	Idaho	AMITROLE	1992	kg									80.8	
+16	Idaho	AMITROLE	1993	kg									117	
+16	Idaho	AMITROLE	1995	kg									285.5	
+16	Idaho	AMITROLE	1997	kg									20.5	
+18	Indiana	AMITROLE	1995	kg							0			
+22	Louisiana	AMITROLE	1992	kg	155.4									
+26	Michigan	AMITROLE	1992	kg							401.6			
+26	Michigan	AMITROLE	1995	kg							29.7			
+28	Mississippi	AMITROLE	1992	kg	58.5									
+28	Mississippi	AMITROLE	1993	kg							0.7			
+28	Mississippi	AMITROLE	1995	kg							0			
+30	Montana	AMITROLE	1992	kg									93.7	
+32	Nevada	AMITROLE	1992	kg									10.9	
+32	Nevada	AMITROLE	1993	kg									157.7	
+32	Nevada	AMITROLE	1995	kg									36.7	
+32	Nevada	AMITROLE	1997	kg									2.4	
+36	New York	AMITROLE	1992	kg	154.5							9.9		
+38	North Dakota	AMITROLE	1992	kg									908.3	
+38	North Dakota	AMITROLE	1993	kg									1433.4	
+38	North Dakota	AMITROLE	1994	kg									13593.6	
+38	North Dakota	AMITROLE	1996	kg									358	
+38	North Dakota	AMITROLE	1997	kg									227.7	
+39	Ohio	AMITROLE	1992	kg								13.8		
+41	Oregon	AMITROLE	1993	kg									465.1	
+41	Oregon	AMITROLE	1994	kg									1127.9	
+42	Pennsylvania	AMITROLE	1992	kg								30.1		
+48	Texas	AMITROLE	1994	kg										632.3
+49	Utah	AMITROLE	1992	kg									10.9	
+49	Utah	AMITROLE	1993	kg									790.8	
+49	Utah	AMITROLE	1995	kg									53.9	
+49	Utah	AMITROLE	1997	kg									4.2	
+53	Washington	AMITROLE	1994	kg									194.7	
+55	Wisconsin	AMITROLE	1992	kg					358.8					

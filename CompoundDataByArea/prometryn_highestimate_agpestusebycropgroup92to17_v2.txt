@@ -1,0 +1,511 @@
+01	Alabama	PROMETRYN	1992	kg				10778.6						357.7
+01	Alabama	PROMETRYN	1993	kg				30312.3						
+01	Alabama	PROMETRYN	1994	kg				14652.8						
+01	Alabama	PROMETRYN	1995	kg				36021.7						
+01	Alabama	PROMETRYN	1996	kg				15695.5						
+01	Alabama	PROMETRYN	1997	kg				40253.6						
+01	Alabama	PROMETRYN	1998	kg				15838.1						
+01	Alabama	PROMETRYN	1999	kg				18674.3						
+01	Alabama	PROMETRYN	2000	kg				10521.8						
+01	Alabama	PROMETRYN	2001	kg				31798.2						
+01	Alabama	PROMETRYN	2002	kg				27562.4						
+01	Alabama	PROMETRYN	2003	kg				27247						
+01	Alabama	PROMETRYN	2004	kg				13701.5						
+01	Alabama	PROMETRYN	2005	kg				19107.2						
+01	Alabama	PROMETRYN	2006	kg				20289.9						
+01	Alabama	PROMETRYN	2007	kg				10689.3						
+01	Alabama	PROMETRYN	2008	kg				12630.6						
+01	Alabama	PROMETRYN	2009	kg				16250.3						
+01	Alabama	PROMETRYN	2010	kg				16932.2						
+01	Alabama	PROMETRYN	2011	kg				117970.1						
+01	Alabama	PROMETRYN	2012	kg				22484.2						
+01	Alabama	PROMETRYN	2013	kg				19606.7						
+01	Alabama	PROMETRYN	2014	kg				27132.7						
+01	Alabama	PROMETRYN	2015	kg				18491.1						
+01	Alabama	PROMETRYN	2016	kg				20143.1						
+01	Alabama	PROMETRYN	2017	kg				14169.3						
+04	Arizona	PROMETRYN	1992	kg				106273.9	698.2					
+04	Arizona	PROMETRYN	1993	kg				101579	196.8				208	
+04	Arizona	PROMETRYN	1994	kg				159578.3	1149.6					
+04	Arizona	PROMETRYN	1995	kg				212024.8	769.9					
+04	Arizona	PROMETRYN	1996	kg				73951.1	21123.4					
+04	Arizona	PROMETRYN	1997	kg				84960.8	37.4					
+04	Arizona	PROMETRYN	1998	kg				39223.7	1335.1					
+04	Arizona	PROMETRYN	1999	kg				75507.8	2021.3					
+04	Arizona	PROMETRYN	2000	kg				49469.7	450.2					
+04	Arizona	PROMETRYN	2001	kg				49214.4	967.2					
+04	Arizona	PROMETRYN	2002	kg				27066.1	1496.3					
+04	Arizona	PROMETRYN	2003	kg				20049.6	787.9					
+04	Arizona	PROMETRYN	2004	kg				18015.7	1747.6					
+04	Arizona	PROMETRYN	2005	kg				29674.9	1789.8					
+04	Arizona	PROMETRYN	2006	kg				11336.3	1727.6					
+04	Arizona	PROMETRYN	2007	kg				11506.3	1799.2					
+04	Arizona	PROMETRYN	2008	kg				18415.3	391.8					
+04	Arizona	PROMETRYN	2009	kg				18047.2	422.5					
+04	Arizona	PROMETRYN	2010	kg				18648.8	404.4					
+04	Arizona	PROMETRYN	2011	kg				13537.4	544.6					
+04	Arizona	PROMETRYN	2012	kg				17543.6	533.9					
+04	Arizona	PROMETRYN	2013	kg				12020.5	695.9					
+04	Arizona	PROMETRYN	2014	kg				8326.6	792.1					
+04	Arizona	PROMETRYN	2015	kg				2069.7	356.6					
+04	Arizona	PROMETRYN	2016	kg				9572.6	427.6					
+04	Arizona	PROMETRYN	2017	kg				3605.6	13.3					
+05	Arkansas	PROMETRYN	1992	kg				39272.5						
+05	Arkansas	PROMETRYN	1993	kg				101634.9						
+05	Arkansas	PROMETRYN	1994	kg				51616.2						
+05	Arkansas	PROMETRYN	1995	kg				152585.1						
+05	Arkansas	PROMETRYN	1996	kg				189098.4						
+05	Arkansas	PROMETRYN	1997	kg				78650.2						
+05	Arkansas	PROMETRYN	1998	kg				22881.4						
+05	Arkansas	PROMETRYN	1999	kg				13742.6						
+05	Arkansas	PROMETRYN	2000	kg				51926.1						
+05	Arkansas	PROMETRYN	2001	kg				50505.4						
+05	Arkansas	PROMETRYN	2002	kg				59288.5						
+05	Arkansas	PROMETRYN	2003	kg				42256.5						
+05	Arkansas	PROMETRYN	2004	kg				24097.9						
+05	Arkansas	PROMETRYN	2005	kg				15844.2		554.9				
+05	Arkansas	PROMETRYN	2006	kg				22264.7						
+05	Arkansas	PROMETRYN	2007	kg				3075.1						
+05	Arkansas	PROMETRYN	2008	kg				18328.1						
+05	Arkansas	PROMETRYN	2009	kg				21953.2						
+05	Arkansas	PROMETRYN	2010	kg				9116.7						
+05	Arkansas	PROMETRYN	2011	kg				42982.2						
+05	Arkansas	PROMETRYN	2012	kg				25333.4						
+05	Arkansas	PROMETRYN	2013	kg				2959		1645.2				
+05	Arkansas	PROMETRYN	2014	kg				9705.5						
+05	Arkansas	PROMETRYN	2015	kg				8456.2						
+05	Arkansas	PROMETRYN	2016	kg				37015.3						
+05	Arkansas	PROMETRYN	2017	kg				22724.2						
+06	California	PROMETRYN	1992	kg				77980.7	9478.7		4.4			
+06	California	PROMETRYN	1993	kg				90893.1	12165.8		5.8			
+06	California	PROMETRYN	1994	kg				80045.2	22346					
+06	California	PROMETRYN	1995	kg				86625.6	9946.4		3.6			
+06	California	PROMETRYN	1996	kg				66373.4	11857.4		5			
+06	California	PROMETRYN	1997	kg				54792.3	12856.7		1.9			
+06	California	PROMETRYN	1998	kg	51.1		140.4	103205.3	13010.7		26	12		379.9
+06	California	PROMETRYN	1999	kg	138.2		311.6	104817.1	13652.3		0.6			307.9
+06	California	PROMETRYN	2000	kg	7.3		51	117904.6	13458.7		7.5	819.2		2.2
+06	California	PROMETRYN	2001	kg				85872.7	13286.2		5.6	164.9	10.9	942.5
+06	California	PROMETRYN	2002	kg	352.3			66128	13259.1		16.9			895.1
+06	California	PROMETRYN	2003	kg				69417.8	13631.6		0	55.1		484
+06	California	PROMETRYN	2004	kg				56247.8	13776.2		1.4			
+06	California	PROMETRYN	2005	kg				51552	11233.5		0.2			0.3
+06	California	PROMETRYN	2006	kg				34248.1	12526.6					
+06	California	PROMETRYN	2007	kg				20035	10652.9					
+06	California	PROMETRYN	2008	kg				7567.1	11752.8		0			
+06	California	PROMETRYN	2009	kg				7031	10386.7		0.1			
+06	California	PROMETRYN	2010	kg				7118.6	11934.4		0.3			
+06	California	PROMETRYN	2011	kg				9011.7	14894.2					
+06	California	PROMETRYN	2012	kg				3316.2	14298		11.7			
+06	California	PROMETRYN	2013	kg	137		345.7	4637.7	19754.5					
+06	California	PROMETRYN	2014	kg				4817	19460.3			9.1		0.2
+06	California	PROMETRYN	2015	kg				3103.3	19900.5					
+06	California	PROMETRYN	2016	kg				134.8	19345.7					0.9
+06	California	PROMETRYN	2017	kg				316.9	18682.3					
+08	Colorado	PROMETRYN	1992	kg									1.1	
+10	Delaware	PROMETRYN	1996	kg					0.8					
+12	Florida	PROMETRYN	1992	kg				3639.7	1276.5					85.6
+12	Florida	PROMETRYN	1993	kg				9257.7	3275.2					
+12	Florida	PROMETRYN	1994	kg				2126.5			4010.3			
+12	Florida	PROMETRYN	1995	kg				8224.8						
+12	Florida	PROMETRYN	1996	kg				1372						
+12	Florida	PROMETRYN	1997	kg				11675.7	1318.7					
+12	Florida	PROMETRYN	1998	kg				4482.5						
+12	Florida	PROMETRYN	1999	kg				2394.6	1842.1					
+12	Florida	PROMETRYN	2000	kg				8043.5	1842.3					
+12	Florida	PROMETRYN	2001	kg				961	2456.7					
+12	Florida	PROMETRYN	2002	kg				6016.4	2184.1					
+12	Florida	PROMETRYN	2003	kg				4856.7	2183.3					
+12	Florida	PROMETRYN	2004	kg				769	1000.2					
+12	Florida	PROMETRYN	2005	kg				1285.9						
+12	Florida	PROMETRYN	2006	kg				5130.2						
+12	Florida	PROMETRYN	2007	kg				2950.3						
+12	Florida	PROMETRYN	2008	kg				20.4						
+12	Florida	PROMETRYN	2009	kg				13683						
+12	Florida	PROMETRYN	2010	kg				11421.4						
+12	Florida	PROMETRYN	2011	kg				14316.8						
+12	Florida	PROMETRYN	2012	kg				2333.6						
+12	Florida	PROMETRYN	2013	kg				10794.9						
+12	Florida	PROMETRYN	2014	kg				5716.1						
+12	Florida	PROMETRYN	2015	kg				3410.2						
+12	Florida	PROMETRYN	2016	kg				6228.6						
+12	Florida	PROMETRYN	2017	kg				4035.2						
+13	Georgia	PROMETRYN	1992	kg		2104.3		6141.4						388.8
+13	Georgia	PROMETRYN	1993	kg				3498.9						
+13	Georgia	PROMETRYN	1994	kg				24644.7						
+13	Georgia	PROMETRYN	1995	kg				78834						
+13	Georgia	PROMETRYN	1996	kg				12832.9						
+13	Georgia	PROMETRYN	1997	kg				39588.9						
+13	Georgia	PROMETRYN	1998	kg				12767.2						
+13	Georgia	PROMETRYN	1999	kg				20106.9						
+13	Georgia	PROMETRYN	2000	kg				27693.1						
+13	Georgia	PROMETRYN	2001	kg				14887.9						
+13	Georgia	PROMETRYN	2002	kg				19122.3						
+13	Georgia	PROMETRYN	2003	kg				75445.3						
+13	Georgia	PROMETRYN	2004	kg				19655.2						
+13	Georgia	PROMETRYN	2005	kg				11626						
+13	Georgia	PROMETRYN	2006	kg				93290.2						
+13	Georgia	PROMETRYN	2007	kg				39176.4						
+13	Georgia	PROMETRYN	2008	kg				86854.2						
+13	Georgia	PROMETRYN	2009	kg				159344.4						
+13	Georgia	PROMETRYN	2010	kg				134224.7						
+13	Georgia	PROMETRYN	2011	kg				174380						
+13	Georgia	PROMETRYN	2012	kg				44535.7						
+13	Georgia	PROMETRYN	2013	kg				171183.6						
+13	Georgia	PROMETRYN	2014	kg				59893.9						
+13	Georgia	PROMETRYN	2015	kg				66960.3						
+13	Georgia	PROMETRYN	2016	kg				58989						
+13	Georgia	PROMETRYN	2017	kg				66117.5						
+16	Idaho	PROMETRYN	1993	kg					2829.9					
+16	Idaho	PROMETRYN	1996	kg									4661.3	
+16	Idaho	PROMETRYN	1997	kg					811.7					
+17	Illinois	PROMETRYN	1992	kg		19687								
+17	Illinois	PROMETRYN	1996	kg		5641							191.5	
+17	Illinois	PROMETRYN	2016	kg					26.3					
+18	Indiana	PROMETRYN	2013	kg					0.4					
+18	Indiana	PROMETRYN	2014	kg					0.4					
+18	Indiana	PROMETRYN	2015	kg					0.6					
+19	Iowa	PROMETRYN	1996	kg		10840.6							894.4	
+20	Kansas	PROMETRYN	1992	kg				1805.1						
+20	Kansas	PROMETRYN	1993	kg				3642.6						
+20	Kansas	PROMETRYN	1994	kg				1000						
+20	Kansas	PROMETRYN	1995	kg				1301.1						
+20	Kansas	PROMETRYN	1996	kg				1648.1						
+20	Kansas	PROMETRYN	1997	kg				3884.8						
+20	Kansas	PROMETRYN	1998	kg				2611.6						
+20	Kansas	PROMETRYN	1999	kg				8081.7						
+20	Kansas	PROMETRYN	2000	kg				3470.2						
+20	Kansas	PROMETRYN	2001	kg				2633.4						
+20	Kansas	PROMETRYN	2002	kg				2980.3						
+20	Kansas	PROMETRYN	2003	kg				2224						
+20	Kansas	PROMETRYN	2004	kg				3521.7						
+20	Kansas	PROMETRYN	2005	kg				2111.2						
+20	Kansas	PROMETRYN	2006	kg				966.6						
+20	Kansas	PROMETRYN	2007	kg				1431.8						
+20	Kansas	PROMETRYN	2008	kg				494.3						
+20	Kansas	PROMETRYN	2009	kg				817.1						
+20	Kansas	PROMETRYN	2010	kg				1393.3						
+20	Kansas	PROMETRYN	2011	kg				7882.8						
+20	Kansas	PROMETRYN	2012	kg				672.8						
+20	Kansas	PROMETRYN	2013	kg				868						
+20	Kansas	PROMETRYN	2014	kg				1154.2						
+20	Kansas	PROMETRYN	2015	kg				846.9						
+20	Kansas	PROMETRYN	2016	kg				1779.3						
+20	Kansas	PROMETRYN	2017	kg				3887.6						
+21	Kentucky	PROMETRYN	1992	kg		1431.2								
+22	Louisiana	PROMETRYN	1992	kg				78258.8						
+22	Louisiana	PROMETRYN	1993	kg				68313.4						
+22	Louisiana	PROMETRYN	1994	kg				227977.8						
+22	Louisiana	PROMETRYN	1995	kg				144612.4						
+22	Louisiana	PROMETRYN	1996	kg				185907.7						
+22	Louisiana	PROMETRYN	1997	kg				98221.7						
+22	Louisiana	PROMETRYN	1998	kg				71687.6						
+22	Louisiana	PROMETRYN	1999	kg				53501.1						
+22	Louisiana	PROMETRYN	2000	kg				40886.6						
+22	Louisiana	PROMETRYN	2001	kg				27270.2						
+22	Louisiana	PROMETRYN	2002	kg				22315.8						
+22	Louisiana	PROMETRYN	2003	kg				23043.2						
+22	Louisiana	PROMETRYN	2004	kg				7497.6						
+22	Louisiana	PROMETRYN	2005	kg				24442						
+22	Louisiana	PROMETRYN	2006	kg				897.1						
+22	Louisiana	PROMETRYN	2007	kg				4889						
+22	Louisiana	PROMETRYN	2008	kg				11314.7						
+22	Louisiana	PROMETRYN	2009	kg				2344.4						
+22	Louisiana	PROMETRYN	2010	kg				5287.2						
+22	Louisiana	PROMETRYN	2011	kg				22792.6						
+22	Louisiana	PROMETRYN	2012	kg				19318.8						
+22	Louisiana	PROMETRYN	2013	kg				5848.1						
+22	Louisiana	PROMETRYN	2014	kg				11239.8						
+22	Louisiana	PROMETRYN	2015	kg				2567.3						
+22	Louisiana	PROMETRYN	2016	kg				11137.4						
+22	Louisiana	PROMETRYN	2017	kg				1833.3						
+24	Maryland	PROMETRYN	1996	kg		181.5								
+26	Michigan	PROMETRYN	1993	kg					1410.9					
+26	Michigan	PROMETRYN	1995	kg					3346.8					
+26	Michigan	PROMETRYN	1996	kg					277					
+26	Michigan	PROMETRYN	1997	kg					8095.3					
+26	Michigan	PROMETRYN	1998	kg					2672					
+26	Michigan	PROMETRYN	1999	kg					1655.4					
+26	Michigan	PROMETRYN	2000	kg					936.7					
+26	Michigan	PROMETRYN	2001	kg					1450.8					
+26	Michigan	PROMETRYN	2002	kg					2640.4					
+26	Michigan	PROMETRYN	2003	kg					2076.1					
+26	Michigan	PROMETRYN	2004	kg					2416					
+26	Michigan	PROMETRYN	2005	kg					2295.3					
+26	Michigan	PROMETRYN	2006	kg					2125.4					
+26	Michigan	PROMETRYN	2007	kg					1658.6					
+26	Michigan	PROMETRYN	2008	kg					1274.5					
+26	Michigan	PROMETRYN	2009	kg					1934.3					
+26	Michigan	PROMETRYN	2010	kg					1744.4					
+26	Michigan	PROMETRYN	2011	kg					2125.4					
+26	Michigan	PROMETRYN	2012	kg					1858.6					
+26	Michigan	PROMETRYN	2013	kg					2144.9					
+26	Michigan	PROMETRYN	2014	kg					1963.4					
+26	Michigan	PROMETRYN	2015	kg					2519.1					
+26	Michigan	PROMETRYN	2016	kg					1403.7					
+26	Michigan	PROMETRYN	2017	kg					354.4					
+27	Minnesota	PROMETRYN	1996	kg									262.6	
+28	Mississippi	PROMETRYN	1992	kg				35392.6						
+28	Mississippi	PROMETRYN	1993	kg				53900.2						
+28	Mississippi	PROMETRYN	1994	kg		13806.5		85338.1						
+28	Mississippi	PROMETRYN	1995	kg				109014.6						
+28	Mississippi	PROMETRYN	1996	kg				103917.8						
+28	Mississippi	PROMETRYN	1997	kg				25174.2						
+28	Mississippi	PROMETRYN	1998	kg				49240.3						
+28	Mississippi	PROMETRYN	1999	kg				29358.6						
+28	Mississippi	PROMETRYN	2000	kg				56981.2						
+28	Mississippi	PROMETRYN	2001	kg				58616						
+28	Mississippi	PROMETRYN	2002	kg				32961.7						
+28	Mississippi	PROMETRYN	2003	kg				32508.8						
+28	Mississippi	PROMETRYN	2004	kg				36557						
+28	Mississippi	PROMETRYN	2005	kg				39421.2						
+28	Mississippi	PROMETRYN	2006	kg				12735.7						
+28	Mississippi	PROMETRYN	2007	kg				17983.2						
+28	Mississippi	PROMETRYN	2008	kg				15546.9						
+28	Mississippi	PROMETRYN	2009	kg				4784.1						
+28	Mississippi	PROMETRYN	2010	kg				7933.1						
+28	Mississippi	PROMETRYN	2011	kg				30196.2						
+28	Mississippi	PROMETRYN	2012	kg				21492.4						
+28	Mississippi	PROMETRYN	2013	kg				9930.3						
+28	Mississippi	PROMETRYN	2014	kg				20294						
+28	Mississippi	PROMETRYN	2015	kg				17200						
+28	Mississippi	PROMETRYN	2016	kg				37979.9						
+28	Mississippi	PROMETRYN	2017	kg				11952.5						
+29	Missouri	PROMETRYN	1992	kg		5647.4		4286.7						
+29	Missouri	PROMETRYN	1993	kg				7714.3						
+29	Missouri	PROMETRYN	1994	kg				2513.6						
+29	Missouri	PROMETRYN	1995	kg				1384						
+29	Missouri	PROMETRYN	1996	kg		3874.9		10677.9					238.4	
+29	Missouri	PROMETRYN	1997	kg				7917.6						
+29	Missouri	PROMETRYN	1998	kg				10613.2						
+29	Missouri	PROMETRYN	1999	kg				19177.8						
+29	Missouri	PROMETRYN	2000	kg				23128.7						
+29	Missouri	PROMETRYN	2001	kg				5490.5						
+29	Missouri	PROMETRYN	2002	kg				6391.3						
+29	Missouri	PROMETRYN	2003	kg				4250.6						
+29	Missouri	PROMETRYN	2004	kg				159.8						
+29	Missouri	PROMETRYN	2005	kg				2092.6		177				
+29	Missouri	PROMETRYN	2006	kg				1018						
+29	Missouri	PROMETRYN	2007	kg				337.1						
+29	Missouri	PROMETRYN	2009	kg				2114						
+29	Missouri	PROMETRYN	2010	kg				7827.1						
+29	Missouri	PROMETRYN	2011	kg				30307.6						
+29	Missouri	PROMETRYN	2012	kg				11676.7						
+29	Missouri	PROMETRYN	2013	kg				11081.7		258.4				
+29	Missouri	PROMETRYN	2014	kg				23297.1						
+29	Missouri	PROMETRYN	2015	kg				7796						
+29	Missouri	PROMETRYN	2016	kg				26348.9						
+29	Missouri	PROMETRYN	2017	kg				1950.5						
+30	Montana	PROMETRYN	1996	kg									46726.1	
+31	Nebraska	PROMETRYN	1992	kg									24	
+32	Nevada	PROMETRYN	1994	kg					0.1					
+32	Nevada	PROMETRYN	2013	kg					0.2					
+32	Nevada	PROMETRYN	2014	kg					0.3					
+32	Nevada	PROMETRYN	2015	kg					0.1					
+32	Nevada	PROMETRYN	2016	kg					0.1					
+32	Nevada	PROMETRYN	2017	kg					0					
+34	New Jersey	PROMETRYN	1996	kg					88.2					
+35	New Mexico	PROMETRYN	1992	kg	762.9	8.2		17566.1	203.9			3703		160.9
+35	New Mexico	PROMETRYN	1993	kg	681.6			13874.7	0.2				214.3	1955.7
+35	New Mexico	PROMETRYN	1994	kg	3339.1	4.7		6281.5	94.4				10.2	
+35	New Mexico	PROMETRYN	1995	kg				11424.1	99				228.1	195.5
+35	New Mexico	PROMETRYN	1996	kg				9078.9	941.3				39.6	134.8
+35	New Mexico	PROMETRYN	1997	kg				16711.1	162.2				17354.8	
+35	New Mexico	PROMETRYN	1998	kg				6835.3						
+35	New Mexico	PROMETRYN	1999	kg				12002.7						
+35	New Mexico	PROMETRYN	2000	kg				14939.6						
+35	New Mexico	PROMETRYN	2001	kg				20543.4						
+35	New Mexico	PROMETRYN	2002	kg				24888						
+35	New Mexico	PROMETRYN	2003	kg				12394.5						
+35	New Mexico	PROMETRYN	2004	kg				17523.9						
+35	New Mexico	PROMETRYN	2005	kg				1941.1						
+35	New Mexico	PROMETRYN	2006	kg				1522						
+35	New Mexico	PROMETRYN	2007	kg				1944.1						
+35	New Mexico	PROMETRYN	2008	kg				1135.2						
+35	New Mexico	PROMETRYN	2009	kg				945.9						
+35	New Mexico	PROMETRYN	2010	kg				1298						
+35	New Mexico	PROMETRYN	2011	kg				531.6						
+35	New Mexico	PROMETRYN	2012	kg				878						
+35	New Mexico	PROMETRYN	2013	kg				1634.1						
+35	New Mexico	PROMETRYN	2014	kg				1701.3						
+35	New Mexico	PROMETRYN	2015	kg				2117.4						
+35	New Mexico	PROMETRYN	2016	kg				852						
+35	New Mexico	PROMETRYN	2017	kg				3865						
+36	New York	PROMETRYN	2005	kg					89.6					
+37	North Carolina	PROMETRYN	1992	kg				7052.6						
+37	North Carolina	PROMETRYN	1993	kg				4410.8					22017.2	
+37	North Carolina	PROMETRYN	1994	kg				14786.1						
+37	North Carolina	PROMETRYN	1995	kg	190.1			22632.6					71.7	
+37	North Carolina	PROMETRYN	1996	kg				145532.4						
+37	North Carolina	PROMETRYN	1997	kg				17758.3						
+37	North Carolina	PROMETRYN	1998	kg				27004.6						
+37	North Carolina	PROMETRYN	1999	kg				35370.9						
+37	North Carolina	PROMETRYN	2000	kg				69058.1						
+37	North Carolina	PROMETRYN	2001	kg				105931.5						
+37	North Carolina	PROMETRYN	2002	kg				146183.1						
+37	North Carolina	PROMETRYN	2003	kg				82498.1						
+37	North Carolina	PROMETRYN	2004	kg				72996.3						
+37	North Carolina	PROMETRYN	2005	kg				40325.4						
+37	North Carolina	PROMETRYN	2006	kg				41176.9						
+37	North Carolina	PROMETRYN	2007	kg				15863.3						
+37	North Carolina	PROMETRYN	2008	kg				5872						
+37	North Carolina	PROMETRYN	2009	kg				15539						
+37	North Carolina	PROMETRYN	2010	kg				34594.1						
+37	North Carolina	PROMETRYN	2011	kg				116478.2						
+37	North Carolina	PROMETRYN	2012	kg				48730.1						
+37	North Carolina	PROMETRYN	2013	kg				52547.8						
+37	North Carolina	PROMETRYN	2014	kg				5591.5						
+37	North Carolina	PROMETRYN	2015	kg				15087.4						
+37	North Carolina	PROMETRYN	2016	kg				10762.3						
+37	North Carolina	PROMETRYN	2017	kg				13078.8						
+38	North Dakota	PROMETRYN	1996	kg									3935.1	
+39	Ohio	PROMETRYN	1993	kg					1					
+39	Ohio	PROMETRYN	1997	kg					643.5					
+39	Ohio	PROMETRYN	2000	kg					23.6					
+40	Oklahoma	PROMETRYN	1992	kg				9945.4	0					
+40	Oklahoma	PROMETRYN	1993	kg				10083.4						
+40	Oklahoma	PROMETRYN	1994	kg		156.1		6609.3	49.5				17.4	
+40	Oklahoma	PROMETRYN	1995	kg				5309.9					1100.3	313.1
+40	Oklahoma	PROMETRYN	1996	kg				3436.8					198.3	16.4
+40	Oklahoma	PROMETRYN	1997	kg				6171.7						
+40	Oklahoma	PROMETRYN	1998	kg				3306.9						
+40	Oklahoma	PROMETRYN	1999	kg	9537.2			3933.6						
+40	Oklahoma	PROMETRYN	2000	kg				5855.5						
+40	Oklahoma	PROMETRYN	2001	kg				6342.8						
+40	Oklahoma	PROMETRYN	2002	kg				3632.5						
+40	Oklahoma	PROMETRYN	2003	kg				3214					711.8	
+40	Oklahoma	PROMETRYN	2004	kg				9465.7						
+40	Oklahoma	PROMETRYN	2005	kg				851.4						
+40	Oklahoma	PROMETRYN	2006	kg				961.9						
+40	Oklahoma	PROMETRYN	2007	kg				866.1						
+40	Oklahoma	PROMETRYN	2008	kg				2468.2						
+40	Oklahoma	PROMETRYN	2009	kg				1945.9						
+40	Oklahoma	PROMETRYN	2010	kg				3333.9						
+40	Oklahoma	PROMETRYN	2011	kg				4425.6						
+40	Oklahoma	PROMETRYN	2012	kg				2101.7						
+40	Oklahoma	PROMETRYN	2013	kg				11138.9						
+40	Oklahoma	PROMETRYN	2014	kg				6239.7						
+40	Oklahoma	PROMETRYN	2015	kg				18311.3						
+40	Oklahoma	PROMETRYN	2016	kg				7426.5						
+40	Oklahoma	PROMETRYN	2017	kg				24746.3						
+41	Oregon	PROMETRYN	1993	kg					184.5					
+41	Oregon	PROMETRYN	1997	kg							0.5			
+42	Pennsylvania	PROMETRYN	1996	kg					18.9					
+45	South Carolina	PROMETRYN	1992	kg		5021.9		4191.9						
+45	South Carolina	PROMETRYN	1993	kg				2088.5						
+45	South Carolina	PROMETRYN	1994	kg				17038.9						
+45	South Carolina	PROMETRYN	1995	kg				17097.7						
+45	South Carolina	PROMETRYN	1996	kg				3244.1						
+45	South Carolina	PROMETRYN	1997	kg				5060.1						
+45	South Carolina	PROMETRYN	1998	kg				9693.3						
+45	South Carolina	PROMETRYN	1999	kg				21082						
+45	South Carolina	PROMETRYN	2000	kg				21942.9						
+45	South Carolina	PROMETRYN	2001	kg				36767.1						
+45	South Carolina	PROMETRYN	2002	kg				47862.3						
+45	South Carolina	PROMETRYN	2003	kg				44994.7						
+45	South Carolina	PROMETRYN	2004	kg				8383.8						
+45	South Carolina	PROMETRYN	2005	kg				1547.9						
+45	South Carolina	PROMETRYN	2006	kg				2889.4						
+45	South Carolina	PROMETRYN	2007	kg				1425.2						
+45	South Carolina	PROMETRYN	2008	kg				572.3						
+45	South Carolina	PROMETRYN	2009	kg				5447.5						
+45	South Carolina	PROMETRYN	2010	kg				19215.5						
+45	South Carolina	PROMETRYN	2011	kg				41989.2						
+45	South Carolina	PROMETRYN	2012	kg				25417.4						
+45	South Carolina	PROMETRYN	2013	kg				35579.9						
+45	South Carolina	PROMETRYN	2014	kg				9892.5						
+45	South Carolina	PROMETRYN	2015	kg				9819.7						
+45	South Carolina	PROMETRYN	2016	kg				10901.8						
+45	South Carolina	PROMETRYN	2017	kg				7051.8						
+46	South Dakota	PROMETRYN	1992	kg									0.2	
+47	Tennessee	PROMETRYN	1992	kg				3750.6						
+47	Tennessee	PROMETRYN	1993	kg				3656.5						
+47	Tennessee	PROMETRYN	1994	kg				36092.3						
+47	Tennessee	PROMETRYN	1995	kg				13895						
+47	Tennessee	PROMETRYN	1996	kg				10406.3						
+47	Tennessee	PROMETRYN	1997	kg				3689.6						
+47	Tennessee	PROMETRYN	1998	kg				4198.9						
+47	Tennessee	PROMETRYN	1999	kg				8656.5						
+47	Tennessee	PROMETRYN	2000	kg				4728.5						
+47	Tennessee	PROMETRYN	2001	kg				24656.2						
+47	Tennessee	PROMETRYN	2002	kg				5757.8						
+47	Tennessee	PROMETRYN	2003	kg				25014.9						
+47	Tennessee	PROMETRYN	2004	kg				17727.4						
+47	Tennessee	PROMETRYN	2005	kg				3779.9		0.9				
+47	Tennessee	PROMETRYN	2006	kg				31831.3						
+47	Tennessee	PROMETRYN	2007	kg				26631.7						
+47	Tennessee	PROMETRYN	2008	kg				12549.8						
+47	Tennessee	PROMETRYN	2009	kg				31634.6						
+47	Tennessee	PROMETRYN	2010	kg				33760.1						
+47	Tennessee	PROMETRYN	2011	kg				40392.7						
+47	Tennessee	PROMETRYN	2012	kg				44234.3						
+47	Tennessee	PROMETRYN	2013	kg				47744.7		0.9				
+47	Tennessee	PROMETRYN	2014	kg				45570.2						
+47	Tennessee	PROMETRYN	2015	kg				34628.9						
+47	Tennessee	PROMETRYN	2016	kg				54167.6						
+47	Tennessee	PROMETRYN	2017	kg				46703						
+48	Texas	PROMETRYN	1992	kg	7439.2	3669.3		451947.3	113.5			749.3		2184.2
+48	Texas	PROMETRYN	1993	kg	6726.1			551484.6						14254.5
+48	Texas	PROMETRYN	1994	kg	48455.6	891.8		363623.4	5196.9				35.7	
+48	Texas	PROMETRYN	1995	kg				345561.6	373.9				694.4	1699
+48	Texas	PROMETRYN	1996	kg				307357.8					242.2	1265.3
+48	Texas	PROMETRYN	1997	kg				341944.2	41.9				152742.7	
+48	Texas	PROMETRYN	1998	kg				361886.1						
+48	Texas	PROMETRYN	1999	kg	184553.7			305133.7						
+48	Texas	PROMETRYN	2000	kg				371171						
+48	Texas	PROMETRYN	2001	kg				266456.1						
+48	Texas	PROMETRYN	2002	kg				256539.5						
+48	Texas	PROMETRYN	2003	kg				142249.1					11820.9	
+48	Texas	PROMETRYN	2004	kg				223522.2						
+48	Texas	PROMETRYN	2005	kg				170880.6						
+48	Texas	PROMETRYN	2006	kg				97548.1						
+48	Texas	PROMETRYN	2007	kg				168505.9						
+48	Texas	PROMETRYN	2008	kg				60862.4						
+48	Texas	PROMETRYN	2009	kg				93545.5						
+48	Texas	PROMETRYN	2010	kg				153978.6						
+48	Texas	PROMETRYN	2011	kg				116005.9					4670.2	
+48	Texas	PROMETRYN	2012	kg				101260.1						
+48	Texas	PROMETRYN	2013	kg				308397.5						
+48	Texas	PROMETRYN	2014	kg				229813.6						
+48	Texas	PROMETRYN	2015	kg				297713.9						
+48	Texas	PROMETRYN	2016	kg				346277.8						
+48	Texas	PROMETRYN	2017	kg				445873.1						
+49	Utah	PROMETRYN	1997	kg					1.8					
+51	Virginia	PROMETRYN	1992	kg				382.7						
+51	Virginia	PROMETRYN	1993	kg				263.8					3273.7	
+51	Virginia	PROMETRYN	1994	kg				1260						
+51	Virginia	PROMETRYN	1995	kg	806.8			169.1						
+51	Virginia	PROMETRYN	1996	kg				1030.3						
+51	Virginia	PROMETRYN	1997	kg				1222.7						
+51	Virginia	PROMETRYN	1998	kg				167.7						
+51	Virginia	PROMETRYN	1999	kg				3230.2						
+51	Virginia	PROMETRYN	2000	kg				471.9						
+51	Virginia	PROMETRYN	2001	kg				5015						
+51	Virginia	PROMETRYN	2002	kg				5460.4						
+51	Virginia	PROMETRYN	2003	kg				2665.7						
+51	Virginia	PROMETRYN	2004	kg				7578.7						
+51	Virginia	PROMETRYN	2005	kg				3454.8						
+51	Virginia	PROMETRYN	2006	kg				5172.1						
+51	Virginia	PROMETRYN	2007	kg				901						
+51	Virginia	PROMETRYN	2008	kg				692.7						
+51	Virginia	PROMETRYN	2009	kg				2476.1						
+51	Virginia	PROMETRYN	2010	kg				468.1						
+51	Virginia	PROMETRYN	2011	kg				19871.9						
+51	Virginia	PROMETRYN	2012	kg				4061.5						
+51	Virginia	PROMETRYN	2013	kg				398						
+51	Virginia	PROMETRYN	2014	kg				15.1						
+51	Virginia	PROMETRYN	2015	kg				254						
+51	Virginia	PROMETRYN	2016	kg				546.9						
+51	Virginia	PROMETRYN	2017	kg				3030.5						
+53	Washington	PROMETRYN	1997	kg							16.2			
+53	Washington	PROMETRYN	2004	kg					1931					
+53	Washington	PROMETRYN	2010	kg					463.2					
+53	Washington	PROMETRYN	2011	kg					128.8					
+53	Washington	PROMETRYN	2012	kg					172.8					
+53	Washington	PROMETRYN	2015	kg					368.8					
+53	Washington	PROMETRYN	2016	kg					108.3					
+53	Washington	PROMETRYN	2017	kg					288.5					
+55	Wisconsin	PROMETRYN	2014	kg					136.2					
+55	Wisconsin	PROMETRYN	2015	kg					3107.1					
+55	Wisconsin	PROMETRYN	2016	kg					1908.7					
+56	Wyoming	PROMETRYN	1992	kg									2.7	

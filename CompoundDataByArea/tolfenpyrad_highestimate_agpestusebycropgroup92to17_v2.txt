@@ -1,0 +1,12 @@
+04	Arizona	TOLFENPYRAD	2016	kg					1025.9					
+04	Arizona	TOLFENPYRAD	2017	kg					1106.6					
+12	Florida	TOLFENPYRAD	2014	kg							752.2			
+12	Florida	TOLFENPYRAD	2015	kg							4392.9			
+12	Florida	TOLFENPYRAD	2016	kg					668.7		5153.1			
+12	Florida	TOLFENPYRAD	2017	kg							2058.2			
+32	Nevada	TOLFENPYRAD	2016	kg					0					
+32	Nevada	TOLFENPYRAD	2017	kg					0					
+35	New Mexico	TOLFENPYRAD	2016	kg					0					
+35	New Mexico	TOLFENPYRAD	2017	kg					0					
+48	Texas	TOLFENPYRAD	2014	kg							365.4			
+48	Texas	TOLFENPYRAD	2015	kg							1266.7			

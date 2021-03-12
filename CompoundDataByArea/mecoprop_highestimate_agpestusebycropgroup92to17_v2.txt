@@ -1,0 +1,307 @@
+01	Alabama	MECOPROP	1992	kg				347.6					242	34.9
+01	Alabama	MECOPROP	1993	kg									4491.1	
+01	Alabama	MECOPROP	1994	kg									1152.4	
+01	Alabama	MECOPROP	1995	kg									3885.7	
+01	Alabama	MECOPROP	1996	kg									741.2	
+01	Alabama	MECOPROP	1997	kg									108.6	
+01	Alabama	MECOPROP	1998	kg									288.1	
+01	Alabama	MECOPROP	1999	kg									29.5	
+01	Alabama	MECOPROP	2006	kg									5931.9	
+01	Alabama	MECOPROP	2014	kg									2771.5	
+04	Arizona	MECOPROP	1992	kg									13.1	
+04	Arizona	MECOPROP	1993	kg									11654.6	
+05	Arkansas	MECOPROP	1993	kg									281	
+05	Arkansas	MECOPROP	1994	kg				45.8					199.2	
+05	Arkansas	MECOPROP	1995	kg										93.5
+05	Arkansas	MECOPROP	1996	kg									14.4	
+05	Arkansas	MECOPROP	1997	kg									18.7	
+05	Arkansas	MECOPROP	1998	kg									1661.6	
+05	Arkansas	MECOPROP	1999	kg									706.6	
+05	Arkansas	MECOPROP	2000	kg									1003.4	
+05	Arkansas	MECOPROP	2001	kg									85.1	
+05	Arkansas	MECOPROP	2007	kg									586	
+06	California	MECOPROP	1992	kg							1424.8		581.8	
+06	California	MECOPROP	1993	kg							468.5		1089.4	
+06	California	MECOPROP	1994	kg							345		838.9	
+06	California	MECOPROP	1995	kg							640		683.9	
+06	California	MECOPROP	1996	kg							192.4		507.6	
+06	California	MECOPROP	1997	kg							342.2		368.6	
+06	California	MECOPROP	1998	kg						0.2	371		612.3	4
+06	California	MECOPROP	1999	kg				8.7	0.2		236.9		401.9	
+06	California	MECOPROP	2000	kg							422.1		477.9	
+06	California	MECOPROP	2001	kg						0.2	342.3		433	
+06	California	MECOPROP	2002	kg							310.2		510.2	
+06	California	MECOPROP	2003	kg							84.1		492.3	0.9
+06	California	MECOPROP	2004	kg							224.1		689.5	
+06	California	MECOPROP	2005	kg							180.5		522.9	
+06	California	MECOPROP	2006	kg						0	41.9		724.5	0.1
+06	California	MECOPROP	2007	kg							50.7		551.1	
+06	California	MECOPROP	2008	kg							2.6			
+06	California	MECOPROP	2009	kg							32.1			
+06	California	MECOPROP	2010	kg							40.2		0	
+06	California	MECOPROP	2011	kg							1.2		0.1	
+06	California	MECOPROP	2012	kg							11.4		0	
+06	California	MECOPROP	2013	kg							48.3			
+06	California	MECOPROP	2014	kg							24.2			
+06	California	MECOPROP	2015	kg							13.9			
+06	California	MECOPROP	2016	kg							3.9			
+06	California	MECOPROP	2017	kg							2.1			
+08	Colorado	MECOPROP	1992	kg									38.4	
+08	Colorado	MECOPROP	1993	kg									1	
+08	Colorado	MECOPROP	1994	kg									373.8	
+08	Colorado	MECOPROP	1996	kg									494.4	94.1
+08	Colorado	MECOPROP	1997	kg									1791.8	2122.4
+12	Florida	MECOPROP	1992	kg										127.5
+12	Florida	MECOPROP	1993	kg									7.6	
+12	Florida	MECOPROP	1995	kg									16.8	
+12	Florida	MECOPROP	1996	kg									95.6	
+12	Florida	MECOPROP	1997	kg									119.5	
+12	Florida	MECOPROP	2001	kg							139.7			
+12	Florida	MECOPROP	2013	kg									3930.4	
+13	Georgia	MECOPROP	1992	kg									40.2	1588.8
+13	Georgia	MECOPROP	1993	kg									866.4	
+13	Georgia	MECOPROP	1994	kg									1322.6	
+13	Georgia	MECOPROP	1995	kg									2363.2	
+13	Georgia	MECOPROP	1996	kg									2149.3	27.1
+13	Georgia	MECOPROP	1997	kg	577			4462.5					928.3	
+13	Georgia	MECOPROP	1998	kg									80.5	
+13	Georgia	MECOPROP	1999	kg									7.6	
+13	Georgia	MECOPROP	2001	kg							519.7		1450.2	
+13	Georgia	MECOPROP	2006	kg									6608.6	
+13	Georgia	MECOPROP	2013	kg									397.9	
+13	Georgia	MECOPROP	2014	kg									300	
+16	Idaho	MECOPROP	1992	kg									3.5	
+16	Idaho	MECOPROP	1993	kg									7.6	
+16	Idaho	MECOPROP	1994	kg	81.8								265.3	
+16	Idaho	MECOPROP	1996	kg			9631							
+16	Idaho	MECOPROP	1997	kg			24487						0.4	
+16	Idaho	MECOPROP	1998	kg			2947.4							
+17	Illinois	MECOPROP	1992	kg									1636.5	77.3
+17	Illinois	MECOPROP	1993	kg									4397.7	230.8
+17	Illinois	MECOPROP	1994	kg									174.9	322.8
+17	Illinois	MECOPROP	1995	kg									3916.8	
+17	Illinois	MECOPROP	1996	kg									277.5	
+17	Illinois	MECOPROP	1997	kg									120.9	
+17	Illinois	MECOPROP	2000	kg									1272.9	
+17	Illinois	MECOPROP	2006	kg									9	
+17	Illinois	MECOPROP	2013	kg									1726.8	
+18	Indiana	MECOPROP	1992	kg									2987.1	1430.3
+18	Indiana	MECOPROP	1993	kg									1569.1	248.7
+18	Indiana	MECOPROP	1994	kg									799.5	88.1
+18	Indiana	MECOPROP	1995	kg									3299	
+18	Indiana	MECOPROP	1996	kg									336.8	
+18	Indiana	MECOPROP	1997	kg									389.3	
+18	Indiana	MECOPROP	2000	kg									443.7	
+18	Indiana	MECOPROP	2006	kg									4.3	
+18	Indiana	MECOPROP	2013	kg									802.1	
+19	Iowa	MECOPROP	1992	kg									5321.7	
+19	Iowa	MECOPROP	1993	kg									2964.5	
+19	Iowa	MECOPROP	1994	kg	152.5	26.1							498.8	
+19	Iowa	MECOPROP	1995	kg	40167.2								4925.9	
+19	Iowa	MECOPROP	1996	kg									556.7	
+19	Iowa	MECOPROP	1997	kg			0.4						430.3	
+19	Iowa	MECOPROP	1998	kg									581.5	
+19	Iowa	MECOPROP	2000	kg									18245.9	
+19	Iowa	MECOPROP	2006	kg									33.7	
+19	Iowa	MECOPROP	2007	kg									207.8	
+19	Iowa	MECOPROP	2013	kg									3200.9	
+20	Kansas	MECOPROP	1992	kg									1566.9	
+20	Kansas	MECOPROP	1993	kg									160.3	
+20	Kansas	MECOPROP	1996	kg									11471.6	
+20	Kansas	MECOPROP	1997	kg									8089.1	75.4
+20	Kansas	MECOPROP	2000	kg									35458.2	
+20	Kansas	MECOPROP	2007	kg									2941.7	
+20	Kansas	MECOPROP	2017	kg									66.5	
+21	Kentucky	MECOPROP	1992	kg									1764.8	
+21	Kentucky	MECOPROP	1993	kg									15023.8	
+21	Kentucky	MECOPROP	1994	kg									1661.8	61.7
+21	Kentucky	MECOPROP	1995	kg									5201.7	
+21	Kentucky	MECOPROP	1996	kg									5226.8	57
+21	Kentucky	MECOPROP	1997	kg	840.6								207.3	
+21	Kentucky	MECOPROP	1999	kg									264	
+21	Kentucky	MECOPROP	2000	kg									338.6	
+21	Kentucky	MECOPROP	2006	kg									65.9	
+21	Kentucky	MECOPROP	2013	kg									790	
+21	Kentucky	MECOPROP	2014	kg									890.4	
+22	Louisiana	MECOPROP	1992	kg									206.7	
+22	Louisiana	MECOPROP	1996	kg										2289.8
+22	Louisiana	MECOPROP	1997	kg									16.6	
+24	Maryland	MECOPROP	1992	kg									7.5	
+24	Maryland	MECOPROP	1993	kg									3.5	
+24	Maryland	MECOPROP	1994	kg									4	
+24	Maryland	MECOPROP	1995	kg			8.8						12.2	
+24	Maryland	MECOPROP	1996	kg									24.6	
+24	Maryland	MECOPROP	1997	kg									1.2	
+24	Maryland	MECOPROP	1998	kg									132	
+24	Maryland	MECOPROP	1999	kg									1.2	
+24	Maryland	MECOPROP	2000	kg									18.1	
+24	Maryland	MECOPROP	2006	kg									122.4	
+26	Michigan	MECOPROP	1992	kg									331.8	
+26	Michigan	MECOPROP	1993	kg									2118.8	292.4
+26	Michigan	MECOPROP	1994	kg									466.4	
+26	Michigan	MECOPROP	1995	kg									27.1	
+26	Michigan	MECOPROP	1996	kg									92.4	
+26	Michigan	MECOPROP	1997	kg									110.4	925.8
+27	Minnesota	MECOPROP	1992	kg									1139.3	224.3
+27	Minnesota	MECOPROP	1993	kg									10.8	3690.9
+27	Minnesota	MECOPROP	1994	kg			25417.9						1363	3668.6
+27	Minnesota	MECOPROP	1995	kg	15099.4								4122	11609.5
+27	Minnesota	MECOPROP	1996	kg			11157.5						1279.6	7017.6
+27	Minnesota	MECOPROP	1997	kg			4346.9						268	6431.7
+27	Minnesota	MECOPROP	2013	kg									245.5	
+28	Mississippi	MECOPROP	1992	kg				320.7					1178.1	
+28	Mississippi	MECOPROP	1994	kg				77					2071.4	
+28	Mississippi	MECOPROP	1995	kg									204.7	
+28	Mississippi	MECOPROP	2014	kg									398	
+29	Missouri	MECOPROP	1992	kg									4743.1	1614
+29	Missouri	MECOPROP	1993	kg									3485.1	
+29	Missouri	MECOPROP	1994	kg									437.9	208.3
+29	Missouri	MECOPROP	1995	kg									8003.5	117.4
+29	Missouri	MECOPROP	1996	kg									2693.7	
+29	Missouri	MECOPROP	1997	kg									18034.5	
+29	Missouri	MECOPROP	1998	kg									6767.5	
+29	Missouri	MECOPROP	1999	kg									671	
+29	Missouri	MECOPROP	2000	kg									41962	
+29	Missouri	MECOPROP	2001	kg									291.2	
+29	Missouri	MECOPROP	2004	kg									697.9	
+29	Missouri	MECOPROP	2006	kg									31.4	
+29	Missouri	MECOPROP	2007	kg									2195.8	
+29	Missouri	MECOPROP	2013	kg									9483.7	
+29	Missouri	MECOPROP	2017	kg									6	
+30	Montana	MECOPROP	1992	kg									2.9	
+30	Montana	MECOPROP	1993	kg									983.7	
+30	Montana	MECOPROP	1994	kg									105.8	
+30	Montana	MECOPROP	1996	kg			11142.8						1.6	
+30	Montana	MECOPROP	1997	kg									1	
+31	Nebraska	MECOPROP	1992	kg									1391.9	
+31	Nebraska	MECOPROP	1993	kg									325.2	
+31	Nebraska	MECOPROP	1994	kg	85.4	7.7							71.2	
+31	Nebraska	MECOPROP	1995	kg									471.7	
+31	Nebraska	MECOPROP	1996	kg									1938	34.9
+31	Nebraska	MECOPROP	1997	kg									1539.7	52.7
+31	Nebraska	MECOPROP	2000	kg									17549.3	
+32	Nevada	MECOPROP	1992	kg									6.4	
+32	Nevada	MECOPROP	1993	kg									1291.7	
+32	Nevada	MECOPROP	1994	kg									190	
+32	Nevada	MECOPROP	1995	kg									0.1	
+32	Nevada	MECOPROP	1997	kg									287.3	
+35	New Mexico	MECOPROP	1992	kg									3.1	
+35	New Mexico	MECOPROP	1993	kg									2.5	
+35	New Mexico	MECOPROP	1995	kg				828.5						5560.1
+35	New Mexico	MECOPROP	1996	kg									11.9	
+35	New Mexico	MECOPROP	1997	kg									682.5	
+37	North Carolina	MECOPROP	1992	kg									27.8	
+37	North Carolina	MECOPROP	1993	kg									337.1	
+37	North Carolina	MECOPROP	1994	kg									26.3	
+37	North Carolina	MECOPROP	1995	kg									1004	
+37	North Carolina	MECOPROP	1996	kg									2055.3	34.3
+37	North Carolina	MECOPROP	1997	kg	1298.2								8.6	
+37	North Carolina	MECOPROP	1999	kg									6.6	
+37	North Carolina	MECOPROP	2000	kg									346.1	
+37	North Carolina	MECOPROP	2006	kg									689.3	
+37	North Carolina	MECOPROP	2016	kg									934.8	
+37	North Carolina	MECOPROP	2017	kg									3134.5	
+38	North Dakota	MECOPROP	1992	kg									5.3	
+38	North Dakota	MECOPROP	1993	kg										12675.9
+38	North Dakota	MECOPROP	1994	kg			80869.9						309.2	8429.3
+38	North Dakota	MECOPROP	1996	kg			11370.5						2.2	6673.7
+38	North Dakota	MECOPROP	1997	kg			21206.1						182.4	19600
+39	Ohio	MECOPROP	1992	kg									1189.2	532.9
+39	Ohio	MECOPROP	1993	kg									2118.7	
+39	Ohio	MECOPROP	1994	kg									588.8	20.7
+39	Ohio	MECOPROP	1995	kg									1600.8	
+39	Ohio	MECOPROP	1996	kg									1856.9	
+39	Ohio	MECOPROP	1997	kg									215.4	
+39	Ohio	MECOPROP	1999	kg									37.4	
+39	Ohio	MECOPROP	2000	kg									601.4	
+39	Ohio	MECOPROP	2006	kg									2582.8	
+39	Ohio	MECOPROP	2013	kg									592.8	
+40	Oklahoma	MECOPROP	1993	kg									166.9	
+40	Oklahoma	MECOPROP	1994	kg									348.7	
+40	Oklahoma	MECOPROP	1995	kg										55.9
+40	Oklahoma	MECOPROP	1996	kg									7047.9	
+40	Oklahoma	MECOPROP	1997	kg									193.7	
+40	Oklahoma	MECOPROP	2000	kg									5929.6	
+40	Oklahoma	MECOPROP	2007	kg									9283.8	
+41	Oregon	MECOPROP	1992	kg									1	
+41	Oregon	MECOPROP	1993	kg									27.8	
+41	Oregon	MECOPROP	1995	kg									1323.5	
+41	Oregon	MECOPROP	1996	kg									4.8	
+41	Oregon	MECOPROP	1997	kg									167.8	
+42	Pennsylvania	MECOPROP	1992	kg									59.5	
+42	Pennsylvania	MECOPROP	1993	kg									50.8	
+42	Pennsylvania	MECOPROP	1994	kg									20.6	
+42	Pennsylvania	MECOPROP	1995	kg									494.9	
+42	Pennsylvania	MECOPROP	1996	kg									298.3	
+42	Pennsylvania	MECOPROP	1997	kg									18.4	
+42	Pennsylvania	MECOPROP	1998	kg									219.9	
+42	Pennsylvania	MECOPROP	1999	kg									9.8	
+42	Pennsylvania	MECOPROP	2000	kg									155.5	
+42	Pennsylvania	MECOPROP	2006	kg									1181.7	
+45	South Carolina	MECOPROP	1995	kg									107.2	
+45	South Carolina	MECOPROP	1997	kg									172	
+45	South Carolina	MECOPROP	2000	kg									1639.7	
+46	South Dakota	MECOPROP	1992	kg									628.4	
+46	South Dakota	MECOPROP	1993	kg									485	
+46	South Dakota	MECOPROP	1994	kg	110.2	14.8	3921.4						193.9	411.6
+46	South Dakota	MECOPROP	1995	kg	7312.7								696.1	
+46	South Dakota	MECOPROP	1996	kg			1902.6						46.6	409
+46	South Dakota	MECOPROP	1997	kg			734.7						202.8	
+47	Tennessee	MECOPROP	1992	kg				989					505.3	
+47	Tennessee	MECOPROP	1993	kg									9484.6	
+47	Tennessee	MECOPROP	1994	kg									3443.8	
+47	Tennessee	MECOPROP	1995	kg									4668	
+47	Tennessee	MECOPROP	1996	kg									9054.6	68.2
+47	Tennessee	MECOPROP	1997	kg	3672								68.4	
+47	Tennessee	MECOPROP	1998	kg									51.1	
+47	Tennessee	MECOPROP	1999	kg									96.1	
+47	Tennessee	MECOPROP	2006	kg									8750.6	
+47	Tennessee	MECOPROP	2014	kg									1407.1	
+48	Texas	MECOPROP	1993	kg									2.3	
+48	Texas	MECOPROP	1995	kg				65906.1						28877.8
+48	Texas	MECOPROP	1996	kg									16185.3	
+48	Texas	MECOPROP	1997	kg									1416.4	
+48	Texas	MECOPROP	1999	kg									82917	
+49	Utah	MECOPROP	1992	kg									3.3	
+49	Utah	MECOPROP	1993	kg									3393.4	
+49	Utah	MECOPROP	1994	kg	21.3								165.3	
+49	Utah	MECOPROP	1995	kg									0.8	
+49	Utah	MECOPROP	1997	kg									704.4	
+49	Utah	MECOPROP	1998	kg			1483.1							
+51	Virginia	MECOPROP	1992	kg									925.1	
+51	Virginia	MECOPROP	1993	kg									859.4	
+51	Virginia	MECOPROP	1994	kg									368	
+51	Virginia	MECOPROP	1995	kg			32.1						2743.2	
+51	Virginia	MECOPROP	1996	kg									4225.4	36.3
+51	Virginia	MECOPROP	1997	kg	836.5								23.2	
+51	Virginia	MECOPROP	1999	kg									24.1	
+51	Virginia	MECOPROP	2000	kg									56.5	
+51	Virginia	MECOPROP	2006	kg									5293.9	
+51	Virginia	MECOPROP	2017	kg									1411.7	
+53	Washington	MECOPROP	1993	kg									9.5	
+53	Washington	MECOPROP	1995	kg									1751.4	
+53	Washington	MECOPROP	1996	kg									6.1	
+53	Washington	MECOPROP	1997	kg			181487							
+54	West Virginia	MECOPROP	1992	kg									261.3	
+54	West Virginia	MECOPROP	1993	kg									36.9	
+54	West Virginia	MECOPROP	1994	kg									21.3	
+54	West Virginia	MECOPROP	1995	kg									331.1	
+54	West Virginia	MECOPROP	1996	kg									939.1	
+54	West Virginia	MECOPROP	1997	kg									42.1	
+54	West Virginia	MECOPROP	1998	kg									744.3	
+54	West Virginia	MECOPROP	1999	kg									23.1	
+54	West Virginia	MECOPROP	2000	kg									1051.4	
+54	West Virginia	MECOPROP	2006	kg									5757.4	
+55	Wisconsin	MECOPROP	1992	kg									520.8	5977.9
+55	Wisconsin	MECOPROP	1993	kg									3012.8	5937.5
+55	Wisconsin	MECOPROP	1994	kg									739.3	1739.5
+55	Wisconsin	MECOPROP	1995	kg	1020.5				413.1				13.8	
+55	Wisconsin	MECOPROP	1996	kg									119.9	
+55	Wisconsin	MECOPROP	1997	kg									30.3	
+55	Wisconsin	MECOPROP	2000	kg									463.9	
+55	Wisconsin	MECOPROP	2013	kg									1448.4	
+56	Wyoming	MECOPROP	1992	kg									6.9	
+56	Wyoming	MECOPROP	1994	kg									63.4	
+56	Wyoming	MECOPROP	1996	kg			83.5						0.5	45.6
+56	Wyoming	MECOPROP	1997	kg									773.1	
+56	Wyoming	MECOPROP	1998	kg			1.5							

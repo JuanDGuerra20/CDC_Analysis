@@ -1,0 +1,10 @@
+01	Alabama	DICHLONE	1995	kg				11505.1						
+06	California	DICHLONE	1993	kg							0			
+06	California	DICHLONE	2004	kg							0			
+18	Indiana	DICHLONE	1992	kg							28.2			
+18	Indiana	DICHLONE	1994	kg							238.1			
+21	Kentucky	DICHLONE	1992	kg							18.9			
+21	Kentucky	DICHLONE	1994	kg							167.8			
+28	Mississippi	DICHLONE	1995	kg				25184.6						
+39	Ohio	DICHLONE	1992	kg							215.7			
+39	Ohio	DICHLONE	1994	kg							1698.8			

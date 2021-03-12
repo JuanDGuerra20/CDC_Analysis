@@ -1,0 +1,22 @@
+01	Alabama	POLYHEDROSIS VIRUS	1996	kg				88.5						
+04	Arizona	POLYHEDROSIS VIRUS	2017	kg				2.1						
+06	California	POLYHEDROSIS VIRUS	2003	kg					0.3					
+06	California	POLYHEDROSIS VIRUS	2004	kg					0.6					
+06	California	POLYHEDROSIS VIRUS	2008	kg	0.1									
+06	California	POLYHEDROSIS VIRUS	2009	kg				0.5	0					
+06	California	POLYHEDROSIS VIRUS	2010	kg	0.2									
+06	California	POLYHEDROSIS VIRUS	2011	kg	23				0					
+06	California	POLYHEDROSIS VIRUS	2012	kg	2.5				0.1					
+06	California	POLYHEDROSIS VIRUS	2013	kg	0.5				0.1					
+06	California	POLYHEDROSIS VIRUS	2014	kg	0.8				0					
+06	California	POLYHEDROSIS VIRUS	2015	kg	0.6				1.2					
+06	California	POLYHEDROSIS VIRUS	2016	kg	7.3				2.1					
+06	California	POLYHEDROSIS VIRUS	2017	kg	16.1				2.4					
+12	Florida	POLYHEDROSIS VIRUS	1996	kg				46.9						
+12	Florida	POLYHEDROSIS VIRUS	1997	kg					0.4					
+13	Georgia	POLYHEDROSIS VIRUS	1996	kg				526.8						
+35	New Mexico	POLYHEDROSIS VIRUS	1996	kg				0.9						
+35	New Mexico	POLYHEDROSIS VIRUS	1997	kg				6						
+35	New Mexico	POLYHEDROSIS VIRUS	2017	kg				0						
+48	Texas	POLYHEDROSIS VIRUS	1996	kg				8.2						
+48	Texas	POLYHEDROSIS VIRUS	1997	kg				90.9						

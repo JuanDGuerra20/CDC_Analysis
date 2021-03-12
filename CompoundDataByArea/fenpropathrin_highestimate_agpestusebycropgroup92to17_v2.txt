@@ -1,0 +1,609 @@
+01	Alabama	FENPROPATHRIN	1994	kg				139.6						
+01	Alabama	FENPROPATHRIN	1996	kg				1547						
+01	Alabama	FENPROPATHRIN	1997	kg					6.3					
+01	Alabama	FENPROPATHRIN	1998	kg					71.3					301.5
+01	Alabama	FENPROPATHRIN	2000	kg					21.7					
+01	Alabama	FENPROPATHRIN	2001	kg					41.5					279.7
+01	Alabama	FENPROPATHRIN	2002	kg										510.2
+01	Alabama	FENPROPATHRIN	2003	kg					117.4					
+01	Alabama	FENPROPATHRIN	2006	kg					42.4					
+01	Alabama	FENPROPATHRIN	2007	kg										1410.2
+01	Alabama	FENPROPATHRIN	2008	kg					0.4					
+01	Alabama	FENPROPATHRIN	2009	kg					13.9					
+01	Alabama	FENPROPATHRIN	2015	kg							662.4			
+01	Alabama	FENPROPATHRIN	2016	kg							158.5			
+04	Arizona	FENPROPATHRIN	1992	kg							4.8			
+04	Arizona	FENPROPATHRIN	1993	kg				11941.3						
+04	Arizona	FENPROPATHRIN	1994	kg				21815.3						
+04	Arizona	FENPROPATHRIN	1995	kg				54762.9						
+04	Arizona	FENPROPATHRIN	1996	kg				4243.8						
+04	Arizona	FENPROPATHRIN	1997	kg				3203.1						
+04	Arizona	FENPROPATHRIN	1998	kg				1132.5						
+04	Arizona	FENPROPATHRIN	1999	kg				1899.3						
+04	Arizona	FENPROPATHRIN	2000	kg				1267.6						
+04	Arizona	FENPROPATHRIN	2001	kg				2896.8	521.7		17.8			
+04	Arizona	FENPROPATHRIN	2002	kg				707.5	2.3		174.3			
+04	Arizona	FENPROPATHRIN	2003	kg				744.5	203.9		76.9			
+04	Arizona	FENPROPATHRIN	2004	kg				519.7	13.1		185.1			
+04	Arizona	FENPROPATHRIN	2005	kg				1142.3	264.4		401			
+04	Arizona	FENPROPATHRIN	2006	kg					10.6		317.5			
+04	Arizona	FENPROPATHRIN	2007	kg					0.1		73.8			
+04	Arizona	FENPROPATHRIN	2008	kg					1.6		53.5			
+04	Arizona	FENPROPATHRIN	2009	kg					488.2		71.7			
+04	Arizona	FENPROPATHRIN	2010	kg					0.8		6			
+04	Arizona	FENPROPATHRIN	2011	kg				293.3	0		7.3			
+04	Arizona	FENPROPATHRIN	2012	kg					0.3		369.8			
+04	Arizona	FENPROPATHRIN	2013	kg					316.2		143			
+04	Arizona	FENPROPATHRIN	2014	kg					190.8		114.5			
+04	Arizona	FENPROPATHRIN	2015	kg					1140.5		267.2			
+04	Arizona	FENPROPATHRIN	2016	kg					687		177.3			
+04	Arizona	FENPROPATHRIN	2017	kg					0.3		396.3			
+05	Arkansas	FENPROPATHRIN	1997	kg									19.9	
+05	Arkansas	FENPROPATHRIN	1999	kg				2445.4						
+06	California	FENPROPATHRIN	1994	kg				7344.4	31.4					
+06	California	FENPROPATHRIN	1995	kg				3989.5						
+06	California	FENPROPATHRIN	1996	kg				9479.5	910.1					
+06	California	FENPROPATHRIN	1997	kg				6250.1	1564.9		15.9			
+06	California	FENPROPATHRIN	1998	kg				1957.1	2182.4		61.2	3		
+06	California	FENPROPATHRIN	1999	kg				2277.1	964.9		34.8	2.9		
+06	California	FENPROPATHRIN	2000	kg				4012.1	1616		123.5			
+06	California	FENPROPATHRIN	2001	kg				4164.5	1937.6		4811.3			
+06	California	FENPROPATHRIN	2002	kg				4823	2660.2		8143.4			
+06	California	FENPROPATHRIN	2003	kg				4344.1	3655		10206.1			
+06	California	FENPROPATHRIN	2004	kg				3173	4651.7		12172.2			
+06	California	FENPROPATHRIN	2005	kg				1285.4	4732.6		12134.4			
+06	California	FENPROPATHRIN	2006	kg				880.9	4881.6		11178.9			
+06	California	FENPROPATHRIN	2007	kg				795.5	4531		10185.3			0.3
+06	California	FENPROPATHRIN	2008	kg				513.1	5640		10774			
+06	California	FENPROPATHRIN	2009	kg				351.5	5538.6		9047.9			
+06	California	FENPROPATHRIN	2010	kg				663	4069		8686.9			
+06	California	FENPROPATHRIN	2011	kg				1293.6	3743.2		7562.6			6.9
+06	California	FENPROPATHRIN	2012	kg				2093.8	3703.6		13434			
+06	California	FENPROPATHRIN	2013	kg				5601.6	3759.2		12326			
+06	California	FENPROPATHRIN	2014	kg				2311.3	4325.3		16176.5			
+06	California	FENPROPATHRIN	2015	kg				884.9	4872.1		19547.1			
+06	California	FENPROPATHRIN	2016	kg				823.6	3371		19478.8			
+06	California	FENPROPATHRIN	2017	kg				340.9	2976.4		16693.3			
+08	Colorado	FENPROPATHRIN	1992	kg							102.5			
+08	Colorado	FENPROPATHRIN	1993	kg					180.8					
+08	Colorado	FENPROPATHRIN	2003	kg							43.3			
+08	Colorado	FENPROPATHRIN	2004	kg							7.9			
+08	Colorado	FENPROPATHRIN	2005	kg							34.8			
+09	Connecticut	FENPROPATHRIN	2000	kg							30.2			
+09	Connecticut	FENPROPATHRIN	2001	kg							147.1			
+09	Connecticut	FENPROPATHRIN	2002	kg							31.8			
+09	Connecticut	FENPROPATHRIN	2003	kg							63.7			
+09	Connecticut	FENPROPATHRIN	2004	kg							90.9			
+09	Connecticut	FENPROPATHRIN	2005	kg							191.6			
+09	Connecticut	FENPROPATHRIN	2006	kg							142.6			
+09	Connecticut	FENPROPATHRIN	2007	kg							194			
+09	Connecticut	FENPROPATHRIN	2008	kg							77.3			
+09	Connecticut	FENPROPATHRIN	2009	kg							151.4			
+09	Connecticut	FENPROPATHRIN	2010	kg					13.5		45			
+09	Connecticut	FENPROPATHRIN	2011	kg					6.1		36.6			
+09	Connecticut	FENPROPATHRIN	2012	kg					12.6		35.2			
+09	Connecticut	FENPROPATHRIN	2013	kg					2.6		483.5			
+09	Connecticut	FENPROPATHRIN	2014	kg					22.2		318.9			
+09	Connecticut	FENPROPATHRIN	2015	kg					8.1		491.8			
+09	Connecticut	FENPROPATHRIN	2016	kg							745.8			
+09	Connecticut	FENPROPATHRIN	2017	kg							28.9			
+10	Delaware	FENPROPATHRIN	2004	kg					0.7					
+10	Delaware	FENPROPATHRIN	2007	kg					0.4					
+10	Delaware	FENPROPATHRIN	2008	kg					1.3					
+10	Delaware	FENPROPATHRIN	2009	kg					0.4					
+10	Delaware	FENPROPATHRIN	2010	kg					0.9					
+10	Delaware	FENPROPATHRIN	2011	kg							0			
+10	Delaware	FENPROPATHRIN	2013	kg					0.1					
+10	Delaware	FENPROPATHRIN	2014	kg							0			
+10	Delaware	FENPROPATHRIN	2015	kg							0.2			
+10	Delaware	FENPROPATHRIN	2016	kg							0.1			
+12	Florida	FENPROPATHRIN	1993	kg					714.5					
+12	Florida	FENPROPATHRIN	1994	kg					9009.7					
+12	Florida	FENPROPATHRIN	1997	kg					24.3					
+12	Florida	FENPROPATHRIN	1998	kg					641.8					91.7
+12	Florida	FENPROPATHRIN	2000	kg					97.5		1505.1			
+12	Florida	FENPROPATHRIN	2001	kg							1920.1			30.6
+12	Florida	FENPROPATHRIN	2002	kg					1292.7					128.5
+12	Florida	FENPROPATHRIN	2003	kg							571.1			
+12	Florida	FENPROPATHRIN	2004	kg					3407.8		1122.1			
+12	Florida	FENPROPATHRIN	2005	kg					1314.9		3757.5			
+12	Florida	FENPROPATHRIN	2006	kg					455.7		7340.7			
+12	Florida	FENPROPATHRIN	2007	kg					1334.2		32546.1			
+12	Florida	FENPROPATHRIN	2008	kg					1721.7		38738.8			
+12	Florida	FENPROPATHRIN	2009	kg					1568.8		30173.6			
+12	Florida	FENPROPATHRIN	2010	kg					351.7		17948.4			
+12	Florida	FENPROPATHRIN	2011	kg					1602		25017.8			
+12	Florida	FENPROPATHRIN	2012	kg					3156		29059.7			
+12	Florida	FENPROPATHRIN	2013	kg					4066.1		28005.4			
+12	Florida	FENPROPATHRIN	2014	kg							43097			
+12	Florida	FENPROPATHRIN	2015	kg					231.7		41987.8			
+12	Florida	FENPROPATHRIN	2016	kg							40299			
+12	Florida	FENPROPATHRIN	2017	kg							23188.2			
+13	Georgia	FENPROPATHRIN	1997	kg					20.8					
+13	Georgia	FENPROPATHRIN	1998	kg					297.5					376.4
+13	Georgia	FENPROPATHRIN	2000	kg					148.2		3.4			
+13	Georgia	FENPROPATHRIN	2001	kg					4		59.8			228.6
+13	Georgia	FENPROPATHRIN	2002	kg							11.4			1266.4
+13	Georgia	FENPROPATHRIN	2003	kg					7.8					
+13	Georgia	FENPROPATHRIN	2004	kg					45.5		35.9			
+13	Georgia	FENPROPATHRIN	2005	kg							48.1			
+13	Georgia	FENPROPATHRIN	2006	kg					1.3		36.4			
+13	Georgia	FENPROPATHRIN	2007	kg							130			3786.5
+13	Georgia	FENPROPATHRIN	2008	kg							11.5			
+13	Georgia	FENPROPATHRIN	2009	kg					0.3		12			
+13	Georgia	FENPROPATHRIN	2011	kg							30.4			
+13	Georgia	FENPROPATHRIN	2012	kg							2.2			
+13	Georgia	FENPROPATHRIN	2013	kg							78.9			
+13	Georgia	FENPROPATHRIN	2014	kg							70.1			
+13	Georgia	FENPROPATHRIN	2015	kg							19.1			
+16	Idaho	FENPROPATHRIN	2003	kg							2.1			
+16	Idaho	FENPROPATHRIN	2004	kg							1.3			
+16	Idaho	FENPROPATHRIN	2013	kg							11.4			
+16	Idaho	FENPROPATHRIN	2014	kg							9.2			
+16	Idaho	FENPROPATHRIN	2015	kg							13			
+16	Idaho	FENPROPATHRIN	2016	kg							4.7			
+16	Idaho	FENPROPATHRIN	2017	kg							19.6			
+17	Illinois	FENPROPATHRIN	2000	kg							91.7			
+17	Illinois	FENPROPATHRIN	2001	kg							111.4			
+17	Illinois	FENPROPATHRIN	2002	kg							59			
+17	Illinois	FENPROPATHRIN	2003	kg					3.8		775.1			
+17	Illinois	FENPROPATHRIN	2004	kg							347.3			
+17	Illinois	FENPROPATHRIN	2005	kg					5.4					
+17	Illinois	FENPROPATHRIN	2008	kg					14.2					
+17	Illinois	FENPROPATHRIN	2010	kg					6.1					
+17	Illinois	FENPROPATHRIN	2011	kg					20.2					
+17	Illinois	FENPROPATHRIN	2012	kg					94.4					
+17	Illinois	FENPROPATHRIN	2017	kg					413.5					
+18	Indiana	FENPROPATHRIN	2000	kg							50.6			
+18	Indiana	FENPROPATHRIN	2001	kg					0		45.8			
+18	Indiana	FENPROPATHRIN	2002	kg					87		17.6			
+18	Indiana	FENPROPATHRIN	2003	kg					30.3		368.9			
+18	Indiana	FENPROPATHRIN	2004	kg							408.4			
+18	Indiana	FENPROPATHRIN	2005	kg					5.1		9.3			
+18	Indiana	FENPROPATHRIN	2006	kg							3.2			
+18	Indiana	FENPROPATHRIN	2007	kg					1.6		10.3			
+18	Indiana	FENPROPATHRIN	2008	kg					15.4		1.6			
+18	Indiana	FENPROPATHRIN	2009	kg					13.6		0.4			
+18	Indiana	FENPROPATHRIN	2010	kg					7.7		22.8			
+18	Indiana	FENPROPATHRIN	2011	kg							2.1			
+18	Indiana	FENPROPATHRIN	2012	kg					1.5		2.5			
+18	Indiana	FENPROPATHRIN	2014	kg							0.9			
+18	Indiana	FENPROPATHRIN	2015	kg							0			
+18	Indiana	FENPROPATHRIN	2016	kg							13			
+18	Indiana	FENPROPATHRIN	2017	kg					34.9		0.2			
+19	Iowa	FENPROPATHRIN	2000	kg							6.4			
+19	Iowa	FENPROPATHRIN	2001	kg							8.4			
+19	Iowa	FENPROPATHRIN	2002	kg							4.7			
+19	Iowa	FENPROPATHRIN	2003	kg					2		18.8			
+19	Iowa	FENPROPATHRIN	2004	kg							28.7			
+19	Iowa	FENPROPATHRIN	2010	kg					0.9					
+19	Iowa	FENPROPATHRIN	2011	kg					5.6					
+19	Iowa	FENPROPATHRIN	2017	kg					10.4					
+21	Kentucky	FENPROPATHRIN	1993	kg										22.1
+21	Kentucky	FENPROPATHRIN	2000	kg							13.8			
+21	Kentucky	FENPROPATHRIN	2001	kg					19.2		9.7			
+21	Kentucky	FENPROPATHRIN	2002	kg							9.7			
+21	Kentucky	FENPROPATHRIN	2003	kg					48.6		4.1			
+21	Kentucky	FENPROPATHRIN	2004	kg							75.1			
+21	Kentucky	FENPROPATHRIN	2005	kg					0.9					
+21	Kentucky	FENPROPATHRIN	2006	kg					26.3		7.4			
+21	Kentucky	FENPROPATHRIN	2007	kg							52.5			
+21	Kentucky	FENPROPATHRIN	2008	kg					0.8		12.7			
+21	Kentucky	FENPROPATHRIN	2009	kg					24.7					
+21	Kentucky	FENPROPATHRIN	2011	kg							17.4			
+21	Kentucky	FENPROPATHRIN	2012	kg							5.2			
+21	Kentucky	FENPROPATHRIN	2013	kg							11.8			
+21	Kentucky	FENPROPATHRIN	2014	kg							34.9			
+21	Kentucky	FENPROPATHRIN	2015	kg							16.2			
+21	Kentucky	FENPROPATHRIN	2017	kg					9.4					
+22	Louisiana	FENPROPATHRIN	1997	kg									37.3	
+23	Maine	FENPROPATHRIN	1995	kg					12					
+23	Maine	FENPROPATHRIN	2000	kg							34.1			
+23	Maine	FENPROPATHRIN	2001	kg							62.6			
+23	Maine	FENPROPATHRIN	2002	kg					3.5		1000.3			
+23	Maine	FENPROPATHRIN	2003	kg							66.9			
+23	Maine	FENPROPATHRIN	2004	kg					5.3		246.2			
+23	Maine	FENPROPATHRIN	2005	kg							144.2			
+23	Maine	FENPROPATHRIN	2006	kg					8.3		136.3			
+23	Maine	FENPROPATHRIN	2007	kg					6.8		215.4			
+23	Maine	FENPROPATHRIN	2008	kg							121.9			
+23	Maine	FENPROPATHRIN	2009	kg							28.7			
+23	Maine	FENPROPATHRIN	2010	kg					10.7		50			
+23	Maine	FENPROPATHRIN	2011	kg					4.9		98.4			
+23	Maine	FENPROPATHRIN	2012	kg					8		64.5			
+23	Maine	FENPROPATHRIN	2013	kg							73.4			
+23	Maine	FENPROPATHRIN	2014	kg							215.2			
+23	Maine	FENPROPATHRIN	2015	kg							431.3			
+24	Maryland	FENPROPATHRIN	2000	kg							31.7			
+24	Maryland	FENPROPATHRIN	2001	kg							6.8			
+24	Maryland	FENPROPATHRIN	2002	kg					2.3		30.8			
+24	Maryland	FENPROPATHRIN	2003	kg					9.1		310.5			
+24	Maryland	FENPROPATHRIN	2004	kg					5		37.1			
+24	Maryland	FENPROPATHRIN	2005	kg					13.8		11			
+24	Maryland	FENPROPATHRIN	2006	kg					5.4		17.7			
+24	Maryland	FENPROPATHRIN	2007	kg					6.7		101.8			
+24	Maryland	FENPROPATHRIN	2008	kg					12.4		29.1			
+24	Maryland	FENPROPATHRIN	2009	kg					3.6		13.5			
+24	Maryland	FENPROPATHRIN	2010	kg					8.9		91.8			
+24	Maryland	FENPROPATHRIN	2011	kg					2.5		164.4			
+24	Maryland	FENPROPATHRIN	2012	kg					4.3		42.9			
+24	Maryland	FENPROPATHRIN	2013	kg					3		99.8			
+24	Maryland	FENPROPATHRIN	2014	kg					8		97			
+24	Maryland	FENPROPATHRIN	2015	kg					3.1		227			
+24	Maryland	FENPROPATHRIN	2016	kg							61.4			
+24	Maryland	FENPROPATHRIN	2017	kg					13		30.7			
+25	Massachusetts	FENPROPATHRIN	1995	kg					17.9					
+25	Massachusetts	FENPROPATHRIN	2000	kg							58.6			
+25	Massachusetts	FENPROPATHRIN	2001	kg							278			
+25	Massachusetts	FENPROPATHRIN	2002	kg					4.5		88.3			
+25	Massachusetts	FENPROPATHRIN	2003	kg							101.3			
+25	Massachusetts	FENPROPATHRIN	2004	kg					7.5		61.1			
+25	Massachusetts	FENPROPATHRIN	2005	kg							199.5			
+25	Massachusetts	FENPROPATHRIN	2006	kg					12		244			
+25	Massachusetts	FENPROPATHRIN	2007	kg					9.8		323.8			
+25	Massachusetts	FENPROPATHRIN	2008	kg							110.7			
+25	Massachusetts	FENPROPATHRIN	2009	kg							246.6			
+25	Massachusetts	FENPROPATHRIN	2010	kg					19.1		49.1			
+25	Massachusetts	FENPROPATHRIN	2011	kg					8		23			
+25	Massachusetts	FENPROPATHRIN	2012	kg					15.5		46.6			
+25	Massachusetts	FENPROPATHRIN	2013	kg					3.2		757.5			
+25	Massachusetts	FENPROPATHRIN	2014	kg					27.6		413.8			
+25	Massachusetts	FENPROPATHRIN	2015	kg					11.3		854.5			
+25	Massachusetts	FENPROPATHRIN	2016	kg							1332.6			
+25	Massachusetts	FENPROPATHRIN	2017	kg							54.5			
+26	Michigan	FENPROPATHRIN	2000	kg							1109			
+26	Michigan	FENPROPATHRIN	2001	kg					1.4		2827.9			
+26	Michigan	FENPROPATHRIN	2002	kg					174.6		1362.3			
+26	Michigan	FENPROPATHRIN	2003	kg					528.9		2039.9			
+26	Michigan	FENPROPATHRIN	2004	kg							1323.1			
+26	Michigan	FENPROPATHRIN	2005	kg					156.7		721.5			
+26	Michigan	FENPROPATHRIN	2006	kg							878.3			
+26	Michigan	FENPROPATHRIN	2007	kg					41.5		752.9			
+26	Michigan	FENPROPATHRIN	2008	kg					83.9		428.5			
+26	Michigan	FENPROPATHRIN	2009	kg					95.5		554.1			
+26	Michigan	FENPROPATHRIN	2010	kg					45		1322.9			
+26	Michigan	FENPROPATHRIN	2011	kg							267.7			
+26	Michigan	FENPROPATHRIN	2012	kg					29.6		302.1			
+26	Michigan	FENPROPATHRIN	2013	kg					16.5		1583.8			
+26	Michigan	FENPROPATHRIN	2014	kg					84.4		894.5			
+26	Michigan	FENPROPATHRIN	2015	kg							4313.8			
+26	Michigan	FENPROPATHRIN	2016	kg							2874.8			
+26	Michigan	FENPROPATHRIN	2017	kg							3379.6			
+27	Minnesota	FENPROPATHRIN	2000	kg							46.9			
+27	Minnesota	FENPROPATHRIN	2001	kg							55			
+27	Minnesota	FENPROPATHRIN	2002	kg							14.8			
+27	Minnesota	FENPROPATHRIN	2003	kg					11.8		74.6			
+27	Minnesota	FENPROPATHRIN	2004	kg							22.7			
+27	Minnesota	FENPROPATHRIN	2005	kg							9.9			
+27	Minnesota	FENPROPATHRIN	2006	kg							24.6			
+27	Minnesota	FENPROPATHRIN	2007	kg							11.9			
+27	Minnesota	FENPROPATHRIN	2008	kg							9.8			
+27	Minnesota	FENPROPATHRIN	2009	kg							13.9			
+27	Minnesota	FENPROPATHRIN	2010	kg					6.3		32.4			
+27	Minnesota	FENPROPATHRIN	2011	kg					10.4		5.6			
+27	Minnesota	FENPROPATHRIN	2012	kg							6.8			
+27	Minnesota	FENPROPATHRIN	2013	kg							11.6			
+27	Minnesota	FENPROPATHRIN	2014	kg							11.1			
+27	Minnesota	FENPROPATHRIN	2015	kg					103.1		11.3			
+27	Minnesota	FENPROPATHRIN	2016	kg							15.7			
+27	Minnesota	FENPROPATHRIN	2017	kg					919.5		31.7			
+28	Mississippi	FENPROPATHRIN	1994	kg				24.6						
+28	Mississippi	FENPROPATHRIN	1996	kg				3868.1						
+28	Mississippi	FENPROPATHRIN	2015	kg							40.1			
+29	Missouri	FENPROPATHRIN	1999	kg				1328.7						
+29	Missouri	FENPROPATHRIN	2000	kg							16.2			
+29	Missouri	FENPROPATHRIN	2001	kg							20.4			
+29	Missouri	FENPROPATHRIN	2002	kg							4.1			
+29	Missouri	FENPROPATHRIN	2003	kg							109.2			
+29	Missouri	FENPROPATHRIN	2004	kg							70.6			
+29	Missouri	FENPROPATHRIN	2017	kg					4.2					
+31	Nebraska	FENPROPATHRIN	1993	kg					210.9					
+32	Nevada	FENPROPATHRIN	2001	kg							0			
+32	Nevada	FENPROPATHRIN	2002	kg					0		3.4			
+32	Nevada	FENPROPATHRIN	2003	kg							1.6			
+32	Nevada	FENPROPATHRIN	2004	kg					3		1.2			
+32	Nevada	FENPROPATHRIN	2005	kg							4.2			
+32	Nevada	FENPROPATHRIN	2006	kg							2.5			
+32	Nevada	FENPROPATHRIN	2007	kg							1.3			
+32	Nevada	FENPROPATHRIN	2008	kg					0.1		0			
+32	Nevada	FENPROPATHRIN	2009	kg					0		0			
+32	Nevada	FENPROPATHRIN	2010	kg					0		0.1			
+32	Nevada	FENPROPATHRIN	2011	kg					0		0.1			
+32	Nevada	FENPROPATHRIN	2012	kg					0		0.5			
+32	Nevada	FENPROPATHRIN	2013	kg					0		0.6			
+32	Nevada	FENPROPATHRIN	2014	kg					0		0.3			
+32	Nevada	FENPROPATHRIN	2015	kg					0.2		0.8			
+32	Nevada	FENPROPATHRIN	2016	kg					0		0.3			
+32	Nevada	FENPROPATHRIN	2017	kg					0.1					
+33	New Hampshire	FENPROPATHRIN	1995	kg					10.4					
+33	New Hampshire	FENPROPATHRIN	2000	kg							13.1			
+33	New Hampshire	FENPROPATHRIN	2001	kg							18.7			
+33	New Hampshire	FENPROPATHRIN	2002	kg					2		306.7			
+33	New Hampshire	FENPROPATHRIN	2003	kg							39.3			
+33	New Hampshire	FENPROPATHRIN	2004	kg					3.2		82.5			
+33	New Hampshire	FENPROPATHRIN	2005	kg							37.6			
+33	New Hampshire	FENPROPATHRIN	2006	kg					4.8		93.5			
+33	New Hampshire	FENPROPATHRIN	2007	kg					3.8		151.3			
+33	New Hampshire	FENPROPATHRIN	2008	kg							80.7			
+33	New Hampshire	FENPROPATHRIN	2009	kg							17.4			
+33	New Hampshire	FENPROPATHRIN	2010	kg					8		27.9			
+33	New Hampshire	FENPROPATHRIN	2011	kg					3.6		49.9			
+33	New Hampshire	FENPROPATHRIN	2012	kg					6.2		29.8			
+33	New Hampshire	FENPROPATHRIN	2013	kg							35			
+33	New Hampshire	FENPROPATHRIN	2014	kg							106			
+33	New Hampshire	FENPROPATHRIN	2015	kg							220.4			
+34	New Jersey	FENPROPATHRIN	2000	kg							21.2			
+34	New Jersey	FENPROPATHRIN	2001	kg							57.6			
+34	New Jersey	FENPROPATHRIN	2002	kg					6.4		11.1			
+34	New Jersey	FENPROPATHRIN	2003	kg							44			
+34	New Jersey	FENPROPATHRIN	2004	kg					9.7		63.5			
+34	New Jersey	FENPROPATHRIN	2005	kg							102.7			
+34	New Jersey	FENPROPATHRIN	2006	kg					11.8		76.6			
+34	New Jersey	FENPROPATHRIN	2007	kg					6.4		104.6			
+34	New Jersey	FENPROPATHRIN	2008	kg					20.8		46.9			
+34	New Jersey	FENPROPATHRIN	2009	kg					6.4		58.8			
+34	New Jersey	FENPROPATHRIN	2010	kg					16.3		32.1			
+34	New Jersey	FENPROPATHRIN	2011	kg					8.5		1825.1			
+34	New Jersey	FENPROPATHRIN	2012	kg					15.2		917.7			
+34	New Jersey	FENPROPATHRIN	2013	kg					2.4		305.7			
+34	New Jersey	FENPROPATHRIN	2014	kg					61.1		1151.8			
+34	New Jersey	FENPROPATHRIN	2015	kg					10.6		828.2			
+34	New Jersey	FENPROPATHRIN	2016	kg							1058.8			
+34	New Jersey	FENPROPATHRIN	2017	kg							15.2			
+35	New Mexico	FENPROPATHRIN	1992	kg							25.1			
+35	New Mexico	FENPROPATHRIN	1993	kg				160.6						
+35	New Mexico	FENPROPATHRIN	1994	kg				342.1						
+35	New Mexico	FENPROPATHRIN	1995	kg				946.1						
+35	New Mexico	FENPROPATHRIN	1996	kg				76.1						
+35	New Mexico	FENPROPATHRIN	1997	kg				77						
+35	New Mexico	FENPROPATHRIN	1998	kg				32.3						
+35	New Mexico	FENPROPATHRIN	1999	kg				39.6						
+35	New Mexico	FENPROPATHRIN	2000	kg				23.6						
+35	New Mexico	FENPROPATHRIN	2001	kg				31.2	28.8					
+35	New Mexico	FENPROPATHRIN	2002	kg				18.4						
+35	New Mexico	FENPROPATHRIN	2003	kg				16.2	10.7		32.1			
+35	New Mexico	FENPROPATHRIN	2004	kg				115.3			5.8			
+35	New Mexico	FENPROPATHRIN	2005	kg				16.6	10.7		25.2			
+35	New Mexico	FENPROPATHRIN	2006	kg					0					
+35	New Mexico	FENPROPATHRIN	2009	kg					0.6					
+35	New Mexico	FENPROPATHRIN	2011	kg				3.4						
+35	New Mexico	FENPROPATHRIN	2015	kg					2.7					
+35	New Mexico	FENPROPATHRIN	2016	kg					1.7					
+36	New York	FENPROPATHRIN	2000	kg							1145.2			
+36	New York	FENPROPATHRIN	2001	kg					8.4		7483.2			
+36	New York	FENPROPATHRIN	2002	kg					33		6319.2			
+36	New York	FENPROPATHRIN	2003	kg					193.6		3589.7			
+36	New York	FENPROPATHRIN	2004	kg					52		7335.5			
+36	New York	FENPROPATHRIN	2005	kg					168.4		8136.2			
+36	New York	FENPROPATHRIN	2006	kg					67.6		3414.5			
+36	New York	FENPROPATHRIN	2007	kg					39.6		4523.7			
+36	New York	FENPROPATHRIN	2008	kg					56.1		3190.1			
+36	New York	FENPROPATHRIN	2009	kg					52.7		1371.1			
+36	New York	FENPROPATHRIN	2010	kg					108.1		1060.5			
+36	New York	FENPROPATHRIN	2011	kg					44.5		1716			
+36	New York	FENPROPATHRIN	2012	kg					65.3		875			
+36	New York	FENPROPATHRIN	2013	kg					53.6		6248.3			
+36	New York	FENPROPATHRIN	2014	kg					192.7		2903.8			
+36	New York	FENPROPATHRIN	2015	kg					81.5		3695.6			
+36	New York	FENPROPATHRIN	2016	kg							5986.2			
+36	New York	FENPROPATHRIN	2017	kg							175.8			
+37	North Carolina	FENPROPATHRIN	1993	kg										10.1
+37	North Carolina	FENPROPATHRIN	1997	kg										242.4
+37	North Carolina	FENPROPATHRIN	1998	kg										122.2
+37	North Carolina	FENPROPATHRIN	1999	kg										42.6
+37	North Carolina	FENPROPATHRIN	2000	kg							58.1			
+37	North Carolina	FENPROPATHRIN	2001	kg					32		452.6			134.9
+37	North Carolina	FENPROPATHRIN	2002	kg							98.1			176.9
+37	North Carolina	FENPROPATHRIN	2003	kg					64.5					
+37	North Carolina	FENPROPATHRIN	2004	kg							328.7			
+37	North Carolina	FENPROPATHRIN	2005	kg					125.8		466.8			
+37	North Carolina	FENPROPATHRIN	2006	kg					137.9		388.6			
+37	North Carolina	FENPROPATHRIN	2007	kg							1781			600.1
+37	North Carolina	FENPROPATHRIN	2008	kg							161.6			68.9
+37	North Carolina	FENPROPATHRIN	2009	kg					151.9		165.7			
+37	North Carolina	FENPROPATHRIN	2010	kg										967.9
+37	North Carolina	FENPROPATHRIN	2011	kg							407.1			
+37	North Carolina	FENPROPATHRIN	2012	kg							17.3			
+37	North Carolina	FENPROPATHRIN	2013	kg							93.8			
+37	North Carolina	FENPROPATHRIN	2014	kg							764			
+37	North Carolina	FENPROPATHRIN	2015	kg							272.6			
+37	North Carolina	FENPROPATHRIN	2016	kg							21.3			
+39	Ohio	FENPROPATHRIN	2000	kg							188.6			
+39	Ohio	FENPROPATHRIN	2001	kg					19.6		243.3			
+39	Ohio	FENPROPATHRIN	2002	kg					72.5		100.1			
+39	Ohio	FENPROPATHRIN	2003	kg					85.8		469.5			
+39	Ohio	FENPROPATHRIN	2004	kg					29.4		426.5			
+39	Ohio	FENPROPATHRIN	2005	kg					45.7		48.8			
+39	Ohio	FENPROPATHRIN	2006	kg					975.6		148.8			
+39	Ohio	FENPROPATHRIN	2007	kg					26.3		486.7			
+39	Ohio	FENPROPATHRIN	2008	kg							162.7			
+39	Ohio	FENPROPATHRIN	2009	kg					11.3		68.9			
+39	Ohio	FENPROPATHRIN	2010	kg							429.7			
+39	Ohio	FENPROPATHRIN	2011	kg							37			
+39	Ohio	FENPROPATHRIN	2012	kg					8.9		76			
+39	Ohio	FENPROPATHRIN	2013	kg					4.8		28.1			
+39	Ohio	FENPROPATHRIN	2014	kg							76.6			
+39	Ohio	FENPROPATHRIN	2015	kg							86.2			
+39	Ohio	FENPROPATHRIN	2016	kg							71.9			
+39	Ohio	FENPROPATHRIN	2017	kg							107.6			
+40	Oklahoma	FENPROPATHRIN	1997	kg									23.2	
+40	Oklahoma	FENPROPATHRIN	2016	kg							1.8			
+41	Oregon	FENPROPATHRIN	2001	kg							262.7			
+41	Oregon	FENPROPATHRIN	2002	kg							1824.7			
+41	Oregon	FENPROPATHRIN	2003	kg							231.9			
+41	Oregon	FENPROPATHRIN	2004	kg							224.8			
+41	Oregon	FENPROPATHRIN	2005	kg							921.4			
+41	Oregon	FENPROPATHRIN	2007	kg							3.8			
+41	Oregon	FENPROPATHRIN	2010	kg							250.8			
+41	Oregon	FENPROPATHRIN	2012	kg							78.1			
+41	Oregon	FENPROPATHRIN	2013	kg					318.3		1925			
+41	Oregon	FENPROPATHRIN	2014	kg					244.1		1977.3			
+41	Oregon	FENPROPATHRIN	2015	kg							3346.4			
+41	Oregon	FENPROPATHRIN	2016	kg							428.2			
+41	Oregon	FENPROPATHRIN	2017	kg							2324.8			
+42	Pennsylvania	FENPROPATHRIN	2000	kg							668.1			
+42	Pennsylvania	FENPROPATHRIN	2001	kg							1027.2			
+42	Pennsylvania	FENPROPATHRIN	2002	kg					18.2		564.9			
+42	Pennsylvania	FENPROPATHRIN	2003	kg					53.6		4865.4			
+42	Pennsylvania	FENPROPATHRIN	2004	kg					37.4		2254			
+42	Pennsylvania	FENPROPATHRIN	2005	kg					76.5		1551.2			
+42	Pennsylvania	FENPROPATHRIN	2006	kg					39.2		629.1			
+42	Pennsylvania	FENPROPATHRIN	2007	kg					33		1159.7			
+42	Pennsylvania	FENPROPATHRIN	2008	kg					59.6		658			
+42	Pennsylvania	FENPROPATHRIN	2009	kg					17.7		300			
+42	Pennsylvania	FENPROPATHRIN	2010	kg					58.4		1171			
+42	Pennsylvania	FENPROPATHRIN	2011	kg					74.5		1932.5			
+42	Pennsylvania	FENPROPATHRIN	2012	kg					49.3		1327.6			
+42	Pennsylvania	FENPROPATHRIN	2013	kg					43.5		1332			
+42	Pennsylvania	FENPROPATHRIN	2014	kg					270.9		1073.1			
+42	Pennsylvania	FENPROPATHRIN	2015	kg					31.4		2683.8			
+42	Pennsylvania	FENPROPATHRIN	2016	kg							928			
+42	Pennsylvania	FENPROPATHRIN	2017	kg					84.4		393.7			
+44	Rhode Island	FENPROPATHRIN	2000	kg							4.4			
+44	Rhode Island	FENPROPATHRIN	2001	kg							6.4			
+44	Rhode Island	FENPROPATHRIN	2002	kg							5.4			
+44	Rhode Island	FENPROPATHRIN	2003	kg							6.3			
+44	Rhode Island	FENPROPATHRIN	2004	kg							4.1			
+44	Rhode Island	FENPROPATHRIN	2005	kg							16.4			
+44	Rhode Island	FENPROPATHRIN	2006	kg							17			
+44	Rhode Island	FENPROPATHRIN	2007	kg							29.9			
+44	Rhode Island	FENPROPATHRIN	2008	kg							14.7			
+44	Rhode Island	FENPROPATHRIN	2009	kg							3.1			
+44	Rhode Island	FENPROPATHRIN	2010	kg							5			
+44	Rhode Island	FENPROPATHRIN	2011	kg							8.6			
+44	Rhode Island	FENPROPATHRIN	2012	kg							5			
+44	Rhode Island	FENPROPATHRIN	2013	kg							5.8			
+44	Rhode Island	FENPROPATHRIN	2014	kg							17			
+44	Rhode Island	FENPROPATHRIN	2015	kg							34.4			
+45	South Carolina	FENPROPATHRIN	2000	kg							8.9			
+45	South Carolina	FENPROPATHRIN	2001	kg							85.9			13.1
+45	South Carolina	FENPROPATHRIN	2002	kg							30.6			29.2
+45	South Carolina	FENPROPATHRIN	2004	kg							71			
+45	South Carolina	FENPROPATHRIN	2005	kg							79.2			
+45	South Carolina	FENPROPATHRIN	2006	kg							45.6			
+45	South Carolina	FENPROPATHRIN	2007	kg							104.1			200.6
+45	South Carolina	FENPROPATHRIN	2008	kg							8.8			
+45	South Carolina	FENPROPATHRIN	2009	kg							8.9			
+45	South Carolina	FENPROPATHRIN	2011	kg							430.3			
+45	South Carolina	FENPROPATHRIN	2012	kg							1.4			
+45	South Carolina	FENPROPATHRIN	2013	kg							831.9			
+45	South Carolina	FENPROPATHRIN	2014	kg							42.2			
+45	South Carolina	FENPROPATHRIN	2015	kg							9.9			
+47	Tennessee	FENPROPATHRIN	1993	kg										22.1
+47	Tennessee	FENPROPATHRIN	1999	kg				654						
+47	Tennessee	FENPROPATHRIN	2000	kg							8.6			
+47	Tennessee	FENPROPATHRIN	2001	kg					86.3		41.4			
+47	Tennessee	FENPROPATHRIN	2002	kg							8.9			
+47	Tennessee	FENPROPATHRIN	2003	kg					228.5					
+47	Tennessee	FENPROPATHRIN	2004	kg							27.4			
+47	Tennessee	FENPROPATHRIN	2005	kg							37.7			
+47	Tennessee	FENPROPATHRIN	2006	kg					72.1		29.4			
+47	Tennessee	FENPROPATHRIN	2007	kg							107.6			
+47	Tennessee	FENPROPATHRIN	2008	kg					2.6		9.3			
+47	Tennessee	FENPROPATHRIN	2009	kg					68.9		8.7			
+47	Tennessee	FENPROPATHRIN	2011	kg							14.7			
+47	Tennessee	FENPROPATHRIN	2012	kg							0.5			
+47	Tennessee	FENPROPATHRIN	2013	kg							5.6			
+47	Tennessee	FENPROPATHRIN	2014	kg							33.8			
+47	Tennessee	FENPROPATHRIN	2015	kg							10.4			
+48	Texas	FENPROPATHRIN	1993	kg				1635.6						
+48	Texas	FENPROPATHRIN	1994	kg				153.7						
+48	Texas	FENPROPATHRIN	1995	kg				1778.5						
+48	Texas	FENPROPATHRIN	1996	kg				241.1						
+48	Texas	FENPROPATHRIN	1997	kg									305.8	
+48	Texas	FENPROPATHRIN	1998	kg				115			80.3			
+48	Texas	FENPROPATHRIN	2002	kg					58.8					
+48	Texas	FENPROPATHRIN	2006	kg					88.2					
+48	Texas	FENPROPATHRIN	2007	kg							301.1			
+48	Texas	FENPROPATHRIN	2008	kg					23.6		422.9			
+48	Texas	FENPROPATHRIN	2010	kg							247.3			
+48	Texas	FENPROPATHRIN	2011	kg							133.7			
+48	Texas	FENPROPATHRIN	2013	kg							933.4			
+48	Texas	FENPROPATHRIN	2016	kg							82.6			
+49	Utah	FENPROPATHRIN	1992	kg							1.5			
+49	Utah	FENPROPATHRIN	2003	kg							1.4			
+49	Utah	FENPROPATHRIN	2004	kg							0.2			
+49	Utah	FENPROPATHRIN	2005	kg							1.2			
+50	Vermont	FENPROPATHRIN	1995	kg					7.2					
+50	Vermont	FENPROPATHRIN	2000	kg							42.9			
+50	Vermont	FENPROPATHRIN	2001	kg							64			
+50	Vermont	FENPROPATHRIN	2002	kg					3.2		53.4			
+50	Vermont	FENPROPATHRIN	2003	kg							47.9			
+50	Vermont	FENPROPATHRIN	2004	kg					4.6		38.4			
+50	Vermont	FENPROPATHRIN	2005	kg							53.1			
+50	Vermont	FENPROPATHRIN	2006	kg					7.1		144.7			
+50	Vermont	FENPROPATHRIN	2007	kg					5.5		243.1			
+50	Vermont	FENPROPATHRIN	2008	kg							122.6			
+50	Vermont	FENPROPATHRIN	2009	kg							25.6			
+50	Vermont	FENPROPATHRIN	2010	kg					11.3		39.3			
+50	Vermont	FENPROPATHRIN	2011	kg					5.4		30.5			
+50	Vermont	FENPROPATHRIN	2012	kg					14.2		38			
+50	Vermont	FENPROPATHRIN	2013	kg					2.8		47.1			
+50	Vermont	FENPROPATHRIN	2014	kg					16.3		174			
+50	Vermont	FENPROPATHRIN	2015	kg					6.6		327.3			
+51	Virginia	FENPROPATHRIN	1993	kg										26.3
+51	Virginia	FENPROPATHRIN	1997	kg										159.3
+51	Virginia	FENPROPATHRIN	1998	kg										81.3
+51	Virginia	FENPROPATHRIN	1999	kg										26.4
+51	Virginia	FENPROPATHRIN	2000	kg							251.6			
+51	Virginia	FENPROPATHRIN	2001	kg					9.6		49.6			177.4
+51	Virginia	FENPROPATHRIN	2002	kg							377.8			266.6
+51	Virginia	FENPROPATHRIN	2003	kg					23					
+51	Virginia	FENPROPATHRIN	2004	kg							114.6			
+51	Virginia	FENPROPATHRIN	2005	kg					16		98.5			
+51	Virginia	FENPROPATHRIN	2006	kg					89.9		162.8			
+51	Virginia	FENPROPATHRIN	2007	kg							3408.4			41.2
+51	Virginia	FENPROPATHRIN	2008	kg							31.1			16.7
+51	Virginia	FENPROPATHRIN	2009	kg					14.8					
+51	Virginia	FENPROPATHRIN	2011	kg							478.1			
+51	Virginia	FENPROPATHRIN	2012	kg							89.2			
+51	Virginia	FENPROPATHRIN	2013	kg							25.7			
+51	Virginia	FENPROPATHRIN	2014	kg							454.6			
+51	Virginia	FENPROPATHRIN	2015	kg							40.3			
+53	Washington	FENPROPATHRIN	2001	kg							2729			
+53	Washington	FENPROPATHRIN	2002	kg							345.2			
+53	Washington	FENPROPATHRIN	2003	kg							123.3			
+53	Washington	FENPROPATHRIN	2004	kg							1190.4			
+53	Washington	FENPROPATHRIN	2005	kg							22.8			
+53	Washington	FENPROPATHRIN	2010	kg							18.7			
+53	Washington	FENPROPATHRIN	2011	kg							1034.3			
+53	Washington	FENPROPATHRIN	2012	kg							107.1			
+53	Washington	FENPROPATHRIN	2013	kg					531.2		742.8			
+53	Washington	FENPROPATHRIN	2014	kg					446.6		1111.7			
+53	Washington	FENPROPATHRIN	2015	kg							7100.7			
+53	Washington	FENPROPATHRIN	2016	kg							4650.2			
+53	Washington	FENPROPATHRIN	2017	kg							4212.4			
+54	West Virginia	FENPROPATHRIN	1993	kg										1.1
+54	West Virginia	FENPROPATHRIN	2000	kg							108.6			
+54	West Virginia	FENPROPATHRIN	2001	kg					2.7		13.8			
+54	West Virginia	FENPROPATHRIN	2002	kg					6.3		178.1			
+54	West Virginia	FENPROPATHRIN	2003	kg					8.8					
+54	West Virginia	FENPROPATHRIN	2004	kg					1.3		43.1			
+54	West Virginia	FENPROPATHRIN	2005	kg							30.6			
+54	West Virginia	FENPROPATHRIN	2006	kg					13.7		89.2			
+54	West Virginia	FENPROPATHRIN	2007	kg							479.6			
+54	West Virginia	FENPROPATHRIN	2008	kg							181.5			
+54	West Virginia	FENPROPATHRIN	2011	kg							346.1			
+54	West Virginia	FENPROPATHRIN	2012	kg							100.3			
+54	West Virginia	FENPROPATHRIN	2013	kg					2.7		98.3			
+54	West Virginia	FENPROPATHRIN	2014	kg							450.2			
+54	West Virginia	FENPROPATHRIN	2015	kg							124.4			
+55	Wisconsin	FENPROPATHRIN	2000	kg							108.5			
+55	Wisconsin	FENPROPATHRIN	2001	kg							116.9			
+55	Wisconsin	FENPROPATHRIN	2002	kg							77.8			
+55	Wisconsin	FENPROPATHRIN	2003	kg					47.9		152.9			
+55	Wisconsin	FENPROPATHRIN	2004	kg							48.3			
+55	Wisconsin	FENPROPATHRIN	2005	kg					351.6		60.6			
+55	Wisconsin	FENPROPATHRIN	2006	kg							157.6			
+55	Wisconsin	FENPROPATHRIN	2007	kg					107.5		80.2			
+55	Wisconsin	FENPROPATHRIN	2008	kg					110.8		80			
+55	Wisconsin	FENPROPATHRIN	2009	kg					19.9		93.6			
+55	Wisconsin	FENPROPATHRIN	2010	kg					28.9		188.4			
+55	Wisconsin	FENPROPATHRIN	2011	kg					238.4		29.1			
+55	Wisconsin	FENPROPATHRIN	2012	kg					336.1		31.6			
+55	Wisconsin	FENPROPATHRIN	2013	kg							51			
+55	Wisconsin	FENPROPATHRIN	2014	kg							48.2			
+55	Wisconsin	FENPROPATHRIN	2015	kg					141.5		48.1			
+55	Wisconsin	FENPROPATHRIN	2016	kg							68.2			
+55	Wisconsin	FENPROPATHRIN	2017	kg					745.4		135.3			
+56	Wyoming	FENPROPATHRIN	1993	kg					22.2					

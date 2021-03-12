@@ -1,0 +1,450 @@
+01	Alabama	TRIBUFOS	1992	kg				26381.9						892.4
+01	Alabama	TRIBUFOS	1993	kg				34123.5						
+01	Alabama	TRIBUFOS	1994	kg				38942.2						
+01	Alabama	TRIBUFOS	1995	kg				28324.5						3176.7
+01	Alabama	TRIBUFOS	1996	kg				30574.2						
+01	Alabama	TRIBUFOS	1997	kg				43928.9						
+01	Alabama	TRIBUFOS	1998	kg				101801.4						
+01	Alabama	TRIBUFOS	1999	kg				107268.6						
+01	Alabama	TRIBUFOS	2000	kg				96572.3						
+01	Alabama	TRIBUFOS	2001	kg				108539.8						
+01	Alabama	TRIBUFOS	2002	kg				86868.2						
+01	Alabama	TRIBUFOS	2003	kg				110043.4						
+01	Alabama	TRIBUFOS	2004	kg				61962.6						
+01	Alabama	TRIBUFOS	2005	kg				51129.4						
+01	Alabama	TRIBUFOS	2006	kg				55024.6						
+01	Alabama	TRIBUFOS	2007	kg				73576						
+01	Alabama	TRIBUFOS	2008	kg				27351.9						
+01	Alabama	TRIBUFOS	2009	kg				47873.1						
+01	Alabama	TRIBUFOS	2010	kg				54524						
+01	Alabama	TRIBUFOS	2011	kg				90779.3						
+01	Alabama	TRIBUFOS	2012	kg				13399.8						
+01	Alabama	TRIBUFOS	2013	kg				47223.9						
+01	Alabama	TRIBUFOS	2014	kg				28204.4						
+01	Alabama	TRIBUFOS	2015	kg				58736.2						
+01	Alabama	TRIBUFOS	2016	kg				84257.1						
+01	Alabama	TRIBUFOS	2017	kg				119109.3						
+04	Arizona	TRIBUFOS	1992	kg				5947.7						
+04	Arizona	TRIBUFOS	1993	kg				55077.7						
+04	Arizona	TRIBUFOS	1994	kg				9513.5						
+04	Arizona	TRIBUFOS	1995	kg				77334						
+04	Arizona	TRIBUFOS	1996	kg				5053.4						
+04	Arizona	TRIBUFOS	1997	kg				38598.4						
+04	Arizona	TRIBUFOS	1998	kg				7918.3						
+04	Arizona	TRIBUFOS	1999	kg				18893						
+04	Arizona	TRIBUFOS	2000	kg				7210.1						
+04	Arizona	TRIBUFOS	2001	kg				13514.1						
+04	Arizona	TRIBUFOS	2002	kg				16979.6						
+04	Arizona	TRIBUFOS	2003	kg				7083.6						
+04	Arizona	TRIBUFOS	2004	kg				1870.5						
+04	Arizona	TRIBUFOS	2005	kg				7583.2						
+04	Arizona	TRIBUFOS	2006	kg				10869						
+04	Arizona	TRIBUFOS	2007	kg				101494.9						
+04	Arizona	TRIBUFOS	2008	kg				8823						
+04	Arizona	TRIBUFOS	2009	kg				6385.6						
+04	Arizona	TRIBUFOS	2010	kg				19793.5						
+04	Arizona	TRIBUFOS	2011	kg				38832.9						
+04	Arizona	TRIBUFOS	2012	kg				52909.1						
+04	Arizona	TRIBUFOS	2013	kg				5470.4						
+04	Arizona	TRIBUFOS	2014	kg				3253.6						
+04	Arizona	TRIBUFOS	2015	kg				1030.4						
+04	Arizona	TRIBUFOS	2016	kg				1086.5						
+04	Arizona	TRIBUFOS	2017	kg				662.2						
+05	Arkansas	TRIBUFOS	1992	kg				55872.7						
+05	Arkansas	TRIBUFOS	1993	kg				53594.8		5550.7				
+05	Arkansas	TRIBUFOS	1994	kg				116746.6						3163.7
+05	Arkansas	TRIBUFOS	1995	kg				69200.5						
+05	Arkansas	TRIBUFOS	1996	kg				215618.3						
+05	Arkansas	TRIBUFOS	1997	kg		1260.1		39256.2		12488.5				
+05	Arkansas	TRIBUFOS	1998	kg				259417.8						
+05	Arkansas	TRIBUFOS	1999	kg				155251.8						
+05	Arkansas	TRIBUFOS	2000	kg				277271.7						
+05	Arkansas	TRIBUFOS	2001	kg				428308.3						
+05	Arkansas	TRIBUFOS	2002	kg				300798.5						
+05	Arkansas	TRIBUFOS	2003	kg				337859.7						
+05	Arkansas	TRIBUFOS	2004	kg				258548.1						
+05	Arkansas	TRIBUFOS	2005	kg				214617.5						
+05	Arkansas	TRIBUFOS	2006	kg				220614.6						
+05	Arkansas	TRIBUFOS	2007	kg				233331.6						
+05	Arkansas	TRIBUFOS	2008	kg				150503.4						
+05	Arkansas	TRIBUFOS	2009	kg				138446.3						
+05	Arkansas	TRIBUFOS	2010	kg				110667.2						
+05	Arkansas	TRIBUFOS	2011	kg				172805.4						
+05	Arkansas	TRIBUFOS	2012	kg				181432.6						
+05	Arkansas	TRIBUFOS	2013	kg				88488.2						
+05	Arkansas	TRIBUFOS	2014	kg				86628.4						
+05	Arkansas	TRIBUFOS	2015	kg				53739.2						
+05	Arkansas	TRIBUFOS	2016	kg				186640.6						
+05	Arkansas	TRIBUFOS	2017	kg				118353.4						
+06	California	TRIBUFOS	1992	kg				351050.1						
+06	California	TRIBUFOS	1993	kg				445746.9						
+06	California	TRIBUFOS	1994	kg				414362						
+06	California	TRIBUFOS	1995	kg				400837.5						
+06	California	TRIBUFOS	1996	kg				347949.9						
+06	California	TRIBUFOS	1997	kg				285720.1						
+06	California	TRIBUFOS	1998	kg			0	210963.7	558.7			49.7		
+06	California	TRIBUFOS	1999	kg			20.1	159765.2	19.4			34		141
+06	California	TRIBUFOS	2000	kg				189628.1			5.5			22.7
+06	California	TRIBUFOS	2001	kg				117532.8						
+06	California	TRIBUFOS	2002	kg				87280.2						
+06	California	TRIBUFOS	2003	kg				107071.7						
+06	California	TRIBUFOS	2004	kg				81491.5						
+06	California	TRIBUFOS	2005	kg				44913						
+06	California	TRIBUFOS	2006	kg				34980.8						
+06	California	TRIBUFOS	2007	kg				20751.2						
+06	California	TRIBUFOS	2008	kg				7393.4						
+06	California	TRIBUFOS	2009	kg				2951.2						
+06	California	TRIBUFOS	2010	kg				8355.7						
+06	California	TRIBUFOS	2011	kg				13754						189.3
+06	California	TRIBUFOS	2012	kg				9895.7						
+06	California	TRIBUFOS	2013	kg	32.4			8615.4						
+06	California	TRIBUFOS	2014	kg				5298.6						
+06	California	TRIBUFOS	2015	kg				2935.3						
+06	California	TRIBUFOS	2016	kg				3120.9						
+06	California	TRIBUFOS	2017	kg				3696.5						
+12	Florida	TRIBUFOS	1992	kg	37.7			6372.3						397.2
+12	Florida	TRIBUFOS	1993	kg				9118.5						
+12	Florida	TRIBUFOS	1994	kg				3684.6						
+12	Florida	TRIBUFOS	1995	kg				886.7						125.9
+12	Florida	TRIBUFOS	1996	kg				2538.7						
+12	Florida	TRIBUFOS	1997	kg				4770.3						
+12	Florida	TRIBUFOS	1998	kg				20742						
+12	Florida	TRIBUFOS	1999	kg				23340.7						
+12	Florida	TRIBUFOS	2000	kg				12263.3						
+12	Florida	TRIBUFOS	2001	kg				28793.3						
+12	Florida	TRIBUFOS	2002	kg				29885.2						
+12	Florida	TRIBUFOS	2003	kg				22808.5						
+12	Florida	TRIBUFOS	2004	kg				17034.1						
+12	Florida	TRIBUFOS	2005	kg				17057.2						
+12	Florida	TRIBUFOS	2006	kg				18453.9						
+12	Florida	TRIBUFOS	2007	kg				3104.4						
+12	Florida	TRIBUFOS	2008	kg				8209.6						
+12	Florida	TRIBUFOS	2009	kg				10872.7						
+12	Florida	TRIBUFOS	2010	kg				11111.2						
+12	Florida	TRIBUFOS	2011	kg				29912.4						
+12	Florida	TRIBUFOS	2012	kg				16422.3						
+12	Florida	TRIBUFOS	2013	kg				28082.4						
+12	Florida	TRIBUFOS	2014	kg				19665.4						
+12	Florida	TRIBUFOS	2015	kg				15798.5						
+12	Florida	TRIBUFOS	2016	kg				15558.9						
+12	Florida	TRIBUFOS	2017	kg				13662						
+13	Georgia	TRIBUFOS	1992	kg	288.6			26267.2						2911.9
+13	Georgia	TRIBUFOS	1993	kg				28838.1						
+13	Georgia	TRIBUFOS	1994	kg				31460.8						
+13	Georgia	TRIBUFOS	1995	kg				93266.1						3914.4
+13	Georgia	TRIBUFOS	1996	kg				114916.8						
+13	Georgia	TRIBUFOS	1997	kg				86811.4						
+13	Georgia	TRIBUFOS	1998	kg				278598.1						
+13	Georgia	TRIBUFOS	1999	kg				164165.9						
+13	Georgia	TRIBUFOS	2000	kg				223733.8						
+13	Georgia	TRIBUFOS	2001	kg				190781.8						
+13	Georgia	TRIBUFOS	2002	kg				218956.8						
+13	Georgia	TRIBUFOS	2003	kg				147391.9						
+13	Georgia	TRIBUFOS	2004	kg				134130.8						
+13	Georgia	TRIBUFOS	2005	kg				96690.7						
+13	Georgia	TRIBUFOS	2006	kg				178966.3						
+13	Georgia	TRIBUFOS	2007	kg				158953.4						
+13	Georgia	TRIBUFOS	2008	kg				118598.1						
+13	Georgia	TRIBUFOS	2009	kg				133083.2						
+13	Georgia	TRIBUFOS	2010	kg				218258.1						
+13	Georgia	TRIBUFOS	2011	kg				161923.5						
+13	Georgia	TRIBUFOS	2012	kg				177751.8						
+13	Georgia	TRIBUFOS	2013	kg				218921.5						
+13	Georgia	TRIBUFOS	2014	kg				267922.2						
+13	Georgia	TRIBUFOS	2015	kg				222415.5						
+13	Georgia	TRIBUFOS	2016	kg				399231.2						
+13	Georgia	TRIBUFOS	2017	kg				223950						
+16	Idaho	TRIBUFOS	1995	kg					1130.1					
+17	Illinois	TRIBUFOS	1992	kg	941.1									
+19	Iowa	TRIBUFOS	1992	kg	592.9									
+20	Kansas	TRIBUFOS	1992	kg				418.5						
+20	Kansas	TRIBUFOS	1993	kg				282						
+20	Kansas	TRIBUFOS	1994	kg				568.7						
+20	Kansas	TRIBUFOS	1995	kg				669.3						
+20	Kansas	TRIBUFOS	1996	kg				818.2						
+20	Kansas	TRIBUFOS	1997	kg				976.9						
+20	Kansas	TRIBUFOS	1998	kg				3365.4						
+20	Kansas	TRIBUFOS	1999	kg				435.1						
+20	Kansas	TRIBUFOS	2000	kg				2093.7						
+20	Kansas	TRIBUFOS	2001	kg				1544.2						
+20	Kansas	TRIBUFOS	2002	kg				3987.1						
+20	Kansas	TRIBUFOS	2003	kg				11737.6						
+20	Kansas	TRIBUFOS	2004	kg				624.1						
+20	Kansas	TRIBUFOS	2005	kg				10446.5						
+20	Kansas	TRIBUFOS	2006	kg				7254.6						
+20	Kansas	TRIBUFOS	2007	kg				8463.5						
+20	Kansas	TRIBUFOS	2008	kg				1006.7						
+20	Kansas	TRIBUFOS	2009	kg				3772.4						
+20	Kansas	TRIBUFOS	2010	kg				927.2						
+20	Kansas	TRIBUFOS	2011	kg				2410.3						
+20	Kansas	TRIBUFOS	2012	kg				360.3						
+20	Kansas	TRIBUFOS	2013	kg				6838.7						
+20	Kansas	TRIBUFOS	2014	kg				4840.8						
+20	Kansas	TRIBUFOS	2015	kg				3450.1						
+20	Kansas	TRIBUFOS	2016	kg				3911.3						
+20	Kansas	TRIBUFOS	2017	kg				18783						
+22	Louisiana	TRIBUFOS	1992	kg				39983.3						
+22	Louisiana	TRIBUFOS	1993	kg				24204		716.2				
+22	Louisiana	TRIBUFOS	1994	kg				61438.3						
+22	Louisiana	TRIBUFOS	1995	kg				101823						
+22	Louisiana	TRIBUFOS	1996	kg		3214.7		84468.9						
+22	Louisiana	TRIBUFOS	1997	kg		995.4		40068.5						
+22	Louisiana	TRIBUFOS	1998	kg				101065.8						
+22	Louisiana	TRIBUFOS	1999	kg				98166.4						
+22	Louisiana	TRIBUFOS	2000	kg				94574.6						
+22	Louisiana	TRIBUFOS	2001	kg				117570.4						
+22	Louisiana	TRIBUFOS	2002	kg				81371						
+22	Louisiana	TRIBUFOS	2003	kg				106415.9						
+22	Louisiana	TRIBUFOS	2004	kg				65135.6						
+22	Louisiana	TRIBUFOS	2005	kg				59336.4						
+22	Louisiana	TRIBUFOS	2006	kg				46720.6						
+22	Louisiana	TRIBUFOS	2007	kg				76160.7						
+22	Louisiana	TRIBUFOS	2008	kg				24873.4						
+22	Louisiana	TRIBUFOS	2009	kg				16095.7						
+22	Louisiana	TRIBUFOS	2010	kg				45321.6						
+22	Louisiana	TRIBUFOS	2011	kg				38775.1						
+22	Louisiana	TRIBUFOS	2012	kg				82834.7						
+22	Louisiana	TRIBUFOS	2013	kg				45692.3						
+22	Louisiana	TRIBUFOS	2014	kg				16861.9						
+22	Louisiana	TRIBUFOS	2015	kg				17187.7						
+22	Louisiana	TRIBUFOS	2016	kg				24540.8						
+22	Louisiana	TRIBUFOS	2017	kg				62866.3						
+27	Minnesota	TRIBUFOS	1996	kg					18156.2					
+28	Mississippi	TRIBUFOS	1992	kg				20935.5						
+28	Mississippi	TRIBUFOS	1993	kg				68688.3		1845.5				
+28	Mississippi	TRIBUFOS	1994	kg				76765.3						
+28	Mississippi	TRIBUFOS	1995	kg				145501.4						
+28	Mississippi	TRIBUFOS	1996	kg				54886						
+28	Mississippi	TRIBUFOS	1997	kg		4294.9		73204.8						
+28	Mississippi	TRIBUFOS	1998	kg				183701.4						
+28	Mississippi	TRIBUFOS	1999	kg				263119.6						
+28	Mississippi	TRIBUFOS	2000	kg				283380.2						
+28	Mississippi	TRIBUFOS	2001	kg				425958						
+28	Mississippi	TRIBUFOS	2002	kg				213316.8						
+28	Mississippi	TRIBUFOS	2003	kg				197711.5						
+28	Mississippi	TRIBUFOS	2004	kg				187641.2						
+28	Mississippi	TRIBUFOS	2005	kg				110960.5						
+28	Mississippi	TRIBUFOS	2006	kg				110322.5						
+28	Mississippi	TRIBUFOS	2007	kg				119310.4						
+28	Mississippi	TRIBUFOS	2008	kg				65580.4						
+28	Mississippi	TRIBUFOS	2009	kg				51548.7						
+28	Mississippi	TRIBUFOS	2010	kg				56803.8						
+28	Mississippi	TRIBUFOS	2011	kg				113013.7						
+28	Mississippi	TRIBUFOS	2012	kg				112093.9						
+28	Mississippi	TRIBUFOS	2013	kg				24061.3						
+28	Mississippi	TRIBUFOS	2014	kg				40037.3						
+28	Mississippi	TRIBUFOS	2015	kg				54180.6						
+28	Mississippi	TRIBUFOS	2016	kg				74165						
+28	Mississippi	TRIBUFOS	2017	kg				110473.4						
+29	Missouri	TRIBUFOS	1992	kg				10378.8						
+29	Missouri	TRIBUFOS	1993	kg				13299.8						
+29	Missouri	TRIBUFOS	1994	kg				9476.3						3432.1
+29	Missouri	TRIBUFOS	1995	kg				29370.1						
+29	Missouri	TRIBUFOS	1996	kg				32498.5						
+29	Missouri	TRIBUFOS	1997	kg				11700.9		1163.5				
+29	Missouri	TRIBUFOS	1998	kg				81566.8						
+29	Missouri	TRIBUFOS	1999	kg				83623.1						
+29	Missouri	TRIBUFOS	2000	kg				68138						
+29	Missouri	TRIBUFOS	2001	kg				105518.1						
+29	Missouri	TRIBUFOS	2002	kg				83491.3						
+29	Missouri	TRIBUFOS	2003	kg				71143.8						
+29	Missouri	TRIBUFOS	2004	kg				57442.7						
+29	Missouri	TRIBUFOS	2005	kg				55640.4						
+29	Missouri	TRIBUFOS	2006	kg				86866.2						
+29	Missouri	TRIBUFOS	2007	kg				58095.5						
+29	Missouri	TRIBUFOS	2008	kg				60621.5						
+29	Missouri	TRIBUFOS	2009	kg				51324.2						
+29	Missouri	TRIBUFOS	2010	kg				61727.1						
+29	Missouri	TRIBUFOS	2011	kg				71346.3						
+29	Missouri	TRIBUFOS	2012	kg				121281.2						
+29	Missouri	TRIBUFOS	2013	kg				71634.5						
+29	Missouri	TRIBUFOS	2014	kg				15785.8						
+29	Missouri	TRIBUFOS	2015	kg				54504.3						
+29	Missouri	TRIBUFOS	2016	kg				35073						
+29	Missouri	TRIBUFOS	2017	kg				30558.2						
+30	Montana	TRIBUFOS	1995	kg					20.5					
+35	New Mexico	TRIBUFOS	1992	kg				281.1						
+35	New Mexico	TRIBUFOS	1993	kg				822.6						
+35	New Mexico	TRIBUFOS	1994	kg				213.3						
+35	New Mexico	TRIBUFOS	1995	kg				1303.8						
+35	New Mexico	TRIBUFOS	1996	kg				1551.9						
+35	New Mexico	TRIBUFOS	1997	kg				3023.8						
+35	New Mexico	TRIBUFOS	1998	kg				5953						
+35	New Mexico	TRIBUFOS	1999	kg				5995.9						
+35	New Mexico	TRIBUFOS	2000	kg				8365.2						
+35	New Mexico	TRIBUFOS	2001	kg				3669.9						
+35	New Mexico	TRIBUFOS	2002	kg				3845.4						
+35	New Mexico	TRIBUFOS	2003	kg				1212.7						
+35	New Mexico	TRIBUFOS	2004	kg				3421.6						
+35	New Mexico	TRIBUFOS	2005	kg				4695.9						
+35	New Mexico	TRIBUFOS	2006	kg				1916.5						
+35	New Mexico	TRIBUFOS	2007	kg				4446.8						
+35	New Mexico	TRIBUFOS	2008	kg				1113.5						
+35	New Mexico	TRIBUFOS	2009	kg				1885						
+35	New Mexico	TRIBUFOS	2010	kg				1840.4						
+35	New Mexico	TRIBUFOS	2011	kg				3331.7						
+35	New Mexico	TRIBUFOS	2012	kg				876.5						
+35	New Mexico	TRIBUFOS	2013	kg				1461.3						
+35	New Mexico	TRIBUFOS	2014	kg				2726.8						
+35	New Mexico	TRIBUFOS	2015	kg				1001.4						
+35	New Mexico	TRIBUFOS	2016	kg				3028.5						
+35	New Mexico	TRIBUFOS	2017	kg				1286.4						
+37	North Carolina	TRIBUFOS	1992	kg				17856.7						669.4
+37	North Carolina	TRIBUFOS	1993	kg				11521.4						
+37	North Carolina	TRIBUFOS	1994	kg				13454.3						
+37	North Carolina	TRIBUFOS	1995	kg				38034						1213.1
+37	North Carolina	TRIBUFOS	1996	kg				119147.4						12249.9
+37	North Carolina	TRIBUFOS	1997	kg				72558.6						
+37	North Carolina	TRIBUFOS	1998	kg				135820.7						
+37	North Carolina	TRIBUFOS	1999	kg				140578.6						
+37	North Carolina	TRIBUFOS	2000	kg				162239.6						
+37	North Carolina	TRIBUFOS	2001	kg				126966.9						
+37	North Carolina	TRIBUFOS	2002	kg				110635.2						
+37	North Carolina	TRIBUFOS	2003	kg				75514.1						
+37	North Carolina	TRIBUFOS	2004	kg				57428.8						
+37	North Carolina	TRIBUFOS	2005	kg				90306.8						
+37	North Carolina	TRIBUFOS	2006	kg				53447.3						
+37	North Carolina	TRIBUFOS	2007	kg				42388.9						
+37	North Carolina	TRIBUFOS	2008	kg				41899.6						
+37	North Carolina	TRIBUFOS	2009	kg				54883.5						
+37	North Carolina	TRIBUFOS	2010	kg				63864						
+37	North Carolina	TRIBUFOS	2011	kg				104101.4						
+37	North Carolina	TRIBUFOS	2012	kg				58229.6						
+37	North Carolina	TRIBUFOS	2013	kg				106578.8						
+37	North Carolina	TRIBUFOS	2014	kg				63278						
+37	North Carolina	TRIBUFOS	2015	kg				49226.3						
+37	North Carolina	TRIBUFOS	2016	kg				56186.8						
+37	North Carolina	TRIBUFOS	2017	kg				48743.9						
+40	Oklahoma	TRIBUFOS	1992	kg				879.8						
+40	Oklahoma	TRIBUFOS	1993	kg				2148						
+40	Oklahoma	TRIBUFOS	1994	kg				7234						
+40	Oklahoma	TRIBUFOS	1995	kg				4831.5						
+40	Oklahoma	TRIBUFOS	1996	kg				6005.6						
+40	Oklahoma	TRIBUFOS	1997	kg				5890.4						
+40	Oklahoma	TRIBUFOS	1998	kg				19460.1						
+40	Oklahoma	TRIBUFOS	1999	kg				6500.5						
+40	Oklahoma	TRIBUFOS	2000	kg				39702.9						
+40	Oklahoma	TRIBUFOS	2001	kg				28515.4						
+40	Oklahoma	TRIBUFOS	2002	kg				44491.8						
+40	Oklahoma	TRIBUFOS	2003	kg				4548						
+40	Oklahoma	TRIBUFOS	2004	kg				39157.5						
+40	Oklahoma	TRIBUFOS	2005	kg				12468.9						
+40	Oklahoma	TRIBUFOS	2006	kg				9426.2						
+40	Oklahoma	TRIBUFOS	2007	kg				11101.4						
+40	Oklahoma	TRIBUFOS	2008	kg				9667.4						
+40	Oklahoma	TRIBUFOS	2009	kg				36382.7						
+40	Oklahoma	TRIBUFOS	2010	kg				42621						
+40	Oklahoma	TRIBUFOS	2011	kg				5927.8						
+40	Oklahoma	TRIBUFOS	2012	kg				2995						
+40	Oklahoma	TRIBUFOS	2013	kg				8560.5						
+40	Oklahoma	TRIBUFOS	2014	kg				10247.9						
+40	Oklahoma	TRIBUFOS	2015	kg				31605.8						
+40	Oklahoma	TRIBUFOS	2016	kg				22785.7						
+40	Oklahoma	TRIBUFOS	2017	kg				174998						
+45	South Carolina	TRIBUFOS	1992	kg				28162.2						
+45	South Carolina	TRIBUFOS	1993	kg				11368.4						174.6
+45	South Carolina	TRIBUFOS	1994	kg				8428.5						
+45	South Carolina	TRIBUFOS	1995	kg				37284.7						
+45	South Carolina	TRIBUFOS	1996	kg				19093						
+45	South Carolina	TRIBUFOS	1997	kg				32280.9						
+45	South Carolina	TRIBUFOS	1998	kg				59751.5						
+45	South Carolina	TRIBUFOS	1999	kg				66926.6						
+45	South Carolina	TRIBUFOS	2000	kg				83391.2						
+45	South Carolina	TRIBUFOS	2001	kg				46195.6						
+45	South Carolina	TRIBUFOS	2002	kg				46970.1						
+45	South Carolina	TRIBUFOS	2003	kg				61873.5						
+45	South Carolina	TRIBUFOS	2004	kg				52557.3						
+45	South Carolina	TRIBUFOS	2005	kg				38044.1						
+45	South Carolina	TRIBUFOS	2006	kg				50602.7						
+45	South Carolina	TRIBUFOS	2007	kg				20882.1						
+45	South Carolina	TRIBUFOS	2008	kg				12809.3						
+45	South Carolina	TRIBUFOS	2009	kg				32895.1						
+45	South Carolina	TRIBUFOS	2010	kg				58201.8						
+45	South Carolina	TRIBUFOS	2011	kg				57609.6						
+45	South Carolina	TRIBUFOS	2012	kg				86956.7						
+45	South Carolina	TRIBUFOS	2013	kg				63512.6						
+45	South Carolina	TRIBUFOS	2014	kg				90702.5						
+45	South Carolina	TRIBUFOS	2015	kg				32589.5						
+45	South Carolina	TRIBUFOS	2016	kg				50790.2						
+45	South Carolina	TRIBUFOS	2017	kg				31652						
+47	Tennessee	TRIBUFOS	1992	kg				17643.8						
+47	Tennessee	TRIBUFOS	1993	kg				11126.1						
+47	Tennessee	TRIBUFOS	1994	kg				43553.9						179
+47	Tennessee	TRIBUFOS	1995	kg				56763.3						
+47	Tennessee	TRIBUFOS	1996	kg				45296.6						
+47	Tennessee	TRIBUFOS	1997	kg				48285.4		7.3				
+47	Tennessee	TRIBUFOS	1998	kg				113190.2						
+47	Tennessee	TRIBUFOS	1999	kg				120002.2						
+47	Tennessee	TRIBUFOS	2000	kg				69793.5						
+47	Tennessee	TRIBUFOS	2001	kg				115942.3						
+47	Tennessee	TRIBUFOS	2002	kg				92014.5						
+47	Tennessee	TRIBUFOS	2003	kg				86749.9						
+47	Tennessee	TRIBUFOS	2004	kg				86285.4						
+47	Tennessee	TRIBUFOS	2005	kg				60298.9						
+47	Tennessee	TRIBUFOS	2006	kg				50324.4						
+47	Tennessee	TRIBUFOS	2007	kg				34090.6						
+47	Tennessee	TRIBUFOS	2008	kg				53207.2						
+47	Tennessee	TRIBUFOS	2009	kg				50774.8						
+47	Tennessee	TRIBUFOS	2010	kg				78556.2						
+47	Tennessee	TRIBUFOS	2011	kg				13594.8						
+47	Tennessee	TRIBUFOS	2012	kg				56587.8						
+47	Tennessee	TRIBUFOS	2013	kg				28883.1						
+47	Tennessee	TRIBUFOS	2014	kg				30293.2						
+47	Tennessee	TRIBUFOS	2015	kg				24793.8						
+47	Tennessee	TRIBUFOS	2016	kg				91793						
+47	Tennessee	TRIBUFOS	2017	kg				34547						
+48	Texas	TRIBUFOS	1992	kg				81931.7						
+48	Texas	TRIBUFOS	1993	kg				82261.7						
+48	Texas	TRIBUFOS	1994	kg				97522.1						
+48	Texas	TRIBUFOS	1995	kg				173711.6						
+48	Texas	TRIBUFOS	1996	kg		390.3		78921.2						
+48	Texas	TRIBUFOS	1997	kg				142837.6						
+48	Texas	TRIBUFOS	1998	kg				312086.6						
+48	Texas	TRIBUFOS	1999	kg				330475						
+48	Texas	TRIBUFOS	2000	kg				235302.3						
+48	Texas	TRIBUFOS	2001	kg				251240.9						
+48	Texas	TRIBUFOS	2002	kg				209569.4						
+48	Texas	TRIBUFOS	2003	kg				162336.4						
+48	Texas	TRIBUFOS	2004	kg				213591.2						
+48	Texas	TRIBUFOS	2005	kg				375391.8						
+48	Texas	TRIBUFOS	2006	kg				156120.4						
+48	Texas	TRIBUFOS	2007	kg				305839.4						
+48	Texas	TRIBUFOS	2008	kg				160143.1						
+48	Texas	TRIBUFOS	2009	kg				192372.8						
+48	Texas	TRIBUFOS	2010	kg				257371.9						
+48	Texas	TRIBUFOS	2011	kg				183797.3						
+48	Texas	TRIBUFOS	2012	kg				133819.7						
+48	Texas	TRIBUFOS	2013	kg				147022.8						
+48	Texas	TRIBUFOS	2014	kg				180754						
+48	Texas	TRIBUFOS	2015	kg				166069.5						
+48	Texas	TRIBUFOS	2016	kg				253259.4						
+48	Texas	TRIBUFOS	2017	kg				185316.5						
+49	Utah	TRIBUFOS	1995	kg					1.3					
+51	Virginia	TRIBUFOS	1992	kg				579.2						
+51	Virginia	TRIBUFOS	1993	kg				1155.8						
+51	Virginia	TRIBUFOS	1994	kg				5995.6						
+51	Virginia	TRIBUFOS	1995	kg				11517.9						
+51	Virginia	TRIBUFOS	1996	kg				15696.6						
+51	Virginia	TRIBUFOS	1997	kg				15127.2						
+51	Virginia	TRIBUFOS	1998	kg				17197.8						
+51	Virginia	TRIBUFOS	1999	kg				6841.7						
+51	Virginia	TRIBUFOS	2000	kg				8871.4						
+51	Virginia	TRIBUFOS	2001	kg				16460						
+51	Virginia	TRIBUFOS	2002	kg				11470.4						
+51	Virginia	TRIBUFOS	2003	kg				7962.3						
+51	Virginia	TRIBUFOS	2004	kg				6447.2						
+51	Virginia	TRIBUFOS	2005	kg				9192						
+51	Virginia	TRIBUFOS	2006	kg				13167.2						
+51	Virginia	TRIBUFOS	2007	kg				5216.9						
+51	Virginia	TRIBUFOS	2008	kg				7314.6						
+51	Virginia	TRIBUFOS	2009	kg				8982.2						
+51	Virginia	TRIBUFOS	2010	kg				10583.7						
+51	Virginia	TRIBUFOS	2011	kg				44225.2						
+51	Virginia	TRIBUFOS	2012	kg				7244.8						
+51	Virginia	TRIBUFOS	2013	kg				9012.2						
+51	Virginia	TRIBUFOS	2014	kg				9511						
+51	Virginia	TRIBUFOS	2015	kg				12351.3						
+51	Virginia	TRIBUFOS	2016	kg				17612.1						
+51	Virginia	TRIBUFOS	2017	kg				13169.5						
+55	Wisconsin	TRIBUFOS	1992	kg	209.3									
+56	Wyoming	TRIBUFOS	1995	kg					0					

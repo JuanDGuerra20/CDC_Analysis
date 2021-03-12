@@ -1,0 +1,58 @@
+01	Alabama	PHOSALONE	1993	kg							1820.2			
+01	Alabama	PHOSALONE	1994	kg							8296.5			
+04	Arizona	PHOSALONE	1992	kg							0			
+05	Arkansas	PHOSALONE	1992	kg							448.8			
+05	Arkansas	PHOSALONE	1993	kg							757.8			
+05	Arkansas	PHOSALONE	1995	kg							115.8			
+05	Arkansas	PHOSALONE	1996	kg							0.5			
+05	Arkansas	PHOSALONE	1997	kg							0.5			
+06	California	PHOSALONE	1992	kg							313.9			
+06	California	PHOSALONE	1993	kg							81.7			
+06	California	PHOSALONE	1994	kg							44.9			
+06	California	PHOSALONE	1995	kg							23.7			
+06	California	PHOSALONE	1996	kg							12.2			
+06	California	PHOSALONE	1997	kg							14.9			
+06	California	PHOSALONE	1998	kg							5.1			
+06	California	PHOSALONE	2000	kg										1.7
+12	Florida	PHOSALONE	1993	kg							190.5			
+12	Florida	PHOSALONE	1994	kg							1395.4			
+12	Florida	PHOSALONE	1997	kg										38.4
+13	Georgia	PHOSALONE	1993	kg							377.8			
+13	Georgia	PHOSALONE	1994	kg							16284.1			
+13	Georgia	PHOSALONE	1997	kg										329.4
+20	Kansas	PHOSALONE	1992	kg							88.2			
+20	Kansas	PHOSALONE	1994	kg							583.4			
+20	Kansas	PHOSALONE	1995	kg							139			
+20	Kansas	PHOSALONE	1996	kg							40.3			
+20	Kansas	PHOSALONE	1997	kg							42.6			
+22	Louisiana	PHOSALONE	1992	kg							2584.4			
+23	Maine	PHOSALONE	1997	kg					27.7					
+28	Mississippi	PHOSALONE	1992	kg							890.7			
+28	Mississippi	PHOSALONE	1993	kg							228.9			
+29	Missouri	PHOSALONE	1992	kg							3.4			
+29	Missouri	PHOSALONE	1993	kg							42.9			
+29	Missouri	PHOSALONE	1995	kg							8.5			
+29	Missouri	PHOSALONE	1996	kg							2.4			
+29	Missouri	PHOSALONE	1997	kg							2.7			
+35	New Mexico	PHOSALONE	1992	kg							451.4			
+35	New Mexico	PHOSALONE	1994	kg							3338.4			
+35	New Mexico	PHOSALONE	1995	kg							601.6			
+35	New Mexico	PHOSALONE	1996	kg							45.2			
+36	New York	PHOSALONE	1995	kg							600			
+40	Oklahoma	PHOSALONE	1992	kg							661.8			
+40	Oklahoma	PHOSALONE	1993	kg							730.5			
+40	Oklahoma	PHOSALONE	1994	kg							7100.7			
+40	Oklahoma	PHOSALONE	1995	kg							1423.6			
+40	Oklahoma	PHOSALONE	1996	kg							442.3			
+40	Oklahoma	PHOSALONE	1997	kg							361.3			
+45	South Carolina	PHOSALONE	1997	kg										10.4
+47	Tennessee	PHOSALONE	1992	kg							7.1			
+48	Texas	PHOSALONE	1992	kg							4915.9			
+48	Texas	PHOSALONE	1993	kg							5033.2			
+48	Texas	PHOSALONE	1994	kg							17690.8			
+48	Texas	PHOSALONE	1995	kg							650.4			
+48	Texas	PHOSALONE	1996	kg							172.3			
+48	Texas	PHOSALONE	1997	kg							1045.1			
+48	Texas	PHOSALONE	1999	kg							3416.3			
+51	Virginia	PHOSALONE	1993	kg							352			
+51	Virginia	PHOSALONE	1994	kg							771.7			

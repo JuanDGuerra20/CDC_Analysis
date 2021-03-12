@@ -1,0 +1,442 @@
+01	Alabama	DICHLORPROP	1992	kg	1816.2		569.6						1104.5	
+01	Alabama	DICHLORPROP	1993	kg	518.8		205.8						6734	
+01	Alabama	DICHLORPROP	1994	kg	1286		816.3						5528.3	
+01	Alabama	DICHLORPROP	1995	kg	1176.4		1458.2						244.8	
+01	Alabama	DICHLORPROP	1996	kg	174.3								1650	
+01	Alabama	DICHLORPROP	1997	kg	1041.8		400.7						16407	
+01	Alabama	DICHLORPROP	2007	kg									401.6	
+01	Alabama	DICHLORPROP	2009	kg									191.9	
+01	Alabama	DICHLORPROP	2010	kg									162.6	
+01	Alabama	DICHLORPROP	2012	kg									1705.3	
+01	Alabama	DICHLORPROP	2014	kg									124.3	
+01	Alabama	DICHLORPROP	2016	kg									3238.1	
+04	Arizona	DICHLORPROP	1993	kg									69942.5	
+04	Arizona	DICHLORPROP	1995	kg	1819.5								85.3	
+05	Arkansas	DICHLORPROP	1993	kg									35.4	
+05	Arkansas	DICHLORPROP	1994	kg			2252.5			486.1			1401.7	
+05	Arkansas	DICHLORPROP	1995	kg	23.5								7418.7	199.9
+05	Arkansas	DICHLORPROP	1996	kg									6072.5	39.4
+05	Arkansas	DICHLORPROP	1997	kg			1177.1						698.7	137
+05	Arkansas	DICHLORPROP	1998	kg									90.7	
+05	Arkansas	DICHLORPROP	2000	kg									29.7	
+05	Arkansas	DICHLORPROP	2002	kg									1005.4	
+05	Arkansas	DICHLORPROP	2004	kg									58.1	
+05	Arkansas	DICHLORPROP	2006	kg									2864.9	
+05	Arkansas	DICHLORPROP	2007	kg									3093.1	
+05	Arkansas	DICHLORPROP	2009	kg									1397.1	
+05	Arkansas	DICHLORPROP	2010	kg									463.1	
+05	Arkansas	DICHLORPROP	2011	kg									180.8	
+06	California	DICHLORPROP	1992	kg							47.4		2.1	
+06	California	DICHLORPROP	1993	kg									3.8	
+06	California	DICHLORPROP	1994	kg							5.2		7.7	
+06	California	DICHLORPROP	1995	kg							49.4		82.8	
+06	California	DICHLORPROP	1996	kg							82.7		261.8	
+06	California	DICHLORPROP	1997	kg							96.4		215.3	
+06	California	DICHLORPROP	1998	kg						0.2	95.7		284.3	29.8
+06	California	DICHLORPROP	1999	kg							82		110	1
+06	California	DICHLORPROP	2000	kg							165.4		100.7	
+06	California	DICHLORPROP	2001	kg							101		137.1	
+06	California	DICHLORPROP	2002	kg							109.7		127.7	
+06	California	DICHLORPROP	2003	kg									24.5	
+06	California	DICHLORPROP	2004	kg							0.2		5.3	
+06	California	DICHLORPROP	2005	kg							4			
+06	California	DICHLORPROP	2007	kg									2.2	
+06	California	DICHLORPROP	2008	kg							0			
+06	California	DICHLORPROP	2010	kg							0			
+06	California	DICHLORPROP	2011	kg							0.2		0	
+06	California	DICHLORPROP	2012	kg							0.2		0	
+06	California	DICHLORPROP	2013	kg							0.1			
+06	California	DICHLORPROP	2016	kg							0.1			
+06	California	DICHLORPROP	2017	kg							0.3			
+08	Colorado	DICHLORPROP	1993	kg			79.4						25.8	
+08	Colorado	DICHLORPROP	1994	kg									3676.5	615.5
+08	Colorado	DICHLORPROP	1995	kg	1399.1		1008.3						4976.5	808.5
+08	Colorado	DICHLORPROP	1997	kg			3944.8							
+10	Delaware	DICHLORPROP	1992	kg			1338.8							
+10	Delaware	DICHLORPROP	1993	kg			483.6							
+10	Delaware	DICHLORPROP	1994	kg			2047.7							
+10	Delaware	DICHLORPROP	1995	kg			926.6							
+10	Delaware	DICHLORPROP	1997	kg			2215.6							
+12	Florida	DICHLORPROP	1992	kg									454.2	
+12	Florida	DICHLORPROP	1993	kg	172.4								56.5	
+12	Florida	DICHLORPROP	1994	kg									523.7	
+12	Florida	DICHLORPROP	1995	kg	327.1									53.4
+13	Georgia	DICHLORPROP	1992	kg	3972.2		5149						1486.9	
+13	Georgia	DICHLORPROP	1993	kg	1094.3		1860.8						22933.5	
+13	Georgia	DICHLORPROP	1994	kg	2369.6		7614.8						4046	941.8
+13	Georgia	DICHLORPROP	1995	kg	597.3		2549.1						389	15.6
+13	Georgia	DICHLORPROP	1996	kg	222								885.7	
+13	Georgia	DICHLORPROP	1997	kg	1105.1		7195.7						6616.2	
+13	Georgia	DICHLORPROP	1998	kg									37.1	
+13	Georgia	DICHLORPROP	2001	kg									72.6	
+13	Georgia	DICHLORPROP	2010	kg									81.1	
+13	Georgia	DICHLORPROP	2011	kg									681.2	
+13	Georgia	DICHLORPROP	2012	kg									387.7	
+13	Georgia	DICHLORPROP	2014	kg									79.8	
+13	Georgia	DICHLORPROP	2016	kg									1575	
+16	Idaho	DICHLORPROP	1992	kg			255.5							21754.4
+16	Idaho	DICHLORPROP	1993	kg			6088.9						68.2	
+16	Idaho	DICHLORPROP	1994	kg			26270.7		4990.9					963
+16	Idaho	DICHLORPROP	1995	kg			1380						2487	6273.9
+16	Idaho	DICHLORPROP	1997	kg			6278.7						4648.8	
+16	Idaho	DICHLORPROP	2009	kg									1047.1	
+17	Illinois	DICHLORPROP	1992	kg	29564.7	43085.8							1270.9	
+17	Illinois	DICHLORPROP	1993	kg	10039.3	8228	1115.2						395	
+17	Illinois	DICHLORPROP	1994	kg	5749.7	40168.7	509.3						11191.7	
+17	Illinois	DICHLORPROP	1995	kg	12987.9	48104.2	31843.6						2698.2	
+17	Illinois	DICHLORPROP	1996	kg	15619.4	24830.9	4763.9						978.3	
+17	Illinois	DICHLORPROP	1997	kg	14618.8	15131.9	3506.5						15639.8	2670.4
+17	Illinois	DICHLORPROP	2000	kg									2	
+17	Illinois	DICHLORPROP	2002	kg									359.9	
+17	Illinois	DICHLORPROP	2003	kg									478.9	
+17	Illinois	DICHLORPROP	2004	kg									53.3	
+17	Illinois	DICHLORPROP	2005	kg									51.2	
+17	Illinois	DICHLORPROP	2006	kg									184.5	
+17	Illinois	DICHLORPROP	2007	kg									1340.8	
+17	Illinois	DICHLORPROP	2008	kg									205	
+17	Illinois	DICHLORPROP	2009	kg									1692.8	
+17	Illinois	DICHLORPROP	2010	kg									144.8	
+17	Illinois	DICHLORPROP	2011	kg									243.4	
+17	Illinois	DICHLORPROP	2012	kg									402.3	
+17	Illinois	DICHLORPROP	2013	kg									982.6	
+17	Illinois	DICHLORPROP	2014	kg									554.8	
+17	Illinois	DICHLORPROP	2015	kg									1109.2	
+17	Illinois	DICHLORPROP	2016	kg									7476.3	
+18	Indiana	DICHLORPROP	1992	kg	1135.6								873.8	
+18	Indiana	DICHLORPROP	1993	kg	2842.3	10906.2	1148.7						301.6	1346.2
+18	Indiana	DICHLORPROP	1994	kg	10367.9	9459.1							18347.9	
+18	Indiana	DICHLORPROP	1995	kg	12641.6	6092.6	22732						850.2	
+18	Indiana	DICHLORPROP	1996	kg	13183.4	20246.3	7868.1				250.2		447.4	
+18	Indiana	DICHLORPROP	1997	kg	39365.1	22892.2	6254.8						1633.4	
+18	Indiana	DICHLORPROP	2008	kg									93.9	
+18	Indiana	DICHLORPROP	2009	kg									525.5	
+18	Indiana	DICHLORPROP	2010	kg									87.1	
+18	Indiana	DICHLORPROP	2011	kg									116.3	
+18	Indiana	DICHLORPROP	2012	kg									176	
+18	Indiana	DICHLORPROP	2013	kg									527.3	
+18	Indiana	DICHLORPROP	2014	kg									207	
+18	Indiana	DICHLORPROP	2016	kg									664.6	
+19	Iowa	DICHLORPROP	1992	kg									2359.3	
+19	Iowa	DICHLORPROP	1993	kg	54510.5		5.6						1077	
+19	Iowa	DICHLORPROP	1994	kg	14483.9	41043.7							23419	
+19	Iowa	DICHLORPROP	1995	kg	78291.4	55198.7	286.1						15959.4	
+19	Iowa	DICHLORPROP	1996	kg	29446.1	30673.1	60.2						1240.2	6.6
+19	Iowa	DICHLORPROP	1997	kg	32262.8	33844.7	123.3						12105	4416
+19	Iowa	DICHLORPROP	2002	kg									1261.7	
+19	Iowa	DICHLORPROP	2003	kg									1735.9	
+19	Iowa	DICHLORPROP	2005	kg									155.2	
+19	Iowa	DICHLORPROP	2006	kg									403.7	
+19	Iowa	DICHLORPROP	2007	kg									3045.6	
+19	Iowa	DICHLORPROP	2008	kg									417.6	
+19	Iowa	DICHLORPROP	2009	kg									3039.1	
+19	Iowa	DICHLORPROP	2010	kg									1017.4	
+19	Iowa	DICHLORPROP	2011	kg									632.9	
+19	Iowa	DICHLORPROP	2012	kg									817.1	
+19	Iowa	DICHLORPROP	2013	kg									2462.6	
+19	Iowa	DICHLORPROP	2014	kg									651.2	
+19	Iowa	DICHLORPROP	2016	kg									4382	
+19	Iowa	DICHLORPROP	2017	kg									1220	
+20	Kansas	DICHLORPROP	1993	kg			3702.1						7902.8	
+20	Kansas	DICHLORPROP	1994	kg									27705.8	
+20	Kansas	DICHLORPROP	1995	kg			11733.6						41687.3	
+20	Kansas	DICHLORPROP	1996	kg			4554.4						2805.2	1124
+20	Kansas	DICHLORPROP	1997	kg			2952.4						1282.5	
+20	Kansas	DICHLORPROP	2002	kg									22709.6	
+20	Kansas	DICHLORPROP	2010	kg									6796.1	
+20	Kansas	DICHLORPROP	2011	kg									1035.1	
+20	Kansas	DICHLORPROP	2013	kg									8999	
+20	Kansas	DICHLORPROP	2016	kg									1466.6	
+21	Kentucky	DICHLORPROP	1992	kg									1961.6	482
+21	Kentucky	DICHLORPROP	1993	kg	1865.9		379.7						2963	
+21	Kentucky	DICHLORPROP	1994	kg	2911.3	1618.5							35048.9	162.4
+21	Kentucky	DICHLORPROP	1995	kg	1845	1283.1	23563.2						1980.5	33.7
+21	Kentucky	DICHLORPROP	1996	kg	2928.7	3128.1	2561.3		84.9				1674.4	
+21	Kentucky	DICHLORPROP	1997	kg	25123.4	12130.3	1826.7						769.5	
+21	Kentucky	DICHLORPROP	1998	kg									28.6	
+21	Kentucky	DICHLORPROP	2002	kg									245.2	
+21	Kentucky	DICHLORPROP	2003	kg									262.9	
+21	Kentucky	DICHLORPROP	2005	kg									37.5	
+21	Kentucky	DICHLORPROP	2006	kg									102.2	
+21	Kentucky	DICHLORPROP	2007	kg									1584.1	
+21	Kentucky	DICHLORPROP	2008	kg									101	
+21	Kentucky	DICHLORPROP	2009	kg									793.3	
+21	Kentucky	DICHLORPROP	2010	kg									187.6	
+21	Kentucky	DICHLORPROP	2011	kg									1144.4	
+21	Kentucky	DICHLORPROP	2012	kg									2713.7	
+21	Kentucky	DICHLORPROP	2013	kg									519.4	
+21	Kentucky	DICHLORPROP	2014	kg									452.4	
+21	Kentucky	DICHLORPROP	2016	kg									2560.8	
+22	Louisiana	DICHLORPROP	1992	kg									266.9	
+22	Louisiana	DICHLORPROP	1993	kg									43.9	
+22	Louisiana	DICHLORPROP	1994	kg			1016.7						1197.6	
+22	Louisiana	DICHLORPROP	1995	kg									402.1	
+22	Louisiana	DICHLORPROP	1996	kg										6634.2
+22	Louisiana	DICHLORPROP	2002	kg									12.1	
+22	Louisiana	DICHLORPROP	2003	kg									443.8	
+23	Maine	DICHLORPROP	1992	kg									262.5	
+24	Maryland	DICHLORPROP	1992	kg	263		2968.7						172.7	
+24	Maryland	DICHLORPROP	1993	kg	7049.1		1072.5						10555.8	2.6
+24	Maryland	DICHLORPROP	1994	kg	243.3		4481.6						100.6	
+24	Maryland	DICHLORPROP	1995	kg	20158.3		2123.1						8.9	
+24	Maryland	DICHLORPROP	1996	kg	14.5								241.4	
+24	Maryland	DICHLORPROP	1997	kg	67.2		5932.2						91.2	
+24	Maryland	DICHLORPROP	2004	kg									5800.4	
+24	Maryland	DICHLORPROP	2006	kg									50.8	
+24	Maryland	DICHLORPROP	2007	kg									27.8	
+24	Maryland	DICHLORPROP	2008	kg									81.4	
+24	Maryland	DICHLORPROP	2009	kg									57.4	
+24	Maryland	DICHLORPROP	2012	kg									369.3	
+24	Maryland	DICHLORPROP	2014	kg									9.3	
+24	Maryland	DICHLORPROP	2016	kg									77.9	
+26	Michigan	DICHLORPROP	1992	kg	1539.6								1416.4	
+26	Michigan	DICHLORPROP	1993	kg	797.8		212.4							
+26	Michigan	DICHLORPROP	1994	kg	2971.6		1296.1						848.8	
+26	Michigan	DICHLORPROP	1995	kg	6708.4	934.7	17474.1						202.9	
+26	Michigan	DICHLORPROP	1996	kg	2785	2928.7	1716.1				4762.1		823.2	131
+26	Michigan	DICHLORPROP	1997	kg	4489.8		8326.7						57.4	238.5
+27	Minnesota	DICHLORPROP	1992	kg	1673								206.8	
+27	Minnesota	DICHLORPROP	1993	kg	16404.8								23.2	
+27	Minnesota	DICHLORPROP	1994	kg	9267.3	16887.8							691.3	
+27	Minnesota	DICHLORPROP	1995	kg	5060.5	518.2							272.4	
+27	Minnesota	DICHLORPROP	1996	kg	5449.9	18723.7	28391		4797.2				99.3	
+27	Minnesota	DICHLORPROP	1997	kg	8793.3	15838							464.2	2533.8
+27	Minnesota	DICHLORPROP	2002	kg									126.6	
+27	Minnesota	DICHLORPROP	2003	kg									279.1	
+27	Minnesota	DICHLORPROP	2005	kg									18.2	
+27	Minnesota	DICHLORPROP	2006	kg									49.7	
+27	Minnesota	DICHLORPROP	2007	kg									389.3	
+27	Minnesota	DICHLORPROP	2008	kg									46.6	
+27	Minnesota	DICHLORPROP	2009	kg									786.6	
+27	Minnesota	DICHLORPROP	2010	kg									13.1	
+27	Minnesota	DICHLORPROP	2011	kg									57.4	
+27	Minnesota	DICHLORPROP	2012	kg									86	
+27	Minnesota	DICHLORPROP	2013	kg									249.1	
+27	Minnesota	DICHLORPROP	2014	kg									93.5	
+27	Minnesota	DICHLORPROP	2016	kg									267.7	
+28	Mississippi	DICHLORPROP	1992	kg	116.8								319.9	
+28	Mississippi	DICHLORPROP	1993	kg	30.4								91.7	
+28	Mississippi	DICHLORPROP	1994	kg	76.2								602.5	
+28	Mississippi	DICHLORPROP	1995	kg	299.2								136.3	
+28	Mississippi	DICHLORPROP	1996	kg	6								190	
+28	Mississippi	DICHLORPROP	1997	kg	26.3								1177.3	
+28	Mississippi	DICHLORPROP	2010	kg									23.8	
+28	Mississippi	DICHLORPROP	2016	kg									388.4	
+29	Missouri	DICHLORPROP	1992	kg	3062	6520.9							1474.6	
+29	Missouri	DICHLORPROP	1993	kg	1683.9		986.6						1236.5	
+29	Missouri	DICHLORPROP	1994	kg	3373.3	11988.2				52.8			24993.1	
+29	Missouri	DICHLORPROP	1995	kg	7965.2	14245.7	28439.5						21270.2	251.4
+29	Missouri	DICHLORPROP	1996	kg	10986.5	8270.3	4884.3						4470.5	130.4
+29	Missouri	DICHLORPROP	1997	kg	6696.9	13351.4	6140						8250.6	4394.3
+29	Missouri	DICHLORPROP	1998	kg									350	
+29	Missouri	DICHLORPROP	2000	kg									96.9	
+29	Missouri	DICHLORPROP	2002	kg									11638	
+29	Missouri	DICHLORPROP	2003	kg									859	
+29	Missouri	DICHLORPROP	2004	kg									489.7	
+29	Missouri	DICHLORPROP	2005	kg									970.6	
+29	Missouri	DICHLORPROP	2006	kg									5718.9	
+29	Missouri	DICHLORPROP	2007	kg									16205.8	
+29	Missouri	DICHLORPROP	2008	kg									1206.6	
+29	Missouri	DICHLORPROP	2009	kg									5971.7	
+29	Missouri	DICHLORPROP	2010	kg									3931.9	
+29	Missouri	DICHLORPROP	2011	kg									1652.1	
+29	Missouri	DICHLORPROP	2012	kg									2675.9	
+29	Missouri	DICHLORPROP	2013	kg									9743.5	
+29	Missouri	DICHLORPROP	2014	kg									3181.7	
+29	Missouri	DICHLORPROP	2015	kg									18250.5	
+29	Missouri	DICHLORPROP	2016	kg									108312.4	
+29	Missouri	DICHLORPROP	2017	kg									7062.4	
+30	Montana	DICHLORPROP	1993	kg			490.7						19.8	
+30	Montana	DICHLORPROP	1994	kg			1670.9		97.2					7669
+30	Montana	DICHLORPROP	1995	kg			97.8						429.7	700
+30	Montana	DICHLORPROP	1997	kg			26743.8							7505.3
+30	Montana	DICHLORPROP	2009	kg									7258.3	
+31	Nebraska	DICHLORPROP	1992	kg									545.3	
+31	Nebraska	DICHLORPROP	1993	kg			239.5						564.9	
+31	Nebraska	DICHLORPROP	1994	kg		7127.4							13216.9	
+31	Nebraska	DICHLORPROP	1995	kg		7900.2	2330.7						1412.2	
+31	Nebraska	DICHLORPROP	1996	kg		6553.9	1939.7						16.7	2597.8
+31	Nebraska	DICHLORPROP	1997	kg		7207.9	8316.3						1098.4	
+31	Nebraska	DICHLORPROP	2008	kg									212.3	
+31	Nebraska	DICHLORPROP	2009	kg									1231.9	
+31	Nebraska	DICHLORPROP	2010	kg									210.9	
+31	Nebraska	DICHLORPROP	2011	kg									292.4	
+31	Nebraska	DICHLORPROP	2012	kg									459.6	
+31	Nebraska	DICHLORPROP	2013	kg									1421	
+31	Nebraska	DICHLORPROP	2014	kg									577.3	
+31	Nebraska	DICHLORPROP	2016	kg									2678.9	
+32	Nevada	DICHLORPROP	1992	kg										150.6
+32	Nevada	DICHLORPROP	1993	kg									7199.3	
+32	Nevada	DICHLORPROP	1994	kg										42.7
+32	Nevada	DICHLORPROP	1995	kg	5.2								712.8	
+32	Nevada	DICHLORPROP	1997	kg			800.9						744.1	
+34	New Jersey	DICHLORPROP	1995	kg									2302.5	
+35	New Mexico	DICHLORPROP	1993	kg			54.8						60.7	
+35	New Mexico	DICHLORPROP	1994	kg										0.7
+35	New Mexico	DICHLORPROP	1995	kg	1241		375						57.3	5.6
+36	New York	DICHLORPROP	1992	kg										2452.9
+36	New York	DICHLORPROP	1993	kg									120.9	3031.3
+36	New York	DICHLORPROP	1995	kg									3548.8	650.6
+36	New York	DICHLORPROP	1997	kg										849
+37	North Carolina	DICHLORPROP	1992	kg	10323.8		15897.2						1391.9	474.8
+37	North Carolina	DICHLORPROP	1993	kg	2420.9	4941.7	2703.5						7742.2	
+37	North Carolina	DICHLORPROP	1994	kg	4650.9		13865.9						2534.1	1989.9
+37	North Carolina	DICHLORPROP	1995	kg	2012.8		5452.1						4030.2	19.7
+37	North Carolina	DICHLORPROP	1996	kg	598.5		1231.8						5715.1	2295.1
+37	North Carolina	DICHLORPROP	1997	kg	1129.9		7512.6						5616.1	
+37	North Carolina	DICHLORPROP	1998	kg									23.7	
+37	North Carolina	DICHLORPROP	2010	kg									59.8	
+37	North Carolina	DICHLORPROP	2011	kg									651.7	
+37	North Carolina	DICHLORPROP	2012	kg									376.2	
+37	North Carolina	DICHLORPROP	2014	kg									74.6	
+37	North Carolina	DICHLORPROP	2015	kg									229.2	
+37	North Carolina	DICHLORPROP	2016	kg									1386.6	
+38	North Dakota	DICHLORPROP	1995	kg		48.3								
+38	North Dakota	DICHLORPROP	1997	kg	339.6									
+38	North Dakota	DICHLORPROP	2013	kg			1662.8							
+39	Ohio	DICHLORPROP	1992	kg	4228.2								3111.2	
+39	Ohio	DICHLORPROP	1993	kg	4165.4	3585.2	552.7						2013.8	488.8
+39	Ohio	DICHLORPROP	1994	kg	9291.7	11985.6	2700.4						8726.3	1069.1
+39	Ohio	DICHLORPROP	1995	kg	6290.7	4706.4	1316.2		38.1				661.7	140.9
+39	Ohio	DICHLORPROP	1996	kg	7300.3	17955.4	2268.6		24.5				1478.6	721.3
+39	Ohio	DICHLORPROP	1997	kg	12970	10701.8	6603.3						2425.9	
+39	Ohio	DICHLORPROP	2002	kg									273	
+39	Ohio	DICHLORPROP	2003	kg									283.1	
+39	Ohio	DICHLORPROP	2005	kg									38.3	
+39	Ohio	DICHLORPROP	2006	kg									102.9	
+39	Ohio	DICHLORPROP	2007	kg									799.6	
+39	Ohio	DICHLORPROP	2008	kg									90.7	
+39	Ohio	DICHLORPROP	2009	kg									517.8	
+39	Ohio	DICHLORPROP	2010	kg									86.5	
+39	Ohio	DICHLORPROP	2011	kg									117.4	
+39	Ohio	DICHLORPROP	2012	kg									1296.2	
+39	Ohio	DICHLORPROP	2013	kg									530.9	
+39	Ohio	DICHLORPROP	2014	kg									285	
+39	Ohio	DICHLORPROP	2016	kg									1357.2	
+40	Oklahoma	DICHLORPROP	1992	kg									158	351.7
+40	Oklahoma	DICHLORPROP	1993	kg			1219.6						10029.8	
+40	Oklahoma	DICHLORPROP	1994	kg			672.7						45772.7	2351
+40	Oklahoma	DICHLORPROP	1995	kg	3542.1		12074.5						33304.4	119.3
+40	Oklahoma	DICHLORPROP	1996	kg									9416.7	97.9
+40	Oklahoma	DICHLORPROP	1997	kg									6966.8	
+40	Oklahoma	DICHLORPROP	1998	kg									6443.7	
+40	Oklahoma	DICHLORPROP	2002	kg									2342.1	
+40	Oklahoma	DICHLORPROP	2003	kg									34340	
+40	Oklahoma	DICHLORPROP	2007	kg									7166.2	
+40	Oklahoma	DICHLORPROP	2010	kg									874.2	
+40	Oklahoma	DICHLORPROP	2011	kg									593.2	
+40	Oklahoma	DICHLORPROP	2016	kg									4066.4	
+41	Oregon	DICHLORPROP	1992	kg									1945.6	2554.8
+41	Oregon	DICHLORPROP	1993	kg									1119.8	
+41	Oregon	DICHLORPROP	1994	kg									176.3	505.5
+41	Oregon	DICHLORPROP	1995	kg									761.5	
+41	Oregon	DICHLORPROP	1996	kg					0.9				280.7	
+41	Oregon	DICHLORPROP	1997	kg			4506.1						1910	
+42	Pennsylvania	DICHLORPROP	1992	kg									987.8	
+42	Pennsylvania	DICHLORPROP	1993	kg	389.6								9720.2	122.7
+42	Pennsylvania	DICHLORPROP	1994	kg	805.1								1038.3	3388
+42	Pennsylvania	DICHLORPROP	1995	kg	268.7				11.9				20015.6	2885.2
+42	Pennsylvania	DICHLORPROP	1996	kg	4084.7								624.6	2774.9
+42	Pennsylvania	DICHLORPROP	1997	kg	861.2		1357.1						979.9	
+42	Pennsylvania	DICHLORPROP	2004	kg									10040.3	
+42	Pennsylvania	DICHLORPROP	2005	kg									7657.7	
+42	Pennsylvania	DICHLORPROP	2008	kg									345.1	
+42	Pennsylvania	DICHLORPROP	2012	kg									538.5	
+42	Pennsylvania	DICHLORPROP	2014	kg									37.5	
+42	Pennsylvania	DICHLORPROP	2016	kg									336.4	
+45	South Carolina	DICHLORPROP	1992	kg	2015.5		3018.9						400.1	448.4
+45	South Carolina	DICHLORPROP	1993	kg	452.2	1463.6	3822.5						3595.5	
+45	South Carolina	DICHLORPROP	1994	kg	1679.6		14724.8						660.4	1450.4
+45	South Carolina	DICHLORPROP	1995	kg	509.3		8888						461.1	
+45	South Carolina	DICHLORPROP	1996	kg	122.3		346.8						18184.7	1167.5
+45	South Carolina	DICHLORPROP	1997	kg	1573.6		3361.1						3578.2	
+45	South Carolina	DICHLORPROP	2016	kg									824.1	
+46	South Dakota	DICHLORPROP	1992	kg									167.1	
+46	South Dakota	DICHLORPROP	1993	kg	10529.9								52.6	
+46	South Dakota	DICHLORPROP	1994	kg	3277.5	5918.6							5907.7	
+46	South Dakota	DICHLORPROP	1995	kg	1869.7	3503.6							137.3	
+46	South Dakota	DICHLORPROP	1996	kg	5159.9	5264.8							78.6	
+46	South Dakota	DICHLORPROP	1997	kg	4662.8	6482.4	466.3						326.9	
+46	South Dakota	DICHLORPROP	2008	kg									95.2	
+46	South Dakota	DICHLORPROP	2009	kg									547	
+46	South Dakota	DICHLORPROP	2010	kg									92.3	
+46	South Dakota	DICHLORPROP	2011	kg									126.3	
+46	South Dakota	DICHLORPROP	2012	kg									195.1	
+46	South Dakota	DICHLORPROP	2013	kg									609.2	
+46	South Dakota	DICHLORPROP	2014	kg									250.1	
+46	South Dakota	DICHLORPROP	2016	kg									889.3	
+47	Tennessee	DICHLORPROP	1992	kg									2459	342.1
+47	Tennessee	DICHLORPROP	1993	kg	469.7								2840.2	
+47	Tennessee	DICHLORPROP	1994	kg	1738.5					0.3			9005.3	192.4
+47	Tennessee	DICHLORPROP	1995	kg	843.8		6040.9						971.3	40.7
+47	Tennessee	DICHLORPROP	1996	kg	682.1								1260.5	
+47	Tennessee	DICHLORPROP	1997	kg	9772.6	9935.6	562.2						1084.5	
+47	Tennessee	DICHLORPROP	1998	kg									190	
+47	Tennessee	DICHLORPROP	2007	kg									2348.3	
+47	Tennessee	DICHLORPROP	2009	kg									933.9	
+47	Tennessee	DICHLORPROP	2010	kg									225.7	
+47	Tennessee	DICHLORPROP	2011	kg									2476.1	
+47	Tennessee	DICHLORPROP	2012	kg									3720	
+47	Tennessee	DICHLORPROP	2014	kg									445.4	
+47	Tennessee	DICHLORPROP	2016	kg									2544.3	
+48	Texas	DICHLORPROP	1992	kg									1211.5	2145
+48	Texas	DICHLORPROP	1993	kg			496.4						7676.8	
+48	Texas	DICHLORPROP	1994	kg			29803.7						53193.3	4215.7
+48	Texas	DICHLORPROP	1995	kg	74208.5		3175.6						9668.1	
+48	Texas	DICHLORPROP	1996	kg									5294.4	2979.7
+48	Texas	DICHLORPROP	1997	kg									7377.5	3859.7
+48	Texas	DICHLORPROP	1998	kg									9986.2	
+48	Texas	DICHLORPROP	2002	kg									483.9	
+48	Texas	DICHLORPROP	2003	kg									51525.9	
+48	Texas	DICHLORPROP	2016	kg									6412.4	
+49	Utah	DICHLORPROP	1992	kg			7.4							
+49	Utah	DICHLORPROP	1993	kg			161						20024.6	
+49	Utah	DICHLORPROP	1994	kg			1339.2		6.8					70.1
+49	Utah	DICHLORPROP	1995	kg	519.1		114						1580	361
+49	Utah	DICHLORPROP	1997	kg			2011.6							
+51	Virginia	DICHLORPROP	1992	kg	2899.5								3406.6	676.9
+51	Virginia	DICHLORPROP	1993	kg	1176.7								17388.8	
+51	Virginia	DICHLORPROP	1994	kg	1088.4								6933	100
+51	Virginia	DICHLORPROP	1995	kg	35966.1								926.8	21.3
+51	Virginia	DICHLORPROP	1996	kg	388.2								1429.4	
+51	Virginia	DICHLORPROP	1997	kg	3677.5								8317.1	
+51	Virginia	DICHLORPROP	1998	kg									69.9	
+51	Virginia	DICHLORPROP	2002	kg									46.3	
+51	Virginia	DICHLORPROP	2004	kg									25.9	
+51	Virginia	DICHLORPROP	2006	kg									610.8	
+51	Virginia	DICHLORPROP	2007	kg									340.9	
+51	Virginia	DICHLORPROP	2008	kg									161	
+51	Virginia	DICHLORPROP	2009	kg									702.4	
+51	Virginia	DICHLORPROP	2010	kg									144.4	
+51	Virginia	DICHLORPROP	2011	kg									1697	
+51	Virginia	DICHLORPROP	2012	kg									4151.7	
+51	Virginia	DICHLORPROP	2014	kg									184.2	
+51	Virginia	DICHLORPROP	2015	kg									108.3	
+51	Virginia	DICHLORPROP	2016	kg									3940.8	
+53	Washington	DICHLORPROP	1994	kg									219	
+53	Washington	DICHLORPROP	1997	kg			8562.5						54609	
+54	West Virginia	DICHLORPROP	1992	kg									2639.1	536.2
+54	West Virginia	DICHLORPROP	1993	kg	180.4								2284.5	1.3
+54	West Virginia	DICHLORPROP	1994	kg	123.2								3150.8	32.4
+54	West Virginia	DICHLORPROP	1995	kg	5149.4				0.7				318.5	2.1
+54	West Virginia	DICHLORPROP	1996	kg	193.8								1597.3	31.7
+54	West Virginia	DICHLORPROP	1997	kg	1387.5								2057.6	
+54	West Virginia	DICHLORPROP	2004	kg									34302.7	
+54	West Virginia	DICHLORPROP	2006	kg									578.9	
+54	West Virginia	DICHLORPROP	2007	kg									353.6	
+54	West Virginia	DICHLORPROP	2009	kg									614.2	
+54	West Virginia	DICHLORPROP	2012	kg									3970	
+54	West Virginia	DICHLORPROP	2014	kg									110.3	
+54	West Virginia	DICHLORPROP	2016	kg									2039.9	
+55	Wisconsin	DICHLORPROP	1992	kg	2831.1								1564	
+55	Wisconsin	DICHLORPROP	1993	kg	905.5								96.6	
+55	Wisconsin	DICHLORPROP	1994	kg	1116.9	2674.6	1260.3							
+55	Wisconsin	DICHLORPROP	1995	kg	3185.5	4003.2	3470.9							609.2
+55	Wisconsin	DICHLORPROP	1996	kg	2129.6	181.8	192.1						261.8	
+55	Wisconsin	DICHLORPROP	1997	kg			382.9						1325.5	1294.1
+55	Wisconsin	DICHLORPROP	2003	kg									388.2	
+55	Wisconsin	DICHLORPROP	2009	kg									2990.9	
+55	Wisconsin	DICHLORPROP	2010	kg									50.9	
+56	Wyoming	DICHLORPROP	1993	kg			2						3.6	
+56	Wyoming	DICHLORPROP	1994	kg			4.3		0					1578.1
+56	Wyoming	DICHLORPROP	1995	kg			0.3						169	97
+56	Wyoming	DICHLORPROP	1997	kg			2855.4							1301.7

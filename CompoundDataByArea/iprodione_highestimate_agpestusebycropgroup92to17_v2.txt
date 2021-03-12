@@ -1,0 +1,844 @@
+01	Alabama	IPRODIONE	1992	kg							100.1			
+01	Alabama	IPRODIONE	1993	kg							597.1			
+01	Alabama	IPRODIONE	1994	kg							143.2			
+01	Alabama	IPRODIONE	1995	kg							678.3			
+01	Alabama	IPRODIONE	1996	kg				156.1			107.6			
+01	Alabama	IPRODIONE	1997	kg				4407.9			293.5			
+01	Alabama	IPRODIONE	1999	kg				269	121		1400.1			
+01	Alabama	IPRODIONE	2000	kg				5370.9						
+01	Alabama	IPRODIONE	2001	kg				2465.4	14.6					
+01	Alabama	IPRODIONE	2002	kg				2464.1						
+01	Alabama	IPRODIONE	2003	kg				2861.2			35.7			
+01	Alabama	IPRODIONE	2004	kg				1115.3						
+01	Alabama	IPRODIONE	2006	kg							585			
+01	Alabama	IPRODIONE	2014	kg							123.9			
+04	Arizona	IPRODIONE	1992	kg					4984.3		197.5		64.8	
+04	Arizona	IPRODIONE	1993	kg					5928.4		466.5			
+04	Arizona	IPRODIONE	1994	kg					2806.3		375.2			
+04	Arizona	IPRODIONE	1995	kg					255		380.8			
+04	Arizona	IPRODIONE	1996	kg					9138.7		218.7			
+04	Arizona	IPRODIONE	1997	kg					3998.9		189.4		122.8	
+04	Arizona	IPRODIONE	1998	kg					5984.6		316			
+04	Arizona	IPRODIONE	1999	kg					2210.3		110.2			
+04	Arizona	IPRODIONE	2000	kg					6013.4		263.2			
+04	Arizona	IPRODIONE	2001	kg					1558.6		87.5			
+04	Arizona	IPRODIONE	2002	kg					1590.4		726.4			
+04	Arizona	IPRODIONE	2003	kg					7824.8		655.5			
+04	Arizona	IPRODIONE	2004	kg					6334.7		93.4			
+04	Arizona	IPRODIONE	2005	kg					16633.3		41			
+04	Arizona	IPRODIONE	2006	kg					25347		140.5			
+04	Arizona	IPRODIONE	2007	kg					30918.4		52.7			
+04	Arizona	IPRODIONE	2008	kg					19597.9		66.7			
+04	Arizona	IPRODIONE	2009	kg					3707.8		71.6			
+04	Arizona	IPRODIONE	2010	kg					5300.2		62.5			
+04	Arizona	IPRODIONE	2011	kg					2297.7		64.2			
+04	Arizona	IPRODIONE	2012	kg					11852.1		40.4			
+04	Arizona	IPRODIONE	2013	kg					5660.2		58.5			
+04	Arizona	IPRODIONE	2014	kg					2720.9		112			
+04	Arizona	IPRODIONE	2015	kg					11604.7		37.4			
+04	Arizona	IPRODIONE	2016	kg					1918		27.4			
+04	Arizona	IPRODIONE	2017	kg					742.9		24.3			
+05	Arkansas	IPRODIONE	1992	kg						27537.7	60.2			454.9
+05	Arkansas	IPRODIONE	1993	kg		9681.1				29725.4	43.4			
+05	Arkansas	IPRODIONE	1994	kg						45326.6				
+05	Arkansas	IPRODIONE	1995	kg		3852.4		388.5	45.6	18607.4				
+05	Arkansas	IPRODIONE	1996	kg				8637.3	5.9	10328.3				
+05	Arkansas	IPRODIONE	1997	kg				3005.2		2071.7		810.2		
+05	Arkansas	IPRODIONE	1998	kg				861.5						
+05	Arkansas	IPRODIONE	1999	kg				705.3		18382.7				
+05	Arkansas	IPRODIONE	2000	kg				1765.2						
+05	Arkansas	IPRODIONE	2001	kg				1872.7						
+05	Arkansas	IPRODIONE	2002	kg				3584.4						
+05	Arkansas	IPRODIONE	2003	kg				3316.5						
+05	Arkansas	IPRODIONE	2004	kg				2806.9	216.3					
+05	Arkansas	IPRODIONE	2006	kg				403.6						
+05	Arkansas	IPRODIONE	2009	kg						936				
+05	Arkansas	IPRODIONE	2010	kg						1418.7				
+06	California	IPRODIONE	1992	kg					63714.2		114587.2		160	
+06	California	IPRODIONE	1993	kg					72103.1		228913.5		131.7	
+06	California	IPRODIONE	1994	kg					54916.3		146453.8		451.9	
+06	California	IPRODIONE	1995	kg					63747		192435.8		1024.6	
+06	California	IPRODIONE	1996	kg					65915.2		168367.1		336.3	
+06	California	IPRODIONE	1997	kg					62794.1		123003.2		203.8	
+06	California	IPRODIONE	1998	kg	7.5				71076.4	3.4	189814.9		141.7	18.1
+06	California	IPRODIONE	1999	kg					58535.4		122548.8		223.4	4.1
+06	California	IPRODIONE	2000	kg					58879.4		125964.4		71	54.5
+06	California	IPRODIONE	2001	kg					42940.9		90037.9		16.1	0.9
+06	California	IPRODIONE	2002	kg					39134.8		67775.4		39.8	
+06	California	IPRODIONE	2003	kg					40731.7		85415	3.2	124	11.6
+06	California	IPRODIONE	2004	kg					42674.6		72446.3		7.4	
+06	California	IPRODIONE	2005	kg				216.3	41060.1		82975.7		9.1	
+06	California	IPRODIONE	2006	kg				301.3	36886.2		89449		9.1	
+06	California	IPRODIONE	2007	kg				8.3	32859.1		76818.7	14.1	11	0.9
+06	California	IPRODIONE	2008	kg				4403.7	33150.4		70870.3			
+06	California	IPRODIONE	2009	kg		5.4		3610	24286.7		78736.7			
+06	California	IPRODIONE	2010	kg				4934.6	26054.2		120065.2			
+06	California	IPRODIONE	2011	kg				5972.1	28031.8		118652.3			
+06	California	IPRODIONE	2012	kg				6852.5	21499.2		97974.2			
+06	California	IPRODIONE	2013	kg				5308.6	16203.1		87999.3			
+06	California	IPRODIONE	2014	kg				2484.8	13625.1		85734.9			6.1
+06	California	IPRODIONE	2015	kg				2387.2	11393.1		80498.8			
+06	California	IPRODIONE	2016	kg				1381.2	13643.9		113432			
+06	California	IPRODIONE	2017	kg				6298.3	12935.9		93314.6			0.2
+08	Colorado	IPRODIONE	1994	kg					3581.8					
+08	Colorado	IPRODIONE	1995	kg					1620.8					
+08	Colorado	IPRODIONE	1996	kg					156.2					
+08	Colorado	IPRODIONE	1998	kg					2448.9					
+08	Colorado	IPRODIONE	1999	kg					64.8					
+08	Colorado	IPRODIONE	2000	kg					1334.7					
+08	Colorado	IPRODIONE	2001	kg					2773					
+08	Colorado	IPRODIONE	2002	kg					50.3					
+08	Colorado	IPRODIONE	2003	kg					695.8					
+08	Colorado	IPRODIONE	2004	kg					589.1					
+08	Colorado	IPRODIONE	2005	kg					663.3					
+08	Colorado	IPRODIONE	2006	kg					838.9					
+08	Colorado	IPRODIONE	2007	kg					943.1					
+08	Colorado	IPRODIONE	2008	kg					885.7					
+08	Colorado	IPRODIONE	2009	kg					443.8					
+08	Colorado	IPRODIONE	2010	kg					650.5					
+09	Connecticut	IPRODIONE	1992	kg							188.4			
+09	Connecticut	IPRODIONE	1993	kg					47.8		45.8			
+09	Connecticut	IPRODIONE	1994	kg					328.9		483.6			
+09	Connecticut	IPRODIONE	1995	kg					33.5		2466.8			
+09	Connecticut	IPRODIONE	1996	kg					18.4		254.8			
+09	Connecticut	IPRODIONE	1997	kg					16.9		33.5			
+09	Connecticut	IPRODIONE	1998	kg					193.4					
+09	Connecticut	IPRODIONE	1999	kg					15.1					
+09	Connecticut	IPRODIONE	2000	kg					49.7		10.6			
+09	Connecticut	IPRODIONE	2001	kg					16.9					
+09	Connecticut	IPRODIONE	2002	kg					1.9					
+09	Connecticut	IPRODIONE	2003	kg					13.9		73.2			
+09	Connecticut	IPRODIONE	2004	kg					17.4		57.4			
+09	Connecticut	IPRODIONE	2005	kg					97					
+09	Connecticut	IPRODIONE	2006	kg					5.9					
+09	Connecticut	IPRODIONE	2007	kg					9.4					
+09	Connecticut	IPRODIONE	2008	kg					1.9					
+09	Connecticut	IPRODIONE	2009	kg					5.7					
+09	Connecticut	IPRODIONE	2010	kg					6.1					
+09	Connecticut	IPRODIONE	2011	kg					12.8					
+09	Connecticut	IPRODIONE	2012	kg					56					
+09	Connecticut	IPRODIONE	2013	kg					25.7		114			
+09	Connecticut	IPRODIONE	2014	kg					22.1		24			
+09	Connecticut	IPRODIONE	2015	kg					15.6		67.3			
+09	Connecticut	IPRODIONE	2016	kg							36			
+10	Delaware	IPRODIONE	1992	kg							2.1			
+10	Delaware	IPRODIONE	1993	kg							0.9			
+10	Delaware	IPRODIONE	1994	kg							1.5			
+10	Delaware	IPRODIONE	1995	kg					0.1		0.3			
+10	Delaware	IPRODIONE	1996	kg							0.3			
+10	Delaware	IPRODIONE	1997	kg							0.9			
+10	Delaware	IPRODIONE	1998	kg					7.7		0.3			
+10	Delaware	IPRODIONE	1999	kg					3379.3					
+10	Delaware	IPRODIONE	2000	kg					4.8					
+10	Delaware	IPRODIONE	2001	kg					533.3					
+10	Delaware	IPRODIONE	2002	kg					8.8					
+10	Delaware	IPRODIONE	2003	kg					31.7		0.4			
+10	Delaware	IPRODIONE	2014	kg					0.8		0			
+10	Delaware	IPRODIONE	2015	kg							0.3			
+10	Delaware	IPRODIONE	2016	kg							0.2			
+12	Florida	IPRODIONE	1992	kg					8246		63.7			
+12	Florida	IPRODIONE	1993	kg					629.2		803.3			
+12	Florida	IPRODIONE	1994	kg					1751.3		16947.4			1163.8
+12	Florida	IPRODIONE	1995	kg					2462.2		241			
+12	Florida	IPRODIONE	1996	kg					1407.2		1296			
+12	Florida	IPRODIONE	1997	kg					5005.5		4095.2			
+12	Florida	IPRODIONE	1998	kg					494.2					342.2
+12	Florida	IPRODIONE	1999	kg					1672.5		1088.5			
+12	Florida	IPRODIONE	2001	kg				172.6	434.8					
+12	Florida	IPRODIONE	2003	kg					9425.1					
+12	Florida	IPRODIONE	2004	kg					2307.6					
+12	Florida	IPRODIONE	2007	kg					689.6					
+12	Florida	IPRODIONE	2008	kg					1349.6					
+12	Florida	IPRODIONE	2009	kg					1182.8					
+12	Florida	IPRODIONE	2010	kg					10					
+12	Florida	IPRODIONE	2011	kg					1933					
+12	Florida	IPRODIONE	2012	kg					22.7					
+12	Florida	IPRODIONE	2013	kg					8.2					
+12	Florida	IPRODIONE	2014	kg					5.4					
+12	Florida	IPRODIONE	2015	kg					5.1					
+12	Florida	IPRODIONE	2017	kg					441.7					
+13	Georgia	IPRODIONE	1992	kg					477.9		594.5			
+13	Georgia	IPRODIONE	1993	kg							3748.7			
+13	Georgia	IPRODIONE	1994	kg					1044.5		8489.6			6029.8
+13	Georgia	IPRODIONE	1995	kg					7868		2161.7			
+13	Georgia	IPRODIONE	1996	kg					14205.6		1065.6			13246.2
+13	Georgia	IPRODIONE	1997	kg				9541.8	175.5		1756.9			5945.3
+13	Georgia	IPRODIONE	1998	kg					1.3					10719.8
+13	Georgia	IPRODIONE	1999	kg				110	2310.6		22718.9			4394.3
+13	Georgia	IPRODIONE	2000	kg				12734	3.3					13741.2
+13	Georgia	IPRODIONE	2001	kg				2302.8	6712.1					
+13	Georgia	IPRODIONE	2002	kg				308.3	10072.2					
+13	Georgia	IPRODIONE	2003	kg				428.7	12811.9		960.3			
+13	Georgia	IPRODIONE	2004	kg				2805.1	11872.5					
+13	Georgia	IPRODIONE	2005	kg					10541					
+13	Georgia	IPRODIONE	2006	kg					19519		3866			
+13	Georgia	IPRODIONE	2007	kg					9643.7					
+13	Georgia	IPRODIONE	2009	kg					7907.8					0.5
+13	Georgia	IPRODIONE	2010	kg					7489.1					
+13	Georgia	IPRODIONE	2011	kg					10507.9					
+13	Georgia	IPRODIONE	2012	kg					8408.4					
+13	Georgia	IPRODIONE	2013	kg					3651.2					
+13	Georgia	IPRODIONE	2014	kg					2705.6		47			
+13	Georgia	IPRODIONE	2015	kg					3600.5					
+13	Georgia	IPRODIONE	2017	kg					7093.3					
+16	Idaho	IPRODIONE	1992	kg					9013.1		11.5			
+16	Idaho	IPRODIONE	1993	kg					4344.6		62.8			
+16	Idaho	IPRODIONE	1994	kg					3184.5		115.5			
+16	Idaho	IPRODIONE	1995	kg					11417.6		88.7			
+16	Idaho	IPRODIONE	1996	kg					18574.7		67			
+16	Idaho	IPRODIONE	1997	kg					6339.4		227.8			
+16	Idaho	IPRODIONE	1998	kg					4634.3		138.1			
+16	Idaho	IPRODIONE	1999	kg					12801.1		12.2			
+16	Idaho	IPRODIONE	2000	kg					7926.3		82.9			
+16	Idaho	IPRODIONE	2001	kg					27320.7		9.3			
+16	Idaho	IPRODIONE	2002	kg					10948		42.9			
+16	Idaho	IPRODIONE	2003	kg					26374.9					
+16	Idaho	IPRODIONE	2004	kg					27212.4					
+16	Idaho	IPRODIONE	2005	kg					0.2					
+16	Idaho	IPRODIONE	2006	kg					6514.9					
+16	Idaho	IPRODIONE	2007	kg					2530.5					
+16	Idaho	IPRODIONE	2008	kg					6376.3					
+16	Idaho	IPRODIONE	2009	kg					539.1					
+16	Idaho	IPRODIONE	2010	kg					1.7					
+16	Idaho	IPRODIONE	2012	kg							9.8			
+16	Idaho	IPRODIONE	2013	kg							16.3			
+16	Idaho	IPRODIONE	2014	kg					2910.5		37.6			
+16	Idaho	IPRODIONE	2015	kg					2553.8		3			
+16	Idaho	IPRODIONE	2016	kg					1617.6					
+16	Idaho	IPRODIONE	2017	kg					6717.9					
+17	Illinois	IPRODIONE	1992	kg					6.4		25.3			
+17	Illinois	IPRODIONE	1993	kg					5.6		311.7			
+17	Illinois	IPRODIONE	1994	kg		24835.1								
+17	Illinois	IPRODIONE	1995	kg					10		218.6			
+17	Illinois	IPRODIONE	1996	kg					44.2		168.4			
+17	Illinois	IPRODIONE	1997	kg					69.4					
+17	Illinois	IPRODIONE	1999	kg					133.2					
+17	Illinois	IPRODIONE	2000	kg					416.1					
+17	Illinois	IPRODIONE	2002	kg					629.3					
+17	Illinois	IPRODIONE	2003	kg					343.3					
+17	Illinois	IPRODIONE	2004	kg					81.4					
+17	Illinois	IPRODIONE	2005	kg					1320.3					
+17	Illinois	IPRODIONE	2006	kg					240					
+17	Illinois	IPRODIONE	2007	kg					1453.1					
+17	Illinois	IPRODIONE	2008	kg					2923.6					
+17	Illinois	IPRODIONE	2009	kg					185.4					
+17	Illinois	IPRODIONE	2010	kg					122.3					
+17	Illinois	IPRODIONE	2012	kg					290.6					
+18	Indiana	IPRODIONE	1992	kg							10.3			
+18	Indiana	IPRODIONE	1993	kg							5.5			
+18	Indiana	IPRODIONE	1994	kg		6057.1			174.1		3			
+18	Indiana	IPRODIONE	1995	kg					1029.2		177.3			
+18	Indiana	IPRODIONE	1996	kg					37.2		444.2			
+18	Indiana	IPRODIONE	1997	kg					257.8		32.3			65.4
+18	Indiana	IPRODIONE	1998	kg							1.4			
+18	Indiana	IPRODIONE	1999	kg					23.6					
+18	Indiana	IPRODIONE	2000	kg					49.9					
+18	Indiana	IPRODIONE	2001	kg					32.4		0			
+18	Indiana	IPRODIONE	2002	kg					226.1		0			
+18	Indiana	IPRODIONE	2003	kg					58.3					
+18	Indiana	IPRODIONE	2005	kg					1142.5					
+18	Indiana	IPRODIONE	2006	kg					4220.6					
+18	Indiana	IPRODIONE	2007	kg					1084.9		0			
+18	Indiana	IPRODIONE	2008	kg					686.3					
+18	Indiana	IPRODIONE	2009	kg					190.8					
+18	Indiana	IPRODIONE	2010	kg					115.6		12.1			
+18	Indiana	IPRODIONE	2011	kg							31.6			
+18	Indiana	IPRODIONE	2012	kg							38.8			
+18	Indiana	IPRODIONE	2013	kg							40.2			
+18	Indiana	IPRODIONE	2014	kg							35.8			
+18	Indiana	IPRODIONE	2015	kg							40.7			
+18	Indiana	IPRODIONE	2016	kg							19			
+18	Indiana	IPRODIONE	2017	kg					445.6		30			
+19	Iowa	IPRODIONE	1992	kg					0					
+19	Iowa	IPRODIONE	1993	kg					0					
+19	Iowa	IPRODIONE	1995	kg					24.2					
+19	Iowa	IPRODIONE	1996	kg					59.6					
+19	Iowa	IPRODIONE	1997	kg					13.7					
+19	Iowa	IPRODIONE	1999	kg					2.6					
+19	Iowa	IPRODIONE	2000	kg					3.9					
+19	Iowa	IPRODIONE	2002	kg					10.5					
+19	Iowa	IPRODIONE	2003	kg					17.9					
+19	Iowa	IPRODIONE	2004	kg					10.1					
+19	Iowa	IPRODIONE	2006	kg					0.4					
+19	Iowa	IPRODIONE	2007	kg					8.2					
+19	Iowa	IPRODIONE	2008	kg					121.5					
+19	Iowa	IPRODIONE	2016	kg					3.8					
+20	Kansas	IPRODIONE	1995	kg					0					
+20	Kansas	IPRODIONE	2008	kg					0.3					
+20	Kansas	IPRODIONE	2009	kg					0.3					
+20	Kansas	IPRODIONE	2010	kg					0.5					
+21	Kentucky	IPRODIONE	1992	kg							7.7			
+21	Kentucky	IPRODIONE	1993	kg							46.5			
+21	Kentucky	IPRODIONE	1994	kg							105.7			
+21	Kentucky	IPRODIONE	1995	kg							938.1			
+21	Kentucky	IPRODIONE	1996	kg					24.8		290.2			
+21	Kentucky	IPRODIONE	1997	kg					413.8		15.3			1959.7
+21	Kentucky	IPRODIONE	1999	kg					0					
+21	Kentucky	IPRODIONE	2000	kg					0					
+21	Kentucky	IPRODIONE	2002	kg					17.7					
+21	Kentucky	IPRODIONE	2003	kg					0					
+21	Kentucky	IPRODIONE	2004	kg					1.1					
+21	Kentucky	IPRODIONE	2007	kg					0.4					
+21	Kentucky	IPRODIONE	2009	kg										178.8
+21	Kentucky	IPRODIONE	2014	kg							14			
+22	Louisiana	IPRODIONE	1992	kg						4629.2				
+22	Louisiana	IPRODIONE	1993	kg						1534.2				
+22	Louisiana	IPRODIONE	1994	kg				183345.5		1198.7				
+22	Louisiana	IPRODIONE	1995	kg		599.6		802		12287.6				
+22	Louisiana	IPRODIONE	1996	kg				11085.5		2782.4				
+22	Louisiana	IPRODIONE	1997	kg				5476.1		1827.7		337.4		
+22	Louisiana	IPRODIONE	1998	kg				1325.4		519				
+22	Louisiana	IPRODIONE	1999	kg				837.5		1275.6				
+22	Louisiana	IPRODIONE	2000	kg				1226.1						
+22	Louisiana	IPRODIONE	2001	kg				866.7						
+22	Louisiana	IPRODIONE	2002	kg				2771.2						
+22	Louisiana	IPRODIONE	2003	kg				1690.7						
+22	Louisiana	IPRODIONE	2004	kg				1376.2		250.8				
+22	Louisiana	IPRODIONE	2006	kg				1148.8						
+23	Maine	IPRODIONE	1994	kg					102.3					
+23	Maine	IPRODIONE	1995	kg					245.6					
+23	Maine	IPRODIONE	1996	kg					14.4					
+23	Maine	IPRODIONE	1997	kg					7.3					
+23	Maine	IPRODIONE	2000	kg					80.5					
+24	Maryland	IPRODIONE	1992	kg							515.6			
+24	Maryland	IPRODIONE	1993	kg							167.3			
+24	Maryland	IPRODIONE	1994	kg					81.3		107			
+24	Maryland	IPRODIONE	1995	kg					1.4		155.1			
+24	Maryland	IPRODIONE	1996	kg					6.5		223.2			
+24	Maryland	IPRODIONE	1997	kg					7.1		105.5			
+24	Maryland	IPRODIONE	1998	kg					37.8		104			
+24	Maryland	IPRODIONE	1999	kg					861.8		19.1			
+24	Maryland	IPRODIONE	2000	kg					71.9		78.5			
+24	Maryland	IPRODIONE	2001	kg					328.2		95.9			
+24	Maryland	IPRODIONE	2002	kg					529.9		24.8			
+24	Maryland	IPRODIONE	2003	kg					79.5		150.6			
+24	Maryland	IPRODIONE	2004	kg					502.2		43			
+24	Maryland	IPRODIONE	2013	kg					131.2		170			
+24	Maryland	IPRODIONE	2014	kg					924.5		66.6			
+24	Maryland	IPRODIONE	2015	kg							125.1			
+24	Maryland	IPRODIONE	2016	kg							72.7			
+24	Maryland	IPRODIONE	2017	kg							5.4			
+25	Massachusetts	IPRODIONE	1992	kg							166.9			
+25	Massachusetts	IPRODIONE	1993	kg					191.9		41.1			
+25	Massachusetts	IPRODIONE	1994	kg					740.2		126.6			
+25	Massachusetts	IPRODIONE	1995	kg					265.2		546.1			
+25	Massachusetts	IPRODIONE	1996	kg					40.3		749.4			
+25	Massachusetts	IPRODIONE	1997	kg					33.1		39.2			
+25	Massachusetts	IPRODIONE	1998	kg					331.5					
+25	Massachusetts	IPRODIONE	1999	kg					45.2					
+25	Massachusetts	IPRODIONE	2000	kg					81		6.5			
+25	Massachusetts	IPRODIONE	2001	kg					54.6					
+25	Massachusetts	IPRODIONE	2002	kg					6					
+25	Massachusetts	IPRODIONE	2003	kg					51.3		39.6			
+25	Massachusetts	IPRODIONE	2004	kg					72.1		28.9			
+25	Massachusetts	IPRODIONE	2005	kg					194.6					
+25	Massachusetts	IPRODIONE	2006	kg					30.5					
+25	Massachusetts	IPRODIONE	2007	kg					55.4					
+25	Massachusetts	IPRODIONE	2008	kg					25.1					
+25	Massachusetts	IPRODIONE	2009	kg					70.5					
+25	Massachusetts	IPRODIONE	2010	kg					74.8					
+25	Massachusetts	IPRODIONE	2011	kg					151.1					
+25	Massachusetts	IPRODIONE	2012	kg					201.7					
+25	Massachusetts	IPRODIONE	2013	kg					229.6		109.5			
+25	Massachusetts	IPRODIONE	2014	kg					155.9		23.1			
+25	Massachusetts	IPRODIONE	2015	kg					89.6		70.7			
+25	Massachusetts	IPRODIONE	2016	kg							39.6			
+26	Michigan	IPRODIONE	1992	kg							8971.5			
+26	Michigan	IPRODIONE	1993	kg					403.2		4758			
+26	Michigan	IPRODIONE	1994	kg					6231.6		11441.5			
+26	Michigan	IPRODIONE	1995	kg	14				43825.2		10360.8			
+26	Michigan	IPRODIONE	1996	kg					884.4		1280.7			
+26	Michigan	IPRODIONE	1997	kg					3548.8		4105.3			
+26	Michigan	IPRODIONE	1998	kg					40.7		4311			
+26	Michigan	IPRODIONE	1999	kg					424.4					
+26	Michigan	IPRODIONE	2000	kg					715.2		28			
+26	Michigan	IPRODIONE	2001	kg					2717.4		475.4			
+26	Michigan	IPRODIONE	2002	kg					1505.8		862.7			
+26	Michigan	IPRODIONE	2003	kg					3556.3		589.1			
+26	Michigan	IPRODIONE	2004	kg					101		351.1			
+26	Michigan	IPRODIONE	2005	kg					1320.8		1616.8			
+26	Michigan	IPRODIONE	2006	kg					6285.5		794.4			
+26	Michigan	IPRODIONE	2007	kg					2863.8		1957.7			
+26	Michigan	IPRODIONE	2008	kg					2693.5		752.2			
+26	Michigan	IPRODIONE	2009	kg					1063.5		1324.7			
+26	Michigan	IPRODIONE	2010	kg					271.3		1562.5			
+26	Michigan	IPRODIONE	2011	kg					9.6		4743.2			
+26	Michigan	IPRODIONE	2012	kg							15287.7			
+26	Michigan	IPRODIONE	2013	kg					31.3		5233.4			
+26	Michigan	IPRODIONE	2014	kg							4906.6			
+26	Michigan	IPRODIONE	2015	kg							4135.2			
+26	Michigan	IPRODIONE	2016	kg							3398.1			
+26	Michigan	IPRODIONE	2017	kg					12689.1		5646.8			
+27	Minnesota	IPRODIONE	1992	kg					46					
+27	Minnesota	IPRODIONE	1993	kg					342.7					
+27	Minnesota	IPRODIONE	1995	kg					7479.8					
+27	Minnesota	IPRODIONE	1996	kg					453.6					
+27	Minnesota	IPRODIONE	1997	kg					1747					
+27	Minnesota	IPRODIONE	1998	kg					0.5					
+27	Minnesota	IPRODIONE	1999	kg					740.4					
+27	Minnesota	IPRODIONE	2000	kg					549					
+27	Minnesota	IPRODIONE	2001	kg					41.5					
+27	Minnesota	IPRODIONE	2002	kg					653.1					
+27	Minnesota	IPRODIONE	2003	kg					601.8					
+27	Minnesota	IPRODIONE	2004	kg					219.6					
+27	Minnesota	IPRODIONE	2006	kg					843.9					
+27	Minnesota	IPRODIONE	2007	kg					1872.2					
+27	Minnesota	IPRODIONE	2016	kg					668					
+28	Mississippi	IPRODIONE	1992	kg						8793.9	0.8			5.9
+28	Mississippi	IPRODIONE	1993	kg		2290.4				3636.1				
+28	Mississippi	IPRODIONE	1994	kg						3897.4	0.7			
+28	Mississippi	IPRODIONE	1995	kg		2238.3		1489.4	1.2	5657.8				
+28	Mississippi	IPRODIONE	1996	kg				7506.1		1365.2				
+28	Mississippi	IPRODIONE	1997	kg				2262.7						
+28	Mississippi	IPRODIONE	1998	kg				998						
+28	Mississippi	IPRODIONE	1999	kg				1612.1		5038.9				
+28	Mississippi	IPRODIONE	2000	kg				5129.8						
+28	Mississippi	IPRODIONE	2001	kg				5369.6						
+28	Mississippi	IPRODIONE	2002	kg				8365						
+28	Mississippi	IPRODIONE	2003	kg				6311.3						
+28	Mississippi	IPRODIONE	2004	kg				3672.1	16					
+28	Mississippi	IPRODIONE	2005	kg				3734.2						
+28	Mississippi	IPRODIONE	2006	kg				4797.5						
+29	Missouri	IPRODIONE	1992	kg						1019.4	94			
+29	Missouri	IPRODIONE	1993	kg						2318.2	602.7			
+29	Missouri	IPRODIONE	1994	kg						136.2				
+29	Missouri	IPRODIONE	1995	kg					72.5	870.6	400.7			
+29	Missouri	IPRODIONE	1996	kg				4486.1	10.9	210.7	439.1			
+29	Missouri	IPRODIONE	1997	kg				35.4	13.9	193				
+29	Missouri	IPRODIONE	1998	kg				176.8						
+29	Missouri	IPRODIONE	1999	kg				67.3	0					
+29	Missouri	IPRODIONE	2000	kg				765.1	0					
+29	Missouri	IPRODIONE	2001	kg				676.8						
+29	Missouri	IPRODIONE	2002	kg				542.8	31.6					
+29	Missouri	IPRODIONE	2003	kg				798.5	0					
+29	Missouri	IPRODIONE	2004	kg					0.2					
+29	Missouri	IPRODIONE	2007	kg					0.1					
+30	Montana	IPRODIONE	1992	kg					298.4		36			
+30	Montana	IPRODIONE	1993	kg					21.8		69.5			
+30	Montana	IPRODIONE	1994	kg					59.2					
+30	Montana	IPRODIONE	1995	kg					141.5		116.2			
+30	Montana	IPRODIONE	1996	kg					50.4		114.1			
+30	Montana	IPRODIONE	1997	kg					64.1		578.3			
+30	Montana	IPRODIONE	1998	kg					76		289			
+30	Montana	IPRODIONE	1999	kg					80.2					
+30	Montana	IPRODIONE	2000	kg					221.4		213.6			
+30	Montana	IPRODIONE	2001	kg					663.2		21.7			
+30	Montana	IPRODIONE	2002	kg					41.9		197.3			
+30	Montana	IPRODIONE	2003	kg					874.3					
+30	Montana	IPRODIONE	2004	kg					207.9					
+30	Montana	IPRODIONE	2012	kg							67.4			
+30	Montana	IPRODIONE	2013	kg							20.8			
+30	Montana	IPRODIONE	2014	kg					89.8		54			
+30	Montana	IPRODIONE	2015	kg							24.8			
+32	Nevada	IPRODIONE	1992	kg					151.6		6.4			
+32	Nevada	IPRODIONE	1993	kg					417.2		8.1			
+32	Nevada	IPRODIONE	1994	kg					402.8		21.8			
+32	Nevada	IPRODIONE	1995	kg					6252.5		33.9			
+32	Nevada	IPRODIONE	1996	kg					1253.1		4.2			
+32	Nevada	IPRODIONE	1997	kg					455.8		7.8		6.6	
+32	Nevada	IPRODIONE	1998	kg					1125.8		10.5			
+32	Nevada	IPRODIONE	1999	kg					852.9		17.1			
+32	Nevada	IPRODIONE	2000	kg					316.4		9.9			
+32	Nevada	IPRODIONE	2001	kg					757.9		5.8			
+32	Nevada	IPRODIONE	2002	kg					51.2		6.6			
+32	Nevada	IPRODIONE	2003	kg					577		6.7			
+32	Nevada	IPRODIONE	2004	kg					75.2		6			
+32	Nevada	IPRODIONE	2005	kg					103.6		0.4			
+32	Nevada	IPRODIONE	2006	kg					51.5		16.3			
+32	Nevada	IPRODIONE	2007	kg					123.2		2			
+32	Nevada	IPRODIONE	2008	kg					123		0.7			
+32	Nevada	IPRODIONE	2009	kg					328.8					
+32	Nevada	IPRODIONE	2010	kg					403.1		8.1			
+32	Nevada	IPRODIONE	2011	kg					206.9		0.6			
+32	Nevada	IPRODIONE	2012	kg					1090.8		2			
+32	Nevada	IPRODIONE	2013	kg					1092.1		1.6			
+32	Nevada	IPRODIONE	2014	kg					482.7		5.9			
+32	Nevada	IPRODIONE	2015	kg					469.1		1.8			
+32	Nevada	IPRODIONE	2016	kg					0.1		0.1			
+32	Nevada	IPRODIONE	2017	kg					637.6					
+33	New Hampshire	IPRODIONE	1992	kg							20.5			
+33	New Hampshire	IPRODIONE	1993	kg							5.1			
+33	New Hampshire	IPRODIONE	1994	kg					36.8					
+33	New Hampshire	IPRODIONE	1995	kg					24.9		5.4			
+33	New Hampshire	IPRODIONE	1996	kg					4.9		58.2			
+33	New Hampshire	IPRODIONE	1997	kg					2.6		8			
+33	New Hampshire	IPRODIONE	2000	kg					27.5					
+33	New Hampshire	IPRODIONE	2013	kg							29.7			
+33	New Hampshire	IPRODIONE	2014	kg							5.7			
+33	New Hampshire	IPRODIONE	2015	kg							16.5			
+33	New Hampshire	IPRODIONE	2016	kg							8.5			
+34	New Jersey	IPRODIONE	1992	kg							5215.2			
+34	New Jersey	IPRODIONE	1993	kg					1692.8		591			
+34	New Jersey	IPRODIONE	1994	kg					1663		3128.9			
+34	New Jersey	IPRODIONE	1995	kg					395		419.5			
+34	New Jersey	IPRODIONE	1996	kg					1111.3		418.3			
+34	New Jersey	IPRODIONE	1997	kg					168.5		1198.4			
+34	New Jersey	IPRODIONE	1998	kg					2339.6		131.5			
+34	New Jersey	IPRODIONE	1999	kg					171.5					
+34	New Jersey	IPRODIONE	2000	kg					71.4		628.9			
+34	New Jersey	IPRODIONE	2001	kg					391.4		153.4			
+34	New Jersey	IPRODIONE	2002	kg					0.6					
+34	New Jersey	IPRODIONE	2003	kg					4.8		55.9			
+34	New Jersey	IPRODIONE	2004	kg					6		120.6			
+34	New Jersey	IPRODIONE	2005	kg					40					
+34	New Jersey	IPRODIONE	2006	kg					2.2					
+34	New Jersey	IPRODIONE	2007	kg					3.6					
+34	New Jersey	IPRODIONE	2008	kg					7.2					
+34	New Jersey	IPRODIONE	2009	kg					19.5		95.4			
+34	New Jersey	IPRODIONE	2010	kg					20.2		69			
+34	New Jersey	IPRODIONE	2011	kg					40.1					
+34	New Jersey	IPRODIONE	2012	kg					52.9					
+34	New Jersey	IPRODIONE	2013	kg					227.7		1147.3			
+34	New Jersey	IPRODIONE	2014	kg					1016.2		233			
+34	New Jersey	IPRODIONE	2015	kg					30.7		1468.7			
+34	New Jersey	IPRODIONE	2016	kg							617.1			
+35	New Mexico	IPRODIONE	1993	kg					2042.5					
+35	New Mexico	IPRODIONE	1994	kg					1874.4					
+35	New Mexico	IPRODIONE	1995	kg					927					
+35	New Mexico	IPRODIONE	1996	kg					579.3					
+35	New Mexico	IPRODIONE	1997	kg					354.6					
+35	New Mexico	IPRODIONE	1998	kg					460.4					
+35	New Mexico	IPRODIONE	1999	kg				91.8	2174.6					
+35	New Mexico	IPRODIONE	2000	kg					64.7					
+35	New Mexico	IPRODIONE	2001	kg					1096.3					
+35	New Mexico	IPRODIONE	2002	kg					646.8					
+35	New Mexico	IPRODIONE	2003	kg					931.8					
+35	New Mexico	IPRODIONE	2004	kg					1173.6					
+35	New Mexico	IPRODIONE	2005	kg					117.8					
+35	New Mexico	IPRODIONE	2006	kg					285.1					
+35	New Mexico	IPRODIONE	2007	kg					845.4					
+35	New Mexico	IPRODIONE	2008	kg					101.4					
+35	New Mexico	IPRODIONE	2009	kg					166.8					
+35	New Mexico	IPRODIONE	2010	kg					381.6					
+35	New Mexico	IPRODIONE	2011	kg					0					
+35	New Mexico	IPRODIONE	2012	kg					0.3					
+35	New Mexico	IPRODIONE	2013	kg					0					
+35	New Mexico	IPRODIONE	2014	kg					0					
+35	New Mexico	IPRODIONE	2015	kg					1.2					
+35	New Mexico	IPRODIONE	2016	kg					0					
+36	New York	IPRODIONE	1992	kg							2237.5		50	
+36	New York	IPRODIONE	1993	kg					15188		1471.6			
+36	New York	IPRODIONE	1994	kg					13714.1		671.5			
+36	New York	IPRODIONE	1995	kg					4487.1		1461.9			
+36	New York	IPRODIONE	1996	kg					2876.3		8293.7			
+36	New York	IPRODIONE	1997	kg					2274.5		3182.5			
+36	New York	IPRODIONE	1998	kg					8395.6		2114.8			
+36	New York	IPRODIONE	1999	kg					3664.2		308.1			
+36	New York	IPRODIONE	2000	kg					3909.2		584.1			
+36	New York	IPRODIONE	2001	kg					8882		110.8			
+36	New York	IPRODIONE	2002	kg					877.4		203.5			
+36	New York	IPRODIONE	2003	kg					5677		1753			
+36	New York	IPRODIONE	2004	kg					6387.3		4815.2			
+36	New York	IPRODIONE	2005	kg					4467.9					
+36	New York	IPRODIONE	2006	kg					4705.8					
+36	New York	IPRODIONE	2007	kg					5368.8					
+36	New York	IPRODIONE	2008	kg					3340.8					
+36	New York	IPRODIONE	2009	kg					9115.8		79.8			
+36	New York	IPRODIONE	2010	kg					5881.6		73.8			
+36	New York	IPRODIONE	2011	kg					5958.7					
+36	New York	IPRODIONE	2012	kg					9866.7		1171.2			
+36	New York	IPRODIONE	2013	kg					9744.3		445.7			
+36	New York	IPRODIONE	2014	kg					9490.1		184.6			
+36	New York	IPRODIONE	2015	kg					5388.1		655.4			
+36	New York	IPRODIONE	2016	kg					3444.3		137			
+36	New York	IPRODIONE	2017	kg					396.1					
+37	North Carolina	IPRODIONE	1992	kg							216.3			24.2
+37	North Carolina	IPRODIONE	1993	kg							332.3			2420.7
+37	North Carolina	IPRODIONE	1994	kg					2236.9		578.4			654.2
+37	North Carolina	IPRODIONE	1995	kg							370.5			1141.8
+37	North Carolina	IPRODIONE	1996	kg				9741.1	4.1		427			3818.2
+37	North Carolina	IPRODIONE	1997	kg				5506.8	112.4		208.1			1458.8
+37	North Carolina	IPRODIONE	1998	kg					967.8					4181.5
+37	North Carolina	IPRODIONE	1999	kg							30.2			761.9
+37	North Carolina	IPRODIONE	2000	kg				10611.1	962.5		185.6			3303.6
+37	North Carolina	IPRODIONE	2001	kg				5172.4	182.9		212.8			
+37	North Carolina	IPRODIONE	2002	kg					360.3					
+37	North Carolina	IPRODIONE	2003	kg					1287.6		87.2			
+37	North Carolina	IPRODIONE	2004	kg				1879						
+37	North Carolina	IPRODIONE	2005	kg					4.7					
+37	North Carolina	IPRODIONE	2009	kg										23244.6
+37	North Carolina	IPRODIONE	2014	kg							16.8			
+37	North Carolina	IPRODIONE	2017	kg					1273.3					
+38	North Dakota	IPRODIONE	1997	kg					2933.1					
+39	Ohio	IPRODIONE	1992	kg							9.2			
+39	Ohio	IPRODIONE	1993	kg					5003.2		165.5			
+39	Ohio	IPRODIONE	1994	kg							155.9			
+39	Ohio	IPRODIONE	1995	kg					2265		60.7			
+39	Ohio	IPRODIONE	1996	kg					330.1		225			
+39	Ohio	IPRODIONE	1997	kg					226.6		69.9			
+39	Ohio	IPRODIONE	1998	kg					363.5					
+39	Ohio	IPRODIONE	1999	kg					80.7					
+39	Ohio	IPRODIONE	2000	kg					207.5					
+39	Ohio	IPRODIONE	2001	kg					94		0.2			
+39	Ohio	IPRODIONE	2002	kg					438.6		0.8			
+39	Ohio	IPRODIONE	2003	kg					271.7					
+39	Ohio	IPRODIONE	2004	kg					1.2					
+39	Ohio	IPRODIONE	2006	kg					11.3					
+39	Ohio	IPRODIONE	2007	kg					71.2		1			
+39	Ohio	IPRODIONE	2009	kg							0.7			
+39	Ohio	IPRODIONE	2010	kg							0.4			
+39	Ohio	IPRODIONE	2011	kg							97			
+39	Ohio	IPRODIONE	2012	kg							142			
+39	Ohio	IPRODIONE	2013	kg							135.6			
+39	Ohio	IPRODIONE	2014	kg							175.2			
+39	Ohio	IPRODIONE	2015	kg							117.5			
+39	Ohio	IPRODIONE	2016	kg							40			
+39	Ohio	IPRODIONE	2017	kg							136.7			
+40	Oklahoma	IPRODIONE	1992	kg							37.5			
+40	Oklahoma	IPRODIONE	1993	kg					0.5					
+40	Oklahoma	IPRODIONE	1995	kg					275.3					
+40	Oklahoma	IPRODIONE	1996	kg										2906.1
+40	Oklahoma	IPRODIONE	1997	kg				4.7						
+40	Oklahoma	IPRODIONE	1999	kg										628.1
+40	Oklahoma	IPRODIONE	2002	kg				4.6			4.7			
+40	Oklahoma	IPRODIONE	2006	kg				41.3						
+41	Oregon	IPRODIONE	1992	kg					2501.8		1567.2			
+41	Oregon	IPRODIONE	1993	kg			150		2442.7		1707.2			
+41	Oregon	IPRODIONE	1994	kg					5816.4		16012.6			
+41	Oregon	IPRODIONE	1995	kg					15918.6		2848.6		20.1	
+41	Oregon	IPRODIONE	1996	kg					33399.8		1933.8		4813.2	
+41	Oregon	IPRODIONE	1997	kg					23194.4		2846.8		3176.8	
+41	Oregon	IPRODIONE	1998	kg					10661.7		4988.7			
+41	Oregon	IPRODIONE	1999	kg					4731.6		5224.4			
+41	Oregon	IPRODIONE	2000	kg					4745.7		2037.3			
+41	Oregon	IPRODIONE	2001	kg					6762.1		221.2			
+41	Oregon	IPRODIONE	2002	kg					4001.6		1071.1			
+41	Oregon	IPRODIONE	2003	kg					8845.5		775.9			
+41	Oregon	IPRODIONE	2004	kg					14639.2		1920.6			
+41	Oregon	IPRODIONE	2005	kg					233					
+41	Oregon	IPRODIONE	2006	kg					8169.3		1234.6			
+41	Oregon	IPRODIONE	2007	kg					9851		757.1			
+41	Oregon	IPRODIONE	2008	kg					7874.3					
+41	Oregon	IPRODIONE	2009	kg					8377.1		360.8			
+41	Oregon	IPRODIONE	2010	kg					11508.3		672.2			
+41	Oregon	IPRODIONE	2011	kg					24844.1		1053.3			
+41	Oregon	IPRODIONE	2012	kg					13773.7		1204.9			
+41	Oregon	IPRODIONE	2013	kg					16409.8		429.5			
+41	Oregon	IPRODIONE	2014	kg					4700.3		926.6			
+41	Oregon	IPRODIONE	2015	kg					15047		535.5			
+41	Oregon	IPRODIONE	2016	kg					11488.9					
+41	Oregon	IPRODIONE	2017	kg					8022.7					
+42	Pennsylvania	IPRODIONE	1992	kg							10183			
+42	Pennsylvania	IPRODIONE	1993	kg					141.6		1568.1			
+42	Pennsylvania	IPRODIONE	1994	kg					13120.8		564.1			
+42	Pennsylvania	IPRODIONE	1995	kg					28		662.5			
+42	Pennsylvania	IPRODIONE	1996	kg					67.5		560.9			
+42	Pennsylvania	IPRODIONE	1997	kg					128.5		852.5			
+42	Pennsylvania	IPRODIONE	1998	kg					250		1072.2			
+42	Pennsylvania	IPRODIONE	1999	kg					44.7		760.6			
+42	Pennsylvania	IPRODIONE	2000	kg					561.3		941.4			
+42	Pennsylvania	IPRODIONE	2001	kg					1666.6		525.7			
+42	Pennsylvania	IPRODIONE	2002	kg					2.8		88.7			
+42	Pennsylvania	IPRODIONE	2003	kg					22.3		1834.6			
+42	Pennsylvania	IPRODIONE	2004	kg					28.8		1924.1			
+42	Pennsylvania	IPRODIONE	2005	kg					72.3					
+42	Pennsylvania	IPRODIONE	2006	kg					16					
+42	Pennsylvania	IPRODIONE	2007	kg					21.9					
+42	Pennsylvania	IPRODIONE	2008	kg					175					
+42	Pennsylvania	IPRODIONE	2009	kg					13.9		139.5			
+42	Pennsylvania	IPRODIONE	2010	kg					12.6		95.5			
+42	Pennsylvania	IPRODIONE	2011	kg					20.5					
+42	Pennsylvania	IPRODIONE	2012	kg					30.6					
+42	Pennsylvania	IPRODIONE	2013	kg					571.2		1445.6			
+42	Pennsylvania	IPRODIONE	2014	kg					3243.3		469			
+42	Pennsylvania	IPRODIONE	2015	kg					29.8		662			
+42	Pennsylvania	IPRODIONE	2016	kg							509.6			
+42	Pennsylvania	IPRODIONE	2017	kg							63.1			
+44	Rhode Island	IPRODIONE	1992	kg							4.1			
+44	Rhode Island	IPRODIONE	1993	kg							1.1			
+44	Rhode Island	IPRODIONE	1994	kg					28.6		7.3			
+44	Rhode Island	IPRODIONE	1995	kg							34.4			
+44	Rhode Island	IPRODIONE	1996	kg					2.4		15.4			
+44	Rhode Island	IPRODIONE	1997	kg					3		2.2			
+44	Rhode Island	IPRODIONE	2000	kg					12.1					
+44	Rhode Island	IPRODIONE	2013	kg							9.4			
+44	Rhode Island	IPRODIONE	2014	kg							2			
+44	Rhode Island	IPRODIONE	2015	kg							6.4			
+44	Rhode Island	IPRODIONE	2016	kg							3.7			
+45	South Carolina	IPRODIONE	1992	kg							2968.4			
+45	South Carolina	IPRODIONE	1993	kg							7664.8			
+45	South Carolina	IPRODIONE	1994	kg					0.1		363.1			
+45	South Carolina	IPRODIONE	1995	kg					0.4		3124.6			
+45	South Carolina	IPRODIONE	1996	kg					6		291.3			
+45	South Carolina	IPRODIONE	1997	kg					142		1402.6			
+45	South Carolina	IPRODIONE	1998	kg					69.4					
+45	South Carolina	IPRODIONE	1999	kg							555.9			
+45	South Carolina	IPRODIONE	2000	kg					170.1		3281.4			
+45	South Carolina	IPRODIONE	2001	kg					0.5		3937.5			
+45	South Carolina	IPRODIONE	2002	kg					56.4					
+45	South Carolina	IPRODIONE	2003	kg					198.5		1187.4			
+45	South Carolina	IPRODIONE	2004	kg					0.5					
+45	South Carolina	IPRODIONE	2005	kg					0.7					
+45	South Carolina	IPRODIONE	2006	kg					1.3					
+45	South Carolina	IPRODIONE	2007	kg					0.7					
+45	South Carolina	IPRODIONE	2009	kg					65.3					3383.1
+45	South Carolina	IPRODIONE	2010	kg					4.6					
+45	South Carolina	IPRODIONE	2011	kg					6.9					
+45	South Carolina	IPRODIONE	2012	kg					9.8					
+45	South Carolina	IPRODIONE	2013	kg					3.8					
+45	South Carolina	IPRODIONE	2014	kg					2.7					
+45	South Carolina	IPRODIONE	2015	kg					2.7					
+46	South Dakota	IPRODIONE	1997	kg					378.8					
+47	Tennessee	IPRODIONE	1992	kg						8.6	18.2			9.1
+47	Tennessee	IPRODIONE	1993	kg		1294.3				13.6	105			
+47	Tennessee	IPRODIONE	1994	kg					440.2	12.2	236.8			
+47	Tennessee	IPRODIONE	1995	kg					11.9	6.6	347.8			
+47	Tennessee	IPRODIONE	1996	kg				4121	16.6	1.4	255.2			
+47	Tennessee	IPRODIONE	1997	kg				8044.7	78.6	1.2	28.3			155.9
+47	Tennessee	IPRODIONE	1998	kg				64.1						
+47	Tennessee	IPRODIONE	1999	kg				780.8		3.1				
+47	Tennessee	IPRODIONE	2000	kg				3175.6						
+47	Tennessee	IPRODIONE	2001	kg				1074.7						
+47	Tennessee	IPRODIONE	2002	kg				2975.4						
+47	Tennessee	IPRODIONE	2003	kg				3018.6						
+47	Tennessee	IPRODIONE	2004	kg				1245.6	629					
+47	Tennessee	IPRODIONE	2005	kg					3.3					
+47	Tennessee	IPRODIONE	2009	kg										155.5
+47	Tennessee	IPRODIONE	2014	kg							26.5			
+48	Texas	IPRODIONE	1992	kg					143.7	898.4	1090.7			
+48	Texas	IPRODIONE	1993	kg					14993.1	1826.8				
+48	Texas	IPRODIONE	1994	kg				30158.2	2780	132.4				
+48	Texas	IPRODIONE	1995	kg					3244.6	7179.9				
+48	Texas	IPRODIONE	1996	kg				547	5595.5	326.1				8115.2
+48	Texas	IPRODIONE	1997	kg				2833.2	5564.6	1439.8		1830.3		
+48	Texas	IPRODIONE	1998	kg					6292.5	223.2				
+48	Texas	IPRODIONE	1999	kg				2599.4	1503.3	47.7				
+48	Texas	IPRODIONE	2000	kg				5139.5	7.3					
+48	Texas	IPRODIONE	2001	kg				18	4680.8					
+48	Texas	IPRODIONE	2002	kg					68.3		60.2			
+48	Texas	IPRODIONE	2003	kg				1788.5	5716					
+48	Texas	IPRODIONE	2004	kg				3420.9	7518	172.7				
+48	Texas	IPRODIONE	2005	kg					7622.8					
+48	Texas	IPRODIONE	2006	kg				505.1	9683.2					
+48	Texas	IPRODIONE	2007	kg					3586.4					
+48	Texas	IPRODIONE	2008	kg					632.8					
+48	Texas	IPRODIONE	2009	kg					4701.5	17.5				
+48	Texas	IPRODIONE	2010	kg					6351.2	20.6				
+48	Texas	IPRODIONE	2011	kg					4536.8					
+48	Texas	IPRODIONE	2012	kg					7262.4					
+48	Texas	IPRODIONE	2013	kg					1161.1					
+48	Texas	IPRODIONE	2014	kg					2855.2					
+49	Utah	IPRODIONE	1992	kg					49.3					
+49	Utah	IPRODIONE	1993	kg					38.3					
+49	Utah	IPRODIONE	1994	kg					20.4					
+49	Utah	IPRODIONE	1995	kg					72.8					
+49	Utah	IPRODIONE	1996	kg					36					
+49	Utah	IPRODIONE	1997	kg					26.6					
+49	Utah	IPRODIONE	1998	kg					6.3					
+49	Utah	IPRODIONE	1999	kg					52.2					
+49	Utah	IPRODIONE	2000	kg					14.7					
+49	Utah	IPRODIONE	2001	kg					53.5					
+49	Utah	IPRODIONE	2002	kg					1.7					
+49	Utah	IPRODIONE	2003	kg					51.5					
+49	Utah	IPRODIONE	2004	kg					0.2					
+49	Utah	IPRODIONE	2005	kg					0					
+49	Utah	IPRODIONE	2006	kg					1.9					
+49	Utah	IPRODIONE	2007	kg					4.1					
+49	Utah	IPRODIONE	2008	kg					6.8					
+49	Utah	IPRODIONE	2009	kg					0.3					
+49	Utah	IPRODIONE	2010	kg					1.1					
+49	Utah	IPRODIONE	2014	kg					4.9					
+49	Utah	IPRODIONE	2015	kg					2.9					
+49	Utah	IPRODIONE	2016	kg					1					
+50	Vermont	IPRODIONE	1992	kg							5.3			
+50	Vermont	IPRODIONE	1993	kg							1.2			
+50	Vermont	IPRODIONE	1994	kg					40.6					
+50	Vermont	IPRODIONE	1995	kg					21.7		1.3			
+50	Vermont	IPRODIONE	1996	kg					5.1		15.9			
+50	Vermont	IPRODIONE	1997	kg					7		2.1			
+50	Vermont	IPRODIONE	2000	kg					34.1					
+50	Vermont	IPRODIONE	2006	kg					88.6					
+50	Vermont	IPRODIONE	2007	kg					88.9					
+50	Vermont	IPRODIONE	2013	kg							6.9			
+50	Vermont	IPRODIONE	2014	kg							0.9			
+50	Vermont	IPRODIONE	2015	kg							3.3			
+50	Vermont	IPRODIONE	2016	kg							1.4			
+51	Virginia	IPRODIONE	1992	kg							1270.5			15.3
+51	Virginia	IPRODIONE	1993	kg							599.4			551.6
+51	Virginia	IPRODIONE	1994	kg					188.7		881.3			14134.8
+51	Virginia	IPRODIONE	1995	kg							363			665.3
+51	Virginia	IPRODIONE	1996	kg				1522.9	0.8		279.3			1879.4
+51	Virginia	IPRODIONE	1997	kg				762			220.1			1531.4
+51	Virginia	IPRODIONE	1998	kg					88.3					254
+51	Virginia	IPRODIONE	1999	kg					714					907.1
+51	Virginia	IPRODIONE	2000	kg				1186.6	268.9					2701
+51	Virginia	IPRODIONE	2001	kg				532.3	133.8					
+51	Virginia	IPRODIONE	2002	kg					1189.1					
+51	Virginia	IPRODIONE	2003	kg					339.2		104.3			
+51	Virginia	IPRODIONE	2004	kg				211.6	1068.2					
+51	Virginia	IPRODIONE	2009	kg										48.9
+51	Virginia	IPRODIONE	2014	kg							20.5			
+51	Virginia	IPRODIONE	2017	kg					10.9					
+53	Washington	IPRODIONE	1992	kg					14040.4		342.1			
+53	Washington	IPRODIONE	1993	kg			1.3		4188.1		2614.2			
+53	Washington	IPRODIONE	1994	kg					135589		81673.7			
+53	Washington	IPRODIONE	1995	kg					40876		2611.4		7.8	
+53	Washington	IPRODIONE	1996	kg					106040		1220.1		898.3	
+53	Washington	IPRODIONE	1997	kg					13602.5		498.8		601.1	
+53	Washington	IPRODIONE	1998	kg					8435.1		1953.9			
+53	Washington	IPRODIONE	1999	kg					28019.2		279.2			
+53	Washington	IPRODIONE	2000	kg					56433.5		276.8			
+53	Washington	IPRODIONE	2001	kg					27384.7		420.5			
+53	Washington	IPRODIONE	2002	kg					3575.8		32.5			
+53	Washington	IPRODIONE	2003	kg					26517.2		5.3			
+53	Washington	IPRODIONE	2004	kg					39545.1		12.8			
+53	Washington	IPRODIONE	2005	kg					2011.6					
+53	Washington	IPRODIONE	2006	kg					3084.8		7.1			
+53	Washington	IPRODIONE	2007	kg					2902.7		4.1			
+53	Washington	IPRODIONE	2008	kg					2204.6					
+53	Washington	IPRODIONE	2009	kg					11096.1		2.1			
+53	Washington	IPRODIONE	2010	kg					509.6		4.2			
+53	Washington	IPRODIONE	2011	kg					20320.6		7.1			
+53	Washington	IPRODIONE	2012	kg					6346		8.1			
+53	Washington	IPRODIONE	2013	kg					5830.3		656.2			
+53	Washington	IPRODIONE	2014	kg					15338.7		888.2			
+53	Washington	IPRODIONE	2015	kg					18314.1		5.3			
+53	Washington	IPRODIONE	2016	kg					20103.1					
+53	Washington	IPRODIONE	2017	kg					55706.7					
+54	West Virginia	IPRODIONE	1992	kg							113.1			
+54	West Virginia	IPRODIONE	1993	kg							362.2			
+54	West Virginia	IPRODIONE	1994	kg					6.4		1390.1			
+54	West Virginia	IPRODIONE	1995	kg							506.9			
+54	West Virginia	IPRODIONE	1996	kg					2		102.5			
+54	West Virginia	IPRODIONE	1997	kg							150.8			
+54	West Virginia	IPRODIONE	1998	kg					10.2					
+54	West Virginia	IPRODIONE	2002	kg					12.5					
+54	West Virginia	IPRODIONE	2014	kg							91.2			
+55	Wisconsin	IPRODIONE	1992	kg					1372.3		253.8			
+55	Wisconsin	IPRODIONE	1993	kg					171.3		3.6			
+55	Wisconsin	IPRODIONE	1994	kg					3075.6		120.8			
+55	Wisconsin	IPRODIONE	1995	kg	1247.8				49869.8		370			
+55	Wisconsin	IPRODIONE	1996	kg					354.3		67.2			
+55	Wisconsin	IPRODIONE	1997	kg					20361.7					
+55	Wisconsin	IPRODIONE	1998	kg					193.5					
+55	Wisconsin	IPRODIONE	1999	kg					1239.3					
+55	Wisconsin	IPRODIONE	2000	kg					15712.7					
+55	Wisconsin	IPRODIONE	2001	kg					5926.4		26			
+55	Wisconsin	IPRODIONE	2002	kg					7398.5		64.5			
+55	Wisconsin	IPRODIONE	2003	kg					2743.6					
+55	Wisconsin	IPRODIONE	2004	kg					2765					
+55	Wisconsin	IPRODIONE	2006	kg					2362.7					
+55	Wisconsin	IPRODIONE	2007	kg					8140.9		77.2			
+55	Wisconsin	IPRODIONE	2008	kg					2739.8					
+55	Wisconsin	IPRODIONE	2009	kg							60.4			
+55	Wisconsin	IPRODIONE	2010	kg					3722.3		33.2			
+55	Wisconsin	IPRODIONE	2011	kg					531.3		276			
+55	Wisconsin	IPRODIONE	2012	kg					10518		647.9			
+55	Wisconsin	IPRODIONE	2013	kg							164.7			
+55	Wisconsin	IPRODIONE	2014	kg					127.9		160.1			
+55	Wisconsin	IPRODIONE	2015	kg							58.4			
+55	Wisconsin	IPRODIONE	2016	kg							22.5			
+55	Wisconsin	IPRODIONE	2017	kg							136.9			
+56	Wyoming	IPRODIONE	1992	kg					0.1					
+56	Wyoming	IPRODIONE	1993	kg					0					
+56	Wyoming	IPRODIONE	1994	kg					0					
+56	Wyoming	IPRODIONE	1995	kg					0					
+56	Wyoming	IPRODIONE	1996	kg					0					
+56	Wyoming	IPRODIONE	1997	kg					0					
+56	Wyoming	IPRODIONE	1998	kg					0					
+56	Wyoming	IPRODIONE	1999	kg					0					
+56	Wyoming	IPRODIONE	2000	kg					0					
+56	Wyoming	IPRODIONE	2001	kg					0.2					
+56	Wyoming	IPRODIONE	2002	kg					0					
+56	Wyoming	IPRODIONE	2003	kg					0.3					
+56	Wyoming	IPRODIONE	2014	kg					0.1					

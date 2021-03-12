@@ -1,0 +1,14 @@
+04	Arizona	BURKHOLDERIA SPP	2016	kg					19					
+12	Florida	BURKHOLDERIA SPP	2016	kg					3986.1					
+12	Florida	BURKHOLDERIA SPP	2017	kg					1696.5					
+16	Idaho	BURKHOLDERIA SPP	2017	kg					56590.8					
+26	Michigan	BURKHOLDERIA SPP	2015	kg							1963.1			
+32	Nevada	BURKHOLDERIA SPP	2016	kg					8.3					
+37	North Carolina	BURKHOLDERIA SPP	2015	kg										1548.7
+41	Oregon	BURKHOLDERIA SPP	2015	kg							433.7			
+41	Oregon	BURKHOLDERIA SPP	2017	kg					94439.2		140.6			
+51	Virginia	BURKHOLDERIA SPP	2015	kg										106.5
+53	Washington	BURKHOLDERIA SPP	2015	kg							1406.5			
+53	Washington	BURKHOLDERIA SPP	2016	kg					36946.9					
+53	Washington	BURKHOLDERIA SPP	2017	kg					96095.5		7219.6			
+55	Wisconsin	BURKHOLDERIA SPP	2016	kg					264.7					

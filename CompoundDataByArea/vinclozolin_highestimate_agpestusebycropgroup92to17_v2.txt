@@ -1,0 +1,361 @@
+01	Alabama	VINCLOZOLIN	1992	kg							107.9			
+01	Alabama	VINCLOZOLIN	1993	kg							584.8			
+01	Alabama	VINCLOZOLIN	1994	kg					27.6		1579.2			
+01	Alabama	VINCLOZOLIN	1995	kg					29.9					
+01	Alabama	VINCLOZOLIN	1997	kg					322.3					
+01	Alabama	VINCLOZOLIN	1998	kg					61.6					
+01	Alabama	VINCLOZOLIN	2000	kg					39					
+01	Alabama	VINCLOZOLIN	2001	kg					49.4					
+01	Alabama	VINCLOZOLIN	2002	kg					35.6					
+01	Alabama	VINCLOZOLIN	2003	kg					74.7					
+01	Alabama	VINCLOZOLIN	2004	kg					111.1					
+04	Arizona	VINCLOZOLIN	1992	kg					3592					
+04	Arizona	VINCLOZOLIN	1993	kg					2740.9					
+04	Arizona	VINCLOZOLIN	1994	kg					274.7					
+04	Arizona	VINCLOZOLIN	1995	kg					1621.1					
+04	Arizona	VINCLOZOLIN	1996	kg					746.4					
+04	Arizona	VINCLOZOLIN	1997	kg					2889.3					
+04	Arizona	VINCLOZOLIN	1998	kg					25720.2					
+04	Arizona	VINCLOZOLIN	1999	kg					3951.2					
+04	Arizona	VINCLOZOLIN	2000	kg					9040.1					
+04	Arizona	VINCLOZOLIN	2001	kg					3156.1					
+04	Arizona	VINCLOZOLIN	2002	kg					11960.2					
+04	Arizona	VINCLOZOLIN	2003	kg					5702.3					
+04	Arizona	VINCLOZOLIN	2004	kg					5355.6					
+04	Arizona	VINCLOZOLIN	2005	kg					21815.5					
+04	Arizona	VINCLOZOLIN	2006	kg					160.9					
+04	Arizona	VINCLOZOLIN	2008	kg					4607					
+05	Arkansas	VINCLOZOLIN	1993	kg						4087.6				
+05	Arkansas	VINCLOZOLIN	1994	kg									10.8	
+05	Arkansas	VINCLOZOLIN	1996	kg					5.9					
+05	Arkansas	VINCLOZOLIN	1997	kg					38.9					
+06	California	VINCLOZOLIN	1992	kg					15284.8		7127.4			
+06	California	VINCLOZOLIN	1993	kg					14129.9		3429.7			
+06	California	VINCLOZOLIN	1994	kg					11304.8		3483.4			
+06	California	VINCLOZOLIN	1995	kg					16107.3		4620			
+06	California	VINCLOZOLIN	1996	kg					22584.4		4250.2		1.3	
+06	California	VINCLOZOLIN	1997	kg					18488.3		2468.2			
+06	California	VINCLOZOLIN	1998	kg					20316.4		6997			
+06	California	VINCLOZOLIN	1999	kg					20986.5		2487.5			
+06	California	VINCLOZOLIN	2000	kg					13828.9		1818.9		1.7	
+06	California	VINCLOZOLIN	2001	kg					12851.3		1097.2			
+06	California	VINCLOZOLIN	2002	kg					8237.6		1049			
+06	California	VINCLOZOLIN	2003	kg					7367.8		509.7			
+06	California	VINCLOZOLIN	2004	kg					6502.3		45.1			
+06	California	VINCLOZOLIN	2005	kg					1272.9		165.4			
+06	California	VINCLOZOLIN	2006	kg					12.4		20			
+06	California	VINCLOZOLIN	2007	kg							17.8			
+06	California	VINCLOZOLIN	2008	kg					0.4		25.5			
+06	California	VINCLOZOLIN	2009	kg							6.4			
+06	California	VINCLOZOLIN	2010	kg							3.2			
+06	California	VINCLOZOLIN	2011	kg							5.4			
+06	California	VINCLOZOLIN	2012	kg							2.3			
+06	California	VINCLOZOLIN	2013	kg							1.8			
+06	California	VINCLOZOLIN	2014	kg							0.7			
+06	California	VINCLOZOLIN	2015	kg							0.4			
+06	California	VINCLOZOLIN	2016	kg							0.1			
+06	California	VINCLOZOLIN	2017	kg							3.9			
+08	Colorado	VINCLOZOLIN	1997	kg					11.8					
+08	Colorado	VINCLOZOLIN	1998	kg					138.7					
+08	Colorado	VINCLOZOLIN	2002	kg					51.5					
+09	Connecticut	VINCLOZOLIN	1993	kg					0					
+09	Connecticut	VINCLOZOLIN	1994	kg					190.3					
+09	Connecticut	VINCLOZOLIN	1995	kg					0.1		100.3			
+09	Connecticut	VINCLOZOLIN	1996	kg					18.1					
+09	Connecticut	VINCLOZOLIN	1997	kg					107.7					
+09	Connecticut	VINCLOZOLIN	1998	kg					25.4					
+09	Connecticut	VINCLOZOLIN	1999	kg					91.1					
+10	Delaware	VINCLOZOLIN	1994	kg					1.8					
+10	Delaware	VINCLOZOLIN	1995	kg					1					
+10	Delaware	VINCLOZOLIN	1996	kg					11					
+10	Delaware	VINCLOZOLIN	1998	kg					26.8					
+10	Delaware	VINCLOZOLIN	2000	kg					700.5					
+10	Delaware	VINCLOZOLIN	2001	kg					1624.7					
+10	Delaware	VINCLOZOLIN	2002	kg					420.5					
+10	Delaware	VINCLOZOLIN	2003	kg					1533.9					
+10	Delaware	VINCLOZOLIN	2004	kg					5164.7					
+12	Florida	VINCLOZOLIN	1993	kg					127		83.3			
+12	Florida	VINCLOZOLIN	1994	kg					51.3					
+12	Florida	VINCLOZOLIN	1997	kg					222.7					
+12	Florida	VINCLOZOLIN	1998	kg					560.6					
+13	Georgia	VINCLOZOLIN	1992	kg							1607			
+13	Georgia	VINCLOZOLIN	1993	kg							74.8			
+13	Georgia	VINCLOZOLIN	1994	kg					30.1		171.6			
+13	Georgia	VINCLOZOLIN	1995	kg					10.5		11865.8			
+13	Georgia	VINCLOZOLIN	1996	kg					1823.8					
+13	Georgia	VINCLOZOLIN	1997	kg					2721.8					
+13	Georgia	VINCLOZOLIN	1998	kg					15.2					
+13	Georgia	VINCLOZOLIN	2000	kg					423.5					
+13	Georgia	VINCLOZOLIN	2001	kg					522.6					
+13	Georgia	VINCLOZOLIN	2002	kg					316.9					
+13	Georgia	VINCLOZOLIN	2003	kg					704.6					
+13	Georgia	VINCLOZOLIN	2004	kg					1086.2					
+17	Illinois	VINCLOZOLIN	1993	kg							18.3			
+17	Illinois	VINCLOZOLIN	1994	kg					126.8					
+17	Illinois	VINCLOZOLIN	1995	kg					24.4					
+17	Illinois	VINCLOZOLIN	1996	kg					602.4					
+17	Illinois	VINCLOZOLIN	1997	kg					111.5					
+17	Illinois	VINCLOZOLIN	1998	kg					191.9					
+17	Illinois	VINCLOZOLIN	1999	kg					270.5					
+17	Illinois	VINCLOZOLIN	2000	kg					29					
+17	Illinois	VINCLOZOLIN	2001	kg					477.8					
+17	Illinois	VINCLOZOLIN	2002	kg					594.4					
+18	Indiana	VINCLOZOLIN	1992	kg							0.5			
+18	Indiana	VINCLOZOLIN	1993	kg							38			
+18	Indiana	VINCLOZOLIN	1994	kg					0.9					
+18	Indiana	VINCLOZOLIN	1995	kg					0		6.8		4.9	
+18	Indiana	VINCLOZOLIN	1996	kg					177.4					
+18	Indiana	VINCLOZOLIN	1997	kg					186.5					
+18	Indiana	VINCLOZOLIN	1998	kg					167.6					
+18	Indiana	VINCLOZOLIN	1999	kg					275					
+18	Indiana	VINCLOZOLIN	2000	kg					43.9					
+18	Indiana	VINCLOZOLIN	2001	kg					82.5					
+18	Indiana	VINCLOZOLIN	2002	kg					215.9					
+18	Indiana	VINCLOZOLIN	2003	kg					136					
+18	Indiana	VINCLOZOLIN	2004	kg					176.3					
+18	Indiana	VINCLOZOLIN	2005	kg					37.8					
+19	Iowa	VINCLOZOLIN	1996	kg					73.7					
+19	Iowa	VINCLOZOLIN	1997	kg					41.6					
+19	Iowa	VINCLOZOLIN	1998	kg					47.9					
+19	Iowa	VINCLOZOLIN	1999	kg					56.6					
+21	Kentucky	VINCLOZOLIN	1995	kg					7.4					
+21	Kentucky	VINCLOZOLIN	1996	kg					34.4					
+21	Kentucky	VINCLOZOLIN	1997	kg					18.2					
+21	Kentucky	VINCLOZOLIN	1998	kg					24.3					
+21	Kentucky	VINCLOZOLIN	1999	kg					34.4					
+23	Maine	VINCLOZOLIN	1994	kg					90.8					
+23	Maine	VINCLOZOLIN	1995	kg					271.2					
+23	Maine	VINCLOZOLIN	1996	kg					26.2					
+23	Maine	VINCLOZOLIN	1997	kg					4.5					
+23	Maine	VINCLOZOLIN	1998	kg					201.6					
+23	Maine	VINCLOZOLIN	1999	kg					142.1					
+24	Maryland	VINCLOZOLIN	1992	kg							638.2			
+24	Maryland	VINCLOZOLIN	1993	kg							62.5			
+24	Maryland	VINCLOZOLIN	1994	kg					87					
+24	Maryland	VINCLOZOLIN	1995	kg					159.3		256.4			
+24	Maryland	VINCLOZOLIN	1996	kg					157.2					
+24	Maryland	VINCLOZOLIN	1997	kg					189.9					
+24	Maryland	VINCLOZOLIN	1998	kg					336.8					
+24	Maryland	VINCLOZOLIN	1999	kg					518.2					
+24	Maryland	VINCLOZOLIN	2000	kg					538.2					
+24	Maryland	VINCLOZOLIN	2001	kg					550.2					
+24	Maryland	VINCLOZOLIN	2002	kg					446.5					
+24	Maryland	VINCLOZOLIN	2003	kg					596.4					
+24	Maryland	VINCLOZOLIN	2004	kg					1022.2					
+24	Maryland	VINCLOZOLIN	2005	kg					270.3					
+25	Massachusetts	VINCLOZOLIN	1993	kg					0.5					
+25	Massachusetts	VINCLOZOLIN	1994	kg					371.9					
+25	Massachusetts	VINCLOZOLIN	1995	kg					17.9		1087.4			
+25	Massachusetts	VINCLOZOLIN	1996	kg					1.9					
+25	Massachusetts	VINCLOZOLIN	1997	kg					174.2					
+25	Massachusetts	VINCLOZOLIN	1998	kg					43.8					
+25	Massachusetts	VINCLOZOLIN	1999	kg					139.5					
+26	Michigan	VINCLOZOLIN	1992	kg							43.1			
+26	Michigan	VINCLOZOLIN	1993	kg							5268.8			
+26	Michigan	VINCLOZOLIN	1994	kg					32.7		790.7			
+26	Michigan	VINCLOZOLIN	1995	kg					6.7		706.1		13.6	
+26	Michigan	VINCLOZOLIN	1996	kg					16.5					
+26	Michigan	VINCLOZOLIN	1997	kg					1535.3		38.7			
+26	Michigan	VINCLOZOLIN	1998	kg					2052.9					
+26	Michigan	VINCLOZOLIN	1999	kg					2991.4					
+26	Michigan	VINCLOZOLIN	2000	kg					908.4					
+26	Michigan	VINCLOZOLIN	2001	kg					690.6					
+26	Michigan	VINCLOZOLIN	2002	kg					1370.7					
+26	Michigan	VINCLOZOLIN	2003	kg					1408.3					
+26	Michigan	VINCLOZOLIN	2004	kg					3178.4					
+26	Michigan	VINCLOZOLIN	2005	kg					672.5					
+27	Minnesota	VINCLOZOLIN	1995	kg					4.1					
+27	Minnesota	VINCLOZOLIN	1996	kg					132.2					
+27	Minnesota	VINCLOZOLIN	1997	kg					307.6					
+27	Minnesota	VINCLOZOLIN	1998	kg					215.7					
+27	Minnesota	VINCLOZOLIN	1999	kg					304.3					
+27	Minnesota	VINCLOZOLIN	2000	kg					8.1					
+27	Minnesota	VINCLOZOLIN	2001	kg					13.2					
+27	Minnesota	VINCLOZOLIN	2002	kg					13.7					
+27	Minnesota	VINCLOZOLIN	2004	kg					41.2					
+28	Mississippi	VINCLOZOLIN	1992	kg							0.8			
+28	Mississippi	VINCLOZOLIN	1993	kg						416.1	3.1			
+28	Mississippi	VINCLOZOLIN	1994	kg							7.2		40.3	
+28	Mississippi	VINCLOZOLIN	1997	kg					0					
+29	Missouri	VINCLOZOLIN	1993	kg							1.7			
+29	Missouri	VINCLOZOLIN	1996	kg					79.6					
+29	Missouri	VINCLOZOLIN	1997	kg					22.9					
+29	Missouri	VINCLOZOLIN	1998	kg					34.7					
+29	Missouri	VINCLOZOLIN	1999	kg					66.2					
+32	Nevada	VINCLOZOLIN	1993	kg							0.2			
+33	New Hampshire	VINCLOZOLIN	1994	kg					35.3					
+33	New Hampshire	VINCLOZOLIN	1995	kg					94.9		39.5			
+33	New Hampshire	VINCLOZOLIN	1996	kg					5.4					
+33	New Hampshire	VINCLOZOLIN	1997	kg					1.8					
+33	New Hampshire	VINCLOZOLIN	1998	kg					78.7					
+33	New Hampshire	VINCLOZOLIN	1999	kg					54.9					
+34	New Jersey	VINCLOZOLIN	1993	kg					0.2		393.4			
+34	New Jersey	VINCLOZOLIN	1994	kg					5676.3		4681.2			
+34	New Jersey	VINCLOZOLIN	1995	kg					1587.1		2101.9			
+34	New Jersey	VINCLOZOLIN	1996	kg					2714					
+34	New Jersey	VINCLOZOLIN	1997	kg					3063.8					
+34	New Jersey	VINCLOZOLIN	1998	kg					860.1					
+34	New Jersey	VINCLOZOLIN	1999	kg					1775.6					
+34	New Jersey	VINCLOZOLIN	2000	kg					992.6					
+34	New Jersey	VINCLOZOLIN	2001	kg					534.6					
+34	New Jersey	VINCLOZOLIN	2002	kg					145.4					
+34	New Jersey	VINCLOZOLIN	2003	kg					943.5					
+34	New Jersey	VINCLOZOLIN	2004	kg					2680.2					
+34	New Jersey	VINCLOZOLIN	2005	kg					660.5					
+35	New Mexico	VINCLOZOLIN	1997	kg					7.1					
+35	New Mexico	VINCLOZOLIN	1998	kg					81.7					
+35	New Mexico	VINCLOZOLIN	1999	kg					8.8					
+35	New Mexico	VINCLOZOLIN	2000	kg					19.5					
+35	New Mexico	VINCLOZOLIN	2001	kg					6.5					
+35	New Mexico	VINCLOZOLIN	2002	kg					23.9					
+35	New Mexico	VINCLOZOLIN	2003	kg					11.2					
+35	New Mexico	VINCLOZOLIN	2004	kg					10.4					
+35	New Mexico	VINCLOZOLIN	2005	kg					40.2					
+35	New Mexico	VINCLOZOLIN	2006	kg					0.3					
+36	New York	VINCLOZOLIN	1992	kg					16070.1					
+36	New York	VINCLOZOLIN	1993	kg					401.4					
+36	New York	VINCLOZOLIN	1994	kg					287.9		152			
+36	New York	VINCLOZOLIN	1995	kg					1508.7		413.8			
+36	New York	VINCLOZOLIN	1996	kg					401.2					
+36	New York	VINCLOZOLIN	1997	kg					3683.5		330			
+36	New York	VINCLOZOLIN	1998	kg					10415.2		137.4			
+36	New York	VINCLOZOLIN	1999	kg					3620.7					
+36	New York	VINCLOZOLIN	2000	kg					7608.2					
+36	New York	VINCLOZOLIN	2001	kg					4322.2					
+36	New York	VINCLOZOLIN	2002	kg					4579.8					
+36	New York	VINCLOZOLIN	2003	kg					7924.7					
+36	New York	VINCLOZOLIN	2004	kg					6178.1					
+36	New York	VINCLOZOLIN	2005	kg					1532.5					
+36	New York	VINCLOZOLIN	2007	kg					1910.9					
+36	New York	VINCLOZOLIN	2009	kg					51.8					
+37	North Carolina	VINCLOZOLIN	1994	kg					246.1					
+37	North Carolina	VINCLOZOLIN	1995	kg					20.6					
+37	North Carolina	VINCLOZOLIN	1997	kg					2770.8					
+37	North Carolina	VINCLOZOLIN	1998	kg					540.5					
+37	North Carolina	VINCLOZOLIN	1999	kg					294.9					
+37	North Carolina	VINCLOZOLIN	2000	kg					2041.3					
+37	North Carolina	VINCLOZOLIN	2001	kg					220.5					
+37	North Carolina	VINCLOZOLIN	2002	kg					143.9					
+37	North Carolina	VINCLOZOLIN	2003	kg					369.1					
+37	North Carolina	VINCLOZOLIN	2004	kg					650.4					
+39	Ohio	VINCLOZOLIN	1994	kg					233.8					
+39	Ohio	VINCLOZOLIN	1995	kg					367.2					
+39	Ohio	VINCLOZOLIN	1996	kg					269.8					
+39	Ohio	VINCLOZOLIN	1997	kg					629.9					
+39	Ohio	VINCLOZOLIN	1998	kg					455.9					
+39	Ohio	VINCLOZOLIN	1999	kg					657.6					
+39	Ohio	VINCLOZOLIN	2000	kg					121.4					
+39	Ohio	VINCLOZOLIN	2001	kg					174.4					
+39	Ohio	VINCLOZOLIN	2002	kg					55.8					
+39	Ohio	VINCLOZOLIN	2003	kg					51.9					
+39	Ohio	VINCLOZOLIN	2004	kg					157.2					
+39	Ohio	VINCLOZOLIN	2005	kg					16.1					
+40	Oklahoma	VINCLOZOLIN	1997	kg					246.6					
+41	Oregon	VINCLOZOLIN	1992	kg					8056.6		702.1			
+41	Oregon	VINCLOZOLIN	1993	kg					10141.4		1652.9			
+41	Oregon	VINCLOZOLIN	1994	kg					6671.9		132.5			
+41	Oregon	VINCLOZOLIN	1995	kg					9070.2		472.1			
+41	Oregon	VINCLOZOLIN	1996	kg					16207.7		988.5		359.1	
+41	Oregon	VINCLOZOLIN	1997	kg					10132.8		1922			
+41	Oregon	VINCLOZOLIN	1998	kg					8785.6		859.1			
+41	Oregon	VINCLOZOLIN	1999	kg					8718.4		594			
+41	Oregon	VINCLOZOLIN	2000	kg					5670.7					
+41	Oregon	VINCLOZOLIN	2001	kg					6567.5					
+41	Oregon	VINCLOZOLIN	2002	kg					4518.2					
+41	Oregon	VINCLOZOLIN	2003	kg					3692					
+41	Oregon	VINCLOZOLIN	2004	kg					4157.8					
+41	Oregon	VINCLOZOLIN	2005	kg					4793.5					
+41	Oregon	VINCLOZOLIN	2008	kg			3009.4							
+42	Pennsylvania	VINCLOZOLIN	1992	kg					419.5		2334.5			
+42	Pennsylvania	VINCLOZOLIN	1993	kg					0		44.4			
+42	Pennsylvania	VINCLOZOLIN	1994	kg					555.6		540.9			
+42	Pennsylvania	VINCLOZOLIN	1995	kg					2024.5		2829.6			
+42	Pennsylvania	VINCLOZOLIN	1996	kg					1273					
+42	Pennsylvania	VINCLOZOLIN	1997	kg					1287.8		1.4			
+42	Pennsylvania	VINCLOZOLIN	1998	kg					1378.7					
+42	Pennsylvania	VINCLOZOLIN	1999	kg					3348.3					
+42	Pennsylvania	VINCLOZOLIN	2000	kg					957.6					
+42	Pennsylvania	VINCLOZOLIN	2001	kg					517.2					
+42	Pennsylvania	VINCLOZOLIN	2002	kg					321.4					
+42	Pennsylvania	VINCLOZOLIN	2003	kg					1646.9					
+42	Pennsylvania	VINCLOZOLIN	2004	kg					2858.4					
+42	Pennsylvania	VINCLOZOLIN	2005	kg					1091.4					
+44	Rhode Island	VINCLOZOLIN	1994	kg					42.1					
+44	Rhode Island	VINCLOZOLIN	1995	kg					0		9.9			
+44	Rhode Island	VINCLOZOLIN	1996	kg					4.9					
+44	Rhode Island	VINCLOZOLIN	1997	kg					28.3					
+44	Rhode Island	VINCLOZOLIN	1998	kg					34.9					
+44	Rhode Island	VINCLOZOLIN	1999	kg					24.4					
+45	South Carolina	VINCLOZOLIN	1992	kg							964.3			
+45	South Carolina	VINCLOZOLIN	1994	kg					216					
+45	South Carolina	VINCLOZOLIN	1995	kg					306					
+45	South Carolina	VINCLOZOLIN	1996	kg					0.1					
+45	South Carolina	VINCLOZOLIN	1998	kg					24.8					
+45	South Carolina	VINCLOZOLIN	1999	kg					8.4					
+46	South Dakota	VINCLOZOLIN	1996	kg					4					
+46	South Dakota	VINCLOZOLIN	1997	kg					174.6					
+46	South Dakota	VINCLOZOLIN	1998	kg					1.6					
+46	South Dakota	VINCLOZOLIN	1999	kg					3.1					
+47	Tennessee	VINCLOZOLIN	1993	kg						1.8				
+47	Tennessee	VINCLOZOLIN	1994	kg									14.3	
+47	Tennessee	VINCLOZOLIN	1995	kg					45					
+47	Tennessee	VINCLOZOLIN	1996	kg					2.4					
+47	Tennessee	VINCLOZOLIN	1997	kg					11.1					
+47	Tennessee	VINCLOZOLIN	1998	kg					35.4					
+48	Texas	VINCLOZOLIN	1997	kg							546.1			
+49	Utah	VINCLOZOLIN	1997	kg					0					
+49	Utah	VINCLOZOLIN	1998	kg					0.5					
+49	Utah	VINCLOZOLIN	2002	kg					0.2					
+50	Vermont	VINCLOZOLIN	1994	kg					39.1					
+50	Vermont	VINCLOZOLIN	1995	kg					32.1		11.3			
+50	Vermont	VINCLOZOLIN	1996	kg					18.1					
+50	Vermont	VINCLOZOLIN	1997	kg					62.3					
+50	Vermont	VINCLOZOLIN	1998	kg					82.9					
+50	Vermont	VINCLOZOLIN	1999	kg					62.6					
+51	Virginia	VINCLOZOLIN	1992	kg							264.9			
+51	Virginia	VINCLOZOLIN	1993	kg							55.2			
+51	Virginia	VINCLOZOLIN	1994	kg					52					
+51	Virginia	VINCLOZOLIN	1995	kg					4.8					
+51	Virginia	VINCLOZOLIN	1997	kg					3.9					
+51	Virginia	VINCLOZOLIN	1998	kg					128.8					
+51	Virginia	VINCLOZOLIN	2000	kg					200.4					
+51	Virginia	VINCLOZOLIN	2001	kg					250.3					
+51	Virginia	VINCLOZOLIN	2002	kg					282					
+51	Virginia	VINCLOZOLIN	2003	kg					467.4					
+51	Virginia	VINCLOZOLIN	2004	kg					596.9					
+53	Washington	VINCLOZOLIN	1992	kg					3715		6.1			
+53	Washington	VINCLOZOLIN	1993	kg					6246		11.4			
+53	Washington	VINCLOZOLIN	1994	kg					5563.9		0.6			
+53	Washington	VINCLOZOLIN	1995	kg					7280.4		5.6			
+53	Washington	VINCLOZOLIN	1996	kg					5700		7.2		67.1	
+53	Washington	VINCLOZOLIN	1997	kg					6669.7		14.2			
+53	Washington	VINCLOZOLIN	1998	kg					5338.6		5.9			
+53	Washington	VINCLOZOLIN	1999	kg					4589.4		4.5			
+53	Washington	VINCLOZOLIN	2000	kg					1972.1					
+53	Washington	VINCLOZOLIN	2001	kg					1693.2					
+53	Washington	VINCLOZOLIN	2002	kg					1418.5					
+53	Washington	VINCLOZOLIN	2003	kg					1450.7					
+53	Washington	VINCLOZOLIN	2004	kg					1676.8					
+53	Washington	VINCLOZOLIN	2005	kg					1783.1					
+53	Washington	VINCLOZOLIN	2008	kg			355.9							
+54	West Virginia	VINCLOZOLIN	1992	kg							565.5			
+54	West Virginia	VINCLOZOLIN	1993	kg							61.4			
+54	West Virginia	VINCLOZOLIN	1994	kg					7.2					
+54	West Virginia	VINCLOZOLIN	1995	kg					32.8					
+54	West Virginia	VINCLOZOLIN	1997	kg					30.1					
+54	West Virginia	VINCLOZOLIN	1998	kg					32.1					
+54	West Virginia	VINCLOZOLIN	1999	kg					11.8					
+54	West Virginia	VINCLOZOLIN	2001	kg					1.4					
+54	West Virginia	VINCLOZOLIN	2002	kg					4.4					
+54	West Virginia	VINCLOZOLIN	2003	kg					7.3					
+54	West Virginia	VINCLOZOLIN	2004	kg					8.2					
+55	Wisconsin	VINCLOZOLIN	1994	kg					907.4					
+55	Wisconsin	VINCLOZOLIN	1995	kg					499.4					
+55	Wisconsin	VINCLOZOLIN	1996	kg					876.9					
+55	Wisconsin	VINCLOZOLIN	1997	kg					636.7					
+55	Wisconsin	VINCLOZOLIN	1998	kg					7310.6					
+55	Wisconsin	VINCLOZOLIN	1999	kg					853.6					
+55	Wisconsin	VINCLOZOLIN	2000	kg					4185.1					
+55	Wisconsin	VINCLOZOLIN	2001	kg					5897.7					
+55	Wisconsin	VINCLOZOLIN	2002	kg					6682.9					
+55	Wisconsin	VINCLOZOLIN	2004	kg					17984.6					

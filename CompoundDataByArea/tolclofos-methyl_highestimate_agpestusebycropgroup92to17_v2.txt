@@ -1,0 +1,6 @@
+08	Colorado	TOLCLOFOS-METHYL	2014	kg										1.1
+26	Michigan	TOLCLOFOS-METHYL	2014	kg										1
+30	Montana	TOLCLOFOS-METHYL	2014	kg										1.8
+31	Nebraska	TOLCLOFOS-METHYL	2014	kg										2.6
+38	North Dakota	TOLCLOFOS-METHYL	2014	kg										0.9
+56	Wyoming	TOLCLOFOS-METHYL	2014	kg										0.2

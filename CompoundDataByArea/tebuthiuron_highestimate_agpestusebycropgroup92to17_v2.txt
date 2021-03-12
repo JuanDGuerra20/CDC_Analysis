@@ -1,0 +1,364 @@
+01	Alabama	TEBUTHIURON	1992	kg									722.7	201
+01	Alabama	TEBUTHIURON	1993	kg									3731.6	
+01	Alabama	TEBUTHIURON	1994	kg									2995.2	1591.6
+01	Alabama	TEBUTHIURON	1995	kg									7410.2	32.7
+01	Alabama	TEBUTHIURON	1996	kg									47.9	97.9
+01	Alabama	TEBUTHIURON	1997	kg									17699.5	
+01	Alabama	TEBUTHIURON	1998	kg									70	
+01	Alabama	TEBUTHIURON	2004	kg									7.4	
+01	Alabama	TEBUTHIURON	2012	kg									1460.8	
+04	Arizona	TEBUTHIURON	1994	kg									1917	
+04	Arizona	TEBUTHIURON	1999	kg									28394	
+04	Arizona	TEBUTHIURON	2004	kg									36.3	
+05	Arkansas	TEBUTHIURON	1992	kg									5421.9	11020.7
+05	Arkansas	TEBUTHIURON	1993	kg									3839.8	
+05	Arkansas	TEBUTHIURON	1994	kg									963.4	983
+05	Arkansas	TEBUTHIURON	1995	kg									2987.1	1213
+05	Arkansas	TEBUTHIURON	1996	kg									26631	413.8
+05	Arkansas	TEBUTHIURON	1997	kg									27.1	
+05	Arkansas	TEBUTHIURON	1998	kg									9099.8	
+05	Arkansas	TEBUTHIURON	1999	kg									1026.5	
+05	Arkansas	TEBUTHIURON	2001	kg									33153.3	
+05	Arkansas	TEBUTHIURON	2002	kg									935.2	
+05	Arkansas	TEBUTHIURON	2004	kg									24.3	
+05	Arkansas	TEBUTHIURON	2008	kg									165.5	
+05	Arkansas	TEBUTHIURON	2015	kg									2015.7	
+06	California	TEBUTHIURON	1995	kg							0.5			
+06	California	TEBUTHIURON	1998	kg						1.5				
+06	California	TEBUTHIURON	1999	kg									5.4	
+06	California	TEBUTHIURON	2000	kg								1.4		
+06	California	TEBUTHIURON	2004	kg							0.7			
+06	California	TEBUTHIURON	2007	kg									0	
+06	California	TEBUTHIURON	2008	kg									0.5	
+08	Colorado	TEBUTHIURON	1992	kg									3950.4	
+08	Colorado	TEBUTHIURON	1993	kg									5190.7	
+08	Colorado	TEBUTHIURON	1994	kg									4908.6	106.3
+08	Colorado	TEBUTHIURON	1995	kg									4155.8	486.2
+08	Colorado	TEBUTHIURON	1996	kg									2259	152.2
+08	Colorado	TEBUTHIURON	1997	kg									2770.8	
+08	Colorado	TEBUTHIURON	1999	kg									4729.4	
+08	Colorado	TEBUTHIURON	2001	kg									3484.5	
+08	Colorado	TEBUTHIURON	2003	kg									28948.5	
+08	Colorado	TEBUTHIURON	2004	kg									10280.5	
+08	Colorado	TEBUTHIURON	2006	kg									5110.1	
+08	Colorado	TEBUTHIURON	2007	kg									117.1	
+08	Colorado	TEBUTHIURON	2013	kg									568.8	
+12	Florida	TEBUTHIURON	1996	kg									37.8	69.1
+13	Georgia	TEBUTHIURON	1992	kg									391.2	148
+13	Georgia	TEBUTHIURON	1993	kg									600.2	
+13	Georgia	TEBUTHIURON	1994	kg									1997.1	1209.1
+13	Georgia	TEBUTHIURON	1995	kg									1252.9	48.1
+13	Georgia	TEBUTHIURON	1996	kg									104.6	113.7
+13	Georgia	TEBUTHIURON	1997	kg									197	
+13	Georgia	TEBUTHIURON	1998	kg									50.2	
+13	Georgia	TEBUTHIURON	2000	kg									41	
+13	Georgia	TEBUTHIURON	2007	kg									170.4	
+13	Georgia	TEBUTHIURON	2009	kg									64.9	
+13	Georgia	TEBUTHIURON	2010	kg									15	
+13	Georgia	TEBUTHIURON	2012	kg									313.2	
+16	Idaho	TEBUTHIURON	1992	kg									5231.9	
+16	Idaho	TEBUTHIURON	2000	kg									5422.6	
+16	Idaho	TEBUTHIURON	2001	kg									3116.3	
+16	Idaho	TEBUTHIURON	2003	kg									3365.9	
+16	Idaho	TEBUTHIURON	2004	kg									18861.3	
+16	Idaho	TEBUTHIURON	2011	kg									1.7	
+17	Illinois	TEBUTHIURON	1992	kg									2708.8	50.4
+17	Illinois	TEBUTHIURON	1993	kg									2712.2	
+17	Illinois	TEBUTHIURON	1994	kg									9886.4	
+17	Illinois	TEBUTHIURON	1995	kg									1223.1	
+17	Illinois	TEBUTHIURON	1996	kg									2239.7	
+17	Illinois	TEBUTHIURON	1997	kg									2425.4	
+17	Illinois	TEBUTHIURON	2000	kg									745.8	
+17	Illinois	TEBUTHIURON	2002	kg									563.2	
+17	Illinois	TEBUTHIURON	2007	kg									86.5	
+17	Illinois	TEBUTHIURON	2015	kg									556	
+18	Indiana	TEBUTHIURON	1992	kg									1602.1	145.8
+18	Indiana	TEBUTHIURON	1993	kg									654.2	
+18	Indiana	TEBUTHIURON	1994	kg									14533.7	
+18	Indiana	TEBUTHIURON	1995	kg									2412.5	
+18	Indiana	TEBUTHIURON	1996	kg									894.5	
+18	Indiana	TEBUTHIURON	1997	kg									247.2	
+18	Indiana	TEBUTHIURON	2000	kg									188.5	
+18	Indiana	TEBUTHIURON	2002	kg									306.5	
+18	Indiana	TEBUTHIURON	2003	kg									2214.4	
+18	Indiana	TEBUTHIURON	2007	kg									15.8	
+18	Indiana	TEBUTHIURON	2015	kg									345.6	
+19	Iowa	TEBUTHIURON	1992	kg									4280	
+19	Iowa	TEBUTHIURON	1993	kg	2438.3								2210.8	
+19	Iowa	TEBUTHIURON	1994	kg									2583.7	
+19	Iowa	TEBUTHIURON	1995	kg									7851.1	
+19	Iowa	TEBUTHIURON	1996	kg									411.1	
+19	Iowa	TEBUTHIURON	1997	kg									2020.7	
+19	Iowa	TEBUTHIURON	1999	kg									15189.7	
+19	Iowa	TEBUTHIURON	2000	kg									1604.9	
+19	Iowa	TEBUTHIURON	2002	kg									4230.8	
+19	Iowa	TEBUTHIURON	2003	kg									801	
+19	Iowa	TEBUTHIURON	2007	kg									316.1	
+19	Iowa	TEBUTHIURON	2011	kg									4305.1	
+19	Iowa	TEBUTHIURON	2015	kg									1186.3	
+20	Kansas	TEBUTHIURON	1992	kg									2186	
+20	Kansas	TEBUTHIURON	1993	kg									3778.9	
+20	Kansas	TEBUTHIURON	1994	kg									52998.9	92.2
+20	Kansas	TEBUTHIURON	1995	kg									14379.7	255.6
+20	Kansas	TEBUTHIURON	1996	kg									88566.1	118.8
+20	Kansas	TEBUTHIURON	1997	kg									3144.9	
+20	Kansas	TEBUTHIURON	2001	kg									58915	
+20	Kansas	TEBUTHIURON	2002	kg									2022.3	
+20	Kansas	TEBUTHIURON	2003	kg									6742.2	
+20	Kansas	TEBUTHIURON	2006	kg									3417	
+20	Kansas	TEBUTHIURON	2013	kg									693.7	
+21	Kentucky	TEBUTHIURON	1992	kg									4600.2	654.8
+21	Kentucky	TEBUTHIURON	1993	kg									6822.7	
+21	Kentucky	TEBUTHIURON	1994	kg									13205.1	23055.7
+21	Kentucky	TEBUTHIURON	1995	kg									14608.2	
+21	Kentucky	TEBUTHIURON	1996	kg									3766.4	
+21	Kentucky	TEBUTHIURON	1997	kg									109.4	
+21	Kentucky	TEBUTHIURON	1998	kg									104.6	
+21	Kentucky	TEBUTHIURON	2000	kg									550.7	
+21	Kentucky	TEBUTHIURON	2002	kg									203	
+21	Kentucky	TEBUTHIURON	2004	kg									21.1	
+21	Kentucky	TEBUTHIURON	2007	kg									245.9	
+21	Kentucky	TEBUTHIURON	2010	kg									23.2	
+21	Kentucky	TEBUTHIURON	2012	kg									1973.8	
+21	Kentucky	TEBUTHIURON	2015	kg									249.4	
+22	Louisiana	TEBUTHIURON	1992	kg									1205.6	
+22	Louisiana	TEBUTHIURON	1993	kg									152.5	
+22	Louisiana	TEBUTHIURON	1994	kg									358.4	
+22	Louisiana	TEBUTHIURON	1995	kg									12124.7	13.5
+22	Louisiana	TEBUTHIURON	1996	kg									4.5	
+22	Louisiana	TEBUTHIURON	1997	kg									206.3	
+22	Louisiana	TEBUTHIURON	1998	kg									280.1	
+22	Louisiana	TEBUTHIURON	2002	kg									9.5	
+22	Louisiana	TEBUTHIURON	2003	kg									513.8	
+22	Louisiana	TEBUTHIURON	2004	kg									412.4	
+22	Louisiana	TEBUTHIURON	2007	kg									382.6	
+24	Maryland	TEBUTHIURON	1992	kg									5.5	
+24	Maryland	TEBUTHIURON	1993	kg									9.9	
+24	Maryland	TEBUTHIURON	1994	kg									53.4	
+24	Maryland	TEBUTHIURON	1995	kg										68
+24	Maryland	TEBUTHIURON	1998	kg									8.2	
+24	Maryland	TEBUTHIURON	1999	kg									23.2	
+24	Maryland	TEBUTHIURON	2000	kg									19	
+24	Maryland	TEBUTHIURON	2005	kg									32.3	
+24	Maryland	TEBUTHIURON	2011	kg									23	
+24	Maryland	TEBUTHIURON	2012	kg									410.1	
+24	Maryland	TEBUTHIURON	2015	kg									43.5	
+26	Michigan	TEBUTHIURON	1992	kg									275.8	
+26	Michigan	TEBUTHIURON	1997	kg									16.2	
+26	Michigan	TEBUTHIURON	2003	kg									687.6	
+27	Minnesota	TEBUTHIURON	1992	kg									905.7	
+27	Minnesota	TEBUTHIURON	1993	kg	763.5								225.1	
+27	Minnesota	TEBUTHIURON	1994	kg									531.8	
+27	Minnesota	TEBUTHIURON	1995	kg									31.2	
+27	Minnesota	TEBUTHIURON	1996	kg									59.6	
+27	Minnesota	TEBUTHIURON	1997	kg									273.8	
+27	Minnesota	TEBUTHIURON	2000	kg									470.9	
+27	Minnesota	TEBUTHIURON	2002	kg									104.9	
+27	Minnesota	TEBUTHIURON	2015	kg									111.5	
+28	Mississippi	TEBUTHIURON	1992	kg									6763.7	
+28	Mississippi	TEBUTHIURON	1993	kg									186.6	
+28	Mississippi	TEBUTHIURON	1994	kg									972.5	456.5
+28	Mississippi	TEBUTHIURON	1995	kg									539.2	6.5
+28	Mississippi	TEBUTHIURON	1996	kg									17.6	
+28	Mississippi	TEBUTHIURON	1997	kg									3090.5	
+28	Mississippi	TEBUTHIURON	1998	kg									135.5	
+28	Mississippi	TEBUTHIURON	2004	kg									24	
+29	Missouri	TEBUTHIURON	1992	kg									7376	4803.5
+29	Missouri	TEBUTHIURON	1993	kg									3344.7	
+29	Missouri	TEBUTHIURON	1994	kg									1052.7	948.3
+29	Missouri	TEBUTHIURON	1995	kg									22462.6	18920.1
+29	Missouri	TEBUTHIURON	1996	kg									33713	
+29	Missouri	TEBUTHIURON	1997	kg									5559.6	
+29	Missouri	TEBUTHIURON	1998	kg									57079.8	
+29	Missouri	TEBUTHIURON	1999	kg									12416.9	
+29	Missouri	TEBUTHIURON	2000	kg									761.6	
+29	Missouri	TEBUTHIURON	2001	kg									153653	
+29	Missouri	TEBUTHIURON	2002	kg									13246.3	
+29	Missouri	TEBUTHIURON	2003	kg									4339.9	
+29	Missouri	TEBUTHIURON	2004	kg									73.3	
+29	Missouri	TEBUTHIURON	2007	kg									309.7	
+29	Missouri	TEBUTHIURON	2008	kg									99.3	
+29	Missouri	TEBUTHIURON	2014	kg									34.9	
+29	Missouri	TEBUTHIURON	2015	kg									3692.5	
+30	Montana	TEBUTHIURON	1992	kg									6741.8	
+30	Montana	TEBUTHIURON	2000	kg									4840	
+30	Montana	TEBUTHIURON	2001	kg									11887.3	
+30	Montana	TEBUTHIURON	2003	kg									34018.8	
+30	Montana	TEBUTHIURON	2004	kg									94129.4	
+30	Montana	TEBUTHIURON	2011	kg									2.7	
+31	Nebraska	TEBUTHIURON	1992	kg									17.8	
+31	Nebraska	TEBUTHIURON	1993	kg									213.5	
+31	Nebraska	TEBUTHIURON	1994	kg									182.8	
+31	Nebraska	TEBUTHIURON	1995	kg									2708.5	
+31	Nebraska	TEBUTHIURON	1996	kg									258.4	
+31	Nebraska	TEBUTHIURON	1997	kg									992.1	
+31	Nebraska	TEBUTHIURON	2003	kg									480.2	
+31	Nebraska	TEBUTHIURON	2011	kg									3718.8	
+31	Nebraska	TEBUTHIURON	2013	kg									31.5	
+31	Nebraska	TEBUTHIURON	2015	kg									750.7	
+32	Nevada	TEBUTHIURON	1998	kg									46083.9	
+32	Nevada	TEBUTHIURON	2001	kg									4879.7	
+32	Nevada	TEBUTHIURON	2004	kg									21529.6	
+35	New Mexico	TEBUTHIURON	1992	kg									9744.3	
+35	New Mexico	TEBUTHIURON	1993	kg									10716.5	
+35	New Mexico	TEBUTHIURON	1994	kg									7738.4	523.2
+35	New Mexico	TEBUTHIURON	1995	kg									9891.9	2316.5
+35	New Mexico	TEBUTHIURON	1996	kg									3568.4	2308
+35	New Mexico	TEBUTHIURON	1997	kg									3836.3	
+35	New Mexico	TEBUTHIURON	1998	kg									12165.9	
+35	New Mexico	TEBUTHIURON	1999	kg									55277.6	
+35	New Mexico	TEBUTHIURON	2001	kg									11388.4	
+35	New Mexico	TEBUTHIURON	2003	kg									16635.2	
+35	New Mexico	TEBUTHIURON	2004	kg									68.2	
+35	New Mexico	TEBUTHIURON	2005	kg									620	
+35	New Mexico	TEBUTHIURON	2006	kg									12524.4	
+35	New Mexico	TEBUTHIURON	2010	kg									107.6	
+35	New Mexico	TEBUTHIURON	2013	kg									885.7	
+36	New York	TEBUTHIURON	1992	kg									92.9	
+36	New York	TEBUTHIURON	1994	kg										76.8
+36	New York	TEBUTHIURON	1999	kg									66.3	
+36	New York	TEBUTHIURON	2002	kg									171.6	
+36	New York	TEBUTHIURON	2014	kg									32.6	
+37	North Carolina	TEBUTHIURON	1992	kg									113.4	
+37	North Carolina	TEBUTHIURON	1993	kg									301.9	
+37	North Carolina	TEBUTHIURON	1994	kg									21716.5	5970.4
+37	North Carolina	TEBUTHIURON	1995	kg									2887.4	3.6
+37	North Carolina	TEBUTHIURON	1996	kg									1598.8	
+37	North Carolina	TEBUTHIURON	1997	kg									6.4	
+37	North Carolina	TEBUTHIURON	1998	kg									113.4	
+37	North Carolina	TEBUTHIURON	2000	kg									28.6	
+37	North Carolina	TEBUTHIURON	2004	kg									951.7	
+37	North Carolina	TEBUTHIURON	2007	kg									261.2	
+37	North Carolina	TEBUTHIURON	2009	kg									94	
+37	North Carolina	TEBUTHIURON	2010	kg									14.5	
+37	North Carolina	TEBUTHIURON	2012	kg									278	
+39	Ohio	TEBUTHIURON	1992	kg									2485.1	
+39	Ohio	TEBUTHIURON	1993	kg									572.1	
+39	Ohio	TEBUTHIURON	1994	kg									3376.8	54
+39	Ohio	TEBUTHIURON	1995	kg									220.9	
+39	Ohio	TEBUTHIURON	1996	kg			915.6						109.9	
+39	Ohio	TEBUTHIURON	1997	kg									167.1	
+39	Ohio	TEBUTHIURON	1998	kg									33.4	
+39	Ohio	TEBUTHIURON	1999	kg									569.4	
+39	Ohio	TEBUTHIURON	2000	kg									361.5	
+39	Ohio	TEBUTHIURON	2002	kg									204.1	
+39	Ohio	TEBUTHIURON	2003	kg									681.7	
+39	Ohio	TEBUTHIURON	2011	kg									525.6	
+39	Ohio	TEBUTHIURON	2012	kg									487.7	
+39	Ohio	TEBUTHIURON	2015	kg									264.7	
+40	Oklahoma	TEBUTHIURON	1992	kg									8076.8	3409.6
+40	Oklahoma	TEBUTHIURON	1993	kg									10221.4	
+40	Oklahoma	TEBUTHIURON	1994	kg			5596.4						8684.2	1311.7
+40	Oklahoma	TEBUTHIURON	1995	kg									10858	5877.3
+40	Oklahoma	TEBUTHIURON	1996	kg									77841.8	2459
+40	Oklahoma	TEBUTHIURON	1997	kg									2839.5	
+40	Oklahoma	TEBUTHIURON	1998	kg									18979.6	
+40	Oklahoma	TEBUTHIURON	2000	kg									15648.3	
+40	Oklahoma	TEBUTHIURON	2001	kg									19898.8	
+40	Oklahoma	TEBUTHIURON	2002	kg									1514	
+40	Oklahoma	TEBUTHIURON	2003	kg									7814	
+40	Oklahoma	TEBUTHIURON	2006	kg									6023.5	
+40	Oklahoma	TEBUTHIURON	2007	kg									894.1	
+40	Oklahoma	TEBUTHIURON	2008	kg									19412.4	
+40	Oklahoma	TEBUTHIURON	2013	kg									758.2	
+40	Oklahoma	TEBUTHIURON	2017	kg									40.9	
+42	Pennsylvania	TEBUTHIURON	1992	kg									347.6	
+42	Pennsylvania	TEBUTHIURON	1993	kg									297.4	
+42	Pennsylvania	TEBUTHIURON	1994	kg									43.7	170.7
+42	Pennsylvania	TEBUTHIURON	1995	kg									495.4	
+42	Pennsylvania	TEBUTHIURON	1996	kg			42							
+42	Pennsylvania	TEBUTHIURON	1998	kg									10.9	
+42	Pennsylvania	TEBUTHIURON	1999	kg									331.6	
+42	Pennsylvania	TEBUTHIURON	2000	kg									82.9	
+42	Pennsylvania	TEBUTHIURON	2002	kg									509.7	
+42	Pennsylvania	TEBUTHIURON	2011	kg									216.7	
+42	Pennsylvania	TEBUTHIURON	2012	kg									461.2	
+42	Pennsylvania	TEBUTHIURON	2014	kg									97.4	
+45	South Carolina	TEBUTHIURON	1992	kg									42.4	
+45	South Carolina	TEBUTHIURON	1993	kg									52	
+45	South Carolina	TEBUTHIURON	1994	kg									743.6	40.1
+45	South Carolina	TEBUTHIURON	1995	kg									4.9	9.4
+45	South Carolina	TEBUTHIURON	1996	kg									2.2	
+45	South Carolina	TEBUTHIURON	1997	kg									9.6	
+45	South Carolina	TEBUTHIURON	1998	kg									20.7	
+45	South Carolina	TEBUTHIURON	2007	kg									504.3	
+45	South Carolina	TEBUTHIURON	2009	kg									163.5	
+46	South Dakota	TEBUTHIURON	2011	kg									1604.2	
+46	South Dakota	TEBUTHIURON	2015	kg									328.9	
+47	Tennessee	TEBUTHIURON	1992	kg									10793.5	957
+47	Tennessee	TEBUTHIURON	1993	kg									7336.9	
+47	Tennessee	TEBUTHIURON	1994	kg									3737.2	16866.1
+47	Tennessee	TEBUTHIURON	1995	kg									16880.2	
+47	Tennessee	TEBUTHIURON	1996	kg									5870.6	
+47	Tennessee	TEBUTHIURON	1997	kg									29974.5	
+47	Tennessee	TEBUTHIURON	1998	kg									203.3	
+47	Tennessee	TEBUTHIURON	2000	kg									401.6	
+47	Tennessee	TEBUTHIURON	2004	kg									908.6	
+47	Tennessee	TEBUTHIURON	2007	kg									94	
+47	Tennessee	TEBUTHIURON	2010	kg									54.1	
+47	Tennessee	TEBUTHIURON	2012	kg									4248.6	
+48	Texas	TEBUTHIURON	1992	kg									31075.3	
+48	Texas	TEBUTHIURON	1993	kg									29753.6	
+48	Texas	TEBUTHIURON	1994	kg			1718.5						15257.7	951.8
+48	Texas	TEBUTHIURON	1995	kg									414469.6	28778.4
+48	Texas	TEBUTHIURON	1996	kg									12598.7	10346.9
+48	Texas	TEBUTHIURON	1997	kg									17959.9	
+48	Texas	TEBUTHIURON	1998	kg									12314.9	
+48	Texas	TEBUTHIURON	2000	kg									20151.6	
+48	Texas	TEBUTHIURON	2002	kg									9352.4	
+48	Texas	TEBUTHIURON	2003	kg									31387.6	
+48	Texas	TEBUTHIURON	2004	kg									10297.4	
+48	Texas	TEBUTHIURON	2005	kg									2531.2	
+48	Texas	TEBUTHIURON	2006	kg									6398.1	
+48	Texas	TEBUTHIURON	2007	kg									2595.4	
+48	Texas	TEBUTHIURON	2010	kg									450.9	
+48	Texas	TEBUTHIURON	2011	kg									1758.2	
+48	Texas	TEBUTHIURON	2013	kg									4206.5	
+48	Texas	TEBUTHIURON	2017	kg									55	
+49	Utah	TEBUTHIURON	1992	kg									10314.8	
+49	Utah	TEBUTHIURON	1994	kg									353.3	
+49	Utah	TEBUTHIURON	1998	kg									115760.4	
+49	Utah	TEBUTHIURON	1999	kg									7828.5	
+49	Utah	TEBUTHIURON	2000	kg									2476.9	
+49	Utah	TEBUTHIURON	2001	kg									5958.5	
+49	Utah	TEBUTHIURON	2003	kg									7032.2	
+49	Utah	TEBUTHIURON	2004	kg									49163.1	
+49	Utah	TEBUTHIURON	2007	kg									119.2	
+49	Utah	TEBUTHIURON	2011	kg									6.2	
+51	Virginia	TEBUTHIURON	1992	kg									582.3	
+51	Virginia	TEBUTHIURON	1993	kg									1570.2	
+51	Virginia	TEBUTHIURON	1994	kg									7358.8	33739.5
+51	Virginia	TEBUTHIURON	1995	kg									5682.1	937.3
+51	Virginia	TEBUTHIURON	1996	kg									18764.4	
+51	Virginia	TEBUTHIURON	1997	kg									465.9	1148.4
+51	Virginia	TEBUTHIURON	1998	kg									117.1	
+51	Virginia	TEBUTHIURON	2000	kg									334.8	
+51	Virginia	TEBUTHIURON	2004	kg									1195.4	
+51	Virginia	TEBUTHIURON	2005	kg									381.8	
+51	Virginia	TEBUTHIURON	2010	kg									34.6	
+51	Virginia	TEBUTHIURON	2012	kg									5595.1	
+51	Virginia	TEBUTHIURON	2015	kg									587.5	
+54	West Virginia	TEBUTHIURON	1992	kg									539.3	
+54	West Virginia	TEBUTHIURON	1993	kg									1594.6	
+54	West Virginia	TEBUTHIURON	1994	kg									2823.7	26132
+54	West Virginia	TEBUTHIURON	1995	kg									2719.4	427.7
+54	West Virginia	TEBUTHIURON	1996	kg			1.5						10512.8	
+54	West Virginia	TEBUTHIURON	1997	kg									17.1	
+54	West Virginia	TEBUTHIURON	1998	kg									99.5	
+54	West Virginia	TEBUTHIURON	1999	kg									1195.3	
+54	West Virginia	TEBUTHIURON	2000	kg									485.9	
+54	West Virginia	TEBUTHIURON	2005	kg									378.1	
+54	West Virginia	TEBUTHIURON	2011	kg									1046.6	
+54	West Virginia	TEBUTHIURON	2012	kg									3827.8	
+54	West Virginia	TEBUTHIURON	2015	kg									242.8	
+55	Wisconsin	TEBUTHIURON	1993	kg									1233.1	
+55	Wisconsin	TEBUTHIURON	1995	kg									11.1	
+55	Wisconsin	TEBUTHIURON	1997	kg									8.9	
+55	Wisconsin	TEBUTHIURON	2000	kg									2517.1	
+56	Wyoming	TEBUTHIURON	1992	kg									32952.8	
+56	Wyoming	TEBUTHIURON	2000	kg									1723.9	
+56	Wyoming	TEBUTHIURON	2001	kg									10017.1	
+56	Wyoming	TEBUTHIURON	2003	kg									23741.1	
+56	Wyoming	TEBUTHIURON	2004	kg									128829.4	
+56	Wyoming	TEBUTHIURON	2007	kg									689.6	
+56	Wyoming	TEBUTHIURON	2011	kg									11.1	

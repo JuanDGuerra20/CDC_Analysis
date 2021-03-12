@@ -1,0 +1,49 @@
+06	California	CHLORPROPHAM	1992	kg					923.4			199.5		
+06	California	CHLORPROPHAM	1993	kg					1258		214			
+06	California	CHLORPROPHAM	1994	kg					9.7		37.3			
+06	California	CHLORPROPHAM	1996	kg							1.4			
+06	California	CHLORPROPHAM	1997	kg							35.9			
+06	California	CHLORPROPHAM	1998	kg							124.9			
+06	California	CHLORPROPHAM	1999	kg							158			
+06	California	CHLORPROPHAM	2000	kg							160.3			
+06	California	CHLORPROPHAM	2001	kg							143.4			
+06	California	CHLORPROPHAM	2002	kg							82.4			
+06	California	CHLORPROPHAM	2003	kg							111.4			
+06	California	CHLORPROPHAM	2004	kg							173			
+06	California	CHLORPROPHAM	2005	kg							90.7			
+06	California	CHLORPROPHAM	2006	kg							119.1			
+06	California	CHLORPROPHAM	2007	kg							184.8			
+06	California	CHLORPROPHAM	2008	kg					1820.7		139.5			
+06	California	CHLORPROPHAM	2009	kg					1874.9					
+06	California	CHLORPROPHAM	2010	kg					182.9		39.4			
+06	California	CHLORPROPHAM	2011	kg					1317.5		84.9			
+06	California	CHLORPROPHAM	2012	kg					921.6		78.9			
+06	California	CHLORPROPHAM	2013	kg					12132.1		45.7			
+06	California	CHLORPROPHAM	2014	kg					1903.4		90.1			
+06	California	CHLORPROPHAM	2015	kg					1686.1		107.9			
+06	California	CHLORPROPHAM	2016	kg					593.9		241.2			
+06	California	CHLORPROPHAM	2017	kg					2298.1		47.7			
+08	Colorado	CHLORPROPHAM	1994	kg					338.7					
+09	Connecticut	CHLORPROPHAM	1993	kg					69.8					
+12	Florida	CHLORPROPHAM	1992	kg					1315.2					
+18	Indiana	CHLORPROPHAM	1992	kg					560.4					
+18	Indiana	CHLORPROPHAM	1996	kg	5340									
+25	Massachusetts	CHLORPROPHAM	1993	kg					179.7					
+26	Michigan	CHLORPROPHAM	1992	kg					675.7					
+34	New Jersey	CHLORPROPHAM	1993	kg					103.8					
+35	New Mexico	CHLORPROPHAM	1994	kg					0.3					
+36	New York	CHLORPROPHAM	1993	kg					1634.2					
+39	Ohio	CHLORPROPHAM	1996	kg	17090									
+41	Oregon	CHLORPROPHAM	1992	kg								23070.4		
+41	Oregon	CHLORPROPHAM	1993	kg								12501.9		
+41	Oregon	CHLORPROPHAM	1994	kg					64.1					
+41	Oregon	CHLORPROPHAM	1995	kg					28.3					
+41	Oregon	CHLORPROPHAM	1996	kg					5.1					
+42	Pennsylvania	CHLORPROPHAM	1993	kg					12.8					
+42	Pennsylvania	CHLORPROPHAM	1994	kg					77.6					
+53	Washington	CHLORPROPHAM	1992	kg								1814.7		
+53	Washington	CHLORPROPHAM	1993	kg								995.3		
+53	Washington	CHLORPROPHAM	1994	kg					912.7					
+53	Washington	CHLORPROPHAM	1995	kg					292.6					
+53	Washington	CHLORPROPHAM	1996	kg					58.6					
+54	West Virginia	CHLORPROPHAM	1994	kg					1.3					

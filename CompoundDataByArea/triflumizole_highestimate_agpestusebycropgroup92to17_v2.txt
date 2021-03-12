@@ -1,0 +1,471 @@
+01	Alabama	TRIFLUMIZOLE	1996	kg										567.5
+01	Alabama	TRIFLUMIZOLE	2004	kg					5.8					
+01	Alabama	TRIFLUMIZOLE	2009	kg					53.2					
+01	Alabama	TRIFLUMIZOLE	2011	kg					60.8					
+04	Arizona	TRIFLUMIZOLE	1995	kg							1.4			
+04	Arizona	TRIFLUMIZOLE	1996	kg							70.9			
+04	Arizona	TRIFLUMIZOLE	1997	kg							109.2			
+04	Arizona	TRIFLUMIZOLE	1998	kg							116.9			
+04	Arizona	TRIFLUMIZOLE	1999	kg							48.8			
+04	Arizona	TRIFLUMIZOLE	2000	kg							42.9			
+04	Arizona	TRIFLUMIZOLE	2001	kg							9.5			
+04	Arizona	TRIFLUMIZOLE	2002	kg							16.6			
+04	Arizona	TRIFLUMIZOLE	2003	kg					1114.7		22.8			
+04	Arizona	TRIFLUMIZOLE	2004	kg							43.9			
+04	Arizona	TRIFLUMIZOLE	2005	kg					321.1		95.2			
+04	Arizona	TRIFLUMIZOLE	2006	kg					1311.1		19.3			
+04	Arizona	TRIFLUMIZOLE	2007	kg					347.5		23.2			
+04	Arizona	TRIFLUMIZOLE	2008	kg					1493.7		0.4			
+04	Arizona	TRIFLUMIZOLE	2009	kg					1237.1		23.8			
+04	Arizona	TRIFLUMIZOLE	2010	kg					1561.3		7.9			
+04	Arizona	TRIFLUMIZOLE	2011	kg					260.8		35.4			
+04	Arizona	TRIFLUMIZOLE	2012	kg					50.2		26.1			
+04	Arizona	TRIFLUMIZOLE	2013	kg					42.7		27.4			
+04	Arizona	TRIFLUMIZOLE	2014	kg					86.2		37.2			
+04	Arizona	TRIFLUMIZOLE	2015	kg					1653.1		22.1			
+04	Arizona	TRIFLUMIZOLE	2016	kg					193.6		19.1			
+04	Arizona	TRIFLUMIZOLE	2017	kg					1281		24.8			
+06	California	TRIFLUMIZOLE	1995	kg							4204.9			
+06	California	TRIFLUMIZOLE	1996	kg							20834.9			
+06	California	TRIFLUMIZOLE	1997	kg							38940.9			
+06	California	TRIFLUMIZOLE	1998	kg					1.6		25361.3			
+06	California	TRIFLUMIZOLE	1999	kg							13441.9			
+06	California	TRIFLUMIZOLE	2000	kg							13545.4			
+06	California	TRIFLUMIZOLE	2001	kg							7826.1			
+06	California	TRIFLUMIZOLE	2002	kg							10896			3.8
+06	California	TRIFLUMIZOLE	2003	kg					1445		10226.7		2.4	
+06	California	TRIFLUMIZOLE	2004	kg					4243.6		5412.5			
+06	California	TRIFLUMIZOLE	2005	kg				1.4	3341.9		7797.5			
+06	California	TRIFLUMIZOLE	2006	kg					5006		5891.6			
+06	California	TRIFLUMIZOLE	2007	kg					3687.2		5000.5			
+06	California	TRIFLUMIZOLE	2008	kg					3011.9		4631.8			
+06	California	TRIFLUMIZOLE	2009	kg					3195		22337.9			0
+06	California	TRIFLUMIZOLE	2010	kg					3870.1		14759.9			4.2
+06	California	TRIFLUMIZOLE	2011	kg					4238.3		17549.5			2.1
+06	California	TRIFLUMIZOLE	2012	kg					4928.7		14307.5			1.9
+06	California	TRIFLUMIZOLE	2013	kg					4710.2		19798.8			
+06	California	TRIFLUMIZOLE	2014	kg					5249.8		19755.4		17.8	7.6
+06	California	TRIFLUMIZOLE	2015	kg					5300.5		19565			2.9
+06	California	TRIFLUMIZOLE	2016	kg					4861.3		15800.5			0.4
+06	California	TRIFLUMIZOLE	2017	kg					4503.5		13475.8			3.3
+09	Connecticut	TRIFLUMIZOLE	1998	kg							95.3			
+09	Connecticut	TRIFLUMIZOLE	1999	kg							539.7			
+09	Connecticut	TRIFLUMIZOLE	2000	kg							107.7			
+09	Connecticut	TRIFLUMIZOLE	2001	kg							124.1			
+09	Connecticut	TRIFLUMIZOLE	2002	kg					0.8		114			
+09	Connecticut	TRIFLUMIZOLE	2003	kg							97.5			
+09	Connecticut	TRIFLUMIZOLE	2004	kg					2.8		48.7			
+09	Connecticut	TRIFLUMIZOLE	2006	kg					35		47.3			
+09	Connecticut	TRIFLUMIZOLE	2007	kg					63					
+09	Connecticut	TRIFLUMIZOLE	2010	kg					33.4					
+09	Connecticut	TRIFLUMIZOLE	2012	kg					66.6					
+09	Connecticut	TRIFLUMIZOLE	2013	kg					71.7					
+09	Connecticut	TRIFLUMIZOLE	2014	kg					8.6					
+09	Connecticut	TRIFLUMIZOLE	2015	kg					10.3					
+10	Delaware	TRIFLUMIZOLE	2003	kg							0.3			
+10	Delaware	TRIFLUMIZOLE	2004	kg					1.4					
+10	Delaware	TRIFLUMIZOLE	2005	kg					11.7					
+10	Delaware	TRIFLUMIZOLE	2006	kg					42.6					
+10	Delaware	TRIFLUMIZOLE	2007	kg					14.9					
+10	Delaware	TRIFLUMIZOLE	2008	kg					3.1					
+10	Delaware	TRIFLUMIZOLE	2009	kg					0.7					
+10	Delaware	TRIFLUMIZOLE	2010	kg					1					
+10	Delaware	TRIFLUMIZOLE	2011	kg					0.9					
+10	Delaware	TRIFLUMIZOLE	2012	kg					0.1					
+10	Delaware	TRIFLUMIZOLE	2013	kg					0.8					
+10	Delaware	TRIFLUMIZOLE	2014	kg					0.4					
+12	Florida	TRIFLUMIZOLE	1996	kg										186.9
+12	Florida	TRIFLUMIZOLE	2003	kg					52.8					
+12	Florida	TRIFLUMIZOLE	2004	kg					680.5					
+12	Florida	TRIFLUMIZOLE	2005	kg					205.9					
+12	Florida	TRIFLUMIZOLE	2006	kg					124.2					
+12	Florida	TRIFLUMIZOLE	2007	kg					399.9					
+12	Florida	TRIFLUMIZOLE	2008	kg					234.3					
+12	Florida	TRIFLUMIZOLE	2009	kg					1189.1					
+12	Florida	TRIFLUMIZOLE	2010	kg					1568.4					
+12	Florida	TRIFLUMIZOLE	2011	kg					1278.4					
+12	Florida	TRIFLUMIZOLE	2012	kg					1.8					
+12	Florida	TRIFLUMIZOLE	2013	kg					142					
+13	Georgia	TRIFLUMIZOLE	1996	kg										1414.1
+13	Georgia	TRIFLUMIZOLE	2007	kg					292.4					
+13	Georgia	TRIFLUMIZOLE	2008	kg					1132.8					
+13	Georgia	TRIFLUMIZOLE	2009	kg					1046.9					
+13	Georgia	TRIFLUMIZOLE	2010	kg					868.8					
+13	Georgia	TRIFLUMIZOLE	2011	kg					1731.4					
+13	Georgia	TRIFLUMIZOLE	2012	kg					167.2					
+16	Idaho	TRIFLUMIZOLE	1995	kg							419.7			
+16	Idaho	TRIFLUMIZOLE	1996	kg							65.4			
+16	Idaho	TRIFLUMIZOLE	1997	kg							130.5			
+16	Idaho	TRIFLUMIZOLE	1998	kg							202.4			
+16	Idaho	TRIFLUMIZOLE	1999	kg							227.5			
+16	Idaho	TRIFLUMIZOLE	2000	kg							198.3			
+16	Idaho	TRIFLUMIZOLE	2001	kg							626.7			
+16	Idaho	TRIFLUMIZOLE	2002	kg							285.1			
+16	Idaho	TRIFLUMIZOLE	2003	kg							421.1			
+16	Idaho	TRIFLUMIZOLE	2004	kg							200.6			
+16	Idaho	TRIFLUMIZOLE	2005	kg							403.1			
+16	Idaho	TRIFLUMIZOLE	2006	kg							140.1			
+16	Idaho	TRIFLUMIZOLE	2007	kg							325.4			
+16	Idaho	TRIFLUMIZOLE	2008	kg							150.2			
+16	Idaho	TRIFLUMIZOLE	2009	kg							512.9			
+16	Idaho	TRIFLUMIZOLE	2010	kg							484.9			
+16	Idaho	TRIFLUMIZOLE	2011	kg							411.3			
+16	Idaho	TRIFLUMIZOLE	2012	kg							478.8			
+16	Idaho	TRIFLUMIZOLE	2013	kg							288.4			
+16	Idaho	TRIFLUMIZOLE	2014	kg							482.5			
+16	Idaho	TRIFLUMIZOLE	2015	kg							225.3			
+16	Idaho	TRIFLUMIZOLE	2016	kg							147.1			
+16	Idaho	TRIFLUMIZOLE	2017	kg							192.6			
+17	Illinois	TRIFLUMIZOLE	1998	kg							476.1			
+17	Illinois	TRIFLUMIZOLE	1999	kg							339.4			
+17	Illinois	TRIFLUMIZOLE	2003	kg					12		20.1			
+17	Illinois	TRIFLUMIZOLE	2005	kg					19.7					
+17	Illinois	TRIFLUMIZOLE	2006	kg					9					
+17	Illinois	TRIFLUMIZOLE	2007	kg					1.2					
+17	Illinois	TRIFLUMIZOLE	2008	kg					538.8					
+17	Illinois	TRIFLUMIZOLE	2009	kg					60.5					
+17	Illinois	TRIFLUMIZOLE	2010	kg					4					
+17	Illinois	TRIFLUMIZOLE	2011	kg					20.8					
+17	Illinois	TRIFLUMIZOLE	2012	kg					5.6					
+17	Illinois	TRIFLUMIZOLE	2013	kg					461.6					
+17	Illinois	TRIFLUMIZOLE	2015	kg					82.7					
+17	Illinois	TRIFLUMIZOLE	2017	kg					361.9					
+18	Indiana	TRIFLUMIZOLE	2000	kg							18.5			
+18	Indiana	TRIFLUMIZOLE	2003	kg							6			
+18	Indiana	TRIFLUMIZOLE	2004	kg					160.8					
+18	Indiana	TRIFLUMIZOLE	2005	kg					3.3					
+18	Indiana	TRIFLUMIZOLE	2006	kg					57.4					
+18	Indiana	TRIFLUMIZOLE	2008	kg					387.8					
+18	Indiana	TRIFLUMIZOLE	2009	kg					139.9					
+18	Indiana	TRIFLUMIZOLE	2010	kg					76					
+18	Indiana	TRIFLUMIZOLE	2011	kg					1.4					
+18	Indiana	TRIFLUMIZOLE	2012	kg					52.9					
+18	Indiana	TRIFLUMIZOLE	2013	kg					163.4					
+18	Indiana	TRIFLUMIZOLE	2016	kg					17.7					
+18	Indiana	TRIFLUMIZOLE	2017	kg					159.2					
+19	Iowa	TRIFLUMIZOLE	1999	kg							116.6			
+19	Iowa	TRIFLUMIZOLE	2013	kg					2.6					
+19	Iowa	TRIFLUMIZOLE	2017	kg					3.5					
+21	Kentucky	TRIFLUMIZOLE	2000	kg							44.4			
+21	Kentucky	TRIFLUMIZOLE	2001	kg							35			
+21	Kentucky	TRIFLUMIZOLE	2003	kg							33.7			
+21	Kentucky	TRIFLUMIZOLE	2004	kg					26.8					
+21	Kentucky	TRIFLUMIZOLE	2006	kg					9					
+21	Kentucky	TRIFLUMIZOLE	2008	kg					33.8					
+21	Kentucky	TRIFLUMIZOLE	2009	kg					19.2					
+21	Kentucky	TRIFLUMIZOLE	2010	kg					24.3					
+21	Kentucky	TRIFLUMIZOLE	2012	kg					8.9					
+21	Kentucky	TRIFLUMIZOLE	2013	kg					37					
+21	Kentucky	TRIFLUMIZOLE	2014	kg					7.8					
+21	Kentucky	TRIFLUMIZOLE	2017	kg					9.3					
+23	Maine	TRIFLUMIZOLE	1998	kg							28			
+23	Maine	TRIFLUMIZOLE	1999	kg							21.2			
+23	Maine	TRIFLUMIZOLE	2000	kg							150.9			
+23	Maine	TRIFLUMIZOLE	2001	kg							152.9			
+23	Maine	TRIFLUMIZOLE	2002	kg							188			
+23	Maine	TRIFLUMIZOLE	2003	kg							152.2			
+23	Maine	TRIFLUMIZOLE	2004	kg							55.9			
+23	Maine	TRIFLUMIZOLE	2006	kg							61.8			
+24	Maryland	TRIFLUMIZOLE	1997	kg							110.1			
+24	Maryland	TRIFLUMIZOLE	1998	kg							33.6			
+24	Maryland	TRIFLUMIZOLE	1999	kg							378.6			
+24	Maryland	TRIFLUMIZOLE	2000	kg							142			
+24	Maryland	TRIFLUMIZOLE	2001	kg							1060.9			
+24	Maryland	TRIFLUMIZOLE	2002	kg							158.2			
+24	Maryland	TRIFLUMIZOLE	2003	kg							131.5			
+24	Maryland	TRIFLUMIZOLE	2004	kg					35.9		33.3			
+24	Maryland	TRIFLUMIZOLE	2005	kg					299					
+24	Maryland	TRIFLUMIZOLE	2006	kg					54.5		39.7			
+24	Maryland	TRIFLUMIZOLE	2007	kg					395.1		77			
+24	Maryland	TRIFLUMIZOLE	2008	kg					64.4		14			
+24	Maryland	TRIFLUMIZOLE	2009	kg					7.7		0.6			
+24	Maryland	TRIFLUMIZOLE	2010	kg					27.2					
+24	Maryland	TRIFLUMIZOLE	2011	kg					92.3					
+24	Maryland	TRIFLUMIZOLE	2012	kg					1.1					
+24	Maryland	TRIFLUMIZOLE	2013	kg					6.7					
+24	Maryland	TRIFLUMIZOLE	2014	kg					91.4					
+24	Maryland	TRIFLUMIZOLE	2015	kg					4.9					
+25	Massachusetts	TRIFLUMIZOLE	1998	kg							371			
+25	Massachusetts	TRIFLUMIZOLE	1999	kg							1049.2			
+25	Massachusetts	TRIFLUMIZOLE	2000	kg							228.9			
+25	Massachusetts	TRIFLUMIZOLE	2001	kg							54.2			
+25	Massachusetts	TRIFLUMIZOLE	2002	kg					1.5		218.4			
+25	Massachusetts	TRIFLUMIZOLE	2003	kg							12.1			
+25	Massachusetts	TRIFLUMIZOLE	2004	kg					4.7		10.1			
+25	Massachusetts	TRIFLUMIZOLE	2006	kg					62.2		85.3			
+25	Massachusetts	TRIFLUMIZOLE	2007	kg					100.9					
+25	Massachusetts	TRIFLUMIZOLE	2008	kg					24					
+25	Massachusetts	TRIFLUMIZOLE	2009	kg					10					
+25	Massachusetts	TRIFLUMIZOLE	2010	kg					100.8					
+25	Massachusetts	TRIFLUMIZOLE	2012	kg					31.2					
+25	Massachusetts	TRIFLUMIZOLE	2013	kg					60.9					
+25	Massachusetts	TRIFLUMIZOLE	2014	kg					11.5					
+25	Massachusetts	TRIFLUMIZOLE	2015	kg					14.8					
+26	Michigan	TRIFLUMIZOLE	1997	kg							263.9			
+26	Michigan	TRIFLUMIZOLE	1999	kg							48.7			
+26	Michigan	TRIFLUMIZOLE	2011	kg					9.5					
+26	Michigan	TRIFLUMIZOLE	2013	kg							217.3			
+26	Michigan	TRIFLUMIZOLE	2014	kg										142
+26	Michigan	TRIFLUMIZOLE	2015	kg					136.3					
+26	Michigan	TRIFLUMIZOLE	2016	kg					104.5					
+26	Michigan	TRIFLUMIZOLE	2017	kg					95.1					
+27	Minnesota	TRIFLUMIZOLE	2013	kg					6.6					
+27	Minnesota	TRIFLUMIZOLE	2015	kg					51.1					
+27	Minnesota	TRIFLUMIZOLE	2017	kg					2.8					
+29	Missouri	TRIFLUMIZOLE	2013	kg					1.9					
+29	Missouri	TRIFLUMIZOLE	2017	kg					3.4					
+30	Montana	TRIFLUMIZOLE	1997	kg							3.8			
+30	Montana	TRIFLUMIZOLE	1999	kg							41.1			
+30	Montana	TRIFLUMIZOLE	2000	kg							13.3			
+30	Montana	TRIFLUMIZOLE	2001	kg							34.7			
+30	Montana	TRIFLUMIZOLE	2002	kg							32.8			
+30	Montana	TRIFLUMIZOLE	2003	kg							20.1			
+30	Montana	TRIFLUMIZOLE	2004	kg							23.8			
+30	Montana	TRIFLUMIZOLE	2009	kg							36.3			
+30	Montana	TRIFLUMIZOLE	2013	kg							60			
+30	Montana	TRIFLUMIZOLE	2014	kg							33.6			
+32	Nevada	TRIFLUMIZOLE	1996	kg							1.2			
+32	Nevada	TRIFLUMIZOLE	1997	kg							2			
+32	Nevada	TRIFLUMIZOLE	1998	kg							2.2			
+32	Nevada	TRIFLUMIZOLE	1999	kg							7.4			
+32	Nevada	TRIFLUMIZOLE	2000	kg							3.1			
+32	Nevada	TRIFLUMIZOLE	2001	kg							9.1			
+32	Nevada	TRIFLUMIZOLE	2002	kg							6.2			
+32	Nevada	TRIFLUMIZOLE	2003	kg							7.2			
+32	Nevada	TRIFLUMIZOLE	2004	kg							5.8			
+32	Nevada	TRIFLUMIZOLE	2005	kg							1.4			
+32	Nevada	TRIFLUMIZOLE	2006	kg					0		3			
+32	Nevada	TRIFLUMIZOLE	2007	kg							0.7			
+32	Nevada	TRIFLUMIZOLE	2008	kg					1.3		4.8			
+32	Nevada	TRIFLUMIZOLE	2009	kg					6.5		25.5			
+32	Nevada	TRIFLUMIZOLE	2010	kg					9.4		2.3			
+32	Nevada	TRIFLUMIZOLE	2011	kg					15		1.8			
+32	Nevada	TRIFLUMIZOLE	2012	kg					3.8		3.5			
+32	Nevada	TRIFLUMIZOLE	2013	kg					0		53.9			
+32	Nevada	TRIFLUMIZOLE	2014	kg					0.7		34			
+32	Nevada	TRIFLUMIZOLE	2015	kg					45.6		1.6			
+32	Nevada	TRIFLUMIZOLE	2016	kg					18.2		2.6			
+32	Nevada	TRIFLUMIZOLE	2017	kg					24.1		3.9			
+33	New Hampshire	TRIFLUMIZOLE	1998	kg							103.6			
+33	New Hampshire	TRIFLUMIZOLE	1999	kg							7.6			
+33	New Hampshire	TRIFLUMIZOLE	2000	kg							113.5			
+33	New Hampshire	TRIFLUMIZOLE	2001	kg							27.1			
+33	New Hampshire	TRIFLUMIZOLE	2002	kg							120.1			
+33	New Hampshire	TRIFLUMIZOLE	2003	kg							98.8			
+33	New Hampshire	TRIFLUMIZOLE	2004	kg					4.8		5.1			
+33	New Hampshire	TRIFLUMIZOLE	2006	kg					12.7		42.3			
+33	New Hampshire	TRIFLUMIZOLE	2007	kg					48.3					
+33	New Hampshire	TRIFLUMIZOLE	2010	kg					9.1					
+33	New Hampshire	TRIFLUMIZOLE	2012	kg					10.3					
+33	New Hampshire	TRIFLUMIZOLE	2013	kg					12.9					
+33	New Hampshire	TRIFLUMIZOLE	2014	kg					5.1					
+33	New Hampshire	TRIFLUMIZOLE	2015	kg					4.5					
+34	New Jersey	TRIFLUMIZOLE	1998	kg							43.2			
+34	New Jersey	TRIFLUMIZOLE	1999	kg							744.9			
+34	New Jersey	TRIFLUMIZOLE	2000	kg							109.3			
+34	New Jersey	TRIFLUMIZOLE	2001	kg							142.6			
+34	New Jersey	TRIFLUMIZOLE	2002	kg							124.6			
+34	New Jersey	TRIFLUMIZOLE	2003	kg							101.7			
+34	New Jersey	TRIFLUMIZOLE	2004	kg					126.9		60.8			
+34	New Jersey	TRIFLUMIZOLE	2005	kg					1060.4					
+34	New Jersey	TRIFLUMIZOLE	2006	kg					321		42.3			
+34	New Jersey	TRIFLUMIZOLE	2007	kg					1414.5					
+34	New Jersey	TRIFLUMIZOLE	2008	kg					90.2					
+34	New Jersey	TRIFLUMIZOLE	2009	kg					91.2					
+34	New Jersey	TRIFLUMIZOLE	2010	kg					149.8					
+34	New Jersey	TRIFLUMIZOLE	2011	kg					20.1					
+34	New Jersey	TRIFLUMIZOLE	2012	kg					3.8					
+34	New Jersey	TRIFLUMIZOLE	2013	kg					59.8					
+34	New Jersey	TRIFLUMIZOLE	2014	kg					33.2					
+34	New Jersey	TRIFLUMIZOLE	2015	kg					19.1					
+35	New Mexico	TRIFLUMIZOLE	2003	kg					58.8					
+35	New Mexico	TRIFLUMIZOLE	2004	kg					26					
+35	New Mexico	TRIFLUMIZOLE	2006	kg					50.6					
+35	New Mexico	TRIFLUMIZOLE	2007	kg					13.7					
+35	New Mexico	TRIFLUMIZOLE	2008	kg					56.3					
+35	New Mexico	TRIFLUMIZOLE	2009	kg					15.4					
+35	New Mexico	TRIFLUMIZOLE	2010	kg					56.1					
+35	New Mexico	TRIFLUMIZOLE	2014	kg					16.7					
+35	New Mexico	TRIFLUMIZOLE	2015	kg					2.7					
+35	New Mexico	TRIFLUMIZOLE	2017	kg					1.8					
+36	New York	TRIFLUMIZOLE	1998	kg							1108.9			
+36	New York	TRIFLUMIZOLE	1999	kg							7300.9			
+36	New York	TRIFLUMIZOLE	2000	kg							1507.2			
+36	New York	TRIFLUMIZOLE	2001	kg							1777.3			
+36	New York	TRIFLUMIZOLE	2002	kg					0.5		2563.8			
+36	New York	TRIFLUMIZOLE	2003	kg							1677.4			
+36	New York	TRIFLUMIZOLE	2004	kg					71.1		1301			
+36	New York	TRIFLUMIZOLE	2005	kg							12.4			
+36	New York	TRIFLUMIZOLE	2006	kg					186.4		665.5			
+36	New York	TRIFLUMIZOLE	2007	kg					1278.4		1655.7			
+36	New York	TRIFLUMIZOLE	2008	kg					113.5					
+36	New York	TRIFLUMIZOLE	2009	kg					207.7		2172.5			
+36	New York	TRIFLUMIZOLE	2010	kg					344.6		477.8			
+36	New York	TRIFLUMIZOLE	2011	kg					328		799.4			
+36	New York	TRIFLUMIZOLE	2012	kg					64.8		1631.2			
+36	New York	TRIFLUMIZOLE	2013	kg					150.7		1178.9			
+36	New York	TRIFLUMIZOLE	2014	kg					51.5		439.6			
+36	New York	TRIFLUMIZOLE	2015	kg					102.4					
+36	New York	TRIFLUMIZOLE	2017	kg					99.6					
+37	North Carolina	TRIFLUMIZOLE	2001	kg							18.9			
+37	North Carolina	TRIFLUMIZOLE	2010	kg					72.2					
+37	North Carolina	TRIFLUMIZOLE	2011	kg					377.3					
+37	North Carolina	TRIFLUMIZOLE	2013	kg					197.7					
+39	Ohio	TRIFLUMIZOLE	1999	kg							1243.7			
+39	Ohio	TRIFLUMIZOLE	2000	kg							201.3			
+39	Ohio	TRIFLUMIZOLE	2001	kg							62.7			
+39	Ohio	TRIFLUMIZOLE	2002	kg							90.7			
+39	Ohio	TRIFLUMIZOLE	2003	kg							15.5			
+39	Ohio	TRIFLUMIZOLE	2004	kg							31			
+39	Ohio	TRIFLUMIZOLE	2005	kg					658.6		84.6			
+39	Ohio	TRIFLUMIZOLE	2006	kg							64.1			
+39	Ohio	TRIFLUMIZOLE	2007	kg					21					
+39	Ohio	TRIFLUMIZOLE	2009	kg					1483.1					
+39	Ohio	TRIFLUMIZOLE	2010	kg					796					
+39	Ohio	TRIFLUMIZOLE	2011	kg					275.6					
+39	Ohio	TRIFLUMIZOLE	2012	kg					79.2					
+39	Ohio	TRIFLUMIZOLE	2013	kg					138.4					
+39	Ohio	TRIFLUMIZOLE	2014	kg					101.8					
+39	Ohio	TRIFLUMIZOLE	2015	kg					229.3					
+39	Ohio	TRIFLUMIZOLE	2016	kg					98.4					
+39	Ohio	TRIFLUMIZOLE	2017	kg					129.3		130.7			
+41	Oregon	TRIFLUMIZOLE	1995	kg							1077.1			
+41	Oregon	TRIFLUMIZOLE	1996	kg							1506.8			
+41	Oregon	TRIFLUMIZOLE	1997	kg							1630		12.1	
+41	Oregon	TRIFLUMIZOLE	1998	kg							3548.8			
+41	Oregon	TRIFLUMIZOLE	1999	kg							3479.9			
+41	Oregon	TRIFLUMIZOLE	2000	kg							3048.6			
+41	Oregon	TRIFLUMIZOLE	2001	kg							3868.4			
+41	Oregon	TRIFLUMIZOLE	2002	kg					71.5		5688.9			
+41	Oregon	TRIFLUMIZOLE	2003	kg					51.6		4812			
+41	Oregon	TRIFLUMIZOLE	2004	kg					102.4		4537.4			
+41	Oregon	TRIFLUMIZOLE	2005	kg					4.4		3802.1			
+41	Oregon	TRIFLUMIZOLE	2006	kg							6373.9			
+41	Oregon	TRIFLUMIZOLE	2007	kg					2.7		3943.5			
+41	Oregon	TRIFLUMIZOLE	2008	kg							6229.9			
+41	Oregon	TRIFLUMIZOLE	2009	kg							5088.7			
+41	Oregon	TRIFLUMIZOLE	2010	kg					27.2		7294.4			
+41	Oregon	TRIFLUMIZOLE	2011	kg					5.1		5336.2			
+41	Oregon	TRIFLUMIZOLE	2012	kg					56.9		7834.2			
+41	Oregon	TRIFLUMIZOLE	2013	kg					12.6		7311.6			
+41	Oregon	TRIFLUMIZOLE	2014	kg							7021.5			
+41	Oregon	TRIFLUMIZOLE	2015	kg					5.1		6782.6			
+41	Oregon	TRIFLUMIZOLE	2016	kg							3636.5			
+41	Oregon	TRIFLUMIZOLE	2017	kg							5815.5			
+42	Pennsylvania	TRIFLUMIZOLE	1997	kg							1176.7			
+42	Pennsylvania	TRIFLUMIZOLE	1998	kg							497.7			
+42	Pennsylvania	TRIFLUMIZOLE	1999	kg							6742.8			
+42	Pennsylvania	TRIFLUMIZOLE	2000	kg							1851.5			
+42	Pennsylvania	TRIFLUMIZOLE	2001	kg							13136.7			
+42	Pennsylvania	TRIFLUMIZOLE	2002	kg							2150.6			
+42	Pennsylvania	TRIFLUMIZOLE	2003	kg							3816.6			
+42	Pennsylvania	TRIFLUMIZOLE	2004	kg					91.8		472.1			
+42	Pennsylvania	TRIFLUMIZOLE	2005	kg					974.3		94.7			
+42	Pennsylvania	TRIFLUMIZOLE	2006	kg					233		516.6			
+42	Pennsylvania	TRIFLUMIZOLE	2007	kg					1148		1073.8			
+42	Pennsylvania	TRIFLUMIZOLE	2008	kg					387.4		142.5			
+42	Pennsylvania	TRIFLUMIZOLE	2009	kg					48.3		7.4			
+42	Pennsylvania	TRIFLUMIZOLE	2010	kg					203.9		39.4			
+42	Pennsylvania	TRIFLUMIZOLE	2011	kg					66.2		188.9			
+42	Pennsylvania	TRIFLUMIZOLE	2012	kg					24.6					
+42	Pennsylvania	TRIFLUMIZOLE	2013	kg					51.9		323			
+42	Pennsylvania	TRIFLUMIZOLE	2014	kg					60.5		68.7			
+42	Pennsylvania	TRIFLUMIZOLE	2015	kg					56.3					
+42	Pennsylvania	TRIFLUMIZOLE	2017	kg					23.5		363.6			
+44	Rhode Island	TRIFLUMIZOLE	1998	kg							25.6			
+44	Rhode Island	TRIFLUMIZOLE	1999	kg							76.7			
+44	Rhode Island	TRIFLUMIZOLE	2000	kg							15.3			
+44	Rhode Island	TRIFLUMIZOLE	2001	kg							3.6			
+44	Rhode Island	TRIFLUMIZOLE	2002	kg					0		16.2			
+44	Rhode Island	TRIFLUMIZOLE	2003	kg							14.4			
+44	Rhode Island	TRIFLUMIZOLE	2004	kg					0.4		0.7			
+44	Rhode Island	TRIFLUMIZOLE	2006	kg					6.4		7.7			
+44	Rhode Island	TRIFLUMIZOLE	2007	kg					10.4					
+44	Rhode Island	TRIFLUMIZOLE	2010	kg					6.9					
+44	Rhode Island	TRIFLUMIZOLE	2012	kg					8					
+44	Rhode Island	TRIFLUMIZOLE	2013	kg					8.1					
+44	Rhode Island	TRIFLUMIZOLE	2014	kg					0.9					
+44	Rhode Island	TRIFLUMIZOLE	2015	kg					1.1					
+45	South Carolina	TRIFLUMIZOLE	2008	kg					28.4					
+45	South Carolina	TRIFLUMIZOLE	2011	kg					475.6					
+45	South Carolina	TRIFLUMIZOLE	2012	kg					379.6					
+45	South Carolina	TRIFLUMIZOLE	2013	kg					182					
+45	South Carolina	TRIFLUMIZOLE	2015	kg					78.7					
+47	Tennessee	TRIFLUMIZOLE	2000	kg							39			
+47	Tennessee	TRIFLUMIZOLE	2001	kg							31.2			
+47	Tennessee	TRIFLUMIZOLE	2003	kg							31.7			
+47	Tennessee	TRIFLUMIZOLE	2004	kg					62.9					
+48	Texas	TRIFLUMIZOLE	2003	kg					252.8					
+48	Texas	TRIFLUMIZOLE	2004	kg					368.5					
+48	Texas	TRIFLUMIZOLE	2008	kg					139.1					
+48	Texas	TRIFLUMIZOLE	2009	kg					179.8					
+48	Texas	TRIFLUMIZOLE	2014	kg					212.2					
+49	Utah	TRIFLUMIZOLE	2003	kg							337.7			
+49	Utah	TRIFLUMIZOLE	2004	kg							473.5			
+49	Utah	TRIFLUMIZOLE	2005	kg							243.9			
+49	Utah	TRIFLUMIZOLE	2007	kg							215.3			
+49	Utah	TRIFLUMIZOLE	2008	kg							309.6			
+49	Utah	TRIFLUMIZOLE	2009	kg							303.1			
+50	Vermont	TRIFLUMIZOLE	1998	kg							254.7			
+50	Vermont	TRIFLUMIZOLE	1999	kg							761.8			
+50	Vermont	TRIFLUMIZOLE	2000	kg							149.1			
+50	Vermont	TRIFLUMIZOLE	2001	kg							47.1			
+50	Vermont	TRIFLUMIZOLE	2002	kg							162.8			
+50	Vermont	TRIFLUMIZOLE	2003	kg							8.9			
+50	Vermont	TRIFLUMIZOLE	2004	kg					3.3		7.4			
+50	Vermont	TRIFLUMIZOLE	2006	kg					9.6		65.7			
+50	Vermont	TRIFLUMIZOLE	2007	kg					17					
+50	Vermont	TRIFLUMIZOLE	2008	kg					5.5					
+50	Vermont	TRIFLUMIZOLE	2009	kg					2.5					
+50	Vermont	TRIFLUMIZOLE	2010	kg					47.9					
+50	Vermont	TRIFLUMIZOLE	2012	kg					10.4					
+50	Vermont	TRIFLUMIZOLE	2013	kg					8.3					
+50	Vermont	TRIFLUMIZOLE	2014	kg					4.9					
+50	Vermont	TRIFLUMIZOLE	2015	kg					4.2					
+51	Virginia	TRIFLUMIZOLE	2000	kg							103.9			
+51	Virginia	TRIFLUMIZOLE	2001	kg							112.8			
+51	Virginia	TRIFLUMIZOLE	2003	kg							610.4			
+51	Virginia	TRIFLUMIZOLE	2011	kg					30.9					
+51	Virginia	TRIFLUMIZOLE	2013	kg					0.9					
+51	Virginia	TRIFLUMIZOLE	2014	kg					35.8					
+53	Washington	TRIFLUMIZOLE	1995	kg							1188.3			
+53	Washington	TRIFLUMIZOLE	1996	kg							4203.9			
+53	Washington	TRIFLUMIZOLE	1997	kg							9108.7		2	
+53	Washington	TRIFLUMIZOLE	1998	kg							13089.3			
+53	Washington	TRIFLUMIZOLE	1999	kg							12008.8			
+53	Washington	TRIFLUMIZOLE	2000	kg							11994.2			
+53	Washington	TRIFLUMIZOLE	2001	kg							9692.7			
+53	Washington	TRIFLUMIZOLE	2002	kg					65.2		11312.3			
+53	Washington	TRIFLUMIZOLE	2003	kg					38.1		21938.7			
+53	Washington	TRIFLUMIZOLE	2004	kg					87.4		20946.3			
+53	Washington	TRIFLUMIZOLE	2005	kg					340.7		24242			
+53	Washington	TRIFLUMIZOLE	2006	kg							22387.9			
+53	Washington	TRIFLUMIZOLE	2007	kg					184.1		21384.8			
+53	Washington	TRIFLUMIZOLE	2008	kg							27417.1			
+53	Washington	TRIFLUMIZOLE	2009	kg							25488.7			
+53	Washington	TRIFLUMIZOLE	2010	kg					93.8		31788.9			
+53	Washington	TRIFLUMIZOLE	2011	kg					0.2		22129.4			
+53	Washington	TRIFLUMIZOLE	2012	kg					878.6		25170.3			
+53	Washington	TRIFLUMIZOLE	2013	kg					8.1		33821.5			
+53	Washington	TRIFLUMIZOLE	2014	kg							26203.4			
+53	Washington	TRIFLUMIZOLE	2015	kg					2.3		27500.1			
+53	Washington	TRIFLUMIZOLE	2016	kg							29174			
+53	Washington	TRIFLUMIZOLE	2017	kg							27207.8			
+54	West Virginia	TRIFLUMIZOLE	2000	kg							401.7			
+54	West Virginia	TRIFLUMIZOLE	2001	kg							308.4			
+54	West Virginia	TRIFLUMIZOLE	2003	kg							351.9			
+54	West Virginia	TRIFLUMIZOLE	2010	kg					2					
+54	West Virginia	TRIFLUMIZOLE	2011	kg					18.3					
+54	West Virginia	TRIFLUMIZOLE	2013	kg					0.5					
+54	West Virginia	TRIFLUMIZOLE	2014	kg					12.2					
+54	West Virginia	TRIFLUMIZOLE	2017	kg							51.7			
+55	Wisconsin	TRIFLUMIZOLE	1998	kg							2847.5			
+55	Wisconsin	TRIFLUMIZOLE	1999	kg							864.7			
+55	Wisconsin	TRIFLUMIZOLE	2003	kg							20.7			
+55	Wisconsin	TRIFLUMIZOLE	2005	kg					4.2					
+55	Wisconsin	TRIFLUMIZOLE	2006	kg					20.4					
+55	Wisconsin	TRIFLUMIZOLE	2007	kg					3.5					
+55	Wisconsin	TRIFLUMIZOLE	2008	kg					68					
+55	Wisconsin	TRIFLUMIZOLE	2009	kg					70.7					
+55	Wisconsin	TRIFLUMIZOLE	2011	kg					64.7					
+55	Wisconsin	TRIFLUMIZOLE	2015	kg					727.8					

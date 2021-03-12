@@ -1,0 +1,55 @@
+04	Arizona	BORDEAUX MIXTURE	1992	kg							81.8			
+04	Arizona	BORDEAUX MIXTURE	1993	kg							104.1			
+04	Arizona	BORDEAUX MIXTURE	1995	kg					13.1		1307.5			
+04	Arizona	BORDEAUX MIXTURE	1999	kg							784.1			
+04	Arizona	BORDEAUX MIXTURE	2002	kg							2688.5			
+04	Arizona	BORDEAUX MIXTURE	2003	kg							153.3			
+04	Arizona	BORDEAUX MIXTURE	2006	kg							118.9			
+04	Arizona	BORDEAUX MIXTURE	2007	kg							101.6			
+05	Arkansas	BORDEAUX MIXTURE	1992	kg									46.1	
+05	Arkansas	BORDEAUX MIXTURE	1993	kg							4926.5			
+05	Arkansas	BORDEAUX MIXTURE	1994	kg						3540.8	285.9			
+05	Arkansas	BORDEAUX MIXTURE	1997	kg									89.5	
+09	Connecticut	BORDEAUX MIXTURE	1998	kg							797.1			
+17	Illinois	BORDEAUX MIXTURE	1994	kg							33.5			
+17	Illinois	BORDEAUX MIXTURE	1995	kg										14261.5
+18	Indiana	BORDEAUX MIXTURE	1995	kg										2865.3
+19	Iowa	BORDEAUX MIXTURE	1992	kg					2758.8					
+19	Iowa	BORDEAUX MIXTURE	1995	kg										8.5
+20	Kansas	BORDEAUX MIXTURE	1992	kg									132.2	
+25	Massachusetts	BORDEAUX MIXTURE	1998	kg							500.3			
+27	Minnesota	BORDEAUX MIXTURE	1995	kg										95.2
+28	Mississippi	BORDEAUX MIXTURE	1994	kg						424.4				
+29	Missouri	BORDEAUX MIXTURE	1992	kg					29.2				419.2	
+29	Missouri	BORDEAUX MIXTURE	1993	kg							279.1			
+29	Missouri	BORDEAUX MIXTURE	1994	kg							24.4			
+29	Missouri	BORDEAUX MIXTURE	1997	kg									95.5	
+31	Nebraska	BORDEAUX MIXTURE	1992	kg					138.8					
+32	Nevada	BORDEAUX MIXTURE	1993	kg							3.3			
+32	Nevada	BORDEAUX MIXTURE	1995	kg					3		0			
+32	Nevada	BORDEAUX MIXTURE	2007	kg							0.2			
+34	New Jersey	BORDEAUX MIXTURE	1995	kg							1086.3			
+34	New Jersey	BORDEAUX MIXTURE	1998	kg							677.9			
+36	New York	BORDEAUX MIXTURE	1992	kg							235.1			
+36	New York	BORDEAUX MIXTURE	1995	kg							9807.3			
+36	New York	BORDEAUX MIXTURE	1998	kg							11484			
+39	Ohio	BORDEAUX MIXTURE	1992	kg							106.4			
+40	Oklahoma	BORDEAUX MIXTURE	1992	kg									59.2	
+40	Oklahoma	BORDEAUX MIXTURE	1997	kg									74.1	
+41	Oregon	BORDEAUX MIXTURE	1995	kg							2703.1			
+41	Oregon	BORDEAUX MIXTURE	1996	kg							25.8			
+41	Oregon	BORDEAUX MIXTURE	2002	kg							424.1			
+41	Oregon	BORDEAUX MIXTURE	2003	kg							101.7			
+41	Oregon	BORDEAUX MIXTURE	2005	kg							530.3			
+41	Oregon	BORDEAUX MIXTURE	2007	kg					1469.7					
+41	Oregon	BORDEAUX MIXTURE	2010	kg					261.3					
+42	Pennsylvania	BORDEAUX MIXTURE	1992	kg							168.1			
+42	Pennsylvania	BORDEAUX MIXTURE	1998	kg							424.2			
+47	Tennessee	BORDEAUX MIXTURE	1994	kg						1.5				
+53	Washington	BORDEAUX MIXTURE	1995	kg							30.5			
+53	Washington	BORDEAUX MIXTURE	2002	kg							3.6			
+53	Washington	BORDEAUX MIXTURE	2003	kg							8592.3			
+53	Washington	BORDEAUX MIXTURE	2005	kg							4.9			
+53	Washington	BORDEAUX MIXTURE	2007	kg					169.9					
+53	Washington	BORDEAUX MIXTURE	2010	kg					190.5					
+55	Wisconsin	BORDEAUX MIXTURE	1995	kg										8535.5

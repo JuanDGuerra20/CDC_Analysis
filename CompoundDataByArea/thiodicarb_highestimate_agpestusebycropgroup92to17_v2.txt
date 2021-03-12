@@ -1,0 +1,664 @@
+01	Alabama	THIODICARB	1992	kg		358.2		10522.3	20.1					
+01	Alabama	THIODICARB	1993	kg		392.8		17943.8						325.1
+01	Alabama	THIODICARB	1994	kg		2709.3		44049.2						
+01	Alabama	THIODICARB	1995	kg		838.6		71536.5	65.4					
+01	Alabama	THIODICARB	1996	kg	358.8	246.4		28685.7	881.6					3786.2
+01	Alabama	THIODICARB	1997	kg		1799.5		1683.7	16.6					
+01	Alabama	THIODICARB	1998	kg				7249.2	111					405.5
+01	Alabama	THIODICARB	2002	kg				3266.4						
+01	Alabama	THIODICARB	2003	kg				250.3						
+01	Alabama	THIODICARB	2007	kg		3044.9		608.3						
+01	Alabama	THIODICARB	2008	kg				511						
+01	Alabama	THIODICARB	2009	kg				964.6						
+01	Alabama	THIODICARB	2010	kg		195.1		285.5	26.2					
+01	Alabama	THIODICARB	2011	kg		1353.6		957.7						
+01	Alabama	THIODICARB	2012	kg				1982.1						
+01	Alabama	THIODICARB	2013	kg				740.1						
+01	Alabama	THIODICARB	2014	kg				361.6						
+04	Arizona	THIODICARB	1995	kg								51.5		
+04	Arizona	THIODICARB	1996	kg					3515.5					
+04	Arizona	THIODICARB	1997	kg				240	6413.1					
+04	Arizona	THIODICARB	1998	kg					9570.4					
+04	Arizona	THIODICARB	1999	kg				15138.6	19153.5					
+04	Arizona	THIODICARB	2000	kg					1071.9					
+04	Arizona	THIODICARB	2001	kg				866.4	5176.7					
+04	Arizona	THIODICARB	2002	kg					2066.1					
+04	Arizona	THIODICARB	2003	kg					2257.6					
+04	Arizona	THIODICARB	2004	kg					358.4					
+04	Arizona	THIODICARB	2005	kg					199.5					
+04	Arizona	THIODICARB	2007	kg					55.4					
+04	Arizona	THIODICARB	2008	kg				4.9						
+04	Arizona	THIODICARB	2009	kg				147.5						
+04	Arizona	THIODICARB	2010	kg				25.8						
+04	Arizona	THIODICARB	2012	kg				40.2						
+04	Arizona	THIODICARB	2014	kg				306.5						
+05	Arkansas	THIODICARB	1992	kg	21.6			34988.9					8.7	
+05	Arkansas	THIODICARB	1993	kg		23231.7		21339.2						
+05	Arkansas	THIODICARB	1994	kg		39264.7		31711.2						
+05	Arkansas	THIODICARB	1995	kg		8956.8		52586.1						
+05	Arkansas	THIODICARB	1996	kg				4890.2						2880.8
+05	Arkansas	THIODICARB	1997	kg		10175.9		11810						
+05	Arkansas	THIODICARB	1998	kg				4020.3						
+05	Arkansas	THIODICARB	1999	kg				672.6						
+05	Arkansas	THIODICARB	2000	kg				1404.4						
+05	Arkansas	THIODICARB	2001	kg				2509.2						
+05	Arkansas	THIODICARB	2002	kg				1063.6						
+05	Arkansas	THIODICARB	2004	kg		15771.1								
+05	Arkansas	THIODICARB	2005	kg		911.3								
+05	Arkansas	THIODICARB	2007	kg				839.8						
+05	Arkansas	THIODICARB	2008	kg				1449.5						
+05	Arkansas	THIODICARB	2009	kg				846						
+05	Arkansas	THIODICARB	2010	kg				816						
+05	Arkansas	THIODICARB	2011	kg				2152.9						
+05	Arkansas	THIODICARB	2012	kg				2958						
+05	Arkansas	THIODICARB	2013	kg				1409.9						
+05	Arkansas	THIODICARB	2014	kg				3377						
+06	California	THIODICARB	1995	kg					943.6					
+06	California	THIODICARB	1996	kg	2.9			30258.2	27495.7		1.7			
+06	California	THIODICARB	1997	kg	5.5			40147.5	31172.4		2.1			
+06	California	THIODICARB	1998	kg	39.7		46.7	37212.7	15891.2				15.1	7.3
+06	California	THIODICARB	1999	kg				18323.6	13846.9					
+06	California	THIODICARB	2000	kg	0.6			10334.3	6320.6					
+06	California	THIODICARB	2001	kg	31.7			822.5	3389.1					
+06	California	THIODICARB	2002	kg	5.4			413.2	1935.1					
+06	California	THIODICARB	2003	kg				2135.1	1669.8					
+06	California	THIODICARB	2004	kg	9.9			324.6	682.8					
+06	California	THIODICARB	2005	kg				41	806.3					
+06	California	THIODICARB	2006	kg	4.1			192	209.5					
+06	California	THIODICARB	2007	kg	19.1			56.1	235.8					
+06	California	THIODICARB	2008	kg	87.5				75.7					
+06	California	THIODICARB	2009	kg	134.8				96.5					
+06	California	THIODICARB	2010	kg	14.6				53.8					
+06	California	THIODICARB	2011	kg					213.8					
+06	California	THIODICARB	2012	kg	5.8				59.9					
+06	California	THIODICARB	2013	kg	53.5				17.4					
+08	Colorado	THIODICARB	1995	kg					108.9					
+08	Colorado	THIODICARB	1997	kg										200.5
+08	Colorado	THIODICARB	1998	kg					33					
+09	Connecticut	THIODICARB	1992	kg	318.3				144.6					
+09	Connecticut	THIODICARB	1993	kg	235.6				87					
+09	Connecticut	THIODICARB	1994	kg	465.4				320.2					
+09	Connecticut	THIODICARB	1995	kg	252.3				61.8					
+09	Connecticut	THIODICARB	1996	kg	59				567.5					
+09	Connecticut	THIODICARB	1997	kg					61					
+09	Connecticut	THIODICARB	1998	kg					44					
+09	Connecticut	THIODICARB	1999	kg					108.5					
+09	Connecticut	THIODICARB	2000	kg					694.8					
+09	Connecticut	THIODICARB	2001	kg					1200.8					
+09	Connecticut	THIODICARB	2002	kg					881.6					
+09	Connecticut	THIODICARB	2003	kg					1131.1					
+09	Connecticut	THIODICARB	2004	kg					414.9					
+09	Connecticut	THIODICARB	2005	kg					525.4					
+09	Connecticut	THIODICARB	2006	kg					401					
+09	Connecticut	THIODICARB	2007	kg					1446.5					
+09	Connecticut	THIODICARB	2008	kg					658.3					
+09	Connecticut	THIODICARB	2010	kg					234.1					
+09	Connecticut	THIODICARB	2011	kg					211.5					
+09	Connecticut	THIODICARB	2012	kg					503.3					
+10	Delaware	THIODICARB	1992	kg					4093.7					
+10	Delaware	THIODICARB	1993	kg	0.1				45					
+10	Delaware	THIODICARB	1994	kg					37.1					
+10	Delaware	THIODICARB	1995	kg					2260					
+10	Delaware	THIODICARB	1996	kg					3623.5					
+10	Delaware	THIODICARB	1997	kg	74.9				499.3					
+10	Delaware	THIODICARB	1998	kg					3597					
+10	Delaware	THIODICARB	1999	kg					254.7					
+10	Delaware	THIODICARB	2001	kg					28.2					
+12	Florida	THIODICARB	1992	kg		34		910	3974.3					
+12	Florida	THIODICARB	1993	kg		129.4		2211.7	26573.5				0.8	91.7
+12	Florida	THIODICARB	1994	kg	32505.3			3027.2	27301.7				19.4	
+12	Florida	THIODICARB	1995	kg				10227.8	30284.1				55.8	18.1
+12	Florida	THIODICARB	1996	kg	320	1384		4530.5	42311.3				129.4	578.3
+12	Florida	THIODICARB	1997	kg		413.6		2666.6	44171					
+12	Florida	THIODICARB	1998	kg				3899	78431.8					123.4
+12	Florida	THIODICARB	1999	kg				18.2	40910.4					
+12	Florida	THIODICARB	2000	kg				20.1	6129.7					
+12	Florida	THIODICARB	2001	kg					20549.7					
+12	Florida	THIODICARB	2002	kg				119	25954.7					
+12	Florida	THIODICARB	2003	kg					6986.3					
+12	Florida	THIODICARB	2004	kg					40526.3					
+12	Florida	THIODICARB	2005	kg					24084.7					
+12	Florida	THIODICARB	2006	kg					1309.5					
+12	Florida	THIODICARB	2007	kg				6.4	48026.8					
+12	Florida	THIODICARB	2008	kg				151.7	33801.3					
+12	Florida	THIODICARB	2009	kg				11.2	15668.4					
+12	Florida	THIODICARB	2010	kg				34.7	13976.9					
+12	Florida	THIODICARB	2011	kg				39.5	52616.1					
+12	Florida	THIODICARB	2012	kg				162.3	771.3					
+12	Florida	THIODICARB	2013	kg				241.9						
+12	Florida	THIODICARB	2014	kg				39.2						
+13	Georgia	THIODICARB	1992	kg		1805.3		11961.1	1502.3					1015.1
+13	Georgia	THIODICARB	1993	kg		1288.7		30117.1	3				0	2137.3
+13	Georgia	THIODICARB	1994	kg		2378		17996.9					10.3	
+13	Georgia	THIODICARB	1995	kg		1345.4		80620.6	3271					176.7
+13	Georgia	THIODICARB	1996	kg	1077.3	8961		62219.5	5271.5				20.1	2855.1
+13	Georgia	THIODICARB	1997	kg		3509.4		31413.7	717.9					77.7
+13	Georgia	THIODICARB	1998	kg				22472.9	10010.5					506.1
+13	Georgia	THIODICARB	1999	kg				4322.7						
+13	Georgia	THIODICARB	2000	kg				5735.6						
+13	Georgia	THIODICARB	2002	kg				1781.3	4835.1					
+13	Georgia	THIODICARB	2003	kg					982.1					
+13	Georgia	THIODICARB	2004	kg					9746.3					
+13	Georgia	THIODICARB	2007	kg		6987.1		240.6						
+13	Georgia	THIODICARB	2008	kg				1647.4						
+13	Georgia	THIODICARB	2009	kg				2720.5						
+13	Georgia	THIODICARB	2010	kg		188.2		293.3	7077.9					
+13	Georgia	THIODICARB	2011	kg		1119.4		1005.9						
+13	Georgia	THIODICARB	2012	kg				2617						
+13	Georgia	THIODICARB	2013	kg				1079.4						
+13	Georgia	THIODICARB	2014	kg				1880.4						
+17	Illinois	THIODICARB	1995	kg	103521.2									
+17	Illinois	THIODICARB	1997	kg	1436									
+17	Illinois	THIODICARB	2012	kg		2124.8								
+17	Illinois	THIODICARB	2015	kg					1.5					
+18	Indiana	THIODICARB	1992	kg					608.5					
+18	Indiana	THIODICARB	1993	kg					866.7					
+18	Indiana	THIODICARB	1994	kg					1056.7					
+18	Indiana	THIODICARB	1995	kg	2072				56.1					
+18	Indiana	THIODICARB	1998	kg					527.3					
+18	Indiana	THIODICARB	1999	kg					586.4					
+18	Indiana	THIODICARB	2000	kg					806.1					
+18	Indiana	THIODICARB	2001	kg					1103.5					
+18	Indiana	THIODICARB	2002	kg					610.9					
+18	Indiana	THIODICARB	2003	kg					68.7					
+18	Indiana	THIODICARB	2004	kg					120.7					
+18	Indiana	THIODICARB	2005	kg					935.1					
+18	Indiana	THIODICARB	2006	kg					598.6					
+18	Indiana	THIODICARB	2007	kg					857.4					
+18	Indiana	THIODICARB	2008	kg					937.6					
+18	Indiana	THIODICARB	2009	kg					255.9					
+18	Indiana	THIODICARB	2010	kg					130.1					
+18	Indiana	THIODICARB	2011	kg					344.8					
+18	Indiana	THIODICARB	2012	kg					121.7					
+18	Indiana	THIODICARB	2013	kg					3					
+18	Indiana	THIODICARB	2014	kg					9.1					
+19	Iowa	THIODICARB	2012	kg		1490.7								
+20	Kansas	THIODICARB	1992	kg				42.3						
+20	Kansas	THIODICARB	1993	kg				88.6						
+20	Kansas	THIODICARB	1994	kg				54.5						
+20	Kansas	THIODICARB	1995	kg				143.8						
+20	Kansas	THIODICARB	1996	kg				80.7						
+20	Kansas	THIODICARB	1997	kg				65.7						
+20	Kansas	THIODICARB	1999	kg				1197.1						
+20	Kansas	THIODICARB	2007	kg				5.6						
+20	Kansas	THIODICARB	2008	kg				50.2						
+20	Kansas	THIODICARB	2009	kg				4						
+20	Kansas	THIODICARB	2010	kg				37.3						
+20	Kansas	THIODICARB	2011	kg				148.7						
+20	Kansas	THIODICARB	2012	kg				121.4						
+20	Kansas	THIODICARB	2013	kg				87.6						
+20	Kansas	THIODICARB	2014	kg				78.1						
+21	Kentucky	THIODICARB	1992	kg					59					
+21	Kentucky	THIODICARB	1993	kg					18.6					
+21	Kentucky	THIODICARB	1994	kg					29					
+21	Kentucky	THIODICARB	1995	kg					13.6					
+21	Kentucky	THIODICARB	1996	kg					53.7					
+21	Kentucky	THIODICARB	1997	kg					40.7					
+21	Kentucky	THIODICARB	1998	kg					24.5					
+21	Kentucky	THIODICARB	1999	kg					29.6					
+21	Kentucky	THIODICARB	2000	kg					24.8					
+21	Kentucky	THIODICARB	2001	kg					77.1					
+21	Kentucky	THIODICARB	2002	kg					20.8					
+21	Kentucky	THIODICARB	2004	kg					16.2					
+21	Kentucky	THIODICARB	2005	kg					101.8					
+21	Kentucky	THIODICARB	2006	kg					24.1					
+21	Kentucky	THIODICARB	2008	kg					4.6					
+21	Kentucky	THIODICARB	2009	kg					20.2					
+21	Kentucky	THIODICARB	2010	kg					9.1					
+22	Louisiana	THIODICARB	1992	kg	265.3			60239.7					19.5	
+22	Louisiana	THIODICARB	1993	kg		8677.1		109544.5						
+22	Louisiana	THIODICARB	1994	kg		5141.2		127815.7						734.4
+22	Louisiana	THIODICARB	1995	kg		13631		218916.8						
+22	Louisiana	THIODICARB	1996	kg		6185.6		37599.1						1197.8
+22	Louisiana	THIODICARB	1997	kg		5052.9		4755.4						
+22	Louisiana	THIODICARB	1998	kg				20992.7						
+22	Louisiana	THIODICARB	1999	kg				2694.9						
+22	Louisiana	THIODICARB	2000	kg				4185						
+22	Louisiana	THIODICARB	2001	kg				2757.9						
+22	Louisiana	THIODICARB	2004	kg		4208.8								
+22	Louisiana	THIODICARB	2005	kg		1551.7								
+22	Louisiana	THIODICARB	2007	kg				404.6	1.2					
+22	Louisiana	THIODICARB	2008	kg				495.9						
+22	Louisiana	THIODICARB	2009	kg				861.1						
+22	Louisiana	THIODICARB	2010	kg				170						
+22	Louisiana	THIODICARB	2011	kg				2466						
+22	Louisiana	THIODICARB	2012	kg				1078.2						
+22	Louisiana	THIODICARB	2013	kg				540.3						
+22	Louisiana	THIODICARB	2014	kg				1243.8						
+23	Maine	THIODICARB	1992	kg	425				298.8					
+23	Maine	THIODICARB	1993	kg	1901.6				269.2					
+23	Maine	THIODICARB	1994	kg	40.3				153.9					
+23	Maine	THIODICARB	1995	kg	124.7				70.2					
+23	Maine	THIODICARB	1996	kg	46.2				206.4					
+23	Maine	THIODICARB	1997	kg					223.4					
+23	Maine	THIODICARB	1998	kg					146.7					
+23	Maine	THIODICARB	1999	kg					639.4					
+23	Maine	THIODICARB	2000	kg					312.9					
+23	Maine	THIODICARB	2001	kg					144.8					
+23	Maine	THIODICARB	2002	kg					362.6					
+23	Maine	THIODICARB	2003	kg					466.9					
+23	Maine	THIODICARB	2004	kg					171.9					
+23	Maine	THIODICARB	2005	kg					600.3					
+23	Maine	THIODICARB	2006	kg					177.2					
+23	Maine	THIODICARB	2007	kg					271.5					
+23	Maine	THIODICARB	2008	kg					29					
+23	Maine	THIODICARB	2010	kg					60.1					
+23	Maine	THIODICARB	2011	kg					67					
+23	Maine	THIODICARB	2012	kg					130.1					
+24	Maryland	THIODICARB	1992	kg	2808	393.6			10898					
+24	Maryland	THIODICARB	1993	kg	1.4	507			328.5					
+24	Maryland	THIODICARB	1994	kg	1420.4	957.9			41373.8					
+24	Maryland	THIODICARB	1995	kg	677	1069.7			4403.8					
+24	Maryland	THIODICARB	1996	kg	284.2	231.6			5376.1					
+24	Maryland	THIODICARB	1997	kg		1483.1			470.2					
+24	Maryland	THIODICARB	1998	kg					3517.2					
+24	Maryland	THIODICARB	1999	kg					1264.5					
+24	Maryland	THIODICARB	2000	kg					370.9					
+24	Maryland	THIODICARB	2001	kg					43.7					
+24	Maryland	THIODICARB	2002	kg					419					
+24	Maryland	THIODICARB	2003	kg					497.5					
+24	Maryland	THIODICARB	2004	kg					184					
+24	Maryland	THIODICARB	2005	kg					624.1					
+24	Maryland	THIODICARB	2006	kg					171.3					
+24	Maryland	THIODICARB	2007	kg		2826.4			234.6					
+24	Maryland	THIODICARB	2008	kg					40.2					
+24	Maryland	THIODICARB	2009	kg					11.1					
+24	Maryland	THIODICARB	2010	kg		94.7			91.3					
+24	Maryland	THIODICARB	2011	kg		818.5			90.1					
+24	Maryland	THIODICARB	2012	kg					178.1					
+24	Maryland	THIODICARB	2013	kg					8.3					
+25	Massachusetts	THIODICARB	1992	kg	239.5				339					
+25	Massachusetts	THIODICARB	1993	kg	167.8				3563.6					
+25	Massachusetts	THIODICARB	1994	kg	146.5				205.1					
+25	Massachusetts	THIODICARB	1995	kg	35.8				353.2					
+25	Massachusetts	THIODICARB	1996	kg	42.5				126.6					
+25	Massachusetts	THIODICARB	1997	kg					402.8					
+25	Massachusetts	THIODICARB	1998	kg					146					
+25	Massachusetts	THIODICARB	1999	kg					143.4					
+25	Massachusetts	THIODICARB	2000	kg					888.7					
+25	Massachusetts	THIODICARB	2001	kg					1484.3					
+25	Massachusetts	THIODICARB	2002	kg					6767.4					
+25	Massachusetts	THIODICARB	2003	kg					2366.2					
+25	Massachusetts	THIODICARB	2004	kg					213.3					
+25	Massachusetts	THIODICARB	2005	kg					1312.7					
+25	Massachusetts	THIODICARB	2006	kg					415.2					
+25	Massachusetts	THIODICARB	2007	kg					1097.3					
+25	Massachusetts	THIODICARB	2008	kg					461.9					
+25	Massachusetts	THIODICARB	2010	kg					283.9					
+25	Massachusetts	THIODICARB	2011	kg					885.6					
+25	Massachusetts	THIODICARB	2012	kg					1911.1					
+26	Michigan	THIODICARB	1992	kg					1877.3					
+26	Michigan	THIODICARB	1993	kg					5355.3					
+26	Michigan	THIODICARB	1994	kg	6381.5				10066.6					
+26	Michigan	THIODICARB	1995	kg	7343.3				1025.8					
+26	Michigan	THIODICARB	1996	kg					1991.5					
+26	Michigan	THIODICARB	1998	kg					884.3					
+26	Michigan	THIODICARB	1999	kg					1350.8					
+26	Michigan	THIODICARB	2000	kg					1665.9					
+26	Michigan	THIODICARB	2001	kg					471.5					
+26	Michigan	THIODICARB	2002	kg					1476					
+26	Michigan	THIODICARB	2003	kg					175					
+26	Michigan	THIODICARB	2004	kg					93.3					
+26	Michigan	THIODICARB	2005	kg					1551.9					
+26	Michigan	THIODICARB	2006	kg					1142.5					
+26	Michigan	THIODICARB	2007	kg					2345.5					
+26	Michigan	THIODICARB	2008	kg					1889					
+26	Michigan	THIODICARB	2009	kg					997.7					
+26	Michigan	THIODICARB	2010	kg					632					
+26	Michigan	THIODICARB	2011	kg					896.8					
+26	Michigan	THIODICARB	2012	kg					730.5					
+26	Michigan	THIODICARB	2013	kg					305					
+26	Michigan	THIODICARB	2014	kg					35.5					
+28	Mississippi	THIODICARB	1992	kg	507.3	61.6		56751.5					21.7	
+28	Mississippi	THIODICARB	1993	kg		47382		128745.9						
+28	Mississippi	THIODICARB	1994	kg		45838.4		74945.5						14.1
+28	Mississippi	THIODICARB	1995	kg		4762.5		168443.9					849.2	
+28	Mississippi	THIODICARB	1996	kg		434.4		3471.1						288.4
+28	Mississippi	THIODICARB	1997	kg		4648.6		3563.1						
+28	Mississippi	THIODICARB	1998	kg				6455.6						
+28	Mississippi	THIODICARB	2000	kg				3254.1						
+28	Mississippi	THIODICARB	2001	kg				2349.4						
+28	Mississippi	THIODICARB	2002	kg				666.5						
+28	Mississippi	THIODICARB	2003	kg				161.2						
+28	Mississippi	THIODICARB	2004	kg		8606.9								
+28	Mississippi	THIODICARB	2005	kg		1297.3								
+28	Mississippi	THIODICARB	2007	kg		392.9		946.1						
+28	Mississippi	THIODICARB	2008	kg				607.3						
+28	Mississippi	THIODICARB	2009	kg				697.8						
+28	Mississippi	THIODICARB	2010	kg		15.3		1042.2						
+28	Mississippi	THIODICARB	2011	kg		138.5		1085						
+28	Mississippi	THIODICARB	2012	kg				1712						
+28	Mississippi	THIODICARB	2013	kg				2185.5						
+28	Mississippi	THIODICARB	2014	kg				1586.5						
+29	Missouri	THIODICARB	1992	kg				1598.2						
+29	Missouri	THIODICARB	1993	kg				982.8						
+29	Missouri	THIODICARB	1994	kg				980.4						
+29	Missouri	THIODICARB	1995	kg				6175.8						
+29	Missouri	THIODICARB	1996	kg				968.1						
+29	Missouri	THIODICARB	1997	kg				44.5						
+29	Missouri	THIODICARB	1998	kg				4290.1						
+29	Missouri	THIODICARB	2002	kg				633.1						
+29	Missouri	THIODICARB	2007	kg				380.3						
+29	Missouri	THIODICARB	2008	kg				319.7						
+29	Missouri	THIODICARB	2009	kg				370.1						
+29	Missouri	THIODICARB	2010	kg				1374.6						
+29	Missouri	THIODICARB	2011	kg				1342.6						
+29	Missouri	THIODICARB	2012	kg				266.2						
+29	Missouri	THIODICARB	2013	kg				706.1						
+29	Missouri	THIODICARB	2014	kg				540.1						
+31	Nebraska	THIODICARB	1997	kg										160.2
+33	New Hampshire	THIODICARB	1992	kg	251.1				51					
+33	New Hampshire	THIODICARB	1993	kg	101.3				512.3					
+33	New Hampshire	THIODICARB	1994	kg	89.5				34.1					
+33	New Hampshire	THIODICARB	1995	kg	22.2				56.2					
+33	New Hampshire	THIODICARB	1996	kg	27				93.3					
+33	New Hampshire	THIODICARB	1997	kg					82.6					
+33	New Hampshire	THIODICARB	1998	kg					33.1					
+33	New Hampshire	THIODICARB	1999	kg					519.7					
+33	New Hampshire	THIODICARB	2000	kg					262.6					
+33	New Hampshire	THIODICARB	2001	kg					125.7					
+33	New Hampshire	THIODICARB	2002	kg					326.9					
+33	New Hampshire	THIODICARB	2003	kg					421.5					
+33	New Hampshire	THIODICARB	2004	kg					155.1					
+33	New Hampshire	THIODICARB	2005	kg					543.2					
+33	New Hampshire	THIODICARB	2006	kg					151.4					
+33	New Hampshire	THIODICARB	2007	kg					246.2					
+33	New Hampshire	THIODICARB	2008	kg					42.5					
+33	New Hampshire	THIODICARB	2010	kg					89.6					
+33	New Hampshire	THIODICARB	2011	kg					99.8					
+33	New Hampshire	THIODICARB	2012	kg					194.4					
+34	New Jersey	THIODICARB	1992	kg	2776.2				5455.4					
+34	New Jersey	THIODICARB	1993	kg	0.1				1512.6					
+34	New Jersey	THIODICARB	1994	kg	1335.5				599					
+34	New Jersey	THIODICARB	1995	kg	397.7				1817.8					
+34	New Jersey	THIODICARB	1996	kg	586.8				527.1					
+34	New Jersey	THIODICARB	1997	kg	200.3				30091.4					
+34	New Jersey	THIODICARB	1998	kg					3932.2					
+34	New Jersey	THIODICARB	1999	kg					8416.9					
+34	New Jersey	THIODICARB	2000	kg					1819					
+34	New Jersey	THIODICARB	2001	kg					844.9					
+34	New Jersey	THIODICARB	2002	kg					2193.8					
+34	New Jersey	THIODICARB	2003	kg					2662.2					
+34	New Jersey	THIODICARB	2004	kg					775.5					
+34	New Jersey	THIODICARB	2005	kg					2591.9					
+34	New Jersey	THIODICARB	2006	kg					777.5					
+34	New Jersey	THIODICARB	2007	kg					1388.5					
+34	New Jersey	THIODICARB	2008	kg					372					
+34	New Jersey	THIODICARB	2010	kg					409.8					
+34	New Jersey	THIODICARB	2011	kg					447.9					
+34	New Jersey	THIODICARB	2012	kg					916.1					
+35	New Mexico	THIODICARB	1992	kg				290.5	626.6					
+35	New Mexico	THIODICARB	1993	kg			1362.5	242.9						10.4
+35	New Mexico	THIODICARB	1994	kg				9.6						
+35	New Mexico	THIODICARB	1995	kg				343.6	451.3			5.9		
+35	New Mexico	THIODICARB	1996	kg				778	7.6			643.9		
+35	New Mexico	THIODICARB	1997	kg				143.3	15					
+35	New Mexico	THIODICARB	1998	kg					19.2					
+35	New Mexico	THIODICARB	1999	kg				4539.7						
+35	New Mexico	THIODICARB	2000	kg					2.5					
+35	New Mexico	THIODICARB	2001	kg				9.6						
+35	New Mexico	THIODICARB	2007	kg				2.5						
+35	New Mexico	THIODICARB	2008	kg				15.4						
+35	New Mexico	THIODICARB	2009	kg				12.9						
+35	New Mexico	THIODICARB	2010	kg				42.2						
+35	New Mexico	THIODICARB	2011	kg				52.3						
+35	New Mexico	THIODICARB	2012	kg				62.3						
+35	New Mexico	THIODICARB	2013	kg				18						
+35	New Mexico	THIODICARB	2014	kg				32.7						
+36	New York	THIODICARB	1992	kg	11906.5				1900.1					
+36	New York	THIODICARB	1993	kg	5513.9				1398.7					
+36	New York	THIODICARB	1994	kg	12905.1				1022.4					
+36	New York	THIODICARB	1995	kg	3643.6				2062.2					
+36	New York	THIODICARB	1996	kg	1026.2				585.5					
+36	New York	THIODICARB	1997	kg					4222.6					
+36	New York	THIODICARB	1998	kg					1600.1					
+36	New York	THIODICARB	1999	kg					11441.4					
+36	New York	THIODICARB	2000	kg					1217.8					
+36	New York	THIODICARB	2001	kg					9611					
+36	New York	THIODICARB	2002	kg					25037.1					
+36	New York	THIODICARB	2003	kg					3916.1					
+36	New York	THIODICARB	2004	kg					3238.3					
+36	New York	THIODICARB	2005	kg					12082.5					
+36	New York	THIODICARB	2006	kg					3721.6					
+36	New York	THIODICARB	2007	kg					7294.7					
+36	New York	THIODICARB	2008	kg					2277.1					
+36	New York	THIODICARB	2010	kg					1852.2					
+36	New York	THIODICARB	2011	kg					2604.4					
+36	New York	THIODICARB	2012	kg					4031.7					
+37	North Carolina	THIODICARB	1992	kg		1923.3		551.3	2309.9					495.6
+37	North Carolina	THIODICARB	1993	kg		2096.8		8334.7	99.2					374.5
+37	North Carolina	THIODICARB	1994	kg		4494.9		12583.8	144.9					998.1
+37	North Carolina	THIODICARB	1995	kg	386	10767.9	1205.6	85141	2425					
+37	North Carolina	THIODICARB	1996	kg		1592	2087.3	15110	2814.3					1134.5
+37	North Carolina	THIODICARB	1997	kg		6100	107.7	4753.4	626.7					
+37	North Carolina	THIODICARB	1998	kg				3547.5	3759.8					
+37	North Carolina	THIODICARB	1999	kg				491.3	116.6					
+37	North Carolina	THIODICARB	2000	kg					88.9					
+37	North Carolina	THIODICARB	2001	kg					101.3					
+37	North Carolina	THIODICARB	2002	kg				2276.3	63.1					
+37	North Carolina	THIODICARB	2004	kg				6840.9	48.4					
+37	North Carolina	THIODICARB	2005	kg		6889.9			801.2					
+37	North Carolina	THIODICARB	2006	kg		665.9			1400.4					
+37	North Carolina	THIODICARB	2007	kg		29443.8		264.8	908.7					
+37	North Carolina	THIODICARB	2008	kg		4146		115.8	15.7					
+37	North Carolina	THIODICARB	2009	kg				1684.3	87.9					
+37	North Carolina	THIODICARB	2010	kg		9835.8		422.8	50.2					
+37	North Carolina	THIODICARB	2011	kg		5470.9		424.4						
+37	North Carolina	THIODICARB	2012	kg				283						
+37	North Carolina	THIODICARB	2013	kg				727						
+37	North Carolina	THIODICARB	2014	kg				406.1						
+37	North Carolina	THIODICARB	2017	kg		8227.7								
+39	Ohio	THIODICARB	1992	kg	58284.8				6326.1					
+39	Ohio	THIODICARB	1993	kg					3136.8					
+39	Ohio	THIODICARB	1994	kg	2759.1				4047.9					
+39	Ohio	THIODICARB	1995	kg	112659.3				2834.8					
+39	Ohio	THIODICARB	1996	kg	236.1				5247.1					
+39	Ohio	THIODICARB	1997	kg					11475.6					
+39	Ohio	THIODICARB	1998	kg					3229.2					
+39	Ohio	THIODICARB	1999	kg					3100.9					
+39	Ohio	THIODICARB	2000	kg					1866.8					
+39	Ohio	THIODICARB	2001	kg					2843.3					
+39	Ohio	THIODICARB	2002	kg					936.4					
+39	Ohio	THIODICARB	2003	kg					908.1					
+39	Ohio	THIODICARB	2004	kg					840.3					
+39	Ohio	THIODICARB	2005	kg					4710.4					
+39	Ohio	THIODICARB	2006	kg					922.7					
+39	Ohio	THIODICARB	2007	kg					468					
+39	Ohio	THIODICARB	2008	kg					1655.7					
+39	Ohio	THIODICARB	2009	kg					544.3					
+39	Ohio	THIODICARB	2010	kg					418.5					
+39	Ohio	THIODICARB	2011	kg					1640.4					
+39	Ohio	THIODICARB	2012	kg					366.3					
+39	Ohio	THIODICARB	2013	kg					208.6					
+40	Oklahoma	THIODICARB	1992	kg				566.2						
+40	Oklahoma	THIODICARB	1993	kg			8627.4	1462.9						
+40	Oklahoma	THIODICARB	1994	kg				692.6						
+40	Oklahoma	THIODICARB	1995	kg				2315.6						129
+40	Oklahoma	THIODICARB	1996	kg				822						
+40	Oklahoma	THIODICARB	1997	kg				866.1						
+40	Oklahoma	THIODICARB	1998	kg				436.4						
+40	Oklahoma	THIODICARB	1999	kg				7733.9						
+40	Oklahoma	THIODICARB	2000	kg				36.7						
+40	Oklahoma	THIODICARB	2002	kg				19.5						
+40	Oklahoma	THIODICARB	2007	kg				29.5						
+40	Oklahoma	THIODICARB	2008	kg				84.8						
+40	Oklahoma	THIODICARB	2009	kg				204.8						
+40	Oklahoma	THIODICARB	2010	kg				849.1						
+40	Oklahoma	THIODICARB	2011	kg				683.3						
+40	Oklahoma	THIODICARB	2012	kg				471						
+40	Oklahoma	THIODICARB	2013	kg				390.9						
+40	Oklahoma	THIODICARB	2014	kg				1684.6						
+42	Pennsylvania	THIODICARB	1992	kg	36033.2				8025.1					
+42	Pennsylvania	THIODICARB	1993	kg	1174.2				9076.2					
+42	Pennsylvania	THIODICARB	1994	kg	11124.8				12996.3					
+42	Pennsylvania	THIODICARB	1995	kg	12617.2				599.8					
+42	Pennsylvania	THIODICARB	1996	kg	2976.8				15895.7					
+42	Pennsylvania	THIODICARB	1997	kg	1162.8				7160.7					
+42	Pennsylvania	THIODICARB	1998	kg					4873.5					
+42	Pennsylvania	THIODICARB	1999	kg					4905.1					
+42	Pennsylvania	THIODICARB	2000	kg					3362.7					
+42	Pennsylvania	THIODICARB	2001	kg					1483.3					
+42	Pennsylvania	THIODICARB	2002	kg					3652.2					
+42	Pennsylvania	THIODICARB	2003	kg					5450.4					
+42	Pennsylvania	THIODICARB	2004	kg					2607.2					
+42	Pennsylvania	THIODICARB	2005	kg					8336.5					
+42	Pennsylvania	THIODICARB	2006	kg					2087.9					
+42	Pennsylvania	THIODICARB	2007	kg					2198.1					
+42	Pennsylvania	THIODICARB	2008	kg					683.7					
+42	Pennsylvania	THIODICARB	2009	kg					1367.6					
+42	Pennsylvania	THIODICARB	2010	kg					1490					
+42	Pennsylvania	THIODICARB	2011	kg					765.3					
+42	Pennsylvania	THIODICARB	2012	kg					1409.7					
+42	Pennsylvania	THIODICARB	2013	kg					728.3					
+44	Rhode Island	THIODICARB	1992	kg	19.9				22.8					
+44	Rhode Island	THIODICARB	1993	kg	17.4				127.6					
+44	Rhode Island	THIODICARB	1994	kg	15.7				38.7					
+44	Rhode Island	THIODICARB	1995	kg	8.2				20.4					
+44	Rhode Island	THIODICARB	1996	kg	4.9				65.4					
+44	Rhode Island	THIODICARB	1997	kg					27.3					
+44	Rhode Island	THIODICARB	1998	kg					13.3					
+44	Rhode Island	THIODICARB	1999	kg					289.2					
+44	Rhode Island	THIODICARB	2000	kg					146.6					
+44	Rhode Island	THIODICARB	2001	kg					70.4					
+44	Rhode Island	THIODICARB	2002	kg					183.9					
+44	Rhode Island	THIODICARB	2003	kg					230.9					
+44	Rhode Island	THIODICARB	2004	kg					82.7					
+44	Rhode Island	THIODICARB	2005	kg					281.9					
+44	Rhode Island	THIODICARB	2006	kg					81					
+44	Rhode Island	THIODICARB	2007	kg					120.8					
+44	Rhode Island	THIODICARB	2008	kg					21.2					
+44	Rhode Island	THIODICARB	2010	kg					46.9					
+44	Rhode Island	THIODICARB	2011	kg					53.5					
+44	Rhode Island	THIODICARB	2012	kg					106.6					
+45	South Carolina	THIODICARB	1992	kg		1618.9		4626.6	272.9					34
+45	South Carolina	THIODICARB	1993	kg		1207.2		6105.1						39.3
+45	South Carolina	THIODICARB	1994	kg		2789		3672						
+45	South Carolina	THIODICARB	1995	kg		3210.8		52865.9	233					
+45	South Carolina	THIODICARB	1996	kg		831.3		3986.4	298.1					7.6
+45	South Carolina	THIODICARB	1997	kg		4272.7		6627.7	47.2					2.9
+45	South Carolina	THIODICARB	1998	kg				2431.1	331.2					
+45	South Carolina	THIODICARB	1999	kg				279.4						
+45	South Carolina	THIODICARB	2000	kg				250.6						
+45	South Carolina	THIODICARB	2002	kg				373.1						
+45	South Carolina	THIODICARB	2007	kg		11130.3		92.1						
+45	South Carolina	THIODICARB	2008	kg				80.8						
+45	South Carolina	THIODICARB	2009	kg				434.9						
+45	South Carolina	THIODICARB	2010	kg		370.8		138.3						
+45	South Carolina	THIODICARB	2011	kg		2238.6		112.6						
+45	South Carolina	THIODICARB	2012	kg				99.6						
+45	South Carolina	THIODICARB	2013	kg				281.4						
+45	South Carolina	THIODICARB	2014	kg				567.4						
+47	Tennessee	THIODICARB	1992	kg				1248.8						
+47	Tennessee	THIODICARB	1993	kg		4570.2		4190.2						
+47	Tennessee	THIODICARB	1994	kg		9364		691						
+47	Tennessee	THIODICARB	1995	kg		4391.7		19991.5						
+47	Tennessee	THIODICARB	1996	kg				3208.1	1490					52
+47	Tennessee	THIODICARB	1997	kg		2916.3		438.5						
+47	Tennessee	THIODICARB	1998	kg				1629.6						
+47	Tennessee	THIODICARB	2001	kg				2115.9						
+47	Tennessee	THIODICARB	2002	kg				238.1						
+47	Tennessee	THIODICARB	2003	kg				620.4						
+47	Tennessee	THIODICARB	2004	kg		4886.7								
+47	Tennessee	THIODICARB	2007	kg				1114.4						
+47	Tennessee	THIODICARB	2008	kg				97.6						
+47	Tennessee	THIODICARB	2009	kg				2278.1						
+47	Tennessee	THIODICARB	2010	kg				198.3						
+47	Tennessee	THIODICARB	2011	kg				988.4						
+47	Tennessee	THIODICARB	2012	kg				338.8						
+47	Tennessee	THIODICARB	2013	kg				785.2						
+47	Tennessee	THIODICARB	2014	kg				414						
+48	Texas	THIODICARB	1992	kg				33133.1	322.6					
+48	Texas	THIODICARB	1993	kg		2.7	14248.6	16662						1182.2
+48	Texas	THIODICARB	1994	kg		15.8		21976.7						
+48	Texas	THIODICARB	1995	kg		44.4		73912.1	161.9					282.9
+48	Texas	THIODICARB	1996	kg				9207.9	178.2			115.4		
+48	Texas	THIODICARB	1997	kg		12.9		16088.4						
+48	Texas	THIODICARB	1998	kg				3293.3	296.4					
+48	Texas	THIODICARB	1999	kg				164287.8						
+48	Texas	THIODICARB	2000	kg				10856						
+48	Texas	THIODICARB	2001	kg				1574.4						
+48	Texas	THIODICARB	2002	kg				2071.5						
+48	Texas	THIODICARB	2003	kg				1511.9						
+48	Texas	THIODICARB	2004	kg				15344						
+48	Texas	THIODICARB	2006	kg				1160.7	213					
+48	Texas	THIODICARB	2007	kg				568.8	419					
+48	Texas	THIODICARB	2008	kg				3211						
+48	Texas	THIODICARB	2009	kg				2391						
+48	Texas	THIODICARB	2010	kg				5607.3						
+48	Texas	THIODICARB	2011	kg				11448.2						
+48	Texas	THIODICARB	2012	kg				10606.3						
+48	Texas	THIODICARB	2013	kg				4247.5						
+48	Texas	THIODICARB	2014	kg				8921.5						
+49	Utah	THIODICARB	1998	kg					0.1					
+50	Vermont	THIODICARB	1992	kg	1293				33.7					
+50	Vermont	THIODICARB	1993	kg	534.6				344					
+50	Vermont	THIODICARB	1994	kg	484.9				23.3					
+50	Vermont	THIODICARB	1995	kg	123.1				39.5					
+50	Vermont	THIODICARB	1996	kg	152.6				13.7					
+50	Vermont	THIODICARB	1997	kg					79.9					
+50	Vermont	THIODICARB	1998	kg					38.7					
+50	Vermont	THIODICARB	1999	kg					342.7					
+50	Vermont	THIODICARB	2000	kg					164					
+50	Vermont	THIODICARB	2001	kg					74					
+50	Vermont	THIODICARB	2002	kg					1164.1					
+50	Vermont	THIODICARB	2003	kg					424.4					
+50	Vermont	THIODICARB	2004	kg					39.8					
+50	Vermont	THIODICARB	2005	kg					393.5					
+50	Vermont	THIODICARB	2006	kg					139.4					
+50	Vermont	THIODICARB	2007	kg					93.9					
+50	Vermont	THIODICARB	2008	kg					33.4					
+50	Vermont	THIODICARB	2010	kg					58.2					
+50	Vermont	THIODICARB	2011	kg					306.1					
+50	Vermont	THIODICARB	2012	kg					384					
+51	Virginia	THIODICARB	1992	kg		1247.5		139.6	1330					
+51	Virginia	THIODICARB	1993	kg		2395.5		498.3	40.5					256.3
+51	Virginia	THIODICARB	1994	kg		3959.2		1070.9	968.8					627.4
+51	Virginia	THIODICARB	1995	kg	50.5	2442.1		10454	695.7					
+51	Virginia	THIODICARB	1996	kg		695.1	1600.1	1941.9	3452					715.6
+51	Virginia	THIODICARB	1997	kg		4745.8		184.6	775.7					
+51	Virginia	THIODICARB	1998	kg				364.2	817					
+51	Virginia	THIODICARB	1999	kg					48.7					
+51	Virginia	THIODICARB	2000	kg					37.6					
+51	Virginia	THIODICARB	2001	kg					43.2					
+51	Virginia	THIODICARB	2002	kg				220.2	27.3					
+51	Virginia	THIODICARB	2004	kg					26.7					
+51	Virginia	THIODICARB	2005	kg					181.4					
+51	Virginia	THIODICARB	2006	kg		489.9			48.9					
+51	Virginia	THIODICARB	2007	kg		13878.2		28.2	0.7					
+51	Virginia	THIODICARB	2008	kg		862.8		9.4	11.2					
+51	Virginia	THIODICARB	2009	kg				268	67.2					
+51	Virginia	THIODICARB	2010	kg		502.2		13.2	39.8					
+51	Virginia	THIODICARB	2011	kg		5489.3		35.7						
+51	Virginia	THIODICARB	2012	kg				48.3						
+51	Virginia	THIODICARB	2013	kg				123.1						
+51	Virginia	THIODICARB	2014	kg				64.7						
+51	Virginia	THIODICARB	2017	kg		5022.1								
+54	West Virginia	THIODICARB	1992	kg	664.3				596.4					
+54	West Virginia	THIODICARB	1993	kg					128.4					
+54	West Virginia	THIODICARB	1994	kg					920.6					
+54	West Virginia	THIODICARB	1995	kg	80.7				317.9					
+54	West Virginia	THIODICARB	1996	kg					471.6					
+54	West Virginia	THIODICARB	1997	kg					126					
+54	West Virginia	THIODICARB	1998	kg					117.1					
+54	West Virginia	THIODICARB	1999	kg					104.7					
+54	West Virginia	THIODICARB	2000	kg					121.8					
+54	West Virginia	THIODICARB	2001	kg					115.2					
+54	West Virginia	THIODICARB	2002	kg					78.6					
+54	West Virginia	THIODICARB	2003	kg					68.8					
+54	West Virginia	THIODICARB	2004	kg					51.2					
+54	West Virginia	THIODICARB	2005	kg					342					
+54	West Virginia	THIODICARB	2006	kg					76.6					
+54	West Virginia	THIODICARB	2007	kg					3.6					
+54	West Virginia	THIODICARB	2008	kg					16.4					
+54	West Virginia	THIODICARB	2009	kg					86.4					
+54	West Virginia	THIODICARB	2010	kg					44.6					
+54	West Virginia	THIODICARB	2011	kg					10.8					
+54	West Virginia	THIODICARB	2012	kg					9.5					
+54	West Virginia	THIODICARB	2013	kg					19.7					
+55	Wisconsin	THIODICARB	1994	kg					98.5					
+55	Wisconsin	THIODICARB	1995	kg	10967									
+55	Wisconsin	THIODICARB	1997	kg	1283.5									
+55	Wisconsin	THIODICARB	2007	kg					265.9					
+55	Wisconsin	THIODICARB	2012	kg		362								
+55	Wisconsin	THIODICARB	2015	kg					90					
+56	Wyoming	THIODICARB	1997	kg										41.8

@@ -1,0 +1,692 @@
+01	Alabama	IMAZAMOX	1998	kg		157.2								
+01	Alabama	IMAZAMOX	1999	kg		9.5								
+01	Alabama	IMAZAMOX	2000	kg		63								
+01	Alabama	IMAZAMOX	2001	kg		45.5								
+01	Alabama	IMAZAMOX	2002	kg		152.1								
+01	Alabama	IMAZAMOX	2003	kg		18.6								
+01	Alabama	IMAZAMOX	2004	kg		33.6								
+01	Alabama	IMAZAMOX	2005	kg		11.6								
+04	Arizona	IMAZAMOX	2002	kg					0			23.3		
+04	Arizona	IMAZAMOX	2003	kg								105		
+04	Arizona	IMAZAMOX	2004	kg					0			59.1		
+04	Arizona	IMAZAMOX	2005	kg					0			80.9		
+04	Arizona	IMAZAMOX	2006	kg					0			1267.2		
+04	Arizona	IMAZAMOX	2007	kg								28.4		
+04	Arizona	IMAZAMOX	2008	kg					0			150.9		
+04	Arizona	IMAZAMOX	2009	kg								128.3		
+04	Arizona	IMAZAMOX	2010	kg								604.2		
+04	Arizona	IMAZAMOX	2011	kg								74.1		
+04	Arizona	IMAZAMOX	2012	kg								332.7		
+04	Arizona	IMAZAMOX	2013	kg								257.8		
+04	Arizona	IMAZAMOX	2014	kg								80.5		
+04	Arizona	IMAZAMOX	2015	kg								642.4		
+04	Arizona	IMAZAMOX	2016	kg								431.3		
+04	Arizona	IMAZAMOX	2017	kg								3162.5		
+05	Arkansas	IMAZAMOX	1998	kg		856.6								
+05	Arkansas	IMAZAMOX	2000	kg		216.8								
+05	Arkansas	IMAZAMOX	2002	kg		6.1								
+05	Arkansas	IMAZAMOX	2004	kg						8.7				
+05	Arkansas	IMAZAMOX	2005	kg						277.7				
+05	Arkansas	IMAZAMOX	2006	kg						379.8				
+05	Arkansas	IMAZAMOX	2007	kg		416.6				145.1				
+05	Arkansas	IMAZAMOX	2008	kg						306				
+05	Arkansas	IMAZAMOX	2009	kg						1209.6				
+05	Arkansas	IMAZAMOX	2010	kg						2714.4		18.9		
+05	Arkansas	IMAZAMOX	2011	kg						3104.8				
+05	Arkansas	IMAZAMOX	2012	kg						1871.8				
+05	Arkansas	IMAZAMOX	2013	kg						1185.7				
+05	Arkansas	IMAZAMOX	2014	kg			0.3			1122.1				
+05	Arkansas	IMAZAMOX	2015	kg						1157.2				
+05	Arkansas	IMAZAMOX	2016	kg			0.9			379.2				
+05	Arkansas	IMAZAMOX	2017	kg						1585.8				
+06	California	IMAZAMOX	2002	kg	0.5							692.4		10.8
+06	California	IMAZAMOX	2003	kg			3.5					1177.3	0.4	25.2
+06	California	IMAZAMOX	2004	kg			10.6					1384.2		26.6
+06	California	IMAZAMOX	2005	kg		0.3	10.7					1831.9	3.3	10.9
+06	California	IMAZAMOX	2006	kg			1.5		27.1			2246.7	5.3	11.8
+06	California	IMAZAMOX	2007	kg			2.7	0.2	2.4			1603.7	8	7.3
+06	California	IMAZAMOX	2008	kg			4.5					1894.6	13.3	5.6
+06	California	IMAZAMOX	2009	kg			8.4					1641.3	12.8	13
+06	California	IMAZAMOX	2010	kg			1.5		2.7		0.6	1586.1	2.1	24.1
+06	California	IMAZAMOX	2011	kg			8.7		1.2			1838.4	7.5	22.8
+06	California	IMAZAMOX	2012	kg			9.8					1928.1	2.7	30.8
+06	California	IMAZAMOX	2013	kg			3.5		0.6			1899.4	9	47.2
+06	California	IMAZAMOX	2014	kg			2.4		1.8			1929.3	15	17.2
+06	California	IMAZAMOX	2015	kg	3.3		2.4					2069.7	8.7	13.5
+06	California	IMAZAMOX	2016	kg	1.4							1704.1	16.8	27.5
+06	California	IMAZAMOX	2017	kg			5.4	0.1				1803.8	3.1	35.7
+08	Colorado	IMAZAMOX	1998	kg		0.5								
+08	Colorado	IMAZAMOX	1999	kg		0.9			105.8					
+08	Colorado	IMAZAMOX	2000	kg		0.1			139.6					
+08	Colorado	IMAZAMOX	2001	kg		0.8			49.4					
+08	Colorado	IMAZAMOX	2002	kg		0.8	22.8		26.1			1596		
+08	Colorado	IMAZAMOX	2003	kg		0.2	438.2		208			895.6		4.3
+08	Colorado	IMAZAMOX	2004	kg			444.9		90.5			121		646.1
+08	Colorado	IMAZAMOX	2005	kg			1345.2		108.9			3445.5		118.7
+08	Colorado	IMAZAMOX	2006	kg			407.5		89.9			1205.1		922.6
+08	Colorado	IMAZAMOX	2007	kg			310.9		104.2			1803.3		51.9
+08	Colorado	IMAZAMOX	2008	kg		0.7	1577.9		172			1766.5		91.9
+08	Colorado	IMAZAMOX	2009	kg		0.2	1543.7		48			720.4		65.4
+08	Colorado	IMAZAMOX	2010	kg		1.8	584.4		144.6			780.1		109.8
+08	Colorado	IMAZAMOX	2011	kg		7.6	247.9		391.1			396.7		39.2
+08	Colorado	IMAZAMOX	2012	kg		4.2	2097.3		46.6			674.6		90.2
+08	Colorado	IMAZAMOX	2013	kg		0.5	1980.9		402			258.7		335.4
+08	Colorado	IMAZAMOX	2014	kg		1.7	2244.8		243.2			377.6		29.5
+08	Colorado	IMAZAMOX	2015	kg		14.5	993.5		256			1491.5		98
+08	Colorado	IMAZAMOX	2016	kg		1.4	2113.4		309			1255.4		23.2
+08	Colorado	IMAZAMOX	2017	kg		15	1323.6		326.8			1745.5		68.2
+10	Delaware	IMAZAMOX	1998	kg		14.6								
+10	Delaware	IMAZAMOX	1999	kg		179.5								
+10	Delaware	IMAZAMOX	2000	kg		9.2								
+10	Delaware	IMAZAMOX	2001	kg		108.1								
+10	Delaware	IMAZAMOX	2004	kg								4.4		
+10	Delaware	IMAZAMOX	2005	kg								0.4		
+10	Delaware	IMAZAMOX	2006	kg								0.2		
+10	Delaware	IMAZAMOX	2008	kg								0.3		
+10	Delaware	IMAZAMOX	2009	kg								1		
+10	Delaware	IMAZAMOX	2010	kg								0.5		
+10	Delaware	IMAZAMOX	2012	kg								1.4		
+10	Delaware	IMAZAMOX	2013	kg					5.3			1.8		
+10	Delaware	IMAZAMOX	2014	kg		20.8								
+10	Delaware	IMAZAMOX	2015	kg		8.6						0.3		
+10	Delaware	IMAZAMOX	2016	kg					29.1			0		
+10	Delaware	IMAZAMOX	2017	kg					103.7					
+13	Georgia	IMAZAMOX	1998	kg		63.1								
+13	Georgia	IMAZAMOX	2001	kg		54.3								
+16	Idaho	IMAZAMOX	1999	kg					9.8					
+16	Idaho	IMAZAMOX	2000	kg					247.8					
+16	Idaho	IMAZAMOX	2002	kg					69.8			1500.9		34.8
+16	Idaho	IMAZAMOX	2003	kg			73		91			1128.6		
+16	Idaho	IMAZAMOX	2004	kg			300.5		25.7			184.3		
+16	Idaho	IMAZAMOX	2005	kg			21.3		118.5			200.9		
+16	Idaho	IMAZAMOX	2006	kg			571.6		231.5			234		
+16	Idaho	IMAZAMOX	2007	kg			377.1		148.7			219.5		
+16	Idaho	IMAZAMOX	2008	kg			1066.9		180.3			1063.1		
+16	Idaho	IMAZAMOX	2009	kg			1169.9		106.8			1406.6		
+16	Idaho	IMAZAMOX	2010	kg			384.4		489			821.1		
+16	Idaho	IMAZAMOX	2011	kg			715.8		1800.2			303		
+16	Idaho	IMAZAMOX	2012	kg			2781.1		650.4			1300.5		
+16	Idaho	IMAZAMOX	2013	kg			257.4		1083.4			400		
+16	Idaho	IMAZAMOX	2014	kg			1992.1		57.1			563.4		
+16	Idaho	IMAZAMOX	2015	kg			552.8		1343.3			509.6		
+16	Idaho	IMAZAMOX	2016	kg			1542.1		282.6			227.5		
+16	Idaho	IMAZAMOX	2017	kg			1205.6		537.4			1739.3		
+17	Illinois	IMAZAMOX	1997	kg		575.7								
+17	Illinois	IMAZAMOX	1998	kg		16374.3								
+17	Illinois	IMAZAMOX	1999	kg		11945.3								
+17	Illinois	IMAZAMOX	2000	kg		22621.3			186.9					
+17	Illinois	IMAZAMOX	2001	kg		18314.8						5.9		
+17	Illinois	IMAZAMOX	2002	kg		12210.8						46.1		
+17	Illinois	IMAZAMOX	2003	kg		10707.4			19.5			126.6		
+17	Illinois	IMAZAMOX	2004	kg		6133.5						334.9		
+17	Illinois	IMAZAMOX	2005	kg		5653.8			3.5			67.5		
+17	Illinois	IMAZAMOX	2006	kg		2378			51.1			101.8		
+17	Illinois	IMAZAMOX	2007	kg		2708.4			12.1			527.6		
+17	Illinois	IMAZAMOX	2008	kg		5248.1			36.2			268.2		
+17	Illinois	IMAZAMOX	2009	kg		2369.2			27.7			91.6		
+17	Illinois	IMAZAMOX	2010	kg		3256.5			50.9			144.7		
+17	Illinois	IMAZAMOX	2011	kg		1259.6			45.1			27		
+17	Illinois	IMAZAMOX	2012	kg		3988.3			8.2			43.4		
+17	Illinois	IMAZAMOX	2013	kg		4281.7			54.1			201.6		
+17	Illinois	IMAZAMOX	2014	kg		2617.8			48.8			126.1		
+17	Illinois	IMAZAMOX	2015	kg		2460.3			45.2			117.3		
+17	Illinois	IMAZAMOX	2016	kg		4393.6			83.1			155.2		
+17	Illinois	IMAZAMOX	2017	kg		1616.2			75			75.2		
+18	Indiana	IMAZAMOX	1997	kg		196								
+18	Indiana	IMAZAMOX	1998	kg		6834.1								
+18	Indiana	IMAZAMOX	1999	kg		1674								
+18	Indiana	IMAZAMOX	2000	kg		5023.7			6.2					
+18	Indiana	IMAZAMOX	2001	kg		3182.1								
+18	Indiana	IMAZAMOX	2002	kg		3138.3						20.1		
+18	Indiana	IMAZAMOX	2003	kg		1718.5			1			108.3		
+18	Indiana	IMAZAMOX	2004	kg		2360.8						720.4		
+18	Indiana	IMAZAMOX	2005	kg		1162.6			0.3			51.2		
+18	Indiana	IMAZAMOX	2006	kg		1600.8			0.8			92.2		
+18	Indiana	IMAZAMOX	2007	kg		1021.4			0.3			397.3		
+18	Indiana	IMAZAMOX	2008	kg		2011.1						287.9		
+18	Indiana	IMAZAMOX	2009	kg		1468.6			1			117.6		
+18	Indiana	IMAZAMOX	2010	kg		1276.9			35.4			224.2		
+18	Indiana	IMAZAMOX	2011	kg		645.8			2.8			34.1		
+18	Indiana	IMAZAMOX	2012	kg		1579.4			44.5			87.4		
+18	Indiana	IMAZAMOX	2013	kg		703.9			10.6			173.5		
+18	Indiana	IMAZAMOX	2014	kg		289.6			62.6			141.7		
+18	Indiana	IMAZAMOX	2015	kg		1979.3			8.7			262.6		
+18	Indiana	IMAZAMOX	2016	kg		717.4			18.8			107.3		
+18	Indiana	IMAZAMOX	2017	kg		651.5			14.9			170.1		
+19	Iowa	IMAZAMOX	1997	kg		1704.4								
+19	Iowa	IMAZAMOX	1998	kg		14301								
+19	Iowa	IMAZAMOX	1999	kg		3231.3			0.8					
+19	Iowa	IMAZAMOX	2000	kg		6698.4			1.1					
+19	Iowa	IMAZAMOX	2001	kg		5535.9			0.8			11.2		
+19	Iowa	IMAZAMOX	2002	kg		3420.8			1.4			126.5		
+19	Iowa	IMAZAMOX	2003	kg		2682.1			2.2			534		
+19	Iowa	IMAZAMOX	2004	kg		2178.8			1.3			622.1		
+19	Iowa	IMAZAMOX	2005	kg		2394.9			1.2			233.1		
+19	Iowa	IMAZAMOX	2006	kg		1349.8			2			367		
+19	Iowa	IMAZAMOX	2007	kg		2071			1.3			893		
+19	Iowa	IMAZAMOX	2008	kg		1070.3			0.5			1053.3		
+19	Iowa	IMAZAMOX	2009	kg		1411.1			1.6			115.6		
+19	Iowa	IMAZAMOX	2010	kg		2584			1.4			697		
+19	Iowa	IMAZAMOX	2011	kg		765.6			0.1			153.3		1.1
+19	Iowa	IMAZAMOX	2012	kg		2079.7			0.8			274.9		
+19	Iowa	IMAZAMOX	2013	kg		3222.3			1.7			529.4		0
+19	Iowa	IMAZAMOX	2014	kg		1844.6			2.3			464.9		0
+19	Iowa	IMAZAMOX	2015	kg		2252	1.1		4.6			466.4		0
+19	Iowa	IMAZAMOX	2016	kg		1758.5			2.4			290.9		0
+19	Iowa	IMAZAMOX	2017	kg		1067.2			5.8			258.2		0
+20	Kansas	IMAZAMOX	1998	kg		566.4								
+20	Kansas	IMAZAMOX	1999	kg		1098.7								
+20	Kansas	IMAZAMOX	2000	kg		75.2								
+20	Kansas	IMAZAMOX	2001	kg		876.6								
+20	Kansas	IMAZAMOX	2002	kg		527.5			122.5			484.6		
+20	Kansas	IMAZAMOX	2003	kg		143.4	474.3		7.4			169.9		
+20	Kansas	IMAZAMOX	2004	kg			1255.9		32.2			157.6		691.5
+20	Kansas	IMAZAMOX	2005	kg			704.9		27.2			2837.9		589.1
+20	Kansas	IMAZAMOX	2006	kg		177.2	2253.7		2.3			153.4		947.5
+20	Kansas	IMAZAMOX	2007	kg			995.1		0.2			4555.1		213.3
+20	Kansas	IMAZAMOX	2008	kg			1129.1					1039.6		241.3
+20	Kansas	IMAZAMOX	2009	kg			1698.4		8.7			2728.5		250.6
+20	Kansas	IMAZAMOX	2010	kg			1408.7		16.5			3728		219.1
+20	Kansas	IMAZAMOX	2011	kg			712		112.8			1547.7		95.7
+20	Kansas	IMAZAMOX	2012	kg		28.2	1372.2		9.9			814.8		122.7
+20	Kansas	IMAZAMOX	2013	kg			4127.6		93.2			115.1		703.5
+20	Kansas	IMAZAMOX	2014	kg			4192.6		35.1					165.9
+20	Kansas	IMAZAMOX	2015	kg		68.7	2029.1		64.7			1416.9		69.3
+20	Kansas	IMAZAMOX	2016	kg			5030.8		116.3			57.6		
+20	Kansas	IMAZAMOX	2017	kg			2644.6		69.5			1285.5		341.7
+21	Kentucky	IMAZAMOX	1997	kg		95.1								
+21	Kentucky	IMAZAMOX	1998	kg		2228								
+21	Kentucky	IMAZAMOX	1999	kg		330.2								
+21	Kentucky	IMAZAMOX	2000	kg		1999								
+21	Kentucky	IMAZAMOX	2001	kg		895.1								
+21	Kentucky	IMAZAMOX	2002	kg		2277.8						1.1		
+21	Kentucky	IMAZAMOX	2003	kg		752.8						6		
+21	Kentucky	IMAZAMOX	2004	kg		365.2						66.8		
+21	Kentucky	IMAZAMOX	2005	kg		171.7						43.8		
+21	Kentucky	IMAZAMOX	2006	kg		188.2						5.1		
+21	Kentucky	IMAZAMOX	2007	kg		195.1						23.2		
+21	Kentucky	IMAZAMOX	2008	kg		159.7						17.3		
+21	Kentucky	IMAZAMOX	2009	kg		281.6			0			5.9		
+21	Kentucky	IMAZAMOX	2010	kg		319			0.5			10.2		
+21	Kentucky	IMAZAMOX	2011	kg		143.6			0			1		
+21	Kentucky	IMAZAMOX	2012	kg		218.8						4.3		
+21	Kentucky	IMAZAMOX	2013	kg		348.4			0			10.2		
+21	Kentucky	IMAZAMOX	2014	kg		238.4			0.8			9		
+21	Kentucky	IMAZAMOX	2015	kg		293.8			0			78.2		
+21	Kentucky	IMAZAMOX	2016	kg		217.8			0.1			59.2		
+21	Kentucky	IMAZAMOX	2017	kg		129.6			0.1			5.6		
+22	Louisiana	IMAZAMOX	1998	kg		25.5								
+22	Louisiana	IMAZAMOX	2000	kg		99.1								
+22	Louisiana	IMAZAMOX	2004	kg						44.2				
+22	Louisiana	IMAZAMOX	2006	kg						297.2				
+22	Louisiana	IMAZAMOX	2007	kg		1607.7								
+22	Louisiana	IMAZAMOX	2008	kg						226.6				
+22	Louisiana	IMAZAMOX	2009	kg						489.6				
+22	Louisiana	IMAZAMOX	2010	kg						524.9				
+22	Louisiana	IMAZAMOX	2011	kg						240.9				
+22	Louisiana	IMAZAMOX	2012	kg						59.3				
+22	Louisiana	IMAZAMOX	2013	kg						63.4				
+22	Louisiana	IMAZAMOX	2014	kg						126.7				
+22	Louisiana	IMAZAMOX	2015	kg						194.4				
+22	Louisiana	IMAZAMOX	2016	kg						36.6				
+22	Louisiana	IMAZAMOX	2017	kg						635.9				
+24	Maryland	IMAZAMOX	1998	kg		62.9								
+24	Maryland	IMAZAMOX	1999	kg		273.6								
+24	Maryland	IMAZAMOX	2000	kg		102								
+24	Maryland	IMAZAMOX	2001	kg		150.2								
+24	Maryland	IMAZAMOX	2003	kg		328.9								
+24	Maryland	IMAZAMOX	2004	kg					18.4					
+24	Maryland	IMAZAMOX	2005	kg								7.1		
+24	Maryland	IMAZAMOX	2006	kg								6.4		
+24	Maryland	IMAZAMOX	2008	kg					5.1			9.5		
+24	Maryland	IMAZAMOX	2009	kg					14			30.2		
+24	Maryland	IMAZAMOX	2010	kg					0.8			12.3		
+24	Maryland	IMAZAMOX	2012	kg					9.5			25		
+24	Maryland	IMAZAMOX	2013	kg					11.8			39.3		
+24	Maryland	IMAZAMOX	2014	kg		287.6			5.1					
+24	Maryland	IMAZAMOX	2015	kg		120.5			2.7			9.7		
+24	Maryland	IMAZAMOX	2016	kg					8.1			1.7		
+24	Maryland	IMAZAMOX	2017	kg					13.3			3.5		
+26	Michigan	IMAZAMOX	1997	kg		185.7								
+26	Michigan	IMAZAMOX	1998	kg		2751.5								
+26	Michigan	IMAZAMOX	1999	kg		2796.6								
+26	Michigan	IMAZAMOX	2000	kg		4395.6			1319.7					
+26	Michigan	IMAZAMOX	2001	kg		2454.6			51.9					
+26	Michigan	IMAZAMOX	2002	kg		1147.3			406.8			43.1		
+26	Michigan	IMAZAMOX	2003	kg		1067			517.5			456.6		
+26	Michigan	IMAZAMOX	2004	kg		754.1			194.2			1833.2		
+26	Michigan	IMAZAMOX	2005	kg		748.3			557.8			1656.9		
+26	Michigan	IMAZAMOX	2006	kg		1847.7			549.4			117.4		
+26	Michigan	IMAZAMOX	2007	kg		156.7			542.1			1489.3		
+26	Michigan	IMAZAMOX	2008	kg		639.4			1149.2			430.1		
+26	Michigan	IMAZAMOX	2009	kg		500.6			860.7			496		
+26	Michigan	IMAZAMOX	2010	kg		6553.2			1240.9			146.8		
+26	Michigan	IMAZAMOX	2011	kg		226			961.5			133.8		
+26	Michigan	IMAZAMOX	2012	kg		109			1215.5			80.9		
+26	Michigan	IMAZAMOX	2013	kg		1811.8			1102.2			407.8		
+26	Michigan	IMAZAMOX	2014	kg		1157.8			1298.2			245.4		
+26	Michigan	IMAZAMOX	2015	kg		1756.9			2173.7			140.6		
+26	Michigan	IMAZAMOX	2016	kg					1741.3			212.5		
+26	Michigan	IMAZAMOX	2017	kg		493.8			2003.4			637.8		
+27	Minnesota	IMAZAMOX	1997	kg		1347.7								
+27	Minnesota	IMAZAMOX	1998	kg		21863.9								
+27	Minnesota	IMAZAMOX	1999	kg		8653.6			638.5					
+27	Minnesota	IMAZAMOX	2000	kg		11577			407.9					62.8
+27	Minnesota	IMAZAMOX	2001	kg		10413.9			907.2			11.6		69.4
+27	Minnesota	IMAZAMOX	2002	kg		7324.9			899			87.4		78.2
+27	Minnesota	IMAZAMOX	2003	kg		6646.2			849.4			1059.7		50.3
+27	Minnesota	IMAZAMOX	2004	kg		4577.7			824.5			95.6		36.7
+27	Minnesota	IMAZAMOX	2005	kg		3382.6			996.8			236.4		206.2
+27	Minnesota	IMAZAMOX	2006	kg		2412.1			1124.5			246.3		232.4
+27	Minnesota	IMAZAMOX	2007	kg		1606			1344			1029.8		139.4
+27	Minnesota	IMAZAMOX	2008	kg		1738.2			508.5			1511.2		96
+27	Minnesota	IMAZAMOX	2009	kg		1205.1			961.1			210.4		215.1
+27	Minnesota	IMAZAMOX	2010	kg		2924.4			1495.1			975.3		425
+27	Minnesota	IMAZAMOX	2011	kg		9150.3			1054			123.9		222.8
+27	Minnesota	IMAZAMOX	2012	kg		2104.1			1211.9			754.1		413.2
+27	Minnesota	IMAZAMOX	2013	kg		1801.5			376.3			2172.4		274.8
+27	Minnesota	IMAZAMOX	2014	kg		2627.3			824.3			6012.3		233.2
+27	Minnesota	IMAZAMOX	2015	kg		1204.9			1248.1			1335.7		336.3
+27	Minnesota	IMAZAMOX	2016	kg		1883.7			1334.9			1058.7		235.4
+27	Minnesota	IMAZAMOX	2017	kg		1716.9			1619.9			541.7		297.1
+28	Mississippi	IMAZAMOX	1998	kg		190.1								
+28	Mississippi	IMAZAMOX	2000	kg		136								
+28	Mississippi	IMAZAMOX	2004	kg						0.8				
+28	Mississippi	IMAZAMOX	2005	kg						30.6				
+28	Mississippi	IMAZAMOX	2006	kg						29.9				
+28	Mississippi	IMAZAMOX	2007	kg						8.9				
+28	Mississippi	IMAZAMOX	2008	kg						52.3				
+28	Mississippi	IMAZAMOX	2009	kg						136.6				
+28	Mississippi	IMAZAMOX	2010	kg						264.3				
+28	Mississippi	IMAZAMOX	2011	kg						725.5				
+28	Mississippi	IMAZAMOX	2012	kg						241.9				
+28	Mississippi	IMAZAMOX	2013	kg						182.4				
+28	Mississippi	IMAZAMOX	2014	kg						141.6				
+28	Mississippi	IMAZAMOX	2015	kg						252.7				
+28	Mississippi	IMAZAMOX	2017	kg						50.2				
+29	Missouri	IMAZAMOX	1997	kg		250								
+29	Missouri	IMAZAMOX	1998	kg		1635.6								
+29	Missouri	IMAZAMOX	1999	kg		1033.7								
+29	Missouri	IMAZAMOX	2000	kg		1012								
+29	Missouri	IMAZAMOX	2001	kg		1874.1								
+29	Missouri	IMAZAMOX	2002	kg		877						8.4		
+29	Missouri	IMAZAMOX	2003	kg		825.2						43		
+29	Missouri	IMAZAMOX	2004	kg		709.5						70.5		
+29	Missouri	IMAZAMOX	2005	kg		1432.9				21.6		20.6		
+29	Missouri	IMAZAMOX	2006	kg		552.6				68.8		33.2		
+29	Missouri	IMAZAMOX	2007	kg		926.4				83.5		156.4		
+29	Missouri	IMAZAMOX	2008	kg		965.1				197.2		102		0.6
+29	Missouri	IMAZAMOX	2009	kg		2131.1	18.1			307.2		82.9		0.8
+29	Missouri	IMAZAMOX	2010	kg		1641.1	7.8			278.6		222.5		1.1
+29	Missouri	IMAZAMOX	2011	kg		675.3				232.6		44.8		0.1
+29	Missouri	IMAZAMOX	2012	kg		1072.7				71.4		36.3		
+29	Missouri	IMAZAMOX	2013	kg		1989.8	41		0.6	7.2		46.6		0.9
+29	Missouri	IMAZAMOX	2014	kg		1060.6	15.5		0.6	93.1		43.1		0.7
+29	Missouri	IMAZAMOX	2015	kg		1168.2	167.3		0.6	97.4		28.2		0.8
+29	Missouri	IMAZAMOX	2016	kg		972.7	129.6		0.8	13.4		32.4		0.5
+29	Missouri	IMAZAMOX	2017	kg		599.9	26.6		0.9	238.4		27		1.8
+30	Montana	IMAZAMOX	1999	kg					157.1					
+30	Montana	IMAZAMOX	2000	kg					429.9			1.9		3.5
+30	Montana	IMAZAMOX	2001	kg					17.2					24.4
+30	Montana	IMAZAMOX	2002	kg					491.2			918.6		7.1
+30	Montana	IMAZAMOX	2003	kg			123.7		467.3			497.5		23.7
+30	Montana	IMAZAMOX	2004	kg			223.8		123.1			96.4		10.8
+30	Montana	IMAZAMOX	2005	kg			184.3		486.5			254.1		7.2
+30	Montana	IMAZAMOX	2006	kg			575.1		410.3			154.2		7.3
+30	Montana	IMAZAMOX	2007	kg			274		164.3			152.9		10.8
+30	Montana	IMAZAMOX	2008	kg		0.8	4259.5		320.3			3061.6		13.1
+30	Montana	IMAZAMOX	2009	kg		0.2	1814.3		44.3			714.9		11.7
+30	Montana	IMAZAMOX	2010	kg		2.5	1927.9		243.3			324.6		34.2
+30	Montana	IMAZAMOX	2011	kg		11.2	2533.5		648.7			1110.8		35.1
+30	Montana	IMAZAMOX	2012	kg		1	2158.8		703			1954.9		88.7
+30	Montana	IMAZAMOX	2013	kg		0.7	4176		826.7			1534.5	444.1	42
+30	Montana	IMAZAMOX	2014	kg		5	6844.7		517.6			6690.7		56.5
+30	Montana	IMAZAMOX	2015	kg		1.5	5985.2		2130			2051		1138
+30	Montana	IMAZAMOX	2016	kg		2.4	5891.6		708.5			2376.7		351.3
+30	Montana	IMAZAMOX	2017	kg		2.4	4987.9		361.6			531.2		74.9
+31	Nebraska	IMAZAMOX	1997	kg		203.3								
+31	Nebraska	IMAZAMOX	1998	kg		3404.9								
+31	Nebraska	IMAZAMOX	1999	kg		1086			350.4					
+31	Nebraska	IMAZAMOX	2000	kg		493.7			87.8					
+31	Nebraska	IMAZAMOX	2001	kg		674.6			267.1					
+31	Nebraska	IMAZAMOX	2002	kg		1992.5	81.3		366.9			452.7		
+31	Nebraska	IMAZAMOX	2003	kg		249.2	80.6		258.3			494.9		7
+31	Nebraska	IMAZAMOX	2004	kg		787.6	191.8		310.9			170.3		117.4
+31	Nebraska	IMAZAMOX	2005	kg		604.9	233.5		699.3			1562.3		248.5
+31	Nebraska	IMAZAMOX	2006	kg		516.9	403.4		435.9			199.8		103.9
+31	Nebraska	IMAZAMOX	2007	kg		539.8	260.7		473			1477.4		132.4
+31	Nebraska	IMAZAMOX	2008	kg		490.5	1400.4		561.5			2290.9		21.4
+31	Nebraska	IMAZAMOX	2009	kg		780.7	240.3		566.8			1179.5		119.6
+31	Nebraska	IMAZAMOX	2010	kg		969.6	1042.1		849.1			1387.6		176.9
+31	Nebraska	IMAZAMOX	2011	kg		679.9	367.2		631.9			1136.1		26.2
+31	Nebraska	IMAZAMOX	2012	kg		1024.2	1605.2		1342.2			765.7		169.9
+31	Nebraska	IMAZAMOX	2013	kg		830.9	1631.2		1132.8			285.3		242.8
+31	Nebraska	IMAZAMOX	2014	kg		674.3	932		1082			1619.1		97.8
+31	Nebraska	IMAZAMOX	2015	kg		1926.9	2473.4		836.5			963.7		81.5
+31	Nebraska	IMAZAMOX	2016	kg		584.2	1794.3		1632			937.5		256.5
+31	Nebraska	IMAZAMOX	2017	kg		1761	1790.2		2488.1			1037.1		149.5
+32	Nevada	IMAZAMOX	2002	kg								482.7		
+32	Nevada	IMAZAMOX	2003	kg			0.7					116.4		
+32	Nevada	IMAZAMOX	2004	kg			0.8					55.4		
+32	Nevada	IMAZAMOX	2005	kg			0					100.2		
+32	Nevada	IMAZAMOX	2006	kg			5					782.8		
+32	Nevada	IMAZAMOX	2007	kg			25					103.2		
+32	Nevada	IMAZAMOX	2008	kg			13.6					702.6		
+32	Nevada	IMAZAMOX	2009	kg			24.3					269.2		
+32	Nevada	IMAZAMOX	2010	kg			9.6					420.9		
+32	Nevada	IMAZAMOX	2011	kg			41.5					830.6		
+32	Nevada	IMAZAMOX	2012	kg			72.1					492		
+32	Nevada	IMAZAMOX	2013	kg			4.7					192.3		
+32	Nevada	IMAZAMOX	2014	kg			47.6					546.7		
+32	Nevada	IMAZAMOX	2015	kg			3.7					137.1		
+32	Nevada	IMAZAMOX	2016	kg			13.8		0.6			1347.8		
+32	Nevada	IMAZAMOX	2017	kg			2.9					583.6		
+34	New Jersey	IMAZAMOX	1998	kg		46.5								
+34	New Jersey	IMAZAMOX	2000	kg		39.5								
+34	New Jersey	IMAZAMOX	2001	kg		12.7								
+34	New Jersey	IMAZAMOX	2004	kg								61.1		
+34	New Jersey	IMAZAMOX	2005	kg								8.2		
+34	New Jersey	IMAZAMOX	2006	kg								5.3		
+34	New Jersey	IMAZAMOX	2008	kg								6.3		
+34	New Jersey	IMAZAMOX	2009	kg								22.9		
+34	New Jersey	IMAZAMOX	2010	kg					0.3			8.9		
+34	New Jersey	IMAZAMOX	2012	kg								16.2		
+34	New Jersey	IMAZAMOX	2013	kg					1.6			26.5		
+34	New Jersey	IMAZAMOX	2014	kg		86.1			1.7					
+34	New Jersey	IMAZAMOX	2015	kg		35.4			1.3			4.3		
+34	New Jersey	IMAZAMOX	2016	kg								0.6		
+35	New Mexico	IMAZAMOX	2000	kg					0.4					
+35	New Mexico	IMAZAMOX	2002	kg					2.8			378.9		
+35	New Mexico	IMAZAMOX	2003	kg			55.1		1.5			2257.7		
+35	New Mexico	IMAZAMOX	2004	kg			23.3		5.7			50.2		0.2
+35	New Mexico	IMAZAMOX	2005	kg			15.8		17.5			973.8		0.1
+35	New Mexico	IMAZAMOX	2006	kg			21.6		0.1			343.6		0.1
+35	New Mexico	IMAZAMOX	2007	kg			9.4		0.3			480		
+35	New Mexico	IMAZAMOX	2008	kg			19.5		0.5			358.8		
+35	New Mexico	IMAZAMOX	2009	kg			34.3		18.8			214.5		
+35	New Mexico	IMAZAMOX	2010	kg			44		22.7			147.1		
+35	New Mexico	IMAZAMOX	2011	kg			8.5		71.2			105.4		0
+35	New Mexico	IMAZAMOX	2012	kg			131.7		18.8			522.9		0
+35	New Mexico	IMAZAMOX	2013	kg			182.6		87.8			74.9		0
+35	New Mexico	IMAZAMOX	2014	kg			87		2.6			23.3		0
+35	New Mexico	IMAZAMOX	2015	kg			13		143.2			253.4		0
+35	New Mexico	IMAZAMOX	2016	kg			138.7		74.2			124.8		0
+35	New Mexico	IMAZAMOX	2017	kg			38		156.6			160.7		
+36	New York	IMAZAMOX	1998	kg		30.4								
+36	New York	IMAZAMOX	1999	kg		99.8								
+36	New York	IMAZAMOX	2000	kg		138.9								
+36	New York	IMAZAMOX	2001	kg		32.4								
+36	New York	IMAZAMOX	2004	kg					6.4			18.3		
+36	New York	IMAZAMOX	2005	kg					2			8.3		
+36	New York	IMAZAMOX	2006	kg					0.7					
+36	New York	IMAZAMOX	2007	kg								31.1		
+36	New York	IMAZAMOX	2008	kg					52.9			45.5		
+36	New York	IMAZAMOX	2010	kg					17.1					
+36	New York	IMAZAMOX	2011	kg					16.9					
+36	New York	IMAZAMOX	2012	kg					8.8			76.9		
+36	New York	IMAZAMOX	2013	kg					169.2					
+36	New York	IMAZAMOX	2014	kg					107.9			34.3		
+36	New York	IMAZAMOX	2015	kg					81.7					
+36	New York	IMAZAMOX	2017	kg					333.8					
+37	North Carolina	IMAZAMOX	1998	kg		704.6								
+37	North Carolina	IMAZAMOX	1999	kg		349.3								
+37	North Carolina	IMAZAMOX	2000	kg		1.7								
+37	North Carolina	IMAZAMOX	2001	kg		741.8								
+37	North Carolina	IMAZAMOX	2002	kg		8.1								
+37	North Carolina	IMAZAMOX	2003	kg		1								
+37	North Carolina	IMAZAMOX	2004	kg		1.6								
+37	North Carolina	IMAZAMOX	2005	kg		0.5								
+37	North Carolina	IMAZAMOX	2013	kg									92	
+37	North Carolina	IMAZAMOX	2015	kg		446.5								
+38	North Dakota	IMAZAMOX	1997	kg		20.5								
+38	North Dakota	IMAZAMOX	1998	kg		4271								
+38	North Dakota	IMAZAMOX	1999	kg		5743.9			1034.9					
+38	North Dakota	IMAZAMOX	2000	kg		7895.9			1906.2					151.8
+38	North Dakota	IMAZAMOX	2001	kg		5775.4			1234.6					710
+38	North Dakota	IMAZAMOX	2002	kg		7284.2			3804.3			12.2		1163.6
+38	North Dakota	IMAZAMOX	2003	kg		1938.8			2651.9			374		1542.6
+38	North Dakota	IMAZAMOX	2004	kg		3231.4			2776.8					1447.5
+38	North Dakota	IMAZAMOX	2005	kg		1864.4			3280.5			13.1		1098.8
+38	North Dakota	IMAZAMOX	2006	kg		980	910.2		5052.6			77.8		1237.5
+38	North Dakota	IMAZAMOX	2007	kg		365.1			4057.3			270		1993.3
+38	North Dakota	IMAZAMOX	2008	kg		1844.7	4354.5		4422			3520.8		2672.1
+38	North Dakota	IMAZAMOX	2009	kg		1056.6	599.9		6103.3			552.5		2409.2
+38	North Dakota	IMAZAMOX	2010	kg		2662.8	1532.4		6083.7			768.4		5113.4
+38	North Dakota	IMAZAMOX	2011	kg		5705.7	1506.9		3863.3			721.8		3440.8
+38	North Dakota	IMAZAMOX	2012	kg		405.2	2324.4		6453.6			3038.4		5979.3
+38	North Dakota	IMAZAMOX	2013	kg		864.1	2457.3		7334.4			5315.6		4117.9
+38	North Dakota	IMAZAMOX	2014	kg		2470	3517.9		4674.5			16362.7		4754.6
+38	North Dakota	IMAZAMOX	2015	kg		2504.8	7775.6		5953.7			2821.1		4357.4
+38	North Dakota	IMAZAMOX	2016	kg		2523.1	164.9		7868.8			2358.3		9673.9
+38	North Dakota	IMAZAMOX	2017	kg		1371	913		6363.6			1450.1		2722.2
+39	Ohio	IMAZAMOX	1997	kg		350.8								
+39	Ohio	IMAZAMOX	1998	kg		2117.4								
+39	Ohio	IMAZAMOX	1999	kg		1100.8			3.6					
+39	Ohio	IMAZAMOX	2000	kg		2929.3			5					
+39	Ohio	IMAZAMOX	2001	kg		2536.7			3.1					
+39	Ohio	IMAZAMOX	2002	kg		2419.3			6.4			10.9		
+39	Ohio	IMAZAMOX	2003	kg		1731.3			2			85.4		
+39	Ohio	IMAZAMOX	2004	kg		1765.5			0.5			85		
+39	Ohio	IMAZAMOX	2005	kg		1048			3.9			69.2		
+39	Ohio	IMAZAMOX	2006	kg		1777.2			5			25.7		
+39	Ohio	IMAZAMOX	2007	kg		650.9			7.1			147.3		
+39	Ohio	IMAZAMOX	2008	kg		833.1			0			95.6		
+39	Ohio	IMAZAMOX	2009	kg		1516.7			0.4			65.3		
+39	Ohio	IMAZAMOX	2010	kg		1317			1			54.2		
+39	Ohio	IMAZAMOX	2011	kg		652.9			1.5			18.9		
+39	Ohio	IMAZAMOX	2012	kg		1022.2			10.7			26.7		
+39	Ohio	IMAZAMOX	2013	kg		1450.2			9.7			178		
+39	Ohio	IMAZAMOX	2014	kg		1313.9			4.2			121.5		
+39	Ohio	IMAZAMOX	2015	kg		1725			5.3			417.9		
+39	Ohio	IMAZAMOX	2016	kg		531.3	3474.2		12.5			82		
+39	Ohio	IMAZAMOX	2017	kg		701.2	70.9		11.5			111.8		
+40	Oklahoma	IMAZAMOX	1998	kg		36								
+40	Oklahoma	IMAZAMOX	1999	kg		24.8								
+40	Oklahoma	IMAZAMOX	2000	kg		2.4								
+40	Oklahoma	IMAZAMOX	2001	kg		8.9								
+40	Oklahoma	IMAZAMOX	2002	kg		27.7			3.9			265.5		
+40	Oklahoma	IMAZAMOX	2003	kg		2.7	347.9		0.5			193		
+40	Oklahoma	IMAZAMOX	2004	kg			426.6		3.3			55		7.3
+40	Oklahoma	IMAZAMOX	2005	kg			586.2		2.7			992.1		6.9
+40	Oklahoma	IMAZAMOX	2006	kg			322.6					56.7		4.7
+40	Oklahoma	IMAZAMOX	2007	kg			235.3					838.9		3.8
+40	Oklahoma	IMAZAMOX	2008	kg			457.8					437		6
+40	Oklahoma	IMAZAMOX	2009	kg			95.2		3.2			520.7		6.2
+40	Oklahoma	IMAZAMOX	2010	kg			750.3		3.9			707.1		6
+40	Oklahoma	IMAZAMOX	2011	kg			671.2		9.2			131.4		1.9
+40	Oklahoma	IMAZAMOX	2012	kg			5025.6		2.8			303.2		11.8
+40	Oklahoma	IMAZAMOX	2013	kg			953.6					6.6		45
+40	Oklahoma	IMAZAMOX	2014	kg			2913.3							209.8
+40	Oklahoma	IMAZAMOX	2015	kg			862		6.5			398.2		3.4
+40	Oklahoma	IMAZAMOX	2016	kg			7372.3		7.5				3.9	
+40	Oklahoma	IMAZAMOX	2017	kg			1388.9		9			475.5		24.2
+41	Oregon	IMAZAMOX	2000	kg					17.7					
+41	Oregon	IMAZAMOX	2002	kg					70			1921		4.6
+41	Oregon	IMAZAMOX	2003	kg			102.9		101.5			589.1		
+41	Oregon	IMAZAMOX	2004	kg			260.8		117.9			81.9		
+41	Oregon	IMAZAMOX	2005	kg			2490.6		131.4			222.2		
+41	Oregon	IMAZAMOX	2006	kg			4289.4		151.7			122.4		
+41	Oregon	IMAZAMOX	2007	kg			4618.4		174.6			250.5		
+41	Oregon	IMAZAMOX	2008	kg			4272.1		159.3			246.7		
+41	Oregon	IMAZAMOX	2009	kg			2127.1		141			209.8		
+41	Oregon	IMAZAMOX	2010	kg			10101.3		114.4			940.9		
+41	Oregon	IMAZAMOX	2011	kg			5746.9		334.4			161.3		
+41	Oregon	IMAZAMOX	2012	kg			6897.1		147.4			927.1		
+41	Oregon	IMAZAMOX	2013	kg			6467.5		282.1			749.6		
+41	Oregon	IMAZAMOX	2014	kg			3690.7		87.5			702.5		
+41	Oregon	IMAZAMOX	2015	kg			3667.2		219.2			205.8		
+41	Oregon	IMAZAMOX	2016	kg			5722.6		150			954.4		
+41	Oregon	IMAZAMOX	2017	kg			3092.4		133			1059.7		
+42	Pennsylvania	IMAZAMOX	1998	kg		89.7								
+42	Pennsylvania	IMAZAMOX	1999	kg		41.2								
+42	Pennsylvania	IMAZAMOX	2000	kg		246.4								
+42	Pennsylvania	IMAZAMOX	2001	kg		79.3								
+42	Pennsylvania	IMAZAMOX	2002	kg		1082.3			49.9					
+42	Pennsylvania	IMAZAMOX	2003	kg		198.7								
+42	Pennsylvania	IMAZAMOX	2004	kg		20.7			7.6			410.9		
+42	Pennsylvania	IMAZAMOX	2005	kg		10			18.5			82.9		
+42	Pennsylvania	IMAZAMOX	2006	kg								55.8		
+42	Pennsylvania	IMAZAMOX	2007	kg					23.6			128.2		
+42	Pennsylvania	IMAZAMOX	2008	kg					29.1			66.8		
+42	Pennsylvania	IMAZAMOX	2009	kg					33.9			274.8		
+42	Pennsylvania	IMAZAMOX	2010	kg					60.6			128.1		
+42	Pennsylvania	IMAZAMOX	2011	kg					1.1					
+42	Pennsylvania	IMAZAMOX	2012	kg					64.1			269.2		
+42	Pennsylvania	IMAZAMOX	2013	kg					66.9			334.5		
+42	Pennsylvania	IMAZAMOX	2014	kg		339.3			60.9			17.1		
+42	Pennsylvania	IMAZAMOX	2015	kg		159.3			26.2			118.1		
+42	Pennsylvania	IMAZAMOX	2016	kg					25.3			16.6		
+42	Pennsylvania	IMAZAMOX	2017	kg					27.9			44.3		
+45	South Carolina	IMAZAMOX	1998	kg		31.3								
+45	South Carolina	IMAZAMOX	2001	kg		5.4								
+46	South Dakota	IMAZAMOX	1997	kg		288.4								
+46	South Dakota	IMAZAMOX	1998	kg		3248.7								
+46	South Dakota	IMAZAMOX	1999	kg		3138.6			50.7					
+46	South Dakota	IMAZAMOX	2000	kg		1541.2			107					
+46	South Dakota	IMAZAMOX	2001	kg		2028.4			98.5					
+46	South Dakota	IMAZAMOX	2002	kg		1980.9	2.3		168.4			42.9		
+46	South Dakota	IMAZAMOX	2003	kg		767.4			53.6			1192.8		74
+46	South Dakota	IMAZAMOX	2004	kg		2487.7	3.5		116.5			290.1		137.1
+46	South Dakota	IMAZAMOX	2005	kg		1106.8	8.5		52			79.1		1299.9
+46	South Dakota	IMAZAMOX	2006	kg		514.6	1.7		92.8			356.1		2002.3
+46	South Dakota	IMAZAMOX	2007	kg		386.5	9.9		110.4			769.3		669
+46	South Dakota	IMAZAMOX	2008	kg		1157.3	2994.9		137.2			5917.2		300.7
+46	South Dakota	IMAZAMOX	2009	kg		315.3	663.2		208			1440		1397.1
+46	South Dakota	IMAZAMOX	2010	kg		2607	909.4		133.9			1834.1		1108.7
+46	South Dakota	IMAZAMOX	2011	kg		6398.5	589.6		176.2			1315.5		2266.6
+46	South Dakota	IMAZAMOX	2012	kg		681	5957.7		101.9			1374.6		2582.5
+46	South Dakota	IMAZAMOX	2013	kg		1000.8	2148.2		311.7			1401.2		2060.2
+46	South Dakota	IMAZAMOX	2014	kg		1063.5	2418		244.2			8521.2		2343.2
+46	South Dakota	IMAZAMOX	2015	kg		1066.6	1314.2		217.7			1958.8		2812.4
+46	South Dakota	IMAZAMOX	2016	kg		1020.5	1385.3		163.3			1377.6		1550.5
+46	South Dakota	IMAZAMOX	2017	kg		851.6	1445.7		348.1			1551.1		3436.6
+47	Tennessee	IMAZAMOX	1998	kg		641.3								
+47	Tennessee	IMAZAMOX	1999	kg		49.6								
+47	Tennessee	IMAZAMOX	2000	kg		862.1								
+47	Tennessee	IMAZAMOX	2001	kg		635.9								
+47	Tennessee	IMAZAMOX	2002	kg		589.1								
+47	Tennessee	IMAZAMOX	2003	kg		56.5								
+47	Tennessee	IMAZAMOX	2004	kg		79.7				0				
+47	Tennessee	IMAZAMOX	2005	kg		40				0.2				
+47	Tennessee	IMAZAMOX	2006	kg						0.4				
+47	Tennessee	IMAZAMOX	2007	kg						0.2				
+47	Tennessee	IMAZAMOX	2008	kg						0.5				
+47	Tennessee	IMAZAMOX	2009	kg						1.5				
+47	Tennessee	IMAZAMOX	2010	kg						1.2				
+47	Tennessee	IMAZAMOX	2011	kg						1.6				
+47	Tennessee	IMAZAMOX	2012	kg						0.5				
+47	Tennessee	IMAZAMOX	2013	kg						0.8				
+47	Tennessee	IMAZAMOX	2014	kg						0.6				
+47	Tennessee	IMAZAMOX	2015	kg						0.6				
+47	Tennessee	IMAZAMOX	2016	kg						0		6.4		
+47	Tennessee	IMAZAMOX	2017	kg						0.9				
+48	Texas	IMAZAMOX	2002	kg					98.3			114.3		
+48	Texas	IMAZAMOX	2003	kg			116		13.5			424.8		
+48	Texas	IMAZAMOX	2004	kg			218.6		77.4	3.2		16.9		123
+48	Texas	IMAZAMOX	2005	kg			165.5		293			318.8		204.6
+48	Texas	IMAZAMOX	2006	kg			154.7			16.1		12.8		227
+48	Texas	IMAZAMOX	2007	kg		181.1	133.3					503.2		69.1
+48	Texas	IMAZAMOX	2008	kg			200.4			84.1		155.2		114.4
+48	Texas	IMAZAMOX	2009	kg			319.7		50.1	75		173.6		161.9
+48	Texas	IMAZAMOX	2010	kg			359.8		84.7	246.5		85.3		79.2
+48	Texas	IMAZAMOX	2011	kg			80.2		55.3	14.3		57.9		283
+48	Texas	IMAZAMOX	2012	kg			1366.1		55.9	4.1		157.1		812
+48	Texas	IMAZAMOX	2013	kg			636			124				1215.7
+48	Texas	IMAZAMOX	2014	kg			704.2			28.6				409
+48	Texas	IMAZAMOX	2015	kg			590.5		59	8.4		155.5		332.9
+48	Texas	IMAZAMOX	2016	kg			1132.3		76.8	134.4			43.6	
+48	Texas	IMAZAMOX	2017	kg			391.5		107.1	70.7		134.9		28
+49	Utah	IMAZAMOX	1999	kg					0					
+49	Utah	IMAZAMOX	2000	kg					13					
+49	Utah	IMAZAMOX	2002	kg					0.3			28.2		
+49	Utah	IMAZAMOX	2003	kg			3.6		3.8			118.9		
+49	Utah	IMAZAMOX	2004	kg			38.8		1.5			267.8		
+49	Utah	IMAZAMOX	2005	kg			11.2		0.4			237.6		
+49	Utah	IMAZAMOX	2006	kg			77.5		2.1			440.9		
+49	Utah	IMAZAMOX	2007	kg			91		0.5			529.8		
+49	Utah	IMAZAMOX	2008	kg			150.2		1			663.8		
+49	Utah	IMAZAMOX	2009	kg			256.6		1.8			1171.5		
+49	Utah	IMAZAMOX	2010	kg			66.1		1.5			384.3		
+49	Utah	IMAZAMOX	2011	kg			48		9.3			69.8		
+49	Utah	IMAZAMOX	2012	kg			439.4		1.3			708.1		
+49	Utah	IMAZAMOX	2013	kg			72.9		0.3			115.6		
+49	Utah	IMAZAMOX	2014	kg			359.1		1.3			289.2		
+49	Utah	IMAZAMOX	2015	kg			93.2		0.9			454.6		
+49	Utah	IMAZAMOX	2016	kg			218.5		0.6			206.4		
+49	Utah	IMAZAMOX	2017	kg			130.2		0.1			326		
+51	Virginia	IMAZAMOX	1998	kg		127.5								
+51	Virginia	IMAZAMOX	1999	kg		57.5								
+51	Virginia	IMAZAMOX	2000	kg		2.3								
+51	Virginia	IMAZAMOX	2001	kg		444.5								
+51	Virginia	IMAZAMOX	2002	kg		13.8								
+51	Virginia	IMAZAMOX	2003	kg		34.8								
+51	Virginia	IMAZAMOX	2004	kg		2.6			0					
+51	Virginia	IMAZAMOX	2005	kg		1.2								
+53	Washington	IMAZAMOX	2002	kg					116.3			2857.8		10.8
+53	Washington	IMAZAMOX	2003	kg					273.5			821.6		
+53	Washington	IMAZAMOX	2004	kg			1173		70.8			262.8		
+53	Washington	IMAZAMOX	2005	kg			1201.6		1107.2			383.5		
+53	Washington	IMAZAMOX	2006	kg			3063		730.8			317.6		
+53	Washington	IMAZAMOX	2007	kg			1983		485.2			798.8		
+53	Washington	IMAZAMOX	2008	kg			2161		482.5			95.5		
+53	Washington	IMAZAMOX	2009	kg			2960.3		218.4			357.4		
+53	Washington	IMAZAMOX	2010	kg			679.7		198.2			1204.5		
+53	Washington	IMAZAMOX	2011	kg			2870.2		2961.8			73.3		
+53	Washington	IMAZAMOX	2012	kg			1939.6		308.4			132.3		
+53	Washington	IMAZAMOX	2013	kg			4324.4		2179.6			501.6		
+53	Washington	IMAZAMOX	2014	kg			1697.6		2444.8			1371.6		
+53	Washington	IMAZAMOX	2015	kg			2083		751.1			198		
+53	Washington	IMAZAMOX	2016	kg			3015		708.5			1047.3		
+53	Washington	IMAZAMOX	2017	kg			4118.4		1116.6			1685.4		
+54	West Virginia	IMAZAMOX	1998	kg		5.2								
+54	West Virginia	IMAZAMOX	1999	kg		2.2								
+54	West Virginia	IMAZAMOX	2000	kg		9.5								
+54	West Virginia	IMAZAMOX	2001	kg		4.7								
+54	West Virginia	IMAZAMOX	2002	kg		46.5			0					
+54	West Virginia	IMAZAMOX	2003	kg		13.1								
+54	West Virginia	IMAZAMOX	2004	kg		9.8			0					
+54	West Virginia	IMAZAMOX	2005	kg		3.9								
+54	West Virginia	IMAZAMOX	2010	kg					0					
+54	West Virginia	IMAZAMOX	2013	kg					0					
+54	West Virginia	IMAZAMOX	2014	kg					0					
+54	West Virginia	IMAZAMOX	2015	kg					0			3.2		
+55	Wisconsin	IMAZAMOX	1997	kg		117.2								
+55	Wisconsin	IMAZAMOX	1998	kg		3629.5								
+55	Wisconsin	IMAZAMOX	1999	kg		2936.5								
+55	Wisconsin	IMAZAMOX	2000	kg		3531.1			247					
+55	Wisconsin	IMAZAMOX	2001	kg		2873.5			47.9			39.7		
+55	Wisconsin	IMAZAMOX	2002	kg		1580.8			96			175.7		
+55	Wisconsin	IMAZAMOX	2003	kg		1687.4			164.2			747.1		
+55	Wisconsin	IMAZAMOX	2004	kg		1697			231			698.2		
+55	Wisconsin	IMAZAMOX	2005	kg		1511.8			81.7			795.2		
+55	Wisconsin	IMAZAMOX	2006	kg		1060.3			133			268.2		
+55	Wisconsin	IMAZAMOX	2007	kg		347.3			217.3			1086.9		
+55	Wisconsin	IMAZAMOX	2008	kg		582.7			288.3			1038.3		
+55	Wisconsin	IMAZAMOX	2009	kg		1990.8			311.6			972.5		
+55	Wisconsin	IMAZAMOX	2010	kg		701.2			404.6			584.6		
+55	Wisconsin	IMAZAMOX	2011	kg		380.5			232.1			238.6		9.6
+55	Wisconsin	IMAZAMOX	2012	kg		773.5			362.7			119.2		
+55	Wisconsin	IMAZAMOX	2013	kg		1563.2			343.8			817.9		
+55	Wisconsin	IMAZAMOX	2014	kg		1112.6			411.5			457.1		14.6
+55	Wisconsin	IMAZAMOX	2015	kg		1732.1			532.5			201.1		
+55	Wisconsin	IMAZAMOX	2016	kg		176.1			503.1			263		
+55	Wisconsin	IMAZAMOX	2017	kg		2190.4			571.2			415.6		16.3
+56	Wyoming	IMAZAMOX	1999	kg					39.2					
+56	Wyoming	IMAZAMOX	2000	kg					8.9			2.6		
+56	Wyoming	IMAZAMOX	2001	kg					29.7					
+56	Wyoming	IMAZAMOX	2002	kg			8.1		123.8			398.2		
+56	Wyoming	IMAZAMOX	2003	kg			0.2		248.8			362.9		0.7
+56	Wyoming	IMAZAMOX	2004	kg			38.7		94.9			41.6		6.2
+56	Wyoming	IMAZAMOX	2005	kg			140.5		63.8			251.4		7.2
+56	Wyoming	IMAZAMOX	2006	kg			56.3		107.5			157.9		7
+56	Wyoming	IMAZAMOX	2007	kg			36		54.4			277		4.9
+56	Wyoming	IMAZAMOX	2008	kg			297.5		87.4			1046.1		1.1
+56	Wyoming	IMAZAMOX	2009	kg			147.7		170.6			267.4		3.7
+56	Wyoming	IMAZAMOX	2010	kg			146.9		34.4			73.7		10.3
+56	Wyoming	IMAZAMOX	2011	kg			133.5		195.4			401		0.5
+56	Wyoming	IMAZAMOX	2012	kg			293.4		15.4			719.2		7.6
+56	Wyoming	IMAZAMOX	2013	kg			249.2		123.9			92.3		14.8
+56	Wyoming	IMAZAMOX	2014	kg			223.6		54.7			670.8		12.5
+56	Wyoming	IMAZAMOX	2015	kg			302.2		179.4			541.2		7.8
+56	Wyoming	IMAZAMOX	2016	kg			675.7		43.7			557.6		5.9
+56	Wyoming	IMAZAMOX	2017	kg			342		214.8			1109		13.8

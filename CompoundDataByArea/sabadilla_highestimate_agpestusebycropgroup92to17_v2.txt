@@ -1,0 +1,69 @@
+04	Arizona	SABADILLA	1992	kg							784.6			
+04	Arizona	SABADILLA	1993	kg							55.1			
+04	Arizona	SABADILLA	1994	kg							40.4			
+04	Arizona	SABADILLA	1995	kg							12.4			
+04	Arizona	SABADILLA	1996	kg							73.2			
+04	Arizona	SABADILLA	1997	kg							49.4			
+04	Arizona	SABADILLA	1998	kg							27.7			
+04	Arizona	SABADILLA	1999	kg							9.3			
+04	Arizona	SABADILLA	2000	kg							36.1			
+04	Arizona	SABADILLA	2001	kg							23			
+04	Arizona	SABADILLA	2002	kg							13.1			
+04	Arizona	SABADILLA	2003	kg							69.5			
+04	Arizona	SABADILLA	2004	kg							2.6			
+04	Arizona	SABADILLA	2005	kg							2.4			
+04	Arizona	SABADILLA	2007	kg							0.9			
+04	Arizona	SABADILLA	2008	kg							5.4			
+04	Arizona	SABADILLA	2009	kg							0			
+04	Arizona	SABADILLA	2010	kg							0.7			
+04	Arizona	SABADILLA	2013	kg							0.1			
+06	California	SABADILLA	1992	kg							492.6			
+06	California	SABADILLA	1993	kg							584.5			
+06	California	SABADILLA	1994	kg							484.7			
+06	California	SABADILLA	1995	kg							250.5			
+06	California	SABADILLA	1996	kg							278.2			
+06	California	SABADILLA	1997	kg					231		354.9			
+06	California	SABADILLA	1998	kg					360		139.7			
+06	California	SABADILLA	1999	kg					185.5		90			
+06	California	SABADILLA	2000	kg					118.9		98.9			0
+06	California	SABADILLA	2001	kg					55.8		73			
+06	California	SABADILLA	2002	kg					30.6		91.5			
+06	California	SABADILLA	2003	kg					51.6		40			
+06	California	SABADILLA	2004	kg					21.9		87.4			
+06	California	SABADILLA	2005	kg					32.5		84.9			
+06	California	SABADILLA	2006	kg					7.1		72.4			
+06	California	SABADILLA	2007	kg					9		87.7			
+06	California	SABADILLA	2008	kg					1.5		82.2			
+06	California	SABADILLA	2009	kg					5.6		34.2			
+06	California	SABADILLA	2010	kg					3.1		25.8			
+06	California	SABADILLA	2011	kg					6.8		8.1			
+06	California	SABADILLA	2012	kg					3.2		26.8			
+06	California	SABADILLA	2013	kg					2.2		42.5			
+06	California	SABADILLA	2014	kg					1		21.7			
+06	California	SABADILLA	2015	kg					1.4		64.6			
+06	California	SABADILLA	2016	kg					0.4		55.8			
+06	California	SABADILLA	2017	kg					2.1		74.1			
+12	Florida	SABADILLA	2003	kg							3.2			
+24	Maryland	SABADILLA	1992	kg					34.5					
+24	Maryland	SABADILLA	1996	kg					219.8					
+32	Nevada	SABADILLA	1997	kg							0			
+32	Nevada	SABADILLA	1998	kg							0			
+32	Nevada	SABADILLA	1999	kg							0			
+32	Nevada	SABADILLA	2000	kg							0			
+32	Nevada	SABADILLA	2001	kg							0			
+32	Nevada	SABADILLA	2002	kg							0			
+32	Nevada	SABADILLA	2003	kg							0			
+32	Nevada	SABADILLA	2004	kg							0			
+32	Nevada	SABADILLA	2005	kg							0			
+35	New Mexico	SABADILLA	1993	kg										25.9
+37	North Carolina	SABADILLA	1992	kg									115.8	
+37	North Carolina	SABADILLA	1996	kg										0.8
+40	Oklahoma	SABADILLA	1996	kg										0.2
+42	Pennsylvania	SABADILLA	1996	kg					288.3					
+48	Texas	SABADILLA	1992	kg					4737.6					
+48	Texas	SABADILLA	1993	kg										190.5
+48	Texas	SABADILLA	1996	kg										13.5
+51	Virginia	SABADILLA	1992	kg					14.4					
+51	Virginia	SABADILLA	1996	kg					6.9					0.5
+54	West Virginia	SABADILLA	1992	kg					3					
+54	West Virginia	SABADILLA	1996	kg					9.7					

@@ -1,0 +1,6 @@
+06	California	PROFLURALIN	1993	kg								72.2		
+06	California	PROFLURALIN	1994	kg								63.2		
+06	California	PROFLURALIN	2001	kg							7.2			
+06	California	PROFLURALIN	2002	kg							0.9			
+37	North Carolina	PROFLURALIN	1994	kg										20401.8
+51	Virginia	PROFLURALIN	1994	kg										8970.5

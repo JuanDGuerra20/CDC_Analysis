@@ -1,5 +1,7 @@
-# Don't want to upload the massive raw file where we got the data from the CDC
+# Don't want to upload the massive raw file where we got the data from the CDC or from USGS
 BYAREA.TXT
+HighEstimate_AgPestUsebyCropGroup92to17_v2.txt
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

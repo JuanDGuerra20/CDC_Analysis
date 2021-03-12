@@ -1,0 +1,242 @@
+01	Alabama	PROPANIL	1993	kg		548.1								
+01	Alabama	PROPANIL	1996	kg				16028.5						
+01	Alabama	PROPANIL	2008	kg										925.8
+04	Arizona	PROPANIL	1994	kg									83.3	
+05	Arkansas	PROPANIL	1992	kg	4562.9	19734.1				2493387.5				25113.4
+05	Arkansas	PROPANIL	1993	kg			10751.2			2719954.1				36945.5
+05	Arkansas	PROPANIL	1994	kg		29633				2964530.2				60287.6
+05	Arkansas	PROPANIL	1995	kg		89262.1				2399772.5				4924.6
+05	Arkansas	PROPANIL	1996	kg		4346.2				2370603.6				
+05	Arkansas	PROPANIL	1997	kg						1948763.7				921.9
+05	Arkansas	PROPANIL	1998	kg						2094370.9				
+05	Arkansas	PROPANIL	1999	kg						2086956.7				
+05	Arkansas	PROPANIL	2000	kg						1551511.8				
+05	Arkansas	PROPANIL	2001	kg						1614205.3				
+05	Arkansas	PROPANIL	2002	kg						1510373.6				
+05	Arkansas	PROPANIL	2003	kg						1471698.8				
+05	Arkansas	PROPANIL	2004	kg						1538224				
+05	Arkansas	PROPANIL	2005	kg						1262950.4				
+05	Arkansas	PROPANIL	2006	kg						1229391.2				
+05	Arkansas	PROPANIL	2007	kg						1165383.4				
+05	Arkansas	PROPANIL	2008	kg						787063.1				
+05	Arkansas	PROPANIL	2009	kg						876919.2				
+05	Arkansas	PROPANIL	2010	kg						1031395.8				
+05	Arkansas	PROPANIL	2011	kg						645962.1				
+05	Arkansas	PROPANIL	2012	kg						823787.3				
+05	Arkansas	PROPANIL	2013	kg						1167095.6				
+05	Arkansas	PROPANIL	2014	kg						1166610.2				
+05	Arkansas	PROPANIL	2015	kg						986172.9				
+05	Arkansas	PROPANIL	2016	kg						1441431.8				
+05	Arkansas	PROPANIL	2017	kg						1322854.5				
+06	California	PROPANIL	1992	kg						7680.3				
+06	California	PROPANIL	1993	kg						11925.9				
+06	California	PROPANIL	1994	kg						16155.4				
+06	California	PROPANIL	1995	kg						18197.6				
+06	California	PROPANIL	1996	kg						40523.4				
+06	California	PROPANIL	1997	kg						70229.1				
+06	California	PROPANIL	1998	kg						263515.6				
+06	California	PROPANIL	1999	kg					3.5	373243.3				
+06	California	PROPANIL	2000	kg						499028.3				
+06	California	PROPANIL	2001	kg						644452.7				
+06	California	PROPANIL	2002	kg						665728	112.1			
+06	California	PROPANIL	2003	kg						626683.9				
+06	California	PROPANIL	2004	kg						765446.4				45.3
+06	California	PROPANIL	2005	kg						642771.2	0.4			
+06	California	PROPANIL	2006	kg						678969.4				18.4
+06	California	PROPANIL	2007	kg						841671.1				146
+06	California	PROPANIL	2008	kg						781884.9				
+06	California	PROPANIL	2009	kg			87.2			863533.1	10.9			58.1
+06	California	PROPANIL	2010	kg						902997	22.1			499.4
+06	California	PROPANIL	2011	kg	14.1					1007561.6	18.4			
+06	California	PROPANIL	2012	kg						977797.9	95.2	156.5		
+06	California	PROPANIL	2013	kg						1098043.3	11.5			35.8
+06	California	PROPANIL	2014	kg						862144.2				
+06	California	PROPANIL	2015	kg					199.3	771497				
+06	California	PROPANIL	2016	kg						1029233	3.6			
+06	California	PROPANIL	2017	kg						746236.6				
+09	Connecticut	PROPANIL	1993	kg	911.2									
+12	Florida	PROPANIL	1993	kg						3059.4				
+12	Florida	PROPANIL	1994	kg							2509.2			
+12	Florida	PROPANIL	2008	kg										625
+13	Georgia	PROPANIL	1996	kg				83264.4						
+13	Georgia	PROPANIL	2008	kg										3748.3
+17	Illinois	PROPANIL	1992	kg	55692.5									
+17	Illinois	PROPANIL	1994	kg										1756.5
+17	Illinois	PROPANIL	1996	kg		17950.5								
+19	Iowa	PROPANIL	1992	kg			3.1							
+19	Iowa	PROPANIL	1996	kg		34495.6								
+21	Kentucky	PROPANIL	1994	kg										285.1
+22	Louisiana	PROPANIL	1992	kg		31724.5				601916.3				7251
+22	Louisiana	PROPANIL	1993	kg			1061.2	142839.8		477838.9				5436.8
+22	Louisiana	PROPANIL	1994	kg						715057.7				6454.8
+22	Louisiana	PROPANIL	1995	kg						639181.5				1476.4
+22	Louisiana	PROPANIL	1996	kg						378860.9				
+22	Louisiana	PROPANIL	1997	kg						271095.2				
+22	Louisiana	PROPANIL	1998	kg						359742.5				
+22	Louisiana	PROPANIL	1999	kg						452426.9				
+22	Louisiana	PROPANIL	2000	kg						276764.2				
+22	Louisiana	PROPANIL	2001	kg						341374.2				
+22	Louisiana	PROPANIL	2002	kg						288979.7				
+22	Louisiana	PROPANIL	2003	kg						168136.1				
+22	Louisiana	PROPANIL	2004	kg						330079				
+22	Louisiana	PROPANIL	2005	kg						192152.4				
+22	Louisiana	PROPANIL	2006	kg						137026.8				
+22	Louisiana	PROPANIL	2007	kg						124166.3				
+22	Louisiana	PROPANIL	2008	kg						117283.7				
+22	Louisiana	PROPANIL	2009	kg						121374.3				
+22	Louisiana	PROPANIL	2010	kg						77114.1				
+22	Louisiana	PROPANIL	2011	kg						152388.8				
+22	Louisiana	PROPANIL	2012	kg						150205.7				
+22	Louisiana	PROPANIL	2013	kg						92420.9				
+22	Louisiana	PROPANIL	2014	kg						103254.5				
+22	Louisiana	PROPANIL	2015	kg						158125				
+22	Louisiana	PROPANIL	2016	kg						239907.8				
+22	Louisiana	PROPANIL	2017	kg						234687.3				
+23	Maine	PROPANIL	1993	kg					669.3					
+25	Massachusetts	PROPANIL	1993	kg	1023.9									
+27	Minnesota	PROPANIL	1992	kg		248022.7	3978.9							8229.2
+27	Minnesota	PROPANIL	1993	kg			45498.4							1089.6
+27	Minnesota	PROPANIL	1994	kg			24791.1							1102.8
+27	Minnesota	PROPANIL	1995	kg			1267.7							7175.6
+27	Minnesota	PROPANIL	1996	kg			12993.3							5871.3
+27	Minnesota	PROPANIL	1997	kg										15282.8
+27	Minnesota	PROPANIL	1998	kg			8036.9							
+27	Minnesota	PROPANIL	2001	kg			2990.6							
+28	Mississippi	PROPANIL	1992	kg	2823.8	24735.4				482019				2902.6
+28	Mississippi	PROPANIL	1993	kg		1080.6	4886.4	7287.4		373341.3				2211.8
+28	Mississippi	PROPANIL	1994	kg						683858.1				41950.8
+28	Mississippi	PROPANIL	1995	kg		10443.7				395003.1				388.3
+28	Mississippi	PROPANIL	1996	kg						399217.7				
+28	Mississippi	PROPANIL	1997	kg						403856.1				151.1
+28	Mississippi	PROPANIL	1998	kg						328589.8				
+28	Mississippi	PROPANIL	1999	kg						446603				
+28	Mississippi	PROPANIL	2000	kg						349705.9				
+28	Mississippi	PROPANIL	2001	kg						217938.2				
+28	Mississippi	PROPANIL	2002	kg						100009.1				
+28	Mississippi	PROPANIL	2003	kg						236984.7				
+28	Mississippi	PROPANIL	2004	kg						130452.6				
+28	Mississippi	PROPANIL	2005	kg						177409				
+28	Mississippi	PROPANIL	2006	kg						110084.5				
+28	Mississippi	PROPANIL	2007	kg						133508.6				
+28	Mississippi	PROPANIL	2008	kg						99262.7				
+28	Mississippi	PROPANIL	2009	kg						143165.3				
+28	Mississippi	PROPANIL	2010	kg						139186.4				
+28	Mississippi	PROPANIL	2011	kg						47890				
+28	Mississippi	PROPANIL	2012	kg						55979.8				
+28	Mississippi	PROPANIL	2013	kg						132442				
+28	Mississippi	PROPANIL	2014	kg						92234.3				
+28	Mississippi	PROPANIL	2015	kg						109180.8				
+28	Mississippi	PROPANIL	2016	kg						59747.7				
+28	Mississippi	PROPANIL	2017	kg						20089.7				
+29	Missouri	PROPANIL	1992	kg		3686.9				200282.7				
+29	Missouri	PROPANIL	1993	kg						145058.1				7597.6
+29	Missouri	PROPANIL	1994	kg		10402.1				228036.9				19953.3
+29	Missouri	PROPANIL	1995	kg						160423.1				
+29	Missouri	PROPANIL	1996	kg		13464.4				136536.6				
+29	Missouri	PROPANIL	1997	kg						110168.3				
+29	Missouri	PROPANIL	1998	kg						220284.2				
+29	Missouri	PROPANIL	1999	kg						217989.7				
+29	Missouri	PROPANIL	2000	kg						146760.6				
+29	Missouri	PROPANIL	2001	kg						143322.9				
+29	Missouri	PROPANIL	2002	kg						176196.4				
+29	Missouri	PROPANIL	2003	kg						161555.9				
+29	Missouri	PROPANIL	2004	kg						177828.5				
+29	Missouri	PROPANIL	2005	kg						164630.3				
+29	Missouri	PROPANIL	2006	kg						128062.2				
+29	Missouri	PROPANIL	2007	kg						96809.2				
+29	Missouri	PROPANIL	2008	kg						79803.5				
+29	Missouri	PROPANIL	2009	kg						111811.7				
+29	Missouri	PROPANIL	2010	kg						128884.1				
+29	Missouri	PROPANIL	2011	kg						111117.5				
+29	Missouri	PROPANIL	2012	kg						190230.9				
+29	Missouri	PROPANIL	2013	kg						21253.2				
+29	Missouri	PROPANIL	2014	kg						182787.8				
+29	Missouri	PROPANIL	2015	kg						80203.7				
+29	Missouri	PROPANIL	2016	kg						201510.7				
+29	Missouri	PROPANIL	2017	kg						57230.1				
+30	Montana	PROPANIL	1993	kg			6558.7							
+30	Montana	PROPANIL	1995	kg										561.3
+30	Montana	PROPANIL	1996	kg										1022.5
+30	Montana	PROPANIL	1998	kg										535.6
+30	Montana	PROPANIL	2001	kg										1279.9
+30	Montana	PROPANIL	2003	kg			5637.9							
+33	New Hampshire	PROPANIL	1993	kg	391.9				100.8					
+35	New Mexico	PROPANIL	1993	kg	277.1			31.3						
+35	New Mexico	PROPANIL	1994	kg									92.7	
+36	New York	PROPANIL	1993	kg	3875.5									
+37	North Carolina	PROPANIL	1992	kg		262								89
+38	North Dakota	PROPANIL	1992	kg			721.6							9300.8
+38	North Dakota	PROPANIL	1993	kg			82553.5							1565.6
+38	North Dakota	PROPANIL	1994	kg			31791.8							4186.9
+38	North Dakota	PROPANIL	1995	kg			766.6							8976.2
+38	North Dakota	PROPANIL	1996	kg			19007.9							17427
+38	North Dakota	PROPANIL	1997	kg										25418.9
+38	North Dakota	PROPANIL	1998	kg			10263.2							4589.4
+38	North Dakota	PROPANIL	1999	kg			970.8							
+38	North Dakota	PROPANIL	2001	kg			3801.6							
+38	North Dakota	PROPANIL	2003	kg			4421.1							
+40	Oklahoma	PROPANIL	1993	kg	355.2			345.3						
+44	Rhode Island	PROPANIL	1993	kg	67.1									
+46	South Dakota	PROPANIL	1992	kg										2847
+46	South Dakota	PROPANIL	1995	kg			94.6							644.6
+46	South Dakota	PROPANIL	1996	kg										905.1
+46	South Dakota	PROPANIL	1997	kg										2232.7
+46	South Dakota	PROPANIL	1999	kg			214.8							
+47	Tennessee	PROPANIL	1992	kg	5758.8	5434.4				912				1173.3
+47	Tennessee	PROPANIL	1993	kg		1631.2	1123.2			1068.1				1138
+47	Tennessee	PROPANIL	1994	kg		4818.1				1380				1247.5
+47	Tennessee	PROPANIL	1995	kg		5939.9				43561.9				
+47	Tennessee	PROPANIL	1996	kg		591.1				1241.1				
+47	Tennessee	PROPANIL	1997	kg						9070.3				33.2
+47	Tennessee	PROPANIL	1998	kg						1151.4				
+47	Tennessee	PROPANIL	1999	kg						1064.8				
+47	Tennessee	PROPANIL	2000	kg						793.8				
+47	Tennessee	PROPANIL	2001	kg						724.3				
+47	Tennessee	PROPANIL	2002	kg						821.9				
+47	Tennessee	PROPANIL	2003	kg						1019.8				
+47	Tennessee	PROPANIL	2004	kg						1202.6				
+47	Tennessee	PROPANIL	2005	kg						865.9				
+47	Tennessee	PROPANIL	2006	kg						1015.2				
+47	Tennessee	PROPANIL	2007	kg						1222				
+47	Tennessee	PROPANIL	2008	kg						865.4				
+47	Tennessee	PROPANIL	2009	kg						911.6				
+47	Tennessee	PROPANIL	2010	kg						853.9				
+47	Tennessee	PROPANIL	2011	kg						505				
+47	Tennessee	PROPANIL	2012	kg						469				
+47	Tennessee	PROPANIL	2013	kg						670.8				
+47	Tennessee	PROPANIL	2014	kg						591.2				
+47	Tennessee	PROPANIL	2015	kg						537.8				
+47	Tennessee	PROPANIL	2016	kg						109.7				
+47	Tennessee	PROPANIL	2017	kg						574.4				
+48	Texas	PROPANIL	1992	kg		2453.7				624247.9	11503.1			
+48	Texas	PROPANIL	1993	kg	3176.9			19100.4		456834.2				
+48	Texas	PROPANIL	1994	kg						497518.8				
+48	Texas	PROPANIL	1995	kg						413136.2				
+48	Texas	PROPANIL	1996	kg						430059.1				
+48	Texas	PROPANIL	1997	kg						316590.6				
+48	Texas	PROPANIL	1998	kg						394748.8				
+48	Texas	PROPANIL	1999	kg						350700.9				
+48	Texas	PROPANIL	2000	kg						276874.2				
+48	Texas	PROPANIL	2001	kg						212095.3				
+48	Texas	PROPANIL	2002	kg						191992.4				
+48	Texas	PROPANIL	2003	kg						147309.8				
+48	Texas	PROPANIL	2004	kg						137447				
+48	Texas	PROPANIL	2005	kg						177513.3				
+48	Texas	PROPANIL	2006	kg						136953				
+48	Texas	PROPANIL	2007	kg						115316.1				
+48	Texas	PROPANIL	2008	kg						157054.4				
+48	Texas	PROPANIL	2009	kg						84851.2				
+48	Texas	PROPANIL	2010	kg						144443.8				
+48	Texas	PROPANIL	2011	kg						163387.1				
+48	Texas	PROPANIL	2012	kg						95797.7				
+48	Texas	PROPANIL	2013	kg						78001.6				
+48	Texas	PROPANIL	2014	kg						40932.3				
+48	Texas	PROPANIL	2015	kg						85954.4				
+48	Texas	PROPANIL	2016	kg						140724.9				
+48	Texas	PROPANIL	2017	kg						41390.7				
+50	Vermont	PROPANIL	1993	kg	2067.7									
+51	Virginia	PROPANIL	1992	kg		50.8								55.2
+55	Wisconsin	PROPANIL	1992	kg		20461	38.7							
+56	Wyoming	PROPANIL	1995	kg										20.9
+56	Wyoming	PROPANIL	1996	kg										79.4
+56	Wyoming	PROPANIL	2001	kg										1003

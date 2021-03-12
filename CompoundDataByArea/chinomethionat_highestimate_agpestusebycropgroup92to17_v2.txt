@@ -1,0 +1,145 @@
+04	Arizona	CHINOMETHIONAT	1992	kg							3.8			
+04	Arizona	CHINOMETHIONAT	1993	kg							7.1			
+04	Arizona	CHINOMETHIONAT	1994	kg							4.1			
+04	Arizona	CHINOMETHIONAT	1995	kg							0.4			
+04	Arizona	CHINOMETHIONAT	1996	kg							2.8			
+04	Arizona	CHINOMETHIONAT	1997	kg							2.2			
+06	California	CHINOMETHIONAT	1992	kg					63.6		2808.7			
+06	California	CHINOMETHIONAT	1993	kg					69.6		2531.9			
+06	California	CHINOMETHIONAT	1994	kg					101.7		1288.1			
+06	California	CHINOMETHIONAT	1995	kg					62.9		2717.4			
+06	California	CHINOMETHIONAT	1996	kg					47.2		2559.3			
+06	California	CHINOMETHIONAT	1997	kg					22.9		1020.1			2
+06	California	CHINOMETHIONAT	1998	kg					2.5		554.6			3.8
+06	California	CHINOMETHIONAT	1999	kg							509.9			0.7
+06	California	CHINOMETHIONAT	2000	kg							158.2			
+06	California	CHINOMETHIONAT	2001	kg							55.6			
+06	California	CHINOMETHIONAT	2002	kg					0.6		44.4			0.4
+06	California	CHINOMETHIONAT	2003	kg					0.6		6.4			0.1
+06	California	CHINOMETHIONAT	2004	kg							9.6			0.2
+06	California	CHINOMETHIONAT	2005	kg							1.9			
+06	California	CHINOMETHIONAT	2006	kg							2.7			
+06	California	CHINOMETHIONAT	2007	kg										1.1
+06	California	CHINOMETHIONAT	2008	kg										0.4
+06	California	CHINOMETHIONAT	2009	kg							0.5			0.2
+06	California	CHINOMETHIONAT	2010	kg							0.3			0.1
+06	California	CHINOMETHIONAT	2011	kg										0.1
+06	California	CHINOMETHIONAT	2012	kg										0.1
+06	California	CHINOMETHIONAT	2016	kg							0.1			
+08	Colorado	CHINOMETHIONAT	1994	kg							43.3			
+08	Colorado	CHINOMETHIONAT	1995	kg							14.3			
+08	Colorado	CHINOMETHIONAT	1996	kg							68.5			
+10	Delaware	CHINOMETHIONAT	1993	kg							0			
+12	Florida	CHINOMETHIONAT	1992	kg							84065			
+12	Florida	CHINOMETHIONAT	1993	kg							32006.5			
+12	Florida	CHINOMETHIONAT	1994	kg							13471.8			0.5
+12	Florida	CHINOMETHIONAT	1995	kg							14548.2			
+12	Florida	CHINOMETHIONAT	1996	kg							10855			
+12	Florida	CHINOMETHIONAT	1997	kg							5311.4			
+12	Florida	CHINOMETHIONAT	1999	kg							712.4			
+12	Florida	CHINOMETHIONAT	2000	kg							1163.4			
+16	Idaho	CHINOMETHIONAT	1992	kg							6.8			
+16	Idaho	CHINOMETHIONAT	1993	kg							40			
+16	Idaho	CHINOMETHIONAT	1994	kg							9.5			
+16	Idaho	CHINOMETHIONAT	1995	kg							10.8			
+16	Idaho	CHINOMETHIONAT	1996	kg							4.1			
+16	Idaho	CHINOMETHIONAT	1997	kg							3.8			
+16	Idaho	CHINOMETHIONAT	1998	kg							2.8			
+16	Idaho	CHINOMETHIONAT	2000	kg							1.5			
+16	Idaho	CHINOMETHIONAT	2001	kg							0.6			
+17	Illinois	CHINOMETHIONAT	1992	kg							12			
+17	Illinois	CHINOMETHIONAT	1994	kg	18433.3									
+18	Indiana	CHINOMETHIONAT	1992	kg							14.3			89.6
+18	Indiana	CHINOMETHIONAT	1993	kg							3.3			
+18	Indiana	CHINOMETHIONAT	1994	kg	5474						5.2			
+18	Indiana	CHINOMETHIONAT	1996	kg							0.7			
+18	Indiana	CHINOMETHIONAT	1998	kg							9.5			
+19	Iowa	CHINOMETHIONAT	1995	kg							15			
+22	Louisiana	CHINOMETHIONAT	1996	kg							231.4			
+23	Maine	CHINOMETHIONAT	1994	kg							38.2			
+23	Maine	CHINOMETHIONAT	1995	kg							334.2			
+23	Maine	CHINOMETHIONAT	1996	kg							361.2			
+24	Maryland	CHINOMETHIONAT	1992	kg							219.9			
+24	Maryland	CHINOMETHIONAT	1994	kg										0
+24	Maryland	CHINOMETHIONAT	1995	kg							35.5			62.5
+24	Maryland	CHINOMETHIONAT	1996	kg							52.9			
+24	Maryland	CHINOMETHIONAT	1997	kg										19
+24	Maryland	CHINOMETHIONAT	1999	kg							20.7			
+26	Michigan	CHINOMETHIONAT	1992	kg							939.3			299.8
+26	Michigan	CHINOMETHIONAT	1993	kg							237.3			
+26	Michigan	CHINOMETHIONAT	1994	kg							397.2			
+26	Michigan	CHINOMETHIONAT	1996	kg							46.4			
+26	Michigan	CHINOMETHIONAT	1998	kg							429.9			
+27	Minnesota	CHINOMETHIONAT	1992	kg							20.3			
+27	Minnesota	CHINOMETHIONAT	1993	kg							4.5			
+27	Minnesota	CHINOMETHIONAT	1994	kg							12.7			
+27	Minnesota	CHINOMETHIONAT	1995	kg							343.1			
+27	Minnesota	CHINOMETHIONAT	1998	kg							8.3			
+29	Missouri	CHINOMETHIONAT	1992	kg							0			
+32	Nevada	CHINOMETHIONAT	1994	kg							3.9			
+32	Nevada	CHINOMETHIONAT	1995	kg							0.3			
+32	Nevada	CHINOMETHIONAT	1996	kg							0.1			
+33	New Hampshire	CHINOMETHIONAT	1994	kg							22.9			
+33	New Hampshire	CHINOMETHIONAT	1995	kg							42.4			
+33	New Hampshire	CHINOMETHIONAT	1996	kg							71.9			
+34	New Jersey	CHINOMETHIONAT	1993	kg							692			
+34	New Jersey	CHINOMETHIONAT	1995	kg							63			
+34	New Jersey	CHINOMETHIONAT	1996	kg							67.7			
+35	New Mexico	CHINOMETHIONAT	1994	kg							5.1			
+35	New Mexico	CHINOMETHIONAT	1995	kg							1.5			
+35	New Mexico	CHINOMETHIONAT	1996	kg							9.5			
+35	New Mexico	CHINOMETHIONAT	1997	kg				19						
+36	New York	CHINOMETHIONAT	1993	kg							116.9			
+36	New York	CHINOMETHIONAT	1994	kg							320.5			
+36	New York	CHINOMETHIONAT	1995	kg							1048.1			
+36	New York	CHINOMETHIONAT	1996	kg							1082.3			
+36	New York	CHINOMETHIONAT	1997	kg							709.3			
+39	Ohio	CHINOMETHIONAT	1992	kg							23.5			
+39	Ohio	CHINOMETHIONAT	1993	kg							24.5			
+39	Ohio	CHINOMETHIONAT	1994	kg							44.6			
+39	Ohio	CHINOMETHIONAT	1998	kg							25.8			
+41	Oregon	CHINOMETHIONAT	1992	kg							3067.1			
+41	Oregon	CHINOMETHIONAT	1993	kg							6910.3			
+41	Oregon	CHINOMETHIONAT	1994	kg							4776			
+41	Oregon	CHINOMETHIONAT	1995	kg							1421.3			
+41	Oregon	CHINOMETHIONAT	1996	kg							311.7			
+41	Oregon	CHINOMETHIONAT	1997	kg							410			
+41	Oregon	CHINOMETHIONAT	1998	kg							281.1			
+41	Oregon	CHINOMETHIONAT	1999	kg							46			
+41	Oregon	CHINOMETHIONAT	2000	kg							94.7			
+41	Oregon	CHINOMETHIONAT	2001	kg							45.3			
+42	Pennsylvania	CHINOMETHIONAT	1992	kg							2818.4			
+42	Pennsylvania	CHINOMETHIONAT	1993	kg							122.8			
+42	Pennsylvania	CHINOMETHIONAT	1995	kg							499.7			
+42	Pennsylvania	CHINOMETHIONAT	1996	kg							579.2			
+42	Pennsylvania	CHINOMETHIONAT	2000	kg							381.6			
+48	Texas	CHINOMETHIONAT	1994	kg							122.5			
+48	Texas	CHINOMETHIONAT	1995	kg							422.2			
+48	Texas	CHINOMETHIONAT	1997	kg				1391.1						
+49	Utah	CHINOMETHIONAT	1994	kg							272.1			
+49	Utah	CHINOMETHIONAT	1995	kg							0.2			
+49	Utah	CHINOMETHIONAT	1996	kg							1.5			
+51	Virginia	CHINOMETHIONAT	1994	kg										0.5
+51	Virginia	CHINOMETHIONAT	1995	kg										439.3
+51	Virginia	CHINOMETHIONAT	1997	kg										135.8
+51	Virginia	CHINOMETHIONAT	1999	kg							158.7			
+53	Washington	CHINOMETHIONAT	1992	kg							1507.3			
+53	Washington	CHINOMETHIONAT	1993	kg							9634.1			
+53	Washington	CHINOMETHIONAT	1994	kg							1589.5			
+53	Washington	CHINOMETHIONAT	1995	kg							5832.5			
+53	Washington	CHINOMETHIONAT	1996	kg							3043.6			
+53	Washington	CHINOMETHIONAT	1997	kg							741.9			
+53	Washington	CHINOMETHIONAT	1998	kg							361.7			
+53	Washington	CHINOMETHIONAT	2000	kg							89.8			
+53	Washington	CHINOMETHIONAT	2001	kg							54.8			
+54	West Virginia	CHINOMETHIONAT	1992	kg							0.5			
+54	West Virginia	CHINOMETHIONAT	1994	kg										1
+54	West Virginia	CHINOMETHIONAT	1995	kg										591
+54	West Virginia	CHINOMETHIONAT	1997	kg										189.2
+54	West Virginia	CHINOMETHIONAT	1999	kg							87.5			
+55	Wisconsin	CHINOMETHIONAT	1992	kg							164.7			
+55	Wisconsin	CHINOMETHIONAT	1993	kg							24.4			
+55	Wisconsin	CHINOMETHIONAT	1994	kg							82.6			
+55	Wisconsin	CHINOMETHIONAT	1995	kg							179.8			
+55	Wisconsin	CHINOMETHIONAT	1996	kg							13.3			
+55	Wisconsin	CHINOMETHIONAT	1998	kg							35.5			

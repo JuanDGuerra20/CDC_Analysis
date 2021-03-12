@@ -1,0 +1,185 @@
+01	Alabama	BUPROFEZIN	2006	kg				620.3						
+01	Alabama	BUPROFEZIN	2010	kg					29.8					
+04	Arizona	BUPROFEZIN	1996	kg				11890.4						
+04	Arizona	BUPROFEZIN	1997	kg				7446.8						
+04	Arizona	BUPROFEZIN	1998	kg				3214.3						
+04	Arizona	BUPROFEZIN	1999	kg				3662.5						
+04	Arizona	BUPROFEZIN	2000	kg				935.7	734.7					
+04	Arizona	BUPROFEZIN	2001	kg				1170.4	850.2					
+04	Arizona	BUPROFEZIN	2002	kg				711	133.5					
+04	Arizona	BUPROFEZIN	2003	kg				2955	678		7.7			
+04	Arizona	BUPROFEZIN	2004	kg				279.3	7.4		225.5			
+04	Arizona	BUPROFEZIN	2005	kg				532.5	30.9		116.8			
+04	Arizona	BUPROFEZIN	2006	kg					474.8		101.5			
+04	Arizona	BUPROFEZIN	2007	kg				2775.2			57.8			
+04	Arizona	BUPROFEZIN	2008	kg				1436.8			40			
+04	Arizona	BUPROFEZIN	2009	kg				1920.3			114			
+04	Arizona	BUPROFEZIN	2010	kg				853.9	434.5		95.2			
+04	Arizona	BUPROFEZIN	2011	kg				3287.2	1509.1		2.2			
+04	Arizona	BUPROFEZIN	2012	kg					4276.6		2.3			
+04	Arizona	BUPROFEZIN	2013	kg				38	4782.3		1.1			
+04	Arizona	BUPROFEZIN	2014	kg				733.8	2638.9		127.7			
+04	Arizona	BUPROFEZIN	2015	kg				1576.9	5776.6		64.5			
+04	Arizona	BUPROFEZIN	2016	kg				2285.7	4385		63.9			
+04	Arizona	BUPROFEZIN	2017	kg				3219.6	553.7		106.7			
+06	California	BUPROFEZIN	1997	kg				2745.1			423.5			
+06	California	BUPROFEZIN	1998	kg				618.3			3217.8			
+06	California	BUPROFEZIN	1999	kg				123.6	329		9834.1			
+06	California	BUPROFEZIN	2000	kg				220.7	86.8					
+06	California	BUPROFEZIN	2001	kg				1493.2	66.5					
+06	California	BUPROFEZIN	2002	kg				6177.8	293.8		5976.1			
+06	California	BUPROFEZIN	2003	kg				4519.2	567.8		10106.5			
+06	California	BUPROFEZIN	2004	kg				11205.5	916.1		10419.3			
+06	California	BUPROFEZIN	2005	kg				1992.2	803.9		15154.6			
+06	California	BUPROFEZIN	2006	kg				2341.3	1127.4		21629.1			
+06	California	BUPROFEZIN	2007	kg				2415.9	578.4		24252.5			
+06	California	BUPROFEZIN	2008	kg				1270.5	274		30082.6			
+06	California	BUPROFEZIN	2009	kg				1348.6	174.4		32171.5			
+06	California	BUPROFEZIN	2010	kg				2700.3	4994.7		37492.6			
+06	California	BUPROFEZIN	2011	kg				1814.3	7644.6		35331.3			
+06	California	BUPROFEZIN	2012	kg				4637	8095.1		35366.8			
+06	California	BUPROFEZIN	2013	kg				9587	6904.5		45492.7			
+06	California	BUPROFEZIN	2014	kg	0.4			11401.5	10464.9		55613.3			8.4
+06	California	BUPROFEZIN	2015	kg				8289.6	7628		65173.6			2.8
+06	California	BUPROFEZIN	2016	kg			7.7	6607.2	5347.1		64845.2			
+06	California	BUPROFEZIN	2017	kg				7017.9	3512.3		89877.8			2
+10	Delaware	BUPROFEZIN	2005	kg					40.6					
+12	Florida	BUPROFEZIN	2000	kg					108.1					
+12	Florida	BUPROFEZIN	2002	kg					2377.1					
+12	Florida	BUPROFEZIN	2007	kg					441.5					
+12	Florida	BUPROFEZIN	2009	kg					177.2					
+12	Florida	BUPROFEZIN	2010	kg					401.8		861.7			
+12	Florida	BUPROFEZIN	2014	kg					43.2					
+12	Florida	BUPROFEZIN	2015	kg					1535					
+12	Florida	BUPROFEZIN	2016	kg					1581.2					
+12	Florida	BUPROFEZIN	2017	kg					8640.5					
+13	Georgia	BUPROFEZIN	2007	kg					8518.8					
+13	Georgia	BUPROFEZIN	2010	kg					438					
+13	Georgia	BUPROFEZIN	2015	kg							326.4			
+13	Georgia	BUPROFEZIN	2016	kg							2766.9			
+13	Georgia	BUPROFEZIN	2017	kg				7279.5	1123.8					
+16	Idaho	BUPROFEZIN	2006	kg							30.5			
+16	Idaho	BUPROFEZIN	2007	kg							46.7			
+16	Idaho	BUPROFEZIN	2008	kg							16.1			
+16	Idaho	BUPROFEZIN	2009	kg							25.2			
+16	Idaho	BUPROFEZIN	2010	kg							20.9			
+16	Idaho	BUPROFEZIN	2011	kg							26.3			
+16	Idaho	BUPROFEZIN	2012	kg							11.1			
+16	Idaho	BUPROFEZIN	2013	kg							34.3			
+16	Idaho	BUPROFEZIN	2014	kg							31.9			
+16	Idaho	BUPROFEZIN	2015	kg							161.8			
+16	Idaho	BUPROFEZIN	2016	kg							93.6			
+16	Idaho	BUPROFEZIN	2017	kg							66.1			
+17	Illinois	BUPROFEZIN	2016	kg					88					
+17	Illinois	BUPROFEZIN	2017	kg					486.3					
+19	Iowa	BUPROFEZIN	2016	kg					21					
+20	Kansas	BUPROFEZIN	2009	kg				266.6						
+24	Maryland	BUPROFEZIN	2005	kg					66.4					
+24	Maryland	BUPROFEZIN	2010	kg							11.5			
+24	Maryland	BUPROFEZIN	2011	kg							9.6			
+24	Maryland	BUPROFEZIN	2012	kg							27.2			
+24	Maryland	BUPROFEZIN	2013	kg							313.8			
+24	Maryland	BUPROFEZIN	2014	kg							355.6			
+24	Maryland	BUPROFEZIN	2015	kg							46.9			
+24	Maryland	BUPROFEZIN	2016	kg							77			
+24	Maryland	BUPROFEZIN	2017	kg							66.4			
+27	Minnesota	BUPROFEZIN	2016	kg					13.2					
+28	Mississippi	BUPROFEZIN	2006	kg				406.7						
+32	Nevada	BUPROFEZIN	2003	kg							0			
+32	Nevada	BUPROFEZIN	2004	kg					2.4		0.6			
+32	Nevada	BUPROFEZIN	2005	kg							0.3			
+32	Nevada	BUPROFEZIN	2007	kg							0.1			
+32	Nevada	BUPROFEZIN	2008	kg							1.8			
+32	Nevada	BUPROFEZIN	2009	kg							6.2			
+32	Nevada	BUPROFEZIN	2010	kg					0		6.7			
+32	Nevada	BUPROFEZIN	2011	kg					0		0			
+32	Nevada	BUPROFEZIN	2012	kg					0		0			
+32	Nevada	BUPROFEZIN	2013	kg					0.9		0			
+32	Nevada	BUPROFEZIN	2014	kg					2.7		3.7			
+32	Nevada	BUPROFEZIN	2015	kg					4.4		1.8			
+32	Nevada	BUPROFEZIN	2016	kg					4.5		1			
+32	Nevada	BUPROFEZIN	2017	kg					0		3.2			
+34	New Jersey	BUPROFEZIN	2014	kg							838.4			
+35	New Mexico	BUPROFEZIN	1996	kg				216.1						
+35	New Mexico	BUPROFEZIN	1997	kg				178.7						
+35	New Mexico	BUPROFEZIN	1998	kg				91.8						
+35	New Mexico	BUPROFEZIN	1999	kg				91						
+35	New Mexico	BUPROFEZIN	2000	kg				17.4	42.5					
+35	New Mexico	BUPROFEZIN	2001	kg				13.1	46.8					
+35	New Mexico	BUPROFEZIN	2002	kg				7.9	7.2					
+35	New Mexico	BUPROFEZIN	2003	kg				36.8	21.9					
+35	New Mexico	BUPROFEZIN	2004	kg				5.6						
+35	New Mexico	BUPROFEZIN	2005	kg				7.1	1.3					
+35	New Mexico	BUPROFEZIN	2007	kg				61						
+35	New Mexico	BUPROFEZIN	2008	kg				35.4						
+35	New Mexico	BUPROFEZIN	2009	kg				42.6						
+35	New Mexico	BUPROFEZIN	2010	kg				13.9	0.6					
+35	New Mexico	BUPROFEZIN	2011	kg				139	0.2					
+35	New Mexico	BUPROFEZIN	2012	kg					0.2					
+35	New Mexico	BUPROFEZIN	2013	kg				0.9	15.6					
+35	New Mexico	BUPROFEZIN	2014	kg				21.8	0.7					
+35	New Mexico	BUPROFEZIN	2015	kg				81.7	1.7					
+35	New Mexico	BUPROFEZIN	2016	kg				119.9	0					
+35	New Mexico	BUPROFEZIN	2017	kg				133	0					
+36	New York	BUPROFEZIN	2014	kg							7338.4			
+36	New York	BUPROFEZIN	2017	kg							1989.4			
+37	North Carolina	BUPROFEZIN	2006	kg					41.9					
+37	North Carolina	BUPROFEZIN	2007	kg					2.1					
+37	North Carolina	BUPROFEZIN	2011	kg					47.6					
+40	Oklahoma	BUPROFEZIN	2009	kg				49.2						
+40	Oklahoma	BUPROFEZIN	2016	kg							3.3			
+41	Oregon	BUPROFEZIN	2002	kg							0.6			
+41	Oregon	BUPROFEZIN	2003	kg							0.5			
+41	Oregon	BUPROFEZIN	2005	kg							37.9			
+41	Oregon	BUPROFEZIN	2006	kg							10334.2			
+41	Oregon	BUPROFEZIN	2007	kg							6758.3			
+41	Oregon	BUPROFEZIN	2008	kg							1706.5			
+41	Oregon	BUPROFEZIN	2009	kg							2584.3			
+41	Oregon	BUPROFEZIN	2010	kg							866.3			
+41	Oregon	BUPROFEZIN	2011	kg							1573.6			
+41	Oregon	BUPROFEZIN	2012	kg							2236.6			
+41	Oregon	BUPROFEZIN	2013	kg							1472.7			
+41	Oregon	BUPROFEZIN	2014	kg							4088.9			
+41	Oregon	BUPROFEZIN	2015	kg							3529.1			
+41	Oregon	BUPROFEZIN	2016	kg							1791.3			
+41	Oregon	BUPROFEZIN	2017	kg							4482.6			
+42	Pennsylvania	BUPROFEZIN	2005	kg					28.2					
+42	Pennsylvania	BUPROFEZIN	2012	kg							321.1			
+42	Pennsylvania	BUPROFEZIN	2013	kg							4183.2			
+42	Pennsylvania	BUPROFEZIN	2014	kg							3905.1			
+42	Pennsylvania	BUPROFEZIN	2015	kg							487.7			
+42	Pennsylvania	BUPROFEZIN	2016	kg							1187.7			
+42	Pennsylvania	BUPROFEZIN	2017	kg							1036.3			
+45	South Carolina	BUPROFEZIN	2006	kg					7.4					
+45	South Carolina	BUPROFEZIN	2015	kg							2275.2			
+45	South Carolina	BUPROFEZIN	2016	kg							22140.5			
+47	Tennessee	BUPROFEZIN	2006	kg				1867.5						
+48	Texas	BUPROFEZIN	2012	kg							856.8			
+48	Texas	BUPROFEZIN	2014	kg					563.9		8728.9			
+48	Texas	BUPROFEZIN	2015	kg				926.3						
+48	Texas	BUPROFEZIN	2016	kg							150.6			
+51	Virginia	BUPROFEZIN	2007	kg					0					
+51	Virginia	BUPROFEZIN	2010	kg							87.2			
+51	Virginia	BUPROFEZIN	2011	kg					2		75.3			
+51	Virginia	BUPROFEZIN	2014	kg							406.5			
+53	Washington	BUPROFEZIN	2002	kg							58.1			
+53	Washington	BUPROFEZIN	2003	kg							37.8			
+53	Washington	BUPROFEZIN	2005	kg							97.7			
+53	Washington	BUPROFEZIN	2006	kg							6225.4			
+53	Washington	BUPROFEZIN	2007	kg							10852.3			
+53	Washington	BUPROFEZIN	2008	kg							6177.9			
+53	Washington	BUPROFEZIN	2009	kg							6324.9			
+53	Washington	BUPROFEZIN	2010	kg							8968.9			
+53	Washington	BUPROFEZIN	2011	kg							6679.3			
+53	Washington	BUPROFEZIN	2012	kg							4460.1			
+53	Washington	BUPROFEZIN	2013	kg							7849.1			
+53	Washington	BUPROFEZIN	2014	kg							6960.6			
+53	Washington	BUPROFEZIN	2015	kg							12371.3			
+53	Washington	BUPROFEZIN	2016	kg							18496.1			
+53	Washington	BUPROFEZIN	2017	kg							19714.6			
+54	West Virginia	BUPROFEZIN	2010	kg							27.7			
+54	West Virginia	BUPROFEZIN	2011	kg							24.4			
+54	West Virginia	BUPROFEZIN	2014	kg							159.4			
+55	Wisconsin	BUPROFEZIN	2012	kg					105.6					
+55	Wisconsin	BUPROFEZIN	2013	kg					141.8					
+55	Wisconsin	BUPROFEZIN	2016	kg					127.5					

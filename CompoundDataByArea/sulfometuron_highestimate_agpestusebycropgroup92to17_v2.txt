@@ -1,0 +1,81 @@
+01	Alabama	SULFOMETURON	1993	kg									2146.7	
+01	Alabama	SULFOMETURON	1995	kg										58.8
+01	Alabama	SULFOMETURON	1996	kg									51.4	
+04	Arizona	SULFOMETURON	1995	kg									1.9	
+05	Arkansas	SULFOMETURON	1996	kg									3.7	9.4
+06	California	SULFOMETURON	1993	kg										0.1
+06	California	SULFOMETURON	1994	kg										50.2
+06	California	SULFOMETURON	1995	kg							2.7			109.3
+06	California	SULFOMETURON	1996	kg							1.9			266.4
+06	California	SULFOMETURON	1997	kg							0.6			101.3
+06	California	SULFOMETURON	1998	kg							2.8			413.8
+06	California	SULFOMETURON	1999	kg							1.2		0	552.2
+06	California	SULFOMETURON	2000	kg							1.7			58.5
+06	California	SULFOMETURON	2001	kg					0.5		1			411.6
+06	California	SULFOMETURON	2002	kg									1.4	269.8
+06	California	SULFOMETURON	2003	kg							1.2			307.9
+06	California	SULFOMETURON	2004	kg							0.8			331.8
+06	California	SULFOMETURON	2005	kg										231.3
+06	California	SULFOMETURON	2006	kg							0.2			70.9
+06	California	SULFOMETURON	2007	kg							0.5			20.1
+06	California	SULFOMETURON	2008	kg							0.1			
+06	California	SULFOMETURON	2009	kg									0.4	
+06	California	SULFOMETURON	2011	kg							1.2			
+06	California	SULFOMETURON	2012	kg							1.4		0.1	
+06	California	SULFOMETURON	2013	kg									0.1	
+06	California	SULFOMETURON	2015	kg							0.4			
+06	California	SULFOMETURON	2017	kg							4			
+08	Colorado	SULFOMETURON	1994	kg									160.8	
+12	Florida	SULFOMETURON	1992	kg										51.7
+12	Florida	SULFOMETURON	1993	kg									1387.8	
+12	Florida	SULFOMETURON	1994	kg										96.2
+12	Florida	SULFOMETURON	1995	kg									60	326.2
+12	Florida	SULFOMETURON	1997	kg										23.6
+13	Georgia	SULFOMETURON	1992	kg										197.3
+13	Georgia	SULFOMETURON	1993	kg									2466.3	
+13	Georgia	SULFOMETURON	1994	kg										670.9
+13	Georgia	SULFOMETURON	1995	kg									221.2	1768.5
+13	Georgia	SULFOMETURON	1997	kg									135.1	575
+17	Illinois	SULFOMETURON	1994	kg									21.7	2.1
+17	Illinois	SULFOMETURON	1995	kg										43.2
+17	Illinois	SULFOMETURON	1996	kg									3.7	127.8
+18	Indiana	SULFOMETURON	1995	kg										64.6
+18	Indiana	SULFOMETURON	1996	kg										24.9
+20	Kansas	SULFOMETURON	1994	kg									605.7	
+20	Kansas	SULFOMETURON	1995	kg									369	
+20	Kansas	SULFOMETURON	1996	kg										3.4
+21	Kentucky	SULFOMETURON	1995	kg										41.8
+21	Kentucky	SULFOMETURON	1996	kg									2.7	
+22	Louisiana	SULFOMETURON	1992	kg										4.6
+22	Louisiana	SULFOMETURON	1995	kg										10.6
+24	Maryland	SULFOMETURON	1994	kg										0
+24	Maryland	SULFOMETURON	1995	kg										5.1
+28	Mississippi	SULFOMETURON	1994	kg									46.2	
+28	Mississippi	SULFOMETURON	1995	kg									3.8	32.6
+28	Mississippi	SULFOMETURON	1996	kg									60.8	
+28	Mississippi	SULFOMETURON	1997	kg										916.3
+29	Missouri	SULFOMETURON	1994	kg										2.6
+29	Missouri	SULFOMETURON	1996	kg									13.1	8.4
+32	Nevada	SULFOMETURON	1995	kg									0	
+37	North Carolina	SULFOMETURON	1992	kg										428.8
+37	North Carolina	SULFOMETURON	1995	kg										51.5
+40	Oklahoma	SULFOMETURON	1992	kg									3.4	
+40	Oklahoma	SULFOMETURON	1994	kg									535.2	
+40	Oklahoma	SULFOMETURON	1995	kg									529	
+40	Oklahoma	SULFOMETURON	1996	kg										25.9
+41	Oregon	SULFOMETURON	1997	kg									307.9	18.2
+41	Oregon	SULFOMETURON	2004	kg									42.4	
+45	South Carolina	SULFOMETURON	1992	kg										247.9
+45	South Carolina	SULFOMETURON	1994	kg										105.1
+45	South Carolina	SULFOMETURON	1995	kg										69
+45	South Carolina	SULFOMETURON	1997	kg									32.6	1165.9
+47	Tennessee	SULFOMETURON	1996	kg									90.8	
+48	Texas	SULFOMETURON	1992	kg									1.8	
+48	Texas	SULFOMETURON	1994	kg									188.7	
+51	Virginia	SULFOMETURON	1994	kg										0.5
+51	Virginia	SULFOMETURON	1995	kg										69.9
+53	Washington	SULFOMETURON	2004	kg									0.8	
+54	West Virginia	SULFOMETURON	1994	kg										0.8
+54	West Virginia	SULFOMETURON	1995	kg										32.1
+55	Wisconsin	SULFOMETURON	1994	kg									76.6	
+55	Wisconsin	SULFOMETURON	1996	kg										78.1

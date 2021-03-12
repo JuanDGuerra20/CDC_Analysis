@@ -1,0 +1,45 @@
+06	California	GARLIC JUICE	1992	kg					80.5		134			
+06	California	GARLIC JUICE	1993	kg					345.4		22.2			
+06	California	GARLIC JUICE	1994	kg	17.1				597.9		580.7			
+06	California	GARLIC JUICE	1995	kg				15.7	352.8		671.2			0.1
+06	California	GARLIC JUICE	1996	kg	0.1			235.2	213.8		189.8			0.1
+06	California	GARLIC JUICE	1997	kg				926.8	90.2		2994	3.9		
+06	California	GARLIC JUICE	1998	kg	2			659.6	3534		734.8			
+06	California	GARLIC JUICE	1999	kg	2.8			1.9	2968.4	145.1	111.1	14.1		
+06	California	GARLIC JUICE	2000	kg	3.1			18.6	222		149.1			
+06	California	GARLIC JUICE	2001	kg					210.6		306.2			
+06	California	GARLIC JUICE	2002	kg	8.4			26.4	176.1		97.6			
+06	California	GARLIC JUICE	2003	kg					80.4		31.5			
+06	California	GARLIC JUICE	2004	kg					60.4		18.2			
+06	California	GARLIC JUICE	2005	kg				36.1	47.9		3.8			
+06	California	GARLIC JUICE	2006	kg					36.4		3.9			
+06	California	GARLIC JUICE	2007	kg					63.6		0.7			
+06	California	GARLIC JUICE	2008	kg					58.6		37.6			
+06	California	GARLIC JUICE	2010	kg					174.9		0			
+06	California	GARLIC JUICE	2013	kg							3.4			
+06	California	GARLIC JUICE	2014	kg					28.6			32.6		
+06	California	GARLIC JUICE	2015	kg					51.2		38.6			
+06	California	GARLIC JUICE	2016	kg					57.6		53.1			0.4
+06	California	GARLIC JUICE	2017	kg					42.8		51.4			1.9
+12	Florida	GARLIC JUICE	1998	kg							2216.2			
+12	Florida	GARLIC JUICE	2005	kg							935.3			
+17	Illinois	GARLIC JUICE	2003	kg	2898									
+18	Indiana	GARLIC JUICE	1998	kg							69			
+18	Indiana	GARLIC JUICE	2001	kg							4.3			
+19	Iowa	GARLIC JUICE	2003	kg	922.3		16.7							
+20	Kansas	GARLIC JUICE	2008	kg										1352.3
+26	Michigan	GARLIC JUICE	1998	kg							3859.9			
+26	Michigan	GARLIC JUICE	2001	kg							234.1			
+27	Minnesota	GARLIC JUICE	2003	kg			2043.2							
+29	Missouri	GARLIC JUICE	2003	kg	1500.1									
+31	Nebraska	GARLIC JUICE	2008	kg										97.9
+38	North Dakota	GARLIC JUICE	2003	kg	345									
+40	Oklahoma	GARLIC JUICE	2000	kg					89.1					
+41	Oregon	GARLIC JUICE	1998	kg							4917.4			
+41	Oregon	GARLIC JUICE	2000	kg					139		20.9			
+41	Oregon	GARLIC JUICE	2002	kg					105.9					
+46	South Dakota	GARLIC JUICE	2003	kg	1003.8		49827.3							
+48	Texas	GARLIC JUICE	2000	kg					65.7					1223
+53	Washington	GARLIC JUICE	1998	kg							23297.1			
+53	Washington	GARLIC JUICE	2000	kg					101.9		402.6			
+53	Washington	GARLIC JUICE	2002	kg					96.8					

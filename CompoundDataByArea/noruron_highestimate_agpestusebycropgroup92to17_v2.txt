@@ -1,0 +1,9 @@
+06	California	NORURON	1992	kg					92.7					
+06	California	NORURON	1993	kg					55.9					
+06	California	NORURON	1994	kg					67.7					
+06	California	NORURON	1995	kg					71.6					
+06	California	NORURON	1996	kg					66.8					
+06	California	NORURON	1997	kg					64.8					
+06	California	NORURON	1998	kg					39.9					
+26	Michigan	NORURON	1994	kg		291								
+55	Wisconsin	NORURON	1992	kg	34380.1									

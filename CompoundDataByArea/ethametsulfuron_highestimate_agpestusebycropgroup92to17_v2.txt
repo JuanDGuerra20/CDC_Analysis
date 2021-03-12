@@ -1,0 +1,12 @@
+27	Minnesota	ETHAMETSULFURON	1999	kg										11.2
+27	Minnesota	ETHAMETSULFURON	2000	kg										461.5
+27	Minnesota	ETHAMETSULFURON	2001	kg										27.6
+27	Minnesota	ETHAMETSULFURON	2003	kg										23.3
+27	Minnesota	ETHAMETSULFURON	2004	kg										3
+27	Minnesota	ETHAMETSULFURON	2005	kg										10
+38	North Dakota	ETHAMETSULFURON	1999	kg										200.1
+38	North Dakota	ETHAMETSULFURON	2000	kg										312.2
+38	North Dakota	ETHAMETSULFURON	2001	kg										116.7
+38	North Dakota	ETHAMETSULFURON	2003	kg										96.3
+38	North Dakota	ETHAMETSULFURON	2004	kg										50.6
+38	North Dakota	ETHAMETSULFURON	2005	kg										404.9

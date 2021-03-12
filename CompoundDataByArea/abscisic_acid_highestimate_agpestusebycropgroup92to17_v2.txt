@@ -1,0 +1,2 @@
+04	Arizona	ABSCISIC ACID	2017	kg							0.3			
+32	Nevada	ABSCISIC ACID	2017	kg							0			

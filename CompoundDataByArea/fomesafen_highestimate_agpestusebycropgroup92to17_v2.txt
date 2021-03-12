@@ -1,0 +1,900 @@
+01	Alabama	FOMESAFEN	1992	kg		9003.9		1582						
+01	Alabama	FOMESAFEN	1993	kg		3164.6								
+01	Alabama	FOMESAFEN	1994	kg		5554.6								
+01	Alabama	FOMESAFEN	1995	kg		2981.6		195.7	1516.6					
+01	Alabama	FOMESAFEN	1996	kg		7172.5		142.9						
+01	Alabama	FOMESAFEN	1997	kg		16474.5		838.9						
+01	Alabama	FOMESAFEN	1998	kg		3085.2			30					
+01	Alabama	FOMESAFEN	1999	kg		1688								
+01	Alabama	FOMESAFEN	2000	kg		2994.3			21.2					
+01	Alabama	FOMESAFEN	2001	kg		754.3			8.7					
+01	Alabama	FOMESAFEN	2002	kg		1010.9			20.4					
+01	Alabama	FOMESAFEN	2003	kg		1289.4								
+01	Alabama	FOMESAFEN	2004	kg		757.4			19.4					
+01	Alabama	FOMESAFEN	2005	kg		582.3		383.2						
+01	Alabama	FOMESAFEN	2006	kg		393		18039.8						
+01	Alabama	FOMESAFEN	2007	kg		3722.4		6645.4	24.1					
+01	Alabama	FOMESAFEN	2008	kg		1641.3		4553.5	3					
+01	Alabama	FOMESAFEN	2009	kg		5850.6		6667.5	17.1					
+01	Alabama	FOMESAFEN	2010	kg		3818.9		13384.6	14					
+01	Alabama	FOMESAFEN	2011	kg		9913		6447.1	7.9					580.5
+01	Alabama	FOMESAFEN	2012	kg		14081.2		4338.5	14.2					117.9
+01	Alabama	FOMESAFEN	2013	kg		3485.9		6518.9						86.1
+01	Alabama	FOMESAFEN	2014	kg		20079.9		8835.2	6.8					
+01	Alabama	FOMESAFEN	2015	kg		7260.5		14505.5	182.7					
+01	Alabama	FOMESAFEN	2016	kg		33923.3		8685.7	2.2					
+01	Alabama	FOMESAFEN	2017	kg		23152.9		13171.2	7.6					
+05	Arkansas	FOMESAFEN	1992	kg		22846.7			60.9					
+05	Arkansas	FOMESAFEN	1993	kg		30181.7	1401.6	576.8		62.5			327.3	
+05	Arkansas	FOMESAFEN	1994	kg		46805.7			65.1					
+05	Arkansas	FOMESAFEN	1995	kg	21.7	40147.4				1396.1				168.5
+05	Arkansas	FOMESAFEN	1996	kg		81108.3			188.6	1583.3			154	
+05	Arkansas	FOMESAFEN	1997	kg		65350.3		232.7	13.7	1548.4				
+05	Arkansas	FOMESAFEN	1998	kg		57351.6								
+05	Arkansas	FOMESAFEN	1999	kg		34644.9								
+05	Arkansas	FOMESAFEN	2000	kg		60338.2								
+05	Arkansas	FOMESAFEN	2001	kg		29863.7								
+05	Arkansas	FOMESAFEN	2002	kg		27407.3								
+05	Arkansas	FOMESAFEN	2003	kg		31783.6								
+05	Arkansas	FOMESAFEN	2004	kg		32716.7								
+05	Arkansas	FOMESAFEN	2005	kg		52232								
+05	Arkansas	FOMESAFEN	2006	kg		42702.8			75.6					
+05	Arkansas	FOMESAFEN	2007	kg		55648.8								
+05	Arkansas	FOMESAFEN	2008	kg		31837.1								
+05	Arkansas	FOMESAFEN	2009	kg		43572.7		5981.1						
+05	Arkansas	FOMESAFEN	2010	kg		152792.2		7145.9						
+05	Arkansas	FOMESAFEN	2011	kg		172986.8		27087.4						
+05	Arkansas	FOMESAFEN	2012	kg		174718.1		27029.2						
+05	Arkansas	FOMESAFEN	2013	kg		126180		4532.8						
+05	Arkansas	FOMESAFEN	2014	kg		117835.2		10472.7						
+05	Arkansas	FOMESAFEN	2015	kg		175418.4		2824.1						
+05	Arkansas	FOMESAFEN	2016	kg		191904.3		5169.8						
+05	Arkansas	FOMESAFEN	2017	kg		221454.2		282.2	0.7					
+08	Colorado	FOMESAFEN	2000	kg					138.7					
+08	Colorado	FOMESAFEN	2001	kg					36					
+08	Colorado	FOMESAFEN	2002	kg					274.3					
+08	Colorado	FOMESAFEN	2003	kg					1395.3					
+08	Colorado	FOMESAFEN	2004	kg					3.4					
+08	Colorado	FOMESAFEN	2005	kg					118.9					
+08	Colorado	FOMESAFEN	2006	kg					152.2					
+08	Colorado	FOMESAFEN	2007	kg					119.9					
+08	Colorado	FOMESAFEN	2008	kg		2.7			52					
+08	Colorado	FOMESAFEN	2009	kg		28.1			350.1					
+08	Colorado	FOMESAFEN	2010	kg		20.9			177.7					
+08	Colorado	FOMESAFEN	2011	kg		60.7			115.9					
+08	Colorado	FOMESAFEN	2012	kg		37			124.6					
+08	Colorado	FOMESAFEN	2013	kg		52.8			183.5					
+08	Colorado	FOMESAFEN	2014	kg		125.3			1355					
+08	Colorado	FOMESAFEN	2015	kg		116.1			138.2					
+08	Colorado	FOMESAFEN	2016	kg		680.1			2352.2					
+08	Colorado	FOMESAFEN	2017	kg		140.4			506.2					
+09	Connecticut	FOMESAFEN	1994	kg					0.4					
+09	Connecticut	FOMESAFEN	1995	kg					0.6					
+09	Connecticut	FOMESAFEN	1996	kg					0					
+09	Connecticut	FOMESAFEN	1997	kg					0					
+09	Connecticut	FOMESAFEN	1999	kg					0.2					
+09	Connecticut	FOMESAFEN	2000	kg					0.8					
+09	Connecticut	FOMESAFEN	2001	kg					0.8					
+09	Connecticut	FOMESAFEN	2002	kg					0					
+09	Connecticut	FOMESAFEN	2003	kg					0.2					
+09	Connecticut	FOMESAFEN	2005	kg					0.3					
+09	Connecticut	FOMESAFEN	2009	kg					0.1					
+09	Connecticut	FOMESAFEN	2011	kg					0.7					
+09	Connecticut	FOMESAFEN	2013	kg		20								
+09	Connecticut	FOMESAFEN	2014	kg		5.3								
+09	Connecticut	FOMESAFEN	2015	kg		1.9								
+09	Connecticut	FOMESAFEN	2016	kg		4.8								
+10	Delaware	FOMESAFEN	1992	kg		2066.1								
+10	Delaware	FOMESAFEN	1993	kg		1855.1								
+10	Delaware	FOMESAFEN	1994	kg		2466.3								
+10	Delaware	FOMESAFEN	1995	kg		2656			92.3					
+10	Delaware	FOMESAFEN	1996	kg		6214.6								
+10	Delaware	FOMESAFEN	1997	kg		7882								
+10	Delaware	FOMESAFEN	1998	kg		125.4								
+10	Delaware	FOMESAFEN	1999	kg		178.3								
+10	Delaware	FOMESAFEN	2000	kg		1035.5			488.5					
+10	Delaware	FOMESAFEN	2001	kg		1540.6			172.3					
+10	Delaware	FOMESAFEN	2002	kg		597.5			327.9					
+10	Delaware	FOMESAFEN	2003	kg		1804.2			1028.7					
+10	Delaware	FOMESAFEN	2004	kg		1836.6			533.5					
+10	Delaware	FOMESAFEN	2005	kg		44392.5								
+10	Delaware	FOMESAFEN	2006	kg		300.8								
+10	Delaware	FOMESAFEN	2007	kg		421.2								
+10	Delaware	FOMESAFEN	2008	kg		1778			112.9					
+10	Delaware	FOMESAFEN	2009	kg		4353.1								
+10	Delaware	FOMESAFEN	2010	kg		3297.2								
+10	Delaware	FOMESAFEN	2011	kg		6305.2								
+10	Delaware	FOMESAFEN	2012	kg		7469.6								
+10	Delaware	FOMESAFEN	2013	kg		3824.1								
+10	Delaware	FOMESAFEN	2014	kg		8347			0.2					
+10	Delaware	FOMESAFEN	2015	kg		3860.5								
+10	Delaware	FOMESAFEN	2016	kg		2386.3								
+10	Delaware	FOMESAFEN	2017	kg		9478.5								
+12	Florida	FOMESAFEN	1992	kg		414.3		18.9						70.2
+12	Florida	FOMESAFEN	1993	kg		267.6		4.8						
+12	Florida	FOMESAFEN	1994	kg		67.1		48.2						124
+12	Florida	FOMESAFEN	1995	kg		144.9		76.8	34.2		186.6			298.8
+12	Florida	FOMESAFEN	1996	kg		642.2		75.6						25.2
+12	Florida	FOMESAFEN	1997	kg		250		135.3						
+12	Florida	FOMESAFEN	1998	kg		36.9			253.1					
+12	Florida	FOMESAFEN	2000	kg		50.4								
+12	Florida	FOMESAFEN	2002	kg		316.1								
+12	Florida	FOMESAFEN	2004	kg				53						
+12	Florida	FOMESAFEN	2005	kg				43.3						
+12	Florida	FOMESAFEN	2006	kg				881.2						
+12	Florida	FOMESAFEN	2007	kg		335.9		2020.4						
+12	Florida	FOMESAFEN	2008	kg				3687						
+12	Florida	FOMESAFEN	2009	kg		824.3		4303.6						
+12	Florida	FOMESAFEN	2010	kg		817.6		6578.8						
+12	Florida	FOMESAFEN	2011	kg		970.3		623.6	214.3					303.3
+12	Florida	FOMESAFEN	2012	kg		969.5		2843.5	1578.2					66.9
+12	Florida	FOMESAFEN	2013	kg		402		2592.2	1160.6					54
+12	Florida	FOMESAFEN	2014	kg		1425.6		4342.8	659.6					9.7
+12	Florida	FOMESAFEN	2015	kg		508.5		4320.1	305.6					
+12	Florida	FOMESAFEN	2016	kg		363.6		6974.5	181.9					305.5
+12	Florida	FOMESAFEN	2017	kg		926.9		6526.3	3582.4					
+13	Georgia	FOMESAFEN	1992	kg		2121.3		293.8						499.3
+13	Georgia	FOMESAFEN	1993	kg		2791.1		43.2						
+13	Georgia	FOMESAFEN	1994	kg		2018		521.8						971.7
+13	Georgia	FOMESAFEN	1995	kg		1415		1525.9	739.8					1999.6
+13	Georgia	FOMESAFEN	1996	kg		4313.9		851.6						236.2
+13	Georgia	FOMESAFEN	1997	kg		2049.5		1729.8						
+13	Georgia	FOMESAFEN	1998	kg		2082.6			906.7					
+13	Georgia	FOMESAFEN	1999	kg		589.9								
+13	Georgia	FOMESAFEN	2000	kg		1835.9			581.9					
+13	Georgia	FOMESAFEN	2001	kg		1048.4			257.8					
+13	Georgia	FOMESAFEN	2002	kg		643			585					
+13	Georgia	FOMESAFEN	2003	kg		1870.3								
+13	Georgia	FOMESAFEN	2004	kg		1886.1		686.6	365.7					
+13	Georgia	FOMESAFEN	2005	kg		119.3		661.7						
+13	Georgia	FOMESAFEN	2006	kg		379		13205.7						
+13	Georgia	FOMESAFEN	2007	kg		4345.9		29477.8						
+13	Georgia	FOMESAFEN	2008	kg		4747.6		51099	1.2					
+13	Georgia	FOMESAFEN	2009	kg		15406		57750.4	1.5					192.7
+13	Georgia	FOMESAFEN	2010	kg		9268.5		97322	1.7					
+13	Georgia	FOMESAFEN	2011	kg		11358.7		130526	160.2					2108.1
+13	Georgia	FOMESAFEN	2012	kg		9394.4		112575.4	557.8					4926.4
+13	Georgia	FOMESAFEN	2013	kg		11873.6		114913						277.8
+13	Georgia	FOMESAFEN	2014	kg		24675.3		103779.2	3205.7					1512.8
+13	Georgia	FOMESAFEN	2015	kg		12215.8		87070.3	2481.6					
+13	Georgia	FOMESAFEN	2016	kg		15820.5		92174.1	927.7					3262.5
+13	Georgia	FOMESAFEN	2017	kg		12038.4		101127.7	1520.7					37.8
+16	Idaho	FOMESAFEN	1998	kg					9.2					
+16	Idaho	FOMESAFEN	2014	kg					330.8					
+17	Illinois	FOMESAFEN	1992	kg		12192.6	420.3							
+17	Illinois	FOMESAFEN	1993	kg		20126.7								
+17	Illinois	FOMESAFEN	1994	kg	3684.1	22325.8								
+17	Illinois	FOMESAFEN	1995	kg		29854.8	3054.8		0				957.8	
+17	Illinois	FOMESAFEN	1996	kg		93081.9			283.9					
+17	Illinois	FOMESAFEN	1997	kg		75217.2			195.7					
+17	Illinois	FOMESAFEN	1998	kg		103523								
+17	Illinois	FOMESAFEN	1999	kg		79553.9								
+17	Illinois	FOMESAFEN	2000	kg		94318.2			1201.6					
+17	Illinois	FOMESAFEN	2001	kg		72862.9			333.4					
+17	Illinois	FOMESAFEN	2002	kg		38560.8			170.8					
+17	Illinois	FOMESAFEN	2003	kg		33890.2								
+17	Illinois	FOMESAFEN	2004	kg		20910.9			469.7					
+17	Illinois	FOMESAFEN	2005	kg		34286			646.8					
+17	Illinois	FOMESAFEN	2006	kg		20067.3			602.6					
+17	Illinois	FOMESAFEN	2007	kg		15479.2			543.3					
+17	Illinois	FOMESAFEN	2008	kg		30071.5			75.7					
+17	Illinois	FOMESAFEN	2009	kg		41997.4			218.7					
+17	Illinois	FOMESAFEN	2010	kg		43567.8			54.7					
+17	Illinois	FOMESAFEN	2011	kg		68289.7			101.4					
+17	Illinois	FOMESAFEN	2012	kg		88710.3			10.1					
+17	Illinois	FOMESAFEN	2013	kg		127907.1			29.2					
+17	Illinois	FOMESAFEN	2014	kg		127203.1			96.5					
+17	Illinois	FOMESAFEN	2015	kg		200148.3			187.2					
+17	Illinois	FOMESAFEN	2016	kg		337589.7			1099.2					
+17	Illinois	FOMESAFEN	2017	kg		358864			144.6					
+18	Indiana	FOMESAFEN	1992	kg		15399.3	224							
+18	Indiana	FOMESAFEN	1993	kg	968.7	33235.2								
+18	Indiana	FOMESAFEN	1994	kg		22848.9			13.3					
+18	Indiana	FOMESAFEN	1995	kg		45128.2	1644.9						996.4	
+18	Indiana	FOMESAFEN	1996	kg		59438			391.1					
+18	Indiana	FOMESAFEN	1997	kg		64260.8			13.7					
+18	Indiana	FOMESAFEN	1998	kg		24530.8								
+18	Indiana	FOMESAFEN	1999	kg		11346.7								
+18	Indiana	FOMESAFEN	2000	kg		25039.1			110.9					
+18	Indiana	FOMESAFEN	2001	kg		23363.4			55.3					
+18	Indiana	FOMESAFEN	2002	kg		20431.3			33.4					
+18	Indiana	FOMESAFEN	2003	kg		12485.9			54.4					
+18	Indiana	FOMESAFEN	2004	kg		28594			74.3					
+18	Indiana	FOMESAFEN	2005	kg		13139.4			563					
+18	Indiana	FOMESAFEN	2006	kg		11826.9			241.9					
+18	Indiana	FOMESAFEN	2007	kg		19962			141.4					
+18	Indiana	FOMESAFEN	2008	kg		20249			250.1					
+18	Indiana	FOMESAFEN	2009	kg		15345.5			70.3					
+18	Indiana	FOMESAFEN	2010	kg		24405.7			223.3					
+18	Indiana	FOMESAFEN	2011	kg		21740.8			610.4					
+18	Indiana	FOMESAFEN	2012	kg		10916			184.7					
+18	Indiana	FOMESAFEN	2013	kg		15009.8			192.8					
+18	Indiana	FOMESAFEN	2014	kg		24885			597.6					
+18	Indiana	FOMESAFEN	2015	kg		53660			44.5					
+18	Indiana	FOMESAFEN	2016	kg		71725.4			41.3					
+18	Indiana	FOMESAFEN	2017	kg		93587.4			22.1					
+19	Iowa	FOMESAFEN	1992	kg		3505.2								
+19	Iowa	FOMESAFEN	1993	kg		2351.9								
+19	Iowa	FOMESAFEN	1994	kg		7820.4			7.7					
+19	Iowa	FOMESAFEN	1995	kg		2923.3							22.1	
+19	Iowa	FOMESAFEN	1996	kg		23106.4			84.3					
+19	Iowa	FOMESAFEN	1997	kg		50456.2								
+19	Iowa	FOMESAFEN	1998	kg		92734.7								
+19	Iowa	FOMESAFEN	1999	kg		93868.9								
+19	Iowa	FOMESAFEN	2000	kg		110689.6			2.4					
+19	Iowa	FOMESAFEN	2001	kg		67842.1			13.9					
+19	Iowa	FOMESAFEN	2002	kg		57887.2			0.5					
+19	Iowa	FOMESAFEN	2003	kg		72925.7			0.5					
+19	Iowa	FOMESAFEN	2004	kg		41614.1			22.2					
+19	Iowa	FOMESAFEN	2005	kg		32825.5			32.8					
+19	Iowa	FOMESAFEN	2006	kg		18288.9			29.9					
+19	Iowa	FOMESAFEN	2007	kg		7930.7			28					
+19	Iowa	FOMESAFEN	2008	kg		15969								
+19	Iowa	FOMESAFEN	2009	kg		29392.8			7.4					
+19	Iowa	FOMESAFEN	2010	kg		37621.9			0					
+19	Iowa	FOMESAFEN	2011	kg		33586.6			0.9					
+19	Iowa	FOMESAFEN	2012	kg		76239.9			6.5					
+19	Iowa	FOMESAFEN	2013	kg		117597.1			0					
+19	Iowa	FOMESAFEN	2014	kg		187002.2			0.8					
+19	Iowa	FOMESAFEN	2015	kg		298132.3			10.5					
+19	Iowa	FOMESAFEN	2016	kg		457336.8			5.2					
+19	Iowa	FOMESAFEN	2017	kg		554592.9			16.4					
+20	Kansas	FOMESAFEN	1994	kg		1418.3			0					
+20	Kansas	FOMESAFEN	1995	kg		1284.2							7282.5	
+20	Kansas	FOMESAFEN	1996	kg		3563.5			0.1					
+20	Kansas	FOMESAFEN	1997	kg		1356.7			0					
+20	Kansas	FOMESAFEN	1998	kg		3408.5								
+20	Kansas	FOMESAFEN	1999	kg		30366.6								
+20	Kansas	FOMESAFEN	2000	kg		12189.6								
+20	Kansas	FOMESAFEN	2001	kg		2887.6								
+20	Kansas	FOMESAFEN	2002	kg		1347.4								
+20	Kansas	FOMESAFEN	2003	kg		3160.8			201.6					
+20	Kansas	FOMESAFEN	2004	kg		1557.8								
+20	Kansas	FOMESAFEN	2005	kg		2783								
+20	Kansas	FOMESAFEN	2006	kg		4036.1								
+20	Kansas	FOMESAFEN	2007	kg		2652.7								
+20	Kansas	FOMESAFEN	2008	kg		1727.3		373.4						
+20	Kansas	FOMESAFEN	2009	kg		16822								
+20	Kansas	FOMESAFEN	2010	kg		18028.3								
+20	Kansas	FOMESAFEN	2011	kg		39603.4								
+20	Kansas	FOMESAFEN	2012	kg		29654.9								
+20	Kansas	FOMESAFEN	2013	kg		62778.7								
+20	Kansas	FOMESAFEN	2014	kg		40090.3								
+20	Kansas	FOMESAFEN	2015	kg		52422.6			103.1					
+20	Kansas	FOMESAFEN	2016	kg		118046.4		128.7	601					
+20	Kansas	FOMESAFEN	2017	kg		130726		164.3	153.8					
+21	Kentucky	FOMESAFEN	1992	kg		20246.9	149.8							
+21	Kentucky	FOMESAFEN	1993	kg	52.4	30126.6								
+21	Kentucky	FOMESAFEN	1994	kg	206.5	30460.7								
+21	Kentucky	FOMESAFEN	1995	kg		29491.1	1323.1						532.2	
+21	Kentucky	FOMESAFEN	1996	kg		42597.1			3.3					
+21	Kentucky	FOMESAFEN	1997	kg		19853.3								
+21	Kentucky	FOMESAFEN	1998	kg		21166.8								
+21	Kentucky	FOMESAFEN	1999	kg		34612.1								
+21	Kentucky	FOMESAFEN	2000	kg		14465.5								
+21	Kentucky	FOMESAFEN	2001	kg		4348.9			0.1					
+21	Kentucky	FOMESAFEN	2002	kg		3232.8								
+21	Kentucky	FOMESAFEN	2003	kg		4222.1								
+21	Kentucky	FOMESAFEN	2004	kg		3933.7			13					
+21	Kentucky	FOMESAFEN	2005	kg		8815.2			0.8					
+21	Kentucky	FOMESAFEN	2006	kg		2359.4			1.3					
+21	Kentucky	FOMESAFEN	2007	kg		11113.2			70.7					
+21	Kentucky	FOMESAFEN	2008	kg		10761.8			9.4					
+21	Kentucky	FOMESAFEN	2009	kg		13409.9			55.2					
+21	Kentucky	FOMESAFEN	2010	kg		13305.1			30.4					
+21	Kentucky	FOMESAFEN	2011	kg		5975.3			7.8					
+21	Kentucky	FOMESAFEN	2012	kg		2566.6			54.5					
+21	Kentucky	FOMESAFEN	2013	kg		5193.7			2.3					
+21	Kentucky	FOMESAFEN	2014	kg		13780			29.4					
+21	Kentucky	FOMESAFEN	2015	kg		43650.8			7.5					
+21	Kentucky	FOMESAFEN	2016	kg		23269.6			9.4					
+21	Kentucky	FOMESAFEN	2017	kg		37054.5			0.7					
+22	Louisiana	FOMESAFEN	1992	kg		15404.6								
+22	Louisiana	FOMESAFEN	1993	kg		17644.8		620.8					516.8	
+22	Louisiana	FOMESAFEN	1994	kg		11221								
+22	Louisiana	FOMESAFEN	1995	kg	547.9	18633.1								
+22	Louisiana	FOMESAFEN	1996	kg		9437.5								
+22	Louisiana	FOMESAFEN	1997	kg		19916.6		480.4		88.5				
+22	Louisiana	FOMESAFEN	1998	kg		12308.1								
+22	Louisiana	FOMESAFEN	1999	kg		1101.6								
+22	Louisiana	FOMESAFEN	2000	kg		6477								
+22	Louisiana	FOMESAFEN	2001	kg		2920.8								
+22	Louisiana	FOMESAFEN	2002	kg		731.2								
+22	Louisiana	FOMESAFEN	2003	kg		6677.5								
+22	Louisiana	FOMESAFEN	2004	kg		808.8								
+22	Louisiana	FOMESAFEN	2005	kg		6992.6								
+22	Louisiana	FOMESAFEN	2006	kg		899.5								
+22	Louisiana	FOMESAFEN	2007	kg		3736.8								
+22	Louisiana	FOMESAFEN	2008	kg		2837.2								
+22	Louisiana	FOMESAFEN	2009	kg		73646.6		876.8						
+22	Louisiana	FOMESAFEN	2010	kg		4143.7		1595.3						
+22	Louisiana	FOMESAFEN	2011	kg		9488.4		1885.2						
+22	Louisiana	FOMESAFEN	2012	kg		64134.4		4278						
+22	Louisiana	FOMESAFEN	2013	kg		9771.6		1703.4						
+22	Louisiana	FOMESAFEN	2014	kg		23458.2		2707.9						
+22	Louisiana	FOMESAFEN	2015	kg		96438.2		682						
+22	Louisiana	FOMESAFEN	2016	kg		65793.9		657.5						
+22	Louisiana	FOMESAFEN	2017	kg		61212.8		922.6						
+23	Maine	FOMESAFEN	2015	kg					22					
+24	Maryland	FOMESAFEN	1992	kg		4944.4								
+24	Maryland	FOMESAFEN	1993	kg		3890.8								
+24	Maryland	FOMESAFEN	1994	kg		5930.7			134.2					
+24	Maryland	FOMESAFEN	1995	kg		4166.4			87.5					
+24	Maryland	FOMESAFEN	1996	kg		1972.1			78.8					
+24	Maryland	FOMESAFEN	1997	kg		824.9			58.1					
+24	Maryland	FOMESAFEN	1998	kg		427.1								
+24	Maryland	FOMESAFEN	1999	kg		1713.1			48.6					
+24	Maryland	FOMESAFEN	2000	kg		943.1			193.7					
+24	Maryland	FOMESAFEN	2001	kg		2603.6			100.8					
+24	Maryland	FOMESAFEN	2002	kg		1223.3			364.6					
+24	Maryland	FOMESAFEN	2003	kg		3555.8			287.9					
+24	Maryland	FOMESAFEN	2004	kg		3451.5			173.9					
+24	Maryland	FOMESAFEN	2005	kg		36411.6			132.1					
+24	Maryland	FOMESAFEN	2006	kg		470.3			209.3					
+24	Maryland	FOMESAFEN	2007	kg		824			219.6					
+24	Maryland	FOMESAFEN	2008	kg		3475.8			9					
+24	Maryland	FOMESAFEN	2009	kg		8750								
+24	Maryland	FOMESAFEN	2010	kg		6729.3								
+24	Maryland	FOMESAFEN	2011	kg		13301.9								
+24	Maryland	FOMESAFEN	2012	kg		17936.1								
+24	Maryland	FOMESAFEN	2013	kg		13699.3			164.7					
+24	Maryland	FOMESAFEN	2014	kg		7424.2			192.5					
+24	Maryland	FOMESAFEN	2015	kg		4508.8			105.5					
+24	Maryland	FOMESAFEN	2016	kg		3586			139.2					
+24	Maryland	FOMESAFEN	2017	kg		19655.1			160.2					
+25	Massachusetts	FOMESAFEN	1992	kg		2.6								
+25	Massachusetts	FOMESAFEN	1993	kg		2								
+25	Massachusetts	FOMESAFEN	1994	kg		3.6								
+25	Massachusetts	FOMESAFEN	1995	kg		2.2								
+25	Massachusetts	FOMESAFEN	1996	kg		3.6								
+25	Massachusetts	FOMESAFEN	1997	kg		1.4								
+25	Massachusetts	FOMESAFEN	1998	kg		0.4								
+25	Massachusetts	FOMESAFEN	2000	kg		0.4								
+25	Massachusetts	FOMESAFEN	2011	kg					2.5					
+25	Massachusetts	FOMESAFEN	2013	kg		37.9								
+25	Massachusetts	FOMESAFEN	2014	kg		7.6								
+25	Massachusetts	FOMESAFEN	2015	kg		2.4			70.2					
+25	Massachusetts	FOMESAFEN	2016	kg		4.4								
+26	Michigan	FOMESAFEN	1992	kg		1203.5								
+26	Michigan	FOMESAFEN	1993	kg		988.1								
+26	Michigan	FOMESAFEN	1994	kg		891.4			16.5					
+26	Michigan	FOMESAFEN	1995	kg		1404			1400.5					
+26	Michigan	FOMESAFEN	1996	kg		5902.1			3761.1					
+26	Michigan	FOMESAFEN	1997	kg		6294.3			3259					
+26	Michigan	FOMESAFEN	1998	kg		3782.3			390.4					
+26	Michigan	FOMESAFEN	1999	kg		6736.9			2974.5					
+26	Michigan	FOMESAFEN	2000	kg		2275.1			6029.1					
+26	Michigan	FOMESAFEN	2001	kg		983.8			5109.8					
+26	Michigan	FOMESAFEN	2002	kg		2728.7			6476.6					
+26	Michigan	FOMESAFEN	2003	kg		4321.3			2676.3					
+26	Michigan	FOMESAFEN	2004	kg		2822.2			4533					
+26	Michigan	FOMESAFEN	2005	kg		7360.3			3310.4					
+26	Michigan	FOMESAFEN	2006	kg		2796.6			4667.8					
+26	Michigan	FOMESAFEN	2007	kg		350.5			4993.8					
+26	Michigan	FOMESAFEN	2008	kg		4836.9			4666.6					
+26	Michigan	FOMESAFEN	2009	kg		3004.3			4511.6					
+26	Michigan	FOMESAFEN	2010	kg		2349.7			5921.1					
+26	Michigan	FOMESAFEN	2011	kg		2710.4			3887.3					
+26	Michigan	FOMESAFEN	2012	kg		4658.4			4396					
+26	Michigan	FOMESAFEN	2013	kg		7630.7			5174.8					
+26	Michigan	FOMESAFEN	2014	kg		7408.3			7126.2					
+26	Michigan	FOMESAFEN	2015	kg		8069.6			8761.1					
+26	Michigan	FOMESAFEN	2016	kg		15047.5			13453.3					
+26	Michigan	FOMESAFEN	2017	kg		7502.8			18086.4					
+27	Minnesota	FOMESAFEN	1992	kg		3054.9								
+27	Minnesota	FOMESAFEN	1993	kg		2423.6								
+27	Minnesota	FOMESAFEN	1994	kg		5001.8			686					
+27	Minnesota	FOMESAFEN	1995	kg		4255.3			87.8				57.4	
+27	Minnesota	FOMESAFEN	1996	kg		55666.2			7409.9					
+27	Minnesota	FOMESAFEN	1997	kg		21005.7			353.4					
+27	Minnesota	FOMESAFEN	1998	kg		56640.4			42.3					
+27	Minnesota	FOMESAFEN	1999	kg		79463.8			555.2					
+27	Minnesota	FOMESAFEN	2000	kg		82334.1			1775.5					
+27	Minnesota	FOMESAFEN	2001	kg		60037.3			1068.5					
+27	Minnesota	FOMESAFEN	2002	kg		39691.9			2694.6					
+27	Minnesota	FOMESAFEN	2003	kg		34174.1			1291.8					
+27	Minnesota	FOMESAFEN	2004	kg		31301.4			3275.5					
+27	Minnesota	FOMESAFEN	2005	kg		25523.8			3489.4					
+27	Minnesota	FOMESAFEN	2006	kg		36114.8			4416.2					
+27	Minnesota	FOMESAFEN	2007	kg		11043.2			5694.9					
+27	Minnesota	FOMESAFEN	2008	kg		6269.1			3255.8					
+27	Minnesota	FOMESAFEN	2009	kg		15266.3			5152.4					
+27	Minnesota	FOMESAFEN	2010	kg		16160.2			2724.1					
+27	Minnesota	FOMESAFEN	2011	kg		13207.5			6786.8					
+27	Minnesota	FOMESAFEN	2012	kg		68857.6			7252.2					
+27	Minnesota	FOMESAFEN	2013	kg		79354.7			2132.7					
+27	Minnesota	FOMESAFEN	2014	kg		113990.6			1972.2					
+27	Minnesota	FOMESAFEN	2015	kg		247507.7			4299.8					
+27	Minnesota	FOMESAFEN	2016	kg		342143.3			9202.2					
+27	Minnesota	FOMESAFEN	2017	kg		325989.6			11887.2					
+28	Mississippi	FOMESAFEN	1992	kg		14865.5		17.8						
+28	Mississippi	FOMESAFEN	1993	kg		13444.5	148.4	803.9						
+28	Mississippi	FOMESAFEN	1994	kg		20505.2								
+28	Mississippi	FOMESAFEN	1995	kg	218.7	20166.3		2.9						21.8
+28	Mississippi	FOMESAFEN	1996	kg		38189.9								
+28	Mississippi	FOMESAFEN	1997	kg		12020.3		353.9		239.9				
+28	Mississippi	FOMESAFEN	1998	kg		34311.6								
+28	Mississippi	FOMESAFEN	1999	kg		16929								
+28	Mississippi	FOMESAFEN	2000	kg		16390.6								
+28	Mississippi	FOMESAFEN	2001	kg		9077.3								
+28	Mississippi	FOMESAFEN	2002	kg		5576.2								
+28	Mississippi	FOMESAFEN	2003	kg		7715								
+28	Mississippi	FOMESAFEN	2004	kg		1221.5								
+28	Mississippi	FOMESAFEN	2005	kg		18433.8		4						
+28	Mississippi	FOMESAFEN	2006	kg		5463.3		109.3	5.3					
+28	Mississippi	FOMESAFEN	2007	kg		25235.2		232.3						
+28	Mississippi	FOMESAFEN	2008	kg		7513.2		604.5						
+28	Mississippi	FOMESAFEN	2009	kg		16924.1		3237.5						
+28	Mississippi	FOMESAFEN	2010	kg		23964.4		2098.8						
+28	Mississippi	FOMESAFEN	2011	kg		67113.1		4243.3						
+28	Mississippi	FOMESAFEN	2012	kg		81874.6		12200.4						
+28	Mississippi	FOMESAFEN	2013	kg		116649.6		3866.3						
+28	Mississippi	FOMESAFEN	2014	kg		98334.2		6372.6						
+28	Mississippi	FOMESAFEN	2015	kg		130192.6		9220.3						
+28	Mississippi	FOMESAFEN	2016	kg		77636.8		13361.8						
+28	Mississippi	FOMESAFEN	2017	kg		111835.8		2923.9						
+29	Missouri	FOMESAFEN	1992	kg		10595.4			8.7					
+29	Missouri	FOMESAFEN	1993	kg		3386.4				5.8				
+29	Missouri	FOMESAFEN	1994	kg	480.8	6134.8			83					
+29	Missouri	FOMESAFEN	1995	kg		16044.3				137.8				
+29	Missouri	FOMESAFEN	1996	kg		17600.9			137.1	138.8			97	
+29	Missouri	FOMESAFEN	1997	kg		42284.7			36.7					
+29	Missouri	FOMESAFEN	1998	kg		27798.5								
+29	Missouri	FOMESAFEN	1999	kg		22840.1								
+29	Missouri	FOMESAFEN	2000	kg		53088.3								
+29	Missouri	FOMESAFEN	2001	kg		26352			0					
+29	Missouri	FOMESAFEN	2002	kg		11952.8								
+29	Missouri	FOMESAFEN	2003	kg		3821.5								
+29	Missouri	FOMESAFEN	2004	kg		15527.9			0					
+29	Missouri	FOMESAFEN	2005	kg		4967.2			0					
+29	Missouri	FOMESAFEN	2006	kg		22159.5			0.1					
+29	Missouri	FOMESAFEN	2007	kg		8510.6			0					
+29	Missouri	FOMESAFEN	2008	kg		9169.1								
+29	Missouri	FOMESAFEN	2009	kg		30167.7		344.1						
+29	Missouri	FOMESAFEN	2010	kg		140108.6		10884						
+29	Missouri	FOMESAFEN	2011	kg		102686.1		33581.8						
+29	Missouri	FOMESAFEN	2012	kg		104724.7		21248.3						
+29	Missouri	FOMESAFEN	2013	kg		89815.1		14190.1						
+29	Missouri	FOMESAFEN	2014	kg		88206.3		18687	12.4					
+29	Missouri	FOMESAFEN	2015	kg		111050.4		3514.8	152.4					
+29	Missouri	FOMESAFEN	2016	kg		193617.5		3964.7	60.1					
+29	Missouri	FOMESAFEN	2017	kg		140351.2			282.9					
+30	Montana	FOMESAFEN	1998	kg					0.1					
+30	Montana	FOMESAFEN	2013	kg		21.2			4755					
+30	Montana	FOMESAFEN	2014	kg		23			3681.5					
+30	Montana	FOMESAFEN	2015	kg		37.5			2110.1					
+30	Montana	FOMESAFEN	2016	kg		77.6			6096.4					
+30	Montana	FOMESAFEN	2017	kg		28.6			25892.8					
+31	Nebraska	FOMESAFEN	1992	kg		2415.8								
+31	Nebraska	FOMESAFEN	1993	kg		2197.6								
+31	Nebraska	FOMESAFEN	1994	kg		3316.6								
+31	Nebraska	FOMESAFEN	1995	kg		4979.1							1145.3	
+31	Nebraska	FOMESAFEN	1996	kg		1042.6								
+31	Nebraska	FOMESAFEN	1997	kg		1573.6								
+31	Nebraska	FOMESAFEN	1998	kg		20096.9								
+31	Nebraska	FOMESAFEN	1999	kg		9320.9								
+31	Nebraska	FOMESAFEN	2000	kg		9957.3			482.9					
+31	Nebraska	FOMESAFEN	2001	kg		7105.6			140.2					
+31	Nebraska	FOMESAFEN	2002	kg		7149.3			1144.5					
+31	Nebraska	FOMESAFEN	2003	kg		5053.5			4691.4					
+31	Nebraska	FOMESAFEN	2004	kg		8633.1			21.9					
+31	Nebraska	FOMESAFEN	2005	kg		7174.4			725.8					
+31	Nebraska	FOMESAFEN	2006	kg		4113.9			962.8					
+31	Nebraska	FOMESAFEN	2007	kg		3830.6			1106.3					
+31	Nebraska	FOMESAFEN	2008	kg		5831.9			756.9					
+31	Nebraska	FOMESAFEN	2009	kg		35289.4			3296.2					
+31	Nebraska	FOMESAFEN	2010	kg		27628.5			2018.9					
+31	Nebraska	FOMESAFEN	2011	kg		10540.4			957.5					
+31	Nebraska	FOMESAFEN	2012	kg		28524			1195.6					
+31	Nebraska	FOMESAFEN	2013	kg		29257.2			1868.8					
+31	Nebraska	FOMESAFEN	2014	kg		61330.8			6577.7					
+31	Nebraska	FOMESAFEN	2015	kg		91038.6			1330.9					
+31	Nebraska	FOMESAFEN	2016	kg		112926.4			1571.8					
+31	Nebraska	FOMESAFEN	2017	kg		134749.2			5215.7					
+34	New Jersey	FOMESAFEN	1992	kg		2503.9								
+34	New Jersey	FOMESAFEN	1993	kg		407.7								
+34	New Jersey	FOMESAFEN	1994	kg		3860.9			536.1					
+34	New Jersey	FOMESAFEN	1995	kg		2250.5			88.6					
+34	New Jersey	FOMESAFEN	1996	kg		1654.7			297.5					
+34	New Jersey	FOMESAFEN	1997	kg		4641.7			217.7					
+34	New Jersey	FOMESAFEN	1998	kg		1605								
+34	New Jersey	FOMESAFEN	1999	kg					104.2					
+34	New Jersey	FOMESAFEN	2000	kg		570.7			345.4					
+34	New Jersey	FOMESAFEN	2001	kg					341.4					
+34	New Jersey	FOMESAFEN	2002	kg					482.3					
+34	New Jersey	FOMESAFEN	2003	kg					317.4					
+34	New Jersey	FOMESAFEN	2004	kg					849.7					
+34	New Jersey	FOMESAFEN	2005	kg					322.7					
+34	New Jersey	FOMESAFEN	2006	kg					470.7					
+34	New Jersey	FOMESAFEN	2007	kg		1177.4			447.5					
+34	New Jersey	FOMESAFEN	2008	kg					6.6					
+34	New Jersey	FOMESAFEN	2009	kg					12.1					
+34	New Jersey	FOMESAFEN	2010	kg					5.4					
+34	New Jersey	FOMESAFEN	2011	kg					3.2					
+34	New Jersey	FOMESAFEN	2012	kg					13.9					
+34	New Jersey	FOMESAFEN	2013	kg		3030.8			201.1					
+34	New Jersey	FOMESAFEN	2014	kg		1137.1			200.6					
+34	New Jersey	FOMESAFEN	2015	kg		525.8			144.5					
+34	New Jersey	FOMESAFEN	2016	kg		809.9			188.9					
+34	New Jersey	FOMESAFEN	2017	kg					256.5					
+35	New Mexico	FOMESAFEN	1993	kg				2.8						
+35	New Mexico	FOMESAFEN	1995	kg				0						
+35	New Mexico	FOMESAFEN	2009	kg				2.7						
+35	New Mexico	FOMESAFEN	2015	kg				5.2						
+35	New Mexico	FOMESAFEN	2016	kg				50.9						
+35	New Mexico	FOMESAFEN	2017	kg				372.2						
+36	New York	FOMESAFEN	1992	kg		4477.8			5.2					
+36	New York	FOMESAFEN	1993	kg		5895.8			137					
+36	New York	FOMESAFEN	1994	kg	474.9	1958			1906					
+36	New York	FOMESAFEN	1995	kg		1727.2			1625.2				40.3	
+36	New York	FOMESAFEN	1996	kg		4997.3			782.6					
+36	New York	FOMESAFEN	1997	kg		2540.8			1225.7					
+36	New York	FOMESAFEN	1998	kg		121.6			94.1					
+36	New York	FOMESAFEN	1999	kg		258.8			1051.3					
+36	New York	FOMESAFEN	2000	kg		808			2504.6					
+36	New York	FOMESAFEN	2001	kg					1459.4					
+36	New York	FOMESAFEN	2002	kg					1432.3					
+36	New York	FOMESAFEN	2003	kg					2334.5					
+36	New York	FOMESAFEN	2004	kg					1081.4					
+36	New York	FOMESAFEN	2005	kg					3014.7					
+36	New York	FOMESAFEN	2006	kg					3014.8					
+36	New York	FOMESAFEN	2007	kg		356.8			2269.3					
+36	New York	FOMESAFEN	2008	kg		3161.3			2610.7					
+36	New York	FOMESAFEN	2009	kg					2647.4					
+36	New York	FOMESAFEN	2010	kg					3033.6					
+36	New York	FOMESAFEN	2011	kg					2214.6					
+36	New York	FOMESAFEN	2012	kg		561.6			2451.8					
+36	New York	FOMESAFEN	2013	kg		8575.5			6443.1					
+36	New York	FOMESAFEN	2014	kg		24452.9			2654.7					
+36	New York	FOMESAFEN	2015	kg		1698.7			3036.5					
+36	New York	FOMESAFEN	2016	kg		2948.7			3195					
+36	New York	FOMESAFEN	2017	kg		2516.6			1184.5					
+37	North Carolina	FOMESAFEN	1992	kg		8217.5		2025.8						
+37	North Carolina	FOMESAFEN	1993	kg		20687.7								
+37	North Carolina	FOMESAFEN	1994	kg		8357.1								
+37	North Carolina	FOMESAFEN	1995	kg		7464.9		548.3						
+37	North Carolina	FOMESAFEN	1996	kg		26240.4		7.9						
+37	North Carolina	FOMESAFEN	1997	kg		14053		363.4				123.6		
+37	North Carolina	FOMESAFEN	1998	kg		12921.2								
+37	North Carolina	FOMESAFEN	1999	kg		6365.6								
+37	North Carolina	FOMESAFEN	2000	kg		7547.5			195.2					
+37	North Carolina	FOMESAFEN	2001	kg		22138.9			92.8					
+37	North Carolina	FOMESAFEN	2002	kg		4080.6			69.4					
+37	North Carolina	FOMESAFEN	2003	kg		9521								
+37	North Carolina	FOMESAFEN	2004	kg		14517.8			798.1					
+37	North Carolina	FOMESAFEN	2005	kg		3506.3		1324.6						
+37	North Carolina	FOMESAFEN	2006	kg		14819.1		14894	619.7					
+37	North Carolina	FOMESAFEN	2007	kg		3954		4484.7	579.9					
+37	North Carolina	FOMESAFEN	2008	kg		35563.3		4515.6	498.2					
+37	North Carolina	FOMESAFEN	2009	kg		60725.7		12840.6	382.8					
+37	North Carolina	FOMESAFEN	2010	kg		45802.3		23319.2	931.4					
+37	North Carolina	FOMESAFEN	2011	kg		93357.8		61125.4	1095.7					
+37	North Carolina	FOMESAFEN	2012	kg		65648.9		45360.6	1014.6					
+37	North Carolina	FOMESAFEN	2013	kg		86329.7		31265.7	1312.7					
+37	North Carolina	FOMESAFEN	2014	kg		83954.3		25205.8	123.7					
+37	North Carolina	FOMESAFEN	2015	kg		134715.1		23585.3	111.7					
+37	North Carolina	FOMESAFEN	2016	kg		143589.5		14929	6.4					
+37	North Carolina	FOMESAFEN	2017	kg		97723.8		21646.5	402.8					
+38	North Dakota	FOMESAFEN	1997	kg		317.3								
+38	North Dakota	FOMESAFEN	1998	kg		2931								
+38	North Dakota	FOMESAFEN	1999	kg		2072.5			1100.1					
+38	North Dakota	FOMESAFEN	2000	kg		26091.6			2564.8					
+38	North Dakota	FOMESAFEN	2001	kg		5144.9			3314.3					
+38	North Dakota	FOMESAFEN	2002	kg		17435.1			5489.6					
+38	North Dakota	FOMESAFEN	2003	kg		11057.3			10736.7					
+38	North Dakota	FOMESAFEN	2004	kg		6876.7			6371.3					
+38	North Dakota	FOMESAFEN	2005	kg		9539.2			6387.8					
+38	North Dakota	FOMESAFEN	2006	kg		30679.6			6598.1					
+38	North Dakota	FOMESAFEN	2007	kg		1706.5			15462.6					
+38	North Dakota	FOMESAFEN	2008	kg		2679.7			15559.6					
+38	North Dakota	FOMESAFEN	2009	kg		11334.5			49611.1					
+38	North Dakota	FOMESAFEN	2010	kg		5321.7			28763.4					
+38	North Dakota	FOMESAFEN	2011	kg		8377.5			7860.4					
+38	North Dakota	FOMESAFEN	2012	kg		35844			13784					
+38	North Dakota	FOMESAFEN	2013	kg		50466.8			8889.6				708.2	
+38	North Dakota	FOMESAFEN	2014	kg		20078.4			11936.9					
+38	North Dakota	FOMESAFEN	2015	kg		33770.1			23444					
+38	North Dakota	FOMESAFEN	2016	kg		96896.9			19989.9					
+38	North Dakota	FOMESAFEN	2017	kg		81135.7			45611.9					
+39	Ohio	FOMESAFEN	1992	kg		5131								
+39	Ohio	FOMESAFEN	1993	kg	3242.5	12540.9	360.8							
+39	Ohio	FOMESAFEN	1994	kg		17917.4			51.1					
+39	Ohio	FOMESAFEN	1995	kg		16519			2.5					
+39	Ohio	FOMESAFEN	1996	kg		12485.4			2729.6					
+39	Ohio	FOMESAFEN	1997	kg		43428.4			246.4					
+39	Ohio	FOMESAFEN	1998	kg		18737.4			1.2					
+39	Ohio	FOMESAFEN	1999	kg		5544.8			7.9					
+39	Ohio	FOMESAFEN	2000	kg		13633.5			106.6					
+39	Ohio	FOMESAFEN	2001	kg		3993.1			70.2					
+39	Ohio	FOMESAFEN	2002	kg		10303.2			50.6					
+39	Ohio	FOMESAFEN	2003	kg		8253.7			88.8					
+39	Ohio	FOMESAFEN	2004	kg		10966.2			89.7					
+39	Ohio	FOMESAFEN	2005	kg		21252.1			59.2					
+39	Ohio	FOMESAFEN	2006	kg		4297.2			34.8					
+39	Ohio	FOMESAFEN	2007	kg		3330.8			40.8					
+39	Ohio	FOMESAFEN	2008	kg		11745.3			17.9					
+39	Ohio	FOMESAFEN	2009	kg		17439.2			27.5					
+39	Ohio	FOMESAFEN	2010	kg		12782.5			103.3					
+39	Ohio	FOMESAFEN	2011	kg		18418.4			138.9					
+39	Ohio	FOMESAFEN	2012	kg		8646.9			90.2					
+39	Ohio	FOMESAFEN	2013	kg		13793.2			37.5					
+39	Ohio	FOMESAFEN	2014	kg		14824.7			52.9					
+39	Ohio	FOMESAFEN	2015	kg		30823.6			39.5					
+39	Ohio	FOMESAFEN	2016	kg		50945.5			42.3					
+39	Ohio	FOMESAFEN	2017	kg		33429.7			28					
+40	Oklahoma	FOMESAFEN	1992	kg		1634.8			5.8					
+40	Oklahoma	FOMESAFEN	1993	kg		3284.5								
+40	Oklahoma	FOMESAFEN	1994	kg		5423.7			246.7					
+40	Oklahoma	FOMESAFEN	1995	kg		1387.9								
+40	Oklahoma	FOMESAFEN	1996	kg		2956.3			400.3					
+40	Oklahoma	FOMESAFEN	1997	kg		1769.9			102.7					
+40	Oklahoma	FOMESAFEN	1998	kg		2565.1								
+40	Oklahoma	FOMESAFEN	1999	kg		15575.8								
+40	Oklahoma	FOMESAFEN	2000	kg		2330.3								
+40	Oklahoma	FOMESAFEN	2001	kg		900.3								
+40	Oklahoma	FOMESAFEN	2002	kg		1790.5								
+40	Oklahoma	FOMESAFEN	2003	kg		350								
+40	Oklahoma	FOMESAFEN	2004	kg		1354.2								
+40	Oklahoma	FOMESAFEN	2005	kg		8016								
+40	Oklahoma	FOMESAFEN	2006	kg		636.1								
+40	Oklahoma	FOMESAFEN	2007	kg		748.7								
+40	Oklahoma	FOMESAFEN	2008	kg		407.2								
+40	Oklahoma	FOMESAFEN	2009	kg		5127.9		9.9						
+40	Oklahoma	FOMESAFEN	2010	kg		4978.4								
+40	Oklahoma	FOMESAFEN	2011	kg		12111								
+40	Oklahoma	FOMESAFEN	2012	kg		1257.5								
+40	Oklahoma	FOMESAFEN	2013	kg		9261		0.5						
+40	Oklahoma	FOMESAFEN	2014	kg		1783.8		1.2						
+40	Oklahoma	FOMESAFEN	2015	kg		45471.6		31.5						
+40	Oklahoma	FOMESAFEN	2016	kg		7929.8		573.2	18.9					
+40	Oklahoma	FOMESAFEN	2017	kg		11576.4		1160.6						
+41	Oregon	FOMESAFEN	1998	kg					49.8					
+41	Oregon	FOMESAFEN	2014	kg					235.6					
+41	Oregon	FOMESAFEN	2015	kg					253.8					
+41	Oregon	FOMESAFEN	2016	kg					368.7					
+41	Oregon	FOMESAFEN	2017	kg					298					
+42	Pennsylvania	FOMESAFEN	1992	kg		4303.3								
+42	Pennsylvania	FOMESAFEN	1993	kg		2888.9								
+42	Pennsylvania	FOMESAFEN	1994	kg		6012.3			445.2					
+42	Pennsylvania	FOMESAFEN	1995	kg	3629.3	5529.3			101.3					
+42	Pennsylvania	FOMESAFEN	1996	kg		1689.8			502.1					
+42	Pennsylvania	FOMESAFEN	1997	kg		1297.7			299					
+42	Pennsylvania	FOMESAFEN	1998	kg		2645								
+42	Pennsylvania	FOMESAFEN	1999	kg		324.6			306.5					
+42	Pennsylvania	FOMESAFEN	2000	kg		2879.7			618					
+42	Pennsylvania	FOMESAFEN	2001	kg		119.6			759.3					
+42	Pennsylvania	FOMESAFEN	2002	kg		234			525.3					
+42	Pennsylvania	FOMESAFEN	2003	kg		80.5			566.8					
+42	Pennsylvania	FOMESAFEN	2004	kg		120.5			724.1					
+42	Pennsylvania	FOMESAFEN	2005	kg		248			583.5					
+42	Pennsylvania	FOMESAFEN	2006	kg		400.3			570.3					
+42	Pennsylvania	FOMESAFEN	2007	kg		29255.8			1056.7					
+42	Pennsylvania	FOMESAFEN	2008	kg		486.2			844.7					
+42	Pennsylvania	FOMESAFEN	2009	kg		1100.3			725.7					
+42	Pennsylvania	FOMESAFEN	2010	kg		748.3			341.5					
+42	Pennsylvania	FOMESAFEN	2011	kg		294.7			1031					
+42	Pennsylvania	FOMESAFEN	2012	kg		321.3			2021.1					
+42	Pennsylvania	FOMESAFEN	2013	kg		14862.6			1772.7					
+42	Pennsylvania	FOMESAFEN	2014	kg		5726.5			778.4					
+42	Pennsylvania	FOMESAFEN	2015	kg		2205.4			343.4					
+42	Pennsylvania	FOMESAFEN	2016	kg		4257.2			905.5					
+42	Pennsylvania	FOMESAFEN	2017	kg		31306.3			1293.6					
+45	South Carolina	FOMESAFEN	1992	kg		12883		1292.3						71.1
+45	South Carolina	FOMESAFEN	1993	kg		3725.6								
+45	South Carolina	FOMESAFEN	1994	kg		12590.5								28
+45	South Carolina	FOMESAFEN	1995	kg		4559.5		194.3	2.7					141.6
+45	South Carolina	FOMESAFEN	1996	kg		15017.3		12.7						6.4
+45	South Carolina	FOMESAFEN	1997	kg		5317.3		308.4				28.2		
+45	South Carolina	FOMESAFEN	1998	kg		8317.7								
+45	South Carolina	FOMESAFEN	1999	kg		3341								
+45	South Carolina	FOMESAFEN	2000	kg		9310.9			55.8					
+45	South Carolina	FOMESAFEN	2001	kg		492.6			24					
+45	South Carolina	FOMESAFEN	2002	kg		724.9			53.4					
+45	South Carolina	FOMESAFEN	2003	kg		8549.2								
+45	South Carolina	FOMESAFEN	2004	kg		4058.6			33.8					
+45	South Carolina	FOMESAFEN	2005	kg				94.8						
+45	South Carolina	FOMESAFEN	2006	kg		2616.2		12187.9						
+45	South Carolina	FOMESAFEN	2007	kg		1221.8		3994.1						
+45	South Carolina	FOMESAFEN	2008	kg		16171.2		3884.7	2.1					
+45	South Carolina	FOMESAFEN	2009	kg		7767.3		5947						
+45	South Carolina	FOMESAFEN	2010	kg		40572.2		16070.1						
+45	South Carolina	FOMESAFEN	2011	kg		32301.1		29738.1						
+45	South Carolina	FOMESAFEN	2012	kg		36768.2		26191.7						
+45	South Carolina	FOMESAFEN	2013	kg		33061.5		14215.4						
+45	South Carolina	FOMESAFEN	2014	kg		25980.6		29880.3	54.5					152.9
+45	South Carolina	FOMESAFEN	2015	kg		41101.3		16280.9	9.8					
+45	South Carolina	FOMESAFEN	2016	kg		34975.8		15098.9						195.8
+45	South Carolina	FOMESAFEN	2017	kg		11239.8		16655.4	4					9.2
+46	South Dakota	FOMESAFEN	1992	kg		394.5								
+46	South Dakota	FOMESAFEN	1993	kg		52.2								
+46	South Dakota	FOMESAFEN	1994	kg		1809.4								
+46	South Dakota	FOMESAFEN	1995	kg		1104.3								
+46	South Dakota	FOMESAFEN	1996	kg		1363			18					
+46	South Dakota	FOMESAFEN	1997	kg		8861.4								
+46	South Dakota	FOMESAFEN	1998	kg		22848.9								
+46	South Dakota	FOMESAFEN	1999	kg		12590.8								
+46	South Dakota	FOMESAFEN	2000	kg		26090.6			80.3					
+46	South Dakota	FOMESAFEN	2001	kg		16812.6			22.8					
+46	South Dakota	FOMESAFEN	2002	kg		7080.6			81.7					
+46	South Dakota	FOMESAFEN	2003	kg		3592.4			27.5					
+46	South Dakota	FOMESAFEN	2004	kg		29820.6			51.1					
+46	South Dakota	FOMESAFEN	2005	kg		5760.7			52.4					
+46	South Dakota	FOMESAFEN	2006	kg		14063.8			87.1					
+46	South Dakota	FOMESAFEN	2007	kg		9520			120.9					
+46	South Dakota	FOMESAFEN	2008	kg		4603.9			79.8					
+46	South Dakota	FOMESAFEN	2009	kg		2577			207.5					
+46	South Dakota	FOMESAFEN	2010	kg		4376.6			105.5					
+46	South Dakota	FOMESAFEN	2011	kg		8806.5			231.6					
+46	South Dakota	FOMESAFEN	2012	kg		18242.7			480.1					
+46	South Dakota	FOMESAFEN	2013	kg		43758.2			860.4					
+46	South Dakota	FOMESAFEN	2014	kg		71798.3			983.7					
+46	South Dakota	FOMESAFEN	2015	kg		78496.1			851.1					
+46	South Dakota	FOMESAFEN	2016	kg		165668.4			460.4					
+46	South Dakota	FOMESAFEN	2017	kg		154098.7			1096.2					
+47	Tennessee	FOMESAFEN	1992	kg		5537.1								
+47	Tennessee	FOMESAFEN	1993	kg		9833.8	198.2			0				
+47	Tennessee	FOMESAFEN	1994	kg		21057.8								
+47	Tennessee	FOMESAFEN	1995	kg		15241.6			39	0.8				7.6
+47	Tennessee	FOMESAFEN	1996	kg		20039.2				1			17.1	
+47	Tennessee	FOMESAFEN	1997	kg		19931.7				0.9				
+47	Tennessee	FOMESAFEN	1998	kg		24069.6								
+47	Tennessee	FOMESAFEN	1999	kg		17765.3								
+47	Tennessee	FOMESAFEN	2000	kg		11579.4								
+47	Tennessee	FOMESAFEN	2001	kg		1713								
+47	Tennessee	FOMESAFEN	2002	kg		5945.3								
+47	Tennessee	FOMESAFEN	2003	kg		3707.6								
+47	Tennessee	FOMESAFEN	2004	kg		5781.3			375.6					
+47	Tennessee	FOMESAFEN	2005	kg		11191.4								
+47	Tennessee	FOMESAFEN	2006	kg		5074.1			128.4					
+47	Tennessee	FOMESAFEN	2007	kg		25152.1		93.2	164.6					
+47	Tennessee	FOMESAFEN	2008	kg		4182.2		1614.1	134.9					
+47	Tennessee	FOMESAFEN	2009	kg		30847.6		838.8	325.1					
+47	Tennessee	FOMESAFEN	2010	kg		30787		1850.5	447.9					
+47	Tennessee	FOMESAFEN	2011	kg		101780.9		2775.7	504.4					
+47	Tennessee	FOMESAFEN	2012	kg		61792.3		7595.1	287.7					
+47	Tennessee	FOMESAFEN	2013	kg		42322.8		2583.6	13.5					
+47	Tennessee	FOMESAFEN	2014	kg		87677.1		4146.1	243.3					
+47	Tennessee	FOMESAFEN	2015	kg		150369.4		3385.8	139					
+47	Tennessee	FOMESAFEN	2016	kg		140197.6		3219.8	15.7					
+47	Tennessee	FOMESAFEN	2017	kg		76850.3		836	2.1					
+48	Texas	FOMESAFEN	1992	kg		673.8								
+48	Texas	FOMESAFEN	1993	kg		620.8		210.5					453.5	
+48	Texas	FOMESAFEN	1994	kg		1694.1								
+48	Texas	FOMESAFEN	1995	kg		331.6		6.1						
+48	Texas	FOMESAFEN	1996	kg		429.6								
+48	Texas	FOMESAFEN	1997	kg		8049.2								
+48	Texas	FOMESAFEN	1998	kg		5402.9								
+48	Texas	FOMESAFEN	1999	kg		262.1								
+48	Texas	FOMESAFEN	2000	kg		737.4								
+48	Texas	FOMESAFEN	2001	kg		438.5								
+48	Texas	FOMESAFEN	2002	kg		70.9								
+48	Texas	FOMESAFEN	2003	kg		94.2								
+48	Texas	FOMESAFEN	2004	kg		81.8								
+48	Texas	FOMESAFEN	2005	kg		97.7								
+48	Texas	FOMESAFEN	2006	kg		62.6								
+48	Texas	FOMESAFEN	2007	kg		38.8								
+48	Texas	FOMESAFEN	2008	kg		72.4								
+48	Texas	FOMESAFEN	2009	kg		7468.3		1069						
+48	Texas	FOMESAFEN	2010	kg		786								
+48	Texas	FOMESAFEN	2011	kg		589.6								
+48	Texas	FOMESAFEN	2012	kg		9260.7		114.4						
+48	Texas	FOMESAFEN	2013	kg		2171.5		3340.5						
+48	Texas	FOMESAFEN	2014	kg		3430.1		2440.9						
+48	Texas	FOMESAFEN	2015	kg		8021.5		8469.2						
+48	Texas	FOMESAFEN	2016	kg		5015		21849.5						
+48	Texas	FOMESAFEN	2017	kg		9854.4		49618.7						
+49	Utah	FOMESAFEN	2014	kg					0.4					
+50	Vermont	FOMESAFEN	1992	kg		21.6								
+50	Vermont	FOMESAFEN	1993	kg		16.9								
+50	Vermont	FOMESAFEN	1994	kg		30								
+50	Vermont	FOMESAFEN	1995	kg		18.6								
+50	Vermont	FOMESAFEN	1996	kg		30.2								
+50	Vermont	FOMESAFEN	1997	kg		11.7								
+50	Vermont	FOMESAFEN	1998	kg		4								
+50	Vermont	FOMESAFEN	2000	kg		7.5								
+50	Vermont	FOMESAFEN	2013	kg		139.4								
+50	Vermont	FOMESAFEN	2014	kg		53.3								
+50	Vermont	FOMESAFEN	2015	kg		19.2			20.1					
+50	Vermont	FOMESAFEN	2016	kg		40.1								
+51	Virginia	FOMESAFEN	1992	kg		4366.9		82.6						
+51	Virginia	FOMESAFEN	1993	kg		8535.2								
+51	Virginia	FOMESAFEN	1994	kg		3518.8								
+51	Virginia	FOMESAFEN	1995	kg		3401.9		67.5						
+51	Virginia	FOMESAFEN	1996	kg		10775.5								
+51	Virginia	FOMESAFEN	1997	kg		11206.7		25.6						
+51	Virginia	FOMESAFEN	1998	kg		4429.8								
+51	Virginia	FOMESAFEN	1999	kg		13206.8			45.4					
+51	Virginia	FOMESAFEN	2000	kg		15211			292.7					
+51	Virginia	FOMESAFEN	2001	kg		11218.4			106.9					
+51	Virginia	FOMESAFEN	2002	kg		905.4			562					
+51	Virginia	FOMESAFEN	2003	kg		6011.1			0.3					
+51	Virginia	FOMESAFEN	2004	kg		5028.8			143					
+51	Virginia	FOMESAFEN	2005	kg		834.6		71.4						
+51	Virginia	FOMESAFEN	2006	kg		2665.3		2578						
+51	Virginia	FOMESAFEN	2007	kg		1577.2		200.8						
+51	Virginia	FOMESAFEN	2008	kg		3504.3		349.9						
+51	Virginia	FOMESAFEN	2009	kg		21917		686.9	73.3					
+51	Virginia	FOMESAFEN	2010	kg		5059.4		1025.9						
+51	Virginia	FOMESAFEN	2011	kg		11016.1		8176.4						
+51	Virginia	FOMESAFEN	2012	kg		20628.8		7688.7						
+51	Virginia	FOMESAFEN	2013	kg		8974		3616.4	33.7					
+51	Virginia	FOMESAFEN	2014	kg		25110.5		3911.1						
+51	Virginia	FOMESAFEN	2015	kg		25779.9		4896.3	49					
+51	Virginia	FOMESAFEN	2016	kg		24386.5		1050.4	56.7					
+51	Virginia	FOMESAFEN	2017	kg		33931.9		6391.1	445.8					
+53	Washington	FOMESAFEN	1998	kg					2408.5					
+53	Washington	FOMESAFEN	2001	kg					49.9					
+53	Washington	FOMESAFEN	2014	kg					119.7					
+53	Washington	FOMESAFEN	2015	kg					63.3					
+53	Washington	FOMESAFEN	2016	kg					90.5					
+53	Washington	FOMESAFEN	2017	kg					30					
+54	West Virginia	FOMESAFEN	1992	kg		740.3								
+54	West Virginia	FOMESAFEN	1993	kg		87.8								
+54	West Virginia	FOMESAFEN	1994	kg		98.8								
+54	West Virginia	FOMESAFEN	1995	kg		760.3								
+54	West Virginia	FOMESAFEN	1996	kg		140								
+54	West Virginia	FOMESAFEN	1997	kg		74.8								
+54	West Virginia	FOMESAFEN	1998	kg		109.3								
+54	West Virginia	FOMESAFEN	1999	kg		281.2								
+54	West Virginia	FOMESAFEN	2000	kg		89.3								
+54	West Virginia	FOMESAFEN	2001	kg		70.8								
+54	West Virginia	FOMESAFEN	2002	kg		132.3			1.2					
+54	West Virginia	FOMESAFEN	2003	kg		46.2			0.1					
+54	West Virginia	FOMESAFEN	2004	kg		57.6			2.4					
+54	West Virginia	FOMESAFEN	2005	kg		152.7								
+54	West Virginia	FOMESAFEN	2006	kg		38								
+54	West Virginia	FOMESAFEN	2007	kg		238.9								
+54	West Virginia	FOMESAFEN	2008	kg		207.8								
+54	West Virginia	FOMESAFEN	2009	kg		276.2			13.6					
+54	West Virginia	FOMESAFEN	2010	kg		199.7			1.9					
+54	West Virginia	FOMESAFEN	2011	kg		147.8								
+54	West Virginia	FOMESAFEN	2012	kg		126.1								
+54	West Virginia	FOMESAFEN	2013	kg		452			4.2					
+54	West Virginia	FOMESAFEN	2014	kg		172.9			3					
+54	West Virginia	FOMESAFEN	2015	kg		326.7			1.5					
+54	West Virginia	FOMESAFEN	2016	kg		439.1			2.2					
+54	West Virginia	FOMESAFEN	2017	kg		340.9			3.5					
+55	Wisconsin	FOMESAFEN	1992	kg		362.1								
+55	Wisconsin	FOMESAFEN	1993	kg		658								
+55	Wisconsin	FOMESAFEN	1994	kg		1290.9			107.6					
+55	Wisconsin	FOMESAFEN	1995	kg		4001.6			28.6				20.7	
+55	Wisconsin	FOMESAFEN	1996	kg		3457.3			6.7					
+55	Wisconsin	FOMESAFEN	1997	kg		6194.3								
+55	Wisconsin	FOMESAFEN	1998	kg		7944.9								
+55	Wisconsin	FOMESAFEN	1999	kg		5414.2								
+55	Wisconsin	FOMESAFEN	2000	kg		12276.8			3635.9					
+55	Wisconsin	FOMESAFEN	2001	kg		5022.3			1592.3					
+55	Wisconsin	FOMESAFEN	2002	kg		3425.5			5019.3					
+55	Wisconsin	FOMESAFEN	2003	kg		3445.2			3598.7					
+55	Wisconsin	FOMESAFEN	2004	kg		1930			2722.4					
+55	Wisconsin	FOMESAFEN	2005	kg		4250.9			1564.2					
+55	Wisconsin	FOMESAFEN	2006	kg		2026.5			2340.6					
+55	Wisconsin	FOMESAFEN	2007	kg		872.9			2801.5					
+55	Wisconsin	FOMESAFEN	2008	kg		952.1			95.7					
+55	Wisconsin	FOMESAFEN	2009	kg		3397.4			1174.7					
+55	Wisconsin	FOMESAFEN	2010	kg		3945			465.9					
+55	Wisconsin	FOMESAFEN	2011	kg		5910			350.7					
+55	Wisconsin	FOMESAFEN	2012	kg		7860.8			1494.7					
+55	Wisconsin	FOMESAFEN	2013	kg		8935			1053.5					
+55	Wisconsin	FOMESAFEN	2014	kg		28523.6			1104.9					
+55	Wisconsin	FOMESAFEN	2015	kg		7106.1			249					
+55	Wisconsin	FOMESAFEN	2016	kg		30142.7			875.4					
+55	Wisconsin	FOMESAFEN	2017	kg		18788.1			421.9					
+56	Wyoming	FOMESAFEN	2000	kg					57.3					
+56	Wyoming	FOMESAFEN	2001	kg					14.8					
+56	Wyoming	FOMESAFEN	2002	kg					132.8					
+56	Wyoming	FOMESAFEN	2003	kg					153.5					
+56	Wyoming	FOMESAFEN	2004	kg					1.8					
+56	Wyoming	FOMESAFEN	2005	kg					71.4					
+56	Wyoming	FOMESAFEN	2006	kg					99.6					
+56	Wyoming	FOMESAFEN	2007	kg					115.1					
+56	Wyoming	FOMESAFEN	2008	kg					83.4					
+56	Wyoming	FOMESAFEN	2009	kg					346.3					
+56	Wyoming	FOMESAFEN	2010	kg					194.6					
+56	Wyoming	FOMESAFEN	2011	kg					137.7					
+56	Wyoming	FOMESAFEN	2012	kg					158.1					
+56	Wyoming	FOMESAFEN	2013	kg					291.3					
+56	Wyoming	FOMESAFEN	2014	kg					709.5					
+56	Wyoming	FOMESAFEN	2015	kg					40.8					
+56	Wyoming	FOMESAFEN	2016	kg					13.7					
+56	Wyoming	FOMESAFEN	2017	kg					486.2					

@@ -1,0 +1,919 @@
+01	Alabama	CHLORIMURON	1992	kg		278.4			0					148.1
+01	Alabama	CHLORIMURON	1993	kg		465.3								80.9
+01	Alabama	CHLORIMURON	1994	kg		465.3								117.4
+01	Alabama	CHLORIMURON	1995	kg		423.4	9.5							152.9
+01	Alabama	CHLORIMURON	1996	kg		635.5								14.1
+01	Alabama	CHLORIMURON	1997	kg		605.7								85.1
+01	Alabama	CHLORIMURON	1998	kg		264.7								136.7
+01	Alabama	CHLORIMURON	1999	kg		99.7								97.8
+01	Alabama	CHLORIMURON	2000	kg		101.6								2.5
+01	Alabama	CHLORIMURON	2001	kg		187								212.3
+01	Alabama	CHLORIMURON	2002	kg		42.5								183
+01	Alabama	CHLORIMURON	2003	kg		29.2								90.7
+01	Alabama	CHLORIMURON	2004	kg		20.1								77.4
+01	Alabama	CHLORIMURON	2005	kg		11.7								49.1
+01	Alabama	CHLORIMURON	2006	kg		41.8								34.7
+01	Alabama	CHLORIMURON	2007	kg		19.4								30.2
+01	Alabama	CHLORIMURON	2008	kg		1015.8								24.3
+01	Alabama	CHLORIMURON	2009	kg		1113.4								8.4
+01	Alabama	CHLORIMURON	2010	kg		46								24.4
+01	Alabama	CHLORIMURON	2011	kg		303.3								5
+01	Alabama	CHLORIMURON	2012	kg		140								27.6
+01	Alabama	CHLORIMURON	2013	kg		207.1			0					33.1
+01	Alabama	CHLORIMURON	2014	kg		1777.5								
+01	Alabama	CHLORIMURON	2015	kg		332.7								
+01	Alabama	CHLORIMURON	2016	kg		171.3								
+01	Alabama	CHLORIMURON	2017	kg		354.1								
+04	Arizona	CHLORIMURON	1995	kg					0					
+04	Arizona	CHLORIMURON	1996	kg					4					
+05	Arkansas	CHLORIMURON	1992	kg		1584.2	5.3	75.2		167.6				
+05	Arkansas	CHLORIMURON	1993	kg		2448.5								
+05	Arkansas	CHLORIMURON	1994	kg		4156.6		96.7						
+05	Arkansas	CHLORIMURON	1995	kg	7.3	3892.7	17.5	61.4		15.8			2.7	
+05	Arkansas	CHLORIMURON	1996	kg		4138.9							1.5	
+05	Arkansas	CHLORIMURON	1997	kg		11093.1								
+05	Arkansas	CHLORIMURON	1998	kg		2574.7								
+05	Arkansas	CHLORIMURON	1999	kg		2472.4								
+05	Arkansas	CHLORIMURON	2000	kg		1909.9								
+05	Arkansas	CHLORIMURON	2001	kg		1197.3								
+05	Arkansas	CHLORIMURON	2002	kg		1133.7								
+05	Arkansas	CHLORIMURON	2003	kg		626.5								
+05	Arkansas	CHLORIMURON	2004	kg		437.3								
+05	Arkansas	CHLORIMURON	2005	kg		195.9								
+05	Arkansas	CHLORIMURON	2006	kg		828.2								
+05	Arkansas	CHLORIMURON	2007	kg		2206								
+05	Arkansas	CHLORIMURON	2008	kg		386.9								
+05	Arkansas	CHLORIMURON	2009	kg		3094								
+05	Arkansas	CHLORIMURON	2010	kg		4040.7								
+05	Arkansas	CHLORIMURON	2011	kg		3197				1878.7				
+05	Arkansas	CHLORIMURON	2012	kg		3003								
+05	Arkansas	CHLORIMURON	2013	kg		4364.5								
+05	Arkansas	CHLORIMURON	2014	kg		5203.8								
+05	Arkansas	CHLORIMURON	2015	kg		2426.4								
+05	Arkansas	CHLORIMURON	2016	kg		1879.3								
+05	Arkansas	CHLORIMURON	2017	kg		2033								
+08	Colorado	CHLORIMURON	1992	kg		5.8								
+08	Colorado	CHLORIMURON	1993	kg		1.2								
+08	Colorado	CHLORIMURON	1994	kg		3.7			20.1					
+08	Colorado	CHLORIMURON	1995	kg		3.4								
+08	Colorado	CHLORIMURON	1996	kg		1.4							23.2	
+08	Colorado	CHLORIMURON	1997	kg		1.3								
+08	Colorado	CHLORIMURON	1998	kg		3.4								
+08	Colorado	CHLORIMURON	1999	kg		1.4								
+08	Colorado	CHLORIMURON	2000	kg		0.4								
+08	Colorado	CHLORIMURON	2001	kg		1								
+08	Colorado	CHLORIMURON	2002	kg		1.5								
+08	Colorado	CHLORIMURON	2003	kg		7.2								
+08	Colorado	CHLORIMURON	2004	kg		5.6								
+08	Colorado	CHLORIMURON	2005	kg		0.9								
+08	Colorado	CHLORIMURON	2006	kg		0.9								
+08	Colorado	CHLORIMURON	2007	kg		1.7								
+08	Colorado	CHLORIMURON	2008	kg		0.6								
+08	Colorado	CHLORIMURON	2009	kg		0.5								
+08	Colorado	CHLORIMURON	2010	kg		2.7								
+08	Colorado	CHLORIMURON	2011	kg		6.1								
+08	Colorado	CHLORIMURON	2012	kg		9.6								
+08	Colorado	CHLORIMURON	2013	kg		13.5			1.7					
+08	Colorado	CHLORIMURON	2014	kg		2.4								
+08	Colorado	CHLORIMURON	2015	kg		16.8								
+08	Colorado	CHLORIMURON	2016	kg		26							248.5	
+08	Colorado	CHLORIMURON	2017	kg		6.2								
+10	Delaware	CHLORIMURON	1992	kg		1111.2	263		108.2					
+10	Delaware	CHLORIMURON	1993	kg		785								
+10	Delaware	CHLORIMURON	1994	kg	16.6	2019.2	175.9							
+10	Delaware	CHLORIMURON	1995	kg		1895.3								
+10	Delaware	CHLORIMURON	1996	kg		2664.1								
+10	Delaware	CHLORIMURON	1997	kg		1427.1								
+10	Delaware	CHLORIMURON	1998	kg		986.8								
+10	Delaware	CHLORIMURON	1999	kg		248								
+10	Delaware	CHLORIMURON	2000	kg		197.3								
+10	Delaware	CHLORIMURON	2001	kg		156.4								
+10	Delaware	CHLORIMURON	2002	kg		151.3								
+10	Delaware	CHLORIMURON	2003	kg		223.9								
+10	Delaware	CHLORIMURON	2004	kg		1205.4								
+10	Delaware	CHLORIMURON	2005	kg		13.4								
+10	Delaware	CHLORIMURON	2006	kg		368.4								
+10	Delaware	CHLORIMURON	2007	kg		725.2								
+10	Delaware	CHLORIMURON	2008	kg		1024.8								
+10	Delaware	CHLORIMURON	2009	kg		391								
+10	Delaware	CHLORIMURON	2010	kg		223.8								
+10	Delaware	CHLORIMURON	2011	kg		73.9								
+10	Delaware	CHLORIMURON	2012	kg		14.9								
+10	Delaware	CHLORIMURON	2013	kg		363								
+10	Delaware	CHLORIMURON	2014	kg		320.3								
+10	Delaware	CHLORIMURON	2015	kg		316.3								
+10	Delaware	CHLORIMURON	2016	kg		78.6								
+10	Delaware	CHLORIMURON	2017	kg		83.9								
+12	Florida	CHLORIMURON	1992	kg		60.9			0.5				1	95.2
+12	Florida	CHLORIMURON	1993	kg		45.3			2.7					81.9
+12	Florida	CHLORIMURON	1994	kg		41.5								80.4
+12	Florida	CHLORIMURON	1995	kg		31.8								121.9
+12	Florida	CHLORIMURON	1996	kg		56.6					8.5			52.2
+12	Florida	CHLORIMURON	1997	kg		110.7								30.9
+12	Florida	CHLORIMURON	1998	kg		21.4								23
+12	Florida	CHLORIMURON	1999	kg		21.3								2.8
+12	Florida	CHLORIMURON	2000	kg		57.6								171
+12	Florida	CHLORIMURON	2001	kg		23								55
+12	Florida	CHLORIMURON	2002	kg		7.7								40.8
+12	Florida	CHLORIMURON	2003	kg		2.8								215.7
+12	Florida	CHLORIMURON	2004	kg		5.5								42.7
+12	Florida	CHLORIMURON	2005	kg										129.4
+12	Florida	CHLORIMURON	2006	kg										89
+12	Florida	CHLORIMURON	2007	kg										36.6
+12	Florida	CHLORIMURON	2008	kg										6.7
+12	Florida	CHLORIMURON	2009	kg		23.7								39.3
+12	Florida	CHLORIMURON	2010	kg		18.4								916.4
+12	Florida	CHLORIMURON	2011	kg		25.5								3.7
+12	Florida	CHLORIMURON	2012	kg		4.3								17.5
+12	Florida	CHLORIMURON	2013	kg		19.8								239.7
+12	Florida	CHLORIMURON	2014	kg		16								10.3
+12	Florida	CHLORIMURON	2015	kg		39.2								44.4
+12	Florida	CHLORIMURON	2016	kg		14.9								
+12	Florida	CHLORIMURON	2017	kg		53								3.7
+13	Georgia	CHLORIMURON	1992	kg		1219			9.2					1050.3
+13	Georgia	CHLORIMURON	1993	kg		511.1	0		6.8					348.7
+13	Georgia	CHLORIMURON	1994	kg		625.3		7.6						281.3
+13	Georgia	CHLORIMURON	1995	kg		608.3								656.6
+13	Georgia	CHLORIMURON	1996	kg		660.7								220.9
+13	Georgia	CHLORIMURON	1997	kg		470.3								303
+13	Georgia	CHLORIMURON	1998	kg		681.4								252.2
+13	Georgia	CHLORIMURON	1999	kg		77.2								246.6
+13	Georgia	CHLORIMURON	2000	kg		384.4								277.4
+13	Georgia	CHLORIMURON	2001	kg		71.6								201.7
+13	Georgia	CHLORIMURON	2002	kg		144.9								98.2
+13	Georgia	CHLORIMURON	2003	kg		37.1								240.6
+13	Georgia	CHLORIMURON	2004	kg		86.6								185.9
+13	Georgia	CHLORIMURON	2005	kg		29.3								63.5
+13	Georgia	CHLORIMURON	2006	kg		45								44.7
+13	Georgia	CHLORIMURON	2007	kg		46								32.5
+13	Georgia	CHLORIMURON	2008	kg		241.1								28.6
+13	Georgia	CHLORIMURON	2009	kg		398.9								16.5
+13	Georgia	CHLORIMURON	2010	kg		617.7								630.9
+13	Georgia	CHLORIMURON	2011	kg		515.2								47.8
+13	Georgia	CHLORIMURON	2012	kg		196.9								61.9
+13	Georgia	CHLORIMURON	2013	kg		181.2			0					749.7
+13	Georgia	CHLORIMURON	2014	kg		174.3								
+13	Georgia	CHLORIMURON	2015	kg		913.2								78.6
+13	Georgia	CHLORIMURON	2016	kg		417.9								
+13	Georgia	CHLORIMURON	2017	kg		434.8								19.9
+16	Idaho	CHLORIMURON	1992	kg			117.7						1.2	
+16	Idaho	CHLORIMURON	1994	kg					0.1					
+16	Idaho	CHLORIMURON	1996	kg					0.1					
+16	Idaho	CHLORIMURON	2011	kg									5.1	
+16	Idaho	CHLORIMURON	2012	kg									4	
+16	Idaho	CHLORIMURON	2013	kg					13.6				16.5	
+17	Illinois	CHLORIMURON	1992	kg		23452.6			17.4					10.3
+17	Illinois	CHLORIMURON	1993	kg		19879.2								
+17	Illinois	CHLORIMURON	1994	kg	324.3	17667.4			60.3					
+17	Illinois	CHLORIMURON	1995	kg	2667.9	19950.2								
+17	Illinois	CHLORIMURON	1996	kg		14669.5							66.1	
+17	Illinois	CHLORIMURON	1997	kg		13705.9								
+17	Illinois	CHLORIMURON	1998	kg		17535.9								
+17	Illinois	CHLORIMURON	1999	kg		13990.8								
+17	Illinois	CHLORIMURON	2000	kg		10606.4			18.4					
+17	Illinois	CHLORIMURON	2001	kg		9924								
+17	Illinois	CHLORIMURON	2002	kg		10206.5								
+17	Illinois	CHLORIMURON	2003	kg		9965.6								
+17	Illinois	CHLORIMURON	2004	kg		9407								
+17	Illinois	CHLORIMURON	2005	kg		5524.4								
+17	Illinois	CHLORIMURON	2006	kg		4604.8								
+17	Illinois	CHLORIMURON	2007	kg		4270.7								
+17	Illinois	CHLORIMURON	2008	kg		8975.8								
+17	Illinois	CHLORIMURON	2009	kg		9844.8								
+17	Illinois	CHLORIMURON	2010	kg		10183.7								
+17	Illinois	CHLORIMURON	2011	kg		16487.6								
+17	Illinois	CHLORIMURON	2012	kg		33620.3								
+17	Illinois	CHLORIMURON	2013	kg		27460								
+17	Illinois	CHLORIMURON	2014	kg		34593.3								
+17	Illinois	CHLORIMURON	2015	kg		25947.4								
+17	Illinois	CHLORIMURON	2016	kg	162	28307.6								
+17	Illinois	CHLORIMURON	2017	kg		23813.9								
+18	Indiana	CHLORIMURON	1992	kg		12133.6								
+18	Indiana	CHLORIMURON	1993	kg	3246.3	9005			0.5					
+18	Indiana	CHLORIMURON	1994	kg	139.7	7840			4					0.5
+18	Indiana	CHLORIMURON	1995	kg	1402	7911.1			0					
+18	Indiana	CHLORIMURON	1996	kg		13184.1			0.8				144.9	
+18	Indiana	CHLORIMURON	1997	kg		12896.4								
+18	Indiana	CHLORIMURON	1998	kg		10048.2								
+18	Indiana	CHLORIMURON	1999	kg		9178.4								
+18	Indiana	CHLORIMURON	2000	kg		7706.4			0.1					
+18	Indiana	CHLORIMURON	2001	kg		7532.8								
+18	Indiana	CHLORIMURON	2002	kg		5159.1								
+18	Indiana	CHLORIMURON	2003	kg		4822								
+18	Indiana	CHLORIMURON	2004	kg		5882.8								
+18	Indiana	CHLORIMURON	2005	kg		3730.5								
+18	Indiana	CHLORIMURON	2006	kg		3362.8								
+18	Indiana	CHLORIMURON	2007	kg		4035.3								
+18	Indiana	CHLORIMURON	2008	kg		6846.2								
+18	Indiana	CHLORIMURON	2009	kg		7206								
+18	Indiana	CHLORIMURON	2010	kg		7290.6								
+18	Indiana	CHLORIMURON	2011	kg		13218.2								
+18	Indiana	CHLORIMURON	2012	kg		8612.9								
+18	Indiana	CHLORIMURON	2013	kg		12983								
+18	Indiana	CHLORIMURON	2014	kg		14378								
+18	Indiana	CHLORIMURON	2015	kg		9693.4								
+18	Indiana	CHLORIMURON	2016	kg	44.2	11834.3								
+18	Indiana	CHLORIMURON	2017	kg		10972.9								
+19	Iowa	CHLORIMURON	1992	kg		3977.5								
+19	Iowa	CHLORIMURON	1993	kg		6441.5							38	
+19	Iowa	CHLORIMURON	1994	kg	568.1	5121.3			0.8					
+19	Iowa	CHLORIMURON	1995	kg	398.1	2914.7								0
+19	Iowa	CHLORIMURON	1996	kg		3117.6							139.4	
+19	Iowa	CHLORIMURON	1997	kg		3045.7								
+19	Iowa	CHLORIMURON	1998	kg		4292.8								
+19	Iowa	CHLORIMURON	1999	kg		2048.9								
+19	Iowa	CHLORIMURON	2000	kg		3678.6			0					
+19	Iowa	CHLORIMURON	2001	kg		2201.4								
+19	Iowa	CHLORIMURON	2002	kg		1775.3								
+19	Iowa	CHLORIMURON	2003	kg		4643.4								
+19	Iowa	CHLORIMURON	2004	kg		6707.8								
+19	Iowa	CHLORIMURON	2005	kg		1893.7								
+19	Iowa	CHLORIMURON	2006	kg		1609.7								
+19	Iowa	CHLORIMURON	2007	kg		3783.3								
+19	Iowa	CHLORIMURON	2008	kg		2948.6								
+19	Iowa	CHLORIMURON	2009	kg		3114.1								
+19	Iowa	CHLORIMURON	2010	kg		4966.9								
+19	Iowa	CHLORIMURON	2011	kg		5305.6								
+19	Iowa	CHLORIMURON	2012	kg		6542.1								
+19	Iowa	CHLORIMURON	2013	kg		6515.5								
+19	Iowa	CHLORIMURON	2014	kg		7293.4								
+19	Iowa	CHLORIMURON	2015	kg		7986.8								
+19	Iowa	CHLORIMURON	2016	kg		8729.5								
+19	Iowa	CHLORIMURON	2017	kg		7671.3								
+20	Kansas	CHLORIMURON	1992	kg		3774	290.3							
+20	Kansas	CHLORIMURON	1993	kg		2693.8								
+20	Kansas	CHLORIMURON	1994	kg	7.8	2736.5								
+20	Kansas	CHLORIMURON	1995	kg	53.1	2869.6								53.2
+20	Kansas	CHLORIMURON	1996	kg		1909.6							54.8	777.2
+20	Kansas	CHLORIMURON	1997	kg		4204								
+20	Kansas	CHLORIMURON	1998	kg		1908.3								
+20	Kansas	CHLORIMURON	1999	kg		1987.1								
+20	Kansas	CHLORIMURON	2000	kg		1607.3								
+20	Kansas	CHLORIMURON	2001	kg		1294.5								
+20	Kansas	CHLORIMURON	2002	kg		974.6								
+20	Kansas	CHLORIMURON	2003	kg		1499.3								
+20	Kansas	CHLORIMURON	2004	kg		2501.3								
+20	Kansas	CHLORIMURON	2005	kg		994.2								
+20	Kansas	CHLORIMURON	2006	kg		806.2								
+20	Kansas	CHLORIMURON	2007	kg		977.2								
+20	Kansas	CHLORIMURON	2008	kg		1161.7								
+20	Kansas	CHLORIMURON	2009	kg		1081.7								
+20	Kansas	CHLORIMURON	2010	kg		875.3							367.7	
+20	Kansas	CHLORIMURON	2011	kg		8417.9								
+20	Kansas	CHLORIMURON	2012	kg		4987.4								
+20	Kansas	CHLORIMURON	2013	kg		8495								
+20	Kansas	CHLORIMURON	2014	kg		12274.3								
+20	Kansas	CHLORIMURON	2015	kg		7521.6								
+20	Kansas	CHLORIMURON	2016	kg		9618.7							288.5	
+20	Kansas	CHLORIMURON	2017	kg		6789.4								
+21	Kentucky	CHLORIMURON	1992	kg		3769.8								
+21	Kentucky	CHLORIMURON	1993	kg	509	3029.2								
+21	Kentucky	CHLORIMURON	1994	kg		2249.8								27.4
+21	Kentucky	CHLORIMURON	1995	kg		2014.6	59.2							
+21	Kentucky	CHLORIMURON	1996	kg		2048.6							451.5	
+21	Kentucky	CHLORIMURON	1997	kg		1630.1								
+21	Kentucky	CHLORIMURON	1998	kg		1074.2								
+21	Kentucky	CHLORIMURON	1999	kg		1792.5								
+21	Kentucky	CHLORIMURON	2000	kg		423.3								
+21	Kentucky	CHLORIMURON	2001	kg		1230.4								
+21	Kentucky	CHLORIMURON	2002	kg		171.6								
+21	Kentucky	CHLORIMURON	2003	kg		420.8								
+21	Kentucky	CHLORIMURON	2004	kg		503.8								
+21	Kentucky	CHLORIMURON	2005	kg		174.7								
+21	Kentucky	CHLORIMURON	2006	kg		464.1								
+21	Kentucky	CHLORIMURON	2007	kg		574.2								
+21	Kentucky	CHLORIMURON	2008	kg		1362								
+21	Kentucky	CHLORIMURON	2009	kg		461.8								
+21	Kentucky	CHLORIMURON	2010	kg		400.6								
+21	Kentucky	CHLORIMURON	2011	kg		4294.3								
+21	Kentucky	CHLORIMURON	2012	kg		1041.4								
+21	Kentucky	CHLORIMURON	2013	kg		1686.8			0.1					
+21	Kentucky	CHLORIMURON	2014	kg		3471								
+21	Kentucky	CHLORIMURON	2015	kg		5777.5								
+21	Kentucky	CHLORIMURON	2016	kg	60.9	8488.3								
+21	Kentucky	CHLORIMURON	2017	kg		4581.6								
+22	Louisiana	CHLORIMURON	1992	kg		1389.4		154.6		20.3				
+22	Louisiana	CHLORIMURON	1993	kg		1692.9								
+22	Louisiana	CHLORIMURON	1994	kg		7863.8		119.8						
+22	Louisiana	CHLORIMURON	1995	kg		3539.7		37.8		1.1			1.7	
+22	Louisiana	CHLORIMURON	1996	kg		5511.1								0
+22	Louisiana	CHLORIMURON	1997	kg		5474.7								
+22	Louisiana	CHLORIMURON	1998	kg		2549.9								
+22	Louisiana	CHLORIMURON	1999	kg		3385.6								
+22	Louisiana	CHLORIMURON	2000	kg		286.8								
+22	Louisiana	CHLORIMURON	2001	kg		390.6								
+22	Louisiana	CHLORIMURON	2002	kg		1462.2								
+22	Louisiana	CHLORIMURON	2003	kg		704.9								
+22	Louisiana	CHLORIMURON	2004	kg		1054.5								
+22	Louisiana	CHLORIMURON	2005	kg		51.2								
+22	Louisiana	CHLORIMURON	2006	kg		664.8								
+22	Louisiana	CHLORIMURON	2007	kg		384.3								
+22	Louisiana	CHLORIMURON	2008	kg		2176.4								
+22	Louisiana	CHLORIMURON	2009	kg		67.5								
+22	Louisiana	CHLORIMURON	2010	kg		698.6								
+22	Louisiana	CHLORIMURON	2011	kg		2536.5								
+22	Louisiana	CHLORIMURON	2012	kg		2930								
+22	Louisiana	CHLORIMURON	2013	kg		3359.8								
+22	Louisiana	CHLORIMURON	2014	kg		2243.9				11.1				30.9
+22	Louisiana	CHLORIMURON	2015	kg		2604.9								
+22	Louisiana	CHLORIMURON	2016	kg		1668.2								
+22	Louisiana	CHLORIMURON	2017	kg		1234.8								
+23	Maine	CHLORIMURON	1995	kg					5.3					
+23	Maine	CHLORIMURON	1996	kg					67.9					
+24	Maryland	CHLORIMURON	1992	kg		2241.2	773.6		61.7					
+24	Maryland	CHLORIMURON	1993	kg		2142.5								
+24	Maryland	CHLORIMURON	1994	kg	187.9	1861.5								
+24	Maryland	CHLORIMURON	1995	kg		1718.4			14.7					
+24	Maryland	CHLORIMURON	1996	kg		2912.8								
+24	Maryland	CHLORIMURON	1997	kg		2119.3								
+24	Maryland	CHLORIMURON	1998	kg		1109.3								
+24	Maryland	CHLORIMURON	1999	kg		343.9								
+24	Maryland	CHLORIMURON	2000	kg		313								
+24	Maryland	CHLORIMURON	2001	kg		683.1								
+24	Maryland	CHLORIMURON	2002	kg		621.6								
+24	Maryland	CHLORIMURON	2003	kg		773.6								
+24	Maryland	CHLORIMURON	2004	kg		254.7								
+24	Maryland	CHLORIMURON	2005	kg		72.5								
+24	Maryland	CHLORIMURON	2006	kg		576								
+24	Maryland	CHLORIMURON	2007	kg		139.5								
+24	Maryland	CHLORIMURON	2008	kg		2578.2								
+24	Maryland	CHLORIMURON	2009	kg		480.2								
+24	Maryland	CHLORIMURON	2010	kg		618.4								
+24	Maryland	CHLORIMURON	2011	kg		604.3								
+24	Maryland	CHLORIMURON	2012	kg		189.2								
+24	Maryland	CHLORIMURON	2013	kg		975.3								
+24	Maryland	CHLORIMURON	2014	kg		619								
+24	Maryland	CHLORIMURON	2015	kg		298.8								
+24	Maryland	CHLORIMURON	2016	kg		1901.5								
+24	Maryland	CHLORIMURON	2017	kg		2462.4								
+25	Massachusetts	CHLORIMURON	1992	kg		0.5								
+25	Massachusetts	CHLORIMURON	1993	kg		0.7								
+25	Massachusetts	CHLORIMURON	1994	kg		0.4								
+25	Massachusetts	CHLORIMURON	1995	kg		0.6			33					
+25	Massachusetts	CHLORIMURON	1996	kg		0.5			6.3					
+25	Massachusetts	CHLORIMURON	1997	kg		0.1								
+25	Massachusetts	CHLORIMURON	1998	kg		0.2								
+25	Massachusetts	CHLORIMURON	1999	kg		0.2								
+25	Massachusetts	CHLORIMURON	2000	kg		0.3								
+25	Massachusetts	CHLORIMURON	2001	kg		0								
+25	Massachusetts	CHLORIMURON	2002	kg		0								
+25	Massachusetts	CHLORIMURON	2003	kg		0								
+25	Massachusetts	CHLORIMURON	2004	kg		0								
+25	Massachusetts	CHLORIMURON	2005	kg		0								
+25	Massachusetts	CHLORIMURON	2006	kg		0								
+25	Massachusetts	CHLORIMURON	2008	kg		0.7								
+25	Massachusetts	CHLORIMURON	2009	kg		0.3								
+25	Massachusetts	CHLORIMURON	2010	kg		0.1								
+25	Massachusetts	CHLORIMURON	2011	kg		0.9								
+25	Massachusetts	CHLORIMURON	2012	kg		0.9								
+25	Massachusetts	CHLORIMURON	2013	kg		0.9								
+25	Massachusetts	CHLORIMURON	2014	kg		0.4								
+25	Massachusetts	CHLORIMURON	2015	kg		1								
+25	Massachusetts	CHLORIMURON	2016	kg		0.2								
+25	Massachusetts	CHLORIMURON	2017	kg		0.8								
+26	Michigan	CHLORIMURON	1992	kg		3265.8			210.2					
+26	Michigan	CHLORIMURON	1993	kg		5114.4			16.1					
+26	Michigan	CHLORIMURON	1994	kg		3523.7			71					
+26	Michigan	CHLORIMURON	1995	kg	255.2	3768			24.7					
+26	Michigan	CHLORIMURON	1996	kg		3225.8			141.1					
+26	Michigan	CHLORIMURON	1997	kg		2752.2								
+26	Michigan	CHLORIMURON	1998	kg		1595.8								
+26	Michigan	CHLORIMURON	1999	kg		1057.4								
+26	Michigan	CHLORIMURON	2000	kg		857.4								
+26	Michigan	CHLORIMURON	2001	kg		790.9								
+26	Michigan	CHLORIMURON	2002	kg		1524.6								
+26	Michigan	CHLORIMURON	2003	kg		728.7								
+26	Michigan	CHLORIMURON	2004	kg		2034								
+26	Michigan	CHLORIMURON	2005	kg		998.6								
+26	Michigan	CHLORIMURON	2006	kg		1163.3								
+26	Michigan	CHLORIMURON	2007	kg		496.2								
+26	Michigan	CHLORIMURON	2008	kg		678.3								
+26	Michigan	CHLORIMURON	2009	kg		1038.8								
+26	Michigan	CHLORIMURON	2010	kg		3760.1								
+26	Michigan	CHLORIMURON	2011	kg		4069.4								
+26	Michigan	CHLORIMURON	2012	kg		2628.4								
+26	Michigan	CHLORIMURON	2013	kg		3410.1								
+26	Michigan	CHLORIMURON	2014	kg		2696								
+26	Michigan	CHLORIMURON	2015	kg		3471.4								
+26	Michigan	CHLORIMURON	2016	kg		3062.4								
+26	Michigan	CHLORIMURON	2017	kg		2208.9								
+27	Minnesota	CHLORIMURON	1992	kg		211.8								
+27	Minnesota	CHLORIMURON	1993	kg		366.2							10.8	42.5
+27	Minnesota	CHLORIMURON	1994	kg	126.1	296.7								
+27	Minnesota	CHLORIMURON	1995	kg	86.8	546.9								12.5
+27	Minnesota	CHLORIMURON	1996	kg		258.9								
+27	Minnesota	CHLORIMURON	1997	kg		161.8								
+27	Minnesota	CHLORIMURON	1998	kg		365.5								
+27	Minnesota	CHLORIMURON	1999	kg		391								
+27	Minnesota	CHLORIMURON	2000	kg		427.1								
+27	Minnesota	CHLORIMURON	2001	kg		344.2								
+27	Minnesota	CHLORIMURON	2002	kg		110.8								
+27	Minnesota	CHLORIMURON	2003	kg		809.8								
+27	Minnesota	CHLORIMURON	2004	kg		407.6								
+27	Minnesota	CHLORIMURON	2005	kg		276.2								
+27	Minnesota	CHLORIMURON	2006	kg		1308.7								
+27	Minnesota	CHLORIMURON	2007	kg		1697.6								
+27	Minnesota	CHLORIMURON	2008	kg		504.3								
+27	Minnesota	CHLORIMURON	2009	kg		308.2								
+27	Minnesota	CHLORIMURON	2010	kg		154.1								
+27	Minnesota	CHLORIMURON	2011	kg		838.6								
+27	Minnesota	CHLORIMURON	2012	kg		513.5								
+27	Minnesota	CHLORIMURON	2013	kg		1118.7			31.9					
+27	Minnesota	CHLORIMURON	2014	kg		1396.8								
+27	Minnesota	CHLORIMURON	2015	kg		1066.4								
+27	Minnesota	CHLORIMURON	2016	kg		1291.6								
+27	Minnesota	CHLORIMURON	2017	kg		1790.5								
+28	Mississippi	CHLORIMURON	1992	kg		5966.8	0.4	331.5		56.4				1.2
+28	Mississippi	CHLORIMURON	1993	kg		5833.9								0.2
+28	Mississippi	CHLORIMURON	1994	kg		4033.3		295.7						0.7
+28	Mississippi	CHLORIMURON	1995	kg	6.6	3956.3	28.4	71.9		3.3			2.8	0.7
+28	Mississippi	CHLORIMURON	1996	kg		2853.9							5.2	0.5
+28	Mississippi	CHLORIMURON	1997	kg		4489								0.8
+28	Mississippi	CHLORIMURON	1998	kg		6097.1								1
+28	Mississippi	CHLORIMURON	1999	kg		1279								0.5
+28	Mississippi	CHLORIMURON	2000	kg		1211.9								0
+28	Mississippi	CHLORIMURON	2001	kg		792.7								0.1
+28	Mississippi	CHLORIMURON	2002	kg		442								0.4
+28	Mississippi	CHLORIMURON	2003	kg		264.1								0.9
+28	Mississippi	CHLORIMURON	2004	kg		205.4								0.9
+28	Mississippi	CHLORIMURON	2005	kg		318								0.6
+28	Mississippi	CHLORIMURON	2006	kg		533.1								0.3
+28	Mississippi	CHLORIMURON	2007	kg		1059.9								0
+28	Mississippi	CHLORIMURON	2008	kg		112.6								0.3
+28	Mississippi	CHLORIMURON	2009	kg		605								0
+28	Mississippi	CHLORIMURON	2010	kg		2841								3.1
+28	Mississippi	CHLORIMURON	2011	kg		2824.3				496.8				0.2
+28	Mississippi	CHLORIMURON	2012	kg		4319.6								1.1
+28	Mississippi	CHLORIMURON	2013	kg		2753.6								14.6
+28	Mississippi	CHLORIMURON	2014	kg		4737.1								
+28	Mississippi	CHLORIMURON	2015	kg		2007.2								
+28	Mississippi	CHLORIMURON	2016	kg		1310.5								
+28	Mississippi	CHLORIMURON	2017	kg		1381.4								
+29	Missouri	CHLORIMURON	1992	kg		9299.1	40.9							47.2
+29	Missouri	CHLORIMURON	1993	kg		8443.5								
+29	Missouri	CHLORIMURON	1994	kg	20.9	13137.9		13.9						
+29	Missouri	CHLORIMURON	1995	kg	67.3	14313.4	2.6			0.9				1.3
+29	Missouri	CHLORIMURON	1996	kg		6536.5								
+29	Missouri	CHLORIMURON	1997	kg		12275.5								
+29	Missouri	CHLORIMURON	1998	kg		9275.7								
+29	Missouri	CHLORIMURON	1999	kg		5891.6								
+29	Missouri	CHLORIMURON	2000	kg		4161								
+29	Missouri	CHLORIMURON	2001	kg		3058.5								
+29	Missouri	CHLORIMURON	2002	kg		4007.8								
+29	Missouri	CHLORIMURON	2003	kg		2711.2								
+29	Missouri	CHLORIMURON	2004	kg		3136.9								
+29	Missouri	CHLORIMURON	2005	kg		1665.6								
+29	Missouri	CHLORIMURON	2006	kg		2731.1								
+29	Missouri	CHLORIMURON	2007	kg		3709.3								
+29	Missouri	CHLORIMURON	2008	kg		4004.2								
+29	Missouri	CHLORIMURON	2009	kg		2891.8								
+29	Missouri	CHLORIMURON	2010	kg		4160.2							8.2	
+29	Missouri	CHLORIMURON	2011	kg		17076.5								
+29	Missouri	CHLORIMURON	2012	kg		13763.9								
+29	Missouri	CHLORIMURON	2013	kg		15916.9								
+29	Missouri	CHLORIMURON	2014	kg		17903.5								
+29	Missouri	CHLORIMURON	2015	kg		13144								
+29	Missouri	CHLORIMURON	2016	kg		12100.6								
+29	Missouri	CHLORIMURON	2017	kg		7849.9								
+30	Montana	CHLORIMURON	2005	kg										1.6
+30	Montana	CHLORIMURON	2013	kg					0.2					
+31	Nebraska	CHLORIMURON	1992	kg		5256.9	43.9							
+31	Nebraska	CHLORIMURON	1993	kg		2489.6								
+31	Nebraska	CHLORIMURON	1994	kg	74.1	4691.7			18.9				3.8	
+31	Nebraska	CHLORIMURON	1995	kg	640	4245.5								68.5
+31	Nebraska	CHLORIMURON	1996	kg		4822.3								208.5
+31	Nebraska	CHLORIMURON	1997	kg		4262.7								
+31	Nebraska	CHLORIMURON	1998	kg		3600.6								
+31	Nebraska	CHLORIMURON	1999	kg		3611.2								
+31	Nebraska	CHLORIMURON	2000	kg		2640.9								
+31	Nebraska	CHLORIMURON	2001	kg		1927.4								
+31	Nebraska	CHLORIMURON	2002	kg		1513.7								
+31	Nebraska	CHLORIMURON	2003	kg		2181.2								
+31	Nebraska	CHLORIMURON	2004	kg		3589.9								
+31	Nebraska	CHLORIMURON	2005	kg		1236.7								29.3
+31	Nebraska	CHLORIMURON	2006	kg		826								
+31	Nebraska	CHLORIMURON	2007	kg		3022								
+31	Nebraska	CHLORIMURON	2008	kg		796.6								
+31	Nebraska	CHLORIMURON	2009	kg		1734								
+31	Nebraska	CHLORIMURON	2010	kg		3130.4								
+31	Nebraska	CHLORIMURON	2011	kg		5063.3								
+31	Nebraska	CHLORIMURON	2012	kg		5420.9								
+31	Nebraska	CHLORIMURON	2013	kg		8814.9			17					
+31	Nebraska	CHLORIMURON	2014	kg		10142.6								
+31	Nebraska	CHLORIMURON	2015	kg		11932.2								
+31	Nebraska	CHLORIMURON	2016	kg		10668.3								
+31	Nebraska	CHLORIMURON	2017	kg		9283.2								
+34	New Jersey	CHLORIMURON	1992	kg		509.4								
+34	New Jersey	CHLORIMURON	1993	kg		1290.1								
+34	New Jersey	CHLORIMURON	1994	kg	56.3	1212.8	361.8							
+34	New Jersey	CHLORIMURON	1995	kg		1086.7			0					
+34	New Jersey	CHLORIMURON	1996	kg		1338.3			0					
+34	New Jersey	CHLORIMURON	1997	kg		202.2								
+34	New Jersey	CHLORIMURON	1998	kg		386.9								
+34	New Jersey	CHLORIMURON	1999	kg		222.2								
+34	New Jersey	CHLORIMURON	2000	kg		361.4								
+34	New Jersey	CHLORIMURON	2001	kg		102.6								
+34	New Jersey	CHLORIMURON	2002	kg		96								
+34	New Jersey	CHLORIMURON	2003	kg		243.4								
+34	New Jersey	CHLORIMURON	2004	kg		344.1								
+34	New Jersey	CHLORIMURON	2005	kg		26.5								
+34	New Jersey	CHLORIMURON	2006	kg		25.6								
+34	New Jersey	CHLORIMURON	2008	kg		204.5								
+34	New Jersey	CHLORIMURON	2009	kg		13.3								
+34	New Jersey	CHLORIMURON	2010	kg		141.3								
+34	New Jersey	CHLORIMURON	2011	kg		105.8								
+34	New Jersey	CHLORIMURON	2012	kg		69								
+34	New Jersey	CHLORIMURON	2013	kg		102.6								
+34	New Jersey	CHLORIMURON	2014	kg		114.4								
+34	New Jersey	CHLORIMURON	2015	kg		212.3								
+34	New Jersey	CHLORIMURON	2016	kg		57.6								
+34	New Jersey	CHLORIMURON	2017	kg		220.1								
+35	New Mexico	CHLORIMURON	1992	kg		0								
+35	New Mexico	CHLORIMURON	1993	kg		0								
+35	New Mexico	CHLORIMURON	1994	kg		0.1								
+35	New Mexico	CHLORIMURON	1995	kg		0.1								
+35	New Mexico	CHLORIMURON	1996	kg		0.1								
+35	New Mexico	CHLORIMURON	1997	kg		0								
+35	New Mexico	CHLORIMURON	1998	kg		0.4								
+35	New Mexico	CHLORIMURON	1999	kg		0.2								
+35	New Mexico	CHLORIMURON	2000	kg		0.3								
+35	New Mexico	CHLORIMURON	2001	kg		0.2								
+35	New Mexico	CHLORIMURON	2002	kg		0								
+35	New Mexico	CHLORIMURON	2003	kg		0.1								
+35	New Mexico	CHLORIMURON	2004	kg		0.1								
+35	New Mexico	CHLORIMURON	2005	kg		0								
+35	New Mexico	CHLORIMURON	2006	kg		0								
+35	New Mexico	CHLORIMURON	2011	kg										1
+35	New Mexico	CHLORIMURON	2016	kg									11.8	
+36	New York	CHLORIMURON	1992	kg		206.1								
+36	New York	CHLORIMURON	1993	kg		306.9			147.8					
+36	New York	CHLORIMURON	1994	kg		51.3								
+36	New York	CHLORIMURON	1995	kg		387.7			224.3					
+36	New York	CHLORIMURON	1996	kg		386.6			46.2					
+36	New York	CHLORIMURON	1997	kg		12.3								
+36	New York	CHLORIMURON	1998	kg		213.9								
+36	New York	CHLORIMURON	1999	kg		253.6								
+36	New York	CHLORIMURON	2000	kg		248.9								
+36	New York	CHLORIMURON	2001	kg		178.3								
+36	New York	CHLORIMURON	2002	kg		148.1								
+36	New York	CHLORIMURON	2003	kg		102.3								
+36	New York	CHLORIMURON	2004	kg		139.3								
+36	New York	CHLORIMURON	2005	kg		55.5								
+36	New York	CHLORIMURON	2006	kg		94.4								
+36	New York	CHLORIMURON	2007	kg		27.9								
+36	New York	CHLORIMURON	2008	kg		555.2								
+36	New York	CHLORIMURON	2009	kg		242.6								
+36	New York	CHLORIMURON	2010	kg		96.1								
+36	New York	CHLORIMURON	2011	kg		434.3								
+36	New York	CHLORIMURON	2012	kg		104.8								
+36	New York	CHLORIMURON	2013	kg		184.7								
+36	New York	CHLORIMURON	2014	kg		706.7								
+36	New York	CHLORIMURON	2015	kg		451.8								
+36	New York	CHLORIMURON	2016	kg		261.3								
+36	New York	CHLORIMURON	2017	kg		181.1								
+37	North Carolina	CHLORIMURON	1992	kg		2145.8		63						100.3
+37	North Carolina	CHLORIMURON	1993	kg		2570.2	1.9						72.4	60
+37	North Carolina	CHLORIMURON	1994	kg	100.6	8924								62.8
+37	North Carolina	CHLORIMURON	1995	kg		4539.2								59.6
+37	North Carolina	CHLORIMURON	1996	kg		1897.6								36.2
+37	North Carolina	CHLORIMURON	1997	kg		2042.2								0.9
+37	North Carolina	CHLORIMURON	1998	kg		1853.9								68.3
+37	North Carolina	CHLORIMURON	1999	kg		566.8								35.2
+37	North Carolina	CHLORIMURON	2000	kg		433.9								8.9
+37	North Carolina	CHLORIMURON	2001	kg		626.2								33.3
+37	North Carolina	CHLORIMURON	2002	kg		1235.4								2.4
+37	North Carolina	CHLORIMURON	2003	kg		1924.7								6.9
+37	North Carolina	CHLORIMURON	2004	kg		610.6								29.4
+37	North Carolina	CHLORIMURON	2005	kg		1219.2								11.2
+37	North Carolina	CHLORIMURON	2006	kg		327.5								5.2
+37	North Carolina	CHLORIMURON	2007	kg		465								5.7
+37	North Carolina	CHLORIMURON	2008	kg		167.9								7.7
+37	North Carolina	CHLORIMURON	2009	kg		974.8								1.4
+37	North Carolina	CHLORIMURON	2010	kg		2000.9								62.5
+37	North Carolina	CHLORIMURON	2011	kg		3988.4								30.1
+37	North Carolina	CHLORIMURON	2012	kg		2914.4								9.9
+37	North Carolina	CHLORIMURON	2013	kg		2312.3								41.8
+37	North Carolina	CHLORIMURON	2014	kg		5448.1			1.2					
+37	North Carolina	CHLORIMURON	2015	kg		3379								
+37	North Carolina	CHLORIMURON	2016	kg		5076.4								
+37	North Carolina	CHLORIMURON	2017	kg		3809.5								1.4
+38	North Dakota	CHLORIMURON	1992	kg		18.7								
+38	North Dakota	CHLORIMURON	1993	kg		3.3								215.6
+38	North Dakota	CHLORIMURON	1994	kg		18.9								
+38	North Dakota	CHLORIMURON	1995	kg	31.2	128.7								23.2
+38	North Dakota	CHLORIMURON	1996	kg		705.8								
+38	North Dakota	CHLORIMURON	1997	kg		19.4								
+38	North Dakota	CHLORIMURON	1998	kg		100.7								
+38	North Dakota	CHLORIMURON	1999	kg		135.2								
+38	North Dakota	CHLORIMURON	2000	kg		51.8								
+38	North Dakota	CHLORIMURON	2002	kg		181.4								
+38	North Dakota	CHLORIMURON	2003	kg		141.6								
+38	North Dakota	CHLORIMURON	2004	kg		214								
+38	North Dakota	CHLORIMURON	2005	kg		291								210.1
+38	North Dakota	CHLORIMURON	2008	kg		167.4								
+38	North Dakota	CHLORIMURON	2009	kg		93.9								
+38	North Dakota	CHLORIMURON	2010	kg		557.8								
+38	North Dakota	CHLORIMURON	2011	kg		557.7								
+38	North Dakota	CHLORIMURON	2012	kg		543.5								
+38	North Dakota	CHLORIMURON	2013	kg		475.7			50.8					
+38	North Dakota	CHLORIMURON	2014	kg		974.4								
+38	North Dakota	CHLORIMURON	2015	kg		857.6								
+38	North Dakota	CHLORIMURON	2016	kg		1086								
+38	North Dakota	CHLORIMURON	2017	kg		1004.1								
+39	Ohio	CHLORIMURON	1992	kg	9.5	17550.1								
+39	Ohio	CHLORIMURON	1993	kg	560.6	16452.1			55.7		17.3			
+39	Ohio	CHLORIMURON	1994	kg	55.9	14244.4			54.4					
+39	Ohio	CHLORIMURON	1995	kg	492	14845			0					
+39	Ohio	CHLORIMURON	1996	kg		15916.5			158.5					
+39	Ohio	CHLORIMURON	1997	kg		14020.6								
+39	Ohio	CHLORIMURON	1998	kg		13341.5								
+39	Ohio	CHLORIMURON	1999	kg		7017.1								
+39	Ohio	CHLORIMURON	2000	kg		6963.9								
+39	Ohio	CHLORIMURON	2001	kg		6104.9								
+39	Ohio	CHLORIMURON	2002	kg		4627.1			0.4					
+39	Ohio	CHLORIMURON	2003	kg		5669.8								
+39	Ohio	CHLORIMURON	2004	kg		6585.7								
+39	Ohio	CHLORIMURON	2005	kg		3946.7								
+39	Ohio	CHLORIMURON	2006	kg		3505.2								
+39	Ohio	CHLORIMURON	2007	kg		5221.4								
+39	Ohio	CHLORIMURON	2008	kg		11688.5								
+39	Ohio	CHLORIMURON	2009	kg		11805.2								
+39	Ohio	CHLORIMURON	2010	kg		14925.2								
+39	Ohio	CHLORIMURON	2011	kg		12025.5								
+39	Ohio	CHLORIMURON	2012	kg		12400.9								
+39	Ohio	CHLORIMURON	2013	kg		12150.6								
+39	Ohio	CHLORIMURON	2014	kg		16045.3								
+39	Ohio	CHLORIMURON	2015	kg		15458.5								
+39	Ohio	CHLORIMURON	2016	kg		16166.3								
+39	Ohio	CHLORIMURON	2017	kg		9671.3								
+40	Oklahoma	CHLORIMURON	1992	kg		630.3								
+40	Oklahoma	CHLORIMURON	1993	kg		1861.7								
+40	Oklahoma	CHLORIMURON	1994	kg		1169.4								
+40	Oklahoma	CHLORIMURON	1995	kg		286.5								
+40	Oklahoma	CHLORIMURON	1996	kg		337.3								
+40	Oklahoma	CHLORIMURON	1997	kg		676.9								0.3
+40	Oklahoma	CHLORIMURON	1998	kg		766.1								
+40	Oklahoma	CHLORIMURON	1999	kg		510.6								
+40	Oklahoma	CHLORIMURON	2000	kg		603.6								
+40	Oklahoma	CHLORIMURON	2001	kg		417.4								
+40	Oklahoma	CHLORIMURON	2002	kg		250.1								
+40	Oklahoma	CHLORIMURON	2003	kg		403.3								
+40	Oklahoma	CHLORIMURON	2004	kg		894.5								
+40	Oklahoma	CHLORIMURON	2005	kg		298.9								
+40	Oklahoma	CHLORIMURON	2006	kg		69.5								
+40	Oklahoma	CHLORIMURON	2007	kg		1019.3								
+40	Oklahoma	CHLORIMURON	2008	kg		501.8								
+40	Oklahoma	CHLORIMURON	2009	kg		969.3								20.8
+40	Oklahoma	CHLORIMURON	2010	kg		2077.7							40	
+40	Oklahoma	CHLORIMURON	2011	kg		2370.7								
+40	Oklahoma	CHLORIMURON	2012	kg		2190.9								
+40	Oklahoma	CHLORIMURON	2013	kg		1164.3								
+40	Oklahoma	CHLORIMURON	2014	kg		351.3								
+40	Oklahoma	CHLORIMURON	2015	kg		478.9								
+40	Oklahoma	CHLORIMURON	2016	kg		596.4							21.1	
+40	Oklahoma	CHLORIMURON	2017	kg		1194.5								
+41	Oregon	CHLORIMURON	1994	kg					53					
+41	Oregon	CHLORIMURON	1996	kg					24.1					
+41	Oregon	CHLORIMURON	2011	kg									20.8	
+41	Oregon	CHLORIMURON	2012	kg									15.9	
+41	Oregon	CHLORIMURON	2013	kg					1.2				53.4	
+42	Pennsylvania	CHLORIMURON	1992	kg	1.9	598.2	168.3		4.6					
+42	Pennsylvania	CHLORIMURON	1993	kg		1356.6					5.2			
+42	Pennsylvania	CHLORIMURON	1994	kg	604.2	1268	609.5		8.2					
+42	Pennsylvania	CHLORIMURON	1995	kg		1570.5			231.2					
+42	Pennsylvania	CHLORIMURON	1996	kg		1067.7			122.9					
+42	Pennsylvania	CHLORIMURON	1997	kg		1247.4								
+42	Pennsylvania	CHLORIMURON	1998	kg		683.9								
+42	Pennsylvania	CHLORIMURON	1999	kg		645.4								
+42	Pennsylvania	CHLORIMURON	2000	kg		150								
+42	Pennsylvania	CHLORIMURON	2001	kg		443.7								
+42	Pennsylvania	CHLORIMURON	2002	kg		548.6			23.8					
+42	Pennsylvania	CHLORIMURON	2003	kg		276.9								
+42	Pennsylvania	CHLORIMURON	2004	kg		345.6								
+42	Pennsylvania	CHLORIMURON	2005	kg		135.3								
+42	Pennsylvania	CHLORIMURON	2006	kg		339.4								
+42	Pennsylvania	CHLORIMURON	2007	kg		114.1								
+42	Pennsylvania	CHLORIMURON	2008	kg		536.7								
+42	Pennsylvania	CHLORIMURON	2009	kg		430.1								
+42	Pennsylvania	CHLORIMURON	2010	kg		400.8								
+42	Pennsylvania	CHLORIMURON	2011	kg		586.6								
+42	Pennsylvania	CHLORIMURON	2012	kg		1095.1								
+42	Pennsylvania	CHLORIMURON	2013	kg		889.1								
+42	Pennsylvania	CHLORIMURON	2014	kg		603.7								
+42	Pennsylvania	CHLORIMURON	2015	kg		1018.9								
+42	Pennsylvania	CHLORIMURON	2016	kg		1915.9								
+42	Pennsylvania	CHLORIMURON	2017	kg		1372.9								
+45	South Carolina	CHLORIMURON	1992	kg		2521.6		133.7						18.4
+45	South Carolina	CHLORIMURON	1993	kg		2855.3	0.8	66.1						15.1
+45	South Carolina	CHLORIMURON	1994	kg		3263.3		1.1						14
+45	South Carolina	CHLORIMURON	1995	kg		2156.2								13.3
+45	South Carolina	CHLORIMURON	1996	kg		3216.1								7.2
+45	South Carolina	CHLORIMURON	1997	kg		3459.2								7.7
+45	South Carolina	CHLORIMURON	1998	kg		2788.9								15.4
+45	South Carolina	CHLORIMURON	1999	kg		389.4								7.6
+45	South Carolina	CHLORIMURON	2000	kg		461.4								5.2
+45	South Carolina	CHLORIMURON	2001	kg		354.1								7
+45	South Carolina	CHLORIMURON	2002	kg		492								35.9
+45	South Carolina	CHLORIMURON	2003	kg		41.2								49.6
+45	South Carolina	CHLORIMURON	2004	kg		388.5								56.9
+45	South Carolina	CHLORIMURON	2005	kg		407.7								12.4
+45	South Carolina	CHLORIMURON	2006	kg		973.7								0.4
+45	South Carolina	CHLORIMURON	2007	kg		36								4.6
+45	South Carolina	CHLORIMURON	2008	kg		1373.7								6.7
+45	South Carolina	CHLORIMURON	2009	kg		864.3								4
+45	South Carolina	CHLORIMURON	2010	kg		1460								103.1
+45	South Carolina	CHLORIMURON	2011	kg		1260.1								35.5
+45	South Carolina	CHLORIMURON	2012	kg		1660.8								7.9
+45	South Carolina	CHLORIMURON	2013	kg		993.2								100.9
+45	South Carolina	CHLORIMURON	2014	kg		1816.2			0.1					
+45	South Carolina	CHLORIMURON	2015	kg		1216.8								
+45	South Carolina	CHLORIMURON	2016	kg		1645.2								
+45	South Carolina	CHLORIMURON	2017	kg		804								
+46	South Dakota	CHLORIMURON	1992	kg		647								
+46	South Dakota	CHLORIMURON	1993	kg		150.7							73.5	417.9
+46	South Dakota	CHLORIMURON	1994	kg	64.2	191								
+46	South Dakota	CHLORIMURON	1995	kg	145.4	222.3								0.6
+46	South Dakota	CHLORIMURON	1996	kg		2138.1								
+46	South Dakota	CHLORIMURON	1997	kg		301.8								
+46	South Dakota	CHLORIMURON	1998	kg		1088.5								
+46	South Dakota	CHLORIMURON	1999	kg		741.5								
+46	South Dakota	CHLORIMURON	2000	kg		230								
+46	South Dakota	CHLORIMURON	2001	kg		751.9								
+46	South Dakota	CHLORIMURON	2002	kg		479.3								
+46	South Dakota	CHLORIMURON	2003	kg		434.2								
+46	South Dakota	CHLORIMURON	2004	kg		237.1								
+46	South Dakota	CHLORIMURON	2005	kg		317.1								699.1
+46	South Dakota	CHLORIMURON	2006	kg		59.9								
+46	South Dakota	CHLORIMURON	2007	kg		37.5								
+46	South Dakota	CHLORIMURON	2008	kg		721.4								
+46	South Dakota	CHLORIMURON	2009	kg		300.1								
+46	South Dakota	CHLORIMURON	2010	kg		1052.7								
+46	South Dakota	CHLORIMURON	2011	kg		319.9								
+46	South Dakota	CHLORIMURON	2012	kg		3017								
+46	South Dakota	CHLORIMURON	2013	kg		1501.5			1					
+46	South Dakota	CHLORIMURON	2014	kg		947.1								
+46	South Dakota	CHLORIMURON	2015	kg		4855.6								
+46	South Dakota	CHLORIMURON	2016	kg		1406.3								
+46	South Dakota	CHLORIMURON	2017	kg		3829.4								
+47	Tennessee	CHLORIMURON	1992	kg		1593.7	0.8							
+47	Tennessee	CHLORIMURON	1993	kg		2206.3								
+47	Tennessee	CHLORIMURON	1994	kg		4552.2		23.6						2.3
+47	Tennessee	CHLORIMURON	1995	kg	9.2	5031.2	139.1	52.2		0				
+47	Tennessee	CHLORIMURON	1996	kg		3028.9							442.7	
+47	Tennessee	CHLORIMURON	1997	kg		3843.5								
+47	Tennessee	CHLORIMURON	1998	kg		1973.9								
+47	Tennessee	CHLORIMURON	1999	kg		1187.8								
+47	Tennessee	CHLORIMURON	2000	kg		819.1								
+47	Tennessee	CHLORIMURON	2001	kg		140.1								
+47	Tennessee	CHLORIMURON	2002	kg		174.7								
+47	Tennessee	CHLORIMURON	2003	kg		410.6								
+47	Tennessee	CHLORIMURON	2004	kg		148.9								
+47	Tennessee	CHLORIMURON	2005	kg		156.8								
+47	Tennessee	CHLORIMURON	2006	kg		652.4								
+47	Tennessee	CHLORIMURON	2007	kg		604.3								
+47	Tennessee	CHLORIMURON	2008	kg		5077								
+47	Tennessee	CHLORIMURON	2009	kg		1232.3								
+47	Tennessee	CHLORIMURON	2010	kg		1931.1								
+47	Tennessee	CHLORIMURON	2011	kg		3083.7								
+47	Tennessee	CHLORIMURON	2012	kg		561.3								
+47	Tennessee	CHLORIMURON	2013	kg		1649			1.3					
+47	Tennessee	CHLORIMURON	2014	kg		2587.3								
+47	Tennessee	CHLORIMURON	2015	kg		2113.7								
+47	Tennessee	CHLORIMURON	2016	kg		1876.8								
+47	Tennessee	CHLORIMURON	2017	kg		1377.5								
+48	Texas	CHLORIMURON	1992	kg		364.4		12.8						
+48	Texas	CHLORIMURON	1993	kg		72.3								
+48	Texas	CHLORIMURON	1994	kg		113.6								
+48	Texas	CHLORIMURON	1995	kg		245.1								
+48	Texas	CHLORIMURON	1996	kg		249.3								7.6
+48	Texas	CHLORIMURON	1997	kg		162.8								2.2
+48	Texas	CHLORIMURON	1998	kg		174.7								
+48	Texas	CHLORIMURON	1999	kg		348.8								
+48	Texas	CHLORIMURON	2000	kg		295.7								
+48	Texas	CHLORIMURON	2001	kg		454.5								
+48	Texas	CHLORIMURON	2002	kg		678.3								
+48	Texas	CHLORIMURON	2003	kg		110.3								
+48	Texas	CHLORIMURON	2004	kg		200.3								
+48	Texas	CHLORIMURON	2005	kg		50.9								
+48	Texas	CHLORIMURON	2006	kg		61.2								
+48	Texas	CHLORIMURON	2007	kg		59.3								
+48	Texas	CHLORIMURON	2008	kg		66.1								
+48	Texas	CHLORIMURON	2009	kg		38.6								24.1
+48	Texas	CHLORIMURON	2010	kg		397.8								
+48	Texas	CHLORIMURON	2011	kg		102.7								15.9
+48	Texas	CHLORIMURON	2012	kg		173.4								
+48	Texas	CHLORIMURON	2013	kg		216.6								
+48	Texas	CHLORIMURON	2014	kg		337.1								
+48	Texas	CHLORIMURON	2015	kg		238.5								
+48	Texas	CHLORIMURON	2016	kg		212.2								
+48	Texas	CHLORIMURON	2017	kg		47.7								
+50	Vermont	CHLORIMURON	1992	kg		2.4								
+50	Vermont	CHLORIMURON	1993	kg		5.9								
+50	Vermont	CHLORIMURON	1994	kg		3.3								
+50	Vermont	CHLORIMURON	1995	kg		5			1.1					
+50	Vermont	CHLORIMURON	1996	kg		4.5			0.1					
+50	Vermont	CHLORIMURON	1997	kg		1.2								
+50	Vermont	CHLORIMURON	1998	kg		2.3								
+50	Vermont	CHLORIMURON	1999	kg		2.3								
+50	Vermont	CHLORIMURON	2000	kg		5.6								
+50	Vermont	CHLORIMURON	2001	kg		1.5								
+50	Vermont	CHLORIMURON	2002	kg		1.5								
+50	Vermont	CHLORIMURON	2003	kg		1								
+50	Vermont	CHLORIMURON	2004	kg		1.2								
+50	Vermont	CHLORIMURON	2005	kg		0.5								
+50	Vermont	CHLORIMURON	2006	kg		0.8								
+50	Vermont	CHLORIMURON	2008	kg		5.6								
+50	Vermont	CHLORIMURON	2009	kg		3.2								
+50	Vermont	CHLORIMURON	2010	kg		0.9								
+50	Vermont	CHLORIMURON	2011	kg		5.3								
+50	Vermont	CHLORIMURON	2012	kg		5.2								
+50	Vermont	CHLORIMURON	2013	kg		5.3								
+50	Vermont	CHLORIMURON	2014	kg		4								
+50	Vermont	CHLORIMURON	2015	kg		7.7								
+50	Vermont	CHLORIMURON	2016	kg		2.9								
+50	Vermont	CHLORIMURON	2017	kg		9.3								
+51	Virginia	CHLORIMURON	1992	kg		1575.2								62.4
+51	Virginia	CHLORIMURON	1993	kg		1202.3			94.9				34.2	39.3
+51	Virginia	CHLORIMURON	1994	kg		1375.8								38
+51	Virginia	CHLORIMURON	1995	kg		1751								38.1
+51	Virginia	CHLORIMURON	1996	kg		1800.7								23.3
+51	Virginia	CHLORIMURON	1997	kg		1710.2								0.1
+51	Virginia	CHLORIMURON	1998	kg		1665.1								40.8
+51	Virginia	CHLORIMURON	1999	kg		890.6								21.5
+51	Virginia	CHLORIMURON	2000	kg		943.9								5
+51	Virginia	CHLORIMURON	2001	kg		169.6								20.1
+51	Virginia	CHLORIMURON	2002	kg		291.2								0.3
+51	Virginia	CHLORIMURON	2003	kg		851.8								1.6
+51	Virginia	CHLORIMURON	2004	kg		682.6								8.6
+51	Virginia	CHLORIMURON	2005	kg		656.8								2.6
+51	Virginia	CHLORIMURON	2006	kg		515.9								1
+51	Virginia	CHLORIMURON	2007	kg		623.9								1.4
+51	Virginia	CHLORIMURON	2008	kg		1936.9								1.5
+51	Virginia	CHLORIMURON	2009	kg		685.4								0.1
+51	Virginia	CHLORIMURON	2010	kg		792.3								7.2
+51	Virginia	CHLORIMURON	2011	kg		1776.8								7.5
+51	Virginia	CHLORIMURON	2012	kg		391.3								2
+51	Virginia	CHLORIMURON	2013	kg		1969.1								3.7
+51	Virginia	CHLORIMURON	2014	kg		1579.1								
+51	Virginia	CHLORIMURON	2015	kg		851.8								
+51	Virginia	CHLORIMURON	2016	kg		898.8								
+51	Virginia	CHLORIMURON	2017	kg		3162.7								0.4
+53	Washington	CHLORIMURON	1992	kg			810						12.2	
+53	Washington	CHLORIMURON	1996	kg					142.6					
+53	Washington	CHLORIMURON	2011	kg									138.3	
+53	Washington	CHLORIMURON	2012	kg									102.8	
+53	Washington	CHLORIMURON	2013	kg					12.6				332.8	
+54	West Virginia	CHLORIMURON	1992	kg	0	49.2								
+54	West Virginia	CHLORIMURON	1993	kg		66.9					0.4			
+54	West Virginia	CHLORIMURON	1994	kg		20.3								
+54	West Virginia	CHLORIMURON	1995	kg		25.1			5.6					
+54	West Virginia	CHLORIMURON	1996	kg		35			1.6					
+54	West Virginia	CHLORIMURON	1997	kg		35.4								
+54	West Virginia	CHLORIMURON	1998	kg		30.7								
+54	West Virginia	CHLORIMURON	1999	kg		17.6								
+54	West Virginia	CHLORIMURON	2000	kg		67.2								
+54	West Virginia	CHLORIMURON	2001	kg		38.6								
+54	West Virginia	CHLORIMURON	2002	kg		36			0					
+54	West Virginia	CHLORIMURON	2003	kg		28								
+54	West Virginia	CHLORIMURON	2004	kg		33.2								
+54	West Virginia	CHLORIMURON	2005	kg		49.1								
+54	West Virginia	CHLORIMURON	2006	kg		6.3								
+54	West Virginia	CHLORIMURON	2007	kg		5								
+54	West Virginia	CHLORIMURON	2008	kg		82.6								
+54	West Virginia	CHLORIMURON	2009	kg		16.5								
+54	West Virginia	CHLORIMURON	2010	kg		33.7								
+54	West Virginia	CHLORIMURON	2011	kg		39.4								
+54	West Virginia	CHLORIMURON	2012	kg		30.7								
+54	West Virginia	CHLORIMURON	2013	kg		81								
+54	West Virginia	CHLORIMURON	2014	kg		41.6								
+54	West Virginia	CHLORIMURON	2015	kg		43.9								
+54	West Virginia	CHLORIMURON	2016	kg		126.2								
+54	West Virginia	CHLORIMURON	2017	kg		191.3								
+55	Wisconsin	CHLORIMURON	1992	kg		62.9			2121.5					
+55	Wisconsin	CHLORIMURON	1993	kg		91.8								
+55	Wisconsin	CHLORIMURON	1994	kg		118.2			69.8					
+55	Wisconsin	CHLORIMURON	1995	kg	90.5	110.5			5.3					
+55	Wisconsin	CHLORIMURON	1996	kg		105.1			0.2					
+55	Wisconsin	CHLORIMURON	1997	kg		121.6								
+55	Wisconsin	CHLORIMURON	1998	kg		145.6								
+55	Wisconsin	CHLORIMURON	1999	kg		45.8								
+55	Wisconsin	CHLORIMURON	2000	kg		231.3			12.1					
+55	Wisconsin	CHLORIMURON	2001	kg		177.4								
+55	Wisconsin	CHLORIMURON	2002	kg		326.4								
+55	Wisconsin	CHLORIMURON	2003	kg		323.9								
+55	Wisconsin	CHLORIMURON	2004	kg		109.2								
+55	Wisconsin	CHLORIMURON	2005	kg		289.5								
+55	Wisconsin	CHLORIMURON	2006	kg		681.7								
+55	Wisconsin	CHLORIMURON	2007	kg		889.6								
+55	Wisconsin	CHLORIMURON	2008	kg		2116								
+55	Wisconsin	CHLORIMURON	2009	kg		617.5								
+55	Wisconsin	CHLORIMURON	2010	kg		509.2								
+55	Wisconsin	CHLORIMURON	2011	kg		632.3								
+55	Wisconsin	CHLORIMURON	2012	kg		1178.1								
+55	Wisconsin	CHLORIMURON	2013	kg		710.9								
+55	Wisconsin	CHLORIMURON	2014	kg		1242.3								
+55	Wisconsin	CHLORIMURON	2015	kg		1324.3								
+55	Wisconsin	CHLORIMURON	2016	kg		1116.3								
+55	Wisconsin	CHLORIMURON	2017	kg		497.9								
+56	Wyoming	CHLORIMURON	1994	kg					1.9					
+56	Wyoming	CHLORIMURON	2013	kg					2.7					

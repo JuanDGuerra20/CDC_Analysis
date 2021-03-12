@@ -1,0 +1,988 @@
+01	Alabama	METAM	1992	kg					30632.1					861241.2
+01	Alabama	METAM	1993	kg					16794.8					26390.5
+01	Alabama	METAM	1994	kg					16147.7					1006990
+01	Alabama	METAM	1995	kg										538350.8
+01	Alabama	METAM	1996	kg				89495.1	7586.5					91192
+01	Alabama	METAM	1997	kg		40070.5			2841					855337.3
+01	Alabama	METAM	1998	kg										415264.5
+01	Alabama	METAM	1999	kg					69999.3					604345
+01	Alabama	METAM	2000	kg										383239.7
+01	Alabama	METAM	2001	kg										400030.9
+01	Alabama	METAM	2002	kg										447514.6
+01	Alabama	METAM	2003	kg										172625.1
+01	Alabama	METAM	2004	kg					4687.2					614894.5
+01	Alabama	METAM	2005	kg										288342.4
+01	Alabama	METAM	2006	kg										142235.6
+01	Alabama	METAM	2007	kg										201109.3
+01	Alabama	METAM	2008	kg										28196.1
+01	Alabama	METAM	2009	kg					68378.2					169112.2
+01	Alabama	METAM	2010	kg					11766.2					136613
+01	Alabama	METAM	2011	kg					14973.6					
+01	Alabama	METAM	2012	kg										250463.2
+01	Alabama	METAM	2013	kg										150457.5
+01	Alabama	METAM	2014	kg										147853.4
+01	Alabama	METAM	2015	kg										20359.1
+01	Alabama	METAM	2016	kg										31140.3
+01	Alabama	METAM	2017	kg										164816.7
+04	Arizona	METAM	1992	kg					68646.4		7540.9			
+04	Arizona	METAM	1993	kg					97248.8					
+04	Arizona	METAM	1994	kg					69177.8		42.1		95.8	
+04	Arizona	METAM	1995	kg					284333		61537.7			
+04	Arizona	METAM	1996	kg					290711.4		127.5			
+04	Arizona	METAM	1997	kg					296167.9		693.3		48205.7	
+04	Arizona	METAM	1998	kg					695231.8		1294.8			
+04	Arizona	METAM	1999	kg					689670.6		661.1			
+04	Arizona	METAM	2000	kg					261126.7		17.8			
+04	Arizona	METAM	2001	kg					798182		700.4			
+04	Arizona	METAM	2002	kg					900075.5					
+04	Arizona	METAM	2003	kg					975783.2		668.5			
+04	Arizona	METAM	2004	kg					261431.7		2099.9			
+04	Arizona	METAM	2005	kg					864205.4		1484.8			
+04	Arizona	METAM	2006	kg					312791.6					
+04	Arizona	METAM	2007	kg					495365.6		717.3			
+04	Arizona	METAM	2008	kg					1160002.6					
+04	Arizona	METAM	2009	kg					906052.1					
+04	Arizona	METAM	2010	kg					956209.2		770.7			
+04	Arizona	METAM	2011	kg					905569		906.9			
+04	Arizona	METAM	2012	kg					940687.8		1011.5			
+04	Arizona	METAM	2013	kg					472122.8		247.2			
+04	Arizona	METAM	2014	kg					146436.2					
+04	Arizona	METAM	2015	kg					478663.3					
+04	Arizona	METAM	2016	kg					465217.4					
+04	Arizona	METAM	2017	kg					209565					
+04	Arizona	METAM POTASSIUM	2001	kg					29665.7					
+04	Arizona	METAM POTASSIUM	2003	kg					103592.5					
+04	Arizona	METAM POTASSIUM	2004	kg					13592.6					
+04	Arizona	METAM POTASSIUM	2005	kg					17331.8					
+04	Arizona	METAM POTASSIUM	2006	kg					66036.6					
+04	Arizona	METAM POTASSIUM	2007	kg					2161.3					
+04	Arizona	METAM POTASSIUM	2008	kg					14684.3					
+04	Arizona	METAM POTASSIUM	2009	kg					128689.5					
+04	Arizona	METAM POTASSIUM	2010	kg					28182.7					
+04	Arizona	METAM POTASSIUM	2011	kg					295692.9					
+04	Arizona	METAM POTASSIUM	2012	kg					44398.4					
+04	Arizona	METAM POTASSIUM	2013	kg					504546.1					
+04	Arizona	METAM POTASSIUM	2014	kg					118936.7					
+04	Arizona	METAM POTASSIUM	2015	kg					76463.7					
+04	Arizona	METAM POTASSIUM	2016	kg					140820.6					
+04	Arizona	METAM POTASSIUM	2017	kg					113674.5					
+05	Arkansas	METAM	1993	kg				188709.2						
+05	Arkansas	METAM	1994	kg				1684.8						
+05	Arkansas	METAM	1997	kg					771.4					
+05	Arkansas	METAM POTASSIUM	2006	kg				45855.8						
+05	Arkansas	METAM POTASSIUM	2009	kg				24857.5						
+05	Arkansas	METAM POTASSIUM	2010	kg				48269.1						
+05	Arkansas	METAM POTASSIUM	2012	kg				46837.3						
+06	California	METAM	1992	kg	1770.3		2792.4	514686.4	3141140.8	43.4	79457.1	15613.7	9221.2	55286.9
+06	California	METAM	1993	kg	2233.3		3717.4	589440.7	2848080.4		123631	722.7	13427.6	239905
+06	California	METAM	1994	kg	7894.7			769977	3991427.3		45663	3107.5	4801.4	78335
+06	California	METAM	1995	kg	5654.7		19458.5	550408.5	5819605.8		104046.8	355	7848.2	91972.2
+06	California	METAM	1996	kg	15.1		7182.9	805889.4	5811107.3		135651.3	908.2	22747.9	59687.4
+06	California	METAM	1997	kg	340.8			640208	5855004.4		98116.3	536.8	51096.2	129489
+06	California	METAM	1998	kg	39308.6		540	212168.7	5757975		96972.9	2015.2	36124.6	73839
+06	California	METAM	1999	kg				311327.3	7594531.4		123605.8	6477.4	53456.8	97068.5
+06	California	METAM	2000	kg	1252.6		4282.3	227487.9	5346132.6		179508.9	578.1	17046.6	102758.6
+06	California	METAM	2001	kg	18404.9		5815.7	165617.9	4817301.9	144	122356.2	1025.4	4059.7	88002.4
+06	California	METAM	2002	kg	24478.3			127867.5	6839154.5		177101	693.7	30714	73320.1
+06	California	METAM	2003	kg	3455.8			44041.3	6164489.7		189257.9		6049.9	133734.8
+06	California	METAM	2004	kg	3676.5			34048.8	5918391		200429.6		10500.1	245825.6
+06	California	METAM	2005	kg	2303.8			30527.7	5404807.2		210542		5702	84713.1
+06	California	METAM	2006	kg	4117.1				4757883.7		145178.9		520.3	118785.5
+06	California	METAM	2007	kg	2419				4182607.9		104913.9		7891.2	84275.5
+06	California	METAM	2008	kg			5682.8	34.3	3840546		85706.8			959.6
+06	California	METAM	2009	kg			6874.1		3561957.2		42003.8		2152.7	9329.7
+06	California	METAM	2010	kg	1900.7			4056.2	4644075.4		96204.3			345.6
+06	California	METAM	2011	kg	5529.2		15502.9	18739.8	4207424.2		124721.2	5646.3		1450.1
+06	California	METAM	2012	kg	1382.3		1919.9	10699.4	3489453.8		122344.6	4530.9		5481.3
+06	California	METAM	2013	kg	1295.9		7247.5	15339.7	1912439.4		65380.4			
+06	California	METAM	2014	kg					1638486.5		34897.5			1382.3
+06	California	METAM	2015	kg					1870044.8		60969.4			7034.4
+06	California	METAM	2016	kg					1351069.7		42612.2			
+06	California	METAM	2017	kg					1294134.8		21797			
+06	California	METAM POTASSIUM	1997	kg									1035.3	
+06	California	METAM POTASSIUM	1998	kg					4146.3					
+06	California	METAM POTASSIUM	2000	kg					27914.5		19869.5			
+06	California	METAM POTASSIUM	2001	kg					135638.5		49060.5			2841.9
+06	California	METAM POTASSIUM	2002	kg	3737.2				536138.1		13307.3			19399.6
+06	California	METAM POTASSIUM	2003	kg				4334.1	832017.3		4126.5			22643.9
+06	California	METAM POTASSIUM	2004	kg					404669.7					695.6
+06	California	METAM POTASSIUM	2005	kg					754839.6				2647.2	102709
+06	California	METAM POTASSIUM	2006	kg				3784.8	1418738.6		5583.2		7656.1	10901
+06	California	METAM POTASSIUM	2007	kg				17082.9	1588265.8		2311.2		144.5	94657.1
+06	California	METAM POTASSIUM	2008	kg					2306298.9		12266.6			11325.9
+06	California	METAM POTASSIUM	2009	kg					1592182.9		13972.6			22788.5
+06	California	METAM POTASSIUM	2010	kg					1823116		27240.2			14417.7
+06	California	METAM POTASSIUM	2011	kg				16584.4	2353417.4		36087.1			25082.5
+06	California	METAM POTASSIUM	2012	kg				4543.8	3468864.3		49877.5			91794.9
+06	California	METAM POTASSIUM	2013	kg				15078.6	3684898.1		46281.4			27423.1
+06	California	METAM POTASSIUM	2014	kg				11184.4	2883128.9		60479.2			21447.1
+06	California	METAM POTASSIUM	2015	kg			2335.8	6436.3	4086398.1		91123			12645.2
+06	California	METAM POTASSIUM	2016	kg					3868383.3		66598.5			13019.7
+06	California	METAM POTASSIUM	2017	kg			5951		3685089		31758.7			22888.4
+08	Colorado	METAM	1992	kg					3939051.5					
+08	Colorado	METAM	1993	kg					317507					
+08	Colorado	METAM	1994	kg					154829.1					
+08	Colorado	METAM	1995	kg					67205.8					
+08	Colorado	METAM	1996	kg					1529739.4		2313.6			
+08	Colorado	METAM	1997	kg					1257815.3					
+08	Colorado	METAM	1998	kg					1750308.3					
+08	Colorado	METAM	1999	kg					512888.4					
+08	Colorado	METAM	2000	kg					57494.4					
+08	Colorado	METAM	2001	kg					963830.7					
+08	Colorado	METAM	2002	kg					1077133.1					
+08	Colorado	METAM	2003	kg					25976.3					
+08	Colorado	METAM	2004	kg					39791.2					
+08	Colorado	METAM	2005	kg					1418671.7					
+08	Colorado	METAM	2006	kg					794254.6					
+08	Colorado	METAM	2007	kg					800331.2					
+08	Colorado	METAM	2008	kg					1116861.8					
+08	Colorado	METAM	2009	kg					949627.6					
+08	Colorado	METAM	2010	kg					1316651.4					
+08	Colorado	METAM	2011	kg					925161.5					
+08	Colorado	METAM	2012	kg					670372.6					
+08	Colorado	METAM	2013	kg					1782895.7					
+08	Colorado	METAM	2014	kg					1307912					
+08	Colorado	METAM	2015	kg					1106302.9					
+08	Colorado	METAM	2016	kg					365669.1					
+08	Colorado	METAM	2017	kg					656012.7					
+08	Colorado	METAM POTASSIUM	2013	kg					364912.4					
+08	Colorado	METAM POTASSIUM	2014	kg					320096					
+08	Colorado	METAM POTASSIUM	2015	kg					738726.5					
+08	Colorado	METAM POTASSIUM	2016	kg					334895.1					
+08	Colorado	METAM POTASSIUM	2017	kg					495140.4					
+09	Connecticut	METAM	1993	kg					671.5					
+09	Connecticut	METAM	1995	kg	43774.6				2416.3					
+09	Connecticut	METAM	1997	kg					325.6					
+09	Connecticut	METAM	2002	kg					733.8					
+09	Connecticut	METAM	2004	kg					10302.3					
+09	Connecticut	METAM	2006	kg					5273					
+09	Connecticut	METAM	2008	kg					1759.9					
+09	Connecticut	METAM	2011	kg					5193.8					
+09	Connecticut	METAM	2012	kg					6971.4					
+09	Connecticut	METAM	2014	kg					2481.1					
+10	Delaware	METAM	1993	kg					580.7					
+10	Delaware	METAM	1996	kg					20.6					
+10	Delaware	METAM	1997	kg					936.7					
+10	Delaware	METAM	1998	kg					563985.7		7.4			
+10	Delaware	METAM	1999	kg					65.2					
+10	Delaware	METAM	2000	kg					44416.8					
+10	Delaware	METAM	2001	kg					153190.8					
+10	Delaware	METAM	2002	kg					24414.7					
+10	Delaware	METAM	2003	kg					27875.6					
+10	Delaware	METAM	2004	kg					25355.8					
+10	Delaware	METAM	2006	kg					86.5					
+10	Delaware	METAM	2008	kg							0.8			
+10	Delaware	METAM	2009	kg					105561.6		8.9			
+10	Delaware	METAM	2015	kg							0.1			
+12	Florida	METAM	1992	kg					290104.4				24855.7	
+12	Florida	METAM	1993	kg					212339.4		13714.9			3268.4
+12	Florida	METAM	1994	kg					576043.4					
+12	Florida	METAM	1995	kg					643499.8					
+12	Florida	METAM	1996	kg				45727.6	532615.5					32719.3
+12	Florida	METAM	1997	kg					894441					3294.9
+12	Florida	METAM	1998	kg					744911.4					5177
+12	Florida	METAM	1999	kg					767097.1					
+12	Florida	METAM	2000	kg					522544.1					
+12	Florida	METAM	2001	kg					414743.9					
+12	Florida	METAM	2002	kg					421914					
+12	Florida	METAM	2003	kg					116647.7					
+12	Florida	METAM	2004	kg					232585.2					
+12	Florida	METAM	2005	kg					322186.9					
+12	Florida	METAM	2007	kg					577256.1					
+12	Florida	METAM	2008	kg					161154.5					
+12	Florida	METAM	2009	kg					1082203.5		112110.8			
+12	Florida	METAM	2010	kg					1341496.6					
+12	Florida	METAM	2011	kg					786401.7					
+12	Florida	METAM	2012	kg					124723.8					
+12	Florida	METAM	2013	kg					842941.2					
+12	Florida	METAM	2014	kg					308112					
+12	Florida	METAM	2015	kg					493631.4					16808.5
+12	Florida	METAM	2016	kg					418685.9					142927.1
+12	Florida	METAM	2017	kg					612347.4					
+12	Florida	METAM POTASSIUM	2001	kg					44847.2					
+12	Florida	METAM POTASSIUM	2002	kg					65587.8					
+12	Florida	METAM POTASSIUM	2003	kg					27873.1					
+12	Florida	METAM POTASSIUM	2004	kg					457808.9					
+12	Florida	METAM POTASSIUM	2005	kg					287118.5					
+12	Florida	METAM POTASSIUM	2007	kg					33048.4					
+12	Florida	METAM POTASSIUM	2008	kg					716657.6					
+12	Florida	METAM POTASSIUM	2009	kg					110046.3					
+12	Florida	METAM POTASSIUM	2010	kg					639269					
+12	Florida	METAM POTASSIUM	2011	kg					1151327.1					
+12	Florida	METAM POTASSIUM	2012	kg					2553639.9					
+12	Florida	METAM POTASSIUM	2013	kg					1689021					
+12	Florida	METAM POTASSIUM	2014	kg					1733461					
+12	Florida	METAM POTASSIUM	2015	kg					1563014.9					
+12	Florida	METAM POTASSIUM	2016	kg					1933819.8					
+12	Florida	METAM POTASSIUM	2017	kg					2656797					
+13	Georgia	METAM	1992	kg					173557.3					2222212.2
+13	Georgia	METAM	1993	kg					448.1					189243.6
+13	Georgia	METAM	1994	kg					19622.3					2456919.8
+13	Georgia	METAM	1995	kg										1251897.7
+13	Georgia	METAM	1996	kg				932961.8	46600.2					372414.4
+13	Georgia	METAM	1997	kg										1996248.3
+13	Georgia	METAM	1998	kg										137530.6
+13	Georgia	METAM	1999	kg					163.8					1561415.6
+13	Georgia	METAM	2000	kg					22988					1016536.9
+13	Georgia	METAM	2001	kg					105925.3					1013367.9
+13	Georgia	METAM	2002	kg					37491.7					1169546.7
+13	Georgia	METAM	2003	kg					61006.3					501877.7
+13	Georgia	METAM	2004	kg					313735.6					1853109.6
+13	Georgia	METAM	2005	kg					18332					951002.4
+13	Georgia	METAM	2006	kg										505702.7
+13	Georgia	METAM	2007	kg					387610.6					649088.9
+13	Georgia	METAM	2008	kg					402084.3					95533.1
+13	Georgia	METAM	2009	kg					1139755.4					594274
+13	Georgia	METAM	2010	kg					254060.9					410543.8
+13	Georgia	METAM	2011	kg					495754.1					
+13	Georgia	METAM	2012	kg					782956.5					824487.5
+13	Georgia	METAM	2013	kg					1390816.1					434554.9
+13	Georgia	METAM	2014	kg					1157933					459978
+13	Georgia	METAM	2015	kg					646294.5					104448.2
+13	Georgia	METAM	2016	kg					748201.9					309438.6
+13	Georgia	METAM	2017	kg					943375.5					685470.6
+13	Georgia	METAM POTASSIUM	2012	kg					634346.7					
+13	Georgia	METAM POTASSIUM	2013	kg					255033.7					
+16	Idaho	METAM	1992	kg					995104.9					
+16	Idaho	METAM	1993	kg					1197280.8		2246.3			
+16	Idaho	METAM	1994	kg					4190487.8					
+16	Idaho	METAM	1995	kg					3329806.3					700620.2
+16	Idaho	METAM	1996	kg					6124689.9		14986.1			18768.1
+16	Idaho	METAM	1997	kg					6978320.6		1782.2			
+16	Idaho	METAM	1998	kg					6451254.1		1018.2			
+16	Idaho	METAM	1999	kg					6899097.7					
+16	Idaho	METAM	2000	kg					8750368.4		24.5			
+16	Idaho	METAM	2001	kg					5503665.3		421			
+16	Idaho	METAM	2002	kg					6506660.7		250.1			
+16	Idaho	METAM	2003	kg					2944282.7		1433.6			
+16	Idaho	METAM	2004	kg					9006890.6					
+16	Idaho	METAM	2005	kg					6054815.3		330.2			
+16	Idaho	METAM	2006	kg					4341709.3		1883.8			
+16	Idaho	METAM	2007	kg					4042056.2		51.6			
+16	Idaho	METAM	2008	kg					3710684.4					
+16	Idaho	METAM	2009	kg					3811830.1		143.7			
+16	Idaho	METAM	2010	kg					3697303.6					
+16	Idaho	METAM	2011	kg					2468994.3					
+16	Idaho	METAM	2012	kg					4042904.9					
+16	Idaho	METAM	2013	kg					3270281.3					
+16	Idaho	METAM	2014	kg					7589197.5		439			
+16	Idaho	METAM	2015	kg					6009854.5					
+16	Idaho	METAM	2016	kg					6471600.9					
+16	Idaho	METAM	2017	kg					5086079					
+16	Idaho	METAM POTASSIUM	2000	kg					503122.7					
+16	Idaho	METAM POTASSIUM	2001	kg					190224.4					
+16	Idaho	METAM POTASSIUM	2002	kg					131202.3					
+16	Idaho	METAM POTASSIUM	2003	kg					422190.1					
+16	Idaho	METAM POTASSIUM	2004	kg					655557					
+16	Idaho	METAM POTASSIUM	2006	kg					490953.3					
+16	Idaho	METAM POTASSIUM	2007	kg					2145610.1					
+16	Idaho	METAM POTASSIUM	2008	kg					2820995.8					
+16	Idaho	METAM POTASSIUM	2009	kg					1977353.8					
+16	Idaho	METAM POTASSIUM	2010	kg					3401578.2					
+16	Idaho	METAM POTASSIUM	2011	kg					1995657.2					
+16	Idaho	METAM POTASSIUM	2012	kg					2100029.6					
+16	Idaho	METAM POTASSIUM	2013	kg					2401324.1					
+16	Idaho	METAM POTASSIUM	2014	kg					1476622.8					
+16	Idaho	METAM POTASSIUM	2015	kg					1531905.4					
+16	Idaho	METAM POTASSIUM	2016	kg					1945584.2					
+16	Idaho	METAM POTASSIUM	2017	kg					2586900.3					
+17	Illinois	METAM	1992	kg	41320.5				9138.2					
+17	Illinois	METAM	1995	kg					1150.2					
+17	Illinois	METAM	1996	kg					40.1					
+17	Illinois	METAM	1997	kg					2331					
+17	Illinois	METAM	1998	kg					6376.6					
+17	Illinois	METAM	2000	kg					166614.1					
+17	Illinois	METAM	2001	kg					27531.7					
+17	Illinois	METAM	2006	kg					10535.1					
+17	Illinois	METAM	2007	kg					25385.4					
+17	Illinois	METAM	2008	kg					31755.9					
+17	Illinois	METAM	2009	kg					1690.5					
+17	Illinois	METAM	2010	kg					40111.9					
+17	Illinois	METAM	2011	kg					124224.9					
+17	Illinois	METAM	2012	kg					6433.9					
+17	Illinois	METAM	2013	kg					7757.2					
+17	Illinois	METAM	2017	kg					52851					
+18	Indiana	METAM	1992	kg					35272.7					
+18	Indiana	METAM	1996	kg					20970.2					
+18	Indiana	METAM	1998	kg					177.1					
+18	Indiana	METAM	1999	kg					567.7		1058.6			
+18	Indiana	METAM	2000	kg					8516.4					
+18	Indiana	METAM	2002	kg					28.3					
+18	Indiana	METAM	2003	kg							207481.5			
+18	Indiana	METAM	2006	kg					20777.4					
+18	Indiana	METAM	2007	kg					56757.3		2363.1			
+18	Indiana	METAM	2008	kg					34066.6					
+18	Indiana	METAM	2009	kg					887.6					
+18	Indiana	METAM	2010	kg					27459.7					
+18	Indiana	METAM	2011	kg					92207.2					
+18	Indiana	METAM	2015	kg					193677.3					
+18	Indiana	METAM	2017	kg					17708.1					
+19	Iowa	METAM	1992	kg	26030.7				2638.6					
+19	Iowa	METAM	1998	kg					2354.4					
+19	Iowa	METAM	2001	kg					834.1					
+19	Iowa	METAM	2004	kg					10500.4					
+19	Iowa	METAM	2006	kg					2944.5					
+19	Iowa	METAM	2007	kg					6384.7					
+19	Iowa	METAM	2008	kg					3486.1					
+19	Iowa	METAM	2009	kg					159.7					
+19	Iowa	METAM	2010	kg					3665.8					
+19	Iowa	METAM	2011	kg					9725.5					
+19	Iowa	METAM	2012	kg					1286.3					
+19	Iowa	METAM	2013	kg					600.9					
+19	Iowa	METAM	2017	kg					1574.9					
+21	Kentucky	METAM	1992	kg					388					
+21	Kentucky	METAM	1996	kg					386.6					
+21	Kentucky	METAM	1997	kg					2012.2					
+21	Kentucky	METAM	2006	kg					133.7		979.5			
+21	Kentucky	METAM	2007	kg					883.6					
+21	Kentucky	METAM	2008	kg					214.9					
+21	Kentucky	METAM	2009	kg					7.3					
+21	Kentucky	METAM	2010	kg					147					
+21	Kentucky	METAM	2011	kg					231.5					
+21	Kentucky	METAM	2017	kg					108.9					
+22	Louisiana	METAM	1994	kg				930.2						
+22	Louisiana	METAM POTASSIUM	2006	kg				13063.4						
+22	Louisiana	METAM POTASSIUM	2009	kg				12906.3						
+22	Louisiana	METAM POTASSIUM	2010	kg				25567.3						
+22	Louisiana	METAM POTASSIUM	2012	kg				22553.5						
+23	Maine	METAM	1997	kg					10253.4					
+23	Maine	METAM	2016	kg					180678					
+24	Maryland	METAM	1992	kg					14703.1					
+24	Maryland	METAM	1993	kg					36332.7					
+24	Maryland	METAM	1995	kg							16623.5			
+24	Maryland	METAM	1996	kg					90597.6					
+24	Maryland	METAM	1997	kg					65839.3					
+24	Maryland	METAM	1998	kg					8750.6		1758.4			
+24	Maryland	METAM	2000	kg					53016.9					
+24	Maryland	METAM	2001	kg					9624.1					
+24	Maryland	METAM	2002	kg					23093.9					
+24	Maryland	METAM	2003	kg					43764.6					
+24	Maryland	METAM	2004	kg					42296.5					
+24	Maryland	METAM	2008	kg							714.1			
+24	Maryland	METAM	2009	kg					91425.8					
+24	Maryland	METAM	2012	kg							790.5			
+24	Maryland	METAM	2015	kg							82.1			
+25	Massachusetts	METAM	1993	kg					1925.9					
+25	Massachusetts	METAM	1995	kg	19560.4				2880.8					
+25	Massachusetts	METAM	1997	kg					526.1					
+25	Massachusetts	METAM	2001	kg					11602.4					
+25	Massachusetts	METAM	2002	kg					25572.4					
+25	Massachusetts	METAM	2004	kg					15628.9					
+25	Massachusetts	METAM	2006	kg					9019.1					
+25	Massachusetts	METAM	2008	kg					2845.6					
+25	Massachusetts	METAM	2011	kg					6904.9					
+25	Massachusetts	METAM	2012	kg					8706.4					
+25	Massachusetts	METAM	2014	kg					5356.4					
+26	Michigan	METAM	1992	kg					839206.5					
+26	Michigan	METAM	1993	kg					686505.7					
+26	Michigan	METAM	1994	kg					1738981.8					
+26	Michigan	METAM	1995	kg					465922					
+26	Michigan	METAM	1997	kg					2148481.2					
+26	Michigan	METAM	1998	kg					1086957.9					
+26	Michigan	METAM	1999	kg					724346.3		59810.2			
+26	Michigan	METAM	2000	kg					1375028.7		13995.2			
+26	Michigan	METAM	2001	kg					791146.9					
+26	Michigan	METAM	2002	kg					2060307.9					
+26	Michigan	METAM	2004	kg					325967.8					
+26	Michigan	METAM	2005	kg					678835.2					
+26	Michigan	METAM	2006	kg					713906					
+26	Michigan	METAM	2007	kg					887655.1		130501.7			
+26	Michigan	METAM	2008	kg					1340301		1420.8			
+26	Michigan	METAM	2009	kg					840593.4					
+26	Michigan	METAM	2010	kg					1374972					
+26	Michigan	METAM	2011	kg					3207261.2					
+26	Michigan	METAM	2012	kg					1002778.6		12154.9			
+26	Michigan	METAM	2013	kg					431355.8					
+26	Michigan	METAM	2014	kg					602262.9					
+26	Michigan	METAM	2015	kg					1686178.8					
+26	Michigan	METAM	2017	kg					308004.8					
+26	Michigan	METAM POTASSIUM	2007	kg					3217.5					
+26	Michigan	METAM POTASSIUM	2009	kg					13756.9					
+27	Minnesota	METAM	1992	kg					1665160.7					
+27	Minnesota	METAM	1994	kg					363342					
+27	Minnesota	METAM	1995	kg					110556.8					
+27	Minnesota	METAM	1997	kg					308834.4					
+27	Minnesota	METAM	1998	kg					262831.2					
+27	Minnesota	METAM	2000	kg					557614.1					
+27	Minnesota	METAM	2001	kg					1195672.8					
+27	Minnesota	METAM	2002	kg					56996.8					
+27	Minnesota	METAM	2004	kg					2059941.6					
+27	Minnesota	METAM	2005	kg					103605.7					
+27	Minnesota	METAM	2006	kg					975787.7					
+27	Minnesota	METAM	2007	kg					1426785.2					
+27	Minnesota	METAM	2008	kg					332192.4					
+27	Minnesota	METAM	2009	kg					37581.3					
+27	Minnesota	METAM	2010	kg					32195.6					
+27	Minnesota	METAM	2011	kg					230906.2					
+27	Minnesota	METAM	2012	kg					697235.2					
+27	Minnesota	METAM	2013	kg					364404.1					
+27	Minnesota	METAM	2014	kg					246944.9					
+27	Minnesota	METAM	2015	kg					378734.5					
+27	Minnesota	METAM	2016	kg					443434.8					
+27	Minnesota	METAM	2017	kg					970679.5					
+28	Mississippi	METAM	1993	kg				93617.1						
+28	Mississippi	METAM	1994	kg				1790.4						
+28	Mississippi	METAM	1997	kg		110327.3			28.8					
+28	Mississippi	METAM	1999	kg					7393.6					
+28	Mississippi	METAM	2004	kg					1614					
+28	Mississippi	METAM	2009	kg					24848.2					
+28	Mississippi	METAM POTASSIUM	2006	kg				47829.6						
+28	Mississippi	METAM POTASSIUM	2009	kg				18792.6						
+28	Mississippi	METAM POTASSIUM	2010	kg				43395.5						
+28	Mississippi	METAM POTASSIUM	2012	kg				43698.1						
+29	Missouri	METAM	1992	kg					89520.6					
+29	Missouri	METAM	1994	kg				1167						
+29	Missouri	METAM	1997	kg					448131.7					
+29	Missouri	METAM	2006	kg					93141.6					
+29	Missouri	METAM	2007	kg					185792.7					
+29	Missouri	METAM	2008	kg					48212					
+29	Missouri	METAM	2009	kg					2143.7					
+29	Missouri	METAM	2010	kg					54564.7					
+29	Missouri	METAM	2011	kg					110423.5					
+29	Missouri	METAM	2017	kg					55348.7					
+30	Montana	METAM	1992	kg					19120.1					
+30	Montana	METAM	1993	kg					18059.8					
+30	Montana	METAM	1994	kg					98093.8					
+30	Montana	METAM	1995	kg					39884.5					
+30	Montana	METAM	1996	kg					97119.9					
+30	Montana	METAM	1997	kg					176561.1					
+30	Montana	METAM	1998	kg					113244.1					
+30	Montana	METAM	1999	kg					201716.8					
+30	Montana	METAM	2000	kg					159598					
+30	Montana	METAM	2001	kg					130816.8					
+30	Montana	METAM	2002	kg					155901.7					
+30	Montana	METAM	2003	kg					72892.1					
+30	Montana	METAM	2004	kg					239488.5					
+30	Montana	METAM	2005	kg					98834.3					
+30	Montana	METAM	2006	kg					79252.4					
+30	Montana	METAM	2007	kg					128834.5					
+30	Montana	METAM	2008	kg					53744.2					
+30	Montana	METAM	2009	kg					62052.1					
+30	Montana	METAM	2010	kg					80045.7					
+30	Montana	METAM	2011	kg					52267					
+30	Montana	METAM	2012	kg					80810.1					
+30	Montana	METAM	2013	kg					62311.3					
+30	Montana	METAM	2014	kg					155273.3					
+30	Montana	METAM	2015	kg					169627.3					
+30	Montana	METAM	2016	kg					96036.3					
+30	Montana	METAM	2017	kg					139847.3					
+30	Montana	METAM POTASSIUM	2000	kg					12150.9					
+30	Montana	METAM POTASSIUM	2001	kg					4118.9					
+30	Montana	METAM POTASSIUM	2003	kg					9769.5					
+30	Montana	METAM POTASSIUM	2004	kg					9983.4					
+30	Montana	METAM POTASSIUM	2006	kg					3140.3					
+30	Montana	METAM POTASSIUM	2007	kg					1829.8					
+30	Montana	METAM POTASSIUM	2008	kg					59915.7					
+30	Montana	METAM POTASSIUM	2009	kg					35264.6					
+30	Montana	METAM POTASSIUM	2010	kg					14147.6					
+30	Montana	METAM POTASSIUM	2011	kg					45258.3					
+30	Montana	METAM POTASSIUM	2012	kg					43935.7					
+30	Montana	METAM POTASSIUM	2013	kg					60509.7					
+30	Montana	METAM POTASSIUM	2014	kg					26956.8					
+30	Montana	METAM POTASSIUM	2015	kg					20282.6					
+30	Montana	METAM POTASSIUM	2016	kg					41345					
+30	Montana	METAM POTASSIUM	2017	kg					33448.5					
+31	Nebraska	METAM	1992	kg					271.6					
+31	Nebraska	METAM	2006	kg					287.8					
+31	Nebraska	METAM	2007	kg					821126.7					
+31	Nebraska	METAM	2008	kg					41144.8					
+31	Nebraska	METAM	2009	kg					387363.3					
+31	Nebraska	METAM	2010	kg					33513.3					
+31	Nebraska	METAM	2011	kg					104305.8					
+31	Nebraska	METAM	2017	kg					57571.3					
+31	Nebraska	METAM POTASSIUM	2009	kg					411445.1					
+31	Nebraska	METAM POTASSIUM	2010	kg					290891.5					
+31	Nebraska	METAM POTASSIUM	2012	kg					662033.2					
+31	Nebraska	METAM POTASSIUM	2013	kg					250474.6					
+31	Nebraska	METAM POTASSIUM	2014	kg					448238					
+32	Nevada	METAM	1992	kg					190621					
+32	Nevada	METAM	1993	kg					657514.3		16.6			
+32	Nevada	METAM	1994	kg					68008.8				4.8	
+32	Nevada	METAM	1995	kg					68317.8		30.4			
+32	Nevada	METAM	1996	kg					205072.9					
+32	Nevada	METAM	1997	kg					153126.1					
+32	Nevada	METAM	1998	kg					856864.4					
+32	Nevada	METAM	1999	kg					657163.3					
+32	Nevada	METAM	2000	kg					652734.3					
+32	Nevada	METAM	2001	kg					11473.9					
+32	Nevada	METAM	2002	kg					20128.8					
+32	Nevada	METAM	2003	kg					111881.2					
+32	Nevada	METAM	2004	kg					591589		16.7			
+32	Nevada	METAM	2005	kg					361896.6					
+32	Nevada	METAM	2006	kg					82735.4					
+32	Nevada	METAM	2007	kg					68353.5					
+32	Nevada	METAM	2008	kg					261995.7					
+32	Nevada	METAM	2009	kg					283639.5		1.6			
+32	Nevada	METAM	2010	kg					205199.1		15.1			
+32	Nevada	METAM	2011	kg					152539.6		27.6			
+32	Nevada	METAM	2012	kg					181150.4					
+32	Nevada	METAM	2013	kg					276556.7					
+32	Nevada	METAM	2014	kg					133658.9					
+32	Nevada	METAM	2015	kg					72704.7					
+32	Nevada	METAM	2016	kg					103223.3					
+32	Nevada	METAM	2017	kg					118213.9					
+32	Nevada	METAM POTASSIUM	2000	kg					4946.9					
+32	Nevada	METAM POTASSIUM	2001	kg					1185.1					
+32	Nevada	METAM POTASSIUM	2002	kg					31744.7					
+32	Nevada	METAM POTASSIUM	2003	kg					120273.4					
+32	Nevada	METAM POTASSIUM	2004	kg					70756.5					
+32	Nevada	METAM POTASSIUM	2006	kg					17516.4					
+32	Nevada	METAM POTASSIUM	2007	kg					152355.1					
+32	Nevada	METAM POTASSIUM	2008	kg					77480.6					
+32	Nevada	METAM POTASSIUM	2009	kg					69425.6					
+32	Nevada	METAM POTASSIUM	2010	kg					155396.3					
+32	Nevada	METAM POTASSIUM	2011	kg					16691.2					
+32	Nevada	METAM POTASSIUM	2012	kg					10067.8					
+32	Nevada	METAM POTASSIUM	2013	kg					30688.1					
+32	Nevada	METAM POTASSIUM	2014	kg					53333.9					
+32	Nevada	METAM POTASSIUM	2015	kg					44453.2					
+32	Nevada	METAM POTASSIUM	2016	kg					83681.5					
+32	Nevada	METAM POTASSIUM	2017	kg					50031.3					
+33	New Hampshire	METAM	1995	kg					257					
+33	New Hampshire	METAM	2002	kg					561.6					
+34	New Jersey	METAM	1993	kg					146667.8					
+34	New Jersey	METAM	1994	kg					264633.9					
+34	New Jersey	METAM	1995	kg					171272.6		27952			
+34	New Jersey	METAM	1996	kg					68804.6					
+34	New Jersey	METAM	1997	kg					484953.6					
+34	New Jersey	METAM	1998	kg					274958		5621.2			
+34	New Jersey	METAM	1999	kg					121579.4					
+34	New Jersey	METAM	2001	kg					120236.9					
+34	New Jersey	METAM	2002	kg					43093.3					
+34	New Jersey	METAM	2004	kg					15616.7					
+34	New Jersey	METAM	2006	kg					157388.4					
+34	New Jersey	METAM	2008	kg					88629.8		5020.1			
+34	New Jersey	METAM	2009	kg					292.7		54525.6			
+34	New Jersey	METAM	2010	kg					1044					
+34	New Jersey	METAM	2011	kg					32795.6					
+34	New Jersey	METAM	2012	kg					11687					
+34	New Jersey	METAM	2014	kg					934					
+34	New Jersey	METAM	2015	kg							496.2			
+35	New Mexico	METAM	1992	kg					624797.1					
+35	New Mexico	METAM	1993	kg					26778.3					
+35	New Mexico	METAM	1994	kg					27906.6					
+35	New Mexico	METAM	1995	kg					37676					
+35	New Mexico	METAM	1996	kg					127578		746.2			
+35	New Mexico	METAM	1997	kg					210685.8				5474.3	
+35	New Mexico	METAM	1998	kg					145434.9					
+35	New Mexico	METAM	1999	kg					102496.2					
+35	New Mexico	METAM	2000	kg					71862.5					
+35	New Mexico	METAM	2001	kg					107362.2					24406.3
+35	New Mexico	METAM	2002	kg					112783.6					
+35	New Mexico	METAM	2003	kg					22072.3					
+35	New Mexico	METAM	2004	kg					53904.4					
+35	New Mexico	METAM	2005	kg					200608.1					
+35	New Mexico	METAM	2006	kg					98698.4					
+35	New Mexico	METAM	2007	kg					116302					
+35	New Mexico	METAM	2008	kg					41825					
+35	New Mexico	METAM	2009	kg					46297.4					
+35	New Mexico	METAM	2010	kg					50828.9					
+35	New Mexico	METAM	2011	kg					38715.4					
+35	New Mexico	METAM	2012	kg					41952.8					
+35	New Mexico	METAM	2013	kg					40606.1					
+35	New Mexico	METAM	2014	kg					35525.9					
+35	New Mexico	METAM	2015	kg					35841.8					
+35	New Mexico	METAM	2016	kg					13820.3					
+35	New Mexico	METAM	2017	kg					45241.8					
+35	New Mexico	METAM POTASSIUM	2001	kg					77752.4					
+35	New Mexico	METAM POTASSIUM	2002	kg					6726.1					
+35	New Mexico	METAM POTASSIUM	2004	kg					60013.8					
+35	New Mexico	METAM POTASSIUM	2006	kg					321804					
+35	New Mexico	METAM POTASSIUM	2007	kg					9982.8					
+35	New Mexico	METAM POTASSIUM	2008	kg					48063.5					
+35	New Mexico	METAM POTASSIUM	2010	kg					73848.8					
+35	New Mexico	METAM POTASSIUM	2012	kg					253587					
+35	New Mexico	METAM POTASSIUM	2013	kg					865971.2					
+35	New Mexico	METAM POTASSIUM	2014	kg					502404.6					
+35	New Mexico	METAM POTASSIUM	2015	kg					9307.5					
+35	New Mexico	METAM POTASSIUM	2016	kg					3978.1					
+35	New Mexico	METAM POTASSIUM	2017	kg					8881.6					
+36	New York	METAM	1993	kg					55420.5					
+36	New York	METAM	1994	kg					3097.7					
+36	New York	METAM	1995	kg	43201.3				8027.1		183422.9			
+36	New York	METAM	1996	kg					87121.4					
+36	New York	METAM	1997	kg					2116.5		6293.6			
+36	New York	METAM	1998	kg					37318.5		48693.9			
+36	New York	METAM	1999	kg					39834.5					
+36	New York	METAM	2000	kg					82312.8					
+36	New York	METAM	2001	kg					36101.8					
+36	New York	METAM	2002	kg					24745.8					
+36	New York	METAM	2004	kg					197672.9					
+36	New York	METAM	2006	kg					62716.9		95200.6			
+36	New York	METAM	2007	kg					11180.9					
+36	New York	METAM	2008	kg					6934.7					
+36	New York	METAM	2009	kg					24067.5					
+36	New York	METAM	2010	kg					47374.3					
+36	New York	METAM	2011	kg					100568.7					
+36	New York	METAM	2012	kg					47013					
+36	New York	METAM	2013	kg					976.4					
+36	New York	METAM	2014	kg					23090.9					
+37	North Carolina	METAM	1992	kg										741753.2
+37	North Carolina	METAM	1993	kg										414725.8
+37	North Carolina	METAM	1994	kg				156512						865467.8
+37	North Carolina	METAM	1995	kg										505832.6
+37	North Carolina	METAM	1996	kg				247803.3						250221.1
+37	North Carolina	METAM	1997	kg				80297.9						909286.9
+37	North Carolina	METAM	1998	kg										314643.5
+37	North Carolina	METAM	1999	kg					25234.3					201289.7
+37	North Carolina	METAM	2000	kg										373843.7
+37	North Carolina	METAM	2001	kg										66479
+37	North Carolina	METAM	2002	kg					227150.3					116821.1
+37	North Carolina	METAM	2003	kg					302024.1					305138.1
+37	North Carolina	METAM	2004	kg					3572.2					572091.2
+37	North Carolina	METAM	2005	kg										324507.1
+37	North Carolina	METAM	2006	kg							910.1			80173.1
+37	North Carolina	METAM	2007	kg										125679.1
+37	North Carolina	METAM	2008	kg										12035.9
+37	North Carolina	METAM	2009	kg					177792.4					85264.5
+37	North Carolina	METAM	2010	kg										253035.7
+37	North Carolina	METAM	2011	kg					66839.9					340693.4
+37	North Carolina	METAM	2012	kg					119066.1					122225.7
+37	North Carolina	METAM	2013	kg					171988.7					120786.3
+37	North Carolina	METAM	2014	kg					298468.6					88251.7
+37	North Carolina	METAM	2015	kg					5149.5					
+37	North Carolina	METAM	2016	kg										91099.1
+37	North Carolina	METAM	2017	kg										191144.8
+37	North Carolina	METAM POTASSIUM	2005	kg										24343.7
+37	North Carolina	METAM POTASSIUM	2014	kg										38547.5
+38	North Dakota	METAM	2000	kg					118775.5					
+38	North Dakota	METAM	2001	kg					232758.9					
+38	North Dakota	METAM	2002	kg					26553.2					
+38	North Dakota	METAM	2004	kg					372748.1					
+38	North Dakota	METAM	2006	kg					765257.3					
+38	North Dakota	METAM	2009	kg					90920.6					
+38	North Dakota	METAM	2011	kg					738075.1					
+38	North Dakota	METAM	2016	kg					1883485.2					
+38	North Dakota	METAM	2017	kg					855513.1					
+38	North Dakota	METAM POTASSIUM	2017	kg					4363579.4					
+39	Ohio	METAM	1992	kg					5046.9					
+39	Ohio	METAM	1995	kg							39302.7			
+39	Ohio	METAM	1999	kg					461.7					
+39	Ohio	METAM	2002	kg					20.3					
+39	Ohio	METAM	2003	kg							110678.3			
+39	Ohio	METAM	2006	kg					42482.3					
+39	Ohio	METAM	2007	kg					65361.5					
+39	Ohio	METAM	2008	kg					25247.5					
+39	Ohio	METAM	2009	kg					406.9					
+39	Ohio	METAM	2010	kg					10797.1					
+39	Ohio	METAM	2011	kg					27670.5					
+39	Ohio	METAM	2015	kg					43172					
+39	Ohio	METAM	2017	kg					737.4					
+41	Oregon	METAM	1992	kg					273096.8		590.7			
+41	Oregon	METAM	1993	kg					1509302.9		4077			
+41	Oregon	METAM	1994	kg					988530.3		3838.1			
+41	Oregon	METAM	1995	kg					735208					63951.3
+41	Oregon	METAM	1996	kg					2852317.4		108549.3			
+41	Oregon	METAM	1997	kg					2511796.7		68467.2			
+41	Oregon	METAM	1998	kg					1187370.4		11202.6			
+41	Oregon	METAM	1999	kg					1196743.4		257.9			
+41	Oregon	METAM	2000	kg					2003318.1		5602.2			
+41	Oregon	METAM	2001	kg					1976288.1		862.1			
+41	Oregon	METAM	2002	kg					1169813.8		316.8			
+41	Oregon	METAM	2003	kg					1835903.7		3886.7			
+41	Oregon	METAM	2004	kg					1986909.5					
+41	Oregon	METAM	2005	kg					1816512.9		322.8			
+41	Oregon	METAM	2006	kg					854460.9		5339.7			
+41	Oregon	METAM	2007	kg					2445240		4585.4			
+41	Oregon	METAM	2008	kg					1810043		421.7			
+41	Oregon	METAM	2009	kg					1360705.4		132.9			
+41	Oregon	METAM	2010	kg					1035960.8		1693.4			
+41	Oregon	METAM	2011	kg					1463245.9		4389.9			
+41	Oregon	METAM	2012	kg					1914877.5					
+41	Oregon	METAM	2013	kg					2588765.2					
+41	Oregon	METAM	2014	kg					1948086.5		1443.6			
+41	Oregon	METAM	2015	kg					1517932.6					
+41	Oregon	METAM	2016	kg					1758158.9					
+41	Oregon	METAM	2017	kg					2712178.7					
+41	Oregon	METAM POTASSIUM	2000	kg					206058.9					
+41	Oregon	METAM POTASSIUM	2001	kg					13977.5					
+41	Oregon	METAM POTASSIUM	2002	kg					243584.9					
+41	Oregon	METAM POTASSIUM	2003	kg					331480.4					
+41	Oregon	METAM POTASSIUM	2004	kg					835099.6					
+41	Oregon	METAM POTASSIUM	2006	kg					96275.8					
+41	Oregon	METAM POTASSIUM	2007	kg					720726.3					
+41	Oregon	METAM POTASSIUM	2008	kg					601557.3					
+41	Oregon	METAM POTASSIUM	2009	kg					497337.1					
+41	Oregon	METAM POTASSIUM	2010	kg					929120.8					
+41	Oregon	METAM POTASSIUM	2012	kg					68793					
+41	Oregon	METAM POTASSIUM	2013	kg					205565.5					
+41	Oregon	METAM POTASSIUM	2014	kg					784228.5					
+41	Oregon	METAM POTASSIUM	2015	kg					536330.8					
+41	Oregon	METAM POTASSIUM	2016	kg					619846.4					
+41	Oregon	METAM POTASSIUM	2017	kg					747227.9					
+42	Pennsylvania	METAM	1993	kg					15460.1					
+42	Pennsylvania	METAM	1994	kg					5041.1					
+42	Pennsylvania	METAM	1995	kg					10764.8		248561.5			
+42	Pennsylvania	METAM	1996	kg					2601.6					
+42	Pennsylvania	METAM	1997	kg					40267.2					
+42	Pennsylvania	METAM	1998	kg					160438.8		15007.9			
+42	Pennsylvania	METAM	1999	kg					4344.3					
+42	Pennsylvania	METAM	2000	kg					31177.5					
+42	Pennsylvania	METAM	2001	kg					53338.2					
+42	Pennsylvania	METAM	2002	kg					15254.4					
+42	Pennsylvania	METAM	2003	kg					7046.7					
+42	Pennsylvania	METAM	2004	kg					50872.9					
+42	Pennsylvania	METAM	2006	kg					32314					
+42	Pennsylvania	METAM	2007	kg					3884.5					
+42	Pennsylvania	METAM	2008	kg					12106		3933.6			
+42	Pennsylvania	METAM	2009	kg					2857		8013.7			
+42	Pennsylvania	METAM	2010	kg					3106.9					
+42	Pennsylvania	METAM	2011	kg					15599.9					
+42	Pennsylvania	METAM	2012	kg					23414.9		9361.6			
+42	Pennsylvania	METAM	2013	kg					1548.7					
+42	Pennsylvania	METAM	2014	kg					6358.2					
+42	Pennsylvania	METAM	2015	kg							594.1			
+44	Rhode Island	METAM	1995	kg	2165.5				315.3					
+44	Rhode Island	METAM	1997	kg					85.7					
+44	Rhode Island	METAM	2002	kg					4224.1					
+44	Rhode Island	METAM	2004	kg					2900.7					
+44	Rhode Island	METAM	2006	kg					1506.9					
+44	Rhode Island	METAM	2008	kg					474.1					
+44	Rhode Island	METAM	2011	kg					825.3					
+44	Rhode Island	METAM	2012	kg					1574.1					
+45	South Carolina	METAM	1992	kg										94560.1
+45	South Carolina	METAM	1993	kg										41447.7
+45	South Carolina	METAM	1994	kg										112651.5
+45	South Carolina	METAM	1995	kg										60006
+45	South Carolina	METAM	1996	kg				273212.4						22251.5
+45	South Carolina	METAM	1997	kg										169939.1
+45	South Carolina	METAM	1998	kg										98144.1
+45	South Carolina	METAM	1999	kg					3294.3					70851.4
+45	South Carolina	METAM	2000	kg					1.4					41760.9
+45	South Carolina	METAM	2001	kg					3.7					49441
+45	South Carolina	METAM	2002	kg					12494.1					77292.1
+45	South Carolina	METAM	2003	kg					14367.1					28795.6
+45	South Carolina	METAM	2004	kg					214.7					109085
+45	South Carolina	METAM	2005	kg					1.5					58728
+45	South Carolina	METAM	2006	kg										37784.5
+45	South Carolina	METAM	2007	kg										53470.1
+45	South Carolina	METAM	2008	kg					2223.4					8172.6
+45	South Carolina	METAM	2009	kg					225605					52529.3
+45	South Carolina	METAM	2010	kg										147976.7
+45	South Carolina	METAM	2011	kg					31243.8					165225
+45	South Carolina	METAM	2012	kg					55465.3					100692.1
+45	South Carolina	METAM	2013	kg					54414					83268.9
+45	South Carolina	METAM	2014	kg					1295.5					67205.3
+45	South Carolina	METAM	2015	kg					225822.5					
+45	South Carolina	METAM	2016	kg										62600.5
+45	South Carolina	METAM	2017	kg										163623.9
+46	South Dakota	METAM	1992	kg					426.8					
+46	South Dakota	METAM	2000	kg					24656.3					
+46	South Dakota	METAM	2001	kg					49138.6					
+46	South Dakota	METAM	2002	kg					10241.3					
+46	South Dakota	METAM	2004	kg					77304.5					
+46	South Dakota	METAM	2006	kg					452.4					
+46	South Dakota	METAM	2007	kg					873.8					
+46	South Dakota	METAM	2008	kg					6562					
+46	South Dakota	METAM	2009	kg					2036.8					
+46	South Dakota	METAM	2010	kg					3234.9					
+46	South Dakota	METAM	2011	kg					4230.4					
+46	South Dakota	METAM	2017	kg					1116.3					
+47	Tennessee	METAM	1993	kg				38393.8	1205.5					
+47	Tennessee	METAM	1994	kg				601.9	1439.9					
+47	Tennessee	METAM	1997	kg					5892.6					
+47	Tennessee	METAM	1999	kg					17760.2					
+47	Tennessee	METAM	2006	kg							1267.9			
+48	Texas	METAM	1992	kg					391662.2				33086	
+48	Texas	METAM	1993	kg					29298.9					
+48	Texas	METAM	1994	kg					54410.7					
+48	Texas	METAM	1995	kg					21455.9					
+48	Texas	METAM	1997	kg					63528.7					
+48	Texas	METAM	1998	kg					145142.3					
+48	Texas	METAM	2001	kg					7547.8					150127.6
+48	Texas	METAM	2007	kg					18550.9					
+48	Texas	METAM	2013	kg					70289.4					
+48	Texas	METAM POTASSIUM	2001	kg					1544.4					
+48	Texas	METAM POTASSIUM	2008	kg					10844					
+49	Utah	METAM	1992	kg					21546.7					
+49	Utah	METAM	1993	kg					10364.8		16291.1			
+49	Utah	METAM	1994	kg					16120.4					
+49	Utah	METAM	1995	kg					21984		1775.2			
+49	Utah	METAM	1996	kg					22753.8		44.4			
+49	Utah	METAM	1997	kg					14556.9					
+49	Utah	METAM	1998	kg					22861.6					
+49	Utah	METAM	1999	kg					21546					
+49	Utah	METAM	2000	kg					18038.5		2293.3			
+49	Utah	METAM	2001	kg					10180.7					
+49	Utah	METAM	2002	kg					10188.2					
+49	Utah	METAM	2003	kg					4321.5					
+49	Utah	METAM	2004	kg					11162.3		31825.4			
+49	Utah	METAM	2005	kg					7024.4					
+49	Utah	METAM	2006	kg					3636.2					
+49	Utah	METAM	2007	kg					1805.7					
+49	Utah	METAM	2008	kg					3265.4					
+49	Utah	METAM	2009	kg					5930.4					
+49	Utah	METAM	2010	kg					9265					
+49	Utah	METAM	2011	kg					4165.3					
+49	Utah	METAM	2012	kg					8302.4					
+49	Utah	METAM	2013	kg					12752.7					
+49	Utah	METAM	2014	kg					12958.8					
+49	Utah	METAM	2015	kg					12394.9					
+49	Utah	METAM	2016	kg					3767.5					
+49	Utah	METAM	2017	kg					5297.5					
+49	Utah	METAM POTASSIUM	2000	kg					934.7					
+49	Utah	METAM POTASSIUM	2001	kg					53.8					
+49	Utah	METAM POTASSIUM	2003	kg					543.8					
+49	Utah	METAM POTASSIUM	2004	kg					2922					
+49	Utah	METAM POTASSIUM	2006	kg					530.9					
+49	Utah	METAM POTASSIUM	2007	kg					1539.1					
+49	Utah	METAM POTASSIUM	2008	kg					3813.9					
+49	Utah	METAM POTASSIUM	2009	kg					3591.4					
+49	Utah	METAM POTASSIUM	2010	kg					12783.7					
+49	Utah	METAM POTASSIUM	2011	kg					3454.7					
+49	Utah	METAM POTASSIUM	2012	kg					4075.9					
+49	Utah	METAM POTASSIUM	2013	kg					6313.4					
+49	Utah	METAM POTASSIUM	2014	kg					2172.4					
+49	Utah	METAM POTASSIUM	2015	kg					3986.7					
+49	Utah	METAM POTASSIUM	2016	kg					2343.7					
+49	Utah	METAM POTASSIUM	2017	kg					4502.1					
+50	Vermont	METAM	1995	kg					403.7		32191.1			
+50	Vermont	METAM	1997	kg					219.5		1230.8			
+50	Vermont	METAM	2001	kg					6905.6					
+50	Vermont	METAM	2002	kg					1277.6					
+50	Vermont	METAM	2004	kg					10023.6					
+50	Vermont	METAM	2006	kg					5314.6					
+50	Vermont	METAM	2007	kg					1578.7					
+50	Vermont	METAM	2008	kg					1614.9					
+50	Vermont	METAM	2011	kg					4145.9					
+50	Vermont	METAM	2012	kg					5336.3					
+50	Vermont	METAM	2014	kg					3159.6					
+51	Virginia	METAM	1992	kg					60527.3					220965.9
+51	Virginia	METAM	1993	kg					166425.1					103151.5
+51	Virginia	METAM	1994	kg				18258.4						636918.2
+51	Virginia	METAM	1995	kg										432651.4
+51	Virginia	METAM	1996	kg				38740.1	213760.1					656258.1
+51	Virginia	METAM	1997	kg				14343.6	175268.5					501699.3
+51	Virginia	METAM	1998	kg										313925.7
+51	Virginia	METAM	1999	kg										328734.9
+51	Virginia	METAM	2000	kg					15967.6					486705.3
+51	Virginia	METAM	2001	kg										271083.6
+51	Virginia	METAM	2002	kg					36514.7					239851.9
+51	Virginia	METAM	2003	kg					24213					106557.1
+51	Virginia	METAM	2004	kg										27203.8
+51	Virginia	METAM	2005	kg										81876.8
+51	Virginia	METAM	2006	kg							5358.3			85101.2
+51	Virginia	METAM	2007	kg										78769.2
+51	Virginia	METAM	2008	kg										110668.5
+51	Virginia	METAM	2009	kg					13862					17503.8
+51	Virginia	METAM	2010	kg										13463.6
+51	Virginia	METAM	2011	kg										14434.8
+51	Virginia	METAM	2012	kg										4406
+51	Virginia	METAM	2013	kg										16887.3
+51	Virginia	METAM	2014	kg										12209.3
+51	Virginia	METAM	2016	kg										13894.1
+51	Virginia	METAM	2017	kg										28359.6
+51	Virginia	METAM POTASSIUM	2005	kg										8735.3
+51	Virginia	METAM POTASSIUM	2014	kg										9481.2
+53	Washington	METAM	1992	kg	55508.9				2804093.5		356.3			
+53	Washington	METAM	1993	kg					5512016.4		66515.7			
+53	Washington	METAM	1994	kg					2650117.9		87807.2			
+53	Washington	METAM	1995	kg					8642070.4		176645.1			
+53	Washington	METAM	1996	kg					10336856.5		759635			358470.3
+53	Washington	METAM	1997	kg					5073994.6		97537.6			
+53	Washington	METAM	1998	kg					5368743.5		51034.6			
+53	Washington	METAM	1999	kg					6206219.5		8821.6			
+53	Washington	METAM	2000	kg					5343703.5		19131.1			
+53	Washington	METAM	2001	kg					7219081.4		39772.2			
+53	Washington	METAM	2002	kg					4696747.7		12388.5			
+53	Washington	METAM	2003	kg					6942663.1		209251.3			
+53	Washington	METAM	2004	kg					8135128.2		22674.8			
+53	Washington	METAM	2005	kg					6952483.1		15698.1			
+53	Washington	METAM	2006	kg					9789629.3		85781.6			
+53	Washington	METAM	2007	kg					9803457.5		18790.2			
+53	Washington	METAM	2008	kg					5541318.5		24876.6			
+53	Washington	METAM	2009	kg					3443913.5		7617.8			
+53	Washington	METAM	2010	kg					5202043.6		49129.7			
+53	Washington	METAM	2011	kg					6710823.3		9896.2			
+53	Washington	METAM	2012	kg					3928204.5					
+53	Washington	METAM	2013	kg					6979513.6		58806.6			
+53	Washington	METAM	2014	kg					3229490		36549.8			
+53	Washington	METAM	2015	kg					7182723.7					
+53	Washington	METAM	2016	kg					9103080.6					
+53	Washington	METAM	2017	kg					8543995.2					
+53	Washington	METAM POTASSIUM	2000	kg					181813.2					
+53	Washington	METAM POTASSIUM	2002	kg					44364.6					
+53	Washington	METAM POTASSIUM	2003	kg					227067.7					
+53	Washington	METAM POTASSIUM	2004	kg					474244.1					
+53	Washington	METAM POTASSIUM	2006	kg					456389.5					
+53	Washington	METAM POTASSIUM	2007	kg					626825.9					
+53	Washington	METAM POTASSIUM	2008	kg					1368348					
+53	Washington	METAM POTASSIUM	2009	kg					4705500					
+53	Washington	METAM POTASSIUM	2010	kg					2933717					
+53	Washington	METAM POTASSIUM	2011	kg					1877689.6					
+53	Washington	METAM POTASSIUM	2012	kg					5834671					
+53	Washington	METAM POTASSIUM	2013	kg					4809449.8		4785.4			
+53	Washington	METAM POTASSIUM	2014	kg					3223834.3					
+53	Washington	METAM POTASSIUM	2015	kg					655673.9					
+53	Washington	METAM POTASSIUM	2016	kg					1880755.6					
+53	Washington	METAM POTASSIUM	2017	kg					944047.3					
+54	West Virginia	METAM	2006	kg							11165.8			
+55	Wisconsin	METAM	1992	kg	9184.8				1017138.8					
+55	Wisconsin	METAM	1993	kg					1198545.8					
+55	Wisconsin	METAM	1994	kg					2085609.5					
+55	Wisconsin	METAM	1995	kg		72147.2			872774.1					
+55	Wisconsin	METAM	1996	kg					1216444.1					
+55	Wisconsin	METAM	1997	kg					822167.9					
+55	Wisconsin	METAM	1998	kg					1555642.6					
+55	Wisconsin	METAM	1999	kg					42253.5					
+55	Wisconsin	METAM	2000	kg					2223520					
+55	Wisconsin	METAM	2001	kg					1397471.4					
+55	Wisconsin	METAM	2002	kg					1315770.8					
+55	Wisconsin	METAM	2003	kg					819498.2					
+55	Wisconsin	METAM	2004	kg					1124037.7					
+55	Wisconsin	METAM	2005	kg					737341.8					
+55	Wisconsin	METAM	2006	kg					438755.1					
+55	Wisconsin	METAM	2007	kg					1266931.3					
+55	Wisconsin	METAM	2008	kg					1458110					
+55	Wisconsin	METAM	2009	kg					667895.9					
+55	Wisconsin	METAM	2010	kg					1548144.8					
+55	Wisconsin	METAM	2011	kg					892149.4					
+55	Wisconsin	METAM	2012	kg					986309.1					
+55	Wisconsin	METAM	2013	kg					1322788.1					
+55	Wisconsin	METAM	2014	kg					1466766.5					
+55	Wisconsin	METAM	2015	kg					845015.9					
+55	Wisconsin	METAM	2016	kg					1662635.6					
+55	Wisconsin	METAM	2017	kg					1523405.6					
+55	Wisconsin	METAM POTASSIUM	2007	kg					65125					
+55	Wisconsin	METAM POTASSIUM	2013	kg					48349.4					
+55	Wisconsin	METAM POTASSIUM	2014	kg					91087.7					
+56	Wyoming	METAM	1992	kg					6.7					
+56	Wyoming	METAM	1993	kg					6.8					
+56	Wyoming	METAM	1994	kg					33.2					
+56	Wyoming	METAM	1995	kg					13.7					
+56	Wyoming	METAM	1996	kg					33.2					
+56	Wyoming	METAM	1997	kg					52.7					
+56	Wyoming	METAM	1998	kg					38.3					
+56	Wyoming	METAM	1999	kg					66.6					
+56	Wyoming	METAM	2000	kg					54.8					
+56	Wyoming	METAM	2001	kg					49.1					
+56	Wyoming	METAM	2002	kg					49.1					
+56	Wyoming	METAM	2003	kg					26					
+56	Wyoming	METAM	2004	kg					86.5					
+56	Wyoming	METAM	2005	kg					35.6					
+56	Wyoming	METAM	2006	kg					28.5					
+56	Wyoming	METAM	2007	kg					37.6					
+56	Wyoming	METAM	2008	kg					37.1					
+56	Wyoming	METAM	2009	kg					77.6					
+56	Wyoming	METAM	2010	kg					134.4					
+56	Wyoming	METAM	2011	kg					114					
+56	Wyoming	METAM	2012	kg					144.1					
+56	Wyoming	METAM	2013	kg					88.3					
+56	Wyoming	METAM	2014	kg					166.9					
+56	Wyoming	METAM	2015	kg					112.4					
+56	Wyoming	METAM	2016	kg					31.2					
+56	Wyoming	METAM POTASSIUM	2000	kg					4.2					
+56	Wyoming	METAM POTASSIUM	2001	kg					1.5					
+56	Wyoming	METAM POTASSIUM	2003	kg					3.5					
+56	Wyoming	METAM POTASSIUM	2004	kg					3.6					
+56	Wyoming	METAM POTASSIUM	2006	kg					1.1					
+56	Wyoming	METAM POTASSIUM	2007	kg					0.5					
+56	Wyoming	METAM POTASSIUM	2008	kg					41.4					
+56	Wyoming	METAM POTASSIUM	2009	kg					32.7					
+56	Wyoming	METAM POTASSIUM	2010	kg					16.2					
+56	Wyoming	METAM POTASSIUM	2011	kg					64.3					
+56	Wyoming	METAM POTASSIUM	2012	kg					78.5					
+56	Wyoming	METAM POTASSIUM	2013	kg					85.7					
+56	Wyoming	METAM POTASSIUM	2014	kg					29					
+56	Wyoming	METAM POTASSIUM	2015	kg					13.4					
+56	Wyoming	METAM POTASSIUM	2016	kg					13.4					

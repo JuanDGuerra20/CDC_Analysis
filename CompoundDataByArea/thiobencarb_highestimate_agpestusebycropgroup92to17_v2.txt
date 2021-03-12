@@ -1,0 +1,200 @@
+01	Alabama	THIOBENCARB	1994	kg				9294						4432.2
+05	Arkansas	THIOBENCARB	1992	kg						280548.9				
+05	Arkansas	THIOBENCARB	1993	kg						254822.4				
+05	Arkansas	THIOBENCARB	1994	kg						268846.5				2016.4
+05	Arkansas	THIOBENCARB	1995	kg						296089.9				
+05	Arkansas	THIOBENCARB	1996	kg						217127.8				
+05	Arkansas	THIOBENCARB	1997	kg						402908.9				
+05	Arkansas	THIOBENCARB	1998	kg						185193.6				
+05	Arkansas	THIOBENCARB	1999	kg						182672.3				
+05	Arkansas	THIOBENCARB	2000	kg						60786.4				
+05	Arkansas	THIOBENCARB	2001	kg						29360.9				
+05	Arkansas	THIOBENCARB	2002	kg						12216.1				
+05	Arkansas	THIOBENCARB	2003	kg						35008.7				
+05	Arkansas	THIOBENCARB	2004	kg						52691.5				
+05	Arkansas	THIOBENCARB	2006	kg						44251.6				
+05	Arkansas	THIOBENCARB	2007	kg						43577				
+05	Arkansas	THIOBENCARB	2008	kg						233076.7				
+05	Arkansas	THIOBENCARB	2009	kg						38980.6				
+05	Arkansas	THIOBENCARB	2010	kg						80504.7				
+05	Arkansas	THIOBENCARB	2011	kg						76777.4				
+05	Arkansas	THIOBENCARB	2012	kg						77235.3				
+05	Arkansas	THIOBENCARB	2013	kg						210098.3				
+05	Arkansas	THIOBENCARB	2014	kg						165241.4				
+05	Arkansas	THIOBENCARB	2015	kg						247488.6				
+05	Arkansas	THIOBENCARB	2016	kg						544229.6				
+05	Arkansas	THIOBENCARB	2017	kg						422158.3				
+06	California	THIOBENCARB	1992	kg						85139.4				
+06	California	THIOBENCARB	1993	kg						119681.6				
+06	California	THIOBENCARB	1994	kg						186423.6				
+06	California	THIOBENCARB	1995	kg				394.9	4978.6	260575.1				
+06	California	THIOBENCARB	1996	kg						289464.7				
+06	California	THIOBENCARB	1997	kg						411720.4				
+06	California	THIOBENCARB	1998	kg						329568.9				10
+06	California	THIOBENCARB	1999	kg						332653.2	39.7	125.4		181.4
+06	California	THIOBENCARB	2000	kg				21.7		415451.1				
+06	California	THIOBENCARB	2001	kg					14.3	292804.5				
+06	California	THIOBENCARB	2002	kg					348.3	382247.2				
+06	California	THIOBENCARB	2003	kg						265219.8	0.9	13.4		
+06	California	THIOBENCARB	2004	kg						236211.7				
+06	California	THIOBENCARB	2005	kg						202939.2				
+06	California	THIOBENCARB	2006	kg						140746.2				
+06	California	THIOBENCARB	2007	kg						131080.5	5.6			
+06	California	THIOBENCARB	2008	kg						115554.1				
+06	California	THIOBENCARB	2009	kg			16.3			126425.6	1.2	58.6		
+06	California	THIOBENCARB	2010	kg						117189.2				
+06	California	THIOBENCARB	2011	kg						111985.2				
+06	California	THIOBENCARB	2012	kg						125509.4				
+06	California	THIOBENCARB	2013	kg						131185.7				190.2
+06	California	THIOBENCARB	2014	kg						169341.1				
+06	California	THIOBENCARB	2015	kg			47.5			237309.5				
+06	California	THIOBENCARB	2016	kg						316743.9			28.5	
+06	California	THIOBENCARB	2017	kg						273301.3	1.8			
+09	Connecticut	THIOBENCARB	1994	kg					388.6					
+09	Connecticut	THIOBENCARB	1995	kg					369.8					
+09	Connecticut	THIOBENCARB	1997	kg					22					
+12	Florida	THIOBENCARB	1992	kg					29102.6					
+12	Florida	THIOBENCARB	1993	kg					32068.2					
+12	Florida	THIOBENCARB	1994	kg				2444.5						1232.9
+12	Florida	THIOBENCARB	1996	kg	1307.7									
+13	Georgia	THIOBENCARB	1994	kg				10725.6						9237.9
+13	Georgia	THIOBENCARB	1996	kg	6259.8									
+22	Louisiana	THIOBENCARB	1992	kg						29544.2				
+22	Louisiana	THIOBENCARB	1993	kg						136801.2				
+22	Louisiana	THIOBENCARB	1994	kg						74694.4				790
+22	Louisiana	THIOBENCARB	1995	kg						11229.6				
+22	Louisiana	THIOBENCARB	1996	kg						54412.9				
+22	Louisiana	THIOBENCARB	1997	kg						13763.6				
+22	Louisiana	THIOBENCARB	1998	kg						6561.6				
+22	Louisiana	THIOBENCARB	1999	kg						12665.7				
+22	Louisiana	THIOBENCARB	2000	kg						15540				
+22	Louisiana	THIOBENCARB	2001	kg						28173.7				
+22	Louisiana	THIOBENCARB	2002	kg						16570.2				
+22	Louisiana	THIOBENCARB	2003	kg						24511.4				
+22	Louisiana	THIOBENCARB	2004	kg						17177.8				
+22	Louisiana	THIOBENCARB	2005	kg						6394.2				
+22	Louisiana	THIOBENCARB	2006	kg						3253.1				
+22	Louisiana	THIOBENCARB	2007	kg						33593.6				
+22	Louisiana	THIOBENCARB	2008	kg						60925				
+22	Louisiana	THIOBENCARB	2009	kg						8132.5				
+22	Louisiana	THIOBENCARB	2010	kg						28173.1				
+22	Louisiana	THIOBENCARB	2011	kg						158560.6				
+22	Louisiana	THIOBENCARB	2012	kg						7402.3				
+22	Louisiana	THIOBENCARB	2013	kg						115255.5				
+22	Louisiana	THIOBENCARB	2014	kg						23433.1				
+22	Louisiana	THIOBENCARB	2015	kg						51959.1				
+22	Louisiana	THIOBENCARB	2016	kg						76269.6				
+22	Louisiana	THIOBENCARB	2017	kg						40781.9				
+25	Massachusetts	THIOBENCARB	1994	kg					852.1					
+25	Massachusetts	THIOBENCARB	1995	kg					739.4					
+25	Massachusetts	THIOBENCARB	1997	kg					41.8					
+28	Mississippi	THIOBENCARB	1992	kg						103488.5				
+28	Mississippi	THIOBENCARB	1993	kg						51076.4				
+28	Mississippi	THIOBENCARB	1994	kg						101683.1				8391.7
+28	Mississippi	THIOBENCARB	1995	kg						100653.1				
+28	Mississippi	THIOBENCARB	1996	kg						20360.7				
+28	Mississippi	THIOBENCARB	1997	kg						13533				
+28	Mississippi	THIOBENCARB	1998	kg						54557.1				
+28	Mississippi	THIOBENCARB	1999	kg						11696.2				
+28	Mississippi	THIOBENCARB	2000	kg						4667.7				
+28	Mississippi	THIOBENCARB	2001	kg						6264				
+28	Mississippi	THIOBENCARB	2002	kg						1441.6				
+28	Mississippi	THIOBENCARB	2003	kg						6494				
+28	Mississippi	THIOBENCARB	2004	kg						20300.8				
+28	Mississippi	THIOBENCARB	2006	kg						3784.9				
+28	Mississippi	THIOBENCARB	2007	kg						72657.8				
+28	Mississippi	THIOBENCARB	2008	kg						37894.9				
+28	Mississippi	THIOBENCARB	2009	kg						74228				
+28	Mississippi	THIOBENCARB	2010	kg						5627.2				
+28	Mississippi	THIOBENCARB	2011	kg						8699.2				
+28	Mississippi	THIOBENCARB	2012	kg						6313.9				
+28	Mississippi	THIOBENCARB	2013	kg						18915.7				
+28	Mississippi	THIOBENCARB	2014	kg						6739.3				
+28	Mississippi	THIOBENCARB	2015	kg						29878				
+28	Mississippi	THIOBENCARB	2016	kg						16242.3				
+28	Mississippi	THIOBENCARB	2017	kg						33900.2				
+29	Missouri	THIOBENCARB	1992	kg						62430.6				
+29	Missouri	THIOBENCARB	1993	kg						46465.9				
+29	Missouri	THIOBENCARB	1994	kg						10435.7				
+29	Missouri	THIOBENCARB	1995	kg						37431.6				
+29	Missouri	THIOBENCARB	1996	kg						33038.4				
+29	Missouri	THIOBENCARB	1997	kg						21830.7				
+29	Missouri	THIOBENCARB	1998	kg						30944.9				
+29	Missouri	THIOBENCARB	1999	kg						55126.3				
+29	Missouri	THIOBENCARB	2000	kg						611.2				
+29	Missouri	THIOBENCARB	2001	kg						2885.6				
+29	Missouri	THIOBENCARB	2002	kg						596.7				
+29	Missouri	THIOBENCARB	2003	kg						14066.6				
+29	Missouri	THIOBENCARB	2004	kg						117				
+29	Missouri	THIOBENCARB	2006	kg						1304				
+29	Missouri	THIOBENCARB	2007	kg						16678.6				
+29	Missouri	THIOBENCARB	2008	kg						34627.2				
+29	Missouri	THIOBENCARB	2009	kg						39448.6				
+29	Missouri	THIOBENCARB	2010	kg						2211.7				
+29	Missouri	THIOBENCARB	2011	kg						81665.6				
+29	Missouri	THIOBENCARB	2012	kg						182820				
+29	Missouri	THIOBENCARB	2013	kg						29442.6				
+29	Missouri	THIOBENCARB	2014	kg						156488.3				
+29	Missouri	THIOBENCARB	2015	kg						66888.7				
+29	Missouri	THIOBENCARB	2016	kg						123117.5				
+29	Missouri	THIOBENCARB	2017	kg						40953.9				
+34	New Jersey	THIOBENCARB	1994	kg					266.9					
+34	New Jersey	THIOBENCARB	1995	kg					247.5					
+34	New Jersey	THIOBENCARB	1997	kg					25					
+36	New York	THIOBENCARB	1994	kg					11698.4					
+36	New York	THIOBENCARB	1995	kg					5233.2					
+36	New York	THIOBENCARB	1997	kg					242.2					
+41	Oregon	THIOBENCARB	1993	kg							7034			
+42	Pennsylvania	THIOBENCARB	1994	kg					709.6					
+42	Pennsylvania	THIOBENCARB	1995	kg					594					
+42	Pennsylvania	THIOBENCARB	1997	kg					2.8					
+47	Tennessee	THIOBENCARB	1992	kg						152.1				
+47	Tennessee	THIOBENCARB	1993	kg						173.8				
+47	Tennessee	THIOBENCARB	1994	kg						49.3				
+47	Tennessee	THIOBENCARB	1995	kg						165.9				
+47	Tennessee	THIOBENCARB	1996	kg						121.6				
+47	Tennessee	THIOBENCARB	1997	kg						132.2				
+47	Tennessee	THIOBENCARB	1998	kg						175.9				
+47	Tennessee	THIOBENCARB	1999	kg						137.9				
+47	Tennessee	THIOBENCARB	2000	kg						32.6				
+47	Tennessee	THIOBENCARB	2001	kg						13.1				
+47	Tennessee	THIOBENCARB	2002	kg						3.9				
+47	Tennessee	THIOBENCARB	2003	kg						44				
+47	Tennessee	THIOBENCARB	2004	kg						21.4				
+47	Tennessee	THIOBENCARB	2006	kg						23.6				
+47	Tennessee	THIOBENCARB	2007	kg						62.4				
+47	Tennessee	THIOBENCARB	2008	kg						340.5				
+47	Tennessee	THIOBENCARB	2009	kg						18				
+47	Tennessee	THIOBENCARB	2010	kg						10.7				
+47	Tennessee	THIOBENCARB	2011	kg						51.3				
+47	Tennessee	THIOBENCARB	2012	kg						45.4				
+47	Tennessee	THIOBENCARB	2013	kg						124.2				
+47	Tennessee	THIOBENCARB	2014	kg						128.9				
+47	Tennessee	THIOBENCARB	2015	kg						146.4				
+47	Tennessee	THIOBENCARB	2016	kg						59.8				
+47	Tennessee	THIOBENCARB	2017	kg						140.9				
+48	Texas	THIOBENCARB	1992	kg						206664.1	11503.1			
+48	Texas	THIOBENCARB	1993	kg						151235.4				
+48	Texas	THIOBENCARB	1994	kg						176283.3				
+48	Texas	THIOBENCARB	1995	kg						151233.2				
+48	Texas	THIOBENCARB	1996	kg						87726.8				
+48	Texas	THIOBENCARB	1997	kg						139153				
+48	Texas	THIOBENCARB	1998	kg						134081.1				
+48	Texas	THIOBENCARB	1999	kg						86563.5				
+48	Texas	THIOBENCARB	2000	kg						52854.9				
+48	Texas	THIOBENCARB	2001	kg						35800.5				
+48	Texas	THIOBENCARB	2002	kg						20133.1				
+48	Texas	THIOBENCARB	2003	kg						25185.2				
+48	Texas	THIOBENCARB	2004	kg						10572.5				
+48	Texas	THIOBENCARB	2005	kg						5730.3				
+48	Texas	THIOBENCARB	2006	kg						222.2				
+48	Texas	THIOBENCARB	2008	kg						2715				
+48	Texas	THIOBENCARB	2009	kg						5945.3				
+48	Texas	THIOBENCARB	2010	kg						9676.4				
+48	Texas	THIOBENCARB	2011	kg						74426.1				
+48	Texas	THIOBENCARB	2012	kg						6119.7				
+48	Texas	THIOBENCARB	2013	kg						57376.7				
+48	Texas	THIOBENCARB	2014	kg						1452.8				
+48	Texas	THIOBENCARB	2015	kg						1966.2				
+48	Texas	THIOBENCARB	2017	kg						4045.5				
+53	Washington	THIOBENCARB	1993	kg							32063.3			

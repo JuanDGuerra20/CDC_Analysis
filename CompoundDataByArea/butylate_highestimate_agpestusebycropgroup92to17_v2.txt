@@ -1,0 +1,424 @@
+01	Alabama	BUTYLATE	1992	kg	97856.4									13500.8
+01	Alabama	BUTYLATE	1993	kg	9310.6									
+01	Alabama	BUTYLATE	1994	kg	8824.3									
+01	Alabama	BUTYLATE	1995	kg	4108.7									3392.5
+01	Alabama	BUTYLATE	1996	kg	20592.8									
+01	Alabama	BUTYLATE	1997	kg	9569.4									
+01	Alabama	BUTYLATE	1998	kg	4800.9				761					
+01	Alabama	BUTYLATE	1999	kg	17720.7									
+01	Alabama	BUTYLATE	2000	kg	69450.8									
+01	Alabama	BUTYLATE	2001	kg	12351.3				131.7					
+01	Alabama	BUTYLATE	2002	kg	2628.6									
+01	Alabama	BUTYLATE	2003	kg					918.6					
+01	Alabama	BUTYLATE	2005	kg					152.1					
+01	Alabama	BUTYLATE	2007	kg					42					
+04	Arizona	BUTYLATE	1992	kg	3503									
+04	Arizona	BUTYLATE	1993	kg	10782.2									
+04	Arizona	BUTYLATE	1994	kg	570.4						44.1			
+04	Arizona	BUTYLATE	1996	kg	21995.4									
+04	Arizona	BUTYLATE	1997	kg	53441.2									
+04	Arizona	BUTYLATE	1998	kg	43588.8									
+04	Arizona	BUTYLATE	2000	kg	117492.6									
+05	Arkansas	BUTYLATE	1992	kg	8205.3									
+05	Arkansas	BUTYLATE	1993	kg	27298.8									
+05	Arkansas	BUTYLATE	1994	kg	63965.5									
+05	Arkansas	BUTYLATE	1996	kg	3729.5									
+05	Arkansas	BUTYLATE	1997	kg	26309.4									
+05	Arkansas	BUTYLATE	2000	kg	11816.9									
+06	California	BUTYLATE	1992	kg	40908.1						0.1			
+06	California	BUTYLATE	1993	kg	55312.9									
+06	California	BUTYLATE	1994	kg	49234.1									
+06	California	BUTYLATE	1995	kg	30376.6									
+06	California	BUTYLATE	1996	kg	39721.3									
+06	California	BUTYLATE	1997	kg	38210.6									
+06	California	BUTYLATE	1998	kg	31302.6				7.2			246.2		
+06	California	BUTYLATE	1999	kg	33611.9		122.2					90.7		
+06	California	BUTYLATE	2000	kg	13144.9			52.9	7.6					7.1
+06	California	BUTYLATE	2001	kg	12273.8				43.7					
+06	California	BUTYLATE	2002	kg	8616.5									
+06	California	BUTYLATE	2003	kg	8603.2						34.7			
+06	California	BUTYLATE	2004	kg	9216.5									
+06	California	BUTYLATE	2005	kg	4500.3									
+06	California	BUTYLATE	2006	kg	1211.4									
+06	California	BUTYLATE	2007	kg	428.7									
+06	California	BUTYLATE	2008	kg	12.2									
+06	California	BUTYLATE	2010	kg	135.6									
+06	California	BUTYLATE	2013	kg					39.8					
+06	California	BUTYLATE	2014	kg					23.9					
+06	California	BUTYLATE	2016	kg					4.5					
+08	Colorado	BUTYLATE	1992	kg	61886.4									
+08	Colorado	BUTYLATE	1993	kg	61911.1				4150					
+08	Colorado	BUTYLATE	1994	kg	5766.6									
+08	Colorado	BUTYLATE	1995	kg	173119.5									
+08	Colorado	BUTYLATE	1996	kg	64742									
+08	Colorado	BUTYLATE	1997	kg	12133.3				10020.7					
+08	Colorado	BUTYLATE	1999	kg	3378.7									
+09	Connecticut	BUTYLATE	1992	kg	1270.8				2063.8					
+09	Connecticut	BUTYLATE	1993	kg	3568.3				752.4					
+09	Connecticut	BUTYLATE	1994	kg	131.1				1038.8					
+09	Connecticut	BUTYLATE	1995	kg	480.2									
+09	Connecticut	BUTYLATE	1996	kg	872.6				74.4					
+09	Connecticut	BUTYLATE	1997	kg					678.1					
+09	Connecticut	BUTYLATE	1998	kg	364.8				569.3					
+10	Delaware	BUTYLATE	1992	kg	58180.9									
+10	Delaware	BUTYLATE	1993	kg	12495									
+10	Delaware	BUTYLATE	1994	kg	6448									
+10	Delaware	BUTYLATE	1995	kg	2966.1									
+10	Delaware	BUTYLATE	1996	kg	21867.5									
+10	Delaware	BUTYLATE	1997	kg	6093.5									
+10	Delaware	BUTYLATE	1998	kg	1091.7				8093.7					
+10	Delaware	BUTYLATE	1999	kg	8860.1				57.4					
+10	Delaware	BUTYLATE	2000	kg	25953.7									
+10	Delaware	BUTYLATE	2001	kg	12800									
+10	Delaware	BUTYLATE	2002	kg	3623.6									
+10	Delaware	BUTYLATE	2003	kg					6452					
+12	Florida	BUTYLATE	1992	kg	2114.6				1759					3037.1
+12	Florida	BUTYLATE	1993	kg	16530.1									
+12	Florida	BUTYLATE	1994	kg	2185.4									
+12	Florida	BUTYLATE	1995	kg	1029.8									504.8
+12	Florida	BUTYLATE	1996	kg	2134.5									
+12	Florida	BUTYLATE	1997	kg	5745.1									
+12	Florida	BUTYLATE	1998	kg	10952.7				110.4					
+12	Florida	BUTYLATE	1999	kg	4558.8									
+12	Florida	BUTYLATE	2000	kg	220.6									
+12	Florida	BUTYLATE	2001	kg	4895.3				141.1					
+12	Florida	BUTYLATE	2002	kg	78.2				7267					
+12	Florida	BUTYLATE	2003	kg					5728.2					
+12	Florida	BUTYLATE	2004	kg					6676.4					
+12	Florida	BUTYLATE	2005	kg					578.5					
+12	Florida	BUTYLATE	2007	kg					345.4					
+12	Florida	BUTYLATE	2009	kg					4554.3					
+13	Georgia	BUTYLATE	1992	kg	43780.7				16174.4					30252.6
+13	Georgia	BUTYLATE	1993	kg	65753.8									
+13	Georgia	BUTYLATE	1994	kg	95163.5									
+13	Georgia	BUTYLATE	1995	kg	42736.2									2264
+13	Georgia	BUTYLATE	1996	kg	22632.7									
+13	Georgia	BUTYLATE	1997	kg	18114.7									9.2
+13	Georgia	BUTYLATE	1998	kg	53703.1				4615.6					
+13	Georgia	BUTYLATE	1999	kg	22859.4									
+13	Georgia	BUTYLATE	2000	kg	27656.7									
+13	Georgia	BUTYLATE	2001	kg	21014.5				8972.3					
+13	Georgia	BUTYLATE	2002	kg	3396.8				1616					
+13	Georgia	BUTYLATE	2003	kg					16945.5					
+13	Georgia	BUTYLATE	2004	kg	892.9				1139.2					
+13	Georgia	BUTYLATE	2005	kg					22146.3					
+13	Georgia	BUTYLATE	2007	kg					10957.1					
+13	Georgia	BUTYLATE	2009	kg					45268.9					
+17	Illinois	BUTYLATE	1992	kg	660503.4									15801.9
+17	Illinois	BUTYLATE	1993	kg	279365.1									
+17	Illinois	BUTYLATE	1994	kg	355670.5				5931.4					
+17	Illinois	BUTYLATE	1995	kg	486825.5				5117.2					
+17	Illinois	BUTYLATE	1996	kg	431052									
+17	Illinois	BUTYLATE	1997	kg	42893.8				656.5					13199
+17	Illinois	BUTYLATE	1998	kg	359992.6				21411.7					
+17	Illinois	BUTYLATE	1999	kg	255641.4				18757.3					
+17	Illinois	BUTYLATE	2001	kg	60493.2									
+17	Illinois	BUTYLATE	2003	kg	126182.9									
+17	Illinois	BUTYLATE	2005	kg	316822.9									
+17	Illinois	BUTYLATE	2009	kg	11512.5									
+18	Indiana	BUTYLATE	1992	kg	956542.4									5147.5
+18	Indiana	BUTYLATE	1993	kg	397112.3				678.9					
+18	Indiana	BUTYLATE	1994	kg	355281.9				9267.7					
+18	Indiana	BUTYLATE	1995	kg	112884.3				326.5					
+18	Indiana	BUTYLATE	1996	kg	84332									
+18	Indiana	BUTYLATE	1997	kg	110393.7									
+18	Indiana	BUTYLATE	1998	kg	168158.1				1899.9					
+18	Indiana	BUTYLATE	1999	kg	25175.9									
+18	Indiana	BUTYLATE	2001	kg	28242.9									
+18	Indiana	BUTYLATE	2005	kg	154706.9									
+18	Indiana	BUTYLATE	2007	kg	46508.5									
+19	Iowa	BUTYLATE	1992	kg	454424.7									
+19	Iowa	BUTYLATE	1993	kg	473661.2									
+19	Iowa	BUTYLATE	1994	kg	318494.3				131.3					
+19	Iowa	BUTYLATE	1995	kg	144592.7									
+19	Iowa	BUTYLATE	1996	kg	261532.2									
+19	Iowa	BUTYLATE	1997	kg	57004.1				11.5					462.3
+19	Iowa	BUTYLATE	1998	kg	472462.4									
+19	Iowa	BUTYLATE	1999	kg	36946.7				342.3					
+19	Iowa	BUTYLATE	2001	kg	57655.8									
+19	Iowa	BUTYLATE	2003	kg	88668.7									
+19	Iowa	BUTYLATE	2005	kg	404929.1									
+19	Iowa	BUTYLATE	2006	kg	27942.9									
+19	Iowa	BUTYLATE	2009	kg	7398.5									
+20	Kansas	BUTYLATE	1992	kg	259253.1				806.1					
+20	Kansas	BUTYLATE	1993	kg	157002.6				710.8					
+20	Kansas	BUTYLATE	1994	kg	27720.5	45564.5								
+20	Kansas	BUTYLATE	1995	kg	345500.9									
+20	Kansas	BUTYLATE	1996	kg	123883									
+20	Kansas	BUTYLATE	1997	kg	50625.7				1837.9					
+20	Kansas	BUTYLATE	1998	kg	32686.3									
+20	Kansas	BUTYLATE	1999	kg	46213.5									
+21	Kentucky	BUTYLATE	1992	kg	388271.2									
+21	Kentucky	BUTYLATE	1993	kg	229576.9				228.2					
+21	Kentucky	BUTYLATE	1994	kg	84220.1				17.5					
+21	Kentucky	BUTYLATE	1995	kg	9397.6									
+21	Kentucky	BUTYLATE	1996	kg	21147.7									
+21	Kentucky	BUTYLATE	1997	kg	35784.9									
+21	Kentucky	BUTYLATE	1998	kg	39722.7									
+21	Kentucky	BUTYLATE	1999	kg	29027.9									
+21	Kentucky	BUTYLATE	2000	kg	148003.8									
+21	Kentucky	BUTYLATE	2001	kg	5988.9									
+21	Kentucky	BUTYLATE	2005	kg	24491									
+21	Kentucky	BUTYLATE	2006	kg										196.5
+21	Kentucky	BUTYLATE	2007	kg	69821.7									
+23	Maine	BUTYLATE	1992	kg	1616.8									
+23	Maine	BUTYLATE	1993	kg	1303.7									
+23	Maine	BUTYLATE	1994	kg	1825									
+23	Maine	BUTYLATE	1995	kg	1208									
+23	Maine	BUTYLATE	1996	kg	660									
+23	Maine	BUTYLATE	1998	kg	287.5									
+24	Maryland	BUTYLATE	1992	kg	46843.2				1472.4		1727.8			
+24	Maryland	BUTYLATE	1993	kg	24436				515					
+24	Maryland	BUTYLATE	1994	kg	22592.5				679.6					
+24	Maryland	BUTYLATE	1995	kg	14651.3				0		13			
+24	Maryland	BUTYLATE	1996	kg	37765.1				44.1					
+24	Maryland	BUTYLATE	1997	kg	10990.3				379.3					
+24	Maryland	BUTYLATE	1998	kg	7785.3				8354.2					
+24	Maryland	BUTYLATE	1999	kg	14953.4									
+24	Maryland	BUTYLATE	2000	kg	44390.2									
+24	Maryland	BUTYLATE	2001	kg	22344.4									
+24	Maryland	BUTYLATE	2002	kg	6348.3									
+24	Maryland	BUTYLATE	2003	kg					4748.1					
+25	Massachusetts	BUTYLATE	1992	kg	20329.7				3030					
+25	Massachusetts	BUTYLATE	1993	kg	16759.6				1156.1					
+25	Massachusetts	BUTYLATE	1994	kg	19311.1				1718.6					
+25	Massachusetts	BUTYLATE	1995	kg	13255.9									
+25	Massachusetts	BUTYLATE	1996	kg	631.1				106					
+25	Massachusetts	BUTYLATE	1997	kg	2224.3				953.7					
+25	Massachusetts	BUTYLATE	1998	kg	259.8				776.6					
+26	Michigan	BUTYLATE	1992	kg	103848.3									
+26	Michigan	BUTYLATE	1993	kg	65252.7									
+26	Michigan	BUTYLATE	1994	kg	78419.5				1048.6					
+26	Michigan	BUTYLATE	1995	kg	124920.3	1774.4			462.5					
+26	Michigan	BUTYLATE	1996	kg	16542									
+26	Michigan	BUTYLATE	1997	kg	62980.1									
+26	Michigan	BUTYLATE	1998	kg	29808.2									
+26	Michigan	BUTYLATE	1999	kg	37996.5									
+27	Minnesota	BUTYLATE	1992	kg	286050.1	2112.9			96					472.1
+27	Minnesota	BUTYLATE	1993	kg	131220									
+27	Minnesota	BUTYLATE	1994	kg	164590.7									
+27	Minnesota	BUTYLATE	1995	kg	93099									
+27	Minnesota	BUTYLATE	1996	kg	82698.9									
+27	Minnesota	BUTYLATE	1997	kg	95826									
+27	Minnesota	BUTYLATE	1998	kg	251795									
+27	Minnesota	BUTYLATE	2001	kg	24864									
+27	Minnesota	BUTYLATE	2003	kg	29429.5									
+27	Minnesota	BUTYLATE	2005	kg	148005.4									
+27	Minnesota	BUTYLATE	2006	kg	10171.1									
+28	Mississippi	BUTYLATE	1992	kg	18238									
+28	Mississippi	BUTYLATE	1993	kg	6909.6									
+28	Mississippi	BUTYLATE	1994	kg	3948.4									
+28	Mississippi	BUTYLATE	1995	kg	268.2									
+28	Mississippi	BUTYLATE	1996	kg	8767.5									
+28	Mississippi	BUTYLATE	1997	kg	388.8									
+28	Mississippi	BUTYLATE	1998	kg	2122.1									
+28	Mississippi	BUTYLATE	1999	kg	501.9									
+28	Mississippi	BUTYLATE	2000	kg	1433.2									
+28	Mississippi	BUTYLATE	2001	kg	659.2									
+28	Mississippi	BUTYLATE	2002	kg	177									
+29	Missouri	BUTYLATE	1992	kg	286982.9				1805.2					
+29	Missouri	BUTYLATE	1993	kg	301321.8									
+29	Missouri	BUTYLATE	1994	kg	231998.4	10653.2			584.5					
+29	Missouri	BUTYLATE	1995	kg	19643.9									
+29	Missouri	BUTYLATE	1996	kg	156302.8									
+29	Missouri	BUTYLATE	1997	kg	333737				4.8					48156.8
+29	Missouri	BUTYLATE	1998	kg	85086.1									
+29	Missouri	BUTYLATE	1999	kg	20282.9				138.9					
+29	Missouri	BUTYLATE	2000	kg	178386.3									
+29	Missouri	BUTYLATE	2001	kg	13231.2									
+29	Missouri	BUTYLATE	2003	kg	9847.4									
+29	Missouri	BUTYLATE	2005	kg	76937.4									
+30	Montana	BUTYLATE	1992	kg	6007.6									
+30	Montana	BUTYLATE	1993	kg	10834.3									
+30	Montana	BUTYLATE	1994	kg	8551.1									
+30	Montana	BUTYLATE	1995	kg	6498.3									
+30	Montana	BUTYLATE	1996	kg	5265.7									
+31	Nebraska	BUTYLATE	1992	kg	314340.2									
+31	Nebraska	BUTYLATE	1993	kg	518441.8				1527.5					
+31	Nebraska	BUTYLATE	1994	kg	306934.2									
+31	Nebraska	BUTYLATE	1995	kg	1195654.9									
+31	Nebraska	BUTYLATE	1996	kg	322964.3									
+31	Nebraska	BUTYLATE	1997	kg	115546				4218.6					
+31	Nebraska	BUTYLATE	1998	kg	347647.3									
+31	Nebraska	BUTYLATE	2001	kg	16880.8									
+31	Nebraska	BUTYLATE	2005	kg	95110.9									
+32	Nevada	BUTYLATE	1992	kg	114.5									
+32	Nevada	BUTYLATE	1993	kg	316.8									
+32	Nevada	BUTYLATE	1994	kg	29.3									
+32	Nevada	BUTYLATE	1996	kg	210.2									
+32	Nevada	BUTYLATE	1997	kg	12.4									
+33	New Hampshire	BUTYLATE	1992	kg	4303.6									
+33	New Hampshire	BUTYLATE	1993	kg	6411.1									
+33	New Hampshire	BUTYLATE	1994	kg	6884.6									
+33	New Hampshire	BUTYLATE	1995	kg	8238.9									
+33	New Hampshire	BUTYLATE	1996	kg	398.4									
+33	New Hampshire	BUTYLATE	1998	kg	172.8									
+34	New Jersey	BUTYLATE	1992	kg	4584.4				14196.3					
+34	New Jersey	BUTYLATE	1993	kg	4259.5				441.8					
+34	New Jersey	BUTYLATE	1994	kg	3729.2				1327.3					
+34	New Jersey	BUTYLATE	1995	kg	1269.6				1256					
+34	New Jersey	BUTYLATE	1996	kg	2545.9				198.8					
+34	New Jersey	BUTYLATE	1997	kg					1873.2					
+34	New Jersey	BUTYLATE	1998	kg	102.1				1336					
+34	New Jersey	BUTYLATE	1999	kg					1273.2					
+35	New Mexico	BUTYLATE	1992	kg	6487.9									
+35	New Mexico	BUTYLATE	1993	kg	11463.8									
+35	New Mexico	BUTYLATE	1994	kg	1852.2									
+35	New Mexico	BUTYLATE	1995	kg	17653.3									
+35	New Mexico	BUTYLATE	1996	kg	11391.9									
+35	New Mexico	BUTYLATE	1997	kg	5723.5									
+35	New Mexico	BUTYLATE	1998	kg	3864.4									
+35	New Mexico	BUTYLATE	2000	kg	289504.3									
+36	New York	BUTYLATE	1992	kg	126593.8				9602.9					
+36	New York	BUTYLATE	1993	kg	100211.1				12094.1					
+36	New York	BUTYLATE	1994	kg	38532				12497.3					
+36	New York	BUTYLATE	1995	kg	104210.6				6486.4					
+36	New York	BUTYLATE	1996	kg	28976.9				7580.4					
+36	New York	BUTYLATE	1997	kg	66408.2				5005.1					
+36	New York	BUTYLATE	1998	kg	16127.8				4085.6					
+36	New York	BUTYLATE	1999	kg					22529.1					
+36	New York	BUTYLATE	2001	kg	2025.8									
+37	North Carolina	BUTYLATE	1992	kg	42213.5									1316.6
+37	North Carolina	BUTYLATE	1993	kg	80172.5				884.6					
+37	North Carolina	BUTYLATE	1994	kg	36174.3	3875.8								
+37	North Carolina	BUTYLATE	1995	kg	17017.6									
+37	North Carolina	BUTYLATE	1996	kg	181740.8									
+37	North Carolina	BUTYLATE	1997	kg	18803.9									59836.8
+37	North Carolina	BUTYLATE	1998	kg	10912.8									
+37	North Carolina	BUTYLATE	1999	kg	32639.4									
+37	North Carolina	BUTYLATE	2000	kg	113078.7									
+37	North Carolina	BUTYLATE	2001	kg	52996.4									
+37	North Carolina	BUTYLATE	2002	kg	16175.9									
+37	North Carolina	BUTYLATE	2003	kg					1188					
+38	North Dakota	BUTYLATE	1992	kg	14536.8	339.9			802.2					2316.2
+38	North Dakota	BUTYLATE	1993	kg	12905.5									
+38	North Dakota	BUTYLATE	1994	kg	12065.7									
+38	North Dakota	BUTYLATE	1995	kg	63732									
+38	North Dakota	BUTYLATE	1996	kg	38375.9									
+39	Ohio	BUTYLATE	1992	kg	418908.2									
+39	Ohio	BUTYLATE	1993	kg	170064				7943.9					
+39	Ohio	BUTYLATE	1994	kg	319238.8				1608.3					
+39	Ohio	BUTYLATE	1995	kg	115368.4				0.7					
+39	Ohio	BUTYLATE	1996	kg	48801									
+39	Ohio	BUTYLATE	1997	kg	95618.5									
+39	Ohio	BUTYLATE	1998	kg	284951.3									
+39	Ohio	BUTYLATE	1999	kg	22577									
+39	Ohio	BUTYLATE	2000	kg	56989.5									
+39	Ohio	BUTYLATE	2001	kg	46152.4									
+39	Ohio	BUTYLATE	2005	kg	67295.2									
+39	Ohio	BUTYLATE	2006	kg										10.2
+39	Ohio	BUTYLATE	2007	kg	100594.3									
+40	Oklahoma	BUTYLATE	1992	kg	5854.3									
+40	Oklahoma	BUTYLATE	1993	kg	8823.9									
+40	Oklahoma	BUTYLATE	1994	kg	1261.9									
+40	Oklahoma	BUTYLATE	1995	kg	16105									
+40	Oklahoma	BUTYLATE	1996	kg	7834.4									
+40	Oklahoma	BUTYLATE	1997	kg	1736.3									
+40	Oklahoma	BUTYLATE	1999	kg	5562.3									
+41	Oregon	BUTYLATE	1993	kg							51.1			
+41	Oregon	BUTYLATE	1999	kg					2957.5					
+41	Oregon	BUTYLATE	2000	kg					1807.3					
+42	Pennsylvania	BUTYLATE	1992	kg	43225.5				10721.1					
+42	Pennsylvania	BUTYLATE	1993	kg	52652.9				1796.7					
+42	Pennsylvania	BUTYLATE	1994	kg	290645				2719					
+42	Pennsylvania	BUTYLATE	1995	kg	37785				609.8		140.3			
+42	Pennsylvania	BUTYLATE	1996	kg	29062.4				1695.6					
+42	Pennsylvania	BUTYLATE	1997	kg	14256.8				1576					
+42	Pennsylvania	BUTYLATE	1998	kg	86976.1				5126					
+42	Pennsylvania	BUTYLATE	1999	kg	9430.9				599.7					
+42	Pennsylvania	BUTYLATE	2001	kg	6303.8									
+44	Rhode Island	BUTYLATE	1992	kg	679.5									
+44	Rhode Island	BUTYLATE	1993	kg	622.2									
+44	Rhode Island	BUTYLATE	1994	kg	1036.5									
+44	Rhode Island	BUTYLATE	1995	kg	745.6									
+44	Rhode Island	BUTYLATE	1996	kg	72.3									
+44	Rhode Island	BUTYLATE	1998	kg	31									
+45	South Carolina	BUTYLATE	1992	kg	11341									925.3
+45	South Carolina	BUTYLATE	1993	kg	21398.6				341.7					
+45	South Carolina	BUTYLATE	1994	kg	13012	1163.2								
+45	South Carolina	BUTYLATE	1995	kg	6210.5									
+45	South Carolina	BUTYLATE	1996	kg	61462.1	408.4								
+45	South Carolina	BUTYLATE	1997	kg	13164.1									
+45	South Carolina	BUTYLATE	1998	kg	17564.7									
+45	South Carolina	BUTYLATE	1999	kg	24052.7									
+45	South Carolina	BUTYLATE	2000	kg	47151.3									
+45	South Carolina	BUTYLATE	2001	kg	42059.6									
+45	South Carolina	BUTYLATE	2002	kg	5488.7									
+45	South Carolina	BUTYLATE	2003	kg					653.1					
+45	South Carolina	BUTYLATE	2004	kg	3205.6									
+46	South Dakota	BUTYLATE	1992	kg	30486.1									
+46	South Dakota	BUTYLATE	1993	kg	126792.6									
+46	South Dakota	BUTYLATE	1994	kg	103112.5									
+46	South Dakota	BUTYLATE	1995	kg	292418.2									
+46	South Dakota	BUTYLATE	1996	kg	166722.4									
+46	South Dakota	BUTYLATE	1997	kg	24527.7									
+46	South Dakota	BUTYLATE	1998	kg	89795.5									
+46	South Dakota	BUTYLATE	2001	kg	8796.9									
+46	South Dakota	BUTYLATE	2003	kg	20219.2									
+46	South Dakota	BUTYLATE	2005	kg	54693.8									
+47	Tennessee	BUTYLATE	1992	kg	190629.7									
+47	Tennessee	BUTYLATE	1993	kg	49453.6									
+47	Tennessee	BUTYLATE	1994	kg	41886.2									
+47	Tennessee	BUTYLATE	1995	kg	5744.9									
+47	Tennessee	BUTYLATE	1996	kg	9695.6									
+47	Tennessee	BUTYLATE	1997	kg	6141.6									23342.5
+47	Tennessee	BUTYLATE	1998	kg	9519.1									
+47	Tennessee	BUTYLATE	1999	kg	17440.6									
+47	Tennessee	BUTYLATE	2000	kg	110281.6									
+47	Tennessee	BUTYLATE	2001	kg	2617.9									
+48	Texas	BUTYLATE	1992	kg	48483									
+48	Texas	BUTYLATE	1993	kg	59027.7									
+48	Texas	BUTYLATE	1994	kg	12758.2									
+48	Texas	BUTYLATE	1995	kg	166982.8									
+48	Texas	BUTYLATE	1996	kg	51333.4									
+48	Texas	BUTYLATE	1997	kg	18538.3									
+49	Utah	BUTYLATE	1992	kg	4209									
+49	Utah	BUTYLATE	1993	kg	10867									
+49	Utah	BUTYLATE	1994	kg	1095.8									
+49	Utah	BUTYLATE	1996	kg	10503.6									
+50	Vermont	BUTYLATE	1992	kg	22245.3				533					
+50	Vermont	BUTYLATE	1993	kg	33845.1				208.5					
+50	Vermont	BUTYLATE	1994	kg	10523.8				318					
+50	Vermont	BUTYLATE	1995	kg	45622.5									
+50	Vermont	BUTYLATE	1996	kg	2258.3				20.6					
+50	Vermont	BUTYLATE	1997	kg	8273.6				190.6					
+50	Vermont	BUTYLATE	1998	kg	1010.1				125.6					
+51	Virginia	BUTYLATE	1992	kg	62373.4						10572			
+51	Virginia	BUTYLATE	1993	kg	46644.1									
+51	Virginia	BUTYLATE	1994	kg	40800.3									
+51	Virginia	BUTYLATE	1995	kg	10425.8									
+51	Virginia	BUTYLATE	1996	kg	28255.6									
+51	Virginia	BUTYLATE	1997	kg	15169.3									
+51	Virginia	BUTYLATE	1998	kg	13466.6									
+51	Virginia	BUTYLATE	1999	kg	16207.6									
+51	Virginia	BUTYLATE	2000	kg	65157.6									
+51	Virginia	BUTYLATE	2001	kg	33552.9									
+51	Virginia	BUTYLATE	2002	kg	8911.7									
+53	Washington	BUTYLATE	1995	kg	47777.5									
+53	Washington	BUTYLATE	1997	kg					33540.5					
+53	Washington	BUTYLATE	1998	kg					5652.5					
+53	Washington	BUTYLATE	1999	kg					333.4					
+53	Washington	BUTYLATE	2000	kg					254.4					
+54	West Virginia	BUTYLATE	1992	kg	85773.8						8695.7			
+54	West Virginia	BUTYLATE	1993	kg	42345.2									
+54	West Virginia	BUTYLATE	1994	kg	95641.6									
+54	West Virginia	BUTYLATE	1995	kg	1192.8				3.1					
+54	West Virginia	BUTYLATE	1996	kg	1463.8									
+54	West Virginia	BUTYLATE	1997	kg	2388									
+54	West Virginia	BUTYLATE	1998	kg	29335.5									
+54	West Virginia	BUTYLATE	1999	kg	2991.8									
+54	West Virginia	BUTYLATE	2000	kg	829									
+54	West Virginia	BUTYLATE	2001	kg	1877.2									
+55	Wisconsin	BUTYLATE	1992	kg	46787.9				10805					
+55	Wisconsin	BUTYLATE	1993	kg	35888.2									
+55	Wisconsin	BUTYLATE	1994	kg	57573.6				41167.4					
+55	Wisconsin	BUTYLATE	1995	kg	161794.8									
+55	Wisconsin	BUTYLATE	1996	kg	23550.6									
+55	Wisconsin	BUTYLATE	1997	kg	51082									
+55	Wisconsin	BUTYLATE	1998	kg	86557.5									
+55	Wisconsin	BUTYLATE	2009	kg	2607.4									
+56	Wyoming	BUTYLATE	1992	kg	9568.7									
+56	Wyoming	BUTYLATE	1993	kg	15287.8									
+56	Wyoming	BUTYLATE	1994	kg	6404.1									
+56	Wyoming	BUTYLATE	1995	kg	20876.9									
+56	Wyoming	BUTYLATE	1996	kg	6517.1									

@@ -1,0 +1,7 @@
+06	California	RESMETHRIN	2008	kg							0			
+06	California	RESMETHRIN	2009	kg							0.4			
+06	California	RESMETHRIN	2010	kg							0			
+06	California	RESMETHRIN	2011	kg							0			
+06	California	RESMETHRIN	2013	kg							1			
+06	California	RESMETHRIN	2014	kg							0			
+06	California	RESMETHRIN	2016	kg							0			

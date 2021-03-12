@@ -1,0 +1,170 @@
+01	Alabama	DICLORAN	1994	kg							462.7			
+04	Arizona	DICLORAN	1992	kg					2802		3130			
+04	Arizona	DICLORAN	1993	kg					1244.3					
+04	Arizona	DICLORAN	1994	kg					448.2		10.1			
+04	Arizona	DICLORAN	1995	kg					1431.1		5.4			
+04	Arizona	DICLORAN	1996	kg					1280.4					
+04	Arizona	DICLORAN	1997	kg					4436.2					
+04	Arizona	DICLORAN	1998	kg					1503.3		218			
+04	Arizona	DICLORAN	1999	kg					8568.6		15.6			
+04	Arizona	DICLORAN	2000	kg					4343.3		100.2			
+04	Arizona	DICLORAN	2001	kg					5492.3		19.6			
+04	Arizona	DICLORAN	2002	kg					10751.3					
+04	Arizona	DICLORAN	2003	kg					14650.1		92.4			
+04	Arizona	DICLORAN	2004	kg					2112					
+04	Arizona	DICLORAN	2005	kg					16231.5		73.5			
+04	Arizona	DICLORAN	2006	kg					16075		185.6			
+04	Arizona	DICLORAN	2007	kg					6476.6					
+04	Arizona	DICLORAN	2008	kg					5819.9					
+04	Arizona	DICLORAN	2009	kg					6185.7					
+04	Arizona	DICLORAN	2010	kg					14275.5					
+04	Arizona	DICLORAN	2011	kg					2297.9					
+04	Arizona	DICLORAN	2012	kg					311.3					
+04	Arizona	DICLORAN	2013	kg					30399					
+04	Arizona	DICLORAN	2014	kg					14015.8					
+04	Arizona	DICLORAN	2015	kg					11736					
+04	Arizona	DICLORAN	2016	kg					1952.8					
+05	Arkansas	DICLORAN	1995	kg			20227.9							
+06	California	DICLORAN	1992	kg					30632.2		11257.2			
+06	California	DICLORAN	1993	kg					12600.4		4980.5			
+06	California	DICLORAN	1994	kg					43148.7		20370.4			
+06	California	DICLORAN	1995	kg					33247.5		15928.6			
+06	California	DICLORAN	1996	kg					31608.9		14079.8			
+06	California	DICLORAN	1997	kg					33694.6		26846.1			
+06	California	DICLORAN	1998	kg					38364.6		38352.7			
+06	California	DICLORAN	1999	kg					61987.8		13982.2	29.8	49	
+06	California	DICLORAN	2000	kg					41851		14541			
+06	California	DICLORAN	2001	kg					43084.6		6898.5			287.5
+06	California	DICLORAN	2002	kg	56.1				38886.5		3362.6			
+06	California	DICLORAN	2003	kg					39289.2		8587.8			
+06	California	DICLORAN	2004	kg					38827.4		3110.7			
+06	California	DICLORAN	2005	kg					32252.9		7927.2			
+06	California	DICLORAN	2006	kg					34221.8		9518.1			
+06	California	DICLORAN	2007	kg					25716.6		8402.3			
+06	California	DICLORAN	2008	kg					26969.7		1729.7			
+06	California	DICLORAN	2009	kg					23064.9		1218.7			
+06	California	DICLORAN	2010	kg					25868.7		1255.7			
+06	California	DICLORAN	2011	kg					23300.7		275.1			
+06	California	DICLORAN	2012	kg					16180.9		13.4			
+06	California	DICLORAN	2013	kg					17832.8		10.7			
+06	California	DICLORAN	2014	kg					17421.5		4.5			
+06	California	DICLORAN	2015	kg					15766.2		2.8			
+06	California	DICLORAN	2016	kg	6.8				13483.7		12.6			
+06	California	DICLORAN	2017	kg					13560.8		12			
+12	Florida	DICLORAN	1994	kg							0.4			
+12	Florida	DICLORAN	1996	kg							324.8			
+12	Florida	DICLORAN	1999	kg					15169.5					
+13	Georgia	DICLORAN	1994	kg							162.5			
+13	Georgia	DICLORAN	1997	kg				43951.6						
+16	Idaho	DICLORAN	1997	kg					20838.8					
+16	Idaho	DICLORAN	1998	kg					11753.5					
+16	Idaho	DICLORAN	2000	kg					58830					
+16	Idaho	DICLORAN	2002	kg					324.9					
+16	Idaho	DICLORAN	2003	kg					4633					
+16	Idaho	DICLORAN	2004	kg					173.6					
+16	Idaho	DICLORAN	2005	kg					731.6					
+16	Idaho	DICLORAN	2006	kg					1772.6					
+16	Idaho	DICLORAN	2007	kg					292.5					
+16	Idaho	DICLORAN	2008	kg					305.1					
+16	Idaho	DICLORAN	2009	kg					52.6					
+16	Idaho	DICLORAN	2010	kg					1452.8					
+16	Idaho	DICLORAN	2011	kg					195.3					
+16	Idaho	DICLORAN	2012	kg					250.6					
+16	Idaho	DICLORAN	2014	kg					985.1					
+16	Idaho	DICLORAN	2015	kg					1045.3					
+16	Idaho	DICLORAN	2016	kg					608.3					
+16	Idaho	DICLORAN	2017	kg					132.8					
+21	Kentucky	DICLORAN	1996	kg	999.6									
+22	Louisiana	DICLORAN	1997	kg					362.2					
+26	Michigan	DICLORAN	1995	kg							378.3			
+27	Minnesota	DICLORAN	1995	kg	737.1						409.6			
+28	Mississippi	DICLORAN	1994	kg							2.2			
+28	Mississippi	DICLORAN	1997	kg					743.1					
+29	Missouri	DICLORAN	1995	kg			7289.1							
+30	Montana	DICLORAN	1998	kg					13.9					
+32	Nevada	DICLORAN	1998	kg					200.6					
+32	Nevada	DICLORAN	2000	kg					12.1					
+32	Nevada	DICLORAN	2002	kg					68					
+32	Nevada	DICLORAN	2003	kg					939.2		1.1			
+32	Nevada	DICLORAN	2004	kg					35.8					
+32	Nevada	DICLORAN	2005	kg					150.5		0.1			
+32	Nevada	DICLORAN	2006	kg					356.8					
+32	Nevada	DICLORAN	2007	kg					59.5					
+32	Nevada	DICLORAN	2008	kg					107.2					
+32	Nevada	DICLORAN	2009	kg					15.6					
+32	Nevada	DICLORAN	2010	kg					487.5					
+32	Nevada	DICLORAN	2011	kg					65.1					
+32	Nevada	DICLORAN	2012	kg					78.7					
+32	Nevada	DICLORAN	2013	kg					1.5					
+32	Nevada	DICLORAN	2014	kg					290.4					
+32	Nevada	DICLORAN	2015	kg					293.8					
+32	Nevada	DICLORAN	2016	kg					167.5					
+32	Nevada	DICLORAN	2017	kg					35.1					
+35	New Mexico	DICLORAN	1997	kg					94.3					
+35	New Mexico	DICLORAN	2007	kg					5.6					
+35	New Mexico	DICLORAN	2008	kg					0.9					
+35	New Mexico	DICLORAN	2009	kg					0.8					
+35	New Mexico	DICLORAN	2010	kg					1.6					
+35	New Mexico	DICLORAN	2013	kg					1.4					
+35	New Mexico	DICLORAN	2014	kg					0.6					
+35	New Mexico	DICLORAN	2015	kg					0.4					
+36	New York	DICLORAN	1993	kg							202			
+36	New York	DICLORAN	2000	kg					58.2					
+36	New York	DICLORAN	2002	kg					19					
+36	New York	DICLORAN	2003	kg					10.5					
+36	New York	DICLORAN	2004	kg					16.6					
+37	North Carolina	DICLORAN	1996	kg	671.6									
+38	North Dakota	DICLORAN	1995	kg	84.4						3.2			
+39	Ohio	DICLORAN	1992	kg							395.5			
+39	Ohio	DICLORAN	1996	kg							70.8			
+40	Oklahoma	DICLORAN	1992	kg							112.5			
+40	Oklahoma	DICLORAN	2006	kg							68.5			
+41	Oregon	DICLORAN	1997	kg					43302.8					
+41	Oregon	DICLORAN	1998	kg					1974.6					
+41	Oregon	DICLORAN	2000	kg					2211.1					
+41	Oregon	DICLORAN	2002	kg					795.3					
+41	Oregon	DICLORAN	2003	kg					10432.8					
+41	Oregon	DICLORAN	2004	kg					2245.7					
+41	Oregon	DICLORAN	2005	kg					2916.7					
+41	Oregon	DICLORAN	2006	kg					3496					
+41	Oregon	DICLORAN	2007	kg					2359.7					
+41	Oregon	DICLORAN	2008	kg					2547.3					
+41	Oregon	DICLORAN	2009	kg					798.3					
+41	Oregon	DICLORAN	2010	kg					3704.9					
+41	Oregon	DICLORAN	2011	kg					464.3					
+41	Oregon	DICLORAN	2012	kg					611.8					
+41	Oregon	DICLORAN	2013	kg					479.7					
+41	Oregon	DICLORAN	2014	kg					1679.9					
+41	Oregon	DICLORAN	2015	kg					2004					
+41	Oregon	DICLORAN	2016	kg					1349.8					
+41	Oregon	DICLORAN	2017	kg					297.3					
+42	Pennsylvania	DICLORAN	1992	kg							124.9			
+42	Pennsylvania	DICLORAN	1996	kg							25.6			
+46	South Dakota	DICLORAN	1995	kg	92.1									
+47	Tennessee	DICLORAN	1995	kg			2951.5							
+47	Tennessee	DICLORAN	1996	kg	1129.4									
+48	Texas	DICLORAN	1992	kg							3239.7			
+48	Texas	DICLORAN	2006	kg							1045.3			
+49	Utah	DICLORAN	1998	kg					5					
+51	Virginia	DICLORAN	1996	kg	2952.3									
+53	Washington	DICLORAN	1997	kg					27510.6					
+53	Washington	DICLORAN	1998	kg					4379.4					
+53	Washington	DICLORAN	1999	kg					6413.7					
+53	Washington	DICLORAN	2000	kg					29968.7					
+53	Washington	DICLORAN	2002	kg					333.6					
+53	Washington	DICLORAN	2003	kg					1421.4					
+53	Washington	DICLORAN	2004	kg					13166.9					
+53	Washington	DICLORAN	2005	kg					3621.1					
+53	Washington	DICLORAN	2006	kg					1330.7					
+53	Washington	DICLORAN	2007	kg					1762.2					
+53	Washington	DICLORAN	2008	kg					3071.6					
+53	Washington	DICLORAN	2009	kg					3859.9					
+53	Washington	DICLORAN	2010	kg					4821.5					
+53	Washington	DICLORAN	2012	kg					3294.5					
+53	Washington	DICLORAN	2013	kg					1189.8					
+53	Washington	DICLORAN	2014	kg					1159.3					
+53	Washington	DICLORAN	2015	kg					2161.1					
+54	West Virginia	DICLORAN	1992	kg							15.7			
+54	West Virginia	DICLORAN	1996	kg	1046.6						9.4			
+55	Wisconsin	DICLORAN	1995	kg							2.8			
+56	Wyoming	DICLORAN	1998	kg					0					

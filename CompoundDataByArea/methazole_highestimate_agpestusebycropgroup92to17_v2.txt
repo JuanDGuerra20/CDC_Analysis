@@ -1,0 +1,33 @@
+01	Alabama	METHAZOLE	1992	kg				3884.4						
+01	Alabama	METHAZOLE	1993	kg				1819.5						
+05	Arkansas	METHAZOLE	1992	kg				6501.4						
+05	Arkansas	METHAZOLE	1993	kg				2526						
+05	Arkansas	METHAZOLE	1994	kg				85.6						
+05	Arkansas	METHAZOLE	1995	kg				2150.7						
+12	Florida	METHAZOLE	1992	kg				720						
+12	Florida	METHAZOLE	1993	kg				254.7						
+13	Georgia	METHAZOLE	1992	kg				6741						
+13	Georgia	METHAZOLE	1993	kg				9102.3						
+22	Louisiana	METHAZOLE	1992	kg				8236						
+22	Louisiana	METHAZOLE	1993	kg				18565.3						
+22	Louisiana	METHAZOLE	1994	kg				179.5						
+28	Mississippi	METHAZOLE	1992	kg				12424.1						
+28	Mississippi	METHAZOLE	1993	kg				28620						
+28	Mississippi	METHAZOLE	1994	kg				345.7						
+28	Mississippi	METHAZOLE	1995	kg				997.2						
+29	Missouri	METHAZOLE	1992	kg				3777.3						
+29	Missouri	METHAZOLE	1993	kg				2520.1						
+35	New Mexico	METHAZOLE	1992	kg				6.9						
+37	North Carolina	METHAZOLE	1992	kg				5688.9						42.8
+37	North Carolina	METHAZOLE	1993	kg				1836.1						
+37	North Carolina	METHAZOLE	1995	kg				129						
+45	South Carolina	METHAZOLE	1992	kg				7194.1						30.2
+45	South Carolina	METHAZOLE	1993	kg				574.6						
+45	South Carolina	METHAZOLE	1995	kg				201.4						
+47	Tennessee	METHAZOLE	1992	kg				1716.6						
+47	Tennessee	METHAZOLE	1993	kg				2111.6						
+47	Tennessee	METHAZOLE	1995	kg				372.9						
+48	Texas	METHAZOLE	1992	kg				1827						
+48	Texas	METHAZOLE	1993	kg				1814.4						
+51	Virginia	METHAZOLE	1992	kg				123.3						
+51	Virginia	METHAZOLE	1993	kg				109.7						

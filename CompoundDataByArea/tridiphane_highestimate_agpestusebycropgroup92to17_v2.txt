@@ -1,0 +1,48 @@
+01	Alabama	TRIDIPHANE	1992	kg							477.8			
+12	Florida	TRIDIPHANE	1992	kg							148.4			
+13	Georgia	TRIDIPHANE	1992	kg							14230.4			
+17	Illinois	TRIDIPHANE	1992	kg	92104				54.3					
+17	Illinois	TRIDIPHANE	1993	kg	29167.5									
+17	Illinois	TRIDIPHANE	1994	kg	48177.1									
+17	Illinois	TRIDIPHANE	1995	kg	140902.5									
+17	Illinois	TRIDIPHANE	1997	kg	11930									
+18	Indiana	TRIDIPHANE	1992	kg	39344.4									
+18	Indiana	TRIDIPHANE	1993	kg	19974.7									
+18	Indiana	TRIDIPHANE	1994	kg	106133.9									
+18	Indiana	TRIDIPHANE	1995	kg	216028.8									
+19	Iowa	TRIDIPHANE	1992	kg	42697.5				35.6					
+19	Iowa	TRIDIPHANE	1993	kg	16604.7									
+19	Iowa	TRIDIPHANE	1994	kg	75060.9									
+19	Iowa	TRIDIPHANE	1995	kg	15215.7									
+19	Iowa	TRIDIPHANE	1997	kg	1540.5									
+21	Kentucky	TRIDIPHANE	1992	kg	43.9									
+21	Kentucky	TRIDIPHANE	1993	kg	25.3									
+26	Michigan	TRIDIPHANE	1992	kg	10118.5									
+26	Michigan	TRIDIPHANE	1993	kg	1198									
+26	Michigan	TRIDIPHANE	1994	kg	533.4									
+26	Michigan	TRIDIPHANE	1995	kg	3442.2									
+26	Michigan	TRIDIPHANE	1997	kg	648.3									
+27	Minnesota	TRIDIPHANE	1992	kg	9265.9				882.2					
+27	Minnesota	TRIDIPHANE	1993	kg	6130.9									
+27	Minnesota	TRIDIPHANE	1994	kg	21692.4									
+27	Minnesota	TRIDIPHANE	1995	kg	7909.3									
+27	Minnesota	TRIDIPHANE	1997	kg	446.9									
+29	Missouri	TRIDIPHANE	1992	kg	14114.9									
+29	Missouri	TRIDIPHANE	1993	kg	1945									
+29	Missouri	TRIDIPHANE	1994	kg	8011.3									
+29	Missouri	TRIDIPHANE	1995	kg	1190									
+29	Missouri	TRIDIPHANE	1997	kg	771.7									
+30	Montana	TRIDIPHANE	1994	kg									14278.7	
+31	Nebraska	TRIDIPHANE	1992	kg	21981.3									
+31	Nebraska	TRIDIPHANE	1993	kg	6413.2									
+31	Nebraska	TRIDIPHANE	1994	kg	22517.3									
+31	Nebraska	TRIDIPHANE	1995	kg	5170.9									
+39	Ohio	TRIDIPHANE	1992	kg	7253.1									
+39	Ohio	TRIDIPHANE	1993	kg	1721.7									
+39	Ohio	TRIDIPHANE	1994	kg	11657									
+39	Ohio	TRIDIPHANE	1995	kg	3472.5									
+55	Wisconsin	TRIDIPHANE	1992	kg	25435.8				304.4					
+55	Wisconsin	TRIDIPHANE	1993	kg	3318.5									
+55	Wisconsin	TRIDIPHANE	1994	kg	5600.5									
+55	Wisconsin	TRIDIPHANE	1995	kg	5027.7									
+55	Wisconsin	TRIDIPHANE	1997	kg	858.5									

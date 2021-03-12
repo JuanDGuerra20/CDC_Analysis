@@ -1,0 +1,753 @@
+01	Alabama	HEXAZINONE	1992	kg									621.1	648.7
+01	Alabama	HEXAZINONE	1993	kg									608.5	151.7
+01	Alabama	HEXAZINONE	1994	kg							77.8		12.1	1773.1
+01	Alabama	HEXAZINONE	1995	kg									506.5	4601.3
+01	Alabama	HEXAZINONE	1996	kg									762.4	
+01	Alabama	HEXAZINONE	1997	kg							1729.2			
+01	Alabama	HEXAZINONE	1999	kg									219.5	
+01	Alabama	HEXAZINONE	2009	kg									1905.5	
+01	Alabama	HEXAZINONE	2010	kg									452.6	
+01	Alabama	HEXAZINONE	2012	kg									1110.8	
+04	Arizona	HEXAZINONE	1992	kg								525.9	236.5	
+04	Arizona	HEXAZINONE	1993	kg								716.8		
+04	Arizona	HEXAZINONE	1994	kg								191.3		
+04	Arizona	HEXAZINONE	1995	kg								5336.2		
+04	Arizona	HEXAZINONE	1996	kg								10469.4		
+04	Arizona	HEXAZINONE	1997	kg								6995.8		57.8
+04	Arizona	HEXAZINONE	1998	kg								1304.5	1795.1	
+04	Arizona	HEXAZINONE	1999	kg								4066.7		
+04	Arizona	HEXAZINONE	2000	kg								9386.1		
+04	Arizona	HEXAZINONE	2001	kg								10283.4		
+04	Arizona	HEXAZINONE	2002	kg								10701.9		
+04	Arizona	HEXAZINONE	2003	kg								9004.8		
+04	Arizona	HEXAZINONE	2004	kg								1240.9		
+04	Arizona	HEXAZINONE	2005	kg								2655.9		
+04	Arizona	HEXAZINONE	2006	kg								1736		
+04	Arizona	HEXAZINONE	2007	kg								6434.9		
+04	Arizona	HEXAZINONE	2008	kg								930.5		
+04	Arizona	HEXAZINONE	2009	kg								4322.8		
+04	Arizona	HEXAZINONE	2010	kg								864.8		
+04	Arizona	HEXAZINONE	2011	kg								4898.2		
+04	Arizona	HEXAZINONE	2012	kg								9465.3		
+04	Arizona	HEXAZINONE	2013	kg								866.7		
+04	Arizona	HEXAZINONE	2014	kg								10133		
+04	Arizona	HEXAZINONE	2015	kg								649.3		
+04	Arizona	HEXAZINONE	2016	kg								3791.8		
+04	Arizona	HEXAZINONE	2017	kg								4404.6		
+05	Arkansas	HEXAZINONE	1994	kg										31.6
+05	Arkansas	HEXAZINONE	1995	kg									548.5	
+05	Arkansas	HEXAZINONE	1999	kg									1091.8	
+05	Arkansas	HEXAZINONE	2001	kg									59.9	
+05	Arkansas	HEXAZINONE	2002	kg								228.1		
+05	Arkansas	HEXAZINONE	2003	kg									9033.2	
+05	Arkansas	HEXAZINONE	2004	kg								148.8		
+05	Arkansas	HEXAZINONE	2005	kg								199.7		
+05	Arkansas	HEXAZINONE	2006	kg								57.4		
+05	Arkansas	HEXAZINONE	2008	kg								100.6		
+05	Arkansas	HEXAZINONE	2009	kg								88.6		
+05	Arkansas	HEXAZINONE	2014	kg									1389.1	
+05	Arkansas	HEXAZINONE	2015	kg									26.9	
+06	California	HEXAZINONE	1992	kg					24.9		516.7	35596.8		4671
+06	California	HEXAZINONE	1993	kg							115.8	37492.5	10.8	7987.6
+06	California	HEXAZINONE	1994	kg							9.3	37357.5	1153.8	15459.1
+06	California	HEXAZINONE	1995	kg							28.6	24578.4		13843.4
+06	California	HEXAZINONE	1996	kg							683.8	35007.4	55.9	12281.7
+06	California	HEXAZINONE	1997	kg							2354	32155.3	1398.9	16065.8
+06	California	HEXAZINONE	1998	kg	4.2		7.9	77	0.5		545.3	39949	95.9	6679.4
+06	California	HEXAZINONE	1999	kg					12.9		13.6	32416.5	49.7	3373.8
+06	California	HEXAZINONE	2000	kg					11		21.8	28861.4		5932.4
+06	California	HEXAZINONE	2001	kg							20.4	27673.6		17881.1
+06	California	HEXAZINONE	2002	kg								28846.7	5.4	16890.5
+06	California	HEXAZINONE	2003	kg			4.6	7.7	13.7			34951.5	49.9	14904.1
+06	California	HEXAZINONE	2004	kg							13.6	35217	13.6	15774.1
+06	California	HEXAZINONE	2005	kg								28175.2	10.2	19009.6
+06	California	HEXAZINONE	2006	kg					1.1		2.4	35829.8	28.3	13019.5
+06	California	HEXAZINONE	2007	kg							15.8	25986.3	110.9	7826.9
+06	California	HEXAZINONE	2008	kg							23.4	24866.6	83	4.2
+06	California	HEXAZINONE	2009	kg					27.7		14.8	28445.9		1.2
+06	California	HEXAZINONE	2010	kg				1.1				19869	23.3	0.9
+06	California	HEXAZINONE	2011	kg	3.8				5.7		2.2	31165.1	39.4	4.3
+06	California	HEXAZINONE	2012	kg					14.8		2.3	20394		2.1
+06	California	HEXAZINONE	2013	kg			14.9		53.4		2.4	24219	31.7	1.6
+06	California	HEXAZINONE	2014	kg					40.5		2.8	9768.8	36.1	18.3
+06	California	HEXAZINONE	2015	kg	15.9				49.3			21096.8	1.1	9.8
+06	California	HEXAZINONE	2016	kg								16262.1	27.7	5.1
+06	California	HEXAZINONE	2017	kg								9099.1	93.1	
+08	Colorado	HEXAZINONE	1992	kg								8480.1		
+08	Colorado	HEXAZINONE	1993	kg								6060.9		
+08	Colorado	HEXAZINONE	1994	kg								6676	11725	
+08	Colorado	HEXAZINONE	1995	kg								16449.8	538.3	
+08	Colorado	HEXAZINONE	1996	kg								6790.1	899	
+08	Colorado	HEXAZINONE	1997	kg								11109.8	361.6	
+08	Colorado	HEXAZINONE	1998	kg								9678.3	1453.2	
+08	Colorado	HEXAZINONE	1999	kg								10782.2	951	
+08	Colorado	HEXAZINONE	2000	kg								11027.2		
+08	Colorado	HEXAZINONE	2001	kg								23035		
+08	Colorado	HEXAZINONE	2002	kg								9273.2	318.9	
+08	Colorado	HEXAZINONE	2003	kg								15232.5		
+08	Colorado	HEXAZINONE	2004	kg								19655	552	
+08	Colorado	HEXAZINONE	2005	kg								14619.1		
+08	Colorado	HEXAZINONE	2006	kg								71094.5	409.2	
+08	Colorado	HEXAZINONE	2007	kg								10775.6		
+08	Colorado	HEXAZINONE	2008	kg								6516		
+08	Colorado	HEXAZINONE	2009	kg								7169.3		
+08	Colorado	HEXAZINONE	2010	kg								25672.4		
+08	Colorado	HEXAZINONE	2011	kg								30234.3		
+08	Colorado	HEXAZINONE	2012	kg								15290.9		
+08	Colorado	HEXAZINONE	2013	kg								30857.1	1.8	
+08	Colorado	HEXAZINONE	2014	kg								12938.6	1654.6	
+08	Colorado	HEXAZINONE	2015	kg								9674	923.2	
+08	Colorado	HEXAZINONE	2016	kg								7257.1		
+08	Colorado	HEXAZINONE	2017	kg								7085.7		
+09	Connecticut	HEXAZINONE	1992	kg								116.1		
+09	Connecticut	HEXAZINONE	1994	kg								227.8		
+09	Connecticut	HEXAZINONE	1995	kg								128.2		
+09	Connecticut	HEXAZINONE	1998	kg								143.9		
+09	Connecticut	HEXAZINONE	1999	kg								269.3		
+09	Connecticut	HEXAZINONE	2000	kg								733		
+09	Connecticut	HEXAZINONE	2004	kg								841.6		
+09	Connecticut	HEXAZINONE	2013	kg								323.6		
+10	Delaware	HEXAZINONE	1994	kg								21.8		
+10	Delaware	HEXAZINONE	1995	kg								0		
+10	Delaware	HEXAZINONE	1997	kg								5.3		
+10	Delaware	HEXAZINONE	2003	kg								30.9		
+10	Delaware	HEXAZINONE	2005	kg								4.2		
+10	Delaware	HEXAZINONE	2009	kg								7.3		
+12	Florida	HEXAZINONE	1992	kg									1079.4	1116.9
+12	Florida	HEXAZINONE	1993	kg	51.3								2484	187.1
+12	Florida	HEXAZINONE	1994	kg					52.2		30.4		1089.4	585.6
+12	Florida	HEXAZINONE	1995	kg									1957.3	9589.7
+12	Florida	HEXAZINONE	1996	kg									2361.3	35.5
+12	Florida	HEXAZINONE	1997	kg							646.3		0	72.8
+12	Florida	HEXAZINONE	1998	kg									9811.2	
+12	Florida	HEXAZINONE	1999	kg									142.9	
+12	Florida	HEXAZINONE	2000	kg									28031.9	
+12	Florida	HEXAZINONE	2001	kg									762.9	
+12	Florida	HEXAZINONE	2003	kg									1444.5	
+12	Florida	HEXAZINONE	2004	kg									8.1	
+12	Florida	HEXAZINONE	2005	kg									5377.2	
+12	Florida	HEXAZINONE	2006	kg										4971.4
+12	Florida	HEXAZINONE	2007	kg									3522.9	825.4
+12	Florida	HEXAZINONE	2008	kg										876.6
+12	Florida	HEXAZINONE	2009	kg										927.8
+12	Florida	HEXAZINONE	2010	kg										893.9
+12	Florida	HEXAZINONE	2011	kg										951
+12	Florida	HEXAZINONE	2012	kg										1305.2
+12	Florida	HEXAZINONE	2013	kg										1052
+12	Florida	HEXAZINONE	2014	kg									14881.8	955.1
+12	Florida	HEXAZINONE	2015	kg									4031.2	1022.6
+12	Florida	HEXAZINONE	2017	kg									15358.6	
+13	Georgia	HEXAZINONE	1992	kg									1074.3	1615.7
+13	Georgia	HEXAZINONE	1993	kg	297								980.6	194.9
+13	Georgia	HEXAZINONE	1994	kg					35.3		340		30.2	3323.1
+13	Georgia	HEXAZINONE	1995	kg									2254.3	12854.4
+13	Georgia	HEXAZINONE	1996	kg									203.9	138.7
+13	Georgia	HEXAZINONE	1997	kg							7933.7		0	148.7
+13	Georgia	HEXAZINONE	1998	kg									19.1	
+13	Georgia	HEXAZINONE	1999	kg									664.3	
+13	Georgia	HEXAZINONE	2000	kg									6208.6	
+13	Georgia	HEXAZINONE	2005	kg									564.1	
+13	Georgia	HEXAZINONE	2007	kg									379.9	
+16	Idaho	HEXAZINONE	1992	kg								1535.6		17.3
+16	Idaho	HEXAZINONE	1993	kg			5741.3					1816.6	2942.1	
+16	Idaho	HEXAZINONE	1994	kg								8500.2	1434.7	11.6
+16	Idaho	HEXAZINONE	1995	kg								2337.2		900.9
+16	Idaho	HEXAZINONE	1996	kg								8839.6	7289.2	554.7
+16	Idaho	HEXAZINONE	1997	kg								546.4		
+16	Idaho	HEXAZINONE	1998	kg								19752.3		
+16	Idaho	HEXAZINONE	1999	kg								12723.4		
+16	Idaho	HEXAZINONE	2000	kg								7667.5		
+16	Idaho	HEXAZINONE	2001	kg								26321.6		
+16	Idaho	HEXAZINONE	2002	kg								42263.7		
+16	Idaho	HEXAZINONE	2003	kg								31476.9	4744.5	
+16	Idaho	HEXAZINONE	2004	kg								2276.2	427.9	
+16	Idaho	HEXAZINONE	2005	kg								2836.3		
+16	Idaho	HEXAZINONE	2006	kg								28136.7		
+16	Idaho	HEXAZINONE	2007	kg								28697.7		
+16	Idaho	HEXAZINONE	2008	kg								54672.8		
+16	Idaho	HEXAZINONE	2009	kg								12622.7		
+16	Idaho	HEXAZINONE	2010	kg								12764		
+16	Idaho	HEXAZINONE	2011	kg								24005.6		
+16	Idaho	HEXAZINONE	2012	kg								5682.1		
+16	Idaho	HEXAZINONE	2013	kg								15308.3		
+16	Idaho	HEXAZINONE	2014	kg								8568.8		
+16	Idaho	HEXAZINONE	2015	kg								18654		
+16	Idaho	HEXAZINONE	2016	kg								44079.7		
+16	Idaho	HEXAZINONE	2017	kg								5137.5		
+17	Illinois	HEXAZINONE	1992	kg								2456.2		
+17	Illinois	HEXAZINONE	1993	kg								2330.1	902.7	
+17	Illinois	HEXAZINONE	1994	kg								9687.8		3899.5
+17	Illinois	HEXAZINONE	1995	kg								2903.2		
+17	Illinois	HEXAZINONE	1996	kg								2458.6		681.4
+17	Illinois	HEXAZINONE	1997	kg								1033.8		
+17	Illinois	HEXAZINONE	2001	kg								633.8		
+17	Illinois	HEXAZINONE	2004	kg								246.4		
+17	Illinois	HEXAZINONE	2005	kg								5644.8		
+17	Illinois	HEXAZINONE	2016	kg								1371.8		
+18	Indiana	HEXAZINONE	1992	kg								353	278.9	
+18	Indiana	HEXAZINONE	1994	kg		835.8						7885.1		907.6
+18	Indiana	HEXAZINONE	1995	kg								6133.5		
+18	Indiana	HEXAZINONE	1996	kg								4295.9		132.5
+18	Indiana	HEXAZINONE	1997	kg								1205.7		
+18	Indiana	HEXAZINONE	2000	kg								434.4		
+18	Indiana	HEXAZINONE	2001	kg								520		
+18	Indiana	HEXAZINONE	2004	kg								908.9		
+18	Indiana	HEXAZINONE	2005	kg								2739.7		
+18	Indiana	HEXAZINONE	2012	kg								1908.4		
+18	Indiana	HEXAZINONE	2016	kg								1178.6		
+19	Iowa	HEXAZINONE	1992	kg								455.7	79306.4	
+19	Iowa	HEXAZINONE	1993	kg									2259.3	16.5
+19	Iowa	HEXAZINONE	1994	kg								4295.2		267.7
+19	Iowa	HEXAZINONE	1995	kg								2796		1515.5
+19	Iowa	HEXAZINONE	1996	kg								1005.8	550.7	
+19	Iowa	HEXAZINONE	1997	kg								1516.5		
+19	Iowa	HEXAZINONE	2001	kg								700.3		
+19	Iowa	HEXAZINONE	2005	kg								7005.9		
+19	Iowa	HEXAZINONE	2011	kg								165.8		
+19	Iowa	HEXAZINONE	2016	kg								1891.9		
+20	Kansas	HEXAZINONE	1992	kg								5745.6		
+20	Kansas	HEXAZINONE	1993	kg								6938.6		
+20	Kansas	HEXAZINONE	1994	kg								5941.2	4220.4	464.8
+20	Kansas	HEXAZINONE	1995	kg								11971.8	72.1	
+20	Kansas	HEXAZINONE	1996	kg								2989.1	6566.6	
+20	Kansas	HEXAZINONE	1997	kg								6837.3	432.8	
+20	Kansas	HEXAZINONE	1998	kg								5195.5	580.8	
+20	Kansas	HEXAZINONE	1999	kg								6235.5	402.8	
+20	Kansas	HEXAZINONE	2000	kg								31951.6		
+20	Kansas	HEXAZINONE	2001	kg								23562		
+20	Kansas	HEXAZINONE	2002	kg								1629	141.4	
+20	Kansas	HEXAZINONE	2003	kg								19920	95.6	
+20	Kansas	HEXAZINONE	2004	kg								28999	171.3	
+20	Kansas	HEXAZINONE	2005	kg								9809.2		
+20	Kansas	HEXAZINONE	2006	kg								29088.1	194.6	
+20	Kansas	HEXAZINONE	2007	kg								35818.2		
+20	Kansas	HEXAZINONE	2008	kg								10718.3		
+20	Kansas	HEXAZINONE	2009	kg								29632.2		
+20	Kansas	HEXAZINONE	2010	kg								9012.9		
+20	Kansas	HEXAZINONE	2011	kg								21621.5		
+20	Kansas	HEXAZINONE	2012	kg								20024		
+20	Kansas	HEXAZINONE	2013	kg								36413.4	1.2	
+20	Kansas	HEXAZINONE	2014	kg								10414.9	1559.2	
+20	Kansas	HEXAZINONE	2015	kg								22396.9	598.9	
+20	Kansas	HEXAZINONE	2016	kg								9603.3		
+20	Kansas	HEXAZINONE	2017	kg			84.3					16072.4		
+21	Kentucky	HEXAZINONE	1992	kg								127.2		
+21	Kentucky	HEXAZINONE	1993	kg								98.2		
+21	Kentucky	HEXAZINONE	1994	kg								13002.7		
+21	Kentucky	HEXAZINONE	1995	kg								4222.8		
+21	Kentucky	HEXAZINONE	1996	kg								3966.1		
+21	Kentucky	HEXAZINONE	1997	kg								86.3		
+21	Kentucky	HEXAZINONE	2001	kg								34.9		
+21	Kentucky	HEXAZINONE	2004	kg								2069.6		
+21	Kentucky	HEXAZINONE	2005	kg								329.3		
+21	Kentucky	HEXAZINONE	2010	kg								3920		
+21	Kentucky	HEXAZINONE	2016	kg								89.4		
+22	Louisiana	HEXAZINONE	1992	kg									4.9	
+22	Louisiana	HEXAZINONE	1993	kg									1348.9	
+22	Louisiana	HEXAZINONE	1994	kg										34.1
+22	Louisiana	HEXAZINONE	1995	kg									149.7	272.7
+22	Louisiana	HEXAZINONE	1996	kg									740.1	
+22	Louisiana	HEXAZINONE	1997	kg									619.9	
+22	Louisiana	HEXAZINONE	1998	kg									730.3	
+22	Louisiana	HEXAZINONE	1999	kg									501.8	2612.2
+22	Louisiana	HEXAZINONE	2001	kg									153.5	175.5
+22	Louisiana	HEXAZINONE	2002	kg										4222.3
+22	Louisiana	HEXAZINONE	2003	kg									4179.9	12321.5
+22	Louisiana	HEXAZINONE	2004	kg									1387.1	17015.5
+22	Louisiana	HEXAZINONE	2005	kg										21147.8
+22	Louisiana	HEXAZINONE	2006	kg									2211.2	13992.4
+22	Louisiana	HEXAZINONE	2007	kg									3549.5	2823.7
+22	Louisiana	HEXAZINONE	2008	kg									3746	2948.2
+22	Louisiana	HEXAZINONE	2009	kg										1846.7
+22	Louisiana	HEXAZINONE	2010	kg										895.4
+22	Louisiana	HEXAZINONE	2011	kg										260.2
+23	Maine	HEXAZINONE	1995	kg					6089.9					
+23	Maine	HEXAZINONE	1997	kg					8598.5					
+24	Maryland	HEXAZINONE	1992	kg								572.6		
+24	Maryland	HEXAZINONE	1993	kg									11.2	
+24	Maryland	HEXAZINONE	1994	kg								1277.4		
+24	Maryland	HEXAZINONE	1995	kg								106.8		
+24	Maryland	HEXAZINONE	1997	kg								236.7		
+24	Maryland	HEXAZINONE	1998	kg								392.7		
+24	Maryland	HEXAZINONE	1999	kg								780.9		
+24	Maryland	HEXAZINONE	2000	kg								2267.4		
+24	Maryland	HEXAZINONE	2004	kg								2209.5		
+24	Maryland	HEXAZINONE	2005	kg								119.7		
+24	Maryland	HEXAZINONE	2009	kg								234.1		
+24	Maryland	HEXAZINONE	2013	kg								952.7		
+25	Massachusetts	HEXAZINONE	1992	kg								153.4		
+25	Massachusetts	HEXAZINONE	1994	kg								312.4		
+25	Massachusetts	HEXAZINONE	1995	kg								180.4		
+25	Massachusetts	HEXAZINONE	1998	kg								222.7		
+25	Massachusetts	HEXAZINONE	1999	kg								430.4		
+25	Massachusetts	HEXAZINONE	2000	kg								1212.2		
+25	Massachusetts	HEXAZINONE	2004	kg								1356.7		
+25	Massachusetts	HEXAZINONE	2013	kg								508.6		
+26	Michigan	HEXAZINONE	1992	kg								1560.3	1878.9	7421.9
+26	Michigan	HEXAZINONE	1993	kg								2269.6		
+26	Michigan	HEXAZINONE	1994	kg		1269.6						1586.5		2472.4
+26	Michigan	HEXAZINONE	1995	kg								14283.8		
+26	Michigan	HEXAZINONE	1996	kg								6352.4	65.1	3525.2
+26	Michigan	HEXAZINONE	1997	kg								3014.4		
+26	Michigan	HEXAZINONE	2000	kg								1972.3		
+26	Michigan	HEXAZINONE	2001	kg								9869.2		
+26	Michigan	HEXAZINONE	2002	kg								2909.7		
+26	Michigan	HEXAZINONE	2003	kg								3623.3		
+26	Michigan	HEXAZINONE	2005	kg								2251.6		
+26	Michigan	HEXAZINONE	2012	kg								6908		
+26	Michigan	HEXAZINONE	2016	kg								5941.6		
+27	Minnesota	HEXAZINONE	1992	kg								2381.9		
+27	Minnesota	HEXAZINONE	1993	kg									1444.5	182.9
+27	Minnesota	HEXAZINONE	1994	kg								10527		1517.3
+27	Minnesota	HEXAZINONE	1995	kg								8760.9		17053.4
+27	Minnesota	HEXAZINONE	1996	kg								9766.3		
+27	Minnesota	HEXAZINONE	1997	kg								4397.5		
+27	Minnesota	HEXAZINONE	1998	kg								5300.2		
+27	Minnesota	HEXAZINONE	2000	kg								1849.4		
+27	Minnesota	HEXAZINONE	2001	kg								2212.3		
+27	Minnesota	HEXAZINONE	2002	kg								2056.8		
+27	Minnesota	HEXAZINONE	2004	kg								2368.5		
+27	Minnesota	HEXAZINONE	2005	kg								4726.8		
+27	Minnesota	HEXAZINONE	2006	kg								8644.5		
+27	Minnesota	HEXAZINONE	2007	kg								1521		
+27	Minnesota	HEXAZINONE	2008	kg								2261.8		
+27	Minnesota	HEXAZINONE	2009	kg								4291.1		
+27	Minnesota	HEXAZINONE	2011	kg								2151.7		
+27	Minnesota	HEXAZINONE	2012	kg								2179		
+27	Minnesota	HEXAZINONE	2013	kg								5513.7		
+27	Minnesota	HEXAZINONE	2016	kg								8308.4		
+28	Mississippi	HEXAZINONE	1992	kg									31.4	111.5
+28	Mississippi	HEXAZINONE	1993	kg									283.1	14.5
+28	Mississippi	HEXAZINONE	1994	kg										326.5
+28	Mississippi	HEXAZINONE	1995	kg									167.4	1013.4
+28	Mississippi	HEXAZINONE	1998	kg									4467.1	
+28	Mississippi	HEXAZINONE	2004	kg									8314.8	
+28	Mississippi	HEXAZINONE	2006	kg									2275.8	
+28	Mississippi	HEXAZINONE	2007	kg									3664.7	
+28	Mississippi	HEXAZINONE	2008	kg									5033.8	
+28	Mississippi	HEXAZINONE	2009	kg									3773.6	
+28	Mississippi	HEXAZINONE	2010	kg									867.6	
+28	Mississippi	HEXAZINONE	2012	kg									1054.2	
+29	Missouri	HEXAZINONE	1992	kg								974.9		
+29	Missouri	HEXAZINONE	1993	kg								637.3		
+29	Missouri	HEXAZINONE	1994	kg								2974.3		6161.4
+29	Missouri	HEXAZINONE	1995	kg								1651.2		
+29	Missouri	HEXAZINONE	1996	kg								753.3	1199.6	532
+29	Missouri	HEXAZINONE	1997	kg								548		
+29	Missouri	HEXAZINONE	2000	kg									173.2	
+29	Missouri	HEXAZINONE	2001	kg								268.4		
+29	Missouri	HEXAZINONE	2002	kg								2394.6		
+29	Missouri	HEXAZINONE	2003	kg								1988.5		
+29	Missouri	HEXAZINONE	2004	kg								1316.7		
+29	Missouri	HEXAZINONE	2005	kg								2638.3		
+29	Missouri	HEXAZINONE	2006	kg								1108.7		
+29	Missouri	HEXAZINONE	2008	kg								1104.2		
+29	Missouri	HEXAZINONE	2009	kg								1291		
+29	Missouri	HEXAZINONE	2011	kg								409.6		
+29	Missouri	HEXAZINONE	2012	kg								699.5		
+29	Missouri	HEXAZINONE	2013	kg								2208		
+29	Missouri	HEXAZINONE	2014	kg									2792.5	
+29	Missouri	HEXAZINONE	2015	kg									36.4	
+29	Missouri	HEXAZINONE	2016	kg								758.1		
+29	Missouri	HEXAZINONE	2017	kg			3.8							
+30	Montana	HEXAZINONE	1992	kg								8003.4		213
+30	Montana	HEXAZINONE	1993	kg								5217.2	977	
+30	Montana	HEXAZINONE	1994	kg								16763.6		
+30	Montana	HEXAZINONE	1995	kg								12377.8		
+30	Montana	HEXAZINONE	1996	kg								19804.6		106303
+30	Montana	HEXAZINONE	1997	kg								4191.5		
+30	Montana	HEXAZINONE	1998	kg								27216.4		
+30	Montana	HEXAZINONE	1999	kg								12338.8		
+30	Montana	HEXAZINONE	2000	kg								9741.4		
+30	Montana	HEXAZINONE	2001	kg								17150.5		
+30	Montana	HEXAZINONE	2002	kg								40314.9		
+30	Montana	HEXAZINONE	2003	kg								29651		
+30	Montana	HEXAZINONE	2004	kg								14311.3	1732.2	
+30	Montana	HEXAZINONE	2005	kg								21334.7		
+30	Montana	HEXAZINONE	2006	kg								9488.8		
+30	Montana	HEXAZINONE	2007	kg								21316.5		
+30	Montana	HEXAZINONE	2008	kg								44051.2		
+30	Montana	HEXAZINONE	2009	kg								17660.3		
+30	Montana	HEXAZINONE	2010	kg								15459		
+30	Montana	HEXAZINONE	2011	kg								19643.2		
+30	Montana	HEXAZINONE	2012	kg								22584.6		
+30	Montana	HEXAZINONE	2013	kg								27800.9		
+30	Montana	HEXAZINONE	2014	kg								6405.9		
+30	Montana	HEXAZINONE	2015	kg								12492		
+30	Montana	HEXAZINONE	2016	kg								13958.1		
+30	Montana	HEXAZINONE	2017	kg								9904		
+31	Nebraska	HEXAZINONE	1992	kg								5155.3	44962.1	
+31	Nebraska	HEXAZINONE	1993	kg								4684.7		
+31	Nebraska	HEXAZINONE	1994	kg								15669.6	11317.2	98.6
+31	Nebraska	HEXAZINONE	1995	kg								26628.4	519.8	
+31	Nebraska	HEXAZINONE	1996	kg								18497.5	6252	
+31	Nebraska	HEXAZINONE	1997	kg								11202.9	1248.4	
+31	Nebraska	HEXAZINONE	1998	kg								10768.5	1604.6	
+31	Nebraska	HEXAZINONE	1999	kg								7619.9	1067.1	
+31	Nebraska	HEXAZINONE	2000	kg								18188.3		
+31	Nebraska	HEXAZINONE	2001	kg								24910.9		
+31	Nebraska	HEXAZINONE	2002	kg								13108.9	416.6	
+31	Nebraska	HEXAZINONE	2003	kg								12116.4		
+31	Nebraska	HEXAZINONE	2004	kg								9326.5	401.8	
+31	Nebraska	HEXAZINONE	2005	kg								22610.9		
+31	Nebraska	HEXAZINONE	2006	kg								41760.9	452.8	
+31	Nebraska	HEXAZINONE	2007	kg								14386.7		
+31	Nebraska	HEXAZINONE	2008	kg								5481.1		
+31	Nebraska	HEXAZINONE	2009	kg								11219.5		
+31	Nebraska	HEXAZINONE	2010	kg								4602		
+31	Nebraska	HEXAZINONE	2011	kg								5014.2		
+31	Nebraska	HEXAZINONE	2012	kg								7222.8		
+31	Nebraska	HEXAZINONE	2013	kg								26589.5	1.6	
+31	Nebraska	HEXAZINONE	2014	kg								9409.4	1582.4	
+31	Nebraska	HEXAZINONE	2015	kg								10438.3	395.2	
+31	Nebraska	HEXAZINONE	2016	kg								6167.2		
+31	Nebraska	HEXAZINONE	2017	kg								4584.7		
+32	Nevada	HEXAZINONE	1992	kg								2564.5	66.8	
+32	Nevada	HEXAZINONE	1993	kg								2905.6		
+32	Nevada	HEXAZINONE	1994	kg								4830.9	257.4	
+32	Nevada	HEXAZINONE	1995	kg								2028.3	109.6	
+32	Nevada	HEXAZINONE	1996	kg								1072.9		
+32	Nevada	HEXAZINONE	1997	kg								1869.2		
+32	Nevada	HEXAZINONE	1998	kg								20567.9		
+32	Nevada	HEXAZINONE	1999	kg								25925.4		
+32	Nevada	HEXAZINONE	2000	kg								3072.4		
+32	Nevada	HEXAZINONE	2001	kg								7527.7		
+32	Nevada	HEXAZINONE	2002	kg								7830.3		
+32	Nevada	HEXAZINONE	2003	kg								7980.9	4249.2	
+32	Nevada	HEXAZINONE	2004	kg								1829.2	414.4	
+32	Nevada	HEXAZINONE	2005	kg								4175		
+32	Nevada	HEXAZINONE	2006	kg								8880.7		
+32	Nevada	HEXAZINONE	2007	kg								5567.6		
+32	Nevada	HEXAZINONE	2008	kg								7788.8		
+32	Nevada	HEXAZINONE	2009	kg								4307.8		
+32	Nevada	HEXAZINONE	2010	kg								5447.1		
+32	Nevada	HEXAZINONE	2011	kg								2807.2		
+32	Nevada	HEXAZINONE	2012	kg								6451.6		
+32	Nevada	HEXAZINONE	2013	kg								3378.4		
+32	Nevada	HEXAZINONE	2014	kg								8283.2		
+32	Nevada	HEXAZINONE	2015	kg								6182.9		
+32	Nevada	HEXAZINONE	2016	kg								3940.3		
+32	Nevada	HEXAZINONE	2017	kg								2158.2		
+33	New Hampshire	HEXAZINONE	1995	kg					44					
+34	New Jersey	HEXAZINONE	1992	kg								240.8		
+34	New Jersey	HEXAZINONE	1994	kg								705.8		
+34	New Jersey	HEXAZINONE	1995	kg								68.1		
+34	New Jersey	HEXAZINONE	1997	kg								155.1	11.3	
+34	New Jersey	HEXAZINONE	1998	kg								363.8		
+34	New Jersey	HEXAZINONE	1999	kg								712.3		
+34	New Jersey	HEXAZINONE	2000	kg								4008.1		
+34	New Jersey	HEXAZINONE	2001	kg								1133.4		
+34	New Jersey	HEXAZINONE	2002	kg								4117.6		
+34	New Jersey	HEXAZINONE	2003	kg								337.3		
+34	New Jersey	HEXAZINONE	2004	kg								2160.3		
+34	New Jersey	HEXAZINONE	2005	kg								105.7		
+34	New Jersey	HEXAZINONE	2009	kg								177.5		
+34	New Jersey	HEXAZINONE	2013	kg								1082.9		
+34	New Jersey	HEXAZINONE	2015	kg								26.7		
+35	New Mexico	HEXAZINONE	1992	kg								796.2	221.8	293.8
+35	New Mexico	HEXAZINONE	1993	kg								2081.4		
+35	New Mexico	HEXAZINONE	1994	kg				311.1				3393.6	30144.7	429.2
+35	New Mexico	HEXAZINONE	1995	kg								2593.5	558.5	
+35	New Mexico	HEXAZINONE	1996	kg								3673.7	3014	
+35	New Mexico	HEXAZINONE	1997	kg								3082.9	5003.4	473.5
+35	New Mexico	HEXAZINONE	1998	kg								563	3024.3	
+35	New Mexico	HEXAZINONE	1999	kg								4978.8	5639.9	
+35	New Mexico	HEXAZINONE	2000	kg								28381.1	8607.6	
+35	New Mexico	HEXAZINONE	2001	kg								7750.7		
+35	New Mexico	HEXAZINONE	2002	kg								9251.9	1191.3	
+35	New Mexico	HEXAZINONE	2003	kg								5059.9		
+35	New Mexico	HEXAZINONE	2004	kg								11947.8	6132.4	
+35	New Mexico	HEXAZINONE	2005	kg								6146.1		
+35	New Mexico	HEXAZINONE	2006	kg								9252.1	214.5	
+35	New Mexico	HEXAZINONE	2007	kg								5312.8		
+35	New Mexico	HEXAZINONE	2008	kg								4754.7	7.2	
+35	New Mexico	HEXAZINONE	2009	kg								2203.9		
+35	New Mexico	HEXAZINONE	2010	kg								9069.8		
+35	New Mexico	HEXAZINONE	2011	kg								3457.1		
+35	New Mexico	HEXAZINONE	2012	kg								4522.5		
+35	New Mexico	HEXAZINONE	2013	kg								7748.8	3.2	
+35	New Mexico	HEXAZINONE	2014	kg								3637.8	2749.5	
+35	New Mexico	HEXAZINONE	2015	kg								3244.7	1806.2	
+35	New Mexico	HEXAZINONE	2016	kg								2907.3		
+35	New Mexico	HEXAZINONE	2017	kg								1457.5		
+36	New York	HEXAZINONE	1992	kg							66.1	11522.6		
+36	New York	HEXAZINONE	1993	kg								1011.3		
+36	New York	HEXAZINONE	1994	kg								3402.3		
+36	New York	HEXAZINONE	1995	kg								3615.4		
+36	New York	HEXAZINONE	1996	kg								7361.8	2621.6	
+36	New York	HEXAZINONE	1997	kg								1498.1	80.4	
+36	New York	HEXAZINONE	1998	kg								7317.4		
+36	New York	HEXAZINONE	1999	kg								8588.9		
+36	New York	HEXAZINONE	2000	kg								20919.5		
+36	New York	HEXAZINONE	2001	kg								20371.4		
+36	New York	HEXAZINONE	2002	kg								11110.3		
+36	New York	HEXAZINONE	2004	kg								43450		
+36	New York	HEXAZINONE	2005	kg								5275.3		
+36	New York	HEXAZINONE	2008	kg								226.5		
+36	New York	HEXAZINONE	2013	kg								19549.7		
+36	New York	HEXAZINONE	2015	kg								67.3		
+37	North Carolina	HEXAZINONE	1992	kg										482.2
+37	North Carolina	HEXAZINONE	1993	kg										59
+37	North Carolina	HEXAZINONE	1994	kg										1163.4
+37	North Carolina	HEXAZINONE	1995	kg										3232.9
+37	North Carolina	HEXAZINONE	1996	kg					777					3620.3
+37	North Carolina	HEXAZINONE	2006	kg				723.8						
+38	North Dakota	HEXAZINONE	1992	kg								1975.6		
+38	North Dakota	HEXAZINONE	1994	kg								4763.1		
+38	North Dakota	HEXAZINONE	1995	kg								4230.2		
+38	North Dakota	HEXAZINONE	1996	kg								9461.9		141347.8
+38	North Dakota	HEXAZINONE	1997	kg								1913.6		
+38	North Dakota	HEXAZINONE	1998	kg								7698.1		
+38	North Dakota	HEXAZINONE	2000	kg								129		
+38	North Dakota	HEXAZINONE	2001	kg								1668.6		
+38	North Dakota	HEXAZINONE	2002	kg								1414.4		
+38	North Dakota	HEXAZINONE	2004	kg								4008.2		
+38	North Dakota	HEXAZINONE	2006	kg								15846.6		
+38	North Dakota	HEXAZINONE	2007	kg								2274.9		
+38	North Dakota	HEXAZINONE	2008	kg								4225.5		
+38	North Dakota	HEXAZINONE	2009	kg								8830.9		
+38	North Dakota	HEXAZINONE	2011	kg								4589		
+38	North Dakota	HEXAZINONE	2012	kg								6332.2		
+38	North Dakota	HEXAZINONE	2013	kg								13117		
+38	North Dakota	HEXAZINONE	2016	kg								4986.9		
+39	Ohio	HEXAZINONE	1992	kg							512.6	442.4	50.7	
+39	Ohio	HEXAZINONE	1994	kg		868						3018.6		
+39	Ohio	HEXAZINONE	1995	kg								4061.1		
+39	Ohio	HEXAZINONE	1996	kg								2039.8		
+39	Ohio	HEXAZINONE	1997	kg								1279.6		
+39	Ohio	HEXAZINONE	1999	kg								3654.1		
+39	Ohio	HEXAZINONE	2000	kg								130.2		
+39	Ohio	HEXAZINONE	2001	kg								783.7		
+39	Ohio	HEXAZINONE	2005	kg								22623.2		
+39	Ohio	HEXAZINONE	2006	kg								355		
+39	Ohio	HEXAZINONE	2010	kg								625.4		
+39	Ohio	HEXAZINONE	2012	kg								473.1		
+39	Ohio	HEXAZINONE	2016	kg								1761		
+40	Oklahoma	HEXAZINONE	1992	kg								6759.5	1053.9	
+40	Oklahoma	HEXAZINONE	1993	kg								2146.9		
+40	Oklahoma	HEXAZINONE	1994	kg								18223.3	23986.2	55.5
+40	Oklahoma	HEXAZINONE	1995	kg								8170.3	2616.4	
+40	Oklahoma	HEXAZINONE	1996	kg								10820.3	698.9	
+40	Oklahoma	HEXAZINONE	1997	kg								1479.9	2127.8	
+40	Oklahoma	HEXAZINONE	1998	kg								4647.4	3579.5	
+40	Oklahoma	HEXAZINONE	1999	kg								15134	2085.8	
+40	Oklahoma	HEXAZINONE	2000	kg								11870.7	2495.4	
+40	Oklahoma	HEXAZINONE	2001	kg								42127.2		
+40	Oklahoma	HEXAZINONE	2002	kg								9961.5	613.6	
+40	Oklahoma	HEXAZINONE	2003	kg								5892.3		
+40	Oklahoma	HEXAZINONE	2004	kg								12958.8	757.1	
+40	Oklahoma	HEXAZINONE	2005	kg								15677.5		
+40	Oklahoma	HEXAZINONE	2006	kg								12167.6	16526.2	
+40	Oklahoma	HEXAZINONE	2007	kg								9169.3		
+40	Oklahoma	HEXAZINONE	2008	kg								14000.5	2.7	
+40	Oklahoma	HEXAZINONE	2009	kg								8725.5		
+40	Oklahoma	HEXAZINONE	2010	kg								7882.6		
+40	Oklahoma	HEXAZINONE	2011	kg								7202		
+40	Oklahoma	HEXAZINONE	2012	kg								13895.8		
+40	Oklahoma	HEXAZINONE	2013	kg								20517.9	4.2	
+40	Oklahoma	HEXAZINONE	2014	kg								9130.4	24345.6	
+40	Oklahoma	HEXAZINONE	2015	kg								18161.9	1190	
+40	Oklahoma	HEXAZINONE	2016	kg								8244		
+40	Oklahoma	HEXAZINONE	2017	kg			27.2					4221.3		
+41	Oregon	HEXAZINONE	1992	kg								45625.9	2124.8	634.1
+41	Oregon	HEXAZINONE	1993	kg								30712.6	140.1	3514.1
+41	Oregon	HEXAZINONE	1994	kg								9361.1		30.8
+41	Oregon	HEXAZINONE	1995	kg								2437.5	4711.3	2833.2
+41	Oregon	HEXAZINONE	1996	kg								2887.3	8570.7	750.4
+41	Oregon	HEXAZINONE	1997	kg								16929.9		
+41	Oregon	HEXAZINONE	1998	kg								6282.5		
+41	Oregon	HEXAZINONE	1999	kg								28780.7		
+41	Oregon	HEXAZINONE	2000	kg								51863.7		
+41	Oregon	HEXAZINONE	2001	kg								10097.9		
+41	Oregon	HEXAZINONE	2002	kg								16928.9		
+41	Oregon	HEXAZINONE	2003	kg								16634.6	35063.6	
+41	Oregon	HEXAZINONE	2004	kg								2824.9	6562.1	
+41	Oregon	HEXAZINONE	2005	kg								6196.3		
+41	Oregon	HEXAZINONE	2006	kg								7250.2		
+41	Oregon	HEXAZINONE	2007	kg								6063.9		
+41	Oregon	HEXAZINONE	2008	kg								8665		
+41	Oregon	HEXAZINONE	2009	kg								3093.4		
+41	Oregon	HEXAZINONE	2010	kg								5383.7		
+41	Oregon	HEXAZINONE	2011	kg								3449.2		
+41	Oregon	HEXAZINONE	2012	kg								10656		
+41	Oregon	HEXAZINONE	2013	kg								10907.6		
+41	Oregon	HEXAZINONE	2014	kg								6711.2		
+41	Oregon	HEXAZINONE	2015	kg								13241.7		
+41	Oregon	HEXAZINONE	2016	kg								13504.6		
+41	Oregon	HEXAZINONE	2017	kg								6642.8		
+42	Pennsylvania	HEXAZINONE	1992	kg							730.7	8070.7		
+42	Pennsylvania	HEXAZINONE	1993	kg								831.5	574.7	
+42	Pennsylvania	HEXAZINONE	1994	kg								8768.6		
+42	Pennsylvania	HEXAZINONE	1995	kg								2002.8		
+42	Pennsylvania	HEXAZINONE	1997	kg								2184.4	465.1	
+42	Pennsylvania	HEXAZINONE	1998	kg								2341.4		
+42	Pennsylvania	HEXAZINONE	1999	kg								12377.9		
+42	Pennsylvania	HEXAZINONE	2000	kg								22011.8		
+42	Pennsylvania	HEXAZINONE	2001	kg								23505.8		
+42	Pennsylvania	HEXAZINONE	2002	kg								21877.5		
+42	Pennsylvania	HEXAZINONE	2003	kg								2194.8		
+42	Pennsylvania	HEXAZINONE	2004	kg								41228.3		
+42	Pennsylvania	HEXAZINONE	2005	kg								1075.2		
+42	Pennsylvania	HEXAZINONE	2006	kg								177.8		
+42	Pennsylvania	HEXAZINONE	2008	kg								1647.8		
+42	Pennsylvania	HEXAZINONE	2009	kg								2115.2		
+42	Pennsylvania	HEXAZINONE	2013	kg								9795.2		
+42	Pennsylvania	HEXAZINONE	2015	kg								1031.5		
+42	Pennsylvania	HEXAZINONE	2016	kg								3453.1		
+45	South Carolina	HEXAZINONE	1992	kg									302.8	252.6
+45	South Carolina	HEXAZINONE	1993	kg									51.8	83.6
+45	South Carolina	HEXAZINONE	1994	kg										3107.3
+45	South Carolina	HEXAZINONE	1995	kg									184.8	4852.4
+45	South Carolina	HEXAZINONE	1996	kg					6.1					1008.3
+45	South Carolina	HEXAZINONE	2006	kg				215.6						
+46	South Dakota	HEXAZINONE	1992	kg								3154	12179.6	
+46	South Dakota	HEXAZINONE	1994	kg								16707.1		
+46	South Dakota	HEXAZINONE	1995	kg								14967.4		
+46	South Dakota	HEXAZINONE	1996	kg								15111.9	168.9	
+46	South Dakota	HEXAZINONE	1997	kg								5090.8		
+46	South Dakota	HEXAZINONE	1998	kg								13420.1		
+46	South Dakota	HEXAZINONE	2001	kg								4281.1		
+46	South Dakota	HEXAZINONE	2002	kg								2281.4	42.6	
+46	South Dakota	HEXAZINONE	2004	kg								6386.1		
+46	South Dakota	HEXAZINONE	2005	kg								3143.1		
+46	South Dakota	HEXAZINONE	2006	kg								25105.9		
+46	South Dakota	HEXAZINONE	2007	kg								5206.7		
+46	South Dakota	HEXAZINONE	2008	kg								7124		
+46	South Dakota	HEXAZINONE	2009	kg								16431.8		
+46	South Dakota	HEXAZINONE	2010	kg								341.1		
+46	South Dakota	HEXAZINONE	2011	kg								8955.4		
+46	South Dakota	HEXAZINONE	2012	kg								7290.1		
+46	South Dakota	HEXAZINONE	2013	kg								15768		
+46	South Dakota	HEXAZINONE	2016	kg								7502.9		
+47	Tennessee	HEXAZINONE	1993	kg									1215.2	
+47	Tennessee	HEXAZINONE	1994	kg								1897		
+47	Tennessee	HEXAZINONE	1995	kg								722.1	217.4	
+47	Tennessee	HEXAZINONE	1996	kg								802.9		
+47	Tennessee	HEXAZINONE	2004	kg								288.4		
+47	Tennessee	HEXAZINONE	2009	kg									1857.3	
+47	Tennessee	HEXAZINONE	2010	kg								217.7	430.5	
+48	Texas	HEXAZINONE	1992	kg								1369.1	2061.1	
+48	Texas	HEXAZINONE	1993	kg								3986.2	17658.2	
+48	Texas	HEXAZINONE	1994	kg				12511.3				11876.7	116964.7	2642.2
+48	Texas	HEXAZINONE	1995	kg								7659.5	14017.1	
+48	Texas	HEXAZINONE	1996	kg								1538.1	9403.4	3051.9
+48	Texas	HEXAZINONE	1997	kg								445.3	18421.8	579.2
+48	Texas	HEXAZINONE	1998	kg								5813.4	35679.4	
+48	Texas	HEXAZINONE	1999	kg								1533.1	6836.5	
+48	Texas	HEXAZINONE	2000	kg								20523.7	9223.8	
+48	Texas	HEXAZINONE	2001	kg								3897.9	4182.7	
+48	Texas	HEXAZINONE	2002	kg								21396.8	2785.6	
+48	Texas	HEXAZINONE	2003	kg								2132.9		0
+48	Texas	HEXAZINONE	2004	kg								4536	4383.8	0
+48	Texas	HEXAZINONE	2005	kg								4555.2		0.1
+48	Texas	HEXAZINONE	2006	kg								8086.8	20797.9	0
+48	Texas	HEXAZINONE	2007	kg								8276.7	9.9	
+48	Texas	HEXAZINONE	2008	kg								3482.6	8.8	
+48	Texas	HEXAZINONE	2009	kg								1834.5	632.2	
+48	Texas	HEXAZINONE	2010	kg								2842.7		
+48	Texas	HEXAZINONE	2011	kg								1142.7		
+48	Texas	HEXAZINONE	2012	kg								13898.3		
+48	Texas	HEXAZINONE	2013	kg								7637.1	29.5	
+48	Texas	HEXAZINONE	2014	kg								2986.8	46980.1	
+48	Texas	HEXAZINONE	2015	kg								3629	4065.3	
+48	Texas	HEXAZINONE	2016	kg								2595.7		
+48	Texas	HEXAZINONE	2017	kg								1604.6		
+49	Utah	HEXAZINONE	1992	kg								9858.6		
+49	Utah	HEXAZINONE	1993	kg			1031.6					9789.9		
+49	Utah	HEXAZINONE	1994	kg								11125.5	265.2	
+49	Utah	HEXAZINONE	1995	kg								12519		
+49	Utah	HEXAZINONE	1996	kg								12382.6		
+49	Utah	HEXAZINONE	1997	kg								5260.2		
+49	Utah	HEXAZINONE	1998	kg								10264.6		
+49	Utah	HEXAZINONE	1999	kg								11211.7		
+49	Utah	HEXAZINONE	2000	kg								19440.5		
+49	Utah	HEXAZINONE	2001	kg								7099.4		
+49	Utah	HEXAZINONE	2002	kg								13475.1		
+49	Utah	HEXAZINONE	2003	kg								17736.7		
+49	Utah	HEXAZINONE	2004	kg								17158.5		
+49	Utah	HEXAZINONE	2005	kg								26481.9		
+49	Utah	HEXAZINONE	2006	kg								26544.3		
+49	Utah	HEXAZINONE	2007	kg								19843.6		
+49	Utah	HEXAZINONE	2008	kg								24711.2		
+49	Utah	HEXAZINONE	2009	kg								8211.1		
+49	Utah	HEXAZINONE	2010	kg								15793		
+49	Utah	HEXAZINONE	2011	kg								8452.1		
+49	Utah	HEXAZINONE	2012	kg								11440.7		
+49	Utah	HEXAZINONE	2013	kg								13881.1		
+49	Utah	HEXAZINONE	2014	kg								10885.5		
+49	Utah	HEXAZINONE	2015	kg								7442.2		
+49	Utah	HEXAZINONE	2016	kg								13881.5		
+49	Utah	HEXAZINONE	2017	kg								6982.9		
+51	Virginia	HEXAZINONE	1994	kg								751.2		
+51	Virginia	HEXAZINONE	2010	kg								519.2		
+53	Washington	HEXAZINONE	1992	kg								24773.4	1649.5	649.1
+53	Washington	HEXAZINONE	1993	kg								8903.3	371.5	501.3
+53	Washington	HEXAZINONE	1994	kg								6883.9		16.9
+53	Washington	HEXAZINONE	1995	kg								20805.9		1415.5
+53	Washington	HEXAZINONE	1996	kg								2087	27425.5	784.9
+53	Washington	HEXAZINONE	1997	kg								20399.6		
+53	Washington	HEXAZINONE	1998	kg								50083.3		
+53	Washington	HEXAZINONE	1999	kg								27896.3		
+53	Washington	HEXAZINONE	2000	kg								7389		
+53	Washington	HEXAZINONE	2001	kg								5325.2		
+53	Washington	HEXAZINONE	2002	kg								21139.7		
+53	Washington	HEXAZINONE	2003	kg								15812.5		
+53	Washington	HEXAZINONE	2004	kg								7796	195.1	
+53	Washington	HEXAZINONE	2005	kg								38814.6		
+53	Washington	HEXAZINONE	2006	kg								13901.5		
+53	Washington	HEXAZINONE	2007	kg								8286.2		
+53	Washington	HEXAZINONE	2008	kg								5879		
+53	Washington	HEXAZINONE	2009	kg								4312.6		
+53	Washington	HEXAZINONE	2010	kg								5921.5		
+53	Washington	HEXAZINONE	2011	kg								11742.8		
+53	Washington	HEXAZINONE	2012	kg								1939.6		
+53	Washington	HEXAZINONE	2013	kg								18838.7		
+53	Washington	HEXAZINONE	2014	kg								20289.4		
+53	Washington	HEXAZINONE	2015	kg								12643.1		
+53	Washington	HEXAZINONE	2016	kg								19038.1		
+53	Washington	HEXAZINONE	2017	kg								10752.9		
+54	West Virginia	HEXAZINONE	1993	kg									97.5	
+54	West Virginia	HEXAZINONE	1994	kg								475.6		
+54	West Virginia	HEXAZINONE	1995	kg								255.4		
+54	West Virginia	HEXAZINONE	1999	kg								124.6		
+54	West Virginia	HEXAZINONE	2006	kg								19		
+54	West Virginia	HEXAZINONE	2010	kg								108.6		
+55	Wisconsin	HEXAZINONE	1992	kg								2020.9		
+55	Wisconsin	HEXAZINONE	1993	kg									3879	
+55	Wisconsin	HEXAZINONE	1994	kg								31906.9		2563.3
+55	Wisconsin	HEXAZINONE	1995	kg								15054.4		
+55	Wisconsin	HEXAZINONE	1996	kg								18908.2		415.3
+55	Wisconsin	HEXAZINONE	1997	kg								3638.8		
+55	Wisconsin	HEXAZINONE	1998	kg								5524.3		
+55	Wisconsin	HEXAZINONE	2001	kg								2195.4		
+55	Wisconsin	HEXAZINONE	2002	kg								4520.4		
+55	Wisconsin	HEXAZINONE	2003	kg								3494.2		
+55	Wisconsin	HEXAZINONE	2005	kg								3951.9		
+55	Wisconsin	HEXAZINONE	2012	kg								329.6		
+55	Wisconsin	HEXAZINONE	2016	kg								9904.2		
+56	Wyoming	HEXAZINONE	1992	kg								4142.3		
+56	Wyoming	HEXAZINONE	1993	kg								2021.7		
+56	Wyoming	HEXAZINONE	1994	kg								4020.9	0.6	
+56	Wyoming	HEXAZINONE	1995	kg								2074.6	260.9	
+56	Wyoming	HEXAZINONE	1996	kg								7603.6		
+56	Wyoming	HEXAZINONE	1997	kg								1575.3		
+56	Wyoming	HEXAZINONE	1998	kg								7795.9		
+56	Wyoming	HEXAZINONE	1999	kg								2982.4		
+56	Wyoming	HEXAZINONE	2000	kg								7492		
+56	Wyoming	HEXAZINONE	2001	kg								2424.6		
+56	Wyoming	HEXAZINONE	2002	kg								1840.6	381.5	
+56	Wyoming	HEXAZINONE	2003	kg								7808		
+56	Wyoming	HEXAZINONE	2004	kg								5009.8	2803	
+56	Wyoming	HEXAZINONE	2005	kg								11603.9		
+56	Wyoming	HEXAZINONE	2006	kg								21643.6		
+56	Wyoming	HEXAZINONE	2007	kg								12006.7		
+56	Wyoming	HEXAZINONE	2008	kg								67026.2		
+56	Wyoming	HEXAZINONE	2009	kg								8587.4		
+56	Wyoming	HEXAZINONE	2010	kg								4106.2		
+56	Wyoming	HEXAZINONE	2011	kg								7171		
+56	Wyoming	HEXAZINONE	2012	kg								8686.4		
+56	Wyoming	HEXAZINONE	2013	kg								4556.8		
+56	Wyoming	HEXAZINONE	2014	kg								1334.2		
+56	Wyoming	HEXAZINONE	2015	kg								5366.4		
+56	Wyoming	HEXAZINONE	2016	kg								10251.3		
+56	Wyoming	HEXAZINONE	2017	kg								1617.7		

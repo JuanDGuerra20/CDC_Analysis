@@ -1,0 +1,372 @@
+04	Arizona	PHENMEDIPHAM	1993	kg					0					
+04	Arizona	PHENMEDIPHAM	1997	kg					1.3					
+04	Arizona	PHENMEDIPHAM	2015	kg					676.6					
+05	Arkansas	PHENMEDIPHAM	1999	kg					59.5					
+05	Arkansas	PHENMEDIPHAM	2000	kg					77.9					
+05	Arkansas	PHENMEDIPHAM	2001	kg					20.9					
+05	Arkansas	PHENMEDIPHAM	2002	kg					65					
+05	Arkansas	PHENMEDIPHAM	2003	kg					46.9					
+06	California	PHENMEDIPHAM	1992	kg					91.5					4771.4
+06	California	PHENMEDIPHAM	1993	kg					106.3					4111.1
+06	California	PHENMEDIPHAM	1994	kg					125.9					3878.8
+06	California	PHENMEDIPHAM	1995	kg					141.3					3835.3
+06	California	PHENMEDIPHAM	1996	kg					234.2		1.6			2757
+06	California	PHENMEDIPHAM	1997	kg					197					2796.6
+06	California	PHENMEDIPHAM	1998	kg	24.5				479					2140.4
+06	California	PHENMEDIPHAM	1999	kg					361.1					2676.1
+06	California	PHENMEDIPHAM	2000	kg			0.4		353.6					3012.3
+06	California	PHENMEDIPHAM	2001	kg					87.3					1700.1
+06	California	PHENMEDIPHAM	2002	kg					432.5					2693.3
+06	California	PHENMEDIPHAM	2003	kg					629.5		0.1			1647.3
+06	California	PHENMEDIPHAM	2004	kg					333					1700.2
+06	California	PHENMEDIPHAM	2005	kg					566.7					1889.7
+06	California	PHENMEDIPHAM	2006	kg					495.4					1310.8
+06	California	PHENMEDIPHAM	2007	kg					424.5					863.8
+06	California	PHENMEDIPHAM	2008	kg					291.3					589.6
+06	California	PHENMEDIPHAM	2009	kg					571					566.1
+06	California	PHENMEDIPHAM	2010	kg					482					628.2
+06	California	PHENMEDIPHAM	2011	kg					336.5					610
+06	California	PHENMEDIPHAM	2012	kg					260.7					637.8
+06	California	PHENMEDIPHAM	2013	kg					80.5					448.6
+06	California	PHENMEDIPHAM	2014	kg					126.8					239.6
+06	California	PHENMEDIPHAM	2015	kg					78.3					49.3
+06	California	PHENMEDIPHAM	2016	kg					99.8					75.1
+06	California	PHENMEDIPHAM	2017	kg					98.7					23.5
+08	Colorado	PHENMEDIPHAM	1992	kg	750.3				36.8					606.8
+08	Colorado	PHENMEDIPHAM	1993	kg									11.2	935
+08	Colorado	PHENMEDIPHAM	1994	kg										752.8
+08	Colorado	PHENMEDIPHAM	1995	kg										878.3
+08	Colorado	PHENMEDIPHAM	1996	kg										2218.6
+08	Colorado	PHENMEDIPHAM	1997	kg										3929.7
+08	Colorado	PHENMEDIPHAM	1998	kg										4527
+08	Colorado	PHENMEDIPHAM	1999	kg										2723.9
+08	Colorado	PHENMEDIPHAM	2000	kg										2521.1
+08	Colorado	PHENMEDIPHAM	2001	kg										1703.5
+08	Colorado	PHENMEDIPHAM	2002	kg										1938.1
+08	Colorado	PHENMEDIPHAM	2003	kg										2069.1
+08	Colorado	PHENMEDIPHAM	2004	kg										1638.4
+08	Colorado	PHENMEDIPHAM	2005	kg										1079.9
+08	Colorado	PHENMEDIPHAM	2006	kg										1780.6
+08	Colorado	PHENMEDIPHAM	2007	kg										1132.7
+08	Colorado	PHENMEDIPHAM	2008	kg										18.4
+08	Colorado	PHENMEDIPHAM	2009	kg										69.4
+08	Colorado	PHENMEDIPHAM	2010	kg										78.9
+08	Colorado	PHENMEDIPHAM	2011	kg										63.3
+08	Colorado	PHENMEDIPHAM	2012	kg										26.2
+08	Colorado	PHENMEDIPHAM	2013	kg										3.4
+08	Colorado	PHENMEDIPHAM	2014	kg										1092.7
+08	Colorado	PHENMEDIPHAM	2015	kg										60.9
+08	Colorado	PHENMEDIPHAM	2016	kg										74.8
+08	Colorado	PHENMEDIPHAM	2017	kg										134.9
+09	Connecticut	PHENMEDIPHAM	1995	kg					0					
+10	Delaware	PHENMEDIPHAM	1992	kg					0.2					
+10	Delaware	PHENMEDIPHAM	1998	kg					41.8					
+10	Delaware	PHENMEDIPHAM	2000	kg					33.3					
+10	Delaware	PHENMEDIPHAM	2001	kg					50.4					
+10	Delaware	PHENMEDIPHAM	2002	kg					755.8					
+10	Delaware	PHENMEDIPHAM	2004	kg					7.7					
+10	Delaware	PHENMEDIPHAM	2013	kg					0.6					
+10	Delaware	PHENMEDIPHAM	2015	kg					0.6					
+16	Idaho	PHENMEDIPHAM	1992	kg			292.5		24.5					9068.3
+16	Idaho	PHENMEDIPHAM	1993	kg										13925.1
+16	Idaho	PHENMEDIPHAM	1994	kg			346.5		108.2					7797.2
+16	Idaho	PHENMEDIPHAM	1995	kg										9026.8
+16	Idaho	PHENMEDIPHAM	1996	kg										10439.9
+16	Idaho	PHENMEDIPHAM	1997	kg					28.7					7434.6
+16	Idaho	PHENMEDIPHAM	1998	kg										9469.6
+16	Idaho	PHENMEDIPHAM	1999	kg										7642.7
+16	Idaho	PHENMEDIPHAM	2000	kg										10900.2
+16	Idaho	PHENMEDIPHAM	2001	kg										9740.2
+16	Idaho	PHENMEDIPHAM	2002	kg										11487
+16	Idaho	PHENMEDIPHAM	2003	kg										11143.1
+16	Idaho	PHENMEDIPHAM	2004	kg										14866.8
+16	Idaho	PHENMEDIPHAM	2005	kg										9061.8
+16	Idaho	PHENMEDIPHAM	2006	kg										7448.5
+16	Idaho	PHENMEDIPHAM	2007	kg										9472.1
+16	Idaho	PHENMEDIPHAM	2008	kg										432.2
+17	Illinois	PHENMEDIPHAM	1992	kg		7050.4								
+18	Indiana	PHENMEDIPHAM	1992	kg		2721.5			272					
+19	Iowa	PHENMEDIPHAM	1995	kg	372.7									
+24	Maryland	PHENMEDIPHAM	1992	kg					15.8					
+24	Maryland	PHENMEDIPHAM	1998	kg					370					
+24	Maryland	PHENMEDIPHAM	1999	kg					1.5					
+24	Maryland	PHENMEDIPHAM	2000	kg					305.7					
+24	Maryland	PHENMEDIPHAM	2001	kg					495.2					
+24	Maryland	PHENMEDIPHAM	2002	kg					251.4					
+24	Maryland	PHENMEDIPHAM	2004	kg					137.4					
+24	Maryland	PHENMEDIPHAM	2006	kg					1.6					
+24	Maryland	PHENMEDIPHAM	2008	kg					36.5					
+24	Maryland	PHENMEDIPHAM	2009	kg					36.7					
+25	Massachusetts	PHENMEDIPHAM	1995	kg					1.4					
+26	Michigan	PHENMEDIPHAM	1992	kg										2424.7
+26	Michigan	PHENMEDIPHAM	1993	kg		188			34.5					6639.7
+26	Michigan	PHENMEDIPHAM	1994	kg			16.9							7066.3
+26	Michigan	PHENMEDIPHAM	1995	kg										6068.4
+26	Michigan	PHENMEDIPHAM	1996	kg					269.1					3989.8
+26	Michigan	PHENMEDIPHAM	1997	kg									142	7234.6
+26	Michigan	PHENMEDIPHAM	1998	kg										7058.7
+26	Michigan	PHENMEDIPHAM	1999	kg										11046.5
+26	Michigan	PHENMEDIPHAM	2000	kg										9488.6
+26	Michigan	PHENMEDIPHAM	2001	kg										9191.3
+26	Michigan	PHENMEDIPHAM	2002	kg										10422.4
+26	Michigan	PHENMEDIPHAM	2003	kg										11505
+26	Michigan	PHENMEDIPHAM	2004	kg										11519.6
+26	Michigan	PHENMEDIPHAM	2005	kg										12061
+26	Michigan	PHENMEDIPHAM	2006	kg										9491.5
+26	Michigan	PHENMEDIPHAM	2007	kg										10734.1
+26	Michigan	PHENMEDIPHAM	2008	kg										3287.2
+26	Michigan	PHENMEDIPHAM	2009	kg										521.7
+26	Michigan	PHENMEDIPHAM	2016	kg										60.1
+27	Minnesota	PHENMEDIPHAM	1992	kg										18306.6
+27	Minnesota	PHENMEDIPHAM	1993	kg		326.6								23370.1
+27	Minnesota	PHENMEDIPHAM	1994	kg					19.2					20001.2
+27	Minnesota	PHENMEDIPHAM	1995	kg	560.8				5687.3					21803.6
+27	Minnesota	PHENMEDIPHAM	1996	kg										21433.7
+27	Minnesota	PHENMEDIPHAM	1997	kg										19966.9
+27	Minnesota	PHENMEDIPHAM	1998	kg										28130.6
+27	Minnesota	PHENMEDIPHAM	1999	kg										23895.1
+27	Minnesota	PHENMEDIPHAM	2000	kg										23256
+27	Minnesota	PHENMEDIPHAM	2001	kg										22177.8
+27	Minnesota	PHENMEDIPHAM	2002	kg										24112.2
+27	Minnesota	PHENMEDIPHAM	2003	kg										24030.8
+27	Minnesota	PHENMEDIPHAM	2004	kg										26472.4
+27	Minnesota	PHENMEDIPHAM	2005	kg										32235
+27	Minnesota	PHENMEDIPHAM	2006	kg										24678.4
+27	Minnesota	PHENMEDIPHAM	2007	kg										35625.6
+27	Minnesota	PHENMEDIPHAM	2008	kg										17468.1
+27	Minnesota	PHENMEDIPHAM	2009	kg										2112.7
+27	Minnesota	PHENMEDIPHAM	2010	kg										1890.5
+27	Minnesota	PHENMEDIPHAM	2011	kg										6039.6
+27	Minnesota	PHENMEDIPHAM	2012	kg										722.5
+27	Minnesota	PHENMEDIPHAM	2013	kg										777.7
+27	Minnesota	PHENMEDIPHAM	2014	kg										1866.9
+27	Minnesota	PHENMEDIPHAM	2015	kg										2223.7
+27	Minnesota	PHENMEDIPHAM	2016	kg										1464.6
+27	Minnesota	PHENMEDIPHAM	2017	kg										1203.2
+30	Montana	PHENMEDIPHAM	1992	kg										3628.8
+30	Montana	PHENMEDIPHAM	1993	kg										2516
+30	Montana	PHENMEDIPHAM	1994	kg										3391.7
+30	Montana	PHENMEDIPHAM	1995	kg										3122.9
+30	Montana	PHENMEDIPHAM	1996	kg										3245.2
+30	Montana	PHENMEDIPHAM	1997	kg										2064.1
+30	Montana	PHENMEDIPHAM	1998	kg										1976
+30	Montana	PHENMEDIPHAM	1999	kg										3033.6
+30	Montana	PHENMEDIPHAM	2000	kg										3363.2
+30	Montana	PHENMEDIPHAM	2001	kg										4505.3
+30	Montana	PHENMEDIPHAM	2002	kg										2313.8
+30	Montana	PHENMEDIPHAM	2003	kg										4430.4
+30	Montana	PHENMEDIPHAM	2004	kg										4136.7
+30	Montana	PHENMEDIPHAM	2005	kg										2856.9
+30	Montana	PHENMEDIPHAM	2006	kg										3104.6
+30	Montana	PHENMEDIPHAM	2007	kg										3140.9
+30	Montana	PHENMEDIPHAM	2008	kg										144.4
+30	Montana	PHENMEDIPHAM	2009	kg										46.1
+30	Montana	PHENMEDIPHAM	2010	kg										83.5
+30	Montana	PHENMEDIPHAM	2011	kg										62.5
+30	Montana	PHENMEDIPHAM	2012	kg										29.4
+30	Montana	PHENMEDIPHAM	2013	kg										35.2
+30	Montana	PHENMEDIPHAM	2014	kg										86.4
+30	Montana	PHENMEDIPHAM	2015	kg										87.2
+30	Montana	PHENMEDIPHAM	2016	kg										93.2
+30	Montana	PHENMEDIPHAM	2017	kg										136.5
+31	Nebraska	PHENMEDIPHAM	1992	kg	516.1				112.7					2137.8
+31	Nebraska	PHENMEDIPHAM	1993	kg									7.2	3276.7
+31	Nebraska	PHENMEDIPHAM	1994	kg										2283.6
+31	Nebraska	PHENMEDIPHAM	1995	kg										2362.2
+31	Nebraska	PHENMEDIPHAM	1996	kg										1575.7
+31	Nebraska	PHENMEDIPHAM	1997	kg										3075
+31	Nebraska	PHENMEDIPHAM	1998	kg										688.6
+31	Nebraska	PHENMEDIPHAM	1999	kg										2376.9
+31	Nebraska	PHENMEDIPHAM	2000	kg										3836.1
+31	Nebraska	PHENMEDIPHAM	2001	kg										1863.7
+31	Nebraska	PHENMEDIPHAM	2002	kg										2508.1
+31	Nebraska	PHENMEDIPHAM	2003	kg										1723.7
+31	Nebraska	PHENMEDIPHAM	2004	kg										490.8
+31	Nebraska	PHENMEDIPHAM	2005	kg										2457.9
+31	Nebraska	PHENMEDIPHAM	2006	kg										3792.7
+31	Nebraska	PHENMEDIPHAM	2007	kg										3812.2
+31	Nebraska	PHENMEDIPHAM	2008	kg										619.4
+31	Nebraska	PHENMEDIPHAM	2009	kg										142.3
+31	Nebraska	PHENMEDIPHAM	2010	kg										171.9
+31	Nebraska	PHENMEDIPHAM	2011	kg										146.4
+31	Nebraska	PHENMEDIPHAM	2012	kg										61.2
+31	Nebraska	PHENMEDIPHAM	2013	kg										8.5
+31	Nebraska	PHENMEDIPHAM	2014	kg										1769.1
+31	Nebraska	PHENMEDIPHAM	2015	kg										105.4
+31	Nebraska	PHENMEDIPHAM	2016	kg										166.1
+31	Nebraska	PHENMEDIPHAM	2017	kg										252.6
+32	Nevada	PHENMEDIPHAM	2015	kg					0.1					
+33	New Hampshire	PHENMEDIPHAM	1995	kg					0					
+34	New Jersey	PHENMEDIPHAM	1992	kg					68.4					
+34	New Jersey	PHENMEDIPHAM	1995	kg					414.5					
+34	New Jersey	PHENMEDIPHAM	1996	kg					652.2					
+34	New Jersey	PHENMEDIPHAM	1999	kg					116.8					
+34	New Jersey	PHENMEDIPHAM	2001	kg					100.3					
+34	New Jersey	PHENMEDIPHAM	2002	kg					192.7					
+34	New Jersey	PHENMEDIPHAM	2003	kg					945.8					
+34	New Jersey	PHENMEDIPHAM	2004	kg					511.1					
+34	New Jersey	PHENMEDIPHAM	2005	kg					1035.9					
+34	New Jersey	PHENMEDIPHAM	2006	kg					220.1					
+34	New Jersey	PHENMEDIPHAM	2007	kg					851.5					
+34	New Jersey	PHENMEDIPHAM	2008	kg					526.4					
+34	New Jersey	PHENMEDIPHAM	2009	kg					719.9					
+34	New Jersey	PHENMEDIPHAM	2010	kg					870.6					
+34	New Jersey	PHENMEDIPHAM	2011	kg					697.3					
+34	New Jersey	PHENMEDIPHAM	2012	kg					1215.1					
+34	New Jersey	PHENMEDIPHAM	2013	kg					779.4					
+34	New Jersey	PHENMEDIPHAM	2015	kg					904					
+36	New York	PHENMEDIPHAM	1995	kg					0.6					
+36	New York	PHENMEDIPHAM	1997	kg					352.9					
+36	New York	PHENMEDIPHAM	1999	kg					8					
+36	New York	PHENMEDIPHAM	2001	kg					59.8					
+36	New York	PHENMEDIPHAM	2002	kg					23.2					
+36	New York	PHENMEDIPHAM	2004	kg					33.4					
+36	New York	PHENMEDIPHAM	2006	kg					9.9					
+36	New York	PHENMEDIPHAM	2008	kg					0.9					
+36	New York	PHENMEDIPHAM	2009	kg					8.9					
+36	New York	PHENMEDIPHAM	2013	kg					1.7					
+37	North Carolina	PHENMEDIPHAM	1994	kg			73							
+38	North Dakota	PHENMEDIPHAM	1992	kg										10125.8
+38	North Dakota	PHENMEDIPHAM	1993	kg		42.9								10440.7
+38	North Dakota	PHENMEDIPHAM	1994	kg										8545.2
+38	North Dakota	PHENMEDIPHAM	1995	kg					14876.4					11399.3
+38	North Dakota	PHENMEDIPHAM	1996	kg										11911.9
+38	North Dakota	PHENMEDIPHAM	1997	kg										10934.4
+38	North Dakota	PHENMEDIPHAM	1998	kg										14316.4
+38	North Dakota	PHENMEDIPHAM	1999	kg										10774.7
+38	North Dakota	PHENMEDIPHAM	2000	kg										15731.9
+38	North Dakota	PHENMEDIPHAM	2001	kg										13756
+38	North Dakota	PHENMEDIPHAM	2002	kg										14720.2
+38	North Dakota	PHENMEDIPHAM	2003	kg										30706.4
+38	North Dakota	PHENMEDIPHAM	2004	kg										17330.3
+38	North Dakota	PHENMEDIPHAM	2005	kg										19974.2
+38	North Dakota	PHENMEDIPHAM	2006	kg										10792.6
+38	North Dakota	PHENMEDIPHAM	2007	kg										10085.8
+38	North Dakota	PHENMEDIPHAM	2008	kg										4932.4
+38	North Dakota	PHENMEDIPHAM	2009	kg										584.1
+38	North Dakota	PHENMEDIPHAM	2010	kg										868.9
+38	North Dakota	PHENMEDIPHAM	2011	kg										709.3
+38	North Dakota	PHENMEDIPHAM	2012	kg										285.9
+38	North Dakota	PHENMEDIPHAM	2013	kg										363.4
+38	North Dakota	PHENMEDIPHAM	2014	kg										725.2
+38	North Dakota	PHENMEDIPHAM	2015	kg										850.4
+38	North Dakota	PHENMEDIPHAM	2016	kg										1456.8
+38	North Dakota	PHENMEDIPHAM	2017	kg										1399.4
+39	Ohio	PHENMEDIPHAM	1992	kg		700.2								85.3
+39	Ohio	PHENMEDIPHAM	1993	kg										195.5
+39	Ohio	PHENMEDIPHAM	1994	kg										284.1
+39	Ohio	PHENMEDIPHAM	1995	kg										289
+39	Ohio	PHENMEDIPHAM	1996	kg										138
+39	Ohio	PHENMEDIPHAM	1997	kg										71.6
+39	Ohio	PHENMEDIPHAM	1998	kg										139.2
+39	Ohio	PHENMEDIPHAM	1999	kg										15.3
+39	Ohio	PHENMEDIPHAM	2000	kg										269.9
+39	Ohio	PHENMEDIPHAM	2001	kg										30.5
+39	Ohio	PHENMEDIPHAM	2002	kg										123.3
+39	Ohio	PHENMEDIPHAM	2003	kg										129.1
+39	Ohio	PHENMEDIPHAM	2004	kg										177.8
+39	Ohio	PHENMEDIPHAM	2005	kg										545.5
+39	Ohio	PHENMEDIPHAM	2006	kg										76.1
+39	Ohio	PHENMEDIPHAM	2007	kg										352.9
+40	Oklahoma	PHENMEDIPHAM	1999	kg					269.6					
+40	Oklahoma	PHENMEDIPHAM	2000	kg					298.5					
+40	Oklahoma	PHENMEDIPHAM	2001	kg					38.8					
+40	Oklahoma	PHENMEDIPHAM	2002	kg					208.3					
+40	Oklahoma	PHENMEDIPHAM	2003	kg					141.9					
+40	Oklahoma	PHENMEDIPHAM	2011	kg					93.4					
+41	Oregon	PHENMEDIPHAM	1992	kg					4.2					7170.8
+41	Oregon	PHENMEDIPHAM	1993	kg										516.4
+41	Oregon	PHENMEDIPHAM	1994	kg					18.1					182.1
+41	Oregon	PHENMEDIPHAM	1995	kg					9.1					1115.2
+41	Oregon	PHENMEDIPHAM	1996	kg					21.1					668.2
+41	Oregon	PHENMEDIPHAM	1997	kg					128.7					245.7
+41	Oregon	PHENMEDIPHAM	1998	kg										1249.3
+41	Oregon	PHENMEDIPHAM	1999	kg										849.9
+41	Oregon	PHENMEDIPHAM	2000	kg										419.4
+41	Oregon	PHENMEDIPHAM	2001	kg										579.3
+41	Oregon	PHENMEDIPHAM	2002	kg										472.6
+41	Oregon	PHENMEDIPHAM	2003	kg										224.2
+41	Oregon	PHENMEDIPHAM	2004	kg										618.1
+41	Oregon	PHENMEDIPHAM	2005	kg										768.6
+41	Oregon	PHENMEDIPHAM	2006	kg										522
+41	Oregon	PHENMEDIPHAM	2007	kg										685.7
+41	Oregon	PHENMEDIPHAM	2008	kg										21.7
+42	Pennsylvania	PHENMEDIPHAM	1992	kg					45.3					
+42	Pennsylvania	PHENMEDIPHAM	1995	kg					6.5					
+42	Pennsylvania	PHENMEDIPHAM	1996	kg					13.5					
+42	Pennsylvania	PHENMEDIPHAM	1997	kg					1.8					
+42	Pennsylvania	PHENMEDIPHAM	1998	kg					15.9					
+42	Pennsylvania	PHENMEDIPHAM	1999	kg					2.2					
+42	Pennsylvania	PHENMEDIPHAM	2000	kg					13.8					
+42	Pennsylvania	PHENMEDIPHAM	2001	kg					18.9					
+42	Pennsylvania	PHENMEDIPHAM	2002	kg					7.2					
+42	Pennsylvania	PHENMEDIPHAM	2003	kg					11.7					
+42	Pennsylvania	PHENMEDIPHAM	2004	kg					11.2					
+42	Pennsylvania	PHENMEDIPHAM	2005	kg					9.3					
+42	Pennsylvania	PHENMEDIPHAM	2006	kg					3.7					
+42	Pennsylvania	PHENMEDIPHAM	2007	kg					11.8					
+42	Pennsylvania	PHENMEDIPHAM	2008	kg					3.2					
+42	Pennsylvania	PHENMEDIPHAM	2009	kg					3.8					
+42	Pennsylvania	PHENMEDIPHAM	2010	kg					3.3					
+42	Pennsylvania	PHENMEDIPHAM	2011	kg					3.1					
+42	Pennsylvania	PHENMEDIPHAM	2012	kg					6					
+42	Pennsylvania	PHENMEDIPHAM	2013	kg					2.7					
+42	Pennsylvania	PHENMEDIPHAM	2015	kg					6.4					
+46	South Dakota	PHENMEDIPHAM	1992	kg	18.3				0.7					
+48	Texas	PHENMEDIPHAM	1992	kg										204.5
+48	Texas	PHENMEDIPHAM	1993	kg										1247.8
+48	Texas	PHENMEDIPHAM	1995	kg										360
+48	Texas	PHENMEDIPHAM	1996	kg										1425.5
+48	Texas	PHENMEDIPHAM	1997	kg										383.4
+48	Texas	PHENMEDIPHAM	1999	kg										233.1
+48	Texas	PHENMEDIPHAM	2000	kg										216.9
+48	Texas	PHENMEDIPHAM	2004	kg										231.2
+48	Texas	PHENMEDIPHAM	2006	kg										1078.1
+48	Texas	PHENMEDIPHAM	2007	kg										1525.4
+48	Texas	PHENMEDIPHAM	2011	kg					0.9					
+49	Utah	PHENMEDIPHAM	1992	kg			8.7							
+49	Utah	PHENMEDIPHAM	1994	kg			8.2		0					
+50	Vermont	PHENMEDIPHAM	1995	kg					0					
+51	Virginia	PHENMEDIPHAM	1994	kg			13.8							
+53	Washington	PHENMEDIPHAM	1992	kg										841.1
+53	Washington	PHENMEDIPHAM	1993	kg										457.8
+53	Washington	PHENMEDIPHAM	1994	kg					137					1470.2
+53	Washington	PHENMEDIPHAM	1995	kg					87.5					1751.9
+53	Washington	PHENMEDIPHAM	1996	kg					231.7					2167.7
+53	Washington	PHENMEDIPHAM	1997	kg										3375.4
+53	Washington	PHENMEDIPHAM	1998	kg										2784
+53	Washington	PHENMEDIPHAM	1999	kg										1132.1
+53	Washington	PHENMEDIPHAM	2000	kg										1239.6
+53	Washington	PHENMEDIPHAM	2001	kg										715.4
+53	Washington	PHENMEDIPHAM	2002	kg										1069.8
+53	Washington	PHENMEDIPHAM	2003	kg										681.9
+53	Washington	PHENMEDIPHAM	2004	kg										1347.8
+53	Washington	PHENMEDIPHAM	2005	kg										1174.4
+53	Washington	PHENMEDIPHAM	2006	kg										878.7
+53	Washington	PHENMEDIPHAM	2007	kg										1296.6
+56	Wyoming	PHENMEDIPHAM	1992	kg	114.6				7.5					2593.6
+56	Wyoming	PHENMEDIPHAM	1993	kg									3.7	2622.3
+56	Wyoming	PHENMEDIPHAM	1994	kg										2577.2
+56	Wyoming	PHENMEDIPHAM	1995	kg										2007.4
+56	Wyoming	PHENMEDIPHAM	1996	kg										2365.4
+56	Wyoming	PHENMEDIPHAM	1997	kg										2377.3
+56	Wyoming	PHENMEDIPHAM	1998	kg										1701.6
+56	Wyoming	PHENMEDIPHAM	1999	kg										3193.6
+56	Wyoming	PHENMEDIPHAM	2000	kg										3481.2
+56	Wyoming	PHENMEDIPHAM	2001	kg										1959.2
+56	Wyoming	PHENMEDIPHAM	2002	kg										2067.1
+56	Wyoming	PHENMEDIPHAM	2003	kg										1450.7
+56	Wyoming	PHENMEDIPHAM	2004	kg										2335.7
+56	Wyoming	PHENMEDIPHAM	2005	kg										1633.9
+56	Wyoming	PHENMEDIPHAM	2006	kg										1561.5
+56	Wyoming	PHENMEDIPHAM	2007	kg										1428.6
+56	Wyoming	PHENMEDIPHAM	2008	kg										146.5
+56	Wyoming	PHENMEDIPHAM	2009	kg										12.2
+56	Wyoming	PHENMEDIPHAM	2010	kg										15
+56	Wyoming	PHENMEDIPHAM	2011	kg										12.1
+56	Wyoming	PHENMEDIPHAM	2012	kg										4.8
+56	Wyoming	PHENMEDIPHAM	2013	kg										0.8
+56	Wyoming	PHENMEDIPHAM	2014	kg										16.3
+56	Wyoming	PHENMEDIPHAM	2015	kg										8
+56	Wyoming	PHENMEDIPHAM	2016	kg										12.9
+56	Wyoming	PHENMEDIPHAM	2017	kg										21

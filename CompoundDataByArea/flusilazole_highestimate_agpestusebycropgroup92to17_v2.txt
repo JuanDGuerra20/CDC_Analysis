@@ -1,0 +1,25 @@
+05	Arkansas	FLUSILAZOLE	2008	kg		5520.3								
+05	Arkansas	FLUSILAZOLE	2009	kg		1713.7								
+17	Illinois	FLUSILAZOLE	2008	kg		5344.6								
+17	Illinois	FLUSILAZOLE	2009	kg		8423.4								
+18	Indiana	FLUSILAZOLE	2008	kg		961.1								
+18	Indiana	FLUSILAZOLE	2009	kg		2754.3								
+19	Iowa	FLUSILAZOLE	2008	kg		5218.3								
+19	Iowa	FLUSILAZOLE	2009	kg		3186.5								
+21	Kentucky	FLUSILAZOLE	2008	kg		1942								
+21	Kentucky	FLUSILAZOLE	2009	kg		634								
+26	Michigan	FLUSILAZOLE	2008	kg		964.4								
+27	Minnesota	FLUSILAZOLE	2008	kg		1138.8								
+27	Minnesota	FLUSILAZOLE	2009	kg		1934.6								
+29	Missouri	FLUSILAZOLE	2008	kg		11009.9								
+29	Missouri	FLUSILAZOLE	2009	kg		4361.5								
+31	Nebraska	FLUSILAZOLE	2008	kg		1228.8								
+31	Nebraska	FLUSILAZOLE	2009	kg		762.9								
+39	Ohio	FLUSILAZOLE	2008	kg		2396.9								
+39	Ohio	FLUSILAZOLE	2009	kg		1166								
+46	South Dakota	FLUSILAZOLE	2008	kg		260.2								
+46	South Dakota	FLUSILAZOLE	2009	kg		681.4								
+47	Tennessee	FLUSILAZOLE	2008	kg		2649.9								
+47	Tennessee	FLUSILAZOLE	2009	kg		944.3								
+51	Virginia	FLUSILAZOLE	2009	kg		15367.2								
+55	Wisconsin	FLUSILAZOLE	2008	kg		90.8								

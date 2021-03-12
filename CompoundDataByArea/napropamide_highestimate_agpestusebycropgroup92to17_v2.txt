@@ -1,0 +1,912 @@
+01	Alabama	NAPROPAMIDE	1992	kg					1.9					0.4
+01	Alabama	NAPROPAMIDE	1993	kg					187					0.7
+01	Alabama	NAPROPAMIDE	1994	kg					199.2					0.1
+01	Alabama	NAPROPAMIDE	1995	kg					152					0.7
+01	Alabama	NAPROPAMIDE	1996	kg					67.6					1
+01	Alabama	NAPROPAMIDE	1997	kg					279.7					0.6
+01	Alabama	NAPROPAMIDE	1998	kg					102.2					0.7
+01	Alabama	NAPROPAMIDE	1999	kg					288.6		365.3			0.8
+01	Alabama	NAPROPAMIDE	2000	kg					145.3					0.7
+01	Alabama	NAPROPAMIDE	2001	kg					48.4		841.2			0.6
+01	Alabama	NAPROPAMIDE	2002	kg					231.6					0.4
+01	Alabama	NAPROPAMIDE	2003	kg					37.7					0.3
+01	Alabama	NAPROPAMIDE	2004	kg					16.7					0.2
+01	Alabama	NAPROPAMIDE	2005	kg										0.1
+01	Alabama	NAPROPAMIDE	2006	kg										0
+01	Alabama	NAPROPAMIDE	2007	kg					59.8					
+01	Alabama	NAPROPAMIDE	2008	kg					35.4					
+01	Alabama	NAPROPAMIDE	2010	kg					34.1					
+01	Alabama	NAPROPAMIDE	2011	kg					67.6					
+01	Alabama	NAPROPAMIDE	2012	kg					25.9					
+01	Alabama	NAPROPAMIDE	2013	kg					6					
+01	Alabama	NAPROPAMIDE	2014	kg					53.8					
+01	Alabama	NAPROPAMIDE	2015	kg					180.4					
+01	Alabama	NAPROPAMIDE	2016	kg					52.2					
+04	Arizona	NAPROPAMIDE	1992	kg					1290.6		48.6			
+04	Arizona	NAPROPAMIDE	1993	kg					261.8		66.4			
+04	Arizona	NAPROPAMIDE	1994	kg					550.4		191.6			
+04	Arizona	NAPROPAMIDE	1995	kg					262.9		157			
+04	Arizona	NAPROPAMIDE	1996	kg					836.3		467.3			
+04	Arizona	NAPROPAMIDE	1997	kg					1067		589.1			
+04	Arizona	NAPROPAMIDE	1998	kg					1094		226.5			
+04	Arizona	NAPROPAMIDE	1999	kg					403.6		238.4			
+04	Arizona	NAPROPAMIDE	2000	kg					66		56			
+04	Arizona	NAPROPAMIDE	2001	kg					811.7		388			
+04	Arizona	NAPROPAMIDE	2002	kg					1132.2		143.4			
+04	Arizona	NAPROPAMIDE	2003	kg					48.2		59			
+04	Arizona	NAPROPAMIDE	2004	kg					980.5		941.2			
+04	Arizona	NAPROPAMIDE	2005	kg					30.6		155.1			
+04	Arizona	NAPROPAMIDE	2006	kg					0.9		3051.6			
+04	Arizona	NAPROPAMIDE	2007	kg					410.9					
+04	Arizona	NAPROPAMIDE	2008	kg					533.6					
+04	Arizona	NAPROPAMIDE	2009	kg					73.5					
+04	Arizona	NAPROPAMIDE	2010	kg					27.6					
+04	Arizona	NAPROPAMIDE	2011	kg					1004.7					
+04	Arizona	NAPROPAMIDE	2012	kg					95.2					
+04	Arizona	NAPROPAMIDE	2013	kg					1111.3					
+04	Arizona	NAPROPAMIDE	2014	kg					605.5					
+04	Arizona	NAPROPAMIDE	2015	kg					0.2					
+04	Arizona	NAPROPAMIDE	2016	kg					2204.3					
+04	Arizona	NAPROPAMIDE	2017	kg					346.4					
+05	Arkansas	NAPROPAMIDE	1993	kg	197.6									
+05	Arkansas	NAPROPAMIDE	1995	kg					221.8					
+05	Arkansas	NAPROPAMIDE	1996	kg					188.3					
+05	Arkansas	NAPROPAMIDE	1997	kg					216.2					
+05	Arkansas	NAPROPAMIDE	2000	kg							1529			
+06	California	NAPROPAMIDE	1992	kg			10.9	814.2	47807.3		20246.2			23.2
+06	California	NAPROPAMIDE	1993	kg			5.2	530.7	65596		18059.3			309.3
+06	California	NAPROPAMIDE	1994	kg					51002.2		21189.4			
+06	California	NAPROPAMIDE	1995	kg					51723.9		47999.7			
+06	California	NAPROPAMIDE	1996	kg					41232.6		58527.6			
+06	California	NAPROPAMIDE	1997	kg					39517.5		29877.8			
+06	California	NAPROPAMIDE	1998	kg	36.3		49.7		27576.7		16025.4		16.2	88.3
+06	California	NAPROPAMIDE	1999	kg				109	21935.1		9933.8	12.7		
+06	California	NAPROPAMIDE	2000	kg	2.3		6.4		16572.3		22590			19.8
+06	California	NAPROPAMIDE	2001	kg	68			69.9	11611.2		47149.2		33.6	3.9
+06	California	NAPROPAMIDE	2002	kg					10922.2		23669.1		8.3	69.9
+06	California	NAPROPAMIDE	2003	kg	14.8				9924.6		7540.3		60.5	22.8
+06	California	NAPROPAMIDE	2004	kg					10705.1		6515.8		324.2	
+06	California	NAPROPAMIDE	2005	kg					8836.1		4551.6		404.5	
+06	California	NAPROPAMIDE	2006	kg					11037.5		4171.1		343.3	23.2
+06	California	NAPROPAMIDE	2007	kg					10495.7		3595.7		243.9	
+06	California	NAPROPAMIDE	2008	kg					10753.7		2430.2			80.7
+06	California	NAPROPAMIDE	2009	kg					8129.9		1056.4			27.2
+06	California	NAPROPAMIDE	2010	kg					5364.9		1300.9			55.4
+06	California	NAPROPAMIDE	2011	kg					5215.1		1059			209.3
+06	California	NAPROPAMIDE	2012	kg					5233.9		1269.5			92.9
+06	California	NAPROPAMIDE	2013	kg					6342.3		895.8			23.9
+06	California	NAPROPAMIDE	2014	kg					7074.8		1512.3			182.8
+06	California	NAPROPAMIDE	2015	kg					6961.4		1962.9			74.6
+06	California	NAPROPAMIDE	2016	kg					7449.6		758.6			9.1
+06	California	NAPROPAMIDE	2017	kg					6414.9		2845.5			25.4
+08	Colorado	NAPROPAMIDE	1994	kg					28.9					
+08	Colorado	NAPROPAMIDE	1996	kg			851.2		5.5					
+08	Colorado	NAPROPAMIDE	1997	kg					178.7					
+08	Colorado	NAPROPAMIDE	1998	kg					61.4					
+08	Colorado	NAPROPAMIDE	2001	kg					3.7					
+08	Colorado	NAPROPAMIDE	2002	kg					99.3					
+08	Colorado	NAPROPAMIDE	2003	kg					53.1					
+08	Colorado	NAPROPAMIDE	2004	kg					99.3					
+08	Colorado	NAPROPAMIDE	2005	kg					116.8					
+08	Colorado	NAPROPAMIDE	2007	kg					52					
+08	Colorado	NAPROPAMIDE	2012	kg					39.1					
+08	Colorado	NAPROPAMIDE	2017	kg					12					
+09	Connecticut	NAPROPAMIDE	1992	kg					170					791.3
+09	Connecticut	NAPROPAMIDE	1993	kg					223.7		2415.1			
+09	Connecticut	NAPROPAMIDE	1994	kg					1127.3					
+09	Connecticut	NAPROPAMIDE	1995	kg					446.5					1296.2
+09	Connecticut	NAPROPAMIDE	1996	kg					844.1		96			
+09	Connecticut	NAPROPAMIDE	1997	kg					162.9					
+09	Connecticut	NAPROPAMIDE	1998	kg					404.4					459.3
+09	Connecticut	NAPROPAMIDE	1999	kg					492.3					
+09	Connecticut	NAPROPAMIDE	2000	kg					456.2					
+09	Connecticut	NAPROPAMIDE	2001	kg					175.7					
+09	Connecticut	NAPROPAMIDE	2002	kg					360.4		148.9			901.7
+09	Connecticut	NAPROPAMIDE	2003	kg					119.4					1290.9
+09	Connecticut	NAPROPAMIDE	2004	kg					135.5					234.9
+09	Connecticut	NAPROPAMIDE	2005	kg					343.7					
+09	Connecticut	NAPROPAMIDE	2006	kg					157.5					
+09	Connecticut	NAPROPAMIDE	2007	kg					56.4					
+09	Connecticut	NAPROPAMIDE	2008	kg					177.7					
+09	Connecticut	NAPROPAMIDE	2009	kg					80.4					
+09	Connecticut	NAPROPAMIDE	2010	kg					97.1					
+09	Connecticut	NAPROPAMIDE	2011	kg					217.2					
+09	Connecticut	NAPROPAMIDE	2012	kg					102.2					
+09	Connecticut	NAPROPAMIDE	2013	kg					203.9					
+09	Connecticut	NAPROPAMIDE	2014	kg					127.6					
+09	Connecticut	NAPROPAMIDE	2015	kg					85.1					
+10	Delaware	NAPROPAMIDE	1992	kg		1493.2			98.7		0.9			
+10	Delaware	NAPROPAMIDE	1993	kg					64.4					
+10	Delaware	NAPROPAMIDE	1994	kg					172.1					
+10	Delaware	NAPROPAMIDE	1995	kg					1692					
+10	Delaware	NAPROPAMIDE	1996	kg					59.1					
+10	Delaware	NAPROPAMIDE	1997	kg					167.2					
+10	Delaware	NAPROPAMIDE	1998	kg					145					
+10	Delaware	NAPROPAMIDE	1999	kg					316.6					
+10	Delaware	NAPROPAMIDE	2000	kg					148.8					
+10	Delaware	NAPROPAMIDE	2001	kg					21.7					
+10	Delaware	NAPROPAMIDE	2002	kg					136.3					
+10	Delaware	NAPROPAMIDE	2003	kg					88.5					
+10	Delaware	NAPROPAMIDE	2004	kg					66.7					
+10	Delaware	NAPROPAMIDE	2005	kg					0.2					
+10	Delaware	NAPROPAMIDE	2006	kg					8.8					
+10	Delaware	NAPROPAMIDE	2007	kg					4.2					
+10	Delaware	NAPROPAMIDE	2008	kg					3.6					
+10	Delaware	NAPROPAMIDE	2009	kg					2					
+10	Delaware	NAPROPAMIDE	2010	kg					17.1					
+10	Delaware	NAPROPAMIDE	2011	kg					20.9					
+10	Delaware	NAPROPAMIDE	2012	kg					19.3					
+10	Delaware	NAPROPAMIDE	2013	kg					4.3					
+10	Delaware	NAPROPAMIDE	2014	kg					4.1					
+10	Delaware	NAPROPAMIDE	2015	kg					0.5					
+12	Florida	NAPROPAMIDE	1992	kg					2208.9		120.5			795.4
+12	Florida	NAPROPAMIDE	1993	kg					7183.6					1212.9
+12	Florida	NAPROPAMIDE	1994	kg					10760.1		23664.1			789.7
+12	Florida	NAPROPAMIDE	1995	kg					6775		4120.8			314.6
+12	Florida	NAPROPAMIDE	1996	kg					6574.2					1051.3
+12	Florida	NAPROPAMIDE	1997	kg					6395.9		3734.2			193
+12	Florida	NAPROPAMIDE	1998	kg					6168.6					334.7
+12	Florida	NAPROPAMIDE	1999	kg					3143.6		283.9			313.1
+12	Florida	NAPROPAMIDE	2000	kg					4690.9					72.2
+12	Florida	NAPROPAMIDE	2001	kg					127.6					182.3
+12	Florida	NAPROPAMIDE	2003	kg					1823.4					94.3
+12	Florida	NAPROPAMIDE	2004	kg					8118.8					
+12	Florida	NAPROPAMIDE	2007	kg					411.9					
+12	Florida	NAPROPAMIDE	2008	kg					2476					
+12	Florida	NAPROPAMIDE	2009	kg					3605.9					
+12	Florida	NAPROPAMIDE	2010	kg					7175.5					
+12	Florida	NAPROPAMIDE	2011	kg					3946.1					
+12	Florida	NAPROPAMIDE	2012	kg					4183.2					2.6
+12	Florida	NAPROPAMIDE	2013	kg					3712.9					0.9
+12	Florida	NAPROPAMIDE	2014	kg					14469.3					1.1
+12	Florida	NAPROPAMIDE	2015	kg					5044.4					3
+12	Florida	NAPROPAMIDE	2016	kg					123.7					
+13	Georgia	NAPROPAMIDE	1992	kg					220.3					11079.1
+13	Georgia	NAPROPAMIDE	1993	kg					2811.3					2647.6
+13	Georgia	NAPROPAMIDE	1994	kg					4539.4					1124.8
+13	Georgia	NAPROPAMIDE	1995	kg	19.1				2779.7					2978.8
+13	Georgia	NAPROPAMIDE	1996	kg					326.2					10095.4
+13	Georgia	NAPROPAMIDE	1997	kg					3454.3					1898.7
+13	Georgia	NAPROPAMIDE	1998	kg					1117.6					916.7
+13	Georgia	NAPROPAMIDE	1999	kg					1246		5929			2721.8
+13	Georgia	NAPROPAMIDE	2000	kg					1417.3					608
+13	Georgia	NAPROPAMIDE	2001	kg							263.9			1551.2
+13	Georgia	NAPROPAMIDE	2002	kg					54.6					1338.9
+13	Georgia	NAPROPAMIDE	2003	kg					5905.6					909
+13	Georgia	NAPROPAMIDE	2004	kg					1603.3					1087.8
+13	Georgia	NAPROPAMIDE	2005	kg										14557.1
+13	Georgia	NAPROPAMIDE	2006	kg										788.3
+13	Georgia	NAPROPAMIDE	2007	kg										936.1
+13	Georgia	NAPROPAMIDE	2008	kg										1034.7
+13	Georgia	NAPROPAMIDE	2009	kg										877.4
+13	Georgia	NAPROPAMIDE	2010	kg										593.2
+13	Georgia	NAPROPAMIDE	2011	kg										765.8
+13	Georgia	NAPROPAMIDE	2012	kg										899.9
+13	Georgia	NAPROPAMIDE	2013	kg					3171.1					261
+13	Georgia	NAPROPAMIDE	2014	kg					782.2					224.6
+13	Georgia	NAPROPAMIDE	2015	kg					4858.4					492.4
+13	Georgia	NAPROPAMIDE	2016	kg					511.3					329.4
+13	Georgia	NAPROPAMIDE	2017	kg										384.2
+16	Idaho	NAPROPAMIDE	1995	kg									2595.3	
+16	Idaho	NAPROPAMIDE	1996	kg					8620					
+16	Idaho	NAPROPAMIDE	1998	kg					0.4					
+16	Idaho	NAPROPAMIDE	1999	kg					0.4					
+16	Idaho	NAPROPAMIDE	2000	kg					1					
+16	Idaho	NAPROPAMIDE	2001	kg					1.2					
+16	Idaho	NAPROPAMIDE	2002	kg					3					
+16	Idaho	NAPROPAMIDE	2003	kg					0.2					
+16	Idaho	NAPROPAMIDE	2004	kg					1.6					
+16	Idaho	NAPROPAMIDE	2006	kg					3.6					
+16	Idaho	NAPROPAMIDE	2007	kg					3.6					
+16	Idaho	NAPROPAMIDE	2008	kg					15.5					
+16	Idaho	NAPROPAMIDE	2009	kg					10.5					
+16	Idaho	NAPROPAMIDE	2010	kg					21.3					
+16	Idaho	NAPROPAMIDE	2012	kg					0.7					
+16	Idaho	NAPROPAMIDE	2013	kg					19.6					
+16	Idaho	NAPROPAMIDE	2014	kg					19.3					
+17	Illinois	NAPROPAMIDE	1992	kg					336.3					7.9
+17	Illinois	NAPROPAMIDE	1993	kg					228.4					3.8
+17	Illinois	NAPROPAMIDE	1994	kg					1900.3					19.5
+17	Illinois	NAPROPAMIDE	1995	kg					1031.4					8.2
+17	Illinois	NAPROPAMIDE	1996	kg					1046.1					41.9
+17	Illinois	NAPROPAMIDE	1997	kg					2398.5					107.1
+17	Illinois	NAPROPAMIDE	1998	kg					1095.2					38.5
+17	Illinois	NAPROPAMIDE	1999	kg					684.9					13.2
+17	Illinois	NAPROPAMIDE	2000	kg					445.9		2247.9			41.3
+17	Illinois	NAPROPAMIDE	2001	kg					523.5					12
+17	Illinois	NAPROPAMIDE	2002	kg					444.6					12.2
+17	Illinois	NAPROPAMIDE	2003	kg					321.6					12.8
+17	Illinois	NAPROPAMIDE	2004	kg					316.7					9.5
+17	Illinois	NAPROPAMIDE	2005	kg							542.4			27.2
+17	Illinois	NAPROPAMIDE	2006	kg					270.7		213.5			6.9
+17	Illinois	NAPROPAMIDE	2007	kg					587.6					16.8
+17	Illinois	NAPROPAMIDE	2008	kg					101.2					135.1
+17	Illinois	NAPROPAMIDE	2009	kg										61.8
+17	Illinois	NAPROPAMIDE	2010	kg					170.6					49.1
+17	Illinois	NAPROPAMIDE	2011	kg										50.6
+17	Illinois	NAPROPAMIDE	2012	kg					67.1					141.9
+17	Illinois	NAPROPAMIDE	2013	kg										8
+17	Illinois	NAPROPAMIDE	2014	kg										7.7
+17	Illinois	NAPROPAMIDE	2015	kg					70					40.4
+17	Illinois	NAPROPAMIDE	2016	kg										71
+17	Illinois	NAPROPAMIDE	2017	kg										21.5
+18	Indiana	NAPROPAMIDE	1992	kg					800		14.4			2134
+18	Indiana	NAPROPAMIDE	1993	kg					743					2286
+18	Indiana	NAPROPAMIDE	1994	kg					1278.1		0		21.7	2281.4
+18	Indiana	NAPROPAMIDE	1995	kg					515.1					2721.6
+18	Indiana	NAPROPAMIDE	1996	kg					1809.1					417.3
+18	Indiana	NAPROPAMIDE	1997	kg					278.8					2041.4
+18	Indiana	NAPROPAMIDE	1998	kg					410.8		230			215.6
+18	Indiana	NAPROPAMIDE	1999	kg					514.3					201.2
+18	Indiana	NAPROPAMIDE	2000	kg					260.6					270.1
+18	Indiana	NAPROPAMIDE	2001	kg					1885.6		17.6			136.8
+18	Indiana	NAPROPAMIDE	2002	kg					349.8					26.1
+18	Indiana	NAPROPAMIDE	2003	kg					291.8					83.7
+18	Indiana	NAPROPAMIDE	2004	kg					312.5					54.9
+18	Indiana	NAPROPAMIDE	2005	kg							5.9			148.2
+18	Indiana	NAPROPAMIDE	2006	kg					185.7				845.2	25.8
+18	Indiana	NAPROPAMIDE	2007	kg					384					35.6
+18	Indiana	NAPROPAMIDE	2008	kg					98.6					42.8
+18	Indiana	NAPROPAMIDE	2009	kg					60.5					25.7
+18	Indiana	NAPROPAMIDE	2010	kg					246					59.2
+18	Indiana	NAPROPAMIDE	2011	kg					34.2					63.6
+18	Indiana	NAPROPAMIDE	2012	kg					62.1					31.2
+18	Indiana	NAPROPAMIDE	2013	kg					36.2					23.4
+18	Indiana	NAPROPAMIDE	2014	kg					52.9					20.8
+18	Indiana	NAPROPAMIDE	2015	kg										43.3
+18	Indiana	NAPROPAMIDE	2016	kg										139
+18	Indiana	NAPROPAMIDE	2017	kg										22.6
+19	Iowa	NAPROPAMIDE	1993	kg					1.2					
+19	Iowa	NAPROPAMIDE	1994	kg					72.7					
+19	Iowa	NAPROPAMIDE	1995	kg					402.7					
+19	Iowa	NAPROPAMIDE	1996	kg					126.9					
+19	Iowa	NAPROPAMIDE	1997	kg					469.2					
+19	Iowa	NAPROPAMIDE	1998	kg					195.8					
+19	Iowa	NAPROPAMIDE	1999	kg					159.4					
+19	Iowa	NAPROPAMIDE	2000	kg					104.3					
+19	Iowa	NAPROPAMIDE	2001	kg					139.4					
+19	Iowa	NAPROPAMIDE	2002	kg					116.6					
+19	Iowa	NAPROPAMIDE	2003	kg					95.2					
+19	Iowa	NAPROPAMIDE	2004	kg					78.3					
+19	Iowa	NAPROPAMIDE	2006	kg					68.3					
+19	Iowa	NAPROPAMIDE	2007	kg					145.5					
+19	Iowa	NAPROPAMIDE	2008	kg					27					
+19	Iowa	NAPROPAMIDE	2010	kg					18.6					
+19	Iowa	NAPROPAMIDE	2012	kg					25.4					
+20	Kansas	NAPROPAMIDE	1996	kg					1.3					
+20	Kansas	NAPROPAMIDE	2001	kg					178.5					
+21	Kentucky	NAPROPAMIDE	1992	kg					3019.3					4219.5
+21	Kentucky	NAPROPAMIDE	1993	kg					199.5					3273.7
+21	Kentucky	NAPROPAMIDE	1994	kg					612.4				115.3	3377.2
+21	Kentucky	NAPROPAMIDE	1995	kg	38.7				667.4					3768.3
+21	Kentucky	NAPROPAMIDE	1996	kg					695.1					7382.5
+21	Kentucky	NAPROPAMIDE	1997	kg					1240.5					23181.5
+21	Kentucky	NAPROPAMIDE	1998	kg					881.1		185.2			8732.8
+21	Kentucky	NAPROPAMIDE	1999	kg					257.2					3802
+21	Kentucky	NAPROPAMIDE	2000	kg					201.2					6109.5
+21	Kentucky	NAPROPAMIDE	2001	kg					131.2					3584.3
+21	Kentucky	NAPROPAMIDE	2002	kg					378.2					2534.4
+21	Kentucky	NAPROPAMIDE	2003	kg					155.5					2666.2
+21	Kentucky	NAPROPAMIDE	2004	kg					91.9					2433.9
+21	Kentucky	NAPROPAMIDE	2005	kg							27.1			5674
+21	Kentucky	NAPROPAMIDE	2006	kg					47.1		9.1		12772.6	1677.6
+21	Kentucky	NAPROPAMIDE	2007	kg					285.7					2505.4
+21	Kentucky	NAPROPAMIDE	2008	kg					86.1					3824.4
+21	Kentucky	NAPROPAMIDE	2009	kg										2109.9
+21	Kentucky	NAPROPAMIDE	2010	kg					72.6					3400.2
+21	Kentucky	NAPROPAMIDE	2011	kg					104.1					3385.7
+21	Kentucky	NAPROPAMIDE	2012	kg					64.6					2897.6
+21	Kentucky	NAPROPAMIDE	2013	kg										1728.2
+21	Kentucky	NAPROPAMIDE	2014	kg										1875.6
+21	Kentucky	NAPROPAMIDE	2015	kg										1741.8
+21	Kentucky	NAPROPAMIDE	2016	kg										8123.5
+21	Kentucky	NAPROPAMIDE	2017	kg										1306.1
+22	Louisiana	NAPROPAMIDE	1994	kg					833.3					
+22	Louisiana	NAPROPAMIDE	1997	kg					323.4					
+23	Maine	NAPROPAMIDE	1992	kg					68.4					
+23	Maine	NAPROPAMIDE	1993	kg					248.6		4313.4			
+23	Maine	NAPROPAMIDE	1994	kg					2014.7					
+23	Maine	NAPROPAMIDE	1995	kg					1563.3					
+23	Maine	NAPROPAMIDE	1996	kg					622.6					
+23	Maine	NAPROPAMIDE	1997	kg					44.2					
+23	Maine	NAPROPAMIDE	1998	kg					389.2					
+23	Maine	NAPROPAMIDE	1999	kg					378.3					
+23	Maine	NAPROPAMIDE	2000	kg					381.2					
+23	Maine	NAPROPAMIDE	2001	kg					263.8		593.6			
+23	Maine	NAPROPAMIDE	2002	kg					444.1					
+23	Maine	NAPROPAMIDE	2003	kg					162.1					
+23	Maine	NAPROPAMIDE	2004	kg					246.9					
+23	Maine	NAPROPAMIDE	2005	kg					505.6					
+23	Maine	NAPROPAMIDE	2006	kg					207.9					
+23	Maine	NAPROPAMIDE	2007	kg					253.8					
+23	Maine	NAPROPAMIDE	2008	kg					276.2					
+23	Maine	NAPROPAMIDE	2009	kg					309.8					
+23	Maine	NAPROPAMIDE	2010	kg					257.4					
+23	Maine	NAPROPAMIDE	2011	kg					257.6					
+23	Maine	NAPROPAMIDE	2012	kg					134.8					
+24	Maryland	NAPROPAMIDE	1992	kg					2381.6		714.5			1604.2
+24	Maryland	NAPROPAMIDE	1993	kg					5177.7		14528.2			625.3
+24	Maryland	NAPROPAMIDE	1994	kg					1940.7				9.4	256.5
+24	Maryland	NAPROPAMIDE	1995	kg					5619					542.1
+24	Maryland	NAPROPAMIDE	1996	kg					1458.4					1195.8
+24	Maryland	NAPROPAMIDE	1997	kg					1437.1					1351.2
+24	Maryland	NAPROPAMIDE	1998	kg					951					201.2
+24	Maryland	NAPROPAMIDE	1999	kg					840.5		900.7			586.3
+24	Maryland	NAPROPAMIDE	2000	kg					541.3					272.3
+24	Maryland	NAPROPAMIDE	2001	kg					162.9					206.2
+24	Maryland	NAPROPAMIDE	2002	kg					289.6					85.6
+24	Maryland	NAPROPAMIDE	2003	kg					282.2		49.1			57.4
+24	Maryland	NAPROPAMIDE	2004	kg					192.4					59.3
+24	Maryland	NAPROPAMIDE	2005	kg					285.2					47.9
+24	Maryland	NAPROPAMIDE	2006	kg					102.7					39.3
+24	Maryland	NAPROPAMIDE	2007	kg					73					38.9
+24	Maryland	NAPROPAMIDE	2008	kg					34.5					29
+24	Maryland	NAPROPAMIDE	2009	kg					18.4					27.4
+24	Maryland	NAPROPAMIDE	2010	kg					135.2					18.8
+24	Maryland	NAPROPAMIDE	2011	kg					201.4		10.2			23.7
+24	Maryland	NAPROPAMIDE	2012	kg					185.8					18.4
+24	Maryland	NAPROPAMIDE	2013	kg					52.4					15.8
+24	Maryland	NAPROPAMIDE	2014	kg					46.4					12.8
+24	Maryland	NAPROPAMIDE	2015	kg					31.8					13.8
+24	Maryland	NAPROPAMIDE	2016	kg										9.4
+24	Maryland	NAPROPAMIDE	2017	kg										11.8
+25	Massachusetts	NAPROPAMIDE	1992	kg					1060.8					576.8
+25	Massachusetts	NAPROPAMIDE	1993	kg					310.8		4789.5			
+25	Massachusetts	NAPROPAMIDE	1994	kg					3958.2					
+25	Massachusetts	NAPROPAMIDE	1995	kg					1501.1					1140.1
+25	Massachusetts	NAPROPAMIDE	1996	kg					15155.3		188.7			
+25	Massachusetts	NAPROPAMIDE	1997	kg					3174.8					
+25	Massachusetts	NAPROPAMIDE	1998	kg					595.8					775.5
+25	Massachusetts	NAPROPAMIDE	1999	kg					750					
+25	Massachusetts	NAPROPAMIDE	2000	kg					595.9					
+25	Massachusetts	NAPROPAMIDE	2001	kg					629.7					
+25	Massachusetts	NAPROPAMIDE	2002	kg					438.6		327			528.8
+25	Massachusetts	NAPROPAMIDE	2003	kg					151.2					1052.1
+25	Massachusetts	NAPROPAMIDE	2004	kg					205.8					148.4
+25	Massachusetts	NAPROPAMIDE	2005	kg					481.3					
+25	Massachusetts	NAPROPAMIDE	2006	kg					213.7					
+25	Massachusetts	NAPROPAMIDE	2007	kg					102.4					
+25	Massachusetts	NAPROPAMIDE	2008	kg					518.3					
+25	Massachusetts	NAPROPAMIDE	2009	kg					307.1					
+25	Massachusetts	NAPROPAMIDE	2010	kg					289.4					
+25	Massachusetts	NAPROPAMIDE	2011	kg					389.6					
+25	Massachusetts	NAPROPAMIDE	2012	kg					331.1					
+25	Massachusetts	NAPROPAMIDE	2013	kg					241.1					
+25	Massachusetts	NAPROPAMIDE	2014	kg					138.1					
+25	Massachusetts	NAPROPAMIDE	2015	kg					65.4					
+26	Michigan	NAPROPAMIDE	1992	kg					2999.9		12674.3			
+26	Michigan	NAPROPAMIDE	1993	kg					3898.9					
+26	Michigan	NAPROPAMIDE	1994	kg					11365.3		147.6			
+26	Michigan	NAPROPAMIDE	1995	kg					2488.1					
+26	Michigan	NAPROPAMIDE	1996	kg					4600					
+26	Michigan	NAPROPAMIDE	1997	kg					1487.2					
+26	Michigan	NAPROPAMIDE	1998	kg					2214.2					
+26	Michigan	NAPROPAMIDE	1999	kg					2689.8					
+26	Michigan	NAPROPAMIDE	2000	kg					2625.3					
+26	Michigan	NAPROPAMIDE	2001	kg					5015.9		6508			
+26	Michigan	NAPROPAMIDE	2002	kg					1675.5					
+26	Michigan	NAPROPAMIDE	2003	kg					692.7					
+26	Michigan	NAPROPAMIDE	2004	kg					2563.1					
+26	Michigan	NAPROPAMIDE	2005	kg					1209.9		300.4			
+26	Michigan	NAPROPAMIDE	2006	kg					1330.3					
+26	Michigan	NAPROPAMIDE	2007	kg					1754.8					
+26	Michigan	NAPROPAMIDE	2008	kg					1456.4					
+26	Michigan	NAPROPAMIDE	2009	kg					644.6					
+26	Michigan	NAPROPAMIDE	2010	kg					1022.9					
+26	Michigan	NAPROPAMIDE	2011	kg					1031.2					
+26	Michigan	NAPROPAMIDE	2012	kg					803					
+26	Michigan	NAPROPAMIDE	2013	kg					655.3					
+26	Michigan	NAPROPAMIDE	2014	kg					2260.5					
+26	Michigan	NAPROPAMIDE	2015	kg					622.8					
+26	Michigan	NAPROPAMIDE	2017	kg					2015.3					
+27	Minnesota	NAPROPAMIDE	1993	kg					6.2					
+27	Minnesota	NAPROPAMIDE	1994	kg					799.1					
+27	Minnesota	NAPROPAMIDE	1995	kg					5943.8					
+27	Minnesota	NAPROPAMIDE	1996	kg					445.8					
+27	Minnesota	NAPROPAMIDE	1997	kg					343.9					
+27	Minnesota	NAPROPAMIDE	1998	kg					1003.7					
+27	Minnesota	NAPROPAMIDE	1999	kg					655.3					
+27	Minnesota	NAPROPAMIDE	2000	kg					761					
+27	Minnesota	NAPROPAMIDE	2001	kg					553.2					
+27	Minnesota	NAPROPAMIDE	2002	kg					437.4					
+27	Minnesota	NAPROPAMIDE	2003	kg					295					
+27	Minnesota	NAPROPAMIDE	2004	kg					327.2					
+27	Minnesota	NAPROPAMIDE	2006	kg					409.6					
+27	Minnesota	NAPROPAMIDE	2007	kg					607.1					
+27	Minnesota	NAPROPAMIDE	2008	kg					139.8					
+27	Minnesota	NAPROPAMIDE	2009	kg					105.4					
+27	Minnesota	NAPROPAMIDE	2010	kg					123.5					
+27	Minnesota	NAPROPAMIDE	2011	kg					162.2					
+27	Minnesota	NAPROPAMIDE	2012	kg					114.3					
+28	Mississippi	NAPROPAMIDE	1992	kg					12.1					
+28	Mississippi	NAPROPAMIDE	1993	kg	1575.4				10.2					
+28	Mississippi	NAPROPAMIDE	1994	kg					23.9					
+28	Mississippi	NAPROPAMIDE	1995	kg					22.5					
+28	Mississippi	NAPROPAMIDE	1996	kg					20.4					
+28	Mississippi	NAPROPAMIDE	1997	kg					25.4					
+28	Mississippi	NAPROPAMIDE	1998	kg					42.2					
+28	Mississippi	NAPROPAMIDE	1999	kg					67.8					
+28	Mississippi	NAPROPAMIDE	2000	kg					29.6					
+28	Mississippi	NAPROPAMIDE	2001	kg							17.7			
+28	Mississippi	NAPROPAMIDE	2002	kg					10.9					
+28	Mississippi	NAPROPAMIDE	2003	kg					37.5					
+28	Mississippi	NAPROPAMIDE	2004	kg					30.5					
+29	Missouri	NAPROPAMIDE	1992	kg										17.6
+29	Missouri	NAPROPAMIDE	1993	kg										34.4
+29	Missouri	NAPROPAMIDE	1994	kg					101.3					35.2
+29	Missouri	NAPROPAMIDE	1995	kg					1957.7					17.1
+29	Missouri	NAPROPAMIDE	1996	kg					236.1					20.3
+29	Missouri	NAPROPAMIDE	1997	kg					1210.2					69.7
+29	Missouri	NAPROPAMIDE	1998	kg					316					25.8
+29	Missouri	NAPROPAMIDE	1999	kg					217.4					21.9
+29	Missouri	NAPROPAMIDE	2000	kg					142.3		357.6			18.5
+29	Missouri	NAPROPAMIDE	2001	kg					1463.6					13.9
+29	Missouri	NAPROPAMIDE	2002	kg					158.9					420.9
+29	Missouri	NAPROPAMIDE	2003	kg					130.2					118.3
+29	Missouri	NAPROPAMIDE	2004	kg					107					509.7
+29	Missouri	NAPROPAMIDE	2005	kg							169.6			24.7
+29	Missouri	NAPROPAMIDE	2006	kg					94.3		56.3			3.6
+29	Missouri	NAPROPAMIDE	2007	kg					201.4					12.1
+29	Missouri	NAPROPAMIDE	2008	kg					25.1					13.9
+29	Missouri	NAPROPAMIDE	2009	kg										8.1
+29	Missouri	NAPROPAMIDE	2010	kg					22.4					10.1
+29	Missouri	NAPROPAMIDE	2011	kg										11.9
+29	Missouri	NAPROPAMIDE	2012	kg					37.8					21.8
+29	Missouri	NAPROPAMIDE	2014	kg										2
+29	Missouri	NAPROPAMIDE	2015	kg										6
+29	Missouri	NAPROPAMIDE	2016	kg										10
+29	Missouri	NAPROPAMIDE	2017	kg										3.5
+30	Montana	NAPROPAMIDE	1996	kg					165.8					4533.7
+31	Nebraska	NAPROPAMIDE	1996	kg			2532.7							
+32	Nevada	NAPROPAMIDE	1992	kg					3.3					
+32	Nevada	NAPROPAMIDE	1993	kg					1.4		1.6		13.6	
+32	Nevada	NAPROPAMIDE	1994	kg					0.7		0			
+32	Nevada	NAPROPAMIDE	1995	kg					3.2					
+32	Nevada	NAPROPAMIDE	1996	kg					1.9		2.5			
+32	Nevada	NAPROPAMIDE	1997	kg					1		1			
+32	Nevada	NAPROPAMIDE	1998	kg					1.6		1.5			
+32	Nevada	NAPROPAMIDE	1999	kg							0			
+32	Nevada	NAPROPAMIDE	2000	kg					2.7		29.2			
+32	Nevada	NAPROPAMIDE	2001	kg					2.7		6.5			
+32	Nevada	NAPROPAMIDE	2003	kg							13			
+32	Nevada	NAPROPAMIDE	2004	kg							14.2			
+32	Nevada	NAPROPAMIDE	2005	kg							0.3			
+32	Nevada	NAPROPAMIDE	2006	kg							3.8			
+32	Nevada	NAPROPAMIDE	2008	kg					0.1					
+32	Nevada	NAPROPAMIDE	2009	kg					0				316.7	
+32	Nevada	NAPROPAMIDE	2010	kg					34					
+32	Nevada	NAPROPAMIDE	2011	kg					0					
+32	Nevada	NAPROPAMIDE	2012	kg					33.7					
+32	Nevada	NAPROPAMIDE	2013	kg					27.5					
+32	Nevada	NAPROPAMIDE	2014	kg					36.5					
+32	Nevada	NAPROPAMIDE	2015	kg					0					
+32	Nevada	NAPROPAMIDE	2016	kg					3.1					
+32	Nevada	NAPROPAMIDE	2017	kg					0					
+33	New Hampshire	NAPROPAMIDE	1992	kg					52.3					
+33	New Hampshire	NAPROPAMIDE	1993	kg					28.1		2545.8			
+33	New Hampshire	NAPROPAMIDE	1994	kg					98.5					
+33	New Hampshire	NAPROPAMIDE	1995	kg					286					
+33	New Hampshire	NAPROPAMIDE	1996	kg					223.5		101			
+33	New Hampshire	NAPROPAMIDE	1997	kg					63.6					
+33	New Hampshire	NAPROPAMIDE	1998	kg					159.2					
+33	New Hampshire	NAPROPAMIDE	1999	kg					144.3					
+33	New Hampshire	NAPROPAMIDE	2000	kg					153.5					
+33	New Hampshire	NAPROPAMIDE	2001	kg					103.4					
+33	New Hampshire	NAPROPAMIDE	2002	kg					171		156.5			
+33	New Hampshire	NAPROPAMIDE	2003	kg					61.1					
+33	New Hampshire	NAPROPAMIDE	2004	kg					88.8					
+33	New Hampshire	NAPROPAMIDE	2005	kg					182.6					
+33	New Hampshire	NAPROPAMIDE	2006	kg					74.6					
+33	New Hampshire	NAPROPAMIDE	2007	kg					86.6					
+33	New Hampshire	NAPROPAMIDE	2008	kg					103.4					
+33	New Hampshire	NAPROPAMIDE	2009	kg					118.7					
+33	New Hampshire	NAPROPAMIDE	2010	kg					106.8					
+33	New Hampshire	NAPROPAMIDE	2011	kg					111.5					
+33	New Hampshire	NAPROPAMIDE	2012	kg					63.4					
+34	New Jersey	NAPROPAMIDE	1992	kg		6760.6			5990.7		2375.1			
+34	New Jersey	NAPROPAMIDE	1993	kg					3830.8		6766.9			
+34	New Jersey	NAPROPAMIDE	1994	kg					15393.6					
+34	New Jersey	NAPROPAMIDE	1995	kg					3806					
+34	New Jersey	NAPROPAMIDE	1996	kg					8477.4					
+34	New Jersey	NAPROPAMIDE	1997	kg					4328.8					
+34	New Jersey	NAPROPAMIDE	1998	kg					2614.6					
+34	New Jersey	NAPROPAMIDE	1999	kg					839.2					
+34	New Jersey	NAPROPAMIDE	2000	kg					1741.5					
+34	New Jersey	NAPROPAMIDE	2001	kg					940.9					
+34	New Jersey	NAPROPAMIDE	2002	kg					944.6					
+34	New Jersey	NAPROPAMIDE	2003	kg					544.1					
+34	New Jersey	NAPROPAMIDE	2004	kg					937.6					
+34	New Jersey	NAPROPAMIDE	2005	kg					829.7					
+34	New Jersey	NAPROPAMIDE	2006	kg					387.2		1038.9			
+34	New Jersey	NAPROPAMIDE	2007	kg					1119.1					
+34	New Jersey	NAPROPAMIDE	2008	kg					647.5					
+34	New Jersey	NAPROPAMIDE	2009	kg					1012.9					
+34	New Jersey	NAPROPAMIDE	2010	kg					673.3					
+34	New Jersey	NAPROPAMIDE	2011	kg					847.3					
+34	New Jersey	NAPROPAMIDE	2012	kg					1028.4					
+34	New Jersey	NAPROPAMIDE	2013	kg					604.1					
+34	New Jersey	NAPROPAMIDE	2014	kg					484					
+34	New Jersey	NAPROPAMIDE	2015	kg					722.5					
+35	New Mexico	NAPROPAMIDE	1992	kg					5117.1					
+35	New Mexico	NAPROPAMIDE	1994	kg					221.5					
+35	New Mexico	NAPROPAMIDE	1995	kg					742					
+35	New Mexico	NAPROPAMIDE	1996	kg				4.6	4211.6					
+35	New Mexico	NAPROPAMIDE	1997	kg					13075.1					
+35	New Mexico	NAPROPAMIDE	1998	kg					2395.9					
+35	New Mexico	NAPROPAMIDE	1999	kg					921.1					
+35	New Mexico	NAPROPAMIDE	2000	kg					968.5					
+35	New Mexico	NAPROPAMIDE	2001	kg					914.6					
+35	New Mexico	NAPROPAMIDE	2002	kg					3359.5					
+35	New Mexico	NAPROPAMIDE	2003	kg					816					
+35	New Mexico	NAPROPAMIDE	2004	kg					4012.6					
+35	New Mexico	NAPROPAMIDE	2005	kg					7084.3					
+35	New Mexico	NAPROPAMIDE	2007	kg					2173.9					
+35	New Mexico	NAPROPAMIDE	2008	kg					3198.8					
+35	New Mexico	NAPROPAMIDE	2010	kg					2812.8					
+35	New Mexico	NAPROPAMIDE	2011	kg					4031.8					
+35	New Mexico	NAPROPAMIDE	2012	kg					2963.1					
+35	New Mexico	NAPROPAMIDE	2013	kg					5496.8					
+35	New Mexico	NAPROPAMIDE	2014	kg					4713.1					
+35	New Mexico	NAPROPAMIDE	2015	kg					1399.9					
+35	New Mexico	NAPROPAMIDE	2017	kg					4255.5					
+36	New York	NAPROPAMIDE	1992	kg					40299.1		3474.3			
+36	New York	NAPROPAMIDE	1993	kg					1848.7		3616.2			
+36	New York	NAPROPAMIDE	1994	kg					7593.9					
+36	New York	NAPROPAMIDE	1995	kg					3991.5		28.3		60.2	
+36	New York	NAPROPAMIDE	1996	kg					8476.7		571.9			
+36	New York	NAPROPAMIDE	1997	kg					3559.2					
+36	New York	NAPROPAMIDE	1998	kg					2577.1					
+36	New York	NAPROPAMIDE	1999	kg					9071.2		20087.8			
+36	New York	NAPROPAMIDE	2000	kg					5142.1					
+36	New York	NAPROPAMIDE	2001	kg					2413					
+36	New York	NAPROPAMIDE	2002	kg					1406.2		876.8			
+36	New York	NAPROPAMIDE	2003	kg					2566.7					
+36	New York	NAPROPAMIDE	2004	kg					1942.1					
+36	New York	NAPROPAMIDE	2005	kg					4674.6					
+36	New York	NAPROPAMIDE	2006	kg					1199.4		297.9			
+36	New York	NAPROPAMIDE	2007	kg					1250.6					
+36	New York	NAPROPAMIDE	2008	kg					988.6					
+36	New York	NAPROPAMIDE	2009	kg					1085.4					
+36	New York	NAPROPAMIDE	2010	kg					1601.3					
+36	New York	NAPROPAMIDE	2011	kg					948.6					
+36	New York	NAPROPAMIDE	2012	kg					1068.4					
+36	New York	NAPROPAMIDE	2013	kg					767					
+36	New York	NAPROPAMIDE	2014	kg					526.7					
+36	New York	NAPROPAMIDE	2015	kg					879.9					
+37	North Carolina	NAPROPAMIDE	1992	kg					1778					21810
+37	North Carolina	NAPROPAMIDE	1993	kg					4598.8					16389.1
+37	North Carolina	NAPROPAMIDE	1994	kg					5684					9391.9
+37	North Carolina	NAPROPAMIDE	1995	kg	40.3				6439.3		364.3			31007.9
+37	North Carolina	NAPROPAMIDE	1996	kg					1719.1					4538.2
+37	North Carolina	NAPROPAMIDE	1997	kg					3221.3					10815
+37	North Carolina	NAPROPAMIDE	1998	kg					5876.9					18437.7
+37	North Carolina	NAPROPAMIDE	1999	kg					10903.7					15428
+37	North Carolina	NAPROPAMIDE	2000	kg					3936.6					8416.2
+37	North Carolina	NAPROPAMIDE	2001	kg					1549.7					13011.1
+37	North Carolina	NAPROPAMIDE	2002	kg					2998.4					16083.5
+37	North Carolina	NAPROPAMIDE	2003	kg					3326.3					12835.5
+37	North Carolina	NAPROPAMIDE	2004	kg					3203.4					8370.5
+37	North Carolina	NAPROPAMIDE	2005	kg										9379.6
+37	North Carolina	NAPROPAMIDE	2006	kg					387.6					8807.2
+37	North Carolina	NAPROPAMIDE	2007	kg					569.5					12385.4
+37	North Carolina	NAPROPAMIDE	2008	kg					511.2					16708.7
+37	North Carolina	NAPROPAMIDE	2009	kg					364.5					11087.1
+37	North Carolina	NAPROPAMIDE	2010	kg					1971.5					8342.8
+37	North Carolina	NAPROPAMIDE	2011	kg					1380.3					13657.6
+37	North Carolina	NAPROPAMIDE	2012	kg					1399.8					14672.6
+37	North Carolina	NAPROPAMIDE	2013	kg					2633.2					14104
+37	North Carolina	NAPROPAMIDE	2014	kg					119					20388
+37	North Carolina	NAPROPAMIDE	2015	kg					1108.3					15957.6
+37	North Carolina	NAPROPAMIDE	2016	kg										20471
+37	North Carolina	NAPROPAMIDE	2017	kg										21594.4
+39	Ohio	NAPROPAMIDE	1992	kg					4500.9		13.5			152.9
+39	Ohio	NAPROPAMIDE	1993	kg					1387.3					643.5
+39	Ohio	NAPROPAMIDE	1994	kg					1414.2					477.8
+39	Ohio	NAPROPAMIDE	1995	kg					5985.9					223.2
+39	Ohio	NAPROPAMIDE	1996	kg					4029.4					41.8
+39	Ohio	NAPROPAMIDE	1997	kg					3201.2					611.1
+39	Ohio	NAPROPAMIDE	1998	kg					1466.8		1738.3			15.2
+39	Ohio	NAPROPAMIDE	1999	kg					7266.6		203.2			48.6
+39	Ohio	NAPROPAMIDE	2000	kg					1558.9					70.4
+39	Ohio	NAPROPAMIDE	2001	kg					1271.3					372.6
+39	Ohio	NAPROPAMIDE	2002	kg					1191.3					86.6
+39	Ohio	NAPROPAMIDE	2003	kg					969.5					34.2
+39	Ohio	NAPROPAMIDE	2004	kg					946.9					150.3
+39	Ohio	NAPROPAMIDE	2005	kg										339.2
+39	Ohio	NAPROPAMIDE	2006	kg					1129.5					24.3
+39	Ohio	NAPROPAMIDE	2007	kg					1130.5					13.4
+39	Ohio	NAPROPAMIDE	2008	kg					1034.7					18
+39	Ohio	NAPROPAMIDE	2009	kg					362.4					18.2
+39	Ohio	NAPROPAMIDE	2010	kg					2710.6					49
+39	Ohio	NAPROPAMIDE	2011	kg					476.5					42.9
+39	Ohio	NAPROPAMIDE	2012	kg					3136.1					17
+39	Ohio	NAPROPAMIDE	2013	kg					1587.6					0
+39	Ohio	NAPROPAMIDE	2014	kg					1598.3					31.6
+39	Ohio	NAPROPAMIDE	2015	kg					59.9					74.1
+39	Ohio	NAPROPAMIDE	2016	kg										106.2
+39	Ohio	NAPROPAMIDE	2017	kg					120.2					22.6
+40	Oklahoma	NAPROPAMIDE	1995	kg			1645.1						15095.9	
+40	Oklahoma	NAPROPAMIDE	1996	kg					180.8					
+40	Oklahoma	NAPROPAMIDE	1997	kg					493.3					
+40	Oklahoma	NAPROPAMIDE	2000	kg							6481.3			
+40	Oklahoma	NAPROPAMIDE	2017	kg					0					
+41	Oregon	NAPROPAMIDE	1992	kg					2151.6					
+41	Oregon	NAPROPAMIDE	1993	kg					3023.9		3041		2350	
+41	Oregon	NAPROPAMIDE	1994	kg					14328.4		1373.2			
+41	Oregon	NAPROPAMIDE	1995	kg					3029.9				6041.6	
+41	Oregon	NAPROPAMIDE	1996	kg					4201.8					
+41	Oregon	NAPROPAMIDE	1997	kg					5728.3		1317.5			
+41	Oregon	NAPROPAMIDE	1998	kg					220					
+41	Oregon	NAPROPAMIDE	1999	kg					923.8					
+41	Oregon	NAPROPAMIDE	2000	kg					2151.9					
+41	Oregon	NAPROPAMIDE	2001	kg					2222.4		359			
+41	Oregon	NAPROPAMIDE	2002	kg					347.4		365.3			
+41	Oregon	NAPROPAMIDE	2003	kg					267.3					
+41	Oregon	NAPROPAMIDE	2004	kg					1914					
+41	Oregon	NAPROPAMIDE	2005	kg					797.8					
+41	Oregon	NAPROPAMIDE	2006	kg					265.2					
+41	Oregon	NAPROPAMIDE	2008	kg					152.7					
+41	Oregon	NAPROPAMIDE	2009	kg					239.1					
+41	Oregon	NAPROPAMIDE	2010	kg					1905.9					
+41	Oregon	NAPROPAMIDE	2011	kg					437.3					
+41	Oregon	NAPROPAMIDE	2012	kg					476.1					
+41	Oregon	NAPROPAMIDE	2013	kg					338.5					
+41	Oregon	NAPROPAMIDE	2014	kg					3543.3					
+41	Oregon	NAPROPAMIDE	2015	kg					710.9		1636.5			
+42	Pennsylvania	NAPROPAMIDE	1992	kg		5235.2			8760.9		3546.2			
+42	Pennsylvania	NAPROPAMIDE	1993	kg					3966.5		45911.5			985.3
+42	Pennsylvania	NAPROPAMIDE	1994	kg					7369.5					
+42	Pennsylvania	NAPROPAMIDE	1995	kg					9090.9		9.7			
+42	Pennsylvania	NAPROPAMIDE	1996	kg					4792.6					
+42	Pennsylvania	NAPROPAMIDE	1997	kg					2021.5		2841.7			
+42	Pennsylvania	NAPROPAMIDE	1998	kg					3270.6					149.3
+42	Pennsylvania	NAPROPAMIDE	1999	kg					4219.9					233.9
+42	Pennsylvania	NAPROPAMIDE	2000	kg					3445.6					
+42	Pennsylvania	NAPROPAMIDE	2001	kg					2533.9					139.4
+42	Pennsylvania	NAPROPAMIDE	2002	kg					4475.5					355.1
+42	Pennsylvania	NAPROPAMIDE	2003	kg					1097.8		9234.9			253.5
+42	Pennsylvania	NAPROPAMIDE	2004	kg					950.5					
+42	Pennsylvania	NAPROPAMIDE	2005	kg					3069.6					270.5
+42	Pennsylvania	NAPROPAMIDE	2006	kg					1242.2		3042.4			745.2
+42	Pennsylvania	NAPROPAMIDE	2007	kg					1584					404.7
+42	Pennsylvania	NAPROPAMIDE	2008	kg					1127.6					99.3
+42	Pennsylvania	NAPROPAMIDE	2009	kg					1731.5					
+42	Pennsylvania	NAPROPAMIDE	2010	kg					1265.4					
+42	Pennsylvania	NAPROPAMIDE	2011	kg					2135					
+42	Pennsylvania	NAPROPAMIDE	2012	kg					1276.6					
+42	Pennsylvania	NAPROPAMIDE	2013	kg					781.8					
+42	Pennsylvania	NAPROPAMIDE	2014	kg					891.4					
+42	Pennsylvania	NAPROPAMIDE	2015	kg					387.8					
+44	Rhode Island	NAPROPAMIDE	1992	kg					35.8					
+44	Rhode Island	NAPROPAMIDE	1993	kg					33.3		343.9			
+44	Rhode Island	NAPROPAMIDE	1994	kg					221.8					
+44	Rhode Island	NAPROPAMIDE	1995	kg					85.4					
+44	Rhode Island	NAPROPAMIDE	1996	kg					157.3		13.6			
+44	Rhode Island	NAPROPAMIDE	1997	kg					81.1					
+44	Rhode Island	NAPROPAMIDE	1998	kg					74.6					
+44	Rhode Island	NAPROPAMIDE	1999	kg					82					
+44	Rhode Island	NAPROPAMIDE	2000	kg					104.2					
+44	Rhode Island	NAPROPAMIDE	2001	kg					59.9					
+44	Rhode Island	NAPROPAMIDE	2002	kg					96.9		21.1			
+44	Rhode Island	NAPROPAMIDE	2003	kg					33.7					
+44	Rhode Island	NAPROPAMIDE	2004	kg					38.1					
+44	Rhode Island	NAPROPAMIDE	2005	kg					93.8					
+44	Rhode Island	NAPROPAMIDE	2006	kg					41.3					
+44	Rhode Island	NAPROPAMIDE	2007	kg					35.8					
+44	Rhode Island	NAPROPAMIDE	2008	kg					40.5					
+44	Rhode Island	NAPROPAMIDE	2009	kg					48.2					
+44	Rhode Island	NAPROPAMIDE	2010	kg					51.4					
+44	Rhode Island	NAPROPAMIDE	2011	kg					55.8					
+44	Rhode Island	NAPROPAMIDE	2012	kg					33.4					
+45	South Carolina	NAPROPAMIDE	1992	kg					23					13140.1
+45	South Carolina	NAPROPAMIDE	1993	kg					357.8					9122.1
+45	South Carolina	NAPROPAMIDE	1994	kg					558.3					1934.3
+45	South Carolina	NAPROPAMIDE	1995	kg					632.7					1243.8
+45	South Carolina	NAPROPAMIDE	1996	kg					118.9					5217.7
+45	South Carolina	NAPROPAMIDE	1997	kg					276.5					245.8
+45	South Carolina	NAPROPAMIDE	1998	kg					90.6					567.6
+45	South Carolina	NAPROPAMIDE	1999	kg					644.6					535.7
+45	South Carolina	NAPROPAMIDE	2000	kg					287.5					170.8
+45	South Carolina	NAPROPAMIDE	2001	kg					20.7					8871.4
+45	South Carolina	NAPROPAMIDE	2002	kg					166.4					108.7
+45	South Carolina	NAPROPAMIDE	2003	kg					49.2					629.3
+45	South Carolina	NAPROPAMIDE	2004	kg					72.1					2834.4
+45	South Carolina	NAPROPAMIDE	2005	kg										1141.2
+45	South Carolina	NAPROPAMIDE	2006	kg					9.4					197.2
+45	South Carolina	NAPROPAMIDE	2007	kg										184.9
+45	South Carolina	NAPROPAMIDE	2008	kg					21.4					162.6
+45	South Carolina	NAPROPAMIDE	2009	kg					42					569.1
+45	South Carolina	NAPROPAMIDE	2010	kg					240.5					2082
+45	South Carolina	NAPROPAMIDE	2011	kg					11.5					387.5
+45	South Carolina	NAPROPAMIDE	2012	kg					53.5					342.9
+45	South Carolina	NAPROPAMIDE	2013	kg					15.2					459.9
+45	South Carolina	NAPROPAMIDE	2014	kg					26.7					265.3
+45	South Carolina	NAPROPAMIDE	2015	kg					16.7					666.8
+45	South Carolina	NAPROPAMIDE	2016	kg										170
+45	South Carolina	NAPROPAMIDE	2017	kg										468.9
+46	South Dakota	NAPROPAMIDE	1996	kg			113.9							
+47	Tennessee	NAPROPAMIDE	1992	kg					664.8					6106.9
+47	Tennessee	NAPROPAMIDE	1993	kg	3122.3				274.9					9385.1
+47	Tennessee	NAPROPAMIDE	1994	kg					953.2				31.8	6061.3
+47	Tennessee	NAPROPAMIDE	1995	kg	123.7				1933.8					16745.1
+47	Tennessee	NAPROPAMIDE	1996	kg					941.1					6216.2
+47	Tennessee	NAPROPAMIDE	1997	kg					1071.3					7323.7
+47	Tennessee	NAPROPAMIDE	1998	kg					6106.7					4688.8
+47	Tennessee	NAPROPAMIDE	1999	kg					616.5					5119.1
+47	Tennessee	NAPROPAMIDE	2000	kg					257.4		147			5075.9
+47	Tennessee	NAPROPAMIDE	2001	kg					219.3					4995.9
+47	Tennessee	NAPROPAMIDE	2002	kg					545.7					3244.3
+47	Tennessee	NAPROPAMIDE	2003	kg					174.9					2647.6
+47	Tennessee	NAPROPAMIDE	2004	kg					145					1947.8
+47	Tennessee	NAPROPAMIDE	2005	kg										3052.3
+47	Tennessee	NAPROPAMIDE	2006	kg									4902.4	2066
+47	Tennessee	NAPROPAMIDE	2007	kg					276.2					2606.2
+47	Tennessee	NAPROPAMIDE	2008	kg					48.3					2840.7
+47	Tennessee	NAPROPAMIDE	2009	kg										2436.4
+47	Tennessee	NAPROPAMIDE	2010	kg					55.5					3631.8
+47	Tennessee	NAPROPAMIDE	2011	kg					126.4					2781.2
+47	Tennessee	NAPROPAMIDE	2012	kg					51.1					1197.7
+47	Tennessee	NAPROPAMIDE	2013	kg					25.2					1080.6
+47	Tennessee	NAPROPAMIDE	2014	kg										1474.8
+47	Tennessee	NAPROPAMIDE	2015	kg										1686.1
+47	Tennessee	NAPROPAMIDE	2016	kg										3672.2
+47	Tennessee	NAPROPAMIDE	2017	kg										758.7
+48	Texas	NAPROPAMIDE	1992	kg					69.7					
+48	Texas	NAPROPAMIDE	1994	kg					12368.3					
+48	Texas	NAPROPAMIDE	1995	kg			326.2		2684.1				25180.3	
+48	Texas	NAPROPAMIDE	1996	kg				284.4	885.8					
+48	Texas	NAPROPAMIDE	1997	kg					3738.9					
+48	Texas	NAPROPAMIDE	1998	kg					2957					
+48	Texas	NAPROPAMIDE	1999	kg					505.1					
+48	Texas	NAPROPAMIDE	2000	kg					365.9		27159.8			
+48	Texas	NAPROPAMIDE	2001	kg					1955.8					
+48	Texas	NAPROPAMIDE	2002	kg					10526.1					
+48	Texas	NAPROPAMIDE	2003	kg					1087.3					
+48	Texas	NAPROPAMIDE	2004	kg					1111.9					
+48	Texas	NAPROPAMIDE	2005	kg					1212.8					
+48	Texas	NAPROPAMIDE	2006	kg					80.9					
+48	Texas	NAPROPAMIDE	2007	kg					1828					
+48	Texas	NAPROPAMIDE	2008	kg					3588.7					
+48	Texas	NAPROPAMIDE	2010	kg					770.3					
+48	Texas	NAPROPAMIDE	2011	kg					1653.8					
+48	Texas	NAPROPAMIDE	2012	kg					1558.4					
+48	Texas	NAPROPAMIDE	2013	kg					740.4					
+48	Texas	NAPROPAMIDE	2014	kg					607.1					
+48	Texas	NAPROPAMIDE	2015	kg					167.6					
+48	Texas	NAPROPAMIDE	2017	kg					586.1					
+49	Utah	NAPROPAMIDE	1994	kg					0.2					
+49	Utah	NAPROPAMIDE	1996	kg					5.3					
+49	Utah	NAPROPAMIDE	1997	kg					0.5					
+49	Utah	NAPROPAMIDE	1998	kg					0.2		654.5			
+49	Utah	NAPROPAMIDE	2001	kg					0.1					
+49	Utah	NAPROPAMIDE	2002	kg					0.5					
+49	Utah	NAPROPAMIDE	2003	kg					0.1		209.1			
+49	Utah	NAPROPAMIDE	2004	kg					0.4					
+49	Utah	NAPROPAMIDE	2009	kg									12974	
+49	Utah	NAPROPAMIDE	2012	kg					0.3					
+50	Vermont	NAPROPAMIDE	1992	kg					81.9					
+50	Vermont	NAPROPAMIDE	1993	kg					34.8		3348.6			
+50	Vermont	NAPROPAMIDE	1994	kg					401.3					
+50	Vermont	NAPROPAMIDE	1995	kg					90.2					
+50	Vermont	NAPROPAMIDE	1996	kg					92.9		134.1			
+50	Vermont	NAPROPAMIDE	1997	kg					60.2					
+50	Vermont	NAPROPAMIDE	1998	kg					164.1					
+50	Vermont	NAPROPAMIDE	1999	kg					194					
+50	Vermont	NAPROPAMIDE	2000	kg					169.4					
+50	Vermont	NAPROPAMIDE	2001	kg					352.7					
+50	Vermont	NAPROPAMIDE	2002	kg					250.2		212.9			
+50	Vermont	NAPROPAMIDE	2003	kg					89.6					
+50	Vermont	NAPROPAMIDE	2004	kg					131.9					
+50	Vermont	NAPROPAMIDE	2005	kg					268.1					
+50	Vermont	NAPROPAMIDE	2006	kg					108.9					
+50	Vermont	NAPROPAMIDE	2007	kg					127.7					
+50	Vermont	NAPROPAMIDE	2008	kg					425.1					
+50	Vermont	NAPROPAMIDE	2009	kg					284.4					
+50	Vermont	NAPROPAMIDE	2010	kg					255.9					
+50	Vermont	NAPROPAMIDE	2011	kg					284					
+50	Vermont	NAPROPAMIDE	2012	kg					314.5					
+50	Vermont	NAPROPAMIDE	2013	kg					145.1					
+50	Vermont	NAPROPAMIDE	2014	kg					81.3					
+50	Vermont	NAPROPAMIDE	2015	kg					155.5					
+51	Virginia	NAPROPAMIDE	1992	kg					1363.9		2064.7			3546.2
+51	Virginia	NAPROPAMIDE	1993	kg					869.1		27696.4			4837.1
+51	Virginia	NAPROPAMIDE	1994	kg					1116.9				94.9	3819.4
+51	Virginia	NAPROPAMIDE	1995	kg	28.6				848.1		281.8			2017.2
+51	Virginia	NAPROPAMIDE	1996	kg					432.4					7036.6
+51	Virginia	NAPROPAMIDE	1997	kg					2431					6479.6
+51	Virginia	NAPROPAMIDE	1998	kg					963.2					2881.2
+51	Virginia	NAPROPAMIDE	1999	kg					982.8		8759.8			1834.9
+51	Virginia	NAPROPAMIDE	2000	kg					469.6					1804.1
+51	Virginia	NAPROPAMIDE	2001	kg					26.1					1191.1
+51	Virginia	NAPROPAMIDE	2002	kg					548					1520.1
+51	Virginia	NAPROPAMIDE	2003	kg					83.5					1399.7
+51	Virginia	NAPROPAMIDE	2004	kg					489.5					2698.3
+51	Virginia	NAPROPAMIDE	2005	kg										858.7
+51	Virginia	NAPROPAMIDE	2006	kg					3.7					930.9
+51	Virginia	NAPROPAMIDE	2007	kg					105.5					1121.1
+51	Virginia	NAPROPAMIDE	2008	kg					40.5					1224.5
+51	Virginia	NAPROPAMIDE	2009	kg										1584.7
+51	Virginia	NAPROPAMIDE	2010	kg					26.2					978.5
+51	Virginia	NAPROPAMIDE	2011	kg					222.3		79.7			1984.3
+51	Virginia	NAPROPAMIDE	2012	kg					80.3					1344.8
+51	Virginia	NAPROPAMIDE	2013	kg					308.4					2278.5
+51	Virginia	NAPROPAMIDE	2014	kg										526.7
+51	Virginia	NAPROPAMIDE	2015	kg					4.6					891.3
+51	Virginia	NAPROPAMIDE	2016	kg										1845.2
+51	Virginia	NAPROPAMIDE	2017	kg										316.6
+53	Washington	NAPROPAMIDE	1992	kg					1520.4					
+53	Washington	NAPROPAMIDE	1993	kg					731		10475.1			
+53	Washington	NAPROPAMIDE	1994	kg					1834.5		36.9			
+53	Washington	NAPROPAMIDE	1995	kg					531.1		13390.6		4790.3	
+53	Washington	NAPROPAMIDE	1996	kg					591.2					
+53	Washington	NAPROPAMIDE	1997	kg					595.6		0.7			
+53	Washington	NAPROPAMIDE	1998	kg					1842.6		404.4			
+53	Washington	NAPROPAMIDE	1999	kg					708.5		4684			
+53	Washington	NAPROPAMIDE	2000	kg					823.2					
+53	Washington	NAPROPAMIDE	2001	kg					1691.6		1017			
+53	Washington	NAPROPAMIDE	2002	kg					2153.9		4119.9			
+53	Washington	NAPROPAMIDE	2003	kg					191.7					
+53	Washington	NAPROPAMIDE	2004	kg					1109.9					
+53	Washington	NAPROPAMIDE	2005	kg					424.3					
+53	Washington	NAPROPAMIDE	2006	kg					652.2					
+53	Washington	NAPROPAMIDE	2007	kg					642					
+53	Washington	NAPROPAMIDE	2008	kg					1630.9					
+53	Washington	NAPROPAMIDE	2009	kg					1256.4					
+53	Washington	NAPROPAMIDE	2010	kg					3195.5					
+53	Washington	NAPROPAMIDE	2011	kg					335.5					
+53	Washington	NAPROPAMIDE	2012	kg					885.6					
+53	Washington	NAPROPAMIDE	2013	kg					744.2					
+53	Washington	NAPROPAMIDE	2014	kg					3892.1					
+53	Washington	NAPROPAMIDE	2015	kg					516.4		303.2			
+54	West Virginia	NAPROPAMIDE	1992	kg					137.7		55.7			97.8
+54	West Virginia	NAPROPAMIDE	1993	kg					39.8		17500.6			68.8
+54	West Virginia	NAPROPAMIDE	1994	kg					149.5				15.1	102.1
+54	West Virginia	NAPROPAMIDE	1995	kg					95					327.9
+54	West Virginia	NAPROPAMIDE	1996	kg					169.9					57.6
+54	West Virginia	NAPROPAMIDE	1997	kg					141.1					116.6
+54	West Virginia	NAPROPAMIDE	1998	kg					94.4					440.7
+54	West Virginia	NAPROPAMIDE	1999	kg					131.5		3260.5			71.8
+54	West Virginia	NAPROPAMIDE	2000	kg					86.3					13.7
+54	West Virginia	NAPROPAMIDE	2001	kg					47.7					188.8
+54	West Virginia	NAPROPAMIDE	2002	kg					184.9					20.9
+54	West Virginia	NAPROPAMIDE	2003	kg					52		111.3			41.5
+54	West Virginia	NAPROPAMIDE	2004	kg					13.6					190.8
+54	West Virginia	NAPROPAMIDE	2005	kg										46.9
+54	West Virginia	NAPROPAMIDE	2006	kg					82.4					33.3
+54	West Virginia	NAPROPAMIDE	2007	kg					93.2					10.7
+54	West Virginia	NAPROPAMIDE	2008	kg					45.5					12.4
+54	West Virginia	NAPROPAMIDE	2009	kg					38.5					6.1
+54	West Virginia	NAPROPAMIDE	2010	kg					49.8					4.1
+54	West Virginia	NAPROPAMIDE	2011	kg					129.4		25.7			9.8
+54	West Virginia	NAPROPAMIDE	2012	kg					43.4					0.6
+54	West Virginia	NAPROPAMIDE	2013	kg					89.5					1.7
+54	West Virginia	NAPROPAMIDE	2014	kg					46.3					1
+54	West Virginia	NAPROPAMIDE	2015	kg										1.9
+54	West Virginia	NAPROPAMIDE	2016	kg										2.1
+54	West Virginia	NAPROPAMIDE	2017	kg										1.6
+55	Wisconsin	NAPROPAMIDE	1992	kg					50.1					697.9
+55	Wisconsin	NAPROPAMIDE	1993	kg					112.7					246.1
+55	Wisconsin	NAPROPAMIDE	1994	kg					17965.8					
+55	Wisconsin	NAPROPAMIDE	1995	kg					1173.7					
+55	Wisconsin	NAPROPAMIDE	1996	kg					2725.6					40.1
+55	Wisconsin	NAPROPAMIDE	1997	kg					7316.2					71.8
+55	Wisconsin	NAPROPAMIDE	1998	kg					1107.8					
+55	Wisconsin	NAPROPAMIDE	1999	kg					4476.4					
+55	Wisconsin	NAPROPAMIDE	2000	kg					11049					
+55	Wisconsin	NAPROPAMIDE	2001	kg					1213.3					
+55	Wisconsin	NAPROPAMIDE	2002	kg					1270.1					
+55	Wisconsin	NAPROPAMIDE	2003	kg					1927.5					
+55	Wisconsin	NAPROPAMIDE	2004	kg					931.4					
+55	Wisconsin	NAPROPAMIDE	2005	kg					8726.2					
+55	Wisconsin	NAPROPAMIDE	2006	kg					1069.4					
+55	Wisconsin	NAPROPAMIDE	2007	kg					13582.6					
+55	Wisconsin	NAPROPAMIDE	2008	kg					2542.8					
+55	Wisconsin	NAPROPAMIDE	2009	kg					475.5					
+55	Wisconsin	NAPROPAMIDE	2010	kg					439.6					
+55	Wisconsin	NAPROPAMIDE	2011	kg					641.9					
+55	Wisconsin	NAPROPAMIDE	2012	kg					266.7					
+55	Wisconsin	NAPROPAMIDE	2013	kg					99.1					
+55	Wisconsin	NAPROPAMIDE	2014	kg					94.9					
+55	Wisconsin	NAPROPAMIDE	2015	kg					1358.9					
+55	Wisconsin	NAPROPAMIDE	2016	kg					306.9					
+56	Wyoming	NAPROPAMIDE	1996	kg			298.6		0					3799.5

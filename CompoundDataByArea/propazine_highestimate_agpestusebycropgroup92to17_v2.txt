@@ -1,0 +1,133 @@
+05	Arkansas	PROPAZINE	2010	kg										979.2
+06	California	PROPAZINE	1998	kg			0							
+06	California	PROPAZINE	2000	kg							24.5			
+06	California	PROPAZINE	2004	kg					0					
+08	Colorado	PROPAZINE	1992	kg										694.1
+08	Colorado	PROPAZINE	1993	kg										672.9
+08	Colorado	PROPAZINE	1994	kg										5831.1
+08	Colorado	PROPAZINE	1995	kg										10096.8
+08	Colorado	PROPAZINE	1996	kg										2323.8
+08	Colorado	PROPAZINE	1997	kg										8156.4
+08	Colorado	PROPAZINE	1998	kg										210.9
+08	Colorado	PROPAZINE	1999	kg										2125.7
+08	Colorado	PROPAZINE	2007	kg										1021
+08	Colorado	PROPAZINE	2008	kg										1582.4
+08	Colorado	PROPAZINE	2009	kg										430.5
+08	Colorado	PROPAZINE	2010	kg										12000.6
+08	Colorado	PROPAZINE	2011	kg										380.1
+08	Colorado	PROPAZINE	2012	kg										376.4
+08	Colorado	PROPAZINE	2013	kg										3532.3
+08	Colorado	PROPAZINE	2014	kg										2024.9
+08	Colorado	PROPAZINE	2015	kg										17148.9
+08	Colorado	PROPAZINE	2016	kg										16483.6
+08	Colorado	PROPAZINE	2017	kg										26660.3
+19	Iowa	PROPAZINE	1994	kg										2.4
+19	Iowa	PROPAZINE	1995	kg								3550.6		
+19	Iowa	PROPAZINE	1998	kg										22.9
+20	Kansas	PROPAZINE	1992	kg										16104.7
+20	Kansas	PROPAZINE	1993	kg										30398.8
+20	Kansas	PROPAZINE	1994	kg										70329.9
+20	Kansas	PROPAZINE	1995	kg										100474.6
+20	Kansas	PROPAZINE	1996	kg										42583.9
+20	Kansas	PROPAZINE	1997	kg										52086.7
+20	Kansas	PROPAZINE	1998	kg										20872.1
+20	Kansas	PROPAZINE	1999	kg										36834.6
+20	Kansas	PROPAZINE	2000	kg										8031.2
+20	Kansas	PROPAZINE	2007	kg										12955.6
+20	Kansas	PROPAZINE	2008	kg										24989.1
+20	Kansas	PROPAZINE	2009	kg										6640.9
+20	Kansas	PROPAZINE	2010	kg										75587.3
+20	Kansas	PROPAZINE	2011	kg										6384.6
+20	Kansas	PROPAZINE	2012	kg										8059.4
+20	Kansas	PROPAZINE	2013	kg										38353
+20	Kansas	PROPAZINE	2014	kg										14200.4
+20	Kansas	PROPAZINE	2015	kg										39030.6
+20	Kansas	PROPAZINE	2016	kg										117035.3
+20	Kansas	PROPAZINE	2017	kg										189432.6
+22	Louisiana	PROPAZINE	1994	kg										16.1
+22	Louisiana	PROPAZINE	1997	kg										421
+22	Louisiana	PROPAZINE	2010	kg										526.5
+22	Louisiana	PROPAZINE	2016	kg										21
+29	Missouri	PROPAZINE	1996	kg										384.6
+29	Missouri	PROPAZINE	1998	kg										243.3
+29	Missouri	PROPAZINE	1999	kg										6468.4
+31	Nebraska	PROPAZINE	1992	kg										6129.9
+31	Nebraska	PROPAZINE	1993	kg										9426.8
+31	Nebraska	PROPAZINE	1994	kg										1605.6
+31	Nebraska	PROPAZINE	1995	kg								2299.7		16809.6
+31	Nebraska	PROPAZINE	1996	kg										9139.8
+31	Nebraska	PROPAZINE	1997	kg										12498.8
+31	Nebraska	PROPAZINE	1998	kg										13395.4
+31	Nebraska	PROPAZINE	1999	kg										1588.8
+31	Nebraska	PROPAZINE	2007	kg										2229
+31	Nebraska	PROPAZINE	2008	kg										1225.3
+31	Nebraska	PROPAZINE	2009	kg										931.5
+31	Nebraska	PROPAZINE	2010	kg										1800
+31	Nebraska	PROPAZINE	2011	kg										186
+31	Nebraska	PROPAZINE	2012	kg										151.8
+31	Nebraska	PROPAZINE	2013	kg										787.6
+31	Nebraska	PROPAZINE	2014	kg										538.6
+31	Nebraska	PROPAZINE	2015	kg										3047.1
+31	Nebraska	PROPAZINE	2016	kg										2315.7
+31	Nebraska	PROPAZINE	2017	kg										3016.6
+35	New Mexico	PROPAZINE	1992	kg		7								690.7
+35	New Mexico	PROPAZINE	1993	kg				20.3	142				122.5	932.2
+35	New Mexico	PROPAZINE	1994	kg	295		238.9						4216.1	12735.8
+35	New Mexico	PROPAZINE	1995	kg	317.6			125.4					631.8	2205.7
+35	New Mexico	PROPAZINE	1996	kg	194.6			38.8					906.4	2173.6
+35	New Mexico	PROPAZINE	1997	kg									200.9	17348
+35	New Mexico	PROPAZINE	1998	kg										70.5
+35	New Mexico	PROPAZINE	1999	kg										1764.6
+35	New Mexico	PROPAZINE	2007	kg										4290.9
+35	New Mexico	PROPAZINE	2008	kg										624.9
+35	New Mexico	PROPAZINE	2009	kg										3195.9
+35	New Mexico	PROPAZINE	2010	kg										7726
+35	New Mexico	PROPAZINE	2011	kg										182
+35	New Mexico	PROPAZINE	2012	kg										586.9
+35	New Mexico	PROPAZINE	2013	kg										1547.4
+35	New Mexico	PROPAZINE	2014	kg										913.3
+35	New Mexico	PROPAZINE	2015	kg										11470
+35	New Mexico	PROPAZINE	2016	kg										3274.9
+35	New Mexico	PROPAZINE	2017	kg										4433.5
+40	Oklahoma	PROPAZINE	1992	kg	36.2	83.7								1100
+40	Oklahoma	PROPAZINE	1993	kg				1158.5					803.6	3298.5
+40	Oklahoma	PROPAZINE	1994	kg	330.4		1634.8						9322.9	6106.6
+40	Oklahoma	PROPAZINE	1995	kg				954.8					801.1	29974.2
+40	Oklahoma	PROPAZINE	1996	kg	266.7			266.6					4200.1	5914.1
+40	Oklahoma	PROPAZINE	1997	kg									1599.4	8643
+40	Oklahoma	PROPAZINE	1998	kg										382.5
+40	Oklahoma	PROPAZINE	1999	kg										3882.8
+40	Oklahoma	PROPAZINE	2000	kg										8581
+40	Oklahoma	PROPAZINE	2007	kg										1263.2
+40	Oklahoma	PROPAZINE	2008	kg										1677.7
+40	Oklahoma	PROPAZINE	2009	kg										1657.7
+40	Oklahoma	PROPAZINE	2010	kg										9825.3
+40	Oklahoma	PROPAZINE	2011	kg										832.3
+40	Oklahoma	PROPAZINE	2012	kg										667.1
+40	Oklahoma	PROPAZINE	2013	kg										5896.5
+40	Oklahoma	PROPAZINE	2014	kg										959.4
+40	Oklahoma	PROPAZINE	2015	kg										10043.9
+40	Oklahoma	PROPAZINE	2016	kg										6456.9
+40	Oklahoma	PROPAZINE	2017	kg										13958
+46	South Dakota	PROPAZINE	1995	kg								1122.8		
+48	Texas	PROPAZINE	1992	kg	1095	3484.7								22757.8
+48	Texas	PROPAZINE	1993	kg				7587.8	1444				1146.2	120340.8
+48	Texas	PROPAZINE	1994	kg	4810.7		3557.2						61598.2	132412.1
+48	Texas	PROPAZINE	1995	kg	3008.4			12375.7					2837.2	51156.9
+48	Texas	PROPAZINE	1996	kg	2086.9			7888.4					13222.5	124801.2
+48	Texas	PROPAZINE	1997	kg									6015.2	124492.3
+48	Texas	PROPAZINE	1998	kg										1750.6
+48	Texas	PROPAZINE	1999	kg										23724.9
+48	Texas	PROPAZINE	2000	kg										125471.2
+48	Texas	PROPAZINE	2007	kg										48266.3
+48	Texas	PROPAZINE	2008	kg										32022.8
+48	Texas	PROPAZINE	2009	kg										101222.7
+48	Texas	PROPAZINE	2010	kg										65849.8
+48	Texas	PROPAZINE	2011	kg										15821.3
+48	Texas	PROPAZINE	2012	kg										18285
+48	Texas	PROPAZINE	2013	kg										47731.2
+48	Texas	PROPAZINE	2014	kg										67577.2
+48	Texas	PROPAZINE	2015	kg										273607.3
+48	Texas	PROPAZINE	2016	kg										133904.3
+48	Texas	PROPAZINE	2017	kg										107602.1
+51	Virginia	PROPAZINE	1992	kg								7682.1		

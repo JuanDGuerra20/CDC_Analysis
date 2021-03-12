@@ -1,0 +1,259 @@
+01	Alabama	DIMETHIPIN	1992	kg				6705.5						
+01	Alabama	DIMETHIPIN	1993	kg				8249.7						
+01	Alabama	DIMETHIPIN	1994	kg				2322.8						
+01	Alabama	DIMETHIPIN	1995	kg				6253.3						
+01	Alabama	DIMETHIPIN	1996	kg				3808.6						
+01	Alabama	DIMETHIPIN	1997	kg				3774						
+01	Alabama	DIMETHIPIN	1998	kg				3916.2						
+01	Alabama	DIMETHIPIN	1999	kg				9518.7						
+01	Alabama	DIMETHIPIN	2000	kg				3762.2						
+01	Alabama	DIMETHIPIN	2001	kg				14757.4						
+01	Alabama	DIMETHIPIN	2002	kg				5435.6						
+01	Alabama	DIMETHIPIN	2003	kg				3226.8						
+01	Alabama	DIMETHIPIN	2004	kg				898.2						
+01	Alabama	DIMETHIPIN	2005	kg				4105.5						
+01	Alabama	DIMETHIPIN	2006	kg				1703.9						
+01	Alabama	DIMETHIPIN	2007	kg				1209.4						
+01	Alabama	DIMETHIPIN	2009	kg				764.5						
+01	Alabama	DIMETHIPIN	2011	kg				63.5						
+01	Alabama	DIMETHIPIN	2012	kg				296.6						
+04	Arizona	DIMETHIPIN	2003	kg				1592.7						
+05	Arkansas	DIMETHIPIN	1992	kg				7873.4						
+05	Arkansas	DIMETHIPIN	1993	kg				3771.5						
+05	Arkansas	DIMETHIPIN	1994	kg				6283.1						
+05	Arkansas	DIMETHIPIN	1995	kg				508.4						
+05	Arkansas	DIMETHIPIN	1996	kg				5846.6						
+05	Arkansas	DIMETHIPIN	1997	kg		167.3	1123.6	1870					1155.1	
+05	Arkansas	DIMETHIPIN	1998	kg				6060.9						
+05	Arkansas	DIMETHIPIN	1999	kg				2773.6						
+05	Arkansas	DIMETHIPIN	2000	kg				15320.1						
+05	Arkansas	DIMETHIPIN	2001	kg				7167.9						
+05	Arkansas	DIMETHIPIN	2002	kg				1395.8						
+05	Arkansas	DIMETHIPIN	2003	kg				1988						
+05	Arkansas	DIMETHIPIN	2004	kg				8078.7						
+05	Arkansas	DIMETHIPIN	2005	kg				13614.7						
+05	Arkansas	DIMETHIPIN	2006	kg				15931						
+05	Arkansas	DIMETHIPIN	2007	kg				1103.1						
+05	Arkansas	DIMETHIPIN	2008	kg				3345.8						
+05	Arkansas	DIMETHIPIN	2009	kg				4764.2						
+05	Arkansas	DIMETHIPIN	2010	kg				305.6						
+05	Arkansas	DIMETHIPIN	2011	kg				594.4						
+05	Arkansas	DIMETHIPIN	2012	kg				6697.3						
+06	California	DIMETHIPIN	1993	kg				8.7						
+06	California	DIMETHIPIN	1994	kg				2.3						
+06	California	DIMETHIPIN	1995	kg				13.9						
+06	California	DIMETHIPIN	1996	kg				1875.4						
+06	California	DIMETHIPIN	1997	kg				997.3						
+06	California	DIMETHIPIN	1998	kg				412.5						
+06	California	DIMETHIPIN	1999	kg				618.8						
+06	California	DIMETHIPIN	2000	kg				1175.9						
+06	California	DIMETHIPIN	2001	kg				338.2						
+06	California	DIMETHIPIN	2002	kg				290.6						
+06	California	DIMETHIPIN	2003	kg				33.7						
+06	California	DIMETHIPIN	2004	kg				148.5						
+12	Florida	DIMETHIPIN	1995	kg				1353						
+12	Florida	DIMETHIPIN	1996	kg				4091.7						
+12	Florida	DIMETHIPIN	1997	kg				181.5						
+12	Florida	DIMETHIPIN	1998	kg				4422.7						
+12	Florida	DIMETHIPIN	1999	kg				1151.6						
+12	Florida	DIMETHIPIN	2000	kg				824.6						
+12	Florida	DIMETHIPIN	2001	kg				1289.7						
+12	Florida	DIMETHIPIN	2002	kg				570						
+12	Florida	DIMETHIPIN	2003	kg				369.7						
+12	Florida	DIMETHIPIN	2004	kg				154.1						
+12	Florida	DIMETHIPIN	2005	kg				211.8						
+12	Florida	DIMETHIPIN	2006	kg				341.4						
+12	Florida	DIMETHIPIN	2007	kg				444.2						
+12	Florida	DIMETHIPIN	2009	kg				2.2						
+13	Georgia	DIMETHIPIN	1992	kg				2256.1						
+13	Georgia	DIMETHIPIN	1993	kg				7895						
+13	Georgia	DIMETHIPIN	1994	kg				5934.7						
+13	Georgia	DIMETHIPIN	1995	kg				14655.7						
+13	Georgia	DIMETHIPIN	1996	kg				11777.5						
+13	Georgia	DIMETHIPIN	1997	kg				19087.9						
+13	Georgia	DIMETHIPIN	1998	kg				24770.3						
+13	Georgia	DIMETHIPIN	1999	kg				8000.5						
+13	Georgia	DIMETHIPIN	2000	kg				14111.8						
+13	Georgia	DIMETHIPIN	2001	kg				10041						
+13	Georgia	DIMETHIPIN	2002	kg				10519.5						
+13	Georgia	DIMETHIPIN	2003	kg				13045.5						
+13	Georgia	DIMETHIPIN	2004	kg				3937.7						
+13	Georgia	DIMETHIPIN	2005	kg				1556.6						
+13	Georgia	DIMETHIPIN	2006	kg				2149.8						
+13	Georgia	DIMETHIPIN	2007	kg				1814.4						
+13	Georgia	DIMETHIPIN	2009	kg				2177						
+20	Kansas	DIMETHIPIN	1994	kg				17.4						
+20	Kansas	DIMETHIPIN	1995	kg				173.8						
+20	Kansas	DIMETHIPIN	1998	kg				46						
+20	Kansas	DIMETHIPIN	1999	kg				999.1						
+20	Kansas	DIMETHIPIN	2001	kg				1208.7						
+20	Kansas	DIMETHIPIN	2002	kg				95						
+22	Louisiana	DIMETHIPIN	1992	kg				1417.9						
+22	Louisiana	DIMETHIPIN	1993	kg				1042.9						
+22	Louisiana	DIMETHIPIN	1994	kg				3779.7						
+22	Louisiana	DIMETHIPIN	1995	kg				4761.7						
+22	Louisiana	DIMETHIPIN	1996	kg				18269.6						
+22	Louisiana	DIMETHIPIN	1997	kg		132	419.2	3621.6					2269.6	
+22	Louisiana	DIMETHIPIN	1998	kg				5670						
+22	Louisiana	DIMETHIPIN	1999	kg				4904.8						
+22	Louisiana	DIMETHIPIN	2000	kg				2889.9						
+22	Louisiana	DIMETHIPIN	2001	kg				4413						
+22	Louisiana	DIMETHIPIN	2002	kg				1523.6						
+22	Louisiana	DIMETHIPIN	2003	kg				797.6						
+22	Louisiana	DIMETHIPIN	2004	kg				7152.5						
+22	Louisiana	DIMETHIPIN	2005	kg				2621.5						
+22	Louisiana	DIMETHIPIN	2006	kg				6677.8						
+22	Louisiana	DIMETHIPIN	2007	kg				514.1						
+22	Louisiana	DIMETHIPIN	2008	kg				1151.6						
+22	Louisiana	DIMETHIPIN	2009	kg				1817.5						
+22	Louisiana	DIMETHIPIN	2011	kg				194.4						
+22	Louisiana	DIMETHIPIN	2012	kg				1911.9						
+28	Mississippi	DIMETHIPIN	1992	kg				4353.1						
+28	Mississippi	DIMETHIPIN	1993	kg				11240.4						
+28	Mississippi	DIMETHIPIN	1994	kg				7550.1						
+28	Mississippi	DIMETHIPIN	1995	kg				5225.2						
+28	Mississippi	DIMETHIPIN	1996	kg				8486.5						
+28	Mississippi	DIMETHIPIN	1997	kg		570.3	2157.2	1964.5					19220.9	
+28	Mississippi	DIMETHIPIN	1998	kg				9239						
+28	Mississippi	DIMETHIPIN	1999	kg				5962.2						
+28	Mississippi	DIMETHIPIN	2000	kg				13296.4						
+28	Mississippi	DIMETHIPIN	2001	kg				8621.3						
+28	Mississippi	DIMETHIPIN	2002	kg				3846.5						
+28	Mississippi	DIMETHIPIN	2003	kg				912.2						
+28	Mississippi	DIMETHIPIN	2004	kg				8374.1						
+28	Mississippi	DIMETHIPIN	2005	kg				22388.7						
+28	Mississippi	DIMETHIPIN	2006	kg				12460.5						
+28	Mississippi	DIMETHIPIN	2007	kg				1344.8						
+28	Mississippi	DIMETHIPIN	2008	kg				3820.1						
+28	Mississippi	DIMETHIPIN	2009	kg				2771.7						
+28	Mississippi	DIMETHIPIN	2011	kg				442.7						
+28	Mississippi	DIMETHIPIN	2012	kg				7486.7						
+29	Missouri	DIMETHIPIN	1992	kg				2784.6						
+29	Missouri	DIMETHIPIN	1993	kg				2166						
+29	Missouri	DIMETHIPIN	1994	kg				7011.5						
+29	Missouri	DIMETHIPIN	1995	kg				11093.7						
+29	Missouri	DIMETHIPIN	1996	kg				5210.7						
+29	Missouri	DIMETHIPIN	1997	kg				2557.6						
+29	Missouri	DIMETHIPIN	1998	kg				13402.6						
+29	Missouri	DIMETHIPIN	1999	kg				5248.5						
+29	Missouri	DIMETHIPIN	2000	kg				8402.9						
+29	Missouri	DIMETHIPIN	2001	kg				1877.1						
+29	Missouri	DIMETHIPIN	2002	kg				343.1						
+29	Missouri	DIMETHIPIN	2003	kg				1526.9						
+29	Missouri	DIMETHIPIN	2006	kg				11709.2						
+29	Missouri	DIMETHIPIN	2008	kg				382.4						
+29	Missouri	DIMETHIPIN	2009	kg				2773.2						
+29	Missouri	DIMETHIPIN	2010	kg				218.3						
+29	Missouri	DIMETHIPIN	2011	kg				344.1						
+35	New Mexico	DIMETHIPIN	1994	kg				17						
+35	New Mexico	DIMETHIPIN	1995	kg				52.4						
+35	New Mexico	DIMETHIPIN	1996	kg				64						
+35	New Mexico	DIMETHIPIN	1997	kg				8.5						
+35	New Mexico	DIMETHIPIN	1998	kg				29.1						
+35	New Mexico	DIMETHIPIN	1999	kg				82.4						
+35	New Mexico	DIMETHIPIN	2001	kg				596.1						
+35	New Mexico	DIMETHIPIN	2002	kg				827.5						
+35	New Mexico	DIMETHIPIN	2003	kg				388.7						
+35	New Mexico	DIMETHIPIN	2006	kg				743.5						
+37	North Carolina	DIMETHIPIN	1992	kg				1939.6						
+37	North Carolina	DIMETHIPIN	1993	kg				4560						
+37	North Carolina	DIMETHIPIN	1994	kg				5336.3						
+37	North Carolina	DIMETHIPIN	1995	kg		315.7		10723.7						
+37	North Carolina	DIMETHIPIN	1996	kg				2074.6						
+37	North Carolina	DIMETHIPIN	1997	kg				7846.2						
+37	North Carolina	DIMETHIPIN	1998	kg				15272.1						
+37	North Carolina	DIMETHIPIN	1999	kg				13668.1						
+37	North Carolina	DIMETHIPIN	2000	kg				11180.8						
+37	North Carolina	DIMETHIPIN	2001	kg				13762.5						
+37	North Carolina	DIMETHIPIN	2002	kg				9543.6						
+37	North Carolina	DIMETHIPIN	2003	kg				5331.2						
+37	North Carolina	DIMETHIPIN	2004	kg				2805						
+37	North Carolina	DIMETHIPIN	2005	kg				1978.1						
+37	North Carolina	DIMETHIPIN	2006	kg				6213						
+37	North Carolina	DIMETHIPIN	2007	kg				164.1						
+37	North Carolina	DIMETHIPIN	2009	kg				863.6						
+37	North Carolina	DIMETHIPIN	2011	kg				73.5						
+40	Oklahoma	DIMETHIPIN	1993	kg				4.7						
+40	Oklahoma	DIMETHIPIN	1994	kg				141.5						
+40	Oklahoma	DIMETHIPIN	1995	kg				1385.3						
+40	Oklahoma	DIMETHIPIN	1996	kg				4						
+40	Oklahoma	DIMETHIPIN	1997	kg				4.2						
+40	Oklahoma	DIMETHIPIN	1998	kg				231.8						
+40	Oklahoma	DIMETHIPIN	1999	kg				639.5						
+40	Oklahoma	DIMETHIPIN	2000	kg				193.2						
+40	Oklahoma	DIMETHIPIN	2001	kg				2701.8						
+40	Oklahoma	DIMETHIPIN	2002	kg				69.1						
+40	Oklahoma	DIMETHIPIN	2006	kg				4.7						
+40	Oklahoma	DIMETHIPIN	2007	kg				22.9						
+40	Oklahoma	DIMETHIPIN	2008	kg				1.1						
+45	South Carolina	DIMETHIPIN	1992	kg				956.2						
+45	South Carolina	DIMETHIPIN	1993	kg				368						
+45	South Carolina	DIMETHIPIN	1994	kg				1432.4						
+45	South Carolina	DIMETHIPIN	1995	kg				2989.6						
+45	South Carolina	DIMETHIPIN	1996	kg				756.8						
+45	South Carolina	DIMETHIPIN	1997	kg				4461.7						
+45	South Carolina	DIMETHIPIN	1998	kg				1987.8						
+45	South Carolina	DIMETHIPIN	1999	kg				2999						
+45	South Carolina	DIMETHIPIN	2000	kg				1918.2						
+45	South Carolina	DIMETHIPIN	2001	kg				2481.8						
+45	South Carolina	DIMETHIPIN	2002	kg				500.5						
+45	South Carolina	DIMETHIPIN	2003	kg				1333.6						
+45	South Carolina	DIMETHIPIN	2004	kg				1148.3						
+45	South Carolina	DIMETHIPIN	2005	kg				785.4						
+45	South Carolina	DIMETHIPIN	2006	kg				1893.7						
+45	South Carolina	DIMETHIPIN	2009	kg				271.4						
+47	Tennessee	DIMETHIPIN	1992	kg				7208.5						
+47	Tennessee	DIMETHIPIN	1993	kg				14925.5						
+47	Tennessee	DIMETHIPIN	1994	kg				3217.4						
+47	Tennessee	DIMETHIPIN	1995	kg				3957.2						
+47	Tennessee	DIMETHIPIN	1996	kg				14542.1						
+47	Tennessee	DIMETHIPIN	1997	kg				739.1						
+47	Tennessee	DIMETHIPIN	1998	kg				1265.7						
+47	Tennessee	DIMETHIPIN	1999	kg				783.7						
+47	Tennessee	DIMETHIPIN	2000	kg				1294.1						
+47	Tennessee	DIMETHIPIN	2001	kg				1624.4						
+47	Tennessee	DIMETHIPIN	2002	kg				3136.6						
+47	Tennessee	DIMETHIPIN	2003	kg				678.5						
+47	Tennessee	DIMETHIPIN	2004	kg				1311						
+47	Tennessee	DIMETHIPIN	2005	kg				12481.5						
+47	Tennessee	DIMETHIPIN	2006	kg				2887.9						
+47	Tennessee	DIMETHIPIN	2007	kg				1030.1						
+47	Tennessee	DIMETHIPIN	2008	kg				388.3						
+47	Tennessee	DIMETHIPIN	2009	kg				2083.4						
+47	Tennessee	DIMETHIPIN	2010	kg				66.5						
+47	Tennessee	DIMETHIPIN	2011	kg				325						
+47	Tennessee	DIMETHIPIN	2012	kg				1947.5						
+48	Texas	DIMETHIPIN	1992	kg				133.8						
+48	Texas	DIMETHIPIN	1994	kg				1918.8						
+48	Texas	DIMETHIPIN	1995	kg				9242.1						
+48	Texas	DIMETHIPIN	1996	kg				4187.9						
+48	Texas	DIMETHIPIN	1997	kg				613.9						
+48	Texas	DIMETHIPIN	1998	kg				6265.4						
+48	Texas	DIMETHIPIN	1999	kg				6845.7						
+48	Texas	DIMETHIPIN	2000	kg				1351.5						
+48	Texas	DIMETHIPIN	2001	kg				45981						
+48	Texas	DIMETHIPIN	2002	kg				32399.2						
+48	Texas	DIMETHIPIN	2003	kg				58.7						
+48	Texas	DIMETHIPIN	2004	kg				1604.9						
+48	Texas	DIMETHIPIN	2005	kg				257.1						
+48	Texas	DIMETHIPIN	2006	kg				46581						
+48	Texas	DIMETHIPIN	2007	kg				3409.1						
+48	Texas	DIMETHIPIN	2008	kg				794.1						
+51	Virginia	DIMETHIPIN	1992	kg				132.6						
+51	Virginia	DIMETHIPIN	1993	kg				325.9						
+51	Virginia	DIMETHIPIN	1994	kg				162.5						
+51	Virginia	DIMETHIPIN	1995	kg		229.8		1895.9						
+51	Virginia	DIMETHIPIN	1996	kg				771.4						
+51	Virginia	DIMETHIPIN	1997	kg				1863.2						
+51	Virginia	DIMETHIPIN	1998	kg				821						
+51	Virginia	DIMETHIPIN	1999	kg				4115.2						
+51	Virginia	DIMETHIPIN	2000	kg				3787.8						
+51	Virginia	DIMETHIPIN	2001	kg				1847.2						
+51	Virginia	DIMETHIPIN	2002	kg				1967						
+51	Virginia	DIMETHIPIN	2003	kg				118.4						
+51	Virginia	DIMETHIPIN	2004	kg				163.1						
+51	Virginia	DIMETHIPIN	2005	kg				202						
+51	Virginia	DIMETHIPIN	2006	kg				65						
+51	Virginia	DIMETHIPIN	2007	kg				23.1						
+51	Virginia	DIMETHIPIN	2009	kg				143.1						
+51	Virginia	DIMETHIPIN	2011	kg				11.9						

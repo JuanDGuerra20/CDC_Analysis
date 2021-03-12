@@ -1,0 +1,192 @@
+01	Alabama	FLORASULAM	2017	kg			4.1							
+05	Arkansas	FLORASULAM	2012	kg			242.8							
+08	Colorado	FLORASULAM	2008	kg			0.4							7.8
+08	Colorado	FLORASULAM	2009	kg			113.4							50.2
+08	Colorado	FLORASULAM	2010	kg			24.2							6.8
+08	Colorado	FLORASULAM	2011	kg			59							23.9
+08	Colorado	FLORASULAM	2012	kg			61.8							27.6
+08	Colorado	FLORASULAM	2013	kg			94.5							11.8
+08	Colorado	FLORASULAM	2014	kg			97.4						119.3	23.9
+08	Colorado	FLORASULAM	2015	kg			63.1							3.9
+08	Colorado	FLORASULAM	2016	kg			22.2							3.1
+08	Colorado	FLORASULAM	2017	kg			68.7							5.7
+16	Idaho	FLORASULAM	2008	kg			142.1							20.7
+16	Idaho	FLORASULAM	2009	kg			331.4							36.1
+16	Idaho	FLORASULAM	2010	kg			75							122
+16	Idaho	FLORASULAM	2011	kg			209.1							218.3
+16	Idaho	FLORASULAM	2012	kg			229.6							79.8
+16	Idaho	FLORASULAM	2013	kg			1143.4							86.8
+16	Idaho	FLORASULAM	2014	kg			547.3							102.3
+16	Idaho	FLORASULAM	2015	kg			786.7							469.7
+16	Idaho	FLORASULAM	2016	kg			280							69.6
+16	Idaho	FLORASULAM	2017	kg			410.6							47.7
+17	Illinois	FLORASULAM	2009	kg			17.2							
+17	Illinois	FLORASULAM	2010	kg			6.3							
+17	Illinois	FLORASULAM	2012	kg			30.9							
+17	Illinois	FLORASULAM	2013	kg			36.5							
+17	Illinois	FLORASULAM	2014	kg			11.9							
+17	Illinois	FLORASULAM	2015	kg			3.3							
+17	Illinois	FLORASULAM	2016	kg			24.9							
+17	Illinois	FLORASULAM	2017	kg			9.8							
+18	Indiana	FLORASULAM	2013	kg			6.7							
+18	Indiana	FLORASULAM	2016	kg			15.6							
+18	Indiana	FLORASULAM	2017	kg			3.1							
+19	Iowa	FLORASULAM	2009	kg			0.8							
+19	Iowa	FLORASULAM	2010	kg			0.1							
+19	Iowa	FLORASULAM	2011	kg			0.1							
+19	Iowa	FLORASULAM	2012	kg			1.9							
+19	Iowa	FLORASULAM	2013	kg			1.4							
+19	Iowa	FLORASULAM	2014	kg			0							
+19	Iowa	FLORASULAM	2015	kg			0.1							
+19	Iowa	FLORASULAM	2016	kg			1.9							
+19	Iowa	FLORASULAM	2017	kg			0.3							
+20	Kansas	FLORASULAM	2013	kg			262.2							
+20	Kansas	FLORASULAM	2014	kg									236.2	
+20	Kansas	FLORASULAM	2016	kg			13.5							
+20	Kansas	FLORASULAM	2017	kg			176.5							
+21	Kentucky	FLORASULAM	2013	kg			21.8							
+21	Kentucky	FLORASULAM	2016	kg			46.9							
+21	Kentucky	FLORASULAM	2017	kg			4.1							
+24	Maryland	FLORASULAM	2017	kg			3.9							1.3
+26	Michigan	FLORASULAM	2013	kg			103.4							
+26	Michigan	FLORASULAM	2014	kg			51.1							
+26	Michigan	FLORASULAM	2015	kg			38.8							
+26	Michigan	FLORASULAM	2016	kg			77							
+26	Michigan	FLORASULAM	2017	kg			14.8							
+27	Minnesota	FLORASULAM	2008	kg			48.3							
+27	Minnesota	FLORASULAM	2009	kg			190.1							11
+27	Minnesota	FLORASULAM	2010	kg			52.3							2.4
+27	Minnesota	FLORASULAM	2011	kg			49							
+27	Minnesota	FLORASULAM	2012	kg			62.1							7.2
+27	Minnesota	FLORASULAM	2013	kg			31.4							39.9
+27	Minnesota	FLORASULAM	2014	kg			64.5							10.3
+27	Minnesota	FLORASULAM	2015	kg			111.2							5.3
+27	Minnesota	FLORASULAM	2016	kg			103.5							2.3
+27	Minnesota	FLORASULAM	2017	kg			35.5							13.1
+28	Mississippi	FLORASULAM	2012	kg			86.8							
+28	Mississippi	FLORASULAM	2017	kg			0.6							
+29	Missouri	FLORASULAM	2013	kg			11.3							
+29	Missouri	FLORASULAM	2016	kg			30.7							
+29	Missouri	FLORASULAM	2017	kg			21.8							
+30	Montana	FLORASULAM	2008	kg			127.7							
+30	Montana	FLORASULAM	2009	kg			654.6							230
+30	Montana	FLORASULAM	2010	kg			371.2							272.1
+30	Montana	FLORASULAM	2011	kg			792.9							84.2
+30	Montana	FLORASULAM	2012	kg			1821.7							101.6
+30	Montana	FLORASULAM	2013	kg			1739.3							461.6
+30	Montana	FLORASULAM	2014	kg			1503.4							205.1
+30	Montana	FLORASULAM	2015	kg			1153.8							56.6
+30	Montana	FLORASULAM	2016	kg			1096.5							85.7
+30	Montana	FLORASULAM	2017	kg			1002.4							182.4
+31	Nebraska	FLORASULAM	2009	kg			229.3							0
+31	Nebraska	FLORASULAM	2010	kg			16.4							0
+31	Nebraska	FLORASULAM	2011	kg			54.3							
+31	Nebraska	FLORASULAM	2012	kg			106.7							0
+31	Nebraska	FLORASULAM	2013	kg			79.6							0.4
+31	Nebraska	FLORASULAM	2014	kg			155.9							0
+31	Nebraska	FLORASULAM	2015	kg			38							0
+31	Nebraska	FLORASULAM	2016	kg			42.6							0
+31	Nebraska	FLORASULAM	2017	kg			102.5							0.4
+32	Nevada	FLORASULAM	2008	kg			0.5							
+32	Nevada	FLORASULAM	2009	kg			0.1							0
+32	Nevada	FLORASULAM	2010	kg			0.3							0
+32	Nevada	FLORASULAM	2011	kg			1.6							0
+32	Nevada	FLORASULAM	2012	kg			1							0
+32	Nevada	FLORASULAM	2013	kg			8.9							0.5
+32	Nevada	FLORASULAM	2014	kg			6.9							0.5
+32	Nevada	FLORASULAM	2015	kg			9.8							0.5
+32	Nevada	FLORASULAM	2016	kg			0.9							0
+32	Nevada	FLORASULAM	2017	kg			2.7							0.2
+35	New Mexico	FLORASULAM	2008	kg										0
+35	New Mexico	FLORASULAM	2009	kg										0.3
+35	New Mexico	FLORASULAM	2010	kg										0
+35	New Mexico	FLORASULAM	2011	kg										0
+35	New Mexico	FLORASULAM	2013	kg			3							0
+35	New Mexico	FLORASULAM	2014	kg										0.2
+35	New Mexico	FLORASULAM	2015	kg										0
+35	New Mexico	FLORASULAM	2016	kg										0
+35	New Mexico	FLORASULAM	2017	kg			2.8							0
+37	North Carolina	FLORASULAM	2017	kg			130.2							
+38	North Dakota	FLORASULAM	2008	kg			291.3							
+38	North Dakota	FLORASULAM	2009	kg			456.9							159.2
+38	North Dakota	FLORASULAM	2010	kg			627.1							38.2
+38	North Dakota	FLORASULAM	2011	kg			373.7							
+38	North Dakota	FLORASULAM	2012	kg			293.7							92.8
+38	North Dakota	FLORASULAM	2013	kg			502.9							544.1
+38	North Dakota	FLORASULAM	2014	kg			455.7							116
+38	North Dakota	FLORASULAM	2015	kg			837.7							97.8
+38	North Dakota	FLORASULAM	2016	kg			893.6							24.8
+38	North Dakota	FLORASULAM	2017	kg			750.8							106.6
+39	Ohio	FLORASULAM	2013	kg			117.9							
+39	Ohio	FLORASULAM	2014	kg			32.2							
+39	Ohio	FLORASULAM	2015	kg			22.2							
+39	Ohio	FLORASULAM	2016	kg			198.3							
+39	Ohio	FLORASULAM	2017	kg			179							
+40	Oklahoma	FLORASULAM	2011	kg			30							
+40	Oklahoma	FLORASULAM	2013	kg			81.9							
+40	Oklahoma	FLORASULAM	2017	kg			368.7							
+41	Oregon	FLORASULAM	2008	kg			26.2							2.7
+41	Oregon	FLORASULAM	2009	kg			83.5							4.4
+41	Oregon	FLORASULAM	2010	kg			48.3							9.6
+41	Oregon	FLORASULAM	2011	kg			35.8							18.4
+41	Oregon	FLORASULAM	2012	kg			98.9							19.8
+41	Oregon	FLORASULAM	2013	kg			696.6							19
+41	Oregon	FLORASULAM	2014	kg			386.7							20.5
+41	Oregon	FLORASULAM	2015	kg			337.3							15.1
+41	Oregon	FLORASULAM	2016	kg			301.6							8.4
+41	Oregon	FLORASULAM	2017	kg			207.3							20.5
+42	Pennsylvania	FLORASULAM	2017	kg										5.4
+46	South Dakota	FLORASULAM	2008	kg			62.4							
+46	South Dakota	FLORASULAM	2009	kg			289.7							
+46	South Dakota	FLORASULAM	2010	kg			530.9							
+46	South Dakota	FLORASULAM	2011	kg			616.8							
+46	South Dakota	FLORASULAM	2012	kg			406							
+46	South Dakota	FLORASULAM	2013	kg			206.6							
+46	South Dakota	FLORASULAM	2014	kg			789.7							
+46	South Dakota	FLORASULAM	2015	kg			638.8							
+46	South Dakota	FLORASULAM	2016	kg			757.2							
+46	South Dakota	FLORASULAM	2017	kg			323.3							
+47	Tennessee	FLORASULAM	2012	kg			33.6							
+47	Tennessee	FLORASULAM	2017	kg			15.5							
+48	Texas	FLORASULAM	2011	kg			475.2							
+48	Texas	FLORASULAM	2013	kg			104.7							
+48	Texas	FLORASULAM	2017	kg			102.1							
+49	Utah	FLORASULAM	2008	kg			3.7							
+49	Utah	FLORASULAM	2009	kg			0.3							1.4
+49	Utah	FLORASULAM	2010	kg			5.3							1.7
+49	Utah	FLORASULAM	2011	kg			9.5							6.6
+49	Utah	FLORASULAM	2012	kg			4.8							0.4
+49	Utah	FLORASULAM	2013	kg			53.7							0.6
+49	Utah	FLORASULAM	2014	kg			38.3							1.2
+49	Utah	FLORASULAM	2015	kg			22.9							3.6
+49	Utah	FLORASULAM	2016	kg			7.5							0.6
+49	Utah	FLORASULAM	2017	kg			30.8							0.3
+51	Virginia	FLORASULAM	2017	kg			23.5							
+53	Washington	FLORASULAM	2008	kg			561.9							58.1
+53	Washington	FLORASULAM	2009	kg			65.2							
+53	Washington	FLORASULAM	2010	kg			175.6							15.8
+53	Washington	FLORASULAM	2011	kg			533.6							51.7
+53	Washington	FLORASULAM	2012	kg			301							52.6
+53	Washington	FLORASULAM	2013	kg			637.7							50.4
+53	Washington	FLORASULAM	2014	kg			625							74.5
+53	Washington	FLORASULAM	2015	kg			513.7							40.5
+53	Washington	FLORASULAM	2016	kg			917.4							36.6
+53	Washington	FLORASULAM	2017	kg			389.2							91.9
+55	Wisconsin	FLORASULAM	2009	kg			64.3							
+55	Wisconsin	FLORASULAM	2010	kg			62.4							
+55	Wisconsin	FLORASULAM	2012	kg			106							
+55	Wisconsin	FLORASULAM	2013	kg			83.1							
+55	Wisconsin	FLORASULAM	2014	kg			73.8							
+55	Wisconsin	FLORASULAM	2015	kg			50.9							
+55	Wisconsin	FLORASULAM	2016	kg			124.2							
+55	Wisconsin	FLORASULAM	2017	kg			21.7							
+56	Wyoming	FLORASULAM	2008	kg			0.8							
+56	Wyoming	FLORASULAM	2009	kg			40.2							11.6
+56	Wyoming	FLORASULAM	2010	kg			3.9							2.9
+56	Wyoming	FLORASULAM	2011	kg			7.1							29.3
+56	Wyoming	FLORASULAM	2012	kg			22.1							9.3
+56	Wyoming	FLORASULAM	2013	kg			22.7							18.8
+56	Wyoming	FLORASULAM	2014	kg			48.7							7.7
+56	Wyoming	FLORASULAM	2015	kg			25.2							21.9
+56	Wyoming	FLORASULAM	2016	kg			14.7							3.9
+56	Wyoming	FLORASULAM	2017	kg			26.7							10.8

@@ -1,0 +1,147 @@
+04	Arizona	CHLORAMBEN	1996	kg							54.1			
+05	Arkansas	CHLORAMBEN	1992	kg		3693.2								
+05	Arkansas	CHLORAMBEN	1996	kg			7428							
+06	California	CHLORAMBEN	1992	kg					10.5					
+06	California	CHLORAMBEN	1993	kg					29.3					
+06	California	CHLORAMBEN	1994	kg					18.8					
+06	California	CHLORAMBEN	1995	kg					2					
+06	California	CHLORAMBEN	2007	kg					0					
+06	California	CHLORAMBEN	2009	kg					0					
+06	California	CHLORAMBEN	2010	kg							0.1			
+08	Colorado	CHLORAMBEN	1993	kg					1996.6					
+08	Colorado	CHLORAMBEN	1995	kg					57.4					
+08	Colorado	CHLORAMBEN	1996	kg							775.5			
+09	Connecticut	CHLORAMBEN	1992	kg					529.2					
+09	Connecticut	CHLORAMBEN	1993	kg					2579.3					
+09	Connecticut	CHLORAMBEN	1994	kg					60.6					
+09	Connecticut	CHLORAMBEN	1995	kg					866.6					
+13	Georgia	CHLORAMBEN	1995	kg									5.5	
+16	Idaho	CHLORAMBEN	1992	kg					4.7					
+16	Idaho	CHLORAMBEN	1993	kg					5.4					
+17	Illinois	CHLORAMBEN	1992	kg		25102.3			293.9					
+17	Illinois	CHLORAMBEN	1993	kg		3519.4			848.4					
+17	Illinois	CHLORAMBEN	1994	kg		23810.6			1798.8					
+17	Illinois	CHLORAMBEN	1995	kg		56124.2			438.5					
+17	Illinois	CHLORAMBEN	1996	kg					607.2				430.6	
+17	Illinois	CHLORAMBEN	1998	kg					8.7					
+18	Indiana	CHLORAMBEN	1992	kg		12384.8			770.7					
+18	Indiana	CHLORAMBEN	1993	kg		12958.2			557.6					
+18	Indiana	CHLORAMBEN	1994	kg		5952.1			607.2					
+18	Indiana	CHLORAMBEN	1995	kg		18073.8			199.4					
+18	Indiana	CHLORAMBEN	1996	kg		2795.9			296.7				98.4	
+18	Indiana	CHLORAMBEN	1997	kg		6860.6			63.9					
+19	Iowa	CHLORAMBEN	1992	kg		38737.6			192					
+19	Iowa	CHLORAMBEN	1993	kg		7554			45.7					
+19	Iowa	CHLORAMBEN	1994	kg		23788.4			257.9					
+19	Iowa	CHLORAMBEN	1995	kg		57681.7			39.6					
+19	Iowa	CHLORAMBEN	1996	kg		4214.9			116.2					
+21	Kentucky	CHLORAMBEN	1992	kg		962.9			14.8					
+21	Kentucky	CHLORAMBEN	1993	kg		343.3								
+21	Kentucky	CHLORAMBEN	1994	kg		839.4			133.7					
+21	Kentucky	CHLORAMBEN	1995	kg		1989.7			221.4				7.2	
+22	Louisiana	CHLORAMBEN	1996	kg			6738.9							
+23	Maine	CHLORAMBEN	1992	kg					100.4					
+23	Maine	CHLORAMBEN	1993	kg					31.2					
+23	Maine	CHLORAMBEN	1994	kg					37					
+23	Maine	CHLORAMBEN	1995	kg					103.7					
+23	Maine	CHLORAMBEN	1997	kg					10.8					
+24	Maryland	CHLORAMBEN	1992	kg					84					
+24	Maryland	CHLORAMBEN	1993	kg					18.3					
+24	Maryland	CHLORAMBEN	1994	kg					1121.3					
+24	Maryland	CHLORAMBEN	1995	kg					110.6					
+25	Massachusetts	CHLORAMBEN	1992	kg					3349.2					
+25	Massachusetts	CHLORAMBEN	1993	kg					6999.9					
+25	Massachusetts	CHLORAMBEN	1994	kg					206					
+25	Massachusetts	CHLORAMBEN	1995	kg					4293.6					
+26	Michigan	CHLORAMBEN	1992	kg		8361.5	2755.3		12487.5					1083.9
+26	Michigan	CHLORAMBEN	1993	kg	21744.6	19329.1			17756.7					
+26	Michigan	CHLORAMBEN	1994	kg		3676.7			6059.4					416.6
+26	Michigan	CHLORAMBEN	1995	kg		10145.3			7160.7					
+26	Michigan	CHLORAMBEN	1996	kg		4392.8			4950.8				581.2	
+26	Michigan	CHLORAMBEN	1997	kg		12627			3495.3					
+27	Minnesota	CHLORAMBEN	1992	kg		27030			26591.4					9.3
+27	Minnesota	CHLORAMBEN	1993	kg		7762.4			8074.9					
+27	Minnesota	CHLORAMBEN	1994	kg		17960.4			2728.5					
+27	Minnesota	CHLORAMBEN	1995	kg		34096.4			1323.8					336.7
+27	Minnesota	CHLORAMBEN	1996	kg		5933.5	22817		1512.7					
+28	Mississippi	CHLORAMBEN	1996	kg			4871.5							
+29	Missouri	CHLORAMBEN	1992	kg		11307.5			64.5					
+29	Missouri	CHLORAMBEN	1993	kg		3039.7			13.3					
+29	Missouri	CHLORAMBEN	1994	kg		9458.7			100.7					
+29	Missouri	CHLORAMBEN	1995	kg		21606.2			14.1					
+29	Missouri	CHLORAMBEN	1996	kg					18.6					
+30	Montana	CHLORAMBEN	1992	kg										1711
+30	Montana	CHLORAMBEN	1993	kg					55.4					2878.4
+31	Nebraska	CHLORAMBEN	1993	kg					3.9					
+31	Nebraska	CHLORAMBEN	1995	kg					0					
+33	New Hampshire	CHLORAMBEN	1992	kg					236.3					
+33	New Hampshire	CHLORAMBEN	1993	kg					1004.1					
+33	New Hampshire	CHLORAMBEN	1994	kg					21.8					
+33	New Hampshire	CHLORAMBEN	1995	kg					335.7					
+33	New Hampshire	CHLORAMBEN	1997	kg					10.8					
+34	New Jersey	CHLORAMBEN	1992	kg					170.5					
+34	New Jersey	CHLORAMBEN	1993	kg					30.3					
+34	New Jersey	CHLORAMBEN	1994	kg					69.1					
+34	New Jersey	CHLORAMBEN	1995	kg					158.2					
+35	New Mexico	CHLORAMBEN	1996	kg							527			
+36	New York	CHLORAMBEN	1992	kg					1026.4					
+36	New York	CHLORAMBEN	1993	kg					8754.9					
+36	New York	CHLORAMBEN	1994	kg					386.7					
+36	New York	CHLORAMBEN	1995	kg					1206.8					
+37	North Carolina	CHLORAMBEN	1993	kg							35.7			
+37	North Carolina	CHLORAMBEN	1994	kg					25359.8					
+37	North Carolina	CHLORAMBEN	1995	kg					519.9				5.3	
+38	North Dakota	CHLORAMBEN	1992	kg		295.4			24.9					7615.7
+38	North Dakota	CHLORAMBEN	1993	kg		328.8			47.7					10293.3
+38	North Dakota	CHLORAMBEN	1995	kg										6293
+38	North Dakota	CHLORAMBEN	1996	kg			9773.3							
+39	Ohio	CHLORAMBEN	1992	kg		19351.3			3142.9					20.9
+39	Ohio	CHLORAMBEN	1993	kg		32997.5			3780.9					
+39	Ohio	CHLORAMBEN	1994	kg		18592			1350.1		544.9			
+39	Ohio	CHLORAMBEN	1995	kg		22754.8			2562.7					
+39	Ohio	CHLORAMBEN	1996	kg		12739.5			263.9				21.3	
+39	Ohio	CHLORAMBEN	1997	kg		30735.6			600.2					
+40	Oklahoma	CHLORAMBEN	1993	kg			8835.6							
+41	Oregon	CHLORAMBEN	1992	kg					2214.1		26.9			
+41	Oregon	CHLORAMBEN	1993	kg					533.4					
+41	Oregon	CHLORAMBEN	1995	kg					320.5					
+42	Pennsylvania	CHLORAMBEN	1992	kg					687.9					
+42	Pennsylvania	CHLORAMBEN	1993	kg					674.9					
+42	Pennsylvania	CHLORAMBEN	1994	kg		212.3			1019.9					
+42	Pennsylvania	CHLORAMBEN	1995	kg		1.3			638.4					
+44	Rhode Island	CHLORAMBEN	1992	kg					126.6					
+44	Rhode Island	CHLORAMBEN	1993	kg					470.8					
+44	Rhode Island	CHLORAMBEN	1994	kg					11.6					
+44	Rhode Island	CHLORAMBEN	1995	kg					177.5					
+45	South Carolina	CHLORAMBEN	1994	kg					2873.5					
+46	South Dakota	CHLORAMBEN	1992	kg		3272.1	15238.3		41.1					48.2
+46	South Dakota	CHLORAMBEN	1993	kg		802.7			92.5					
+46	South Dakota	CHLORAMBEN	1994	kg		1963.7			151.1					
+46	South Dakota	CHLORAMBEN	1995	kg		4260.7			4.9					2659.1
+46	South Dakota	CHLORAMBEN	1996	kg			1635.3		5.8					
+47	Tennessee	CHLORAMBEN	1992	kg		1467.6								
+47	Tennessee	CHLORAMBEN	1994	kg					370.9					
+47	Tennessee	CHLORAMBEN	1995	kg					806.3				11.5	
+48	Texas	CHLORAMBEN	1992	kg									1119.5	
+48	Texas	CHLORAMBEN	1993	kg			2073.1							
+49	Utah	CHLORAMBEN	1996	kg							18.8			
+50	Vermont	CHLORAMBEN	1992	kg					192.7					
+50	Vermont	CHLORAMBEN	1993	kg					676.7					
+50	Vermont	CHLORAMBEN	1994	kg					15.3					
+50	Vermont	CHLORAMBEN	1995	kg					222.7					
+51	Virginia	CHLORAMBEN	1993	kg							253.1			
+51	Virginia	CHLORAMBEN	1994	kg					191.8					
+51	Virginia	CHLORAMBEN	1995	kg					399.3				4	
+53	Washington	CHLORAMBEN	1992	kg					2936.4		658.5			
+53	Washington	CHLORAMBEN	1993	kg					2103.2					
+53	Washington	CHLORAMBEN	1995	kg					159.1					
+54	West Virginia	CHLORAMBEN	1992	kg					6.4					
+54	West Virginia	CHLORAMBEN	1993	kg					1.2					
+54	West Virginia	CHLORAMBEN	1994	kg		2.4			90					
+54	West Virginia	CHLORAMBEN	1995	kg		0			162					
+55	Wisconsin	CHLORAMBEN	1992	kg		1731.4			1029.9					
+55	Wisconsin	CHLORAMBEN	1993	kg		3480.8			21677.4					
+55	Wisconsin	CHLORAMBEN	1994	kg		4911.2			7917.4					
+55	Wisconsin	CHLORAMBEN	1995	kg		4244.8			631.7					
+55	Wisconsin	CHLORAMBEN	1996	kg		424.3			2290.3					
+56	Wyoming	CHLORAMBEN	1992	kg			429.9							

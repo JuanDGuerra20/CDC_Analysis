@@ -1,0 +1,187 @@
+01	Alabama	BACILLUS FIRMUS	2010	kg	7.2									
+01	Alabama	BACILLUS FIRMUS	2011	kg	265.4									
+01	Alabama	BACILLUS FIRMUS	2012	kg	67.6			28.8						
+01	Alabama	BACILLUS FIRMUS	2013	kg	195.6			65.1						
+01	Alabama	BACILLUS FIRMUS	2014	kg	325.9	118.7		61.5						
+04	Arizona	BACILLUS FIRMUS	2013	kg	28									
+04	Arizona	BACILLUS FIRMUS	2014	kg	0									
+05	Arkansas	BACILLUS FIRMUS	2011	kg	534.7									
+05	Arkansas	BACILLUS FIRMUS	2012	kg	236.6			219.6						
+05	Arkansas	BACILLUS FIRMUS	2013	kg	1752			171.6						
+05	Arkansas	BACILLUS FIRMUS	2014	kg	945	241.9		66.2						
+08	Colorado	BACILLUS FIRMUS	2011	kg	697.2									
+08	Colorado	BACILLUS FIRMUS	2012	kg	863.2									
+08	Colorado	BACILLUS FIRMUS	2013	kg	1018.9									
+08	Colorado	BACILLUS FIRMUS	2014	kg	539	29.4								
+09	Connecticut	BACILLUS FIRMUS	2013	kg	18.2									
+09	Connecticut	BACILLUS FIRMUS	2014	kg	4.2									
+10	Delaware	BACILLUS FIRMUS	2011	kg	33.8									
+10	Delaware	BACILLUS FIRMUS	2012	kg	60.7									
+10	Delaware	BACILLUS FIRMUS	2013	kg	588.8									
+10	Delaware	BACILLUS FIRMUS	2014	kg	331									
+12	Florida	BACILLUS FIRMUS	2010	kg	3.2									
+12	Florida	BACILLUS FIRMUS	2011	kg	13.7									
+12	Florida	BACILLUS FIRMUS	2012	kg	10.1			69.2						
+12	Florida	BACILLUS FIRMUS	2013	kg	3.5									
+12	Florida	BACILLUS FIRMUS	2014	kg	43.9	3.7		6.8						
+13	Georgia	BACILLUS FIRMUS	2010	kg	50.3									
+13	Georgia	BACILLUS FIRMUS	2011	kg	137.2									
+13	Georgia	BACILLUS FIRMUS	2012	kg	151.7			67.7						
+13	Georgia	BACILLUS FIRMUS	2013	kg	359.3			248.2						
+13	Georgia	BACILLUS FIRMUS	2014	kg	854.3	10.7		137						
+16	Idaho	BACILLUS FIRMUS	2011	kg	11.4									
+16	Idaho	BACILLUS FIRMUS	2012	kg	77.9									
+16	Idaho	BACILLUS FIRMUS	2013	kg	362									
+16	Idaho	BACILLUS FIRMUS	2014	kg	388.2									
+17	Illinois	BACILLUS FIRMUS	2010	kg	60.2									
+17	Illinois	BACILLUS FIRMUS	2011	kg	3822									
+17	Illinois	BACILLUS FIRMUS	2012	kg	16799.9									
+17	Illinois	BACILLUS FIRMUS	2013	kg	16777									
+17	Illinois	BACILLUS FIRMUS	2014	kg	26363.1	3613.2								
+18	Indiana	BACILLUS FIRMUS	2010	kg	32.8									
+18	Indiana	BACILLUS FIRMUS	2011	kg	2879.9									
+18	Indiana	BACILLUS FIRMUS	2012	kg	11672.5									
+18	Indiana	BACILLUS FIRMUS	2013	kg	11726.2									
+18	Indiana	BACILLUS FIRMUS	2014	kg	15896.2	3088.5								
+19	Iowa	BACILLUS FIRMUS	2010	kg	73.4									
+19	Iowa	BACILLUS FIRMUS	2011	kg	2398.9									
+19	Iowa	BACILLUS FIRMUS	2012	kg	8770.1									
+19	Iowa	BACILLUS FIRMUS	2013	kg	11851.2									
+19	Iowa	BACILLUS FIRMUS	2014	kg	17452.9	3036.3								
+20	Kansas	BACILLUS FIRMUS	2011	kg	608									
+20	Kansas	BACILLUS FIRMUS	2012	kg	3460.2									
+20	Kansas	BACILLUS FIRMUS	2013	kg	4497.3			91.9						
+20	Kansas	BACILLUS FIRMUS	2014	kg	5063.4	1083		5						
+21	Kentucky	BACILLUS FIRMUS	2010	kg	6.9									
+21	Kentucky	BACILLUS FIRMUS	2011	kg	629.8									
+21	Kentucky	BACILLUS FIRMUS	2012	kg	1164									
+21	Kentucky	BACILLUS FIRMUS	2013	kg	2036.5									
+21	Kentucky	BACILLUS FIRMUS	2014	kg	2661.4	373.6								
+22	Louisiana	BACILLUS FIRMUS	2011	kg	684									
+22	Louisiana	BACILLUS FIRMUS	2012	kg	115.7			85.5						
+22	Louisiana	BACILLUS FIRMUS	2013	kg	438.3			92.2						
+22	Louisiana	BACILLUS FIRMUS	2014	kg	879.9			73.2						
+24	Maryland	BACILLUS FIRMUS	2011	kg	77.8									
+24	Maryland	BACILLUS FIRMUS	2012	kg	232.7									
+24	Maryland	BACILLUS FIRMUS	2013	kg	146.2									
+24	Maryland	BACILLUS FIRMUS	2014	kg	250.4	101.8								
+25	Massachusetts	BACILLUS FIRMUS	2011	kg	4.3									
+25	Massachusetts	BACILLUS FIRMUS	2012	kg	1.5									
+25	Massachusetts	BACILLUS FIRMUS	2013	kg	10									
+25	Massachusetts	BACILLUS FIRMUS	2014	kg	2.4									
+26	Michigan	BACILLUS FIRMUS	2010	kg	10.2									
+26	Michigan	BACILLUS FIRMUS	2011	kg	305									
+26	Michigan	BACILLUS FIRMUS	2012	kg	2240.9									
+26	Michigan	BACILLUS FIRMUS	2013	kg	3663.2									
+26	Michigan	BACILLUS FIRMUS	2014	kg	4208.5	873.1								
+27	Minnesota	BACILLUS FIRMUS	2010	kg	31.6									
+27	Minnesota	BACILLUS FIRMUS	2011	kg	680.6									
+27	Minnesota	BACILLUS FIRMUS	2012	kg	3715.8									
+27	Minnesota	BACILLUS FIRMUS	2013	kg	4036.2									
+27	Minnesota	BACILLUS FIRMUS	2014	kg	10836.6	2307								
+28	Mississippi	BACILLUS FIRMUS	2011	kg	923.9									
+28	Mississippi	BACILLUS FIRMUS	2012	kg	212.3			84.4						
+28	Mississippi	BACILLUS FIRMUS	2013	kg	824.6			82.9						
+28	Mississippi	BACILLUS FIRMUS	2014	kg	1155.1	375.5		61.8						
+29	Missouri	BACILLUS FIRMUS	2010	kg	16.1									
+29	Missouri	BACILLUS FIRMUS	2011	kg	857.7									
+29	Missouri	BACILLUS FIRMUS	2012	kg	2570			137.7						
+29	Missouri	BACILLUS FIRMUS	2013	kg	3766.2			160.1						
+29	Missouri	BACILLUS FIRMUS	2014	kg	4147.7	2368.5		103.3						
+30	Montana	BACILLUS FIRMUS	2011	kg	85.8									
+30	Montana	BACILLUS FIRMUS	2012	kg	34.3									
+30	Montana	BACILLUS FIRMUS	2013	kg	69.7									
+30	Montana	BACILLUS FIRMUS	2014	kg	37.8	0								
+31	Nebraska	BACILLUS FIRMUS	2010	kg	20.7									
+31	Nebraska	BACILLUS FIRMUS	2011	kg	1286.8									
+31	Nebraska	BACILLUS FIRMUS	2012	kg	8472.9									
+31	Nebraska	BACILLUS FIRMUS	2013	kg	10220.4									
+31	Nebraska	BACILLUS FIRMUS	2014	kg	7601.5	1544.3								
+32	Nevada	BACILLUS FIRMUS	2011	kg	0.4									
+32	Nevada	BACILLUS FIRMUS	2012	kg	3.5									
+32	Nevada	BACILLUS FIRMUS	2013	kg	2.8									
+32	Nevada	BACILLUS FIRMUS	2014	kg	3.1									
+33	New Hampshire	BACILLUS FIRMUS	2013	kg	7.8									
+33	New Hampshire	BACILLUS FIRMUS	2014	kg	1.6									
+34	New Jersey	BACILLUS FIRMUS	2011	kg	20.8									
+34	New Jersey	BACILLUS FIRMUS	2012	kg	132.2									
+34	New Jersey	BACILLUS FIRMUS	2013	kg	55.9									
+34	New Jersey	BACILLUS FIRMUS	2014	kg	193.1									
+35	New Mexico	BACILLUS FIRMUS	2011	kg	112.4									
+35	New Mexico	BACILLUS FIRMUS	2012	kg	378.5			15.8						
+35	New Mexico	BACILLUS FIRMUS	2013	kg	51.9			10.6						
+35	New Mexico	BACILLUS FIRMUS	2014	kg	648.8	1		1.6						
+36	New York	BACILLUS FIRMUS	2011	kg	496.5									
+36	New York	BACILLUS FIRMUS	2012	kg	255.2									
+36	New York	BACILLUS FIRMUS	2013	kg	1877.7									
+36	New York	BACILLUS FIRMUS	2014	kg	1619.1	5.2								
+37	North Carolina	BACILLUS FIRMUS	2011	kg	392.2									
+37	North Carolina	BACILLUS FIRMUS	2012	kg	2058									
+37	North Carolina	BACILLUS FIRMUS	2013	kg	1294.3			51.8						
+37	North Carolina	BACILLUS FIRMUS	2014	kg	1622.3	229.7		71.2						
+38	North Dakota	BACILLUS FIRMUS	2011	kg	109.2									
+38	North Dakota	BACILLUS FIRMUS	2012	kg	1884.3									
+38	North Dakota	BACILLUS FIRMUS	2013	kg	3840.6									
+38	North Dakota	BACILLUS FIRMUS	2014	kg	1050.1	650.7								
+39	Ohio	BACILLUS FIRMUS	2010	kg	13.9									
+39	Ohio	BACILLUS FIRMUS	2011	kg	1368.3									
+39	Ohio	BACILLUS FIRMUS	2012	kg	4705.9									
+39	Ohio	BACILLUS FIRMUS	2013	kg	4948.7									
+39	Ohio	BACILLUS FIRMUS	2014	kg	5681.3	1991.5								
+40	Oklahoma	BACILLUS FIRMUS	2011	kg	62.3									
+40	Oklahoma	BACILLUS FIRMUS	2012	kg	217.9			2.9						
+40	Oklahoma	BACILLUS FIRMUS	2013	kg	471.8			35.6						
+40	Oklahoma	BACILLUS FIRMUS	2014	kg	399.7	22.3		25.8						
+41	Oregon	BACILLUS FIRMUS	2011	kg	8.1									
+41	Oregon	BACILLUS FIRMUS	2012	kg	57.2									
+41	Oregon	BACILLUS FIRMUS	2013	kg	171.4									
+41	Oregon	BACILLUS FIRMUS	2014	kg	45.3									
+42	Pennsylvania	BACILLUS FIRMUS	2011	kg	432.8									
+42	Pennsylvania	BACILLUS FIRMUS	2012	kg	1268.8									
+42	Pennsylvania	BACILLUS FIRMUS	2013	kg	1334.4									
+42	Pennsylvania	BACILLUS FIRMUS	2014	kg	2185.5	156.9								
+45	South Carolina	BACILLUS FIRMUS	2011	kg	218.5									
+45	South Carolina	BACILLUS FIRMUS	2012	kg	348.7									
+45	South Carolina	BACILLUS FIRMUS	2013	kg	219.1			66.6						
+45	South Carolina	BACILLUS FIRMUS	2014	kg	177.4	313.5		77.9						
+46	South Dakota	BACILLUS FIRMUS	2010	kg	12.5									
+46	South Dakota	BACILLUS FIRMUS	2011	kg	282.4									
+46	South Dakota	BACILLUS FIRMUS	2012	kg	2549.1									
+46	South Dakota	BACILLUS FIRMUS	2013	kg	5539.5									
+46	South Dakota	BACILLUS FIRMUS	2014	kg	3392.9	1583.6								
+47	Tennessee	BACILLUS FIRMUS	2011	kg	308.9									
+47	Tennessee	BACILLUS FIRMUS	2012	kg	901.3			39.5						
+47	Tennessee	BACILLUS FIRMUS	2013	kg	2189			96.9						
+47	Tennessee	BACILLUS FIRMUS	2014	kg	602.1	202.3		60.4						
+48	Texas	BACILLUS FIRMUS	2011	kg	520									
+48	Texas	BACILLUS FIRMUS	2012	kg	2418.8			686						
+48	Texas	BACILLUS FIRMUS	2013	kg	3975.4			324.8						
+48	Texas	BACILLUS FIRMUS	2014	kg	4295.6	39.1		400.8						
+49	Utah	BACILLUS FIRMUS	2011	kg	5.8									
+49	Utah	BACILLUS FIRMUS	2012	kg	27.8									
+49	Utah	BACILLUS FIRMUS	2013	kg	56.5									
+49	Utah	BACILLUS FIRMUS	2014	kg	60.1									
+50	Vermont	BACILLUS FIRMUS	2011	kg	10.9									
+50	Vermont	BACILLUS FIRMUS	2012	kg	9.6									
+50	Vermont	BACILLUS FIRMUS	2013	kg	59.9									
+50	Vermont	BACILLUS FIRMUS	2014	kg	270.7									
+51	Virginia	BACILLUS FIRMUS	2011	kg	254.2									
+51	Virginia	BACILLUS FIRMUS	2012	kg	704.7									
+51	Virginia	BACILLUS FIRMUS	2013	kg	278			1.1						
+51	Virginia	BACILLUS FIRMUS	2014	kg	690.8	84.5		4.9						
+53	Washington	BACILLUS FIRMUS	2011	kg	5.4									
+53	Washington	BACILLUS FIRMUS	2012	kg	283									
+53	Washington	BACILLUS FIRMUS	2013	kg	650									
+53	Washington	BACILLUS FIRMUS	2014	kg	200									
+54	West Virginia	BACILLUS FIRMUS	2011	kg	25.9									
+54	West Virginia	BACILLUS FIRMUS	2012	kg	18.3									
+54	West Virginia	BACILLUS FIRMUS	2013	kg	11.8									
+54	West Virginia	BACILLUS FIRMUS	2014	kg	43.1	6.1								
+55	Wisconsin	BACILLUS FIRMUS	2011	kg	497.8									
+55	Wisconsin	BACILLUS FIRMUS	2012	kg	1850.2									
+55	Wisconsin	BACILLUS FIRMUS	2013	kg	2620.2									
+55	Wisconsin	BACILLUS FIRMUS	2014	kg	3123.1	402.8								
+56	Wyoming	BACILLUS FIRMUS	2011	kg	116.1									
+56	Wyoming	BACILLUS FIRMUS	2012	kg	87.4									
+56	Wyoming	BACILLUS FIRMUS	2013	kg	71.6									
+56	Wyoming	BACILLUS FIRMUS	2014	kg	37.8									

@@ -1,0 +1,100 @@
+04	Arizona	PENOXSULAM	2013	kg							0			
+04	Arizona	PENOXSULAM	2014	kg							141.7			
+04	Arizona	PENOXSULAM	2015	kg							0			
+04	Arizona	PENOXSULAM	2016	kg							0			
+04	Arizona	PENOXSULAM	2017	kg							0			
+05	Arkansas	PENOXSULAM	2005	kg						15				
+05	Arkansas	PENOXSULAM	2006	kg						110.5				
+05	Arkansas	PENOXSULAM	2007	kg						274.6				
+05	Arkansas	PENOXSULAM	2008	kg						684.7				
+05	Arkansas	PENOXSULAM	2009	kg						628.7				
+05	Arkansas	PENOXSULAM	2010	kg						919.8				
+05	Arkansas	PENOXSULAM	2011	kg						228.9				
+05	Arkansas	PENOXSULAM	2012	kg						1036.4				
+05	Arkansas	PENOXSULAM	2013	kg						1668.6				
+05	Arkansas	PENOXSULAM	2014	kg						1565.9				
+05	Arkansas	PENOXSULAM	2015	kg						2900.9				
+05	Arkansas	PENOXSULAM	2016	kg						1962.4				
+05	Arkansas	PENOXSULAM	2017	kg						694				
+06	California	PENOXSULAM	2005	kg						1198.8				
+06	California	PENOXSULAM	2006	kg						1188.2				
+06	California	PENOXSULAM	2007	kg						1343.3				
+06	California	PENOXSULAM	2008	kg						1148.6				
+06	California	PENOXSULAM	2009	kg			0.8			1158	1.9			
+06	California	PENOXSULAM	2010	kg						2042.3	224.1	1.8		0.9
+06	California	PENOXSULAM	2011	kg						2184.4	1563			
+06	California	PENOXSULAM	2012	kg						2038.9	670.8	1.2		
+06	California	PENOXSULAM	2013	kg						1832.9	1019.5			1
+06	California	PENOXSULAM	2014	kg						1983.2	980.9			
+06	California	PENOXSULAM	2015	kg						1736.1	1421.9			
+06	California	PENOXSULAM	2016	kg					1.5	2334.7	1180.9			
+06	California	PENOXSULAM	2017	kg					2.5	2169.7	1107.2			2
+22	Louisiana	PENOXSULAM	2005	kg						58.2				
+22	Louisiana	PENOXSULAM	2006	kg						63				
+22	Louisiana	PENOXSULAM	2007	kg						436.3				
+22	Louisiana	PENOXSULAM	2008	kg						1689.6				
+22	Louisiana	PENOXSULAM	2009	kg						362.4				
+22	Louisiana	PENOXSULAM	2010	kg						318.2				
+22	Louisiana	PENOXSULAM	2011	kg						297				
+22	Louisiana	PENOXSULAM	2012	kg						829.3				
+22	Louisiana	PENOXSULAM	2013	kg						768.9				
+22	Louisiana	PENOXSULAM	2014	kg						1767				
+22	Louisiana	PENOXSULAM	2015	kg						2142.4				
+22	Louisiana	PENOXSULAM	2016	kg						504				
+22	Louisiana	PENOXSULAM	2017	kg						749.1				
+28	Mississippi	PENOXSULAM	2005	kg						17.6				
+28	Mississippi	PENOXSULAM	2006	kg						39.7				
+28	Mississippi	PENOXSULAM	2007	kg						194.6				
+28	Mississippi	PENOXSULAM	2008	kg						484.2				
+28	Mississippi	PENOXSULAM	2009	kg						159.3				
+28	Mississippi	PENOXSULAM	2010	kg						197.6				
+28	Mississippi	PENOXSULAM	2011	kg						41.2				
+28	Mississippi	PENOXSULAM	2012	kg						128.6				
+28	Mississippi	PENOXSULAM	2013	kg						255.7				
+28	Mississippi	PENOXSULAM	2014	kg						243.8				
+28	Mississippi	PENOXSULAM	2015	kg						424.5				
+28	Mississippi	PENOXSULAM	2016	kg						403.8				
+28	Mississippi	PENOXSULAM	2017	kg						74.2				
+29	Missouri	PENOXSULAM	2006	kg						0.8				
+29	Missouri	PENOXSULAM	2007	kg						63.3				
+29	Missouri	PENOXSULAM	2008	kg						12				
+29	Missouri	PENOXSULAM	2009	kg						217.8				
+29	Missouri	PENOXSULAM	2010	kg						61.8				
+29	Missouri	PENOXSULAM	2011	kg						133.2				
+29	Missouri	PENOXSULAM	2012	kg						134.8				
+29	Missouri	PENOXSULAM	2013	kg						241.3				
+29	Missouri	PENOXSULAM	2014	kg						109				
+29	Missouri	PENOXSULAM	2015	kg						129.5				
+29	Missouri	PENOXSULAM	2016	kg						86.6				
+29	Missouri	PENOXSULAM	2017	kg						471.6				
+32	Nevada	PENOXSULAM	2012	kg							0			
+32	Nevada	PENOXSULAM	2013	kg							0			
+32	Nevada	PENOXSULAM	2016	kg							0			
+35	New Mexico	PENOXSULAM	2012	kg							14.1			
+35	New Mexico	PENOXSULAM	2014	kg							335.6			
+35	New Mexico	PENOXSULAM	2017	kg							39.6			
+47	Tennessee	PENOXSULAM	2006	kg						0				
+47	Tennessee	PENOXSULAM	2007	kg						0.3				
+47	Tennessee	PENOXSULAM	2008	kg						0				
+47	Tennessee	PENOXSULAM	2009	kg						0.4				
+47	Tennessee	PENOXSULAM	2010	kg						0.5				
+47	Tennessee	PENOXSULAM	2011	kg						0.3				
+47	Tennessee	PENOXSULAM	2012	kg						0.5				
+47	Tennessee	PENOXSULAM	2013	kg						1.1				
+47	Tennessee	PENOXSULAM	2014	kg						1.1				
+47	Tennessee	PENOXSULAM	2015	kg						1.4				
+47	Tennessee	PENOXSULAM	2016	kg						0.1				
+47	Tennessee	PENOXSULAM	2017	kg						0.3				
+48	Texas	PENOXSULAM	2005	kg						19.4				
+48	Texas	PENOXSULAM	2006	kg						26.5				
+48	Texas	PENOXSULAM	2007	kg						90.1				
+48	Texas	PENOXSULAM	2008	kg						135				
+48	Texas	PENOXSULAM	2009	kg						393.9				
+48	Texas	PENOXSULAM	2010	kg						88.4				
+48	Texas	PENOXSULAM	2011	kg						247.5				
+48	Texas	PENOXSULAM	2012	kg						86.2	7.5			
+48	Texas	PENOXSULAM	2013	kg						144.6				
+48	Texas	PENOXSULAM	2014	kg						145.3				
+48	Texas	PENOXSULAM	2015	kg						132.7				
+48	Texas	PENOXSULAM	2016	kg						1063				
+48	Texas	PENOXSULAM	2017	kg						431.2	34.2			

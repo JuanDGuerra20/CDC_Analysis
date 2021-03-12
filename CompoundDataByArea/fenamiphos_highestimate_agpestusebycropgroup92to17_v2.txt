@@ -1,0 +1,311 @@
+01	Alabama	FENAMIPHOS	1992	kg										17651.6
+01	Alabama	FENAMIPHOS	1993	kg					161.4					12712
+01	Alabama	FENAMIPHOS	1994	kg										13268.7
+01	Alabama	FENAMIPHOS	1995	kg				3205.2						5945.8
+01	Alabama	FENAMIPHOS	1996	kg										2755.7
+01	Alabama	FENAMIPHOS	1997	kg				1446.3						2610.4
+01	Alabama	FENAMIPHOS	1998	kg										778.1
+01	Alabama	FENAMIPHOS	1999	kg										324.3
+01	Alabama	FENAMIPHOS	2000	kg										1205.4
+01	Alabama	FENAMIPHOS	2001	kg										9502.7
+01	Alabama	FENAMIPHOS	2002	kg										1701.6
+01	Alabama	FENAMIPHOS	2003	kg										28.2
+01	Alabama	FENAMIPHOS	2004	kg										295.9
+01	Alabama	FENAMIPHOS	2005	kg										5.4
+01	Alabama	FENAMIPHOS	2006	kg										2778.3
+01	Alabama	FENAMIPHOS	2007	kg										463.9
+01	Alabama	FENAMIPHOS	2013	kg										4723.8
+04	Arizona	FENAMIPHOS	1992	kg					1837.4		11365.9			
+04	Arizona	FENAMIPHOS	1993	kg					1481.5		11818.8			
+04	Arizona	FENAMIPHOS	1994	kg					1143.9		5629.5			
+04	Arizona	FENAMIPHOS	1995	kg				7821.4			2720.6			
+04	Arizona	FENAMIPHOS	1996	kg				2966.4	68.3		3707.6			
+04	Arizona	FENAMIPHOS	1997	kg							3540.2			
+04	Arizona	FENAMIPHOS	1998	kg							1402			
+04	Arizona	FENAMIPHOS	1999	kg					162.1		4281.1			
+04	Arizona	FENAMIPHOS	2000	kg					62		8268.2			
+04	Arizona	FENAMIPHOS	2001	kg							1858.8			
+04	Arizona	FENAMIPHOS	2002	kg							1276.6			
+04	Arizona	FENAMIPHOS	2003	kg							992.3			
+04	Arizona	FENAMIPHOS	2004	kg							318.6			
+04	Arizona	FENAMIPHOS	2005	kg							47.8			
+04	Arizona	FENAMIPHOS	2006	kg							230.6			
+04	Arizona	FENAMIPHOS	2007	kg							69			
+04	Arizona	FENAMIPHOS	2009	kg							16.1			
+04	Arizona	FENAMIPHOS	2010	kg							0.1			
+05	Arkansas	FENAMIPHOS	1995	kg				35764.2						
+05	Arkansas	FENAMIPHOS	1997	kg				56239.5						
+06	California	FENAMIPHOS	1992	kg				152.9	25952.5		57771.1			1.3
+06	California	FENAMIPHOS	1993	kg				332.8	26739.8		78588.9			
+06	California	FENAMIPHOS	1994	kg				73.6	21749.3		60552			
+06	California	FENAMIPHOS	1995	kg					20252.2		65796.4			11.9
+06	California	FENAMIPHOS	1996	kg					16763.4		73471.3			
+06	California	FENAMIPHOS	1997	kg				80	4322.6		67300			
+06	California	FENAMIPHOS	1998	kg				62.3	1701.4		54739.6			
+06	California	FENAMIPHOS	1999	kg					1024.5		47722.5			
+06	California	FENAMIPHOS	2000	kg					1114.8		45645.7			
+06	California	FENAMIPHOS	2001	kg					942		32742			
+06	California	FENAMIPHOS	2002	kg					502.8		31313.4			
+06	California	FENAMIPHOS	2003	kg				26.4	40.2		26614.7			
+06	California	FENAMIPHOS	2004	kg							26446.5			
+06	California	FENAMIPHOS	2005	kg							20764.7			
+06	California	FENAMIPHOS	2006	kg					8.1		14991.4			
+06	California	FENAMIPHOS	2007	kg							17824.7			
+06	California	FENAMIPHOS	2008	kg					0		7770			
+06	California	FENAMIPHOS	2009	kg					0		5084.8			
+06	California	FENAMIPHOS	2010	kg							3966.7			
+06	California	FENAMIPHOS	2011	kg							1268.7			
+06	California	FENAMIPHOS	2012	kg							2345.6			
+06	California	FENAMIPHOS	2013	kg							962.9			
+06	California	FENAMIPHOS	2014	kg							306.3			
+06	California	FENAMIPHOS	2017	kg							1.5			
+10	Delaware	FENAMIPHOS	1992	kg							27.9			
+10	Delaware	FENAMIPHOS	1993	kg							0.1			
+10	Delaware	FENAMIPHOS	1996	kg							0.1			
+10	Delaware	FENAMIPHOS	1999	kg							3			
+10	Delaware	FENAMIPHOS	2001	kg							0.1			
+12	Florida	FENAMIPHOS	1992	kg					1479.1		124804.1			13364.3
+12	Florida	FENAMIPHOS	1993	kg				609	8934		77546.3			10007.9
+12	Florida	FENAMIPHOS	1994	kg					3179.1		12635.4			17728.5
+12	Florida	FENAMIPHOS	1995	kg				1649.2	1359.7		10653.6			26419.2
+12	Florida	FENAMIPHOS	1996	kg					433.2		8498.2			5237.6
+12	Florida	FENAMIPHOS	1997	kg				288.5	21080.3		1279.7			1887.1
+12	Florida	FENAMIPHOS	1998	kg							3163			5538.7
+12	Florida	FENAMIPHOS	1999	kg										144.7
+12	Florida	FENAMIPHOS	2000	kg					4					1401.4
+12	Florida	FENAMIPHOS	2001	kg					1543.9					3950.7
+12	Florida	FENAMIPHOS	2002	kg										1107.9
+12	Florida	FENAMIPHOS	2003	kg					1299.8					1967.8
+12	Florida	FENAMIPHOS	2004	kg					2292.3					727.1
+12	Florida	FENAMIPHOS	2005	kg					2667.7					2586
+12	Florida	FENAMIPHOS	2006	kg					32.8					855.3
+12	Florida	FENAMIPHOS	2007	kg										910.9
+12	Florida	FENAMIPHOS	2013	kg										2128.5
+13	Georgia	FENAMIPHOS	1992	kg					4370.3		558.4			48941.8
+13	Georgia	FENAMIPHOS	1993	kg				5455.8	17797.8		77.3			52723.6
+13	Georgia	FENAMIPHOS	1994	kg							98.1			46070.9
+13	Georgia	FENAMIPHOS	1995	kg				4945.8	1614.5					38996.2
+13	Georgia	FENAMIPHOS	1996	kg					2858.5					33019.1
+13	Georgia	FENAMIPHOS	1997	kg				3878.8	310.4					24145.8
+13	Georgia	FENAMIPHOS	1998	kg										37552.9
+13	Georgia	FENAMIPHOS	1999	kg										5951.7
+13	Georgia	FENAMIPHOS	2000	kg					835.1					20520.9
+13	Georgia	FENAMIPHOS	2001	kg					242.5					45839.8
+13	Georgia	FENAMIPHOS	2002	kg										14769
+13	Georgia	FENAMIPHOS	2003	kg				1285.5	9115.4					13975.1
+13	Georgia	FENAMIPHOS	2004	kg										16446.6
+13	Georgia	FENAMIPHOS	2005	kg					4492.8					15889.1
+13	Georgia	FENAMIPHOS	2006	kg					1620.9					2768.8
+13	Georgia	FENAMIPHOS	2007	kg										7663.4
+13	Georgia	FENAMIPHOS	2008	kg										333.1
+13	Georgia	FENAMIPHOS	2009	kg										722
+13	Georgia	FENAMIPHOS	2012	kg										1543.4
+13	Georgia	FENAMIPHOS	2013	kg										5709
+16	Idaho	FENAMIPHOS	1996	kg							202.2			
+18	Indiana	FENAMIPHOS	1992	kg							10.2			
+18	Indiana	FENAMIPHOS	1993	kg					48.4		10.4			
+18	Indiana	FENAMIPHOS	1995	kg							14.3			
+18	Indiana	FENAMIPHOS	1997	kg							6.3			
+18	Indiana	FENAMIPHOS	1999	kg							31.5			
+18	Indiana	FENAMIPHOS	2000	kg							3.7			
+18	Indiana	FENAMIPHOS	2001	kg							0			
+18	Indiana	FENAMIPHOS	2007	kg					6		0			
+18	Indiana	FENAMIPHOS	2008	kg					16.1					
+21	Kentucky	FENAMIPHOS	1992	kg										3909.2
+21	Kentucky	FENAMIPHOS	1993	kg										4353.9
+21	Kentucky	FENAMIPHOS	1995	kg										6603.6
+21	Kentucky	FENAMIPHOS	1996	kg										881.8
+21	Kentucky	FENAMIPHOS	1998	kg										2244.7
+21	Kentucky	FENAMIPHOS	1999	kg										1927.3
+21	Kentucky	FENAMIPHOS	2001	kg										3542.5
+22	Louisiana	FENAMIPHOS	1997	kg				13682.2						
+23	Maine	FENAMIPHOS	1997	kg							42			
+24	Maryland	FENAMIPHOS	1992	kg										2629.2
+24	Maryland	FENAMIPHOS	1993	kg										1375
+24	Maryland	FENAMIPHOS	1994	kg										2063.7
+24	Maryland	FENAMIPHOS	1995	kg										1947.2
+24	Maryland	FENAMIPHOS	1996	kg										8132.5
+24	Maryland	FENAMIPHOS	1997	kg										2269.4
+24	Maryland	FENAMIPHOS	1998	kg										329.3
+24	Maryland	FENAMIPHOS	1999	kg										587.5
+24	Maryland	FENAMIPHOS	2000	kg										1012.7
+24	Maryland	FENAMIPHOS	2001	kg										431.6
+24	Maryland	FENAMIPHOS	2002	kg										543
+24	Maryland	FENAMIPHOS	2003	kg										183.9
+24	Maryland	FENAMIPHOS	2004	kg										125.4
+24	Maryland	FENAMIPHOS	2005	kg										54.1
+24	Maryland	FENAMIPHOS	2006	kg										30.6
+24	Maryland	FENAMIPHOS	2007	kg										67
+24	Maryland	FENAMIPHOS	2008	kg										9.3
+24	Maryland	FENAMIPHOS	2009	kg										20.1
+24	Maryland	FENAMIPHOS	2012	kg										41.2
+26	Michigan	FENAMIPHOS	1992	kg							41337.5			
+26	Michigan	FENAMIPHOS	1993	kg					437.4		971.7			
+26	Michigan	FENAMIPHOS	1994	kg							2989.5			
+26	Michigan	FENAMIPHOS	1995	kg							1321.3			
+26	Michigan	FENAMIPHOS	1996	kg							438.7			
+26	Michigan	FENAMIPHOS	1997	kg					122.7		410			
+26	Michigan	FENAMIPHOS	1999	kg							12214.3			
+26	Michigan	FENAMIPHOS	2000	kg							2842.7			
+26	Michigan	FENAMIPHOS	2001	kg							38.7			
+26	Michigan	FENAMIPHOS	2002	kg							48.2			
+26	Michigan	FENAMIPHOS	2003	kg							699.1			
+26	Michigan	FENAMIPHOS	2005	kg							29.9			
+26	Michigan	FENAMIPHOS	2006	kg							77.9			
+26	Michigan	FENAMIPHOS	2007	kg					53.5		1781.7			
+26	Michigan	FENAMIPHOS	2008	kg					152.1					
+28	Mississippi	FENAMIPHOS	1995	kg				16585.3						
+29	Missouri	FENAMIPHOS	1997	kg				27632.8						
+30	Montana	FENAMIPHOS	1996	kg							311.4			
+32	Nevada	FENAMIPHOS	1993	kg							3.9			
+32	Nevada	FENAMIPHOS	1994	kg							0.5			
+32	Nevada	FENAMIPHOS	1995	kg							1			
+32	Nevada	FENAMIPHOS	1996	kg							0.2			
+32	Nevada	FENAMIPHOS	1997	kg							6.2			
+32	Nevada	FENAMIPHOS	1998	kg							3			
+32	Nevada	FENAMIPHOS	1999	kg							5.5			
+32	Nevada	FENAMIPHOS	2000	kg							6.6			
+32	Nevada	FENAMIPHOS	2001	kg							0.6			
+32	Nevada	FENAMIPHOS	2002	kg							0.1			
+32	Nevada	FENAMIPHOS	2003	kg							0.5			
+32	Nevada	FENAMIPHOS	2004	kg							2			
+32	Nevada	FENAMIPHOS	2005	kg							0.1			
+33	New Hampshire	FENAMIPHOS	1997	kg							19.7			
+34	New Jersey	FENAMIPHOS	1993	kg							136.2			
+34	New Jersey	FENAMIPHOS	1994	kg					5711.2		9362.4			
+34	New Jersey	FENAMIPHOS	1996	kg					1666.8		117.8			
+34	New Jersey	FENAMIPHOS	1999	kg							2991.1			
+34	New Jersey	FENAMIPHOS	2001	kg							75.8			
+35	New Mexico	FENAMIPHOS	1992	kg				179.5						
+35	New Mexico	FENAMIPHOS	1993	kg				1.4						
+35	New Mexico	FENAMIPHOS	1995	kg				1392.9						157.3
+35	New Mexico	FENAMIPHOS	1996	kg				344.1	815.4					
+35	New Mexico	FENAMIPHOS	1997	kg				19						18.7
+35	New Mexico	FENAMIPHOS	1999	kg					974.8					
+35	New Mexico	FENAMIPHOS	2000	kg					241.5					
+35	New Mexico	FENAMIPHOS	2003	kg				40.8						
+36	New York	FENAMIPHOS	1993	kg							47.8			
+36	New York	FENAMIPHOS	1996	kg							271.4			
+36	New York	FENAMIPHOS	1997	kg							59.4			
+36	New York	FENAMIPHOS	1998	kg							952.9			
+36	New York	FENAMIPHOS	2001	kg							212.9			
+37	North Carolina	FENAMIPHOS	1992	kg				6089.1			10990.3			90955.7
+37	North Carolina	FENAMIPHOS	1993	kg							936.2			88568.4
+37	North Carolina	FENAMIPHOS	1994	kg									1893.3	109232.8
+37	North Carolina	FENAMIPHOS	1995	kg				30138.5			1543.2			43865.3
+37	North Carolina	FENAMIPHOS	1996	kg										46334.9
+37	North Carolina	FENAMIPHOS	1997	kg				2005.3						78504.1
+37	North Carolina	FENAMIPHOS	1998	kg					583.6					38949.9
+37	North Carolina	FENAMIPHOS	1999	kg										35785.7
+37	North Carolina	FENAMIPHOS	2000	kg					2435.3					32184.8
+37	North Carolina	FENAMIPHOS	2001	kg										20392.5
+37	North Carolina	FENAMIPHOS	2002	kg					24					49086.2
+37	North Carolina	FENAMIPHOS	2003	kg					1219.6					20095.9
+37	North Carolina	FENAMIPHOS	2004	kg					69.1					11723.2
+37	North Carolina	FENAMIPHOS	2005	kg										11193.1
+37	North Carolina	FENAMIPHOS	2006	kg										11637.3
+37	North Carolina	FENAMIPHOS	2007	kg										13481.5
+37	North Carolina	FENAMIPHOS	2008	kg										28418.4
+37	North Carolina	FENAMIPHOS	2009	kg										10748.9
+37	North Carolina	FENAMIPHOS	2010	kg										3073.1
+37	North Carolina	FENAMIPHOS	2011	kg										16582.1
+37	North Carolina	FENAMIPHOS	2012	kg										25079.4
+37	North Carolina	FENAMIPHOS	2013	kg					30.4					
+39	Ohio	FENAMIPHOS	1993	kg							9.6			
+39	Ohio	FENAMIPHOS	1995	kg							44.3			
+39	Ohio	FENAMIPHOS	1996	kg							19.9			
+40	Oklahoma	FENAMIPHOS	1992	kg				4217.2						
+40	Oklahoma	FENAMIPHOS	1995	kg				3892.6						839.7
+41	Oregon	FENAMIPHOS	1994	kg							342.9			
+41	Oregon	FENAMIPHOS	1996	kg					1452.1		2.2			
+41	Oregon	FENAMIPHOS	1997	kg							12.9			
+41	Oregon	FENAMIPHOS	1998	kg							70.3			
+41	Oregon	FENAMIPHOS	1999	kg							16.5			
+41	Oregon	FENAMIPHOS	2000	kg							41.5			
+41	Oregon	FENAMIPHOS	2001	kg							267.5			
+41	Oregon	FENAMIPHOS	2002	kg							67			
+41	Oregon	FENAMIPHOS	2003	kg					43.9					
+41	Oregon	FENAMIPHOS	2004	kg							4199.5			
+41	Oregon	FENAMIPHOS	2005	kg							296.3			
+42	Pennsylvania	FENAMIPHOS	1993	kg							92.7			
+42	Pennsylvania	FENAMIPHOS	1994	kg					178.6		1081.5			
+42	Pennsylvania	FENAMIPHOS	1996	kg					2.4		172.6			
+42	Pennsylvania	FENAMIPHOS	1997	kg							427.1			
+42	Pennsylvania	FENAMIPHOS	1998	kg							324.6			
+42	Pennsylvania	FENAMIPHOS	1999	kg							414.4			
+42	Pennsylvania	FENAMIPHOS	2001	kg							11			
+45	South Carolina	FENAMIPHOS	1992	kg				9669.7			54751.3			22633.3
+45	South Carolina	FENAMIPHOS	1993	kg							18910.5			38924.6
+45	South Carolina	FENAMIPHOS	1994	kg									400.1	18283
+45	South Carolina	FENAMIPHOS	1995	kg				2577.9						32907
+45	South Carolina	FENAMIPHOS	1996	kg										3967.4
+45	South Carolina	FENAMIPHOS	1997	kg				765.6						10837.5
+45	South Carolina	FENAMIPHOS	1998	kg					5					10370.1
+45	South Carolina	FENAMIPHOS	1999	kg										4419.8
+45	South Carolina	FENAMIPHOS	2000	kg										702.4
+45	South Carolina	FENAMIPHOS	2001	kg										9904
+45	South Carolina	FENAMIPHOS	2002	kg					0					3117.6
+45	South Carolina	FENAMIPHOS	2003	kg				119.4	0.4					7384.5
+45	South Carolina	FENAMIPHOS	2004	kg					0					1064
+45	South Carolina	FENAMIPHOS	2005	kg					17.8					1309
+45	South Carolina	FENAMIPHOS	2006	kg										3294.6
+45	South Carolina	FENAMIPHOS	2007	kg										429.6
+45	South Carolina	FENAMIPHOS	2008	kg										484.9
+45	South Carolina	FENAMIPHOS	2009	kg										367.4
+45	South Carolina	FENAMIPHOS	2012	kg										2311.4
+47	Tennessee	FENAMIPHOS	1992	kg							1.2			4020.1
+47	Tennessee	FENAMIPHOS	1993	kg										3732
+47	Tennessee	FENAMIPHOS	1995	kg				6203.3						682.6
+47	Tennessee	FENAMIPHOS	1996	kg										774.8
+47	Tennessee	FENAMIPHOS	1997	kg				9483.6						
+47	Tennessee	FENAMIPHOS	1998	kg										1762.6
+47	Tennessee	FENAMIPHOS	1999	kg										1635.6
+47	Tennessee	FENAMIPHOS	2001	kg										3134
+47	Tennessee	FENAMIPHOS	2003	kg										1695
+47	Tennessee	FENAMIPHOS	2004	kg										2297.7
+47	Tennessee	FENAMIPHOS	2013	kg					0.4					
+48	Texas	FENAMIPHOS	1992	kg				28254.6						
+48	Texas	FENAMIPHOS	1993	kg				356.8						
+48	Texas	FENAMIPHOS	1995	kg				7835.8						1598.2
+48	Texas	FENAMIPHOS	1996	kg				195.1						
+48	Texas	FENAMIPHOS	1997	kg				1953.7						204
+48	Texas	FENAMIPHOS	2000	kg					46.2					
+48	Texas	FENAMIPHOS	2001	kg										588.4
+48	Texas	FENAMIPHOS	2003	kg				3716.8						
+51	Virginia	FENAMIPHOS	1992	kg				116.7						9428.4
+51	Virginia	FENAMIPHOS	1993	kg										6772.9
+51	Virginia	FENAMIPHOS	1994	kg										12376.3
+51	Virginia	FENAMIPHOS	1995	kg				7426.4						5259.1
+51	Virginia	FENAMIPHOS	1996	kg										11516.6
+51	Virginia	FENAMIPHOS	1997	kg				260.5						12296.4
+51	Virginia	FENAMIPHOS	1998	kg										6896.4
+51	Virginia	FENAMIPHOS	1999	kg										4645.3
+51	Virginia	FENAMIPHOS	2000	kg										13076.2
+51	Virginia	FENAMIPHOS	2001	kg										5872.1
+51	Virginia	FENAMIPHOS	2002	kg							26250.5			20341.5
+51	Virginia	FENAMIPHOS	2003	kg										3761.8
+51	Virginia	FENAMIPHOS	2004	kg										5235.5
+51	Virginia	FENAMIPHOS	2005	kg										1143.6
+51	Virginia	FENAMIPHOS	2006	kg										394.9
+51	Virginia	FENAMIPHOS	2007	kg										1601.2
+51	Virginia	FENAMIPHOS	2008	kg										342.4
+51	Virginia	FENAMIPHOS	2009	kg										2547
+51	Virginia	FENAMIPHOS	2011	kg										5459.1
+51	Virginia	FENAMIPHOS	2012	kg										8640.8
+51	Virginia	FENAMIPHOS	2013	kg					14.5					
+53	Washington	FENAMIPHOS	1994	kg							319			
+53	Washington	FENAMIPHOS	1996	kg					136.2					
+53	Washington	FENAMIPHOS	2000	kg							241			
+53	Washington	FENAMIPHOS	2001	kg							837.8			
+53	Washington	FENAMIPHOS	2002	kg							209.7			
+53	Washington	FENAMIPHOS	2003	kg					27.4					
+53	Washington	FENAMIPHOS	2004	kg							634.4			
+53	Washington	FENAMIPHOS	2005	kg							44.5			
+53	Washington	FENAMIPHOS	2010	kg					1272.4					
+54	West Virginia	FENAMIPHOS	1992	kg										228
+54	West Virginia	FENAMIPHOS	1993	kg										248.9
+54	West Virginia	FENAMIPHOS	1995	kg										361.4
+54	West Virginia	FENAMIPHOS	1996	kg										46.8
+54	West Virginia	FENAMIPHOS	1998	kg										125.3
+54	West Virginia	FENAMIPHOS	1999	kg										116.8
+54	West Virginia	FENAMIPHOS	2001	kg										267.8

@@ -1,0 +1,339 @@
+04	Arizona	ETHOFUMESATE	1997	kg					1.3					
+04	Arizona	ETHOFUMESATE	2013	kg					28.1					
+04	Arizona	ETHOFUMESATE	2015	kg					397.3					
+04	Arizona	ETHOFUMESATE	2016	kg					341.8					
+04	Arizona	ETHOFUMESATE	2017	kg					526.2					
+05	Arkansas	ETHOFUMESATE	1995	kg				39.6						
+06	California	ETHOFUMESATE	1992	kg				74.3	5.4				20.5	3411
+06	California	ETHOFUMESATE	1993	kg					41.7		7.5			2462.4
+06	California	ETHOFUMESATE	1994	kg					8		23.5			4202.3
+06	California	ETHOFUMESATE	1995	kg	1.5				0.4		42.3		19.7	4028.4
+06	California	ETHOFUMESATE	1996	kg							24.2		58.9	3486.2
+06	California	ETHOFUMESATE	1997	kg							109.6	153.4	7.5	4456.5
+06	California	ETHOFUMESATE	1998	kg	33.3		141.6		73.8		119.9	95.8	51.9	3889
+06	California	ETHOFUMESATE	1999	kg			76.4	156.8	100.9		111.8		30.9	3859.9
+06	California	ETHOFUMESATE	2000	kg	57.8		0.4	9.9	89.2		52.8		131.2	2211.5
+06	California	ETHOFUMESATE	2001	kg					0.4		215.3		62.7	870.2
+06	California	ETHOFUMESATE	2002	kg							184.6		137.8	2551.4
+06	California	ETHOFUMESATE	2003	kg					1.4		394.1		164.9	1939.7
+06	California	ETHOFUMESATE	2004	kg							408.2		426.8	1625.7
+06	California	ETHOFUMESATE	2005	kg							407.7		707.2	1563.8
+06	California	ETHOFUMESATE	2006	kg							519.3		674.6	1758.9
+06	California	ETHOFUMESATE	2007	kg					495.5		161.7		551.5	2160.3
+06	California	ETHOFUMESATE	2008	kg					719.3		38.8			219.1
+06	California	ETHOFUMESATE	2009	kg					1049.4		70.9			161.7
+06	California	ETHOFUMESATE	2010	kg					1310.9		57.9			170.6
+06	California	ETHOFUMESATE	2011	kg					1382.9		17.5			991.8
+06	California	ETHOFUMESATE	2012	kg					4127.2		74.5			1194.6
+06	California	ETHOFUMESATE	2013	kg					1661		180			880
+06	California	ETHOFUMESATE	2014	kg					2103.7		79			428.8
+06	California	ETHOFUMESATE	2015	kg					2269					39.4
+06	California	ETHOFUMESATE	2016	kg				25.2	2390.7		0.3			130.1
+06	California	ETHOFUMESATE	2017	kg					2424.7		1.1			
+08	Colorado	ETHOFUMESATE	1992	kg	762.6									3852
+08	Colorado	ETHOFUMESATE	1993	kg										5312.9
+08	Colorado	ETHOFUMESATE	1994	kg										13065.5
+08	Colorado	ETHOFUMESATE	1995	kg										12073.5
+08	Colorado	ETHOFUMESATE	1996	kg					25.8					11515.9
+08	Colorado	ETHOFUMESATE	1997	kg										14277.1
+08	Colorado	ETHOFUMESATE	1998	kg										8347.6
+08	Colorado	ETHOFUMESATE	1999	kg										9226.5
+08	Colorado	ETHOFUMESATE	2000	kg										5109
+08	Colorado	ETHOFUMESATE	2001	kg										3483.6
+08	Colorado	ETHOFUMESATE	2002	kg										5534.1
+08	Colorado	ETHOFUMESATE	2003	kg										3081.1
+08	Colorado	ETHOFUMESATE	2004	kg										5603.6
+08	Colorado	ETHOFUMESATE	2005	kg										7215.8
+08	Colorado	ETHOFUMESATE	2006	kg										15676.5
+08	Colorado	ETHOFUMESATE	2007	kg										27659.5
+08	Colorado	ETHOFUMESATE	2008	kg					82.5					18.4
+08	Colorado	ETHOFUMESATE	2009	kg										235
+08	Colorado	ETHOFUMESATE	2010	kg										58.5
+08	Colorado	ETHOFUMESATE	2011	kg										790
+08	Colorado	ETHOFUMESATE	2012	kg										108.8
+08	Colorado	ETHOFUMESATE	2013	kg					1.8					1153.9
+08	Colorado	ETHOFUMESATE	2014	kg					1					4152
+08	Colorado	ETHOFUMESATE	2015	kg					2.3					185.9
+08	Colorado	ETHOFUMESATE	2016	kg					3.3					148.5
+08	Colorado	ETHOFUMESATE	2017	kg					5.1					12771.5
+16	Idaho	ETHOFUMESATE	1992	kg										6762.3
+16	Idaho	ETHOFUMESATE	1993	kg					56.1					10364.2
+16	Idaho	ETHOFUMESATE	1994	kg					2730.2					88463.1
+16	Idaho	ETHOFUMESATE	1995	kg										45868.2
+16	Idaho	ETHOFUMESATE	1996	kg					2813.2					16143.6
+16	Idaho	ETHOFUMESATE	1997	kg					66.4					27150.1
+16	Idaho	ETHOFUMESATE	1998	kg										15343.8
+16	Idaho	ETHOFUMESATE	1999	kg										11565.9
+16	Idaho	ETHOFUMESATE	2000	kg										22097.2
+16	Idaho	ETHOFUMESATE	2001	kg										16418
+16	Idaho	ETHOFUMESATE	2002	kg										23239.8
+16	Idaho	ETHOFUMESATE	2003	kg										27753
+16	Idaho	ETHOFUMESATE	2004	kg										57788
+16	Idaho	ETHOFUMESATE	2005	kg										22357.8
+16	Idaho	ETHOFUMESATE	2006	kg					62.5					32285.6
+16	Idaho	ETHOFUMESATE	2007	kg					531.3					40166.2
+16	Idaho	ETHOFUMESATE	2008	kg					938.7					1153
+16	Idaho	ETHOFUMESATE	2009	kg					289.2					
+16	Idaho	ETHOFUMESATE	2010	kg					1330.6					
+16	Idaho	ETHOFUMESATE	2011	kg					1436.4					
+16	Idaho	ETHOFUMESATE	2012	kg					1616.7					
+16	Idaho	ETHOFUMESATE	2013	kg					2048.8					206.1
+16	Idaho	ETHOFUMESATE	2014	kg					836					
+16	Idaho	ETHOFUMESATE	2015	kg					1260.9					1200.6
+16	Idaho	ETHOFUMESATE	2016	kg					3144.6					
+16	Idaho	ETHOFUMESATE	2017	kg					4331.8					
+20	Kansas	ETHOFUMESATE	2008	kg					0					
+22	Louisiana	ETHOFUMESATE	1995	kg				115.4						
+26	Michigan	ETHOFUMESATE	1992	kg					228.2					8412.4
+26	Michigan	ETHOFUMESATE	1993	kg										5848.6
+26	Michigan	ETHOFUMESATE	1994	kg										22123.6
+26	Michigan	ETHOFUMESATE	1995	kg										10246.2
+26	Michigan	ETHOFUMESATE	1996	kg					497.5					8006.4
+26	Michigan	ETHOFUMESATE	1997	kg									1086.1	18270.5
+26	Michigan	ETHOFUMESATE	1998	kg										14859.6
+26	Michigan	ETHOFUMESATE	1999	kg										7992.2
+26	Michigan	ETHOFUMESATE	2000	kg										9155.5
+26	Michigan	ETHOFUMESATE	2001	kg										4937.7
+26	Michigan	ETHOFUMESATE	2002	kg										7149.6
+26	Michigan	ETHOFUMESATE	2003	kg										8341
+26	Michigan	ETHOFUMESATE	2004	kg										13253.3
+26	Michigan	ETHOFUMESATE	2005	kg										8023.4
+26	Michigan	ETHOFUMESATE	2006	kg										14826.2
+26	Michigan	ETHOFUMESATE	2007	kg										12012
+26	Michigan	ETHOFUMESATE	2008	kg										3938.1
+26	Michigan	ETHOFUMESATE	2009	kg										393.8
+26	Michigan	ETHOFUMESATE	2016	kg										1365
+26	Michigan	ETHOFUMESATE	2017	kg										708.7
+27	Minnesota	ETHOFUMESATE	1992	kg										15097.3
+27	Minnesota	ETHOFUMESATE	1993	kg										19349.8
+27	Minnesota	ETHOFUMESATE	1994	kg					479.3					110114.6
+27	Minnesota	ETHOFUMESATE	1995	kg					25.4					53423.5
+27	Minnesota	ETHOFUMESATE	1996	kg										61570.8
+27	Minnesota	ETHOFUMESATE	1997	kg										8992
+27	Minnesota	ETHOFUMESATE	1998	kg										8779
+27	Minnesota	ETHOFUMESATE	1999	kg										5971
+27	Minnesota	ETHOFUMESATE	2000	kg										7567.4
+27	Minnesota	ETHOFUMESATE	2001	kg										9499.3
+27	Minnesota	ETHOFUMESATE	2002	kg										54626.6
+27	Minnesota	ETHOFUMESATE	2003	kg										61546.1
+27	Minnesota	ETHOFUMESATE	2004	kg										173069.4
+27	Minnesota	ETHOFUMESATE	2005	kg										67513.6
+27	Minnesota	ETHOFUMESATE	2006	kg										110143
+27	Minnesota	ETHOFUMESATE	2007	kg										124734.6
+27	Minnesota	ETHOFUMESATE	2008	kg										53531
+27	Minnesota	ETHOFUMESATE	2009	kg										10292.7
+27	Minnesota	ETHOFUMESATE	2010	kg										1569.7
+27	Minnesota	ETHOFUMESATE	2011	kg										21804.8
+27	Minnesota	ETHOFUMESATE	2012	kg										431
+27	Minnesota	ETHOFUMESATE	2013	kg										1859.2
+27	Minnesota	ETHOFUMESATE	2014	kg										7804.3
+27	Minnesota	ETHOFUMESATE	2015	kg										25064.9
+27	Minnesota	ETHOFUMESATE	2016	kg										29032.2
+27	Minnesota	ETHOFUMESATE	2017	kg										35796.5
+28	Mississippi	ETHOFUMESATE	1995	kg				72.6						
+28	Mississippi	ETHOFUMESATE	1996	kg		12498.9		9188.6						
+30	Montana	ETHOFUMESATE	1992	kg										3204.3
+30	Montana	ETHOFUMESATE	1993	kg										3337.1
+30	Montana	ETHOFUMESATE	1994	kg										8630.4
+30	Montana	ETHOFUMESATE	1995	kg										10400
+30	Montana	ETHOFUMESATE	1996	kg										8089.3
+30	Montana	ETHOFUMESATE	1997	kg										4891.3
+30	Montana	ETHOFUMESATE	1998	kg										1300.4
+30	Montana	ETHOFUMESATE	1999	kg										1660.9
+30	Montana	ETHOFUMESATE	2000	kg										1235.4
+30	Montana	ETHOFUMESATE	2001	kg										3922
+30	Montana	ETHOFUMESATE	2002	kg										37538.4
+30	Montana	ETHOFUMESATE	2003	kg										20888.8
+30	Montana	ETHOFUMESATE	2004	kg										23674
+30	Montana	ETHOFUMESATE	2005	kg										6966.6
+30	Montana	ETHOFUMESATE	2006	kg										21281.7
+30	Montana	ETHOFUMESATE	2007	kg										10821.3
+30	Montana	ETHOFUMESATE	2008	kg										124.5
+30	Montana	ETHOFUMESATE	2009	kg										169.1
+30	Montana	ETHOFUMESATE	2010	kg										62
+30	Montana	ETHOFUMESATE	2011	kg										780.7
+30	Montana	ETHOFUMESATE	2012	kg										122.5
+30	Montana	ETHOFUMESATE	2013	kg										902.3
+30	Montana	ETHOFUMESATE	2014	kg										760.9
+30	Montana	ETHOFUMESATE	2015	kg										635
+30	Montana	ETHOFUMESATE	2016	kg										506.3
+30	Montana	ETHOFUMESATE	2017	kg										1552.8
+31	Nebraska	ETHOFUMESATE	1992	kg	2130.9									8240.9
+31	Nebraska	ETHOFUMESATE	1993	kg										4106.9
+31	Nebraska	ETHOFUMESATE	1994	kg										13239.4
+31	Nebraska	ETHOFUMESATE	1995	kg										6885.4
+31	Nebraska	ETHOFUMESATE	1996	kg					136.5					8928.6
+31	Nebraska	ETHOFUMESATE	1997	kg										10185.1
+31	Nebraska	ETHOFUMESATE	1998	kg										2255.8
+31	Nebraska	ETHOFUMESATE	1999	kg										9482.1
+31	Nebraska	ETHOFUMESATE	2000	kg										7001.6
+31	Nebraska	ETHOFUMESATE	2001	kg										6184.3
+31	Nebraska	ETHOFUMESATE	2002	kg										13557.3
+31	Nebraska	ETHOFUMESATE	2003	kg										10092.9
+31	Nebraska	ETHOFUMESATE	2004	kg										15699.4
+31	Nebraska	ETHOFUMESATE	2005	kg										13727.8
+31	Nebraska	ETHOFUMESATE	2006	kg										16839.7
+31	Nebraska	ETHOFUMESATE	2007	kg										19370
+31	Nebraska	ETHOFUMESATE	2008	kg										881.2
+31	Nebraska	ETHOFUMESATE	2009	kg										492
+31	Nebraska	ETHOFUMESATE	2010	kg										127.2
+31	Nebraska	ETHOFUMESATE	2011	kg										1827
+31	Nebraska	ETHOFUMESATE	2012	kg										254.6
+31	Nebraska	ETHOFUMESATE	2013	kg										381.7
+31	Nebraska	ETHOFUMESATE	2014	kg										22333.9
+31	Nebraska	ETHOFUMESATE	2015	kg										322.7
+31	Nebraska	ETHOFUMESATE	2016	kg										330.1
+31	Nebraska	ETHOFUMESATE	2017	kg										25391.9
+32	Nevada	ETHOFUMESATE	1996	kg					1727.9					
+32	Nevada	ETHOFUMESATE	1997	kg					8.4					
+32	Nevada	ETHOFUMESATE	2006	kg					12.6					
+32	Nevada	ETHOFUMESATE	2007	kg					91.1					
+32	Nevada	ETHOFUMESATE	2008	kg					335.7					
+32	Nevada	ETHOFUMESATE	2009	kg					110.7					
+32	Nevada	ETHOFUMESATE	2010	kg					390.8					
+32	Nevada	ETHOFUMESATE	2011	kg					578.2					
+32	Nevada	ETHOFUMESATE	2012	kg					431					
+32	Nevada	ETHOFUMESATE	2013	kg					556.8					
+32	Nevada	ETHOFUMESATE	2014	kg					294.2					
+32	Nevada	ETHOFUMESATE	2015	kg					673.2					
+32	Nevada	ETHOFUMESATE	2016	kg					931.9					
+32	Nevada	ETHOFUMESATE	2017	kg					1585					
+35	New Mexico	ETHOFUMESATE	2008	kg					3.7					
+38	North Dakota	ETHOFUMESATE	1992	kg										3823.9
+38	North Dakota	ETHOFUMESATE	1993	kg										4519.4
+38	North Dakota	ETHOFUMESATE	1994	kg										43350.6
+38	North Dakota	ETHOFUMESATE	1995	kg										29790.7
+38	North Dakota	ETHOFUMESATE	1996	kg										6307
+38	North Dakota	ETHOFUMESATE	1997	kg										7807.5
+38	North Dakota	ETHOFUMESATE	1998	kg										6445.5
+38	North Dakota	ETHOFUMESATE	1999	kg										2051.3
+38	North Dakota	ETHOFUMESATE	2000	kg										5188.6
+38	North Dakota	ETHOFUMESATE	2001	kg										4651.2
+38	North Dakota	ETHOFUMESATE	2002	kg										84728.8
+38	North Dakota	ETHOFUMESATE	2003	kg										79203.1
+38	North Dakota	ETHOFUMESATE	2004	kg										170414.7
+38	North Dakota	ETHOFUMESATE	2005	kg										45732.2
+38	North Dakota	ETHOFUMESATE	2006	kg										51630.4
+38	North Dakota	ETHOFUMESATE	2007	kg										54219.4
+38	North Dakota	ETHOFUMESATE	2008	kg										38809
+38	North Dakota	ETHOFUMESATE	2009	kg										1569.3
+38	North Dakota	ETHOFUMESATE	2010	kg										593.9
+38	North Dakota	ETHOFUMESATE	2011	kg										7554
+38	North Dakota	ETHOFUMESATE	2012	kg										1128.7
+38	North Dakota	ETHOFUMESATE	2013	kg										2066.7
+38	North Dakota	ETHOFUMESATE	2014	kg										3007.7
+38	North Dakota	ETHOFUMESATE	2015	kg										1993.6
+38	North Dakota	ETHOFUMESATE	2016	kg										3036.9
+38	North Dakota	ETHOFUMESATE	2017	kg										5986.1
+39	Ohio	ETHOFUMESATE	1992	kg										4029
+39	Ohio	ETHOFUMESATE	1993	kg										1012.7
+39	Ohio	ETHOFUMESATE	1994	kg										2641.6
+39	Ohio	ETHOFUMESATE	1995	kg										4397.2
+39	Ohio	ETHOFUMESATE	1996	kg										290.8
+39	Ohio	ETHOFUMESATE	1997	kg										504.6
+39	Ohio	ETHOFUMESATE	1998	kg										165.5
+39	Ohio	ETHOFUMESATE	1999	kg										63.5
+39	Ohio	ETHOFUMESATE	2000	kg										78.4
+39	Ohio	ETHOFUMESATE	2001	kg										49.4
+39	Ohio	ETHOFUMESATE	2002	kg										520.7
+39	Ohio	ETHOFUMESATE	2003	kg										868.8
+39	Ohio	ETHOFUMESATE	2004	kg										1128.7
+39	Ohio	ETHOFUMESATE	2005	kg										533.5
+39	Ohio	ETHOFUMESATE	2006	kg										315.1
+39	Ohio	ETHOFUMESATE	2007	kg										390.8
+41	Oregon	ETHOFUMESATE	1992	kg										877.1
+41	Oregon	ETHOFUMESATE	1993	kg					21					4123.5
+41	Oregon	ETHOFUMESATE	1994	kg										1462.6
+41	Oregon	ETHOFUMESATE	1995	kg					3.6					6215.5
+41	Oregon	ETHOFUMESATE	1996	kg					4561.4					1459.7
+41	Oregon	ETHOFUMESATE	1997	kg					210.6					943.1
+41	Oregon	ETHOFUMESATE	1998	kg										3681.9
+41	Oregon	ETHOFUMESATE	1999	kg										3478.9
+41	Oregon	ETHOFUMESATE	2000	kg										1065.2
+41	Oregon	ETHOFUMESATE	2001	kg										420.9
+41	Oregon	ETHOFUMESATE	2002	kg										1051.1
+41	Oregon	ETHOFUMESATE	2003	kg										476.9
+41	Oregon	ETHOFUMESATE	2004	kg										2866.7
+41	Oregon	ETHOFUMESATE	2005	kg										1525
+41	Oregon	ETHOFUMESATE	2006	kg					104.5					1059.4
+41	Oregon	ETHOFUMESATE	2007	kg					2577.6					11065.4
+41	Oregon	ETHOFUMESATE	2008	kg					3881.3					58.1
+41	Oregon	ETHOFUMESATE	2009	kg					1558.2					
+41	Oregon	ETHOFUMESATE	2010	kg					4324.9					
+41	Oregon	ETHOFUMESATE	2011	kg					5950.5					
+41	Oregon	ETHOFUMESATE	2012	kg					5232.3					
+41	Oregon	ETHOFUMESATE	2013	kg					6448.1					217.7
+41	Oregon	ETHOFUMESATE	2014	kg					2727.4					
+41	Oregon	ETHOFUMESATE	2015	kg					6997.1					54.7
+41	Oregon	ETHOFUMESATE	2016	kg					11122.8					
+41	Oregon	ETHOFUMESATE	2017	kg					14066.6					
+46	South Dakota	ETHOFUMESATE	1992	kg	18.5									
+46	South Dakota	ETHOFUMESATE	1996	kg					0.6					
+48	Texas	ETHOFUMESATE	1992	kg										8701.2
+48	Texas	ETHOFUMESATE	1993	kg										7655.8
+48	Texas	ETHOFUMESATE	1994	kg										4431.8
+48	Texas	ETHOFUMESATE	1995	kg										5167.8
+48	Texas	ETHOFUMESATE	1996	kg										3585.9
+48	Texas	ETHOFUMESATE	1998	kg										1241.2
+48	Texas	ETHOFUMESATE	1999	kg										883.2
+48	Texas	ETHOFUMESATE	2000	kg										1267.8
+48	Texas	ETHOFUMESATE	2003	kg										1190
+48	Texas	ETHOFUMESATE	2004	kg										2426.3
+48	Texas	ETHOFUMESATE	2006	kg										5598.8
+48	Texas	ETHOFUMESATE	2007	kg										13779.1
+48	Texas	ETHOFUMESATE	2012	kg					977.8					
+48	Texas	ETHOFUMESATE	2013	kg					2787.4					
+48	Texas	ETHOFUMESATE	2014	kg					2380.1					
+49	Utah	ETHOFUMESATE	1994	kg					1.5					
+53	Washington	ETHOFUMESATE	1992	kg										434
+53	Washington	ETHOFUMESATE	1993	kg										758
+53	Washington	ETHOFUMESATE	1994	kg										1809.8
+53	Washington	ETHOFUMESATE	1995	kg					4.4					2978
+53	Washington	ETHOFUMESATE	1996	kg					114					5312.9
+53	Washington	ETHOFUMESATE	1997	kg										36061.5
+53	Washington	ETHOFUMESATE	1998	kg										4548.2
+53	Washington	ETHOFUMESATE	1999	kg										1117.3
+53	Washington	ETHOFUMESATE	2000	kg										10013.1
+53	Washington	ETHOFUMESATE	2001	kg										5327.6
+53	Washington	ETHOFUMESATE	2002	kg										1690.9
+53	Washington	ETHOFUMESATE	2003	kg										9909
+53	Washington	ETHOFUMESATE	2004	kg										2957.1
+53	Washington	ETHOFUMESATE	2005	kg										2451.6
+53	Washington	ETHOFUMESATE	2006	kg										4060.2
+53	Washington	ETHOFUMESATE	2007	kg					545.4					3307.1
+53	Washington	ETHOFUMESATE	2008	kg					692.5					
+53	Washington	ETHOFUMESATE	2009	kg					1113.3					
+53	Washington	ETHOFUMESATE	2010	kg					863.1					
+53	Washington	ETHOFUMESATE	2011	kg					184.8					
+53	Washington	ETHOFUMESATE	2012	kg					1007.3					
+53	Washington	ETHOFUMESATE	2013	kg					877					
+53	Washington	ETHOFUMESATE	2014	kg					1935.1					
+53	Washington	ETHOFUMESATE	2015	kg					1750.6					
+53	Washington	ETHOFUMESATE	2016	kg					5780.4					
+53	Washington	ETHOFUMESATE	2017	kg					1795.1					
+56	Wyoming	ETHOFUMESATE	1992	kg	144.9									15095.7
+56	Wyoming	ETHOFUMESATE	1993	kg										8307.3
+56	Wyoming	ETHOFUMESATE	1994	kg										14129.3
+56	Wyoming	ETHOFUMESATE	1995	kg										11521.1
+56	Wyoming	ETHOFUMESATE	1996	kg					8.1					16343.4
+56	Wyoming	ETHOFUMESATE	1997	kg										13146.6
+56	Wyoming	ETHOFUMESATE	1998	kg										5876.2
+56	Wyoming	ETHOFUMESATE	1999	kg										3535.2
+56	Wyoming	ETHOFUMESATE	2000	kg										5692.6
+56	Wyoming	ETHOFUMESATE	2001	kg										3745.5
+56	Wyoming	ETHOFUMESATE	2002	kg										6727
+56	Wyoming	ETHOFUMESATE	2003	kg										9057.6
+56	Wyoming	ETHOFUMESATE	2004	kg										57670.8
+56	Wyoming	ETHOFUMESATE	2005	kg										13180
+56	Wyoming	ETHOFUMESATE	2006	kg										7262.7
+56	Wyoming	ETHOFUMESATE	2007	kg										4016.5
+56	Wyoming	ETHOFUMESATE	2008	kg										3130.6
+56	Wyoming	ETHOFUMESATE	2009	kg										44.4
+56	Wyoming	ETHOFUMESATE	2010	kg										11.2
+56	Wyoming	ETHOFUMESATE	2011	kg										150.2
+56	Wyoming	ETHOFUMESATE	2012	kg										20.2
+56	Wyoming	ETHOFUMESATE	2013	kg										971.4
+56	Wyoming	ETHOFUMESATE	2014	kg										53.1
+56	Wyoming	ETHOFUMESATE	2015	kg										24.3
+56	Wyoming	ETHOFUMESATE	2016	kg										961.8
+56	Wyoming	ETHOFUMESATE	2017	kg										2001.9

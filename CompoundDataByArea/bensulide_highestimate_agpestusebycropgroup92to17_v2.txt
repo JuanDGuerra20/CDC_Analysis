@@ -1,0 +1,781 @@
+01	Alabama	BENSULIDE	1992	kg					2826.5					
+01	Alabama	BENSULIDE	1993	kg					4101					
+01	Alabama	BENSULIDE	1994	kg					695.7					
+01	Alabama	BENSULIDE	1995	kg					4377.7					
+01	Alabama	BENSULIDE	1996	kg					4187.3					
+01	Alabama	BENSULIDE	1997	kg					2710.8					
+01	Alabama	BENSULIDE	1998	kg					1247.3					
+01	Alabama	BENSULIDE	1999	kg					565.4					
+01	Alabama	BENSULIDE	2000	kg					3179.3					
+01	Alabama	BENSULIDE	2001	kg					183.3					
+01	Alabama	BENSULIDE	2003	kg					281.2					
+01	Alabama	BENSULIDE	2004	kg					514.9					
+01	Alabama	BENSULIDE	2005	kg					320.5					
+01	Alabama	BENSULIDE	2006	kg					1803.3					
+01	Alabama	BENSULIDE	2007	kg					54.3					
+01	Alabama	BENSULIDE	2008	kg					2229.4					
+04	Arizona	BENSULIDE	1992	kg					29607.8					
+04	Arizona	BENSULIDE	1993	kg					32757.3					
+04	Arizona	BENSULIDE	1994	kg					12230.9					
+04	Arizona	BENSULIDE	1995	kg					28561.4					
+04	Arizona	BENSULIDE	1996	kg					31622.8					
+04	Arizona	BENSULIDE	1997	kg					63217.5					
+04	Arizona	BENSULIDE	1998	kg					95512					
+04	Arizona	BENSULIDE	1999	kg					95097.6					
+04	Arizona	BENSULIDE	2000	kg					128324.3					
+04	Arizona	BENSULIDE	2001	kg					60063.7					
+04	Arizona	BENSULIDE	2002	kg					100911.9					
+04	Arizona	BENSULIDE	2003	kg					111755.8					
+04	Arizona	BENSULIDE	2004	kg					106479.3					
+04	Arizona	BENSULIDE	2005	kg					111239.8					
+04	Arizona	BENSULIDE	2006	kg					160231.8					
+04	Arizona	BENSULIDE	2007	kg					114694.8					
+04	Arizona	BENSULIDE	2008	kg					103573.5					
+04	Arizona	BENSULIDE	2009	kg					74826.4					
+04	Arizona	BENSULIDE	2010	kg					53088.5					
+04	Arizona	BENSULIDE	2011	kg					98555.9					
+04	Arizona	BENSULIDE	2012	kg					85533.6					
+04	Arizona	BENSULIDE	2013	kg					68446.3					
+04	Arizona	BENSULIDE	2014	kg					109053.6					
+04	Arizona	BENSULIDE	2015	kg					148740.3					
+04	Arizona	BENSULIDE	2016	kg					172060					
+04	Arizona	BENSULIDE	2017	kg					139047.6					
+05	Arkansas	BENSULIDE	1992	kg					496.1					
+05	Arkansas	BENSULIDE	1993	kg					1142.2					
+05	Arkansas	BENSULIDE	1994	kg					74					
+05	Arkansas	BENSULIDE	1995	kg					165.2					
+05	Arkansas	BENSULIDE	1996	kg					48.5					
+05	Arkansas	BENSULIDE	1997	kg					391.7					
+05	Arkansas	BENSULIDE	1998	kg					173.1					
+05	Arkansas	BENSULIDE	1999	kg					189.7					
+05	Arkansas	BENSULIDE	2000	kg					609.3					
+05	Arkansas	BENSULIDE	2001	kg					232.9					
+05	Arkansas	BENSULIDE	2005	kg					472.3					
+05	Arkansas	BENSULIDE	2006	kg					854.3					
+05	Arkansas	BENSULIDE	2008	kg					23.1					
+06	California	BENSULIDE	1992	kg					20856.7		60.1		12.2	
+06	California	BENSULIDE	1993	kg					19978.7		3.6			
+06	California	BENSULIDE	1994	kg				27	23030.4		1.7	5.1		
+06	California	BENSULIDE	1995	kg					27117.3		0.6		4.3	
+06	California	BENSULIDE	1996	kg					38926.9		5.2			
+06	California	BENSULIDE	1997	kg				44.9	55942		291.6		17.8	4.5
+06	California	BENSULIDE	1998	kg				89.9	83806.7		516.3	6.8	22	59.4
+06	California	BENSULIDE	1999	kg					107940		327.7			18
+06	California	BENSULIDE	2000	kg					96051.4		695		4.9	92.2
+06	California	BENSULIDE	2001	kg				0.5	84549		116			83.9
+06	California	BENSULIDE	2002	kg	8.3				86343.9		79.1			51.7
+06	California	BENSULIDE	2003	kg	0.4				102174.9		43.7			293.6
+06	California	BENSULIDE	2004	kg				11.5	105404.3		52.9			215.8
+06	California	BENSULIDE	2005	kg				8.8	109414		590.5		20.1	72.8
+06	California	BENSULIDE	2006	kg					126955.4		532.2		46.8	
+06	California	BENSULIDE	2007	kg					114990.5		400.4			31.5
+06	California	BENSULIDE	2008	kg					99449.3		148.6			3844.4
+06	California	BENSULIDE	2009	kg	66.9				100267.1		18	85.4		3216
+06	California	BENSULIDE	2010	kg					117702.9					3421
+06	California	BENSULIDE	2011	kg				48.6	127375.4		3.4			1870.2
+06	California	BENSULIDE	2012	kg					116883.1		3.6			2616.5
+06	California	BENSULIDE	2013	kg					126081		0			1772.6
+06	California	BENSULIDE	2014	kg					141285.7		18			2238.3
+06	California	BENSULIDE	2015	kg					154848.1		110.7			764.4
+06	California	BENSULIDE	2016	kg					131054.1		513.7			384.8
+06	California	BENSULIDE	2017	kg					124856.4		404.7			1815.7
+08	Colorado	BENSULIDE	1992	kg								2780.7		
+08	Colorado	BENSULIDE	1993	kg					2622.5				260.9	
+08	Colorado	BENSULIDE	1994	kg					423.2					
+08	Colorado	BENSULIDE	1995	kg					4824.7					
+08	Colorado	BENSULIDE	1996	kg					853					
+08	Colorado	BENSULIDE	1997	kg					773.2					
+08	Colorado	BENSULIDE	1998	kg					2432.2					
+08	Colorado	BENSULIDE	1999	kg					509.8					
+08	Colorado	BENSULIDE	2001	kg					429.7					
+08	Colorado	BENSULIDE	2002	kg					1445.6					
+08	Colorado	BENSULIDE	2004	kg					6292.4					
+08	Colorado	BENSULIDE	2007	kg					348.2					
+08	Colorado	BENSULIDE	2010	kg					405.6					
+09	Connecticut	BENSULIDE	1992	kg					148.1					
+09	Connecticut	BENSULIDE	1993	kg					12920.4					
+09	Connecticut	BENSULIDE	1994	kg					1203.5					
+09	Connecticut	BENSULIDE	1995	kg					1130.2					
+09	Connecticut	BENSULIDE	1996	kg					111.1					
+09	Connecticut	BENSULIDE	1997	kg					19.9					
+09	Connecticut	BENSULIDE	1998	kg					293.9					
+09	Connecticut	BENSULIDE	1999	kg					324.7					
+09	Connecticut	BENSULIDE	2000	kg					869.7					
+09	Connecticut	BENSULIDE	2001	kg					1605.2					
+09	Connecticut	BENSULIDE	2002	kg					1134.5					
+09	Connecticut	BENSULIDE	2003	kg					610.5					
+09	Connecticut	BENSULIDE	2004	kg					6.1					
+09	Connecticut	BENSULIDE	2005	kg					512.2					
+09	Connecticut	BENSULIDE	2006	kg					2161.3					
+09	Connecticut	BENSULIDE	2007	kg					406.4					
+09	Connecticut	BENSULIDE	2008	kg					111.1					
+10	Delaware	BENSULIDE	1992	kg					1715.8					
+10	Delaware	BENSULIDE	1993	kg					6871					
+10	Delaware	BENSULIDE	1994	kg					3.2					
+10	Delaware	BENSULIDE	1995	kg					3688.1					
+10	Delaware	BENSULIDE	1996	kg					6102.3					
+10	Delaware	BENSULIDE	1997	kg					4613.2					
+10	Delaware	BENSULIDE	1998	kg					1096.3					
+10	Delaware	BENSULIDE	1999	kg					398.7					
+10	Delaware	BENSULIDE	2000	kg					856.5					
+10	Delaware	BENSULIDE	2001	kg					338					
+10	Delaware	BENSULIDE	2002	kg					67.5					
+10	Delaware	BENSULIDE	2003	kg					17.2					
+10	Delaware	BENSULIDE	2004	kg					465.7					
+10	Delaware	BENSULIDE	2006	kg					19.4					
+10	Delaware	BENSULIDE	2007	kg					17.8					
+10	Delaware	BENSULIDE	2008	kg					0					
+10	Delaware	BENSULIDE	2010	kg					1.4					
+10	Delaware	BENSULIDE	2011	kg					1.4					
+10	Delaware	BENSULIDE	2013	kg					0.6					
+10	Delaware	BENSULIDE	2014	kg					4.3					
+10	Delaware	BENSULIDE	2015	kg					3867.3					
+12	Florida	BENSULIDE	1998	kg					254.6					
+12	Florida	BENSULIDE	1999	kg					747.6					
+12	Florida	BENSULIDE	2000	kg					5317.2					
+12	Florida	BENSULIDE	2001	kg					8107.6					
+12	Florida	BENSULIDE	2002	kg					7986.5					
+12	Florida	BENSULIDE	2003	kg					25440					
+12	Florida	BENSULIDE	2004	kg					280.3					
+12	Florida	BENSULIDE	2005	kg					12316.1					
+12	Florida	BENSULIDE	2006	kg					338.6					
+12	Florida	BENSULIDE	2007	kg					25877.1					
+12	Florida	BENSULIDE	2008	kg					21138.6					
+12	Florida	BENSULIDE	2009	kg					1084.1					
+12	Florida	BENSULIDE	2010	kg					382.2					
+12	Florida	BENSULIDE	2012	kg					627.6					
+12	Florida	BENSULIDE	2013	kg					2947					
+12	Florida	BENSULIDE	2014	kg					252.6					
+13	Georgia	BENSULIDE	1992	kg					6228.7					
+13	Georgia	BENSULIDE	1993	kg					15169					
+13	Georgia	BENSULIDE	1994	kg					25.1					
+13	Georgia	BENSULIDE	1995	kg					1440.2					
+13	Georgia	BENSULIDE	1996	kg					12383.7					
+13	Georgia	BENSULIDE	1997	kg					1316.7					
+13	Georgia	BENSULIDE	1998	kg					5671.1					
+13	Georgia	BENSULIDE	1999	kg					3367.8					
+13	Georgia	BENSULIDE	2000	kg					6299.4					
+13	Georgia	BENSULIDE	2001	kg					1308.2					
+13	Georgia	BENSULIDE	2003	kg					18.9					
+13	Georgia	BENSULIDE	2004	kg					12547.7					
+13	Georgia	BENSULIDE	2005	kg					14.7					
+13	Georgia	BENSULIDE	2006	kg					666.8					
+13	Georgia	BENSULIDE	2007	kg					1.2					
+13	Georgia	BENSULIDE	2008	kg					10692.1					
+13	Georgia	BENSULIDE	2010	kg					39.1					
+13	Georgia	BENSULIDE	2012	kg					3.4					
+13	Georgia	BENSULIDE	2013	kg					1615.1					
+13	Georgia	BENSULIDE	2014	kg					5130.9					
+16	Idaho	BENSULIDE	1992	kg					237.8					453.5
+16	Idaho	BENSULIDE	1993	kg					160.7					
+16	Idaho	BENSULIDE	1994	kg					505.3					
+16	Idaho	BENSULIDE	1995	kg					0.2					
+16	Idaho	BENSULIDE	1996	kg					5730.5					
+16	Idaho	BENSULIDE	1998	kg					463.6					
+16	Idaho	BENSULIDE	1999	kg					483.5					
+16	Idaho	BENSULIDE	2000	kg					107.9					
+16	Idaho	BENSULIDE	2001	kg					5792.3					
+16	Idaho	BENSULIDE	2002	kg					235.6					
+16	Idaho	BENSULIDE	2003	kg					566					
+16	Idaho	BENSULIDE	2006	kg					895.1					
+17	Illinois	BENSULIDE	1992	kg					8879.1					
+17	Illinois	BENSULIDE	1993	kg					4055.9					
+17	Illinois	BENSULIDE	1994	kg					11546.6					
+17	Illinois	BENSULIDE	1995	kg	137141.9				2800.3		70.5			
+17	Illinois	BENSULIDE	1996	kg					3354					
+17	Illinois	BENSULIDE	1997	kg					7844.5					
+17	Illinois	BENSULIDE	1998	kg					6392.5					
+17	Illinois	BENSULIDE	1999	kg					6751.8					
+17	Illinois	BENSULIDE	2000	kg					6075.5					
+17	Illinois	BENSULIDE	2001	kg					9082.2					
+17	Illinois	BENSULIDE	2002	kg					4320.1					
+17	Illinois	BENSULIDE	2003	kg					493.1					
+17	Illinois	BENSULIDE	2004	kg					3540.6					
+17	Illinois	BENSULIDE	2005	kg					4.3					
+17	Illinois	BENSULIDE	2006	kg					7330.4					
+17	Illinois	BENSULIDE	2007	kg					14549.4					
+17	Illinois	BENSULIDE	2008	kg					810.2					
+17	Illinois	BENSULIDE	2009	kg					1918					
+17	Illinois	BENSULIDE	2010	kg					388.5					
+17	Illinois	BENSULIDE	2011	kg					421.2					
+17	Illinois	BENSULIDE	2013	kg					352.8					
+17	Illinois	BENSULIDE	2014	kg					326.4					
+17	Illinois	BENSULIDE	2016	kg					59.3					
+17	Illinois	BENSULIDE	2017	kg					5495.1					
+18	Indiana	BENSULIDE	1992	kg					27114.1					
+18	Indiana	BENSULIDE	1993	kg					9907.9					
+18	Indiana	BENSULIDE	1994	kg					9034.4					
+18	Indiana	BENSULIDE	1995	kg					7538.5					
+18	Indiana	BENSULIDE	1996	kg					9055.1					
+18	Indiana	BENSULIDE	1997	kg					22067.6					
+18	Indiana	BENSULIDE	1998	kg					10074.7					
+18	Indiana	BENSULIDE	1999	kg					2951.1					
+18	Indiana	BENSULIDE	2000	kg					3039.6					
+18	Indiana	BENSULIDE	2001	kg					3745.7					
+18	Indiana	BENSULIDE	2002	kg					4340.5					
+18	Indiana	BENSULIDE	2003	kg					1131.9					
+18	Indiana	BENSULIDE	2004	kg					2710.2					
+18	Indiana	BENSULIDE	2005	kg					1191					
+18	Indiana	BENSULIDE	2006	kg					5016.4					
+18	Indiana	BENSULIDE	2007	kg					5937.9					
+18	Indiana	BENSULIDE	2009	kg					3350.8					
+18	Indiana	BENSULIDE	2010	kg					1485.6					
+18	Indiana	BENSULIDE	2011	kg					1634.7					
+18	Indiana	BENSULIDE	2013	kg					1658.3					
+18	Indiana	BENSULIDE	2014	kg					3699.4					
+18	Indiana	BENSULIDE	2016	kg					946.1					
+18	Indiana	BENSULIDE	2017	kg					865.3					
+19	Iowa	BENSULIDE	1992	kg					1902					
+19	Iowa	BENSULIDE	1993	kg					891.4					
+19	Iowa	BENSULIDE	1994	kg		169991.1			1110.5					
+19	Iowa	BENSULIDE	1995	kg					465.5		25.2			
+19	Iowa	BENSULIDE	1996	kg					231.5					
+19	Iowa	BENSULIDE	1997	kg					1416.1					
+19	Iowa	BENSULIDE	1998	kg					966.6					
+19	Iowa	BENSULIDE	1999	kg					496.6					
+19	Iowa	BENSULIDE	2000	kg					628					
+19	Iowa	BENSULIDE	2001	kg					802.3					
+19	Iowa	BENSULIDE	2002	kg					459					
+19	Iowa	BENSULIDE	2003	kg					37.7					
+19	Iowa	BENSULIDE	2004	kg					352.7					
+19	Iowa	BENSULIDE	2006	kg					626.8					
+19	Iowa	BENSULIDE	2007	kg					225.2					
+19	Iowa	BENSULIDE	2011	kg					96.1					
+20	Kansas	BENSULIDE	1993	kg					26.8				68.5	
+20	Kansas	BENSULIDE	1994	kg					65.3					
+20	Kansas	BENSULIDE	1995	kg					7.2					
+20	Kansas	BENSULIDE	1997	kg					109.1					
+20	Kansas	BENSULIDE	1998	kg					65.2					
+20	Kansas	BENSULIDE	2000	kg					171.8					
+20	Kansas	BENSULIDE	2001	kg					113.8					
+20	Kansas	BENSULIDE	2002	kg					80.6					
+20	Kansas	BENSULIDE	2004	kg					55					
+20	Kansas	BENSULIDE	2007	kg					7.7					
+21	Kentucky	BENSULIDE	1992	kg					1598.4					
+21	Kentucky	BENSULIDE	1993	kg					1266.8					
+21	Kentucky	BENSULIDE	1994	kg					621.5					
+21	Kentucky	BENSULIDE	1995	kg					730.1					
+21	Kentucky	BENSULIDE	1996	kg					707.2					
+21	Kentucky	BENSULIDE	1997	kg					2585.2					
+21	Kentucky	BENSULIDE	1998	kg					744.9					
+21	Kentucky	BENSULIDE	1999	kg					145.9					
+21	Kentucky	BENSULIDE	2000	kg					186.1					
+21	Kentucky	BENSULIDE	2001	kg					432.9					
+21	Kentucky	BENSULIDE	2002	kg					343					
+21	Kentucky	BENSULIDE	2003	kg					208.1					
+21	Kentucky	BENSULIDE	2004	kg					198.3					
+21	Kentucky	BENSULIDE	2005	kg					487					
+21	Kentucky	BENSULIDE	2006	kg					962.7					
+21	Kentucky	BENSULIDE	2007	kg					995					
+21	Kentucky	BENSULIDE	2008	kg					163.3					
+21	Kentucky	BENSULIDE	2009	kg					375.6					
+21	Kentucky	BENSULIDE	2010	kg					764.8					
+21	Kentucky	BENSULIDE	2011	kg					228.7					
+21	Kentucky	BENSULIDE	2013	kg					612.5					
+21	Kentucky	BENSULIDE	2014	kg					675.5					
+21	Kentucky	BENSULIDE	2016	kg					86.1					
+21	Kentucky	BENSULIDE	2017	kg					85.2					
+22	Louisiana	BENSULIDE	1993	kg					4167.2					
+22	Louisiana	BENSULIDE	1994	kg					1					
+22	Louisiana	BENSULIDE	1995	kg					16.1					
+22	Louisiana	BENSULIDE	1996	kg					25.2					
+22	Louisiana	BENSULIDE	1997	kg					60.7					
+22	Louisiana	BENSULIDE	2001	kg					21.2					
+22	Louisiana	BENSULIDE	2002	kg					14.3					
+22	Louisiana	BENSULIDE	2006	kg					15.6					
+22	Louisiana	BENSULIDE	2007	kg					82.8					
+22	Louisiana	BENSULIDE	2008	kg					11.8					
+22	Louisiana	BENSULIDE	2009	kg					69.6					
+22	Louisiana	BENSULIDE	2010	kg					1.1					
+24	Maryland	BENSULIDE	1992	kg					2721.6					
+24	Maryland	BENSULIDE	1993	kg					15967.1					
+24	Maryland	BENSULIDE	1994	kg					195.1					
+24	Maryland	BENSULIDE	1995	kg					8053.7					
+24	Maryland	BENSULIDE	1996	kg					10594.3					
+24	Maryland	BENSULIDE	1997	kg					6438.2					
+24	Maryland	BENSULIDE	1998	kg					1582.8					
+24	Maryland	BENSULIDE	1999	kg					1151.4					
+24	Maryland	BENSULIDE	2000	kg					1520.4					
+24	Maryland	BENSULIDE	2001	kg					1018.3					
+24	Maryland	BENSULIDE	2002	kg					489.2					
+24	Maryland	BENSULIDE	2003	kg					268.2					
+24	Maryland	BENSULIDE	2004	kg					569.6					
+24	Maryland	BENSULIDE	2005	kg					2934					
+24	Maryland	BENSULIDE	2006	kg					120.4					
+24	Maryland	BENSULIDE	2007	kg					179.5					
+24	Maryland	BENSULIDE	2008	kg					1958.6					
+24	Maryland	BENSULIDE	2009	kg					421.1					
+24	Maryland	BENSULIDE	2011	kg					73.9					
+24	Maryland	BENSULIDE	2013	kg					86.9					
+24	Maryland	BENSULIDE	2014	kg					1995.6					
+24	Maryland	BENSULIDE	2015	kg					1255.1					
+25	Massachusetts	BENSULIDE	1992	kg					617.6					
+25	Massachusetts	BENSULIDE	1993	kg					35135.9					
+25	Massachusetts	BENSULIDE	1994	kg					4126					
+25	Massachusetts	BENSULIDE	1995	kg					2667					
+25	Massachusetts	BENSULIDE	1996	kg					377.2					
+25	Massachusetts	BENSULIDE	1997	kg					47.6					
+25	Massachusetts	BENSULIDE	1998	kg					655.9					
+25	Massachusetts	BENSULIDE	1999	kg					679.4					
+25	Massachusetts	BENSULIDE	2000	kg					1267.5					
+25	Massachusetts	BENSULIDE	2001	kg					2973.3					
+25	Massachusetts	BENSULIDE	2002	kg					1981.6					
+25	Massachusetts	BENSULIDE	2003	kg					1067.1					
+25	Massachusetts	BENSULIDE	2004	kg					10.9					
+25	Massachusetts	BENSULIDE	2005	kg					896.6					
+25	Massachusetts	BENSULIDE	2006	kg					3786.5					
+25	Massachusetts	BENSULIDE	2007	kg					712.5					
+25	Massachusetts	BENSULIDE	2008	kg					243.6					
+26	Michigan	BENSULIDE	1992	kg					17801.2					
+26	Michigan	BENSULIDE	1993	kg					10944.8					
+26	Michigan	BENSULIDE	1994	kg					41955.5					
+26	Michigan	BENSULIDE	1995	kg					7742.2					
+26	Michigan	BENSULIDE	1996	kg					2989.9					
+26	Michigan	BENSULIDE	1997	kg					20030.1					
+26	Michigan	BENSULIDE	1998	kg					32586					
+26	Michigan	BENSULIDE	1999	kg					6955.6					
+26	Michigan	BENSULIDE	2000	kg					1731.7					
+26	Michigan	BENSULIDE	2001	kg					37807.3					
+26	Michigan	BENSULIDE	2002	kg					10980.5					
+26	Michigan	BENSULIDE	2003	kg					11887					
+26	Michigan	BENSULIDE	2004	kg					3701.7					
+26	Michigan	BENSULIDE	2005	kg					296.6					
+26	Michigan	BENSULIDE	2006	kg					6671.7					
+26	Michigan	BENSULIDE	2007	kg					851					
+26	Michigan	BENSULIDE	2009	kg					6837.8					
+26	Michigan	BENSULIDE	2011	kg					936.5					
+27	Minnesota	BENSULIDE	1992	kg					612.8					
+27	Minnesota	BENSULIDE	1993	kg					1725.6					
+27	Minnesota	BENSULIDE	1994	kg		76289.4			1518.1					
+27	Minnesota	BENSULIDE	1995	kg					2449.9					
+27	Minnesota	BENSULIDE	1996	kg					253.7					
+27	Minnesota	BENSULIDE	1997	kg					1715.4					
+27	Minnesota	BENSULIDE	1998	kg					3434.3					
+27	Minnesota	BENSULIDE	1999	kg					739.3					
+27	Minnesota	BENSULIDE	2000	kg					271.2					
+27	Minnesota	BENSULIDE	2001	kg					2131.5					
+27	Minnesota	BENSULIDE	2002	kg					1234.8					
+27	Minnesota	BENSULIDE	2003	kg					2521.9					
+27	Minnesota	BENSULIDE	2004	kg					2807.3					
+27	Minnesota	BENSULIDE	2005	kg					50.6					
+27	Minnesota	BENSULIDE	2006	kg					1965.3					
+27	Minnesota	BENSULIDE	2007	kg					756.4					
+27	Minnesota	BENSULIDE	2011	kg					172.8					
+27	Minnesota	BENSULIDE	2017	kg					1479.1					
+28	Mississippi	BENSULIDE	1993	kg					68.1					
+28	Mississippi	BENSULIDE	1995	kg					34.8					
+28	Mississippi	BENSULIDE	1996	kg					50.6					
+28	Mississippi	BENSULIDE	1997	kg					150.3					
+28	Mississippi	BENSULIDE	2005	kg					220.9					
+28	Mississippi	BENSULIDE	2006	kg					342.3					
+29	Missouri	BENSULIDE	1992	kg					2506.6					
+29	Missouri	BENSULIDE	1993	kg					1628					
+29	Missouri	BENSULIDE	1994	kg					1954.1					
+29	Missouri	BENSULIDE	1995	kg					672.6					
+29	Missouri	BENSULIDE	1996	kg					1197.4					
+29	Missouri	BENSULIDE	1997	kg					1703.3					
+29	Missouri	BENSULIDE	1998	kg					1869					
+29	Missouri	BENSULIDE	1999	kg					1336.9					
+29	Missouri	BENSULIDE	2000	kg					4043.4					
+29	Missouri	BENSULIDE	2001	kg					4181.9					
+29	Missouri	BENSULIDE	2002	kg					881.9					
+29	Missouri	BENSULIDE	2003	kg					72.6					
+29	Missouri	BENSULIDE	2004	kg					635.2					
+29	Missouri	BENSULIDE	2005	kg					691.7					
+29	Missouri	BENSULIDE	2006	kg					2314.5					
+29	Missouri	BENSULIDE	2007	kg					486.4					
+29	Missouri	BENSULIDE	2008	kg					1895.5					
+29	Missouri	BENSULIDE	2009	kg					7293.5					
+31	Nebraska	BENSULIDE	1992	kg					1069.6					
+31	Nebraska	BENSULIDE	1993	kg					119.5				34.7	
+31	Nebraska	BENSULIDE	1994	kg					597.4					
+31	Nebraska	BENSULIDE	1995	kg					166.2					
+31	Nebraska	BENSULIDE	1996	kg					117.4					
+31	Nebraska	BENSULIDE	1997	kg					605.2					
+31	Nebraska	BENSULIDE	1998	kg					320.9					
+31	Nebraska	BENSULIDE	1999	kg					347.6					
+31	Nebraska	BENSULIDE	2000	kg					59.7					
+31	Nebraska	BENSULIDE	2001	kg					44.4					
+31	Nebraska	BENSULIDE	2002	kg					35.8					
+31	Nebraska	BENSULIDE	2004	kg					24.5					
+31	Nebraska	BENSULIDE	2006	kg					122.9					
+32	Nevada	BENSULIDE	1992	kg					0.2					
+32	Nevada	BENSULIDE	1993	kg					10.1					
+32	Nevada	BENSULIDE	1994	kg					93.1					
+32	Nevada	BENSULIDE	1995	kg					4.1					
+32	Nevada	BENSULIDE	1996	kg					1176.2					
+32	Nevada	BENSULIDE	1997	kg					0.3					
+32	Nevada	BENSULIDE	1998	kg					102.3					
+32	Nevada	BENSULIDE	1999	kg					130.8					
+32	Nevada	BENSULIDE	2000	kg					48.3					
+32	Nevada	BENSULIDE	2001	kg					1227.1					
+32	Nevada	BENSULIDE	2002	kg					163.5					
+32	Nevada	BENSULIDE	2003	kg					117.3					
+32	Nevada	BENSULIDE	2006	kg					180.2					
+32	Nevada	BENSULIDE	2008	kg					148.9					
+32	Nevada	BENSULIDE	2009	kg					159.2					
+32	Nevada	BENSULIDE	2010	kg					66					
+32	Nevada	BENSULIDE	2011	kg					251					
+32	Nevada	BENSULIDE	2012	kg					193.1					
+32	Nevada	BENSULIDE	2013	kg					92.5					
+32	Nevada	BENSULIDE	2014	kg					96.3					
+32	Nevada	BENSULIDE	2015	kg					56.1					
+32	Nevada	BENSULIDE	2016	kg					132.2					
+32	Nevada	BENSULIDE	2017	kg					246.2					
+33	New Hampshire	BENSULIDE	1992	kg					43.6					
+33	New Hampshire	BENSULIDE	1993	kg					5036.7					
+33	New Hampshire	BENSULIDE	1994	kg					430.5					
+33	New Hampshire	BENSULIDE	1995	kg					436.2					
+33	New Hampshire	BENSULIDE	1996	kg					66.5					
+33	New Hampshire	BENSULIDE	1997	kg					8.9					
+33	New Hampshire	BENSULIDE	1998	kg					122.7					
+33	New Hampshire	BENSULIDE	1999	kg					127.6					
+33	New Hampshire	BENSULIDE	2000	kg					206.5					
+33	New Hampshire	BENSULIDE	2001	kg					564.4					
+33	New Hampshire	BENSULIDE	2002	kg					378.1					
+33	New Hampshire	BENSULIDE	2003	kg					207.3					
+33	New Hampshire	BENSULIDE	2004	kg					2.1					
+33	New Hampshire	BENSULIDE	2005	kg					181					
+33	New Hampshire	BENSULIDE	2006	kg					780.6					
+33	New Hampshire	BENSULIDE	2007	kg					150.5					
+33	New Hampshire	BENSULIDE	2008	kg					27.5					
+34	New Jersey	BENSULIDE	1992	kg					1379					
+34	New Jersey	BENSULIDE	1993	kg					3174.6					
+34	New Jersey	BENSULIDE	1994	kg					433.7					
+34	New Jersey	BENSULIDE	1995	kg					2523.1					
+34	New Jersey	BENSULIDE	1996	kg					1572.3					
+34	New Jersey	BENSULIDE	1997	kg					8074					
+34	New Jersey	BENSULIDE	1998	kg					1507.1					
+34	New Jersey	BENSULIDE	1999	kg					6627.2					
+34	New Jersey	BENSULIDE	2000	kg					7783.5					
+34	New Jersey	BENSULIDE	2001	kg					16788.5					
+34	New Jersey	BENSULIDE	2002	kg					6456.8					
+34	New Jersey	BENSULIDE	2003	kg					4573.6					
+34	New Jersey	BENSULIDE	2004	kg					4122.3					
+34	New Jersey	BENSULIDE	2005	kg					3718.1					
+34	New Jersey	BENSULIDE	2006	kg					2531.5					
+34	New Jersey	BENSULIDE	2007	kg					1685.4					
+34	New Jersey	BENSULIDE	2008	kg					153.3					
+34	New Jersey	BENSULIDE	2010	kg					3617.5					
+34	New Jersey	BENSULIDE	2011	kg					6579.9					
+34	New Jersey	BENSULIDE	2012	kg					228.1					
+34	New Jersey	BENSULIDE	2013	kg					1809.4					
+34	New Jersey	BENSULIDE	2015	kg					2178					
+35	New Mexico	BENSULIDE	1992	kg					269.5			1909.3		
+35	New Mexico	BENSULIDE	1993	kg					336.1					
+35	New Mexico	BENSULIDE	1994	kg					577.3					
+35	New Mexico	BENSULIDE	1995	kg					1253.5					
+35	New Mexico	BENSULIDE	1996	kg					794.9					
+35	New Mexico	BENSULIDE	1997	kg					820.6					
+35	New Mexico	BENSULIDE	1998	kg					4374.5					
+35	New Mexico	BENSULIDE	1999	kg					1514.2					
+35	New Mexico	BENSULIDE	2000	kg					1241.4					
+35	New Mexico	BENSULIDE	2001	kg					13560.7					
+35	New Mexico	BENSULIDE	2002	kg					10146.5					
+35	New Mexico	BENSULIDE	2003	kg					4086.5					
+35	New Mexico	BENSULIDE	2004	kg					7367.3					
+35	New Mexico	BENSULIDE	2005	kg					2325.3					
+35	New Mexico	BENSULIDE	2006	kg					1847.1					
+35	New Mexico	BENSULIDE	2007	kg					2562.8					
+35	New Mexico	BENSULIDE	2008	kg					1335					
+35	New Mexico	BENSULIDE	2009	kg					9960.5					
+35	New Mexico	BENSULIDE	2010	kg					5238.1					
+35	New Mexico	BENSULIDE	2011	kg					1254.7					
+35	New Mexico	BENSULIDE	2012	kg					1169.2					
+35	New Mexico	BENSULIDE	2013	kg					218.2					
+35	New Mexico	BENSULIDE	2014	kg					238.4					
+35	New Mexico	BENSULIDE	2015	kg					55.5					
+35	New Mexico	BENSULIDE	2016	kg					1071.4					
+35	New Mexico	BENSULIDE	2017	kg					257.2					
+36	New York	BENSULIDE	1992	kg					4340.2					
+36	New York	BENSULIDE	1993	kg					26367					
+36	New York	BENSULIDE	1994	kg					907					
+36	New York	BENSULIDE	1995	kg					2018.7					
+36	New York	BENSULIDE	1996	kg					4842.3					
+36	New York	BENSULIDE	1997	kg					4663.4					
+36	New York	BENSULIDE	1998	kg					909.3					
+36	New York	BENSULIDE	1999	kg					1763.1					
+36	New York	BENSULIDE	2000	kg					4642					
+36	New York	BENSULIDE	2001	kg					1191.6					
+36	New York	BENSULIDE	2002	kg					5155					
+36	New York	BENSULIDE	2003	kg					2651					
+36	New York	BENSULIDE	2004	kg					1283.8					
+36	New York	BENSULIDE	2005	kg					4194.8					
+36	New York	BENSULIDE	2006	kg					10413.2					
+36	New York	BENSULIDE	2007	kg					4299.1					
+36	New York	BENSULIDE	2008	kg					88					
+36	New York	BENSULIDE	2009	kg					127					
+37	North Carolina	BENSULIDE	1992	kg					9922.8					
+37	North Carolina	BENSULIDE	1993	kg					10108.7					
+37	North Carolina	BENSULIDE	1994	kg					33435.8					
+37	North Carolina	BENSULIDE	1995	kg					3389.6					
+37	North Carolina	BENSULIDE	1996	kg					14359.7					
+37	North Carolina	BENSULIDE	1997	kg					3171.4					
+37	North Carolina	BENSULIDE	1998	kg					1018.5					
+37	North Carolina	BENSULIDE	1999	kg					2692.9					
+37	North Carolina	BENSULIDE	2000	kg					4657.2					
+37	North Carolina	BENSULIDE	2001	kg					1204.2					
+37	North Carolina	BENSULIDE	2003	kg					532.3					
+37	North Carolina	BENSULIDE	2004	kg					1256.8					
+37	North Carolina	BENSULIDE	2005	kg					232.3					
+37	North Carolina	BENSULIDE	2006	kg					699.4					
+37	North Carolina	BENSULIDE	2007	kg					28.3					
+37	North Carolina	BENSULIDE	2009	kg					10408.9					
+37	North Carolina	BENSULIDE	2010	kg					8252.3					
+37	North Carolina	BENSULIDE	2012	kg					1648.2					
+37	North Carolina	BENSULIDE	2014	kg					2605.5					
+39	Ohio	BENSULIDE	1992	kg					5968.1					
+39	Ohio	BENSULIDE	1993	kg					1773.8					
+39	Ohio	BENSULIDE	1994	kg					3432.4					
+39	Ohio	BENSULIDE	1995	kg					4399					
+39	Ohio	BENSULIDE	1996	kg					1429.8					
+39	Ohio	BENSULIDE	1997	kg					8277.4					
+39	Ohio	BENSULIDE	1998	kg					3128.8					
+39	Ohio	BENSULIDE	1999	kg					1873.3					
+39	Ohio	BENSULIDE	2000	kg					2274.5					
+39	Ohio	BENSULIDE	2001	kg					5073.2					
+39	Ohio	BENSULIDE	2002	kg					2191.6					
+39	Ohio	BENSULIDE	2003	kg					425.8					
+39	Ohio	BENSULIDE	2004	kg					4255.8					
+39	Ohio	BENSULIDE	2005	kg					428.6					
+39	Ohio	BENSULIDE	2006	kg					1395.6					
+39	Ohio	BENSULIDE	2007	kg					1147.5					
+39	Ohio	BENSULIDE	2011	kg					5552.3					
+39	Ohio	BENSULIDE	2014	kg					2795.7					
+40	Oklahoma	BENSULIDE	1992	kg								274.4		
+40	Oklahoma	BENSULIDE	1993	kg					2319.5					
+40	Oklahoma	BENSULIDE	1994	kg					315.2					
+40	Oklahoma	BENSULIDE	1997	kg					780					
+40	Oklahoma	BENSULIDE	1998	kg					80.3					
+40	Oklahoma	BENSULIDE	1999	kg					901.6					
+40	Oklahoma	BENSULIDE	2001	kg					119.1					
+40	Oklahoma	BENSULIDE	2002	kg					109.1					
+40	Oklahoma	BENSULIDE	2004	kg					23.5					
+40	Oklahoma	BENSULIDE	2007	kg					442.9					
+41	Oregon	BENSULIDE	1992	kg					4488.9					49.5
+41	Oregon	BENSULIDE	1993	kg					3228.5					
+41	Oregon	BENSULIDE	1994	kg					2079.9					
+41	Oregon	BENSULIDE	1995	kg					419.5					
+41	Oregon	BENSULIDE	1996	kg					14274.1					
+41	Oregon	BENSULIDE	1997	kg					53.7					
+41	Oregon	BENSULIDE	1998	kg					1241.4					
+41	Oregon	BENSULIDE	1999	kg					4512					
+41	Oregon	BENSULIDE	2000	kg					4425.9					
+41	Oregon	BENSULIDE	2001	kg					14467.6					
+41	Oregon	BENSULIDE	2002	kg					885					
+41	Oregon	BENSULIDE	2003	kg					1481.9					
+41	Oregon	BENSULIDE	2004	kg					88					
+41	Oregon	BENSULIDE	2006	kg					1578.6					
+41	Oregon	BENSULIDE	2007	kg					18.1					
+41	Oregon	BENSULIDE	2008	kg					38.4					
+42	Pennsylvania	BENSULIDE	1992	kg					2629.3					
+42	Pennsylvania	BENSULIDE	1993	kg					2369.8					
+42	Pennsylvania	BENSULIDE	1994	kg					916.3					
+42	Pennsylvania	BENSULIDE	1995	kg					3103					
+42	Pennsylvania	BENSULIDE	1996	kg					797.1					
+42	Pennsylvania	BENSULIDE	1997	kg					4688.3					
+42	Pennsylvania	BENSULIDE	1998	kg					1878.9					
+42	Pennsylvania	BENSULIDE	1999	kg					1267					
+42	Pennsylvania	BENSULIDE	2000	kg					2049.9					
+42	Pennsylvania	BENSULIDE	2001	kg					4678.3					
+42	Pennsylvania	BENSULIDE	2002	kg					2973.5					
+42	Pennsylvania	BENSULIDE	2003	kg					3210.1					
+42	Pennsylvania	BENSULIDE	2004	kg					2786.3					
+42	Pennsylvania	BENSULIDE	2005	kg					3356					
+42	Pennsylvania	BENSULIDE	2006	kg					8802.7					
+42	Pennsylvania	BENSULIDE	2007	kg					1229.9					
+42	Pennsylvania	BENSULIDE	2008	kg					4428.2					
+42	Pennsylvania	BENSULIDE	2009	kg					658.8					
+42	Pennsylvania	BENSULIDE	2010	kg					282.8					
+42	Pennsylvania	BENSULIDE	2011	kg					1271.3					
+42	Pennsylvania	BENSULIDE	2012	kg					15.2					
+42	Pennsylvania	BENSULIDE	2013	kg					1291.1					
+42	Pennsylvania	BENSULIDE	2014	kg					3760.3					
+42	Pennsylvania	BENSULIDE	2015	kg					1573.5					
+42	Pennsylvania	BENSULIDE	2016	kg					1433.4					
+44	Rhode Island	BENSULIDE	1992	kg					23.5					
+44	Rhode Island	BENSULIDE	1993	kg					2358.8					
+44	Rhode Island	BENSULIDE	1994	kg					228.4					
+44	Rhode Island	BENSULIDE	1995	kg					230.7					
+44	Rhode Island	BENSULIDE	1996	kg					99.3					
+44	Rhode Island	BENSULIDE	1997	kg					4.7					
+44	Rhode Island	BENSULIDE	1998	kg					64.2					
+44	Rhode Island	BENSULIDE	1999	kg					66.6					
+44	Rhode Island	BENSULIDE	2000	kg					107.2					
+44	Rhode Island	BENSULIDE	2001	kg					291.7					
+44	Rhode Island	BENSULIDE	2002	kg					194.7					
+44	Rhode Island	BENSULIDE	2003	kg					106.4					
+44	Rhode Island	BENSULIDE	2004	kg					1.1					
+44	Rhode Island	BENSULIDE	2005	kg					92.4					
+44	Rhode Island	BENSULIDE	2006	kg					398					
+44	Rhode Island	BENSULIDE	2007	kg					76.5					
+44	Rhode Island	BENSULIDE	2008	kg					22.6					
+45	South Carolina	BENSULIDE	1992	kg					3003.7					
+45	South Carolina	BENSULIDE	1993	kg					5467					
+45	South Carolina	BENSULIDE	1995	kg					1324.9					
+45	South Carolina	BENSULIDE	1996	kg					4312.6					
+45	South Carolina	BENSULIDE	1997	kg					1189.5					
+45	South Carolina	BENSULIDE	1998	kg					1102.5					
+45	South Carolina	BENSULIDE	1999	kg					3825.9					
+45	South Carolina	BENSULIDE	2000	kg					30177.7					
+45	South Carolina	BENSULIDE	2001	kg					1012.1					
+45	South Carolina	BENSULIDE	2002	kg					893.6					
+45	South Carolina	BENSULIDE	2003	kg					13					
+45	South Carolina	BENSULIDE	2004	kg					442.8					
+45	South Carolina	BENSULIDE	2005	kg					1028.3					
+45	South Carolina	BENSULIDE	2006	kg					831.9					
+45	South Carolina	BENSULIDE	2012	kg					31.3					
+45	South Carolina	BENSULIDE	2013	kg					157.6					
+45	South Carolina	BENSULIDE	2014	kg					3719.8					
+46	South Dakota	BENSULIDE	1992	kg					2.6					
+46	South Dakota	BENSULIDE	1993	kg					0.3					
+46	South Dakota	BENSULIDE	1994	kg					1.5					
+46	South Dakota	BENSULIDE	1995	kg					0.5					
+46	South Dakota	BENSULIDE	1996	kg					0.3					
+46	South Dakota	BENSULIDE	1997	kg					1.6					
+46	South Dakota	BENSULIDE	1998	kg					0.8					
+46	South Dakota	BENSULIDE	1999	kg					0.9					
+46	South Dakota	BENSULIDE	2006	kg					0.4					
+47	Tennessee	BENSULIDE	1992	kg					1072.7					
+47	Tennessee	BENSULIDE	1993	kg					2156					
+47	Tennessee	BENSULIDE	1994	kg					1446.4					
+47	Tennessee	BENSULIDE	1995	kg					1358.1					
+47	Tennessee	BENSULIDE	1996	kg					868.2					
+47	Tennessee	BENSULIDE	1997	kg					2324.1					
+47	Tennessee	BENSULIDE	1998	kg					1301.7					
+47	Tennessee	BENSULIDE	1999	kg					11.7					
+47	Tennessee	BENSULIDE	2000	kg					32.8					
+47	Tennessee	BENSULIDE	2003	kg					665.7					
+47	Tennessee	BENSULIDE	2005	kg					3021.4					
+47	Tennessee	BENSULIDE	2006	kg					4416.1					
+47	Tennessee	BENSULIDE	2007	kg					83.7					
+47	Tennessee	BENSULIDE	2008	kg					1653.4					
+47	Tennessee	BENSULIDE	2010	kg					2068.1					
+47	Tennessee	BENSULIDE	2012	kg					6.8					
+48	Texas	BENSULIDE	1992	kg					57461.1			332.5		
+48	Texas	BENSULIDE	1993	kg					66777					
+48	Texas	BENSULIDE	1994	kg					70000.8					
+48	Texas	BENSULIDE	1995	kg					42900.5					
+48	Texas	BENSULIDE	1996	kg					44955.8					
+48	Texas	BENSULIDE	1997	kg					78814.4					
+48	Texas	BENSULIDE	1998	kg					46449.3					
+48	Texas	BENSULIDE	1999	kg					81151.6					
+48	Texas	BENSULIDE	2000	kg					58858.6					
+48	Texas	BENSULIDE	2001	kg					56419.8					
+48	Texas	BENSULIDE	2002	kg					64446.6					
+48	Texas	BENSULIDE	2003	kg					52442.6					
+48	Texas	BENSULIDE	2004	kg					26614.8					
+48	Texas	BENSULIDE	2005	kg					62286.2					
+48	Texas	BENSULIDE	2006	kg					30647.3					
+48	Texas	BENSULIDE	2007	kg					21876.4					
+48	Texas	BENSULIDE	2008	kg					36037.1					
+48	Texas	BENSULIDE	2009	kg					23130.1					
+48	Texas	BENSULIDE	2010	kg					12810.6					
+48	Texas	BENSULIDE	2011	kg					16464.2					
+48	Texas	BENSULIDE	2012	kg					7810.9					
+48	Texas	BENSULIDE	2013	kg					12323.4					
+48	Texas	BENSULIDE	2014	kg					9729.3					
+48	Texas	BENSULIDE	2015	kg					9690.9					
+48	Texas	BENSULIDE	2016	kg					26238.8					
+48	Texas	BENSULIDE	2017	kg					1329.4					
+49	Utah	BENSULIDE	1993	kg					344.6					
+49	Utah	BENSULIDE	1995	kg					31.8					
+49	Utah	BENSULIDE	1996	kg					148.7					
+49	Utah	BENSULIDE	1998	kg					1.2					
+49	Utah	BENSULIDE	1999	kg					204.3					
+49	Utah	BENSULIDE	2000	kg					304.9					
+49	Utah	BENSULIDE	2002	kg					1258.1					
+50	Vermont	BENSULIDE	1992	kg					269					
+50	Vermont	BENSULIDE	1993	kg					3405.6					
+50	Vermont	BENSULIDE	1994	kg					194.6					
+50	Vermont	BENSULIDE	1995	kg					308.5					
+50	Vermont	BENSULIDE	1996	kg					42.5					
+50	Vermont	BENSULIDE	1997	kg					5.3					
+50	Vermont	BENSULIDE	1998	kg					76.2					
+50	Vermont	BENSULIDE	1999	kg					81.8					
+50	Vermont	BENSULIDE	2000	kg					136.3					
+50	Vermont	BENSULIDE	2001	kg					383.8					
+50	Vermont	BENSULIDE	2002	kg					264.7					
+50	Vermont	BENSULIDE	2003	kg					147.4					
+50	Vermont	BENSULIDE	2004	kg					1.4					
+50	Vermont	BENSULIDE	2005	kg					132.8					
+50	Vermont	BENSULIDE	2006	kg					583.2					
+50	Vermont	BENSULIDE	2007	kg					623.4					
+50	Vermont	BENSULIDE	2008	kg					28.4					
+51	Virginia	BENSULIDE	1992	kg					926.3					
+51	Virginia	BENSULIDE	1993	kg					489.3					
+51	Virginia	BENSULIDE	1995	kg					886.7					
+51	Virginia	BENSULIDE	1996	kg					1207					
+51	Virginia	BENSULIDE	1997	kg					2198.4					
+51	Virginia	BENSULIDE	1998	kg					117.5					
+51	Virginia	BENSULIDE	1999	kg					85.3					
+51	Virginia	BENSULIDE	2000	kg					954					
+51	Virginia	BENSULIDE	2001	kg					48.5					
+51	Virginia	BENSULIDE	2004	kg					303					
+51	Virginia	BENSULIDE	2005	kg					210.7					
+51	Virginia	BENSULIDE	2008	kg					311.3					
+51	Virginia	BENSULIDE	2009	kg					959.6					
+51	Virginia	BENSULIDE	2010	kg					1745.1					
+51	Virginia	BENSULIDE	2012	kg					78.2					
+51	Virginia	BENSULIDE	2013	kg					15.7					
+51	Virginia	BENSULIDE	2014	kg					868.6					
+51	Virginia	BENSULIDE	2015	kg					8.2					
+53	Washington	BENSULIDE	1995	kg					208.2					
+53	Washington	BENSULIDE	1996	kg					31.6					
+53	Washington	BENSULIDE	1997	kg					652.7					
+53	Washington	BENSULIDE	1998	kg					187.3					
+53	Washington	BENSULIDE	1999	kg					2026.2					
+53	Washington	BENSULIDE	2000	kg					3614.3					
+53	Washington	BENSULIDE	2001	kg					2324.8					
+53	Washington	BENSULIDE	2002	kg					12570.1					
+53	Washington	BENSULIDE	2003	kg					132.4					
+53	Washington	BENSULIDE	2004	kg					5864.7					
+53	Washington	BENSULIDE	2005	kg					6338.5					
+53	Washington	BENSULIDE	2006	kg					8547.7					
+53	Washington	BENSULIDE	2007	kg					11.2					
+53	Washington	BENSULIDE	2008	kg					1170.6					
+53	Washington	BENSULIDE	2009	kg					808.2					
+53	Washington	BENSULIDE	2010	kg					4890.2					
+53	Washington	BENSULIDE	2011	kg					3227.2					
+54	West Virginia	BENSULIDE	1992	kg					96.8					
+54	West Virginia	BENSULIDE	1993	kg					68.1					
+54	West Virginia	BENSULIDE	1994	kg					67.7					
+54	West Virginia	BENSULIDE	1995	kg					161					
+54	West Virginia	BENSULIDE	1996	kg					75.3					
+54	West Virginia	BENSULIDE	1997	kg					733.3					
+54	West Virginia	BENSULIDE	1998	kg					124.6					
+54	West Virginia	BENSULIDE	2002	kg					1.8					
+54	West Virginia	BENSULIDE	2003	kg					60.5					
+54	West Virginia	BENSULIDE	2004	kg					41.5					
+54	West Virginia	BENSULIDE	2005	kg					174.8					
+54	West Virginia	BENSULIDE	2006	kg					198.6					
+54	West Virginia	BENSULIDE	2007	kg					12.9					
+54	West Virginia	BENSULIDE	2008	kg					155.2					
+54	West Virginia	BENSULIDE	2009	kg					23.5					
+54	West Virginia	BENSULIDE	2013	kg					4.6					
+54	West Virginia	BENSULIDE	2014	kg					203.6					
+54	West Virginia	BENSULIDE	2015	kg					4.2					
+55	Wisconsin	BENSULIDE	1992	kg					13047.8					
+55	Wisconsin	BENSULIDE	1993	kg					4190.9					
+55	Wisconsin	BENSULIDE	1994	kg		40332.1			8217.2					
+55	Wisconsin	BENSULIDE	1995	kg	117919.5				4178		92.6			
+55	Wisconsin	BENSULIDE	1996	kg					15080.9					
+55	Wisconsin	BENSULIDE	1997	kg					3043.5					
+55	Wisconsin	BENSULIDE	1998	kg					14894					
+55	Wisconsin	BENSULIDE	1999	kg					4756.4					
+55	Wisconsin	BENSULIDE	2000	kg					15653.2					
+55	Wisconsin	BENSULIDE	2001	kg					5883.7					
+55	Wisconsin	BENSULIDE	2002	kg					1538.5					
+55	Wisconsin	BENSULIDE	2003	kg					3970.2					
+55	Wisconsin	BENSULIDE	2004	kg					1329.4					
+55	Wisconsin	BENSULIDE	2005	kg					501.8					
+55	Wisconsin	BENSULIDE	2006	kg					654.3					
+55	Wisconsin	BENSULIDE	2007	kg					3594.6					
+55	Wisconsin	BENSULIDE	2008	kg					1485					
+55	Wisconsin	BENSULIDE	2009	kg					1860.7					
+55	Wisconsin	BENSULIDE	2010	kg					1174.4					
+55	Wisconsin	BENSULIDE	2011	kg					713					
+55	Wisconsin	BENSULIDE	2012	kg					76.5					
+55	Wisconsin	BENSULIDE	2013	kg					4635.5					
+55	Wisconsin	BENSULIDE	2015	kg					2532.2					
+55	Wisconsin	BENSULIDE	2017	kg					15523.3					

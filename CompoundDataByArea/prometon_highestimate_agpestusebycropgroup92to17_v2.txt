@@ -1,0 +1,238 @@
+01	Alabama	PROMETON	1992	kg									62119.3	
+01	Alabama	PROMETON	1993	kg									110.3	
+01	Alabama	PROMETON	1994	kg									553.4	
+01	Alabama	PROMETON	1995	kg									2035.2	
+01	Alabama	PROMETON	1996	kg									2119.4	
+01	Alabama	PROMETON	1997	kg									1430.4	
+01	Alabama	PROMETON	2006	kg									28945.8	
+04	Arizona	PROMETON	1992	kg				4889.2						
+04	Arizona	PROMETON	1994	kg									263.9	
+04	Arizona	PROMETON	1995	kg									71.2	
+05	Arkansas	PROMETON	1992	kg									7.4	
+05	Arkansas	PROMETON	1995	kg										238.3
+05	Arkansas	PROMETON	1997	kg									2.6	
+06	California	PROMETON	1993	kg							2.1			
+06	California	PROMETON	1994	kg							0.8			
+06	California	PROMETON	1996	kg							2.6			
+06	California	PROMETON	1997	kg							2.5			
+06	California	PROMETON	1998	kg							2.5			
+06	California	PROMETON	1999	kg					0.1		0.5			
+06	California	PROMETON	2000	kg							1.1			
+06	California	PROMETON	2002	kg							0.6			
+06	California	PROMETON	2003	kg							0.1			
+06	California	PROMETON	2004	kg							0.4			
+06	California	PROMETON	2006	kg							2.2			
+06	California	PROMETON	2008	kg							0.7			
+06	California	PROMETON	2010	kg							0			
+06	California	PROMETON	2013	kg				5.4						
+06	California	PROMETON	2014	kg							0.6			
+06	California	PROMETON	2015	kg							0.1			
+06	California	PROMETON	2016	kg							0.1			
+08	Colorado	PROMETON	1992	kg									172.7	
+08	Colorado	PROMETON	1993	kg	284.9				298			158.8	102.7	
+08	Colorado	PROMETON	1994	kg									6352.4	
+08	Colorado	PROMETON	1995	kg									489	
+08	Colorado	PROMETON	1996	kg									497.8	
+08	Colorado	PROMETON	1997	kg									147.3	
+10	Delaware	PROMETON	1992	kg									3.2	
+10	Delaware	PROMETON	1993	kg									5.1	
+10	Delaware	PROMETON	1994	kg									5.2	
+10	Delaware	PROMETON	1995	kg									20.9	22
+12	Florida	PROMETON	1992	kg									192	
+12	Florida	PROMETON	1994	kg									100.7	
+12	Florida	PROMETON	1995	kg							2515.9			
+12	Florida	PROMETON	2006	kg									5439.7	
+13	Georgia	PROMETON	1992	kg									29040.8	
+13	Georgia	PROMETON	1993	kg									319.9	
+13	Georgia	PROMETON	1994	kg									469	
+13	Georgia	PROMETON	1995	kg									1889.4	
+13	Georgia	PROMETON	1996	kg									256.3	
+13	Georgia	PROMETON	1997	kg									391.3	
+16	Idaho	PROMETON	1992	kg									159.1	
+16	Idaho	PROMETON	1993	kg									195.3	30.3
+16	Idaho	PROMETON	1994	kg									97	
+16	Idaho	PROMETON	1995	kg									51.3	
+17	Illinois	PROMETON	1992	kg									686.2	
+17	Illinois	PROMETON	1993	kg									844.2	
+17	Illinois	PROMETON	1994	kg									2278.8	
+17	Illinois	PROMETON	1995	kg									1398.5	
+17	Illinois	PROMETON	1996	kg									502.5	
+17	Illinois	PROMETON	1997	kg									181.9	
+18	Indiana	PROMETON	1992	kg									1676.8	
+18	Indiana	PROMETON	1993	kg									820.5	
+18	Indiana	PROMETON	1994	kg									4427	
+18	Indiana	PROMETON	1995	kg	470.7								506.6	
+18	Indiana	PROMETON	1996	kg									181.3	870
+18	Indiana	PROMETON	1997	kg									90	
+19	Iowa	PROMETON	1992	kg									828.8	
+19	Iowa	PROMETON	1993	kg		33848.6							1856	
+19	Iowa	PROMETON	1994	kg									4410.8	
+19	Iowa	PROMETON	1995	kg									1725.9	
+19	Iowa	PROMETON	1996	kg									459.7	
+19	Iowa	PROMETON	1997	kg									1443.4	
+20	Kansas	PROMETON	1992	kg									203.1	
+20	Kansas	PROMETON	1993	kg	123.6				51.1			16.6	98.4	
+20	Kansas	PROMETON	1994	kg									6843.7	
+20	Kansas	PROMETON	1995	kg									846.1	
+20	Kansas	PROMETON	1996	kg									1593.7	
+20	Kansas	PROMETON	1997	kg									458.1	
+21	Kentucky	PROMETON	1992	kg									224.4	
+21	Kentucky	PROMETON	1993	kg									737.4	
+21	Kentucky	PROMETON	1994	kg									3886.4	
+21	Kentucky	PROMETON	1995	kg									4605.2	
+21	Kentucky	PROMETON	1996	kg	3723.3								2391.3	
+21	Kentucky	PROMETON	1997	kg									4709.6	
+22	Louisiana	PROMETON	1993	kg									7.6	
+22	Louisiana	PROMETON	1994	kg									5748.9	
+23	Maine	PROMETON	1995	kg									23.7	
+23	Maine	PROMETON	1997	kg									373.1	
+24	Maryland	PROMETON	1992	kg									30.3	
+24	Maryland	PROMETON	1993	kg									1377.4	
+24	Maryland	PROMETON	1994	kg									118.4	
+24	Maryland	PROMETON	1995	kg									604.2	
+24	Maryland	PROMETON	1996	kg									246883.7	
+24	Maryland	PROMETON	1997	kg									1257.7	
+24	Maryland	PROMETON	2011	kg									263.2	
+26	Michigan	PROMETON	1992	kg									271.2	1239.7
+26	Michigan	PROMETON	1994	kg									1224.3	679.8
+26	Michigan	PROMETON	1995	kg	1182.5								917.5	
+26	Michigan	PROMETON	1996	kg									159.6	
+26	Michigan	PROMETON	1997	kg									42.3	
+27	Minnesota	PROMETON	1992	kg									659.9	
+27	Minnesota	PROMETON	1993	kg		559.6							2066.7	
+27	Minnesota	PROMETON	1994	kg									1423.8	
+27	Minnesota	PROMETON	1995	kg									606.3	
+27	Minnesota	PROMETON	1996	kg									172.8	108.4
+27	Minnesota	PROMETON	1997	kg									880.3	145.4
+28	Mississippi	PROMETON	1992	kg									53214.8	
+28	Mississippi	PROMETON	1993	kg									4	
+28	Mississippi	PROMETON	1994	kg									727.1	
+28	Mississippi	PROMETON	1995	kg									279.2	
+28	Mississippi	PROMETON	1996	kg									1377.8	
+28	Mississippi	PROMETON	2006	kg									6573.2	
+29	Missouri	PROMETON	1992	kg									463	
+29	Missouri	PROMETON	1993	kg		8624.3							800.3	
+29	Missouri	PROMETON	1994	kg									2575.2	
+29	Missouri	PROMETON	1995	kg									715.9	226.3
+29	Missouri	PROMETON	1996	kg									284.3	60.4
+29	Missouri	PROMETON	1997	kg									70.7	
+29	Missouri	PROMETON	2004	kg									4698.1	
+29	Missouri	PROMETON	2006	kg									889.8	
+29	Missouri	PROMETON	2008	kg									263.6	
+30	Montana	PROMETON	1992	kg									365.6	
+30	Montana	PROMETON	1993	kg									63.3	
+30	Montana	PROMETON	1994	kg									15.4	
+30	Montana	PROMETON	1995	kg			2430						482.1	
+30	Montana	PROMETON	1996	kg									81.2	
+30	Montana	PROMETON	1997	kg									273	
+31	Nebraska	PROMETON	1992	kg									218.9	
+31	Nebraska	PROMETON	1993	kg	225.6				109.8			27	211.3	
+31	Nebraska	PROMETON	1994	kg									3290.4	
+31	Nebraska	PROMETON	1995	kg									482.4	
+31	Nebraska	PROMETON	1996	kg									547.4	
+31	Nebraska	PROMETON	1997	kg									263.3	
+32	Nevada	PROMETON	1992	kg									62	
+32	Nevada	PROMETON	1993	kg									62.1	
+32	Nevada	PROMETON	1994	kg									91.3	
+32	Nevada	PROMETON	1995	kg									148.8	
+34	New Jersey	PROMETON	1995	kg									249.5	260.1
+34	New Jersey	PROMETON	1997	kg									486.2	
+35	New Mexico	PROMETON	1992	kg				72.2					78.8	
+35	New Mexico	PROMETON	1993	kg									25.8	
+35	New Mexico	PROMETON	1994	kg									282.3	
+35	New Mexico	PROMETON	1995	kg									428.8	
+35	New Mexico	PROMETON	1996	kg									271	
+35	New Mexico	PROMETON	1997	kg									42.3	
+36	New York	PROMETON	1992	kg					572.8					
+36	New York	PROMETON	1995	kg									1052.6	
+36	New York	PROMETON	1997	kg									76.6	
+37	North Carolina	PROMETON	1992	kg									6558.3	
+37	North Carolina	PROMETON	1993	kg									182.7	
+37	North Carolina	PROMETON	1994	kg									2224.3	
+37	North Carolina	PROMETON	1995	kg									4236	
+37	North Carolina	PROMETON	1996	kg									184	
+37	North Carolina	PROMETON	1997	kg									358.1	
+38	North Dakota	PROMETON	1992	kg									456.6	
+38	North Dakota	PROMETON	1993	kg									35.8	
+38	North Dakota	PROMETON	1994	kg									77.4	
+38	North Dakota	PROMETON	1995	kg									598.3	
+38	North Dakota	PROMETON	1996	kg									235.9	
+38	North Dakota	PROMETON	1997	kg									523	55
+39	Ohio	PROMETON	1992	kg									469.8	
+39	Ohio	PROMETON	1993	kg									444.2	
+39	Ohio	PROMETON	1994	kg									1659.6	14.1
+39	Ohio	PROMETON	1995	kg	1771.6								518.1	
+39	Ohio	PROMETON	1996	kg	848.1								947.4	34.5
+39	Ohio	PROMETON	1997	kg									670	
+40	Oklahoma	PROMETON	1992	kg									54.3	
+40	Oklahoma	PROMETON	1993	kg									72.9	
+40	Oklahoma	PROMETON	1994	kg									202.3	
+40	Oklahoma	PROMETON	1995	kg									15535.7	
+40	Oklahoma	PROMETON	1996	kg			14459.3	4230.2					571.1	
+40	Oklahoma	PROMETON	1997	kg									138.1	
+41	Oregon	PROMETON	1992	kg									67.1	
+41	Oregon	PROMETON	1993	kg									229.4	8.1
+41	Oregon	PROMETON	1994	kg									172.2	
+41	Oregon	PROMETON	1995	kg									429.6	
+41	Oregon	PROMETON	1997	kg									427.5	
+42	Pennsylvania	PROMETON	1992	kg									3660.7	
+42	Pennsylvania	PROMETON	1993	kg									81.8	
+42	Pennsylvania	PROMETON	1994	kg									304.6	
+42	Pennsylvania	PROMETON	1995	kg									548.9	275.4
+42	Pennsylvania	PROMETON	1996	kg									319234.7	
+42	Pennsylvania	PROMETON	1997	kg									2656.3	
+42	Pennsylvania	PROMETON	2011	kg									355.8	
+45	South Carolina	PROMETON	1992	kg									15171.6	
+45	South Carolina	PROMETON	1993	kg									86.5	
+45	South Carolina	PROMETON	1994	kg									98.5	
+45	South Carolina	PROMETON	1995	kg									575.1	
+46	South Dakota	PROMETON	1992	kg									991.3	
+46	South Dakota	PROMETON	1993	kg									100.7	
+46	South Dakota	PROMETON	1994	kg									123.9	
+46	South Dakota	PROMETON	1995	kg									447.2	
+46	South Dakota	PROMETON	1996	kg									510	
+46	South Dakota	PROMETON	1997	kg									408.9	20.9
+47	Tennessee	PROMETON	1992	kg									80391.1	
+47	Tennessee	PROMETON	1993	kg									300.9	
+47	Tennessee	PROMETON	1994	kg									838.7	
+47	Tennessee	PROMETON	1995	kg									3625.3	14.3
+47	Tennessee	PROMETON	1996	kg	922								2715.3	
+47	Tennessee	PROMETON	1997	kg									2860.8	
+48	Texas	PROMETON	1992	kg							314		139.2	9595
+48	Texas	PROMETON	1993	kg									884.8	77.9
+48	Texas	PROMETON	1994	kg									237.3	
+48	Texas	PROMETON	1995	kg									9366.6	
+48	Texas	PROMETON	1996	kg			18776.6	72295					1704.3	
+48	Texas	PROMETON	1997	kg									342	
+49	Utah	PROMETON	1992	kg									112.7	
+49	Utah	PROMETON	1993	kg									97.7	
+49	Utah	PROMETON	1994	kg									633.4	
+49	Utah	PROMETON	1995	kg									300.4	
+51	Virginia	PROMETON	1992	kg									100.8	
+51	Virginia	PROMETON	1993	kg									4080.3	
+51	Virginia	PROMETON	1994	kg									361.9	
+51	Virginia	PROMETON	1995	kg									10788.9	
+51	Virginia	PROMETON	1996	kg	253.2								534418.2	
+51	Virginia	PROMETON	1997	kg									1802.5	
+51	Virginia	PROMETON	2011	kg									721.6	
+53	Washington	PROMETON	1993	kg									155.8	93.6
+53	Washington	PROMETON	1994	kg									66.2	
+54	West Virginia	PROMETON	1992	kg									25.9	
+54	West Virginia	PROMETON	1993	kg									2038.4	
+54	West Virginia	PROMETON	1994	kg									323.7	
+54	West Virginia	PROMETON	1995	kg									637.1	
+54	West Virginia	PROMETON	1996	kg	89.7								401338.1	
+54	West Virginia	PROMETON	1997	kg									1797.5	
+54	West Virginia	PROMETON	2011	kg									845.6	
+55	Wisconsin	PROMETON	1992	kg									726	
+55	Wisconsin	PROMETON	1993	kg		1063.5								
+55	Wisconsin	PROMETON	1994	kg									1921.6	
+55	Wisconsin	PROMETON	1995	kg									955.5	
+55	Wisconsin	PROMETON	1996	kg									360.7	
+55	Wisconsin	PROMETON	1997	kg									72.4	
+56	Wyoming	PROMETON	1992	kg									212.2	
+56	Wyoming	PROMETON	1993	kg									78.1	
+56	Wyoming	PROMETON	1994	kg									196.7	
+56	Wyoming	PROMETON	1995	kg									241.5	
+56	Wyoming	PROMETON	1996	kg									46.8	
+56	Wyoming	PROMETON	1997	kg									57.9	

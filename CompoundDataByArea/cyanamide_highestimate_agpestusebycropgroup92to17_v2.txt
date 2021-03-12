@@ -1,0 +1,66 @@
+04	Arizona	CYANAMIDE	1999	kg							6625.6			
+04	Arizona	CYANAMIDE	2000	kg							13537.9			
+04	Arizona	CYANAMIDE	2001	kg							11838.8			
+04	Arizona	CYANAMIDE	2002	kg							2902.8			
+04	Arizona	CYANAMIDE	2003	kg							10200			
+04	Arizona	CYANAMIDE	2004	kg							6711.7			
+04	Arizona	CYANAMIDE	2005	kg							9366.9			
+04	Arizona	CYANAMIDE	2006	kg							7065.7			
+04	Arizona	CYANAMIDE	2007	kg							5813.1			
+04	Arizona	CYANAMIDE	2008	kg							1077.2			
+04	Arizona	CYANAMIDE	2009	kg							1371.7			
+04	Arizona	CYANAMIDE	2010	kg							871.5			
+04	Arizona	CYANAMIDE	2011	kg							2041			
+04	Arizona	CYANAMIDE	2012	kg							1049.3			
+04	Arizona	CYANAMIDE	2013	kg							1188.9			
+04	Arizona	CYANAMIDE	2014	kg							903.8			
+04	Arizona	CYANAMIDE	2015	kg							3919			
+04	Arizona	CYANAMIDE	2016	kg							2694.4			
+04	Arizona	CYANAMIDE	2017	kg							2823.8			
+06	California	CYANAMIDE	1992	kg							51883.2			
+06	California	CYANAMIDE	1993	kg							82246			
+06	California	CYANAMIDE	1994	kg							86628.3			
+06	California	CYANAMIDE	1995	kg							66159.8			
+06	California	CYANAMIDE	1996	kg							64757.3			
+06	California	CYANAMIDE	1997	kg							85191.7			
+06	California	CYANAMIDE	1998	kg					62.9		51439.4			
+06	California	CYANAMIDE	1999	kg							112573.9			
+06	California	CYANAMIDE	2000	kg							75199.8			
+06	California	CYANAMIDE	2001	kg							112494.3			
+06	California	CYANAMIDE	2002	kg					20		85411			
+06	California	CYANAMIDE	2003	kg					485		92179.1			
+06	California	CYANAMIDE	2004	kg					711.3		117669.5			
+06	California	CYANAMIDE	2005	kg					705		100799.3			
+06	California	CYANAMIDE	2006	kg					981.7		97164.3			
+06	California	CYANAMIDE	2007	kg					3201.4		110954.3			
+06	California	CYANAMIDE	2008	kg					1236.6		97649.4			
+06	California	CYANAMIDE	2009	kg					333.9		96004.2			
+06	California	CYANAMIDE	2010	kg					781.5		125818.1			
+06	California	CYANAMIDE	2011	kg					618.9		144521.8			
+06	California	CYANAMIDE	2012	kg					4137		178289.5			
+06	California	CYANAMIDE	2013	kg					50.1		208528.6			
+06	California	CYANAMIDE	2014	kg					976.8		227722.4			
+06	California	CYANAMIDE	2015	kg					2081.5		258969.6			
+06	California	CYANAMIDE	2016	kg					3857.8		247354.3			
+06	California	CYANAMIDE	2017	kg					2383.3		279224.6			
+32	Nevada	CYANAMIDE	1999	kg							14.1			
+32	Nevada	CYANAMIDE	2000	kg							28.7			
+32	Nevada	CYANAMIDE	2001	kg							25			
+32	Nevada	CYANAMIDE	2002	kg							6.1			
+32	Nevada	CYANAMIDE	2003	kg							21.6			
+32	Nevada	CYANAMIDE	2004	kg							14.3			
+32	Nevada	CYANAMIDE	2005	kg							20.1			
+32	Nevada	CYANAMIDE	2006	kg							15.3			
+32	Nevada	CYANAMIDE	2007	kg							12.7			
+32	Nevada	CYANAMIDE	2008	kg							48			
+32	Nevada	CYANAMIDE	2009	kg							52.3			
+32	Nevada	CYANAMIDE	2010	kg							29.5			
+32	Nevada	CYANAMIDE	2011	kg							62.1			
+32	Nevada	CYANAMIDE	2012	kg							29.3			
+32	Nevada	CYANAMIDE	2013	kg							33.3			
+32	Nevada	CYANAMIDE	2014	kg							25.6			
+32	Nevada	CYANAMIDE	2015	kg							111.7			
+32	Nevada	CYANAMIDE	2016	kg							77.6			
+32	Nevada	CYANAMIDE	2017	kg							81.3			
+41	Oregon	CYANAMIDE	2002	kg							10.7			
+53	Washington	CYANAMIDE	2002	kg							450.5			

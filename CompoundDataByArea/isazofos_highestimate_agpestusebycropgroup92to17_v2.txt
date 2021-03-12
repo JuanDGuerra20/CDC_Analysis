@@ -1,0 +1,3 @@
+05	Arkansas	ISAZOFOS	1995	kg									1819.9	
+28	Mississippi	ISAZOFOS	1995	kg									6738	
+47	Tennessee	ISAZOFOS	1995	kg									2280	

@@ -1,0 +1,385 @@
+01	Alabama	NOVALURON	2005	kg				1573						
+01	Alabama	NOVALURON	2006	kg				2031.9						
+01	Alabama	NOVALURON	2007	kg				649.2						
+01	Alabama	NOVALURON	2008	kg				1471.1						
+01	Alabama	NOVALURON	2009	kg				2643						
+01	Alabama	NOVALURON	2010	kg				2248.3						
+01	Alabama	NOVALURON	2011	kg				1965.5						
+01	Alabama	NOVALURON	2012	kg				2016.1						
+01	Alabama	NOVALURON	2013	kg				987.8						699
+01	Alabama	NOVALURON	2014	kg				2721						668.2
+01	Alabama	NOVALURON	2015	kg				774						1430.3
+01	Alabama	NOVALURON	2016	kg				564.1						247.7
+01	Alabama	NOVALURON	2017	kg				2441.8						786.9
+04	Arizona	NOVALURON	2007	kg					19.5					
+04	Arizona	NOVALURON	2008	kg					11.7					
+04	Arizona	NOVALURON	2009	kg					20.7					
+04	Arizona	NOVALURON	2010	kg					13.4					
+04	Arizona	NOVALURON	2011	kg					7.2					
+04	Arizona	NOVALURON	2012	kg					52					
+04	Arizona	NOVALURON	2013	kg					88.7					
+04	Arizona	NOVALURON	2014	kg					37.5					
+04	Arizona	NOVALURON	2015	kg					37					
+04	Arizona	NOVALURON	2016	kg					0					
+04	Arizona	NOVALURON	2017	kg					0.1					
+05	Arkansas	NOVALURON	2004	kg				792.6						
+05	Arkansas	NOVALURON	2005	kg				6575.4						
+05	Arkansas	NOVALURON	2006	kg				287.8						
+05	Arkansas	NOVALURON	2007	kg				1489.5						
+05	Arkansas	NOVALURON	2008	kg				843.2						
+05	Arkansas	NOVALURON	2009	kg				832.5						
+05	Arkansas	NOVALURON	2010	kg				4250.4						
+05	Arkansas	NOVALURON	2011	kg				5513.8						
+05	Arkansas	NOVALURON	2012	kg				5830.6						
+05	Arkansas	NOVALURON	2013	kg				3132.2						
+05	Arkansas	NOVALURON	2014	kg				3354.3						
+05	Arkansas	NOVALURON	2015	kg				1447.7						
+05	Arkansas	NOVALURON	2016	kg				3216						
+05	Arkansas	NOVALURON	2017	kg				2889.7						
+06	California	NOVALURON	2002	kg							0.1			
+06	California	NOVALURON	2003	kg							1.8			
+06	California	NOVALURON	2004	kg							2.6			
+06	California	NOVALURON	2005	kg							1.8			
+06	California	NOVALURON	2006	kg					1.6		0.6			
+06	California	NOVALURON	2007	kg				104.4	127.2		41.5	42.1		
+06	California	NOVALURON	2008	kg				223.9	137.5		94.6	47.1		
+06	California	NOVALURON	2009	kg				180	1216.1		61	117.1		0
+06	California	NOVALURON	2010	kg				1513.1	1734.1		91.2	274.9		
+06	California	NOVALURON	2011	kg				3769.2	1945.2		60.5	276		
+06	California	NOVALURON	2012	kg	1			2088.6	2297.5		41.7	343.4		
+06	California	NOVALURON	2013	kg	0.5			2990.2	2561.9		47.8	555.9		
+06	California	NOVALURON	2014	kg	0			2073.2	2692.5		39.9	459.2		
+06	California	NOVALURON	2015	kg	0.6			2758.4	3324.6		40.7	401.8		
+06	California	NOVALURON	2016	kg			0.9	4013.7	3087.2		40.1	560.2		
+06	California	NOVALURON	2017	kg	1.7			5476.4	3073.9		58.5	350.7		0
+08	Colorado	NOVALURON	2012	kg					133					
+08	Colorado	NOVALURON	2013	kg					315					
+08	Colorado	NOVALURON	2014	kg					337.5					
+08	Colorado	NOVALURON	2015	kg					711.4					
+08	Colorado	NOVALURON	2016	kg					154.9					
+08	Colorado	NOVALURON	2017	kg					336.7					
+12	Florida	NOVALURON	2006	kg				514.1						
+12	Florida	NOVALURON	2007	kg				12.9						
+12	Florida	NOVALURON	2008	kg				329.9						
+12	Florida	NOVALURON	2009	kg				806.6	11.9					
+12	Florida	NOVALURON	2010	kg				1616	105.4					
+12	Florida	NOVALURON	2011	kg				1471	208.7					
+12	Florida	NOVALURON	2012	kg				495.2	304.8					
+12	Florida	NOVALURON	2013	kg				392.8	138.5					519.5
+12	Florida	NOVALURON	2014	kg				729.1	388					532.6
+12	Florida	NOVALURON	2015	kg				476.8	620.4					904.7
+12	Florida	NOVALURON	2016	kg				224	901.2					230.7
+12	Florida	NOVALURON	2017	kg				312.6	521.5					1000.3
+13	Georgia	NOVALURON	2005	kg				2817.7						
+13	Georgia	NOVALURON	2006	kg				6240			26			
+13	Georgia	NOVALURON	2007	kg				1917.7			2.2			
+13	Georgia	NOVALURON	2008	kg				4742						
+13	Georgia	NOVALURON	2009	kg				8088.1	106.5					
+13	Georgia	NOVALURON	2010	kg				16351						
+13	Georgia	NOVALURON	2011	kg				14886.4						
+13	Georgia	NOVALURON	2012	kg				6235.4						
+13	Georgia	NOVALURON	2013	kg				3465.5	74.2					2587.2
+13	Georgia	NOVALURON	2014	kg				7669.1						2676.2
+13	Georgia	NOVALURON	2015	kg				10836.4						3553.9
+13	Georgia	NOVALURON	2016	kg				5862.6	461.7					2596.4
+13	Georgia	NOVALURON	2017	kg				3635.9						1488.9
+16	Idaho	NOVALURON	2004	kg					132.7					
+16	Idaho	NOVALURON	2005	kg							121.9			
+16	Idaho	NOVALURON	2006	kg							4.2			
+16	Idaho	NOVALURON	2007	kg							4.1			
+16	Idaho	NOVALURON	2008	kg							31.5			
+16	Idaho	NOVALURON	2009	kg							55.2			
+16	Idaho	NOVALURON	2010	kg							12.9			
+16	Idaho	NOVALURON	2011	kg							8.1			
+16	Idaho	NOVALURON	2012	kg					2813.6		7.3			
+16	Idaho	NOVALURON	2013	kg					1803.3		16.9			
+16	Idaho	NOVALURON	2014	kg					1944.4		15.5			
+16	Idaho	NOVALURON	2015	kg					1774.5		162.3			
+16	Idaho	NOVALURON	2016	kg					724.7		43.2			
+16	Idaho	NOVALURON	2017	kg					606.3		6			
+17	Illinois	NOVALURON	2005	kg					2.8					
+17	Illinois	NOVALURON	2006	kg					0.3					
+17	Illinois	NOVALURON	2007	kg					0.8					
+17	Illinois	NOVALURON	2010	kg					39.5					
+17	Illinois	NOVALURON	2012	kg					20.3					
+17	Illinois	NOVALURON	2013	kg					70.3					
+17	Illinois	NOVALURON	2014	kg					45.2					
+17	Illinois	NOVALURON	2016	kg					47.7					
+18	Indiana	NOVALURON	2005	kg							39.1			
+18	Indiana	NOVALURON	2006	kg							58.7			
+18	Indiana	NOVALURON	2007	kg							45			
+18	Indiana	NOVALURON	2008	kg							48			
+18	Indiana	NOVALURON	2009	kg							8.1			
+18	Indiana	NOVALURON	2010	kg							0.3			
+18	Indiana	NOVALURON	2011	kg							9.4			
+18	Indiana	NOVALURON	2013	kg					28.3		4.9			
+18	Indiana	NOVALURON	2014	kg							3.3			
+18	Indiana	NOVALURON	2015	kg							1.3			
+18	Indiana	NOVALURON	2016	kg					73.5					
+19	Iowa	NOVALURON	2005	kg					0					
+19	Iowa	NOVALURON	2006	kg					0					
+19	Iowa	NOVALURON	2012	kg					0.7					
+19	Iowa	NOVALURON	2013	kg					3.5					
+19	Iowa	NOVALURON	2014	kg					1.5					
+19	Iowa	NOVALURON	2016	kg					1.2					
+20	Kansas	NOVALURON	2012	kg					2.9					
+22	Louisiana	NOVALURON	2005	kg				8618.5						
+22	Louisiana	NOVALURON	2006	kg				478.5						
+22	Louisiana	NOVALURON	2007	kg				2032.6						
+22	Louisiana	NOVALURON	2008	kg				1417.1						
+22	Louisiana	NOVALURON	2009	kg				479.9						
+22	Louisiana	NOVALURON	2010	kg				2728.5						
+22	Louisiana	NOVALURON	2011	kg				10762						
+22	Louisiana	NOVALURON	2012	kg				6243.9						
+22	Louisiana	NOVALURON	2013	kg				2916.3						874.6
+22	Louisiana	NOVALURON	2014	kg				4108.7						304.8
+22	Louisiana	NOVALURON	2015	kg				674.1						228.5
+22	Louisiana	NOVALURON	2016	kg				3105.3						468.1
+22	Louisiana	NOVALURON	2017	kg				5890.8						
+23	Maine	NOVALURON	2006	kg					123.6					
+23	Maine	NOVALURON	2009	kg					176.7					
+23	Maine	NOVALURON	2010	kg					5.8					
+23	Maine	NOVALURON	2011	kg					41					
+23	Maine	NOVALURON	2012	kg					94.7					
+23	Maine	NOVALURON	2015	kg					9.5					
+24	Maryland	NOVALURON	2005	kg							86.4			
+24	Maryland	NOVALURON	2006	kg							23.9			
+24	Maryland	NOVALURON	2007	kg							64.2			
+24	Maryland	NOVALURON	2008	kg							65.3			
+24	Maryland	NOVALURON	2009	kg							86.3			
+24	Maryland	NOVALURON	2010	kg							49			
+24	Maryland	NOVALURON	2011	kg							8			
+24	Maryland	NOVALURON	2012	kg							9.1			
+24	Maryland	NOVALURON	2014	kg					5		6.7			
+24	Maryland	NOVALURON	2015	kg							94.7			
+24	Maryland	NOVALURON	2017	kg							3.8			
+26	Michigan	NOVALURON	2005	kg							2787.1			
+26	Michigan	NOVALURON	2006	kg							2769.8			
+26	Michigan	NOVALURON	2007	kg							2161.9			
+26	Michigan	NOVALURON	2008	kg							2168.7			
+26	Michigan	NOVALURON	2009	kg							649.9			
+26	Michigan	NOVALURON	2010	kg					270.4		439.7			
+26	Michigan	NOVALURON	2011	kg					554.7		590.8			
+26	Michigan	NOVALURON	2012	kg					520.7		603.1			
+26	Michigan	NOVALURON	2013	kg					456.2		490.8			
+26	Michigan	NOVALURON	2014	kg					742.7		762.1			
+26	Michigan	NOVALURON	2015	kg					797.9		585.9			
+26	Michigan	NOVALURON	2016	kg					2592.6		334			
+26	Michigan	NOVALURON	2017	kg							164.8			
+27	Minnesota	NOVALURON	2005	kg					205.9					
+27	Minnesota	NOVALURON	2006	kg					22					
+27	Minnesota	NOVALURON	2008	kg					127.4					
+27	Minnesota	NOVALURON	2009	kg					60.2					
+27	Minnesota	NOVALURON	2010	kg					52.6					
+27	Minnesota	NOVALURON	2011	kg					78.9					
+27	Minnesota	NOVALURON	2012	kg					29.1					
+27	Minnesota	NOVALURON	2013	kg					77.5					
+27	Minnesota	NOVALURON	2014	kg					417.9					
+27	Minnesota	NOVALURON	2015	kg					393					
+27	Minnesota	NOVALURON	2016	kg					930.1					
+28	Mississippi	NOVALURON	2004	kg				392.8						
+28	Mississippi	NOVALURON	2005	kg				18477.4						
+28	Mississippi	NOVALURON	2006	kg				2485						
+28	Mississippi	NOVALURON	2007	kg				4167.6						
+28	Mississippi	NOVALURON	2008	kg				1080.4						
+28	Mississippi	NOVALURON	2009	kg				1061						
+28	Mississippi	NOVALURON	2010	kg				2310.3						
+28	Mississippi	NOVALURON	2011	kg				3591.9						
+28	Mississippi	NOVALURON	2012	kg				3161.5						
+28	Mississippi	NOVALURON	2013	kg				2740.4						
+28	Mississippi	NOVALURON	2014	kg				2751.6						
+28	Mississippi	NOVALURON	2015	kg				3904.7						
+28	Mississippi	NOVALURON	2016	kg				1599.5						
+28	Mississippi	NOVALURON	2017	kg				2118.1						
+29	Missouri	NOVALURON	2005	kg				33.1						
+29	Missouri	NOVALURON	2006	kg				126.1						
+29	Missouri	NOVALURON	2007	kg				704.8						
+29	Missouri	NOVALURON	2008	kg				580.5						
+29	Missouri	NOVALURON	2011	kg				5030.8						
+29	Missouri	NOVALURON	2013	kg				2330.7						
+29	Missouri	NOVALURON	2014	kg				868						
+29	Missouri	NOVALURON	2015	kg				259.9						
+29	Missouri	NOVALURON	2016	kg				177.7						
+29	Missouri	NOVALURON	2017	kg				355.1						
+30	Montana	NOVALURON	2013	kg					10.4					
+30	Montana	NOVALURON	2014	kg					9.2					
+30	Montana	NOVALURON	2015	kg					12.8					
+30	Montana	NOVALURON	2016	kg					3.7					
+30	Montana	NOVALURON	2017	kg					7.7					
+31	Nebraska	NOVALURON	2012	kg					67.4					
+32	Nevada	NOVALURON	2006	kg							0.5			
+32	Nevada	NOVALURON	2007	kg							0.5			
+32	Nevada	NOVALURON	2009	kg					0					
+32	Nevada	NOVALURON	2010	kg					0					
+32	Nevada	NOVALURON	2011	kg					0					
+32	Nevada	NOVALURON	2012	kg					46.8					
+32	Nevada	NOVALURON	2013	kg					26.4					
+32	Nevada	NOVALURON	2014	kg					19.9					
+32	Nevada	NOVALURON	2015	kg					26.4					
+32	Nevada	NOVALURON	2016	kg					2			0.9		
+32	Nevada	NOVALURON	2017	kg					1.2					
+33	New Hampshire	NOVALURON	2006	kg					1.3					
+33	New Hampshire	NOVALURON	2009	kg					1.2					
+33	New Hampshire	NOVALURON	2010	kg					0					
+33	New Hampshire	NOVALURON	2011	kg					0.5					
+33	New Hampshire	NOVALURON	2012	kg					0.8					
+34	New Jersey	NOVALURON	2007	kg					0		19.3			
+34	New Jersey	NOVALURON	2008	kg					0					
+34	New Jersey	NOVALURON	2009	kg					0.8					
+34	New Jersey	NOVALURON	2010	kg					1.1					
+34	New Jersey	NOVALURON	2012	kg					0.1		4.3			
+34	New Jersey	NOVALURON	2014	kg							14.3			
+34	New Jersey	NOVALURON	2015	kg							59.5			
+35	New Mexico	NOVALURON	2005	kg					55.7					
+35	New Mexico	NOVALURON	2013	kg					4.6					
+35	New Mexico	NOVALURON	2014	kg					4.3					
+35	New Mexico	NOVALURON	2015	kg					8.9					
+35	New Mexico	NOVALURON	2016	kg					1.7					
+35	New Mexico	NOVALURON	2017	kg					13.2					
+36	New York	NOVALURON	2007	kg					1.7		230.5			
+36	New York	NOVALURON	2008	kg					19.6					
+36	New York	NOVALURON	2009	kg					36.7					
+36	New York	NOVALURON	2010	kg					39.3		445.5			
+36	New York	NOVALURON	2011	kg							356.2			
+36	New York	NOVALURON	2012	kg					1.2		283.6			
+36	New York	NOVALURON	2013	kg							1552.4			
+36	New York	NOVALURON	2014	kg							807.4			
+36	New York	NOVALURON	2015	kg							3332.3			
+37	North Carolina	NOVALURON	2006	kg							277.7			
+37	North Carolina	NOVALURON	2007	kg							31.2			
+37	North Carolina	NOVALURON	2008	kg							160.1			
+37	North Carolina	NOVALURON	2009	kg							250.6			
+37	North Carolina	NOVALURON	2011	kg					73.5					
+37	North Carolina	NOVALURON	2012	kg					10.5		81.6			
+37	North Carolina	NOVALURON	2013	kg					31.8					
+37	North Carolina	NOVALURON	2014	kg				2665.6			61.4			
+37	North Carolina	NOVALURON	2015	kg				2924.4						
+37	North Carolina	NOVALURON	2016	kg				348.4						
+37	North Carolina	NOVALURON	2017	kg				1982.6						
+38	North Dakota	NOVALURON	2009	kg					7.3					
+39	Ohio	NOVALURON	2005	kg							219.5			
+39	Ohio	NOVALURON	2006	kg							93.1			
+39	Ohio	NOVALURON	2007	kg							104.7			
+39	Ohio	NOVALURON	2008	kg							171.6			
+39	Ohio	NOVALURON	2009	kg							267.9			
+39	Ohio	NOVALURON	2010	kg							39.7			
+39	Ohio	NOVALURON	2011	kg							28.4			
+39	Ohio	NOVALURON	2012	kg							40.4			
+39	Ohio	NOVALURON	2013	kg							28.6			
+39	Ohio	NOVALURON	2014	kg							87.9			
+39	Ohio	NOVALURON	2015	kg							86.7			
+39	Ohio	NOVALURON	2016	kg							17.9			
+41	Oregon	NOVALURON	2005	kg							275			
+41	Oregon	NOVALURON	2006	kg							48.1			
+41	Oregon	NOVALURON	2007	kg							97.6			
+41	Oregon	NOVALURON	2008	kg							1105.2			
+41	Oregon	NOVALURON	2009	kg							969.8			
+41	Oregon	NOVALURON	2010	kg							491.4			
+41	Oregon	NOVALURON	2011	kg							370.9			
+41	Oregon	NOVALURON	2012	kg					258.3		899.2			
+41	Oregon	NOVALURON	2013	kg					198.5		1048.7			
+41	Oregon	NOVALURON	2014	kg					231.2		499.5			
+41	Oregon	NOVALURON	2015	kg					557.9		1302.1			
+41	Oregon	NOVALURON	2016	kg					108.9		1055.6			
+41	Oregon	NOVALURON	2017	kg					957.5		1411.1			
+42	Pennsylvania	NOVALURON	2005	kg					16.6		1792.8			
+42	Pennsylvania	NOVALURON	2006	kg							526			
+42	Pennsylvania	NOVALURON	2007	kg					20.5		872			
+42	Pennsylvania	NOVALURON	2008	kg					114		360.8			
+42	Pennsylvania	NOVALURON	2009	kg					89.3		23.8			
+42	Pennsylvania	NOVALURON	2010	kg					92.7					
+42	Pennsylvania	NOVALURON	2012	kg					13.1		121			
+42	Pennsylvania	NOVALURON	2014	kg					57.3		378.6			
+42	Pennsylvania	NOVALURON	2015	kg					271.1		1330.2			
+45	South Carolina	NOVALURON	2005	kg				547						
+45	South Carolina	NOVALURON	2006	kg				902.8			32.4			
+45	South Carolina	NOVALURON	2007	kg				336.7			2.1			
+45	South Carolina	NOVALURON	2008	kg				599.6						
+45	South Carolina	NOVALURON	2009	kg				120.5						
+45	South Carolina	NOVALURON	2011	kg					0.5					
+45	South Carolina	NOVALURON	2012	kg				1585.2	0					
+45	South Carolina	NOVALURON	2013	kg					0					
+45	South Carolina	NOVALURON	2014	kg				1243.1						
+45	South Carolina	NOVALURON	2015	kg				946.5						
+45	South Carolina	NOVALURON	2016	kg				375.2						
+45	South Carolina	NOVALURON	2017	kg				1011.9						
+47	Tennessee	NOVALURON	2004	kg				154.4						
+47	Tennessee	NOVALURON	2005	kg				962.9						
+47	Tennessee	NOVALURON	2006	kg				156.6			21.2			
+47	Tennessee	NOVALURON	2007	kg				1278			1.9			
+47	Tennessee	NOVALURON	2008	kg				1144.7			13.1			
+47	Tennessee	NOVALURON	2009	kg				828.3			19.8			
+47	Tennessee	NOVALURON	2010	kg				756.6						
+47	Tennessee	NOVALURON	2011	kg				3543.8	0					
+47	Tennessee	NOVALURON	2012	kg				2328.7			4.8			
+47	Tennessee	NOVALURON	2013	kg				1286.7	0.2					
+47	Tennessee	NOVALURON	2014	kg				488.6			3.2			
+47	Tennessee	NOVALURON	2015	kg				161.1						
+47	Tennessee	NOVALURON	2016	kg				420.9						
+47	Tennessee	NOVALURON	2017	kg				412.2						
+48	Texas	NOVALURON	2005	kg				1029.6	422.9					
+48	Texas	NOVALURON	2006	kg				244						
+48	Texas	NOVALURON	2007	kg				61.6	141.9					
+48	Texas	NOVALURON	2008	kg				14.9	234.5					
+48	Texas	NOVALURON	2009	kg					86.8					
+48	Texas	NOVALURON	2010	kg					112.5					
+48	Texas	NOVALURON	2011	kg					46.7					
+48	Texas	NOVALURON	2014	kg				546.3						
+48	Texas	NOVALURON	2015	kg				5790.4						
+48	Texas	NOVALURON	2016	kg				446.4						195
+48	Texas	NOVALURON	2017	kg				1097.1						155.9
+49	Utah	NOVALURON	2004	kg					0					
+49	Utah	NOVALURON	2012	kg					5.4					
+49	Utah	NOVALURON	2013	kg					3.2					
+49	Utah	NOVALURON	2014	kg					2.5					
+49	Utah	NOVALURON	2015	kg					4.1					
+49	Utah	NOVALURON	2016	kg					0.5			7.9		
+49	Utah	NOVALURON	2017	kg					0.9					
+51	Virginia	NOVALURON	2005	kg							42			
+51	Virginia	NOVALURON	2006	kg							40.1			
+51	Virginia	NOVALURON	2008	kg							911.8			
+51	Virginia	NOVALURON	2009	kg							354.8			
+51	Virginia	NOVALURON	2010	kg							111.8			
+51	Virginia	NOVALURON	2011	kg					4.6		25.9			
+51	Virginia	NOVALURON	2012	kg							136.8			
+51	Virginia	NOVALURON	2013	kg					9.6					
+51	Virginia	NOVALURON	2014	kg				462			58.2			
+51	Virginia	NOVALURON	2015	kg				645.3						
+51	Virginia	NOVALURON	2016	kg				29.5						
+51	Virginia	NOVALURON	2017	kg				459.4			45			
+53	Washington	NOVALURON	2005	kg							5610.2			
+53	Washington	NOVALURON	2006	kg							3196.9			
+53	Washington	NOVALURON	2007	kg							4849			
+53	Washington	NOVALURON	2008	kg							3365.2			
+53	Washington	NOVALURON	2009	kg							4017			
+53	Washington	NOVALURON	2010	kg							2267.7			
+53	Washington	NOVALURON	2011	kg							1429.4			
+53	Washington	NOVALURON	2012	kg					1336.3		2492.2			
+53	Washington	NOVALURON	2013	kg					1450.8		2795.2			
+53	Washington	NOVALURON	2014	kg					4364.3		2000.3			
+53	Washington	NOVALURON	2015	kg					1791.7		9286.8			
+53	Washington	NOVALURON	2016	kg					2337		3366.6			
+53	Washington	NOVALURON	2017	kg					1706		2824.5			
+54	West Virginia	NOVALURON	2005	kg							12.9			
+54	West Virginia	NOVALURON	2006	kg							16.5			
+54	West Virginia	NOVALURON	2008	kg							177.8			
+54	West Virginia	NOVALURON	2009	kg							400.2			
+54	West Virginia	NOVALURON	2010	kg							281.4			
+54	West Virginia	NOVALURON	2011	kg							42.7			
+54	West Virginia	NOVALURON	2012	kg							59.2			
+54	West Virginia	NOVALURON	2014	kg							29.7			
+54	West Virginia	NOVALURON	2015	kg							19.1			
+54	West Virginia	NOVALURON	2017	kg							7.6			
+55	Wisconsin	NOVALURON	2005	kg					1087					
+55	Wisconsin	NOVALURON	2006	kg					53.5					
+55	Wisconsin	NOVALURON	2007	kg					298.5					
+55	Wisconsin	NOVALURON	2008	kg					148.1					
+55	Wisconsin	NOVALURON	2009	kg					62.7					
+55	Wisconsin	NOVALURON	2010	kg					803.5					
+55	Wisconsin	NOVALURON	2011	kg					1164.9					
+55	Wisconsin	NOVALURON	2012	kg					713.7					
+55	Wisconsin	NOVALURON	2013	kg					1071.4					
+55	Wisconsin	NOVALURON	2014	kg					901.1					
+55	Wisconsin	NOVALURON	2015	kg					1272.5					
+55	Wisconsin	NOVALURON	2016	kg					1693.8					
+55	Wisconsin	NOVALURON	2017	kg					2062.6					

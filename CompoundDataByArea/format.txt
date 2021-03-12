@@ -1,0 +1,1 @@
+State_FIPS_code	State	Compound	Year	Units	Corn	Soybeans	Wheat	Cotton	Vegetables_and_fruit	Rice	Orchards_and_grapes	Alfalfa	Pasture_and_hay	Other_crops

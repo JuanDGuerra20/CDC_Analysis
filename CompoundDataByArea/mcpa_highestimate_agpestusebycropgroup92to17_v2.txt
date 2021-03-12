@@ -1,0 +1,909 @@
+01	Alabama	MCPA	1992	kg									725.2	109.3
+01	Alabama	MCPA	1993	kg										0
+01	Alabama	MCPA	1994	kg										0
+01	Alabama	MCPA	1999	kg									4448.4	
+01	Alabama	MCPA	2002	kg			914.6							
+01	Alabama	MCPA	2003	kg			9612.3							
+01	Alabama	MCPA	2012	kg			838.9							
+01	Alabama	MCPA	2014	kg			158.1							
+01	Alabama	MCPA	2016	kg			751							
+04	Arizona	MCPA	1992	kg			4937.5		0					1.5
+04	Arizona	MCPA	1993	kg			2766.2						20.5	194.5
+04	Arizona	MCPA	1994	kg			7788.4						94.6	254.2
+04	Arizona	MCPA	1995	kg			3458.2						38	80.8
+04	Arizona	MCPA	1996	kg			11231.3		144.4				829.7	2244.5
+04	Arizona	MCPA	1997	kg			817.1						307.7	1063.9
+04	Arizona	MCPA	1998	kg			7399.6							151.3
+04	Arizona	MCPA	1999	kg			3124.9						249370.5	919
+04	Arizona	MCPA	2000	kg			196.8							0.2
+04	Arizona	MCPA	2001	kg			17720.4							1590.8
+04	Arizona	MCPA	2002	kg										2692.1
+04	Arizona	MCPA	2003	kg			467.7							0.2
+04	Arizona	MCPA	2004	kg			635							
+04	Arizona	MCPA	2005	kg			280							0.4
+04	Arizona	MCPA	2007	kg										0.5
+04	Arizona	MCPA	2008	kg			175.9							1234.5
+04	Arizona	MCPA	2009	kg			48.8							0.8
+04	Arizona	MCPA	2011	kg			889.5							155.1
+04	Arizona	MCPA	2012	kg			7950.5							343.6
+04	Arizona	MCPA	2013	kg			272.1							3.9
+04	Arizona	MCPA	2014	kg			902.3							147.6
+04	Arizona	MCPA	2015	kg			32261.9							3644
+04	Arizona	MCPA	2016	kg			2153.2							745.3
+04	Arizona	MCPA	2017	kg			2171.6							798.3
+05	Arkansas	MCPA	1992	kg			59.1							
+05	Arkansas	MCPA	1993	kg			394.2	4506.5						
+05	Arkansas	MCPA	1995	kg				3369.8						
+05	Arkansas	MCPA	1997	kg			77.3	4480.9						
+05	Arkansas	MCPA	1998	kg			115.1							
+05	Arkansas	MCPA	1999	kg			168.6							
+05	Arkansas	MCPA	2000	kg			2.2							
+05	Arkansas	MCPA	2002	kg					1.1					
+05	Arkansas	MCPA	2003	kg			106.5							
+05	Arkansas	MCPA	2004	kg			491.7							
+05	Arkansas	MCPA	2005	kg			2.2						954	
+05	Arkansas	MCPA	2007	kg			122.6							
+05	Arkansas	MCPA	2008	kg			52.5							
+05	Arkansas	MCPA	2009	kg			128.3							
+05	Arkansas	MCPA	2010	kg			72.9							
+05	Arkansas	MCPA	2011	kg			130.5							
+05	Arkansas	MCPA	2012	kg			789.9							
+05	Arkansas	MCPA	2013	kg			371							
+05	Arkansas	MCPA	2014	kg			262.7							
+05	Arkansas	MCPA	2015	kg			380.1							
+05	Arkansas	MCPA	2016	kg			226.8							
+05	Arkansas	MCPA	2017	kg			508.9							
+06	California	MCPA	1992	kg			56865.3		1683.6	13467.3	18.3	104.4	246	24446.7
+06	California	MCPA	1993	kg			52331.2		1699.6	25975.8	8.9	340.6	108.4	14933.4
+06	California	MCPA	1994	kg			58589.1		1688.5	36524.6	16.2	214.5	147.2	27155.6
+06	California	MCPA	1995	kg			58575.7		1196.3	52432.3	28.5	79.6	67.8	18430.9
+06	California	MCPA	1996	kg			88260.2		803.5	54380.3	1.8	358.6	132.1	20426.5
+06	California	MCPA	1997	kg			65754.1		606.7	56526.7	0.9	109.8	287.9	14897.1
+06	California	MCPA	1998	kg	362.3		72638.5	215.6	450.3	16429.9	38.7	126	1216.8	17058.5
+06	California	MCPA	1999	kg	240.9		45368.1		609.6	8058.8	652.2	116.7	1388.9	14755
+06	California	MCPA	2000	kg	252.6		55315.5	782.2	659.4	7966.6	113.9	818.8	981.2	19363.6
+06	California	MCPA	2001	kg	150.8		54773.6	10.9	222.9	5741.7	78.2	545.1	1141.9	14763.8
+06	California	MCPA	2002	kg	17.1		127623.4	79.9	22	4778.7	60.8	832.6	1062.7	18526.1
+06	California	MCPA	2003	kg	66.3		75833	66.4	107	5174.1	10.3	285.3	1443.3	22010.9
+06	California	MCPA	2004	kg	57		61943.5		174.1	1537.9	63.9	466.8	1084.1	23261.2
+06	California	MCPA	2005	kg	37.2		54274.9		52.9	658.9	10.1	28.6	1751.8	21972.4
+06	California	MCPA	2006	kg	134.9		57794			851.7	72.4	362.3	1130.6	26405.2
+06	California	MCPA	2007	kg	36.1		60981.4		10.6	531.5	4.5	851.7	1318.9	19265.7
+06	California	MCPA	2008	kg	79.6		78694.9	34.6	11.3	207.3	21.6	99.1	1660.8	28148.8
+06	California	MCPA	2009	kg	46.9		61594.7		36.1		88.6	160.6	1911	26227.2
+06	California	MCPA	2010	kg	156.9		76365.8		43.8		3.9	293.6	966.8	23393.3
+06	California	MCPA	2011	kg	59.5		70135.4	16.2	246.6		144.6	210.1	1213.4	19654.9
+06	California	MCPA	2012	kg	28.8		58705.4	13.2	17.5		79.7	168.7	2094.8	22048.6
+06	California	MCPA	2013	kg	77.6		50836.2	3.7			21.2	57.9	2351.7	20660.7
+06	California	MCPA	2014	kg	29.8		43936.5		13.8		20.1	57.1	1713.7	19219.4
+06	California	MCPA	2015	kg	80.6		32115.2				0	35.5	3602	23075.6
+06	California	MCPA	2016	kg	105.3		36272.2		0.2		10.7	131.1	7538	21951.5
+06	California	MCPA	2017	kg	75.4		21026.1			2.6	10	278.9	1356.9	14129.2
+08	Colorado	MCPA	1992	kg	993.4		2647.7		259.4			84.8	689.1	23432.6
+08	Colorado	MCPA	1993	kg	128.8		1591.1					169.2	29095.2	3288.2
+08	Colorado	MCPA	1994	kg			5269.2						147.9	1591.5
+08	Colorado	MCPA	1995	kg	7454.9		9106.1		768.5				617.3	12191
+08	Colorado	MCPA	1996	kg	313.6		14741					1031.6	2926.9	13872.7
+08	Colorado	MCPA	1997	kg			16765.3						14521.7	8333.1
+08	Colorado	MCPA	1998	kg			37609.4					4281.4	3465.3	2315.8
+08	Colorado	MCPA	1999	kg			10456.8						1536.6	9793.3
+08	Colorado	MCPA	2000	kg			5858							3580.5
+08	Colorado	MCPA	2001	kg			5114.7						4101.8	9857.6
+08	Colorado	MCPA	2002	kg			4013.7							8821.4
+08	Colorado	MCPA	2003	kg			8334.8							5319.4
+08	Colorado	MCPA	2004	kg			9376						1735.1	5117.3
+08	Colorado	MCPA	2005	kg			6302.3		18				6363.9	10114.3
+08	Colorado	MCPA	2006	kg			11589.4						2564.7	3212.4
+08	Colorado	MCPA	2007	kg			19948.4						13026.3	9885.5
+08	Colorado	MCPA	2008	kg			20502.9							8759.9
+08	Colorado	MCPA	2009	kg			15700						2277.5	9282.6
+08	Colorado	MCPA	2010	kg			10875.8						1740.9	3036.3
+08	Colorado	MCPA	2011	kg			18013						209791.4	10289.7
+08	Colorado	MCPA	2012	kg			9658.1							8088.3
+08	Colorado	MCPA	2013	kg			18770.3							10063.7
+08	Colorado	MCPA	2014	kg			38560.6						272.4	7490.6
+08	Colorado	MCPA	2015	kg			11462.2						9220.9	5787.1
+08	Colorado	MCPA	2016	kg			7361.7						40125.8	10555.2
+08	Colorado	MCPA	2017	kg			70681.7						1422.8	10637.4
+09	Connecticut	MCPA	1992	kg										147.4
+09	Connecticut	MCPA	1993	kg										26.3
+09	Connecticut	MCPA	1994	kg										23.6
+09	Connecticut	MCPA	1995	kg										19.9
+09	Connecticut	MCPA	1996	kg										5.3
+09	Connecticut	MCPA	1997	kg										9.6
+10	Delaware	MCPA	1994	kg										18.5
+10	Delaware	MCPA	1999	kg										925.6
+12	Florida	MCPA	1992	kg										26.3
+12	Florida	MCPA	1993	kg					1432.8					
+12	Florida	MCPA	1994	kg					532.8					
+12	Florida	MCPA	2002	kg			273.5							
+12	Florida	MCPA	2003	kg			1092.9							
+12	Florida	MCPA	2008	kg			20.6							
+12	Florida	MCPA	2012	kg			646.4							
+12	Florida	MCPA	2013	kg			3.3							
+12	Florida	MCPA	2014	kg			164.6							
+12	Florida	MCPA	2016	kg			322.3							
+13	Georgia	MCPA	1992	kg									22.6	
+13	Georgia	MCPA	1998	kg			1839.6							
+13	Georgia	MCPA	2002	kg			7191							
+13	Georgia	MCPA	2003	kg			380.8							
+13	Georgia	MCPA	2008	kg			6493.5							
+13	Georgia	MCPA	2012	kg			5425.2							
+13	Georgia	MCPA	2013	kg			5353.8							
+13	Georgia	MCPA	2014	kg			1583.3							
+13	Georgia	MCPA	2016	kg			7609.7							
+16	Idaho	MCPA	1992	kg			74239.1		3258.5			214.8	9640.7	26502.6
+16	Idaho	MCPA	1993	kg			109669		6217.6			26633.2	3999.2	53348.5
+16	Idaho	MCPA	1994	kg			75220.2		8302				908.1	37107.8
+16	Idaho	MCPA	1995	kg			102040		3054.2				3605.4	40912.8
+16	Idaho	MCPA	1996	kg			149770		5162.8			117.6	4162.8	62072.7
+16	Idaho	MCPA	1997	kg			116333		1315.3			1018.7	3000.4	53779.7
+16	Idaho	MCPA	1998	kg			84920.9		480.2				2111	36581.5
+16	Idaho	MCPA	1999	kg			114672.2		13563				2512.6	37666.4
+16	Idaho	MCPA	2000	kg			114156		339.7					42857.5
+16	Idaho	MCPA	2001	kg			61659.2		2741.1			397.6	249.4	43805.4
+16	Idaho	MCPA	2002	kg			101677.3		432.7				40262.9	38833.6
+16	Idaho	MCPA	2003	kg			90992		56.8					45829
+16	Idaho	MCPA	2004	kg			100266.3		105.5				1752.3	58644.9
+16	Idaho	MCPA	2005	kg			84875.5		884.1			213.7	412.5	33525.3
+16	Idaho	MCPA	2006	kg			45080.3		187.2				1771.7	21146.9
+16	Idaho	MCPA	2007	kg			53528.5		223.8				41244	38414.4
+16	Idaho	MCPA	2008	kg			50594.6		156.3					25637.6
+16	Idaho	MCPA	2009	kg			48759.1		138.7			13.5		37148.9
+16	Idaho	MCPA	2010	kg			60510.1		3103				9227.4	19423.7
+16	Idaho	MCPA	2011	kg			143898		87.5					25833.5
+16	Idaho	MCPA	2012	kg			92693.4		151.5				30678.1	39292.8
+16	Idaho	MCPA	2013	kg			129551.2		50.6					39502
+16	Idaho	MCPA	2014	kg			118622.9		42.8				342.5	32447.3
+16	Idaho	MCPA	2015	kg			149874.7		755.1				3397.8	52573.5
+16	Idaho	MCPA	2016	kg			123028.9		488.7				1116.5	36562.8
+16	Idaho	MCPA	2017	kg			72122.4		4798.1				2705.8	22475.2
+17	Illinois	MCPA	1992	kg			3632.1		182.9					456.2
+17	Illinois	MCPA	1993	kg			4335.6						507.2	131.1
+17	Illinois	MCPA	1994	kg	9688		1468.8						1483.4	331.6
+17	Illinois	MCPA	1995	kg	2964.5		6739.9						645.2	236.1
+17	Illinois	MCPA	1996	kg			5894.3							435.7
+17	Illinois	MCPA	1997	kg			14011.9							1083.6
+17	Illinois	MCPA	1998	kg			17241.2							85.3
+17	Illinois	MCPA	1999	kg			12656.8						112.5	29.8
+17	Illinois	MCPA	2000	kg			5153.4		49.8					46.1
+17	Illinois	MCPA	2001	kg			2220.5		110					23.9
+17	Illinois	MCPA	2002	kg			7414.6		5.1					56.3
+17	Illinois	MCPA	2003	kg			1911.5							16.4
+17	Illinois	MCPA	2004	kg			1051.1							20.6
+17	Illinois	MCPA	2005	kg			4168.5							26.1
+17	Illinois	MCPA	2006	kg			19547.8							29.7
+17	Illinois	MCPA	2007	kg			16082.3							1.9
+17	Illinois	MCPA	2008	kg			30798							
+17	Illinois	MCPA	2009	kg			9176.1		73.7				961.3	24.6
+17	Illinois	MCPA	2010	kg			11883.5							29.1
+17	Illinois	MCPA	2011	kg			1989.3							
+17	Illinois	MCPA	2012	kg			6234.3							
+17	Illinois	MCPA	2013	kg			6969.3							
+17	Illinois	MCPA	2014	kg			8464.2							
+17	Illinois	MCPA	2015	kg			6288.9							38.9
+17	Illinois	MCPA	2016	kg			7643.8							
+17	Illinois	MCPA	2017	kg			5414.8							4.9
+18	Indiana	MCPA	1992	kg			4979.1							749.9
+18	Indiana	MCPA	1993	kg			4514.9					21.1	52.8	316.7
+18	Indiana	MCPA	1994	kg	2200.3		2038							401.9
+18	Indiana	MCPA	1995	kg			4324.2						232.5	267.1
+18	Indiana	MCPA	1996	kg			8090							845.3
+18	Indiana	MCPA	1997	kg			24293.2							611
+18	Indiana	MCPA	1998	kg			17360.4							
+18	Indiana	MCPA	1999	kg			9167.1							
+18	Indiana	MCPA	2000	kg			7234.1							
+18	Indiana	MCPA	2001	kg			8568.1							
+18	Indiana	MCPA	2002	kg			8445.4							
+18	Indiana	MCPA	2003	kg			1825							
+18	Indiana	MCPA	2004	kg			3453.7							
+18	Indiana	MCPA	2005	kg			6095.3							
+18	Indiana	MCPA	2006	kg			17981.7							
+18	Indiana	MCPA	2007	kg			7941.8							
+18	Indiana	MCPA	2008	kg			46817.1							
+18	Indiana	MCPA	2009	kg	50207.9		4902.8							
+18	Indiana	MCPA	2010	kg			12641.7							
+18	Indiana	MCPA	2011	kg			1465.4							
+18	Indiana	MCPA	2012	kg			3748							
+18	Indiana	MCPA	2013	kg			3827							
+18	Indiana	MCPA	2014	kg			3380.7							
+18	Indiana	MCPA	2015	kg			4153.3							
+18	Indiana	MCPA	2016	kg			12211.8							
+18	Indiana	MCPA	2017	kg			4448.9							
+19	Iowa	MCPA	1992	kg			237.3							6729.5
+19	Iowa	MCPA	1993	kg			82.3						1245.1	1479.3
+19	Iowa	MCPA	1994	kg	11364.8		59.1						21440	5190.7
+19	Iowa	MCPA	1995	kg	1858.9		142.5		0.5				32964.2	2219.5
+19	Iowa	MCPA	1996	kg			153.8						7346.1	3068.7
+19	Iowa	MCPA	1997	kg			348.6		0.3			89.8	539.8	4468.7
+19	Iowa	MCPA	1998	kg			472.8						190.3	446.4
+19	Iowa	MCPA	1999	kg			393						37739.9	161.9
+19	Iowa	MCPA	2000	kg			200.1		0.1					332.1
+19	Iowa	MCPA	2001	kg			242.5							140.8
+19	Iowa	MCPA	2002	kg			230.1							345.3
+19	Iowa	MCPA	2003	kg			276.3							85.8
+19	Iowa	MCPA	2004	kg			201.1						5.4	130.7
+19	Iowa	MCPA	2005	kg			206.7							147.7
+19	Iowa	MCPA	2006	kg			483.4							158.2
+19	Iowa	MCPA	2007	kg			384.6							10
+19	Iowa	MCPA	2008	kg			1331.9							
+19	Iowa	MCPA	2009	kg			495.5						13062.2	138
+19	Iowa	MCPA	2010	kg			855.6							162.5
+19	Iowa	MCPA	2011	kg			176.1							
+19	Iowa	MCPA	2012	kg			208.1							
+19	Iowa	MCPA	2013	kg			261							
+19	Iowa	MCPA	2014	kg			282.9							
+19	Iowa	MCPA	2015	kg			170						1907.2	138.2
+19	Iowa	MCPA	2016	kg			311.3							
+19	Iowa	MCPA	2017	kg			191.6							16
+20	Kansas	MCPA	1992	kg			37583.1							
+20	Kansas	MCPA	1993	kg	5455.6		85910.8						1689.3	1587.1
+20	Kansas	MCPA	1994	kg			78155.1						3928.4	4094.9
+20	Kansas	MCPA	1995	kg			46281							41403.9
+20	Kansas	MCPA	1996	kg			51594.2							
+20	Kansas	MCPA	1997	kg			22742.6							246.2
+20	Kansas	MCPA	1998	kg			89651.6					2029.8		725.9
+20	Kansas	MCPA	1999	kg			16288.4							724.1
+20	Kansas	MCPA	2000	kg			16866.8							185.7
+20	Kansas	MCPA	2001	kg			11373.8							
+20	Kansas	MCPA	2002	kg			38042.3							
+20	Kansas	MCPA	2003	kg			24775.8							276.5
+20	Kansas	MCPA	2004	kg			17129.2							
+20	Kansas	MCPA	2005	kg			20455.4							
+20	Kansas	MCPA	2006	kg			20913							
+20	Kansas	MCPA	2007	kg			34017.1							1662
+20	Kansas	MCPA	2008	kg			44303.3							
+20	Kansas	MCPA	2009	kg			31793.3							
+20	Kansas	MCPA	2010	kg			39841.9						18050.2	
+20	Kansas	MCPA	2011	kg		4383.7	56041.5						91133.1	
+20	Kansas	MCPA	2012	kg			70486.5							
+20	Kansas	MCPA	2013	kg			43294							
+20	Kansas	MCPA	2014	kg			73646.9						2086	
+20	Kansas	MCPA	2015	kg			62055.2							
+20	Kansas	MCPA	2016	kg			53433.4						66621	
+20	Kansas	MCPA	2017	kg			72441						7185	
+21	Kentucky	MCPA	1992	kg			1840.4							
+21	Kentucky	MCPA	1993	kg			2197.3							592.9
+21	Kentucky	MCPA	1994	kg			1184.8							661.1
+21	Kentucky	MCPA	1995	kg			6691.8							
+21	Kentucky	MCPA	1996	kg			6330.3							
+21	Kentucky	MCPA	1997	kg			10249.1							
+21	Kentucky	MCPA	1998	kg			13431.9							
+21	Kentucky	MCPA	1999	kg			7607.3							
+21	Kentucky	MCPA	2000	kg			3370.8							
+21	Kentucky	MCPA	2001	kg			1759.5							
+21	Kentucky	MCPA	2002	kg			5719.8		2.5					
+21	Kentucky	MCPA	2003	kg			1426.2							
+21	Kentucky	MCPA	2004	kg			219.6							
+21	Kentucky	MCPA	2005	kg			3305.6							
+21	Kentucky	MCPA	2006	kg			10487.2							
+21	Kentucky	MCPA	2007	kg			6685.5							
+21	Kentucky	MCPA	2008	kg			18345.7							
+21	Kentucky	MCPA	2009	kg			5249.1							
+21	Kentucky	MCPA	2010	kg			8020.8							
+21	Kentucky	MCPA	2011	kg			1473.4							
+21	Kentucky	MCPA	2012	kg			4813.2							
+21	Kentucky	MCPA	2013	kg			5040.9							
+21	Kentucky	MCPA	2014	kg			7515.7							
+21	Kentucky	MCPA	2015	kg			5767.3							
+21	Kentucky	MCPA	2016	kg			8053.1							
+21	Kentucky	MCPA	2017	kg			4677.3							
+22	Louisiana	MCPA	1992	kg						10990.8			266.9	
+22	Louisiana	MCPA	1993	kg						9267.4				
+22	Louisiana	MCPA	1994	kg						9867.5			1197.6	
+22	Louisiana	MCPA	1995	kg						4821.7			439.3	
+22	Louisiana	MCPA	1996	kg						5714.9				
+22	Louisiana	MCPA	1997	kg						1520.8				
+22	Louisiana	MCPA	1998	kg						5642.3				
+22	Louisiana	MCPA	1999	kg			66			702.6				
+22	Louisiana	MCPA	2000	kg						1215.8				
+22	Louisiana	MCPA	2001	kg									218.4	
+22	Louisiana	MCPA	2002	kg						901.1				
+22	Louisiana	MCPA	2005	kg									815.3	
+22	Louisiana	MCPA	2009	kg									5545.2	
+22	Louisiana	MCPA	2012	kg			1969.6							
+23	Maine	MCPA	1992	kg					64.8			447.9		2509.2
+23	Maine	MCPA	1993	kg					276.6				195.8	2239.3
+23	Maine	MCPA	1994	kg					485.2			1531.9		2557.9
+23	Maine	MCPA	1995	kg					455.5					4420.1
+23	Maine	MCPA	1996	kg	1540.6				464.1					8903.6
+23	Maine	MCPA	1997	kg					595.3					3893.7
+23	Maine	MCPA	1999	kg										713.9
+23	Maine	MCPA	2000	kg										218.5
+23	Maine	MCPA	2001	kg										3222
+23	Maine	MCPA	2002	kg										6959.2
+23	Maine	MCPA	2003	kg										3872.7
+23	Maine	MCPA	2004	kg									5224.6	5160.1
+23	Maine	MCPA	2006	kg					115.8					
+24	Maryland	MCPA	1992	kg	329		1920.1		2.1			2511.6		248.9
+24	Maryland	MCPA	1993	kg	15.3		538.8							4572.8
+24	Maryland	MCPA	1994	kg			503.8							517
+24	Maryland	MCPA	1995	kg			2.5							2221.3
+24	Maryland	MCPA	1996	kg			6944.1							3472.3
+24	Maryland	MCPA	1997	kg			798.4							2617.3
+24	Maryland	MCPA	1998	kg			1.2					437.8	632.3	5.2
+24	Maryland	MCPA	1999	kg										1848.5
+24	Maryland	MCPA	2000	kg										531
+24	Maryland	MCPA	2001	kg			0.3							988
+24	Maryland	MCPA	2002	kg								32.5		309.1
+24	Maryland	MCPA	2003	kg			0.2							1250.8
+24	Maryland	MCPA	2004	kg										1412.2
+24	Maryland	MCPA	2007	kg	276									
+25	Massachusetts	MCPA	1992	kg										11.6
+25	Massachusetts	MCPA	1993	kg										7.5
+25	Massachusetts	MCPA	1994	kg										3.1
+25	Massachusetts	MCPA	1995	kg										4
+25	Massachusetts	MCPA	1996	kg										1
+25	Massachusetts	MCPA	1997	kg										2.8
+26	Michigan	MCPA	1992	kg			3001.5		64.5				159.9	3510.6
+26	Michigan	MCPA	1993	kg	357.5		6702.8		65.4			122.1		4322.4
+26	Michigan	MCPA	1994	kg	10839		2653.3		75			588.9	247.5	8304.3
+26	Michigan	MCPA	1995	kg			11078.4		16.3			502.1		16138.4
+26	Michigan	MCPA	1996	kg	444.1		8603		63.6			156.3		9416.7
+26	Michigan	MCPA	1997	kg	3543.3		4516.6		10.4					4111
+26	Michigan	MCPA	1998	kg			4905.6							4074.2
+26	Michigan	MCPA	1999	kg			964.8							1511.6
+26	Michigan	MCPA	2000	kg			8641.1					58.9		571.5
+26	Michigan	MCPA	2001	kg			1880.6		86.6					259.3
+26	Michigan	MCPA	2002	kg			11333.5							153.5
+26	Michigan	MCPA	2003	kg			29968.9							209.9
+26	Michigan	MCPA	2004	kg			6091.4							418.1
+26	Michigan	MCPA	2005	kg			9387.8					3839.6		944
+26	Michigan	MCPA	2006	kg			2144		57.7					
+26	Michigan	MCPA	2007	kg			4594.7					1519.1		238.9
+26	Michigan	MCPA	2008	kg			11892.7							
+26	Michigan	MCPA	2009	kg	84347.6		4537.7							332.2
+26	Michigan	MCPA	2010	kg			14092.1							825.3
+26	Michigan	MCPA	2011	kg			898.8							
+26	Michigan	MCPA	2012	kg			4234.9							
+26	Michigan	MCPA	2013	kg			11731.7					404		
+26	Michigan	MCPA	2014	kg			2660.9						2710.2	
+26	Michigan	MCPA	2015	kg			4473.4							1278.4
+26	Michigan	MCPA	2016	kg			5793.4							
+26	Michigan	MCPA	2017	kg			2769.5							204.8
+27	Minnesota	MCPA	1992	kg	81662.3	3038.6	285988		784.7				18462.8	64077.6
+27	Minnesota	MCPA	1993	kg	235.3	7637.5	268440.2		629.9				17953.9	82672.1
+27	Minnesota	MCPA	1994	kg	14215.4		263929.3		294.6			332.5	7868.9	71198.1
+27	Minnesota	MCPA	1995	kg	7425.2		243846.2		661.3				2990.9	72312.4
+27	Minnesota	MCPA	1996	kg	4272.4		268744.9		130.3			1062.6	10921.9	50960.5
+27	Minnesota	MCPA	1997	kg	208100.4		353133.1		82			1227.6	11318	40699.8
+27	Minnesota	MCPA	1998	kg			221082.2		629.1				274.3	44861
+27	Minnesota	MCPA	1999	kg			220831.4		399.2				19713.3	12769.6
+27	Minnesota	MCPA	2000	kg			239224.4		230					14378.9
+27	Minnesota	MCPA	2001	kg			207796.7		153.7				4631.1	14739
+27	Minnesota	MCPA	2002	kg			183502.9							13212.9
+27	Minnesota	MCPA	2003	kg			224086.8						5420.5	13317.7
+27	Minnesota	MCPA	2004	kg			187542.7						1374.1	12315.2
+27	Minnesota	MCPA	2005	kg			143228.5					2003.5	1275.5	7277.7
+27	Minnesota	MCPA	2006	kg			180989.2						252.9	6545.7
+27	Minnesota	MCPA	2007	kg			157980						27533.2	6443.1
+27	Minnesota	MCPA	2008	kg			128064.1							4042.1
+27	Minnesota	MCPA	2009	kg			158535						13975.4	2596.3
+27	Minnesota	MCPA	2010	kg			137765.7							4944.5
+27	Minnesota	MCPA	2011	kg	17876.2		105939.8						104	1591.9
+27	Minnesota	MCPA	2012	kg			86162.2							8019.1
+27	Minnesota	MCPA	2013	kg			65327.7							2338
+27	Minnesota	MCPA	2014	kg			65749.7							3161.4
+27	Minnesota	MCPA	2015	kg			118128.6						7728.2	4318.3
+27	Minnesota	MCPA	2016	kg			84531.7						4587.7	1376.3
+27	Minnesota	MCPA	2017	kg			84249.8							2129.8
+28	Mississippi	MCPA	1992	kg									215.9	
+28	Mississippi	MCPA	1993	kg				2235.6						
+28	Mississippi	MCPA	1995	kg				1562.8						
+28	Mississippi	MCPA	1999	kg									5470.4	
+28	Mississippi	MCPA	2002	kg			91.2							
+28	Mississippi	MCPA	2003	kg			415							
+28	Mississippi	MCPA	2016	kg			61.3							
+29	Missouri	MCPA	1992	kg			3972.3							
+29	Missouri	MCPA	1993	kg	1169.4		7369.1						341.1	
+29	Missouri	MCPA	1994	kg	361.9		3208.3						10302.6	
+29	Missouri	MCPA	1995	kg			6720.6						119365.8	
+29	Missouri	MCPA	1996	kg			7611.6							
+29	Missouri	MCPA	1997	kg			14056.9	3911.5						
+29	Missouri	MCPA	1998	kg			22927.5							
+29	Missouri	MCPA	1999	kg			13773.7						11851	
+29	Missouri	MCPA	2000	kg			4180.9							
+29	Missouri	MCPA	2001	kg			2281							
+29	Missouri	MCPA	2002	kg			8878.5		1535.7					
+29	Missouri	MCPA	2003	kg			2338.5							
+29	Missouri	MCPA	2004	kg			3767.1							
+29	Missouri	MCPA	2005	kg			4481.1							
+29	Missouri	MCPA	2006	kg			21237.5							
+29	Missouri	MCPA	2007	kg			17447.7							
+29	Missouri	MCPA	2008	kg			24729.3							
+29	Missouri	MCPA	2009	kg			6368.5						27491.3	
+29	Missouri	MCPA	2010	kg			7782.1							
+29	Missouri	MCPA	2011	kg			1557.6							
+29	Missouri	MCPA	2012	kg			5633.2							
+29	Missouri	MCPA	2013	kg			4874.8							
+29	Missouri	MCPA	2014	kg			6922.9							
+29	Missouri	MCPA	2015	kg			6394							
+29	Missouri	MCPA	2016	kg			7660.4							
+29	Missouri	MCPA	2017	kg			5505.8							
+30	Montana	MCPA	1992	kg			22708		208			404.1	29604.9	21967.3
+30	Montana	MCPA	1993	kg			30933		78.8			6574.1	79734.3	19319.2
+30	Montana	MCPA	1994	kg			55827.9		89.3				4258.1	23631.5
+30	Montana	MCPA	1995	kg			53303.6		127.7				60510.3	15868.1
+30	Montana	MCPA	1996	kg			83800		6			6644.9	17055.6	15991
+30	Montana	MCPA	1997	kg			272882.8		6.5				25102.2	29643.8
+30	Montana	MCPA	1998	kg			61723.1		11.4				9870.2	9841.8
+30	Montana	MCPA	1999	kg			40953.1		1822.3				618686.8	32566.6
+30	Montana	MCPA	2000	kg			55053.7							37187.5
+30	Montana	MCPA	2001	kg			71065.9		0			138.8	86286.9	21227.9
+30	Montana	MCPA	2002	kg			73773.7							27809
+30	Montana	MCPA	2003	kg			133976.4		0				3867.2	27224.2
+30	Montana	MCPA	2004	kg			110065.2		0				8875.2	29730.9
+30	Montana	MCPA	2005	kg			117170.5		23.9				108654.4	32901.3
+30	Montana	MCPA	2006	kg			122129.9					3783.5	8894.5	24636.9
+30	Montana	MCPA	2007	kg			143408.4		49.3				99260.3	29382
+30	Montana	MCPA	2008	kg			188159.3		0.2					34020.4
+30	Montana	MCPA	2009	kg			108291.5		93.2				19489.6	26939.2
+30	Montana	MCPA	2010	kg			207594.6		31.8				61089.3	26405.6
+30	Montana	MCPA	2011	kg			109959.2		0				1554.5	28573.1
+30	Montana	MCPA	2012	kg			109579.9		0				209681.9	35359.7
+30	Montana	MCPA	2013	kg			129427.6		134.9			17.6	50626.9	29550.3
+30	Montana	MCPA	2014	kg			124588						734.3	37441.3
+30	Montana	MCPA	2015	kg			165666.8		300.1				32429.7	40084.8
+30	Montana	MCPA	2016	kg			154970.3		3.9				92982	56336.5
+30	Montana	MCPA	2017	kg			122974.7		30272.2				7629	31050.7
+31	Nebraska	MCPA	1992	kg	3212.2		3585.6		515.3				198.6	4398.3
+31	Nebraska	MCPA	1993	kg	491.4		18411.7						3087.6	1246.6
+31	Nebraska	MCPA	1994	kg			3320.4						22445.7	2898.6
+31	Nebraska	MCPA	1995	kg	12494.8		8079.2						100	1311.4
+31	Nebraska	MCPA	1996	kg	583.5		7767.3						2865.4	2882.7
+31	Nebraska	MCPA	1997	kg			2146						90.6	3319.5
+31	Nebraska	MCPA	1998	kg			11124						639.4	456.1
+31	Nebraska	MCPA	1999	kg			9095.7						11356.5	336.5
+31	Nebraska	MCPA	2000	kg			1386.4							432.3
+31	Nebraska	MCPA	2001	kg			3098.4							99
+31	Nebraska	MCPA	2002	kg			6214.1							197.1
+31	Nebraska	MCPA	2003	kg			8259.2							766.6
+31	Nebraska	MCPA	2004	kg			3944.3						2923.1	204.3
+31	Nebraska	MCPA	2005	kg			4976.8		160.8				10386.5	526.9
+31	Nebraska	MCPA	2006	kg			11609.3						3776.5	99.4
+31	Nebraska	MCPA	2007	kg			37625.2						832.9	264.8
+31	Nebraska	MCPA	2008	kg			41333.3							34.5
+31	Nebraska	MCPA	2009	kg			7555.1						6171.7	37.7
+31	Nebraska	MCPA	2010	kg			9531.7							59.3
+31	Nebraska	MCPA	2011	kg			6592.1						43709.7	20.5
+31	Nebraska	MCPA	2012	kg			12906.9							69.7
+31	Nebraska	MCPA	2013	kg			18081.7							36.9
+31	Nebraska	MCPA	2014	kg			26540							45
+31	Nebraska	MCPA	2015	kg			30019.3							186
+31	Nebraska	MCPA	2016	kg			4352.4						22221.1	94
+31	Nebraska	MCPA	2017	kg			14172.2							63.8
+32	Nevada	MCPA	1992	kg			688.2		0.1			95.4	682.8	353.8
+32	Nevada	MCPA	1993	kg			329.8		0.1			205.4	23960.8	75.2
+32	Nevada	MCPA	1994	kg			167.4		31.5				326.3	65.8
+32	Nevada	MCPA	1995	kg			397.4		0				526.6	161.4
+32	Nevada	MCPA	1996	kg			952.5		0			1465.5	655.2	87.9
+32	Nevada	MCPA	1997	kg			757					71.8	12541.7	250.6
+32	Nevada	MCPA	1998	kg			1004.9		0				2282.3	6.5
+32	Nevada	MCPA	1999	kg			1024.8		0				2126.9	72.6
+32	Nevada	MCPA	2000	kg			1114.9		0.2					61.8
+32	Nevada	MCPA	2001	kg			184.7		0				3283.9	215.3
+32	Nevada	MCPA	2002	kg			344.6							433.9
+32	Nevada	MCPA	2003	kg			698.9		0					27.3
+32	Nevada	MCPA	2004	kg			202.2		0					1.9
+32	Nevada	MCPA	2005	kg			304.9		0			13.1		57.2
+32	Nevada	MCPA	2006	kg			330.4		0.1			1192.3	18.6	105.3
+32	Nevada	MCPA	2007	kg			235.6						12233.4	11.2
+32	Nevada	MCPA	2008	kg			937.9		0					11.5
+32	Nevada	MCPA	2009	kg			1138.3		0.1			16.6		67.6
+32	Nevada	MCPA	2010	kg			1844.7		0				60.9	97.6
+32	Nevada	MCPA	2011	kg			795.8		0				2833.8	19.3
+32	Nevada	MCPA	2012	kg			1354.4		0					15.8
+32	Nevada	MCPA	2013	kg			1228.4							132.7
+32	Nevada	MCPA	2014	kg			1994.5							28.5
+32	Nevada	MCPA	2015	kg			1152.9		4.9				8393.6	57.1
+32	Nevada	MCPA	2016	kg			634		0				29.1	76.9
+32	Nevada	MCPA	2017	kg			514.9		0				484.6	68.8
+33	New Hampshire	MCPA	1993	kg									37.9	
+33	New Hampshire	MCPA	1996	kg	821.4									
+33	New Hampshire	MCPA	1997	kg					12.2					
+34	New Jersey	MCPA	1992	kg			337.5					648.8		786.3
+34	New Jersey	MCPA	1993	kg			8.8							1184.7
+34	New Jersey	MCPA	1994	kg			82.6							520.9
+34	New Jersey	MCPA	1995	kg										758.4
+34	New Jersey	MCPA	1996	kg			92.6					51.8		718.3
+34	New Jersey	MCPA	1997	kg			119.2							767.5
+34	New Jersey	MCPA	1999	kg			94.4							112.5
+34	New Jersey	MCPA	2000	kg										128
+34	New Jersey	MCPA	2001	kg										293
+34	New Jersey	MCPA	2002	kg										64
+34	New Jersey	MCPA	2003	kg										234
+34	New Jersey	MCPA	2004	kg										306
+35	New Mexico	MCPA	1992	kg			806.5						302.5	242.8
+35	New Mexico	MCPA	1993	kg			1595.9						40786.8	44.9
+35	New Mexico	MCPA	1994	kg			453.2						60.5	31.8
+35	New Mexico	MCPA	1995	kg			677.2		104				77.3	93
+35	New Mexico	MCPA	1996	kg			11079.8						1760.8	118.1
+35	New Mexico	MCPA	1997	kg			2897						22428.4	89.4
+35	New Mexico	MCPA	1998	kg			67813.6					581.3	6573.7	12.2
+35	New Mexico	MCPA	1999	kg			3524.1						2564	97.7
+35	New Mexico	MCPA	2000	kg			579.2							45.8
+35	New Mexico	MCPA	2001	kg			196.4						7275.5	102.8
+35	New Mexico	MCPA	2002	kg			703							117
+35	New Mexico	MCPA	2003	kg			661.8							67.8
+35	New Mexico	MCPA	2004	kg			1789.2							77.3
+35	New Mexico	MCPA	2005	kg			806							159.4
+35	New Mexico	MCPA	2006	kg			251							85.6
+35	New Mexico	MCPA	2007	kg			361.7		6.4				21439.6	174
+35	New Mexico	MCPA	2008	kg			919							79.1
+35	New Mexico	MCPA	2009	kg			1121.6							68.8
+35	New Mexico	MCPA	2010	kg			1876.5						348.8	15
+35	New Mexico	MCPA	2011	kg			1091.5						8844.7	25.5
+35	New Mexico	MCPA	2012	kg			2754.6							
+35	New Mexico	MCPA	2013	kg			9838.3							110.9
+35	New Mexico	MCPA	2014	kg			2051.6							90.5
+35	New Mexico	MCPA	2015	kg			2011.4						18186.2	63.5
+35	New Mexico	MCPA	2016	kg			2383.1						1485.9	61.4
+35	New Mexico	MCPA	2017	kg			5307.3						330.6	157
+36	New York	MCPA	1992	kg			488.7					4159.3	135.3	1417.8
+36	New York	MCPA	1993	kg			59.1		1.4			146	1072	7471.8
+36	New York	MCPA	1994	kg			598.2					223.6		6178.6
+36	New York	MCPA	1995	kg			2421		820.9				180.5	3380.1
+36	New York	MCPA	1996	kg			3145.1		377.9			191.2		3120.2
+36	New York	MCPA	1997	kg			3661.9		2438.3					6143.7
+36	New York	MCPA	1998	kg								174		33.8
+36	New York	MCPA	1999	kg			18							295.5
+36	New York	MCPA	2000	kg										404.1
+36	New York	MCPA	2001	kg					1312.3				359.6	838.9
+36	New York	MCPA	2002	kg									3627.7	298.7
+36	New York	MCPA	2003	kg			232.1							925
+36	New York	MCPA	2004	kg										1423.3
+36	New York	MCPA	2007	kg	8728.4									
+36	New York	MCPA	2008	kg								281.4		
+36	New York	MCPA	2011	kg								917		
+36	New York	MCPA	2012	kg								401.5	8130	
+36	New York	MCPA	2015	kg								39.1		
+37	North Carolina	MCPA	1992	kg	8421.6								4150.2	230.5
+37	North Carolina	MCPA	1996	kg	4927.4									
+37	North Carolina	MCPA	2002	kg			5348.8							
+37	North Carolina	MCPA	2006	kg			181.3							
+37	North Carolina	MCPA	2007	kg									24265.5	
+37	North Carolina	MCPA	2016	kg			4722.3							
+38	North Dakota	MCPA	1992	kg	6800	498.4	618314		1890				28331	160306.1
+38	North Dakota	MCPA	1993	kg		1175.2	422830.9						37475.4	159776.3
+38	North Dakota	MCPA	1994	kg			664829.1		814.2				18488	154003.9
+38	North Dakota	MCPA	1995	kg	11251.2		658840						17383.1	160230.8
+38	North Dakota	MCPA	1996	kg	658.8		728996.8		3659.1			105.1	27289.8	206544.8
+38	North Dakota	MCPA	1997	kg			749612.7		281.6				22120	261282.1
+38	North Dakota	MCPA	1998	kg			714047.3		3599.1				2736.9	127855.9
+38	North Dakota	MCPA	1999	kg			469764.7						334005.7	82652.4
+38	North Dakota	MCPA	2000	kg			608956						3566.7	119046.7
+38	North Dakota	MCPA	2001	kg			747907.3						39452.4	98874.4
+38	North Dakota	MCPA	2002	kg			745735.1						1160.7	110839.5
+38	North Dakota	MCPA	2003	kg			685229.5						3975	164411.9
+38	North Dakota	MCPA	2004	kg			636630.3						7727.4	133586.5
+38	North Dakota	MCPA	2005	kg			557383.4						7696.8	103402
+38	North Dakota	MCPA	2006	kg			516437.9						5968.9	41657.2
+38	North Dakota	MCPA	2007	kg			534833.6		124.9				98601.5	87956
+38	North Dakota	MCPA	2008	kg			396890.7							69078.1
+38	North Dakota	MCPA	2009	kg			245573.2		130.4				5520.4	36197.2
+38	North Dakota	MCPA	2010	kg			253048						584.9	53310.8
+38	North Dakota	MCPA	2011	kg			249808.1						4926.5	17654.4
+38	North Dakota	MCPA	2012	kg			258074.5							49653
+38	North Dakota	MCPA	2013	kg			283601.1							36610.7
+38	North Dakota	MCPA	2014	kg			209734						455.6	26458.1
+38	North Dakota	MCPA	2015	kg			225595.8						1979.8	47300.5
+38	North Dakota	MCPA	2016	kg			283707.5						70225.2	42698.9
+38	North Dakota	MCPA	2017	kg			177939.2						105.3	26319.2
+39	Ohio	MCPA	1992	kg			2059.5						113.5	1262.6
+39	Ohio	MCPA	1993	kg	182.2		7544.3					227.5	902	1411.2
+39	Ohio	MCPA	1994	kg	1206.1		1852.5		151.9			378.3		4797.4
+39	Ohio	MCPA	1995	kg			17976						648.2	3626.6
+39	Ohio	MCPA	1996	kg			8263.9							4538.9
+39	Ohio	MCPA	1997	kg			8013.3							3511
+39	Ohio	MCPA	1998	kg			7606.4					313.9		52.4
+39	Ohio	MCPA	1999	kg			10696.8							86.1
+39	Ohio	MCPA	2000	kg			6634.7							66
+39	Ohio	MCPA	2001	kg			5470.2						331	133.3
+39	Ohio	MCPA	2002	kg			8749.6							36.7
+39	Ohio	MCPA	2003	kg			3982.3						907	12
+39	Ohio	MCPA	2004	kg			4852.2							66.3
+39	Ohio	MCPA	2005	kg			6117.3					489.3		96.9
+39	Ohio	MCPA	2006	kg			6803							1.2
+39	Ohio	MCPA	2007	kg			7907							
+39	Ohio	MCPA	2008	kg			11097					706.3		
+39	Ohio	MCPA	2009	kg	27008.9		9492							42.9
+39	Ohio	MCPA	2010	kg			20560.7							97.3
+39	Ohio	MCPA	2011	kg			3203					1883.7		
+39	Ohio	MCPA	2012	kg			6655.1					815.6	7524.5	
+39	Ohio	MCPA	2013	kg			3751.7							
+39	Ohio	MCPA	2014	kg			12163.7							
+39	Ohio	MCPA	2015	kg			9632.7					43.2		211.9
+39	Ohio	MCPA	2016	kg			65160.3							
+39	Ohio	MCPA	2017	kg			8838.2							35.2
+40	Oklahoma	MCPA	1992	kg			5887.5							489.4
+40	Oklahoma	MCPA	1993	kg			49229.8							44.1
+40	Oklahoma	MCPA	1994	kg			23152	1970.7					898.8	1360.1
+40	Oklahoma	MCPA	1995	kg			8476.8						78.2	131.5
+40	Oklahoma	MCPA	1996	kg			11071.8							5.7
+40	Oklahoma	MCPA	1997	kg			4088.4							99.5
+40	Oklahoma	MCPA	1998	kg			16661					230.7		
+40	Oklahoma	MCPA	1999	kg			17230.2						5730.4	822.4
+40	Oklahoma	MCPA	2000	kg			5809.5							
+40	Oklahoma	MCPA	2001	kg			1555.4							
+40	Oklahoma	MCPA	2002	kg			13622.6							
+40	Oklahoma	MCPA	2003	kg			18522.8							
+40	Oklahoma	MCPA	2004	kg			12413.8						126.4	
+40	Oklahoma	MCPA	2005	kg			19334.9						1930.2	
+40	Oklahoma	MCPA	2006	kg			2407.7							
+40	Oklahoma	MCPA	2007	kg	498.9		11462.2		4.2					136.8
+40	Oklahoma	MCPA	2008	kg			13200.9							
+40	Oklahoma	MCPA	2009	kg			20792.1							
+40	Oklahoma	MCPA	2010	kg			12765.7						3671	
+40	Oklahoma	MCPA	2011	kg		996.2	79073.2						67091.4	
+40	Oklahoma	MCPA	2012	kg			46921.2							
+40	Oklahoma	MCPA	2013	kg			28675.9							
+40	Oklahoma	MCPA	2014	kg			53514.4						151.7	
+40	Oklahoma	MCPA	2015	kg			61020.7							
+40	Oklahoma	MCPA	2016	kg			82233.5						4740.3	
+40	Oklahoma	MCPA	2017	kg			57843.8						518	
+41	Oregon	MCPA	1992	kg	36.2		98383.9		826.5		10.1	359.4	48781.1	18642.3
+41	Oregon	MCPA	1993	kg			69719.1		1654.8			3827.4	45883.8	3708.6
+41	Oregon	MCPA	1994	kg			77636.3		2209.2				28914.3	8728.1
+41	Oregon	MCPA	1995	kg			101622		2756.7		345.6		12318.3	9945.2
+41	Oregon	MCPA	1996	kg	57.6		60982.2		2936.6			1621.6	63659.4	4495.6
+41	Oregon	MCPA	1997	kg			92010.2		3338				48176.6	9418.1
+41	Oregon	MCPA	1998	kg			42121.1		876.6				304433.5	9981.2
+41	Oregon	MCPA	1999	kg			48983.9		1189.5				97990.8	9182.9
+41	Oregon	MCPA	2000	kg			76970		438				39114.9	7184.4
+41	Oregon	MCPA	2001	kg			80414.2		627.8				323051.3	2656.6
+41	Oregon	MCPA	2002	kg			49911.8		1650.3				97292.3	3067.7
+41	Oregon	MCPA	2003	kg			55150.7		347				10181.9	2444.8
+41	Oregon	MCPA	2004	kg			33539.1		472.1			1369.1		1906.6
+41	Oregon	MCPA	2005	kg			13640.3		881			3761.6	1247.8	1847.4
+41	Oregon	MCPA	2006	kg			14885.9		1147.5			1982.7	6500	2818.2
+41	Oregon	MCPA	2007	kg			16955.6		911.8				17762	5131.4
+41	Oregon	MCPA	2008	kg			12824.4		1245.9					1536
+41	Oregon	MCPA	2009	kg			26146.4		1620.4			16		2529.1
+41	Oregon	MCPA	2010	kg			23081.2		1054.8				17380.6	6233.6
+41	Oregon	MCPA	2011	kg			16997.5		673.3					3144.3
+41	Oregon	MCPA	2012	kg			23292.4		191.8		970.1			649
+41	Oregon	MCPA	2013	kg			13985.4		1618.5		883.5			4151.7
+41	Oregon	MCPA	2014	kg			30186.2		1344.4		2501.7		4231.1	674.8
+41	Oregon	MCPA	2015	kg			27985.5		407.1		11.7		19233.3	3788
+41	Oregon	MCPA	2016	kg			31439.5		820.4		131.5		94043.2	1268.8
+41	Oregon	MCPA	2017	kg			11682.2		1477.7		113.6		28406.6	2699.5
+42	Pennsylvania	MCPA	1992	kg			6896		509.5			16145.9	317.8	13992.1
+42	Pennsylvania	MCPA	1993	kg	1062.7		1181.8					501.6	2452.3	22857.6
+42	Pennsylvania	MCPA	1994	kg			1200.5		37.8			887.2		9872.8
+42	Pennsylvania	MCPA	1995	kg			443.3						337.9	9071.4
+42	Pennsylvania	MCPA	1996	kg			9141.5		83.8			1443.9		12251.8
+42	Pennsylvania	MCPA	1997	kg			2468		288.5					13219.4
+42	Pennsylvania	MCPA	1998	kg			223.9					2440.3	362	318.6
+42	Pennsylvania	MCPA	1999	kg			1568.3							1977
+42	Pennsylvania	MCPA	2000	kg										3224.4
+42	Pennsylvania	MCPA	2001	kg			42.4		5177.6				1078.1	751.2
+42	Pennsylvania	MCPA	2002	kg								1141.4	1728.5	152.3
+42	Pennsylvania	MCPA	2003	kg			1739.4						6086.3	4005.1
+42	Pennsylvania	MCPA	2004	kg			553.7							2654.5
+42	Pennsylvania	MCPA	2007	kg	24585.4									
+42	Pennsylvania	MCPA	2008	kg								1666.6		
+42	Pennsylvania	MCPA	2009	kg										395.3
+42	Pennsylvania	MCPA	2010	kg										93.4
+42	Pennsylvania	MCPA	2011	kg								4124.3		234.8
+42	Pennsylvania	MCPA	2012	kg								1416.1	21235.4	1013.1
+42	Pennsylvania	MCPA	2013	kg										98.5
+42	Pennsylvania	MCPA	2014	kg										109.2
+42	Pennsylvania	MCPA	2015	kg								104.8		
+44	Rhode Island	MCPA	1992	kg										4.2
+44	Rhode Island	MCPA	1993	kg										2.5
+44	Rhode Island	MCPA	1994	kg										1.2
+44	Rhode Island	MCPA	1995	kg										2.8
+44	Rhode Island	MCPA	1996	kg										3.8
+44	Rhode Island	MCPA	1997	kg										1.5
+45	South Carolina	MCPA	1996	kg	1413.1									
+45	South Carolina	MCPA	1998	kg			495.9							
+45	South Carolina	MCPA	2002	kg			225.2							
+45	South Carolina	MCPA	2007	kg									2763.8	
+45	South Carolina	MCPA	2008	kg			312.9							
+45	South Carolina	MCPA	2013	kg			85.2							
+45	South Carolina	MCPA	2016	kg			1134.8							
+46	South Dakota	MCPA	1992	kg	2980.6	413.3	86466.7		4.7				15661	41481.5
+46	South Dakota	MCPA	1993	kg	3.7	1044.9	94991.2						10820	23537.1
+46	South Dakota	MCPA	1994	kg	1068.4		375550						27832.1	57966.6
+46	South Dakota	MCPA	1995	kg	9483.8		123340.7						54776.2	24767.2
+46	South Dakota	MCPA	1996	kg	1024.9		156840.7						27599.1	23897.1
+46	South Dakota	MCPA	1997	kg			141283.5					822.4	11935.4	22152.2
+46	South Dakota	MCPA	1998	kg			123992.4						5859.5	8082.7
+46	South Dakota	MCPA	1999	kg			87122.5						599796.5	6104
+46	South Dakota	MCPA	2000	kg			124382.8							6569
+46	South Dakota	MCPA	2001	kg			111222.6						69445.6	2496.2
+46	South Dakota	MCPA	2002	kg			82552.6							5197.6
+46	South Dakota	MCPA	2003	kg			110446.6							7068.8
+46	South Dakota	MCPA	2004	kg			121976.8						828.6	1502.6
+46	South Dakota	MCPA	2005	kg			134859.7		0.9				2941.3	4610.4
+46	South Dakota	MCPA	2006	kg			87018.8						427.6	2485.7
+46	South Dakota	MCPA	2007	kg			94771.4						13823.5	1593.2
+46	South Dakota	MCPA	2008	kg			179999.8							1634.9
+46	South Dakota	MCPA	2009	kg			80880.6						8272.3	1821.3
+46	South Dakota	MCPA	2010	kg			97056.7						405.6	1468.4
+46	South Dakota	MCPA	2011	kg			68843.2						1112.6	890.5
+46	South Dakota	MCPA	2012	kg			36355.5							709.8
+46	South Dakota	MCPA	2013	kg			52405.5						534.6	610.1
+46	South Dakota	MCPA	2014	kg			50301.7							371.4
+46	South Dakota	MCPA	2015	kg			105362.1							1361.3
+46	South Dakota	MCPA	2016	kg			23709.8						82814.9	848.9
+46	South Dakota	MCPA	2017	kg			61940							357.1
+47	Tennessee	MCPA	1992	kg									60.8	
+47	Tennessee	MCPA	1993	kg				916.8						356.8
+47	Tennessee	MCPA	1994	kg										283.3
+47	Tennessee	MCPA	1995	kg			839.6	584.5						
+47	Tennessee	MCPA	1996	kg			623							
+47	Tennessee	MCPA	1997	kg				1342.4						
+47	Tennessee	MCPA	1998	kg			1551.1							
+47	Tennessee	MCPA	2001	kg			93.8							
+47	Tennessee	MCPA	2002	kg					0.4					
+47	Tennessee	MCPA	2003	kg			34.6							
+47	Tennessee	MCPA	2004	kg			156.8							
+48	Texas	MCPA	1992	kg			133334.8			10932.4				299.9
+48	Texas	MCPA	1993	kg			14486.8			8048.9				774.1
+48	Texas	MCPA	1994	kg	490.4		8275.1	24817.9		9484.6			11320.2	2363.1
+48	Texas	MCPA	1995	kg			28839.1			5197.5			2544.8	3579.9
+48	Texas	MCPA	1996	kg			12034.5			5408.5			32270.6	672.6
+48	Texas	MCPA	1997	kg			2744.6			1197.6				2344
+48	Texas	MCPA	1998	kg			15072.9			3754.2				
+48	Texas	MCPA	1999	kg			51243.2			1743.8				501.5
+48	Texas	MCPA	2000	kg			2896.3			1117.5				
+48	Texas	MCPA	2001	kg			1882						51094.1	
+48	Texas	MCPA	2002	kg			7817.4			553.2				
+48	Texas	MCPA	2003	kg			9186.6							
+48	Texas	MCPA	2004	kg			17124						1666.6	
+48	Texas	MCPA	2005	kg			4115.1						28677.4	
+48	Texas	MCPA	2006	kg			825.6							
+48	Texas	MCPA	2007	kg	14194.9		8268		86.3					
+48	Texas	MCPA	2008	kg			21157.1							
+48	Texas	MCPA	2009	kg			20577						118435.1	
+48	Texas	MCPA	2010	kg			8226.5							
+48	Texas	MCPA	2011	kg			10223.9							
+48	Texas	MCPA	2012	kg			101855.6						1343.7	
+48	Texas	MCPA	2013	kg			41506.8							4223.9
+48	Texas	MCPA	2014	kg			10398.7							
+48	Texas	MCPA	2015	kg			55011.1							
+48	Texas	MCPA	2016	kg			57985.2							
+48	Texas	MCPA	2017	kg			31379.2							
+49	Utah	MCPA	1992	kg			4125.4		248.8			80.8	400.7	4874.3
+49	Utah	MCPA	1993	kg			5445.2		146.9			236.6	30622	904.4
+49	Utah	MCPA	1994	kg			3313.3		281.9				140.8	3454.9
+49	Utah	MCPA	1995	kg			2294.9		290.6				2367.9	1990.4
+49	Utah	MCPA	1996	kg			17580.2		314.8			664.3	1358.1	8004.9
+49	Utah	MCPA	1997	kg			6887.1		0.6			180.4	21293	1418.8
+49	Utah	MCPA	1998	kg			3558.3		12.5				4030.8	521.4
+49	Utah	MCPA	1999	kg			36287.1		22				2423.8	2451.3
+49	Utah	MCPA	2000	kg			2441.7							1707.5
+49	Utah	MCPA	2001	kg			2095.8		5.3			212.2	5253.5	2119.7
+49	Utah	MCPA	2002	kg			2326.3							1813.6
+49	Utah	MCPA	2003	kg			3851.2		0.9					1117.5
+49	Utah	MCPA	2004	kg			12289.1		1.9				617.6	86.9
+49	Utah	MCPA	2005	kg			912.3		3.6			31.2		311
+49	Utah	MCPA	2006	kg			3019.2						273.7	1300.7
+49	Utah	MCPA	2007	kg			8015.8						22843	338.5
+49	Utah	MCPA	2008	kg			4537.5		1.3					707.9
+49	Utah	MCPA	2009	kg			4598.1		2.9					1007.2
+49	Utah	MCPA	2010	kg			7018.2						721.9	908.3
+49	Utah	MCPA	2011	kg			6753.2		0.2				7711.8	879.5
+49	Utah	MCPA	2012	kg			4788.7		1.4					213.6
+49	Utah	MCPA	2013	kg			6580							1631
+49	Utah	MCPA	2014	kg			13823.5							847.8
+49	Utah	MCPA	2015	kg			12538.1		0.7				15296.1	172.8
+49	Utah	MCPA	2016	kg			7019.9						52.9	873.1
+49	Utah	MCPA	2017	kg			7835.7						188.2	375.4
+50	Vermont	MCPA	1992	kg										54.2
+50	Vermont	MCPA	1993	kg										139.4
+50	Vermont	MCPA	1994	kg										159.9
+50	Vermont	MCPA	1995	kg										67
+50	Vermont	MCPA	1996	kg										25.6
+50	Vermont	MCPA	1997	kg										184.1
+50	Vermont	MCPA	1999	kg										12
+50	Vermont	MCPA	2000	kg										13.8
+50	Vermont	MCPA	2001	kg										34.2
+50	Vermont	MCPA	2002	kg										10.2
+50	Vermont	MCPA	2003	kg										32.4
+50	Vermont	MCPA	2004	kg										48
+51	Virginia	MCPA	1992	kg	300								11.6	180.8
+51	Virginia	MCPA	1993	kg										32.6
+51	Virginia	MCPA	1994	kg										46.2
+51	Virginia	MCPA	1995	kg										91.9
+51	Virginia	MCPA	1996	kg										109.5
+51	Virginia	MCPA	1997	kg										36.9
+51	Virginia	MCPA	1998	kg								268	825.1	
+51	Virginia	MCPA	2002	kg			3248.3							
+51	Virginia	MCPA	2006	kg			113.7							
+51	Virginia	MCPA	2012	kg										86.3
+51	Virginia	MCPA	2016	kg			2992.4							
+53	Washington	MCPA	1992	kg	20.8		68422.7		3906		0	104.9	20648.4	54717.7
+53	Washington	MCPA	1993	kg			153752.5		3942.2			3947	13471.7	11928.3
+53	Washington	MCPA	1994	kg			51568.9		22025.4				2860.3	25278.9
+53	Washington	MCPA	1995	kg			131980.4		11030.9		4.2		9162.7	45586.8
+53	Washington	MCPA	1996	kg	509.6		119598.1		15292.6				28315.2	84260.8
+53	Washington	MCPA	1997	kg			305670.7		4795.3				12014.7	33079.6
+53	Washington	MCPA	1998	kg			157934		3253.2				5028.4	26566.6
+53	Washington	MCPA	1999	kg			108529.8		2995.3				1245.6	38778.5
+53	Washington	MCPA	2000	kg			102147.6		6376.3				128649.8	49643.8
+53	Washington	MCPA	2001	kg			165776.9		3060.6				23141.5	31257.5
+53	Washington	MCPA	2002	kg			91889.5		2545.3				36344.3	23191.6
+53	Washington	MCPA	2003	kg			142249.3		7267.6				202.5	19597.8
+53	Washington	MCPA	2004	kg			180225		14260.6					15526.9
+53	Washington	MCPA	2005	kg			112977.1		3711.8			118.9	7045	10341.5
+53	Washington	MCPA	2006	kg			96126.4		3164.7				17111.3	14222.1
+53	Washington	MCPA	2007	kg			121897.2		5619.9				10081.6	29640.9
+53	Washington	MCPA	2008	kg			75172.1		7653					5693.7
+53	Washington	MCPA	2009	kg			117769.5		2490.5					11361.6
+53	Washington	MCPA	2010	kg			104868		8410.3				21899.2	8559
+53	Washington	MCPA	2011	kg			72289.9		2060.7					6577.7
+53	Washington	MCPA	2012	kg			66234.9		5877.1		276.2			6924.2
+53	Washington	MCPA	2013	kg			77901.7		11357.5		222.6			8369.1
+53	Washington	MCPA	2014	kg			75405.3		5759.8		132.2		654.2	6744.5
+53	Washington	MCPA	2015	kg			97401.9		17767.5		1.9		1772.7	5353
+53	Washington	MCPA	2016	kg			85283.4		7650.3		8.4		3816.1	5599.1
+53	Washington	MCPA	2017	kg			100990.2		9937.4		8.6		46356.5	7745.6
+54	West Virginia	MCPA	1992	kg	110.6				4			3144.8		38.5
+54	West Virginia	MCPA	1993	kg	16.5									56.3
+54	West Virginia	MCPA	1994	kg					2.2					96.5
+54	West Virginia	MCPA	1995	kg			278.2							179.4
+54	West Virginia	MCPA	1996	kg			1292.9							385.1
+54	West Virginia	MCPA	1997	kg										46.7
+54	West Virginia	MCPA	1998	kg			122.1					239.3	945.3	0.7
+54	West Virginia	MCPA	1999	kg										4.9
+54	West Virginia	MCPA	2000	kg										7.7
+54	West Virginia	MCPA	2001	kg			29.1							
+54	West Virginia	MCPA	2002	kg								49.4		0.8
+54	West Virginia	MCPA	2003	kg			14.1						2869.3	145.1
+54	West Virginia	MCPA	2004	kg			6.7							1
+54	West Virginia	MCPA	2007	kg	208									
+54	West Virginia	MCPA	2009	kg										1.2
+55	Wisconsin	MCPA	1992	kg			1165.3		1520.1				90.6	6565.5
+55	Wisconsin	MCPA	1993	kg	541.6	473	466.8		850.2					2862.3
+55	Wisconsin	MCPA	1994	kg	16713.2	591.3	1185		407.1			814.5		7855
+55	Wisconsin	MCPA	1995	kg	683.7		1270.1		613.7				452.9	5882.7
+55	Wisconsin	MCPA	1996	kg	2318.7		2899.4		1133			419.6	104.3	10796.4
+55	Wisconsin	MCPA	1997	kg	225198.8		1944.9		149.8					17584
+55	Wisconsin	MCPA	1998	kg			1094.6		77.6					7774.5
+55	Wisconsin	MCPA	1999	kg			554.5						644.2	634.8
+55	Wisconsin	MCPA	2000	kg			2609.4		566.2			992.8		1231.3
+55	Wisconsin	MCPA	2001	kg			1059.5		854.7					374
+55	Wisconsin	MCPA	2002	kg			2989.7							355.1
+55	Wisconsin	MCPA	2003	kg			6849.6							462.1
+55	Wisconsin	MCPA	2004	kg			2281.2							1111.9
+55	Wisconsin	MCPA	2005	kg			2006.3					5164.3		2376
+55	Wisconsin	MCPA	2006	kg			1085.1		168.6					345.3
+55	Wisconsin	MCPA	2007	kg			3064.7							
+55	Wisconsin	MCPA	2008	kg			6325.5							
+55	Wisconsin	MCPA	2009	kg			12717.8		417					800.2
+55	Wisconsin	MCPA	2010	kg			4939.9							2043.7
+55	Wisconsin	MCPA	2011	kg			458.8							
+55	Wisconsin	MCPA	2012	kg			7928.4							
+55	Wisconsin	MCPA	2013	kg			6038.7							
+55	Wisconsin	MCPA	2014	kg			6090.9							
+55	Wisconsin	MCPA	2015	kg			3991.1							3273.9
+55	Wisconsin	MCPA	2016	kg			9036.5							
+55	Wisconsin	MCPA	2017	kg			1747.8							478.1
+56	Wyoming	MCPA	1992	kg	261		1221.7		52.9			112.5	702.1	9114.9
+56	Wyoming	MCPA	1993	kg	20.8		5327.3					260.4	62580.4	15581.8
+56	Wyoming	MCPA	1994	kg			971.8						694.1	8410.1
+56	Wyoming	MCPA	1995	kg	1196.5		1376.9						24516.2	9385
+56	Wyoming	MCPA	1996	kg	52.8		2748.6					5400.2	2645.7	7507.7
+56	Wyoming	MCPA	1997	kg			2100.9						21075.1	15283.5
+56	Wyoming	MCPA	1998	kg			661.2						8184.3	7806
+56	Wyoming	MCPA	1999	kg			1672.6						264381.7	6494
+56	Wyoming	MCPA	2000	kg			2984							2915.1
+56	Wyoming	MCPA	2001	kg			834.5					239.1	42458.4	6771.8
+56	Wyoming	MCPA	2002	kg			615.3							7067.5
+56	Wyoming	MCPA	2003	kg			844.7							7245.9
+56	Wyoming	MCPA	2004	kg			959.8						1208.3	4965.6
+56	Wyoming	MCPA	2005	kg			523.8		10.9				2824.3	5657.4
+56	Wyoming	MCPA	2006	kg			963						1922.1	3904.5
+56	Wyoming	MCPA	2007	kg			3338.3						88638.1	8154.7
+56	Wyoming	MCPA	2008	kg			5403.6							3680.3
+56	Wyoming	MCPA	2009	kg			1300.5						2965.5	6816.3
+56	Wyoming	MCPA	2010	kg			833.7						405.2	3139.5
+56	Wyoming	MCPA	2011	kg			781.6						635.8	6168.8
+56	Wyoming	MCPA	2012	kg			1495.7							2909
+56	Wyoming	MCPA	2013	kg			4630.1					4.5	515	6400.4
+56	Wyoming	MCPA	2014	kg			4103.7							6485.2
+56	Wyoming	MCPA	2015	kg			6760.2						19961.9	9574.3
+56	Wyoming	MCPA	2016	kg			1029						39381.7	8094
+56	Wyoming	MCPA	2017	kg			3766.7						1408.5	8394.3

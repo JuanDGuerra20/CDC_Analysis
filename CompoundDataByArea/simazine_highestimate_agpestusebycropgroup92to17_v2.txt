@@ -1,0 +1,1177 @@
+01	Alabama	SIMAZINE	1992	kg	11613.8				63.7		16623.1	40.5	7912.4	7081.4
+01	Alabama	SIMAZINE	1993	kg	29403.3				2312.4		11826.3		1652.3	
+01	Alabama	SIMAZINE	1994	kg	11651.2				513.1		7630.5		6982.4	8807.5
+01	Alabama	SIMAZINE	1995	kg	5436.6				1064.1		21515.6		3076.6	28462.7
+01	Alabama	SIMAZINE	1996	kg	10676.4				961.6		13798.5		6016.8	9819.7
+01	Alabama	SIMAZINE	1997	kg	6792.2				384.9		5198.9		1633.2	
+01	Alabama	SIMAZINE	1998	kg	17149.1				1641.5		6358.3			
+01	Alabama	SIMAZINE	1999	kg	26177.1						6739.8		745.8	
+01	Alabama	SIMAZINE	2000	kg	14304.4				1064.4		9277.7			
+01	Alabama	SIMAZINE	2001	kg	22011.9				180.6		3452.7			
+01	Alabama	SIMAZINE	2002	kg	11829.1				89		4422.3			
+01	Alabama	SIMAZINE	2003	kg	20445.6				121.4		1116.1			
+01	Alabama	SIMAZINE	2004	kg	8969.7				53.5		5540.4			
+01	Alabama	SIMAZINE	2005	kg	18350.7				46.7		3844.7			
+01	Alabama	SIMAZINE	2006	kg	29939				9.3		7687.7			
+01	Alabama	SIMAZINE	2007	kg	14692.9				11.5		8183.3			
+01	Alabama	SIMAZINE	2008	kg	13776.8						4871.8			
+01	Alabama	SIMAZINE	2009	kg	19806.9						2075.9			
+01	Alabama	SIMAZINE	2010	kg	169358.2						7353			
+01	Alabama	SIMAZINE	2011	kg	33469.6						11398.5			
+01	Alabama	SIMAZINE	2012	kg	9205.5						2452.9			
+01	Alabama	SIMAZINE	2013	kg	16581.6				18.2		1315.4			
+01	Alabama	SIMAZINE	2014	kg	42496.2				33.4		4639.8		1392.3	
+01	Alabama	SIMAZINE	2015	kg	17232.2						250.7		2617	
+01	Alabama	SIMAZINE	2016	kg	23059.7						721.4			
+01	Alabama	SIMAZINE	2017	kg	18613.7						419.5			
+04	Arizona	SIMAZINE	1992	kg					0.3		6072.5		57.6	
+04	Arizona	SIMAZINE	1993	kg							11662.8		222.6	
+04	Arizona	SIMAZINE	1994	kg					0.5		6770.4		1003.4	
+04	Arizona	SIMAZINE	1995	kg							10762		306.3	
+04	Arizona	SIMAZINE	1996	kg							9070.8		558.1	823.3
+04	Arizona	SIMAZINE	1997	kg							2974.7		3476.5	
+04	Arizona	SIMAZINE	1998	kg							14403.2			
+04	Arizona	SIMAZINE	1999	kg					0.6		2968.5			
+04	Arizona	SIMAZINE	2000	kg							2376.1			
+04	Arizona	SIMAZINE	2001	kg							3733			
+04	Arizona	SIMAZINE	2002	kg							9546.2			
+04	Arizona	SIMAZINE	2003	kg							2711.8			
+04	Arizona	SIMAZINE	2004	kg							2044.1			
+04	Arizona	SIMAZINE	2005	kg							3540.1			
+04	Arizona	SIMAZINE	2006	kg							1609.1			
+04	Arizona	SIMAZINE	2007	kg							2686.2			
+04	Arizona	SIMAZINE	2008	kg							2637.7			
+04	Arizona	SIMAZINE	2009	kg							2385			
+04	Arizona	SIMAZINE	2010	kg							2094.9			
+04	Arizona	SIMAZINE	2011	kg					0.4		2130.1			
+04	Arizona	SIMAZINE	2012	kg							1845.5			
+04	Arizona	SIMAZINE	2013	kg							679.2			
+04	Arizona	SIMAZINE	2014	kg							1235.7			
+04	Arizona	SIMAZINE	2015	kg							658.6			
+04	Arizona	SIMAZINE	2016	kg							107.5			
+04	Arizona	SIMAZINE	2017	kg							89.5			
+05	Arkansas	SIMAZINE	1992	kg	1538.6						3373.2		10426	
+05	Arkansas	SIMAZINE	1993	kg	2815.5						461.2		1905.8	
+05	Arkansas	SIMAZINE	1994	kg	1993.9						2833.8		487.8	
+05	Arkansas	SIMAZINE	1995	kg	40612.4				115.4		208.4		2728	
+05	Arkansas	SIMAZINE	1996	kg	2271.8				3673		1051.5		1.6	
+05	Arkansas	SIMAZINE	1997	kg	5962.2				4		2143.2		122.5	
+05	Arkansas	SIMAZINE	1998	kg	6340.4						1089.3		5451.3	
+05	Arkansas	SIMAZINE	1999	kg	6856.8						81.8			
+05	Arkansas	SIMAZINE	2000	kg	2086.9						2686.8			
+05	Arkansas	SIMAZINE	2001	kg	1476.2						3545.4			
+05	Arkansas	SIMAZINE	2002	kg	14151.7									
+05	Arkansas	SIMAZINE	2003	kg	10347.7						3889.9			
+05	Arkansas	SIMAZINE	2004	kg	2014.9						3672.9			
+05	Arkansas	SIMAZINE	2005	kg	5777.3						1502.4			
+05	Arkansas	SIMAZINE	2006	kg	15811.4						17.5		7339.5	
+05	Arkansas	SIMAZINE	2007	kg	14800.6						33.3		429.3	
+05	Arkansas	SIMAZINE	2008	kg	11723.5									
+05	Arkansas	SIMAZINE	2009	kg	7955									
+05	Arkansas	SIMAZINE	2010	kg	62914.5									
+05	Arkansas	SIMAZINE	2011	kg	3671.7						17			
+05	Arkansas	SIMAZINE	2012	kg	12429.2									
+05	Arkansas	SIMAZINE	2013	kg	36554.8								1348.9	
+05	Arkansas	SIMAZINE	2014	kg	38369.7								1386.2	
+05	Arkansas	SIMAZINE	2015	kg	18405.7									
+05	Arkansas	SIMAZINE	2016	kg	24700.3									
+05	Arkansas	SIMAZINE	2017	kg	10443.8									
+06	California	SIMAZINE	1992	kg					20315.4		314220.7	10	195.7	108.3
+06	California	SIMAZINE	1993	kg	55.9				16191.9		384480	16.6	281.4	163.8
+06	California	SIMAZINE	1994	kg	115.3				23143.4		294560.6	8.2	346.1	313.3
+06	California	SIMAZINE	1995	kg	8.2				16389		288188.7	17.6	4.5	364.6
+06	California	SIMAZINE	1996	kg					16333.7		313178.2		39.8	277.6
+06	California	SIMAZINE	1997	kg	3.8				14271		332929.6	87	20.8	283.4
+06	California	SIMAZINE	1998	kg	10.6		29.4		14130.4		344922.2	24.9	50.9	439.9
+06	California	SIMAZINE	1999	kg	28.7		15.1		8480.8		356486.3	49.3	39.4	557.6
+06	California	SIMAZINE	2000	kg	75.5		43.8		6674		314991.3	35.1	40.7	72.9
+06	California	SIMAZINE	2001	kg	23		1.5		6918.4		276381.2	22.8		575.7
+06	California	SIMAZINE	2002	kg	43.3			0.8	7035.7		276879.7		1.5	83.4
+06	California	SIMAZINE	2003	kg	30.9				8341.6		281499.7	16.3	3.6	559.2
+06	California	SIMAZINE	2004	kg	11.5				7262.2		282223.8	10.2	29.8	112.8
+06	California	SIMAZINE	2005	kg	21.3				7989.5		247806.9	2.6		93
+06	California	SIMAZINE	2006	kg	2.4				5273.9		243285.4		17.7	154.9
+06	California	SIMAZINE	2007	kg	44.8				6065.4		209438.5		8.6	153
+06	California	SIMAZINE	2008	kg	212.9				6827.6		166799	1.6	4.5	24.9
+06	California	SIMAZINE	2009	kg	81.8				4581.3		173630.1			4.5
+06	California	SIMAZINE	2010	kg	21.8				6234.3		159882.6		2.2	8.5
+06	California	SIMAZINE	2011	kg	22.7				9530.8		177352.4		4.5	22.1
+06	California	SIMAZINE	2012	kg	10.9				7873.8		149166.6	43.1	18.4	
+06	California	SIMAZINE	2013	kg					5805		125473.6	6.1	1.2	
+06	California	SIMAZINE	2014	kg	4.5				5489.8		101760.5		1.9	
+06	California	SIMAZINE	2015	kg					6777		71360.1		0.2	
+06	California	SIMAZINE	2016	kg	39.8				5289.4	2.1	64050.8		1	19
+06	California	SIMAZINE	2017	kg	54.4				2961.6		51370.5	0		
+08	Colorado	SIMAZINE	1992	kg	761						19.2		42.3	
+08	Colorado	SIMAZINE	1993	kg							387.8	23.6	91.6	
+08	Colorado	SIMAZINE	1994	kg									530.4	
+08	Colorado	SIMAZINE	1995	kg	865.4						32.4		79	
+08	Colorado	SIMAZINE	1996	kg							210.5		4586.4	
+08	Colorado	SIMAZINE	1997	kg							63.5		438.3	
+08	Colorado	SIMAZINE	1998	kg	1004.6						9.4			
+08	Colorado	SIMAZINE	1999	kg							105.9			
+08	Colorado	SIMAZINE	2000	kg							31.6			
+08	Colorado	SIMAZINE	2001	kg							72.5			
+08	Colorado	SIMAZINE	2002	kg							115			
+08	Colorado	SIMAZINE	2003	kg	7951									
+08	Colorado	SIMAZINE	2004	kg	3420.8									
+08	Colorado	SIMAZINE	2006	kg	18236.5									
+08	Colorado	SIMAZINE	2007	kg	23292.3									
+08	Colorado	SIMAZINE	2008	kg	41143.2									
+08	Colorado	SIMAZINE	2009	kg	13381.8									
+08	Colorado	SIMAZINE	2011	kg	17837									
+08	Colorado	SIMAZINE	2015	kg	13889.2									
+08	Colorado	SIMAZINE	2016	kg	28532.3									
+08	Colorado	SIMAZINE	2017	kg	14557.2									
+09	Connecticut	SIMAZINE	1992	kg	2754.8				0.6		1017.8			
+09	Connecticut	SIMAZINE	1993	kg	3737.2				12.2		603.7			
+09	Connecticut	SIMAZINE	1994	kg	732.8				724.6		2975.1			
+09	Connecticut	SIMAZINE	1995	kg	578.6				20.6		2040.9			3241.9
+09	Connecticut	SIMAZINE	1996	kg	470.8				10.4		243.8			
+09	Connecticut	SIMAZINE	1997	kg	9204.1				1260.5		540.9			
+09	Connecticut	SIMAZINE	1998	kg	1908				365.6		610.2			
+09	Connecticut	SIMAZINE	1999	kg	120.2						650.3			
+09	Connecticut	SIMAZINE	2000	kg	6027.6				1424.1		1203.8			
+09	Connecticut	SIMAZINE	2001	kg	2039.4				957.2		1096.1			
+09	Connecticut	SIMAZINE	2002	kg	2898.6				1027.3		1007.1			
+09	Connecticut	SIMAZINE	2003	kg	6086.8				273.3		506			
+09	Connecticut	SIMAZINE	2004	kg	1383.6						1611.8			
+09	Connecticut	SIMAZINE	2005	kg	1621.3						1628			
+09	Connecticut	SIMAZINE	2006	kg	2968.4				134.5		1653.9			
+09	Connecticut	SIMAZINE	2007	kg	1520.3						935.9			
+09	Connecticut	SIMAZINE	2008	kg	186.2				19.8		1494.8			
+09	Connecticut	SIMAZINE	2009	kg	418.4						917.2			
+09	Connecticut	SIMAZINE	2010	kg	1522.2				306.8		1179.7			
+09	Connecticut	SIMAZINE	2011	kg	1197.9						504.1			
+09	Connecticut	SIMAZINE	2012	kg	1974.6				26.7		658.7			
+09	Connecticut	SIMAZINE	2013	kg	1541.5				227.3		587.9			
+09	Connecticut	SIMAZINE	2014	kg	1635.8				211.9		469.9			
+09	Connecticut	SIMAZINE	2015	kg	787.6				197.7		380.6			
+09	Connecticut	SIMAZINE	2016	kg	1008.4						1070.2			
+09	Connecticut	SIMAZINE	2017	kg	515.8						707.4			
+10	Delaware	SIMAZINE	1992	kg	11375.2				2417.4		11.3	2.8	0.5	10.1
+10	Delaware	SIMAZINE	1993	kg	54958.2				759.6		0.7			
+10	Delaware	SIMAZINE	1994	kg	5109.6				2		1.7			20.5
+10	Delaware	SIMAZINE	1995	kg	15107.9				1359.4		4.7		3.1	3.3
+10	Delaware	SIMAZINE	1996	kg	10465.4				1809.1		6.7		323.3	21.5
+10	Delaware	SIMAZINE	1997	kg	11829.6				4155.6		2			
+10	Delaware	SIMAZINE	1998	kg	7826.7						17			
+10	Delaware	SIMAZINE	1999	kg	15125.1				307.4		8			
+10	Delaware	SIMAZINE	2000	kg	27670.7						4.4			
+10	Delaware	SIMAZINE	2001	kg	8690.2				70.5		5			
+10	Delaware	SIMAZINE	2002	kg	28629.5				3113.6		3.9			
+10	Delaware	SIMAZINE	2003	kg	25206.3				7821.6		2.1			
+10	Delaware	SIMAZINE	2004	kg	10050.8				315.6		3.2			
+10	Delaware	SIMAZINE	2005	kg	74267.8						6.9			
+10	Delaware	SIMAZINE	2006	kg	28165.8				2.2		0.7			
+10	Delaware	SIMAZINE	2007	kg	1718.3						0.4			
+10	Delaware	SIMAZINE	2008	kg	2540.6						0.6			
+10	Delaware	SIMAZINE	2009	kg	16093.8						0.2			
+10	Delaware	SIMAZINE	2010	kg	28952.2						1.5			
+10	Delaware	SIMAZINE	2011	kg	28950.1						0.2			
+10	Delaware	SIMAZINE	2012	kg	30046.2						0.2			
+10	Delaware	SIMAZINE	2013	kg	13119.2						0.1			
+10	Delaware	SIMAZINE	2014	kg	64312.2						0.5			
+10	Delaware	SIMAZINE	2015	kg	13557.8						0.5			
+10	Delaware	SIMAZINE	2016	kg	27543									
+10	Delaware	SIMAZINE	2017	kg	3726.8									
+12	Florida	SIMAZINE	1992	kg	136						449471.5		225.9	871.7
+12	Florida	SIMAZINE	1993	kg	4202.3						386601.4			1439.2
+12	Florida	SIMAZINE	1994	kg							504413.4			1909.4
+12	Florida	SIMAZINE	1995	kg							341028		191	1402.7
+12	Florida	SIMAZINE	1996	kg					806		491265		28106.9	
+12	Florida	SIMAZINE	1997	kg							986357.9		264.9	
+12	Florida	SIMAZINE	1998	kg							932841.1			
+12	Florida	SIMAZINE	1999	kg							520447.9			
+12	Florida	SIMAZINE	2000	kg							647252.5			
+12	Florida	SIMAZINE	2001	kg							580541.4			
+12	Florida	SIMAZINE	2002	kg							654763.2			
+12	Florida	SIMAZINE	2003	kg							606776.2			
+12	Florida	SIMAZINE	2004	kg							610044			
+12	Florida	SIMAZINE	2005	kg							505004.9			
+12	Florida	SIMAZINE	2006	kg							399929.9			
+12	Florida	SIMAZINE	2007	kg							456727.8			
+12	Florida	SIMAZINE	2008	kg							365324.1			
+12	Florida	SIMAZINE	2009	kg							282083.8			
+12	Florida	SIMAZINE	2010	kg							253457.2			
+12	Florida	SIMAZINE	2011	kg							182048.8			
+12	Florida	SIMAZINE	2012	kg							87245.2			
+12	Florida	SIMAZINE	2013	kg							108106.5			
+12	Florida	SIMAZINE	2014	kg							90222.6			
+12	Florida	SIMAZINE	2015	kg							82644			
+12	Florida	SIMAZINE	2016	kg							70464.3			
+12	Florida	SIMAZINE	2017	kg							42918.1			
+13	Georgia	SIMAZINE	1992	kg	16939.9				423.1		24617.8		532.1	4200.9
+13	Georgia	SIMAZINE	1993	kg	29798.2				128.7		63548.3		3943.4	547.1
+13	Georgia	SIMAZINE	1994	kg	28237.2				500.9		37100.2		2062.9	8944.9
+13	Georgia	SIMAZINE	1995	kg	11009.9				825		82898.5		741.1	27912.6
+13	Georgia	SIMAZINE	1996	kg	16998.2				734.4		93003.1		3435.1	13099.4
+13	Georgia	SIMAZINE	1997	kg	7470.4				848.3		70131.5		21379.2	15824.2
+13	Georgia	SIMAZINE	1998	kg	16816.8				1198.3		22312			
+13	Georgia	SIMAZINE	1999	kg	17684.2				424.6		33124.5		1199.1	
+13	Georgia	SIMAZINE	2000	kg	10012.8				181.9		56069.8			
+13	Georgia	SIMAZINE	2001	kg	12882.2				31.9		49904.1			
+13	Georgia	SIMAZINE	2002	kg	22702.4				319.6		53071.3			
+13	Georgia	SIMAZINE	2003	kg	24055.1				426.4		30755.2			
+13	Georgia	SIMAZINE	2004	kg	14116.3				74.5		23703.2			
+13	Georgia	SIMAZINE	2005	kg	34115.6				14.5		55602.9			
+13	Georgia	SIMAZINE	2006	kg	20873.5				3.5		33237.3			
+13	Georgia	SIMAZINE	2007	kg	43243.8				5.6		18919.3		255.5	
+13	Georgia	SIMAZINE	2008	kg	29127.2						38012.4		4594.1	
+13	Georgia	SIMAZINE	2009	kg	32204.1						32536.6			
+13	Georgia	SIMAZINE	2010	kg	14105.8						42801.1			
+13	Georgia	SIMAZINE	2011	kg	43940.1						55021.6		50.7	
+13	Georgia	SIMAZINE	2012	kg	22143						18595.4			
+13	Georgia	SIMAZINE	2013	kg	23854.3				6.1		14128.8			
+13	Georgia	SIMAZINE	2014	kg	49119.4				13.6		34216.1			
+13	Georgia	SIMAZINE	2015	kg	17945.6						8588.1			
+13	Georgia	SIMAZINE	2016	kg	22536.2						46739			
+13	Georgia	SIMAZINE	2017	kg	24356.3						55356.2			
+16	Idaho	SIMAZINE	1992	kg							601.5		6223.2	
+16	Idaho	SIMAZINE	1993	kg							640.8		229.9	
+16	Idaho	SIMAZINE	1994	kg					0		547.9		8	
+16	Idaho	SIMAZINE	1995	kg							1153.1		38.6	
+16	Idaho	SIMAZINE	1996	kg							2916.7		160.7	
+16	Idaho	SIMAZINE	1997	kg							3119.6	5322.1	67	
+16	Idaho	SIMAZINE	1998	kg							854.2			
+16	Idaho	SIMAZINE	1999	kg							1176			
+16	Idaho	SIMAZINE	2000	kg							786			
+16	Idaho	SIMAZINE	2001	kg							774.4			
+16	Idaho	SIMAZINE	2002	kg					3.1		161.4			
+16	Idaho	SIMAZINE	2003	kg							295.5			
+16	Idaho	SIMAZINE	2004	kg							373.6			
+16	Idaho	SIMAZINE	2005	kg							602.4			
+16	Idaho	SIMAZINE	2006	kg					6.4		839			
+16	Idaho	SIMAZINE	2007	kg					2.5		104.1			
+16	Idaho	SIMAZINE	2008	kg					4.6		342.8			
+16	Idaho	SIMAZINE	2009	kg					12		517.2			
+16	Idaho	SIMAZINE	2010	kg					2.8		338.2			
+16	Idaho	SIMAZINE	2011	kg							262.3			
+16	Idaho	SIMAZINE	2012	kg							97.4			
+16	Idaho	SIMAZINE	2013	kg					4.3		352.6			
+16	Idaho	SIMAZINE	2014	kg					1.9		557.3			
+16	Idaho	SIMAZINE	2015	kg							123.2			
+16	Idaho	SIMAZINE	2016	kg							1.1			
+17	Illinois	SIMAZINE	1992	kg	183991.9				602.6		1338.5		14970	628
+17	Illinois	SIMAZINE	1993	kg	282087.2				61.2		5485.1	3597	444.4	1399.9
+17	Illinois	SIMAZINE	1994	kg	279607.3				71		14607	3216.3	8963.9	3029.7
+17	Illinois	SIMAZINE	1995	kg	248932.9				1293.3		3343.7		8953.4	7044.7
+17	Illinois	SIMAZINE	1996	kg	250896.1				4003		22807.1		125771.6	7724.4
+17	Illinois	SIMAZINE	1997	kg	74982.4				3781.4		8378.7		232.5	81.3
+17	Illinois	SIMAZINE	1998	kg	293846.7				239.1		5208.2			
+17	Illinois	SIMAZINE	1999	kg	383290.9				647.4		8878.7			
+17	Illinois	SIMAZINE	2000	kg	409785.9				1179.7		3444.2			
+17	Illinois	SIMAZINE	2001	kg	413997.2						12402			
+17	Illinois	SIMAZINE	2002	kg	548035.7				6712.3		3042.7			
+17	Illinois	SIMAZINE	2003	kg	552087.1				4966.7		2369.5			642.8
+17	Illinois	SIMAZINE	2004	kg	401455.3				1087.8		4378.5			
+17	Illinois	SIMAZINE	2005	kg	496220.8				1049.9		1618.5			
+17	Illinois	SIMAZINE	2006	kg	382206.4				148.1		3745.4	4151.3		
+17	Illinois	SIMAZINE	2007	kg	509695.9				1269.5		888.7			
+17	Illinois	SIMAZINE	2008	kg	638190				465.4		583.2	13956.5		
+17	Illinois	SIMAZINE	2009	kg	398545.1				471.3		2575.1			
+17	Illinois	SIMAZINE	2010	kg	313326.1				258.8		5133.9			
+17	Illinois	SIMAZINE	2011	kg	416752.1	78425.5			524.7		5215.8			
+17	Illinois	SIMAZINE	2012	kg	502522	87207.1			753.8		3758.1			4459.8
+17	Illinois	SIMAZINE	2013	kg	564235.8	45648.2			613		3662.3	6734.6		
+17	Illinois	SIMAZINE	2014	kg	459192.9	16804.8			155.8		5582.2			
+17	Illinois	SIMAZINE	2015	kg	489193	54354.7			334.6		1188.8			
+17	Illinois	SIMAZINE	2016	kg	529426.5	52783.5			93.1			17998.9		
+17	Illinois	SIMAZINE	2017	kg	289900.6	95537.7			113.1					
+18	Indiana	SIMAZINE	1992	kg	121593.9				38.6		1280.6		18980.9	9218.5
+18	Indiana	SIMAZINE	1993	kg	97299.9				72.9		2822.7		5671.5	957.8
+18	Indiana	SIMAZINE	1994	kg	228084.6				719.7		8249.8	796	4478.6	817
+18	Indiana	SIMAZINE	1995	kg	105248.7				275.9		14029		3862.8	3707.8
+18	Indiana	SIMAZINE	1996	kg	112942.2		4964.9		1016.3		1733.3		344.2	2651.8
+18	Indiana	SIMAZINE	1997	kg	76144.2				779.8		2221.7		52	
+18	Indiana	SIMAZINE	1998	kg	264345.1				6		1416.8			
+18	Indiana	SIMAZINE	1999	kg	115855.4				102.5		2395.8			
+18	Indiana	SIMAZINE	2000	kg	221398.5						2762.5			
+18	Indiana	SIMAZINE	2001	kg	262007.6				1.3		690.6			
+18	Indiana	SIMAZINE	2002	kg	299581.2				1759.5		1252.2			
+18	Indiana	SIMAZINE	2003	kg	229499.3				2207.4		978.2			41.3
+18	Indiana	SIMAZINE	2004	kg	275407.7				488.1		3188			
+18	Indiana	SIMAZINE	2005	kg	213228.5				629.3		268.1			
+18	Indiana	SIMAZINE	2006	kg	217964.4				88.9		738.2	5906.2		
+18	Indiana	SIMAZINE	2007	kg	350957.3				278.2		302.8			
+18	Indiana	SIMAZINE	2008	kg	347921.7				114.3		363.7			
+18	Indiana	SIMAZINE	2009	kg	327726.4				93.2		625.4			
+18	Indiana	SIMAZINE	2010	kg	182429.7						1024			
+18	Indiana	SIMAZINE	2011	kg	304562.5	36434.3					441.2			
+18	Indiana	SIMAZINE	2012	kg	230098.9	17128.6					307.4			700.8
+18	Indiana	SIMAZINE	2013	kg	297030.7	36601.5					810.4	11012.4		
+18	Indiana	SIMAZINE	2014	kg	261865.6	3154.1			143.1		1744			
+18	Indiana	SIMAZINE	2015	kg	240502.2	37360					1001.6			
+18	Indiana	SIMAZINE	2016	kg	259182.7	10110.1							312.1	
+18	Indiana	SIMAZINE	2017	kg	134006.7	89618.8					5.4			
+19	Iowa	SIMAZINE	1992	kg	42814.1				11.7		6750.2		26552.3	608.3
+19	Iowa	SIMAZINE	1993	kg	231805.6				19.4		673.5		585.5	1449.1
+19	Iowa	SIMAZINE	1994	kg	256695.1						401.2		37150.6	1720.9
+19	Iowa	SIMAZINE	1995	kg	206998.2				69.2		1150.2		32890	11399.7
+19	Iowa	SIMAZINE	1996	kg	59040.2				315		4583		669	218235.5
+19	Iowa	SIMAZINE	1997	kg	67027.6				192.5		5135.4		297.9	
+19	Iowa	SIMAZINE	1998	kg	202164				19.1		1216.7			
+19	Iowa	SIMAZINE	1999	kg	92381.4				20.6		1742			
+19	Iowa	SIMAZINE	2000	kg	313107.4				83.4		873			
+19	Iowa	SIMAZINE	2001	kg	268023						896.1			
+19	Iowa	SIMAZINE	2002	kg	146202.3				578.5		431.9			
+19	Iowa	SIMAZINE	2003	kg	36141.9				577.2		383.8			
+19	Iowa	SIMAZINE	2004	kg	119992.1				98.8		1230.8			
+19	Iowa	SIMAZINE	2005	kg	260369.9				109.9		150.5			
+19	Iowa	SIMAZINE	2006	kg	231083.5				20.8		645.9			
+19	Iowa	SIMAZINE	2007	kg	345048.3				152.7		214.8			
+19	Iowa	SIMAZINE	2008	kg	466781.8				26.5		196.4			
+19	Iowa	SIMAZINE	2009	kg	207183.4				19.3		179.2			
+19	Iowa	SIMAZINE	2010	kg	304694.8				17.6		780.5			
+19	Iowa	SIMAZINE	2011	kg	490409.3						336.6			
+19	Iowa	SIMAZINE	2012	kg	311176.5				56.6		225.3			
+19	Iowa	SIMAZINE	2013	kg	316682.3				47.1		496.5			
+19	Iowa	SIMAZINE	2014	kg	419373.2				9.6		994.4			
+19	Iowa	SIMAZINE	2015	kg	191415.6						518			
+19	Iowa	SIMAZINE	2016	kg	258816.5									
+19	Iowa	SIMAZINE	2017	kg	141441.2									
+20	Kansas	SIMAZINE	1992	kg	1711.2						78.3		19.6	1082.1
+20	Kansas	SIMAZINE	1993	kg	2105.7						2.7	2.3		
+20	Kansas	SIMAZINE	1994	kg	355.9						44.6		1597.7	20470
+20	Kansas	SIMAZINE	1995	kg	459						524.4		460.9	
+20	Kansas	SIMAZINE	1996	kg									8639.9	
+20	Kansas	SIMAZINE	1997	kg	1425.5						71.3			
+20	Kansas	SIMAZINE	1998	kg	14530.3									
+20	Kansas	SIMAZINE	1999	kg	3680.4						82.9			
+20	Kansas	SIMAZINE	2000	kg	6379.2						89.9			
+20	Kansas	SIMAZINE	2002	kg	12453.8									
+20	Kansas	SIMAZINE	2003	kg	28939.9									
+20	Kansas	SIMAZINE	2004	kg	35516.1									
+20	Kansas	SIMAZINE	2005	kg	43181.8									
+20	Kansas	SIMAZINE	2006	kg	108665.5									
+20	Kansas	SIMAZINE	2007	kg	122546.8									
+20	Kansas	SIMAZINE	2008	kg	293780.5							2672.9		
+20	Kansas	SIMAZINE	2009	kg	72426.8							1317.9		
+20	Kansas	SIMAZINE	2010	kg	32757.1									
+20	Kansas	SIMAZINE	2011	kg	73700.6									
+20	Kansas	SIMAZINE	2012	kg	5524							716.6		
+20	Kansas	SIMAZINE	2013	kg									4581.3	
+20	Kansas	SIMAZINE	2014	kg	119411.6									
+20	Kansas	SIMAZINE	2015	kg	77064.4									
+20	Kansas	SIMAZINE	2016	kg	167415.7									
+20	Kansas	SIMAZINE	2017	kg	80541.7	52356.9								
+21	Kentucky	SIMAZINE	1992	kg	214506.3				16		422.2	1145.3	160	9156.4
+21	Kentucky	SIMAZINE	1993	kg	186696.8				127.6		1109.2	151.6	966.4	4217
+21	Kentucky	SIMAZINE	1994	kg	187315				758.3		1750.7	446.3	28.2	20747
+21	Kentucky	SIMAZINE	1995	kg	157877.4				108.1		1233.3	332.8	285	366
+21	Kentucky	SIMAZINE	1996	kg	133891.6		2736.8		558.9		1966.9		2440.3	244.8
+21	Kentucky	SIMAZINE	1997	kg	97286.9				204.3		1082.3		122.5	
+21	Kentucky	SIMAZINE	1998	kg	95493.6				594.4		947.2		186.4	
+21	Kentucky	SIMAZINE	1999	kg	112803.2						1018.9			
+21	Kentucky	SIMAZINE	2000	kg	43378.6				1839.9		1078.9			
+21	Kentucky	SIMAZINE	2001	kg	126237.6				314.1		733.7			
+21	Kentucky	SIMAZINE	2002	kg	126282.3				253.4		621.4			
+21	Kentucky	SIMAZINE	2003	kg	100505.1				353		694			260.5
+21	Kentucky	SIMAZINE	2004	kg	104709.3				180.7		1640.2			
+21	Kentucky	SIMAZINE	2005	kg	81281.5				262.7		414.6			
+21	Kentucky	SIMAZINE	2006	kg	79720				40.2		814			
+21	Kentucky	SIMAZINE	2007	kg	33360.4				80.3		276.1			
+21	Kentucky	SIMAZINE	2008	kg	68865				12.3		464.5			
+21	Kentucky	SIMAZINE	2009	kg	49014				9.7		431.7			
+21	Kentucky	SIMAZINE	2010	kg	42028.5						956.2			
+21	Kentucky	SIMAZINE	2011	kg	68654	62.3					636.4			
+21	Kentucky	SIMAZINE	2012	kg	23023.1						470.6			
+21	Kentucky	SIMAZINE	2013	kg	28456.4				50.6		516.8			
+21	Kentucky	SIMAZINE	2014	kg	55631.7				120.1		615.3		459.6	
+21	Kentucky	SIMAZINE	2015	kg	52242	253.6					331.6		864.3	
+21	Kentucky	SIMAZINE	2016	kg	81118.5						487.7		9152.7	
+21	Kentucky	SIMAZINE	2017	kg	12640.3						274.3			
+22	Louisiana	SIMAZINE	1992	kg	451.5						5691.2		580.5	
+22	Louisiana	SIMAZINE	1993	kg	8214.3						21.7		23.5	
+22	Louisiana	SIMAZINE	1994	kg	5337.5				66.4		104			
+22	Louisiana	SIMAZINE	1995	kg	15275.1									
+22	Louisiana	SIMAZINE	1996	kg	10201.5						107		15	236.1
+22	Louisiana	SIMAZINE	1997	kg	27115.5						765.6			
+22	Louisiana	SIMAZINE	1998	kg	17121.7						725.7		26867.1	
+22	Louisiana	SIMAZINE	1999	kg	19256.6									
+22	Louisiana	SIMAZINE	2000	kg	3832.1						1735.5			
+22	Louisiana	SIMAZINE	2001	kg	2807.4						2209.5			
+22	Louisiana	SIMAZINE	2003	kg	10146.1						2039.4			
+22	Louisiana	SIMAZINE	2004	kg	2534.1						2760.1			
+22	Louisiana	SIMAZINE	2005	kg	7710.5						1231.4			
+22	Louisiana	SIMAZINE	2006	kg	39664.3						4.6			
+22	Louisiana	SIMAZINE	2007	kg	15172.3						8.7		346	
+22	Louisiana	SIMAZINE	2008	kg	9735.4									
+22	Louisiana	SIMAZINE	2010	kg	135346.4									
+22	Louisiana	SIMAZINE	2011	kg							21.7			
+22	Louisiana	SIMAZINE	2012	kg	5612.6									
+22	Louisiana	SIMAZINE	2013	kg	25320.7									
+22	Louisiana	SIMAZINE	2014	kg	20012.7									
+22	Louisiana	SIMAZINE	2015	kg	18922.5									
+22	Louisiana	SIMAZINE	2016	kg	16824.5									
+22	Louisiana	SIMAZINE	2017	kg	6857									
+23	Maine	SIMAZINE	1992	kg	554.4						5752.8			
+23	Maine	SIMAZINE	1993	kg	534.1						1117.5			
+23	Maine	SIMAZINE	1994	kg	620.3				58.9		1364.3			
+23	Maine	SIMAZINE	1995	kg	214.9				27.4		8215			
+23	Maine	SIMAZINE	1996	kg	312.8				6.5		1000.5			
+23	Maine	SIMAZINE	1997	kg	587				129.7		747			
+23	Maine	SIMAZINE	1998	kg	541.4						103.9			
+23	Maine	SIMAZINE	1999	kg	1153.9						1004.4			
+23	Maine	SIMAZINE	2000	kg	97.8						638.8			
+23	Maine	SIMAZINE	2001	kg	988.2						1109.4			
+23	Maine	SIMAZINE	2002	kg	486.3						1066.4			
+23	Maine	SIMAZINE	2003	kg	1033.6						784.1			
+23	Maine	SIMAZINE	2004	kg	976.2						556.9			
+23	Maine	SIMAZINE	2005	kg	1441.6						1342.9			
+23	Maine	SIMAZINE	2006	kg	1374.4						579.5			
+23	Maine	SIMAZINE	2007	kg	804.2						502.7			
+23	Maine	SIMAZINE	2008	kg	176.9				36.7		704.6			
+23	Maine	SIMAZINE	2009	kg	404.6						1313.1			
+23	Maine	SIMAZINE	2010	kg	1497				34.2		843.1			
+23	Maine	SIMAZINE	2011	kg	1197.6						365.4			
+23	Maine	SIMAZINE	2012	kg	2006.8				31.8		615.6			
+23	Maine	SIMAZINE	2013	kg	1606.4						579			
+23	Maine	SIMAZINE	2014	kg	1746.9						239.7			
+23	Maine	SIMAZINE	2015	kg	862.2						552.1			
+23	Maine	SIMAZINE	2016	kg	1130.6						1214.5			
+23	Maine	SIMAZINE	2017	kg	592.7						787.2			
+24	Maryland	SIMAZINE	1992	kg	49792.2				1997.6		1870.8	472	9.7	
+24	Maryland	SIMAZINE	1993	kg	10958.3				825.5		1453.3	1505.2		519.1
+24	Maryland	SIMAZINE	1994	kg	72800	3384			297.9		2157.8		28.3	
+24	Maryland	SIMAZINE	1995	kg	59711.3				773.1		1398.6		73.4	
+24	Maryland	SIMAZINE	1996	kg	64332.9				2023.6		6624		37027.8	
+24	Maryland	SIMAZINE	1997	kg	71638				5523.8		834.3	453.5		
+24	Maryland	SIMAZINE	1998	kg	102763.1				9124.5		1886.2			
+24	Maryland	SIMAZINE	1999	kg	68566.1				198.7		1498.8			
+24	Maryland	SIMAZINE	2000	kg	123752.9				9629.9		1280.4			
+24	Maryland	SIMAZINE	2001	kg	63410.3				1630		1132.1			
+24	Maryland	SIMAZINE	2002	kg	83419.8				2902.7		1733.9			
+24	Maryland	SIMAZINE	2003	kg	190588				2870.3		1095.4			
+24	Maryland	SIMAZINE	2004	kg	77993.1				450.4		1357.2			
+24	Maryland	SIMAZINE	2005	kg	176942.7				8.3		1714.5			
+24	Maryland	SIMAZINE	2006	kg	88525.4				109.2		790.4			
+24	Maryland	SIMAZINE	2007	kg	159604.8				2.3		1374.7			
+24	Maryland	SIMAZINE	2008	kg	18133.3				10.9		1431.4			
+24	Maryland	SIMAZINE	2009	kg	50616						1058.9			
+24	Maryland	SIMAZINE	2010	kg	85723.3				109.2		2627.6			
+24	Maryland	SIMAZINE	2011	kg	99987				3.1		721.9			
+24	Maryland	SIMAZINE	2012	kg	72704.5				8.9		1021.6			
+24	Maryland	SIMAZINE	2013	kg	63992.3				80.4		543.9			
+24	Maryland	SIMAZINE	2014	kg	178391.1				79.4		746.2			
+24	Maryland	SIMAZINE	2015	kg	26106.9				70.5		1170.7			
+24	Maryland	SIMAZINE	2016	kg	65454.4						59.8			
+24	Maryland	SIMAZINE	2017	kg	85131.4						606.8		434.1	
+25	Massachusetts	SIMAZINE	1992	kg	1245.6				24.1		443			
+25	Massachusetts	SIMAZINE	1993	kg	1966.2				78.7		3408			
+25	Massachusetts	SIMAZINE	1994	kg	635.4				2699.9		19643.9			
+25	Massachusetts	SIMAZINE	1995	kg	234.3				555.7		12116.7			5264.6
+25	Massachusetts	SIMAZINE	1996	kg	340.7				248.3		296			
+25	Massachusetts	SIMAZINE	1997	kg	9180.1				1791		823			
+25	Massachusetts	SIMAZINE	1998	kg	1561.8				440.6		836.9			
+25	Massachusetts	SIMAZINE	1999	kg	163.4						977.7			
+25	Massachusetts	SIMAZINE	2000	kg	3015.7				1821.5		1625.6			
+25	Massachusetts	SIMAZINE	2001	kg	284.4				1183.2		1571.7			
+25	Massachusetts	SIMAZINE	2002	kg	285.1				1225.4		3368.2			
+25	Massachusetts	SIMAZINE	2003	kg	723.5				322.4		1069			
+25	Massachusetts	SIMAZINE	2004	kg	453.2						1608.4			
+25	Massachusetts	SIMAZINE	2005	kg	1006.8						2010.8			
+25	Massachusetts	SIMAZINE	2006	kg	1822.1				153.2		2631			
+25	Massachusetts	SIMAZINE	2007	kg	921.9						1115.3			
+25	Massachusetts	SIMAZINE	2008	kg	107.3				32.2		2050.5			
+25	Massachusetts	SIMAZINE	2009	kg	235.6						1501.9			
+25	Massachusetts	SIMAZINE	2010	kg	837.3				368.2		1609.2			
+25	Massachusetts	SIMAZINE	2011	kg	643.6						551.9			
+25	Massachusetts	SIMAZINE	2012	kg	1036				33.2		777.1			
+25	Massachusetts	SIMAZINE	2013	kg	834.4				292.9		700.2			
+25	Massachusetts	SIMAZINE	2014	kg	913				277.1		408.3			
+25	Massachusetts	SIMAZINE	2015	kg	453.1				262.3		671.8			
+25	Massachusetts	SIMAZINE	2016	kg	597.6						1815.5			
+25	Massachusetts	SIMAZINE	2017	kg	314.7						1259			
+26	Michigan	SIMAZINE	1992	kg	42816.7				6972.1		62554.1		8568.4	16535.1
+26	Michigan	SIMAZINE	1993	kg	27538.8				18602.7		99203.3		6827.2	460.6
+26	Michigan	SIMAZINE	1994	kg	59002.3				9197.7		47884.9		52.3	1956.9
+26	Michigan	SIMAZINE	1995	kg	11476.9				14977.7		43300.6		69.5	1607.7
+26	Michigan	SIMAZINE	1996	kg	19158.2		13398.3		8457.7		40869.1		739.9	987
+26	Michigan	SIMAZINE	1997	kg	12935.9				38232.9		40347.5		50.6	
+26	Michigan	SIMAZINE	1998	kg	5284.7				11823.5		34605.8			
+26	Michigan	SIMAZINE	1999	kg	5772.4				1287.8		38056.9			
+26	Michigan	SIMAZINE	2000	kg	132936.8				7423.6		27385.4			
+26	Michigan	SIMAZINE	2001	kg	96068.9				304.1		41891.9			
+26	Michigan	SIMAZINE	2002	kg	34381.5				1782.8		32878.7			
+26	Michigan	SIMAZINE	2003	kg	94282.5				3646.9		16909.7			
+26	Michigan	SIMAZINE	2004	kg	39492.1				229.3		26950.4			
+26	Michigan	SIMAZINE	2005	kg	63000.3				208.4		19108.2			
+26	Michigan	SIMAZINE	2006	kg	22345				627.6		18699.3	4430.7		
+26	Michigan	SIMAZINE	2007	kg	33031.1				387.1		13005.3	3029.4		
+26	Michigan	SIMAZINE	2008	kg	24155.4				253.6		8847.9			
+26	Michigan	SIMAZINE	2009	kg	27716.5				89		8847.2			
+26	Michigan	SIMAZINE	2010	kg	31087.1				411.8		9124.8			
+26	Michigan	SIMAZINE	2011	kg	52407.6				338.9		5273.4			
+26	Michigan	SIMAZINE	2012	kg	71831.9				147.8		5155.6			
+26	Michigan	SIMAZINE	2013	kg	27443.7				333.3		10313.4	7972.6		
+26	Michigan	SIMAZINE	2014	kg	106818				133.4		20960			
+26	Michigan	SIMAZINE	2015	kg	44120.6				266.5		23400.3			
+26	Michigan	SIMAZINE	2016	kg	25999.4				183.1		4307.6			
+26	Michigan	SIMAZINE	2017	kg	23128.1	12332.1			102.2		5313.1			
+27	Minnesota	SIMAZINE	1992	kg	68700.4				58.1		1556.2		9935.6	11078.3
+27	Minnesota	SIMAZINE	1993	kg	83508.5				81.3		1039		5783.3	3416.3
+27	Minnesota	SIMAZINE	1994	kg	138339.7		2492.9		17.7		2906.4		9492.9	3300.8
+27	Minnesota	SIMAZINE	1995	kg	125981				1735.4		1408.6		5074	52778.4
+27	Minnesota	SIMAZINE	1996	kg	70881.7				7542.6		744.4		374.6	115424.1
+27	Minnesota	SIMAZINE	1997	kg	82312.1				6849.3		76.9		186.1	20.3
+27	Minnesota	SIMAZINE	1998	kg	156739.8				1674.8		676.8			
+27	Minnesota	SIMAZINE	1999	kg	130108.9				1612.2		707.4			
+27	Minnesota	SIMAZINE	2000	kg	168753.9				7038.2		579.1			
+27	Minnesota	SIMAZINE	2001	kg	229457.2				2.5		1397.5			
+27	Minnesota	SIMAZINE	2002	kg	214481.8				25479.3		568.7			
+27	Minnesota	SIMAZINE	2003	kg	239481.5				19263.8		1172.2			
+27	Minnesota	SIMAZINE	2004	kg	149885.6				2697.1		1385.3			
+27	Minnesota	SIMAZINE	2005	kg	223010.3				586.1		480.9			
+27	Minnesota	SIMAZINE	2006	kg	145311.9				584.2		898.7			
+27	Minnesota	SIMAZINE	2007	kg	253613				5596.8		486.7			
+27	Minnesota	SIMAZINE	2008	kg	233824.3				684.8		589.9			
+27	Minnesota	SIMAZINE	2009	kg	146789.2				498.8		668.7			
+27	Minnesota	SIMAZINE	2010	kg	162836.6				1326.6		1762.2			
+27	Minnesota	SIMAZINE	2011	kg	257012.4				32.6		778.8			
+27	Minnesota	SIMAZINE	2012	kg	217835.4				3343.2		433			
+27	Minnesota	SIMAZINE	2013	kg	209962.5				3441.3		1215.3			
+27	Minnesota	SIMAZINE	2014	kg	259972.1				327		2023			
+27	Minnesota	SIMAZINE	2015	kg	135321.1				27.9		1169.6			
+27	Minnesota	SIMAZINE	2016	kg	133339.2				20.2					
+27	Minnesota	SIMAZINE	2017	kg	114227.9				11.5					
+28	Mississippi	SIMAZINE	1992	kg	3626.3						30938.9	35.4	5409.2	804.7
+28	Mississippi	SIMAZINE	1993	kg	7082.6				275.2		2690.8		547	
+28	Mississippi	SIMAZINE	1994	kg	4110.4				39.9		641.3		85.9	1129.7
+28	Mississippi	SIMAZINE	1995	kg	18815.3						4235.6		86.1	
+28	Mississippi	SIMAZINE	1996	kg	9919.9				3.8		2665.3		221.3	
+28	Mississippi	SIMAZINE	1997	kg	29427.6						1490.6		65.3	
+28	Mississippi	SIMAZINE	1998	kg	19156.6						880		666.7	
+28	Mississippi	SIMAZINE	1999	kg	25180.1						921.4			
+28	Mississippi	SIMAZINE	2000	kg	4477.8						2196.7			
+28	Mississippi	SIMAZINE	2001	kg	4291.9						1352.7			
+28	Mississippi	SIMAZINE	2002	kg	11806.3						818.6			
+28	Mississippi	SIMAZINE	2003	kg	10763.5						677.5			
+28	Mississippi	SIMAZINE	2004	kg	3255.9						979.4			
+28	Mississippi	SIMAZINE	2005	kg	10336						675.1			
+28	Mississippi	SIMAZINE	2006	kg	44950.2						1399.5			
+28	Mississippi	SIMAZINE	2007	kg	20363						568.3			
+28	Mississippi	SIMAZINE	2008	kg	15596.8						468.9			
+28	Mississippi	SIMAZINE	2009	kg	3186.2						428.1			
+28	Mississippi	SIMAZINE	2010	kg	232008.1						782.8			
+28	Mississippi	SIMAZINE	2011	kg	720.2						1214.2			
+28	Mississippi	SIMAZINE	2012	kg	9668.7						141.5			
+28	Mississippi	SIMAZINE	2013	kg	34572.1						101.2			
+28	Mississippi	SIMAZINE	2014	kg	28866.1						316.8		1517.5	
+28	Mississippi	SIMAZINE	2015	kg	26960.9						37.4		2905	
+28	Mississippi	SIMAZINE	2016	kg	24816.3									
+28	Mississippi	SIMAZINE	2017	kg	8308.7									
+29	Missouri	SIMAZINE	1992	kg	47921.7						4203.2		8583.3	1294
+29	Missouri	SIMAZINE	1993	kg	57823.4						1033.6	983.8	3041.5	2636
+29	Missouri	SIMAZINE	1994	kg	103386				20.9		2179.3	313	7541.2	2435.7
+29	Missouri	SIMAZINE	1995	kg	264950.4				1714.7		8096.6		6862.1	14384.3
+29	Missouri	SIMAZINE	1996	kg	30109.1				532.5		5095.4		72293.9	3325
+29	Missouri	SIMAZINE	1997	kg	26731.7				340.6		3577.2		197.7	
+29	Missouri	SIMAZINE	1998	kg	92752.1						1887.9		139	
+29	Missouri	SIMAZINE	1999	kg	61468.3						1560.2			
+29	Missouri	SIMAZINE	2000	kg	59933.9						1890.4			
+29	Missouri	SIMAZINE	2001	kg	121029.3						2275.7			
+29	Missouri	SIMAZINE	2002	kg	231918.9				668.4		950.9			
+29	Missouri	SIMAZINE	2003	kg	244142.2				873.3		1317.7			
+29	Missouri	SIMAZINE	2004	kg	66451				169.5		1867.5			
+29	Missouri	SIMAZINE	2005	kg	91223.3				188.8		622.7			
+29	Missouri	SIMAZINE	2006	kg	82381.4				36.2		1789.9			
+29	Missouri	SIMAZINE	2007	kg	86901.3				131.7		420.7			
+29	Missouri	SIMAZINE	2008	kg	138599.7				38.9		378.4			
+29	Missouri	SIMAZINE	2009	kg	118372.9				25		1878.6			
+29	Missouri	SIMAZINE	2010	kg	55440.8						3255			
+29	Missouri	SIMAZINE	2011	kg	74058.1	25101.9					1760.4			
+29	Missouri	SIMAZINE	2012	kg	132692.7						1208			
+29	Missouri	SIMAZINE	2013	kg	179260	20465.4					1308.1		1812.7	
+29	Missouri	SIMAZINE	2014	kg	301400				6.3		2214.9		797.3	
+29	Missouri	SIMAZINE	2015	kg	63556.9	24163.5					722.6			
+29	Missouri	SIMAZINE	2016	kg	139943.7									
+29	Missouri	SIMAZINE	2017	kg	65694.6	66248.5								
+30	Montana	SIMAZINE	1992	kg							18.6		310.5	
+30	Montana	SIMAZINE	1993	kg							31.9		94.5	
+30	Montana	SIMAZINE	1994	kg							26.1		2.2	
+30	Montana	SIMAZINE	1995	kg							36.5		104.9	
+30	Montana	SIMAZINE	1996	kg							82.1		186	
+30	Montana	SIMAZINE	1997	kg							100.9		295.1	
+30	Montana	SIMAZINE	1998	kg							65.8			
+30	Montana	SIMAZINE	1999	kg							91.5			
+30	Montana	SIMAZINE	2000	kg							205.2			
+30	Montana	SIMAZINE	2001	kg							91.6			
+30	Montana	SIMAZINE	2002	kg							98.5			
+30	Montana	SIMAZINE	2003	kg							39.7			
+30	Montana	SIMAZINE	2004	kg							74.3			
+30	Montana	SIMAZINE	2005	kg							64.1			
+30	Montana	SIMAZINE	2006	kg							112.1			
+30	Montana	SIMAZINE	2007	kg							15			
+30	Montana	SIMAZINE	2009	kg							57.8			
+31	Nebraska	SIMAZINE	1992	kg	22637.4						17.4		130.8	547.5
+31	Nebraska	SIMAZINE	1993	kg	59182.9						22.3	3.9	174	123.6
+31	Nebraska	SIMAZINE	1994	kg	48363.3						35.7		122.6	34369.2
+31	Nebraska	SIMAZINE	1995	kg	74020.1						65.1		2137.5	1790.7
+31	Nebraska	SIMAZINE	1996	kg	36703.7						460.5		6775.2	529.1
+31	Nebraska	SIMAZINE	1997	kg	31772.9						55.8		336.1	
+31	Nebraska	SIMAZINE	1998	kg	104074.8						64			
+31	Nebraska	SIMAZINE	1999	kg	102305						193.1			
+31	Nebraska	SIMAZINE	2000	kg	99862						67.7			
+31	Nebraska	SIMAZINE	2001	kg	151510.8						73.2			
+31	Nebraska	SIMAZINE	2002	kg	129433						38			
+31	Nebraska	SIMAZINE	2003	kg	155737.7						36.3			14.2
+31	Nebraska	SIMAZINE	2004	kg	129529.8						112.6			
+31	Nebraska	SIMAZINE	2005	kg	119216.4						14.3			
+31	Nebraska	SIMAZINE	2006	kg	180585.6						62.9			
+31	Nebraska	SIMAZINE	2007	kg	245546.7						21.5			
+31	Nebraska	SIMAZINE	2008	kg	197670.5						15.3	789.4		
+31	Nebraska	SIMAZINE	2009	kg	176528.2						14	344.4		
+31	Nebraska	SIMAZINE	2010	kg	92030.2						61.9			
+31	Nebraska	SIMAZINE	2011	kg	253741.4						26.8			
+31	Nebraska	SIMAZINE	2012	kg	130828.4						18.2			
+31	Nebraska	SIMAZINE	2013	kg	155451.8						40.7			
+31	Nebraska	SIMAZINE	2014	kg	125093.9						86			
+31	Nebraska	SIMAZINE	2015	kg	158785.2						47			
+31	Nebraska	SIMAZINE	2016	kg	218625.1									
+31	Nebraska	SIMAZINE	2017	kg	131448.6									
+32	Nevada	SIMAZINE	1992	kg					76.7		38.6		690.2	
+32	Nevada	SIMAZINE	1993	kg							22.1		58	
+32	Nevada	SIMAZINE	1994	kg					0		17.4		110.7	0.7
+32	Nevada	SIMAZINE	1995	kg							27.3		103.4	
+32	Nevada	SIMAZINE	1996	kg							27.2		113.5	0.6
+32	Nevada	SIMAZINE	1997	kg							25.5		400.6	
+32	Nevada	SIMAZINE	1998	kg							35			
+32	Nevada	SIMAZINE	1999	kg							37.5			
+32	Nevada	SIMAZINE	2000	kg							32.9			
+32	Nevada	SIMAZINE	2001	kg							26.3			
+32	Nevada	SIMAZINE	2002	kg	22.4						38.2			
+32	Nevada	SIMAZINE	2003	kg							28.7			
+32	Nevada	SIMAZINE	2004	kg							23.5	1115.4		
+32	Nevada	SIMAZINE	2005	kg							43.3			
+32	Nevada	SIMAZINE	2006	kg							33.4			
+32	Nevada	SIMAZINE	2007	kg							8.2	3499.4		
+32	Nevada	SIMAZINE	2008	kg							11.1			
+32	Nevada	SIMAZINE	2009	kg							54.6			
+32	Nevada	SIMAZINE	2010	kg							11.4			
+32	Nevada	SIMAZINE	2011	kg					0.3		4.6			
+32	Nevada	SIMAZINE	2012	kg							8.8			
+32	Nevada	SIMAZINE	2013	kg							1.9			
+32	Nevada	SIMAZINE	2014	kg							4.5			
+32	Nevada	SIMAZINE	2015	kg							5.8			
+32	Nevada	SIMAZINE	2016	kg							4.1			
+32	Nevada	SIMAZINE	2017	kg							0.8			
+33	New Hampshire	SIMAZINE	1992	kg	348.9				0.9		817.5			
+33	New Hampshire	SIMAZINE	1993	kg	327.4				16.7		709.8			
+33	New Hampshire	SIMAZINE	1994	kg	365.1				338		1521.8			
+33	New Hampshire	SIMAZINE	1995	kg	93.5				26.1		1528.4			3078.4
+33	New Hampshire	SIMAZINE	1996	kg	357.4				2.4		72			
+33	New Hampshire	SIMAZINE	1997	kg	2294.9				506.6		1195.2			
+33	New Hampshire	SIMAZINE	1998	kg	904.4				124.2		232.3			
+33	New Hampshire	SIMAZINE	1999	kg	631.4						495.6			
+33	New Hampshire	SIMAZINE	2000	kg	729.2				538		434.9			
+33	New Hampshire	SIMAZINE	2001	kg	274.3				358.4		691.5			
+33	New Hampshire	SIMAZINE	2002	kg	227.4				381.2		1564.5			
+33	New Hampshire	SIMAZINE	2003	kg	586.1				101.9		443.8			
+33	New Hampshire	SIMAZINE	2004	kg	306.6						563			
+33	New Hampshire	SIMAZINE	2005	kg	843						940.9			
+33	New Hampshire	SIMAZINE	2006	kg	794.9				50.8		419.6			
+33	New Hampshire	SIMAZINE	2007	kg	460.1						353.1			
+33	New Hampshire	SIMAZINE	2008	kg	84.8				13.7		540.3			
+33	New Hampshire	SIMAZINE	2009	kg	186.9						821.6			
+33	New Hampshire	SIMAZINE	2010	kg	666.6				121.9		560.7			
+33	New Hampshire	SIMAZINE	2011	kg	514.4						213.3			
+33	New Hampshire	SIMAZINE	2012	kg	831.2				13		321.3			
+33	New Hampshire	SIMAZINE	2013	kg	652.2				87.1		275.9			
+33	New Hampshire	SIMAZINE	2014	kg	695.5				80.7		117.9			
+33	New Hampshire	SIMAZINE	2015	kg	336.5				74.7		282			
+33	New Hampshire	SIMAZINE	2016	kg	433.2						690			
+33	New Hampshire	SIMAZINE	2017	kg	222.8						460.7			
+34	New Jersey	SIMAZINE	1992	kg	5330.3				1426.5		9950.5	67		
+34	New Jersey	SIMAZINE	1993	kg	1096.9				904.6		821.4			
+34	New Jersey	SIMAZINE	1994	kg	28322.8				1025.8		3607.4			
+34	New Jersey	SIMAZINE	1995	kg	30812.7				190.2		5943.1		260.3	39.3
+34	New Jersey	SIMAZINE	1996	kg	8152.7				10.9		26540.4		2161.6	
+34	New Jersey	SIMAZINE	1997	kg	22560.9				1488.8		1742.4			
+34	New Jersey	SIMAZINE	1998	kg	3743.7				876.9		8910.9			
+34	New Jersey	SIMAZINE	1999	kg	3620.8						6377			
+34	New Jersey	SIMAZINE	2000	kg	11637.3				3728.2		797.9			
+34	New Jersey	SIMAZINE	2001	kg	4462.2				2292.8		2884.5			
+34	New Jersey	SIMAZINE	2002	kg	11009.2				3132.4		3079.1			
+34	New Jersey	SIMAZINE	2003	kg	7352.9				643.7		2085.6			
+34	New Jersey	SIMAZINE	2004	kg	3087.6						5283.8			
+34	New Jersey	SIMAZINE	2005	kg	12317.1						6689.1			
+34	New Jersey	SIMAZINE	2006	kg	5917.3				109		1756			
+34	New Jersey	SIMAZINE	2007	kg	2005.8						1037.9			
+34	New Jersey	SIMAZINE	2008	kg	240.9				30.3		5778.7			
+34	New Jersey	SIMAZINE	2009	kg	1206.8						1862			
+34	New Jersey	SIMAZINE	2010	kg	8209.8				528.4		14846.2			
+34	New Jersey	SIMAZINE	2011	kg	8811.9						1665.9			
+34	New Jersey	SIMAZINE	2012	kg	8752.9				32.1		6793.1			
+34	New Jersey	SIMAZINE	2013	kg	177.4				412.7		1202.9			
+34	New Jersey	SIMAZINE	2014	kg	1514.8				384.6		824			
+34	New Jersey	SIMAZINE	2015	kg	2372.2				357.9		2059.6			
+34	New Jersey	SIMAZINE	2016	kg	705.3						3798.4			
+34	New Jersey	SIMAZINE	2017	kg	1568.7						1686.9			
+35	New Mexico	SIMAZINE	1992	kg							10		20.1	
+35	New Mexico	SIMAZINE	1993	kg							42.1		83.2	
+35	New Mexico	SIMAZINE	1994	kg							132		43.1	
+35	New Mexico	SIMAZINE	1995	kg							257.9		64.2	
+35	New Mexico	SIMAZINE	1996	kg							25.2		1846.5	
+35	New Mexico	SIMAZINE	1997	kg							10.1		317.7	
+35	New Mexico	SIMAZINE	1998	kg							3.2			
+35	New Mexico	SIMAZINE	1999	kg							34.4			
+35	New Mexico	SIMAZINE	2000	kg							9.7			
+35	New Mexico	SIMAZINE	2001	kg							20.8			
+35	New Mexico	SIMAZINE	2002	kg							31			
+35	New Mexico	SIMAZINE	2003	kg	753.1						82.4			
+35	New Mexico	SIMAZINE	2004	kg	902.1						14.2			
+35	New Mexico	SIMAZINE	2006	kg	1010.1									
+35	New Mexico	SIMAZINE	2007	kg	2206.3						3.3			
+35	New Mexico	SIMAZINE	2008	kg	3916.2									
+35	New Mexico	SIMAZINE	2009	kg	1152.5									
+35	New Mexico	SIMAZINE	2011	kg	1305.3									
+35	New Mexico	SIMAZINE	2013	kg									26920.4	
+35	New Mexico	SIMAZINE	2015	kg	1164.7									
+35	New Mexico	SIMAZINE	2016	kg	1932.2									
+35	New Mexico	SIMAZINE	2017	kg	993									
+36	New York	SIMAZINE	1992	kg	22966.7				26.5		36771.8	19.8		
+36	New York	SIMAZINE	1993	kg	13098				246.6		17843.6		12.2	
+36	New York	SIMAZINE	1994	kg	10725.1				1600		60516.3		125.5	47610.5
+36	New York	SIMAZINE	1995	kg	6109.2				1901.8		38406.3		323.7	7026.4
+36	New York	SIMAZINE	1996	kg	5227.3				312.9		71356.6			
+36	New York	SIMAZINE	1997	kg	14963.1				17704.8		42148.9			
+36	New York	SIMAZINE	1998	kg	8518				4429.9		68799.6		414.4	
+36	New York	SIMAZINE	1999	kg	12481.8				9.6		37128.6			
+36	New York	SIMAZINE	2000	kg	99297.4				17113.4		36401.7			
+36	New York	SIMAZINE	2001	kg	46620.8				10170.6		52779.7			
+36	New York	SIMAZINE	2002	kg	18673.9				10579.8		41396.5			
+36	New York	SIMAZINE	2003	kg	55479				648.4		38071.4			
+36	New York	SIMAZINE	2004	kg	105793						50058.3			
+36	New York	SIMAZINE	2005	kg	53253.6						58647.1			
+36	New York	SIMAZINE	2006	kg	66137.8				8473.3		39240			
+36	New York	SIMAZINE	2007	kg	35789.6						43429.2			
+36	New York	SIMAZINE	2008	kg	7264				185.2		49802.6			
+36	New York	SIMAZINE	2009	kg	16018.9				104.7		32446.9			
+36	New York	SIMAZINE	2010	kg	56919.8				494.5		17848.2			
+36	New York	SIMAZINE	2011	kg	46850.3				267.1		18443.6			
+36	New York	SIMAZINE	2012	kg	76409.4				162.6		14137.2			
+36	New York	SIMAZINE	2013	kg	58033.8				1746		22109.9			
+36	New York	SIMAZINE	2014	kg	49028.5				1584		32447.2			
+36	New York	SIMAZINE	2015	kg	26980.7				1499.6		2094.2	3432.8		
+36	New York	SIMAZINE	2016	kg	36120.6						14167.3			
+36	New York	SIMAZINE	2017	kg	20024.3						12533.7			
+37	North Carolina	SIMAZINE	1992	kg	45474.6		1530.5		4226.2		8898.3	506.2	3288.3	1688.1
+37	North Carolina	SIMAZINE	1993	kg	94926.5				343.1		4954.1		874.2	760.6
+37	North Carolina	SIMAZINE	1994	kg	47534.4				495.8		5583.6		903.2	2758
+37	North Carolina	SIMAZINE	1995	kg	23441.6				932.7		12675.4	64.6	437.9	27854.4
+37	North Carolina	SIMAZINE	1996	kg	148644.7				1312.4		638.6		622.8	32046.5
+37	North Carolina	SIMAZINE	1997	kg	61755.4				1573		3047.2		341.4	42186.6
+37	North Carolina	SIMAZINE	1998	kg	24882.6				252.2		1837			
+37	North Carolina	SIMAZINE	1999	kg	26737				73.2		4169.9			
+37	North Carolina	SIMAZINE	2000	kg	171531				771.2		1306.7			
+37	North Carolina	SIMAZINE	2001	kg	64047.2				130.9		2524.4			
+37	North Carolina	SIMAZINE	2002	kg	94510.2				954		2391.6			
+37	North Carolina	SIMAZINE	2003	kg	39596.3				1331		752.6			
+37	North Carolina	SIMAZINE	2004	kg	49525.7				248.6		2437.4			
+37	North Carolina	SIMAZINE	2005	kg	44342.7				55.5		1511.9			
+37	North Carolina	SIMAZINE	2006	kg	34350.1				3603.8		1296.5			
+37	North Carolina	SIMAZINE	2007	kg	121938.3				21.2		1598.2		391.9	
+37	North Carolina	SIMAZINE	2008	kg	286510.7						3298.3		6709.1	
+37	North Carolina	SIMAZINE	2009	kg	206116.9						1472.9			
+37	North Carolina	SIMAZINE	2010	kg	21371.7						3927.1			
+37	North Carolina	SIMAZINE	2011	kg	100888.3						1487.4		72.2	
+37	North Carolina	SIMAZINE	2012	kg	28479						1944.7			
+37	North Carolina	SIMAZINE	2013	kg	38524.3				37.1		9758			
+37	North Carolina	SIMAZINE	2014	kg	127749.3				68.8		4283.6			
+37	North Carolina	SIMAZINE	2015	kg	64144.5						1331.5			
+37	North Carolina	SIMAZINE	2016	kg	31115.2						2117.4			
+37	North Carolina	SIMAZINE	2017	kg	105236.6						1675.5			
+38	North Dakota	SIMAZINE	1992	kg									600.7	
+38	North Dakota	SIMAZINE	1993	kg									360.6	
+38	North Dakota	SIMAZINE	1994	kg	3606.1		3197.2						3.3	
+38	North Dakota	SIMAZINE	1995	kg									72.1	
+38	North Dakota	SIMAZINE	1996	kg									35.2	
+38	North Dakota	SIMAZINE	1997	kg										7.8
+38	North Dakota	SIMAZINE	2007	kg	2539.5									
+39	Ohio	SIMAZINE	1992	kg	113828.7				107.1		6978.7	854	151.1	27050.1
+39	Ohio	SIMAZINE	1993	kg	117370.5	19505.5			2677		4719.3		2782.8	1320
+39	Ohio	SIMAZINE	1994	kg	136519.6				1396.9		4191.2	3852.3	151.3	35366.8
+39	Ohio	SIMAZINE	1995	kg	86887.8				1325.9		22791.6		913.5	5352.9
+39	Ohio	SIMAZINE	1996	kg	71124		9324		666.4		6069.4		23.4	13933.8
+39	Ohio	SIMAZINE	1997	kg	146465.4				1274.6		6722.3		76.7	1067.4
+39	Ohio	SIMAZINE	1998	kg	116931.7				2337		4027.1			
+39	Ohio	SIMAZINE	1999	kg	183770.5				288.4		2807.3			
+39	Ohio	SIMAZINE	2000	kg	158947.5				12221.3		8388			
+39	Ohio	SIMAZINE	2001	kg	193294.8				2682.7		4769.2			
+39	Ohio	SIMAZINE	2002	kg	150498.6				532.7		3098.9			
+39	Ohio	SIMAZINE	2003	kg	196644.3				6006.4		3519.5			
+39	Ohio	SIMAZINE	2004	kg	176612.2				1784.2		3522.1			
+39	Ohio	SIMAZINE	2005	kg	162153.6				4944		868.5			
+39	Ohio	SIMAZINE	2006	kg	173007				453.7		3566.2			
+39	Ohio	SIMAZINE	2007	kg	241003.1				796.4		656.4	316.5		
+39	Ohio	SIMAZINE	2008	kg	186886.6				418.2		1279.8			
+39	Ohio	SIMAZINE	2009	kg	101956.1				55.3		2209.6			
+39	Ohio	SIMAZINE	2010	kg	98449.4				388.7		6700.7			
+39	Ohio	SIMAZINE	2011	kg	143296.4	5639.1			296.1		1960.7			
+39	Ohio	SIMAZINE	2012	kg	71951.2				92		1188.4			
+39	Ohio	SIMAZINE	2013	kg	80766.6	13457.8			294.9		1835.7			
+39	Ohio	SIMAZINE	2014	kg	100095.8				2597.4		4193.5			
+39	Ohio	SIMAZINE	2015	kg	98556.8	19561.9			147.8		1706.2			
+39	Ohio	SIMAZINE	2016	kg	68114.8				67.3		366.2		917.2	
+39	Ohio	SIMAZINE	2017	kg	109590.1				37		371.1			
+40	Oklahoma	SIMAZINE	1992	kg							1059.2		1847.5	
+40	Oklahoma	SIMAZINE	1993	kg							103	13584.5	7369.2	
+40	Oklahoma	SIMAZINE	1994	kg	1726.3						1002.5		244.9	
+40	Oklahoma	SIMAZINE	1995	kg	6116						22.3		8570.7	
+40	Oklahoma	SIMAZINE	1996	kg					69.9				751.5	
+40	Oklahoma	SIMAZINE	1997	kg							456.9			
+40	Oklahoma	SIMAZINE	1998	kg	1527.6						573.4			
+40	Oklahoma	SIMAZINE	1999	kg							20.3			
+40	Oklahoma	SIMAZINE	2000	kg	554.4						1511.7			
+40	Oklahoma	SIMAZINE	2001	kg							1995.1			
+40	Oklahoma	SIMAZINE	2002	kg	276.7									
+40	Oklahoma	SIMAZINE	2003	kg	1787.2						1738.6			
+40	Oklahoma	SIMAZINE	2004	kg	2894.4						4866.1			
+40	Oklahoma	SIMAZINE	2005	kg	1056.7						28537.4			
+40	Oklahoma	SIMAZINE	2006	kg	3839						26718.2		71270.1	
+40	Oklahoma	SIMAZINE	2007	kg	8616.5						60.9		828.9	
+40	Oklahoma	SIMAZINE	2008	kg	15943.6						6105.7			
+40	Oklahoma	SIMAZINE	2009	kg	4041.4									
+40	Oklahoma	SIMAZINE	2011	kg	3528						6.1			
+40	Oklahoma	SIMAZINE	2012	kg								113.3	6404.6	
+40	Oklahoma	SIMAZINE	2013	kg									17657	
+40	Oklahoma	SIMAZINE	2014	kg	8074.1									
+40	Oklahoma	SIMAZINE	2015	kg	5145.6									
+40	Oklahoma	SIMAZINE	2016	kg	11240.5									
+40	Oklahoma	SIMAZINE	2017	kg	5053.9								72675.3	
+41	Oregon	SIMAZINE	1992	kg					87.1		5786.6		24892.6	
+41	Oregon	SIMAZINE	1993	kg							27382	6591.2	67953.8	
+41	Oregon	SIMAZINE	1994	kg					201.4		17123.7		285.2	
+41	Oregon	SIMAZINE	1995	kg					928.8		28998.5		170.7	
+41	Oregon	SIMAZINE	1996	kg					4389.6		20817.1		116.2	
+41	Oregon	SIMAZINE	1997	kg					2647.4		35454.2		195.3	
+41	Oregon	SIMAZINE	1998	kg					310.9		28911			
+41	Oregon	SIMAZINE	1999	kg					350.4		30075.3			
+41	Oregon	SIMAZINE	2000	kg					148.5		21674.7			
+41	Oregon	SIMAZINE	2001	kg					1273.9		22618.8			
+41	Oregon	SIMAZINE	2002	kg					471.3		13856.8			
+41	Oregon	SIMAZINE	2003	kg					332.5		27498.7			
+41	Oregon	SIMAZINE	2004	kg					1688.5		17745			
+41	Oregon	SIMAZINE	2005	kg					1355.3		25194.2			
+41	Oregon	SIMAZINE	2006	kg					12016.5		21501.2			
+41	Oregon	SIMAZINE	2007	kg					9722.6		12096.3			
+41	Oregon	SIMAZINE	2008	kg					8146.6		21297.2			
+41	Oregon	SIMAZINE	2009	kg					6551.6		15187.4			
+41	Oregon	SIMAZINE	2010	kg					5558.1		20585.2			
+41	Oregon	SIMAZINE	2011	kg					6161.4		17063.8			
+41	Oregon	SIMAZINE	2012	kg					4610.2		8667.5			
+41	Oregon	SIMAZINE	2013	kg					3146.3		15054.7			
+41	Oregon	SIMAZINE	2014	kg					4567.2		11312.5			
+41	Oregon	SIMAZINE	2015	kg					4549.7		9940.3			
+41	Oregon	SIMAZINE	2016	kg					53.8		2908.2			
+41	Oregon	SIMAZINE	2017	kg					5040.4		3407.9			
+42	Pennsylvania	SIMAZINE	1992	kg	42048.9				1740.3		27850.7	1236.9	548.3	
+42	Pennsylvania	SIMAZINE	1993	kg	35965.1	380.5			2687.6		28935.2	11724.8		
+42	Pennsylvania	SIMAZINE	1994	kg	69029.2				2624.9		82929		262.4	105832.8
+42	Pennsylvania	SIMAZINE	1995	kg	88222.6				359.1		29645.8		218.5	2090.6
+42	Pennsylvania	SIMAZINE	1996	kg	43676.3				313		18930		49814.8	416.5
+42	Pennsylvania	SIMAZINE	1997	kg	48061.3				3950.3		14082.2	4485.7	27.1	
+42	Pennsylvania	SIMAZINE	1998	kg	60576				7473.7		24964.8			
+42	Pennsylvania	SIMAZINE	1999	kg	79450.9				125.1		25960.7			
+42	Pennsylvania	SIMAZINE	2000	kg	62868.4				6798.1		30375.5			
+42	Pennsylvania	SIMAZINE	2001	kg	36698.5				3138.5		18168.1			
+42	Pennsylvania	SIMAZINE	2002	kg	32861.4				2951.4		25082.4			
+42	Pennsylvania	SIMAZINE	2003	kg	66498.8				1222.8		23058.2			
+42	Pennsylvania	SIMAZINE	2004	kg	40854.8				510.9		23015.4			
+42	Pennsylvania	SIMAZINE	2005	kg	128146				267.5		18689.6			
+42	Pennsylvania	SIMAZINE	2006	kg	49278.7				1105.6		16543			
+42	Pennsylvania	SIMAZINE	2007	kg	40086.6				153.9		27992.9			
+42	Pennsylvania	SIMAZINE	2008	kg	7094.6				1121.5		15955.4			
+42	Pennsylvania	SIMAZINE	2009	kg	19848.9				246.7		13667.2			
+42	Pennsylvania	SIMAZINE	2010	kg	60076.4				1363.8		15922.6			
+42	Pennsylvania	SIMAZINE	2011	kg	58411.1				319		8927.4			
+42	Pennsylvania	SIMAZINE	2012	kg	96133.3				419.8		13503.9			
+42	Pennsylvania	SIMAZINE	2013	kg	80490				1276.2		8698.3			
+42	Pennsylvania	SIMAZINE	2014	kg	100753.9				875.7		11684.9			
+42	Pennsylvania	SIMAZINE	2015	kg	83266.2				1000		7877.2	12874.4		
+42	Pennsylvania	SIMAZINE	2016	kg	56705.9						11589.1			
+42	Pennsylvania	SIMAZINE	2017	kg	29993.5						11756.4			
+44	Rhode Island	SIMAZINE	1992	kg	57.5						31.2			
+44	Rhode Island	SIMAZINE	1993	kg	56						121.4			
+44	Rhode Island	SIMAZINE	1994	kg	68				169.9		319.6			
+44	Rhode Island	SIMAZINE	1995	kg	46.1				8.7		175.2			499
+44	Rhode Island	SIMAZINE	1996	kg	39				1		8.8			
+44	Rhode Island	SIMAZINE	1997	kg	793.7				274.4		56.3			
+44	Rhode Island	SIMAZINE	1998	kg	162.6				68.9		55.9			
+44	Rhode Island	SIMAZINE	1999	kg	16.9						58.6			
+44	Rhode Island	SIMAZINE	2000	kg	218.3				300.4		104.4			
+44	Rhode Island	SIMAZINE	2001	kg	1077.5				200.7		102.6			
+44	Rhode Island	SIMAZINE	2002	kg	35.8				214.3		217.3			
+44	Rhode Island	SIMAZINE	2003	kg	88.4				55.8		76.4			
+44	Rhode Island	SIMAZINE	2004	kg	96						130.7			
+44	Rhode Island	SIMAZINE	2005	kg	114.9						165.8			
+44	Rhode Island	SIMAZINE	2006	kg	102.5				25.5		80			
+44	Rhode Island	SIMAZINE	2007	kg	55.7						69.5			
+44	Rhode Island	SIMAZINE	2008	kg	10.9				5.4		108.4			
+44	Rhode Island	SIMAZINE	2009	kg	23.5						151			
+44	Rhode Island	SIMAZINE	2010	kg	83.3				62.5		110.5			
+44	Rhode Island	SIMAZINE	2011	kg	63.5						40.3			
+44	Rhode Island	SIMAZINE	2012	kg	101.7				6.1		58.8			
+44	Rhode Island	SIMAZINE	2013	kg	77.8				47.3		45.6			
+44	Rhode Island	SIMAZINE	2014	kg	81				43.3		19			
+44	Rhode Island	SIMAZINE	2015	kg	38.2				39.6		43.9			
+44	Rhode Island	SIMAZINE	2016	kg	48						117.2			
+44	Rhode Island	SIMAZINE	2017	kg	23.9						75.5			
+45	South Carolina	SIMAZINE	1992	kg	10791.8		2565.5		822.7		24987		468	1242.3
+45	South Carolina	SIMAZINE	1993	kg	2361.5				65.2		20525.6		362.4	
+45	South Carolina	SIMAZINE	1994	kg	4110.8				11.7		15433.9		1089.3	4029.2
+45	South Carolina	SIMAZINE	1995	kg	7368.6				184.7		21674.3		105.7	12490.3
+45	South Carolina	SIMAZINE	1996	kg	4240.5				372.6		3253.6		231.4	6386.6
+45	South Carolina	SIMAZINE	1997	kg	12996.4				243.2		15927.7		8628.2	9895.2
+45	South Carolina	SIMAZINE	1998	kg	9836.2						13749.3			
+45	South Carolina	SIMAZINE	1999	kg	14003.9						12418.1			
+45	South Carolina	SIMAZINE	2000	kg	7786.7						16601.5			
+45	South Carolina	SIMAZINE	2001	kg	8358.7						6549.9			
+45	South Carolina	SIMAZINE	2002	kg	21320.8				207.1		7166.8			
+45	South Carolina	SIMAZINE	2003	kg	6199.4				283.4		9807.6			
+45	South Carolina	SIMAZINE	2004	kg	12697.9				44.3		15250.9			
+45	South Carolina	SIMAZINE	2005	kg	37521.4						9019			
+45	South Carolina	SIMAZINE	2006	kg	25886.8						8594.1			
+45	South Carolina	SIMAZINE	2007	kg	51882.9						4151.6		755.8	
+45	South Carolina	SIMAZINE	2008	kg	60822.5						11149.7		11097.8	
+45	South Carolina	SIMAZINE	2009	kg	20085.7						9847.1			
+45	South Carolina	SIMAZINE	2010	kg	13968.8						10359.9			
+45	South Carolina	SIMAZINE	2011	kg	45940.4						8617		127.6	
+45	South Carolina	SIMAZINE	2012	kg	20774.1						8830.1			
+45	South Carolina	SIMAZINE	2013	kg	17091.8						7159.9			
+45	South Carolina	SIMAZINE	2014	kg	41353.7						11790.5			
+45	South Carolina	SIMAZINE	2015	kg	12279						15244.1			
+45	South Carolina	SIMAZINE	2016	kg	14238.3						11991.6			
+45	South Carolina	SIMAZINE	2017	kg	27488.5						79.3			
+46	South Dakota	SIMAZINE	1992	kg	26397.5								1154.5	21.2
+46	South Dakota	SIMAZINE	1993	kg	34168.6								125.9	40
+46	South Dakota	SIMAZINE	1994	kg	59939.2								20.6	49.7
+46	South Dakota	SIMAZINE	1995	kg	27277.8								753.2	246.5
+46	South Dakota	SIMAZINE	1996	kg	20866.5				3.6				683.2	14245
+46	South Dakota	SIMAZINE	1997	kg	1831.6								103.3	2.7
+46	South Dakota	SIMAZINE	1998	kg	56129.3									
+46	South Dakota	SIMAZINE	1999	kg	49084.9									
+46	South Dakota	SIMAZINE	2000	kg	47476.6									
+46	South Dakota	SIMAZINE	2001	kg	78955.6									
+46	South Dakota	SIMAZINE	2002	kg	70983									
+46	South Dakota	SIMAZINE	2003	kg	71285.2									372.6
+46	South Dakota	SIMAZINE	2004	kg	15559.9									
+46	South Dakota	SIMAZINE	2005	kg	68555.7									
+46	South Dakota	SIMAZINE	2006	kg	61110.6									
+46	South Dakota	SIMAZINE	2007	kg	82426.4									
+46	South Dakota	SIMAZINE	2008	kg	55063.4									
+46	South Dakota	SIMAZINE	2009	kg	66475.2									
+46	South Dakota	SIMAZINE	2010	kg	54901.6									
+46	South Dakota	SIMAZINE	2011	kg	87888									
+46	South Dakota	SIMAZINE	2012	kg	68784.5									
+46	South Dakota	SIMAZINE	2013	kg	90104.7									
+46	South Dakota	SIMAZINE	2014	kg	72788.1									
+46	South Dakota	SIMAZINE	2015	kg	44177.8									
+46	South Dakota	SIMAZINE	2016	kg	38426.2									
+46	South Dakota	SIMAZINE	2017	kg	34132.4									
+47	Tennessee	SIMAZINE	1992	kg	32701.5				17		771	448.5	803.9	9.1
+47	Tennessee	SIMAZINE	1993	kg	41394.9				2483.5		989.4		1257.8	2134.3
+47	Tennessee	SIMAZINE	1994	kg	24747.9				1215.2		794.8	32.2	1237.6	15241.4
+47	Tennessee	SIMAZINE	1995	kg	51399				338.7		930.5	256.3	698.3	9848.3
+47	Tennessee	SIMAZINE	1996	kg	20793.9		377.7		318.2		1012.2		3511.1	2674.2
+47	Tennessee	SIMAZINE	1997	kg	42161.7				567.7		2961.1		549.6	23699.9
+47	Tennessee	SIMAZINE	1998	kg	28098.8				1167.9		226.8		1005.9	
+47	Tennessee	SIMAZINE	1999	kg	36792				107.4		730.5			
+47	Tennessee	SIMAZINE	2000	kg	13618.3				1935.1		727.7			
+47	Tennessee	SIMAZINE	2001	kg	13875.1				318.2		660.2			
+47	Tennessee	SIMAZINE	2002	kg	79631.7				83.5		379.1			
+47	Tennessee	SIMAZINE	2003	kg	24720.9				127		264.2			
+47	Tennessee	SIMAZINE	2004	kg	18688.1				94.5		374.5			
+47	Tennessee	SIMAZINE	2005	kg	21702.2				109.2		233.9			
+47	Tennessee	SIMAZINE	2006	kg	49751.7				25.5		346.3			
+47	Tennessee	SIMAZINE	2007	kg	22952.3				37		155			
+47	Tennessee	SIMAZINE	2008	kg	20883.3						398.7			
+47	Tennessee	SIMAZINE	2009	kg	33448.9						111.8			
+47	Tennessee	SIMAZINE	2010	kg	159441.1						584.2			
+47	Tennessee	SIMAZINE	2011	kg	36603.5						266.5			
+47	Tennessee	SIMAZINE	2012	kg	13436.2						254.4			
+47	Tennessee	SIMAZINE	2013	kg	34138.8				35.5		238.8			
+47	Tennessee	SIMAZINE	2014	kg	49570.6				71.6		216.1		3085.4	
+47	Tennessee	SIMAZINE	2015	kg	42753.3						109.9		6057.5	
+47	Tennessee	SIMAZINE	2016	kg	31996.3						470.4			
+47	Tennessee	SIMAZINE	2017	kg	10797.3						280.5			
+48	Texas	SIMAZINE	1992	kg							39880.7		7224.2	1440.3
+48	Texas	SIMAZINE	1993	kg							23434.8		44.3	
+48	Texas	SIMAZINE	1994	kg							34951.4		42.1	1689.1
+48	Texas	SIMAZINE	1995	kg							84842.7		42035.6	
+48	Texas	SIMAZINE	1996	kg							23753.2		13037.7	
+48	Texas	SIMAZINE	1997	kg							34706.3		1027.7	
+48	Texas	SIMAZINE	1998	kg							111342.2			
+48	Texas	SIMAZINE	1999	kg							16078.9			
+48	Texas	SIMAZINE	2000	kg							49958.4			
+48	Texas	SIMAZINE	2001	kg							60458.3			
+48	Texas	SIMAZINE	2002	kg							33613.1			
+48	Texas	SIMAZINE	2003	kg	7829.7						44135			
+48	Texas	SIMAZINE	2004	kg	10404.9						70658.6			
+48	Texas	SIMAZINE	2005	kg							47360.8			
+48	Texas	SIMAZINE	2006	kg	9964.3						27977.8		78533.9	
+48	Texas	SIMAZINE	2007	kg	26940.2						39678.6		11325	
+48	Texas	SIMAZINE	2008	kg	50018						34749.4			
+48	Texas	SIMAZINE	2009	kg	17106.9						24072.4			
+48	Texas	SIMAZINE	2010	kg							17035.1			
+48	Texas	SIMAZINE	2011	kg	14707.9						19626.5			
+48	Texas	SIMAZINE	2012	kg							10383.7			
+48	Texas	SIMAZINE	2013	kg							14521.7		71380.6	
+48	Texas	SIMAZINE	2014	kg							1308.5			
+48	Texas	SIMAZINE	2015	kg	18294.1						1725.9			
+48	Texas	SIMAZINE	2016	kg	33691.8									
+48	Texas	SIMAZINE	2017	kg	12939.1									
+49	Utah	SIMAZINE	1992	kg							1956		20.3	
+49	Utah	SIMAZINE	1993	kg							379.9		90.5	
+49	Utah	SIMAZINE	1994	kg							1086.4		13.4	
+49	Utah	SIMAZINE	1995	kg							3141.2		70.8	
+49	Utah	SIMAZINE	1996	kg							1149.5		230.3	
+49	Utah	SIMAZINE	1997	kg							2454.5		423.2	
+49	Utah	SIMAZINE	1998	kg							3678.1			
+49	Utah	SIMAZINE	1999	kg							1793.3			
+49	Utah	SIMAZINE	2000	kg							992.1			
+49	Utah	SIMAZINE	2001	kg							601			
+49	Utah	SIMAZINE	2002	kg	7739.9						1458.9			
+49	Utah	SIMAZINE	2003	kg							229.2			
+49	Utah	SIMAZINE	2004	kg							424.8	6123.6		
+49	Utah	SIMAZINE	2005	kg							362.6			
+49	Utah	SIMAZINE	2006	kg							624.1			
+49	Utah	SIMAZINE	2007	kg							81.8	19237.9		
+49	Utah	SIMAZINE	2009	kg							323.2			
+50	Vermont	SIMAZINE	1992	kg	1720.3				0.5		115			
+50	Vermont	SIMAZINE	1993	kg	4042.7				12.1		891.4			
+50	Vermont	SIMAZINE	1994	kg	21.4				274.5		1494.8			
+50	Vermont	SIMAZINE	1995	kg	315.3				74.8		276.5			74.3
+50	Vermont	SIMAZINE	1996	kg	2835.6				2.1		24.2			
+50	Vermont	SIMAZINE	1997	kg	1724.9				380.1		35.6			
+50	Vermont	SIMAZINE	1998	kg	3071.9				86.1		520.9			
+50	Vermont	SIMAZINE	1999	kg	7492.5						452.4			
+50	Vermont	SIMAZINE	2000	kg	8306.1				336.2		440.7			
+50	Vermont	SIMAZINE	2001	kg	2016.7				211.3		886.8			
+50	Vermont	SIMAZINE	2002	kg	1372.3				210.8		1368.2			
+50	Vermont	SIMAZINE	2003	kg	3577.8				57.9		673.9			
+50	Vermont	SIMAZINE	2004	kg	1891.4						1014.5			
+50	Vermont	SIMAZINE	2005	kg	9254.2						911.4			
+50	Vermont	SIMAZINE	2006	kg	5015.6				31		622.4			
+50	Vermont	SIMAZINE	2007	kg	795.1						301.7			
+50	Vermont	SIMAZINE	2008	kg	619.7				18.1		333			
+50	Vermont	SIMAZINE	2009	kg	1385.5						1176.4			
+50	Vermont	SIMAZINE	2010	kg	5015.2				84.8		682.5			
+50	Vermont	SIMAZINE	2011	kg	3927.1						256.7			
+50	Vermont	SIMAZINE	2012	kg	6442				20.4		372.3			
+50	Vermont	SIMAZINE	2013	kg	5061				55.9		370.8			
+50	Vermont	SIMAZINE	2014	kg	5404.5				50.1		166.6			
+50	Vermont	SIMAZINE	2015	kg	2619.1				44.7		418.9			
+50	Vermont	SIMAZINE	2016	kg	3374.8						1018.5			
+50	Vermont	SIMAZINE	2017	kg	1737						724.4			
+51	Virginia	SIMAZINE	1992	kg	77241.1				410.8		4011.2	875.1	295.4	637.6
+51	Virginia	SIMAZINE	1993	kg	62786.2				215.6		4222.4		254.6	18354.5
+51	Virginia	SIMAZINE	1994	kg	67562.3				1492.8		5810.1		206.6	48466.4
+51	Virginia	SIMAZINE	1995	kg	21373				301.6		16121.5	919.1	263.4	28429.2
+51	Virginia	SIMAZINE	1996	kg	28554.9				472.8		7831.8		80351.1	1452.4
+51	Virginia	SIMAZINE	1997	kg	100319.7				2744.7		4834.7		89.2	
+51	Virginia	SIMAZINE	1998	kg	76593.2				400		5806.7			
+51	Virginia	SIMAZINE	1999	kg	65288.6						7812.7			
+51	Virginia	SIMAZINE	2000	kg	87834				731.8		4622			
+51	Virginia	SIMAZINE	2001	kg	41786.7				126.4		3908.1			
+51	Virginia	SIMAZINE	2002	kg	189596.2				440.2		4284.9			
+51	Virginia	SIMAZINE	2003	kg	87689.3				548.4		42414.4			
+51	Virginia	SIMAZINE	2004	kg	108567.4				129.9		6829.2			
+51	Virginia	SIMAZINE	2005	kg	85934.8				33.5		10375.9			
+51	Virginia	SIMAZINE	2006	kg	207005.8				8.8		15845			
+51	Virginia	SIMAZINE	2007	kg	226036.2				14.7		8203.1			
+51	Virginia	SIMAZINE	2008	kg	189321.9						10409.2			
+51	Virginia	SIMAZINE	2009	kg	81445.5						6437.2			
+51	Virginia	SIMAZINE	2010	kg	55664						7310			
+51	Virginia	SIMAZINE	2011	kg	133929.4						4860.5			
+51	Virginia	SIMAZINE	2012	kg	115036.8						2409.2			
+51	Virginia	SIMAZINE	2013	kg	109071				38.6		4233.1			
+51	Virginia	SIMAZINE	2014	kg	98960.7				79.5		3375			
+51	Virginia	SIMAZINE	2015	kg	123174.5						7220.3			
+51	Virginia	SIMAZINE	2016	kg	82130.9						666			
+51	Virginia	SIMAZINE	2017	kg	140105.9						3933.5		5880.1	
+53	Washington	SIMAZINE	1992	kg					0.1		22080.3		901.6	
+53	Washington	SIMAZINE	1993	kg							36878.3		2316.6	
+53	Washington	SIMAZINE	1994	kg					102.8		14163.1			
+53	Washington	SIMAZINE	1995	kg					276.9		18783.6		21.6	
+53	Washington	SIMAZINE	1996	kg					12668.8		40906.1		155.8	
+53	Washington	SIMAZINE	1997	kg					2907.7		59843.9	42125.2	34.6	
+53	Washington	SIMAZINE	1998	kg					621.4		43074.4			
+53	Washington	SIMAZINE	1999	kg					1795		45379.9			
+53	Washington	SIMAZINE	2000	kg					372.7		96794.3			
+53	Washington	SIMAZINE	2001	kg					1700.2		41976.3			
+53	Washington	SIMAZINE	2002	kg					1150		41807.8			
+53	Washington	SIMAZINE	2003	kg					62.6		39908.5			
+53	Washington	SIMAZINE	2004	kg					616.7		38627.7			
+53	Washington	SIMAZINE	2005	kg					677.4		29994.7			
+53	Washington	SIMAZINE	2006	kg					1993		29025.7			
+53	Washington	SIMAZINE	2007	kg					1581.7		39654.5			
+53	Washington	SIMAZINE	2008	kg					2105.4		20611.3			
+53	Washington	SIMAZINE	2009	kg					4350.3		27651.7			
+53	Washington	SIMAZINE	2010	kg					4772		24669.4			
+53	Washington	SIMAZINE	2011	kg					3955.5		20837.3			
+53	Washington	SIMAZINE	2012	kg					3906.9		7635			
+53	Washington	SIMAZINE	2013	kg					7133.6		25230.9			
+53	Washington	SIMAZINE	2014	kg					9179		31105			
+53	Washington	SIMAZINE	2015	kg					3153.6		10777			
+53	Washington	SIMAZINE	2016	kg					40.3		2329.6			
+53	Washington	SIMAZINE	2017	kg					3950		2833.2			
+54	West Virginia	SIMAZINE	1992	kg	7836				10.5		1096.3	520.7	150.8	27
+54	West Virginia	SIMAZINE	1993	kg	4029.2	4.6			152.1		8231.2		388.4	4642.9
+54	West Virginia	SIMAZINE	1994	kg	17577.8				365.9		2457.2	286.4	24.3	47062.2
+54	West Virginia	SIMAZINE	1995	kg	8381.1				101.9		2681.8	349.6	178.6	10836.9
+54	West Virginia	SIMAZINE	1996	kg	12697.9				114.1		15519.3		60763.6	2950.2
+54	West Virginia	SIMAZINE	1997	kg	3676.2				356.8		3403.5			13.6
+54	West Virginia	SIMAZINE	1998	kg	9403.5				459.6		1119.5			
+54	West Virginia	SIMAZINE	1999	kg	1901.6						4001.5			
+54	West Virginia	SIMAZINE	2000	kg	2226.8				808.3		5029.2			
+54	West Virginia	SIMAZINE	2001	kg	5531.7				133.8		2406.5			
+54	West Virginia	SIMAZINE	2002	kg	10513.4				131.6		5510.3			
+54	West Virginia	SIMAZINE	2003	kg	11109.5				61.4		2405.5			
+54	West Virginia	SIMAZINE	2004	kg	3236.9				47.1		2484.9			
+54	West Virginia	SIMAZINE	2005	kg	9064				60.1		2531.8			
+54	West Virginia	SIMAZINE	2006	kg	2801.3				5.4		1683.3			
+54	West Virginia	SIMAZINE	2007	kg	5024.6				21.9		2947.3			
+54	West Virginia	SIMAZINE	2008	kg	12556.7				21.8		3370.6			
+54	West Virginia	SIMAZINE	2009	kg	7684.2				3.2		949.1			
+54	West Virginia	SIMAZINE	2010	kg	4359.7				13		3741.3			
+54	West Virginia	SIMAZINE	2011	kg	7903.6				6.8		1219.1			
+54	West Virginia	SIMAZINE	2012	kg	5655.6				3.1		1055.9			
+54	West Virginia	SIMAZINE	2013	kg	3926.8				28.9		2372.3			
+54	West Virginia	SIMAZINE	2014	kg	8151				47.7		1021.7			
+54	West Virginia	SIMAZINE	2015	kg	3961.7				12.5		4834.9			
+54	West Virginia	SIMAZINE	2016	kg	3980.9						795.4			
+54	West Virginia	SIMAZINE	2017	kg	12821.6						928.3		2369.5	
+55	Wisconsin	SIMAZINE	1992	kg	34444.1				1432.6		4204.1		107.2	94751.6
+55	Wisconsin	SIMAZINE	1993	kg	17992.5				160.1		6723.8		2657	2913.2
+55	Wisconsin	SIMAZINE	1994	kg	37883.6				57.3		4660.8	7074.9	64.1	20350.3
+55	Wisconsin	SIMAZINE	1995	kg	52506.1				4694.4		3644.7		3413.6	3244.1
+55	Wisconsin	SIMAZINE	1996	kg	28505.4				4110		3351.2		1667.2	7439.1
+55	Wisconsin	SIMAZINE	1997	kg	50837.8				37477.8		2898			453.2
+55	Wisconsin	SIMAZINE	1998	kg	19307.7				7452		2886.5			
+55	Wisconsin	SIMAZINE	1999	kg	14305.3				3404.1		2859.5			
+55	Wisconsin	SIMAZINE	2000	kg	51898.5				4233.4		2745.7			
+55	Wisconsin	SIMAZINE	2001	kg	27288.5				862.2		3924.8			
+55	Wisconsin	SIMAZINE	2002	kg	61679.8				9070.2		2201.1			
+55	Wisconsin	SIMAZINE	2003	kg	76658.8				5159		3253			
+55	Wisconsin	SIMAZINE	2004	kg	57652.2				1711.3		1668.6			
+55	Wisconsin	SIMAZINE	2005	kg	22297.3				2225.8		1856			
+55	Wisconsin	SIMAZINE	2006	kg	17885.7				2265.6		1783.6			
+55	Wisconsin	SIMAZINE	2007	kg	87567.7				2910.5		1150.8			
+55	Wisconsin	SIMAZINE	2008	kg	33553.5				3200.6		1330.8			
+55	Wisconsin	SIMAZINE	2009	kg	7397.7				1115		1667.7			
+55	Wisconsin	SIMAZINE	2010	kg	22151.6				3240.6		2398.2			
+55	Wisconsin	SIMAZINE	2011	kg	35036.8				2648.4		1235.6			
+55	Wisconsin	SIMAZINE	2012	kg	38177.7				1928.6		528.8			
+55	Wisconsin	SIMAZINE	2013	kg	20539.4				2330.5		1901.1			
+55	Wisconsin	SIMAZINE	2014	kg	72876.1				1048.5		2081.8			
+55	Wisconsin	SIMAZINE	2015	kg	43162.4				1598.9		1266.1			
+55	Wisconsin	SIMAZINE	2016	kg	54693.1				1905.4		134.8			
+55	Wisconsin	SIMAZINE	2017	kg	52683.6				742.1		107.6			
+56	Wyoming	SIMAZINE	1992	kg	111.4								23	
+56	Wyoming	SIMAZINE	1993	kg									23.3	
+56	Wyoming	SIMAZINE	1994	kg									1.2	
+56	Wyoming	SIMAZINE	1995	kg									24.3	
+56	Wyoming	SIMAZINE	1996	kg									762.3	
+56	Wyoming	SIMAZINE	1997	kg									117.7	

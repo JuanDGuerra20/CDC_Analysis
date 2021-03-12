@@ -1,0 +1,10 @@
+01	Alabama	FENSULFOTHION	1992	kg										617.9
+06	California	FENSULFOTHION	1995	kg					0.7					
+06	California	FENSULFOTHION	1998	kg							8.8			
+06	California	FENSULFOTHION	2000	kg							1.2			
+12	Florida	FENSULFOTHION	1992	kg										147.9
+13	Georgia	FENSULFOTHION	1992	kg										671.2
+37	North Carolina	FENSULFOTHION	1992	kg										7057.3
+37	North Carolina	FENSULFOTHION	1993	kg										31015.6
+45	South Carolina	FENSULFOTHION	1992	kg										1862.9
+51	Virginia	FENSULFOTHION	1993	kg										5821.9

@@ -1,0 +1,223 @@
+01	Alabama	SPIROTETRAMAT	2009	kg							1.4			
+01	Alabama	SPIROTETRAMAT	2011	kg							72.8			
+04	Arizona	SPIROTETRAMAT	2008	kg					711.7		0			
+04	Arizona	SPIROTETRAMAT	2009	kg					425.7		6.6			
+04	Arizona	SPIROTETRAMAT	2010	kg					558		11.6			
+04	Arizona	SPIROTETRAMAT	2011	kg					1372.6		111.2			
+04	Arizona	SPIROTETRAMAT	2012	kg					1153		396.5			
+04	Arizona	SPIROTETRAMAT	2013	kg					1191.4		311.3			
+04	Arizona	SPIROTETRAMAT	2014	kg					927.4		722.3			
+04	Arizona	SPIROTETRAMAT	2015	kg					540.2		59.4			
+04	Arizona	SPIROTETRAMAT	2016	kg					1861.4		434			
+04	Arizona	SPIROTETRAMAT	2017	kg					691.6		160.7			
+06	California	SPIROTETRAMAT	2008	kg					434.5		99.9			0.1
+06	California	SPIROTETRAMAT	2009	kg					738.2		1060.2			0.1
+06	California	SPIROTETRAMAT	2010	kg					820.3		554.2			0.7
+06	California	SPIROTETRAMAT	2011	kg					1184.8		1583			2.5
+06	California	SPIROTETRAMAT	2012	kg	0.2				1401		2182.1	0.2		2.5
+06	California	SPIROTETRAMAT	2013	kg					1443.2		2529.6			2.1
+06	California	SPIROTETRAMAT	2014	kg					5037.3		10486.8	2.3		17.9
+06	California	SPIROTETRAMAT	2015	kg					11523.2		33507.2			19.7
+06	California	SPIROTETRAMAT	2016	kg	2.7				12686.2		34104.3	1.4		35.3
+06	California	SPIROTETRAMAT	2017	kg					11472.6		36345	3.7		20.9
+08	Colorado	SPIROTETRAMAT	2009	kg					662.4					
+08	Colorado	SPIROTETRAMAT	2010	kg					401.5					
+08	Colorado	SPIROTETRAMAT	2011	kg					1890.5					
+08	Colorado	SPIROTETRAMAT	2012	kg					924.8					
+08	Colorado	SPIROTETRAMAT	2013	kg					1941					
+08	Colorado	SPIROTETRAMAT	2014	kg					669.4					
+08	Colorado	SPIROTETRAMAT	2015	kg					2547.6					
+08	Colorado	SPIROTETRAMAT	2016	kg					1229.2					
+08	Colorado	SPIROTETRAMAT	2017	kg					329.7					
+09	Connecticut	SPIROTETRAMAT	2009	kg					0.1					
+09	Connecticut	SPIROTETRAMAT	2010	kg					0.1					
+09	Connecticut	SPIROTETRAMAT	2011	kg					0.9					
+09	Connecticut	SPIROTETRAMAT	2012	kg					0.7		1.4			
+09	Connecticut	SPIROTETRAMAT	2013	kg					1.3					
+09	Connecticut	SPIROTETRAMAT	2014	kg					0.9		13			
+09	Connecticut	SPIROTETRAMAT	2015	kg					1.8					
+12	Florida	SPIROTETRAMAT	2009	kg					205.3		872.5			
+12	Florida	SPIROTETRAMAT	2010	kg					8.4		2326.4			
+12	Florida	SPIROTETRAMAT	2011	kg					890.5		8305.7			
+12	Florida	SPIROTETRAMAT	2012	kg					1076.1		8602.6			
+12	Florida	SPIROTETRAMAT	2013	kg					825		15958.9			13.8
+12	Florida	SPIROTETRAMAT	2014	kg					574.3		11131.9			
+12	Florida	SPIROTETRAMAT	2015	kg					1754.6		16209.8			
+12	Florida	SPIROTETRAMAT	2016	kg					1159.1		11079.3			
+12	Florida	SPIROTETRAMAT	2017	kg					541.9		17707.4			
+13	Georgia	SPIROTETRAMAT	2009	kg							88.2			
+13	Georgia	SPIROTETRAMAT	2010	kg							148			
+13	Georgia	SPIROTETRAMAT	2011	kg							679.6			
+13	Georgia	SPIROTETRAMAT	2013	kg							15.4			54.5
+13	Georgia	SPIROTETRAMAT	2014	kg							25.9			
+13	Georgia	SPIROTETRAMAT	2015	kg							18.2			
+13	Georgia	SPIROTETRAMAT	2016	kg							53.3			
+16	Idaho	SPIROTETRAMAT	2009	kg					186		4.2			
+16	Idaho	SPIROTETRAMAT	2010	kg					224.6		3.8			
+16	Idaho	SPIROTETRAMAT	2011	kg					2459.6		4.3			
+16	Idaho	SPIROTETRAMAT	2012	kg					1636.8		11			
+16	Idaho	SPIROTETRAMAT	2013	kg					1449.7		35.4			
+16	Idaho	SPIROTETRAMAT	2014	kg					1415.8		84.4			
+16	Idaho	SPIROTETRAMAT	2015	kg					1283.1		13.3			
+16	Idaho	SPIROTETRAMAT	2016	kg					3619.4		21.3			
+16	Idaho	SPIROTETRAMAT	2017	kg					2245.3		31.2			
+18	Indiana	SPIROTETRAMAT	2013	kg					0					
+18	Indiana	SPIROTETRAMAT	2014	kg					0					
+18	Indiana	SPIROTETRAMAT	2015	kg							18.7			
+18	Indiana	SPIROTETRAMAT	2016	kg							0			
+19	Iowa	SPIROTETRAMAT	2010	kg					5.2					
+20	Kansas	SPIROTETRAMAT	2009	kg					6.2					
+20	Kansas	SPIROTETRAMAT	2010	kg					49.3					
+20	Kansas	SPIROTETRAMAT	2011	kg					95.8					
+20	Kansas	SPIROTETRAMAT	2012	kg					98.8					
+20	Kansas	SPIROTETRAMAT	2013	kg					138.2					
+20	Kansas	SPIROTETRAMAT	2014	kg					5					
+20	Kansas	SPIROTETRAMAT	2015	kg					148.4					
+20	Kansas	SPIROTETRAMAT	2016	kg					6					
+23	Maine	SPIROTETRAMAT	2009	kg					112.8					
+23	Maine	SPIROTETRAMAT	2010	kg					56.9					
+23	Maine	SPIROTETRAMAT	2012	kg					97.9					
+23	Maine	SPIROTETRAMAT	2013	kg					19.4					
+23	Maine	SPIROTETRAMAT	2014	kg					551.6					
+23	Maine	SPIROTETRAMAT	2015	kg					79.7					
+23	Maine	SPIROTETRAMAT	2016	kg					31.8					
+23	Maine	SPIROTETRAMAT	2017	kg					193.8					
+24	Maryland	SPIROTETRAMAT	2010	kg							0.2			
+24	Maryland	SPIROTETRAMAT	2012	kg							5.5			
+25	Massachusetts	SPIROTETRAMAT	2009	kg					4.2					
+25	Massachusetts	SPIROTETRAMAT	2010	kg					4.3					
+25	Massachusetts	SPIROTETRAMAT	2011	kg					12.5					
+25	Massachusetts	SPIROTETRAMAT	2012	kg					9.1		2			
+25	Massachusetts	SPIROTETRAMAT	2013	kg					12.2					
+25	Massachusetts	SPIROTETRAMAT	2014	kg					6.6		21.9			
+25	Massachusetts	SPIROTETRAMAT	2015	kg					10.5					
+26	Michigan	SPIROTETRAMAT	2009	kg							1			
+26	Michigan	SPIROTETRAMAT	2013	kg					69.6		7.5			
+26	Michigan	SPIROTETRAMAT	2014	kg					15.5		34			
+26	Michigan	SPIROTETRAMAT	2015	kg							1096.6			
+26	Michigan	SPIROTETRAMAT	2016	kg							11			
+26	Michigan	SPIROTETRAMAT	2017	kg					48.4		185.8			
+30	Montana	SPIROTETRAMAT	2012	kg					163					
+30	Montana	SPIROTETRAMAT	2013	kg					295.7					
+30	Montana	SPIROTETRAMAT	2014	kg					121.8					
+30	Montana	SPIROTETRAMAT	2015	kg					26.9					
+30	Montana	SPIROTETRAMAT	2016	kg					259.9					
+30	Montana	SPIROTETRAMAT	2017	kg					155.4					
+31	Nebraska	SPIROTETRAMAT	2009	kg					77.9					
+31	Nebraska	SPIROTETRAMAT	2010	kg					560.5					
+31	Nebraska	SPIROTETRAMAT	2011	kg					389.2					
+31	Nebraska	SPIROTETRAMAT	2012	kg					1799.7					
+31	Nebraska	SPIROTETRAMAT	2013	kg					1246.3					
+31	Nebraska	SPIROTETRAMAT	2014	kg					138.4					
+31	Nebraska	SPIROTETRAMAT	2015	kg					1548.4					
+31	Nebraska	SPIROTETRAMAT	2016	kg					99.3					
+32	Nevada	SPIROTETRAMAT	2009	kg					32.8		0.4			
+32	Nevada	SPIROTETRAMAT	2010	kg					61.4		1			
+32	Nevada	SPIROTETRAMAT	2011	kg					177.6		0.7			
+32	Nevada	SPIROTETRAMAT	2012	kg					344.4		1.4			
+32	Nevada	SPIROTETRAMAT	2013	kg					247.7		4.6			
+32	Nevada	SPIROTETRAMAT	2014	kg					203.2		3.7			
+32	Nevada	SPIROTETRAMAT	2015	kg					178.5		6.6			
+32	Nevada	SPIROTETRAMAT	2016	kg					230.9		1.3			
+32	Nevada	SPIROTETRAMAT	2017	kg					167.3		3			
+34	New Jersey	SPIROTETRAMAT	2009	kg					1.1					
+34	New Jersey	SPIROTETRAMAT	2010	kg					1					
+34	New Jersey	SPIROTETRAMAT	2011	kg					3.4					
+34	New Jersey	SPIROTETRAMAT	2012	kg					2.3		0.5			
+34	New Jersey	SPIROTETRAMAT	2013	kg					3.9					
+34	New Jersey	SPIROTETRAMAT	2014	kg					2.2		5.4			
+34	New Jersey	SPIROTETRAMAT	2015	kg					3.6					
+35	New Mexico	SPIROTETRAMAT	2009	kg					7.1					
+35	New Mexico	SPIROTETRAMAT	2010	kg					30.8					
+35	New Mexico	SPIROTETRAMAT	2011	kg					135.5		52.5			
+35	New Mexico	SPIROTETRAMAT	2012	kg					17.2		588.8			
+35	New Mexico	SPIROTETRAMAT	2013	kg					267.2		11.8			
+35	New Mexico	SPIROTETRAMAT	2014	kg					25		240.5			
+35	New Mexico	SPIROTETRAMAT	2015	kg					236.2		564			
+35	New Mexico	SPIROTETRAMAT	2016	kg					44.6		322			
+35	New Mexico	SPIROTETRAMAT	2017	kg					30					
+36	New York	SPIROTETRAMAT	2009	kg					472.6					
+36	New York	SPIROTETRAMAT	2010	kg					531.7		106.9			
+36	New York	SPIROTETRAMAT	2011	kg					421		2651.1			
+36	New York	SPIROTETRAMAT	2012	kg					871.5		1812.5			
+36	New York	SPIROTETRAMAT	2013	kg					678.3		286.1			
+36	New York	SPIROTETRAMAT	2014	kg					681.8		81.1			
+36	New York	SPIROTETRAMAT	2015	kg					415.9		735.7			
+36	New York	SPIROTETRAMAT	2016	kg					597.2		138			
+36	New York	SPIROTETRAMAT	2017	kg					1659		1.8			
+37	North Carolina	SPIROTETRAMAT	2011	kg							0			
+39	Ohio	SPIROTETRAMAT	2009	kg							63.6			
+39	Ohio	SPIROTETRAMAT	2011	kg							124.9			
+39	Ohio	SPIROTETRAMAT	2013	kg							17			
+39	Ohio	SPIROTETRAMAT	2014	kg							2.3			
+39	Ohio	SPIROTETRAMAT	2015	kg							28.4			
+40	Oklahoma	SPIROTETRAMAT	2010	kg					0.4					
+40	Oklahoma	SPIROTETRAMAT	2011	kg					3.9					
+40	Oklahoma	SPIROTETRAMAT	2012	kg					3.4					
+40	Oklahoma	SPIROTETRAMAT	2013	kg					12.4					
+40	Oklahoma	SPIROTETRAMAT	2014	kg					0					
+40	Oklahoma	SPIROTETRAMAT	2015	kg					14					
+41	Oregon	SPIROTETRAMAT	2008	kg							52.5			
+41	Oregon	SPIROTETRAMAT	2009	kg					212.3		935			
+41	Oregon	SPIROTETRAMAT	2010	kg					525.9		406.4			
+41	Oregon	SPIROTETRAMAT	2011	kg					1830.2		733.4			
+41	Oregon	SPIROTETRAMAT	2012	kg					1827.9		1551.5			
+41	Oregon	SPIROTETRAMAT	2013	kg					1730.4		1797.1			
+41	Oregon	SPIROTETRAMAT	2014	kg					1968.5		1792.6			
+41	Oregon	SPIROTETRAMAT	2015	kg					1594.6		2111.8			
+41	Oregon	SPIROTETRAMAT	2016	kg					2168.2		1919			
+41	Oregon	SPIROTETRAMAT	2017	kg					2530.8		1563.3			
+42	Pennsylvania	SPIROTETRAMAT	2009	kg					0.5					
+42	Pennsylvania	SPIROTETRAMAT	2010	kg					8.8		3.5			
+42	Pennsylvania	SPIROTETRAMAT	2011	kg					1.4		10.1			
+42	Pennsylvania	SPIROTETRAMAT	2012	kg					1.8		69.8			
+42	Pennsylvania	SPIROTETRAMAT	2013	kg					2.6		52			
+42	Pennsylvania	SPIROTETRAMAT	2014	kg					2.3		6.7			
+42	Pennsylvania	SPIROTETRAMAT	2015	kg					3.3		25			
+45	South Carolina	SPIROTETRAMAT	2009	kg							1.7			
+45	South Carolina	SPIROTETRAMAT	2010	kg							5			
+45	South Carolina	SPIROTETRAMAT	2011	kg							7			
+45	South Carolina	SPIROTETRAMAT	2013	kg							162.2			
+45	South Carolina	SPIROTETRAMAT	2014	kg							263			
+45	South Carolina	SPIROTETRAMAT	2015	kg							210			
+45	South Carolina	SPIROTETRAMAT	2016	kg							422.9			
+46	South Dakota	SPIROTETRAMAT	2011	kg					0.2					
+46	South Dakota	SPIROTETRAMAT	2015	kg					0.5					
+48	Texas	SPIROTETRAMAT	2009	kg					166		516			
+48	Texas	SPIROTETRAMAT	2010	kg					118.6		0.4			
+48	Texas	SPIROTETRAMAT	2011	kg					831.2		206.2			
+48	Texas	SPIROTETRAMAT	2012	kg					358.3		815.5			
+48	Texas	SPIROTETRAMAT	2013	kg					502.3		556			
+48	Texas	SPIROTETRAMAT	2014	kg							1237.7			
+48	Texas	SPIROTETRAMAT	2015	kg					390.2		1081.1			
+48	Texas	SPIROTETRAMAT	2016	kg					143.3		62.6			
+49	Utah	SPIROTETRAMAT	2009	kg					0					
+49	Utah	SPIROTETRAMAT	2010	kg					0					
+49	Utah	SPIROTETRAMAT	2011	kg					0					
+49	Utah	SPIROTETRAMAT	2012	kg					2.1					
+49	Utah	SPIROTETRAMAT	2013	kg					4.1					
+49	Utah	SPIROTETRAMAT	2014	kg					0.9					
+49	Utah	SPIROTETRAMAT	2015	kg					1.1					
+49	Utah	SPIROTETRAMAT	2016	kg					5.9					
+49	Utah	SPIROTETRAMAT	2017	kg					2.7					
+53	Washington	SPIROTETRAMAT	2008	kg							82.7			
+53	Washington	SPIROTETRAMAT	2009	kg					279.3		797.8			
+53	Washington	SPIROTETRAMAT	2010	kg					287.2		1386.6			
+53	Washington	SPIROTETRAMAT	2011	kg					1100.5		1308.5			
+53	Washington	SPIROTETRAMAT	2012	kg					8483		7491.7			
+53	Washington	SPIROTETRAMAT	2013	kg					4528.7		2957.9			
+53	Washington	SPIROTETRAMAT	2014	kg					6222.5		7697.6			
+53	Washington	SPIROTETRAMAT	2015	kg					3338.1		3084.2			
+53	Washington	SPIROTETRAMAT	2016	kg					4962.9		8305.8			
+53	Washington	SPIROTETRAMAT	2017	kg					3648.4		9642.9			
+54	West Virginia	SPIROTETRAMAT	2013	kg							4.4			
+54	West Virginia	SPIROTETRAMAT	2015	kg							2			
+56	Wyoming	SPIROTETRAMAT	2009	kg					0					
+56	Wyoming	SPIROTETRAMAT	2010	kg					0					
+56	Wyoming	SPIROTETRAMAT	2011	kg					36.8					
+56	Wyoming	SPIROTETRAMAT	2012	kg					1.9					
+56	Wyoming	SPIROTETRAMAT	2013	kg					2.1					
+56	Wyoming	SPIROTETRAMAT	2014	kg					0.6					
+56	Wyoming	SPIROTETRAMAT	2015	kg					23					
+56	Wyoming	SPIROTETRAMAT	2016	kg					0.5					
+56	Wyoming	SPIROTETRAMAT	2017	kg					0					

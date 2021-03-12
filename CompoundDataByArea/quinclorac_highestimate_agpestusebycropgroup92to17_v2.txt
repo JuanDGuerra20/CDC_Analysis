@@ -1,0 +1,329 @@
+01	Alabama	QUINCLORAC	2005	kg	106									
+05	Arkansas	QUINCLORAC	1992	kg		399.2	201.1			29167				
+05	Arkansas	QUINCLORAC	1993	kg						27532.5				297.2
+05	Arkansas	QUINCLORAC	1994	kg						61713.5				1035.6
+05	Arkansas	QUINCLORAC	1995	kg		532.9				65687.3				
+05	Arkansas	QUINCLORAC	1996	kg						68220				
+05	Arkansas	QUINCLORAC	1997	kg						79939.9				
+05	Arkansas	QUINCLORAC	1998	kg						137813.9				
+05	Arkansas	QUINCLORAC	1999	kg						109566.5				
+05	Arkansas	QUINCLORAC	2000	kg						69789.6				
+05	Arkansas	QUINCLORAC	2001	kg						92621.6				
+05	Arkansas	QUINCLORAC	2002	kg						81329.3				
+05	Arkansas	QUINCLORAC	2003	kg						70082.2				
+05	Arkansas	QUINCLORAC	2004	kg						84852.5				
+05	Arkansas	QUINCLORAC	2005	kg						64501.8				
+05	Arkansas	QUINCLORAC	2006	kg						54740				
+05	Arkansas	QUINCLORAC	2007	kg						65009.5				
+05	Arkansas	QUINCLORAC	2008	kg						77249.1				408.1
+05	Arkansas	QUINCLORAC	2009	kg						67963.1				
+05	Arkansas	QUINCLORAC	2010	kg						114767				
+05	Arkansas	QUINCLORAC	2011	kg						82997.9				
+05	Arkansas	QUINCLORAC	2012	kg						93845.8				
+05	Arkansas	QUINCLORAC	2013	kg						114161.7				4271.5
+05	Arkansas	QUINCLORAC	2014	kg						124229.5				2212.4
+05	Arkansas	QUINCLORAC	2015	kg						150339.1				4793.3
+05	Arkansas	QUINCLORAC	2016	kg						181935.8				
+05	Arkansas	QUINCLORAC	2017	kg						173823.6				
+06	California	QUINCLORAC	2003	kg							6.1		0.4	
+06	California	QUINCLORAC	2004	kg							23.1		69.2	
+06	California	QUINCLORAC	2005	kg							9.5			
+06	California	QUINCLORAC	2006	kg							10.9			
+06	California	QUINCLORAC	2007	kg							14.3		21.3	
+06	California	QUINCLORAC	2008	kg							4.8			
+06	California	QUINCLORAC	2010	kg							1.9			
+06	California	QUINCLORAC	2011	kg							24.8			
+06	California	QUINCLORAC	2012	kg							0.2			
+06	California	QUINCLORAC	2014	kg							0.4			
+06	California	QUINCLORAC	2015	kg							0			
+06	California	QUINCLORAC	2016	kg							0.6			
+06	California	QUINCLORAC	2017	kg							0.3			
+08	Colorado	QUINCLORAC	1999	kg										279.7
+08	Colorado	QUINCLORAC	2000	kg			1931.5						363.9	598.3
+08	Colorado	QUINCLORAC	2001	kg										956.2
+08	Colorado	QUINCLORAC	2002	kg									83	279.5
+08	Colorado	QUINCLORAC	2003	kg										100.3
+08	Colorado	QUINCLORAC	2004	kg										257.5
+08	Colorado	QUINCLORAC	2005	kg			725.6							444.2
+08	Colorado	QUINCLORAC	2006	kg			2728.6						472.6	179.1
+08	Colorado	QUINCLORAC	2007	kg										340.3
+08	Colorado	QUINCLORAC	2008	kg										183.9
+08	Colorado	QUINCLORAC	2009	kg										126.6
+08	Colorado	QUINCLORAC	2011	kg									32.1	41.7
+08	Colorado	QUINCLORAC	2012	kg										171.7
+08	Colorado	QUINCLORAC	2013	kg										159.4
+08	Colorado	QUINCLORAC	2015	kg										28.3
+08	Colorado	QUINCLORAC	2016	kg										824.2
+08	Colorado	QUINCLORAC	2017	kg									16020.3	699
+16	Idaho	QUINCLORAC	2000	kg			10289.4							
+16	Idaho	QUINCLORAC	2002	kg			117.9							
+16	Idaho	QUINCLORAC	2003	kg			12.5							
+16	Idaho	QUINCLORAC	2009	kg									2301.9	
+16	Idaho	QUINCLORAC	2014	kg									27.2	
+17	Illinois	QUINCLORAC	2014	kg										67.9
+17	Illinois	QUINCLORAC	2015	kg										179.6
+19	Iowa	QUINCLORAC	1999	kg										87.2
+19	Iowa	QUINCLORAC	2000	kg										346.4
+19	Iowa	QUINCLORAC	2001	kg										6.8
+19	Iowa	QUINCLORAC	2002	kg										21.4
+19	Iowa	QUINCLORAC	2003	kg										25.8
+19	Iowa	QUINCLORAC	2004	kg										24.9
+19	Iowa	QUINCLORAC	2006	kg										109.6
+19	Iowa	QUINCLORAC	2007	kg										4.4
+19	Iowa	QUINCLORAC	2009	kg										30.2
+19	Iowa	QUINCLORAC	2011	kg										3.7
+19	Iowa	QUINCLORAC	2014	kg										6
+19	Iowa	QUINCLORAC	2015	kg										2
+19	Iowa	QUINCLORAC	2016	kg										0.1
+20	Kansas	QUINCLORAC	1999	kg										8800.3
+20	Kansas	QUINCLORAC	2000	kg			2644.8							3590.9
+20	Kansas	QUINCLORAC	2001	kg										5163.8
+20	Kansas	QUINCLORAC	2002	kg									65.6	4816.4
+20	Kansas	QUINCLORAC	2003	kg										1737.8
+20	Kansas	QUINCLORAC	2004	kg										2557.8
+20	Kansas	QUINCLORAC	2005	kg			719.7							4593.7
+20	Kansas	QUINCLORAC	2006	kg			2380.6						355.4	2822.4
+20	Kansas	QUINCLORAC	2007	kg										6567.8
+20	Kansas	QUINCLORAC	2008	kg										2445.6
+20	Kansas	QUINCLORAC	2010	kg										2293.9
+20	Kansas	QUINCLORAC	2011	kg									5.5	1179.7
+20	Kansas	QUINCLORAC	2012	kg										2518
+20	Kansas	QUINCLORAC	2013	kg										1352.7
+20	Kansas	QUINCLORAC	2014	kg										1676.1
+20	Kansas	QUINCLORAC	2015	kg										487.7
+20	Kansas	QUINCLORAC	2016	kg										6246.7
+20	Kansas	QUINCLORAC	2017	kg									10164.2	6599.4
+21	Kentucky	QUINCLORAC	2005	kg	450.9									
+21	Kentucky	QUINCLORAC	2014	kg										15.9
+21	Kentucky	QUINCLORAC	2015	kg										42.7
+22	Louisiana	QUINCLORAC	1992	kg						2638.7				
+22	Louisiana	QUINCLORAC	1993	kg		2434.7				2935.5				
+22	Louisiana	QUINCLORAC	1994	kg						12684.4				
+22	Louisiana	QUINCLORAC	1995	kg						10081.3				
+22	Louisiana	QUINCLORAC	1996	kg						25650.9			810.4	
+22	Louisiana	QUINCLORAC	1997	kg						27536.7				
+22	Louisiana	QUINCLORAC	1998	kg						22598.7				
+22	Louisiana	QUINCLORAC	1999	kg						32965.9				
+22	Louisiana	QUINCLORAC	2000	kg						24058.9				
+22	Louisiana	QUINCLORAC	2001	kg						30462.8				
+22	Louisiana	QUINCLORAC	2002	kg						28180.2				
+22	Louisiana	QUINCLORAC	2003	kg						22250.4				
+22	Louisiana	QUINCLORAC	2004	kg						23974				
+22	Louisiana	QUINCLORAC	2005	kg						11916.3				
+22	Louisiana	QUINCLORAC	2006	kg						7487.7				
+22	Louisiana	QUINCLORAC	2007	kg						9281.4				
+22	Louisiana	QUINCLORAC	2008	kg						3026.2				
+22	Louisiana	QUINCLORAC	2009	kg						8006.6				
+22	Louisiana	QUINCLORAC	2010	kg						22841.5				
+22	Louisiana	QUINCLORAC	2011	kg						13264.3				
+22	Louisiana	QUINCLORAC	2012	kg						16739.9				
+22	Louisiana	QUINCLORAC	2013	kg						22137.6				1352.1
+22	Louisiana	QUINCLORAC	2014	kg						12966.5				249.3
+22	Louisiana	QUINCLORAC	2015	kg						11996.8				36.5
+22	Louisiana	QUINCLORAC	2016	kg						10541.6				10
+22	Louisiana	QUINCLORAC	2017	kg						9311.2				
+27	Minnesota	QUINCLORAC	1999	kg										0.9
+27	Minnesota	QUINCLORAC	2000	kg										0.3
+27	Minnesota	QUINCLORAC	2001	kg										0.3
+27	Minnesota	QUINCLORAC	2002	kg										0.8
+27	Minnesota	QUINCLORAC	2003	kg										1.2
+27	Minnesota	QUINCLORAC	2004	kg										0.6
+27	Minnesota	QUINCLORAC	2006	kg										7.9
+27	Minnesota	QUINCLORAC	2009	kg										1.1
+27	Minnesota	QUINCLORAC	2014	kg										1.8
+28	Mississippi	QUINCLORAC	1992	kg			22			2988.2				
+28	Mississippi	QUINCLORAC	1993	kg						18749.1				2.7
+28	Mississippi	QUINCLORAC	1994	kg						23420.9				5.6
+28	Mississippi	QUINCLORAC	1995	kg		130.6				31052.6				
+28	Mississippi	QUINCLORAC	1996	kg						10942.4				
+28	Mississippi	QUINCLORAC	1997	kg						13566.5				
+28	Mississippi	QUINCLORAC	1998	kg						23311.3				
+28	Mississippi	QUINCLORAC	1999	kg						20071.5				
+28	Mississippi	QUINCLORAC	2000	kg						15098.4				
+28	Mississippi	QUINCLORAC	2001	kg						26569.3				
+28	Mississippi	QUINCLORAC	2002	kg						29269				
+28	Mississippi	QUINCLORAC	2003	kg						25994.8				
+28	Mississippi	QUINCLORAC	2004	kg						16709.9				
+28	Mississippi	QUINCLORAC	2005	kg	87.9					18810.7				
+28	Mississippi	QUINCLORAC	2006	kg						8877.7				
+28	Mississippi	QUINCLORAC	2007	kg						14067.5				
+28	Mississippi	QUINCLORAC	2008	kg						10862.6				168.7
+28	Mississippi	QUINCLORAC	2009	kg						14894.6				
+28	Mississippi	QUINCLORAC	2010	kg						23343.7				
+28	Mississippi	QUINCLORAC	2011	kg						10919.4				
+28	Mississippi	QUINCLORAC	2012	kg						15366.4				
+28	Mississippi	QUINCLORAC	2013	kg						21162.9				2016.5
+28	Mississippi	QUINCLORAC	2014	kg						22771.7				997.9
+28	Mississippi	QUINCLORAC	2015	kg						18942.9				748.9
+28	Mississippi	QUINCLORAC	2016	kg						16937.2				
+28	Mississippi	QUINCLORAC	2017	kg						15646.8				
+29	Missouri	QUINCLORAC	1992	kg		132.8				2977.5				
+29	Missouri	QUINCLORAC	1993	kg						1809.2				
+29	Missouri	QUINCLORAC	1994	kg						8386.7				
+29	Missouri	QUINCLORAC	1995	kg						3412.7				
+29	Missouri	QUINCLORAC	1996	kg						3628				
+29	Missouri	QUINCLORAC	1997	kg						2584.3				
+29	Missouri	QUINCLORAC	1998	kg						6474.4				
+29	Missouri	QUINCLORAC	1999	kg						7136.5				515.3
+29	Missouri	QUINCLORAC	2000	kg						13703.4				78.9
+29	Missouri	QUINCLORAC	2001	kg						6115.1				80.7
+29	Missouri	QUINCLORAC	2002	kg						13469.9				55
+29	Missouri	QUINCLORAC	2003	kg						10686.1				247.1
+29	Missouri	QUINCLORAC	2004	kg						7310.3				64.6
+29	Missouri	QUINCLORAC	2005	kg						7749.5				83.8
+29	Missouri	QUINCLORAC	2006	kg						8390.7				
+29	Missouri	QUINCLORAC	2007	kg						13540.2				21.3
+29	Missouri	QUINCLORAC	2008	kg						4682.1				
+29	Missouri	QUINCLORAC	2009	kg						12655				656.7
+29	Missouri	QUINCLORAC	2010	kg						9536.5				20.8
+29	Missouri	QUINCLORAC	2011	kg						15475.4				
+29	Missouri	QUINCLORAC	2012	kg						31866.4				
+29	Missouri	QUINCLORAC	2013	kg						14403.9				449.1
+29	Missouri	QUINCLORAC	2014	kg						7223.3				515.2
+29	Missouri	QUINCLORAC	2015	kg						20236.7				2430.9
+29	Missouri	QUINCLORAC	2016	kg						10078.1				46.1
+29	Missouri	QUINCLORAC	2017	kg						14117.3				
+30	Montana	QUINCLORAC	2000	kg			3172.1							
+30	Montana	QUINCLORAC	2002	kg			3.4							
+30	Montana	QUINCLORAC	2005	kg									2498.1	
+31	Nebraska	QUINCLORAC	1999	kg										2110.1
+31	Nebraska	QUINCLORAC	2000	kg										1235.1
+31	Nebraska	QUINCLORAC	2001	kg										1038.3
+31	Nebraska	QUINCLORAC	2002	kg									15.4	10933.3
+31	Nebraska	QUINCLORAC	2003	kg										1037.1
+31	Nebraska	QUINCLORAC	2004	kg										1123.5
+31	Nebraska	QUINCLORAC	2005	kg			167.3							529
+31	Nebraska	QUINCLORAC	2006	kg			580.7						84.4	
+31	Nebraska	QUINCLORAC	2007	kg										760
+31	Nebraska	QUINCLORAC	2008	kg										68.5
+31	Nebraska	QUINCLORAC	2009	kg										2138.9
+31	Nebraska	QUINCLORAC	2011	kg									5.2	129.5
+31	Nebraska	QUINCLORAC	2012	kg										60.4
+31	Nebraska	QUINCLORAC	2013	kg										208.9
+31	Nebraska	QUINCLORAC	2014	kg										264.3
+31	Nebraska	QUINCLORAC	2015	kg										812.3
+31	Nebraska	QUINCLORAC	2016	kg										319
+31	Nebraska	QUINCLORAC	2017	kg									2402.5	225.9
+32	Nevada	QUINCLORAC	2009	kg									34.7	
+32	Nevada	QUINCLORAC	2014	kg									1.2	
+35	New Mexico	QUINCLORAC	1999	kg										203.8
+35	New Mexico	QUINCLORAC	2000	kg			162						129.5	146.8
+35	New Mexico	QUINCLORAC	2001	kg										62.8
+35	New Mexico	QUINCLORAC	2002	kg										166.1
+35	New Mexico	QUINCLORAC	2003	kg										99
+35	New Mexico	QUINCLORAC	2004	kg										115.5
+35	New Mexico	QUINCLORAC	2005	kg										2490.1
+35	New Mexico	QUINCLORAC	2007	kg										239.2
+35	New Mexico	QUINCLORAC	2010	kg										503.5
+35	New Mexico	QUINCLORAC	2011	kg										12.6
+35	New Mexico	QUINCLORAC	2012	kg										38.5
+35	New Mexico	QUINCLORAC	2015	kg										5.9
+35	New Mexico	QUINCLORAC	2016	kg										206.9
+35	New Mexico	QUINCLORAC	2017	kg									1915.7	111
+38	North Dakota	QUINCLORAC	1999	kg										92.2
+38	North Dakota	QUINCLORAC	2000	kg			25.1							135
+38	North Dakota	QUINCLORAC	2001	kg										23.3
+38	North Dakota	QUINCLORAC	2002	kg										33
+38	North Dakota	QUINCLORAC	2003	kg										2.2
+38	North Dakota	QUINCLORAC	2004	kg										18.4
+38	North Dakota	QUINCLORAC	2005	kg										76
+38	North Dakota	QUINCLORAC	2009	kg										10.1
+38	North Dakota	QUINCLORAC	2011	kg										4
+38	North Dakota	QUINCLORAC	2013	kg										7.4
+40	Oklahoma	QUINCLORAC	1999	kg										590.6
+40	Oklahoma	QUINCLORAC	2000	kg			506.7						235	424.6
+40	Oklahoma	QUINCLORAC	2001	kg										151.5
+40	Oklahoma	QUINCLORAC	2002	kg										609.5
+40	Oklahoma	QUINCLORAC	2003	kg										268.4
+40	Oklahoma	QUINCLORAC	2004	kg										243
+40	Oklahoma	QUINCLORAC	2005	kg										3322.1
+40	Oklahoma	QUINCLORAC	2006	kg										278.5
+40	Oklahoma	QUINCLORAC	2007	kg										525.9
+40	Oklahoma	QUINCLORAC	2008	kg										205.6
+40	Oklahoma	QUINCLORAC	2010	kg										1109.2
+40	Oklahoma	QUINCLORAC	2011	kg										27.8
+40	Oklahoma	QUINCLORAC	2012	kg										163.7
+40	Oklahoma	QUINCLORAC	2015	kg										87.6
+40	Oklahoma	QUINCLORAC	2016	kg										548.9
+40	Oklahoma	QUINCLORAC	2017	kg									5056.3	645.6
+41	Oregon	QUINCLORAC	2002	kg			50						68.6	
+41	Oregon	QUINCLORAC	2003	kg			13.8							
+46	South Dakota	QUINCLORAC	1999	kg										5557.2
+46	South Dakota	QUINCLORAC	2000	kg										4356.4
+46	South Dakota	QUINCLORAC	2001	kg										374
+46	South Dakota	QUINCLORAC	2002	kg										1657.8
+46	South Dakota	QUINCLORAC	2003	kg										96.8
+46	South Dakota	QUINCLORAC	2004	kg										1110.5
+46	South Dakota	QUINCLORAC	2005	kg										2901.2
+46	South Dakota	QUINCLORAC	2006	kg										6287.9
+46	South Dakota	QUINCLORAC	2007	kg										3113
+46	South Dakota	QUINCLORAC	2008	kg										2664.5
+46	South Dakota	QUINCLORAC	2009	kg										2129
+46	South Dakota	QUINCLORAC	2010	kg										851
+46	South Dakota	QUINCLORAC	2011	kg										852.7
+46	South Dakota	QUINCLORAC	2012	kg										5838.3
+46	South Dakota	QUINCLORAC	2013	kg										3999.7
+46	South Dakota	QUINCLORAC	2014	kg										2186
+47	Tennessee	QUINCLORAC	1992	kg		64.3	29.6			11.7				
+47	Tennessee	QUINCLORAC	1993	kg						11.3				4.2
+47	Tennessee	QUINCLORAC	1994	kg						37.5				8.8
+47	Tennessee	QUINCLORAC	1995	kg		74.4				32.1				
+47	Tennessee	QUINCLORAC	1996	kg						42				
+47	Tennessee	QUINCLORAC	1997	kg						40				
+47	Tennessee	QUINCLORAC	1998	kg						72.6				
+47	Tennessee	QUINCLORAC	1999	kg						41.6				
+47	Tennessee	QUINCLORAC	2000	kg						58.9				
+47	Tennessee	QUINCLORAC	2001	kg						47				
+47	Tennessee	QUINCLORAC	2002	kg						64.9				
+47	Tennessee	QUINCLORAC	2003	kg						63.7				
+47	Tennessee	QUINCLORAC	2004	kg						41.7				
+47	Tennessee	QUINCLORAC	2005	kg	773.5					40.5				
+47	Tennessee	QUINCLORAC	2006	kg						54.7				
+47	Tennessee	QUINCLORAC	2007	kg						62.1				
+47	Tennessee	QUINCLORAC	2008	kg						66.2				26.6
+47	Tennessee	QUINCLORAC	2009	kg						102.5				
+47	Tennessee	QUINCLORAC	2010	kg						80.9				
+47	Tennessee	QUINCLORAC	2011	kg						71.1				
+47	Tennessee	QUINCLORAC	2012	kg						57.3				
+47	Tennessee	QUINCLORAC	2013	kg						63.1				185
+47	Tennessee	QUINCLORAC	2014	kg						72.3				145.5
+47	Tennessee	QUINCLORAC	2015	kg						82.1				162.3
+47	Tennessee	QUINCLORAC	2016	kg						9.1				
+47	Tennessee	QUINCLORAC	2017	kg						76				
+48	Texas	QUINCLORAC	1992	kg						828.4				
+48	Texas	QUINCLORAC	1993	kg		231.2				10900.6				
+48	Texas	QUINCLORAC	1994	kg						14789.7				
+48	Texas	QUINCLORAC	1995	kg						24087.6				
+48	Texas	QUINCLORAC	1996	kg						18692.9			16263.3	
+48	Texas	QUINCLORAC	1997	kg						29095.8				
+48	Texas	QUINCLORAC	1998	kg						23972				
+48	Texas	QUINCLORAC	1999	kg						19575.3				1664.9
+48	Texas	QUINCLORAC	2000	kg						18476.1			774.6	2249.1
+48	Texas	QUINCLORAC	2001	kg						11033.8				636.8
+48	Texas	QUINCLORAC	2002	kg						6991.1				2334.7
+48	Texas	QUINCLORAC	2003	kg						11075				2363.8
+48	Texas	QUINCLORAC	2004	kg						8163.9				945.4
+48	Texas	QUINCLORAC	2005	kg						8908.5				16348.7
+48	Texas	QUINCLORAC	2006	kg						4135.8				
+48	Texas	QUINCLORAC	2007	kg						3689.1				2996.9
+48	Texas	QUINCLORAC	2008	kg						8585.6				
+48	Texas	QUINCLORAC	2009	kg						4933.9				
+48	Texas	QUINCLORAC	2010	kg						11410.1				4291.9
+48	Texas	QUINCLORAC	2011	kg						6749.6				115.8
+48	Texas	QUINCLORAC	2012	kg						7474.1				833.7
+48	Texas	QUINCLORAC	2013	kg						6798.4				8979.2
+48	Texas	QUINCLORAC	2014	kg						6151.2				1739.4
+48	Texas	QUINCLORAC	2015	kg						13075.5				168.4
+48	Texas	QUINCLORAC	2016	kg						26623.3				4013.7
+48	Texas	QUINCLORAC	2017	kg						13634.2			7653.7	1895.5
+49	Utah	QUINCLORAC	2000	kg			626.4							
+49	Utah	QUINCLORAC	2002	kg			0.1							
+49	Utah	QUINCLORAC	2009	kg									1549.7	
+49	Utah	QUINCLORAC	2014	kg									15.6	
+53	Washington	QUINCLORAC	2001	kg									44.4	
+53	Washington	QUINCLORAC	2002	kg			133.7						16.6	
+53	Washington	QUINCLORAC	2003	kg			74.8							
+56	Wyoming	QUINCLORAC	2000	kg			71.9							
+56	Wyoming	QUINCLORAC	2002	kg			0							
+56	Wyoming	QUINCLORAC	2009	kg									26.6	
+56	Wyoming	QUINCLORAC	2014	kg									0.7	

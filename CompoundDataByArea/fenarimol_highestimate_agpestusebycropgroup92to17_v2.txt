@@ -1,0 +1,811 @@
+01	Alabama	FENARIMOL	1992	kg							3.7			
+01	Alabama	FENARIMOL	1993	kg							2.6			
+01	Alabama	FENARIMOL	1994	kg							3.8			
+01	Alabama	FENARIMOL	1995	kg							1.9			
+01	Alabama	FENARIMOL	1996	kg							4.4			
+01	Alabama	FENARIMOL	1997	kg							1.2			
+01	Alabama	FENARIMOL	1998	kg							3.7			
+01	Alabama	FENARIMOL	1999	kg							1.8			
+01	Alabama	FENARIMOL	2000	kg							3.6			
+01	Alabama	FENARIMOL	2001	kg							0.8			
+01	Alabama	FENARIMOL	2002	kg							1.5			
+01	Alabama	FENARIMOL	2003	kg							1.9			
+01	Alabama	FENARIMOL	2004	kg							4.5			
+01	Alabama	FENARIMOL	2005	kg							1.4			
+01	Alabama	FENARIMOL	2006	kg							2.3			
+01	Alabama	FENARIMOL	2007	kg							2			
+01	Alabama	FENARIMOL	2008	kg							0.1			
+01	Alabama	FENARIMOL	2009	kg							0.7			
+01	Alabama	FENARIMOL	2010	kg							0			
+01	Alabama	FENARIMOL	2012	kg							1.4			
+04	Arizona	FENARIMOL	1992	kg							114.2			
+04	Arizona	FENARIMOL	1993	kg							253.3			
+04	Arizona	FENARIMOL	1994	kg							100.6			
+04	Arizona	FENARIMOL	1995	kg							218.4			
+04	Arizona	FENARIMOL	1996	kg							16			
+04	Arizona	FENARIMOL	1997	kg							93.4		6.3	
+04	Arizona	FENARIMOL	1998	kg							150.3			
+04	Arizona	FENARIMOL	1999	kg							61			
+04	Arizona	FENARIMOL	2000	kg							22.3			
+04	Arizona	FENARIMOL	2001	kg							4.2			
+04	Arizona	FENARIMOL	2002	kg							99.7			
+04	Arizona	FENARIMOL	2003	kg							21.5			
+04	Arizona	FENARIMOL	2004	kg							3.4			
+04	Arizona	FENARIMOL	2005	kg							18			
+04	Arizona	FENARIMOL	2006	kg							13.8			
+04	Arizona	FENARIMOL	2007	kg							45.6			
+04	Arizona	FENARIMOL	2008	kg							2.9			
+04	Arizona	FENARIMOL	2009	kg							3.5			
+04	Arizona	FENARIMOL	2010	kg							1.6			
+04	Arizona	FENARIMOL	2011	kg							1.3			
+04	Arizona	FENARIMOL	2012	kg							0.6			
+04	Arizona	FENARIMOL	2013	kg							0.1			
+05	Arkansas	FENARIMOL	1995	kg						101.4				
+06	California	FENARIMOL	1992	kg							11408.8			
+06	California	FENARIMOL	1993	kg							9963.3			
+06	California	FENARIMOL	1994	kg							11636.5		0.5	
+06	California	FENARIMOL	1995	kg							10162.2			
+06	California	FENARIMOL	1996	kg							7199.3		0	
+06	California	FENARIMOL	1997	kg							6755.3			
+06	California	FENARIMOL	1998	kg	0.4				0.3		8249.2		0.7	
+06	California	FENARIMOL	1999	kg					0.4		9781.3	21.8		
+06	California	FENARIMOL	2000	kg					0.1		4150	43.5	0.2	0.3
+06	California	FENARIMOL	2001	kg							2890.8			
+06	California	FENARIMOL	2002	kg							2621.5			
+06	California	FENARIMOL	2003	kg							3042.8			0.4
+06	California	FENARIMOL	2004	kg					0		2066.8		0	
+06	California	FENARIMOL	2005	kg							3349.9			
+06	California	FENARIMOL	2006	kg							2028.5			
+06	California	FENARIMOL	2007	kg							2023.2			
+06	California	FENARIMOL	2008	kg							2376.3		0	
+06	California	FENARIMOL	2009	kg							1722.9			
+06	California	FENARIMOL	2010	kg							1529.6			
+06	California	FENARIMOL	2011	kg							1186.3			
+06	California	FENARIMOL	2012	kg							216			
+06	California	FENARIMOL	2013	kg							84.1			
+06	California	FENARIMOL	2014	kg							41.1			
+06	California	FENARIMOL	2015	kg							31.9			
+06	California	FENARIMOL	2016	kg							7.6			
+06	California	FENARIMOL	2017	kg							14.6			
+08	Colorado	FENARIMOL	1992	kg							19.6			
+08	Colorado	FENARIMOL	1993	kg							112.5			
+08	Colorado	FENARIMOL	1994	kg							30.5			
+08	Colorado	FENARIMOL	1995	kg							32.2			
+08	Colorado	FENARIMOL	1996	kg							5			
+08	Colorado	FENARIMOL	1997	kg							10.2			
+08	Colorado	FENARIMOL	1998	kg							11.1			
+08	Colorado	FENARIMOL	1999	kg							29.5			
+08	Colorado	FENARIMOL	2000	kg							13.2			
+08	Colorado	FENARIMOL	2001	kg							1.6			
+08	Colorado	FENARIMOL	2002	kg							31.1			
+08	Colorado	FENARIMOL	2003	kg							12.2			
+08	Colorado	FENARIMOL	2004	kg							29.3			
+08	Colorado	FENARIMOL	2005	kg							15.5			
+08	Colorado	FENARIMOL	2006	kg							26.1			
+08	Colorado	FENARIMOL	2007	kg							6.1			
+08	Colorado	FENARIMOL	2008	kg							15.3			
+08	Colorado	FENARIMOL	2009	kg							14.9			
+08	Colorado	FENARIMOL	2010	kg							1.3			
+08	Colorado	FENARIMOL	2011	kg							10.8			
+08	Colorado	FENARIMOL	2012	kg							23.4			
+09	Connecticut	FENARIMOL	1992	kg							70.1			
+09	Connecticut	FENARIMOL	1993	kg							25.4			
+09	Connecticut	FENARIMOL	1994	kg							24.1			
+09	Connecticut	FENARIMOL	1995	kg							95.9			
+09	Connecticut	FENARIMOL	1996	kg							40.3			
+09	Connecticut	FENARIMOL	1997	kg							98.5			
+09	Connecticut	FENARIMOL	1998	kg							20			
+09	Connecticut	FENARIMOL	1999	kg							57.4			
+09	Connecticut	FENARIMOL	2000	kg							93			
+09	Connecticut	FENARIMOL	2001	kg							120.9			
+09	Connecticut	FENARIMOL	2002	kg							17.4			
+09	Connecticut	FENARIMOL	2003	kg							48.5			
+09	Connecticut	FENARIMOL	2004	kg							77.7			
+09	Connecticut	FENARIMOL	2005	kg							33.7			
+09	Connecticut	FENARIMOL	2006	kg							20.4			
+09	Connecticut	FENARIMOL	2007	kg							31			
+09	Connecticut	FENARIMOL	2008	kg							12.5			
+09	Connecticut	FENARIMOL	2009	kg							20.2			
+09	Connecticut	FENARIMOL	2010	kg							3.8			
+09	Connecticut	FENARIMOL	2011	kg							38.9			
+09	Connecticut	FENARIMOL	2012	kg							9.4			
+10	Delaware	FENARIMOL	1992	kg							0.2			
+10	Delaware	FENARIMOL	1993	kg							0			
+10	Delaware	FENARIMOL	1994	kg							0			
+10	Delaware	FENARIMOL	1995	kg							0.2			
+10	Delaware	FENARIMOL	1996	kg							0			
+10	Delaware	FENARIMOL	1997	kg							0.6			
+10	Delaware	FENARIMOL	1998	kg							0.1			
+10	Delaware	FENARIMOL	1999	kg							0.1			
+10	Delaware	FENARIMOL	2000	kg							0.1			
+10	Delaware	FENARIMOL	2001	kg							0.2			
+10	Delaware	FENARIMOL	2002	kg							0.1			
+10	Delaware	FENARIMOL	2003	kg							0.1			
+10	Delaware	FENARIMOL	2004	kg							0.3			
+10	Delaware	FENARIMOL	2005	kg							0.1			
+10	Delaware	FENARIMOL	2006	kg							0			
+10	Delaware	FENARIMOL	2007	kg							0.1			
+13	Georgia	FENARIMOL	1992	kg							52.1			
+13	Georgia	FENARIMOL	1993	kg							18.3			
+13	Georgia	FENARIMOL	1994	kg							8.3			
+13	Georgia	FENARIMOL	1995	kg							118.9			
+13	Georgia	FENARIMOL	1996	kg							12.3			
+13	Georgia	FENARIMOL	1997	kg							21.5			
+13	Georgia	FENARIMOL	1998	kg							48.5			
+13	Georgia	FENARIMOL	1999	kg							17.4			
+13	Georgia	FENARIMOL	2000	kg							19.5			
+13	Georgia	FENARIMOL	2001	kg							9.6			
+13	Georgia	FENARIMOL	2002	kg							11.1			
+13	Georgia	FENARIMOL	2003	kg							18.9			
+13	Georgia	FENARIMOL	2004	kg							37.8			
+13	Georgia	FENARIMOL	2005	kg							12.9			
+13	Georgia	FENARIMOL	2006	kg							24.3			
+13	Georgia	FENARIMOL	2007	kg							4.7			
+13	Georgia	FENARIMOL	2008	kg							8.5			
+13	Georgia	FENARIMOL	2009	kg							4.3			
+13	Georgia	FENARIMOL	2010	kg							0.8			
+13	Georgia	FENARIMOL	2011	kg							0			
+13	Georgia	FENARIMOL	2012	kg							19.7			
+13	Georgia	FENARIMOL	2013	kg							1.1			
+13	Georgia	FENARIMOL	2014	kg							0			
+13	Georgia	FENARIMOL	2015	kg							0			
+16	Idaho	FENARIMOL	1992	kg							134.7			
+16	Idaho	FENARIMOL	1993	kg							217.2			
+16	Idaho	FENARIMOL	1994	kg							22.4			
+16	Idaho	FENARIMOL	1995	kg							146.2			
+16	Idaho	FENARIMOL	1996	kg							234.3			
+16	Idaho	FENARIMOL	1997	kg							177.2			
+16	Idaho	FENARIMOL	1998	kg							61.7			
+16	Idaho	FENARIMOL	1999	kg							75.9			
+16	Idaho	FENARIMOL	2000	kg							26.4			
+16	Idaho	FENARIMOL	2001	kg							12.3			
+16	Idaho	FENARIMOL	2002	kg							74.4			
+16	Idaho	FENARIMOL	2003	kg							19.7			
+16	Idaho	FENARIMOL	2004	kg							16.8			
+16	Idaho	FENARIMOL	2005	kg							19.8			
+16	Idaho	FENARIMOL	2006	kg							31.8			
+16	Idaho	FENARIMOL	2007	kg							8			
+16	Idaho	FENARIMOL	2008	kg							21.9			
+16	Idaho	FENARIMOL	2009	kg							19.1			
+16	Idaho	FENARIMOL	2010	kg							8.8			
+16	Idaho	FENARIMOL	2011	kg							13			
+16	Idaho	FENARIMOL	2012	kg							14.1			
+16	Idaho	FENARIMOL	2013	kg							6.5			
+16	Idaho	FENARIMOL	2014	kg							1.4			
+17	Illinois	FENARIMOL	1992	kg							63.2			
+17	Illinois	FENARIMOL	1993	kg							87.4			
+17	Illinois	FENARIMOL	1994	kg							315.9			
+17	Illinois	FENARIMOL	1995	kg			17.3		5		59.2			
+17	Illinois	FENARIMOL	1996	kg							181.3			
+17	Illinois	FENARIMOL	1997	kg							155.7			
+17	Illinois	FENARIMOL	1998	kg							35.6			
+17	Illinois	FENARIMOL	1999	kg							190.1			
+17	Illinois	FENARIMOL	2000	kg							89.6			
+17	Illinois	FENARIMOL	2001	kg							67.5			
+17	Illinois	FENARIMOL	2002	kg							70.5			
+17	Illinois	FENARIMOL	2003	kg							117.8			
+17	Illinois	FENARIMOL	2004	kg							38.5			
+17	Illinois	FENARIMOL	2005	kg							153.1			
+17	Illinois	FENARIMOL	2006	kg							77.3			
+17	Illinois	FENARIMOL	2007	kg							7.7			
+17	Illinois	FENARIMOL	2008	kg							121			
+17	Illinois	FENARIMOL	2009	kg							71.1			
+17	Illinois	FENARIMOL	2010	kg							96.8			
+17	Illinois	FENARIMOL	2012	kg							28.9			
+18	Indiana	FENARIMOL	1992	kg							53.2			
+18	Indiana	FENARIMOL	1993	kg							113.1			
+18	Indiana	FENARIMOL	1994	kg							283.3			
+18	Indiana	FENARIMOL	1995	kg			19.1				324.7			
+18	Indiana	FENARIMOL	1996	kg							90.7			
+18	Indiana	FENARIMOL	1997	kg							78.2			
+18	Indiana	FENARIMOL	1998	kg							67.9			
+18	Indiana	FENARIMOL	1999	kg							118.5			
+18	Indiana	FENARIMOL	2000	kg							18.7			
+18	Indiana	FENARIMOL	2001	kg							9.7			
+18	Indiana	FENARIMOL	2002	kg							16.4			
+18	Indiana	FENARIMOL	2003	kg							46.2			
+18	Indiana	FENARIMOL	2004	kg							51.6			
+18	Indiana	FENARIMOL	2005	kg							87.7			
+18	Indiana	FENARIMOL	2006	kg							49.1			
+18	Indiana	FENARIMOL	2007	kg							2.6			
+18	Indiana	FENARIMOL	2008	kg							164.5			
+18	Indiana	FENARIMOL	2009	kg							64.8			
+18	Indiana	FENARIMOL	2010	kg							80.9			
+18	Indiana	FENARIMOL	2011	kg							19.6			
+18	Indiana	FENARIMOL	2012	kg							26.4			
+18	Indiana	FENARIMOL	2013	kg							11.2			
+19	Iowa	FENARIMOL	1992	kg							9.2			
+19	Iowa	FENARIMOL	1993	kg							11.4			
+19	Iowa	FENARIMOL	1994	kg							35.7			
+19	Iowa	FENARIMOL	1995	kg							22.8			
+19	Iowa	FENARIMOL	1996	kg							15			
+19	Iowa	FENARIMOL	1997	kg							23.2			
+19	Iowa	FENARIMOL	1998	kg							5.7			
+19	Iowa	FENARIMOL	1999	kg							20.7			
+19	Iowa	FENARIMOL	2000	kg							6.4			
+19	Iowa	FENARIMOL	2001	kg							3.4			
+19	Iowa	FENARIMOL	2002	kg							10.6			
+19	Iowa	FENARIMOL	2003	kg							9.7			
+19	Iowa	FENARIMOL	2004	kg							8.5			
+19	Iowa	FENARIMOL	2005	kg							26.9			
+19	Iowa	FENARIMOL	2006	kg							13.7			
+19	Iowa	FENARIMOL	2007	kg							0.9			
+19	Iowa	FENARIMOL	2008	kg							27.6			
+19	Iowa	FENARIMOL	2009	kg							16.2			
+19	Iowa	FENARIMOL	2010	kg							22.8			
+19	Iowa	FENARIMOL	2012	kg							6.7			
+21	Kentucky	FENARIMOL	1992	kg							31.9			
+21	Kentucky	FENARIMOL	1993	kg							23.8			
+21	Kentucky	FENARIMOL	1994	kg							102.2			
+21	Kentucky	FENARIMOL	1995	kg			36.9		0.4		173.2			
+21	Kentucky	FENARIMOL	1996	kg							45.4			
+21	Kentucky	FENARIMOL	1997	kg							29.3			
+21	Kentucky	FENARIMOL	1998	kg							64.5			
+21	Kentucky	FENARIMOL	1999	kg							93.9			
+21	Kentucky	FENARIMOL	2000	kg							35			
+21	Kentucky	FENARIMOL	2001	kg							21.8			
+21	Kentucky	FENARIMOL	2002	kg							47.1			
+21	Kentucky	FENARIMOL	2003	kg							25.7			
+21	Kentucky	FENARIMOL	2004	kg							56.3			
+21	Kentucky	FENARIMOL	2005	kg							44.9			
+21	Kentucky	FENARIMOL	2006	kg							38.1			
+21	Kentucky	FENARIMOL	2007	kg							28.9			
+21	Kentucky	FENARIMOL	2008	kg							15.5			
+21	Kentucky	FENARIMOL	2009	kg							23.3			
+21	Kentucky	FENARIMOL	2010	kg							12.2			
+21	Kentucky	FENARIMOL	2011	kg							5.9			
+21	Kentucky	FENARIMOL	2012	kg							21.7			
+23	Maine	FENARIMOL	1992	kg							107.4			
+23	Maine	FENARIMOL	1993	kg							156.7			
+23	Maine	FENARIMOL	1994	kg							271.7			
+23	Maine	FENARIMOL	1995	kg							269.8			
+23	Maine	FENARIMOL	1996	kg							185.5			
+23	Maine	FENARIMOL	1997	kg							142.9			
+23	Maine	FENARIMOL	1998	kg							12.9			
+23	Maine	FENARIMOL	1999	kg							222.9			
+23	Maine	FENARIMOL	2000	kg							304.2			
+23	Maine	FENARIMOL	2001	kg							71.6			
+23	Maine	FENARIMOL	2002	kg							11.5			
+23	Maine	FENARIMOL	2003	kg							47.8			
+23	Maine	FENARIMOL	2004	kg							47.7			
+23	Maine	FENARIMOL	2005	kg							46.9			
+23	Maine	FENARIMOL	2006	kg							18.8			
+23	Maine	FENARIMOL	2007	kg							26.5			
+23	Maine	FENARIMOL	2008	kg							27.6			
+23	Maine	FENARIMOL	2009	kg							39			
+23	Maine	FENARIMOL	2010	kg							5.4			
+23	Maine	FENARIMOL	2011	kg							60.2			
+23	Maine	FENARIMOL	2012	kg							15.4			
+24	Maryland	FENARIMOL	1992	kg							56.5			
+24	Maryland	FENARIMOL	1993	kg							24.9			
+24	Maryland	FENARIMOL	1994	kg							42.2			
+24	Maryland	FENARIMOL	1995	kg							34.4			
+24	Maryland	FENARIMOL	1996	kg							35.7			
+24	Maryland	FENARIMOL	1997	kg							308.2			
+24	Maryland	FENARIMOL	1998	kg							23.4			
+24	Maryland	FENARIMOL	1999	kg							11.9			
+24	Maryland	FENARIMOL	2000	kg							20.2			
+24	Maryland	FENARIMOL	2001	kg							21.1			
+24	Maryland	FENARIMOL	2002	kg							34.1			
+24	Maryland	FENARIMOL	2003	kg							42.1			
+24	Maryland	FENARIMOL	2004	kg							13.5			
+24	Maryland	FENARIMOL	2005	kg							14.2			
+24	Maryland	FENARIMOL	2006	kg							9.9			
+24	Maryland	FENARIMOL	2007	kg							26.6			
+24	Maryland	FENARIMOL	2008	kg							15.4			
+24	Maryland	FENARIMOL	2009	kg							28.6			
+24	Maryland	FENARIMOL	2010	kg							5.1			
+24	Maryland	FENARIMOL	2011	kg							32.2			
+24	Maryland	FENARIMOL	2012	kg							17.4			
+24	Maryland	FENARIMOL	2013	kg							0.1			
+25	Massachusetts	FENARIMOL	1992	kg							66.1			
+25	Massachusetts	FENARIMOL	1993	kg							19.2			
+25	Massachusetts	FENARIMOL	1994	kg							169.5			
+25	Massachusetts	FENARIMOL	1995	kg							460.1			
+25	Massachusetts	FENARIMOL	1996	kg							202.2			
+25	Massachusetts	FENARIMOL	1997	kg							240.1			
+25	Massachusetts	FENARIMOL	1998	kg							51.8			
+25	Massachusetts	FENARIMOL	1999	kg							199.9			
+25	Massachusetts	FENARIMOL	2000	kg							165.1			
+25	Massachusetts	FENARIMOL	2001	kg							94.2			
+25	Massachusetts	FENARIMOL	2002	kg							43.4			
+25	Massachusetts	FENARIMOL	2003	kg							127.6			
+25	Massachusetts	FENARIMOL	2004	kg							231.9			
+25	Massachusetts	FENARIMOL	2005	kg							61.6			
+25	Massachusetts	FENARIMOL	2006	kg							21.9			
+25	Massachusetts	FENARIMOL	2007	kg							64			
+25	Massachusetts	FENARIMOL	2008	kg							21.7			
+25	Massachusetts	FENARIMOL	2009	kg							34.6			
+25	Massachusetts	FENARIMOL	2010	kg							5.6			
+25	Massachusetts	FENARIMOL	2011	kg							63.2			
+25	Massachusetts	FENARIMOL	2012	kg							14.8			
+26	Michigan	FENARIMOL	1992	kg							1344.1			
+26	Michigan	FENARIMOL	1993	kg							4933.8			
+26	Michigan	FENARIMOL	1994	kg							3079.9			
+26	Michigan	FENARIMOL	1995	kg					24.7		2989.9			
+26	Michigan	FENARIMOL	1996	kg					29.4		3051.6			
+26	Michigan	FENARIMOL	1997	kg							4219.2			
+26	Michigan	FENARIMOL	1998	kg							1839.4			
+26	Michigan	FENARIMOL	1999	kg							2360.3			
+26	Michigan	FENARIMOL	2000	kg							610.9			
+26	Michigan	FENARIMOL	2001	kg							383.6			
+26	Michigan	FENARIMOL	2002	kg							255.2			
+26	Michigan	FENARIMOL	2003	kg							658.2			
+26	Michigan	FENARIMOL	2004	kg							578.1			
+26	Michigan	FENARIMOL	2005	kg							457.1			
+26	Michigan	FENARIMOL	2006	kg							275.9			
+26	Michigan	FENARIMOL	2007	kg							166.6			
+26	Michigan	FENARIMOL	2008	kg							2368.8			
+26	Michigan	FENARIMOL	2009	kg							1258.2			
+26	Michigan	FENARIMOL	2010	kg							911.3			
+26	Michigan	FENARIMOL	2011	kg							969.8			
+26	Michigan	FENARIMOL	2012	kg							230			
+26	Michigan	FENARIMOL	2013	kg							140.8			
+26	Michigan	FENARIMOL	2017	kg							38.2			
+27	Minnesota	FENARIMOL	1992	kg							38.1			
+27	Minnesota	FENARIMOL	1993	kg							67.2			
+27	Minnesota	FENARIMOL	1994	kg							249.7			
+27	Minnesota	FENARIMOL	1995	kg							109.9			
+27	Minnesota	FENARIMOL	1996	kg							79.5			
+27	Minnesota	FENARIMOL	1997	kg							100.7			
+27	Minnesota	FENARIMOL	1998	kg							29.8			
+27	Minnesota	FENARIMOL	1999	kg							86.5			
+27	Minnesota	FENARIMOL	2000	kg							143.7			
+27	Minnesota	FENARIMOL	2001	kg							13.5			
+27	Minnesota	FENARIMOL	2002	kg							40.8			
+27	Minnesota	FENARIMOL	2003	kg							58			
+27	Minnesota	FENARIMOL	2004	kg							57.3			
+27	Minnesota	FENARIMOL	2005	kg							104.8			
+27	Minnesota	FENARIMOL	2006	kg							50			
+27	Minnesota	FENARIMOL	2007	kg							12.4			
+27	Minnesota	FENARIMOL	2008	kg							100.2			
+27	Minnesota	FENARIMOL	2009	kg							82			
+27	Minnesota	FENARIMOL	2010	kg							96.7			
+27	Minnesota	FENARIMOL	2011	kg							7.2			
+27	Minnesota	FENARIMOL	2012	kg							27.4			
+28	Mississippi	FENARIMOL	1995	kg						12				
+29	Missouri	FENARIMOL	1992	kg							8			
+29	Missouri	FENARIMOL	1993	kg							9.5			
+29	Missouri	FENARIMOL	1994	kg							38.2			
+29	Missouri	FENARIMOL	1995	kg					1.8		8			
+29	Missouri	FENARIMOL	1996	kg							15.5			
+29	Missouri	FENARIMOL	1997	kg							18.2			
+29	Missouri	FENARIMOL	1998	kg							4.6			
+29	Missouri	FENARIMOL	1999	kg							15.7			
+29	Missouri	FENARIMOL	2000	kg							4.9			
+29	Missouri	FENARIMOL	2001	kg							8			
+29	Missouri	FENARIMOL	2002	kg							7.4			
+29	Missouri	FENARIMOL	2003	kg							7.2			
+29	Missouri	FENARIMOL	2004	kg							5.6			
+29	Missouri	FENARIMOL	2005	kg							21.4			
+29	Missouri	FENARIMOL	2006	kg							11.3			
+29	Missouri	FENARIMOL	2007	kg							1.1			
+29	Missouri	FENARIMOL	2008	kg							18			
+29	Missouri	FENARIMOL	2009	kg							11			
+29	Missouri	FENARIMOL	2010	kg							15.5			
+29	Missouri	FENARIMOL	2012	kg							4.8			
+30	Montana	FENARIMOL	1992	kg							11.7			
+30	Montana	FENARIMOL	1993	kg							5.8			
+30	Montana	FENARIMOL	1994	kg							18.6			
+30	Montana	FENARIMOL	1995	kg							3.7			
+30	Montana	FENARIMOL	1996	kg							3.2			
+30	Montana	FENARIMOL	1997	kg							12.3			
+30	Montana	FENARIMOL	1998	kg							10.6			
+30	Montana	FENARIMOL	1999	kg							3.8			
+30	Montana	FENARIMOL	2000	kg							1.7			
+30	Montana	FENARIMOL	2001	kg							1.4			
+30	Montana	FENARIMOL	2002	kg							3.2			
+30	Montana	FENARIMOL	2003	kg							2.3			
+30	Montana	FENARIMOL	2004	kg							8			
+30	Montana	FENARIMOL	2005	kg							1.8			
+30	Montana	FENARIMOL	2006	kg							4.6			
+30	Montana	FENARIMOL	2007	kg							1.1			
+30	Montana	FENARIMOL	2008	kg							1.1			
+30	Montana	FENARIMOL	2009	kg							3			
+30	Montana	FENARIMOL	2010	kg							0.2			
+30	Montana	FENARIMOL	2011	kg							2.5			
+30	Montana	FENARIMOL	2012	kg							5.9			
+32	Nevada	FENARIMOL	1992	kg							1.8			
+32	Nevada	FENARIMOL	1993	kg							1.9			
+32	Nevada	FENARIMOL	1994	kg							0.9			
+32	Nevada	FENARIMOL	1995	kg							2.4			
+32	Nevada	FENARIMOL	1996	kg							0.5		2	
+32	Nevada	FENARIMOL	1997	kg							0.8		73.2	
+32	Nevada	FENARIMOL	1998	kg							0.8			
+32	Nevada	FENARIMOL	1999	kg							0.8			
+32	Nevada	FENARIMOL	2000	kg							0.7			
+32	Nevada	FENARIMOL	2001	kg							0.4			
+32	Nevada	FENARIMOL	2002	kg							1.5			
+32	Nevada	FENARIMOL	2003	kg							0.4			
+32	Nevada	FENARIMOL	2004	kg							0.9			
+32	Nevada	FENARIMOL	2005	kg							0.2			
+32	Nevada	FENARIMOL	2006	kg							0.5			
+32	Nevada	FENARIMOL	2007	kg							0.4			
+32	Nevada	FENARIMOL	2008	kg							0.7			
+32	Nevada	FENARIMOL	2009	kg							1.7			
+32	Nevada	FENARIMOL	2010	kg							0			
+32	Nevada	FENARIMOL	2011	kg							2.3			
+32	Nevada	FENARIMOL	2012	kg							5.1			
+33	New Hampshire	FENARIMOL	1992	kg							22.5			
+33	New Hampshire	FENARIMOL	1993	kg							14			
+33	New Hampshire	FENARIMOL	1994	kg							93.6			
+33	New Hampshire	FENARIMOL	1995	kg							78.8			
+33	New Hampshire	FENARIMOL	1996	kg							4.8			
+33	New Hampshire	FENARIMOL	1997	kg							22			
+33	New Hampshire	FENARIMOL	1998	kg							15.7			
+33	New Hampshire	FENARIMOL	1999	kg							120.4			
+33	New Hampshire	FENARIMOL	2000	kg							81.7			
+33	New Hampshire	FENARIMOL	2001	kg							47.5			
+33	New Hampshire	FENARIMOL	2002	kg							20.8			
+33	New Hampshire	FENARIMOL	2003	kg							42.9			
+33	New Hampshire	FENARIMOL	2004	kg							73			
+33	New Hampshire	FENARIMOL	2005	kg							31.5			
+33	New Hampshire	FENARIMOL	2006	kg							13.1			
+33	New Hampshire	FENARIMOL	2007	kg							18.5			
+33	New Hampshire	FENARIMOL	2008	kg							18.2			
+33	New Hampshire	FENARIMOL	2009	kg							23.6			
+33	New Hampshire	FENARIMOL	2010	kg							2.9			
+33	New Hampshire	FENARIMOL	2011	kg							30.3			
+33	New Hampshire	FENARIMOL	2012	kg							7.1			
+34	New Jersey	FENARIMOL	1992	kg							49.8			
+34	New Jersey	FENARIMOL	1993	kg							46.9			
+34	New Jersey	FENARIMOL	1994	kg							20.9			
+34	New Jersey	FENARIMOL	1995	kg							87.4			
+34	New Jersey	FENARIMOL	1996	kg							10.1			
+34	New Jersey	FENARIMOL	1997	kg							322.7			
+34	New Jersey	FENARIMOL	1998	kg							31.8			
+34	New Jersey	FENARIMOL	1999	kg							31.1			
+34	New Jersey	FENARIMOL	2000	kg							77			
+34	New Jersey	FENARIMOL	2001	kg							90.3			
+34	New Jersey	FENARIMOL	2002	kg							36			
+34	New Jersey	FENARIMOL	2003	kg							49.4			
+34	New Jersey	FENARIMOL	2004	kg							39.4			
+34	New Jersey	FENARIMOL	2005	kg							33.7			
+34	New Jersey	FENARIMOL	2006	kg							13.3			
+34	New Jersey	FENARIMOL	2007	kg							23.6			
+34	New Jersey	FENARIMOL	2008	kg							36.1			
+34	New Jersey	FENARIMOL	2009	kg							30.4			
+34	New Jersey	FENARIMOL	2010	kg							4.6			
+34	New Jersey	FENARIMOL	2011	kg							34.2			
+34	New Jersey	FENARIMOL	2012	kg							8.3			
+34	New Jersey	FENARIMOL	2013	kg							0.1			
+35	New Mexico	FENARIMOL	1992	kg							19.3			
+35	New Mexico	FENARIMOL	1993	kg							62.1			
+35	New Mexico	FENARIMOL	1994	kg							82.9			
+35	New Mexico	FENARIMOL	1995	kg							33.9			
+35	New Mexico	FENARIMOL	1996	kg							2.7			
+35	New Mexico	FENARIMOL	1997	kg							7.8			
+35	New Mexico	FENARIMOL	1998	kg							5.9			
+35	New Mexico	FENARIMOL	1999	kg							20.7			
+35	New Mexico	FENARIMOL	2000	kg							11.1			
+35	New Mexico	FENARIMOL	2001	kg							2.4			
+35	New Mexico	FENARIMOL	2002	kg							26.6			
+35	New Mexico	FENARIMOL	2003	kg							10.4			
+35	New Mexico	FENARIMOL	2004	kg							23.6			
+35	New Mexico	FENARIMOL	2005	kg							9.3			
+35	New Mexico	FENARIMOL	2006	kg							21			
+35	New Mexico	FENARIMOL	2007	kg							4.8			
+35	New Mexico	FENARIMOL	2008	kg							6.9			
+35	New Mexico	FENARIMOL	2009	kg							13.3			
+35	New Mexico	FENARIMOL	2010	kg							1.2			
+35	New Mexico	FENARIMOL	2011	kg							11.7			
+35	New Mexico	FENARIMOL	2012	kg							27.2			
+36	New York	FENARIMOL	1992	kg							2626			
+36	New York	FENARIMOL	1993	kg							1892.8			
+36	New York	FENARIMOL	1994	kg							2074.6			
+36	New York	FENARIMOL	1995	kg					7.2		1830.9			
+36	New York	FENARIMOL	1996	kg							2238.5			
+36	New York	FENARIMOL	1997	kg							2605.5			
+36	New York	FENARIMOL	1998	kg							1753			
+36	New York	FENARIMOL	1999	kg							793.2			
+36	New York	FENARIMOL	2000	kg							1651.6			
+36	New York	FENARIMOL	2001	kg							1693.5			
+36	New York	FENARIMOL	2002	kg							2154.2			
+36	New York	FENARIMOL	2003	kg							1977.2			
+36	New York	FENARIMOL	2004	kg							1343			
+36	New York	FENARIMOL	2005	kg							1413.2			
+36	New York	FENARIMOL	2006	kg							938.5			
+36	New York	FENARIMOL	2007	kg							650.9			
+36	New York	FENARIMOL	2008	kg							401.6			
+36	New York	FENARIMOL	2009	kg							598.7			
+36	New York	FENARIMOL	2010	kg					1.9		235.3			
+36	New York	FENARIMOL	2011	kg							444.3			
+36	New York	FENARIMOL	2012	kg							98.2			
+36	New York	FENARIMOL	2013	kg							32			
+36	New York	FENARIMOL	2017	kg							3.8			
+37	North Carolina	FENARIMOL	1992	kg							373.6			
+37	North Carolina	FENARIMOL	1993	kg							187.8			
+37	North Carolina	FENARIMOL	1994	kg							659.2			
+37	North Carolina	FENARIMOL	1995	kg							832			
+37	North Carolina	FENARIMOL	1996	kg							86.7			
+37	North Carolina	FENARIMOL	1997	kg							41.7			
+37	North Carolina	FENARIMOL	1998	kg							351.7			
+37	North Carolina	FENARIMOL	1999	kg							156.2			
+37	North Carolina	FENARIMOL	2000	kg							222.9			
+37	North Carolina	FENARIMOL	2001	kg							139			
+37	North Carolina	FENARIMOL	2002	kg							86.1			
+37	North Carolina	FENARIMOL	2003	kg							134.2			
+37	North Carolina	FENARIMOL	2004	kg							284.3			
+37	North Carolina	FENARIMOL	2005	kg							106.7			
+37	North Carolina	FENARIMOL	2006	kg					179.7		198			
+37	North Carolina	FENARIMOL	2007	kg							21.3			
+37	North Carolina	FENARIMOL	2008	kg							117.1			
+37	North Carolina	FENARIMOL	2009	kg							66.8			
+37	North Carolina	FENARIMOL	2010	kg							12.5			
+37	North Carolina	FENARIMOL	2011	kg							40.8			
+37	North Carolina	FENARIMOL	2012	kg							162.4			
+37	North Carolina	FENARIMOL	2013	kg							10.4			
+37	North Carolina	FENARIMOL	2014	kg							0.4			
+37	North Carolina	FENARIMOL	2015	kg							0.8			
+39	Ohio	FENARIMOL	1992	kg							385.9			
+39	Ohio	FENARIMOL	1993	kg							223.5			
+39	Ohio	FENARIMOL	1994	kg							667.6			
+39	Ohio	FENARIMOL	1995	kg					0.5		623.5			
+39	Ohio	FENARIMOL	1996	kg					1.9		185.7			
+39	Ohio	FENARIMOL	1997	kg							411.9			
+39	Ohio	FENARIMOL	1998	kg							133.1			
+39	Ohio	FENARIMOL	1999	kg							199.2			
+39	Ohio	FENARIMOL	2000	kg							123.9			
+39	Ohio	FENARIMOL	2001	kg							206.2			
+39	Ohio	FENARIMOL	2002	kg							333.7			
+39	Ohio	FENARIMOL	2003	kg							285.7			
+39	Ohio	FENARIMOL	2004	kg							185.6			
+39	Ohio	FENARIMOL	2005	kg							335.9			
+39	Ohio	FENARIMOL	2006	kg							225.5			
+39	Ohio	FENARIMOL	2007	kg							113.2			
+39	Ohio	FENARIMOL	2008	kg							232.9			
+39	Ohio	FENARIMOL	2009	kg							250.7			
+39	Ohio	FENARIMOL	2010	kg					10.4		243.6			
+39	Ohio	FENARIMOL	2011	kg							191			
+39	Ohio	FENARIMOL	2012	kg							58.2			
+39	Ohio	FENARIMOL	2013	kg							189			
+39	Ohio	FENARIMOL	2015	kg							12.4			
+39	Ohio	FENARIMOL	2017	kg							24.3			
+41	Oregon	FENARIMOL	1992	kg							695.5			
+41	Oregon	FENARIMOL	1993	kg							930.9			
+41	Oregon	FENARIMOL	1994	kg							1771.9			
+41	Oregon	FENARIMOL	1995	kg							651.5			
+41	Oregon	FENARIMOL	1996	kg					10.7		820		0.8	
+41	Oregon	FENARIMOL	1997	kg							797.1		6.1	
+41	Oregon	FENARIMOL	1998	kg							7275			
+41	Oregon	FENARIMOL	1999	kg							560.2			
+41	Oregon	FENARIMOL	2000	kg							261.7			
+41	Oregon	FENARIMOL	2001	kg							225.6			
+41	Oregon	FENARIMOL	2002	kg							588			
+41	Oregon	FENARIMOL	2003	kg							527			
+41	Oregon	FENARIMOL	2004	kg							587.1			
+41	Oregon	FENARIMOL	2005	kg							549.7			
+41	Oregon	FENARIMOL	2006	kg							164.4			
+41	Oregon	FENARIMOL	2007	kg							81.6			
+41	Oregon	FENARIMOL	2008	kg							796			
+41	Oregon	FENARIMOL	2009	kg							659.9			
+41	Oregon	FENARIMOL	2010	kg							596.9			
+41	Oregon	FENARIMOL	2011	kg							1559.7			
+41	Oregon	FENARIMOL	2012	kg							551.7			
+41	Oregon	FENARIMOL	2013	kg							13.8			
+41	Oregon	FENARIMOL	2014	kg							37.4			
+41	Oregon	FENARIMOL	2015	kg							21.6			
+42	Pennsylvania	FENARIMOL	1992	kg							910.4			
+42	Pennsylvania	FENARIMOL	1993	kg							368.4			
+42	Pennsylvania	FENARIMOL	1994	kg							1143.9			
+42	Pennsylvania	FENARIMOL	1995	kg					0.7		886.6			
+42	Pennsylvania	FENARIMOL	1996	kg							475.1			
+42	Pennsylvania	FENARIMOL	1997	kg							1913			
+42	Pennsylvania	FENARIMOL	1998	kg							2827.9			
+42	Pennsylvania	FENARIMOL	1999	kg							514.3			
+42	Pennsylvania	FENARIMOL	2000	kg							721.7			
+42	Pennsylvania	FENARIMOL	2001	kg							547.5			
+42	Pennsylvania	FENARIMOL	2002	kg							703.5			
+42	Pennsylvania	FENARIMOL	2003	kg							786.8			
+42	Pennsylvania	FENARIMOL	2004	kg							1736.1			
+42	Pennsylvania	FENARIMOL	2005	kg							245.6			
+42	Pennsylvania	FENARIMOL	2006	kg							353.7			
+42	Pennsylvania	FENARIMOL	2007	kg							291.2			
+42	Pennsylvania	FENARIMOL	2008	kg							357.7			
+42	Pennsylvania	FENARIMOL	2009	kg							494.5			
+42	Pennsylvania	FENARIMOL	2010	kg					9.2		133.9			
+42	Pennsylvania	FENARIMOL	2011	kg							451.3			
+42	Pennsylvania	FENARIMOL	2012	kg							602.8			
+42	Pennsylvania	FENARIMOL	2013	kg							106.2			
+42	Pennsylvania	FENARIMOL	2015	kg							5			
+42	Pennsylvania	FENARIMOL	2017	kg							45.4			
+44	Rhode Island	FENARIMOL	1992	kg							2.9			
+44	Rhode Island	FENARIMOL	1993	kg							1			
+44	Rhode Island	FENARIMOL	1994	kg							3.5			
+44	Rhode Island	FENARIMOL	1995	kg							10			
+44	Rhode Island	FENARIMOL	1996	kg							6.5			
+44	Rhode Island	FENARIMOL	1997	kg							17.2			
+44	Rhode Island	FENARIMOL	1998	kg							3.6			
+44	Rhode Island	FENARIMOL	1999	kg							13.2			
+44	Rhode Island	FENARIMOL	2000	kg							11			
+44	Rhode Island	FENARIMOL	2001	kg							6.4			
+44	Rhode Island	FENARIMOL	2002	kg							2.7			
+44	Rhode Island	FENARIMOL	2003	kg							8.9			
+44	Rhode Island	FENARIMOL	2004	kg							18.7			
+44	Rhode Island	FENARIMOL	2005	kg							5.2			
+44	Rhode Island	FENARIMOL	2006	kg							2.3			
+44	Rhode Island	FENARIMOL	2007	kg							3.8			
+44	Rhode Island	FENARIMOL	2008	kg							3.4			
+44	Rhode Island	FENARIMOL	2009	kg							4.2			
+44	Rhode Island	FENARIMOL	2010	kg							0.4			
+44	Rhode Island	FENARIMOL	2011	kg							5.4			
+44	Rhode Island	FENARIMOL	2012	kg							1.2			
+45	South Carolina	FENARIMOL	1992	kg							92.6			
+45	South Carolina	FENARIMOL	1993	kg							4.1			
+45	South Carolina	FENARIMOL	1994	kg							9.7			
+45	South Carolina	FENARIMOL	1995	kg							221.4			
+45	South Carolina	FENARIMOL	1996	kg							4.5			
+45	South Carolina	FENARIMOL	1997	kg							5.9			
+45	South Carolina	FENARIMOL	1998	kg							76.6			
+45	South Carolina	FENARIMOL	1999	kg							31.1			
+45	South Carolina	FENARIMOL	2000	kg							79.6			
+45	South Carolina	FENARIMOL	2001	kg							21.1			
+45	South Carolina	FENARIMOL	2002	kg							70.2			
+45	South Carolina	FENARIMOL	2003	kg							36.9			
+45	South Carolina	FENARIMOL	2004	kg							61.7			
+45	South Carolina	FENARIMOL	2005	kg							17.2			
+45	South Carolina	FENARIMOL	2006	kg							22.8			
+45	South Carolina	FENARIMOL	2007	kg							1.6			
+45	South Carolina	FENARIMOL	2008	kg							6.6			
+45	South Carolina	FENARIMOL	2009	kg							3.7			
+45	South Carolina	FENARIMOL	2010	kg							0.5			
+45	South Carolina	FENARIMOL	2012	kg							13.4			
+45	South Carolina	FENARIMOL	2013	kg							0.8			
+45	South Carolina	FENARIMOL	2014	kg							0			
+45	South Carolina	FENARIMOL	2015	kg							0			
+47	Tennessee	FENARIMOL	1992	kg							31			
+47	Tennessee	FENARIMOL	1993	kg							15.9			
+47	Tennessee	FENARIMOL	1994	kg							11.6			
+47	Tennessee	FENARIMOL	1995	kg			5.8			0	70.7			
+47	Tennessee	FENARIMOL	1996	kg							37.6			
+47	Tennessee	FENARIMOL	1997	kg							11.4			
+47	Tennessee	FENARIMOL	1998	kg							56.5			
+47	Tennessee	FENARIMOL	1999	kg							42.9			
+47	Tennessee	FENARIMOL	2000	kg							39.1			
+47	Tennessee	FENARIMOL	2001	kg							10.4			
+47	Tennessee	FENARIMOL	2002	kg							21.1			
+47	Tennessee	FENARIMOL	2003	kg							20.8			
+47	Tennessee	FENARIMOL	2004	kg							51.4			
+47	Tennessee	FENARIMOL	2005	kg							26			
+47	Tennessee	FENARIMOL	2006	kg							35.1			
+47	Tennessee	FENARIMOL	2007	kg							19.4			
+47	Tennessee	FENARIMOL	2008	kg							6.5			
+47	Tennessee	FENARIMOL	2009	kg							9.8			
+47	Tennessee	FENARIMOL	2010	kg							0.9			
+47	Tennessee	FENARIMOL	2011	kg							5.2			
+47	Tennessee	FENARIMOL	2012	kg							16.6			
+47	Tennessee	FENARIMOL	2013	kg							0.1			
+47	Tennessee	FENARIMOL	2014	kg							0			
+47	Tennessee	FENARIMOL	2015	kg							0			
+49	Utah	FENARIMOL	1992	kg							69.5			
+49	Utah	FENARIMOL	1993	kg							68.1			
+49	Utah	FENARIMOL	1994	kg							420.9			
+49	Utah	FENARIMOL	1995	kg							66.8			
+49	Utah	FENARIMOL	1996	kg							15.1			
+49	Utah	FENARIMOL	1997	kg							50.4			
+49	Utah	FENARIMOL	1998	kg							36.6			
+49	Utah	FENARIMOL	1999	kg							29.2			
+49	Utah	FENARIMOL	2000	kg							13.2			
+49	Utah	FENARIMOL	2001	kg							1.4			
+49	Utah	FENARIMOL	2002	kg							33.2			
+49	Utah	FENARIMOL	2003	kg							12.8			
+49	Utah	FENARIMOL	2004	kg							32.9			
+49	Utah	FENARIMOL	2005	kg							10.2			
+49	Utah	FENARIMOL	2006	kg							25.8			
+49	Utah	FENARIMOL	2007	kg							5.6			
+49	Utah	FENARIMOL	2008	kg							6.4			
+49	Utah	FENARIMOL	2009	kg							16.4			
+49	Utah	FENARIMOL	2010	kg							1.3			
+49	Utah	FENARIMOL	2011	kg							13.9			
+49	Utah	FENARIMOL	2012	kg							33.1			
+50	Vermont	FENARIMOL	1992	kg							25			
+50	Vermont	FENARIMOL	1993	kg							6.4			
+50	Vermont	FENARIMOL	1994	kg							140.3			
+50	Vermont	FENARIMOL	1995	kg							26.8			
+50	Vermont	FENARIMOL	1996	kg							3148.1			
+50	Vermont	FENARIMOL	1997	kg							204.7			
+50	Vermont	FENARIMOL	1998	kg							23.5			
+50	Vermont	FENARIMOL	1999	kg							76.1			
+50	Vermont	FENARIMOL	2000	kg							109.7			
+50	Vermont	FENARIMOL	2001	kg							48.1			
+50	Vermont	FENARIMOL	2002	kg							46.5			
+50	Vermont	FENARIMOL	2003	kg							47.7			
+50	Vermont	FENARIMOL	2004	kg							116.6			
+50	Vermont	FENARIMOL	2005	kg							47.2			
+50	Vermont	FENARIMOL	2006	kg							5.8			
+50	Vermont	FENARIMOL	2007	kg							56.6			
+50	Vermont	FENARIMOL	2008	kg							28			
+50	Vermont	FENARIMOL	2009	kg							34.9			
+50	Vermont	FENARIMOL	2010	kg							3.8			
+50	Vermont	FENARIMOL	2011	kg							41.2			
+50	Vermont	FENARIMOL	2012	kg							9			
+51	Virginia	FENARIMOL	1992	kg							162.4			
+51	Virginia	FENARIMOL	1993	kg							197			
+51	Virginia	FENARIMOL	1994	kg							312			
+51	Virginia	FENARIMOL	1995	kg							62.5			
+51	Virginia	FENARIMOL	1996	kg							368.6			
+51	Virginia	FENARIMOL	1997	kg							105.1			
+51	Virginia	FENARIMOL	1998	kg							237.1			
+51	Virginia	FENARIMOL	1999	kg							402.3			
+51	Virginia	FENARIMOL	2000	kg							289.2			
+51	Virginia	FENARIMOL	2001	kg							75.8			
+51	Virginia	FENARIMOL	2002	kg							284.3			
+51	Virginia	FENARIMOL	2003	kg							106.1			
+51	Virginia	FENARIMOL	2004	kg							168.9			
+51	Virginia	FENARIMOL	2005	kg							243.5			
+51	Virginia	FENARIMOL	2006	kg							165.2			
+51	Virginia	FENARIMOL	2007	kg							304.9			
+51	Virginia	FENARIMOL	2008	kg							90.7			
+51	Virginia	FENARIMOL	2009	kg							202			
+51	Virginia	FENARIMOL	2010	kg							47.1			
+51	Virginia	FENARIMOL	2011	kg							9.2			
+51	Virginia	FENARIMOL	2012	kg							510.2			
+53	Washington	FENARIMOL	1992	kg					43.8		1214.8			
+53	Washington	FENARIMOL	1993	kg							2502.3			
+53	Washington	FENARIMOL	1994	kg							5627.1			
+53	Washington	FENARIMOL	1995	kg							7242.8			
+53	Washington	FENARIMOL	1996	kg					0.7		7268.1		2.2	
+53	Washington	FENARIMOL	1997	kg							3508.6		19.2	
+53	Washington	FENARIMOL	1998	kg							4511.8			
+53	Washington	FENARIMOL	1999	kg							2990.4			
+53	Washington	FENARIMOL	2000	kg							3773.5			
+53	Washington	FENARIMOL	2001	kg							2485.7			
+53	Washington	FENARIMOL	2002	kg							2943.3			
+53	Washington	FENARIMOL	2003	kg							1542.3			
+53	Washington	FENARIMOL	2004	kg							2120.4			
+53	Washington	FENARIMOL	2005	kg							773.3			
+53	Washington	FENARIMOL	2006	kg							1701.8			
+53	Washington	FENARIMOL	2007	kg							1661.1			
+53	Washington	FENARIMOL	2008	kg							925.4			
+53	Washington	FENARIMOL	2009	kg							1350.2			
+53	Washington	FENARIMOL	2010	kg							678.1			
+53	Washington	FENARIMOL	2011	kg							695.5			
+53	Washington	FENARIMOL	2012	kg							725.7			
+53	Washington	FENARIMOL	2013	kg							621.7			
+53	Washington	FENARIMOL	2014	kg							136			
+53	Washington	FENARIMOL	2015	kg							918.9			
+53	Washington	FENARIMOL	2016	kg							62.7			
+53	Washington	FENARIMOL	2017	kg							260.7			
+54	West Virginia	FENARIMOL	1992	kg							179			
+54	West Virginia	FENARIMOL	1993	kg							249.1			
+54	West Virginia	FENARIMOL	1994	kg							77.3			
+54	West Virginia	FENARIMOL	1995	kg							45.3			
+54	West Virginia	FENARIMOL	1996	kg							24.9			
+54	West Virginia	FENARIMOL	1997	kg							100.7			
+54	West Virginia	FENARIMOL	1998	kg							295.9			
+54	West Virginia	FENARIMOL	1999	kg							85.1			
+54	West Virginia	FENARIMOL	2000	kg							51.5			
+54	West Virginia	FENARIMOL	2001	kg							19.9			
+54	West Virginia	FENARIMOL	2002	kg							175.3			
+54	West Virginia	FENARIMOL	2003	kg							73.6			
+54	West Virginia	FENARIMOL	2004	kg							34.1			
+54	West Virginia	FENARIMOL	2005	kg							19.4			
+54	West Virginia	FENARIMOL	2006	kg							90.7			
+54	West Virginia	FENARIMOL	2007	kg							156.6			
+54	West Virginia	FENARIMOL	2008	kg							31.9			
+54	West Virginia	FENARIMOL	2009	kg							55.3			
+54	West Virginia	FENARIMOL	2010	kg							12.2			
+54	West Virginia	FENARIMOL	2011	kg							40.5			
+54	West Virginia	FENARIMOL	2012	kg							187.4			
+54	West Virginia	FENARIMOL	2015	kg							1.8			
+55	Wisconsin	FENARIMOL	1992	kg							237.2			
+55	Wisconsin	FENARIMOL	1993	kg							104			
+55	Wisconsin	FENARIMOL	1994	kg							135.5			
+55	Wisconsin	FENARIMOL	1995	kg							269.8			
+55	Wisconsin	FENARIMOL	1996	kg							382.1			
+55	Wisconsin	FENARIMOL	1997	kg							238.8			
+55	Wisconsin	FENARIMOL	1998	kg							43.8			
+55	Wisconsin	FENARIMOL	1999	kg							423			
+55	Wisconsin	FENARIMOL	2000	kg							506.2			
+55	Wisconsin	FENARIMOL	2001	kg							25.7			
+55	Wisconsin	FENARIMOL	2002	kg							108.5			
+55	Wisconsin	FENARIMOL	2003	kg							306			
+55	Wisconsin	FENARIMOL	2004	kg							113			
+55	Wisconsin	FENARIMOL	2005	kg							143.5			
+55	Wisconsin	FENARIMOL	2006	kg							53.9			
+55	Wisconsin	FENARIMOL	2007	kg							30.4			
+55	Wisconsin	FENARIMOL	2008	kg							75			
+55	Wisconsin	FENARIMOL	2009	kg							126.1			
+55	Wisconsin	FENARIMOL	2010	kg							114.2			
+55	Wisconsin	FENARIMOL	2011	kg							22.9			
+55	Wisconsin	FENARIMOL	2012	kg							29			

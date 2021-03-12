@@ -1,0 +1,14 @@
+01	Alabama	SODIUM ARSENITE	1992	kg										3113.9
+06	California	SODIUM ARSENITE	1992	kg							25950.9			
+06	California	SODIUM ARSENITE	1993	kg							11660.6			
+06	California	SODIUM ARSENITE	1994	kg							7570.1			
+06	California	SODIUM ARSENITE	1995	kg							81.1			
+06	California	SODIUM ARSENITE	1996	kg							23.6			
+06	California	SODIUM ARSENITE	1999	kg							109.7			
+06	California	SODIUM ARSENITE	2000	kg							71.4			
+06	California	SODIUM ARSENITE	2001	kg							35.7			
+06	California	SODIUM ARSENITE	2011	kg							64.3			
+12	Florida	SODIUM ARSENITE	1992	kg										1369.5
+13	Georgia	SODIUM ARSENITE	1992	kg										6652.2
+37	North Carolina	SODIUM ARSENITE	1992	kg										783.4
+45	South Carolina	SODIUM ARSENITE	1992	kg										207

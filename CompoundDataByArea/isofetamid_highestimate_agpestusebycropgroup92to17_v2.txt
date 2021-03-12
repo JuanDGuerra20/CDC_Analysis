@@ -1,0 +1,5 @@
+06	California	ISOFETAMID	2016	kg					12.6					
+06	California	ISOFETAMID	2017	kg					130		0			
+12	Florida	ISOFETAMID	2015	kg					932.2					
+12	Florida	ISOFETAMID	2016	kg					600.8					
+12	Florida	ISOFETAMID	2017	kg					1994.7					

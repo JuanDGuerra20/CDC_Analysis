@@ -1,0 +1,385 @@
+01	Alabama	IMAZAPIC	1994	kg										7263.5
+01	Alabama	IMAZAPIC	1996	kg										1957.6
+01	Alabama	IMAZAPIC	1997	kg										3948.8
+01	Alabama	IMAZAPIC	1998	kg										2650.6
+01	Alabama	IMAZAPIC	1999	kg										2370
+01	Alabama	IMAZAPIC	2000	kg										1586.3
+01	Alabama	IMAZAPIC	2001	kg										2492.2
+01	Alabama	IMAZAPIC	2002	kg										3202.4
+01	Alabama	IMAZAPIC	2003	kg										2664.4
+01	Alabama	IMAZAPIC	2004	kg									124.1	2120.5
+01	Alabama	IMAZAPIC	2005	kg										4088.4
+01	Alabama	IMAZAPIC	2006	kg										2473.2
+01	Alabama	IMAZAPIC	2007	kg										2537
+01	Alabama	IMAZAPIC	2008	kg										3000.5
+01	Alabama	IMAZAPIC	2009	kg										2753.5
+01	Alabama	IMAZAPIC	2010	kg										3024
+01	Alabama	IMAZAPIC	2011	kg										2229.5
+01	Alabama	IMAZAPIC	2012	kg										3900.7
+01	Alabama	IMAZAPIC	2013	kg										2691.3
+01	Alabama	IMAZAPIC	2014	kg										3364.6
+01	Alabama	IMAZAPIC	2015	kg										3418
+01	Alabama	IMAZAPIC	2016	kg										3846.8
+01	Alabama	IMAZAPIC	2017	kg										4169.3
+04	Arizona	IMAZAPIC	2006	kg									9.4	
+05	Arkansas	IMAZAPIC	1996	kg										1
+05	Arkansas	IMAZAPIC	1997	kg										22.8
+05	Arkansas	IMAZAPIC	1998	kg										1
+05	Arkansas	IMAZAPIC	1999	kg										0.6
+05	Arkansas	IMAZAPIC	2000	kg										5.4
+05	Arkansas	IMAZAPIC	2001	kg										1.6
+05	Arkansas	IMAZAPIC	2002	kg									4	0.6
+05	Arkansas	IMAZAPIC	2003	kg									417.8	
+05	Arkansas	IMAZAPIC	2004	kg										0.6
+05	Arkansas	IMAZAPIC	2005	kg									14.5	0.8
+05	Arkansas	IMAZAPIC	2016	kg										384.7
+08	Colorado	IMAZAPIC	2002	kg									324.6	
+08	Colorado	IMAZAPIC	2003	kg									505.2	
+08	Colorado	IMAZAPIC	2004	kg									43	
+08	Colorado	IMAZAPIC	2005	kg									108.3	
+08	Colorado	IMAZAPIC	2006	kg									3.9	
+08	Colorado	IMAZAPIC	2007	kg									5.4	
+08	Colorado	IMAZAPIC	2010	kg									48.8	
+08	Colorado	IMAZAPIC	2011	kg									188.1	
+08	Colorado	IMAZAPIC	2012	kg									101.2	
+08	Colorado	IMAZAPIC	2013	kg									49.2	
+08	Colorado	IMAZAPIC	2014	kg									30.8	
+08	Colorado	IMAZAPIC	2017	kg									42.5	
+12	Florida	IMAZAPIC	1994	kg										2287.8
+12	Florida	IMAZAPIC	1995	kg										20.8
+12	Florida	IMAZAPIC	1996	kg										419.3
+12	Florida	IMAZAPIC	1997	kg										982.7
+12	Florida	IMAZAPIC	1998	kg										1168.9
+12	Florida	IMAZAPIC	1999	kg										1955.2
+12	Florida	IMAZAPIC	2000	kg										2124.3
+12	Florida	IMAZAPIC	2001	kg										2174.1
+12	Florida	IMAZAPIC	2002	kg										893
+12	Florida	IMAZAPIC	2003	kg										2867.8
+12	Florida	IMAZAPIC	2004	kg									42.7	2123.3
+12	Florida	IMAZAPIC	2005	kg										2749.2
+12	Florida	IMAZAPIC	2006	kg										2495
+12	Florida	IMAZAPIC	2007	kg										1982
+12	Florida	IMAZAPIC	2008	kg										1927
+12	Florida	IMAZAPIC	2009	kg										2697.6
+12	Florida	IMAZAPIC	2010	kg										3842.5
+12	Florida	IMAZAPIC	2011	kg										2896.7
+12	Florida	IMAZAPIC	2012	kg										3343.7
+12	Florida	IMAZAPIC	2013	kg									2440.9	2639.9
+12	Florida	IMAZAPIC	2014	kg									314.7	3354.9
+12	Florida	IMAZAPIC	2015	kg										2409.8
+12	Florida	IMAZAPIC	2016	kg										2800.8
+12	Florida	IMAZAPIC	2017	kg										2608.2
+13	Georgia	IMAZAPIC	1994	kg										18161.7
+13	Georgia	IMAZAPIC	1995	kg										60
+13	Georgia	IMAZAPIC	1996	kg										4361.8
+13	Georgia	IMAZAPIC	1997	kg										4578.6
+13	Georgia	IMAZAPIC	1998	kg										6019.5
+13	Georgia	IMAZAPIC	1999	kg										5880.5
+13	Georgia	IMAZAPIC	2000	kg										5537.5
+13	Georgia	IMAZAPIC	2001	kg										6223.3
+13	Georgia	IMAZAPIC	2002	kg										8893.3
+13	Georgia	IMAZAPIC	2003	kg									180.2	8998.1
+13	Georgia	IMAZAPIC	2004	kg									333.5	10644.8
+13	Georgia	IMAZAPIC	2005	kg										13170.5
+13	Georgia	IMAZAPIC	2006	kg										8171.8
+13	Georgia	IMAZAPIC	2007	kg										8915
+13	Georgia	IMAZAPIC	2008	kg										10395.5
+13	Georgia	IMAZAPIC	2009	kg										8497.9
+13	Georgia	IMAZAPIC	2010	kg										9409.7
+13	Georgia	IMAZAPIC	2011	kg										8199
+13	Georgia	IMAZAPIC	2012	kg										15334.2
+13	Georgia	IMAZAPIC	2013	kg										8078.2
+13	Georgia	IMAZAPIC	2014	kg										11188.4
+13	Georgia	IMAZAPIC	2015	kg										15728.8
+13	Georgia	IMAZAPIC	2016	kg										12852.9
+13	Georgia	IMAZAPIC	2017	kg									186.9	16087.1
+16	Idaho	IMAZAPIC	1999	kg									5.8	
+16	Idaho	IMAZAPIC	2002	kg									39.8	
+16	Idaho	IMAZAPIC	2003	kg									169.8	
+16	Idaho	IMAZAPIC	2004	kg									43	
+16	Idaho	IMAZAPIC	2005	kg									15.8	
+16	Idaho	IMAZAPIC	2006	kg									1	
+16	Idaho	IMAZAPIC	2007	kg									3.9	
+16	Idaho	IMAZAPIC	2009	kg									21	
+16	Idaho	IMAZAPIC	2011	kg								18.7	25.3	
+16	Idaho	IMAZAPIC	2012	kg									9.4	
+16	Idaho	IMAZAPIC	2013	kg									64.3	
+16	Idaho	IMAZAPIC	2014	kg									5.1	
+16	Idaho	IMAZAPIC	2015	kg									0.7	
+16	Idaho	IMAZAPIC	2017	kg								85.3		
+17	Illinois	IMAZAPIC	1997	kg									155.6	
+18	Indiana	IMAZAPIC	1997	kg									37.5	
+19	Iowa	IMAZAPIC	2000	kg									0.5	
+19	Iowa	IMAZAPIC	2003	kg									1.9	
+20	Kansas	IMAZAPIC	2002	kg									1972.9	
+20	Kansas	IMAZAPIC	2004	kg									316.5	
+20	Kansas	IMAZAPIC	2006	kg									28.5	
+20	Kansas	IMAZAPIC	2012	kg									487.8	
+22	Louisiana	IMAZAPIC	2002	kg									3.8	
+22	Louisiana	IMAZAPIC	2004	kg									36.7	
+22	Louisiana	IMAZAPIC	2005	kg									12.3	
+22	Louisiana	IMAZAPIC	2009	kg									83.5	
+22	Louisiana	IMAZAPIC	2015	kg									221.4	
+27	Minnesota	IMAZAPIC	2002	kg									60.5	
+27	Minnesota	IMAZAPIC	2003	kg									25	
+27	Minnesota	IMAZAPIC	2004	kg									0	
+27	Minnesota	IMAZAPIC	2005	kg									5.2	
+27	Minnesota	IMAZAPIC	2006	kg									0	
+27	Minnesota	IMAZAPIC	2010	kg									7.9	
+27	Minnesota	IMAZAPIC	2011	kg									3.1	
+27	Minnesota	IMAZAPIC	2012	kg									4.6	
+27	Minnesota	IMAZAPIC	2014	kg									11.9	
+27	Minnesota	IMAZAPIC	2017	kg									3.5	
+28	Mississippi	IMAZAPIC	1996	kg										16.9
+28	Mississippi	IMAZAPIC	1997	kg										74.2
+28	Mississippi	IMAZAPIC	1998	kg										15.8
+28	Mississippi	IMAZAPIC	1999	kg										15.1
+28	Mississippi	IMAZAPIC	2000	kg										5.6
+28	Mississippi	IMAZAPIC	2001	kg										36.3
+28	Mississippi	IMAZAPIC	2002	kg										25
+28	Mississippi	IMAZAPIC	2003	kg										15.8
+28	Mississippi	IMAZAPIC	2004	kg									98.9	41.2
+28	Mississippi	IMAZAPIC	2005	kg										94.9
+28	Mississippi	IMAZAPIC	2006	kg										112
+28	Mississippi	IMAZAPIC	2007	kg										114.6
+28	Mississippi	IMAZAPIC	2008	kg										151.8
+28	Mississippi	IMAZAPIC	2009	kg									451.3	131.9
+28	Mississippi	IMAZAPIC	2010	kg										188.9
+28	Mississippi	IMAZAPIC	2011	kg										168.5
+28	Mississippi	IMAZAPIC	2012	kg										148.5
+28	Mississippi	IMAZAPIC	2013	kg										333.8
+28	Mississippi	IMAZAPIC	2014	kg										384.9
+28	Mississippi	IMAZAPIC	2015	kg										306.4
+28	Mississippi	IMAZAPIC	2016	kg										447
+28	Mississippi	IMAZAPIC	2017	kg										458.5
+29	Missouri	IMAZAPIC	2003	kg									464.7	
+29	Missouri	IMAZAPIC	2006	kg									5.6	
+30	Montana	IMAZAPIC	1999	kg									8.8	
+30	Montana	IMAZAPIC	2002	kg									2288.6	
+30	Montana	IMAZAPIC	2003	kg									3553.7	
+30	Montana	IMAZAPIC	2004	kg									281.1	
+30	Montana	IMAZAPIC	2005	kg								177.3	880.2	
+30	Montana	IMAZAPIC	2006	kg									86.3	
+30	Montana	IMAZAPIC	2007	kg									123.7	
+30	Montana	IMAZAPIC	2009	kg								7.8	30.2	
+30	Montana	IMAZAPIC	2010	kg									796.1	
+30	Montana	IMAZAPIC	2011	kg								189.4	2182.7	
+30	Montana	IMAZAPIC	2012	kg								94.7	895.6	
+30	Montana	IMAZAPIC	2013	kg								46.6	1104.9	
+30	Montana	IMAZAPIC	2014	kg									319.9	
+30	Montana	IMAZAPIC	2016	kg									13.8	
+30	Montana	IMAZAPIC	2017	kg									104.7	
+31	Nebraska	IMAZAPIC	2000	kg									5298.7	
+31	Nebraska	IMAZAPIC	2002	kg									78475.8	
+31	Nebraska	IMAZAPIC	2003	kg									228.3	
+31	Nebraska	IMAZAPIC	2004	kg									41.6	
+31	Nebraska	IMAZAPIC	2005	kg									84	
+31	Nebraska	IMAZAPIC	2006	kg									2.7	
+31	Nebraska	IMAZAPIC	2007	kg									5.5	
+31	Nebraska	IMAZAPIC	2008	kg									0	
+31	Nebraska	IMAZAPIC	2009	kg									0.2	
+31	Nebraska	IMAZAPIC	2010	kg									282.4	
+31	Nebraska	IMAZAPIC	2011	kg									0	
+31	Nebraska	IMAZAPIC	2012	kg									214.3	
+31	Nebraska	IMAZAPIC	2015	kg									1.8	
+31	Nebraska	IMAZAPIC	2017	kg									242.9	
+32	Nevada	IMAZAPIC	2011	kg									49.3	
+32	Nevada	IMAZAPIC	2012	kg									18.6	
+32	Nevada	IMAZAPIC	2013	kg									37.8	
+32	Nevada	IMAZAPIC	2014	kg									10.8	
+32	Nevada	IMAZAPIC	2015	kg									0.8	
+32	Nevada	IMAZAPIC	2017	kg								63.7		
+35	New Mexico	IMAZAPIC	1996	kg										68.8
+35	New Mexico	IMAZAPIC	1997	kg										1.2
+35	New Mexico	IMAZAPIC	1998	kg										52.5
+35	New Mexico	IMAZAPIC	1999	kg										112.4
+35	New Mexico	IMAZAPIC	2000	kg										13.5
+35	New Mexico	IMAZAPIC	2001	kg										27
+35	New Mexico	IMAZAPIC	2002	kg									3807.2	45.9
+35	New Mexico	IMAZAPIC	2003	kg									689.1	91.6
+35	New Mexico	IMAZAPIC	2004	kg									907.7	8.7
+35	New Mexico	IMAZAPIC	2005	kg									113.1	46.9
+35	New Mexico	IMAZAPIC	2006	kg									4.7	23.8
+35	New Mexico	IMAZAPIC	2007	kg									6.5	6.9
+35	New Mexico	IMAZAPIC	2008	kg										4.7
+35	New Mexico	IMAZAPIC	2009	kg										23.6
+35	New Mexico	IMAZAPIC	2010	kg										77.2
+35	New Mexico	IMAZAPIC	2011	kg									350.5	50.2
+35	New Mexico	IMAZAPIC	2012	kg									138.8	2.4
+35	New Mexico	IMAZAPIC	2013	kg									113.1	2.9
+35	New Mexico	IMAZAPIC	2014	kg									69	35.2
+35	New Mexico	IMAZAPIC	2015	kg										158.8
+35	New Mexico	IMAZAPIC	2016	kg										81
+35	New Mexico	IMAZAPIC	2017	kg										24.6
+37	North Carolina	IMAZAPIC	1994	kg										7393.3
+37	North Carolina	IMAZAPIC	1996	kg										111.5
+37	North Carolina	IMAZAPIC	1997	kg										531.6
+37	North Carolina	IMAZAPIC	1998	kg										530.8
+37	North Carolina	IMAZAPIC	1999	kg										719.7
+37	North Carolina	IMAZAPIC	2000	kg										465.1
+37	North Carolina	IMAZAPIC	2001	kg										450.8
+37	North Carolina	IMAZAPIC	2002	kg										661.7
+37	North Carolina	IMAZAPIC	2003	kg									19.9	487.6
+37	North Carolina	IMAZAPIC	2004	kg										990
+37	North Carolina	IMAZAPIC	2005	kg										455.9
+37	North Carolina	IMAZAPIC	2006	kg										598.2
+37	North Carolina	IMAZAPIC	2007	kg										704.2
+37	North Carolina	IMAZAPIC	2008	kg										1054.8
+37	North Carolina	IMAZAPIC	2009	kg										368.5
+37	North Carolina	IMAZAPIC	2010	kg										771.8
+37	North Carolina	IMAZAPIC	2011	kg										773.1
+37	North Carolina	IMAZAPIC	2012	kg										398.6
+37	North Carolina	IMAZAPIC	2013	kg										647.8
+37	North Carolina	IMAZAPIC	2014	kg										1197.3
+37	North Carolina	IMAZAPIC	2015	kg										856.9
+37	North Carolina	IMAZAPIC	2016	kg										871.7
+37	North Carolina	IMAZAPIC	2017	kg										1373.4
+38	North Dakota	IMAZAPIC	2002	kg									768.1	
+38	North Dakota	IMAZAPIC	2003	kg									762.9	
+38	North Dakota	IMAZAPIC	2004	kg									429	
+38	North Dakota	IMAZAPIC	2005	kg									228	
+38	North Dakota	IMAZAPIC	2006	kg									8.9	
+38	North Dakota	IMAZAPIC	2009	kg									0.8	
+38	North Dakota	IMAZAPIC	2010	kg									68.7	
+38	North Dakota	IMAZAPIC	2011	kg									67.8	
+38	North Dakota	IMAZAPIC	2012	kg									130	
+38	North Dakota	IMAZAPIC	2014	kg									250.1	
+38	North Dakota	IMAZAPIC	2016	kg									8.1	
+38	North Dakota	IMAZAPIC	2017	kg									181.1	
+40	Oklahoma	IMAZAPIC	1996	kg										204.9
+40	Oklahoma	IMAZAPIC	1997	kg										630
+40	Oklahoma	IMAZAPIC	1998	kg										531.1
+40	Oklahoma	IMAZAPIC	1999	kg										252
+40	Oklahoma	IMAZAPIC	2000	kg										734.6
+40	Oklahoma	IMAZAPIC	2001	kg										676.8
+40	Oklahoma	IMAZAPIC	2002	kg									4037	711.5
+40	Oklahoma	IMAZAPIC	2003	kg									5143.2	603.7
+40	Oklahoma	IMAZAPIC	2004	kg									1590.3	325.4
+40	Oklahoma	IMAZAPIC	2005	kg									29.3	422.8
+40	Oklahoma	IMAZAPIC	2006	kg									15.7	418.4
+40	Oklahoma	IMAZAPIC	2007	kg										114.6
+40	Oklahoma	IMAZAPIC	2008	kg										275.8
+40	Oklahoma	IMAZAPIC	2009	kg										373.4
+40	Oklahoma	IMAZAPIC	2010	kg										301.2
+40	Oklahoma	IMAZAPIC	2011	kg										267.3
+40	Oklahoma	IMAZAPIC	2012	kg									272.1	302.1
+40	Oklahoma	IMAZAPIC	2013	kg										467.5
+40	Oklahoma	IMAZAPIC	2014	kg										150.5
+40	Oklahoma	IMAZAPIC	2015	kg										172.6
+40	Oklahoma	IMAZAPIC	2016	kg										123.4
+40	Oklahoma	IMAZAPIC	2017	kg										48.6
+41	Oregon	IMAZAPIC	2011	kg									265.1	
+41	Oregon	IMAZAPIC	2012	kg									102.2	
+41	Oregon	IMAZAPIC	2013	kg									250	
+41	Oregon	IMAZAPIC	2014	kg									49.5	
+41	Oregon	IMAZAPIC	2015	kg									4.6	
+41	Oregon	IMAZAPIC	2017	kg								155.1		
+45	South Carolina	IMAZAPIC	1996	kg										283.1
+45	South Carolina	IMAZAPIC	1997	kg										314
+45	South Carolina	IMAZAPIC	1998	kg										233.7
+45	South Carolina	IMAZAPIC	1999	kg										210
+45	South Carolina	IMAZAPIC	2000	kg										456.2
+45	South Carolina	IMAZAPIC	2001	kg										307.9
+45	South Carolina	IMAZAPIC	2002	kg										410.7
+45	South Carolina	IMAZAPIC	2003	kg										486.4
+45	South Carolina	IMAZAPIC	2004	kg										792.3
+45	South Carolina	IMAZAPIC	2005	kg										1777.4
+45	South Carolina	IMAZAPIC	2006	kg										1580.3
+45	South Carolina	IMAZAPIC	2007	kg										1404.4
+45	South Carolina	IMAZAPIC	2008	kg										1312.7
+45	South Carolina	IMAZAPIC	2009	kg										796.3
+45	South Carolina	IMAZAPIC	2010	kg										1762.7
+45	South Carolina	IMAZAPIC	2011	kg										1405.1
+45	South Carolina	IMAZAPIC	2012	kg										1783.1
+45	South Carolina	IMAZAPIC	2013	kg										1948.6
+45	South Carolina	IMAZAPIC	2014	kg										2826.3
+45	South Carolina	IMAZAPIC	2015	kg										2523.4
+45	South Carolina	IMAZAPIC	2016	kg										2551.4
+45	South Carolina	IMAZAPIC	2017	kg									60.8	1800
+46	South Dakota	IMAZAPIC	2000	kg									1.8	
+46	South Dakota	IMAZAPIC	2002	kg									1467	
+46	South Dakota	IMAZAPIC	2003	kg									1901.6	
+46	South Dakota	IMAZAPIC	2004	kg									86.1	
+46	South Dakota	IMAZAPIC	2005	kg									370.4	
+46	South Dakota	IMAZAPIC	2006	kg									15	
+46	South Dakota	IMAZAPIC	2007	kg									3.1	
+46	South Dakota	IMAZAPIC	2008	kg									0	
+46	South Dakota	IMAZAPIC	2009	kg									1.4	
+46	South Dakota	IMAZAPIC	2010	kg									938.8	
+46	South Dakota	IMAZAPIC	2011	kg									302.9	
+46	South Dakota	IMAZAPIC	2012	kg									224.7	
+46	South Dakota	IMAZAPIC	2014	kg									147.5	
+46	South Dakota	IMAZAPIC	2015	kg									0.7	
+46	South Dakota	IMAZAPIC	2017	kg									354.8	
+47	Tennessee	IMAZAPIC	2003	kg									98	
+48	Texas	IMAZAPIC	1996	kg										722.2
+48	Texas	IMAZAPIC	1997	kg										1187.7
+48	Texas	IMAZAPIC	1998	kg										1564.9
+48	Texas	IMAZAPIC	1999	kg										1023.7
+48	Texas	IMAZAPIC	2000	kg										1769.5
+48	Texas	IMAZAPIC	2001	kg										2096.5
+48	Texas	IMAZAPIC	2002	kg									4374.9	2273.8
+48	Texas	IMAZAPIC	2003	kg									6069	2349.5
+48	Texas	IMAZAPIC	2004	kg									14478.6	1572.6
+48	Texas	IMAZAPIC	2005	kg									436.3	2617.3
+48	Texas	IMAZAPIC	2006	kg										1128
+48	Texas	IMAZAPIC	2007	kg										1351.2
+48	Texas	IMAZAPIC	2008	kg										1448.7
+48	Texas	IMAZAPIC	2009	kg										1024.5
+48	Texas	IMAZAPIC	2010	kg										1666.1
+48	Texas	IMAZAPIC	2011	kg										950.3
+48	Texas	IMAZAPIC	2012	kg										764.8
+48	Texas	IMAZAPIC	2013	kg										218.3
+48	Texas	IMAZAPIC	2014	kg										685.7
+48	Texas	IMAZAPIC	2015	kg									1021.3	3486.9
+48	Texas	IMAZAPIC	2016	kg										2305.3
+48	Texas	IMAZAPIC	2017	kg										732.6
+49	Utah	IMAZAPIC	1999	kg									22	
+49	Utah	IMAZAPIC	2002	kg									151.1	
+49	Utah	IMAZAPIC	2003	kg									644.4	
+49	Utah	IMAZAPIC	2004	kg									159.7	
+49	Utah	IMAZAPIC	2005	kg									94.8	
+49	Utah	IMAZAPIC	2006	kg									4.3	
+49	Utah	IMAZAPIC	2007	kg									3.9	
+49	Utah	IMAZAPIC	2009	kg									71.7	
+49	Utah	IMAZAPIC	2011	kg								3	69.8	
+49	Utah	IMAZAPIC	2012	kg									26	
+49	Utah	IMAZAPIC	2013	kg									46.1	
+49	Utah	IMAZAPIC	2014	kg									16.4	
+51	Virginia	IMAZAPIC	1994	kg										4976.6
+51	Virginia	IMAZAPIC	1996	kg										40.2
+51	Virginia	IMAZAPIC	1997	kg										69.9
+51	Virginia	IMAZAPIC	1998	kg										261.9
+51	Virginia	IMAZAPIC	1999	kg										174.3
+51	Virginia	IMAZAPIC	2000	kg										257.4
+51	Virginia	IMAZAPIC	2001	kg										125.1
+51	Virginia	IMAZAPIC	2002	kg										162
+51	Virginia	IMAZAPIC	2003	kg										83.4
+51	Virginia	IMAZAPIC	2004	kg										144.5
+51	Virginia	IMAZAPIC	2005	kg										47.2
+51	Virginia	IMAZAPIC	2006	kg										127
+51	Virginia	IMAZAPIC	2007	kg										49
+51	Virginia	IMAZAPIC	2008	kg										222.8
+51	Virginia	IMAZAPIC	2009	kg										39.7
+51	Virginia	IMAZAPIC	2010	kg										100.8
+51	Virginia	IMAZAPIC	2011	kg										14.6
+51	Virginia	IMAZAPIC	2012	kg										5
+51	Virginia	IMAZAPIC	2013	kg										68.1
+51	Virginia	IMAZAPIC	2014	kg										24.9
+51	Virginia	IMAZAPIC	2015	kg										94.5
+51	Virginia	IMAZAPIC	2016	kg										197.1
+51	Virginia	IMAZAPIC	2017	kg										296.7
+56	Wyoming	IMAZAPIC	1999	kg									48.1	
+56	Wyoming	IMAZAPIC	2002	kg									2487.8	
+56	Wyoming	IMAZAPIC	2003	kg									4818.4	
+56	Wyoming	IMAZAPIC	2004	kg									232.9	
+56	Wyoming	IMAZAPIC	2005	kg									496	
+56	Wyoming	IMAZAPIC	2006	kg									7.5	
+56	Wyoming	IMAZAPIC	2007	kg									21.6	
+56	Wyoming	IMAZAPIC	2009	kg									126.2	
+56	Wyoming	IMAZAPIC	2010	kg									512.2	
+56	Wyoming	IMAZAPIC	2011	kg								0.9	156.3	
+56	Wyoming	IMAZAPIC	2012	kg									107.8	
+56	Wyoming	IMAZAPIC	2013	kg									130.5	
+56	Wyoming	IMAZAPIC	2014	kg									126	
+56	Wyoming	IMAZAPIC	2017	kg									250.8	

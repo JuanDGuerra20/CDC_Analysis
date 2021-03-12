@@ -1,0 +1,15 @@
+06	California	FOSAMINE	1998	kg					1.6			14.7		
+06	California	FOSAMINE	1999	kg	0.1									
+06	California	FOSAMINE	2002	kg										200.9
+16	Idaho	FOSAMINE	1993	kg										5949.6
+19	Iowa	FOSAMINE	1996	kg					169.5					
+27	Minnesota	FOSAMINE	1996	kg					4546.6					
+29	Missouri	FOSAMINE	1995	kg									9957.1	
+30	Montana	FOSAMINE	1993	kg										7310.1
+39	Ohio	FOSAMINE	1995	kg							3016.2			
+41	Oregon	FOSAMINE	1995	kg										1087.3
+42	Pennsylvania	FOSAMINE	1995	kg							805.1			
+49	Utah	FOSAMINE	1993	kg										522.5
+53	Washington	FOSAMINE	1995	kg										151.2
+54	West Virginia	FOSAMINE	1995	kg							116.7			
+56	Wyoming	FOSAMINE	1993	kg										721.6

@@ -1,0 +1,780 @@
+01	Alabama	CYMOXANIL	2010	kg					14.8					
+01	Alabama	CYMOXANIL	2011	kg					10.6					
+04	Arizona	CYMOXANIL	1999	kg					171					
+04	Arizona	CYMOXANIL	2000	kg					28.8					
+04	Arizona	CYMOXANIL	2005	kg					758.4					
+04	Arizona	CYMOXANIL	2006	kg					1833					
+04	Arizona	CYMOXANIL	2007	kg					37.8					
+04	Arizona	CYMOXANIL	2008	kg					333.4					
+04	Arizona	CYMOXANIL	2009	kg					263.4					
+04	Arizona	CYMOXANIL	2010	kg					252.7					
+04	Arizona	CYMOXANIL	2011	kg					218.1					
+04	Arizona	CYMOXANIL	2012	kg					974.5					
+04	Arizona	CYMOXANIL	2013	kg					722.1					
+04	Arizona	CYMOXANIL	2014	kg					1146.9					
+04	Arizona	CYMOXANIL	2015	kg					1428.4					
+04	Arizona	CYMOXANIL	2016	kg					2276.5					
+04	Arizona	CYMOXANIL	2017	kg					3964.2					
+05	Arkansas	CYMOXANIL	2007	kg					6.9					
+05	Arkansas	CYMOXANIL	2009	kg					1.6					
+05	Arkansas	CYMOXANIL	2010	kg					1.7					
+06	California	CYMOXANIL	1996	kg					198.8		0.2			
+06	California	CYMOXANIL	1997	kg					373.1		1.7			
+06	California	CYMOXANIL	1998	kg					3170.9					
+06	California	CYMOXANIL	1999	kg					1659.8			1		
+06	California	CYMOXANIL	2000	kg					971.4					
+06	California	CYMOXANIL	2001	kg					431.1					
+06	California	CYMOXANIL	2002	kg			3.8		753.9					3.9
+06	California	CYMOXANIL	2003	kg					981.5					
+06	California	CYMOXANIL	2004	kg					603.9					
+06	California	CYMOXANIL	2005	kg					6508.3		2			
+06	California	CYMOXANIL	2006	kg					3839.9		3.9			
+06	California	CYMOXANIL	2007	kg					3274.5		0.4			
+06	California	CYMOXANIL	2008	kg					1798		0.2			
+06	California	CYMOXANIL	2009	kg					3657.3		0.1			
+06	California	CYMOXANIL	2010	kg			6.3	4.2	5433.1		5.4	4.3		
+06	California	CYMOXANIL	2011	kg			1.4		4716.9		7.4			
+06	California	CYMOXANIL	2012	kg					4334					
+06	California	CYMOXANIL	2013	kg					3607		2.9			6.3
+06	California	CYMOXANIL	2014	kg					3685.3		3.7			6.8
+06	California	CYMOXANIL	2015	kg			2.4		5179.3					
+06	California	CYMOXANIL	2016	kg					4188.8		1.4	2.4		1.7
+06	California	CYMOXANIL	2017	kg					4373.1		1.1			0.1
+08	Colorado	CYMOXANIL	1995	kg					5600.5					
+08	Colorado	CYMOXANIL	1996	kg					45					
+08	Colorado	CYMOXANIL	1997	kg					523.2					
+08	Colorado	CYMOXANIL	1998	kg					8549.9					
+08	Colorado	CYMOXANIL	1999	kg					943.3					
+08	Colorado	CYMOXANIL	2000	kg					336.6					
+08	Colorado	CYMOXANIL	2001	kg					158.1					
+08	Colorado	CYMOXANIL	2002	kg					1317.8					
+08	Colorado	CYMOXANIL	2004	kg					854.4					
+08	Colorado	CYMOXANIL	2005	kg					235					
+08	Colorado	CYMOXANIL	2006	kg					436.8					
+08	Colorado	CYMOXANIL	2007	kg					353.3					
+08	Colorado	CYMOXANIL	2008	kg					1438.3					
+08	Colorado	CYMOXANIL	2009	kg					246.8					
+08	Colorado	CYMOXANIL	2010	kg					1514.5					
+08	Colorado	CYMOXANIL	2011	kg					1320.7					
+08	Colorado	CYMOXANIL	2012	kg					704.1					
+08	Colorado	CYMOXANIL	2013	kg					621.5					
+08	Colorado	CYMOXANIL	2014	kg					1113					
+08	Colorado	CYMOXANIL	2015	kg					3545.9					
+08	Colorado	CYMOXANIL	2016	kg					478.5					
+08	Colorado	CYMOXANIL	2017	kg					534.9					
+09	Connecticut	CYMOXANIL	1995	kg					13.9					
+09	Connecticut	CYMOXANIL	1998	kg					2.2					
+09	Connecticut	CYMOXANIL	2000	kg					5.5					
+09	Connecticut	CYMOXANIL	2003	kg					3.2					
+09	Connecticut	CYMOXANIL	2004	kg					59.7					
+09	Connecticut	CYMOXANIL	2005	kg					113.7					
+09	Connecticut	CYMOXANIL	2006	kg					4.4					
+09	Connecticut	CYMOXANIL	2007	kg					114.5					
+09	Connecticut	CYMOXANIL	2008	kg					107.2					
+09	Connecticut	CYMOXANIL	2009	kg					130.4					
+09	Connecticut	CYMOXANIL	2010	kg					215.9					
+09	Connecticut	CYMOXANIL	2011	kg					127.9					
+09	Connecticut	CYMOXANIL	2012	kg					46.4					
+09	Connecticut	CYMOXANIL	2013	kg					63					
+09	Connecticut	CYMOXANIL	2014	kg					43.7					
+09	Connecticut	CYMOXANIL	2015	kg					249.7					
+09	Connecticut	CYMOXANIL	2016	kg					146.6					
+10	Delaware	CYMOXANIL	1995	kg					132.3					
+10	Delaware	CYMOXANIL	1996	kg					27.2					
+10	Delaware	CYMOXANIL	1998	kg					16.6					
+10	Delaware	CYMOXANIL	2000	kg					54.9					
+10	Delaware	CYMOXANIL	2004	kg					385.1					
+10	Delaware	CYMOXANIL	2005	kg					79					
+10	Delaware	CYMOXANIL	2006	kg					75.7					
+10	Delaware	CYMOXANIL	2007	kg					217.2					
+10	Delaware	CYMOXANIL	2008	kg					0.7					
+10	Delaware	CYMOXANIL	2009	kg					159					
+10	Delaware	CYMOXANIL	2010	kg					1.5					
+10	Delaware	CYMOXANIL	2011	kg					84					
+10	Delaware	CYMOXANIL	2012	kg					2.1					
+10	Delaware	CYMOXANIL	2013	kg					22.8					
+10	Delaware	CYMOXANIL	2014	kg					0.8					
+10	Delaware	CYMOXANIL	2016	kg					2.1					
+12	Florida	CYMOXANIL	1997	kg					97.5					
+12	Florida	CYMOXANIL	1998	kg					321.7					
+12	Florida	CYMOXANIL	2004	kg					2076.1					
+12	Florida	CYMOXANIL	2005	kg					5146.8					
+12	Florida	CYMOXANIL	2006	kg					5195.4					
+12	Florida	CYMOXANIL	2007	kg					1179.1					
+12	Florida	CYMOXANIL	2008	kg					2731.5					
+12	Florida	CYMOXANIL	2009	kg					2175.5					
+12	Florida	CYMOXANIL	2010	kg					4582.2					
+12	Florida	CYMOXANIL	2011	kg					7122.8					
+12	Florida	CYMOXANIL	2012	kg					7040.7					
+12	Florida	CYMOXANIL	2013	kg					3886.2					
+12	Florida	CYMOXANIL	2014	kg					4700.6					
+12	Florida	CYMOXANIL	2015	kg					4288.9					
+12	Florida	CYMOXANIL	2016	kg					3099.3					
+12	Florida	CYMOXANIL	2017	kg					332.3					
+13	Georgia	CYMOXANIL	2004	kg					305.2					
+13	Georgia	CYMOXANIL	2005	kg					1314.6					
+13	Georgia	CYMOXANIL	2006	kg					2885.5					
+13	Georgia	CYMOXANIL	2007	kg					1731.4					
+13	Georgia	CYMOXANIL	2008	kg					1107.3					
+13	Georgia	CYMOXANIL	2009	kg					1764.7					
+13	Georgia	CYMOXANIL	2010	kg					439.2					
+13	Georgia	CYMOXANIL	2011	kg					180					
+13	Georgia	CYMOXANIL	2012	kg					1646.2					
+13	Georgia	CYMOXANIL	2013	kg					1158.8					
+13	Georgia	CYMOXANIL	2015	kg					3					
+13	Georgia	CYMOXANIL	2016	kg					10.9					
+13	Georgia	CYMOXANIL	2017	kg					6.5					
+16	Idaho	CYMOXANIL	1995	kg					520.2					
+16	Idaho	CYMOXANIL	1997	kg					4406.2					
+16	Idaho	CYMOXANIL	1998	kg					3648.7					
+16	Idaho	CYMOXANIL	1999	kg					171.7					
+16	Idaho	CYMOXANIL	2000	kg					6070.9					
+16	Idaho	CYMOXANIL	2001	kg					243.3					
+16	Idaho	CYMOXANIL	2002	kg					5670.2					
+16	Idaho	CYMOXANIL	2003	kg					62.4					
+16	Idaho	CYMOXANIL	2004	kg					3787.3					
+16	Idaho	CYMOXANIL	2005	kg					701.1					
+16	Idaho	CYMOXANIL	2006	kg					1161.8					
+16	Idaho	CYMOXANIL	2007	kg					854.6					
+16	Idaho	CYMOXANIL	2008	kg					59.3					
+16	Idaho	CYMOXANIL	2009	kg					602					
+16	Idaho	CYMOXANIL	2010	kg					3094.1					
+16	Idaho	CYMOXANIL	2011	kg					2711.6					
+16	Idaho	CYMOXANIL	2012	kg					1898.7					
+16	Idaho	CYMOXANIL	2013	kg					2393.3					
+16	Idaho	CYMOXANIL	2014	kg					6220					
+16	Idaho	CYMOXANIL	2015	kg					6705					
+16	Idaho	CYMOXANIL	2016	kg					4813.2					
+16	Idaho	CYMOXANIL	2017	kg					2679.7					
+17	Illinois	CYMOXANIL	1998	kg					16.7					
+17	Illinois	CYMOXANIL	1999	kg					6.9					
+17	Illinois	CYMOXANIL	2000	kg					73.7					
+17	Illinois	CYMOXANIL	2001	kg					26.7					
+17	Illinois	CYMOXANIL	2002	kg					11					
+17	Illinois	CYMOXANIL	2004	kg					49.4					
+17	Illinois	CYMOXANIL	2005	kg					309.5					
+17	Illinois	CYMOXANIL	2006	kg					185.9					
+17	Illinois	CYMOXANIL	2007	kg					128.8					
+17	Illinois	CYMOXANIL	2008	kg					357					
+17	Illinois	CYMOXANIL	2009	kg					233.5					
+17	Illinois	CYMOXANIL	2010	kg					383.8					
+17	Illinois	CYMOXANIL	2011	kg					329.4					
+17	Illinois	CYMOXANIL	2012	kg					236.6					
+17	Illinois	CYMOXANIL	2013	kg					501.2					
+17	Illinois	CYMOXANIL	2014	kg					165.7					
+17	Illinois	CYMOXANIL	2015	kg					666.7					
+17	Illinois	CYMOXANIL	2016	kg					128.2					
+17	Illinois	CYMOXANIL	2017	kg					164.4					
+18	Indiana	CYMOXANIL	1996	kg					8.1					
+18	Indiana	CYMOXANIL	1998	kg					34.4					
+18	Indiana	CYMOXANIL	1999	kg					22.6					
+18	Indiana	CYMOXANIL	2000	kg					38.4					
+18	Indiana	CYMOXANIL	2001	kg					86.4					
+18	Indiana	CYMOXANIL	2002	kg					36.1					
+18	Indiana	CYMOXANIL	2004	kg					21					
+18	Indiana	CYMOXANIL	2005	kg					119.7					
+18	Indiana	CYMOXANIL	2006	kg					389					
+18	Indiana	CYMOXANIL	2007	kg					315					
+18	Indiana	CYMOXANIL	2008	kg					214.1					
+18	Indiana	CYMOXANIL	2009	kg					362.1					
+18	Indiana	CYMOXANIL	2010	kg					796.4					
+18	Indiana	CYMOXANIL	2011	kg					935.3					
+18	Indiana	CYMOXANIL	2012	kg					186.3					
+18	Indiana	CYMOXANIL	2013	kg					267.2					
+18	Indiana	CYMOXANIL	2014	kg					478.7					
+18	Indiana	CYMOXANIL	2015	kg					2433.6					
+18	Indiana	CYMOXANIL	2016	kg					703.9					
+18	Indiana	CYMOXANIL	2017	kg					132.2					
+19	Iowa	CYMOXANIL	1998	kg					12.6					
+19	Iowa	CYMOXANIL	1999	kg					3.2					
+19	Iowa	CYMOXANIL	2000	kg					6.3					
+19	Iowa	CYMOXANIL	2001	kg					12.7					
+19	Iowa	CYMOXANIL	2002	kg					4.8					
+19	Iowa	CYMOXANIL	2004	kg					0.1					
+19	Iowa	CYMOXANIL	2005	kg					3.9					
+19	Iowa	CYMOXANIL	2006	kg					9.3					
+19	Iowa	CYMOXANIL	2007	kg					2.3					
+19	Iowa	CYMOXANIL	2008	kg					16.1					
+19	Iowa	CYMOXANIL	2009	kg					7.2					
+19	Iowa	CYMOXANIL	2010	kg					18.3					
+19	Iowa	CYMOXANIL	2011	kg					12.5					
+19	Iowa	CYMOXANIL	2012	kg					6.8					
+19	Iowa	CYMOXANIL	2013	kg					52.5					
+19	Iowa	CYMOXANIL	2015	kg					24.2					
+19	Iowa	CYMOXANIL	2016	kg					4.6					
+20	Kansas	CYMOXANIL	2007	kg					2					
+20	Kansas	CYMOXANIL	2008	kg					23.7					
+20	Kansas	CYMOXANIL	2009	kg					0					
+20	Kansas	CYMOXANIL	2010	kg					0					
+20	Kansas	CYMOXANIL	2011	kg					5.6					
+20	Kansas	CYMOXANIL	2015	kg					36.9					
+21	Kentucky	CYMOXANIL	2004	kg					0.8					
+21	Kentucky	CYMOXANIL	2005	kg					7.3					
+21	Kentucky	CYMOXANIL	2006	kg					71.5					
+21	Kentucky	CYMOXANIL	2007	kg					72.2					
+21	Kentucky	CYMOXANIL	2008	kg					18.9					
+21	Kentucky	CYMOXANIL	2009	kg					19.1					
+21	Kentucky	CYMOXANIL	2010	kg					58					
+21	Kentucky	CYMOXANIL	2011	kg					68.9					
+21	Kentucky	CYMOXANIL	2012	kg					7.9					
+21	Kentucky	CYMOXANIL	2013	kg					5					
+21	Kentucky	CYMOXANIL	2014	kg					37.8					
+21	Kentucky	CYMOXANIL	2015	kg					286					
+21	Kentucky	CYMOXANIL	2016	kg					93.2					
+22	Louisiana	CYMOXANIL	2007	kg					1.2					
+22	Louisiana	CYMOXANIL	2009	kg					1.2					
+23	Maine	CYMOXANIL	1995	kg					5022.8					
+23	Maine	CYMOXANIL	1997	kg					4.8					
+23	Maine	CYMOXANIL	1998	kg					525.7					
+23	Maine	CYMOXANIL	1999	kg					182.4					
+23	Maine	CYMOXANIL	2000	kg					326.5					
+23	Maine	CYMOXANIL	2003	kg					2255.1					
+23	Maine	CYMOXANIL	2004	kg					888.1					
+23	Maine	CYMOXANIL	2005	kg					206					
+23	Maine	CYMOXANIL	2006	kg					772.9					
+23	Maine	CYMOXANIL	2007	kg					33.8					
+23	Maine	CYMOXANIL	2008	kg					1543.6					
+23	Maine	CYMOXANIL	2009	kg					1860.4					
+23	Maine	CYMOXANIL	2010	kg					399.9					
+23	Maine	CYMOXANIL	2011	kg					1141.3					
+23	Maine	CYMOXANIL	2012	kg					133.9					
+23	Maine	CYMOXANIL	2013	kg					2153.2					
+23	Maine	CYMOXANIL	2014	kg					1119.6					
+23	Maine	CYMOXANIL	2015	kg					66.5					
+23	Maine	CYMOXANIL	2016	kg					898.7					
+23	Maine	CYMOXANIL	2017	kg					27.6					
+24	Maryland	CYMOXANIL	1995	kg					10.6					
+24	Maryland	CYMOXANIL	1996	kg					3.5					
+24	Maryland	CYMOXANIL	1998	kg					2.6					
+24	Maryland	CYMOXANIL	2000	kg					16.1					
+24	Maryland	CYMOXANIL	2003	kg					5.1					
+24	Maryland	CYMOXANIL	2004	kg					533.6					
+24	Maryland	CYMOXANIL	2005	kg					336.8					
+24	Maryland	CYMOXANIL	2006	kg					387.7					
+24	Maryland	CYMOXANIL	2007	kg					235.3					
+24	Maryland	CYMOXANIL	2008	kg					86					
+24	Maryland	CYMOXANIL	2009	kg					277.5					
+24	Maryland	CYMOXANIL	2010	kg					200.9					
+24	Maryland	CYMOXANIL	2011	kg					170.8					
+24	Maryland	CYMOXANIL	2012	kg					190.5					
+24	Maryland	CYMOXANIL	2013	kg					97.9					
+24	Maryland	CYMOXANIL	2014	kg					14.8					
+24	Maryland	CYMOXANIL	2015	kg					70.7					
+24	Maryland	CYMOXANIL	2016	kg					61.4					
+24	Maryland	CYMOXANIL	2017	kg					7.1					
+25	Massachusetts	CYMOXANIL	1995	kg					195.4					
+25	Massachusetts	CYMOXANIL	1998	kg					45.4					
+25	Massachusetts	CYMOXANIL	2000	kg					134.2					
+25	Massachusetts	CYMOXANIL	2003	kg					107.7					
+25	Massachusetts	CYMOXANIL	2004	kg					142.2					
+25	Massachusetts	CYMOXANIL	2005	kg					149.6					
+25	Massachusetts	CYMOXANIL	2006	kg					94.5					
+25	Massachusetts	CYMOXANIL	2007	kg					208.6					
+25	Massachusetts	CYMOXANIL	2008	kg					78					
+25	Massachusetts	CYMOXANIL	2009	kg					132.4					
+25	Massachusetts	CYMOXANIL	2010	kg					391.5					
+25	Massachusetts	CYMOXANIL	2011	kg					372					
+25	Massachusetts	CYMOXANIL	2012	kg					167.7					
+25	Massachusetts	CYMOXANIL	2013	kg					482.2					
+25	Massachusetts	CYMOXANIL	2014	kg					292.9					
+25	Massachusetts	CYMOXANIL	2015	kg					373.9					
+25	Massachusetts	CYMOXANIL	2016	kg					234.1					
+26	Michigan	CYMOXANIL	1995	kg					2693.7					
+26	Michigan	CYMOXANIL	1996	kg					1141.6					
+26	Michigan	CYMOXANIL	1997	kg					1004.3					
+26	Michigan	CYMOXANIL	1998	kg					398.6					
+26	Michigan	CYMOXANIL	1999	kg					518.9					
+26	Michigan	CYMOXANIL	2000	kg					10977.4					
+26	Michigan	CYMOXANIL	2001	kg					2082.5					
+26	Michigan	CYMOXANIL	2002	kg					382.1					
+26	Michigan	CYMOXANIL	2003	kg					471.3					
+26	Michigan	CYMOXANIL	2004	kg					717.7					
+26	Michigan	CYMOXANIL	2005	kg					849.8					
+26	Michigan	CYMOXANIL	2006	kg					3619.4					
+26	Michigan	CYMOXANIL	2007	kg					5045.8					
+26	Michigan	CYMOXANIL	2008	kg					4719.3					
+26	Michigan	CYMOXANIL	2009	kg					6674.6					
+26	Michigan	CYMOXANIL	2010	kg					6441.2					
+26	Michigan	CYMOXANIL	2011	kg					4077.2					
+26	Michigan	CYMOXANIL	2012	kg					3074					
+26	Michigan	CYMOXANIL	2013	kg					4677.2					
+26	Michigan	CYMOXANIL	2014	kg					5611.3					
+26	Michigan	CYMOXANIL	2015	kg					5232.7					
+26	Michigan	CYMOXANIL	2016	kg					3297.9					
+26	Michigan	CYMOXANIL	2017	kg					1761.5					
+27	Minnesota	CYMOXANIL	1996	kg					293.7					
+27	Minnesota	CYMOXANIL	1997	kg					702					
+27	Minnesota	CYMOXANIL	1998	kg					1720.3					
+27	Minnesota	CYMOXANIL	1999	kg					1940.7					
+27	Minnesota	CYMOXANIL	2000	kg					781.9					
+27	Minnesota	CYMOXANIL	2001	kg					858.7					
+27	Minnesota	CYMOXANIL	2002	kg					1103					
+27	Minnesota	CYMOXANIL	2003	kg					1271					
+27	Minnesota	CYMOXANIL	2004	kg					1106					
+27	Minnesota	CYMOXANIL	2005	kg					224.6					
+27	Minnesota	CYMOXANIL	2006	kg					654.4					
+27	Minnesota	CYMOXANIL	2007	kg					1287.2					
+27	Minnesota	CYMOXANIL	2008	kg					2099.2					
+27	Minnesota	CYMOXANIL	2009	kg					577.4					
+27	Minnesota	CYMOXANIL	2010	kg					706.6					
+27	Minnesota	CYMOXANIL	2011	kg					1405.5					
+27	Minnesota	CYMOXANIL	2012	kg					766					
+27	Minnesota	CYMOXANIL	2013	kg					1484.1					
+27	Minnesota	CYMOXANIL	2014	kg					605.1					
+27	Minnesota	CYMOXANIL	2015	kg					1087.6					
+27	Minnesota	CYMOXANIL	2016	kg					905.4					
+27	Minnesota	CYMOXANIL	2017	kg					326.3					
+29	Missouri	CYMOXANIL	2004	kg					2.3					
+29	Missouri	CYMOXANIL	2005	kg					24.3					
+29	Missouri	CYMOXANIL	2006	kg					42.5					
+29	Missouri	CYMOXANIL	2007	kg					487.2					
+29	Missouri	CYMOXANIL	2008	kg					4.1					
+29	Missouri	CYMOXANIL	2009	kg					208.1					
+29	Missouri	CYMOXANIL	2010	kg					831.6					
+29	Missouri	CYMOXANIL	2011	kg					1.2					
+29	Missouri	CYMOXANIL	2013	kg					5.1					
+29	Missouri	CYMOXANIL	2015	kg					5.6					
+30	Montana	CYMOXANIL	1995	kg					637					
+30	Montana	CYMOXANIL	1997	kg					119.8					
+30	Montana	CYMOXANIL	1998	kg					35.9					
+30	Montana	CYMOXANIL	1999	kg					1.2					
+30	Montana	CYMOXANIL	2000	kg					79					
+30	Montana	CYMOXANIL	2001	kg					15					
+30	Montana	CYMOXANIL	2002	kg					173.2					
+30	Montana	CYMOXANIL	2004	kg					33.7					
+30	Montana	CYMOXANIL	2005	kg					6.6					
+30	Montana	CYMOXANIL	2006	kg					21.1					
+30	Montana	CYMOXANIL	2007	kg					3.1					
+30	Montana	CYMOXANIL	2008	kg					41.6					
+30	Montana	CYMOXANIL	2009	kg					19.1					
+30	Montana	CYMOXANIL	2010	kg					509.8					
+30	Montana	CYMOXANIL	2011	kg					93.6					
+30	Montana	CYMOXANIL	2012	kg					34.6					
+30	Montana	CYMOXANIL	2013	kg					61.7					
+30	Montana	CYMOXANIL	2014	kg					185.3					
+30	Montana	CYMOXANIL	2015	kg					257					
+30	Montana	CYMOXANIL	2016	kg					144.7					
+30	Montana	CYMOXANIL	2017	kg					121.5					
+31	Nebraska	CYMOXANIL	1996	kg					86.2					
+31	Nebraska	CYMOXANIL	1997	kg					85.3					
+31	Nebraska	CYMOXANIL	1998	kg					535.8					
+31	Nebraska	CYMOXANIL	1999	kg					404.3					
+31	Nebraska	CYMOXANIL	2000	kg					211.9					
+31	Nebraska	CYMOXANIL	2001	kg					74.8					
+31	Nebraska	CYMOXANIL	2002	kg					1					
+31	Nebraska	CYMOXANIL	2004	kg					101.6					
+31	Nebraska	CYMOXANIL	2006	kg					255.7					
+31	Nebraska	CYMOXANIL	2007	kg					225.3					
+31	Nebraska	CYMOXANIL	2008	kg					905.1					
+31	Nebraska	CYMOXANIL	2009	kg					119.9					
+31	Nebraska	CYMOXANIL	2010	kg					188.3					
+31	Nebraska	CYMOXANIL	2011	kg					827.1					
+31	Nebraska	CYMOXANIL	2012	kg					215.4					
+31	Nebraska	CYMOXANIL	2013	kg					280.7					
+31	Nebraska	CYMOXANIL	2014	kg					59.3					
+31	Nebraska	CYMOXANIL	2015	kg					2275.8					
+31	Nebraska	CYMOXANIL	2016	kg					113.6					
+31	Nebraska	CYMOXANIL	2017	kg					44.5					
+32	Nevada	CYMOXANIL	1995	kg					9.8					
+32	Nevada	CYMOXANIL	1997	kg					2.9					
+32	Nevada	CYMOXANIL	1998	kg					25.8					
+32	Nevada	CYMOXANIL	1999	kg					106.3					
+32	Nevada	CYMOXANIL	2000	kg					108.5					
+32	Nevada	CYMOXANIL	2001	kg					14.2					
+32	Nevada	CYMOXANIL	2002	kg					956.8					
+32	Nevada	CYMOXANIL	2003	kg					174.3					
+32	Nevada	CYMOXANIL	2004	kg					374					
+32	Nevada	CYMOXANIL	2005	kg					38.4					
+32	Nevada	CYMOXANIL	2006	kg					41.6					
+32	Nevada	CYMOXANIL	2007	kg					45.1					
+32	Nevada	CYMOXANIL	2008	kg					64.4					
+32	Nevada	CYMOXANIL	2009	kg					64.1					
+32	Nevada	CYMOXANIL	2010	kg					227.3					
+32	Nevada	CYMOXANIL	2011	kg					157.9					
+32	Nevada	CYMOXANIL	2012	kg					166.3					
+32	Nevada	CYMOXANIL	2013	kg					104.7					
+32	Nevada	CYMOXANIL	2014	kg					82.1					
+32	Nevada	CYMOXANIL	2015	kg					86.2					
+32	Nevada	CYMOXANIL	2016	kg					7.1					
+32	Nevada	CYMOXANIL	2017	kg					24.4					
+33	New Hampshire	CYMOXANIL	1995	kg					8.1					
+33	New Hampshire	CYMOXANIL	1998	kg					1.3					
+33	New Hampshire	CYMOXANIL	2000	kg					3.5					
+33	New Hampshire	CYMOXANIL	2003	kg					2.6					
+33	New Hampshire	CYMOXANIL	2004	kg					21.1					
+33	New Hampshire	CYMOXANIL	2005	kg					40.1					
+33	New Hampshire	CYMOXANIL	2006	kg					13.9					
+33	New Hampshire	CYMOXANIL	2007	kg					42.1					
+33	New Hampshire	CYMOXANIL	2008	kg					24					
+33	New Hampshire	CYMOXANIL	2009	kg					28.8					
+33	New Hampshire	CYMOXANIL	2010	kg					40.8					
+33	New Hampshire	CYMOXANIL	2011	kg					12.8					
+33	New Hampshire	CYMOXANIL	2012	kg					27.6					
+33	New Hampshire	CYMOXANIL	2013	kg					75					
+33	New Hampshire	CYMOXANIL	2014	kg					32.8					
+33	New Hampshire	CYMOXANIL	2015	kg					80.2					
+33	New Hampshire	CYMOXANIL	2016	kg					55.3					
+34	New Jersey	CYMOXANIL	1995	kg					328					
+34	New Jersey	CYMOXANIL	1996	kg					68.3					
+34	New Jersey	CYMOXANIL	1997	kg					0					
+34	New Jersey	CYMOXANIL	1998	kg					40.5					
+34	New Jersey	CYMOXANIL	2000	kg					134.1					
+34	New Jersey	CYMOXANIL	2003	kg					101.4					
+34	New Jersey	CYMOXANIL	2004	kg					292.4					
+34	New Jersey	CYMOXANIL	2005	kg					794.1					
+34	New Jersey	CYMOXANIL	2006	kg					634.1					
+34	New Jersey	CYMOXANIL	2007	kg					633.4					
+34	New Jersey	CYMOXANIL	2008	kg					82.4					
+34	New Jersey	CYMOXANIL	2009	kg					464.2					
+34	New Jersey	CYMOXANIL	2010	kg					814.3		10.1			
+34	New Jersey	CYMOXANIL	2011	kg					416					
+34	New Jersey	CYMOXANIL	2012	kg					87.5					
+34	New Jersey	CYMOXANIL	2013	kg					388.6					
+34	New Jersey	CYMOXANIL	2014	kg					241.4					
+34	New Jersey	CYMOXANIL	2015	kg					344					
+34	New Jersey	CYMOXANIL	2016	kg					163.4					
+35	New Mexico	CYMOXANIL	1995	kg					467.5					
+35	New Mexico	CYMOXANIL	1997	kg					38.3					
+35	New Mexico	CYMOXANIL	1998	kg					1069.9					
+35	New Mexico	CYMOXANIL	1999	kg					70.8					
+35	New Mexico	CYMOXANIL	2000	kg					26.4					
+35	New Mexico	CYMOXANIL	2001	kg					12.8					
+35	New Mexico	CYMOXANIL	2002	kg					124.2					
+35	New Mexico	CYMOXANIL	2004	kg					89.7					
+35	New Mexico	CYMOXANIL	2005	kg					27.3					
+35	New Mexico	CYMOXANIL	2006	kg					36.1					
+35	New Mexico	CYMOXANIL	2007	kg					60.7					
+35	New Mexico	CYMOXANIL	2008	kg					277.8					
+35	New Mexico	CYMOXANIL	2009	kg					3.1					
+35	New Mexico	CYMOXANIL	2010	kg					25.8					
+35	New Mexico	CYMOXANIL	2011	kg					13.6					
+35	New Mexico	CYMOXANIL	2012	kg					11.1					
+35	New Mexico	CYMOXANIL	2013	kg					9.3					
+35	New Mexico	CYMOXANIL	2014	kg					13.4					
+35	New Mexico	CYMOXANIL	2015	kg					16.6					
+35	New Mexico	CYMOXANIL	2016	kg					6.3					
+35	New Mexico	CYMOXANIL	2017	kg					8.6					
+36	New York	CYMOXANIL	1995	kg					1742.7					
+36	New York	CYMOXANIL	1996	kg					13.7					
+36	New York	CYMOXANIL	1997	kg					2.7					
+36	New York	CYMOXANIL	1998	kg					402.3					
+36	New York	CYMOXANIL	1999	kg					297.6					
+36	New York	CYMOXANIL	2000	kg					1295.2					
+36	New York	CYMOXANIL	2001	kg					24					
+36	New York	CYMOXANIL	2002	kg					226.4					
+36	New York	CYMOXANIL	2003	kg					279.5					
+36	New York	CYMOXANIL	2004	kg					567.5					
+36	New York	CYMOXANIL	2005	kg					589.1					
+36	New York	CYMOXANIL	2006	kg					577.5					
+36	New York	CYMOXANIL	2007	kg					880.2					
+36	New York	CYMOXANIL	2008	kg					350.2					
+36	New York	CYMOXANIL	2009	kg					1101.6					
+36	New York	CYMOXANIL	2010	kg					1350.3		96.4			
+36	New York	CYMOXANIL	2011	kg					1628.8					
+36	New York	CYMOXANIL	2012	kg					965.5					
+36	New York	CYMOXANIL	2013	kg					2058.7					
+36	New York	CYMOXANIL	2014	kg					1226.3					
+36	New York	CYMOXANIL	2015	kg					1671.9					
+36	New York	CYMOXANIL	2016	kg					365.7					
+36	New York	CYMOXANIL	2017	kg					1081.2					
+37	North Carolina	CYMOXANIL	2004	kg					168.6					
+37	North Carolina	CYMOXANIL	2005	kg					2874.7					
+37	North Carolina	CYMOXANIL	2006	kg					396.3					
+37	North Carolina	CYMOXANIL	2007	kg					1257.1					
+37	North Carolina	CYMOXANIL	2008	kg					194					
+37	North Carolina	CYMOXANIL	2009	kg					813.9					
+37	North Carolina	CYMOXANIL	2010	kg					840.7					
+37	North Carolina	CYMOXANIL	2011	kg					1330.4					
+37	North Carolina	CYMOXANIL	2012	kg					382.9					
+37	North Carolina	CYMOXANIL	2013	kg					2496.9					
+37	North Carolina	CYMOXANIL	2014	kg					700.3					
+37	North Carolina	CYMOXANIL	2015	kg					767.1					
+37	North Carolina	CYMOXANIL	2016	kg					220.5					
+37	North Carolina	CYMOXANIL	2017	kg					46					
+38	North Dakota	CYMOXANIL	1996	kg					1746.1					
+38	North Dakota	CYMOXANIL	1997	kg					642.1					
+38	North Dakota	CYMOXANIL	1998	kg					636					
+38	North Dakota	CYMOXANIL	1999	kg					4005.7					
+38	North Dakota	CYMOXANIL	2000	kg					2434.1					
+38	North Dakota	CYMOXANIL	2001	kg					1291.2					
+38	North Dakota	CYMOXANIL	2002	kg					461.8					
+38	North Dakota	CYMOXANIL	2003	kg					825.6					
+38	North Dakota	CYMOXANIL	2004	kg					1074					
+38	North Dakota	CYMOXANIL	2005	kg					166.9					
+38	North Dakota	CYMOXANIL	2006	kg					2134.3					
+38	North Dakota	CYMOXANIL	2008	kg					2723.9					
+38	North Dakota	CYMOXANIL	2009	kg					779.2					
+38	North Dakota	CYMOXANIL	2010	kg					272.5					
+38	North Dakota	CYMOXANIL	2011	kg					621.5					
+38	North Dakota	CYMOXANIL	2012	kg					3365.3					
+38	North Dakota	CYMOXANIL	2014	kg					931.7					
+38	North Dakota	CYMOXANIL	2015	kg					5249.2					
+38	North Dakota	CYMOXANIL	2016	kg					1287.6					
+38	North Dakota	CYMOXANIL	2017	kg					1112.7					
+39	Ohio	CYMOXANIL	1996	kg					551.7					
+39	Ohio	CYMOXANIL	1998	kg					102.6					
+39	Ohio	CYMOXANIL	1999	kg					47.3					
+39	Ohio	CYMOXANIL	2000	kg					114.1					
+39	Ohio	CYMOXANIL	2001	kg					116					
+39	Ohio	CYMOXANIL	2002	kg					118.7					
+39	Ohio	CYMOXANIL	2003	kg					29.3					
+39	Ohio	CYMOXANIL	2004	kg					1105.9					
+39	Ohio	CYMOXANIL	2005	kg					597.6					
+39	Ohio	CYMOXANIL	2006	kg					1024.8					
+39	Ohio	CYMOXANIL	2007	kg					927.5					
+39	Ohio	CYMOXANIL	2008	kg					267.9					
+39	Ohio	CYMOXANIL	2009	kg					582.8					
+39	Ohio	CYMOXANIL	2010	kg					805.4					
+39	Ohio	CYMOXANIL	2011	kg					191.3					
+39	Ohio	CYMOXANIL	2012	kg					455.9					
+39	Ohio	CYMOXANIL	2013	kg					457.9					
+39	Ohio	CYMOXANIL	2014	kg					108.8					
+39	Ohio	CYMOXANIL	2015	kg					211.2					
+39	Ohio	CYMOXANIL	2016	kg					194.3					
+39	Ohio	CYMOXANIL	2017	kg					15.4					
+40	Oklahoma	CYMOXANIL	2007	kg					8.3					
+40	Oklahoma	CYMOXANIL	2008	kg					3.2					
+40	Oklahoma	CYMOXANIL	2009	kg					245.2					
+40	Oklahoma	CYMOXANIL	2010	kg					256					
+40	Oklahoma	CYMOXANIL	2013	kg					241					
+40	Oklahoma	CYMOXANIL	2014	kg					508.6					
+41	Oregon	CYMOXANIL	1995	kg					3992.8					
+41	Oregon	CYMOXANIL	1997	kg					130.2					
+41	Oregon	CYMOXANIL	1998	kg					417.9					
+41	Oregon	CYMOXANIL	1999	kg					526.5					
+41	Oregon	CYMOXANIL	2000	kg					942					
+41	Oregon	CYMOXANIL	2001	kg					1288.9					
+41	Oregon	CYMOXANIL	2002	kg					525.5					
+41	Oregon	CYMOXANIL	2003	kg					113.2					
+41	Oregon	CYMOXANIL	2004	kg					1124.6					
+41	Oregon	CYMOXANIL	2005	kg					667.2					
+41	Oregon	CYMOXANIL	2006	kg					814.4					
+41	Oregon	CYMOXANIL	2007	kg					644.4					
+41	Oregon	CYMOXANIL	2008	kg					1821.1					
+41	Oregon	CYMOXANIL	2009	kg					420.9					
+41	Oregon	CYMOXANIL	2010	kg					709.6					
+41	Oregon	CYMOXANIL	2011	kg					2039.8					
+41	Oregon	CYMOXANIL	2012	kg					2562.7					
+41	Oregon	CYMOXANIL	2013	kg					2553.1					
+41	Oregon	CYMOXANIL	2014	kg					1118.5					
+41	Oregon	CYMOXANIL	2015	kg					1742.3					
+41	Oregon	CYMOXANIL	2016	kg					2314.9					
+41	Oregon	CYMOXANIL	2017	kg					1258					
+42	Pennsylvania	CYMOXANIL	1995	kg					500.2					
+42	Pennsylvania	CYMOXANIL	1996	kg					270.4					
+42	Pennsylvania	CYMOXANIL	1997	kg					37.7					
+42	Pennsylvania	CYMOXANIL	1998	kg					212.3					
+42	Pennsylvania	CYMOXANIL	1999	kg					81					
+42	Pennsylvania	CYMOXANIL	2000	kg					844.9					
+42	Pennsylvania	CYMOXANIL	2001	kg					19.7					
+42	Pennsylvania	CYMOXANIL	2002	kg					200.1					
+42	Pennsylvania	CYMOXANIL	2003	kg					1302.7					
+42	Pennsylvania	CYMOXANIL	2004	kg					436.5					
+42	Pennsylvania	CYMOXANIL	2005	kg					508.8					
+42	Pennsylvania	CYMOXANIL	2006	kg					568.8					
+42	Pennsylvania	CYMOXANIL	2007	kg					403.5					
+42	Pennsylvania	CYMOXANIL	2008	kg					654.6					
+42	Pennsylvania	CYMOXANIL	2009	kg					644.8					
+42	Pennsylvania	CYMOXANIL	2010	kg					742.4					
+42	Pennsylvania	CYMOXANIL	2011	kg					1135.7					
+42	Pennsylvania	CYMOXANIL	2012	kg					804.7					
+42	Pennsylvania	CYMOXANIL	2013	kg					911.3					
+42	Pennsylvania	CYMOXANIL	2014	kg					777.9					
+42	Pennsylvania	CYMOXANIL	2015	kg					820					
+42	Pennsylvania	CYMOXANIL	2016	kg					351.4					
+42	Pennsylvania	CYMOXANIL	2017	kg					45.6					
+44	Rhode Island	CYMOXANIL	2004	kg					10.3					
+44	Rhode Island	CYMOXANIL	2005	kg					20.5					
+44	Rhode Island	CYMOXANIL	2006	kg					0.6					
+44	Rhode Island	CYMOXANIL	2007	kg					21.5					
+44	Rhode Island	CYMOXANIL	2008	kg					12.6					
+44	Rhode Island	CYMOXANIL	2009	kg					14.1					
+44	Rhode Island	CYMOXANIL	2010	kg					39.4					
+44	Rhode Island	CYMOXANIL	2011	kg					23.9					
+44	Rhode Island	CYMOXANIL	2012	kg					10.1					
+44	Rhode Island	CYMOXANIL	2013	kg					20					
+44	Rhode Island	CYMOXANIL	2014	kg					8.8					
+44	Rhode Island	CYMOXANIL	2015	kg					30					
+44	Rhode Island	CYMOXANIL	2016	kg					13.5					
+45	South Carolina	CYMOXANIL	2004	kg					48.1					
+45	South Carolina	CYMOXANIL	2005	kg					226					
+45	South Carolina	CYMOXANIL	2006	kg					181					
+45	South Carolina	CYMOXANIL	2007	kg					144.5					
+45	South Carolina	CYMOXANIL	2008	kg					15.5					
+45	South Carolina	CYMOXANIL	2009	kg					351					
+45	South Carolina	CYMOXANIL	2010	kg					38.2					
+45	South Carolina	CYMOXANIL	2011	kg					32					
+45	South Carolina	CYMOXANIL	2012	kg					214.9					
+45	South Carolina	CYMOXANIL	2013	kg					44.5					
+45	South Carolina	CYMOXANIL	2015	kg					78					
+45	South Carolina	CYMOXANIL	2016	kg					2.2					
+45	South Carolina	CYMOXANIL	2017	kg					1.3					
+46	South Dakota	CYMOXANIL	1996	kg					30.2					
+46	South Dakota	CYMOXANIL	1997	kg					23.4					
+46	South Dakota	CYMOXANIL	1998	kg					11.3					
+46	South Dakota	CYMOXANIL	1999	kg					56.4					
+46	South Dakota	CYMOXANIL	2000	kg					15.7					
+46	South Dakota	CYMOXANIL	2001	kg					22.7					
+46	South Dakota	CYMOXANIL	2002	kg					0.4					
+46	South Dakota	CYMOXANIL	2004	kg					29.3					
+46	South Dakota	CYMOXANIL	2006	kg					39					
+46	South Dakota	CYMOXANIL	2007	kg					0.2					
+46	South Dakota	CYMOXANIL	2008	kg					32.2					
+46	South Dakota	CYMOXANIL	2009	kg					4.9					
+46	South Dakota	CYMOXANIL	2010	kg					6.4					
+46	South Dakota	CYMOXANIL	2011	kg					9.3					
+46	South Dakota	CYMOXANIL	2012	kg					0.9					
+46	South Dakota	CYMOXANIL	2013	kg					2.2					
+46	South Dakota	CYMOXANIL	2014	kg					0.4					
+46	South Dakota	CYMOXANIL	2015	kg					8.1					
+46	South Dakota	CYMOXANIL	2016	kg					1					
+46	South Dakota	CYMOXANIL	2017	kg					0.3					
+47	Tennessee	CYMOXANIL	2006	kg					68.2					
+47	Tennessee	CYMOXANIL	2007	kg					104.2					
+47	Tennessee	CYMOXANIL	2008	kg					57.7					
+47	Tennessee	CYMOXANIL	2009	kg					32.1					
+47	Tennessee	CYMOXANIL	2010	kg					19					
+47	Tennessee	CYMOXANIL	2011	kg					28.3					
+47	Tennessee	CYMOXANIL	2013	kg					11.2					
+47	Tennessee	CYMOXANIL	2014	kg					5.4					
+47	Tennessee	CYMOXANIL	2015	kg					23.9					
+47	Tennessee	CYMOXANIL	2016	kg					40.4					
+47	Tennessee	CYMOXANIL	2017	kg					0.5					
+48	Texas	CYMOXANIL	2007	kg					484.7					
+48	Texas	CYMOXANIL	2008	kg					2185.2					
+48	Texas	CYMOXANIL	2009	kg					524.4					
+48	Texas	CYMOXANIL	2010	kg					747.9					
+48	Texas	CYMOXANIL	2012	kg					488.7					
+48	Texas	CYMOXANIL	2013	kg					791.9					
+48	Texas	CYMOXANIL	2014	kg					93.2					
+49	Utah	CYMOXANIL	1995	kg					118					
+49	Utah	CYMOXANIL	1997	kg					7.5					
+49	Utah	CYMOXANIL	1998	kg					9.8					
+49	Utah	CYMOXANIL	1999	kg					8.2					
+49	Utah	CYMOXANIL	2000	kg					7.3					
+49	Utah	CYMOXANIL	2001	kg					1.1					
+49	Utah	CYMOXANIL	2002	kg					11.8					
+49	Utah	CYMOXANIL	2004	kg					6.4					
+49	Utah	CYMOXANIL	2005	kg					1.1					
+49	Utah	CYMOXANIL	2006	kg					1					
+49	Utah	CYMOXANIL	2007	kg					0.4					
+49	Utah	CYMOXANIL	2008	kg					1.8					
+49	Utah	CYMOXANIL	2009	kg					0.8					
+49	Utah	CYMOXANIL	2010	kg					13.3					
+49	Utah	CYMOXANIL	2011	kg					5.5					
+49	Utah	CYMOXANIL	2012	kg					7.3					
+49	Utah	CYMOXANIL	2013	kg					6.5					
+49	Utah	CYMOXANIL	2014	kg					12.2					
+49	Utah	CYMOXANIL	2015	kg					11.2					
+49	Utah	CYMOXANIL	2016	kg					4.5					
+49	Utah	CYMOXANIL	2017	kg					4.2					
+50	Vermont	CYMOXANIL	1995	kg					8.5					
+50	Vermont	CYMOXANIL	1998	kg					2					
+50	Vermont	CYMOXANIL	2000	kg					6.6					
+50	Vermont	CYMOXANIL	2003	kg					5.9					
+50	Vermont	CYMOXANIL	2004	kg					16.9					
+50	Vermont	CYMOXANIL	2005	kg					20.5					
+50	Vermont	CYMOXANIL	2006	kg					21					
+50	Vermont	CYMOXANIL	2007	kg					32.7					
+50	Vermont	CYMOXANIL	2008	kg					29.4					
+50	Vermont	CYMOXANIL	2009	kg					19.5					
+50	Vermont	CYMOXANIL	2010	kg					50.2					
+50	Vermont	CYMOXANIL	2011	kg					20.3					
+50	Vermont	CYMOXANIL	2012	kg					64.9					
+50	Vermont	CYMOXANIL	2013	kg					79.5					
+50	Vermont	CYMOXANIL	2014	kg					37					
+50	Vermont	CYMOXANIL	2015	kg					77.4					
+50	Vermont	CYMOXANIL	2016	kg					31					
+51	Virginia	CYMOXANIL	2004	kg					10.9					
+51	Virginia	CYMOXANIL	2005	kg					115.6					
+51	Virginia	CYMOXANIL	2006	kg					514.3					
+51	Virginia	CYMOXANIL	2007	kg					161.5					
+51	Virginia	CYMOXANIL	2008	kg					155.6					
+51	Virginia	CYMOXANIL	2009	kg					102.1					
+51	Virginia	CYMOXANIL	2010	kg					66.3					
+51	Virginia	CYMOXANIL	2011	kg					75.3					
+51	Virginia	CYMOXANIL	2012	kg					47.2					
+51	Virginia	CYMOXANIL	2013	kg					52.8					
+51	Virginia	CYMOXANIL	2014	kg					14.4					
+51	Virginia	CYMOXANIL	2015	kg					78.8					
+51	Virginia	CYMOXANIL	2016	kg					133.2					
+53	Washington	CYMOXANIL	1995	kg					1258.9					
+53	Washington	CYMOXANIL	1996	kg					110.1					
+53	Washington	CYMOXANIL	1997	kg					642.5					
+53	Washington	CYMOXANIL	1998	kg					273.4					
+53	Washington	CYMOXANIL	1999	kg					4565.9					
+53	Washington	CYMOXANIL	2000	kg					7118.5					
+53	Washington	CYMOXANIL	2001	kg					8283.3					
+53	Washington	CYMOXANIL	2002	kg					886.8					
+53	Washington	CYMOXANIL	2003	kg					362					
+53	Washington	CYMOXANIL	2004	kg					3239.6					
+53	Washington	CYMOXANIL	2005	kg					2355.1					
+53	Washington	CYMOXANIL	2006	kg					2663.4					
+53	Washington	CYMOXANIL	2007	kg					1873.6					
+53	Washington	CYMOXANIL	2008	kg					2936.4					
+53	Washington	CYMOXANIL	2009	kg					2404.8					
+53	Washington	CYMOXANIL	2010	kg					6527.6					
+53	Washington	CYMOXANIL	2011	kg					5493.5					
+53	Washington	CYMOXANIL	2012	kg					5281.3					
+53	Washington	CYMOXANIL	2013	kg					7328.5					
+53	Washington	CYMOXANIL	2014	kg					4233.3					
+53	Washington	CYMOXANIL	2015	kg					4420.8					
+53	Washington	CYMOXANIL	2016	kg					9907.3					
+53	Washington	CYMOXANIL	2017	kg					7052.8					
+54	West Virginia	CYMOXANIL	2003	kg					0.6					
+54	West Virginia	CYMOXANIL	2004	kg					53.4					
+54	West Virginia	CYMOXANIL	2005	kg					36.1					
+54	West Virginia	CYMOXANIL	2006	kg					25.5					
+54	West Virginia	CYMOXANIL	2007	kg					25.9					
+54	West Virginia	CYMOXANIL	2008	kg					22.1					
+54	West Virginia	CYMOXANIL	2009	kg					24.8					
+54	West Virginia	CYMOXANIL	2010	kg					10.1					
+54	West Virginia	CYMOXANIL	2011	kg					9.9					
+54	West Virginia	CYMOXANIL	2012	kg					30.7					
+54	West Virginia	CYMOXANIL	2013	kg					14.6					
+54	West Virginia	CYMOXANIL	2014	kg					5.1					
+54	West Virginia	CYMOXANIL	2015	kg					10.4					
+54	West Virginia	CYMOXANIL	2016	kg					19.3					
+55	Wisconsin	CYMOXANIL	1996	kg					449.7					
+55	Wisconsin	CYMOXANIL	1998	kg					2340					
+55	Wisconsin	CYMOXANIL	1999	kg					130.7					
+55	Wisconsin	CYMOXANIL	2000	kg					3950.7					
+55	Wisconsin	CYMOXANIL	2001	kg					5470.5					
+55	Wisconsin	CYMOXANIL	2002	kg					1987.6					
+55	Wisconsin	CYMOXANIL	2003	kg					760.9					
+55	Wisconsin	CYMOXANIL	2004	kg					1176.6					
+55	Wisconsin	CYMOXANIL	2005	kg					128.7					
+55	Wisconsin	CYMOXANIL	2006	kg					903.4					
+55	Wisconsin	CYMOXANIL	2007	kg					1056.1					
+55	Wisconsin	CYMOXANIL	2008	kg					3928					
+55	Wisconsin	CYMOXANIL	2009	kg					3238					
+55	Wisconsin	CYMOXANIL	2010	kg					1126.6					
+55	Wisconsin	CYMOXANIL	2011	kg					2099.6					
+55	Wisconsin	CYMOXANIL	2012	kg					1356.5					
+55	Wisconsin	CYMOXANIL	2013	kg					4034.5					
+55	Wisconsin	CYMOXANIL	2014	kg					1718.1					
+55	Wisconsin	CYMOXANIL	2015	kg					1677.7					
+55	Wisconsin	CYMOXANIL	2016	kg					1691.3					
+55	Wisconsin	CYMOXANIL	2017	kg					2890.4					
+56	Wyoming	CYMOXANIL	1995	kg					0.2					
+56	Wyoming	CYMOXANIL	1996	kg					13.2					
+56	Wyoming	CYMOXANIL	1997	kg					12.6					
+56	Wyoming	CYMOXANIL	1998	kg					23.6					
+56	Wyoming	CYMOXANIL	1999	kg					41.4					
+56	Wyoming	CYMOXANIL	2000	kg					36.8					
+56	Wyoming	CYMOXANIL	2001	kg					13.3					
+56	Wyoming	CYMOXANIL	2002	kg					0					
+56	Wyoming	CYMOXANIL	2004	kg					20.5					
+56	Wyoming	CYMOXANIL	2005	kg					0					
+56	Wyoming	CYMOXANIL	2006	kg					29.7					
+56	Wyoming	CYMOXANIL	2007	kg					0					
+56	Wyoming	CYMOXANIL	2008	kg					25.8					
+56	Wyoming	CYMOXANIL	2009	kg					6.8					
+56	Wyoming	CYMOXANIL	2010	kg					6.1					
+56	Wyoming	CYMOXANIL	2011	kg					13.6					
+56	Wyoming	CYMOXANIL	2012	kg					19.2					
+56	Wyoming	CYMOXANIL	2013	kg					0					
+56	Wyoming	CYMOXANIL	2014	kg					4.8					
+56	Wyoming	CYMOXANIL	2015	kg					35.9					
+56	Wyoming	CYMOXANIL	2016	kg					0					
+56	Wyoming	CYMOXANIL	2017	kg					0.2					

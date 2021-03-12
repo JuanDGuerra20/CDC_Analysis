@@ -1,0 +1,5 @@
+01	Alabama	CHLORDIMEFORM	1993	kg				4						
+28	Mississippi	CHLORDIMEFORM	1993	kg				1.1						
+36	New York	CHLORDIMEFORM	1996	kg					386.8					
+47	Tennessee	CHLORDIMEFORM	1993	kg				7.3						
+50	Vermont	CHLORDIMEFORM	1996	kg					9.8					

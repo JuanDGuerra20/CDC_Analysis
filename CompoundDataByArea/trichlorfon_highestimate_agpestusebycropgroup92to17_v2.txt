@@ -1,0 +1,32 @@
+04	Arizona	TRICHLORFON	1992	kg					169					
+04	Arizona	TRICHLORFON	1993	kg					1097.1					
+05	Arkansas	TRICHLORFON	1993	kg									1695.5	
+06	California	TRICHLORFON	1992	kg				42.4	19.2		120.5	451.9	7.3	
+06	California	TRICHLORFON	1993	kg							160.1	525.2	7.3	
+06	California	TRICHLORFON	1994	kg							35.2	64.6	29.4	
+06	California	TRICHLORFON	1995	kg							165.5	252.7		
+06	California	TRICHLORFON	1996	kg							103			
+06	California	TRICHLORFON	1997	kg							63			
+06	California	TRICHLORFON	1998	kg							64.3			
+06	California	TRICHLORFON	1999	kg							5.4			
+06	California	TRICHLORFON	2002	kg							0			
+13	Georgia	TRICHLORFON	1996	kg	65798									
+16	Idaho	TRICHLORFON	1992	kg					36.8			806.6	108.8	
+16	Idaho	TRICHLORFON	1993	kg					330.6			7566.6		
+21	Kentucky	TRICHLORFON	1992	kg	17844.7									
+28	Mississippi	TRICHLORFON	1993	kg									577.1	
+32	Nevada	TRICHLORFON	1992	kg								188.5	35.6	
+32	Nevada	TRICHLORFON	1993	kg					0			1506.3		
+36	New York	TRICHLORFON	1993	kg	9796.8	69.5			87.3					
+37	North Carolina	TRICHLORFON	1996	kg	7965.1									
+39	Ohio	TRICHLORFON	1992	kg	87771.9									
+39	Ohio	TRICHLORFON	1993	kg	26961.7	5119.1			204.4					
+41	Oregon	TRICHLORFON	1992	kg					6.2			297.6	181.8	
+41	Oregon	TRICHLORFON	1993	kg					604.6			2479		
+42	Pennsylvania	TRICHLORFON	1993	kg	31533	1056.4			490.3					
+45	South Carolina	TRICHLORFON	1996	kg	9737.4									
+47	Tennessee	TRICHLORFON	1993	kg									211.3	
+48	Texas	TRICHLORFON	1992	kg				213.5						
+48	Texas	TRICHLORFON	1995	kg				2764.6						
+51	Virginia	TRICHLORFON	1992	kg	16555.3									
+54	West Virginia	TRICHLORFON	1992	kg	39252.2									

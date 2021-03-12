@@ -1,0 +1,870 @@
+01	Alabama	METIRAM	1992	kg							189.5			
+01	Alabama	METIRAM	1993	kg							578.8			
+01	Alabama	METIRAM	1994	kg							1265.6			2159.7
+01	Alabama	METIRAM	1995	kg							1005.9			
+01	Alabama	METIRAM	1996	kg							1177.4			
+01	Alabama	METIRAM	1997	kg							2924.4			
+01	Alabama	METIRAM	1998	kg							474.5			
+01	Alabama	METIRAM	1999	kg							768			
+01	Alabama	METIRAM	2000	kg							1011.1			
+01	Alabama	METIRAM	2001	kg							815.3			
+01	Alabama	METIRAM	2002	kg							330.7			
+01	Alabama	METIRAM	2003	kg							411.2			
+01	Alabama	METIRAM	2004	kg							530			
+01	Alabama	METIRAM	2005	kg							739.4			
+01	Alabama	METIRAM	2006	kg							933.3			
+01	Alabama	METIRAM	2007	kg							1625			
+01	Alabama	METIRAM	2008	kg							469			
+01	Alabama	METIRAM	2009	kg							450.7			
+01	Alabama	METIRAM	2010	kg							226.3			
+01	Alabama	METIRAM	2011	kg							67.5			
+01	Alabama	METIRAM	2012	kg							267.5			
+01	Alabama	METIRAM	2013	kg							123.1			
+01	Alabama	METIRAM	2014	kg							155.9			
+01	Alabama	METIRAM	2015	kg							460.7			
+04	Arizona	METIRAM	1999	kg					32.1					
+04	Arizona	METIRAM	2008	kg					121.2					
+05	Arkansas	METIRAM	1992	kg							44.6			
+05	Arkansas	METIRAM	1993	kg				2818.4						
+05	Arkansas	METIRAM	1995	kg							6.5			
+06	California	METIRAM	2001	kg							0.8			
+06	California	METIRAM	2004	kg							2.2			
+08	Colorado	METIRAM	1996	kg					24841.3					
+08	Colorado	METIRAM	1997	kg					10345.8					
+08	Colorado	METIRAM	1998	kg					11385.7					
+08	Colorado	METIRAM	1999	kg					8669.7					
+08	Colorado	METIRAM	2000	kg					8708.2					
+08	Colorado	METIRAM	2001	kg					830.9					
+08	Colorado	METIRAM	2002	kg					5479.4					
+08	Colorado	METIRAM	2003	kg					4900.2					
+08	Colorado	METIRAM	2005	kg					42941.6					
+08	Colorado	METIRAM	2006	kg					978.7					
+08	Colorado	METIRAM	2007	kg					431.2					
+08	Colorado	METIRAM	2008	kg					23400.9					
+08	Colorado	METIRAM	2009	kg					855.4					
+08	Colorado	METIRAM	2012	kg					3676.1					
+08	Colorado	METIRAM	2013	kg					4403					
+08	Colorado	METIRAM	2014	kg					6874.5					
+08	Colorado	METIRAM	2015	kg					3614.9					
+09	Connecticut	METIRAM	1992	kg					526.8		1440.7			
+09	Connecticut	METIRAM	1993	kg					134.2		2504.6			
+09	Connecticut	METIRAM	1994	kg					6.5		2192.6			
+09	Connecticut	METIRAM	1995	kg							1795.8			
+09	Connecticut	METIRAM	1996	kg							1119.7			
+09	Connecticut	METIRAM	1997	kg					30.3		4420.4			
+09	Connecticut	METIRAM	1998	kg					128.9		202			
+09	Connecticut	METIRAM	1999	kg					64.1		1041.4			
+09	Connecticut	METIRAM	2000	kg					21.7		567.8			
+09	Connecticut	METIRAM	2001	kg					56.9		1266.3			
+09	Connecticut	METIRAM	2002	kg					31.1		1050.8			
+09	Connecticut	METIRAM	2003	kg					25		2104.4			
+09	Connecticut	METIRAM	2004	kg					39.6		873.5			
+09	Connecticut	METIRAM	2005	kg					29		3499.6			
+09	Connecticut	METIRAM	2006	kg					26.6		326.4			
+09	Connecticut	METIRAM	2007	kg					73.3		5008.5			
+09	Connecticut	METIRAM	2008	kg							683.6			
+09	Connecticut	METIRAM	2009	kg					25.7		1967.7			
+09	Connecticut	METIRAM	2010	kg							3117.7			
+09	Connecticut	METIRAM	2011	kg							1493.8			
+09	Connecticut	METIRAM	2012	kg							4452.4			
+09	Connecticut	METIRAM	2013	kg							1026.2			
+09	Connecticut	METIRAM	2014	kg							1275.3			
+09	Connecticut	METIRAM	2015	kg							122.9			
+09	Connecticut	METIRAM	2017	kg					15.3		1247.7			
+10	Delaware	METIRAM	1994	kg							6.2			
+10	Delaware	METIRAM	1995	kg							9.8			
+10	Delaware	METIRAM	1996	kg							19.7			
+10	Delaware	METIRAM	1997	kg							19.8			
+10	Delaware	METIRAM	1998	kg							12.4			
+10	Delaware	METIRAM	1999	kg							16			
+10	Delaware	METIRAM	2000	kg					192.3		15.3			
+10	Delaware	METIRAM	2001	kg					224.4		9			
+10	Delaware	METIRAM	2002	kg					471.3		6.7			
+10	Delaware	METIRAM	2003	kg							6			
+10	Delaware	METIRAM	2004	kg					345.6		10.9			
+10	Delaware	METIRAM	2005	kg							8.6			
+10	Delaware	METIRAM	2006	kg							7.2			
+10	Delaware	METIRAM	2007	kg							26			
+12	Florida	METIRAM	1994	kg										723.6
+12	Florida	METIRAM	1995	kg				1307.9						
+12	Florida	METIRAM	1997	kg					5837.2					
+12	Florida	METIRAM	1998	kg					6001.3					
+12	Florida	METIRAM	2000	kg					560.8					
+12	Florida	METIRAM	2010	kg					14740.8					
+13	Georgia	METIRAM	1992	kg							57.6			
+13	Georgia	METIRAM	1993	kg							664.7			
+13	Georgia	METIRAM	1994	kg							49126.1			5030.4
+13	Georgia	METIRAM	1995	kg							2620.5			
+13	Georgia	METIRAM	1996	kg							1426.9			
+13	Georgia	METIRAM	1997	kg							6055.5			
+13	Georgia	METIRAM	1998	kg							1083			
+13	Georgia	METIRAM	1999	kg							4926.2			
+13	Georgia	METIRAM	2000	kg							2617.8			
+13	Georgia	METIRAM	2001	kg							1573.6			
+13	Georgia	METIRAM	2002	kg							1234.6			
+13	Georgia	METIRAM	2003	kg							838.4			
+13	Georgia	METIRAM	2004	kg							2035.2			
+13	Georgia	METIRAM	2005	kg							2391.8			
+13	Georgia	METIRAM	2006	kg							1121.6			
+13	Georgia	METIRAM	2007	kg							3644.9			
+13	Georgia	METIRAM	2008	kg							701			
+13	Georgia	METIRAM	2009	kg							2679.4			
+13	Georgia	METIRAM	2010	kg							343.8			
+13	Georgia	METIRAM	2011	kg							733.7			
+13	Georgia	METIRAM	2012	kg							874.9			
+13	Georgia	METIRAM	2013	kg							1253.4			
+13	Georgia	METIRAM	2014	kg							29.3			
+13	Georgia	METIRAM	2015	kg							3801.3			
+16	Idaho	METIRAM	1996	kg					25729.9					
+16	Idaho	METIRAM	1997	kg					32546.7		2374			
+16	Idaho	METIRAM	1998	kg					47397.6		85.6			
+16	Idaho	METIRAM	1999	kg					51223.6		8037.2			
+16	Idaho	METIRAM	2000	kg					51111.4		8.4			
+16	Idaho	METIRAM	2001	kg					114312.2		36.7			
+16	Idaho	METIRAM	2002	kg					21930.1		3899.3			
+16	Idaho	METIRAM	2003	kg					28196.8		36.6			
+16	Idaho	METIRAM	2004	kg					863.5		65.3			
+16	Idaho	METIRAM	2005	kg					245778.8		46.2			
+16	Idaho	METIRAM	2006	kg					8589.5		24.3			
+16	Idaho	METIRAM	2007	kg					615335.7					
+16	Idaho	METIRAM	2008	kg					16382.2		303.9			
+16	Idaho	METIRAM	2009	kg					66444.8					
+16	Idaho	METIRAM	2010	kg					2521.6					
+16	Idaho	METIRAM	2011	kg					3896.1					
+16	Idaho	METIRAM	2012	kg					13745.6					
+16	Idaho	METIRAM	2013	kg					10528.4					
+16	Idaho	METIRAM	2014	kg					4648.9					
+16	Idaho	METIRAM	2015	kg					15574.3					
+17	Illinois	METIRAM	1992	kg							1736.9			
+17	Illinois	METIRAM	1993	kg							3471.2			
+17	Illinois	METIRAM	1994	kg							31840.5			
+17	Illinois	METIRAM	1995	kg							11908			
+17	Illinois	METIRAM	1996	kg					254.8		12929.5			
+17	Illinois	METIRAM	1997	kg					109.1		14847.4			
+17	Illinois	METIRAM	1998	kg							4861.8			
+17	Illinois	METIRAM	1999	kg					125.1		8606.4			
+17	Illinois	METIRAM	2000	kg					462.7		17982.5			
+17	Illinois	METIRAM	2001	kg					258.6		7747.1			
+17	Illinois	METIRAM	2002	kg							3228			
+17	Illinois	METIRAM	2003	kg					14579.7		10228.8			
+17	Illinois	METIRAM	2004	kg					131.1		10864.2			
+17	Illinois	METIRAM	2005	kg							4759.9			
+17	Illinois	METIRAM	2006	kg							4142.5			
+17	Illinois	METIRAM	2007	kg							11354.5			
+17	Illinois	METIRAM	2008	kg							4565.1			
+17	Illinois	METIRAM	2009	kg					705.2		4878.4			
+17	Illinois	METIRAM	2010	kg							8322.2			
+17	Illinois	METIRAM	2011	kg							733.5			
+17	Illinois	METIRAM	2012	kg							3109.7			
+17	Illinois	METIRAM	2013	kg							1006.5			
+17	Illinois	METIRAM	2014	kg							2899.4			
+17	Illinois	METIRAM	2015	kg					2946.2		4756.1			
+17	Illinois	METIRAM	2016	kg					1480.7					
+18	Indiana	METIRAM	1992	kg							1091.5			
+18	Indiana	METIRAM	1993	kg							16776.4			
+18	Indiana	METIRAM	1994	kg							39070.4			
+18	Indiana	METIRAM	1995	kg					20.3		79361.5		1703.8	
+18	Indiana	METIRAM	1996	kg					854.1		6056.6			
+18	Indiana	METIRAM	1997	kg					410.3		17969.7			
+18	Indiana	METIRAM	1998	kg							7426.9			
+18	Indiana	METIRAM	1999	kg					399.6		3132.6			
+18	Indiana	METIRAM	2000	kg					1478.6		4513.1			
+18	Indiana	METIRAM	2001	kg					827.8		11295.6			
+18	Indiana	METIRAM	2002	kg							14422.8			
+18	Indiana	METIRAM	2003	kg					623.9		4517.5			
+18	Indiana	METIRAM	2004	kg					341.9		5128.9			
+18	Indiana	METIRAM	2005	kg							2825.3			
+18	Indiana	METIRAM	2006	kg							2266.2			
+18	Indiana	METIRAM	2007	kg							4116.6			
+18	Indiana	METIRAM	2008	kg							2457			
+18	Indiana	METIRAM	2009	kg					344.1		3917.6			
+18	Indiana	METIRAM	2010	kg					189.7		7038.7			
+18	Indiana	METIRAM	2011	kg							509.9			
+18	Indiana	METIRAM	2012	kg							2124.5			
+18	Indiana	METIRAM	2013	kg							692.3			
+18	Indiana	METIRAM	2014	kg							1841.1			
+18	Indiana	METIRAM	2015	kg							4241.5			
+19	Iowa	METIRAM	1992	kg					181.9		750.3			
+19	Iowa	METIRAM	1993	kg							2920.2			
+19	Iowa	METIRAM	1994	kg							3373.7			
+19	Iowa	METIRAM	1995	kg							3770.8			
+19	Iowa	METIRAM	1996	kg					435.7		4714.8			
+19	Iowa	METIRAM	1997	kg					183.9		2020			
+19	Iowa	METIRAM	1998	kg							1702			
+19	Iowa	METIRAM	1999	kg					199.7		3277.7			
+19	Iowa	METIRAM	2000	kg					715.8		2541.6			
+19	Iowa	METIRAM	2001	kg					390.6		3769.4			
+19	Iowa	METIRAM	2002	kg							1718.4			
+19	Iowa	METIRAM	2003	kg					1481		2453.1			
+19	Iowa	METIRAM	2004	kg					185		5860.1			
+19	Iowa	METIRAM	2005	kg							2028.7			
+19	Iowa	METIRAM	2006	kg							1776.4			
+19	Iowa	METIRAM	2007	kg							4904.8			
+19	Iowa	METIRAM	2008	kg							2080.1			
+19	Iowa	METIRAM	2009	kg					60.9		2282.7			
+19	Iowa	METIRAM	2010	kg					26.9		4004.6			
+19	Iowa	METIRAM	2011	kg							362.5			
+19	Iowa	METIRAM	2012	kg							1582			
+19	Iowa	METIRAM	2013	kg							494.6			
+19	Iowa	METIRAM	2014	kg							1345.8			
+19	Iowa	METIRAM	2015	kg							2071.6			
+21	Kentucky	METIRAM	1992	kg							1012.6			
+21	Kentucky	METIRAM	1993	kg							5799.3			
+21	Kentucky	METIRAM	1994	kg							6541.4			
+21	Kentucky	METIRAM	1995	kg							3169.9			
+21	Kentucky	METIRAM	1996	kg							6230.8			
+21	Kentucky	METIRAM	1997	kg							3576.8			
+21	Kentucky	METIRAM	1998	kg							3207			
+21	Kentucky	METIRAM	1999	kg							2457			
+21	Kentucky	METIRAM	2000	kg							4596.6			
+21	Kentucky	METIRAM	2001	kg							6778.3			
+21	Kentucky	METIRAM	2002	kg							1139.3			
+21	Kentucky	METIRAM	2003	kg							2688.4			
+21	Kentucky	METIRAM	2004	kg							1858.9			
+21	Kentucky	METIRAM	2005	kg							2517.6			
+21	Kentucky	METIRAM	2006	kg							13080.7			
+21	Kentucky	METIRAM	2007	kg							6020.7			
+21	Kentucky	METIRAM	2008	kg							3397.9			
+21	Kentucky	METIRAM	2009	kg							2330.1			
+21	Kentucky	METIRAM	2010	kg							1921.2			
+21	Kentucky	METIRAM	2011	kg							375.5			
+21	Kentucky	METIRAM	2012	kg							1441.3			
+21	Kentucky	METIRAM	2013	kg							554.5			
+21	Kentucky	METIRAM	2014	kg							1197.2			
+21	Kentucky	METIRAM	2015	kg							1680.7			
+23	Maine	METIRAM	1992	kg					500.1		11160.5			
+23	Maine	METIRAM	1993	kg							4512			
+23	Maine	METIRAM	1994	kg							3967.9			
+23	Maine	METIRAM	1995	kg					2074.9		11932			
+23	Maine	METIRAM	1996	kg					5355		4309.5			
+23	Maine	METIRAM	1997	kg					13339		10645.4			
+23	Maine	METIRAM	1998	kg					2639.4		189.8			
+23	Maine	METIRAM	1999	kg					8243		11964.3			
+23	Maine	METIRAM	2000	kg					3442.9		656.5			
+23	Maine	METIRAM	2001	kg					6038.6		3493.9			
+23	Maine	METIRAM	2002	kg					1872.5		6005.9			
+23	Maine	METIRAM	2003	kg					7340.4		4647.6			
+23	Maine	METIRAM	2004	kg					9709.2		2954.9			
+23	Maine	METIRAM	2005	kg					4887		4853.7			
+23	Maine	METIRAM	2006	kg					1803.1		1082			
+23	Maine	METIRAM	2007	kg					5591.9		3938.4			
+23	Maine	METIRAM	2008	kg					3190.3		4310.3			
+23	Maine	METIRAM	2009	kg					6562		2668.6			
+23	Maine	METIRAM	2010	kg					7602		2447.9			
+23	Maine	METIRAM	2011	kg							1789.3			
+23	Maine	METIRAM	2012	kg							4157.9			
+23	Maine	METIRAM	2013	kg					795.4		1630.9			
+23	Maine	METIRAM	2014	kg							1939.6			
+23	Maine	METIRAM	2015	kg					2243.5		2136.9			
+23	Maine	METIRAM	2016	kg					1511.8					
+23	Maine	METIRAM	2017	kg					3284.4		1622.8			
+24	Maryland	METIRAM	1992	kg							1022.7			
+24	Maryland	METIRAM	1993	kg							1141.2			
+24	Maryland	METIRAM	1994	kg							2123.8			
+24	Maryland	METIRAM	1995	kg							4225.7			
+24	Maryland	METIRAM	1996	kg							3464.8			
+24	Maryland	METIRAM	1997	kg					2.2		12011.7			
+24	Maryland	METIRAM	1998	kg					108.9		1490.8			
+24	Maryland	METIRAM	1999	kg					53.2		2181.7			
+24	Maryland	METIRAM	2000	kg					22.2		8358.3			
+24	Maryland	METIRAM	2001	kg					80.2		2335.5			
+24	Maryland	METIRAM	2002	kg					77.5		1071.7			
+24	Maryland	METIRAM	2003	kg					126		2011.1			
+24	Maryland	METIRAM	2004	kg					59.4		3489.1			
+24	Maryland	METIRAM	2005	kg					42.6		2997.9			
+24	Maryland	METIRAM	2006	kg					38.3		2256.9			
+24	Maryland	METIRAM	2007	kg					102.5		7210.6			
+24	Maryland	METIRAM	2008	kg							6058.6			
+24	Maryland	METIRAM	2009	kg					29.6		907.6			
+24	Maryland	METIRAM	2010	kg					144.9		1586.3			
+24	Maryland	METIRAM	2011	kg							159.9			
+24	Maryland	METIRAM	2012	kg							2631.1			
+24	Maryland	METIRAM	2013	kg							1117.8			
+24	Maryland	METIRAM	2014	kg							217.6			
+24	Maryland	METIRAM	2015	kg							2527.9			
+24	Maryland	METIRAM	2017	kg					215.1		835.1			
+25	Massachusetts	METIRAM	1992	kg					499.6		4126.6			
+25	Massachusetts	METIRAM	1993	kg					1615.8		9970.9			
+25	Massachusetts	METIRAM	1994	kg					10.1		2539.3			
+25	Massachusetts	METIRAM	1995	kg							20138.3			
+25	Massachusetts	METIRAM	1996	kg							1436.4			
+25	Massachusetts	METIRAM	1997	kg					524.9		866.9			
+25	Massachusetts	METIRAM	1998	kg					2506.8		118.7			
+25	Massachusetts	METIRAM	1999	kg					1411.8		1087.8			
+25	Massachusetts	METIRAM	2000	kg					548.7		1460.4			
+25	Massachusetts	METIRAM	2001	kg					1670.2		1878.3			
+25	Massachusetts	METIRAM	2002	kg					1017		3146			
+25	Massachusetts	METIRAM	2003	kg					821.9		484.4			
+25	Massachusetts	METIRAM	2004	kg					1215.3		1684			
+25	Massachusetts	METIRAM	2005	kg					840.1		8758.1			
+25	Massachusetts	METIRAM	2006	kg					725.3		1168.7			
+25	Massachusetts	METIRAM	2007	kg					1857		8283.5			
+25	Massachusetts	METIRAM	2008	kg							8584.1			
+25	Massachusetts	METIRAM	2009	kg					757		4096.5			
+25	Massachusetts	METIRAM	2010	kg							5042.5			
+25	Massachusetts	METIRAM	2011	kg							2511.5			
+25	Massachusetts	METIRAM	2012	kg							5524.9			
+25	Massachusetts	METIRAM	2013	kg							1698.4			
+25	Massachusetts	METIRAM	2014	kg							2179.4			
+25	Massachusetts	METIRAM	2015	kg							1368.3			
+25	Massachusetts	METIRAM	2017	kg					4258.9		2794.5			
+26	Michigan	METIRAM	1992	kg					10322.1		25471.2			
+26	Michigan	METIRAM	1993	kg					4453.3		211289.8			278.7
+26	Michigan	METIRAM	1994	kg					73337.8		91709.7			
+26	Michigan	METIRAM	1995	kg					26819.1		203739.9		4666.9	
+26	Michigan	METIRAM	1996	kg					41118.7		132627.3			
+26	Michigan	METIRAM	1997	kg					14972.3		133416.6			
+26	Michigan	METIRAM	1998	kg					63181		100382.1			
+26	Michigan	METIRAM	1999	kg					58285.5		70344.3			
+26	Michigan	METIRAM	2000	kg					39398.9		69149.2			
+26	Michigan	METIRAM	2001	kg					16111.5		106625.3			
+26	Michigan	METIRAM	2002	kg					54213.2		43640.3			
+26	Michigan	METIRAM	2003	kg					70408.1		23629.8			
+26	Michigan	METIRAM	2004	kg					60995.3		72607.9			
+26	Michigan	METIRAM	2005	kg					11419.2		45788.4			
+26	Michigan	METIRAM	2006	kg					13119.7		41948.8			
+26	Michigan	METIRAM	2007	kg					53151.6		40672.3			
+26	Michigan	METIRAM	2008	kg					21287.6		7761.4			
+26	Michigan	METIRAM	2009	kg					12564.4		16857.6			
+26	Michigan	METIRAM	2010	kg					12047.7					
+26	Michigan	METIRAM	2011	kg					7195		21905.2			
+26	Michigan	METIRAM	2012	kg					20328.1		21693.6			
+26	Michigan	METIRAM	2013	kg					4112.8		14537.5			
+26	Michigan	METIRAM	2014	kg					18209.9		14603			
+26	Michigan	METIRAM	2015	kg					13066.5		77737			
+26	Michigan	METIRAM	2016	kg					23698.1		23140.5			
+26	Michigan	METIRAM	2017	kg							886			
+27	Minnesota	METIRAM	1992	kg					6131		1166.2			
+27	Minnesota	METIRAM	1993	kg					993.8		6116.5			
+27	Minnesota	METIRAM	1994	kg					20753.4		32167.9			
+27	Minnesota	METIRAM	1995	kg					27170.5		16011.7			
+27	Minnesota	METIRAM	1996	kg					47804.8		24369.7			
+27	Minnesota	METIRAM	1997	kg					10426.7		23284			
+27	Minnesota	METIRAM	1998	kg					19667.4		4003.9			
+27	Minnesota	METIRAM	1999	kg					14095.6		5528.2			
+27	Minnesota	METIRAM	2000	kg					37807.4		7505.5			
+27	Minnesota	METIRAM	2001	kg					34862.3		8175			
+27	Minnesota	METIRAM	2002	kg					90785.5		5318.2			
+27	Minnesota	METIRAM	2003	kg					80150.8		5967			
+27	Minnesota	METIRAM	2004	kg					17891		18268.1			
+27	Minnesota	METIRAM	2005	kg					76091.8		3964.4			
+27	Minnesota	METIRAM	2006	kg					19142.7		3719.9			
+27	Minnesota	METIRAM	2007	kg					69641.2		9739.5			
+27	Minnesota	METIRAM	2008	kg					9381.2		3772.1			
+27	Minnesota	METIRAM	2009	kg					6680.7		4037			
+27	Minnesota	METIRAM	2010	kg					12952.8		5696.1			
+27	Minnesota	METIRAM	2011	kg					7464.8		1970.5			
+27	Minnesota	METIRAM	2012	kg					25183.8		3056.2			
+27	Minnesota	METIRAM	2013	kg					1532.8		1452.2			
+27	Minnesota	METIRAM	2014	kg					16217.5		2630.9			
+27	Minnesota	METIRAM	2015	kg					6196.8		6217.5			
+27	Minnesota	METIRAM	2016	kg					10677.1		1020.8			
+28	Mississippi	METIRAM	1993	kg				12999.6						
+28	Mississippi	METIRAM	1997	kg							276.3			
+29	Missouri	METIRAM	1992	kg							2788.8			
+29	Missouri	METIRAM	1993	kg							1692.5			
+29	Missouri	METIRAM	1994	kg							4737.4			
+29	Missouri	METIRAM	1995	kg							994.1			
+29	Missouri	METIRAM	1996	kg							1287.1			
+29	Missouri	METIRAM	1997	kg							2067			
+29	Missouri	METIRAM	1998	kg							577.5			
+29	Missouri	METIRAM	1999	kg							5810.5			
+29	Missouri	METIRAM	2000	kg							857.9			
+29	Missouri	METIRAM	2001	kg							1633.8			
+29	Missouri	METIRAM	2002	kg							964.3			
+29	Missouri	METIRAM	2003	kg							2206.3			
+29	Missouri	METIRAM	2004	kg							2256.8			
+29	Missouri	METIRAM	2005	kg							1275			
+29	Missouri	METIRAM	2006	kg							1162.3			
+29	Missouri	METIRAM	2007	kg							3349.6			
+29	Missouri	METIRAM	2008	kg							1725.7			
+29	Missouri	METIRAM	2009	kg							1920.8			
+29	Missouri	METIRAM	2010	kg							3413.8			
+29	Missouri	METIRAM	2011	kg							313.4			
+29	Missouri	METIRAM	2012	kg							1385			
+29	Missouri	METIRAM	2013	kg							441.7			
+29	Missouri	METIRAM	2014	kg							1255.9			
+29	Missouri	METIRAM	2015	kg							2031			
+30	Montana	METIRAM	1996	kg					5665.6					
+30	Montana	METIRAM	1997	kg					17430.1					
+30	Montana	METIRAM	1998	kg					1976.6					
+30	Montana	METIRAM	1999	kg					2077.8					
+30	Montana	METIRAM	2000	kg					1361.4					
+30	Montana	METIRAM	2001	kg					312.7					
+30	Montana	METIRAM	2002	kg					361.5					
+30	Montana	METIRAM	2003	kg					568.6					
+30	Montana	METIRAM	2004	kg					19.6					
+30	Montana	METIRAM	2005	kg					6886.8					
+30	Montana	METIRAM	2006	kg					589.3					
+30	Montana	METIRAM	2007	kg					17935					
+30	Montana	METIRAM	2008	kg					158.6					
+30	Montana	METIRAM	2009	kg					1121.2					
+30	Montana	METIRAM	2010	kg					62.1					
+30	Montana	METIRAM	2011	kg					88.2					
+30	Montana	METIRAM	2012	kg					458.7					
+30	Montana	METIRAM	2013	kg					382.6					
+30	Montana	METIRAM	2014	kg					264.9					
+30	Montana	METIRAM	2015	kg					478.4					
+31	Nebraska	METIRAM	1996	kg					7.6					
+31	Nebraska	METIRAM	1997	kg					20545.8					
+31	Nebraska	METIRAM	1999	kg					1202.7					
+31	Nebraska	METIRAM	2000	kg					13.9					
+31	Nebraska	METIRAM	2001	kg					7.8					
+31	Nebraska	METIRAM	2003	kg					18.6					
+31	Nebraska	METIRAM	2004	kg					3.8					
+31	Nebraska	METIRAM	2009	kg					447					
+32	Nevada	METIRAM	1996	kg					2408.4					
+32	Nevada	METIRAM	1997	kg					3015.5					
+32	Nevada	METIRAM	1998	kg					956.6					
+32	Nevada	METIRAM	1999	kg					5392.2					
+32	Nevada	METIRAM	2000	kg					633.4					
+32	Nevada	METIRAM	2001	kg					3508.1					
+32	Nevada	METIRAM	2002	kg					1002.9					
+32	Nevada	METIRAM	2003	kg					512.2					
+32	Nevada	METIRAM	2005	kg					5537.9					
+32	Nevada	METIRAM	2006	kg					888.1					
+32	Nevada	METIRAM	2007	kg					11969.4					
+32	Nevada	METIRAM	2008	kg					2166.1					
+32	Nevada	METIRAM	2009	kg					701.3					
+32	Nevada	METIRAM	2012	kg					221.3					
+32	Nevada	METIRAM	2013	kg					370.5					
+32	Nevada	METIRAM	2014	kg					421.9					
+32	Nevada	METIRAM	2015	kg					159					
+33	New Hampshire	METIRAM	1992	kg							2152.6			
+33	New Hampshire	METIRAM	1993	kg							2038.7			
+33	New Hampshire	METIRAM	1994	kg							2356			
+33	New Hampshire	METIRAM	1995	kg							3447.1			
+33	New Hampshire	METIRAM	1996	kg							1071.8			
+33	New Hampshire	METIRAM	1997	kg					17.5		1825.9			
+33	New Hampshire	METIRAM	1998	kg					0.6		77			
+33	New Hampshire	METIRAM	1999	kg					40.5		4052.1			
+33	New Hampshire	METIRAM	2000	kg					14.5		561.5			
+33	New Hampshire	METIRAM	2001	kg					40.3		1688.8			
+33	New Hampshire	METIRAM	2002	kg					23.9		2471.6			
+33	New Hampshire	METIRAM	2003	kg					61.9		1329.2			
+33	New Hampshire	METIRAM	2004	kg					30.9		1261			
+33	New Hampshire	METIRAM	2005	kg					22.8		3262.7			
+33	New Hampshire	METIRAM	2006	kg					1.2		363.2			
+33	New Hampshire	METIRAM	2007	kg					58.7		2766.4			
+33	New Hampshire	METIRAM	2008	kg							2847.1			
+33	New Hampshire	METIRAM	2009	kg					52.7		1618.3			
+33	New Hampshire	METIRAM	2010	kg					82.4		1359.6			
+33	New Hampshire	METIRAM	2011	kg							907.9			
+33	New Hampshire	METIRAM	2012	kg							1920.7			
+33	New Hampshire	METIRAM	2013	kg					11.1		776.7			
+33	New Hampshire	METIRAM	2014	kg							955.2			
+33	New Hampshire	METIRAM	2015	kg							1057.4			
+33	New Hampshire	METIRAM	2017	kg					72		902.4			
+34	New Jersey	METIRAM	1992	kg					440.4		1632.2			
+34	New Jersey	METIRAM	1993	kg					18.4		1858.5			
+34	New Jersey	METIRAM	1994	kg					2.9		7230.5			
+34	New Jersey	METIRAM	1995	kg							4025.7			
+34	New Jersey	METIRAM	1996	kg							19605.3			
+34	New Jersey	METIRAM	1997	kg					464		5358.3			
+34	New Jersey	METIRAM	1998	kg					2224.5		4271.8			
+34	New Jersey	METIRAM	1999	kg					1233.2		2178.1			
+34	New Jersey	METIRAM	2000	kg					471.7		1295.2			
+34	New Jersey	METIRAM	2001	kg					1136		2581.9			
+34	New Jersey	METIRAM	2002	kg					1793.1		1085.6			
+34	New Jersey	METIRAM	2003	kg					2439.6		3652.7			
+34	New Jersey	METIRAM	2004	kg					1542.4		1159.3			
+34	New Jersey	METIRAM	2005	kg					714.3		2695.8			
+34	New Jersey	METIRAM	2006	kg					730.8		1587.5			
+34	New Jersey	METIRAM	2007	kg					1843.2		3387.6			
+34	New Jersey	METIRAM	2008	kg							1608.8			
+34	New Jersey	METIRAM	2009	kg					520.5		1705.7			
+34	New Jersey	METIRAM	2010	kg							2416			
+34	New Jersey	METIRAM	2011	kg					84.1		1113.9			
+34	New Jersey	METIRAM	2012	kg							2834.7			
+34	New Jersey	METIRAM	2013	kg							914.9			
+34	New Jersey	METIRAM	2014	kg							1182			
+34	New Jersey	METIRAM	2015	kg							810.7			
+34	New Jersey	METIRAM	2017	kg					1179.5		1298.9			
+35	New Mexico	METIRAM	1996	kg					2047.1					
+35	New Mexico	METIRAM	1997	kg					1352.1					
+35	New Mexico	METIRAM	1998	kg					904.2					
+35	New Mexico	METIRAM	1999	kg					1200.5					
+35	New Mexico	METIRAM	2000	kg					784.5					
+35	New Mexico	METIRAM	2001	kg					121					
+35	New Mexico	METIRAM	2002	kg					516.8					
+35	New Mexico	METIRAM	2003	kg					508					
+35	New Mexico	METIRAM	2005	kg					5000					
+35	New Mexico	METIRAM	2006	kg					136.8					
+35	New Mexico	METIRAM	2007	kg					56.9					
+35	New Mexico	METIRAM	2008	kg					382.8					
+35	New Mexico	METIRAM	2009	kg					85					
+35	New Mexico	METIRAM	2012	kg					62					
+35	New Mexico	METIRAM	2013	kg					67.3					
+35	New Mexico	METIRAM	2014	kg					92.8					
+35	New Mexico	METIRAM	2015	kg					45.7					
+36	New York	METIRAM	1992	kg					4742.2		7457.9			
+36	New York	METIRAM	1993	kg					4756.5		19613			
+36	New York	METIRAM	1994	kg					16.8		14390.3			
+36	New York	METIRAM	1995	kg							9601.2			
+36	New York	METIRAM	1996	kg							18172.2			
+36	New York	METIRAM	1997	kg					6690.8		78757.5			
+36	New York	METIRAM	1998	kg					39619.4		22143.2			
+36	New York	METIRAM	1999	kg					21080.1		89057			
+36	New York	METIRAM	2000	kg					6358.8		21219.1			
+36	New York	METIRAM	2001	kg					13601.9		54532.4			
+36	New York	METIRAM	2002	kg					7803.6		55373.9			
+36	New York	METIRAM	2003	kg					18766.2		42173.1			
+36	New York	METIRAM	2004	kg					12679.2		53319.9			
+36	New York	METIRAM	2005	kg					17107.3		133535.5			
+36	New York	METIRAM	2006	kg					8871.7		9420.7			
+36	New York	METIRAM	2007	kg					20011.8		49384.9			
+36	New York	METIRAM	2008	kg					5592.3		46427.2			
+36	New York	METIRAM	2009	kg					4862		21437.4			
+36	New York	METIRAM	2010	kg							28297.5			
+36	New York	METIRAM	2011	kg					3387.2		15961.9			
+36	New York	METIRAM	2012	kg							39568.2			
+36	New York	METIRAM	2013	kg							24043.4			
+36	New York	METIRAM	2014	kg					1498		30134.1			
+36	New York	METIRAM	2015	kg							34283.3			
+36	New York	METIRAM	2017	kg					11806.3		31496.8			
+37	North Carolina	METIRAM	1992	kg							4346.5			
+37	North Carolina	METIRAM	1993	kg							14055.6			
+37	North Carolina	METIRAM	1994	kg							31661			
+37	North Carolina	METIRAM	1995	kg							15978.3			
+37	North Carolina	METIRAM	1996	kg							6582.8			
+37	North Carolina	METIRAM	1997	kg							49449.1			
+37	North Carolina	METIRAM	1998	kg							9228.8			
+37	North Carolina	METIRAM	1999	kg							34467.9			
+37	North Carolina	METIRAM	2000	kg							18014			
+37	North Carolina	METIRAM	2001	kg							11804.7			
+37	North Carolina	METIRAM	2002	kg							8200.6			
+37	North Carolina	METIRAM	2003	kg							5160.7			
+37	North Carolina	METIRAM	2004	kg							15472.6			
+37	North Carolina	METIRAM	2005	kg							17694.5			
+37	North Carolina	METIRAM	2006	kg							8539.4			
+37	North Carolina	METIRAM	2007	kg							30671.7			
+37	North Carolina	METIRAM	2008	kg							6658.7			
+37	North Carolina	METIRAM	2009	kg							33086.8			
+37	North Carolina	METIRAM	2010	kg							4108			
+37	North Carolina	METIRAM	2011	kg							9346.4			
+37	North Carolina	METIRAM	2012	kg							7562.3			
+37	North Carolina	METIRAM	2013	kg							8875.4			
+37	North Carolina	METIRAM	2014	kg							11572.4			
+37	North Carolina	METIRAM	2015	kg					1245.2		40369.3			
+38	North Dakota	METIRAM	1992	kg					2485.4					
+38	North Dakota	METIRAM	1996	kg					23353.4					
+38	North Dakota	METIRAM	1997	kg					1321.7					
+38	North Dakota	METIRAM	1998	kg					19802.9					
+38	North Dakota	METIRAM	1999	kg					26298					
+38	North Dakota	METIRAM	2000	kg					1907					
+38	North Dakota	METIRAM	2001	kg					14647					
+38	North Dakota	METIRAM	2003	kg					61997.5					
+38	North Dakota	METIRAM	2004	kg					14678.6					
+39	Ohio	METIRAM	1992	kg					47444.2		22863.4			
+39	Ohio	METIRAM	1993	kg					2391		8073.1			
+39	Ohio	METIRAM	1994	kg					1645.4		67224.8			
+39	Ohio	METIRAM	1995	kg					4628.4		34971.7			
+39	Ohio	METIRAM	1996	kg					6086.1		33028.3			
+39	Ohio	METIRAM	1997	kg					796.8		38803.9			
+39	Ohio	METIRAM	1998	kg					1499.1		35132.9			
+39	Ohio	METIRAM	1999	kg					1877.3		22460.5			
+39	Ohio	METIRAM	2000	kg					13676.6		13258.7			
+39	Ohio	METIRAM	2001	kg					392.9		19079.4			
+39	Ohio	METIRAM	2002	kg					169.8		6855.1			
+39	Ohio	METIRAM	2003	kg					4396.3		39022.4			
+39	Ohio	METIRAM	2004	kg					2289.1		15704.5			
+39	Ohio	METIRAM	2005	kg					563.1		24320.3			
+39	Ohio	METIRAM	2006	kg					297.8		18462			
+39	Ohio	METIRAM	2007	kg					1010.2		34463.7			
+39	Ohio	METIRAM	2008	kg					569		9298.4			
+39	Ohio	METIRAM	2009	kg					607.4		14059.8			
+39	Ohio	METIRAM	2010	kg					275.9		19486.5			
+39	Ohio	METIRAM	2011	kg					151.7		7301.1			
+39	Ohio	METIRAM	2012	kg					393.2		5430.7			
+39	Ohio	METIRAM	2013	kg					71.8		2609.6			
+39	Ohio	METIRAM	2014	kg					283.6		6768.9			
+39	Ohio	METIRAM	2015	kg					174.8		9282.6			
+39	Ohio	METIRAM	2016	kg					268.9		8936.7			
+39	Ohio	METIRAM	2017	kg							689.9			
+41	Oregon	METIRAM	1996	kg					20529.7		12.6			
+41	Oregon	METIRAM	1997	kg					30449.2		2335			
+41	Oregon	METIRAM	1998	kg					7743.2		2116.1			
+41	Oregon	METIRAM	1999	kg					72626.3		9706.6			
+41	Oregon	METIRAM	2000	kg					5706.9		216.3			
+41	Oregon	METIRAM	2001	kg					48442.2		95.4			
+41	Oregon	METIRAM	2002	kg					7411.3		8366.6			
+41	Oregon	METIRAM	2003	kg					3132.4		1026.1			
+41	Oregon	METIRAM	2004	kg							1905.8			
+41	Oregon	METIRAM	2005	kg					28663.1		1411.7			
+41	Oregon	METIRAM	2006	kg					51755.3		44.5			
+41	Oregon	METIRAM	2007	kg					71454.3					
+41	Oregon	METIRAM	2008	kg					23614.5		524.5			
+41	Oregon	METIRAM	2009	kg					46595.4					
+41	Oregon	METIRAM	2010	kg					5302.9					
+41	Oregon	METIRAM	2012	kg					9849.7					
+41	Oregon	METIRAM	2013	kg					5208.9					
+41	Oregon	METIRAM	2014	kg					11204.5					
+41	Oregon	METIRAM	2015	kg					3184.2					
+42	Pennsylvania	METIRAM	1992	kg					8039.6		16825			
+42	Pennsylvania	METIRAM	1993	kg					2079.7		17669.4			
+42	Pennsylvania	METIRAM	1994	kg					2.7		36754.1			
+42	Pennsylvania	METIRAM	1995	kg							46124.7			
+42	Pennsylvania	METIRAM	1996	kg							102296.8			
+42	Pennsylvania	METIRAM	1997	kg					2356.3		63716.4			
+42	Pennsylvania	METIRAM	1998	kg					20372.1		24223.2			
+42	Pennsylvania	METIRAM	1999	kg					10766.5		23196.1			
+42	Pennsylvania	METIRAM	2000	kg					18820.1		93954.2			
+42	Pennsylvania	METIRAM	2001	kg					6151.3		17717.5			
+42	Pennsylvania	METIRAM	2002	kg					4858.2		13001.2			
+42	Pennsylvania	METIRAM	2003	kg					26732.8		25583.7			
+42	Pennsylvania	METIRAM	2004	kg					6278.5		17617.1			
+42	Pennsylvania	METIRAM	2005	kg					3895.8		24215.6			
+42	Pennsylvania	METIRAM	2006	kg					7613.2		17833.4			
+42	Pennsylvania	METIRAM	2007	kg					10034.7		19632.7			
+42	Pennsylvania	METIRAM	2008	kg							22261.3			
+42	Pennsylvania	METIRAM	2009	kg					2160.9		8535.8			
+42	Pennsylvania	METIRAM	2010	kg					1087.2		4989.3			
+42	Pennsylvania	METIRAM	2011	kg							5617.9			
+42	Pennsylvania	METIRAM	2012	kg							60781.3			
+42	Pennsylvania	METIRAM	2013	kg							17086.7			
+42	Pennsylvania	METIRAM	2014	kg					260.3		6824.9			
+42	Pennsylvania	METIRAM	2015	kg							16357.5			
+42	Pennsylvania	METIRAM	2016	kg							21910.8			
+42	Pennsylvania	METIRAM	2017	kg					4085		13210.8			
+44	Rhode Island	METIRAM	1992	kg							205.1			
+44	Rhode Island	METIRAM	1993	kg							356.6			
+44	Rhode Island	METIRAM	1994	kg							318.2			
+44	Rhode Island	METIRAM	1995	kg							466			
+44	Rhode Island	METIRAM	1996	kg							112			
+44	Rhode Island	METIRAM	1997	kg							66			
+44	Rhode Island	METIRAM	1998	kg							8.2			
+44	Rhode Island	METIRAM	1999	kg							72.4			
+44	Rhode Island	METIRAM	2000	kg							97.7			
+44	Rhode Island	METIRAM	2001	kg							127.6			
+44	Rhode Island	METIRAM	2002	kg							203.5			
+44	Rhode Island	METIRAM	2003	kg							34.1			
+44	Rhode Island	METIRAM	2004	kg							136.2			
+44	Rhode Island	METIRAM	2005	kg							552.3			
+44	Rhode Island	METIRAM	2006	kg							135.6			
+44	Rhode Island	METIRAM	2007	kg							543.9			
+44	Rhode Island	METIRAM	2008	kg							521			
+44	Rhode Island	METIRAM	2009	kg							291.5			
+44	Rhode Island	METIRAM	2010	kg							240.7			
+44	Rhode Island	METIRAM	2011	kg							157.6			
+44	Rhode Island	METIRAM	2012	kg							325.5			
+44	Rhode Island	METIRAM	2013	kg							128.4			
+44	Rhode Island	METIRAM	2014	kg							153.7			
+44	Rhode Island	METIRAM	2015	kg							170.6			
+44	Rhode Island	METIRAM	2017	kg							131.9			
+45	South Carolina	METIRAM	1993	kg							4235.1			
+45	South Carolina	METIRAM	1994	kg							5990.9			
+45	South Carolina	METIRAM	1995	kg							4526.5			
+45	South Carolina	METIRAM	1996	kg							6128.5			
+45	South Carolina	METIRAM	1997	kg							1463.1			
+45	South Carolina	METIRAM	1998	kg							3089.5			
+45	South Carolina	METIRAM	1999	kg							8746.3			
+45	South Carolina	METIRAM	2000	kg							5751.1			
+45	South Carolina	METIRAM	2001	kg							3199.9			
+45	South Carolina	METIRAM	2002	kg							2632.3			
+45	South Carolina	METIRAM	2003	kg							1450.5			
+45	South Carolina	METIRAM	2004	kg							3541.3			
+45	South Carolina	METIRAM	2005	kg							2154.8			
+45	South Carolina	METIRAM	2006	kg							828.5			
+45	South Carolina	METIRAM	2007	kg							2195.8			
+45	South Carolina	METIRAM	2008	kg							510.2			
+45	South Carolina	METIRAM	2009	kg							1930.3			
+45	South Carolina	METIRAM	2010	kg							226.3			
+45	South Carolina	METIRAM	2011	kg							477.1			
+45	South Carolina	METIRAM	2012	kg							554.8			
+45	South Carolina	METIRAM	2013	kg							701.6			
+45	South Carolina	METIRAM	2015	kg							1491.4			
+46	South Dakota	METIRAM	1996	kg					6.6					
+46	South Dakota	METIRAM	1997	kg					8.8					
+46	South Dakota	METIRAM	1999	kg					3.2					
+46	South Dakota	METIRAM	2000	kg					12					
+46	South Dakota	METIRAM	2001	kg					6.7					
+46	South Dakota	METIRAM	2003	kg					16.1					
+46	South Dakota	METIRAM	2004	kg					3.2					
+46	South Dakota	METIRAM	2009	kg					27.8					
+47	Tennessee	METIRAM	1992	kg							736.5			
+47	Tennessee	METIRAM	1993	kg				6238			3086			
+47	Tennessee	METIRAM	1994	kg							4353			
+47	Tennessee	METIRAM	1995	kg							1156.4			
+47	Tennessee	METIRAM	1996	kg							1352.8			
+47	Tennessee	METIRAM	1997	kg							4492.4			
+47	Tennessee	METIRAM	1998	kg							800			
+47	Tennessee	METIRAM	1999	kg							2802.7			
+47	Tennessee	METIRAM	2000	kg							2315.5			
+47	Tennessee	METIRAM	2001	kg							1630.4			
+47	Tennessee	METIRAM	2002	kg							1068.7			
+47	Tennessee	METIRAM	2003	kg							697.9			
+47	Tennessee	METIRAM	2004	kg							921			
+47	Tennessee	METIRAM	2005	kg							2031			
+47	Tennessee	METIRAM	2006	kg							3444.2			
+47	Tennessee	METIRAM	2007	kg							4563.5			
+47	Tennessee	METIRAM	2008	kg							1068.9			
+47	Tennessee	METIRAM	2009	kg							2347.7			
+47	Tennessee	METIRAM	2010	kg							707.1			
+47	Tennessee	METIRAM	2011	kg							510.8			
+47	Tennessee	METIRAM	2012	kg							803.1			
+47	Tennessee	METIRAM	2013	kg							490.5			
+47	Tennessee	METIRAM	2014	kg							1020.3			
+47	Tennessee	METIRAM	2015	kg							1644.8			
+49	Utah	METIRAM	1996	kg					1379.9					
+49	Utah	METIRAM	1997	kg					1580.8					
+49	Utah	METIRAM	1998	kg					3729.5					
+49	Utah	METIRAM	1999	kg					933.5					
+49	Utah	METIRAM	2000	kg					372.9					
+49	Utah	METIRAM	2001	kg					1376.9					
+49	Utah	METIRAM	2002	kg					199.6					
+49	Utah	METIRAM	2003	kg					193.9					
+49	Utah	METIRAM	2004	kg					0.2					
+49	Utah	METIRAM	2005	kg					1712.9					
+49	Utah	METIRAM	2006	kg					117.5					
+49	Utah	METIRAM	2007	kg					3327.5					
+49	Utah	METIRAM	2008	kg					99.1					
+49	Utah	METIRAM	2009	kg					96.4					
+49	Utah	METIRAM	2010	kg					3.9					
+49	Utah	METIRAM	2011	kg					6.5					
+49	Utah	METIRAM	2012	kg					58.3					
+49	Utah	METIRAM	2013	kg					44.8					
+49	Utah	METIRAM	2014	kg					43.6					
+49	Utah	METIRAM	2015	kg					38.8					
+50	Vermont	METIRAM	1992	kg							1094.6			
+50	Vermont	METIRAM	1993	kg							2776.1			
+50	Vermont	METIRAM	1994	kg							458.4			
+50	Vermont	METIRAM	1995	kg							767			
+50	Vermont	METIRAM	1996	kg							3591.8			
+50	Vermont	METIRAM	1997	kg					104		10475			
+50	Vermont	METIRAM	1998	kg					106.6		372.3			
+50	Vermont	METIRAM	1999	kg					68.2		2968.7			
+50	Vermont	METIRAM	2000	kg					26.9		2382.6			
+50	Vermont	METIRAM	2001	kg					82.8		1114.1			
+50	Vermont	METIRAM	2002	kg					50.8		1287.8			
+50	Vermont	METIRAM	2003	kg					145.2		1009			
+50	Vermont	METIRAM	2004	kg					74		4152.4			
+50	Vermont	METIRAM	2005	kg					56		8487.1			
+50	Vermont	METIRAM	2006	kg					53.3		954.3			
+50	Vermont	METIRAM	2007	kg					150.1		5972.6			
+50	Vermont	METIRAM	2008	kg							11729.5			
+50	Vermont	METIRAM	2009	kg					64.1		3433.5			
+50	Vermont	METIRAM	2010	kg							3332.2			
+50	Vermont	METIRAM	2011	kg							1686.6			
+50	Vermont	METIRAM	2012	kg							2456.1			
+50	Vermont	METIRAM	2013	kg							1044			
+50	Vermont	METIRAM	2014	kg							1349.8			
+50	Vermont	METIRAM	2015	kg							2867			
+50	Vermont	METIRAM	2017	kg					539.9		1767.9			
+51	Virginia	METIRAM	1992	kg							1371.9			
+51	Virginia	METIRAM	1993	kg							10254.5			
+51	Virginia	METIRAM	1994	kg							25216.9			
+51	Virginia	METIRAM	1995	kg							54659.7			
+51	Virginia	METIRAM	1996	kg							22200.8			
+51	Virginia	METIRAM	1997	kg					12.6		24233.5			
+51	Virginia	METIRAM	1998	kg							4877.8			
+51	Virginia	METIRAM	1999	kg							22214.2			
+51	Virginia	METIRAM	2000	kg							84930.7			
+51	Virginia	METIRAM	2001	kg							37461.9			
+51	Virginia	METIRAM	2002	kg							101673.3			
+51	Virginia	METIRAM	2003	kg							6077.9			
+51	Virginia	METIRAM	2004	kg							26520.4			
+51	Virginia	METIRAM	2005	kg							25133.8			
+51	Virginia	METIRAM	2006	kg							21340.1			
+51	Virginia	METIRAM	2007	kg							93065.2			
+51	Virginia	METIRAM	2008	kg							47762.9			
+51	Virginia	METIRAM	2009	kg							14337.3			
+51	Virginia	METIRAM	2010	kg							16387.7			
+51	Virginia	METIRAM	2011	kg							1109.4			
+51	Virginia	METIRAM	2012	kg							40219.5			
+51	Virginia	METIRAM	2013	kg							13475.5			
+51	Virginia	METIRAM	2014	kg							3506			
+51	Virginia	METIRAM	2015	kg							45184.9			
+51	Virginia	METIRAM	2017	kg							5281			
+53	Washington	METIRAM	1995	kg					23371.5					
+53	Washington	METIRAM	1996	kg					162171.1		321.6			
+53	Washington	METIRAM	1997	kg					75810.6		61723.7			
+53	Washington	METIRAM	1998	kg					222315.5		115804.3			
+53	Washington	METIRAM	1999	kg					206159.6		418927.1			
+53	Washington	METIRAM	2000	kg					18125.9		12640.8			
+53	Washington	METIRAM	2001	kg					178447.2		5713			
+53	Washington	METIRAM	2002	kg					345041.5		130776.3			
+53	Washington	METIRAM	2003	kg					32911.3		61564.9			
+53	Washington	METIRAM	2004	kg					60143.2		109905.5			
+53	Washington	METIRAM	2005	kg					132164.8		80088.5			
+53	Washington	METIRAM	2006	kg					234042.2		866.2			
+53	Washington	METIRAM	2007	kg					209512.3					
+53	Washington	METIRAM	2008	kg					58841.2		11203.6			
+53	Washington	METIRAM	2009	kg					125189.8					
+53	Washington	METIRAM	2010	kg					48916.1					
+53	Washington	METIRAM	2011	kg					109158.5					
+53	Washington	METIRAM	2012	kg					68040					
+53	Washington	METIRAM	2013	kg					8212.8					
+53	Washington	METIRAM	2014	kg					28232.6					
+53	Washington	METIRAM	2015	kg					9779.8					
+54	West Virginia	METIRAM	1992	kg							3002.6			
+54	West Virginia	METIRAM	1993	kg							27532.1			
+54	West Virginia	METIRAM	1994	kg							8866.4			
+54	West Virginia	METIRAM	1995	kg							21875.4			
+54	West Virginia	METIRAM	1996	kg							60005.8			
+54	West Virginia	METIRAM	1997	kg					18.7		8122.7			
+54	West Virginia	METIRAM	1998	kg							1880.8			
+54	West Virginia	METIRAM	1999	kg							10810.9			
+54	West Virginia	METIRAM	2000	kg					12.5		4571.1			
+54	West Virginia	METIRAM	2001	kg					15.5		5123.1			
+54	West Virginia	METIRAM	2002	kg					4.8		2563.4			
+54	West Virginia	METIRAM	2003	kg					102.6		17980.9			
+54	West Virginia	METIRAM	2004	kg							12303.7			
+54	West Virginia	METIRAM	2005	kg					26.6		11731.1			
+54	West Virginia	METIRAM	2006	kg							19961.7			
+54	West Virginia	METIRAM	2007	kg							29210.9			
+54	West Virginia	METIRAM	2008	kg							16093.5			
+54	West Virginia	METIRAM	2009	kg							7480.5			
+54	West Virginia	METIRAM	2010	kg							9031.7			
+54	West Virginia	METIRAM	2011	kg							1277			
+54	West Virginia	METIRAM	2012	kg							14831.9			
+54	West Virginia	METIRAM	2013	kg							1873.3			
+54	West Virginia	METIRAM	2014	kg							5115.6			
+54	West Virginia	METIRAM	2015	kg							6008.9			
+54	West Virginia	METIRAM	2016	kg							2883.9			
+54	West Virginia	METIRAM	2017	kg							182.8			
+55	Wisconsin	METIRAM	1992	kg					13803.3		1981.2			
+55	Wisconsin	METIRAM	1993	kg					4466		16523.2			
+55	Wisconsin	METIRAM	1994	kg					79860.6		23982.9			
+55	Wisconsin	METIRAM	1995	kg					14249.2		13338.3			
+55	Wisconsin	METIRAM	1996	kg					14366.5		11819.9			
+55	Wisconsin	METIRAM	1997	kg					24079.6		20436			
+55	Wisconsin	METIRAM	1998	kg					84146.9		12970.8			
+55	Wisconsin	METIRAM	1999	kg					15973.1		9651.4			
+55	Wisconsin	METIRAM	2000	kg					20962.1		15012.9			
+55	Wisconsin	METIRAM	2001	kg					40735.6		18775.8			
+55	Wisconsin	METIRAM	2002	kg					19752.8		6019.7			
+55	Wisconsin	METIRAM	2003	kg					131818.8		13870.5			
+55	Wisconsin	METIRAM	2004	kg					80758		37394.9			
+55	Wisconsin	METIRAM	2005	kg					18894.1		7562.8			
+55	Wisconsin	METIRAM	2006	kg					25520.6		7177.6			
+55	Wisconsin	METIRAM	2007	kg					71718.3		16246.1			
+55	Wisconsin	METIRAM	2008	kg					30705.4		2198.6			
+55	Wisconsin	METIRAM	2009	kg					56070.8		2731.4			
+55	Wisconsin	METIRAM	2010	kg					8081.3					
+55	Wisconsin	METIRAM	2011	kg					9242.5		6574.9			
+55	Wisconsin	METIRAM	2012	kg					16749.5		2904.4			
+55	Wisconsin	METIRAM	2013	kg					2717.4		2287.1			
+55	Wisconsin	METIRAM	2014	kg					2424.1		2332.5			
+55	Wisconsin	METIRAM	2015	kg					8404.6		9267.2			
+55	Wisconsin	METIRAM	2016	kg					31196.6		2718.3			
+55	Wisconsin	METIRAM	2017	kg					3913.4					
+56	Wyoming	METIRAM	1996	kg					1.7					
+56	Wyoming	METIRAM	1997	kg					6.9					
+56	Wyoming	METIRAM	1998	kg					1					
+56	Wyoming	METIRAM	1999	kg					1					
+56	Wyoming	METIRAM	2000	kg					0.7					
+56	Wyoming	METIRAM	2001	kg					0.1					
+56	Wyoming	METIRAM	2002	kg					0.2					
+56	Wyoming	METIRAM	2003	kg					0.2					
+56	Wyoming	METIRAM	2004	kg					0					
+56	Wyoming	METIRAM	2005	kg					3.7					
+56	Wyoming	METIRAM	2006	kg					0.2					
+56	Wyoming	METIRAM	2007	kg					8					
+56	Wyoming	METIRAM	2008	kg					22.5					
+56	Wyoming	METIRAM	2009	kg					10					
+56	Wyoming	METIRAM	2010	kg					0.1					
+56	Wyoming	METIRAM	2011	kg					0.1					
+56	Wyoming	METIRAM	2012	kg					5.7					
+56	Wyoming	METIRAM	2013	kg					6.5					
+56	Wyoming	METIRAM	2014	kg					6.8					
+56	Wyoming	METIRAM	2015	kg					2.6					

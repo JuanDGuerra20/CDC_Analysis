@@ -1,0 +1,346 @@
+01	Alabama	CYCLANILIDE	1997	kg				282.9						
+01	Alabama	CYCLANILIDE	1998	kg				3598.3						
+01	Alabama	CYCLANILIDE	1999	kg				6012						
+01	Alabama	CYCLANILIDE	2000	kg				5037.2						
+01	Alabama	CYCLANILIDE	2001	kg				8688.1						
+01	Alabama	CYCLANILIDE	2002	kg				4836.2						
+01	Alabama	CYCLANILIDE	2003	kg				2963.5						
+01	Alabama	CYCLANILIDE	2004	kg				5443						
+01	Alabama	CYCLANILIDE	2005	kg				4473.1						
+01	Alabama	CYCLANILIDE	2006	kg				4483.4						
+01	Alabama	CYCLANILIDE	2007	kg				3428.4						
+01	Alabama	CYCLANILIDE	2008	kg				1616.3						
+01	Alabama	CYCLANILIDE	2009	kg				4378.7						
+01	Alabama	CYCLANILIDE	2010	kg				9728.8						
+01	Alabama	CYCLANILIDE	2011	kg				4671.8						
+01	Alabama	CYCLANILIDE	2012	kg				7031.3						
+01	Alabama	CYCLANILIDE	2013	kg				5282.6						
+01	Alabama	CYCLANILIDE	2014	kg				2890.4						
+01	Alabama	CYCLANILIDE	2015	kg				3074.1						
+01	Alabama	CYCLANILIDE	2016	kg				4939.6						
+01	Alabama	CYCLANILIDE	2017	kg				2039						
+04	Arizona	CYCLANILIDE	1999	kg				1371.8						
+04	Arizona	CYCLANILIDE	2000	kg				889.2						
+04	Arizona	CYCLANILIDE	2001	kg				1117.2						
+04	Arizona	CYCLANILIDE	2002	kg				3332.9						
+04	Arizona	CYCLANILIDE	2003	kg				3004.8						
+04	Arizona	CYCLANILIDE	2004	kg				1998.2						
+04	Arizona	CYCLANILIDE	2006	kg				4495.9						
+04	Arizona	CYCLANILIDE	2007	kg				2491.9						
+04	Arizona	CYCLANILIDE	2008	kg				13.3						
+04	Arizona	CYCLANILIDE	2009	kg				1308.1						
+04	Arizona	CYCLANILIDE	2010	kg				108.2						
+04	Arizona	CYCLANILIDE	2013	kg				6281.9						
+04	Arizona	CYCLANILIDE	2014	kg				3133.1						
+05	Arkansas	CYCLANILIDE	1997	kg				290.1						
+05	Arkansas	CYCLANILIDE	1998	kg				12701.3						
+05	Arkansas	CYCLANILIDE	1999	kg				15092.7						
+05	Arkansas	CYCLANILIDE	2000	kg				7203						
+05	Arkansas	CYCLANILIDE	2001	kg				10644.1						
+05	Arkansas	CYCLANILIDE	2002	kg				12012.9						
+05	Arkansas	CYCLANILIDE	2003	kg				3391.9						
+05	Arkansas	CYCLANILIDE	2004	kg				16747.5						
+05	Arkansas	CYCLANILIDE	2005	kg				7821						
+05	Arkansas	CYCLANILIDE	2006	kg				1997.9						
+05	Arkansas	CYCLANILIDE	2007	kg				12411.7						
+05	Arkansas	CYCLANILIDE	2008	kg				1141.7						
+05	Arkansas	CYCLANILIDE	2009	kg				1089.4						
+05	Arkansas	CYCLANILIDE	2010	kg				2965						
+05	Arkansas	CYCLANILIDE	2011	kg				10130.1						
+05	Arkansas	CYCLANILIDE	2012	kg				2861.1						
+05	Arkansas	CYCLANILIDE	2013	kg				1080.1						
+05	Arkansas	CYCLANILIDE	2014	kg				1437.2						
+05	Arkansas	CYCLANILIDE	2015	kg				957.8						
+05	Arkansas	CYCLANILIDE	2016	kg				2979.4						
+05	Arkansas	CYCLANILIDE	2017	kg				3954.7						
+06	California	CYCLANILIDE	1998	kg				1063.4						
+06	California	CYCLANILIDE	1999	kg				4662.1						
+06	California	CYCLANILIDE	2000	kg				2422.2			1.3			
+06	California	CYCLANILIDE	2001	kg				2755.2						
+06	California	CYCLANILIDE	2002	kg				2480.6				2.3		
+06	California	CYCLANILIDE	2003	kg				2131.2						
+06	California	CYCLANILIDE	2004	kg				2422.3						
+06	California	CYCLANILIDE	2005	kg				1280.9						
+06	California	CYCLANILIDE	2006	kg				955.7						
+06	California	CYCLANILIDE	2007	kg				1020.3						
+06	California	CYCLANILIDE	2008	kg				906.7						
+06	California	CYCLANILIDE	2009	kg				426.1						
+06	California	CYCLANILIDE	2010	kg				764.6						
+06	California	CYCLANILIDE	2011	kg				680.6	2.6					
+06	California	CYCLANILIDE	2012	kg				555.6						
+06	California	CYCLANILIDE	2013	kg			0	588.7						
+06	California	CYCLANILIDE	2014	kg				598.5			0			
+06	California	CYCLANILIDE	2015	kg				516.4						
+06	California	CYCLANILIDE	2016	kg				1132.1						
+06	California	CYCLANILIDE	2017	kg				1185						
+12	Florida	CYCLANILIDE	1997	kg				26.9						
+12	Florida	CYCLANILIDE	1998	kg				604.6						
+12	Florida	CYCLANILIDE	1999	kg				1407.4						
+12	Florida	CYCLANILIDE	2000	kg				1029.6						
+12	Florida	CYCLANILIDE	2001	kg				2545.2						
+12	Florida	CYCLANILIDE	2002	kg				1038.3						
+12	Florida	CYCLANILIDE	2003	kg				859.4						
+12	Florida	CYCLANILIDE	2004	kg				962.6						
+12	Florida	CYCLANILIDE	2005	kg				1330.4						
+12	Florida	CYCLANILIDE	2006	kg				118.6						
+12	Florida	CYCLANILIDE	2007	kg				592.4						
+12	Florida	CYCLANILIDE	2008	kg				43.6						
+12	Florida	CYCLANILIDE	2009	kg				183						
+12	Florida	CYCLANILIDE	2010	kg				1337.1						
+12	Florida	CYCLANILIDE	2011	kg				897.7						
+12	Florida	CYCLANILIDE	2012	kg				52.6						
+12	Florida	CYCLANILIDE	2013	kg				414.6						
+12	Florida	CYCLANILIDE	2014	kg				248						
+12	Florida	CYCLANILIDE	2015	kg				287.5						
+12	Florida	CYCLANILIDE	2016	kg				2125.6						
+13	Georgia	CYCLANILIDE	1997	kg				160.3						
+13	Georgia	CYCLANILIDE	1998	kg				15486.6						
+13	Georgia	CYCLANILIDE	1999	kg				12713.1						
+13	Georgia	CYCLANILIDE	2000	kg				18312						
+13	Georgia	CYCLANILIDE	2001	kg				16401.8						
+13	Georgia	CYCLANILIDE	2002	kg				13334.8						
+13	Georgia	CYCLANILIDE	2003	kg				21222.6						
+13	Georgia	CYCLANILIDE	2004	kg				11291.7						
+13	Georgia	CYCLANILIDE	2005	kg				8230.5						
+13	Georgia	CYCLANILIDE	2006	kg				9007.4						
+13	Georgia	CYCLANILIDE	2007	kg				11881.8						
+13	Georgia	CYCLANILIDE	2008	kg				4216.7						
+13	Georgia	CYCLANILIDE	2009	kg				10314.1						
+13	Georgia	CYCLANILIDE	2010	kg				10156.3						
+13	Georgia	CYCLANILIDE	2011	kg				10886.2						
+13	Georgia	CYCLANILIDE	2012	kg				5967.6						
+13	Georgia	CYCLANILIDE	2013	kg				4292.5						
+13	Georgia	CYCLANILIDE	2014	kg				1186						
+13	Georgia	CYCLANILIDE	2015	kg				1811.5						
+13	Georgia	CYCLANILIDE	2016	kg				5336						
+13	Georgia	CYCLANILIDE	2017	kg				9332.5						
+20	Kansas	CYCLANILIDE	1998	kg				115.7						
+20	Kansas	CYCLANILIDE	1999	kg				459.5						
+20	Kansas	CYCLANILIDE	2000	kg				129						
+20	Kansas	CYCLANILIDE	2001	kg				391.6						
+20	Kansas	CYCLANILIDE	2002	kg				108.6						
+20	Kansas	CYCLANILIDE	2003	kg				253.2						
+20	Kansas	CYCLANILIDE	2004	kg				251.1						
+20	Kansas	CYCLANILIDE	2005	kg				58.1						
+20	Kansas	CYCLANILIDE	2006	kg				36						
+20	Kansas	CYCLANILIDE	2007	kg				121.6						
+20	Kansas	CYCLANILIDE	2008	kg				97.7						
+20	Kansas	CYCLANILIDE	2009	kg				32						
+20	Kansas	CYCLANILIDE	2010	kg				61.7						
+20	Kansas	CYCLANILIDE	2011	kg				26.2						
+20	Kansas	CYCLANILIDE	2012	kg				22.5						
+20	Kansas	CYCLANILIDE	2013	kg				37.1						
+20	Kansas	CYCLANILIDE	2014	kg				28.1						
+20	Kansas	CYCLANILIDE	2015	kg				29.5						
+20	Kansas	CYCLANILIDE	2016	kg				79						
+20	Kansas	CYCLANILIDE	2017	kg				12						
+22	Louisiana	CYCLANILIDE	1997	kg				103.3						
+22	Louisiana	CYCLANILIDE	1998	kg				8023						
+22	Louisiana	CYCLANILIDE	1999	kg				9548.6						
+22	Louisiana	CYCLANILIDE	2000	kg				9819.4						
+22	Louisiana	CYCLANILIDE	2001	kg				4467						
+22	Louisiana	CYCLANILIDE	2002	kg				1306.2						
+22	Louisiana	CYCLANILIDE	2003	kg				798.4						
+22	Louisiana	CYCLANILIDE	2004	kg				1910.4						
+22	Louisiana	CYCLANILIDE	2005	kg				2276.8						
+22	Louisiana	CYCLANILIDE	2006	kg				1072.2						
+22	Louisiana	CYCLANILIDE	2007	kg				3886.6						
+22	Louisiana	CYCLANILIDE	2008	kg				5727.2						
+22	Louisiana	CYCLANILIDE	2009	kg				6319.5						
+22	Louisiana	CYCLANILIDE	2010	kg				3161						
+22	Louisiana	CYCLANILIDE	2011	kg				7642.3						
+22	Louisiana	CYCLANILIDE	2012	kg				2479.4						
+22	Louisiana	CYCLANILIDE	2013	kg				761.2						
+22	Louisiana	CYCLANILIDE	2014	kg				751.1						
+22	Louisiana	CYCLANILIDE	2015	kg				329						
+22	Louisiana	CYCLANILIDE	2016	kg				970.5						
+22	Louisiana	CYCLANILIDE	2017	kg				1135.5						
+28	Mississippi	CYCLANILIDE	1997	kg				194.2						
+28	Mississippi	CYCLANILIDE	1998	kg				3962.7						
+28	Mississippi	CYCLANILIDE	1999	kg				13461.6						
+28	Mississippi	CYCLANILIDE	2000	kg				7996.9						
+28	Mississippi	CYCLANILIDE	2001	kg				19519.4						
+28	Mississippi	CYCLANILIDE	2002	kg				6079.6						
+28	Mississippi	CYCLANILIDE	2003	kg				6155.4						
+28	Mississippi	CYCLANILIDE	2004	kg				9654.3						
+28	Mississippi	CYCLANILIDE	2005	kg				6299.7						
+28	Mississippi	CYCLANILIDE	2006	kg				6488.2						
+28	Mississippi	CYCLANILIDE	2007	kg				2971.5						
+28	Mississippi	CYCLANILIDE	2008	kg				2646.3						
+28	Mississippi	CYCLANILIDE	2009	kg				2930.3						
+28	Mississippi	CYCLANILIDE	2010	kg				4193.7						
+28	Mississippi	CYCLANILIDE	2011	kg				1010.3						
+28	Mississippi	CYCLANILIDE	2012	kg				1446.6						
+28	Mississippi	CYCLANILIDE	2013	kg				2393.3						
+28	Mississippi	CYCLANILIDE	2014	kg				2070.7						
+28	Mississippi	CYCLANILIDE	2015	kg				953.7						
+28	Mississippi	CYCLANILIDE	2016	kg				3238.9						
+28	Mississippi	CYCLANILIDE	2017	kg				3589.4						
+29	Missouri	CYCLANILIDE	1997	kg				206.9						
+29	Missouri	CYCLANILIDE	1998	kg				1538.8						
+29	Missouri	CYCLANILIDE	1999	kg				7277.7						
+29	Missouri	CYCLANILIDE	2000	kg				3558.7						
+29	Missouri	CYCLANILIDE	2001	kg				4189.4						
+29	Missouri	CYCLANILIDE	2002	kg				2210.5						
+29	Missouri	CYCLANILIDE	2003	kg				912.7						
+29	Missouri	CYCLANILIDE	2004	kg				1022.4						
+29	Missouri	CYCLANILIDE	2005	kg				1704.7						
+29	Missouri	CYCLANILIDE	2006	kg				99.8						
+29	Missouri	CYCLANILIDE	2007	kg				713						
+29	Missouri	CYCLANILIDE	2008	kg				640.9						
+29	Missouri	CYCLANILIDE	2009	kg				1087.4						
+29	Missouri	CYCLANILIDE	2010	kg				1001						
+29	Missouri	CYCLANILIDE	2011	kg				2769.1						
+29	Missouri	CYCLANILIDE	2012	kg				2927.6						
+29	Missouri	CYCLANILIDE	2013	kg				2404.7						
+29	Missouri	CYCLANILIDE	2014	kg				733.8						
+29	Missouri	CYCLANILIDE	2015	kg				722.9						
+29	Missouri	CYCLANILIDE	2016	kg				4214.9						
+29	Missouri	CYCLANILIDE	2017	kg				5.4						
+35	New Mexico	CYCLANILIDE	1997	kg				13.4						
+35	New Mexico	CYCLANILIDE	1998	kg				237.4						
+35	New Mexico	CYCLANILIDE	1999	kg				268.5						
+35	New Mexico	CYCLANILIDE	2000	kg				429.7						
+35	New Mexico	CYCLANILIDE	2001	kg				386.7						
+35	New Mexico	CYCLANILIDE	2002	kg				325.6						
+35	New Mexico	CYCLANILIDE	2003	kg				1130.4						
+35	New Mexico	CYCLANILIDE	2004	kg				843.1						
+35	New Mexico	CYCLANILIDE	2005	kg				63.2						
+35	New Mexico	CYCLANILIDE	2006	kg				42.8						
+35	New Mexico	CYCLANILIDE	2007	kg				143.1						
+35	New Mexico	CYCLANILIDE	2008	kg				58.2						
+35	New Mexico	CYCLANILIDE	2009	kg				24.4						
+35	New Mexico	CYCLANILIDE	2010	kg				54.9						
+35	New Mexico	CYCLANILIDE	2011	kg				11.4						
+35	New Mexico	CYCLANILIDE	2012	kg				26.8						
+35	New Mexico	CYCLANILIDE	2013	kg				20.9						
+35	New Mexico	CYCLANILIDE	2014	kg				11.9						
+35	New Mexico	CYCLANILIDE	2015	kg				18.6						
+35	New Mexico	CYCLANILIDE	2016	kg				51.5						
+35	New Mexico	CYCLANILIDE	2017	kg				18.5						
+37	North Carolina	CYCLANILIDE	1997	kg				955						
+37	North Carolina	CYCLANILIDE	1998	kg				12353.7						
+37	North Carolina	CYCLANILIDE	1999	kg				15299.1						
+37	North Carolina	CYCLANILIDE	2000	kg				13286						
+37	North Carolina	CYCLANILIDE	2001	kg				14098.9						
+37	North Carolina	CYCLANILIDE	2002	kg				8703.4						
+37	North Carolina	CYCLANILIDE	2003	kg				11400.5						
+37	North Carolina	CYCLANILIDE	2004	kg				16026.2						
+37	North Carolina	CYCLANILIDE	2005	kg				10980.6						
+37	North Carolina	CYCLANILIDE	2006	kg				10019.3						
+37	North Carolina	CYCLANILIDE	2007	kg				5048.3						
+37	North Carolina	CYCLANILIDE	2008	kg				4390						
+37	North Carolina	CYCLANILIDE	2009	kg				11787.2						
+37	North Carolina	CYCLANILIDE	2010	kg				12350.3						
+37	North Carolina	CYCLANILIDE	2011	kg				6927.6						
+37	North Carolina	CYCLANILIDE	2012	kg				9060.3						
+37	North Carolina	CYCLANILIDE	2013	kg				6087.3						
+37	North Carolina	CYCLANILIDE	2014	kg				4494.6						
+37	North Carolina	CYCLANILIDE	2015	kg				3493						
+37	North Carolina	CYCLANILIDE	2016	kg				3584.5						
+37	North Carolina	CYCLANILIDE	2017	kg				4748.5						
+40	Oklahoma	CYCLANILIDE	1997	kg				41.6						
+40	Oklahoma	CYCLANILIDE	1998	kg				619.5						
+40	Oklahoma	CYCLANILIDE	1999	kg				1913						
+40	Oklahoma	CYCLANILIDE	2000	kg				2719.5						
+40	Oklahoma	CYCLANILIDE	2001	kg				3218.4						
+40	Oklahoma	CYCLANILIDE	2002	kg				782.6						
+40	Oklahoma	CYCLANILIDE	2003	kg				1103.1						
+40	Oklahoma	CYCLANILIDE	2004	kg				5877.6						
+40	Oklahoma	CYCLANILIDE	2005	kg				204.5						
+40	Oklahoma	CYCLANILIDE	2006	kg				71.9						
+40	Oklahoma	CYCLANILIDE	2007	kg				486.6						
+40	Oklahoma	CYCLANILIDE	2008	kg				270.8						
+40	Oklahoma	CYCLANILIDE	2009	kg				292.1						
+40	Oklahoma	CYCLANILIDE	2010	kg				444.2						
+40	Oklahoma	CYCLANILIDE	2011	kg				51						
+40	Oklahoma	CYCLANILIDE	2012	kg				34.8						
+40	Oklahoma	CYCLANILIDE	2013	kg				456.4						
+40	Oklahoma	CYCLANILIDE	2014	kg				118.1						
+40	Oklahoma	CYCLANILIDE	2015	kg				149.7						
+40	Oklahoma	CYCLANILIDE	2016	kg				358.4						
+40	Oklahoma	CYCLANILIDE	2017	kg				5120.4						
+45	South Carolina	CYCLANILIDE	1997	kg				153.5						
+45	South Carolina	CYCLANILIDE	1998	kg				3184.6						
+45	South Carolina	CYCLANILIDE	1999	kg				6449.3						
+45	South Carolina	CYCLANILIDE	2000	kg				6205.8						
+45	South Carolina	CYCLANILIDE	2001	kg				4890.7						
+45	South Carolina	CYCLANILIDE	2002	kg				1641.3						
+45	South Carolina	CYCLANILIDE	2003	kg				3434.4						
+45	South Carolina	CYCLANILIDE	2004	kg				2003.7						
+45	South Carolina	CYCLANILIDE	2005	kg				1924						
+45	South Carolina	CYCLANILIDE	2006	kg				514.4						
+45	South Carolina	CYCLANILIDE	2007	kg				604						
+45	South Carolina	CYCLANILIDE	2008	kg				296.1						
+45	South Carolina	CYCLANILIDE	2009	kg				1322.3						
+45	South Carolina	CYCLANILIDE	2010	kg				1479.3						
+45	South Carolina	CYCLANILIDE	2011	kg				612.8						
+45	South Carolina	CYCLANILIDE	2012	kg				786.1						
+45	South Carolina	CYCLANILIDE	2013	kg				2527.6						
+45	South Carolina	CYCLANILIDE	2014	kg				506.8						
+45	South Carolina	CYCLANILIDE	2015	kg				117						
+45	South Carolina	CYCLANILIDE	2016	kg				950.7						
+45	South Carolina	CYCLANILIDE	2017	kg				1500.4						
+47	Tennessee	CYCLANILIDE	1997	kg				155.5						
+47	Tennessee	CYCLANILIDE	1998	kg				2056						
+47	Tennessee	CYCLANILIDE	1999	kg				6486.9						
+47	Tennessee	CYCLANILIDE	2000	kg				8300.4						
+47	Tennessee	CYCLANILIDE	2001	kg				10400.8						
+47	Tennessee	CYCLANILIDE	2002	kg				10353.5						
+47	Tennessee	CYCLANILIDE	2003	kg				7883.7						
+47	Tennessee	CYCLANILIDE	2004	kg				14266.5						
+47	Tennessee	CYCLANILIDE	2005	kg				10392.8						
+47	Tennessee	CYCLANILIDE	2006	kg				6469.7						
+47	Tennessee	CYCLANILIDE	2007	kg				2356.4						
+47	Tennessee	CYCLANILIDE	2008	kg				1324.8						
+47	Tennessee	CYCLANILIDE	2009	kg				5903.8						
+47	Tennessee	CYCLANILIDE	2010	kg				2652.8						
+47	Tennessee	CYCLANILIDE	2011	kg				1656.6						
+47	Tennessee	CYCLANILIDE	2012	kg				3243.1						
+47	Tennessee	CYCLANILIDE	2013	kg				2877.8						
+47	Tennessee	CYCLANILIDE	2014	kg				939.3						
+47	Tennessee	CYCLANILIDE	2015	kg				501						
+47	Tennessee	CYCLANILIDE	2016	kg				2959.2						
+47	Tennessee	CYCLANILIDE	2017	kg				6059.9						
+48	Texas	CYCLANILIDE	1997	kg				4621.1						
+48	Texas	CYCLANILIDE	1998	kg				13129.3						
+48	Texas	CYCLANILIDE	1999	kg				14276						
+48	Texas	CYCLANILIDE	2000	kg				8234.4						
+48	Texas	CYCLANILIDE	2001	kg				4115.4						
+48	Texas	CYCLANILIDE	2002	kg				6000.7						
+48	Texas	CYCLANILIDE	2003	kg				11808.9						
+48	Texas	CYCLANILIDE	2004	kg				14632.3						
+48	Texas	CYCLANILIDE	2005	kg				13651.3						
+48	Texas	CYCLANILIDE	2006	kg				4870.2						
+48	Texas	CYCLANILIDE	2007	kg				20490.9						
+48	Texas	CYCLANILIDE	2008	kg				5908.9						
+48	Texas	CYCLANILIDE	2009	kg				3216.1						
+48	Texas	CYCLANILIDE	2010	kg				7910						
+48	Texas	CYCLANILIDE	2011	kg				3649.9						
+48	Texas	CYCLANILIDE	2012	kg				4139						
+48	Texas	CYCLANILIDE	2013	kg				6589.1						
+48	Texas	CYCLANILIDE	2014	kg				4874.2						
+48	Texas	CYCLANILIDE	2015	kg				3291						
+48	Texas	CYCLANILIDE	2016	kg				7831						
+48	Texas	CYCLANILIDE	2017	kg				5627.8						
+51	Virginia	CYCLANILIDE	1997	kg				359.8						
+51	Virginia	CYCLANILIDE	1998	kg				3057.6						
+51	Virginia	CYCLANILIDE	1999	kg				4329						
+51	Virginia	CYCLANILIDE	2000	kg				3056.6						
+51	Virginia	CYCLANILIDE	2001	kg				3148.7						
+51	Virginia	CYCLANILIDE	2002	kg				2160.4						
+51	Virginia	CYCLANILIDE	2003	kg				769.9						
+51	Virginia	CYCLANILIDE	2004	kg				2754.4						
+51	Virginia	CYCLANILIDE	2005	kg				1199						
+51	Virginia	CYCLANILIDE	2006	kg				1588.9						
+51	Virginia	CYCLANILIDE	2007	kg				870.1						
+51	Virginia	CYCLANILIDE	2008	kg				749.4						
+51	Virginia	CYCLANILIDE	2009	kg				1758.7						
+51	Virginia	CYCLANILIDE	2010	kg				1962.7						
+51	Virginia	CYCLANILIDE	2011	kg				1100						
+51	Virginia	CYCLANILIDE	2012	kg				2103.6						
+51	Virginia	CYCLANILIDE	2013	kg				1017.7						
+51	Virginia	CYCLANILIDE	2014	kg				561.5						
+51	Virginia	CYCLANILIDE	2015	kg				1033.4						
+51	Virginia	CYCLANILIDE	2016	kg				1030.6						
+51	Virginia	CYCLANILIDE	2017	kg				1201						

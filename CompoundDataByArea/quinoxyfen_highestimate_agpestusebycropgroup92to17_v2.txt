@@ -1,0 +1,338 @@
+01	Alabama	QUINOXYFEN	2008	kg					1.9					
+01	Alabama	QUINOXYFEN	2009	kg					12.6					
+01	Alabama	QUINOXYFEN	2010	kg					4.2					
+04	Arizona	QUINOXYFEN	2004	kg							56.4			
+04	Arizona	QUINOXYFEN	2005	kg							77.7			
+04	Arizona	QUINOXYFEN	2006	kg							15.1			
+04	Arizona	QUINOXYFEN	2007	kg					742.7		101.8			
+04	Arizona	QUINOXYFEN	2008	kg					28		7.3			
+04	Arizona	QUINOXYFEN	2009	kg					275.1		24.6			
+04	Arizona	QUINOXYFEN	2010	kg					505.7		17.7			
+04	Arizona	QUINOXYFEN	2011	kg					295.5		16.8			
+04	Arizona	QUINOXYFEN	2012	kg					590.4		52.6			
+04	Arizona	QUINOXYFEN	2013	kg					228		4.5			
+04	Arizona	QUINOXYFEN	2014	kg					95		52.9			
+04	Arizona	QUINOXYFEN	2015	kg					708.7		27.8			
+04	Arizona	QUINOXYFEN	2016	kg					362.8		18.8			
+04	Arizona	QUINOXYFEN	2017	kg					178.2		34.2			
+06	California	QUINOXYFEN	2004	kg							2860.5			
+06	California	QUINOXYFEN	2005	kg							4658			
+06	California	QUINOXYFEN	2006	kg					7.9		6770.9			
+06	California	QUINOXYFEN	2007	kg					672.2		7541.7			
+06	California	QUINOXYFEN	2008	kg					900.9		8263.9			
+06	California	QUINOXYFEN	2009	kg					1557.4		10922.9			
+06	California	QUINOXYFEN	2010	kg					1846.3		12029.7			3.5
+06	California	QUINOXYFEN	2011	kg					2177		14386.2			3.5
+06	California	QUINOXYFEN	2012	kg					2909.8		15697.2	2.1		
+06	California	QUINOXYFEN	2013	kg					2857.3		18337.5			5.3
+06	California	QUINOXYFEN	2014	kg					3365.7		19092.6			3
+06	California	QUINOXYFEN	2015	kg					4480.6		19503.8			5.2
+06	California	QUINOXYFEN	2016	kg					4758.4		18716.7			4.8
+06	California	QUINOXYFEN	2017	kg					2822.4		17544.9			10.7
+09	Connecticut	QUINOXYFEN	2009	kg					31.3					
+09	Connecticut	QUINOXYFEN	2010	kg					62.2					
+09	Connecticut	QUINOXYFEN	2011	kg					86.2					
+09	Connecticut	QUINOXYFEN	2012	kg					72.1					
+09	Connecticut	QUINOXYFEN	2013	kg					46.2					
+09	Connecticut	QUINOXYFEN	2014	kg					21					
+09	Connecticut	QUINOXYFEN	2015	kg					8.5					
+09	Connecticut	QUINOXYFEN	2016	kg					3.2					
+09	Connecticut	QUINOXYFEN	2017	kg					51.1					
+10	Delaware	QUINOXYFEN	2009	kg					1					
+10	Delaware	QUINOXYFEN	2010	kg					0.5					
+10	Delaware	QUINOXYFEN	2011	kg					12.9					
+10	Delaware	QUINOXYFEN	2012	kg					4					
+10	Delaware	QUINOXYFEN	2013	kg					3.5					
+10	Delaware	QUINOXYFEN	2014	kg					27.1					
+10	Delaware	QUINOXYFEN	2016	kg					1.9					
+10	Delaware	QUINOXYFEN	2017	kg					3.9					
+12	Florida	QUINOXYFEN	2007	kg					43.7					
+12	Florida	QUINOXYFEN	2008	kg					79.7					
+12	Florida	QUINOXYFEN	2009	kg					109.3					
+12	Florida	QUINOXYFEN	2010	kg					606.4					
+12	Florida	QUINOXYFEN	2011	kg					323					
+12	Florida	QUINOXYFEN	2012	kg					1014.6					
+12	Florida	QUINOXYFEN	2013	kg					733.8					
+12	Florida	QUINOXYFEN	2015	kg					75.5					
+12	Florida	QUINOXYFEN	2016	kg					2.8					
+13	Georgia	QUINOXYFEN	2007	kg					444.1					
+13	Georgia	QUINOXYFEN	2008	kg					432.3					
+13	Georgia	QUINOXYFEN	2009	kg					348.4					
+13	Georgia	QUINOXYFEN	2010	kg					1.1					
+13	Georgia	QUINOXYFEN	2011	kg					799.1					
+13	Georgia	QUINOXYFEN	2012	kg					840.1					
+13	Georgia	QUINOXYFEN	2013	kg					432.7					
+13	Georgia	QUINOXYFEN	2015	kg					7.7					
+13	Georgia	QUINOXYFEN	2016	kg					27.6					
+13	Georgia	QUINOXYFEN	2017	kg					10.5					
+16	Idaho	QUINOXYFEN	2004	kg							13.3			
+16	Idaho	QUINOXYFEN	2005	kg							18.8			
+16	Idaho	QUINOXYFEN	2006	kg							17.5			
+16	Idaho	QUINOXYFEN	2007	kg							45.4			
+16	Idaho	QUINOXYFEN	2008	kg							13.3			
+16	Idaho	QUINOXYFEN	2009	kg							22			
+16	Idaho	QUINOXYFEN	2010	kg							20.9			
+16	Idaho	QUINOXYFEN	2011	kg							7.5			
+16	Idaho	QUINOXYFEN	2012	kg							8.9			
+16	Idaho	QUINOXYFEN	2013	kg							15.2			
+16	Idaho	QUINOXYFEN	2014	kg							15.8			
+16	Idaho	QUINOXYFEN	2015	kg							21.2			
+16	Idaho	QUINOXYFEN	2016	kg							19.7			
+16	Idaho	QUINOXYFEN	2017	kg							20.3			
+17	Illinois	QUINOXYFEN	2009	kg					20.3					
+17	Illinois	QUINOXYFEN	2010	kg					58.7					
+17	Illinois	QUINOXYFEN	2011	kg					87					
+17	Illinois	QUINOXYFEN	2012	kg					134.6					
+17	Illinois	QUINOXYFEN	2013	kg					172					
+17	Illinois	QUINOXYFEN	2014	kg					118.8					
+17	Illinois	QUINOXYFEN	2015	kg					410.1					
+17	Illinois	QUINOXYFEN	2016	kg					54.6					
+17	Illinois	QUINOXYFEN	2017	kg					239.4					
+18	Indiana	QUINOXYFEN	2009	kg					173.8					
+18	Indiana	QUINOXYFEN	2010	kg					225.9					
+18	Indiana	QUINOXYFEN	2011	kg					11.5					
+18	Indiana	QUINOXYFEN	2012	kg					93.8					
+18	Indiana	QUINOXYFEN	2013	kg					54.1					
+18	Indiana	QUINOXYFEN	2014	kg					410.6					
+18	Indiana	QUINOXYFEN	2015	kg					147.7					
+18	Indiana	QUINOXYFEN	2016	kg					108		0			
+18	Indiana	QUINOXYFEN	2017	kg					97.7					
+19	Iowa	QUINOXYFEN	2013	kg					2.6					
+19	Iowa	QUINOXYFEN	2014	kg					4.6					
+19	Iowa	QUINOXYFEN	2015	kg					11.4					
+19	Iowa	QUINOXYFEN	2016	kg					2.3					
+19	Iowa	QUINOXYFEN	2017	kg					3.7					
+21	Kentucky	QUINOXYFEN	2009	kg					20.9					
+21	Kentucky	QUINOXYFEN	2010	kg					20.7					
+21	Kentucky	QUINOXYFEN	2011	kg					5.9					
+21	Kentucky	QUINOXYFEN	2012	kg					10.8					
+21	Kentucky	QUINOXYFEN	2013	kg					4.6					
+21	Kentucky	QUINOXYFEN	2014	kg					43.6					
+21	Kentucky	QUINOXYFEN	2015	kg					35.1					
+21	Kentucky	QUINOXYFEN	2016	kg					15.6					
+21	Kentucky	QUINOXYFEN	2017	kg					12.1					
+24	Maryland	QUINOXYFEN	2009	kg					10.5					
+24	Maryland	QUINOXYFEN	2010	kg					15.8					
+24	Maryland	QUINOXYFEN	2011	kg					25.3					
+24	Maryland	QUINOXYFEN	2012	kg					22.9					
+24	Maryland	QUINOXYFEN	2013	kg					3					
+24	Maryland	QUINOXYFEN	2014	kg					53.5					
+24	Maryland	QUINOXYFEN	2015	kg					70.7					
+24	Maryland	QUINOXYFEN	2016	kg					32.2					
+24	Maryland	QUINOXYFEN	2017	kg					20.9					
+25	Massachusetts	QUINOXYFEN	2007	kg					26.4					
+25	Massachusetts	QUINOXYFEN	2009	kg					18.3					
+25	Massachusetts	QUINOXYFEN	2010	kg					59.9					
+25	Massachusetts	QUINOXYFEN	2011	kg					9					
+25	Massachusetts	QUINOXYFEN	2012	kg					55.9					
+25	Massachusetts	QUINOXYFEN	2013	kg					19.8					
+25	Massachusetts	QUINOXYFEN	2014	kg					15.4					
+25	Massachusetts	QUINOXYFEN	2015	kg					3.4					
+25	Massachusetts	QUINOXYFEN	2016	kg					11.4					
+25	Massachusetts	QUINOXYFEN	2017	kg					94.5					
+26	Michigan	QUINOXYFEN	2011	kg					86.3					
+26	Michigan	QUINOXYFEN	2012	kg					227.8					
+26	Michigan	QUINOXYFEN	2013	kg					356.7		1203.6			
+26	Michigan	QUINOXYFEN	2014	kg					117.7		474			
+26	Michigan	QUINOXYFEN	2015	kg					484.5		1648.2			
+26	Michigan	QUINOXYFEN	2016	kg					389		89.2			
+26	Michigan	QUINOXYFEN	2017	kg					395					
+27	Minnesota	QUINOXYFEN	2013	kg					19.7					
+27	Minnesota	QUINOXYFEN	2014	kg					23					
+27	Minnesota	QUINOXYFEN	2015	kg					56.1					
+27	Minnesota	QUINOXYFEN	2016	kg					35.9					
+27	Minnesota	QUINOXYFEN	2017	kg					23.6					
+29	Missouri	QUINOXYFEN	2010	kg					3					
+29	Missouri	QUINOXYFEN	2011	kg					8.2					
+29	Missouri	QUINOXYFEN	2012	kg					0.4					
+29	Missouri	QUINOXYFEN	2013	kg					8.4					
+29	Missouri	QUINOXYFEN	2014	kg					12.6					
+29	Missouri	QUINOXYFEN	2015	kg					1.8					
+29	Missouri	QUINOXYFEN	2016	kg					8.3					
+29	Missouri	QUINOXYFEN	2017	kg					10.4					
+32	Nevada	QUINOXYFEN	2004	kg							0.2			
+32	Nevada	QUINOXYFEN	2005	kg							0.4			
+32	Nevada	QUINOXYFEN	2006	kg							0.1			
+32	Nevada	QUINOXYFEN	2007	kg							0.2			
+32	Nevada	QUINOXYFEN	2008	kg					0.5		0.3			
+32	Nevada	QUINOXYFEN	2009	kg					1.4		1.3			
+32	Nevada	QUINOXYFEN	2010	kg					5.3		1			
+32	Nevada	QUINOXYFEN	2011	kg					2.7		0.1			
+32	Nevada	QUINOXYFEN	2012	kg					2.2		0.7			
+32	Nevada	QUINOXYFEN	2013	kg					0.9		0.7			
+32	Nevada	QUINOXYFEN	2014	kg					0.1		2.6			
+32	Nevada	QUINOXYFEN	2015	kg					10.7		1.2			
+32	Nevada	QUINOXYFEN	2016	kg					5.6		0.6			
+32	Nevada	QUINOXYFEN	2017	kg					5.8		2.9			
+33	New Hampshire	QUINOXYFEN	2009	kg					5.6					
+33	New Hampshire	QUINOXYFEN	2010	kg					18.1					
+33	New Hampshire	QUINOXYFEN	2011	kg					2.8					
+33	New Hampshire	QUINOXYFEN	2012	kg					16.1					
+33	New Hampshire	QUINOXYFEN	2013	kg					3.7					
+33	New Hampshire	QUINOXYFEN	2014	kg					2.3					
+33	New Hampshire	QUINOXYFEN	2015	kg					0.7					
+33	New Hampshire	QUINOXYFEN	2016	kg					9.6					
+33	New Hampshire	QUINOXYFEN	2017	kg					22.8					
+34	New Jersey	QUINOXYFEN	2004	kg							2.4			
+34	New Jersey	QUINOXYFEN	2005	kg							1.1			
+34	New Jersey	QUINOXYFEN	2006	kg							1			
+34	New Jersey	QUINOXYFEN	2007	kg							2.1			
+34	New Jersey	QUINOXYFEN	2008	kg							1.5			
+34	New Jersey	QUINOXYFEN	2009	kg					27.6		2.7			
+34	New Jersey	QUINOXYFEN	2010	kg					9.3		5.6			
+34	New Jersey	QUINOXYFEN	2011	kg					29.1		7.5			
+34	New Jersey	QUINOXYFEN	2012	kg					168.4		8.8			
+34	New Jersey	QUINOXYFEN	2013	kg					121.1		6.4			
+34	New Jersey	QUINOXYFEN	2014	kg					112.3		4.2			
+34	New Jersey	QUINOXYFEN	2015	kg					22.8					
+34	New Jersey	QUINOXYFEN	2016	kg					160.9					
+34	New Jersey	QUINOXYFEN	2017	kg					357.3					
+35	New Mexico	QUINOXYFEN	2007	kg					845.6					
+35	New Mexico	QUINOXYFEN	2008	kg					3.7					
+35	New Mexico	QUINOXYFEN	2009	kg					237.5					
+35	New Mexico	QUINOXYFEN	2010	kg					150					
+35	New Mexico	QUINOXYFEN	2011	kg					22.5					
+35	New Mexico	QUINOXYFEN	2012	kg					118.8					
+35	New Mexico	QUINOXYFEN	2013	kg					103.3					
+35	New Mexico	QUINOXYFEN	2014	kg					106.5					
+35	New Mexico	QUINOXYFEN	2015	kg					3.4					
+35	New Mexico	QUINOXYFEN	2016	kg					22.2					
+36	New York	QUINOXYFEN	2004	kg					42.9		178.2			
+36	New York	QUINOXYFEN	2005	kg					115.9		173.1			
+36	New York	QUINOXYFEN	2006	kg					666		130			
+36	New York	QUINOXYFEN	2007	kg					28.9		378.9			
+36	New York	QUINOXYFEN	2008	kg					34.2		316.6			
+36	New York	QUINOXYFEN	2009	kg					47.9		463.5			
+36	New York	QUINOXYFEN	2010	kg					74.1		759.4			
+36	New York	QUINOXYFEN	2011	kg					155.3		690.6			
+36	New York	QUINOXYFEN	2012	kg					228.8		557.5			
+36	New York	QUINOXYFEN	2013	kg					153.9		792.8			
+36	New York	QUINOXYFEN	2014	kg					176.2		738.1			
+36	New York	QUINOXYFEN	2015	kg					135.8					
+36	New York	QUINOXYFEN	2016	kg					129					
+36	New York	QUINOXYFEN	2017	kg					302.6					
+37	North Carolina	QUINOXYFEN	2009	kg					26.2					
+37	North Carolina	QUINOXYFEN	2010	kg					232					
+37	North Carolina	QUINOXYFEN	2011	kg					8.5					
+37	North Carolina	QUINOXYFEN	2013	kg					1.4					
+37	North Carolina	QUINOXYFEN	2014	kg					97.3					
+37	North Carolina	QUINOXYFEN	2015	kg					123.4					
+37	North Carolina	QUINOXYFEN	2016	kg					40.6					
+37	North Carolina	QUINOXYFEN	2017	kg					28.8					
+39	Ohio	QUINOXYFEN	2004	kg							11.4			
+39	Ohio	QUINOXYFEN	2009	kg					310.3					
+39	Ohio	QUINOXYFEN	2010	kg					194.8					
+39	Ohio	QUINOXYFEN	2011	kg					128.7					
+39	Ohio	QUINOXYFEN	2012	kg					59.8					
+39	Ohio	QUINOXYFEN	2013	kg					111.8					
+39	Ohio	QUINOXYFEN	2014	kg					75					
+39	Ohio	QUINOXYFEN	2015	kg					387.2					
+39	Ohio	QUINOXYFEN	2016	kg					191.5					
+39	Ohio	QUINOXYFEN	2017	kg					76					
+40	Oklahoma	QUINOXYFEN	2011	kg					14.8					
+40	Oklahoma	QUINOXYFEN	2012	kg					3.4					
+40	Oklahoma	QUINOXYFEN	2013	kg					8.6					
+40	Oklahoma	QUINOXYFEN	2014	kg					0.3					
+40	Oklahoma	QUINOXYFEN	2015	kg					0.2					
+40	Oklahoma	QUINOXYFEN	2016	kg					2.9					
+41	Oregon	QUINOXYFEN	2004	kg							49.3			
+41	Oregon	QUINOXYFEN	2005	kg							124.5			
+41	Oregon	QUINOXYFEN	2006	kg							81.4			
+41	Oregon	QUINOXYFEN	2007	kg							257.7			
+41	Oregon	QUINOXYFEN	2008	kg							337.5			
+41	Oregon	QUINOXYFEN	2009	kg							583.8			
+41	Oregon	QUINOXYFEN	2010	kg							783.6			
+41	Oregon	QUINOXYFEN	2011	kg							607.2			
+41	Oregon	QUINOXYFEN	2012	kg							809.8			
+41	Oregon	QUINOXYFEN	2013	kg							1162.8			
+41	Oregon	QUINOXYFEN	2014	kg							935.4			
+41	Oregon	QUINOXYFEN	2015	kg							1342.1			
+41	Oregon	QUINOXYFEN	2016	kg							271.8			
+41	Oregon	QUINOXYFEN	2017	kg							799.6			
+42	Pennsylvania	QUINOXYFEN	2004	kg							109.5			
+42	Pennsylvania	QUINOXYFEN	2005	kg							49.1			
+42	Pennsylvania	QUINOXYFEN	2006	kg					39.9		18.2			
+42	Pennsylvania	QUINOXYFEN	2007	kg							97.5			
+42	Pennsylvania	QUINOXYFEN	2008	kg					6.7		129.7			
+42	Pennsylvania	QUINOXYFEN	2009	kg					78		162.6			
+42	Pennsylvania	QUINOXYFEN	2010	kg					106.1		230.7			
+42	Pennsylvania	QUINOXYFEN	2011	kg					250.4		211.6			
+42	Pennsylvania	QUINOXYFEN	2012	kg					207.4		171.3			
+42	Pennsylvania	QUINOXYFEN	2013	kg					233.4		231.7			
+42	Pennsylvania	QUINOXYFEN	2014	kg					267.1		247.6			
+42	Pennsylvania	QUINOXYFEN	2015	kg					622.5					
+42	Pennsylvania	QUINOXYFEN	2016	kg					196					
+42	Pennsylvania	QUINOXYFEN	2017	kg					414.1					
+44	Rhode Island	QUINOXYFEN	2009	kg					3.3					
+44	Rhode Island	QUINOXYFEN	2010	kg					7.1					
+44	Rhode Island	QUINOXYFEN	2011	kg					6					
+44	Rhode Island	QUINOXYFEN	2012	kg					6.6					
+44	Rhode Island	QUINOXYFEN	2013	kg					3.5					
+44	Rhode Island	QUINOXYFEN	2014	kg					2.1					
+44	Rhode Island	QUINOXYFEN	2015	kg					0.4					
+44	Rhode Island	QUINOXYFEN	2016	kg					1.7					
+44	Rhode Island	QUINOXYFEN	2017	kg					9.5					
+45	South Carolina	QUINOXYFEN	2015	kg					2.9					
+45	South Carolina	QUINOXYFEN	2016	kg					4					
+45	South Carolina	QUINOXYFEN	2017	kg					2.9					
+47	Tennessee	QUINOXYFEN	2009	kg					24.9					
+47	Tennessee	QUINOXYFEN	2010	kg					0.1					
+47	Tennessee	QUINOXYFEN	2011	kg					13.8					
+47	Tennessee	QUINOXYFEN	2013	kg					2.1					
+47	Tennessee	QUINOXYFEN	2014	kg					15.3					
+47	Tennessee	QUINOXYFEN	2015	kg					45					
+47	Tennessee	QUINOXYFEN	2016	kg					22.6					
+47	Tennessee	QUINOXYFEN	2017	kg					7.7					
+48	Texas	QUINOXYFEN	2008	kg					133.9					
+48	Texas	QUINOXYFEN	2009	kg					527					
+48	Texas	QUINOXYFEN	2011	kg					92.9					
+48	Texas	QUINOXYFEN	2012	kg					95.9					
+48	Texas	QUINOXYFEN	2013	kg					236.4					
+48	Texas	QUINOXYFEN	2014	kg					97.2					
+48	Texas	QUINOXYFEN	2015	kg					6					
+48	Texas	QUINOXYFEN	2016	kg					125.9					
+50	Vermont	QUINOXYFEN	2007	kg					4.2					
+50	Vermont	QUINOXYFEN	2009	kg					5.2					
+50	Vermont	QUINOXYFEN	2010	kg					13.7					
+50	Vermont	QUINOXYFEN	2011	kg					6					
+50	Vermont	QUINOXYFEN	2012	kg					20.4					
+50	Vermont	QUINOXYFEN	2013	kg					6.3					
+50	Vermont	QUINOXYFEN	2014	kg					12					
+50	Vermont	QUINOXYFEN	2015	kg					2.2					
+50	Vermont	QUINOXYFEN	2016	kg					6.9					
+50	Vermont	QUINOXYFEN	2017	kg					20.9					
+51	Virginia	QUINOXYFEN	2009	kg					48.5					
+51	Virginia	QUINOXYFEN	2011	kg					117.8					
+51	Virginia	QUINOXYFEN	2013	kg					8.8					
+51	Virginia	QUINOXYFEN	2014	kg					94.6					
+51	Virginia	QUINOXYFEN	2015	kg					135.3					
+51	Virginia	QUINOXYFEN	2016	kg					65.4					
+51	Virginia	QUINOXYFEN	2017	kg					21.7					
+53	Washington	QUINOXYFEN	2004	kg							777.7			
+53	Washington	QUINOXYFEN	2005	kg							1168			
+53	Washington	QUINOXYFEN	2006	kg							1333.4			
+53	Washington	QUINOXYFEN	2007	kg							1183.4			
+53	Washington	QUINOXYFEN	2008	kg							795.1			
+53	Washington	QUINOXYFEN	2009	kg							1460.8			
+53	Washington	QUINOXYFEN	2010	kg							2392			
+53	Washington	QUINOXYFEN	2011	kg							1076			
+53	Washington	QUINOXYFEN	2012	kg							1976.5			
+53	Washington	QUINOXYFEN	2013	kg							2771.8			
+53	Washington	QUINOXYFEN	2014	kg							2117.2			
+53	Washington	QUINOXYFEN	2015	kg							4666.1			
+53	Washington	QUINOXYFEN	2016	kg							3549			
+53	Washington	QUINOXYFEN	2017	kg							9778.7			
+54	West Virginia	QUINOXYFEN	2009	kg					9					
+54	West Virginia	QUINOXYFEN	2011	kg					5.5					
+54	West Virginia	QUINOXYFEN	2012	kg					4.3					
+54	West Virginia	QUINOXYFEN	2013	kg					1.6					
+54	West Virginia	QUINOXYFEN	2014	kg					7.5					
+54	West Virginia	QUINOXYFEN	2015	kg					31.2					
+54	West Virginia	QUINOXYFEN	2016	kg					9.8					
+54	West Virginia	QUINOXYFEN	2017	kg					1.3					
+55	Wisconsin	QUINOXYFEN	2012	kg					1.8					
+55	Wisconsin	QUINOXYFEN	2013	kg					87.9					
+55	Wisconsin	QUINOXYFEN	2014	kg					32.7					
+55	Wisconsin	QUINOXYFEN	2015	kg					101.5					
+55	Wisconsin	QUINOXYFEN	2016	kg					66.6					
+55	Wisconsin	QUINOXYFEN	2017	kg					55.6					

@@ -1,0 +1,52 @@
+06	California	DIENOCHLOR	1992	kg							464.9			
+06	California	DIENOCHLOR	1993	kg							391.8			
+06	California	DIENOCHLOR	1994	kg							737.7			
+06	California	DIENOCHLOR	1995	kg							287.1			1.8
+06	California	DIENOCHLOR	1996	kg							399			
+06	California	DIENOCHLOR	1997	kg							423.4			0
+06	California	DIENOCHLOR	1998	kg							445.8			
+06	California	DIENOCHLOR	1999	kg							816.4			
+06	California	DIENOCHLOR	2000	kg							93.5			0
+06	California	DIENOCHLOR	2001	kg							46.2			
+06	California	DIENOCHLOR	2002	kg							44.3			
+06	California	DIENOCHLOR	2003	kg							23.3			
+06	California	DIENOCHLOR	2004	kg							24.6			
+06	California	DIENOCHLOR	2005	kg							10			
+06	California	DIENOCHLOR	2006	kg							9			
+06	California	DIENOCHLOR	2007	kg							1.4			
+06	California	DIENOCHLOR	2008	kg							1.6			
+06	California	DIENOCHLOR	2009	kg							0.7			
+06	California	DIENOCHLOR	2010	kg							0			
+06	California	DIENOCHLOR	2011	kg							0			
+06	California	DIENOCHLOR	2012	kg							0.1			
+06	California	DIENOCHLOR	2013	kg							0.5			
+06	California	DIENOCHLOR	2014	kg							0.6			
+06	California	DIENOCHLOR	2015	kg							0.1			
+06	California	DIENOCHLOR	2017	kg							0.2			
+08	Colorado	DIENOCHLOR	1992	kg										2750.2
+09	Connecticut	DIENOCHLOR	1993	kg					0.2					
+16	Idaho	DIENOCHLOR	1994	kg					43.4					
+22	Louisiana	DIENOCHLOR	1992	kg						1626.6				
+24	Maryland	DIENOCHLOR	1993	kg							1331.4			
+24	Maryland	DIENOCHLOR	1995	kg							1739.5			
+25	Massachusetts	DIENOCHLOR	1993	kg					3.2					
+26	Michigan	DIENOCHLOR	1995	kg							158.1			
+31	Nebraska	DIENOCHLOR	1992	kg										232.9
+32	Nevada	DIENOCHLOR	1994	kg					6.8					
+33	New Hampshire	DIENOCHLOR	1993	kg					0					
+36	New York	DIENOCHLOR	1992	kg									67.5	
+36	New York	DIENOCHLOR	1993	kg					0.7					
+36	New York	DIENOCHLOR	1994	kg							2208.5			
+41	Oregon	DIENOCHLOR	1994	kg					116.8		37.6			
+41	Oregon	DIENOCHLOR	1996	kg							6.2			
+44	Rhode Island	DIENOCHLOR	1993	kg					0.8					
+48	Texas	DIENOCHLOR	1992	kg						837.9				
+48	Texas	DIENOCHLOR	1995	kg									349.5	
+50	Vermont	DIENOCHLOR	1993	kg					0					
+51	Virginia	DIENOCHLOR	1993	kg							8602.8			
+51	Virginia	DIENOCHLOR	1995	kg							22204.3			
+53	Washington	DIENOCHLOR	1994	kg							560.7			
+53	Washington	DIENOCHLOR	1996	kg							160.1			
+54	West Virginia	DIENOCHLOR	1993	kg							7175.4			
+54	West Virginia	DIENOCHLOR	1995	kg							7167			
+56	Wyoming	DIENOCHLOR	1992	kg										172.4

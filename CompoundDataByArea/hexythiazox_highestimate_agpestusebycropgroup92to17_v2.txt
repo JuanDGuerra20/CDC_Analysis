@@ -1,0 +1,427 @@
+04	Arizona	HEXYTHIAZOX	2001	kg							0			
+04	Arizona	HEXYTHIAZOX	2002	kg							0			
+04	Arizona	HEXYTHIAZOX	2004	kg							2			
+04	Arizona	HEXYTHIAZOX	2006	kg							9.7			
+04	Arizona	HEXYTHIAZOX	2007	kg							8.2			
+04	Arizona	HEXYTHIAZOX	2008	kg					0.8		1.5			
+04	Arizona	HEXYTHIAZOX	2009	kg					0.8		3.2			
+04	Arizona	HEXYTHIAZOX	2010	kg					0.6		2.5			
+04	Arizona	HEXYTHIAZOX	2011	kg					0.5		1.1			
+04	Arizona	HEXYTHIAZOX	2012	kg	84.6				6.4		0.2			
+04	Arizona	HEXYTHIAZOX	2013	kg	887.8				29.2		0			
+04	Arizona	HEXYTHIAZOX	2014	kg					1.3		0			
+04	Arizona	HEXYTHIAZOX	2015	kg	106.6				0.9		1.2			
+04	Arizona	HEXYTHIAZOX	2016	kg	411.9				2.8		0.2			
+04	Arizona	HEXYTHIAZOX	2017	kg	798.4				2.4		33.4			
+05	Arkansas	HEXYTHIAZOX	1997	kg							15.1			
+05	Arkansas	HEXYTHIAZOX	2002	kg							1.8			
+06	California	HEXYTHIAZOX	1997	kg				70.8	196.2		14.2			
+06	California	HEXYTHIAZOX	1998	kg				32.7	536.6		185.3	0.6		
+06	California	HEXYTHIAZOX	1999	kg				6.5	1529.7		287			
+06	California	HEXYTHIAZOX	2000	kg				14.8	1444.9		220.9			
+06	California	HEXYTHIAZOX	2001	kg				2	963.9		712.7			0.1
+06	California	HEXYTHIAZOX	2002	kg					1205.1		694.5			
+06	California	HEXYTHIAZOX	2003	kg				0	1393.3		1430.6			
+06	California	HEXYTHIAZOX	2004	kg				0.5	1407.1		4413.3			
+06	California	HEXYTHIAZOX	2005	kg				9.8	931.1		6297.8			0.6
+06	California	HEXYTHIAZOX	2006	kg				3	1560.3		8928.6			1.3
+06	California	HEXYTHIAZOX	2007	kg				9.2	1090.8		9163.7			0.8
+06	California	HEXYTHIAZOX	2008	kg					948.6		10273.9			1.7
+06	California	HEXYTHIAZOX	2009	kg	752.3		4.6	8.9	1144.5		10730.3	2.3		0.6
+06	California	HEXYTHIAZOX	2010	kg	3247.6		0.4	20.7	873.4		12574.4	1.7		1.6
+06	California	HEXYTHIAZOX	2011	kg	6132.9		8.1	87.7	1146.8		10928.4	18.4	2.1	4.3
+06	California	HEXYTHIAZOX	2012	kg	6771.9		4.4	50	3909		13666.6	71.2		3.9
+06	California	HEXYTHIAZOX	2013	kg	5796.7		1.6	46.5	2680.6	12.6	21825.2	423.2	7.9	8.5
+06	California	HEXYTHIAZOX	2014	kg	5375.9		2.5	34.8	2106.5		22059.9	1397.3		163
+06	California	HEXYTHIAZOX	2015	kg	4750.5			90	1764.6		21287.8	2011.2		593.1
+06	California	HEXYTHIAZOX	2016	kg	4958		1.3	116	1464		15371.8	2628.3		223.8
+06	California	HEXYTHIAZOX	2017	kg	6294.1		5.8	319	1391.7		23091.4	3447.1	3.8	335.3
+08	Colorado	HEXYTHIAZOX	1997	kg							65			
+08	Colorado	HEXYTHIAZOX	2001	kg							4			
+08	Colorado	HEXYTHIAZOX	2002	kg							3.5			
+08	Colorado	HEXYTHIAZOX	2004	kg							34.5			
+08	Colorado	HEXYTHIAZOX	2009	kg	1605.9									
+08	Colorado	HEXYTHIAZOX	2010	kg	5345.3									
+08	Colorado	HEXYTHIAZOX	2011	kg	2427.8									
+08	Colorado	HEXYTHIAZOX	2013	kg	2548.6									
+08	Colorado	HEXYTHIAZOX	2014	kg	1603.2				24.4					17.7
+08	Colorado	HEXYTHIAZOX	2015	kg	1667.2						138.8			
+08	Colorado	HEXYTHIAZOX	2016	kg	1892.7				17.1					
+08	Colorado	HEXYTHIAZOX	2017	kg	2046.6				65					
+09	Connecticut	HEXYTHIAZOX	1996	kg							16.2			
+09	Connecticut	HEXYTHIAZOX	1997	kg							18.8			
+09	Connecticut	HEXYTHIAZOX	1998	kg							3.2			
+09	Connecticut	HEXYTHIAZOX	1999	kg							3.8			
+09	Connecticut	HEXYTHIAZOX	2000	kg							14			
+09	Connecticut	HEXYTHIAZOX	2001	kg							4.1			
+09	Connecticut	HEXYTHIAZOX	2002	kg							2.5			
+09	Connecticut	HEXYTHIAZOX	2003	kg							19.1			
+10	Delaware	HEXYTHIAZOX	1998	kg							0			
+10	Delaware	HEXYTHIAZOX	2006	kg							0			
+10	Delaware	HEXYTHIAZOX	2007	kg							0			
+10	Delaware	HEXYTHIAZOX	2011	kg					0.5					
+10	Delaware	HEXYTHIAZOX	2012	kg					0.6					
+12	Florida	HEXYTHIAZOX	2000	kg					30.3					
+12	Florida	HEXYTHIAZOX	2001	kg					113.9					
+12	Florida	HEXYTHIAZOX	2004	kg					463.2					
+12	Florida	HEXYTHIAZOX	2005	kg					359.4					
+12	Florida	HEXYTHIAZOX	2006	kg					308.7					
+12	Florida	HEXYTHIAZOX	2007	kg					128.4					
+13	Georgia	HEXYTHIAZOX	1999	kg							31.1			
+13	Georgia	HEXYTHIAZOX	2001	kg							2.5			
+13	Georgia	HEXYTHIAZOX	2003	kg							11.5			
+13	Georgia	HEXYTHIAZOX	2004	kg							2.7			
+13	Georgia	HEXYTHIAZOX	2005	kg							1.1			
+16	Idaho	HEXYTHIAZOX	1997	kg							0			
+16	Idaho	HEXYTHIAZOX	1998	kg							0.7			
+16	Idaho	HEXYTHIAZOX	1999	kg							0.9			
+16	Idaho	HEXYTHIAZOX	2002	kg							1.3			
+16	Idaho	HEXYTHIAZOX	2005	kg							1.1	2.6		
+16	Idaho	HEXYTHIAZOX	2006	kg							0			
+16	Idaho	HEXYTHIAZOX	2012	kg	912				984.6					
+16	Idaho	HEXYTHIAZOX	2013	kg	2554.9				12		0.5			
+16	Idaho	HEXYTHIAZOX	2014	kg	7245.3				286					179.6
+16	Idaho	HEXYTHIAZOX	2015	kg	5793.6				1563.2		1.4			91.5
+16	Idaho	HEXYTHIAZOX	2016	kg	8433.3				265.2					2020.3
+16	Idaho	HEXYTHIAZOX	2017	kg	1878.5				7035.4		0			709.9
+17	Illinois	HEXYTHIAZOX	1996	kg							22.4			
+17	Illinois	HEXYTHIAZOX	1997	kg							23.6			
+17	Illinois	HEXYTHIAZOX	1998	kg							13			
+17	Illinois	HEXYTHIAZOX	1999	kg							66.6			
+17	Illinois	HEXYTHIAZOX	2000	kg							31.3			
+17	Illinois	HEXYTHIAZOX	2001	kg							28.5			
+17	Illinois	HEXYTHIAZOX	2003	kg							20.5			
+17	Illinois	HEXYTHIAZOX	2004	kg							66.8			
+18	Indiana	HEXYTHIAZOX	1996	kg							20.1			
+18	Indiana	HEXYTHIAZOX	1997	kg							15.9			
+18	Indiana	HEXYTHIAZOX	1998	kg							13.7			
+18	Indiana	HEXYTHIAZOX	1999	kg							84.6			
+18	Indiana	HEXYTHIAZOX	2001	kg							85.7			
+18	Indiana	HEXYTHIAZOX	2002	kg							94.3			
+18	Indiana	HEXYTHIAZOX	2003	kg							119.2			
+18	Indiana	HEXYTHIAZOX	2004	kg							41.9			
+18	Indiana	HEXYTHIAZOX	2006	kg							0			
+19	Iowa	HEXYTHIAZOX	1996	kg							2.3			
+19	Iowa	HEXYTHIAZOX	1997	kg							2.1			
+19	Iowa	HEXYTHIAZOX	1998	kg							0.7			
+19	Iowa	HEXYTHIAZOX	1999	kg							6.8			
+19	Iowa	HEXYTHIAZOX	2000	kg							3			
+19	Iowa	HEXYTHIAZOX	2001	kg							0.5			
+19	Iowa	HEXYTHIAZOX	2003	kg							2.2			
+19	Iowa	HEXYTHIAZOX	2004	kg							7.9			
+19	Iowa	HEXYTHIAZOX	2013	kg								64.1		
+20	Kansas	HEXYTHIAZOX	1997	kg							2.1			
+20	Kansas	HEXYTHIAZOX	1998	kg							0.5			
+20	Kansas	HEXYTHIAZOX	2002	kg							0.4			
+20	Kansas	HEXYTHIAZOX	2003	kg							2.6			
+20	Kansas	HEXYTHIAZOX	2004	kg							17.9			
+20	Kansas	HEXYTHIAZOX	2010	kg	9212.6									
+20	Kansas	HEXYTHIAZOX	2011	kg	6466.6									
+20	Kansas	HEXYTHIAZOX	2013	kg	11421.6									
+20	Kansas	HEXYTHIAZOX	2014	kg	17493.2									68.4
+20	Kansas	HEXYTHIAZOX	2015	kg	11712.4									
+20	Kansas	HEXYTHIAZOX	2016	kg	24285.8									
+20	Kansas	HEXYTHIAZOX	2017	kg	16268.3									
+21	Kentucky	HEXYTHIAZOX	1996	kg							64.5			
+21	Kentucky	HEXYTHIAZOX	1997	kg							10.5			
+21	Kentucky	HEXYTHIAZOX	1998	kg							4.2			
+21	Kentucky	HEXYTHIAZOX	2003	kg							2.7			
+23	Maine	HEXYTHIAZOX	1996	kg							46.8			
+23	Maine	HEXYTHIAZOX	1997	kg							95.8			
+23	Maine	HEXYTHIAZOX	1998	kg							21.2			
+23	Maine	HEXYTHIAZOX	1999	kg							20.7			
+23	Maine	HEXYTHIAZOX	2000	kg							136.6			
+23	Maine	HEXYTHIAZOX	2001	kg							19.5			
+23	Maine	HEXYTHIAZOX	2002	kg							147.2			
+23	Maine	HEXYTHIAZOX	2003	kg							37.2			
+23	Maine	HEXYTHIAZOX	2004	kg							68.8			
+24	Maryland	HEXYTHIAZOX	1996	kg							72.5			
+24	Maryland	HEXYTHIAZOX	1997	kg							15.3			
+24	Maryland	HEXYTHIAZOX	1998	kg							8.1			
+24	Maryland	HEXYTHIAZOX	1999	kg							6.9			
+24	Maryland	HEXYTHIAZOX	2000	kg							2.7			
+24	Maryland	HEXYTHIAZOX	2001	kg							3.6			
+24	Maryland	HEXYTHIAZOX	2002	kg							21.8			
+24	Maryland	HEXYTHIAZOX	2003	kg							17.7			
+24	Maryland	HEXYTHIAZOX	2011	kg					5.8					
+24	Maryland	HEXYTHIAZOX	2012	kg					7.7					
+24	Maryland	HEXYTHIAZOX	2013	kg							8.3			
+25	Massachusetts	HEXYTHIAZOX	1996	kg							54.9			
+25	Massachusetts	HEXYTHIAZOX	1997	kg							72.4			
+25	Massachusetts	HEXYTHIAZOX	1998	kg							6.5			
+25	Massachusetts	HEXYTHIAZOX	1999	kg							8.3			
+25	Massachusetts	HEXYTHIAZOX	2000	kg							29.6			
+25	Massachusetts	HEXYTHIAZOX	2001	kg							8.8			
+25	Massachusetts	HEXYTHIAZOX	2002	kg							5.4			
+25	Massachusetts	HEXYTHIAZOX	2003	kg							40.1			
+26	Michigan	HEXYTHIAZOX	1996	kg							340.2			
+26	Michigan	HEXYTHIAZOX	1997	kg							611.2			
+26	Michigan	HEXYTHIAZOX	1998	kg							415.5			
+26	Michigan	HEXYTHIAZOX	1999	kg							192.3			
+26	Michigan	HEXYTHIAZOX	2000	kg							261.9			
+26	Michigan	HEXYTHIAZOX	2001	kg							129.6			
+26	Michigan	HEXYTHIAZOX	2002	kg							592.6			
+26	Michigan	HEXYTHIAZOX	2003	kg							255			
+26	Michigan	HEXYTHIAZOX	2004	kg							536.6			
+26	Michigan	HEXYTHIAZOX	2005	kg							225.4			
+26	Michigan	HEXYTHIAZOX	2006	kg							27.1			
+26	Michigan	HEXYTHIAZOX	2007	kg							382.3			
+26	Michigan	HEXYTHIAZOX	2009	kg							118.3			
+26	Michigan	HEXYTHIAZOX	2010	kg							940.6			
+26	Michigan	HEXYTHIAZOX	2011	kg							120.1			
+26	Michigan	HEXYTHIAZOX	2013	kg							44.6			
+26	Michigan	HEXYTHIAZOX	2016	kg							314			
+26	Michigan	HEXYTHIAZOX	2017	kg							16.3			
+27	Minnesota	HEXYTHIAZOX	1996	kg							105.2			
+27	Minnesota	HEXYTHIAZOX	1997	kg							17.2			
+27	Minnesota	HEXYTHIAZOX	1998	kg							8.5			
+27	Minnesota	HEXYTHIAZOX	1999	kg							39.6			
+27	Minnesota	HEXYTHIAZOX	2001	kg							5.7			
+27	Minnesota	HEXYTHIAZOX	2002	kg							7.9			
+27	Minnesota	HEXYTHIAZOX	2003	kg							12.6			
+27	Minnesota	HEXYTHIAZOX	2004	kg							38.4			
+27	Minnesota	HEXYTHIAZOX	2005	kg							3.7			
+27	Minnesota	HEXYTHIAZOX	2006	kg							1.1			
+27	Minnesota	HEXYTHIAZOX	2009	kg							1.6			
+29	Missouri	HEXYTHIAZOX	1996	kg							16.9			
+29	Missouri	HEXYTHIAZOX	1997	kg							75.2			
+29	Missouri	HEXYTHIAZOX	1998	kg							6			
+29	Missouri	HEXYTHIAZOX	1999	kg							51.8			
+29	Missouri	HEXYTHIAZOX	2000	kg							30.8			
+29	Missouri	HEXYTHIAZOX	2001	kg							6			
+29	Missouri	HEXYTHIAZOX	2002	kg							25.1			
+29	Missouri	HEXYTHIAZOX	2003	kg							24.2			
+29	Missouri	HEXYTHIAZOX	2004	kg							116.1			
+30	Montana	HEXYTHIAZOX	2013	kg	30.8									
+30	Montana	HEXYTHIAZOX	2015	kg	7.7									
+30	Montana	HEXYTHIAZOX	2016	kg	23.4									
+30	Montana	HEXYTHIAZOX	2017	kg	32.2									
+31	Nebraska	HEXYTHIAZOX	1997	kg							0.5			
+31	Nebraska	HEXYTHIAZOX	2009	kg	2133.1									
+31	Nebraska	HEXYTHIAZOX	2010	kg	5605.9									
+31	Nebraska	HEXYTHIAZOX	2011	kg	2911.3									
+31	Nebraska	HEXYTHIAZOX	2013	kg	5585.2							552.4		
+31	Nebraska	HEXYTHIAZOX	2014	kg	6531.7									
+31	Nebraska	HEXYTHIAZOX	2015	kg	2694.7									
+31	Nebraska	HEXYTHIAZOX	2016	kg	7971.2									
+31	Nebraska	HEXYTHIAZOX	2017	kg	3681.1									
+32	Nevada	HEXYTHIAZOX	2003	kg							0			
+32	Nevada	HEXYTHIAZOX	2004	kg							0.4			
+32	Nevada	HEXYTHIAZOX	2005	kg								3.8		
+32	Nevada	HEXYTHIAZOX	2006	kg							1.6			
+32	Nevada	HEXYTHIAZOX	2007	kg							1.4			
+32	Nevada	HEXYTHIAZOX	2008	kg					0.5		0			
+32	Nevada	HEXYTHIAZOX	2009	kg					0.4					
+32	Nevada	HEXYTHIAZOX	2010	kg					0.3					
+32	Nevada	HEXYTHIAZOX	2011	kg					0.3					
+32	Nevada	HEXYTHIAZOX	2012	kg	25.5				2.8		0			
+32	Nevada	HEXYTHIAZOX	2013	kg	64.6				10.1		0			
+32	Nevada	HEXYTHIAZOX	2014	kg	188				2.1		0			
+32	Nevada	HEXYTHIAZOX	2015	kg	221.5				7.3					
+32	Nevada	HEXYTHIAZOX	2016	kg	625.4				1.9					
+32	Nevada	HEXYTHIAZOX	2017	kg	74.7				19.8					
+33	New Hampshire	HEXYTHIAZOX	1996	kg							92.1			
+33	New Hampshire	HEXYTHIAZOX	1997	kg							38.8			
+33	New Hampshire	HEXYTHIAZOX	1998	kg							7.4			
+33	New Hampshire	HEXYTHIAZOX	1999	kg							7.1			
+33	New Hampshire	HEXYTHIAZOX	2000	kg							43.1			
+33	New Hampshire	HEXYTHIAZOX	2001	kg							4.3			
+33	New Hampshire	HEXYTHIAZOX	2002	kg							2.4			
+33	New Hampshire	HEXYTHIAZOX	2003	kg							19.3			
+34	New Jersey	HEXYTHIAZOX	1996	kg							14.2			
+34	New Jersey	HEXYTHIAZOX	1997	kg							18			
+34	New Jersey	HEXYTHIAZOX	1998	kg							9.7			
+34	New Jersey	HEXYTHIAZOX	1999	kg							9.5			
+34	New Jersey	HEXYTHIAZOX	2000	kg							31			
+34	New Jersey	HEXYTHIAZOX	2001	kg							4.4			
+34	New Jersey	HEXYTHIAZOX	2002	kg							25.9			
+34	New Jersey	HEXYTHIAZOX	2003	kg							19.7			
+34	New Jersey	HEXYTHIAZOX	2006	kg							53.5			
+34	New Jersey	HEXYTHIAZOX	2007	kg							77.4			
+34	New Jersey	HEXYTHIAZOX	2011	kg					11.3					
+34	New Jersey	HEXYTHIAZOX	2012	kg					15.3					
+35	New Mexico	HEXYTHIAZOX	2001	kg							0.1			
+35	New Mexico	HEXYTHIAZOX	2002	kg							0			
+35	New Mexico	HEXYTHIAZOX	2004	kg							1.9			
+35	New Mexico	HEXYTHIAZOX	2010	kg	455.9									
+35	New Mexico	HEXYTHIAZOX	2011	kg	891.4									
+35	New Mexico	HEXYTHIAZOX	2012	kg	3303.7									
+35	New Mexico	HEXYTHIAZOX	2013	kg	6067.4									
+35	New Mexico	HEXYTHIAZOX	2014	kg	212.1				3.7					
+35	New Mexico	HEXYTHIAZOX	2015	kg	8375.5						4			
+35	New Mexico	HEXYTHIAZOX	2016	kg	3598.8				3.7					
+35	New Mexico	HEXYTHIAZOX	2017	kg	711.7				10.9					
+36	New York	HEXYTHIAZOX	1996	kg							124.2			
+36	New York	HEXYTHIAZOX	1997	kg							459.5			
+36	New York	HEXYTHIAZOX	1998	kg							166.4			
+36	New York	HEXYTHIAZOX	1999	kg							156.8			
+36	New York	HEXYTHIAZOX	2000	kg							276.5			
+36	New York	HEXYTHIAZOX	2001	kg							61.6			
+36	New York	HEXYTHIAZOX	2002	kg							280.1			
+36	New York	HEXYTHIAZOX	2003	kg							1313.3			
+36	New York	HEXYTHIAZOX	2004	kg							279			
+36	New York	HEXYTHIAZOX	2005	kg							19.5			
+36	New York	HEXYTHIAZOX	2006	kg							10.1			
+37	North Carolina	HEXYTHIAZOX	1996	kg							137.4			
+37	North Carolina	HEXYTHIAZOX	1997	kg							71.2			
+37	North Carolina	HEXYTHIAZOX	1998	kg							31.5			
+37	North Carolina	HEXYTHIAZOX	1999	kg							243.2			
+37	North Carolina	HEXYTHIAZOX	2001	kg							22.2			
+37	North Carolina	HEXYTHIAZOX	2003	kg							98.7			
+37	North Carolina	HEXYTHIAZOX	2004	kg							28.3			
+37	North Carolina	HEXYTHIAZOX	2005	kg							13			
+37	North Carolina	HEXYTHIAZOX	2012	kg							156.8			
+39	Ohio	HEXYTHIAZOX	1996	kg							155.4			
+39	Ohio	HEXYTHIAZOX	1997	kg							122.2			
+39	Ohio	HEXYTHIAZOX	1998	kg							37.6			
+39	Ohio	HEXYTHIAZOX	1999	kg							365.3			
+39	Ohio	HEXYTHIAZOX	2000	kg							25.2			
+39	Ohio	HEXYTHIAZOX	2001	kg							25.7			
+39	Ohio	HEXYTHIAZOX	2002	kg							96.5			
+39	Ohio	HEXYTHIAZOX	2003	kg							76.4			
+39	Ohio	HEXYTHIAZOX	2004	kg							165.6			
+39	Ohio	HEXYTHIAZOX	2005	kg							75.7			
+39	Ohio	HEXYTHIAZOX	2006	kg							20.5			
+39	Ohio	HEXYTHIAZOX	2007	kg							1.4			
+39	Ohio	HEXYTHIAZOX	2009	kg							51.2			
+40	Oklahoma	HEXYTHIAZOX	1997	kg							2.9			
+40	Oklahoma	HEXYTHIAZOX	2002	kg							0.4			
+40	Oklahoma	HEXYTHIAZOX	2010	kg	1477.4									
+40	Oklahoma	HEXYTHIAZOX	2011	kg	376.9									
+40	Oklahoma	HEXYTHIAZOX	2012	kg							12			
+40	Oklahoma	HEXYTHIAZOX	2013	kg	1323.3									
+40	Oklahoma	HEXYTHIAZOX	2014	kg	747.5									2.4
+40	Oklahoma	HEXYTHIAZOX	2015	kg	1130.2									
+40	Oklahoma	HEXYTHIAZOX	2016	kg	954.1									
+40	Oklahoma	HEXYTHIAZOX	2017	kg	305.7									
+41	Oregon	HEXYTHIAZOX	1995	kg							96.9			
+41	Oregon	HEXYTHIAZOX	1996	kg							118.9			
+41	Oregon	HEXYTHIAZOX	1997	kg							191.5			
+41	Oregon	HEXYTHIAZOX	1998	kg							28.7			
+41	Oregon	HEXYTHIAZOX	1999	kg							173.2			
+41	Oregon	HEXYTHIAZOX	2000	kg							115.7			
+41	Oregon	HEXYTHIAZOX	2001	kg							315.8			
+41	Oregon	HEXYTHIAZOX	2002	kg					4.4		2.1			
+41	Oregon	HEXYTHIAZOX	2003	kg					0.5		203.4			
+41	Oregon	HEXYTHIAZOX	2005	kg							46.7	2.7		
+41	Oregon	HEXYTHIAZOX	2006	kg							45.4			
+41	Oregon	HEXYTHIAZOX	2007	kg							105.5			
+41	Oregon	HEXYTHIAZOX	2008	kg					153.1		119.6			
+41	Oregon	HEXYTHIAZOX	2009	kg					191.7		192.9			
+41	Oregon	HEXYTHIAZOX	2010	kg							17.1			
+41	Oregon	HEXYTHIAZOX	2011	kg					136.6		32.1			
+41	Oregon	HEXYTHIAZOX	2012	kg	132.7				534.1		61.4			
+41	Oregon	HEXYTHIAZOX	2013	kg	252.2						131.5			
+41	Oregon	HEXYTHIAZOX	2014	kg	843				41.2		261.2			7.6
+41	Oregon	HEXYTHIAZOX	2015	kg	902.3				184.1		473.9			4.2
+41	Oregon	HEXYTHIAZOX	2016	kg	2356.7				28		46			104.3
+41	Oregon	HEXYTHIAZOX	2017	kg	266.2				499		1.3			133.5
+42	Pennsylvania	HEXYTHIAZOX	1996	kg							835.8			
+42	Pennsylvania	HEXYTHIAZOX	1997	kg							191.2			
+42	Pennsylvania	HEXYTHIAZOX	1998	kg							90.7			
+42	Pennsylvania	HEXYTHIAZOX	1999	kg							164.3			
+42	Pennsylvania	HEXYTHIAZOX	2000	kg							74.9			
+42	Pennsylvania	HEXYTHIAZOX	2001	kg							45.6			
+42	Pennsylvania	HEXYTHIAZOX	2002	kg							395.3			
+42	Pennsylvania	HEXYTHIAZOX	2003	kg							212.8			
+42	Pennsylvania	HEXYTHIAZOX	2005	kg							24.2			
+42	Pennsylvania	HEXYTHIAZOX	2006	kg							15.4			
+42	Pennsylvania	HEXYTHIAZOX	2007	kg							10.8			
+42	Pennsylvania	HEXYTHIAZOX	2009	kg							18			
+42	Pennsylvania	HEXYTHIAZOX	2011	kg					50.1					
+42	Pennsylvania	HEXYTHIAZOX	2012	kg					52					
+42	Pennsylvania	HEXYTHIAZOX	2013	kg							69.2			
+44	Rhode Island	HEXYTHIAZOX	1996	kg							3.9			
+44	Rhode Island	HEXYTHIAZOX	1997	kg							5.2			
+44	Rhode Island	HEXYTHIAZOX	1998	kg							0.4			
+44	Rhode Island	HEXYTHIAZOX	1999	kg							0.4			
+44	Rhode Island	HEXYTHIAZOX	2000	kg							1.9			
+44	Rhode Island	HEXYTHIAZOX	2001	kg							0.5			
+44	Rhode Island	HEXYTHIAZOX	2002	kg							0.3			
+44	Rhode Island	HEXYTHIAZOX	2003	kg							2.8			
+45	South Carolina	HEXYTHIAZOX	1999	kg							69.7			
+45	South Carolina	HEXYTHIAZOX	2001	kg							6.9			
+45	South Carolina	HEXYTHIAZOX	2003	kg							26.8			
+45	South Carolina	HEXYTHIAZOX	2004	kg							6.3			
+45	South Carolina	HEXYTHIAZOX	2005	kg							2.2			
+46	South Dakota	HEXYTHIAZOX	2013	kg	104							159.8		
+47	Tennessee	HEXYTHIAZOX	1996	kg							11.1			
+47	Tennessee	HEXYTHIAZOX	1997	kg							6.1			
+47	Tennessee	HEXYTHIAZOX	1998	kg							2.1			
+47	Tennessee	HEXYTHIAZOX	1999	kg							19.1			
+47	Tennessee	HEXYTHIAZOX	2001	kg							1.7			
+47	Tennessee	HEXYTHIAZOX	2003	kg							9			
+47	Tennessee	HEXYTHIAZOX	2004	kg							2			
+47	Tennessee	HEXYTHIAZOX	2005	kg							0.5			
+48	Texas	HEXYTHIAZOX	2010	kg	6263.5									
+48	Texas	HEXYTHIAZOX	2011	kg	2439.7									
+48	Texas	HEXYTHIAZOX	2012	kg	1797.4						28			
+48	Texas	HEXYTHIAZOX	2013	kg	8086.7									
+48	Texas	HEXYTHIAZOX	2014	kg	13472.3									
+48	Texas	HEXYTHIAZOX	2015	kg	11043.4									
+48	Texas	HEXYTHIAZOX	2016	kg	5468.7									
+48	Texas	HEXYTHIAZOX	2017	kg	3300.7									
+49	Utah	HEXYTHIAZOX	2001	kg							0			
+49	Utah	HEXYTHIAZOX	2002	kg							0			
+49	Utah	HEXYTHIAZOX	2004	kg							0.3			
+49	Utah	HEXYTHIAZOX	2013	kg	669.1				0					
+49	Utah	HEXYTHIAZOX	2014	kg					1.2					
+49	Utah	HEXYTHIAZOX	2015	kg	107.2						1.4			
+49	Utah	HEXYTHIAZOX	2016	kg	363.5				0.3					
+49	Utah	HEXYTHIAZOX	2017	kg	494.3									
+50	Vermont	HEXYTHIAZOX	1996	kg							870.1			
+50	Vermont	HEXYTHIAZOX	1997	kg							44			
+50	Vermont	HEXYTHIAZOX	1998	kg							4.3			
+50	Vermont	HEXYTHIAZOX	1999	kg							5.2			
+50	Vermont	HEXYTHIAZOX	2000	kg							19.6			
+50	Vermont	HEXYTHIAZOX	2001	kg							5.8			
+50	Vermont	HEXYTHIAZOX	2002	kg							3.4			
+50	Vermont	HEXYTHIAZOX	2003	kg							27.1			
+53	Washington	HEXYTHIAZOX	1997	kg							281.8			
+53	Washington	HEXYTHIAZOX	1998	kg							1134			
+53	Washington	HEXYTHIAZOX	1999	kg							1554.2			
+53	Washington	HEXYTHIAZOX	2001	kg							176.7			
+53	Washington	HEXYTHIAZOX	2002	kg					2.5		2290.5			
+53	Washington	HEXYTHIAZOX	2003	kg					0.4		129.4			
+53	Washington	HEXYTHIAZOX	2005	kg							612.4			
+53	Washington	HEXYTHIAZOX	2006	kg							610.8			
+53	Washington	HEXYTHIAZOX	2007	kg							258.4			
+53	Washington	HEXYTHIAZOX	2008	kg					161.1		331.1			
+53	Washington	HEXYTHIAZOX	2009	kg					301.4		874.5			
+53	Washington	HEXYTHIAZOX	2010	kg					236		87			
+53	Washington	HEXYTHIAZOX	2011	kg					181.7		67.1			
+53	Washington	HEXYTHIAZOX	2012	kg					431.2		310.5			
+53	Washington	HEXYTHIAZOX	2013	kg	254						1049.6			
+53	Washington	HEXYTHIAZOX	2014	kg							1506.8			
+53	Washington	HEXYTHIAZOX	2015	kg					1312.5		2647.3			
+53	Washington	HEXYTHIAZOX	2016	kg	782.3				1822.8		1856.4			
+53	Washington	HEXYTHIAZOX	2017	kg	878.9				501.2		367.6			
+54	West Virginia	HEXYTHIAZOX	1996	kg							236.4			
+54	West Virginia	HEXYTHIAZOX	1997	kg							57.7			
+54	West Virginia	HEXYTHIAZOX	1998	kg							32.8			
+54	West Virginia	HEXYTHIAZOX	1999	kg							13.8			
+54	West Virginia	HEXYTHIAZOX	2003	kg							23			
+54	West Virginia	HEXYTHIAZOX	2004	kg							6.5			
+54	West Virginia	HEXYTHIAZOX	2005	kg							5			
+54	West Virginia	HEXYTHIAZOX	2006	kg							0.9			
+54	West Virginia	HEXYTHIAZOX	2009	kg							4.8			
+55	Wisconsin	HEXYTHIAZOX	1996	kg							241.4			
+55	Wisconsin	HEXYTHIAZOX	1997	kg							89.8			
+55	Wisconsin	HEXYTHIAZOX	1998	kg							30.1			
+55	Wisconsin	HEXYTHIAZOX	1999	kg							85.9			
+55	Wisconsin	HEXYTHIAZOX	2000	kg							95.3			
+55	Wisconsin	HEXYTHIAZOX	2001	kg							19.1			
+55	Wisconsin	HEXYTHIAZOX	2002	kg							84.1			
+55	Wisconsin	HEXYTHIAZOX	2003	kg							26.6			
+55	Wisconsin	HEXYTHIAZOX	2004	kg							58.4			
+55	Wisconsin	HEXYTHIAZOX	2005	kg							36.4			
+55	Wisconsin	HEXYTHIAZOX	2006	kg							10.9			
+55	Wisconsin	HEXYTHIAZOX	2009	kg							18.8			
+56	Wyoming	HEXYTHIAZOX	2009	kg	98.8									
+56	Wyoming	HEXYTHIAZOX	2010	kg	249.3									
+56	Wyoming	HEXYTHIAZOX	2011	kg	122.9									
+56	Wyoming	HEXYTHIAZOX	2013	kg	176.1									
+56	Wyoming	HEXYTHIAZOX	2014	kg	53.2									
+56	Wyoming	HEXYTHIAZOX	2015	kg	67.5									
+56	Wyoming	HEXYTHIAZOX	2016	kg	57.3									
+56	Wyoming	HEXYTHIAZOX	2017	kg	62.2									

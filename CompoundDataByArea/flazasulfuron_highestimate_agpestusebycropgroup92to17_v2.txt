@@ -1,0 +1,9 @@
+06	California	FLAZASULFURON	2012	kg							7.4			
+06	California	FLAZASULFURON	2013	kg							105.5			
+06	California	FLAZASULFURON	2014	kg							230.8			
+06	California	FLAZASULFURON	2015	kg							367.1			
+06	California	FLAZASULFURON	2016	kg							414.8			
+06	California	FLAZASULFURON	2017	kg							605.1			
+32	Nevada	FLAZASULFURON	2015	kg							0			
+32	Nevada	FLAZASULFURON	2016	kg							0			
+32	Nevada	FLAZASULFURON	2017	kg							0			

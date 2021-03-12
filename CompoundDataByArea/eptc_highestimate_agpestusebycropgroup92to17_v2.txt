@@ -1,0 +1,997 @@
+01	Alabama	EPTC	1992	kg	37121.7				62.7					
+01	Alabama	EPTC	1993	kg	13982.1									
+01	Alabama	EPTC	1994	kg	27624.4				264.8					
+01	Alabama	EPTC	1995	kg					390.1					
+01	Alabama	EPTC	1996	kg	8223.4									
+01	Alabama	EPTC	1997	kg					11759.6					
+01	Alabama	EPTC	1998	kg	3623.3				286.9					
+01	Alabama	EPTC	1999	kg					5597.8					
+01	Alabama	EPTC	2000	kg	1300				796.8					
+01	Alabama	EPTC	2001	kg	2288.9				15.9					
+01	Alabama	EPTC	2002	kg					394.4					
+01	Alabama	EPTC	2003	kg					297.7					
+01	Alabama	EPTC	2004	kg					214.4					
+01	Alabama	EPTC	2011	kg					21.6					
+04	Arizona	EPTC	1992	kg	3809.5			3802.9	10475.7			10245.5		
+04	Arizona	EPTC	1993	kg	1670.5			97278.9	2661.3		283.4	30993.1	9564.7	
+04	Arizona	EPTC	1994	kg	15741.8				13049.2			3337.2	176.8	
+04	Arizona	EPTC	1995	kg	7294.9				4495.2			30876		
+04	Arizona	EPTC	1996	kg	9706.4				6413.3			117068		
+04	Arizona	EPTC	1997	kg					10937.3			29699.1	3434.7	
+04	Arizona	EPTC	1998	kg	654.5			184.8	6513.7			173270.9		
+04	Arizona	EPTC	1999	kg				733.9	6796.9			147213.3		
+04	Arizona	EPTC	2000	kg	36342.3			6129.2	2657.5			18923.9		
+04	Arizona	EPTC	2001	kg	182.4				11209.2			84569.1		
+04	Arizona	EPTC	2002	kg					9462.2			150702.4		
+04	Arizona	EPTC	2003	kg					198.9			630.5		
+04	Arizona	EPTC	2004	kg					25230.1			5811.8		
+04	Arizona	EPTC	2005	kg					187.9					
+04	Arizona	EPTC	2006	kg					1.7			55013.8		
+04	Arizona	EPTC	2007	kg					527.1			36204.1		
+04	Arizona	EPTC	2008	kg					2.3			3164.4		
+04	Arizona	EPTC	2009	kg					256.7			1933.7		
+04	Arizona	EPTC	2010	kg					630.3					
+04	Arizona	EPTC	2011	kg					7.2			2953.2		
+04	Arizona	EPTC	2012	kg					1015.7			22273.3		
+04	Arizona	EPTC	2013	kg					4.9			59080.5		
+04	Arizona	EPTC	2014	kg					1856.9			55819.6		
+04	Arizona	EPTC	2015	kg					15655.9			148765.9		
+04	Arizona	EPTC	2016	kg					2512.5			12771.5		
+04	Arizona	EPTC	2017	kg					5159.5					
+05	Arkansas	EPTC	1992	kg	1183.7									
+05	Arkansas	EPTC	1996	kg	50.4			779.8						
+05	Arkansas	EPTC	1999	kg				12813.4						
+06	California	EPTC	1992	kg	55043.4			157	76279		15614	104922.1		49930.2
+06	California	EPTC	1993	kg	74396.9			2509.9	79994.8		16347.6	101184		48918.4
+06	California	EPTC	1994	kg	68245			1904.6	83384.4		12187.4	139714.9		54103.3
+06	California	EPTC	1995	kg	51056.5			668.4	62434.3		7450.5	127403.5	1.6	52740.6
+06	California	EPTC	1996	kg	66213.5			94.5	63335.9		6090.2	139344.5		47310.3
+06	California	EPTC	1997	kg	60170.4			277.7	56850.5		7260.7	101167.8		37255.8
+06	California	EPTC	1998	kg	36196.1		243.8	406.8	35549.7		11783	58540.9	227	34575
+06	California	EPTC	1999	kg	38223.2		83.6	505.2	41406.5		6881.5	80859.1	72.6	37485.7
+06	California	EPTC	2000	kg	32268		342.7	495.1	25715.1		2965	50862.3	69.6	31734.3
+06	California	EPTC	2001	kg	25435.6			0	19834.7		1882	62645	47.4	15356.6
+06	California	EPTC	2002	kg	16180.6			36.9	23175.9		2056.6	58411.1		14294.4
+06	California	EPTC	2003	kg	1415				19726.8		1340.4	25850.6		15640.4
+06	California	EPTC	2004	kg	7009.3			91	25979.3		1969.1	32288.2	66.2	15186.9
+06	California	EPTC	2005	kg	6132.5			177.8	13416.7		1645.5	42194.3		16785.8
+06	California	EPTC	2006	kg	3807.7				10238.7		739.5	22510.6		9843.6
+06	California	EPTC	2007	kg	6877.7			177	15091.1		1265.9	34610		10496.8
+06	California	EPTC	2008	kg	3243				9025.1		854.5	29723.1		3104.2
+06	California	EPTC	2009	kg	19.5		258.2		15844.8		1223.3	19217.4		13136
+06	California	EPTC	2010	kg	94.1				20104.8		1161.2	18702.8		7790.3
+06	California	EPTC	2011	kg	50.9				14208.4		614.7	23455.5		11211.8
+06	California	EPTC	2012	kg	91				17813.8		759.4	32311.8		9442.3
+06	California	EPTC	2013	kg					27663.5		1272.8	35110.6		4587.7
+06	California	EPTC	2014	kg					37537.9		1690.5	53417.9		4758.5
+06	California	EPTC	2015	kg					38371.1		794.5	53362.9		3382.2
+06	California	EPTC	2016	kg					31446.7		540.6	68445.7		2861.2
+06	California	EPTC	2017	kg					30404.9		766.3	72593.3		1803.8
+08	Colorado	EPTC	1992	kg	44315.2				117491.6			24679.5		12701.1
+08	Colorado	EPTC	1993	kg	19368.3				295674.3			25609.3	6331.4	5126.3
+08	Colorado	EPTC	1994	kg	39719.2				258715.6			13131.1		4313.4
+08	Colorado	EPTC	1995	kg	99862				158208.4			19371.1		3702.4
+08	Colorado	EPTC	1996	kg	134640.2				302624.9			29597.5		12899
+08	Colorado	EPTC	1997	kg	14380.8				177758.9			5380.9		2391.2
+08	Colorado	EPTC	1998	kg	31329.9				135892.5			49751		1360.8
+08	Colorado	EPTC	1999	kg	35071.6				155197.3			71284.8		29273.7
+08	Colorado	EPTC	2000	kg	1812.4				133948.2			8514.1		30543
+08	Colorado	EPTC	2001	kg	21619.8				108413.5			163410.2		2630.4
+08	Colorado	EPTC	2002	kg	13345				111741.6			43152		420.8
+08	Colorado	EPTC	2003	kg	6458.2				94036.9					
+08	Colorado	EPTC	2004	kg	1996.8				59969.3			25157		3879.7
+08	Colorado	EPTC	2005	kg					45446.8					11168.8
+08	Colorado	EPTC	2006	kg					111734.1					11804.2
+08	Colorado	EPTC	2007	kg					54047.7					
+08	Colorado	EPTC	2008	kg					85696.6					8251.6
+08	Colorado	EPTC	2009	kg					86390.4					70
+08	Colorado	EPTC	2010	kg					53775.7					
+08	Colorado	EPTC	2011	kg					28184.8					880
+08	Colorado	EPTC	2012	kg					55019.3					
+08	Colorado	EPTC	2013	kg					37374.6			62835.3		
+08	Colorado	EPTC	2014	kg					52770.2			21958.2		
+08	Colorado	EPTC	2015	kg					34603.5					
+08	Colorado	EPTC	2016	kg					30437.8					
+08	Colorado	EPTC	2017	kg					57970.4					
+09	Connecticut	EPTC	1992	kg	1813				684.9			278.1		
+09	Connecticut	EPTC	1993	kg	2913.2				101.3					
+09	Connecticut	EPTC	1994	kg					103.5			167.2		
+09	Connecticut	EPTC	1995	kg					355.4			99.9		
+09	Connecticut	EPTC	1996	kg					589.4			63.5		
+09	Connecticut	EPTC	1997	kg	949.3				1246.4			12.2		
+09	Connecticut	EPTC	1998	kg					889.1			136.1		
+09	Connecticut	EPTC	1999	kg					613.4					
+09	Connecticut	EPTC	2000	kg					648.5					
+09	Connecticut	EPTC	2001	kg					599.2			635.4		
+09	Connecticut	EPTC	2002	kg					430.2					
+09	Connecticut	EPTC	2003	kg					500.4			1337		
+09	Connecticut	EPTC	2004	kg					475.4					
+09	Connecticut	EPTC	2005	kg					448.7					
+09	Connecticut	EPTC	2006	kg					602.9					
+09	Connecticut	EPTC	2007	kg					811.1					
+09	Connecticut	EPTC	2008	kg					1.7					
+09	Connecticut	EPTC	2011	kg					8.4					
+10	Delaware	EPTC	1992	kg	7115.6				29.7			17.1		
+10	Delaware	EPTC	1993	kg	19196.6									
+10	Delaware	EPTC	1994	kg	33712.6				3613.9			90.9		
+10	Delaware	EPTC	1995	kg					9856.9					
+10	Delaware	EPTC	1996	kg	5072.9				2436.5					
+10	Delaware	EPTC	1997	kg		5700.4			4174.2					
+10	Delaware	EPTC	1998	kg	7491.1				1719.5			10.7		
+10	Delaware	EPTC	1999	kg					6245.7					
+10	Delaware	EPTC	2000	kg					7828.2					
+10	Delaware	EPTC	2001	kg					59.4					
+10	Delaware	EPTC	2002	kg					2318.6					
+10	Delaware	EPTC	2003	kg					148.4					
+10	Delaware	EPTC	2004	kg					4700.3			809.4		
+10	Delaware	EPTC	2006	kg	16102.9									
+10	Delaware	EPTC	2014	kg					2.9					
+10	Delaware	EPTC	2015	kg								40.4		
+12	Florida	EPTC	1992	kg	4181.5				29.3					
+12	Florida	EPTC	1993	kg					856.5					
+12	Florida	EPTC	1994	kg					3405.2					
+12	Florida	EPTC	1995	kg	38				15334.9					
+12	Florida	EPTC	1996	kg	2218.9									
+12	Florida	EPTC	1997	kg					2041.7					
+12	Florida	EPTC	1998	kg					5560.5					
+12	Florida	EPTC	1999	kg					1198.3					
+12	Florida	EPTC	2000	kg	251.9				4153.6					
+12	Florida	EPTC	2002	kg					3645.3					
+12	Florida	EPTC	2003	kg					12266					
+12	Florida	EPTC	2004	kg					4535.8					
+12	Florida	EPTC	2005	kg					5055.2					
+12	Florida	EPTC	2006	kg					26320.2					
+12	Florida	EPTC	2007	kg					299.6					
+12	Florida	EPTC	2008	kg					7409.3					
+12	Florida	EPTC	2009	kg					12591					
+12	Florida	EPTC	2010	kg					4152.1					
+12	Florida	EPTC	2011	kg					1615.9					
+12	Florida	EPTC	2013	kg					7714.7					
+13	Georgia	EPTC	1992	kg	95426.9				1221.5					
+13	Georgia	EPTC	1993	kg	60513.7									
+13	Georgia	EPTC	1994	kg	112601.1				6979.1					
+13	Georgia	EPTC	1995	kg	257.3				6510					
+13	Georgia	EPTC	1996	kg	21446.2									
+13	Georgia	EPTC	1997	kg					3695					
+13	Georgia	EPTC	1998	kg	12025.3				2345.2					
+13	Georgia	EPTC	1999	kg					5713.5					
+13	Georgia	EPTC	2000	kg	7939.1				13027.2					
+13	Georgia	EPTC	2001	kg	440.8									
+13	Georgia	EPTC	2002	kg					6233.3					
+13	Georgia	EPTC	2003	kg					1					
+13	Georgia	EPTC	2004	kg					2016.1					
+13	Georgia	EPTC	2007	kg	2875.2									
+13	Georgia	EPTC	2009	kg					9692.8					
+13	Georgia	EPTC	2011	kg					139.4					
+16	Idaho	EPTC	1992	kg	25876.4		2259.1		273073.3			36993.5		22635.9
+16	Idaho	EPTC	1993	kg	48076.2		1813.6		372093.8			4150.8	28124	46235.1
+16	Idaho	EPTC	1994	kg	14632.3		29357.4		446284.4			10414.4	2242.9	17946.8
+16	Idaho	EPTC	1995	kg	8297.8		39911.7		536863			14397.8		21131.9
+16	Idaho	EPTC	1996	kg	10365.6				482540.9			8292.5	782.6	6962.5
+16	Idaho	EPTC	1997	kg	13326.1				346991.5			2817.5		16581.2
+16	Idaho	EPTC	1998	kg	10153.1				422510.1			16716.3		10199.3
+16	Idaho	EPTC	1999	kg	45948.1				406709.5			50336.5		17339.5
+16	Idaho	EPTC	2000	kg	90739.6				350832.1					77819.2
+16	Idaho	EPTC	2001	kg	14468.5				262670.8			29894.6		10192.7
+16	Idaho	EPTC	2002	kg					269412.7			10382.6		88136.7
+16	Idaho	EPTC	2003	kg					203222			14418		42240.6
+16	Idaho	EPTC	2004	kg					299083.5			10304.6		21899
+16	Idaho	EPTC	2005	kg					199954.5					8820
+16	Idaho	EPTC	2006	kg					225755.4					3414.2
+16	Idaho	EPTC	2007	kg					294953.1					42439.4
+16	Idaho	EPTC	2008	kg					259901.9					
+16	Idaho	EPTC	2009	kg					256388.6					
+16	Idaho	EPTC	2010	kg					234987.5					
+16	Idaho	EPTC	2011	kg					179292.2					
+16	Idaho	EPTC	2012	kg					187245.6					
+16	Idaho	EPTC	2013	kg					235444.5			16559.9		3849.1
+16	Idaho	EPTC	2014	kg					251808.2			36127.4		
+16	Idaho	EPTC	2015	kg					204077.5					
+16	Idaho	EPTC	2016	kg					187578.3			13805.5		
+16	Idaho	EPTC	2017	kg					285482.2					
+17	Illinois	EPTC	1992	kg	896258.7				17635.7			19761.2	4944.5	
+17	Illinois	EPTC	1993	kg	750403.9				14493.8			8299.2		
+17	Illinois	EPTC	1994	kg	623572.6				13757.5			12314.5		
+17	Illinois	EPTC	1995	kg	359865				15281.6			7804.4	122.1	
+17	Illinois	EPTC	1996	kg	204859.8				20752.6					
+17	Illinois	EPTC	1997	kg	113353.8				5686.4			8584.8		
+17	Illinois	EPTC	1998	kg	195934.4				5427.2			53640.2		
+17	Illinois	EPTC	1999	kg	214214.8				2486.5					
+17	Illinois	EPTC	2000	kg	212861.5				3223.6			18232.5		
+17	Illinois	EPTC	2001	kg	241354.2				4043.6					
+17	Illinois	EPTC	2002	kg	430128.8				4100.9			23176.3		
+17	Illinois	EPTC	2003	kg	128057.4				21953.2			7769.9		
+17	Illinois	EPTC	2004	kg	295431.3				1128.8					
+17	Illinois	EPTC	2005	kg	137155.4							6657		
+17	Illinois	EPTC	2006	kg					5090.6					
+17	Illinois	EPTC	2007	kg					166.9					
+17	Illinois	EPTC	2008	kg					2911.8					
+17	Illinois	EPTC	2009	kg					1131					
+17	Illinois	EPTC	2010	kg					727.2					
+17	Illinois	EPTC	2011	kg					4146.3					
+17	Illinois	EPTC	2012	kg					664.9					
+17	Illinois	EPTC	2013	kg					2692					
+17	Illinois	EPTC	2014	kg					2084.9			30066.8		
+17	Illinois	EPTC	2015	kg					2368.9					
+17	Illinois	EPTC	2016	kg					4546.1					
+17	Illinois	EPTC	2017	kg					3992					
+18	Indiana	EPTC	1992	kg	393837.7				897.1			11793.3		
+18	Indiana	EPTC	1993	kg	253932.7				864.3			2288.8		2.2
+18	Indiana	EPTC	1994	kg	442838.9				1219.1			3452.6		
+18	Indiana	EPTC	1995	kg	374586.4				1181			5283.4		
+18	Indiana	EPTC	1996	kg	191042.1				1735.2					
+18	Indiana	EPTC	1997	kg	73836.3				995.9			5193.7		0.4
+18	Indiana	EPTC	1998	kg	166506.6				529.2			14695.1		
+18	Indiana	EPTC	1999	kg	143548.1				431.7					
+18	Indiana	EPTC	2000	kg	162188.2				1098.3			7055.8		
+18	Indiana	EPTC	2001	kg	95374.6				1372.5					
+18	Indiana	EPTC	2002	kg	207691.7				2768.5			2786.1		
+18	Indiana	EPTC	2003	kg	63201.1				664.2			4333.5		
+18	Indiana	EPTC	2004	kg	142440.8				683.9					
+18	Indiana	EPTC	2005	kg	66974.1				52.2			2442.8		
+18	Indiana	EPTC	2006	kg					6306.1			1201.7		
+18	Indiana	EPTC	2007	kg					5399					
+18	Indiana	EPTC	2008	kg					2593.6					
+18	Indiana	EPTC	2009	kg					6886.6			15705.6		
+18	Indiana	EPTC	2010	kg					1359.5			4698.4		
+18	Indiana	EPTC	2011	kg					5497.4					
+18	Indiana	EPTC	2012	kg					2938.9					
+18	Indiana	EPTC	2013	kg					9490.9					
+18	Indiana	EPTC	2014	kg					819.6					
+18	Indiana	EPTC	2015	kg					1327.8					
+18	Indiana	EPTC	2016	kg					1249.1					
+18	Indiana	EPTC	2017	kg					1128.4					
+19	Iowa	EPTC	1992	kg	1656419.5				1589.7			36483	6930	
+19	Iowa	EPTC	1993	kg	731002.2				2332.4			16473.2		
+19	Iowa	EPTC	1994	kg	701280.9	2927.1			1888.4			44461.5		
+19	Iowa	EPTC	1995	kg	1059902.8				2071.9			34399.8		
+19	Iowa	EPTC	1996	kg	619729.8				1612.9					
+19	Iowa	EPTC	1997	kg	234723.8				972.2			37065.1		
+19	Iowa	EPTC	1998	kg	571781.3				960.3			65088.7		
+19	Iowa	EPTC	1999	kg	490656				155.8					
+19	Iowa	EPTC	2000	kg	315774.2				792.3			47018.5		
+19	Iowa	EPTC	2001	kg	257353.2				65.4					
+19	Iowa	EPTC	2002	kg	394590.3				258			11503		
+19	Iowa	EPTC	2003	kg	140968.5				135.5			24194.7		
+19	Iowa	EPTC	2004	kg	447320.3				214					
+19	Iowa	EPTC	2005	kg	145218.9							15757.3		
+19	Iowa	EPTC	2006	kg					433					
+19	Iowa	EPTC	2007	kg	9960.4				58.4					
+19	Iowa	EPTC	2008	kg					430.9					
+19	Iowa	EPTC	2009	kg					90.9					
+19	Iowa	EPTC	2010	kg					115.2					
+19	Iowa	EPTC	2011	kg					54.3					
+19	Iowa	EPTC	2012	kg					1.5					
+19	Iowa	EPTC	2013	kg					14.6					
+19	Iowa	EPTC	2014	kg					125.1			14729.8		
+19	Iowa	EPTC	2015	kg					224.4					
+19	Iowa	EPTC	2016	kg					75.5					
+19	Iowa	EPTC	2017	kg					99					
+20	Kansas	EPTC	1992	kg	131515.8				14371.4					
+20	Kansas	EPTC	1993	kg	33723				25092.5					
+20	Kansas	EPTC	1994	kg	49675.4				18829.3			20392.9	665.5	
+20	Kansas	EPTC	1995	kg	260703.8				13729.4			2256.6		
+20	Kansas	EPTC	1996	kg	171533.4				4676.1					
+20	Kansas	EPTC	1997	kg	16340.4				10037.4			9780.1		
+20	Kansas	EPTC	1998	kg	97419.3				11818.4			34174.6		256.2
+20	Kansas	EPTC	1999	kg					13939.4					
+20	Kansas	EPTC	2000	kg					16222.9			96239.5		
+20	Kansas	EPTC	2001	kg					2021.2					
+20	Kansas	EPTC	2002	kg					6471.6					
+20	Kansas	EPTC	2003	kg					3004.9					
+20	Kansas	EPTC	2004	kg					44736.9					
+20	Kansas	EPTC	2005	kg					5671.8					
+20	Kansas	EPTC	2006	kg					10294					
+20	Kansas	EPTC	2007	kg					6614.7					
+20	Kansas	EPTC	2008	kg					6401.5					
+20	Kansas	EPTC	2009	kg					5622.6					
+20	Kansas	EPTC	2010	kg					8518					22649.4
+20	Kansas	EPTC	2011	kg					4099.2					
+20	Kansas	EPTC	2012	kg					16565.9					
+20	Kansas	EPTC	2013	kg					16254.1					
+20	Kansas	EPTC	2014	kg					12872.2					
+20	Kansas	EPTC	2015	kg					7409.2					
+20	Kansas	EPTC	2016	kg					8296.6					
+20	Kansas	EPTC	2017	kg					1671.9					
+21	Kentucky	EPTC	1992	kg	129368				213.7			234.8		
+21	Kentucky	EPTC	1993	kg	49123.2				169.1			442.4		
+21	Kentucky	EPTC	1994	kg	163436.5				403.3			249.7		
+21	Kentucky	EPTC	1995	kg	77353.5	38282.4			120.2			191.9		
+21	Kentucky	EPTC	1996	kg	50536.5				89.2					
+21	Kentucky	EPTC	1997	kg	11594.2				63.2			184.2		
+21	Kentucky	EPTC	1998	kg	86442.5				38.1			4742.4		
+21	Kentucky	EPTC	1999	kg	29635.4				87.4					
+21	Kentucky	EPTC	2000	kg	29231.4				85.9			191.5		
+21	Kentucky	EPTC	2001	kg	29385.7				14.6					
+21	Kentucky	EPTC	2002	kg	32573.5				27			645.6		
+21	Kentucky	EPTC	2003	kg	9624.3				4			84.1		
+21	Kentucky	EPTC	2004	kg	22425.9				35.3					
+21	Kentucky	EPTC	2005	kg	10602.4							60.8		
+21	Kentucky	EPTC	2006	kg					11.4					
+21	Kentucky	EPTC	2007	kg					3.9					
+21	Kentucky	EPTC	2008	kg					47.4					
+21	Kentucky	EPTC	2009	kg					138.2					
+21	Kentucky	EPTC	2013	kg					25.1					
+21	Kentucky	EPTC	2014	kg					49.5					
+21	Kentucky	EPTC	2015	kg					8.7					
+21	Kentucky	EPTC	2016	kg					15.6					
+21	Kentucky	EPTC	2017	kg					19.2					
+22	Louisiana	EPTC	1995	kg										34666
+22	Louisiana	EPTC	1996	kg	1268.1			2108.5						
+22	Louisiana	EPTC	1998	kg										30363.7
+22	Louisiana	EPTC	2000	kg					14.5					
+23	Maine	EPTC	1992	kg					1800.8					
+23	Maine	EPTC	1993	kg					1607.5					
+23	Maine	EPTC	1994	kg					6344.6					
+23	Maine	EPTC	1995	kg					3628					
+23	Maine	EPTC	1996	kg					20131					
+23	Maine	EPTC	1997	kg					18426.9					
+23	Maine	EPTC	1998	kg					4136.3					
+23	Maine	EPTC	1999	kg					1887					
+23	Maine	EPTC	2000	kg					1957.6					
+23	Maine	EPTC	2001	kg					1601.3					
+23	Maine	EPTC	2002	kg					1967.3					
+23	Maine	EPTC	2003	kg					1618.3					
+23	Maine	EPTC	2004	kg					2307.6					
+23	Maine	EPTC	2005	kg					6288.1					
+23	Maine	EPTC	2006	kg					5580.8					
+23	Maine	EPTC	2007	kg					2560.3					
+23	Maine	EPTC	2008	kg					1040.3					
+23	Maine	EPTC	2010	kg					2776.5					
+24	Maryland	EPTC	1992	kg	18871.9				747.4			694	479.7	
+24	Maryland	EPTC	1993	kg	44246.1				2173.4			140.1		
+24	Maryland	EPTC	1994	kg	53480.3				1443.4			1859.4		
+24	Maryland	EPTC	1995	kg		3533.4			6880.9			523.6		
+24	Maryland	EPTC	1996	kg	9807.6				1422.6			296.2		
+24	Maryland	EPTC	1997	kg	4804.2	8387.1			22202.7			389.9		
+24	Maryland	EPTC	1998	kg	9873.4				1371.7			431.1		
+24	Maryland	EPTC	1999	kg					4315					
+24	Maryland	EPTC	2000	kg	116.2				7457.9					
+24	Maryland	EPTC	2001	kg	328.3				1197.8			1066.4		
+24	Maryland	EPTC	2002	kg					3349.6					
+24	Maryland	EPTC	2003	kg					1200.2			2112.5		
+24	Maryland	EPTC	2004	kg					1243.7			16547		
+24	Maryland	EPTC	2005	kg					2014.3			275.4		
+24	Maryland	EPTC	2006	kg	42888.3				2822.4			320.4		
+24	Maryland	EPTC	2007	kg					3951.8			321.8		
+24	Maryland	EPTC	2008	kg					24.1					
+24	Maryland	EPTC	2010	kg								659.8		
+24	Maryland	EPTC	2014	kg					3234.9					
+24	Maryland	EPTC	2015	kg								1262.6		
+24	Maryland	EPTC	2016	kg					1526.9					
+25	Massachusetts	EPTC	1992	kg	1666.2				410.1			1779.1		
+25	Massachusetts	EPTC	1993	kg	2076				2561.9					
+25	Massachusetts	EPTC	1994	kg	278.9				749.4			228.9		
+25	Massachusetts	EPTC	1995	kg					301			212.1		
+25	Massachusetts	EPTC	1996	kg					1286.2			253.9		
+25	Massachusetts	EPTC	1997	kg	690.4				1821.9			227.7		
+25	Massachusetts	EPTC	1998	kg					511.8			186.5		
+25	Massachusetts	EPTC	1999	kg					345.5					
+25	Massachusetts	EPTC	2000	kg					932.5					
+25	Massachusetts	EPTC	2001	kg					3042.3			553.2		
+25	Massachusetts	EPTC	2002	kg					324.7					
+25	Massachusetts	EPTC	2003	kg					308.2			1239.3		
+25	Massachusetts	EPTC	2004	kg					273.5					
+25	Massachusetts	EPTC	2005	kg					268.2					
+25	Massachusetts	EPTC	2006	kg					373.2					
+25	Massachusetts	EPTC	2007	kg					519.2					
+25	Massachusetts	EPTC	2008	kg					51.1					
+25	Massachusetts	EPTC	2011	kg					26.9					
+26	Michigan	EPTC	1992	kg	164547.3				296948.7			20198.5		16713.1
+26	Michigan	EPTC	1993	kg	157832.7	3175.2	6980		347878.1			6135.4		2292.7
+26	Michigan	EPTC	1994	kg	134692.9	7243.3			324514.9			8700.3	574.2	10084.8
+26	Michigan	EPTC	1995	kg	144972.7	7193.7			357520			29347.5	11443.6	6914.3
+26	Michigan	EPTC	1996	kg	263570.5	5331			287742.7			13200		6893.9
+26	Michigan	EPTC	1997	kg	35871				314831.9			17558.4		7487.4
+26	Michigan	EPTC	1998	kg	47957.4				253486.4			36275.8	21958.2	
+26	Michigan	EPTC	1999	kg	60837.1				304289.5			63999.1		3921.6
+26	Michigan	EPTC	2000	kg	56300.2				225589.2			18245.1		
+26	Michigan	EPTC	2001	kg	49111.5				148571.8			3463.5		
+26	Michigan	EPTC	2002	kg					173333.1			18073.8		
+26	Michigan	EPTC	2003	kg	30679.4				131339.7			13864.4	141.3	
+26	Michigan	EPTC	2004	kg					129151.4			9814.5		
+26	Michigan	EPTC	2005	kg					125871.1			33118.9		30149.2
+26	Michigan	EPTC	2006	kg					96594.1			36243.4		
+26	Michigan	EPTC	2007	kg					142460.3					
+26	Michigan	EPTC	2008	kg					74124.3			35124.1		
+26	Michigan	EPTC	2009	kg					67582.3			85450.5		
+26	Michigan	EPTC	2010	kg					68583.3			24785.3		
+26	Michigan	EPTC	2011	kg					49490					
+26	Michigan	EPTC	2012	kg					49192.1			2826		
+26	Michigan	EPTC	2013	kg					59640.8					
+26	Michigan	EPTC	2014	kg					55617.2					
+26	Michigan	EPTC	2015	kg					78514.9					
+26	Michigan	EPTC	2016	kg					48283.8					
+26	Michigan	EPTC	2017	kg					69602.3					
+27	Minnesota	EPTC	1992	kg	1791255.1		614.2		54226.6			12399		87618.1
+27	Minnesota	EPTC	1993	kg	1195542.5				66774.9			5242.7		93237.6
+27	Minnesota	EPTC	1994	kg	565788.9	1024.2			73515.9			31502.5		43749.9
+27	Minnesota	EPTC	1995	kg	685657.1				87000.2			24247.3		73173.4
+27	Minnesota	EPTC	1996	kg	578141.5				69316.4			8965.8		138435.5
+27	Minnesota	EPTC	1997	kg	484284.1	1267.1			69452.7			464209.7		62322.4
+27	Minnesota	EPTC	1998	kg	682688.1				48366.7			74097.5		117320.3
+27	Minnesota	EPTC	1999	kg	503556.9				11811.9			183870.6		121258.9
+27	Minnesota	EPTC	2000	kg	526405				53346.5			36437.4		117257.4
+27	Minnesota	EPTC	2001	kg	464117.7				24976.2			4926.7		16504.8
+27	Minnesota	EPTC	2002	kg	340245.2				37424.3			14402.4		5182.1
+27	Minnesota	EPTC	2003	kg	150159.2				16189.7			11039.5		
+27	Minnesota	EPTC	2004	kg	65722.7				43356			7636		
+27	Minnesota	EPTC	2005	kg	631948.5				23675			35435.4		5914
+27	Minnesota	EPTC	2006	kg					43667.9			26859.3		
+27	Minnesota	EPTC	2007	kg					30685					
+27	Minnesota	EPTC	2008	kg					40970.7					
+27	Minnesota	EPTC	2009	kg					10275.1			58719.3		
+27	Minnesota	EPTC	2010	kg					51604.7			15663.1		
+27	Minnesota	EPTC	2011	kg	44768				15640.9					
+27	Minnesota	EPTC	2012	kg					13601.8					
+27	Minnesota	EPTC	2013	kg					60383.4					7524.8
+27	Minnesota	EPTC	2014	kg	791088				62746.4					
+27	Minnesota	EPTC	2015	kg					68469.1					
+27	Minnesota	EPTC	2016	kg					9579.4					
+27	Minnesota	EPTC	2017	kg					18380					
+28	Mississippi	EPTC	1992	kg	1915									
+28	Mississippi	EPTC	1996	kg	581.9			1283.2						
+28	Mississippi	EPTC	1999	kg				23771.8						
+29	Missouri	EPTC	1992	kg	115489.3				484.9			5205.7		
+29	Missouri	EPTC	1993	kg	60387.6				492.4			1810.6		
+29	Missouri	EPTC	1994	kg	168551.1				404.7			4764.1		
+29	Missouri	EPTC	1995	kg	40284.6				391.3			3248.1		
+29	Missouri	EPTC	1996	kg	79896.4				366.9					
+29	Missouri	EPTC	1997	kg	23335.4				258.2			5539.2		
+29	Missouri	EPTC	1998	kg	75673.9				178.1			6208.4		
+29	Missouri	EPTC	1999	kg	61003.5				13.7					
+29	Missouri	EPTC	2000	kg	72168.3				166.2			4946.6		
+29	Missouri	EPTC	2001	kg	64539.1									
+29	Missouri	EPTC	2002	kg	105982.6							6540.6		
+29	Missouri	EPTC	2003	kg	31872.3							2387.2		
+29	Missouri	EPTC	2004	kg	71818.5									
+29	Missouri	EPTC	2005	kg	33306.6							1530.8		
+29	Missouri	EPTC	2007	kg					15.8					
+29	Missouri	EPTC	2008	kg					118.3					
+29	Missouri	EPTC	2014	kg								3659.3		
+30	Montana	EPTC	1992	kg	19000.8		183.6		10712.7			72864		7874
+30	Montana	EPTC	1993	kg	20977.1				20156.8			4294.6		14190.8
+30	Montana	EPTC	1994	kg	8412.9		2112.5		21123.7			11033.6		1528.7
+30	Montana	EPTC	1995	kg	8153.3		784.6		7487.7			25546.3		2806.8
+30	Montana	EPTC	1996	kg	29349.8				6741.6			8607.7		3718.4
+30	Montana	EPTC	1997	kg	12309.3				18142.5			10693.7		2350.7
+30	Montana	EPTC	1998	kg	21410.9				5562.1			21803.1		2236.4
+30	Montana	EPTC	1999	kg	4443.7				15411.1			72644.1		3209.7
+30	Montana	EPTC	2000	kg	3177.5				44293.5					9367.3
+30	Montana	EPTC	2001	kg	4624.8				17840.2			238764.1		3119.1
+30	Montana	EPTC	2002	kg	1400.1				10610.6			70638.9		790.9
+30	Montana	EPTC	2003	kg	4855.3				24999.7					60.7
+30	Montana	EPTC	2004	kg	268.5				20635.5			22259.3		4105.9
+30	Montana	EPTC	2005	kg					87047.9					7430.1
+30	Montana	EPTC	2006	kg					80285.1					37.9
+30	Montana	EPTC	2007	kg					104997.7					
+30	Montana	EPTC	2008	kg					64492.6					
+30	Montana	EPTC	2009	kg					135595.3					
+30	Montana	EPTC	2010	kg					146672					
+30	Montana	EPTC	2011	kg					69555.5					
+30	Montana	EPTC	2012	kg					4822.2					
+30	Montana	EPTC	2013	kg					107442.6			156888.3		
+30	Montana	EPTC	2014	kg					79002.5			56365.1		
+30	Montana	EPTC	2015	kg					242080.6					
+30	Montana	EPTC	2016	kg					189581.7					
+30	Montana	EPTC	2017	kg					170532.8					
+31	Nebraska	EPTC	1992	kg	331441.9				115455.2			19561.2		1993.5
+31	Nebraska	EPTC	1993	kg	251006.9				79787.5			4393.5	801.7	1597.8
+31	Nebraska	EPTC	1994	kg	233616.5				89210.5			29599.1	170.4	1442.9
+31	Nebraska	EPTC	1995	kg	1039985.2				197937.9			36757.8		5761.1
+31	Nebraska	EPTC	1996	kg	835030.7				138582.9			2188.1		12120.1
+31	Nebraska	EPTC	1997	kg	110160				162754.4			24031.7		1653.1
+31	Nebraska	EPTC	1998	kg	488030.3				147767.6			40855.1		10532.9
+31	Nebraska	EPTC	1999	kg	446789.3				261487.5			7459.7		10421.9
+31	Nebraska	EPTC	2000	kg	247910.7				118359.2			33070.5		5288.2
+31	Nebraska	EPTC	2001	kg	138296.3				108048.1					556.2
+31	Nebraska	EPTC	2002	kg	105065.5				142871.9			6221		360.9
+31	Nebraska	EPTC	2003	kg	52703.8				79062.8			8422.4		
+31	Nebraska	EPTC	2004	kg	198618.6				56512			15201		3384.3
+31	Nebraska	EPTC	2005	kg	41063.4				97226			5080.6		2235.3
+31	Nebraska	EPTC	2006	kg					97507.8					30256.8
+31	Nebraska	EPTC	2007	kg	4828.1				49389.6					
+31	Nebraska	EPTC	2008	kg					62929.5					20383.6
+31	Nebraska	EPTC	2009	kg					85040.2					282.5
+31	Nebraska	EPTC	2010	kg					104093.9					805.6
+31	Nebraska	EPTC	2011	kg					35196.3					1952.2
+31	Nebraska	EPTC	2012	kg					99168.4					
+31	Nebraska	EPTC	2013	kg					109280.5					
+31	Nebraska	EPTC	2014	kg					59576.5					
+31	Nebraska	EPTC	2015	kg					81034.1					
+31	Nebraska	EPTC	2016	kg					87011.3					
+31	Nebraska	EPTC	2017	kg					145715.4					
+32	Nevada	EPTC	1992	kg	614.3				1990.3			23228.5		
+32	Nevada	EPTC	1993	kg	221.3				7106.6			4253.6	7835.5	0.2
+32	Nevada	EPTC	1994	kg	526.1				1089.7			9803.9	527.9	
+32	Nevada	EPTC	1995	kg	40.3				30047.1			6253.9		1.1
+32	Nevada	EPTC	1996	kg	65.9				1347.8			9625.9	272.5	
+32	Nevada	EPTC	1997	kg	273.4				2376.8			11419.2		
+32	Nevada	EPTC	1998	kg	135.4				15389.3			457.3		
+32	Nevada	EPTC	1999	kg	226.8				16044.9			26075.3		
+32	Nevada	EPTC	2000	kg	3463.8				10620.1					
+32	Nevada	EPTC	2001	kg	265.8				18021.8			92982.7		
+32	Nevada	EPTC	2002	kg					29201.7			15397.6		
+32	Nevada	EPTC	2003	kg					7965.7			1137.6		
+32	Nevada	EPTC	2004	kg					7030			4464.4		
+32	Nevada	EPTC	2005	kg					10999.5					
+32	Nevada	EPTC	2006	kg					9154.6					
+32	Nevada	EPTC	2007	kg					7284.1					
+32	Nevada	EPTC	2008	kg					7760			440.3		
+32	Nevada	EPTC	2009	kg					5047.4					
+32	Nevada	EPTC	2010	kg					7668.8					
+32	Nevada	EPTC	2011	kg					4642.1					
+32	Nevada	EPTC	2012	kg					4279.5					
+32	Nevada	EPTC	2013	kg					7588.9			22748.3		
+32	Nevada	EPTC	2014	kg					4432.1			22592.2		
+32	Nevada	EPTC	2015	kg					5156.4			13177.9		
+32	Nevada	EPTC	2016	kg					930.2			18050.1		
+32	Nevada	EPTC	2017	kg					1134.7					
+33	New Hampshire	EPTC	1992	kg	1216.9				83.4			1027.7		
+33	New Hampshire	EPTC	1993	kg	1252.5				9.7					
+33	New Hampshire	EPTC	1994	kg	170.8				49.6			253.9		
+33	New Hampshire	EPTC	1995	kg					24.8			202.4		
+33	New Hampshire	EPTC	1996	kg					52.4			234.6		
+33	New Hampshire	EPTC	1997	kg	442.9				26.9			244.2		
+33	New Hampshire	EPTC	1998	kg					141.5			101		
+33	New Hampshire	EPTC	1999	kg					113.3					
+33	New Hampshire	EPTC	2000	kg					130.2					
+33	New Hampshire	EPTC	2001	kg					91			269.3		
+33	New Hampshire	EPTC	2002	kg					79					
+33	New Hampshire	EPTC	2003	kg					92.7			97.2		
+33	New Hampshire	EPTC	2004	kg					91					
+33	New Hampshire	EPTC	2005	kg					88					
+33	New Hampshire	EPTC	2006	kg					121.1					
+33	New Hampshire	EPTC	2007	kg					166.6					
+33	New Hampshire	EPTC	2008	kg					1.7					
+34	New Jersey	EPTC	1992	kg	2938.2				1697.1			386.1		
+34	New Jersey	EPTC	1993	kg	23502.5				6449.2					
+34	New Jersey	EPTC	1994	kg	15693.8				6274.3			880.1		
+34	New Jersey	EPTC	1995	kg					5815.5			178.6		
+34	New Jersey	EPTC	1996	kg					4671.1			142.3		
+34	New Jersey	EPTC	1997	kg	2718.2				6175.7			141.4		
+34	New Jersey	EPTC	1998	kg	5645				7405.9			542.3		
+34	New Jersey	EPTC	1999	kg					6459.7					
+34	New Jersey	EPTC	2000	kg					7607.2					
+34	New Jersey	EPTC	2001	kg					1726.8			514.6		
+34	New Jersey	EPTC	2002	kg					5150.9					
+34	New Jersey	EPTC	2003	kg					4638.4			2344.5		
+34	New Jersey	EPTC	2004	kg					11676.8					
+34	New Jersey	EPTC	2005	kg					4923.6					
+34	New Jersey	EPTC	2006	kg					6343.4					
+34	New Jersey	EPTC	2007	kg					8067.1					
+34	New Jersey	EPTC	2008	kg					36.7					
+34	New Jersey	EPTC	2009	kg					161.9					
+34	New Jersey	EPTC	2010	kg					7.2					
+34	New Jersey	EPTC	2011	kg					16					
+34	New Jersey	EPTC	2012	kg					149.9					
+34	New Jersey	EPTC	2013	kg					208					
+34	New Jersey	EPTC	2014	kg					3502.4					
+34	New Jersey	EPTC	2015	kg								581		
+34	New Jersey	EPTC	2016	kg					1940.2					
+35	New Mexico	EPTC	1992	kg	14641.2			56.1	11090.7			4857.2		
+35	New Mexico	EPTC	1993	kg	2604.3			1316.5	3441.6			11779.5		
+35	New Mexico	EPTC	1994	kg	4657.2				12828.9			2309.7		
+35	New Mexico	EPTC	1995	kg	12048.4				8223.2			5777.6	2158.6	
+35	New Mexico	EPTC	1996	kg	10750.7				12689.4			15548.2		
+35	New Mexico	EPTC	1997	kg	5185.7				12503.5			2287.5	45.5	
+35	New Mexico	EPTC	1998	kg	7627.5			5.2	6494.9			31751.3		
+35	New Mexico	EPTC	1999	kg	3004.5			217.1	13550.4			52101.9		
+35	New Mexico	EPTC	2000	kg					11720			4429.7		12.1
+35	New Mexico	EPTC	2001	kg	1403.9				9971.1			35698.5		
+35	New Mexico	EPTC	2002	kg					11372.5			13513.1		
+35	New Mexico	EPTC	2003	kg					9798					
+35	New Mexico	EPTC	2004	kg					4635.6			1669.6		
+35	New Mexico	EPTC	2005	kg					3447.8					
+35	New Mexico	EPTC	2006	kg					8323.3			2821.5		
+35	New Mexico	EPTC	2007	kg					3144.5			2491.9		
+35	New Mexico	EPTC	2008	kg					13246					
+35	New Mexico	EPTC	2009	kg					5699.3			129		
+35	New Mexico	EPTC	2010	kg					5968.9					
+35	New Mexico	EPTC	2011	kg					2759			221.6		0.2
+35	New Mexico	EPTC	2012	kg					8533.4			2150.1		
+35	New Mexico	EPTC	2013	kg					9163.2			13354.3		
+35	New Mexico	EPTC	2014	kg					7312.3			4752.1		
+35	New Mexico	EPTC	2015	kg					6354.5					
+35	New Mexico	EPTC	2016	kg					5758.3					
+35	New Mexico	EPTC	2017	kg					2500.6					
+36	New York	EPTC	1992	kg	21743.3				80080.4			12903.1		
+36	New York	EPTC	1993	kg	74292.4				68916.6			3111.6		1793
+36	New York	EPTC	1994	kg	14904.3				84908.3			2734.8		1864.9
+36	New York	EPTC	1995	kg	68081.4				48611.3			1836.7		
+36	New York	EPTC	1996	kg	16352.6				98309.3			6543.9	4235.3	
+36	New York	EPTC	1997	kg	40337.2				90513.6			10143		
+36	New York	EPTC	1998	kg					68434.4			6946.5		
+36	New York	EPTC	1999	kg					61629			7285.8		
+36	New York	EPTC	2000	kg					66489.3					
+36	New York	EPTC	2001	kg					70750			16562.4		
+36	New York	EPTC	2002	kg					49249.9					
+36	New York	EPTC	2003	kg					48096.7			43273.1		
+36	New York	EPTC	2004	kg					39429.6					
+36	New York	EPTC	2005	kg					44166.4			4209		
+36	New York	EPTC	2006	kg					48420					
+36	New York	EPTC	2007	kg					47989.4					
+36	New York	EPTC	2008	kg					34777.8					
+36	New York	EPTC	2009	kg					41926.7					
+36	New York	EPTC	2010	kg					25376.2					
+36	New York	EPTC	2011	kg					26436.6					
+36	New York	EPTC	2012	kg					22280.4			10693.5		
+36	New York	EPTC	2013	kg					19849.2			2645		
+36	New York	EPTC	2014	kg					25376.2					
+36	New York	EPTC	2015	kg					19685.2			806.5		
+36	New York	EPTC	2016	kg					36685.3			2645.6		
+36	New York	EPTC	2017	kg					10849.8			1399.9		
+37	North Carolina	EPTC	1992	kg	24375.5									
+37	North Carolina	EPTC	1993	kg	72181.1									
+37	North Carolina	EPTC	1994	kg	292086.8				8789.2			216.8		8250.3
+37	North Carolina	EPTC	1996	kg	7243.9									
+37	North Carolina	EPTC	1998	kg	24377.6							1010.5		
+37	North Carolina	EPTC	1999	kg					1175.9					
+37	North Carolina	EPTC	2000	kg	184.4								7219.5	
+37	North Carolina	EPTC	2001	kg	449.9				5009.4					
+37	North Carolina	EPTC	2004	kg					175.9			1171.2		
+38	North Dakota	EPTC	1992	kg	340593.5				40348.5			10150.2		19182.5
+38	North Dakota	EPTC	1993	kg	157038.6				44589.5					10565
+38	North Dakota	EPTC	1994	kg	198123.2				149232.3			6005.4		14582.4
+38	North Dakota	EPTC	1995	kg	115594.2				42974.5			4682.3		7944.3
+38	North Dakota	EPTC	1996	kg	357789.4				52881.5					178933.8
+38	North Dakota	EPTC	1997	kg	235940.2	1907			97616.5			84162.9		233783.7
+38	North Dakota	EPTC	1998	kg	486164.4				65520.9					16531.1
+38	North Dakota	EPTC	1999	kg	321385				80057.6			31921.6		42293.4
+38	North Dakota	EPTC	2000	kg	388673.9				56898					106392.2
+38	North Dakota	EPTC	2001	kg	170861.3				45683.7					77410.4
+38	North Dakota	EPTC	2002	kg	73622.3				166750.1					6258.6
+38	North Dakota	EPTC	2003	kg	52354.2				62509.6			22797.3		10633
+38	North Dakota	EPTC	2004	kg	6289.8				43286.1					
+38	North Dakota	EPTC	2005	kg	257541.2				112770.1			9732.1		14970.5
+38	North Dakota	EPTC	2006	kg					228909.7					3735.3
+38	North Dakota	EPTC	2007	kg					209522					
+38	North Dakota	EPTC	2008	kg					107801.3					
+38	North Dakota	EPTC	2009	kg					217713.4					
+38	North Dakota	EPTC	2010	kg					351156.6					
+38	North Dakota	EPTC	2011	kg	11705.8				127557.3					
+38	North Dakota	EPTC	2012	kg					66524.7					
+38	North Dakota	EPTC	2013	kg					150920.3					27037.9
+38	North Dakota	EPTC	2014	kg	215287				29907.8					
+38	North Dakota	EPTC	2015	kg					156548.3					
+38	North Dakota	EPTC	2016	kg	24258.5				203824					
+38	North Dakota	EPTC	2017	kg					97565.9					
+39	Ohio	EPTC	1992	kg	58751.5				1472.8		2735.6	20945.5		2613.6
+39	Ohio	EPTC	1993	kg	255158				987.1			7631		1027.4
+39	Ohio	EPTC	1994	kg	195893.3				772.9			7379.3		641.5
+39	Ohio	EPTC	1995	kg	72008.7	24459.1			6376.6			7580.2		1247.6
+39	Ohio	EPTC	1996	kg	96416.4				2113.6			3765.6		1747.5
+39	Ohio	EPTC	1997	kg	37598.3				2593.6			28274.1		334.4
+39	Ohio	EPTC	1998	kg	343837.2				383.7			22901.9		846
+39	Ohio	EPTC	1999	kg	53315.2				387.5			44379.2		729.6
+39	Ohio	EPTC	2000	kg	94248.5				1216.4			12079.9		
+39	Ohio	EPTC	2001	kg	102837.3				580.2					81
+39	Ohio	EPTC	2002	kg	220250.2				506.3			5756.8		35
+39	Ohio	EPTC	2003	kg	101352.3				683.1			6012.6		
+39	Ohio	EPTC	2004	kg	63048.3				1714.2			2020.8		
+39	Ohio	EPTC	2005	kg	29132.4				290.6			10487.7		412.4
+39	Ohio	EPTC	2006	kg					275.4			7358.4		
+39	Ohio	EPTC	2007	kg					738.1					
+39	Ohio	EPTC	2008	kg					1614.3					
+39	Ohio	EPTC	2009	kg					1149.5			11634.8		
+39	Ohio	EPTC	2010	kg					507.5			3614.4		
+39	Ohio	EPTC	2011	kg					670.1					
+39	Ohio	EPTC	2012	kg					460.5					
+39	Ohio	EPTC	2013	kg					968.9					
+39	Ohio	EPTC	2014	kg					1004.3					
+39	Ohio	EPTC	2015	kg					1381.7					
+39	Ohio	EPTC	2016	kg					1575.6					
+39	Ohio	EPTC	2017	kg					1551.8					
+40	Oklahoma	EPTC	1992	kg	62.6									
+40	Oklahoma	EPTC	1993	kg	1662.1							16360.5		
+40	Oklahoma	EPTC	1994	kg	2185.1				0.8			19041.5	48616.9	
+40	Oklahoma	EPTC	1995	kg	10966.2				0.9					
+40	Oklahoma	EPTC	1996	kg	8843.5									
+40	Oklahoma	EPTC	1997	kg	693.6							3196.4		
+40	Oklahoma	EPTC	1998	kg	5087.7							9873.2		
+40	Oklahoma	EPTC	1999	kg				141.8	0.2					
+40	Oklahoma	EPTC	2000	kg								18152.3		
+40	Oklahoma	EPTC	2001	kg					0.2					
+40	Oklahoma	EPTC	2004	kg					1.4					
+40	Oklahoma	EPTC	2007	kg								739.9		
+40	Oklahoma	EPTC	2008	kg					236.2					
+40	Oklahoma	EPTC	2009	kg					11.6					
+40	Oklahoma	EPTC	2010	kg					53.4					
+40	Oklahoma	EPTC	2011	kg					39.2					
+40	Oklahoma	EPTC	2012	kg					121.9					
+40	Oklahoma	EPTC	2013	kg					1097.9					
+40	Oklahoma	EPTC	2014	kg					783.4					
+40	Oklahoma	EPTC	2015	kg					533.4					
+40	Oklahoma	EPTC	2016	kg					495.3					
+41	Oregon	EPTC	1992	kg	11161.8				107087.9			29500.8		3957.1
+41	Oregon	EPTC	1993	kg	34655.2				146324.8			2781.9	46460.8	1948.2
+41	Oregon	EPTC	1994	kg	42068.5				53715.7			3403.2	3147.9	1701.5
+41	Oregon	EPTC	1995	kg	19614.1		11734.6		109491.9		94.4	17358.8		7138.8
+41	Oregon	EPTC	1996	kg	3028.2		108204.3		149123.7			10426.6	9942.4	5744.3
+41	Oregon	EPTC	1997	kg	60044.4				119460			2148.5		1716.5
+41	Oregon	EPTC	1998	kg	5896.7				92169.7			7888.4		983.2
+41	Oregon	EPTC	1999	kg	7460.2				100051.6			186278.5		1630.5
+41	Oregon	EPTC	2000	kg	18963.9				124921.2					1134.5
+41	Oregon	EPTC	2001	kg	5423.6				134155.7			140324.4		4085.4
+41	Oregon	EPTC	2002	kg	4407.7				108967.5			10118.8		6311.3
+41	Oregon	EPTC	2003	kg					109344.6					2908.7
+41	Oregon	EPTC	2004	kg	35226.5				101094			20559		12880.2
+41	Oregon	EPTC	2005	kg					122316.4			39038.5		3485.2
+41	Oregon	EPTC	2006	kg					95651.9			33358.3		
+41	Oregon	EPTC	2007	kg					109910.4					3868
+41	Oregon	EPTC	2008	kg					81987.3					
+41	Oregon	EPTC	2009	kg					60576.3					
+41	Oregon	EPTC	2010	kg					82195					
+41	Oregon	EPTC	2011	kg					49741.8			40163.8		
+41	Oregon	EPTC	2012	kg					61437.1					
+41	Oregon	EPTC	2013	kg					74567.6			180781.2		
+41	Oregon	EPTC	2014	kg					75202.6			19649.1		
+41	Oregon	EPTC	2015	kg					94698.2					
+41	Oregon	EPTC	2016	kg					59315.3			20498		
+41	Oregon	EPTC	2017	kg					57380.7					
+42	Pennsylvania	EPTC	1992	kg	40196.7				5444.2		864.9	6303.2	4181.8	
+42	Pennsylvania	EPTC	1993	kg	81639.2				5747.8			9023.6		
+42	Pennsylvania	EPTC	1994	kg	92233				11278.6			7359.6		
+42	Pennsylvania	EPTC	1995	kg		12179.8			15362.5			6021		
+42	Pennsylvania	EPTC	1996	kg	88753.7				19020.6			2707		
+42	Pennsylvania	EPTC	1997	kg	23322.8				10206.9			5542.6		
+42	Pennsylvania	EPTC	1998	kg	32033.9				6898.5			10433.4		
+42	Pennsylvania	EPTC	1999	kg					13001.5					
+42	Pennsylvania	EPTC	2000	kg	2133.2				9890.9					
+42	Pennsylvania	EPTC	2001	kg	5440.9				14287.7			14714.4		
+42	Pennsylvania	EPTC	2002	kg					9014.7					
+42	Pennsylvania	EPTC	2003	kg					9358.2			30980.1		
+42	Pennsylvania	EPTC	2004	kg					9446.6			54259.1		
+42	Pennsylvania	EPTC	2005	kg					8132.3			11781		
+42	Pennsylvania	EPTC	2006	kg	31824.8				10347.5			11139.6		
+42	Pennsylvania	EPTC	2007	kg					13070.8			12090.2		
+42	Pennsylvania	EPTC	2008	kg					12253.9					
+42	Pennsylvania	EPTC	2009	kg					3459					
+42	Pennsylvania	EPTC	2010	kg					1132.7			29565.2		
+42	Pennsylvania	EPTC	2011	kg					856.4					
+42	Pennsylvania	EPTC	2012	kg					11167.2			4527.2		
+42	Pennsylvania	EPTC	2013	kg					11747.7			1128		
+42	Pennsylvania	EPTC	2014	kg					6727.6					
+42	Pennsylvania	EPTC	2015	kg					5022.4			10536.7		
+42	Pennsylvania	EPTC	2016	kg					9209.4			1058.1		
+42	Pennsylvania	EPTC	2017	kg								459.4		
+44	Rhode Island	EPTC	1992	kg					1446.7			30.6		
+44	Rhode Island	EPTC	1993	kg					10.6					
+44	Rhode Island	EPTC	1994	kg					172.2			21.8		
+44	Rhode Island	EPTC	1995	kg					59.8			13.6		
+44	Rhode Island	EPTC	1996	kg					251.2			17		
+44	Rhode Island	EPTC	1997	kg					341.1			23.4		
+44	Rhode Island	EPTC	1998	kg					52.9			22.2		
+44	Rhode Island	EPTC	1999	kg					52.5					
+44	Rhode Island	EPTC	2000	kg					173.1					
+44	Rhode Island	EPTC	2001	kg					39.5			111.5		
+44	Rhode Island	EPTC	2002	kg					48.8					
+44	Rhode Island	EPTC	2003	kg					37.4			262.2		
+44	Rhode Island	EPTC	2004	kg					35.4					
+44	Rhode Island	EPTC	2005	kg					33.1					
+44	Rhode Island	EPTC	2006	kg					44.1					
+44	Rhode Island	EPTC	2007	kg					58.6					
+44	Rhode Island	EPTC	2008	kg					9.6					
+45	South Carolina	EPTC	1992	kg	62437.9			2027.1						
+45	South Carolina	EPTC	1993	kg	36882.8									
+45	South Carolina	EPTC	1994	kg	69580.6				2025.1					6000.9
+45	South Carolina	EPTC	1995	kg	6819.5									
+45	South Carolina	EPTC	1996	kg	12765.5									
+45	South Carolina	EPTC	1998	kg	10293.3									
+45	South Carolina	EPTC	1999	kg					4.7					
+45	South Carolina	EPTC	2000	kg	15572.5									
+45	South Carolina	EPTC	2007	kg	9441.9									
+45	South Carolina	EPTC	2009	kg					193					
+46	South Dakota	EPTC	1992	kg	373741.9				10205.5			30514.1		
+46	South Dakota	EPTC	1993	kg	363544				6380.4			3767.2		3760.3
+46	South Dakota	EPTC	1994	kg	963733.2				7502.5			10428.2		4305.5
+46	South Dakota	EPTC	1995	kg	331759.1				6757			24228.4		
+46	South Dakota	EPTC	1996	kg	796996.2				7370.5					70631.3
+46	South Dakota	EPTC	1997	kg	522474.2				5679.5			137103.2		142786.6
+46	South Dakota	EPTC	1998	kg	567572.4				5995.3			28815.3		5673
+46	South Dakota	EPTC	1999	kg	531783.8				6444.2			33731.6		8178.9
+46	South Dakota	EPTC	2000	kg	678214.4				7822.7			17200.7		22753.3
+46	South Dakota	EPTC	2001	kg	213577.7				5656					
+46	South Dakota	EPTC	2002	kg	187960.3				2740.4			7362.9		
+46	South Dakota	EPTC	2003	kg	37744.2				2364.3			27285.1		21989
+46	South Dakota	EPTC	2004	kg	201977.5				3741.4					
+46	South Dakota	EPTC	2005	kg	723446.5				7378.7			11849.9		5407.9
+46	South Dakota	EPTC	2006	kg					6202.7					145.6
+46	South Dakota	EPTC	2007	kg	1378.3				8055					
+46	South Dakota	EPTC	2008	kg					4950.5					
+46	South Dakota	EPTC	2009	kg					7967.2					104.2
+46	South Dakota	EPTC	2010	kg					8829.1					
+46	South Dakota	EPTC	2011	kg	7733				3326.6					627.7
+46	South Dakota	EPTC	2012	kg					2126.1					
+46	South Dakota	EPTC	2013	kg					6291.7					
+46	South Dakota	EPTC	2014	kg	1000979.2				3704					
+46	South Dakota	EPTC	2015	kg					12157.7					
+46	South Dakota	EPTC	2016	kg	54956.6				8409.5					
+46	South Dakota	EPTC	2017	kg					6073.4					
+47	Tennessee	EPTC	1992	kg	92358.5				156.1					
+47	Tennessee	EPTC	1993	kg	14663.4							324.5		
+47	Tennessee	EPTC	1994	kg	293				141.6					
+47	Tennessee	EPTC	1996	kg	9235.6									
+47	Tennessee	EPTC	1997	kg					23.2					
+47	Tennessee	EPTC	1998	kg					4.1			2981.1		
+47	Tennessee	EPTC	1999	kg					186.9					
+47	Tennessee	EPTC	2000	kg	2249									
+47	Tennessee	EPTC	2001	kg	6200.5									
+47	Tennessee	EPTC	2004	kg					5.9					
+48	Texas	EPTC	1992	kg	20700.8				29315.9					
+48	Texas	EPTC	1993	kg	26833.8				13064.7			2115.8		
+48	Texas	EPTC	1994	kg	15101.5				3608.3			2280.4		
+48	Texas	EPTC	1995	kg	84099.1				13129.9				581.2	
+48	Texas	EPTC	1996	kg	44535.1				2214.3					570.5
+48	Texas	EPTC	1997	kg	4132.7				7198.3			355.4		
+48	Texas	EPTC	1998	kg	20263.7				20881.7			1016.8		0.3
+48	Texas	EPTC	1999	kg				20768	10010.4					
+48	Texas	EPTC	2000	kg					28376.8			1091		4218.9
+48	Texas	EPTC	2001	kg					9872.6					
+48	Texas	EPTC	2002	kg					12335.3					
+48	Texas	EPTC	2003	kg					6511.4					
+48	Texas	EPTC	2004	kg					25541.7					
+48	Texas	EPTC	2005	kg					9256.5					
+48	Texas	EPTC	2006	kg					16210.1					
+48	Texas	EPTC	2007	kg					16035.9			1510.1		
+48	Texas	EPTC	2008	kg					11733					
+48	Texas	EPTC	2009	kg					529					
+48	Texas	EPTC	2010	kg					12855.4					
+48	Texas	EPTC	2011	kg					4998.2					
+48	Texas	EPTC	2012	kg					15192.7					
+48	Texas	EPTC	2013	kg					14675.5					
+48	Texas	EPTC	2014	kg					12209					
+48	Texas	EPTC	2015	kg					5217.2					
+48	Texas	EPTC	2016	kg					7571.3					
+49	Utah	EPTC	1992	kg	11138.3		56.8		8502.8			32794.7		371.2
+49	Utah	EPTC	1993	kg	9644.9		325.8		9586.2			7540.6		154
+49	Utah	EPTC	1994	kg	10415.3		568.2		11883.1			5807.5		418.1
+49	Utah	EPTC	1995	kg	987		2969.9		7781.5			11272.3		827
+49	Utah	EPTC	1996	kg	7137.9				10468.4			13557.4		
+49	Utah	EPTC	1997	kg	7583.2				7131.9			3855.9		
+49	Utah	EPTC	1998	kg	8243.1				6258.8			8475.6		
+49	Utah	EPTC	1999	kg	10662.8				7346.7			30009.1		
+49	Utah	EPTC	2000	kg					6137.3					
+49	Utah	EPTC	2001	kg	4926				5811.7			148492.6		
+49	Utah	EPTC	2002	kg					2302.9			68545.5		
+49	Utah	EPTC	2003	kg					2757.7			7604.7		
+49	Utah	EPTC	2004	kg					1989			3318.3		
+49	Utah	EPTC	2005	kg					1983.1					
+49	Utah	EPTC	2006	kg					1780.2					
+49	Utah	EPTC	2007	kg					1614					
+49	Utah	EPTC	2008	kg					426					
+49	Utah	EPTC	2009	kg					1123.1					
+49	Utah	EPTC	2010	kg					620.2					
+49	Utah	EPTC	2011	kg					473.3					
+49	Utah	EPTC	2012	kg					540.6					
+49	Utah	EPTC	2013	kg					446.6			24403.8		
+49	Utah	EPTC	2014	kg					571.7			17190		
+49	Utah	EPTC	2015	kg					318					
+49	Utah	EPTC	2016	kg					223.3					
+49	Utah	EPTC	2017	kg					269.6					
+50	Vermont	EPTC	1992	kg	6269.4				76.4			6496.6		
+50	Vermont	EPTC	1993	kg	6611.6				432.6					
+50	Vermont	EPTC	1994	kg	923.6				50.7			1654.7		
+50	Vermont	EPTC	1995	kg					56.2			1836.7		
+50	Vermont	EPTC	1996	kg					194.7			1781.9		
+50	Vermont	EPTC	1997	kg	2567.8				82.4			1488.1		
+50	Vermont	EPTC	1998	kg					87.7			439		
+50	Vermont	EPTC	1999	kg					92.5					
+50	Vermont	EPTC	2000	kg					125.3					
+50	Vermont	EPTC	2001	kg					79.4			1520.9		
+50	Vermont	EPTC	2002	kg					74.4					
+50	Vermont	EPTC	2003	kg					79.8			537.4		
+50	Vermont	EPTC	2004	kg					72.4					
+50	Vermont	EPTC	2005	kg					65.7					
+50	Vermont	EPTC	2006	kg					85					
+50	Vermont	EPTC	2007	kg					110.2					
+50	Vermont	EPTC	2008	kg					4.7					
+51	Virginia	EPTC	1992	kg	10565.7				1920.2			16473.8		
+51	Virginia	EPTC	1993	kg	28348.1				2864.5			778.4		
+51	Virginia	EPTC	1994	kg	47121.5				336.5			4553.7		
+51	Virginia	EPTC	1995	kg					5422.5					
+51	Virginia	EPTC	1996	kg	12311.4									
+51	Virginia	EPTC	1997	kg					1085.4					
+51	Virginia	EPTC	1998	kg	7326.2				1044.7			14933.3		
+51	Virginia	EPTC	1999	kg					2148.7					
+51	Virginia	EPTC	2000	kg	771.9				4240.6				5173	
+51	Virginia	EPTC	2001	kg	1978.7				25.4					
+51	Virginia	EPTC	2002	kg					1624.6					
+51	Virginia	EPTC	2003	kg					16.8					
+51	Virginia	EPTC	2004	kg					471.6			20786.8		
+53	Washington	EPTC	1992	kg	42053.4		2825		152803.1		12924	16872.4		1616.4
+53	Washington	EPTC	1993	kg	55584.7				221072.6		22584.7	2983.4	901.7	2619.5
+53	Washington	EPTC	1994	kg	62054.1				197875.9			4044.4		1355.4
+53	Washington	EPTC	1995	kg	59206.3		118.5		202244.9		0.4	49602.2		1200
+53	Washington	EPTC	1996	kg	75877.8		1159.9		402697			549.5	120.8	1098
+53	Washington	EPTC	1997	kg	17838.2				212312.5					2085.1
+53	Washington	EPTC	1998	kg	31829.4				329588.5			12363.9		15533.8
+53	Washington	EPTC	1999	kg	22047.4				163325.5			555900.4		34851.6
+53	Washington	EPTC	2000	kg					227883					8327.9
+53	Washington	EPTC	2001	kg	18650.6				338326.6					3957.6
+53	Washington	EPTC	2002	kg	25352				258596.2			1546.4		
+53	Washington	EPTC	2003	kg					322717.9					9682.6
+53	Washington	EPTC	2004	kg	16171.9				300573.7			13612.7		7985.9
+53	Washington	EPTC	2005	kg					212986			1237.7		
+53	Washington	EPTC	2006	kg					155607.7			967.1		
+53	Washington	EPTC	2007	kg					242545.5					
+53	Washington	EPTC	2008	kg					211684.5					
+53	Washington	EPTC	2009	kg					193121					
+53	Washington	EPTC	2010	kg					213866.4					
+53	Washington	EPTC	2011	kg					119736.8					
+53	Washington	EPTC	2012	kg					223410.7					
+53	Washington	EPTC	2013	kg					143649.7			7788.5		
+53	Washington	EPTC	2014	kg					251036.2			17767.2		
+53	Washington	EPTC	2015	kg					285038.4					
+53	Washington	EPTC	2016	kg					133800.5					
+53	Washington	EPTC	2017	kg					338817.3					
+54	West Virginia	EPTC	1992	kg	2145.3				15.9		108.4	3328.7		
+54	West Virginia	EPTC	1993	kg								356.4		
+54	West Virginia	EPTC	1994	kg					468			122.7		
+54	West Virginia	EPTC	1995	kg					17.9					
+54	West Virginia	EPTC	1996	kg	2641.1									
+54	West Virginia	EPTC	1997	kg					42.2					
+54	West Virginia	EPTC	1998	kg	3522.3							8682.8		
+54	West Virginia	EPTC	1999	kg	368.8				146.2					
+54	West Virginia	EPTC	2000	kg	690.2				65.8					
+54	West Virginia	EPTC	2001	kg	1617.3				13.6					
+54	West Virginia	EPTC	2002	kg	632.4				29.1					
+54	West Virginia	EPTC	2003	kg	317.6				8.1					
+54	West Virginia	EPTC	2004	kg					69.6			8708.6		
+54	West Virginia	EPTC	2005	kg								406		
+54	West Virginia	EPTC	2006	kg								446.1		
+54	West Virginia	EPTC	2007	kg								405		
+54	West Virginia	EPTC	2008	kg					163.4					
+54	West Virginia	EPTC	2010	kg								811.1		
+55	Wisconsin	EPTC	1992	kg	402213.4		16.1		133932.6			37758.1	24279.1	
+55	Wisconsin	EPTC	1993	kg	368418.4				156323.1			37250.1		8255
+55	Wisconsin	EPTC	1994	kg	373355.5				136809.8			37390.9		7524.4
+55	Wisconsin	EPTC	1995	kg	220906.9				114399.5			25543.4	1796.3	3884.9
+55	Wisconsin	EPTC	1996	kg	119083.6	10982			158101.2			31986		
+55	Wisconsin	EPTC	1997	kg	43828.7				107816.5			14222.1		
+55	Wisconsin	EPTC	1998	kg	101627.8				67151.1			178820.8		
+55	Wisconsin	EPTC	1999	kg	85166.2				45816.4			123892.2		
+55	Wisconsin	EPTC	2000	kg	171346.2				46605.4			44808.7		
+55	Wisconsin	EPTC	2001	kg	52755.4				31636.2			38004.8		
+55	Wisconsin	EPTC	2002	kg					44284.9			23551.5		
+55	Wisconsin	EPTC	2003	kg	50892				151174.3			10731.1		
+55	Wisconsin	EPTC	2004	kg					28279			25441.8		
+55	Wisconsin	EPTC	2005	kg					16123.6			90189.4		
+55	Wisconsin	EPTC	2006	kg					20264.5			83926.9		
+55	Wisconsin	EPTC	2007	kg					28224.9					
+55	Wisconsin	EPTC	2008	kg					44802.9					
+55	Wisconsin	EPTC	2009	kg					20021.5			174107.7		
+55	Wisconsin	EPTC	2010	kg					11705.4			44749.9		
+55	Wisconsin	EPTC	2011	kg					24869.8					
+55	Wisconsin	EPTC	2012	kg					33422.4			25444.1		
+55	Wisconsin	EPTC	2013	kg					30979.8					
+55	Wisconsin	EPTC	2014	kg					20318.8					
+55	Wisconsin	EPTC	2015	kg					35162.1					
+55	Wisconsin	EPTC	2016	kg					24385.6			603.5		
+55	Wisconsin	EPTC	2017	kg					36433.8					
+56	Wyoming	EPTC	1992	kg	22043.1		0.7		19822.2			40218.3		16931.8
+56	Wyoming	EPTC	1993	kg	19008.2				8452.5			849.5	2034.1	2986.1
+56	Wyoming	EPTC	1994	kg	10057.3		4.1		21881.5			2588.2		1946.1
+56	Wyoming	EPTC	1995	kg	12723.1		3.6		16007.3			7556.3		3219.5
+56	Wyoming	EPTC	1996	kg	6757.5				27284.4			2853.8		5780.2
+56	Wyoming	EPTC	1997	kg	25466.1				22988.7			6502		4007.3
+56	Wyoming	EPTC	1998	kg	15444				13856.7			3998.9		3488.2
+56	Wyoming	EPTC	1999	kg	6462.1				16060.5			21532.3		4266.5
+56	Wyoming	EPTC	2000	kg	215.3				27709.8			1207.2		13041.5
+56	Wyoming	EPTC	2001	kg	5142				6318.4			71796.8		4214
+56	Wyoming	EPTC	2002	kg	2278.1				16080			15790.7		1014.9
+56	Wyoming	EPTC	2003	kg	6332.5				10423.2			1107.9		
+56	Wyoming	EPTC	2004	kg	463.9				14440			12417.9		5356
+56	Wyoming	EPTC	2005	kg					10412.3					9602
+56	Wyoming	EPTC	2006	kg					10752.2					2358.7
+56	Wyoming	EPTC	2007	kg					8992.6					
+56	Wyoming	EPTC	2008	kg					4521.3					941.8
+56	Wyoming	EPTC	2009	kg					11401.8					25.8
+56	Wyoming	EPTC	2010	kg					9938.3					
+56	Wyoming	EPTC	2011	kg					9051					120.5
+56	Wyoming	EPTC	2012	kg					6593.1					
+56	Wyoming	EPTC	2013	kg					9798.8			28753.1		
+56	Wyoming	EPTC	2014	kg					4779.4			9281.9		
+56	Wyoming	EPTC	2015	kg					16900.5					
+56	Wyoming	EPTC	2016	kg					8874.3					
+56	Wyoming	EPTC	2017	kg					15704					
