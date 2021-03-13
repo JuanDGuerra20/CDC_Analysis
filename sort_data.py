@@ -33,7 +33,7 @@ class DiseaseTypeArea:
         """
 
         # creating the attributes that are simple
-        self.area = area_name
+        self.area = area_name.upper()
         self.disease = {}
 
         # creating the dictionaries that will hold the incidence and mortality data
@@ -259,7 +259,7 @@ class DiseaseTypeArea:
 
         return count
 
-    def get_data_between_years_by_disease_type(self, disease, data_type, count_type, lower_end, upper_end):
+    def get_data_between_years_by_disease_type(self, disease, count_type, lower_end, upper_end, data_type):
         """
         This function will get the total count numbers between the lower_end and upper_end years
         :param disease: This is the disease type that the user will be searching for
@@ -360,14 +360,16 @@ class PesticideData:
     This class is going to organize all the pesticide data for any pesticide that we want to analyze
     """
     stateMapping = ('', "ALABAMA", "ALASKA", '', "ARIZONA", "ARKANSAS", "CALIFORNIA", '', '', "COLORADO", "CONNECTICUT", \
-                    "DELAWARE", '', "FLORIDA", "GEORGIA", '', "HAWAII", 'IDAHO', 'ILLINOIS', 'INDIANA', 'IOWA', 'KANSAS',\
+                    "DELAWARE", '', "FLORIDA", "GEORGIA", '', "HAWAII", 'IDAHO', 'ILLINOIS', 'INDIANA', 'IOWA',
+                    'KANSAS', \
                     'KENTUCKY', 'LOUISIANA', 'MAINE', 'MARYLAND', 'MASSACHUSETTS', 'MICHIGAN', 'MINNESOTA', \
                     'MISSISSIPPI', 'MISSOURI', 'MONTANA', 'NEBRASKA', 'NEVADA', 'NEW HAMPSHIRE', 'NEW JERSEY', \
                     'NEW MEXICO', 'NEW YORK', 'NORTH CAROLINA', 'NORTH DAKOTA', 'OHIO', 'OKLAHOMA', 'OREGON', \
-                    'PENNSYLVANIA', '', 'RHODE ISLAND', 'SOUTH CAROLINA', 'SOUTH DAKOTA', 'TENNESSEE', 'TEXAS', 'UTAH',\
-                    'VERMONT', 'VIRGINIA', '', 'WASHINGTON', 'WEST VIRGINIA', 'WISCONSIN', 'WYOMING', '','','',\
-                    'AMERICAN SAMOA', '','','','','','GUAM','','','NORTHERN  MARIANA ISLANDS','','',' PUERTO RICO','',\
-                    '','','','VIRGIN ISLANDS')
+                    'PENNSYLVANIA', '', 'RHODE ISLAND', 'SOUTH CAROLINA', 'SOUTH DAKOTA', 'TENNESSEE', 'TEXAS', 'UTAH', \
+                    'VERMONT', 'VIRGINIA', '', 'WASHINGTON', 'WEST VIRGINIA', 'WISCONSIN', 'WYOMING', '', '', '', \
+                    'AMERICAN SAMOA', '', '', '', '', '', 'GUAM', '', '', 'NORTHERN  MARIANA ISLANDS', '', '',
+                    ' PUERTO RICO', '', \
+                    '', '', '', 'VIRGIN ISLANDS')
     highest_pesticide_year = 0
     lowest_pesticide_year = 999999
 
@@ -454,7 +456,7 @@ class PesticideData:
             raise TypeError("All 'other' data must be a float")
 
         totalData = corn + soybeans + wheat + cotton + vegetablesandfruit + rice + orchardsandgrapes + alfalfa + pastureandhay + other
-        year_data = {'Corn': corn, "Soybeans": soybeans, "Wheat": wheat, "Cotton": cotton,
+        year_data = {'Units': units, 'Corn': corn, "Soybeans": soybeans, "Wheat": wheat, "Cotton": cotton,
                      "Vegetables and Fruit": vegetablesandfruit, "Rice": rice, "Orchards and Grapes": orchardsandgrapes,
                      "Alfalfa": alfalfa, "Pasture and Hay": pastureandhay, "Other": other, "Total": totalData}
 
@@ -484,7 +486,7 @@ class PesticideData:
         except:
             raise TypeError("FIPS must be an int")
 
-        state = data[1]
+        state = data[1].upper()
 
         year = data[3]
         try:
@@ -576,9 +578,10 @@ class PesticideData:
         """
 
         if state.isdigit():
-            if state in self.compound:
-                if year in self.compound[state]:
-                    return self.compound[state][year][type]
+            fips = int(state)
+            if fips in self.compound:
+                if year in self.compound[fips]:
+                    return self.compound[fips][year][type]
                 else:
                     raise ValueError("Given year ", year, " has not yet been recorded")
             else:
@@ -605,12 +608,11 @@ class PesticideData:
         """
 
         total = 0
-        while(lower_year <= upper_year):
+        while (lower_year <= upper_year):
             total += self.getDataforStateYear(state, lower_year, type)
             lower_year += 1
 
         return total
-
 
     @classmethod
     def getPesticideDataFromFile(cls, data):
@@ -633,7 +635,7 @@ class PesticideData:
         except:
             raise TypeError("FIPS must be an int")
 
-        state = raw[1]
+        state = raw[1].upper()
 
         year = raw[3]
         try:
@@ -725,7 +727,7 @@ def get_CDC_areas_from_file(filename):
         new_line = line.split('|')
 
         # these variables will be used to identify key things that must be fixed before adding the data
-        area_name = new_line[0]
+        area_name = new_line[0].upper()
         disease_name = new_line[9]
 
         # This chain of if statements is to facilitate the reading of the disease name. We replace the complicated name
@@ -776,6 +778,7 @@ def getUSGSDataFromFile(fileUSGS):
         # and wil create errors since it will not be in the proper formats
         if compound == "Compound":
             continue
+        # must create a new compound value if there is none or else will get errors when trying to analyze data
         elif compound in pesticide_dict:
 
             pesticide_dict[compound].add_yearly_data(line)
@@ -787,7 +790,9 @@ def getUSGSDataFromFile(fileUSGS):
 
     return pesticide_dict
 
-
-cdc = get_CDC_areas_from_file("BYAREA.TXT")
+"""
+#cdc = get_CDC_areas_from_file("BYAREA.TXT")
 usgs = getUSGSDataFromFile("HighEstimate_AgPestUsebyCropGroup92to17_v2.txt")
-print(usgs["2,4-D"].getDataBetweenYear("Alabama", 1992, 1993, "Corn"))
+print(usgs["2,4-D"].getDataforStateYear("01", 1993, "Corn"))
+#print(cdc["ALABAMA"].get_data_by_disease_year("All Cancer Sites Combined", "Incidence", 1999, "count"))
+"""
