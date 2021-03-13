@@ -1,7 +1,9 @@
 """
-Author: Juan David Guerra. First year Computer Science student at McGill University B.Sc.
+Author: Juan David Guerra. First year Computer Science and Neuroscience student at McGill University B.Sc.
 Start Date: December 28, 2020
 Outline: This module will hold the classes and methods needed to organize the data so we can easily access it
+
+UPDATES: Have added a class to manage data from the USGS in the states. This handles the pesticide data they give
 """
 
 
@@ -277,7 +279,6 @@ class DiseaseTypeArea:
         for year in self.disease[disease][count_type]:
 
             if lower_end <= year <= upper_end:
-
                 # adding the count for the year iteration that meets the requirements to the sum of counts
                 data_sum += self.disease[disease][count_type][year][data_type]
 
@@ -358,13 +359,22 @@ class PesticideData:
     """
     This class is going to organize all the pesticide data for any pesticide that we want to analyze
     """
-
+    stateMapping = ('', "ALABAMA", "ALASKA", '', "ARIZONA", "ARKANSAS", "CALIFORNIA", '', '', "COLORADO", "CONNECTICUT", \
+                    "DELAWARE", '', "FLORIDA", "GEORGIA", '', "HAWAII", 'IDAHO', 'ILLINOIS', 'INDIANA', 'IOWA', 'KANSAS',\
+                    'KENTUCKY', 'LOUISIANA', 'MAINE', 'MARYLAND', 'MASSACHUSETTS', 'MICHIGAN', 'MINNESOTA', \
+                    'MISSISSIPPI', 'MISSOURI', 'MONTANA', 'NEBRASKA', 'NEVADA', 'NEW HAMPSHIRE', 'NEW JERSEY', \
+                    'NEW MEXICO', 'NEW YORK', 'NORTH CAROLINA', 'NORTH DAKOTA', 'OHIO', 'OKLAHOMA', 'OREGON', \
+                    'PENNSYLVANIA', '', 'RHODE ISLAND', 'SOUTH CAROLINA', 'SOUTH DAKOTA', 'TENNESSEE', 'TEXAS', 'UTAH',\
+                    'VERMONT', 'VIRGINIA', '', 'WASHINGTON', 'WEST VIRGINIA', 'WISCONSIN', 'WYOMING', '','','',\
+                    'AMERICAN SAMOA', '','','','','','GUAM','','','NORTHERN  MARIANA ISLANDS','','',' PUERTO RICO','',\
+                    '','','','VIRGIN ISLANDS')
     highest_pesticide_year = 0
     lowest_pesticide_year = 999999
 
-    def __init__(self, statefipscode, stateName, year, units, corn, soybeans, wheat, cotton, vegetablesandfruit, rice, orchardsandgrapes, alfalfa, pastureandhay, other):
+    def __init__(self, statefipscode, stateName, year, units, corn, soybeans, wheat, cotton, vegetablesandfruit, rice,
+                 orchardsandgrapes, alfalfa, pastureandhay, other):
         """
-        constructing the class with all the required info
+        constructing the class with all the required info. input  a -1 if there was no data for that crop type that year
         :param statefipscode: the state fips code that identifies each state int
         :param stateName: the name of the state, pretty simple String
         :param year: the year that the data was taken int
@@ -443,8 +453,10 @@ class PesticideData:
         except:
             raise TypeError("All 'other' data must be a float")
 
-        totalData = corn + soybeans + wheat+ cotton + vegetablesandfruit + rice + orchardsandgrapes+ alfalfa + pastureandhay + other
-        year_data = {'Corn': corn, "Soybeans": soybeans, "Wheat": wheat, "Cotton": cotton, "Vegetables and Fruit": vegetablesandfruit, "Rice": rice, "Orchards and Grapes": orchardsandgrapes, "Alfalfa": alfalfa, "Pasture and Hay": pastureandhay, "Other": other, "Total": totalData}
+        totalData = corn + soybeans + wheat + cotton + vegetablesandfruit + rice + orchardsandgrapes + alfalfa + pastureandhay + other
+        year_data = {'Corn': corn, "Soybeans": soybeans, "Wheat": wheat, "Cotton": cotton,
+                     "Vegetables and Fruit": vegetablesandfruit, "Rice": rice, "Orchards and Grapes": orchardsandgrapes,
+                     "Alfalfa": alfalfa, "Pasture and Hay": pastureandhay, "Other": other, "Total": totalData}
 
         self.compound[fips] = {year: year_data}
 
@@ -453,21 +465,18 @@ class PesticideData:
         elif totalData < self.lowest_pesticide_year:
             self.lowest_pesticide_year = year
 
-        # gotta check if the
-
     def add_yearly_data(self, data):
         """
-        adding yearly data by an input year string
+        adding yearly data by an input year string. A -1 value for any pesticide means that there was no reported data
         :param data: the string that holds all the data for that year
         :return: None
         """
-
         data = data.split("\t")
 
         # Making sure that we don't get errors by changing all empty pesticide values into 0
         for i in range(len(data)):
             if data[i] == '':
-                data[i] = 0
+                data[i] = -1
 
         fips = data[0]
         try:
@@ -550,16 +559,155 @@ class PesticideData:
                      "Vegetables and Fruit": vegetablesandfruit, "Rice": rice, "Orchards and Grapes": orchardsandgrapes,
                      "Alfalfa": alfalfa, "Pasture and Hay": pastureandhay, "Other": other, "Total": totalData}
 
+        # gotta check if the state already has a key in the dictionary, if not we get an error without fix
         if fips in self.compound:
             self.compound[fips][year] = year_data
 
         else:
             self.compound[fips] = {year: year_data}
 
+    def getDataforStateYear(self, state, year, type):
+        """
+        This method will let the user get the data for the a specific year for a given state
+        :param state: can be either a state name or it's fips
+        :param year: the year of the desired data
+        :param type: what kind of data type the user wants
+        :return: float value for the amount of pesticide used that year
+        """
+
+        if state.isdigit():
+            if state in self.compound:
+                if year in self.compound[state]:
+                    return self.compound[state][year][type]
+                else:
+                    raise ValueError("Given year ", year, " has not yet been recorded")
+            else:
+                raise ValueError("State not found")
+        else:
+            if state.upper() in self.stateMapping:
+                state = self.stateMapping.index(state.upper())
+                if state in self.compound:
+                    if year in self.compound[state]:
+                        return self.compound[state][year][type]
+                    else:
+                        raise ValueError("Given year ", year, " has not yet been recorded")
+            else:
+                raise ValueError("State not found")
+
+    def getDataBetweenYear(self, state, lower_year, upper_year, type):
+        """
+        This will get the sum of the data for a state and data type between two given years
+        :param state: can be the state fips or the state name
+        :param lower_year: the lower year
+        :param upper_year: the upper year bound (inclusive)
+        :param type: data type that the user wants
+        :return: int value for the amount of pesticides used between the given years
+        """
+
+        total = 0
+        while(lower_year <= upper_year):
+            total += self.getDataforStateYear(state, lower_year, type)
+            lower_year += 1
+
+        return total
 
 
+    @classmethod
+    def getPesticideDataFromFile(cls, data):
+        """
+        This file will create a new PesticideData object from the input data
+        :param data: this is the raw data from the file
+        :return: returns a class method
+        """
 
-def get_areas_from_file(filename):
+        raw = data.split("\t")
+        # Making sure that we don't get errors by changing all empty pesticide values into 0
+        for i in range(len(raw)):
+            if raw[i] == '':
+                raw[i] = -1
+
+        # catching all the errors that could occur
+        fips = raw[0]
+        try:
+            fips = int(fips)
+        except:
+            raise TypeError("FIPS must be an int")
+
+        state = raw[1]
+
+        year = raw[3]
+        try:
+            year = int(year)
+        except:
+            raise TypeError("Year must be an int")
+
+        units = raw[4]
+
+        corn = raw[5]
+        try:
+            corn = float(corn)
+        except:
+            raise TypeError("Corn data must be a float")
+
+        soybeans = raw[6]
+        try:
+            soybeans = float(soybeans)
+        except:
+            raise TypeError("Soybean data must be a float")
+
+        wheat = raw[7]
+        try:
+            wheat = float(wheat)
+        except:
+            raise TypeError("Wheat data must be a float")
+
+        cotton = raw[8]
+        try:
+            cotton = float(cotton)
+        except:
+            raise TypeError("Cotton data must be a float")
+
+        vegetablesandfruit = raw[9]
+        try:
+            vegetablesandfruit = float(vegetablesandfruit)
+        except:
+            raise TypeError("Vegetable and Fruit must be a float")
+
+        rice = raw[10]
+        try:
+            rice = float(rice)
+        except:
+            raise TypeError("Rice data must be a float")
+
+        orchardsandgrapes = raw[11]
+        try:
+            orchardsandgrapes = float(orchardsandgrapes)
+        except:
+            raise TypeError("Orchard and Grape data must be a float")
+
+        alfalfa = raw[12]
+        try:
+            alfalfa = float(alfalfa)
+        except:
+            raise TypeError("Alfalfa data must be a float")
+
+        pastureandhay = raw[13]
+        try:
+            pastureandhay = float(pastureandhay)
+        except:
+            raise TypeError("Pasture and Hay data must be a float")
+
+        other = raw[14]
+        try:
+            other = float(other)
+        except:
+            raise TypeError("All 'other' data must be a float")
+
+        return cls(fips, state, year, units, corn, soybeans, wheat, cotton, vegetablesandfruit, rice, orchardsandgrapes,
+                   alfalfa, pastureandhay, other)
+
+
+def get_CDC_areas_from_file(filename):
     """
     This function will create a dictionary that has state names as the key values and will have the appropriate
     DiseaseTypeArea class as the value pair for that state key
@@ -605,9 +753,41 @@ def get_areas_from_file(filename):
             area_dict[area_name] = DiseaseTypeArea.get_disease_from_data(line)
 
     fobj.close()
-
     return area_dict
 
-glyphosate = PesticideData(1, "Alabama", 1992, 'kg', 3171, 2485.7, 1677.9, 14089.4, 489.8, 0, 2413.8, 2696.7, 19767.3, 148805.9)
 
-glyphosate.add_yearly_data("01	Alabama	GLYPHOSATE	1993	kg	7509.8	5304.5	154.9	14438.9	463.5		11946.2	35.5	14608.4	19298.3")
+def getUSGSDataFromFile(fileUSGS):
+    """
+    This function gets all the data from the USGS data
+    :param fileUSGS: this is the filename
+    :return: returns a dictionary mapping different compounds to their PesticideData class
+    """
+    fobj = open(fileUSGS, 'r', encoding='utf-8')
+    pesticide_dict = {}
+    for line in fobj:
+
+        line = line.strip("\n")
+        # each set of info is separated by a tab delimiter
+        new_line = line.split('\t')
+        # this dictionary is going to be sorted by compound type
+        compound = new_line[2]
+
+        # Want to skip if the first index of the new line  statefipscode because it means that it is the first line
+        # and wil create errors since it will not be in the proper formats
+        if compound == "Compound":
+            continue
+        elif compound in pesticide_dict:
+
+            pesticide_dict[compound].add_yearly_data(line)
+        else:
+
+            pesticide_dict[compound] = PesticideData.getPesticideDataFromFile(line)
+
+    fobj.close()
+
+    return pesticide_dict
+
+
+cdc = get_CDC_areas_from_file("BYAREA.TXT")
+usgs = getUSGSDataFromFile("HighEstimate_AgPestUsebyCropGroup92to17_v2.txt")
+print(usgs["2,4-D"].getDataBetweenYear("Alabama", 1992, 1993, "Corn"))
